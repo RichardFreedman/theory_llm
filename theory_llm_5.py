@@ -240,7 +240,7 @@ if not openai_api_key.startswith("sk-"):
     st.warning("Please enter your OpenAI API key **in the sidebar**.", icon="👈")
 else:
     os.environ["OPENAI_API_KEY"] = openai_api_key
-    llm = init_chat_model('gpt-5-mini', model_provider='openai')
+    llm = init_chat_model('gpt-4o-mini', model_provider='openai')
 
     embeddings = OpenAIEmbeddings(model='text-embedding-3-small')
 

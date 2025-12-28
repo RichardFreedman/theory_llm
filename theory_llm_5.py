@@ -22,6 +22,9 @@ st.set_page_config(page_title='Ask the Music Theorist', page_icon='🔎')
 
 st.sidebar.header('LLM RAG 🔎')
 st.title('🔎 Ask the Music Theorist')
+st.write("This app allows you to query a database of music theory texts using a large language model (LLM) with retrieval-augmented generation (RAG). " 
+         "Note that as with all RAG systems, the quality of the answers depends on the quality and relevance of the underlying texts. The results you see are deemed to be *relevant* to the query, but they are not the *only* possible relevant texts.  "
+"Enter your question, select the number of text chunks to retrieve, and get an answer based on the content of the texts. You can also filter results by author and download the results as a formatted PDF.")
 
 language = st.sidebar.selectbox("Select Language", options=["Modern English", "Period English"], index=0, disabled=False)
 
@@ -223,6 +226,7 @@ def create_pdf(question, answer, context_docs, language):
         elements.append(Paragraph(f"Source {idx}", subheading_style))
         elements.append(Paragraph(f"<b>Author:</b> {metadata.get('author', 'Unknown')}", body_style))
         elements.append(Paragraph(f"<b>File Name:</b> {metadata.get('source_file', 'Unknown')}", body_style))
+        elements.append(Paragraph(f"<b>Title:</b> {metadata.get('title', 'Unknown')}", body_style))
         elements.append(Paragraph(f"<b>Source:</b> {metadata.get('citation', 'Unknown')}", body_style))
         elements.append(Paragraph(f"<b>Page Number:</b> {metadata.get('page_number', 1)}", body_style))
         elements.append(Paragraph(f"<b>Original Source Passage:</b>", body_style))
@@ -338,6 +342,7 @@ else:
             metadata = doc.metadata
             st.info(f"Author: {metadata.get('author', 'Unknown')}")
             st.info(f"File Name: {metadata.get('source_file', 'Unknown')}")
+            st.info(f"Title: {metadata.get('title', 'Unknown')}")
             st.info(f"Source: {metadata.get('citation', 'Unknown')}")
             st.info(f"Page Number: {metadata.get('page_number', 1)}")
             st.info(f"Original Source Passage: {doc.page_content}")

@@ -223,7 +223,7 @@ def create_pdf(question, answer, context_docs, language):
         elements.append(Paragraph(f"Source {idx}", subheading_style))
         elements.append(Paragraph(f"<b>Author:</b> {metadata.get('author', 'Unknown')}", body_style))
         elements.append(Paragraph(f"<b>File Name:</b> {metadata.get('source_file', 'Unknown')}", body_style))
-        elements.append(Paragraph(f"<b>Document Title:</b> {metadata.get('document_title', 'Unknown')}", body_style))
+        elements.append(Paragraph(f"<b>citation:</b> {metadata.get('citation', 'Unknown')}", body_style))
         elements.append(Paragraph(f"<b>Page Number:</b> {metadata.get('page_number', 1)}", body_style))
         elements.append(Paragraph(f"<b>Original Source Passage:</b>", body_style))
         passage_flowables = parse_text_to_flowables(doc.page_content, body_style)
@@ -338,7 +338,7 @@ else:
             metadata = doc.metadata
             st.info(f"Author: {metadata.get('author', 'Unknown')}")
             st.info(f"File Name: {metadata.get('source_file', 'Unknown')}")
-            st.info(f"Document Title: {metadata.get('document_title', 'Unknown')}")
+            st.info(f"Source: {metadata.get('citation', 'Unknown')}")
             st.info(f"Page Number: {metadata.get('page_number', 1)}")
             st.info(f"Original Source Passage: {doc.page_content}")
             st.info("---")

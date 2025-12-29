@@ -104,6 +104,9 @@ if credits:
     
                         
     [GitHub Repository](https://github.com/RichardFreedman/theory_llm)""") 
+
+st.sidebar.header('Select Language and Filter Authors ⚙️')
+st.sidebar.write("Choose the language style for the LLM's responses and filter results by author.  The system can respond to you in modern English or in a style approximating Elizabethan English.  By default, all authors are included in the search; you can select specific authors to narrow the results.")
 language = st.sidebar.selectbox("Select Language", options=["Modern English", "Period English"], index=0, disabled=False)
 
 # Function to get unique authors
@@ -118,7 +121,7 @@ def get_unique_authors(vector_store):
     return sorted(list(authors))
 
 # Get API key from Streamlit secrets
-# Get API key and password from Streamlit secrets
+
 try:
     openai_api_key = st.secrets["OPENAI_API_KEY"]
     app_password = st.secrets["APP_PASSWORD"]

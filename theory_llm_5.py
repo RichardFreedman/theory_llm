@@ -23,9 +23,19 @@ st.set_page_config(page_title='Ask the Music Theorists', page_icon='🔎')
 
 st.sidebar.header('About this App 🔎')
 st.title('🔎 Ask the Music Theorists')
-st.write("This app allows you to query a database of music theory texts using a large language model (LLM) with retrieval-augmented generation (RAG). Learn more about the system and how to write effective prompts with the tools at the left.") 
+st.write("This Streamlit application allows you to query a database of music theory texts using a large language model (LLM) with retrieval-augmented generation (RAG). Learn more about the system and how to write effective prompts with the tools at the left.") 
          
-st.write("Enter your question, select the number of text segments to retrieve, and get an answer based on the content of the texts. You can also filter results by author and download the results as a formatted PDF.")
+intro  = st.sidebar.checkbox("How to Use this Application", value=False, key="intro")
+
+if intro:
+    st.markdown("""
+            * Enter the site password
+            * Enter your question
+            * select the number of text segments to retrieve
+            * filter results by author
+            * after a few minutes (depending on the number of segments and complexity of your question) you will see a response, followed by a list of the original source segments ('chunks'), and their authors and page references
+            * use the button in the sidebar to download the results as a formatted PDF.
+            """)
 
 sources  = st.sidebar.checkbox("Our Music Theory Treatises", value=False, key="sources")
 if sources:
@@ -105,20 +115,39 @@ if prompts:
     - **Use Examples**: If applicable, provide examples of the type of response you're looking for.
     - **Specify Format of Output**: Perhaps you are asking for a list, some paragraphs, bullet points, etc.
     """)
+    st.subheader("Some Prompt Examples")
+
+    st.markdown("""
+    * **Basic Question**: "What are the key elements of good music according to all the theorists in the database? Organize the results by author."
+    * **Comparative Question**: "How do Thomas Morley and Elway Bevin differ in their views on counterpoint?" [Note for this you might want to filter results to just these two authors.  Use the dialogue in the sidebar at the left to do so.]
+    * **Contextual Question**: "What does Thomas Morley say about the relationship between music and emotion?" [Again you might want to filter results to just this author.]
+    * **Specific Format**: "Provide a bulleted list of the main points made by John Playford regarding dance music."
+    """)
+
+    st.subheader("How Many Text Segments ('Chunks') to Retrieve?")
+    st.markdown("""
+    The number of text segments (or 'chunks') you choose to retrieve can significantly impact the quality and relevance of the AI's response. Here are some guidelines:
+    - **Fewer Segments (1-10)**: This is useful for very specific questions where you expect a concise answer. The model will have less information to work with, which can lead to more focused responses but may miss broader context.
+    - **Moderate Number of Segments (10-50)**: This range is often a good balance for general questions. It provides the model with enough context to generate a well-rounded answer without overwhelming it with too much information.
+    - **Many Segments (50-100)**: This is suitable for complex questions that require comprehensive answers. However, be cautious as too much information can sometimes lead to confusion or less coherent responses.
+    - **Consider the Question Type**: Tailor the number of segments based on whether your question is specific or broad.
+    - **Experiment**: Don't hesitate to try different numbers of segments to see how it affects the quality of the responses.
+    """)
+
 
 rags  = st.sidebar.checkbox("More about RAG systems and LLMs", value=False, key="rags")
 if rags:
     st.subheader("More about Retrieval-Augmented Generation (RAG) Systems")
     st.markdown("""
     * **Retrieval-Augmented Generation (RAG)** is a technique that combines the strengths of large language models (LLMs) with information retrieval systems. Instead of relying solely on the knowledge encoded in the
-    parameters of the LLM, RAG systems first retrieve relevant documents from a database or corpus based on the user's query. The retrieved documents are then used as context to generate more accurate and informed responses. This approach helps mitigate issues like hallucination, where LLMs generate plausible-sounding but incorrect or nonsensical answers.
+    parameters of the LLM, RAG systems first retrieve relevant documents from a database or corpus based on the user query. The retrieved documents are then used as context to generate more accurate and informed responses. This approach helps mitigate issues like hallucination, where LLMs generate plausible-sounding but incorrect or nonsensical answers.
     * The source documents are first **divided into segments (called 'chunks') of about 2000 characters** (not words).  The segments overlap with each other by about 200 characters to ensure that important context is not lost between segments.
     * These **segments are in turn passed to a LLM "embedding" system** (we use 'text-embedding-3-large' from OpenAI), which creates numerical representations of every segment. These representations capture the semantic meaning of the text, allowing for efficient similarity searches.  But they are very large:  each embedding has 3072 dimensions, representing a vast amount of information about the meaning of the text.
     * These representations (along with the original text of the segment and additional metadata about author, title, and date) are  stored in **'vector database'** (in our case: Chroma).
     * When you ask a question, **the system "retrieves" the most relevant text segments from this database**.  It does this with something called 'cosine similarity', a mathematical measure of similarity between vectors. Depending on the number of matching source texts you have requested (in our system this is from 1 to 10), we now have a set of 'contexts' that align with the ideas mentioned in your original query.
     * Now prepared with the question and relevant segments, **the system now "generates" an answer** based on those segments alone.  The prompt we use instructs the LLM to use only the information in the segments to answer the question, and not to 'hallucinate' information that is not present in the source texts.  The answer is generated with OpenAI's 'gpt-5-mini' model.  We could use a larger model, but this one is faster and less expensive, and seems to do a good job when provided with relevant context.
     * By combining retrieval with generation, RAG systems can provide more accurate, contextually relevant, and trustworthy answers to user queries.          
-                """)
+""")
     
 
 credits = st.sidebar.checkbox("Credits", value=False, key="credits")
@@ -129,9 +158,7 @@ if credits:
     * Daniel Russo-Batterham (Melbourne University) 
     * Charlie Cross (Haverford College) 
     * Leo Ni (Haverford College))
-    
-                        
-    [GitHub Repository](https://github.com/RichardFreedman/theory_llm)""") 
+    * Code at [GitHub Repository](https://github.com/RichardFreedman/theory_llm)""") 
 
 # Get API key from Streamlit secrets
 
@@ -161,8 +188,8 @@ if not st.session_state.authenticated:
 
 
 
-st.sidebar.header('Select Language and Filter Authors ⚙️')
-st.sidebar.write("Choose the language style for the LLM's responses and filter results by author.  The system can respond to you in modern English or in a style approximating Elizabethan English.  ")
+st.sidebar.header('Select Language Idiom ⚙️')
+st.sidebar.write("Choose the language style for the LLM's responses. The system can respond to you in modern English or in a style approximating Elizabethan English.  ")
 language = st.sidebar.selectbox("Select Language", options=["Modern English", "Period English"], index=0, disabled=False)
 
 # Function to get unique authors
@@ -371,7 +398,8 @@ else:
     # Initialize session state if needed
     if 'selected_authors' not in st.session_state:
         st.session_state.selected_authors = available_authors.copy()
-
+        
+    st.sidebar.header('Filter Authors ✍️')
     st.sidebar.write("By default, all authors are included in the search; you can select specific authors to narrow the results.")
 
     # Add a simple "Select All" button
@@ -572,7 +600,7 @@ else:
         )
         
         # Create download button
-        st.download_button(
+        st.sidebar.download_button(
             label="📥 Download Results as PDF",
             data=pdf_buffer,
             file_name=f"music_theory_query_{datetime.now().strftime('%Y%m%d_%H%M%S')}.pdf",

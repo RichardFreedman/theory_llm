@@ -126,7 +126,7 @@ if prompts:
 
     st.subheader("How Many Text Segments ('Chunks') to Retrieve?")
     st.markdown("""
-    The number of text segments (or 'chunks') you choose to retrieve can significantly impact the quality and relevance of the AI's response. Here are some guidelines:
+    The number of text segments (or 'chunks') you choose to retrieve can significantly impact the quality and relevance of the AI's response. There are some 1300 'segments' in the databaseHere are some guidelines:
     - **Fewer Segments (1-10)**: This is useful for very specific questions where you expect a concise answer. The model will have less information to work with, which can lead to more focused responses but may miss broader context.
     - **Moderate Number of Segments (10-50)**: This range is often a good balance for general questions. It provides the model with enough context to generate a well-rounded answer without overwhelming it with too much information.
     - **Many Segments (50-100)**: This is suitable for complex questions that require comprehensive answers. However, be cautious as too much information can sometimes lead to confusion or less coherent responses.

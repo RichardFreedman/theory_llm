@@ -562,7 +562,7 @@ else:
         )
         k = st.text_area(
             "Enter number of text segments (1-100) to fetch from the database:",
-            "50",
+            "10",
         )
         submitted = st.form_submit_button("Submit Query")
 

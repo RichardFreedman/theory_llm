@@ -19,21 +19,23 @@ import re
 import pandas as pd
 
 
-st.set_page_config(page_title='Ask the Music Theorist', page_icon='🔎')
+st.set_page_config(page_title='Ask the Music Theorists', page_icon='🔎')
 
 st.sidebar.header('About this App 🔎')
-st.title('🔎 Ask the Music Theorist')
+st.title('🔎 Ask the Music Theorists')
 st.write("This app allows you to query a database of music theory texts using a large language model (LLM) with retrieval-augmented generation (RAG). Learn more about the system and how to write effective prompts with the tools at the left.") 
          
-st.write("Enter your question, select the number of text chunks to retrieve, and get an answer based on the content of the texts. You can also filter results by author and download the results as a formatted PDF.")
+st.write("Enter your question, select the number of text segments to retrieve, and get an answer based on the content of the texts. You can also filter results by author and download the results as a formatted PDF.")
 
 sources  = st.sidebar.checkbox("Our Music Theory Treatises", value=False, key="sources")
 if sources:
+    st.subheader("Our Music Theory Treatises")
     st.markdown("""
-    ## This project uses the following music theory treatises as its source material:""")
+    This project uses the following music theory treatises as its source material.  All of them are drawn from the [Early English Books Online Text Creation Partnership](https://textcreationpartnership.org/tcp-texts/eebo-tcp-early-english-books-online/), and used by permission.  The TCP editions are full-text html transcriptions of the original sources.  Our code extracts textual data (but not the musical examples) from these transcriptions for processing with LLM tools.""")
     # Create DataFrame from the provided data
     data = {
         'Author': [
+            'Morley, Thomas, 1557-1603?',
             'Robinson, Thomas, fl. 1589-1609',
             'Ravenscroft, Thomas, 1592?-1635?',
             'Bevin, Elway, ca. 1554-1638',
@@ -44,6 +46,7 @@ if sources:
             'Ornithoparchus, Andreas, 16th cent.'
         ],
         'Title': [
+            'A plaine and easie introduction to practicall musicke',
             'New citharen lessons with perfect tunings of the same',
             'A briefe discourse of the true (but neglected) vse of charact\'ring the degrees',
             'A briefe and short instruction of the art of musicke',
@@ -53,8 +56,9 @@ if sources:
             'A briefe introduction to the skill of song',
             'Andreas Ornithoparcus his Micrologus'
         ],
-        'Date': ['1609', '1614', '1623', '1653', '1654', '1574', '1596', '1609'],
+        'Date': ['1596','1609', '1614', '1623', '1653', '1654', '1574', '1596', '1609'],
         'URL': [
+            'https://quod.lib.umich.edu/e/eebo/A07753.0001.001?rgn=main;view=fulltext',
             'https://quod.lib.umich.edu/e/eebo/A10856.0001.001?rgn=main;view=fulltext',
             'https://quod.lib.umich.edu/e/eebo/A10477.0001.001?rgn=main;view=fulltext',
             'https://quod.lib.umich.edu/e/eebo/A09578.0001.001?rgn=main;view=fulltext',
@@ -69,12 +73,32 @@ if sources:
     df = pd.DataFrame(data)
 
     # Display the table with full width
-    st.dataframe(df, use_container_width=True)
+    # st.dataframe(df, use_container_width=True)
+    # Method 1: Create a modified DataFrame with clickable links using HTML
+    def create_clickable_dataframe(df):
+        """Convert URLs in DataFrame to clickable HTML links"""
+        df_display = df.copy()
+        
+        # Create clickable links for the URL column
+        df_display['URL'] = df_display['URL'].apply(
+            lambda x: f'<a href="{x}" target="_blank">View Source</a>'
+        )
+        
+        return df_display
+
+    # Display the table with clickable links using HTML
+    df_clickable = create_clickable_dataframe(df)
+
+    # Convert DataFrame to HTML and display with clickable links
+    html_table = df_clickable.to_html(escape=False, index=False)
+    st.markdown(html_table, unsafe_allow_html=True)
+
+    st.markdown("---")
 
 prompts = st.sidebar.checkbox("More about Writing AI Prompts", value=False, key="prompts")
 if prompts:
+    st.subheader("Tips for Writing Effective AI Prompts")   
     st.markdown("""
-    ## Writing Effective AI Prompts
     In order to get the best results from AI language models, it's important to craft clear and specific prompts. Here are some tips:
     - **Be Specific**: Clearly state what you want the model to do. Vague prompts can lead to unpredictable results.  If you want the system to compare what different authors have to say on a topic, say so.
     - **Provide Context**: If your question relies on specific information, include that context in your prompt.  For instance you might provide a quotation from some other source that merits comment.
@@ -83,20 +107,24 @@ if prompts:
     """)
 
 rags  = st.sidebar.checkbox("More about RAG systems and LLMs", value=False, key="rags")
-if prompts:
+if rags:
+    st.subheader("More about Retrieval-Augmented Generation (RAG) Systems")
     st.markdown("""
-    ## What is Retrieval-Augmented Generation (RAG)?
-    * Retrieval-Augmented Generation (RAG) is a technique that combines the strengths of large language models (LLMs) with information retrieval systems. Instead of relying solely on the knowledge encoded in the
+    * **Retrieval-Augmented Generation (RAG)** is a technique that combines the strengths of large language models (LLMs) with information retrieval systems. Instead of relying solely on the knowledge encoded in the
     parameters of the LLM, RAG systems first retrieve relevant documents from a database or corpus based on the user's query. The retrieved documents are then used as context to generate more accurate and informed responses. This approach helps mitigate issues like hallucination, where LLMs generate plausible-sounding but incorrect or nonsensical answers.
-    * Our RAG system uses a Chroma vector database to store embeddings of music theory texts. These texts are first divided into segments (called 'chunks') of about 2000 characters.  These segments are in turn passed to a LLM "embedding" system, which creates numerical representations of the text. When you ask a question, the system retrieves the most relevant text chunks from this database and uses them to inform the LLM's response, which is in turn generated based the context of these retrieved segments.
+    * The source documents are first **divided into segments (called 'chunks') of about 2000 characters** (not words).  The segments overlap with each other by about 200 characters to ensure that important context is not lost between segments.
+    * These **segments are in turn passed to a LLM "embedding" system** (we use 'text-embedding-3-large' from OpenAI), which creates numerical representations of every segment. These representations capture the semantic meaning of the text, allowing for efficient similarity searches.  But they are very large:  each embedding has 3072 dimensions, representing a vast amount of information about the meaning of the text.
+    * These representations (along with the original text of the segment and additional metadata about author, title, and date) are  stored in **'vector database'** (in our case: Chroma).
+    * When you ask a question, **the system "retrieves" the most relevant text segments from this database**.  It does this with something called 'cosine similarity', a mathematical measure of similarity between vectors. Depending on the number of matching source texts you have requested (in our system this is from 1 to 10), we now have a set of 'contexts' that align with the ideas mentioned in your original query.
+    * Now prepared with the question and relevant segments, **the system now "generates" an answer** based on those segments alone.  The prompt we use instructs the LLM to use only the information in the segments to answer the question, and not to 'hallucinate' information that is not present in the source texts.  The answer is generated with OpenAI's 'gpt-5-mini' model.  We could use a larger model, but this one is faster and less expensive, and seems to do a good job when provided with relevant context.
     * By combining retrieval with generation, RAG systems can provide more accurate, contextually relevant, and trustworthy answers to user queries.          
                 """)
     
 
 credits = st.sidebar.checkbox("Credits", value=False, key="credits")
 if credits:
-    st.markdown("""
-    **Developed by:**  
+    st.subheader("Developed by")
+    st.markdown(""" 
     * Richard Freedman (Haverford College) 
     * Daniel Russo-Batterham (Melbourne University) 
     * Charlie Cross (Haverford College) 
@@ -104,21 +132,6 @@ if credits:
     
                         
     [GitHub Repository](https://github.com/RichardFreedman/theory_llm)""") 
-
-st.sidebar.header('Select Language and Filter Authors ⚙️')
-st.sidebar.write("Choose the language style for the LLM's responses and filter results by author.  The system can respond to you in modern English or in a style approximating Elizabethan English.  ")
-language = st.sidebar.selectbox("Select Language", options=["Modern English", "Period English"], index=0, disabled=False)
-
-# Function to get unique authors
-def get_unique_authors(vector_store):
-    """Retrieve all unique authors from the Chroma database"""
-    all_docs = vector_store.get()
-    authors = set()
-    if 'metadatas' in all_docs:
-        for metadata in all_docs['metadatas']:
-            if metadata and 'author' in metadata:
-                authors.add(metadata['author'])
-    return sorted(list(authors))
 
 # Get API key from Streamlit secrets
 
@@ -145,6 +158,24 @@ if not st.session_state.authenticated:
         else:
             st.error("❌ Incorrect password. Please try again.")
     st.stop()
+
+
+
+st.sidebar.header('Select Language and Filter Authors ⚙️')
+st.sidebar.write("Choose the language style for the LLM's responses and filter results by author.  The system can respond to you in modern English or in a style approximating Elizabethan English.  ")
+language = st.sidebar.selectbox("Select Language", options=["Modern English", "Period English"], index=0, disabled=False)
+
+# Function to get unique authors
+def get_unique_authors(vector_store):
+    """Retrieve all unique authors from the Chroma database"""
+    all_docs = vector_store.get()
+    authors = set()
+    if 'metadatas' in all_docs:
+        for metadata in all_docs['metadatas']:
+            if metadata and 'author' in metadata:
+                authors.add(metadata['author'])
+    return sorted(list(authors))
+
 
 def create_pdf(question, answer, context_docs, language):
     """Generate a formatted PDF with query results"""
@@ -337,13 +368,33 @@ else:
 
     # Get available authors and create multiselect
     available_authors = get_unique_authors(vector_store)
+    # Initialize session state if needed
+    if 'selected_authors' not in st.session_state:
+        st.session_state.selected_authors = available_authors.copy()
+
     st.sidebar.write("By default, all authors are included in the search; you can select specific authors to narrow the results.")
+
+    # Add a simple "Select All" button
+    if st.sidebar.button("Select All Authors"):
+        st.session_state.selected_authors = available_authors.copy()
+        st.rerun()
+
+    # Your existing multiselect with key parameter added
     selected_authors = st.sidebar.multiselect(
         "Filter by Author",
         options=available_authors,
-        default=available_authors,  # All authors selected by default
+        default=st.session_state.selected_authors,
+        key="selected_authors",  # This syncs with session state
         help="Select which authors to search"
     )
+
+        # st.sidebar.write("By default, all authors are included in the search; you can select specific authors to narrow the results.")
+        # selected_authors = st.sidebar.multiselect(
+        #     "Filter by Author",
+        #     options=available_authors,
+        #     default=available_authors,  # All authors selected by default
+        #     help="Select which authors to search"
+        # )
 
     class State(TypedDict):
         question: str
@@ -363,17 +414,37 @@ else:
         ])
 
     def retrieve(state: State):
-        # Get initial results
+        """
+        Retrieve documents from vector store and filter by selected authors.
+        Displays selected authors in the main Streamlit window.
+        """
+        # Get selected authors from Streamlit session state
+        selected_authors = st.session_state.get('selected_authors', available_authors)
+        
+        # Display the selected authors in the main window
+        if selected_authors and len(selected_authors) < len(available_authors):
+            st.subheader("Selected Authors:")
+            # Display as a bulleted list
+            for author in selected_authors:
+                st.write(f"• {author}")
+        else:
+            st.write("*Showing results from all authors")
+        
+        # Get initial results from vector store
         RAG_retrieved_docs = vector_store.similarity_search(state['question'], k=state['k'])
         
         # Filter by selected authors if any are specified
-        if selected_authors:
+        if selected_authors and len(selected_authors) < len(available_authors):
             filtered_docs = [
-                doc for doc in RAG_retrieved_docs 
+                doc for doc in RAG_retrieved_docs
                 if doc.metadata.get('author') in selected_authors
             ]
+            # Display count of filtered results
+            st.write(f"Found {len(filtered_docs)} segments from selected authors out of {len(RAG_retrieved_docs)} total documents")
             return {"context": filtered_docs}
         else:
+            # Display count of all results
+            st.write(f"Found {len(RAG_retrieved_docs)} segments from all authors")
             return {"context": RAG_retrieved_docs}
 
     def generate(state: State):

@@ -327,7 +327,7 @@ else:
     os.environ["OPENAI_API_KEY"] = openai_api_key
     llm = init_chat_model('gpt-5-mini', model_provider='openai')
 
-    embeddings = OpenAIEmbeddings(model='text-embedding-3-')
+    embeddings = OpenAIEmbeddings(model='text-embedding-3-large')
 
     vector_store = Chroma(
         collection_name='HTML_samples',

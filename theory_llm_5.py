@@ -16,16 +16,94 @@ from reportlab.lib.enums import TA_LEFT, TA_CENTER
 from io import BytesIO
 from datetime import datetime
 import re
+import pandas as pd
 
 
 st.set_page_config(page_title='Ask the Music Theorist', page_icon='🔎')
 
-st.sidebar.header('LLM RAG 🔎')
+st.sidebar.header('About this App 🔎')
 st.title('🔎 Ask the Music Theorist')
-st.write("This app allows you to query a database of music theory texts using a large language model (LLM) with retrieval-augmented generation (RAG). " 
-         "Note that as with all RAG systems, the quality of the answers depends on the quality and relevance of the underlying texts. The results you see are deemed to be *relevant* to the query, but they are not the *only* possible relevant texts.  "
-"Enter your question, select the number of text chunks to retrieve, and get an answer based on the content of the texts. You can also filter results by author and download the results as a formatted PDF.")
+st.write("This app allows you to query a database of music theory texts using a large language model (LLM) with retrieval-augmented generation (RAG). Learn more about the system and how to write effective prompts with the tools at the left.") 
+         
+st.write("Enter your question, select the number of text chunks to retrieve, and get an answer based on the content of the texts. You can also filter results by author and download the results as a formatted PDF.")
 
+sources  = st.sidebar.checkbox("Our Music Theory Treatises", value=False, key="sources")
+if sources:
+    st.markdown("""
+    ## This project uses the following music theory treatises as its source material:""")
+    # Create DataFrame from the provided data
+    data = {
+        'Author': [
+            'Robinson, Thomas, fl. 1589-1609',
+            'Ravenscroft, Thomas, 1592?-1635?',
+            'Bevin, Elway, ca. 1554-1638',
+            'Descartes, René, 1596-1650',
+            'Playford, John, 1623-1686?',
+            'Le Roy, Adrian, ca. 1520-1598',
+            'Bathe, William, 1564-1614',
+            'Ornithoparchus, Andreas, 16th cent.'
+        ],
+        'Title': [
+            'New citharen lessons with perfect tunings of the same',
+            'A briefe discourse of the true (but neglected) vse of charact\'ring the degrees',
+            'A briefe and short instruction of the art of musicke',
+            'Renatus Des-Cartes excellent compendium of musick',
+            'A breefe introduction to the skill of musick for song & violl',
+            'A briefe and plaine instruction to set all musicke of eight diuers tunes',
+            'A briefe introduction to the skill of song',
+            'Andreas Ornithoparcus his Micrologus'
+        ],
+        'Date': ['1609', '1614', '1623', '1653', '1654', '1574', '1596', '1609'],
+        'URL': [
+            'https://quod.lib.umich.edu/e/eebo/A10856.0001.001?rgn=main;view=fulltext',
+            'https://quod.lib.umich.edu/e/eebo/A10477.0001.001?rgn=main;view=fulltext',
+            'https://quod.lib.umich.edu/e/eebo/A09578.0001.001?rgn=main;view=fulltext',
+            'https://quod.lib.umich.edu/e/eebo/A35748.0001.001?rgn=main;view=fulltext',
+            'https://quod.lib.umich.edu/e/eebo/A55042.0001.001?rgn=main;view=fulltext',
+            'https://quod.lib.umich.edu/e/eebo/A05334.0001.001?rgn=main;view=fulltext',
+            'https://quod.lib.umich.edu/e/eebo/A05729.0001.001?rgn=main;view=fulltext',
+            'https://quod.lib.umich.edu/e/eebo/A08534.0001.001?rgn=main;view=fulltext'
+        ]
+    }
+
+    df = pd.DataFrame(data)
+
+    # Display the table with full width
+    st.dataframe(df, use_container_width=True)
+
+prompts = st.sidebar.checkbox("More about Writing AI Prompts", value=False, key="prompts")
+if prompts:
+    st.markdown("""
+    ## Writing Effective AI Prompts
+    In order to get the best results from AI language models, it's important to craft clear and specific prompts. Here are some tips:
+    - **Be Specific**: Clearly state what you want the model to do. Vague prompts can lead to unpredictable results.  If you want the system to compare what different authors have to say on a topic, say so.
+    - **Provide Context**: If your question relies on specific information, include that context in your prompt.  For instance you might provide a quotation from some other source that merits comment.
+    - **Use Examples**: If applicable, provide examples of the type of response you're looking for.
+    - **Specify Format of Output**: Perhaps you are asking for a list, some paragraphs, bullet points, etc.
+    """)
+
+rags  = st.sidebar.checkbox("More about RAG systems and LLMs", value=False, key="rags")
+if prompts:
+    st.markdown("""
+    ## What is Retrieval-Augmented Generation (RAG)?
+    * Retrieval-Augmented Generation (RAG) is a technique that combines the strengths of large language models (LLMs) with information retrieval systems. Instead of relying solely on the knowledge encoded in the
+    parameters of the LLM, RAG systems first retrieve relevant documents from a database or corpus based on the user's query. The retrieved documents are then used as context to generate more accurate and informed responses. This approach helps mitigate issues like hallucination, where LLMs generate plausible-sounding but incorrect or nonsensical answers.
+    * Our RAG system uses a Chroma vector database to store embeddings of music theory texts. These texts are first divided into segments (called 'chunks') of about 2000 characters.  These segments are in turn passed to a LLM "embedding" system, which creates numerical representations of the text. When you ask a question, the system retrieves the most relevant text chunks from this database and uses them to inform the LLM's response, which is in turn generated based the context of these retrieved segments.
+    * By combining retrieval with generation, RAG systems can provide more accurate, contextually relevant, and trustworthy answers to user queries.          
+                """)
+    
+
+credits = st.sidebar.checkbox("Credits", value=False, key="credits")
+if credits:
+    st.markdown("""
+    **Developed by:**  
+    * Richard Freedman (Haverford College) 
+    * Daniel Russo-Batterham (Melbourne University) 
+    * Charlie Cross (Haverford College) 
+    * Leo Ni (Haverford College))
+    
+                        
+    [GitHub Repository](https://github.com/RichardFreedman/theory_llm)""") 
 language = st.sidebar.selectbox("Select Language", options=["Modern English", "Period English"], index=0, disabled=False)
 
 # Function to get unique authors

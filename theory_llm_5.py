@@ -402,17 +402,41 @@ else:
         answer: str
         k: int
     
+    # if language == "Modern English":
+    #     prompt = ChatPromptTemplate.from_messages([
+    #         ("system", "You an expert in music theory.  All your answers should read in Modern English. Use only the information provided in the context below to answer the question. If the answer is not in the context, do not fabricate an answer.  Instead explain that the information is not available.'"),
+    #         ("human", "Context:\n{context}\n\nQuestion: {question}")
+    #     ])
+    # else:
+    #     prompt = ChatPromptTemplate.from_messages([
+    #         ("system", "You an expert in music theory, and are also familiar with Elizabethan English.  All your answers should read in this style. Use only the information provided in the context below to answer the question. If the answer is not in the context, do not fabricate an answer.  Instead explain that the information is not available.'"),
+    #         ("human", "Context:\n{context}\n\nQuestion: {question}")
+    #     ])
     if language == "Modern English":
         prompt = ChatPromptTemplate.from_messages([
-            ("system", "You an expert in music theory.  All your answers should read in Modern English. Use only the information provided in the context below to answer the question. If the answer is not in the context, do not fabricate an answer.  Instead explain that the information is not available.'"),
+            ("system", """You are an expert in music theory of the sixteenth and seventeenth centuries. All your answers should read in Modern English. 
+            Use only the information provided in the context below to answer the question. 
+            
+            IMPORTANT: Each text passage is clearly labeled with its author. When relevant to the question, 
+            compare and contrast what different authors say about the topic. Cite specific authors by name 
+            when referencing their ideas. If the answer is not in the context, do not fabricate an answer. 
+            Instead explain that the information is not available."""),
             ("human", "Context:\n{context}\n\nQuestion: {question}")
         ])
     else:
         prompt = ChatPromptTemplate.from_messages([
-            ("system", "You an expert in music theory, and are also familiar with Elizabethan English.  All your answers should read in this style. Use only the information provided in the context below to answer the question. If the answer is not in the context, do not fabricate an answer.  Instead explain that the information is not available.'"),
+            ("system", """You are an expert in music theory of the sixteenth and seventeenth centuries, and are also familiar with Elizabethan English. 
+            All your answers should read in this style. Use only the information provided in the context below 
+            to answer the question.
+            
+            IMPORTANT: Each text passage is clearly labeled with its author. When relevant to the question, 
+            compare and contrast what different authors say about the topic. Cite specific authors by name 
+            when referencing their ideas. If the answer is not in the context, do not fabricate an answer. 
+            Instead explain that the information is not available."""),
             ("human", "Context:\n{context}\n\nQuestion: {question}")
         ])
 
+    # 
     def retrieve(state: State):
         """
         Retrieve documents from vector store and filter by selected authors.
@@ -436,7 +460,7 @@ else:
         # Filter by selected authors if any are specified
         if selected_authors and len(selected_authors) < len(available_authors):
             filtered_docs = [
-                doc for doc in RAG_retrieved_docs
+                doc for doc in RAG_retrieved_docs 
                 if doc.metadata.get('author') in selected_authors
             ]
             # Display count of filtered results
@@ -447,13 +471,51 @@ else:
             st.write(f"Found {len(RAG_retrieved_docs)} segments from all authors")
             return {"context": RAG_retrieved_docs}
 
-    def generate(state: State):
-        docs_str = '\n\n'.join([doc.page_content for doc in state['context']])
+    # def generate(state: State):
+    #     docs_str = '\n\n'.join([doc.page_content for doc in state['context']])
+    #     message = prompt.invoke({"question": state["question"], "context": docs_str})
+    #     response = llm.invoke(message)
+    #     return {'answer': response.content}
+
+
+
+    # graph_builder = StateGraph(State).add_sequence([retrieve, generate])
+    # graph_builder.add_edge(START, 'retrieve')
+    # graph = graph_builder.compile()
+
+    def generate_with_author_grouping(state: State):
+        """
+        Generate response with chunks grouped by author for better comparison.
+        """
+        # Group documents by author
+        author_groups = {}
+        for doc in state['context']:
+            author = doc.metadata.get('author', 'Unknown Author')
+            if author not in author_groups:
+                author_groups[author] = []
+            author_groups[author].append(doc)
+        
+        # Format context with author groupings
+        context_parts = []
+        for author, docs in author_groups.items():
+            author_section = f"\n=== {author} ===\n"
+            
+            for i, doc in enumerate(docs, 1):
+                title = doc.metadata.get('title', 'Unknown Title')
+                author_section += f"\nPassage {i} from '{title}':\n{doc.page_content}\n"
+            
+            context_parts.append(author_section)
+        
+        # Join all author sections
+        docs_str = '\n'.join(context_parts)
+        
+        # Invoke the prompt with the grouped context
         message = prompt.invoke({"question": state["question"], "context": docs_str})
         response = llm.invoke(message)
         return {'answer': response.content}
 
-    graph_builder = StateGraph(State).add_sequence([retrieve, generate])
+    # Correct graph builder using the grouped approach
+    graph_builder = StateGraph(State).add_sequence([retrieve, generate_with_author_grouping])
     graph_builder.add_edge(START, 'retrieve')
     graph = graph_builder.compile()
 

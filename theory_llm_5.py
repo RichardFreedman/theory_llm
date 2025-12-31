@@ -190,7 +190,7 @@ if not st.session_state.authenticated:
 
 
 st.sidebar.header('Select Language Idiom ⚙️')
-st.sidebar.write("Choose the language style for the LLM's responses. The system can respond to you in modern English or in a style approximating Elizabethan English.  ")
+st.sidebar.write("Choose the language style for the LLM's responses. The system can respond to you in modern English or in another language, if you specify it in the prompt.  Alternatively, you can have the system respond in a style approximating Elizabethan English.  ")
 language = st.sidebar.selectbox("Select Language", options=["Modern English", "Period English"], index=0, disabled=False)
 
 # Function to get unique authors
@@ -441,9 +441,9 @@ else:
     #         ("system", "You an expert in music theory, and are also familiar with Elizabethan English.  All your answers should read in this style. Use only the information provided in the context below to answer the question. If the answer is not in the context, do not fabricate an answer.  Instead explain that the information is not available.'"),
     #         ("human", "Context:\n{context}\n\nQuestion: {question}")
     #     ])
-    if language == "Modern English":
+    if language == "Modern English (or specify another language)":
         prompt = ChatPromptTemplate.from_messages([
-            ("system", """You are an expert in music theory of the sixteenth and seventeenth centuries. All your answers should read in Modern English. 
+            ("system", """You are an expert in music theory of the sixteenth and seventeenth centuries. All your answers should read in Modern English, unless the prompt specifies otherwise.  For instance, if the prompt is in French, then respond in French. 
             Use only the information provided in the context below to answer the question. 
             
             IMPORTANT: Each text passage is clearly labeled with its author. When relevant to the question, 

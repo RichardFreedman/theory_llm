@@ -163,7 +163,6 @@ if credits:
 
 # Get API key from Streamlit secrets
 
-openai_api_key = "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"
 
 # try:
 #     # openai_api_key = st.secrets[OPENAI_API_KEY]

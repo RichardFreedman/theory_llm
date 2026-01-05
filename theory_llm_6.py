@@ -22,7 +22,7 @@ import pandas as pd
 st.set_page_config(page_title='Ask the Italian Music Theorists', page_icon='🔎')
 
 st.sidebar.header('About this App 🔎')
-st.title('🔎 Ask the Music Theorists')
+st.title('🔎 Ask the Italian Music Theorists')
 st.write("This Streamlit application allows you to query a database of music theory texts using a large language model (LLM) with retrieval-augmented generation (RAG). Learn more about the system and how to write effective prompts with the tools at the left.") 
          
 intro  = st.sidebar.checkbox("How to Use this Application", value=False, key="intro")

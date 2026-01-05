@@ -178,9 +178,9 @@ if not st.session_state.authenticated:
 
 
 
-st.sidebar.header('Select Language Idiom ⚙️')
-st.sidebar.write("Choose the language style for the LLM's responses. By default, the system will respond to you in modern English (or French, German, etc.), depending on the language of your query.  Alternatively, you can require the system to respond in a style approximating Elizabethan English, which resembles the tone of our original sources.  ")
-language = st.sidebar.selectbox("Select Language", options=["Modern Language", "Period English"], index=0, disabled=False)
+# st.sidebar.header('Select Language Idiom ⚙️')
+# st.sidebar.write("Choose the language style for the LLM's responses. By default, the system will respond to you in modern English (or French, German, etc.), depending on the language of your query.  Alternatively, you can require the system to respond in a style approximating Elizabethan English, which resembles the tone of our original sources.  ")
+# language = st.sidebar.selectbox("Select Language", options=["Modern Language", "Period English"], index=0, disabled=False)
 
 # Function to get unique authors
 def get_unique_authors(vector_store):
@@ -430,31 +430,31 @@ else:
     #         ("system", "You an expert in music theory, and are also familiar with Elizabethan English.  All your answers should read in this style. Use only the information provided in the context below to answer the question. If the answer is not in the context, do not fabricate an answer.  Instead explain that the information is not available.'"),
     #         ("human", "Context:\n{context}\n\nQuestion: {question}")
     #     ])
-    if language == "Modern Language":
-        prompt = ChatPromptTemplate.from_messages([
-            ("system", """You are an expert in music theory of the sixteenth and seventeenth centuries. Your response should be in the same language as that of the human prompt.  For instance, if in English, then use that.  If in French, the respond in French. It will be helpful to briefly quote and cite the page numbers of the original sources in as needed in your response. 
-            Use only the information provided in the context below to answer the question. 
+    # if language == "Modern Language":
+    prompt = ChatPromptTemplate.from_messages([
+        ("system", """You are an expert in music theory of the sixteenth and seventeenth centuries. Your response should be in the same language as that of the human prompt.  For instance, if in English, then use that.  If in French, the respond in French. It will be helpful to briefly quote and cite the page numbers of the original sources in as needed in your response. 
+        Use only the information provided in the context below to answer the question. 
+        
+        IMPORTANT: Each text passage is clearly labeled with its author. When relevant to the question, 
+        compare and contrast what different authors say about the topic. Cite specific authors by name 
+        when referencing their ideas, and quote them briefly to support your response. If the answer is not in the context, do not fabricate an answer. 
+        Instead explain that the information is not available.
             
-            IMPORTANT: Each text passage is clearly labeled with its author. When relevant to the question, 
-            compare and contrast what different authors say about the topic. Cite specific authors by name 
-            when referencing their ideas, and quote them briefly to support your response. If the answer is not in the context, do not fabricate an answer. 
-            Instead explain that the information is not available.
-             
-            """),
-            ("human", "Context:\n{context}\n\nQuestion: {question}")
+        """),
+        ("human", "Context:\n{context}\n\nQuestion: {question}")
         ])
-    else:
-        prompt = ChatPromptTemplate.from_messages([
-            ("system", """You are an expert in music theory of the sixteenth and seventeenth centuries, and are also familiar with Elizabethan English. 
-            All your answers should read in this style. Use only the information provided in the context below 
-            to answer the question.
+    # else:
+    #     prompt = ChatPromptTemplate.from_messages([
+    #         ("system", """You are an expert in music theory of the sixteenth and seventeenth centuries, and are also familiar with Elizabethan English. 
+    #         All your answers should read in this style. Use only the information provided in the context below 
+    #         to answer the question.
             
-            IMPORTANT: Each text passage is clearly labeled with its author. When relevant to the question, 
-            compare and contrast what different authors say about the topic. Cite specific authors by name 
-            when referencing their ideas. If the answer is not in the context, do not fabricate an answer. 
-            Instead explain that the information is not available."""),
-            ("human", "Context:\n{context}\n\nQuestion: {question}")
-        ])
+    #         IMPORTANT: Each text passage is clearly labeled with its author. When relevant to the question, 
+    #         compare and contrast what different authors say about the topic. Cite specific authors by name 
+    #         when referencing their ideas. If the answer is not in the context, do not fabricate an answer. 
+    #         Instead explain that the information is not available."""),
+    #         ("human", "Context:\n{context}\n\nQuestion: {question}")
+    #     ])
 
     # 
     def retrieve(state: State):
@@ -566,7 +566,7 @@ else:
         # Store in session state
         st.session_state.response = response
         st.session_state.last_question = question
-        st.session_state.last_language = language
+        # st.session_state.last_language = language
     
     # Display results if they exist
     if st.session_state.response:
@@ -587,8 +587,8 @@ else:
         pdf_buffer = create_pdf(
             question=st.session_state.last_question,
             answer=st.session_state.response['answer'],
-            context_docs=st.session_state.response['context'],
-            language=st.session_state.last_language
+            context_docs=st.session_state.response['context']
+            # language=st.session_state.last_language
         )
         
         # Create download button

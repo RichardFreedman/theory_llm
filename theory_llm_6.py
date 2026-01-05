@@ -41,42 +41,30 @@ sources  = st.sidebar.checkbox("Our Music Theory Treatises", value=False, key="s
 if sources:
     st.subheader("Our Music Theory Treatises")
     st.markdown("""
-    This project uses the following music theory treatises as its source material.  All of them are drawn from the [Early English Books Online Text Creation Partnership](https://textcreationpartnership.org/tcp-texts/eebo-tcp-early-english-books-online/), and used by permission.  The TCP editions are full-text html transcriptions of the original sources.  Our code extracts textual data (but not the musical examples) from these transcriptions for processing with LLM tools.""")
+    This project uses the following music theory treatises as its source material.  All of them are drawn from the [TmiWeb](https://tmiweb.science.uu.nl/index.html), and used by permission.  The TMIWeb editions are full-text TEI transcriptions of the original sources based on *Thesaurus musicarum italicarum*, an electronic corpus of Italian music treatises from the Renaissance and early Baroque.  Our code extracts textual data (but not the musical examples) from these transcriptions for processing with LLM tools.""")
     # Create DataFrame from the provided data
     data = {
         'Author': [
-            'Morley, Thomas, 1557-1603?',
-            'Robinson, Thomas, fl. 1589-1609',
-            'Ravenscroft, Thomas, 1592?-1635?',
-            'Bevin, Elway, ca. 1554-1638',
-            'Descartes, René, 1596-1650',
-            'Playford, John, 1623-1686?',
-            'Le Roy, Adrian, ca. 1520-1598',
-            'Bathe, William, 1564-1614',
-            'Ornithoparchus, Andreas, 16th cent.'
+            'Artusi, Giovanni Maria, 1540-1613',
+            'Pontio, Pietro, 1532-1596',
+            'Tigrini, Orazio, 1541-1591',
+            'Vicentino, Nicola, ca. 1511-1576',
+            'Zarlino, Gioseffo, 1517-1590'
         ],
         'Title': [
-            'A plaine and easie introduction to practicall musicke',
-            'New citharen lessons with perfect tunings of the same',
-            'A briefe discourse of the true (but neglected) vse of charact\'ring the degrees',
-            'A briefe and short instruction of the art of musicke',
-            'Renatus Des-Cartes excellent compendium of musick',
-            'A breefe introduction to the skill of musick for song & violl',
-            'A briefe and plaine instruction to set all musicke of eight diuers tunes',
-            'A briefe introduction to the skill of song',
-            'Andreas Ornithoparcus his Micrologus'
+            "L'Artusi",
+            'Dialogo di musica',
+            'Il compendio della musica',
+            "L'antica musica",
+            'Le istitutioni harmoniche'
         ],
-        'Date': ['1596','1609', '1614', '1623', '1653', '1654', '1574', '1596', '1609'],
+        'Date': ['1600','1595', '1588', '1555', '1558'],
         'URL': [
-            'https://quod.lib.umich.edu/e/eebo/A07753.0001.001?rgn=main;view=fulltext',
-            'https://quod.lib.umich.edu/e/eebo/A10856.0001.001?rgn=main;view=fulltext',
-            'https://quod.lib.umich.edu/e/eebo/A10477.0001.001?rgn=main;view=fulltext',
-            'https://quod.lib.umich.edu/e/eebo/A09578.0001.001?rgn=main;view=fulltext',
-            'https://quod.lib.umich.edu/e/eebo/A35748.0001.001?rgn=main;view=fulltext',
-            'https://quod.lib.umich.edu/e/eebo/A55042.0001.001?rgn=main;view=fulltext',
-            'https://quod.lib.umich.edu/e/eebo/A05334.0001.001?rgn=main;view=fulltext',
-            'https://quod.lib.umich.edu/e/eebo/A05729.0001.001?rgn=main;view=fulltext',
-            'https://quod.lib.umich.edu/e/eebo/A08534.0001.001?rgn=main;view=fulltext'
+            'https://tmiweb.science.uu.nl/text/reading-edition/artart.html',
+            'https://tmiweb.science.uu.nl/text/reading-edition/pondia.html',
+            'https://tmiweb.science.uu.nl/text/reading-edition/tigcom.html',
+            'https://tmiweb.science.uu.nl/text/reading-edition/vicant.html',
+            'https://tmiweb.science.uu.nl/text/reading-edition/zarinst58.html'
         ]
     }
 
@@ -119,9 +107,9 @@ if prompts:
 
     st.markdown("""
     * **Basic Question**: "What are the key elements of good music according to all the theorists in the database? Organize the results by author."
-    * **Comparative Question**: "How do Thomas Morley and Elway Bevin differ in their views on counterpoint?" [Note for this you might want to filter results to just these two authors.  Use the dialogue in the sidebar at the left to do so.]
-    * **Contextual Question**: "What does Thomas Morley say about the relationship between music and emotion?" [Again you might want to filter results to just this author.]
-    * **Specific Format**: "Provide a bulleted list of the main points made by John Playford regarding dance music."
+    * **Comparative Question**: "How do Zarlino and Vicentino differ in their explanation of mode and counterpoint?" [Note for this you might want to filter results to just these two authors.  Use the dialogue in the sidebar at the left to do so.]
+    * **Contextual Question**: "What does Artusi say about the faults of modern music?" [Again you might want to filter results to just this author.]
+    * **Specific Format**: "Provide a bulleted list of the main points made by Pontio regarding cadences."
     """)
 
     st.subheader("How Many Text Segments ('Chunks') to Retrieve?")
@@ -163,30 +151,30 @@ if credits:
 
 # Get API key from Streamlit secrets
 
-
-# try:
-#     # openai_api_key = st.secrets[OPENAI_API_KEY]
-#     # app_password = st.secrets["APP_PASSWORD"]
-# except (KeyError, FileNotFoundError):
-#     openai_api_key = ""
-#     # app_password = ""
-#     st.error("⚠️ OpenAI API key or APP_PASSWORD not found. Please add them to your Streamlit secrets.")
+try:
+    openai_api_key = st.secrets["OPENAI_API_KEY"]
+    app_password = st.secrets["APP_PASSWORD"]
+except (KeyError, FileNotFoundError):
+    openai_api_key = ""
+    app_password = ""
+    st.error("⚠️ OpenAI API key or APP_PASSWORD not found. Please add them to your Streamlit secrets.")
 
 # Password authentication
 if 'authenticated' not in st.session_state:
     st.session_state.authenticated = False
 
-# if not st.session_state.authenticated:
-#     st.subheader("🔒 Authentication Required")
-#     password_input = st.text_input("Enter password:", type="password", key="password_input")
+if not st.session_state.authenticated:
+    st.subheader("🔒 Authentication Required")
+    password_input = st.text_input("Enter password:", type="password", key="password_input")
     
-#     if st.button("Login"):
-#         if password_input == app_password:
-#             st.session_state.authenticated = True
-#             st.rerun()
-#         else:
-#             st.error("❌ Incorrect password. Please try again.")
-#     st.stop()
+    if st.button("Login"):
+        if password_input == app_password:
+            st.session_state.authenticated = True
+            st.rerun()
+        else:
+            st.error("❌ Incorrect password. Please try again.")
+    st.stop()
+
 
 
 

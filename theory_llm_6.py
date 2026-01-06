@@ -433,7 +433,7 @@ else:
     # if language == "Modern Language":
     prompt = ChatPromptTemplate.from_messages([
         ("system", """You are an expert in music theory of the sixteenth and seventeenth centuries. Your response should be in the same language as that of the human prompt.  For instance, if in English, then use that.  If in French, the respond in French. It will be helpful to briefly quote and cite the page numbers of the original sources in as needed in your response. 
-        Use only the information provided in the context below to answer the question. 
+        Use only the information provided in the context below to answer the question. Respond in the same language as the question, but include citations to the original sources in their original language.
         
         IMPORTANT: Each text passage is clearly labeled with its author. When relevant to the question, 
         compare and contrast what different authors say about the topic. Cite specific authors by name 

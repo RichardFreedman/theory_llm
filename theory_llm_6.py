@@ -194,7 +194,7 @@ def get_unique_authors(vector_store):
     return sorted(list(authors))
 
 
-def create_pdf(question, answer, context_docs, language):
+def create_pdf(question, answer, context_docs):
     """Generate a formatted PDF with query results"""
     
     def format_text_for_pdf(text):
@@ -544,8 +544,8 @@ else:
         st.session_state.response = None
     if 'last_question' not in st.session_state:
         st.session_state.last_question = None
-    if 'last_language' not in st.session_state:
-        st.session_state.last_language = None
+    # if 'last_language' not in st.session_state:
+    #     st.session_state.last_language = None
 
     with st.form("my_form"):
         question = st.text_area(

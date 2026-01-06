@@ -330,7 +330,7 @@ def create_pdf(question, answer, context_docs):
     # Metadata
     date_str = datetime.now().strftime("%B %d, %Y at %I:%M %p")
     elements.append(Paragraph(f"<b>Generated:</b> {date_str}", body_style))
-    elements.append(Paragraph(f"<b>Language Style:</b> {language}", body_style))
+    # elements.append(Paragraph(f"<b>Language Style:</b> {language}", body_style))
     elements.append(Spacer(1, 0.3*inch))
     
     # Question

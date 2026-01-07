@@ -151,13 +151,15 @@ if credits:
 
 # Get API key from Streamlit secrets
 
+# Get API key from Streamlit secrets or manual input
 try:
     openai_api_key = st.secrets["OPENAI_API_KEY"]
     app_password = st.secrets["APP_PASSWORD"]
+    using_secrets = True
 except (KeyError, FileNotFoundError):
     openai_api_key = ""
     app_password = ""
-    st.error("⚠️ OpenAI API key or APP_PASSWORD not found. Please add them to your Streamlit secrets.")
+    using_secrets = False
 
 # Password authentication
 if 'authenticated' not in st.session_state:
@@ -165,18 +167,35 @@ if 'authenticated' not in st.session_state:
 
 if not st.session_state.authenticated:
     st.subheader("🔒 Authentication Required")
-    password_input = st.text_input("Enter password:", type="password", key="password_input")
     
-    if st.button("Login"):
-        if password_input == app_password:
-            st.session_state.authenticated = True
-            st.rerun()
-        else:
-            st.error("❌ Incorrect password. Please try again.")
+    # Show different UI based on whether secrets are configured
+    if not using_secrets:
+        st.info("ℹ️ Development mode: Enter credentials manually")
+        app_password = st.text_input("Enter app password:", type="password", key="app_password_input")
+        openai_api_key = st.text_input("Enter OpenAI API key:", type="password", key="openai_key_input")
+        
+        if st.button("Login"):
+            if app_password and openai_api_key:
+                st.session_state.authenticated = True
+                st.session_state.openai_api_key = openai_api_key
+                st.rerun()
+            else:
+                st.error("❌ Please enter both password and API key.")
+    else:
+        password_input = st.text_input("Enter password:", type="password", key="password_input")
+        
+        if st.button("Login"):
+            if password_input == app_password:
+                st.session_state.authenticated = True
+                st.session_state.openai_api_key = openai_api_key
+                st.rerun()
+            else:
+                st.error("❌ Incorrect password. Please try again.")
+    
     st.stop()
 
-
-
+# Use the API key from session state
+openai_api_key = st.session_state.openai_api_key
 
 # st.sidebar.header('Select Language Idiom ⚙️')
 # st.sidebar.write("Choose the language style for the LLM's responses. By default, the system will respond to you in modern English (or French, German, etc.), depending on the language of your query.  Alternatively, you can require the system to respond in a style approximating Elizabethan English, which resembles the tone of our original sources.  ")
@@ -368,7 +387,20 @@ def create_pdf(question, answer, context_docs):
     buffer.seek(0)
     return buffer
 
-
+@st.cache_resource
+def load_chroma_vector_store(persist_directory: str, collection_name: str):
+    """Load ChromaDB with proper caching to avoid reloading on every rerun"""
+    try:
+        vector_store = Chroma(
+            collection_name='HTML_samples_italian',
+            embedding_function=embeddings,
+            persist_directory='./chroma-db_italian'
+        )
+        return vector_store
+    except Exception as e:
+        st.error(f"Error loading ChromaDB: {e}")
+        return None
+    
 if not openai_api_key.startswith("sk-"):
     st.warning("Please enter your OpenAI API key **in the sidebar**.", icon="👈")
 else:
@@ -377,11 +409,21 @@ else:
 
     embeddings = OpenAIEmbeddings(model='text-embedding-3-large')
 
-    vector_store = Chroma(
-        collection_name='HTML_samples_italian',
-        embedding_function=embeddings,
-        persist_directory=f'{Path.cwd()}/chroma-db_italian'
+    vector_store = load_chroma_vector_store(
+        persist_directory=f'{Path.cwd()}/chroma-db_italian',
+        collection_name='HTML_samples_italian'
     )
+    
+    if vector_store:
+        st.success("✅ ChromaDB loaded successfully from cache")
+    else:
+        st.error("❌ Failed to load ChromaDB.")
+        st.stop()
+    # vector_store = Chroma(
+    #     collection_name='HTML_samples_italian',
+    #     embedding_function=embeddings,
+    #     persist_directory=f'{Path.cwd()}/chroma-db_italian'
+    # )
 
     # Get available authors and create multiselect
     available_authors = get_unique_authors(vector_store)

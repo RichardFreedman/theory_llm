@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Lucidarium, tractatus septimus</title>
+        <title type="abbrev">MARLU7</title>
+        <author>Marchetus de Padua</author>
+        <date notBefore="1300" notAfter="1399">14th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Bradley Jon Tucker</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Angela Mariani</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1993</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>Scriptores ecclesiastici de musica sacra potissimum</emph>, 3 vols., ed. Martin Gerbert (St. Blaise: Typis San-Blasianis, 1784; reprint ed., Hildesheim: Olms, 1963), 3:87–88.
+</bibl>
+        <bibl type="work">
+          
+<title>Marchettus de Padua: Lucidarium in arte musicae planae</title>
+          
+<idno type="LML">MARCH. luc.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">A-SP Cod. 135/6 (29.4.4), 21v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Br II 785, 15-38v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Br II 4144, 1-41</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">CH-E 689, 1-44</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">E-Sc 5-2-25, 5-20v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">E-Sc 5-2-25, 76v-77v, 124-128 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-SDI 42, 1-33v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ob Canon. Misc. 42, 184-185 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-BREs D 21, 185v-186v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-CATc D 39, 157-189</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fl Conv. Soppr. 388, 34v-52v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fr 734, 74-101</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Ma D. 5 inf., 52-77v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Ma I. 20 inf., 36v-39 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-PEc 1013, 5-45v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-PIu 606 (IV.9), I/1-50</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat lat. 5322, 1-48</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat Reg. lat. 1146, 7-8 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Sc L.V.30, 91v-119</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-TRE without shelfmark, 15-32v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Vnm Lat. Cl. VIII.85 (3579), 1-10 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">US-Cn Case Ms. 54.1, 10v-33</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">US-Wc ML 171 J 6 Case, hv-47</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="MARLU70001">
+      <pb n="[87]" />Incipit tractatus VII.</p>
+      <p id="MARLU70002">Caput I.</p>
+      <p id="MARLU70003">De generibus inaequalitatis, quot sint, et quot in musica sint necessaria.</p>
+      <p id="MARLU70004">Genera inaequalitatis quinque sunt, scilicet multiplex, superparticulare, superpartiens, multiplex superpartiens, et multiplex superparticulare. Primum ergo inaequalitatis genus est multiplex, cum maior numerus continet totum minorem in se dupliciter, tripliciter vel quadrupliciter, et sic deinceps, nihilque deest, nihilque exuberat; appellatur enim aut duplum, aut triplum, aut quadruplum, et caetera: ut sunt 2. ad 1. aut 3. ad 1. aut 4. ad 1. et caetera. In hoc quidem genere inaequalitatis ponuntur tres consonantiae, scilicet diapason, diapason diapente, et bisdiapason.</p>
+      <p id="MARLU70005">Secundum autem genus inaequalitatis est, quod appellatur superparticulare, hoc est, cum maior numerus continet totum minorem in se, et eius aliquam unam partem, ut sunt 3. ad 2. 4. ad 3. et 5. ad 4. et caetera. In hoc quidem genere inaequalitatis ponuntur duae consonantiae, scilicet diatessaron et diapente, nec non proportio sesquioctava, in qua est tonus, qui, ut dictum est, et infra de coniunctionibus ostendetur, consonantia non est; similiterque duae proportiones duorum semitoniorum, minoris et maioris, hoc est enarmonici et diatonici, quae vocatur sesquisextadecima et sesquidecimaseptima.</p>
+      <p id="MARLU70006">Tertium genus inaequalitatis est, quod superpartiens dicitur, cum maior numerus continet totum minorem in se, et eius aliquas partes: et siquidem duas partes supra continet, vocatur proportio superbipartiens, et si tres, supertripartiens dicitur, ut sunt 5. ad 3. haec proportio dicitur superbipartiens; ut 7. 
+      <pb n="[88]" />ad 4. haec enim proportio supertripartiens nominatur. In hoc quidem genere inaequalitatis nulla consonantia cadit, quia in eo simpliciter sumto nulla est proportio musicalis.</p>
+      <p id="MARLU70007">Quartum genus inaequalitatis est multiplex superparticulare, cum maior numerus continet totum minorem in se vel bis vel ter vel quater et caetera et insuper eius unam partem: et si continet bis et eius medietatem, vocatur proportio dupla supersesquialtera, ut sunt 5. ad 2. Si vero maior numerus adhuc continet totum minorem bis et eius tertiam partem, vocatur proportio dupla supersesquitertia, ut 7. comparati ad 3. Si autem continet maior numerus totum minorem in se ter, et eius medietatem, vocatur proportio tripla supersesqualtera, ut sunt 7. ad 2. Et si maior numerus continet totum minorem in se ter et eius tertiam partem, vocatur proportio tripla supersesquitertia, ut 10. comparati ad 3.</p>
+      <p id="MARLU70008">Quintum genus inaequalitatis est, quod multiplex superpartiens nominatur, cum maior numerus continet totum minorem in se vel bis vel ter vel quater et caetera et insuper eius aliquas partes. Et si bis eum continet et eius duas partes, vocatur proportio dupla superbipartiens, ut sunt 8. ad 3. In hoc quidem genere inaequalitatis ponitur consonantia diapason diatessaron. Et rursus tripla superbipartiens dicitur, si maior numerus continet totum minorem in se ter et insuper eius duas partes, ut sunt 11. ad 3. et sic deinceps. Ex dictis immediate apparet, quod de quinque generibus inaequalitatis in musica, omnino tria sunt necessaria, scilicet multiplex, in quo ponuntur proportiones tres, scilicet dupla, tripla et quadrupla: superparticulare, in quo ponuntur sesquitertia, sesquialtera, sesquioctava, sesquisextadecima, et sesquidecimaseptima: et multiplex superbipartiens, in quo ponitur consonantia diapason diatessaron. Et haec de generibus inaequalitatis dicta sufficiant.</p>
+      <p id="MARLU70009">Finit tractatus septimus.</p>
+    </body>
+  </text>
+</TEI>

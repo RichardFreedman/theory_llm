@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Lucidarium, tractatus quartus</title>
+        <title type="abbrev">MARLU4</title>
+        <author>Marchetus de Padua</author>
+        <date notBefore="1300" notAfter="1399">14th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Bradley Jon Tucker</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Angela Mariani</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1993</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>Scriptores ecclesiastici de musica sacra potissimum</emph>, 3 vols., ed. Martin Gerbert (St. Blaise: Typis San-Blasianis, 1784; reprint ed., Hildesheim: Olms, 1963), 3:78–80.
+</bibl>
+        <bibl type="work">
+          
+<title>Marchettus de Padua: Lucidarium in arte musicae planae</title>
+          
+<idno type="LML">MARCH. luc.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">A-SP Cod. 135/6 (29.4.4), 21v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Br II 785, 15-38v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Br II 4144, 1-41</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">CH-E 689, 1-44</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">E-Sc 5-2-25, 5-20v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">E-Sc 5-2-25, 76v-77v, 124-128 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-SDI 42, 1-33v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ob Canon. Misc. 42, 184-185 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-BREs D 21, 185v-186v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-CATc D 39, 157-189</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fl Conv. Soppr. 388, 34v-52v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fr 734, 74-101</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Ma D. 5 inf., 52-77v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Ma I. 20 inf., 36v-39 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-PEc 1013, 5-45v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-PIu 606 (IV.9), I/1-50</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat lat. 5322, 1-48</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat Reg. lat. 1146, 7-8 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Sc L.V.30, 91v-119</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-TRE without shelfmark, 15-32v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Vnm Lat. Cl. VIII.85 (3579), 1-10 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">US-Cn Case Ms. 54.1, 10v-33</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">US-Wc ML 171 J 6 Case, hv-47</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="MARLU40001">
+      <pb n="[78]" />Incipit tractatus IV.</p>
+      <p id="MARLU40002">Caput I.</p>
+      <p id="MARLU40003">De proportionibus. Primo, quid proportio.</p>
+      <p id="MARLU40004">Proportio est quaedam habitudo duorum terminorum ad invicem, vel distantia duorum terminorum inter se. Sed notandum est, quod aliud est proportio, et aliud est proportionalitas: nam proportio, ut praedicitur, est de duobus terminis; proportionalitas autem non minus quam de tribus sumi potest: dicitur enim proportio pars numeralis in musica.</p>
+      <p id="MARLU40005">Caput II.</p>
+      <p id="MARLU40006">De proportionibus, quot sint.</p>
+      <p id="MARLU40007">Proportiones in musica, in quibus consonantiae consistunt, sunt sex, scilicet sesquitertia, sesquialtera, dupla, dupla superbipartiens, tripla et quadrupla. Proportiones vero, in quibus membra consonantiarum consistunt, sunt tres, scilicet sesquioctava, sesquisexta decima, et sesquidecimaseptima: de quibus omnibus est videndum.</p>
+      <p id="MARLU40008">Caput III.</p>
+      <p id="MARLU40009">De sesquitertia proportione.</p>
+      <p id="MARLU40010">Sesquitertia proportio est, quando maior numerus comparatus minori continent ipsum totum, et eius tertiam partem, ut 4. comparati ad 3. et ut superius diximus, talis numerus epitritus nominatur. Et per hoc sequitur, quod consonantia diatessaron epitrita et sesquitertia nuncupatur: et dicitur sesquitertia a sesqui, quod est totum, et tertia pars, eo quod quaternarius numerus comparatus ternario, comprehendit ipsum totum et eius tertiam partem.</p>
+      <p id="MARLU40011">Caput IV.</p>
+      <p id="MARLU40012">De sesquialtera proportione.</p>
+      <p id="MARLU40013">Sesquialtera proportio est, quando 
+      <pb n="[79]" />maior numerus comparatus minori continet ipsum totum et eius alteram partem, scilicet medietatem, ut tres comparati ad duo: et ut superius dictum est, talis numerus hemiolius dicitur. Et per hoc patet, quod diapente consonantia hemiolia et sesquialtera nuncupatur. Et dicitur sesquialtera a sesqui, quod est totum, et altera pars, eo quod ternarius continet totum binarium in se, et eius alteram partem, scilicet medietatem.</p>
+      <p id="MARLU40014">Caput V.</p>
+      <p id="MARLU40015">De dupla proportione.</p>
+      <p id="MARLU40016">Dupla proportio est, quando maior numerus comparatus minori continet ipsum dupliciter totum, ut 2. comparati ad 1. continent namque duo dupliciter unum.</p>
+      <p id="MARLU40017">Caput VI.</p>
+      <p id="MARLU40018">De dupla superbipartiente proportione.</p>
+      <p id="MARLU40019">Dupla superbipartiens proportio est, quando maior numerus, comparatus minori, continet ipsum totum dupliciter, et insuper eius duas partes, ut 8. comparati ad 3. nam octonarius numerus comprehendit totum ternarium in se dupliciter, et eius duas partes.</p>
+      <p id="MARLU40020">Caput VII.</p>
+      <p id="MARLU40021">De tripla proportione.</p>
+      <p id="MARLU40022">Tripla proportio est, quando maior numerus, comparatus minori, continet ipsum totum tripliciter, ut tres comparati ad unum, comprehendit namque ternarius tripliciter unitatem.</p>
+      <p id="MARLU40023">Caput VIII.</p>
+      <p id="MARLU40024">De quadrupla proportione.</p>
+      <p id="MARLU40025">Quadrupla proportio est, quando maior numerus, comparatus minori continet quadrupliciter ipsum totum, ut 4. comparati ad 1. comprehendit namque quaternarius totum unarium quadrupliciter.</p>
+      <p id="MARLU40026">Caput IX.</p>
+      <p id="MARLU40027">De sesquioctava proportione.</p>
+      <p id="MARLU40028">Sesquioctava proportio est, quando maior numerus, comparatus minori, continet ipsum totum, et eius octavam partem, ut 9. comparati ad 8. Namque novenarius comprehendit totum octonarium et eius octavam partem; et dicitur sesquioctavus a sesqui, quod est totum, et octava pars.</p>
+      <p id="MARLU40029">Caput X.</p>
+      <p id="MARLU40030">De sesqui decima sexta proportione.</p>
+      <p id="MARLU40031">Sesquisextadecima proportio est, quando maior numerus, comparatus minori, continet ipsum totum et eius sextam decimam partem, ut 17. comparati ad 16. habet enim decimus septimus numerum totum 16. in se, et eius decimam sextam partem.</p>
+      <p id="MARLU40032">Caput XI.</p>
+      <p id="MARLU40033">De sesquidecimaseptima proportione.</p>
+      <p id="MARLU40034">Sesquidecimaseptima proportio est, quando maior numerus, comparatus minori, continet ipsum totum et eius septimam decimam partem, ut 18. comparati ad 17. continet namque 18. numerus totum 17. et eius decimam septimam 
+      <pb n="[80]" />partem. Sed nota, quod licet tonus sit in sesquioctava proportione, semitonium maius in sesquisextadecima proportione, et semitonium minus in sesquidecimaseptima, non tamen consonantiae sunt, ut Boetius refert, et infra de coniunctionibus ostendetur. Habemus ergo, quod sex consonantiae supradictae in numeris in sex proportionibus includantur. Nam diatessaron prima ponitur in sesquitertia proportione, secunda diapente in sesquialtera, tertia diapason in dupla, quarta diapason diatessaron in dupla superbipartiente, quinta diapason diapente in tripla, sexta, bisdiapason in quadrupla. Haec de proportionibus ad praesens sufficiant.</p>
+      <p id="MARLU40035">Explicit tractatus quartus.</p>
+    </body>
+  </text>
+</TEI>

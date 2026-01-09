@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Lucidarium, tractatus duodecimus</title>
+        <title type="abbrev">MARLU12</title>
+        <author>Marchetus de Padua</author>
+        <date notBefore="1300" notAfter="1399">14th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Bradley Jon Tucker</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Angela Mariani</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1993</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>Scriptores ecclesiastici de musica sacra potissimum</emph>, 3 vols., ed. Martin Gerbert (St. Blaise: Typis San-Blasianis, 1784; reprint ed., Hildesheim: Olms, 1963), 3:117–19.
+</bibl>
+        <bibl type="work">
+          
+<title>Marchettus de Padua: Lucidarium in arte musicae planae</title>
+          
+<idno type="LML">MARCH. luc.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">A-SP Cod. 135/6 (29.4.4), 21v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Br II 785, 15-38v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Br II 4144, 1-41</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">CH-E 689, 1-44</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">E-Sc 5-2-25, 5-20v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">E-Sc 5-2-25, 76v-77v, 124-128 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-SDI 42, 1-33v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ob Canon. Misc. 42, 184-185 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-BREs D 21, 185v-186v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-CATc D 39, 157-189</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fl Conv. Soppr. 388, 34v-52v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fr 734, 74-101</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Ma D. 5 inf., 52-77v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Ma I. 20 inf., 36v-39 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-PEc 1013, 5-45v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-PIu 606 (IV.9), I/1-50</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat lat. 5322, 1-48</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat Reg. lat. 1146, 7-8 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Sc L.V.30, 91v-119</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-TRE without shelfmark, 15-32v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Vnm Lat. Cl. VIII.85 (3579), 1-10 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">US-Cn Case Ms. 54.1, 10v-33</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">US-Wc ML 171 J 6 Case, hv-47</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="MARLU120001">
+      <pb n="[117]" />Incipit Tractatus XII.</p>
+      <p id="MARLU120002">Caput I.</p>
+      <p id="MARLU120003">Quid sit quantitas in plana musica.</p>
+      <p id="MARLU120004">Ostenso superius de tonis, quomodo per species formentur, ac quomodo ipsi secundum quantitatem ascensus et descensus propriis nominibus nominentur, videre oportet, quid sit quantitas in musica. Ubi sciendum est, quod quantitas in musica alia continua, alia discreta dicitur. Continua enim quantitas in musica est, quae magnitudo dicitur; quae quidem est in eius subiecto, hoc est in sono; nam cum aliquis sonus est, musica statim est; et quantum durat sonus, tantum quantitas continua esse in ipso dicitur. Hoc enim subiectum est non permanens, sed mobile; et in hoc, quod mobile est, comparatur cum astrologia, quae quidem est de subiecto mobili et permanenti, In hoc quod musica est in subiecto non permanenti, comparatur cum geometria, quae est de subiecto non permanenti, sed immobili, scilicet de terra.</p>
+      <p id="MARLU120005">Discreta autem quantitas, quae multitudo dicitur, in musica est, quae de numerorum proportione tractat: et in hoc comparatur cum arithmetica, quae de numeris loquitur. Et haec de quantitate sufficiant tibi dicta.</p>
+      <p id="MARLU120006">
+      <pb n="[118]" />Caput II.</p>
+      <p id="MARLU120007">De cantibus, qui propter eorum ascensum non sunt authentici, et propter eorum descensum non sunt plagales.</p>
+      <p id="MARLU120008">Sunt nonnulli cantus, qui a fine eorum ad diapente et non ultra ascendunt. Et per talem interruptionem, quae in authentico et in plagali cadere potest, nec infra a fine aliqui descendunt, nec habent diapente continuam, nec utuntur diapente communi, quae pluries in uno cantu repercussa facit ipsum subiugalem, ut superius dictum est. Nunc talis cantus cui attribui debet, authentico an plagali? Dicendum est, quod tales cantus iudicandi sunt per chordam eorum, ita videlicet, quod si notae, quae sunt supra eorum chordam, sunt plures quam illae quae sunt infra, authenticus erit, et e contrario. Et nota, quod notae, quae sunt in chorda positae, non debent cum superioribus neque inferioribus numerari, ut hic patet:</p>
+      <p id="MARLU120009">[GSIII:118,1] 
+      <figure>
+        <graphic url="/images/MARLU12_01GF.gif" />
+      </figure></p>
+      <p id="MARLU120010">Chorda namque primi et eius plagalis est F. grave: tertii et eius plagalis G. grave: quinti et eius plagalis a acutum: septimi et eius plagalis [sqb] secundum acutum. Sed dicet aliquis unus cantus formatur ex speciebus communibus diatessaron et diapente, puto sic, quod per has non poterit iudicari; itemque in notis supra et infra chordam positis aequalitas invenitur; quid erit talis cantus? Dicimus, quod plagalis. Cuius ratio est, quia quilibet authenticus gliscit ad suam perfectionem, vel ad partem eius ascendens, et si hoc facere nequit ob sui brevitatem, semper in eo sunt aliquae species vel partes specierum, per quas ipsum possumus authenticum iudicare, ut est haec antiphona:</p>
+      <p id="MARLU120011">[GSIII:118,2; text: Fundamenta eius in montibus sanctis.]</p>
+      <p id="MARLU120012">Principium enim eius est pars primae speciei diapente, quae numquam in plagali cadit, ut supra de interruptionibus est ostensum. Item dicet aliquis: aequalitas in speciebus et in notis est in uno cantu, qui quidem ascendit ultra diapente a fine semiditonum, similiterque ab eodem fine semiditonum descendit, hic cantus erit authenticus an plagalis? Dicimus, quod in tali cantu considerandus est ascensus et descensus, et si ascensus est maior quam descensus ultra id quod potest plagalis, authenticus iudicatur, et e contrario, ut in praesentibus patet exemplis.</p>
+      <p id="MARLU120013">[GSIII:118,3]</p>
+      <p id="MARLU120014">
+      <pb n="[119]" />[GSIII:119]</p>
+      <p id="MARLU120015">Primi exempli cantus est authenticus, quia ascendit unum tonum ultra id, quod potest ascendere plagalis, et non descendit nisi semitonium ultra id, quod potest authenticus. Item secundi exempli cantus est authenticus, quia licet bis descendat semitonium, ad quod non potest authenticus, tamen illa duo semitonia non attingunt ad magnitudinem toni ad quem non potest plagalis; nam ipsa sunt minora, quia enarmonica. Tunc dicimus, quod quidquid ascendit supra b primum acutum, est de substantia primi toni, et non secundi; nam ut supra dictum est, secundus semper per b rotundum debet necessario modulari. Tertii exempli cantus est plagalis, quia tria semitonia, ad quae descendit, tonum excedunt in una diesi; nam tria semitonia enarmonica sex dieses continent inclusive; unus autem tonus continet solum quinque. Et sic in omnibus cantibus sunt advertendae regulae supradictae. Finit tractatus duodecimus.</p>
+    </body>
+  </text>
+</TEI>

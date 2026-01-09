@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Lucidarium, tractatus secundus</title>
+        <title type="abbrev">MARLU2</title>
+        <author>Marchetus de Padua</author>
+        <date notBefore="1300" notAfter="1399">14th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Bradley Jon Tucker</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Angela Mariani</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1993</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>Scriptores ecclesiastici de musica sacra potissimum</emph>, 3 vols., ed. Martin Gerbert (St. Blaise: Typis San-Blasianis, 1784; reprint ed., Hildesheim: Olms, 1963), 3:70–76.
+</bibl>
+        <bibl type="work">
+          
+<title>Marchettus de Padua: Lucidarium in arte musicae planae</title>
+          
+<idno type="LML">MARCH. luc.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">A-SP Cod. 135/6 (29.4.4), 21v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Br II 785, 15-38v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Br II 4144, 1-41</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">CH-E 689, 1-44</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">E-Sc 5-2-25, 5-20v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">E-Sc 5-2-25, 76v-77v, 124-128 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-SDI 42, 1-33v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ob Canon. Misc. 42, 184-185 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-BREs D 21, 185v-186v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-CATc D 39, 157-189</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fl Conv. Soppr. 388, 34v-52v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fr 734, 74-101</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Ma D. 5 inf., 52-77v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Ma I. 20 inf., 36v-39 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-PEc 1013, 5-45v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-PIu 606 (IV.9), I/1-50</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat lat. 5322, 1-48</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat Reg. lat. 1146, 7-8 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Sc L.V.30, 91v-119</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-TRE without shelfmark, 15-32v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Vnm Lat. Cl. VIII.85 (3579), 1-10 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">US-Cn Case Ms. 54.1, 10v-33</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">US-Wc ML 171 J 6 Case, hv-47</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="MARLU20001">
+      <pb n="[70]" />Incipit Tractatus II.</p>
+      <p id="MARLU20002">Caput I.</p>
+      <p id="MARLU20003">De tono, quid sit.</p>
+      <p id="MARLU20004">Ad huius evidentiam est sciendum, quod secundum Remigium tonus et sonus idem est, sed diastema, hoc est distantia inter eos est, quia sonus in una chorda sumitur, tonus vero non minus quam in duabus sumi non potest. Propter quod dicit enchiridion Ubaldi, quod tonus est legitimum spatium a sono in sonum.</p>
+      <p id="MARLU20005">Caput II.</p>
+      <p id="MARLU20006">Unde dicatur tonus.</p>
+      <p id="MARLU20007">Guido: tonus dicitur a tonando, nam debet fieri sonus rotundus et integer a sono in sonum, sive fiat per ascensum, sive per descensum. Boetius: Omnis tonus coniunctionibus et quantitate duorum phthongorum, hoc est, duorum sonorum semper consistit.</p>
+      <p id="MARLU20008">Caput III.</p>
+      <p id="MARLU20009">De nominibus toni.</p>
+      <p id="MARLU20010">Auctores musicae nuncuparunt tonum epogdoum, diastema, emmelis, colon et sesquioctavum. Epogdous dicitur ab [epi] quod est supra, et [okto] octo arithmetica ratione, eo quod novenarius numerus est supra octonarium, in quibus numeris tonus exstat. Diastema in musica tonus est, nam [diastema] graece, latine interspatium vel intervallum duorum phthongorum dicitur. Emmelis ([emmeles]) sonus secundum Boetium tonus est in musica, id est aptus melo in una intensione. Colon gramatica ratione tonus est, nam [kolon] graece, latine membrum est; namque tonus membrum omnium symphoniarum. Sesquioctavus in numeris tonus est, nam sesque graece, latine totum, et octava pars, et hi numeri sunt 9. comparati ad 8. habet namque novenarius totum octonarium et eius octavam partem. Igitur sic dicamus: tonus in arithmetica epogdous dicitur, colon in grammatica sesquioctavus in numeris, diastema et emmelis in musica.</p>
+      <p id="MARLU20011">Caput IV.</p>
+      <p id="MARLU20012">In quibus numeris constitutus tonus.</p>
+      <p id="MARLU20013">Sciendum est, quod secundum omnes auctores musicae tonus sive natura eius dicitur consistere in proportione novenarii numeri ad octonarium. Qua ratione autem hoc sit nondum invenitur fuisse ab auctoribus demonstratum. 
+      <pb n="[71]" />Hoc autem demonstrare intendimus: circa quod hoc ordine procedemus. Primo enim ostendemus, qua ratione tonus consistat in novenario numero, et non in maiori numero vel minori. Secundo per hoc ostendemus, quomodo tonus se habeat ad octonarium numerum. Tertio ex his concludetur, quod natura toni consistit in proportione numeri novenarii ad octonarium, et non in aliorum proportionibus numerorum.</p>
+      <p id="MARLU20014">Primum dicti capitis.</p>
+      <p id="MARLU20015">Quantum ad primum, est sciendum, quod secundum omnes philosophos et doctores in istis materialibus numeris (tonus) causatur ex divisione continui, et in tot partes, in quot potest dividi continuum, et eo modo quo potest dividi, tot possunt esse numeri, et eodem modo etiam possunt augmentari. Propter quod ipsi dicunt, quod quia continuum est divisibile in infinitum, ideo numerus est augmentabilis in infinitum. Nunc autem sic est, quod continuum est divisibile in infinitum ultimiore divisione, in qua possit divisionem comprehendere: volumus itaque, ut etiam (fortasse ad) aliam aliquam divisionem non reducatur. Est ipsius divisio in tres partes. Nam si divideremus primo ipsum in quatuor, esset ipsum dividere in bis duas; si in quinque, in tres et duas; si in sex, in bis tres et caetera et sic tales divisiones non essent primae, sed ad alias reducerentur. Si autem ipsum continuum divideremus in duas, illa non esset prima ipsius maior divisio, cum plus contineat ipsius divisio in tres. Sic ergo patet, quod continuum primo et de se primaria et maiori divisione divisibile est in tres partes. Multiplicando autem divisiones, si volumus partes dividere divisione, qua divisum est totum, de qualibet trium partium faciemus tres, et sic habebimus novem. Et si illas tres in alias tres dividemus, faciemus alias novem, et sic de novem in novem per aliam divisionem partium esset processus usque in infinitum.</p>
+      <p id="MARLU20016">Patet ergo ex dictis, quod ultra novenarium numerum per divisionem continui procedendo, et partium ipsius, per maiorem et primariam divisionem, semper de novenario in novenarium procedimus, et isti novenarii ita se habent ad invicem, quod primus novenarius plus continet de ipso continuo quam secundus, quia consurgit ex primis partibus eius. Secundus vero minus continet quam primus, quia consurgit ex partibus partium, et sic deinceps. Habemus igitur ex dictis; quod cum sumus ad novenariam divisionem continui, non est ulterius procedendum, et infra ipsum novenarium non est standum, eo quod non est perfecta divisio, sed statim de uno novenario ad alium nos transferimus.</p>
+      <p id="MARLU20017">Et quia in numero novenario consistat perfectio divisionis continuarum partium: inde est, quod in corporibus sonoris, puta in fidibus, novenaria pars una consistit, pars una aliter sonat, quam 
+      <pb n="[72]" />novenaria pars alia, quia ista plus ascendit, quia minus continet de continuo. Et iterum novenaria alia parte sumta mutabitur sonus et altior fiet, quia minus adhuc continebit de ipso continuo. Sylogizemus ergo sic: dictum est superius. quod tonus est legitimum spatium de sono in sonum; sed hic scilicet transitus de sono in sonum fit transeundo de novenario in novenarium partibus continui, ex quibus numeris constat: ergo in novenario numero, et non in plus, nec in minus consistit substantia, et natura, et totalis vel formalis ratio ipsius toni. Ex hoc sequitur, quod tonus sit illud, quod est maius et perfectius in tota musica; consistit enim in novenario numero, ultra quem divisione primaria et maiori non est possibile transire in cantando, numerum et continuum dividendo. Et sic demonstratum est primum.</p>
+      <p id="MARLU20018">Secundum simul et tertium dicti capitis.</p>
+      <p id="MARLU20019">Sequitur videre secundum, scilicet illud quod additur, scilicet quod oporteat fieri proportio novenarii ad octonarium. Ad quod ostendendum oportet, quod nos ad maiorem divisionem continui, scilicet binariam, transferamus. Dividamus igitur continuum in duas partes, quas partes in duas alias dividamus, et illas in duas alias, et sic usque in infinitum, numquam quaternarium numerum excedemus.</p>
+      <p id="MARLU20020">Et primus quaternarius plus continebit de continuo, quam secundus, et sic deinceps. Et quia in plus non possumus dividere, inde est, quod per quaternarium oportet nos omnes proportiones reducere musicales, quae de se possunt duplicari: quia sicut est proportio duorum ad unum, ita est proportio unius ad duo, et sic de aliis. Duplicando ergo proportiones habemus quaternarium numerum duplicatum, et sic habemus octo. Sed quia omnis proportio oportet quod consistat in toto vel in parte: quod autem continet aliud, oportet quod excedat ipsum in aliquo, alias enim non posset ipsum continere; oportet ergo, quod tonus, qui continet proportiones etiam duplicatas, in aliquo excedat ipsas proportiones: sed ipsae proportiones duplicatae consistunt in octonario numero; oportet ergo, quod tonus ipsos continens in aliquo excedat ipsos: non potest autem plus eos excedere, quam in uno, ratione antedicta, cum consistat in novenario numero. Et sic patet secundum similiter et tertium, scilicet, quod natura toni et essentia eius consistat in novenario numero ad octonarium comparato.</p>
+      <p id="MARLU20021">Caput V.</p>
+      <p id="MARLU20022">Demonstratio partium toni.</p>
+      <p id="MARLU20023">Ostenso superius de quidditate toni et natura ipsius, de partibus est videndum, circa quod ordine procedemus. Primo enim ostendemus, quot sint rationabiliter partes toni: secundo ex eis quid sint et quot semitonia, ostendemus.</p>
+      <p id="MARLU20024">Primum dicti capitis.</p>
+      <p id="MARLU20025">Quoad primum est sciendum, quod tonus habet quinque partes, et non plures neque pauciores: quod sic demonstramus. Probatum est superius, tonum consistere in perfectione numeri 
+      <pb n="[73]" />novenarii, quod ostendimus ad sensum in corporibus sonoris, puta in monochordo et aliis. Nunc autem ita est, quod novenarius numerus numquam potest dividi in partes aequales, est enim ibi unitas, quae resistit divisioni, et per consequens neque subdividi potest. Numquam enim potest dividi 9. per 2. 4. 6. et 8. aequaliter ipsum dicimus dividendo; et tota ratio est propter eius imparitatem. Relinquitur ergo, quod partes ipsius esse debeant inaequales, ita quod una sit prima pars de uno ad tres; secunda de tribus ad quinque; tercia de quinque ad septem, quarta de septem ad novem; quinta, et talis quinta pars est quintus numerus impar totius novenarii. Sic patet, quod tonus non potest habere nisi quinque partes, neque plures neque pauciores; ita quod quinque partes faciunt totum tonum; et sic patet primum.</p>
+      <p id="MARLU20026">Secundum dicti capituli.</p>
+      <p id="MARLU20027">Quoad secundum est sciendum, quod quatuor partes ipsius non comprehendunt totum tonum, et ideo vocantur semitonia omnia illa, quae comprehendunt infra quinque a semi, quod est imperfectum seu pars, unde semitonium quasi pars toni. Huiusmodi autem partes in tono, seu huiusmodi semitonia fuerunt in musica adinventae, ut per dissonantias coloratas, seu cuiusdam placitae pulcritudinis ipsarum, ad perfectiores seu pulcriores in cantu consonantias veniamus, sicut infra de consonantiis et dissonantiis ostendetur. Et ideo merito consurgunt ex partibus inaequalibus ipsius toni, ut innuatur ex tali inaequalitate talis dissonantia cantari, ac etiam inveniri. Quod maxime apparet in corporibus sonoris, sicut in monochordo, ubi ostenditur, quod naturae istorum semitoniorum in quinque partes spatium ipsius, toni scilicet, dividendo clarissime cognoscuntur. Quarum quaelibet quinta pars vocatur diesis, quasi decisio seu divisio summa, hoc est maior divisio, quae possit in tono cantabili reperiri. Duae autem simul iunctae ex istis quinque componunt semitonium enarmonicum, quod minus est, quod a Platone vocatum est limma, continens duas dieses. Tres vero ex istis diesibus faciunt semitonium diatonicum, quod maius est, quod quidem vocatur apotome maior, id est, pars maior toni in duas divisi. Quatuor autem dieses chromaticum semitonium constituunt: de quibus omnibus per ordinem est videndum.</p>
+      <p id="MARLU20028">Caput VI.</p>
+      <p id="MARLU20029">De Diesi</p>
+      <p id="MARLU20030">Diesis quinta pars est toni, puta cum aliquis tonus bipartitur propter aliquam consonantiam colorandam subter tertiam, sextam sive decimam, tendendo ad aliquam consonantiam: quia prima pars toni sic divisi si per ascensum fit, maior est, et vocatur chroma, pars vero quae restat, diesis dicitur, ut hic.</p>
+      <p id="MARLU20031">[GSIII:73] 
+      <figure>
+        <graphic url="/images/MARLU2_01GF.gif" />
+      </figure></p>
+      <p id="MARLU20032">
+      <pb n="[74]" />Et nota, quod natura diesis maxime cognoscitur per comparationem ad semitonium chromaticum, per quod multum de diesi ostendetur, naturam chromatici ostendendo.</p>
+      <p id="MARLU20033">Caput VII.</p>
+      <p id="MARLU20034">De semitoniis diatonico et enarmonico simul, eo quod unum per aliud melius cognoscatur.</p>
+      <p id="MARLU20035">Semitonium minus, seu enarmonicum est, quod continet duas dieses; quo quidem utimur in plano cantu: diatonicum vero tres continet dieses, quo quidem non utimur in cantu plano, eo quod propter suam maioritatem excedat omnes consonantiarum proportiones, dissonantiam inde creans; utimur enim eo in cantibus mensuratis. Huiusmodi autem semitonia sic ad invicem recognoscuntur: semitonium diatonicum est, quando fit permutatio b. rotundi in [sqb] quadrum, vel e contrario, propter ascensum vel descensum, ut hic.</p>
+      <p id="MARLU20036">[GSIII:74,1]</p>
+      <p id="MARLU20037">Nam ab a acuto ad primum b., scilicet rotundum, est semitonium enarmonicum, quod, ut predicitur, minus est. A primo b. ad secundum [sqb], scilicet quadratum, est semitonium diatonicum, quod dicitur maius. In secunda figura a. primo b. ad secundum [sqb] diatonicum semitonium est: a secundo vero [sqb] ad c. acutum, semitonium enarmonicum est. Sicque patet, quomodo tonus, qui est ab a. acuto in secundum [sqb], in enarmonicum et diatonicum semitonium dividatur, et tonus, qui est a primo b. ad c. praedictum, in diatonicum et enarmonicum. Ex enarmonico et diesi consurgit diatonicum: ex diatonico et diesi chromaticum: ex chromatico et diesi tonus. Continet itaque enarmonicum duas dieses, diatonicum tres, chromaticum quatuor; tonus vero ex quinque diesibus est formatus.</p>
+      <p id="MARLU20038">Caput VIII.</p>
+      <p id="MARLU20039">De semitonio chromatico.</p>
+      <p id="MARLU20040">Chromaticum semitonium est id, quod de quinque diesibus, quas habet tonus, quatuor comprehendit, et, ut praedicitur, semper cum diesi tonum perficit. Fit enim, cum aliquis tonus bipartitur propter aliquam dissonantiam colorandam, puta tertiam, sextam, sive decimam, tendendo ad aliquam consonantiam. Nam prima pars toni sic divisi, si per ascensum fiat, erit maior, quae dicitur chroma: pars quae restat, diesis est, ut hic:</p>
+      <p id="MARLU20041">[GSIII:74,2]</p>
+      <p id="MARLU20042">Dicitur enim chromaticum a chromate. Est namque chroma ([chroma]) in graeco color: inde chromaticus color pulcritudinis appellatur, quia propter decorem pulcritudinemque dissonantiarum dividitur tonus ultra divisionem diatonici et enarmonici generis, ut a consonantia, 
+      <pb n="[75]" />quae sequitur dissonantias, per minorem distantiam, per modum utriusque distet, ita videlicet quod in tali distantia supra vel infra unius toni prolatio semper exstet, ut hic:</p>
+      <p id="MARLU20043">[GSIII:75,1]</p>
+      <p id="MARLU20044">Nisi forte fiat talis toni bipartitio per descensum, quae est minus propria in dissonantiis tendentibus ad consonantias, ut hic:</p>
+      <p id="MARLU20045">[GSIII:75,2]</p>
+      <p id="MARLU20046">Hic enim bipartitio toni debet fieri cum colore fictitio, ut qui eam profert, fingat in primo descensu, qui est diesis, ac si vellet post talem descensum sursum redire: post haec chromaticum descendat, et sic consonantia, licet minus naturaliter et proprie, subsequitur. Quare autem debet distare dissonantia a non consonantia per minorem distantiam, inferius de consonantiis et dissonantiis ostendetur.</p>
+      <p id="MARLU20047">Caput IX.</p>
+      <p id="MARLU20048">De proportionibus, in quibus consistit tonus, ac etiam semitonium enarmonicum et diatonicum.</p>
+      <p id="MARLU20049">Dictum est supra, quod tonus dicitur sesquioctavus, et hoc nomen a proportionibus fuit sumtum; dicitur enim sesqui, quod est totum, et octava pars, eo quod maior numerus, qui est novenarius, continet totum minorem, seu octonarium, et etiam eius octavam partem. In quibus numeris et proportionibus eorumdem naturam toni dicimus consistere, ut supra monstratum est. Et ideo oportet, ex quo natura toni consistit in eis, quod per proportiones ipsorum ad invicem divisio proportionum toni etiam cognoscatur.</p>
+      <p id="MARLU20050">Proportiones autem toni per ipsos proportionabiles numeros, octonarium scilicet et novenarium, taliter cognoscuntur: nam proportiando primum octonarium primo novenario non cadit aliquis numerus medius inter ipsos, et per consequens non potest ibi aliqua proportio nisi octonarii ad novenarium reperiri. Sed si multiplicantur ambo praedicti numeri, scilicet in 16. et 18. inter hos cadit naturalis numerus, qui est 17. Igitur 17. numerus ad 16. comparatus habet ipsum totum, et etiam decimam sextam partem, et vocatur hoc proportio sesqui sextadecima. In hac autem proportione est semitonium diatonicum, quod maius dicitur, enarmonico comparatum. Hoc semitonium vocatur apotome maius, hoc est pars maior, toni medietatem excedens. 18. numerus ad 17. comparatus habet eum totum, et etiam decimam septimam partem, et vocatur haec proportio sesquiseptima decima. In hac quidem proportione est semitonium enarmonicum, quod minus dicitur. Hoc semitonium a Platone vocatum est limma, continens duas dieses.</p>
+      <p id="MARLU20051">
+      <pb n="[76]" />Caput X.</p>
+      <p id="MARLU20052">De proportionibus consonantiarum et dissonantiarum.</p>
+      <p id="MARLU20053">Quoniam musica est superius definita, quod est scientia, quae in numeris et proportionibus consistit, viso et declarato, quomodo in eisdem numeris et proportionibus consistat musica quoad tonos et semitonia eorumdem; presentialiter videamus, quomodo consistat in eisdem numeris et proportionibus eorumdem quoad consonantias, quae consurgunt in musica ex eisdem. Ubi primo sciendum est, quod de numeris et proportionibus eorumdem nihil ad musicam, ut musica est, sed de eis pertinet ad arithmeticam absolute; videre enim quomodo tria se habeant ad quinque, absolute non est musici sed arithmetici consideratio principalis: sed de numeris et proportionibus applicatis ad cantum, ad musicam pertinet, nam solum musica est de cantu. Videre ergo, ex quibus proportionibus numeralibus in cantu, proportionando scilicet voces et notas numeratas ad invicem, consurgat consonantia in cantu, et ex quibus dissonantia, haec consideratio musici est. Et hoc per experientiam est notandum, solum in musica posse cognosci, puta in corporibus sonoris; quae si dividuntur per partes, istae numeratae ad invicem proportionate inpulsando meliorem reddunt consonantiam in una proportione quam in alia; et diversam in una proportione partium ab alia reddere consonantiam reperimus, quod est in vocibus ad ascensum, proportionando scilicet voces numeratas diversimode ad invicem, et ex eis diversimoda consonantia tunc consurgit: quod de consonantiis idem dicimus. Quare autem duo numeri partium ad aliquos comparati, vel plures, interdum reddant consonantiam et interdum dissonantiam, hoc non est ratione numerorum, sed ratione vocum et partium corporis sonori se habentium per excessum vel per defectum proportionis, et tunc reddunt dissonantiam ad invicem: vel in quadam debita proportione seu adaequatione, et tunc reddunt consonantiam. Igitur priusquam de consonantiis et dissonantiis tractemus, de numeris et proportionibus, prout in consonantiis et dissonantiis consistunt, et de principalibus, ad quos et ad quas omnes numeri alii et proportiones reducuntur principaliter, videamus, simul videndo, quomodo in ipsis numeris et proportionibus sumantur consonantiae et dissonantiae eorumdem.</p>
+      <p id="MARLU20054">Explicit tractatus secundus.</p>
+    </body>
+  </text>
+</TEI>

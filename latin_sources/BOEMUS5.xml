@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>De institutione musica, liber quintus</title>
+        <title type="abbrev">BOEMUS5</title>
+        <author>Boethius, Anicius Manlius Severinus</author>
+        <date notBefore="500" notAfter="799">6th-8th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Claudia Di Luca</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Andreas Giger</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1995</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>Boetii De institutione musica libri quinque</emph>, ed. Godofredus Friedlein (Leipzig: B. G. Teubner, 1867), 349–71.
+</bibl>
+        <bibl type="work">
+          
+<title>Anicius Manlius Severinus Boethius: De institutione musica libri V</title>
+          
+<idno type="LML">BOETH. mus.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">A-LIs Cod. 597, 2 (Fragments)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">A-Wn Cod. 50, 49-135v (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">A-Wn Cod. 51, 4-34v (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">A-Wn Cod. 55, 93-167 (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">A-Wn Cod. 299, 1-86</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">A-Wn Cod. 2269, 153-172v (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">A-Wn Cod. 15470, 1-6v, 7-10v (Fragments)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">AUS-Msl Cod. 091/B 63 (Phillipps 3345), 1-49 (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Br 5444/6, 41v-98</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Br 10114/6, 2v-75 (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Br 18397, 47-59v (Fragments)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Br II 6188, 1-86v (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-BRgs Ms. 110/80, 1-59v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-BRs 528, 47v-50v, 51</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-BRs 531, 1-51v (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">CH-BEb A 94.11, 1-2 (Fragments)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">CH-CObodmer 111, 42-45v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">CH-E 298, 23-145 (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">CH-E 358, 145-270 (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">CH-SGv 296, 47-108</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">CH-SH 108 (olim 106), 4-131v (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">CZ-Pu IX. C. 6, 64-135v (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">CZ-Pu XIX. C. 26, 41-135v (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-BAps Rep. 29/2, 1, 2 (Fragments)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-BAs Class. 9, 49-150</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-BAs Varia 1, 41v-42, 42r-v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-BHFr without shelfmark, I-IIv (Fragments)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-DS 1988, 178v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-ERu 66, 35-84v (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-ERu 2112.18, 1-2v (Fragments)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-KA K 504, 32r-v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-KNa W 331, 1v-189 (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-KNd 187, 33-56v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 367, 63-123v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 6006, 167-170 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 6361, 1v-58 (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 13021, 97-150</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 14272, 1v-62 (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 14465, 1-67v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 14523, 52v-117</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 14601, 41-52v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 18478, 61-115 (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 18480, 157-217 (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 18914, 32r, 33-38 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Rp 98, 364-368, 382-383 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Sl HB XI 33, 2-77v (Fragments)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-St. Blasien without shelfmark, o</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-TRb Hs. Abt. 95, 6, 93 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-W 72 Gud. Lat. 2°, 1-50 (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">E-Bac Ripoll 42, 6v-38v, 42 (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">E-Mn 9088, 41-94v (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">E-SAu 525, 525</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-AL 2, 119v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-AL 15, 139v-140 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-AUT 46 (olim 40 B), 1-64 (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-AVR 236, 1-82bis</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-AVR 237, 1-76</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-CA 172, 16va-b (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-CHRm 48, 1-87v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-CHRm 498, 125-140 (Fragments)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-CSS 32, 1-52</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-CV 184, 154v-167r (Fragments)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-LA 38 bis, 53-84</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 7181, 82v-136v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 7185, 125, 126-177</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 7199, 1-82v (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 7200, 1-93v (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 7201, 1-63</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 7202, 1-50 (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 7203, 8-104</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 7204, 1-51</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 7206, 1-46v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 7297, 55-92 (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 7361, 57-103</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 8663, 51v-57 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 10275, 1v-77 (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 13020, 1-58v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 13955, 60-105v (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 14080, 1-64 (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 16201, 83-124v (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 16652, 43-95 (Fragments)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 18514, 1-85</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Nouv. acq. lat. 1618, 1-69 (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-SAU 3, 4-58v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-SOM 738, 738 (Fragments)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ccc 260, 1-2v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Cssc 31, 98-119 (Fragments)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ctc R.15.22, 5-101v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Cu Ii. 3. 12, 61v-134v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Lbl Add. 22315, 65v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Lbl Arundel 77, 6v-62 (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Lbl Burney 275, 359v-390</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Lbl Harley 957, 1-2, 32r-v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Lbl Harley 3595, 50-56v (Extraits+ Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Lbl Harley 5237, 1-42v (Fragments)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Lbl Lansdowne 842 A-B, 107-163v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Lbl Royal 15.B.IX, 3-49v (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Llp 67, 96-172 (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ob Ashmole 1524, 57-101</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ob Auct. F.3.13, 67-90 (Fragments)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ob Canon. Class. Lat. 273, 1-62v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ob Seld. supra 25, 45-92v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Obac 306, 46-88v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Obac 317, 4-66</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Occ 118, 3-55v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Occ 224, 69v-113, 142-188v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ojec 4, 59-77 (Fragments)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Omc Lat. 19, 1v-78</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Otc 1, 1-85</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Otc 47, 71v-100v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-CATc D 39, 44-115v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-CEc S. XXVI.1, 61v-132v (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fl Ashburnham 1051, 96-135v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fn II. I. 406, 6-39v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-IVc 52, 41-86</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Lg 361, 3-66v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Ma C. 128 inf., 47-94 (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Ma Q. 9 sup., 1-60v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Mt N.646, 48-157</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Nf 166.XV.IV, 1-41v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Nn V.A.14, 49-109</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Pca 414, 35-79v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rli Rossi 231, 1-83v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat lat. 5904, 1-115</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat Ottob. 1815, 1-76</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat Ottob. 2069, 82v-119</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat Pal. lat. 1342, 1-104</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat Reg. lat. 1005, 1-38 (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat Reg. lat. 1146, 65v-66 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat Reg. lat. 1283, 111r-v (Extraits+ Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat Reg. lat. 1638, 1-125 (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat Reg. lat. 1840, 1-55v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Tn G.IV.31, 41-95v (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-VEcap 208, 4-37 (Fragments)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Vnm Lat. Z. 271 (1642), 67-145v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Vnm Lat. Z. 333 (1648), 70v-151v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Vnm Lat. Z. 334 (1649), 61-104v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Vnm Lat. Z. 497 (1811), 155 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">L-Ln I:21, 1v-11v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">NZ-Wt MSR-05, 2v-81</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">PL-Kj 1861, 8-90v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">PL-WRu I.Q.43, 139 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">US-CAh Ms. Typ. 10, 1-61</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">US-Cn Case Ms. f. 9, 1-62v (Texte + Glossa maior)</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="BOEMUS50001">
+      <pb n="[349]" />Incipit liber quintus.</p>
+      <p id="BOEMUS50002">I. Proemium</p>
+      <p id="BOEMUS50003">II. De vi armonicae et quae sint eius instrumenta iudicii et quonam usque sensibus oporteat credi.</p>
+      <p id="BOEMUS50004">III. Quid sit armonica regula vel quam intentionem armonicae Pythagorei vel Aristoxenus vel Ptolomaeus esse dixerunt.</p>
+      <p id="BOEMUS50005">
+      <pb n="[350]" />IIII. In quo Aristoxenus vel Pythagorici vel Ptolomaeus gravitatem atque acumen constare posuerint.</p>
+      <p id="BOEMUS50006">V. De sonorum differentiis Ptolomaei sententia.</p>
+      <p id="BOEMUS50007">VI. Quae voces armoniae sint aptae.</p>
+      <p id="BOEMUS50008">VII. Quem numerum proportionum Pythagorici statuant.</p>
+      <p id="BOEMUS50009">VIII. Quod reprehendat Ptolomaeus Pythagoricos in numero proportionum.</p>
+      <p id="BOEMUS50010">VIIII. Demonstratio secundum Ptolomaeum diapason et diatessaron consonatiam esse.</p>
+      <p id="BOEMUS50011">X. Quae sit proprietas diapason consonantiae.</p>
+      <p id="BOEMUS50012">XI. Quibus modis Ptolomaeus consonantias statuat.</p>
+      <p id="BOEMUS50013">XII. Quae sint aequisonae, quae consonae, quae emmelis.</p>
+      <p id="BOEMUS50014">XIII. Quemadmodum Aristoxenus intervalla consideret.</p>
+      <p id="BOEMUS50015">XIIII. Descriptio octachordi, qua ostenditur diapason minorem esse sex tonis.</p>
+      <p id="BOEMUS50016">XV. Diatessaron consonatiam tetrachordo contineri.</p>
+      <p id="BOEMUS50017">XVI. Quomodo Aristoxenus vel tonum dividat vel genera eiusque divisionis dispositio.</p>
+      <p id="BOEMUS50018">XVII. Quomodo Archytas tetrachorda dividat eorumque descriptio.</p>
+      <p id="BOEMUS50019">XVIII. Quemadmodum Ptolomaeus et Aristoxeni et Archytae tetrachordorum divisiones reprehendat.</p>
+      <p id="BOEMUS50020">XVIIII. Quemadmodum Ptolomaeus tetrachordorum divisionem fieri dicat oportere.</p>
+      <p id="BOEMUS50021">XX. Quemadmodum ex aequalitate fiat inaequalitas proportionum.</p>
+      <p id="BOEMUS50022">XXI. Quemadmodum Ptolomaeus dividat diatessaron in duas partes.</p>
+      <p id="BOEMUS50023">
+      <pb n="[351]" />XXII. Quae sint genera spissa, quae minime, et his quomodo sint proportiones aptandae et enarmonii divisio Ptolomaei.</p>
+      <p id="BOEMUS50024">XXIII. Chromatis mollis divisio Ptolomaei.</p>
+      <p id="BOEMUS50025">XXIIII. Chromatis incitati divisio Ptolomaei.</p>
+      <p id="BOEMUS50026">XXV. Dispositio spissorum generum Ptolomaei cum numeris et proportionibus.</p>
+      <p id="BOEMUS50027">XXVI. Diatonici mollis divisio Ptolomaei.</p>
+      <p id="BOEMUS50028">XXVII. Diatonici incitati Ptolomaei divisio.</p>
+      <p id="BOEMUS50029">XXVIII. Diatonici toniaei Ptolomaei divisio.</p>
+      <p id="BOEMUS50030">XXVIIII. Dispositio divisorum generum cum numeris et proportionibus.</p>
+      <p id="BOEMUS50031">XXX. Diatonici aequalis Ptolomaei divisio.</p>
+      <p id="BOEMUS50032">Proemium.</p>
+      <p id="BOEMUS50033">I. Post monochordi regularis divisionem adicienda esse arbitror ea, in quibus veteres musicae doctores sententiae diversitate discordant, habendumque de omnibus subtile iudicium. Atque id, quod proposito deest operi, mediocris doctrinae dispensatione supplendum est. Potest enim alia quoque esse divisio, in qua non unus tantummodo nervus adsumitur, qui positis proportionibus dividatur, verum octo, atque huiusmodi fiat cithara, ut in pluribus et quanti necessarii sint nervi tota proportionum ratio quasi oculis subiecta cernatur.</p>
+      <p id="BOEMUS50034">De vi armonicae et quae sint eius instrumenta iudicii et quonam usque sensibus oporteat credi.</p>
+      <p id="BOEMUS50035">II. Sed de his paulo post loquemur. Nunc dicendum 
+      <pb n="[352]" />est, quae sit vis armonicae, de qua tractare instituentes quattuor inplevimus libros. Naturam vero eius vimque exprimendam in huius quinti voluminis seriem distulimus. Armonica est facultas differentias acutorum et gravium sonorum sensu ac ratione perpendens. Sensus enim ac ratio quasi quaedam facultatis armonicae instrumenta sunt. Sensus namque confusum quiddam ac proxime tale, quale est illud, quod sentit, advertit. Ratio vero diiudicat integritatem atque imas persequitur differentias. Itaque sensus invenit quidem confusa ac proxima veritati, accipit vero ratione integritatem. Ratio vero ipsa quidem invenit integritatem, accipit vero confusam ac proximam veri similitudinem. Namque sensus nihil concipit integritatis, sed usque ad proximum venit, ratio vero diiudicat. Velut si quis manu circulum scribat; fortasse eum vere circulum oculus esse arbitretur, ratio vero nullo modo esse id quod simulatur intellegit. Hoc vero idcirco est, quoniam sensus circa materiam vertitur, speciesque in ea conprehendit, quae ita sunt fluvidae atque inperfectae nec determinatae atque ad unguem expolitae, sicut est ipsa materia. Quare sensum quoque confusio sequitur, mentem vero atque rationem quoniam materia non moratur, species, quas pervidet, praeter subiecti communionem intuetur, atque ideo eam integritas comitatur ac veritas, potiusque, quod in sensu aut peccatur aut minus est, aut emendat aut conplet. Fortasse autem id, quod sensus non integre sed confuse atque a veritate minus quasi quidam incallidus aestimator agnoscit, in singulis minus habeat errati, collecta vero multiplicantur in summam atque 
+      <pb n="[353]" />idcirco maximam faciunt differentiam. Nam si duas voculas tonum sensus distare arbitretur neque distent, rursusque ab una earum tonum distare putet tertiam, neque sit integra ac vera toni distantia, item tertiae quartaeque toni sensus differentiam putet, atque in eadem quoque erret, neque sit differentia toni, ab hac etiam quarta quintam distare semitonium putet, neque vere atque integre aestimet; in singulis fortasse minus videatur erratum, quod vero in primo tono sensus reliquit atque id, quod in secundo et tertio atque in quarto semitonio peccatum est, in unum congregatum atque collectum efficiet, ut prima vox ad quintam vocem diapente non contineat consonantiam, quod oportebat fieri, si tres tonos ac semitonium sensus integre iudicasset. Quod igitur in singulis tonis minus pervidebatur, id collectum in consonantia evidenter apparuit. Atque ut pervideatur, sensum quidem confusa colligere, nullo modo autem ad integritatem rationis ascendere, sic consideremus. Datae enim lineae maiorem minoremve aliam repperire, nihil est difficile sensui. Proposita vero mensura, ut tanto maiorem tantove minorem repperiat, id non faciet sensus prima conceptio, sed sollers rationis inventio. Vel si rursus datam lineam propositum sit vel duplicare vel dimidiam secare, id fortasse, licet paulo difficilius quam confuse maiorem minoremve repperire, poterit tamen sensus inventione constitui. Si vero imperetur, ut propositae lineae tripla ponatur vel ab ea pars tertia recidatur vel quadrupla constituatur vel pars quarta resecetur, nonne inpossibile sit sensui, nisi integritas rationis accedat? Hoc ideo, quia per processus quidem rationi locus adcrescit, deficit sensui. 
+      <pb n="[354]" />Si enim octavam partem propositae lineae auferre aliquis imperetur, vel eiusdem octuplam dare cogatur, totius quidem dimidiam sumere conpellitur dimidiaeque dimidietatem, ut sit quarta, quartaeque dimidium, ut sit octava; rursusque totius duplam duplaeque duplam, ut sit quadrupla, quadruplaeque duplam, ut sit octupla. Itaque in tanta rerum numerositate nihil efficit sensus, cuius omne iudicium subitum atque in superficie positum integritatem perfectionemque non explicat. Idcirco non est aurium sensui dandum omne iudicium, sed exhibenda est etiam ratio, quae errantem sensum regat ac temperet, qua labens sensus deficiensque veluti baculo innitatur. Nam ut singulae artes habent instrumenta quaedam, quibus partim confuse aliquid informent, ut acisculum, partim vero, quod est integrum, deprehendant, ut circinum, ita enim armonica vis habet duas iudicii partes, unam quidem huiusmodi, per quam sensu conprehendit subiectarum differentias vocum, aliam vero per quam ipsarum differentias vocum, aliam vero, per quam ipsarum differentiarum integrum modum mensuramque considerat.</p>
+      <p id="BOEMUS50036">Quid sit armonica regula vel quam intentionem armonicae Pythagorei vel Aristoxenus vel Ptolomaeus esse dixerunt.</p>
+      <p id="BOEMUS50037">III. Huiusmodi igitur instrumentum, in quo rationis adhibito modo sonorum differentiae perquiruntur, vocatur armonica regula. In qua re multa doctorum sententiae discordia fuit. Quidam enim, qui Pythagoricis disciplinis maxime crediderunt, hanc intentionem armonicae esse dicebant, ut cuncta rationi consentanea sequerentur. Sensum 
+      <pb n="[355]" />enim dare quaedam quodammodo semina cognitionis rationem vero perficere. Aristoxenus vero e contrario rationem quidem comitem ac secundariam esse dicebat, cuncta vero sensus iudicio terminari et ad eius modulationem consensumque esse tendendum. A Ptolomaeo autem alio quodam modo armonicae definitur intentio, ea scilicet, ut nihil auribus rationique possit esse contrarium. Id enim secundum Ptolomaeum armonicus videtur intendere, ut id, quod sensus indicat, ratio quoque perpendat, et ita ratio proportiones inveniat, ut ne sensus reclamet, duorum horum concordia omnis armonici intentio misceatur. Atque in eo maxime Aristoxenum ac Pythagoricos reprehendit, quod Aristoxenus nihil rationi sed tantum sensibus credit, Pythagoricos autem, quia minimum sensibus, plurimum tamen proportionibus rationis invigilent.</p>
+      <p id="BOEMUS50038">In quo Aristoxenus vel Pythagorici vel Ptolomaeus gravitatem atque acumen constare posuerint.</p>
+      <p id="BOEMUS50039">IIII. Quoniam vero sonum esse omnes consentiunt aeris percussionem, gravitatis atque acuminis differentiam diversa ratione ponebant Aristoxenum secuti et Pythagorici. Aristoxenus quippe sonorum differentias secundum gravitatem atque acumen arbitrabatur in qualitate consistere. Pythagorici vero in quantitate ponebant. Ptolomaeus autem Pythagoricis proprior videtur idcirco, quoniam ipse quoque gravitatem atque acumen non in qualitate putat sed in quantitate constitui; etenim spissiora ac subtiliora corpora acumen, rariora et vastiora edere gravitatem, ut nihil nunc de intentionis relaxationisque modo 
+      <pb n="[356]" />dicatur; quamquam etiam, cum relaxatur aliquid, quasi fit rarius atque crassius, cum vero intenditur, spissius redditur subtiliusque tenuatur.</p>
+      <p id="BOEMUS50040">De sonorum differentiis Ptolomaei sententia.</p>
+      <p id="BOEMUS50041">V. His ita igitur expeditis differentias sonorum Ptolomaeus dividit hoc modo. Vocum aliae sunt unisonae, aliae minime. Unisonae sunt, quarum sonus unus est vel in gravi vel in acuto; non unisonae vero, quando est alia gravior, alia acutior. Harum partim ita sunt, ut earum inter se differentia communi fine iungatur. Non enim discreta est, sed a gravi in acutum ita deducitur, ut continua videatur. Aliae vero sunt non unisonae, quarum differentia silentio interveniente distinguitur. Ut vero voces communi fine iungantur, fit hoc modo. Sicut enim cum in nubibus arcus aspicitur ita colores sibimet sunt proximi, ut non sit certus finis, cum alter ab altero disgregatur, sed ita verbi gratia a rubro discedit ad pallidum, ut per continuam mutationem in sequentem vertatur colorem nullo medio certoque interveniente, qui utrosque distinguat, ita etiam fieri solet in vocibus, ut si quis percutiat nervum eumque, dum percutit, torqueat, evenit ut in principio pulsus gravior sit, dum torquetur vero, vox illa tenuetur continuique fiant gravis vocis sonitus et acutae.</p>
+      <p id="BOEMUS50042">Quae voces armoniae sint aptae.</p>
+      <p id="BOEMUS50043">VI. Cum igitur non unisonarum vocum aliae sint continuae, aliae disgregatae, continuae quidem tales sunt, ut 
+      <pb n="[357]" />Inter se earum differentia communi fine iungatur, nec habeat locum designatum vox acuta gravisque, quem teneant. Discretae vero habent proprios locos veluti colores inpermixti, quorum differentia visitur suo quodam loco constituta. Continuae quidem non aequisonae voces ab armonica facultate separantur. Sunt enim sibi ipsis dissimiles nec unum aliquid personantes. Discretae vero voces armonicae subiciuntur arti. Potest enim distantium sibique dissimilium vocum differentia deprehendi, in quibus, qui iuncti efficere melos possunt, [emmeleis] dicuntur, [ekmeleis] autem, quibus iunctis melos effici non potest.</p>
+      <p id="BOEMUS50044">Quem numerum proportionum Pythagorici statuant.</p>
+      <p id="BOEMUS50045">VII. Consonae autem vocantur, quae copulatae mixtos suavesque efficiunt sonos, dissonae vero, quae minime. Et hoc quidem est Ptolomaei de sonorum differentia iudicium. Nunc autem quid a ceteris in consonantiarum positione destiterit dicendum videtur. Pythagorici enim consonantias diapente ac diatessaron simplices arbitrantur atque ex his unam diapason consonantiam iungunt. Esse etiam diapente ac diapason et bis diapason, illam tripli, hanc quadrupli. Diapason vero ac diatessaron consonantiam esse non aestimant idcirco, quoniam non in superparticulari vel multiplici cadit comparatione, sed in multiplici superpartiente. Est enim haec proportio vocum ut octo ad tres. Si quis enim horum in medio quattuor ponat, efficiet terminos hos VIII. IIII. III. Quorum octo ad quattuor diapason efficiunt consonantiam, quattuor ad tres diatessaron. Octo vero ad tres in multiplici superpartiente constituitur. Quae autem sit multiplex superpartiens comparatio, 
+      <pb n="[358]" />ex arithmeticis libris cognoscendum est, et ex his, quae secundo huius institutionis libro digessimus. Pythagorici autem consonantias in multiplicibus ac superparticularibus ponunt, sicut eodem libro secundo quartoque praedictum est, a superpartientibus vero ac multiplicibus superpartientibus consonantias separant. Quibus autem modis diapason quidem duplici, diatessaron vero sesquitertio ac diapente sesqualtero coniungant Pythagorici, ex secundo huius institutionis musicae libro et quarto petendum est.</p>
+      <p id="BOEMUS50046">Quod reprehendat Ptolomaeus Pythagoricos in numero proportionum.</p>
+      <p id="BOEMUS50047">VIII. Reprehendit autem Pythagoricos Ptolomaeus totamque eam, quam praedictis libris exposuimus, demonstrationem pluribus modis, in quo totum illud etiam, quod diatessaron ac diapente sesqualtero et sesquitertio coniungunt, reliquis vero superparticularibus, cum eiusdem sint generis, nullas omnino applicent consonantias.</p>
+      <p id="BOEMUS50048">Demonstratio secundum Ptolomaeum diapason et diatessaron consonantiam esse.</p>
+      <p id="BOEMUS50049">VIIII. Probat autem ex diapason ac diatessaron quandam fieri symphoniam hoc modo, quoniam diapason consonantia talem vocis efficit coniunctionem, ut unus atque idem nervus esse videatur, idque Pythagorici quoque consentiunt. Quocirca si qua ei consonantia fuerit addita, integra inviolataque servatur. Ita enim diapason consonantiae 
+      <pb n="[359]" />additur tamquam uni nervo. Sit igitur diapason consonantia, quae contineatur inter hypaten meson et neten diezeugmenon. Utraque haec ita sibi consentit atque coniungitur sono, ut una vox, quasi unius nervi non quasi duorum mixta pellat auditum. Quamcunque igitur huic diapason consonantiae consonantiam iunxerimus, servatur integra, quia ita iungitur, tamquam uni voculae ac nervo. Si igitur hypate meson et nete diezeugmenon duae in acutum diatessaron fuerint iunctae, sicut iungitur nete quidem diezeugmenon ea, quae est nete hyperboleon, hypate autem meson ea, quae est mese: utraque ad utramque consonabit et mese ad neten diezeugmenon et eadem mese ad hypaten meson, item nete hyperboleon ad neten diezeugmenon et ad hypaten meson. Item si ad graviorem partem utriusque diatessaron consonantiae relaxentur, erit ad meson quidem hypaten diatessaron retinens consonantiam hypate hypaton, ad neten autem diezeugmenon paramese, consonabitque et hypate hypaton, ad hypaten meson et ad neten diezeugmenon et paramese ad neten diezeugmenon et ad hypaten meson, sed eo modo, ut gravior quae est ad sibi quidem proximam diatessaron retineat consonantiam, ad ulteriorem vero diatessaron ac diapason, ut hypate hypaton ad hypaten meson 
+      <pb n="[360]" />diatessaron, ad neten diezeugmenon diatessaron ac diapason. Item nete hyperboleon quae est acutior ad sibi proximam neten diezeugmenon diatessaron consonantiam, ad hypaten meson diatessaron ac diapason.</p>
+      <p id="BOEMUS50050">Quae sit proprietas diapason consonantiae.</p>
+      <p id="BOEMUS50051">X. Hoc vero idcirco evenire contendit, quoniam diapason paene una vocula est talisque consonantia est, ut unum quodammodo effingat sonum, et sicut denario numero qui fuerit additus intra eum positus integer inviolatusque servatur, cum in ceteris id ita minime eveniat, ita etiam in hac consonantia. Nam si duo tribus adicias, quinque continuo reddis et numeri species inmutata est, si vero eosdem denario addas, duodecim feceris et binarius iunctus denario conservatus est. Item ternarius ceterique eodem modo. Ita igitur symphonia diapason quamcunque aliam susceperit, consonantiam servat nec inmutat nec ex consona dissonam reddit. Nam sicut diapente symphonia iuncta diapason consonantiae in tripla scilicet proportione diapason ac diapente consonantiam servat, ita etiam diatessaron cum sit consonantia iuncta cum diapason, aliam consonantiam reddit et fit secundum Ptolomaeum alterius consonantiae additio eius, quae est diapason ac diatessaron in multiplici superpartiente constituta, estque ea proportio dupla superbipartiens ut octo ad tres. Habent enim ternarium octo bis duasque eius partes id est duas unitates.</p>
+      <p id="BOEMUS50052">Quibus modis Ptolomaeus consonantias statuat.</p>
+      <p id="BOEMUS50053">XI. Et de Pythagoricorum quidem opinione Ptolomaeus 
+      <pb n="[361]" />ita diiudicat. Quibus vero modis ipse consonantiarum proportiones numerosque vestiget, hinc ordiendum est. Voces, inquit, inter se vel unisonae sunt vel non unisonae. Non unisonarum autem vocum aliae quidem sunt aequisonae, aliae consonae, aliae emmelis, aliae dissonae, aliae ekmelis. Et unisonae quidem sunt, quae unum atque eundem singillatim pulsae reddunt sonum, aequisonae vero, quae simul pulsae unum ex duobus atque simplicem quodammodo efficiunt sonum, ut est diapason eaque duplicata, quae est bis diapason. Consonae autem sunt, quae compositum permixtumque, suavem tamen, efficiunt sonum, ut diapente ac diatessaron. Emmelis autem sunt, quaecunque consonae quidem non sunt, possunt aptari tamen recte ad melos, ut sunt hae, quae consonantias iungunt. Dissonae vero sunt, quae non permiscent sonos atque insuaviter feriunt sensum; ekmelis vero, quae non recipiuntur in consonantiarum coniunctione, de quibus paulo posterius in divisione tetrachordorum dicemus. Quoniam igitur univocis quidem comparationibus proximae sunt aequivocae, necesse est, ut aequis numeris ea numerorum inaequalitas adiungatur, quae est proxima aequis. Est autem iuxta aequalitatem numerorum ea, quae est dupla. Nam et prima multiplicitatis species est et maior numerus, cum minorem supervenit, aequo eum ipsi minori transcendit, ut duo unum uno transgrediuntur, qui eidem unitati aequalis est. Iure igitur duplex proportio aequisonis aptatur, id est diapason, bis diapason vero bis duplici, id est quadruplo. Quae autem proportiones dividunt duplicem proportionem primae ac maximae his aptandae sunt consonantiis, quae dividunt diapason aequisonantiam. Unde fit, ut diapente quidem 
+      <pb n="[362]" />sesqualterae, diatessaron vero sesquitertiae comparationi copulentur. Iunctae vero consonae cum aequisonis alias efficiunt consonantias, ut diapente ac diapason in triplo diatessaron ac diapason in ea proportione, quae est octo ad tres. Emmelis autem sunt, quae diapente ac diatessaron dividunt, ut tonus ceteraeque proportiones, de quibus paulo posterius in divisione tetrachordorum loquemur, simplices earum scilicet partes.</p>
+      <p id="BOEMUS50054">Quae sint aequisonae, quae consonae, quae emmelis.</p>
+      <p id="BOEMUS50055">XII. Igitur aequisonae quidem sunt diapason ac bis diapason, quoniam earum temperamento mixturaque unus ac simplex quodammodo efficitur sonus. Consonae autem sunt primae quidem in superparticularibus sesqualtera et sesquitertia, id est diapente ac diatessaron; et diapason ac diapente et diapason ac diatessaron. Hae sunt compositae atque coniunctae ex aequisonis et consonantibus. Emmelis autem sunt reliqui, qui inter has poni possunt, ut inter diatessaron ac diapente differentia tonus, iungunturque quodammodo aequisonae quidem consonatibus, ut diapason ex diatessaron ac diapente, consonae autem ex his, qui emmelis soni vocantur, ut eadem diapente et diatessaron tonis ceterisque posterius dicendis proportionibus. Sed quonam modo quidem horum omnium proportio colligi possit, ex eo loco sumendum est, quem quarto volumine in fine descripsimus, ubi nervus super semispheria tendebatur. Ibi enim deprehenditur aequisonatio 
+      <pb n="[363]" />diapason ac bis diapason et consonantiae simplices diapente ac diatessaron et consonantiae compositae diapason ac diapente et diapason ac diatessaron et qui sunt emmelis soni, ut in toni differentia consistentes.</p>
+      <p id="BOEMUS50056">Quemadmodum Aristoxenus intervalla consideret.</p>
+      <p id="BOEMUS50057">XIII. Quid vero de his Aristoxenus sentiat, breviter aperiendum est. Ille enim quoniam minime tractatum rationi constituit, sed aurium iudicio permittit, idcirco voces ipsas nullis numeris notat, ut earum colligat proportiones, sed earum in medio differentiam sumit, ut speculationem non in ipsis vocibus, sed in eo, quod inter se differunt, collocet, nimis inprovide, qui differentiam se scire arbitretur earum vocum, quarum nullam magnitudinem mensuramve constituat. Hic igitur et diatessaron consonantiam duorum tonorum ac semitonii esse proponit, et diapente trium tonorum ac semitonii et diapason sex tonorum, quod fieri non posse superioribus voluminibus demonstratum est.</p>
+      <p id="BOEMUS50058">Descriptio octachordi, qua ostenditur diapason minorem esse sex tonis.</p>
+      <p id="BOEMUS50059">XIIII. Docet autem Ptolomaeus per cuiusdam octachordi divisionem diapason intra sex tonos cadere hoc modo. Intendantur enim octo chordae, id est A. B. C. D. E. F. G. H., fiatque sesquioctava .AK. eius, quae est .BL., et .BL. eius, quae est .CM., et .CM. eius, quae est .DN., et .DN. eius, quae est .EX., et .EX. eius, quae est .FO., et 
+      <pb n="[364]" />.FO. eius, quae est .GP. Erunt igitur sex toni. Rursus .H. dividatur nervus medius ad .R. Erit igitur .AK. dupla ab eo, quod est .HR. Pulsae igitur simul .AK. .HR. diapason aequisonantiam consonabunt. Si vero aliquis .GP. percutiat, semper erit paulo acutior, quam est .HR. ac per hoc transcendunt sex toni diapason consonantiam. Si enim .AK. et .GP. diapason pulsati resonarent, tonorum sex esset diapason consonantia. Si vero his non consonantibus .AK. et .HR. diapason consonarent, et .HR. acutior esset quam .GP., diapason consonantia sex tonos excederet. Nunc vero, quia consonantibus .AK. et .HR. eadem .HR. ab ea, quae est .GP., gravior invenitur, non potest, quin sex toni diapason consonantiam excedant. Atque ita sensu quoque potest colligi, diapason consonantiam intra sex tonos cadere. Sic igitur Aristoxeni error sine dubitatione convincitur.</p>
+      <p id="BOEMUS50060">[Friedlein, 364; text: A, B, C, D, E, F, G, H, K, L, M, N, X, O, P, R] 
+      <figure>
+        <graphic url="/images/BOEMUS5_01GF.gif" />
+      </figure></p>
+      <p id="BOEMUS50061">Diatessaron consonantiam tetrachordo contineri.</p>
+      <p id="BOEMUS50062">XV. Nunc de tetrachordorum divisione dicendum. 
+      <pb n="[365]" />Etenim diatessaron consonantia quattuor efficitur nervis, idcirco etiam diatessaron nuncupatur. Ut igitur duobus nervis, altrinsecus positis ac diatessaron symphoniam consonantibus fiat tetrachordon duos necesse est statui in medio nervos, qui ad se invicem atque ad extremos tres proportiones efficiant.</p>
+      <p id="BOEMUS50063">Quomodo Aristoxenus vel tonum dividat vel genera eiusque divisionis dispositio.</p>
+      <p id="BOEMUS50064">XVI. Hoc igitur diatessaron Aristoxenus per genera tali ratione partitur. Dividit enim tonum in duas partes atque id semitonium vocat. Dividit in tres, cuius tertiam vocat diesin chromatis mollis. Dividit in quattuor, cuius quartam cum propria medietate, id est cum octava totius toni appellat diesin chromatis hemiolii. Cum igitur haec ita sint cumque generum divisio secundum eum sit duplex, unum quidem genus est mollius, aliud vero incitatius. Et mollius quidem est enarmonium, incitatius vero diatonicum. Inter haec vero consistit chromaticum incitatione mollitieque participans, Fiunt igitur secundum hunc ordinem differentiae permixtorum generum sex, una quidem enarmonii, tres autem chromatici, id est chromatici mollis et chromatici hemiolii et chromatici toniaei, duae vero reliquae diatonici mollis atque incitati. Quorum omnium talis secundum Aristoxenum divisio est. Quoniam enim quarta pars toni diesis enarmonios nuncupari praedicta est, quoniamque Aristoxenus non voces ipsas inter se comparat, sed differentiam vocum intervallumque metitur, est secundum eum tonus .XII. unitatum. Huius igitur erit pars quarta diesis enarmonios .III. Quoniam vero 
+      <pb n="[366]" />ex duobus tonis ac semitonio diatessaron consonantia iungitur, erit tota diatessaron ex bis .XII. ac .VI. unitatibus constituta. Sed quoniam saepe fit, ut, si usque ad octavas velimus deducere partes, non in integros numeros, sed in aliquas particulas incurramus, idcirco facienda quidem est tota diatessaron .LX. at vero .XXIIII. tonus, semitonium .XII., pars quarta, quae diesis enarmonios dicitur, .VI., octava autem .III. Iuncta vero octava cum quarta, .VI. scilicet cum tribus, ut faciat diesin chromatis hemiolii, erunt .VIIII. His igitur ita constitutis tria genera, enarmonium, chromaticum, diatonicum, has Aristoxeno videntur habere proprietates, ut alia eorum dicantur spissa, alia minime. Spissa sunt, quorum duae graviores proportiones unam eam, quae ad acutum apposita est, magnitudine non vincunt; non spissa vero, quorum duae proportiones unam reliquam poterunt superare. Est autem enarmonium et chromaticum spissum, diatonicum vero non spissum. Itaque enarmonium secundum Aristoxenum dividitur sic VI. VI. XLVIII., ut inter gravem nervum ac prope gravem sit quarta pars toni, quae dicitur diesis enarmonios, cum sit tonus .XXIIII. unitatibus constitutus. Item secundum intervallum inter secundum a gravi nervo ad tertium sit eadem quarta pars toni .VI. Reliqui vero, qui restant ex .LX., qui totius proportionis sunt, inter tertium a gravi nervo atque acutissimum quartum ponuntur .XLVIII. Et duae proportiones ad gravem positae, id est .VI. et .VI., unam reliquam ad acutum locatam, id est .XLVIII. non vincunt. Chromatis vero mollis hanc facit divisionem VIII. VIII. XLIIII., ut .VIII. atque .VIII. sint tertiae partes tonorum. Est enim tonus, ut dictum est, .XXIIII. unitatum et dicitur toni pars tertia diesis chromatis mollis. Item chromatis hemiolii diatessaron ita partitur 
+      <pb n="[367]" />VIIII. VIIII. XLII. Est enim diesis chromatis hemiolii pars octava toni cum quarta, id est ex XXIIII. VI. cum tribus. Item chromatis toniaei talis secundum Aristoxenum partitio est. XII. XII. XXXVI. scilicet ut in duobus intervallis singula semitonia constituat, et quod est reliquum in ultimo. Atque in his omnibus duae proportiones, quae graviori nervo sunt proximae, reliquam, quae ad acutum posita est, minime magnitudine superant. Sunt enim, ut dictum est, spissorum generum. Spissa quippe genera sunt enarmonium atque chromaticum. Diatonica vero divisio ipsa quoque est duplex. Et mollis quidem diatonici divisio est hoc modo XII. XVIII. XXX., ut XII. semitonium sit, .X. et .VIII. semitonium et quarta pars toni, .XXX. vero quod reliquum est. Quorum .X. et .VIII. atque .XII. efficiunt .XXX. nec superantur ab ea parte, quae reliqua est. Item diatonici incitati talis partitio est, ut semitonium ac duos habeat integros tonos, idest XII. XXIIII. XXIIII., ex quibus .XXIIII. et .XII., id est .XXXVI. non superantur a reliqua parte, quae ad acutum est, sed potius vincunt. Est igitur secundum Aristoxenum tetrachordorum praedicta partitio, quae subiecta descriptione monstrabitur.</p>
+      <p id="BOEMUS50065">[Friedlein, 367; text: XLVIII. VI. VI. LX. XLIIII. VIII. VIII. LX. XLII. VIIII. VIIII. LX. Enarmonium, Chromaticum molle, Chromaticum hemiolium]</p>
+      <p id="BOEMUS50066">
+      <pb n="[368]" />[Friedlein, 368; text: XXXVI. XII. XII. LX. XXX. XVIII. XII. LX. XXIIII. XXIIII. XII. LX. Chromaticum toniaeum, Diatonicum molle, Diatonicum incitatum]</p>
+      <p id="BOEMUS50067">Quomodo Archytas tetrachorda dividat eorumque descriptio.</p>
+      <p id="BOEMUS50068">XVII. Archytas vero cuncta ratione constituens non modo sensum aurium in primis consonantiis observare neglexit, verum etiam maxime in tetrachordorum divisione rationem secutus est, sed ita, ut neque eam, quam quaerebat, efficaciter expediret, neque sensui proposita ab eo ratio consentiret. Ille enim tria genera esse arbitratur, enarmonium, diatonicum, chromaticum, in quibus eosdem gravissimos statuit atque acutissimos sonos, in omnibus quidem generibus gravissimos sonos faciens .II[macron supra lin.].XVI., acutissimos vero .M.DXII. Inter hos in tribus generibus nervum gravissimo proximum collocat eum scilicet, qui sit .I[macron supra lin.].DCCCC.XLIIII., ut ad eum .II[macron supra lin.].XVI. sesquivicesimam septimam obtineant proportionem, Post hunc vero infra acutum nervum, tertium vero a gravissimo, eum collocat in enarmonio genere, qui sit .I[macron supra lin.].DCCC.XC., ad quem .I[macron supra lin.].DCCCC.XLIIII. sesquitricesima quinta proportione iungantur. Idemque .I[macron supra lin.].DCCC.XC. ad acutissimum, 
+      <pb n="[369]" />id est .I[macron supra lin.].DXII. in sesquiquarta proportione sit constitutus. Item in diatonico genere tertium quidem a gravissimo nervo, secundum vero ab acutissimo, eum ponit, qui sit .I[macron supra lin.].DCCI., ad quos .I[macron supra lin.].DCCCC.XLIIII. sesquiseptima proportione coniuncti sint, ipsi autem .I[macron supra lin.].DCCI. ad acutissimum .I[macron supra lin.].DXII. sesquioctava. In chromatico vero genere tertium a gravissimo et secundum ab acutissimo eum ponit, qui ad .I[macron supra lin.].DCCI., qui est secundus in diatonico genere eam obtineat proportionem, quam obtinent .CCLVI. ad .CCXLIII. Hic autem est .I[macron supra lin.].DCCXCII. qui est secundus ab acutissimo appositus. Habetque proportionem secundus ab acutissimo in diatonico genere, id est .I[macron supra lin.].DCCI. ad secundum ab acutissimo in chromatico genere, id est .I[macron supra lin.].DCCXCII. eam, quam habent .CCXLIII. ad .CCLVI. Eorumque tetrachordorum secundum Archytae sententiam divisorum formam monstrat subiecta descriptio.</p>
+      <p id="BOEMUS50069">[Friedlein, 369; text: M.DXII. M.DCCCXC. M.DCCCCXLIIII. II[macron supra lin.].XVI. M.DXII. M.DCCI. M.DCCCCXLIIII. II[macron supra lin.].XVI. M.DXII. M.DCCXCII. M.DCCCCXLIIII. II[macron supra lin.].XVI. Enarmonium, Diatonicum, Chromaticum]</p>
+      <p id="BOEMUS50070">Quemadmodum Ptolomaeus et Aristoxeni et Archytae tetrachordorum divisionem reprehendat.</p>
+      <p id="BOEMUS50071">XVIII. Sed utrasque tetrachordorum divisiones Ptolomaeus ita reprehendit. Archytae quidem primo, quoniam 
+      <pb n="[370]" />secundus ab acutissimo nervus in chromatico genere, id est .I[macron supra lin.].DCCXCII. ita est collocatus, ut nec ad acutissimum .I[macron supra lin.].DXII. nec ad proximum graviori .I[macron supra lin.].DCCCC.XLIIII. ullam superparticularem efficiat proportionem, cum Archytas tantum superparticularibus comparationibus habuerit dignitatem, ut eas etiam in consonantiarum ratione susceperit. Dehinc, quod primam a gravissimo nervo proportionem in chromatico quidem maiorem sensus esse deprehendat, quam fecerit Archytas. Hic namque in chromatico genere .I[macron supra lin.].DCCCC.XLIIII. ad .II[macron supra lin.].XVI. distare fecit sesquivicesimam septimam proportionem, cum secundum consuetam chromatici generis modulationem sesquivicesima prima esse debuerit. Item enarmonii generis ea proportio, quam prima a gravissimo secundum Archytae retinet divisionem, talis est, ut longe minor esse debeat, quam in ceteris generibus invenitur. Hic autem aequam eam ceteris generibus statuit, dum primas a gravi proportiones in tribus generibus sesquivicesimas septimas ponit. Aristoxenum vero culpat, quoniam in chromate molli et chromate hemiolio tales posuerit primas secundasque a gravi nervo proportiones, quae a se minimo et quantum sensus non possit internoscere distarent. Est quippe proportio prima in chromatis mollis divisione secundum Aristoxenum .VIII., at in chromate hemiolio .VIIII. Sed .VIII. ad .VIIII. unitatis differentia distant. Est autem totus tonus .XXIIII. unitatibus secundum positionem, quorum unitas vicesima quarta est. Primae igitur a gravi inter se proportiones chromatis mollis et chromatis hemiolii 
+      <pb n="[371]" />vicesima quarta parte toni distant, quod propter brevitatem differentiae nullo modo sentit auditus. Idem etiam Aristoxenum reprehendit, cur diatonici generis duas tantum fecerit divisiones, ut in mollem incitatumque divideret, cum possint aliae quoque diatonici generis species inveniri.</p>
+      <p id="BOEMUS50072">Quemadmodum Ptolomaeus tetrachordorum divisionem fieri dicat oportere.</p>
+      <p id="BOEMUS50073">XVIIII. Ptolomaeus enim tetrachorda diversa ratione partitur, illud in principio statuens, ut inter duos altrinsecus sonos tales voculae aptentur, quae se superparticularibus proportionibus excedant, inaequalibus tamen, quoniam superparticularis proportio non potest in aequa dividi; dehinc ut omnis comparatio, quae fit ad eum nervum, qui est gravissimus in tribus minor sit ceteris, quae acutis vocibus coniunguntur. Sed in his ea, quae spissa nominamus, talia esse debent, ut duae proportiones, quae gravitati sunt proximae, minores sint ea proportione, quae relinquitur ad acutum. In non spissis vero ut in diatonicis generibus nusquam una.</p>
+    </body>
+  </text>
+</TEI>

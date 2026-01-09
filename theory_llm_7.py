@@ -319,11 +319,11 @@ def create_pdf(question, answer, context_docs):
         metadata = doc.metadata
         
         elements.append(Paragraph(f"Source {idx}", subheading_style))
-        elements.append(Paragraph(f"<b>Author:</b> {metadata.get('Author', 'Unknown')}", body_style))
+        elements.append(Paragraph(f"<b>Author:</b> {metadata.get('author', 'Unknown')}", body_style))
         # elements.append(Paragraph(f"<b>File Name:</b> {metadata.get('source_file', 'Unknown')}", body_style))
-        elements.append(Paragraph(f"<b>Title:</b> {metadata.get('Title', 'Unknown')}", body_style))
-        elements.append(Paragraph(f"<b>Source:</b> {metadata.get('Source', 'Unknown')}", body_style))
-        elements.append(Paragraph(f"<b>Page Number:</b> {metadata.get('PageNumber', 1)}", body_style))
+        elements.append(Paragraph(f"<b>Title:</b> {metadata.get('title', 'Unknown')}", body_style))
+        elements.append(Paragraph(f"<b>Source:</b> {metadata.get('source', 'Unknown')}", body_style))
+        elements.append(Paragraph(f"<b>Page Number:</b> {metadata.get('page_number', 1)}", body_style))
         elements.append(Paragraph(f"<b>Original Source Passage:</b>", body_style))
         passage_flowables = parse_text_to_flowables(doc.page_content, body_style)
         elements.extend(passage_flowables)
@@ -364,7 +364,7 @@ else:
 
     # Then pass embeddings to the vector store loader
     vector_store = load_chroma_vector_store(
-        persist_directory=f'{Path.cwd()}/chroma-db_latin2',
+        persist_directory=f'{Path.cwd()}/chroma-db_latin3',
         collection_name='HTML_samples_latin',
         _embeddings=embeddings  # Pass the embeddings object
     )

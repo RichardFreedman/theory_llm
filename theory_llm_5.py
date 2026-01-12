@@ -19,10 +19,10 @@ import re
 import pandas as pd
 
 
-st.set_page_config(page_title='Ask the Music Theorists', page_icon='🔎')
+st.set_page_config(page_title='Ask the English Music Theorists', page_icon='🔎')
 
 st.sidebar.header('About this App 🔎')
-st.title('🔎 Ask the Music Theorists')
+st.title('🔎 Ask the English Music Theorists')
 st.write("This Streamlit application allows you to query a database of music theory texts using a large language model (LLM) with retrieval-augmented generation (RAG). Learn more about the system and how to write effective prompts with the tools at the left.") 
          
 intro  = st.sidebar.checkbox("How to Use this Application", value=False, key="intro")
@@ -389,9 +389,9 @@ else:
     embeddings = OpenAIEmbeddings(model='text-embedding-3-large')
 
     vector_store = Chroma(
-        collection_name='HTML_samples',
+        collection_name='English_Treatises',
         embedding_function=embeddings,
-        persist_directory=f'{Path.cwd()}/chroma-db'
+        persist_directory=f'{Path.cwd()}/chroma-db_english'
     )
 
     # Get available authors and create multiselect

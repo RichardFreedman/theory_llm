@@ -364,7 +364,7 @@ else:
 
     # Then pass embeddings to the vector store loader
     vector_store = load_chroma_vector_store(
-        persist_directory=f'{Path.cwd()}/chroma-db_latin3',
+        persist_directory=f'{Path.cwd()}/chroma-db_latin',
         collection_name='HTML_samples_latin',
         _embeddings=embeddings  # Pass the embeddings object
     )

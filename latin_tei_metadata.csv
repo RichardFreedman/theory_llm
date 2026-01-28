@@ -1,26 +1,940 @@
-Filename,Title,Author,Date,Source
-MARLU4.xml,"Lucidarium, tractatus quartus",Marchetus de Padua,14th,chtmlMARLU4.xml
-MARLU5.xml,"Lucidarium, tractatus quintus",Marchetus de Padua,14th,chtmlMARLU5.xml
-MARLU7.xml,"Lucidarium, tractatus septimus",Marchetus de Padua,14th,chtmlMARLU7.xml
-MARLU6.xml,"Lucidarium, tractatus sextus",Marchetus de Padua,14th,chtmlMARLU6.xml
-MARLU2.xml,"Lucidarium, tractatus secundus",Marchetus de Padua,14th,chtmlMARLU2.xml
-MARLU3.xml,"Lucidarium, tractatus tertius",Marchetus de Padua,14th,chtmlMARLU3.xml
-MARLU1.xml,"Lucidarium, tractatus primus",Marchetus de Padua,14th,chtmlMARLU1.xml
-MARLU11.xml,"Lucidarium, tractatus undecimus",Marchetus de Padua,14th,chtmlMARLU11.xml
-MARLU10.xml,"Lucidarium, tractatus decimus",Marchetus de Padua,14th,chtmlMARLU10.xml
-MARLU12.xml,"Lucidarium, tractatus duodecimus",Marchetus de Padua,14th,chtmlMARLU12.xml
-MARLU13.xml,"Lucidarium, tractatus decimustertius",Marchetus de Padua,14th,chtmlMARLU13.xml
-BURMUS2.xml,"Musices opusculum, tractatus secundus","Burtius, Nicolaus",15th,chtmlBURMUS2.xml
-MARLU16.xml,"Lucidarium, tractatus decimussextus",Marchetus de Padua,14th,chtmlMARLU16.xml
-BURMUS3.xml,"Musices opusculum, tractatus tertius","Burtius, Nicolaus",15th,chtmlBURMUS3.xml
-BURMUS1.xml,"Musices opusculum, tractatus primus","Burtius, Nicolaus",15th,chtmlBURMUS1.xml
-MARLU14.xml,"Lucidarium, tractatus decimusquartus",Marchetus de Padua,14th,chtmlMARLU14.xml
-MARLU15.xml,"Lucidarium, tractatus decimusquintus",Marchetus de Padua,14th,chtmlMARLU15.xml
-ANO4MUS.xml,[Musica],Anonymous 4,13th,chtmlANO4MUS.xml
-BOEMUS5.xml,"De institutione musica, liber quintus","Boethius, Anicius Manlius Severinus",6th-8th,chtmlBOEMUS5.xml
-BOEMUS4.xml,"De institutione musica, liber quartus","Boethius, Anicius Manlius Severinus",6th-8th,chtmlBOEMUS4.xml
-BOEMUS3.xml,"De institutione musica, liber tertius","Boethius, Anicius Manlius Severinus",6th-8th,chtmlBOEMUS3.xml
-BOEMUS2.xml,"De institutione musica, liber secundus","Boethius, Anicius Manlius Severinus",6th-8th,chtmlBOEMUS2.xml
-MARLU8.xml,"Lucidarium, tractatus octavus",Marchetus de Padua,14th,chtmlMARLU8.xml
-BOEMUS1.xml,"De institutione musica, liber primus","Boethius, Anicius Manlius Severinus",6th-8th,chtmlBOEMUS1.xml
-MARLU9.xml,"Lucidarium, tractatus nonus",Marchetus de Padua,14th,chtmlMARLU9.xml
+filename,title,author,date,date_start,date_end,citation
+ORNMUS2.xml,Musice active micrologus liber secundus,"Ornithoparchus, Andreas",16th century,1500,1599,chtmlORNMUS2.xml
+MONEPI.xml,Epitoma utriusque musicae practicae,"Monetarius, Stefan",16th century,1500,1599,chtmlMONEPI.xml
+WALREGU_MLBLL763.xml,Regule Magistri. Thome Walsingham. De figuris compositis. et non compositis. et de cantu perfecto et inperfecto. et De modis. incipiunt,"Walsingham, Thomas",14th century,1300,1399,chtmlWALREGU_MLBLL763.xml
+RUDQUA.xml,Quaestiones in musica,Rudolf of St. Trond,12th century,1100,1199,chtmlRUDQUA.xml
+ANOAM.xml,Ars musice,Anonymous,15th century,1400,1499,chtmlANOAM.xml
+GUIMICB_MBBR2784.xml,Micrologus,Guido d'Arezzo,9th-11th century,800,1099,chtmlGUIMICB_MBBR2784.xml
+TINCPT3.xml,"Liber de arte contrapuncti, Liber tertius","Tinctoris, Johannes",15th century,1400,1499,chtmlTINCPT3.xml
+JACSP4.xml,"Speculum musicae, Liber quartus",Jacobus Leodiensis,14th century,1300,1399,chtmlJACSP4.xml
+GALRIT3.xml,"Ritus canendi vetustissimus et novus, liber tertius",Johannes Gallicus dictus Carthusiensis seu de Mantua,15th century,1400,1499,chtmlGALRIT3.xml
+METANO1.xml,De musica et tonis tractatus,Anonymous,12th century,1100,1199,chtmlMETANO1.xml
+FABMUS1.xml,Ad musicam practicam introductio,"Faber, Heinrich",16th century,1500,1599,chtmlFABMUS1.xml
+GLADOD1.xml,"Dodecachordon, Liber primus","Glareanus, Henricus",16th century,1500,1599,chtmlGLADOD1.xml
+BEUMUS2.xml,"Musicae rudimenta e pleniore eius descriptione itemque exempla quaedam facilia ad puerilem exercitationem e bonis auctoribus, Libellus secundus de cantu","Beurhusius, Fredericus",16th century,1500,1599,chtmlBEUMUS2.xml
+ANOMCANT_MSAVI44.xml,[De modis cantandi],Anonymous,15th century,1400,1499,chtmlANOMCANT_MSAVI44.xml
+MURMSPEC_MVBM8-24.xml,Musica speculativa,Johannes de Muris,14th century,1300,1399,chtmlMURMSPEC_MVBM8-24.xml
+ANO2DEM.xml,De musica antiqua et nova,Anonymous II,14th century,1300,1399,chtmlANO2DEM.xml
+ANO5DED.xml,De discantu,Anonymous 5,14th century,1300,1399,chtmlANO5DED.xml
+MURMUSI.xml,Musica speculativa,Johannes de Muris,14th century,1300,1399,chtmlMURMUSI.xml
+ANOTRA.xml,Tractatulus de cantu mensurali seu figurativo musice artis,Anonymous,14th century,1300,1399,chtmlANOTRA.xml
+AURMDAP.xml,"Musica disciplina, cap. VIII-XVI",Aurelianus Reomensis,9th-11th century,800,1099,chtmlAURMDAP.xml
+ODOINT.xml,Intonarium,Odo,9th-11th century,800,1099,chtmlODOINT.xml
+REGTONA.xml,Tonarius,Regino Prumiensis,9th-11th century,800,1099,chtmlREGTONA.xml
+ANOUPS2.xml,[Tractatus de musica mensurata et musica falsa],Anonymous,13th century,1200,1299,chtmlANOUPS2.xml
+ANOCBA_MBAV5320.xml,Compendium breve artis musicae,Anonymous,13th century,1200,1299,chtmlANOCBA_MBAV5320.xml
+MARLU4.xml,"Lucidarium, tractatus quartus",Marchetus de Padua,14th century,1300,1399,chtmlMARLU4.xml
+CICNM2.xml,"Nova musica, liber secundus de speciebus","Ciconia, Johannes",15th century,1400,1499,chtmlCICNM2.xml
+UGODEC3B.xml,"Declaratio musicae disciplinae, liber tertius",Ugolino Urbevetanis,15th century,1400,1499,chtmlUGODEC3B.xml
+MURMSP.xml,Musica speculativa,Johannes de Muris,14th century,1300,1399,chtmlMURMSP.xml
+HOTREGC.xml,Regulae supra contrapunctum,"Hothby, Johannes",15th century,1400,1499,chtmlHOTREGC.xml
+MARPOME.xml,Pomerium,Marchetus de Padua,14th century,1300,1399,chtmlMARPOME.xml
+ANOQUA.xml,Quaedam de arte discantandi,Anonymous,13th century,1200,1299,chtmlANOQUA.xml
+ODODIAL_MVBM8-24.xml,Dialogus,Odo,9th-11th century,800,1099,chtmlODODIAL_MVBM8-24.xml
+MARDNP9.xml,"De nuptiis Philologiae et Mercurii, Liber IX, De musica",Martianus Capella,3rd-5th century,200,499,chtmlMARDNP9.xml
+GUEUT.xml,Utillissime musicales regule,"Guerson, Guillaume",15th century,1400,1499,chtmlGUEUT.xml
+HOTRSP.xml,Regulae super proportiones,"Hothby, Johannes",15th century,1400,1499,chtmlHOTRSP.xml
+COLORG.xml,Cologne Organum Treatise,Anonymous,9th-11th century,800,1099,chtmlCOLORG.xml
+MARLU5.xml,"Lucidarium, tractatus quintus",Marchetus de Padua,14th century,1300,1399,chtmlMARLU5.xml
+CICNM3.xml,"Nova musica, liber tertius de proportionibus","Ciconia, Johannes",15th century,1400,1499,chtmlCICNM3.xml
+BOEDIM1.xml,"De institutione musica, liber primus","Boethius, Anicius Manlius Severinus",6th-8th century,500,799,chtmlBOEDIM1.xml
+ANOUPS3.xml,[Tractatus brevis de musica mensurata],Anonymous,13th century,1200,1299,chtmlANOUPS3.xml
+ANOTDM.xml,[Tractatus de musica],Anonymous,15th century,1400,1499,chtmlANOTDM.xml
+BERNTON.xml,Tonarius,Berno Augiensis,9th-11th century,800,1099,chtmlBERNTON.xml
+ANOCBAM.xml,[Compendium breve artis musicae],Anonymous,15th century,1400,1499,chtmlANOCBAM.xml
+ANODVC.xml,De vera et compendiosa seu regulari constructione contrapuncti et de pluribus viciis a pluribus ignaris comittendis seu commissis ab autoribus prohibitis,Anonymous,15th century,1400,1499,chtmlANODVC.xml
+ANOTRDMK_MKBJ754.xml,[Tractatulus de musica],Anonymous,13th century,1200,1299,chtmlANOTRDMK_MKBJ754.xml
+BERMAN2_MLBL2322.xml,[De discantu],Anonymous,14th century,1300,1399,chtmlBERMAN2_MLBL2322.xml
+ANOCIST.xml,Tractatus cantandi graduale. Graduali Cisterciensi prologi instar praemissus,Anonymous,12th century,1100,1199,chtmlANOCIST.xml
+FARSCI.xml,De scientiis,Al-Farabi,12th century,1100,1199,chtmlFARSCI.xml
+ANO1MU.xml,Musica,Anonymous I,9th-11th century,800,1099,chtmlANO1MU.xml
+HUCORG.xml,De organo,Hucbald,9th-11th century,800,1099,chtmlHUCORG.xml
+TINEM.xml,Expositio manus,"Tinctoris, Johannes",15th century,1400,1499,chtmlTINEM.xml
+JACSP6A.xml,"Speculum musicae, Liber sextus",Jacobus Leodiensis,14th century,1300,1399,chtmlJACSP6A.xml
+HOTDCF2.xml,Regulae Magistri Johannis Hoctobi anglici cantus figurati,"Hothby, Johannes",15th century,1400,1499,chtmlHOTDCF2.xml
+QUAPRIB1.xml,Quatuor Principalia I,Anonymous,14th century,1300,1399,chtmlQUAPRIB1.xml
+WOLENC6.xml,"Enchiridion musices, liber VI","Wollick, Nicolaus",16th century,1500,1599,chtmlWOLENC6.xml
+COCCOM.xml,Compendium musices,"Coclico, Adrian Petit",16th century,1500,1599,chtmlCOCCOM.xml
+MACCOM2.xml,Commentarium in somnium Scipionis,Macrobius Ambrosius Theodosius,3rd-5th century,200,499,chtmlMACCOM2.xml
+GALRIT2.xml,"Ritus canendi vetustissimus et novus, liber secundus",Johannes Gallicus dictus Carthusiensis seu de Mantua,15th century,1400,1499,chtmlGALRIT2.xml
+ARIMUS.xml,Musica,Aribo,9th-11th century,800,1099,chtmlARIMUS.xml
+HIERINST.xml,Epistola ad Dardanum,Hieronymus [Ps.],9th-11th century,800,1099,chtmlHIERINST.xml
+TINCPT2.xml,"Liber de arte contrapuncti, Liber secundus","Tinctoris, Johannes",15th century,1400,1499,chtmlTINCPT2.xml
+ANOMENS_MPBN1474.xml,[De mensuratione],Anonymous,14th century,1300,1399,chtmlANOMENS_MPBN1474.xml
+FRACOMP.xml,Tractatus de discantu,Franco [Ps.],13th century,1200,1299,chtmlFRACOMP.xml
+ANOPRIR.xml,[Mensura fistularum],Anonymous,9th-11th century,800,1099,chtmlANOPRIR.xml
+SZAMUS.xml,[Musica],Ladislaus de Zalka,15th century,1400,1499,chtmlSZAMUS.xml
+ORNMUS3.xml,Musice active micrologus liber tertius,"Ornithoparchus, Andreas",16th century,1500,1599,chtmlORNMUS3.xml
+ORNMUS1.xml,Musice active micrologus liber primus,"Ornithoparchus, Andreas",16th century,1500,1599,chtmlORNMUS1.xml
+MURLIBR_MBAVR114.xml,Libellus cantus mensurabilis,Johannes de Muris,14th century,1300,1399,chtmlMURLIBR_MBAVR114.xml
+METANO2.xml,[Regulae de musica],Anonymous,13th century,1200,1299,chtmlMETANO2.xml
+JACSP7.xml,"Speculum musicae, Liber septimus",Jacobus Leodiensis,14th century,1300,1399,chtmlJACSP7.xml
+WOLENC4.xml,"Enchiridion musices, liber IV","Wollick, Nicolaus",16th century,1500,1599,chtmlWOLENC4.xml
+QUAPRIB3.xml,Quatuor Principalia III,Anonymous,14th century,1300,1399,chtmlQUAPRIB3.xml
+PROTRAY.xml,Tractatus practice cantus mensurabilis ad modum ytalicorum,Prosdocimo de' Beldomandi,15th century,1400,1499,chtmlPROTRAY.xml
+FABMUS2.xml,Ad musicam practicam introductio,"Faber, Heinrich",16th century,1500,1599,chtmlFABMUS2.xml
+WEYREG.xml,Regule,"Weyts, Carmelite, Nicasius",15th century,1400,1499,chtmlWEYREG.xml
+BEUMUS1.xml,"Musicae rudimenta e pleniore eius descriptione itemque exempla quaedam facilia ad puerilem exercitationem e bonis auctoribus, Libellus primus de sonis","Beurhusius, Fredericus",16th century,1500,1599,chtmlBEUMUS1.xml
+GRELUC.xml,"Lucubratiunculae bonarum septem artium liberalium, capitulum quintum, De musica","Gresemund, Dietrich",15th century,1400,1499,chtmlGRELUC.xml
+GLADOD2.xml,"Dodecachordum, Liber secundus","Glareanus, Henricus",16th century,1500,1599,chtmlGLADOD2.xml
+ANOVDM.xml,[Versus de musica],Anonymous,12th century,1100,1199,chtmlANOVDM.xml
+GARDMM.xml,De mensurabili musica,Johannes de Garlandia,13th century,1200,1299,chtmlGARDMM.xml
+MURMGAF.xml,[Prefatio de Johannis de Muris Musica speculativa],"Gaffurio, Franchino",15th century,1400,1499,chtmlMURMGAF.xml
+ANO1TRA.xml,Tractatus de consonantiis musicalibus,Anonymous 1,13th century,1200,1299,chtmlANO1TRA.xml
+LOSERO.xml,Erotemata musicae practicae,"Lossio, Luca",16th century,1500,1599,chtmlLOSERO.xml
+BERNVAR.xml,De varia psalmorum atque cantuum modulatione,Berno Augiensis,9th-11th century,800,1099,chtmlBERNVAR.xml
+WYLMUS.xml,Musica manualis cum tonale,"Wylde, Johannes",15th century,1400,1499,chtmlWYLMUS.xml
+CICNM1.xml,"Nova musica, liber primus de consonantiis","Ciconia, Johannes",15th century,1400,1499,chtmlCICNM1.xml
+MARLU7.xml,"Lucidarium, tractatus septimus",Marchetus de Padua,14th century,1300,1399,chtmlMARLU7.xml
+BOEDIM3.xml,"De institutione musica, liber tertius","Boethius, Anicius Manlius Severinus",6th-8th century,500,799,chtmlBOEDIM3.xml
+UGODEC3A.xml,"Declaratio musicae disciplinae, liber tertius",Ugolino Urbevetanis,15th century,1400,1499,chtmlUGODEC3A.xml
+FELMOD.xml,"Modus regulariter accentuandi lectiones Matutinales, prophetias necnon epistolas et euangelia",Sebastianus de Felstin,16th century,1500,1599,chtmlFELMOD.xml
+ANO2OMN.xml,[Tractatulus de notis],Anonymous,14th century,1300,1399,chtmlANO2OMN.xml
+ANOREGE.xml,Regulae generales de compositione cantus,Anonymous,15th century,1400,1499,chtmlANOREGE.xml
+BOEDIM2.xml,"De institutione musica, liber secundus","Boethius, Anicius Manlius Severinus",6th-8th century,500,799,chtmlBOEDIM2.xml
+MARLU6.xml,"Lucidarium, tractatus sextus",Marchetus de Padua,14th century,1300,1399,chtmlMARLU6.xml
+ANOTRAC3_MVBM8-24.xml,[Tractatus versificatus de modis],Anonymous,13th century,1200,1299,chtmlANOTRAC3_MVBM8-24.xml
+ANODUL.xml,Dulce ingenium (Versio Parisiensis et Brugensis),Anonymous,9th-11th century,800,1099,chtmlANODUL.xml
+ADETRA.xml,Epistola cum tractatu de musica instrumentali humanaque ac mundana,Adelboldus,9th-11th century,800,1099,chtmlADETRA.xml
+GLADOD3.xml,"Dodecachordum, Liber tertius","Glareanus, Henricus",16th century,1500,1599,chtmlGLADOD3.xml
+HOTDCF1.xml,De cantu figurato secundum eundem fratrem Johannem Hothbi Carmelitam,"Hothby, Johannes",15th century,1400,1499,chtmlHOTDCF1.xml
+JACSP6B.xml,"Speculum musicae, Liber sextus",Jacobus Leodiensis,14th century,1300,1399,chtmlJACSP6B.xml
+HERMUS_MRSL1496.xml,Musica,Hermannus Contractus,9th-11th century,800,1099,chtmlHERMUS_MRSL1496.xml
+BERNDIVM.xml,Cita et vera divisio monochordi in diatonico genere,Bernelinus,9th-11th century,800,1099,chtmlBERNDIVM.xml
+LIBDEP.xml,De philosophiae laudibus oratio,"Liban, Jerzy",16th century,1500,1599,chtmlLIBDEP.xml
+VINSPE.xml,"Speculum doctrinale, liber XVII, capitula X-XXXV",Vincent of Beauvais,13th century,1200,1299,chtmlVINSPE.xml
+QUAPRIB2.xml,Quatuor Principalia II,Anonymous,14th century,1300,1399,chtmlQUAPRIB2.xml
+AGANONT.xml,Tractatus de musica,Anonymous,15th century,1400,1499,chtmlAGANONT.xml
+MACCOM1.xml,Commentarium in somnium Scipionis,Macrobius Ambrosius Theodosius,3rd-5th century,200,499,chtmlMACCOM1.xml
+PSDTRA.xml,Tractatus de Musica,Petrus de Sancto Dionysio,14th century,1300,1399,chtmlPSDTRA.xml
+BALABM.xml,Abreviatio Magistri Franconis,Johannes dictus Balloce,13th century,1200,1299,chtmlBALABM.xml
+WOLENC5.xml,"Enchiridion musices, liber V","Wollick, Nicolaus",16th century,1500,1599,chtmlWOLENC5.xml
+GUIMOD.xml,De modorum formulis et cantuum qualitatibus,Guido d'Arezzo,9th-11th century,800,1099,chtmlGUIMOD.xml
+GALRIT1.xml,"Ritus canendi vetustissimus et novus, liber primus",Johannes Gallicus dictus Carthusiensis seu de Mantua,15th century,1400,1499,chtmlGALRIT1.xml
+KILDOS.xml,De ortu scientiarum,"Kilwardby, Robert",13th century,1200,1299,chtmlKILDOS.xml
+ANOPRG.xml,[Mensura fistularum],Anonymous,9th-11th century,800,1099,chtmlANOPRG.xml
+METANO3.xml,Ars musica,Anonymous,13th century,1200,1299,chtmlMETANO3.xml
+TINCPT1.xml,"Liber de arte contrapuncti, Liber primus","Tinctoris, Johannes",15th century,1400,1499,chtmlTINCPT1.xml
+WYLMUSI_MLBLL763.xml,Musica guidonis,"Wylde, John",15th century,1400,1499,chtmlWYLMUSI_MLBLL763.xml
+REIMAR.xml,"Margarita philosophica cum additionibus nouis: ab auctore suo studiosissima reuisione quarto super additis, Liber V: De principiis musicae","Reisch, Gregor",16th century,1500,1599,chtmlREIMAR.xml
+GUICOMS.xml,Commentarius in Micrologum Guidonis Aretini,Anonymous,12th century,1100,1199,chtmlGUICOMS.xml
+FELOP.xml,Opusculum musice,Sebastianus de Felstin,16th century,1500,1599,chtmlFELOP.xml
+PETMUSUP.xml,[Musica mensurabilis],Petrus Picardus,13th century,1200,1299,chtmlPETMUSUP.xml
+AEGTRA.xml,Tractatus cantus mensurabilis,Aegidius de Murino,14th century,1300,1399,chtmlAEGTRA.xml
+ANOCC.xml,[Compilatio Caroloruhensis],Anonymous,9th-11th century,800,1099,chtmlANOCC.xml
+ORNMUS4.xml,Musice active micrologus liber quartus,"Ornithoparchus, Andreas",16th century,1500,1599,chtmlORNMUS4.xml
+BERMAN3_MLBL2322.xml,[De cognicione notulorum],Anonymous,14th century,1300,1399,chtmlBERMAN3_MLBL2322.xml
+MURISW3.xml,Musica speculativa,Johannes de Muris,14th century,1300,1399,chtmlMURISW3.xml
+IERTRA2.xml,Tractatus de musica,Ieronimus de Moravia,13th century,1200,1299,chtmlIERTRA2.xml
+VITARNO.xml,Ars nova,Philippe de Vitry,14th century,1300,1399,chtmlVITARNO.xml
+ANO8REG.xml,Regulae de contrapuncto,Anonymous VIII,15th century,1400,1499,chtmlANO8REG.xml
+ROFFSUM.xml,Summa musicae artis,"Roffredi, Guglielmo",12th century,1100,1199,chtmlROFFSUM.xml
+WOLENC1.xml,"Enchiridion musices, liber I","Wollick, Nicolaus",16th century,1500,1599,chtmlWOLENC1.xml
+ANOTRAM.xml,Tractatulus de mensurationum,Anonymous,15th century,1400,1499,chtmlANOTRAM.xml
+MURMSPE.xml,Musica speculativa,Johannes de Muris,14th century,1300,1399,chtmlMURMSPE.xml
+ANODEO_MLBLL763.xml,[De origine musice artis],Anonymous,14th century,1300,1399,chtmlANODEO_MLBLL763.xml
+ODOMU.xml,De musica,Odo,9th-11th century,800,1099,chtmlODOMU.xml
+LAMTRAC_MSBCLV30.xml,[Tractatus de musica],Anonymous,13th century,1200,1299,chtmlLAMTRAC_MSBCLV30.xml
+RAMMP2.xml,"Musica practica, secunda pars, tractatus primus","Ramus de Pareia, Bartholomeus",15th century,1400,1499,chtmlRAMMP2.xml
+GUILEC.xml,[Lectio Guidonis],Anonymous,9th-11th century,800,1099,chtmlGUILEC.xml
+MARLU2.xml,"Lucidarium, tractatus secundus",Marchetus de Padua,14th century,1300,1399,chtmlMARLU2.xml
+CICNM4.xml,"Nova musica, liber quartus de accidentibus","Ciconia, Johannes",15th century,1400,1499,chtmlCICNM4.xml
+ANOORG.xml,[Tractatus de organo],Anonymous,12th century,1100,1199,chtmlANOORG.xml
+FAVDIS.xml,Disputatio de somnio Scipionis,Favonius Eulogius,3rd-5th century,200,499,chtmlFAVDIS.xml
+ANOCOL_MMBAI20I.xml,[Collectio tractatuum diversae originis],Anonymous,15th century,1400,1499,chtmlANOCOL_MMBAI20I.xml
+ALCMUS.xml,Musica,"Alcuinus, Flaccus",6th-8th century,500,799,chtmlALCMUS.xml
+CRIEPI.xml,Epistola de vocibus in musica liturgica Graecorum usitatis,"Critopulus, hieromonachus, Metrophanes",17th century,1600,1699,chtmlCRIEPI.xml
+WILMU.xml,Musica,Willehelmus Hirsaugensis,9th-11th century,800,1099,chtmlWILMU.xml
+PETTRA.xml,Tractatus de tonis,Petrus de Cruce Ambianensis,13th century,1200,1299,chtmlPETTRA.xml
+LUCARSC.xml,Ars cantus figurati,Antonius de Luca,15th century,1400,1499,chtmlLUCARSC.xml
+ANODCD.xml,De consonantia et dissonantia,Anonymous,15th century,1400,1499,chtmlANODCD.xml
+MARLU3.xml,"Lucidarium, tractatus tertius",Marchetus de Padua,14th century,1300,1399,chtmlMARLU3.xml
+LUCARS.xml,Ars cantus figurati,Antonius de Luca,15th century,1400,1499,chtmlLUCARS.xml
+JACSM6A.xml,"Speculum musicae, Liber sextus",Jacobus Leodiensis,14th century,1300,1399,chtmlJACSM6A.xml
+BERNMUS.xml,Musica seu Prologus in Tonarium,Berno Augiensis,9th-11th century,800,1099,chtmlBERNMUS.xml
+ANO4SQA_MPBN1512.xml,Si quis artem,Anonymous,15th century,1400,1499,chtmlANO4SQA_MPBN1512.xml
+TINCOM2.xml,Complexus viginti effectuum nobilis artis musices,"Tinctoris, Johannes",15th century,1400,1499,chtmlTINCOM2.xml
+ROSLIB2.xml,Libellus de rudimentis musices: De choro et organo compendium,"Rossetti, Biagio",16th century,1500,1599,chtmlROSLIB2.xml
+SCHENC.xml,Scholia enchiriadis de arte musica,Anonymous,9th-11th century,800,1099,chtmlSCHENC.xml
+TORTRI.xml,Trianguli et scuti declaratio de proportionibus musicae mensurabilis,"Torkesey, Johannes",14th century,1300,1399,chtmlTORTRI.xml
+FRUTON.xml,Tonarius,Frutolfus,12th century,1100,1199,chtmlFRUTON.xml
+TINTDN.xml,Tractatus de notis et pausis,"Tinctoris, Johannes",15th century,1400,1499,chtmlTINTDN.xml
+BALABREV_MPBN1512.xml,[Abreviatio Magistri Franconis],Johannes dictus Ballox,13th century,1200,1299,chtmlBALABREV_MPBN1512.xml
+GUIPRAN.xml,Prologus in antiphonarium,Guido d'Arezzo,9th-11th century,800,1099,chtmlGUIPRAN.xml
+KEINLIL.xml,Lilium musicae planae,"Keinspeck, Michael",15th century,1400,1499,chtmlKEINLIL.xml
+ANOMK.xml,De numeris musicis et de consonantiis,Anonymous,9th-11th century,800,1099,chtmlANOMK.xml
+REGTON.xml,Tonarius,Regino Prumiensis,9th-11th century,800,1099,chtmlREGTON.xml
+IERTRA1.xml,Tractatus de musica,Ieronimus de Moravia,13th century,1200,1299,chtmlIERTRA1.xml
+FLATRA.xml,"Tractatus modi, temporis et prolationis","Sadze de Flandria, Christianus",15th century,1400,1499,chtmlFLATRA.xml
+ANOOMDE_MSBCLV30.xml,Sub breuissimo compendio Philippo de Vitriaco in musica incipit,Anonymous,14th century,1300,1399,chtmlANOOMDE_MSBCLV30.xml
+AURMUS.xml,Musica disciplina,Aurelianus Reomensis,9th-11th century,800,1099,chtmlAURMUS.xml
+ANOSEMI.xml,Capitulum de semibrevibus,Anonymous,14th century,1300,1399,chtmlANOSEMI.xml
+WOLENC2.xml,"Enchiridion musices, liber II","Wollick, Nicolaus",16th century,1500,1599,chtmlWOLENC2.xml
+MARLUC8.xml,"Lucidarium, tractatus octavus",Marchetus de Padua,14th century,1300,1399,chtmlMARLUC8.xml
+ZELTRA.xml,Tractatus de cantu perfecto et imperfecto,Henricus de Zelandia,14th century,1300,1399,chtmlZELTRA.xml
+ANO7DED.xml,De diversis maneriebus in musica mensurabili,Anonymous VII,14th century,1300,1399,chtmlANO7DED.xml
+CASIM.xml,"Institutiones musicae, seu excerpta ex eiusdem libro, de artibus ac disciplinis liberalium litterarum","Cassiodorus, Aurelius",6th-8th century,500,799,chtmlCASIM.xml
+AMEPRA.xml,Practica artis musice,Amerus,13th century,1200,1299,chtmlAMEPRA.xml
+ANOMCOMP_MSAVI44.xml,Musica compendium,Anonymous,15th century,1400,1499,chtmlANOMCOMP_MSAVI44.xml
+ADORFAC.xml,Ad organum faciendum,Anonymous,9th-11th century,800,1099,chtmlADORFAC.xml
+ANOODAO.xml,[Opusculum de arte organica],Anonymous,15th century,1400,1499,chtmlANOODAO.xml
+BOEDIM5.xml,"De institutione musica, liber quintus","Boethius, Anicius Manlius Severinus",6th-8th century,500,799,chtmlBOEDIM5.xml
+MARLU1.xml,"Lucidarium, tractatus primus",Marchetus de Padua,14th century,1300,1399,chtmlMARLU1.xml
+HANSUMA.xml,Summa,"Hanboys, Johannes",14th century,1300,1399,chtmlHANSUMA.xml
+BERNDIV.xml,Cita et vera divisio monochordi in diatonico genere,Bernelinus,9th-11th century,800,1099,chtmlBERNDIV.xml
+HEHESUMM_MVBM8-24.xml,Summula,Henricus Helene,14th century,1300,1399,chtmlHEHESUMM_MVBM8-24.xml
+ODISUM.xml,Summa de speculatione musice,"Odington, Walter",14th century,1300,1399,chtmlODISUM.xml
+HOTRSC.xml,Regulae supra contrapunctum,"Hothby, Johannes",15th century,1400,1499,chtmlHOTRSC.xml
+FRUBREC.xml,"Breviarium de musica, capitulum XI",Frutolfus,12th century,1100,1199,chtmlFRUBREC.xml
+ANOAPC.xml,Ars et practica cantus figurativi,Anonymous,15th century,1400,1499,chtmlANOAPC.xml
+VILCAR.xml,Carmen de musica cum glossis,"Villa Dei, Alexander de",13th century,1200,1299,chtmlVILCAR.xml
+ANODMM.xml,De musica mensurata,Anonymous,13th century,1200,1299,chtmlANODMM.xml
+HUCHAR.xml,De harmonica institutione,Hucbald,9th-11th century,800,1099,chtmlHUCHAR.xml
+ANODML.xml,De musica libellus,Anonymous,13th century,1200,1299,chtmlANODML.xml
+ANOMEN.xml,Mensura monochordi Boetii,Anonymous,12th century,1100,1199,chtmlANOMEN.xml
+HOTREGP.xml,Regulae super proportionem,"Hothby, Johannes",15th century,1400,1499,chtmlHOTREGP.xml
+BERNDEC.xml,De consona tonorum diversitate,Berno Augiensis,9th-11th century,800,1099,chtmlBERNDEC.xml
+AQUMUS.xml,De arte musica,"Aquinas [Ps.], Thomas",13th century,1200,1299,chtmlAQUMUS.xml
+ANODCP.xml,De contrapuncto plano,Anonymous,15th century,1400,1499,chtmlANODCP.xml
+RUTDIA.xml,Dialogus de musica,"Sycamber de Venray, Rutgerus",16th century,1500,1599,chtmlRUTDIA.xml
+JACSM6B.xml,"Speculum musicae, Liber sextus",Jacobus Leodiensis,14th century,1300,1399,chtmlJACSM6B.xml
+BOEDIM4.xml,"De institutione musica, liber quartus","Boethius, Anicius Manlius Severinus",6th-8th century,500,799,chtmlBOEDIM4.xml
+WFANON2B_MBUFIX54.xml,Ars musyce,Anonymous,12th century,1100,1199,chtmlWFANON2B_MBUFIX54.xml
+TINNAT.xml,Liber de natura et proprietate tonorum,"Tinctoris, Johannes",15th century,1400,1499,chtmlTINNAT.xml
+VITANV_MBAVB307.xml,Ars nova,Philippe de Vitry,14th century,1300,1399,chtmlVITANV_MBAVB307.xml
+FARORT.xml,"De ortu scientiarum, Dictio de cognoscenda causa unde orta est ars musice",Al-Farabi,12th century,1100,1199,chtmlFARORT.xml
+TINCOM1.xml,Complexus effectuum musices,"Tinctoris, Johannes",15th century,1400,1499,chtmlTINCOM1.xml
+ROSLIB1.xml,Libellus de rudimentis musices: Compendium musicae,"Rossetti, Biagio",16th century,1500,1599,chtmlROSLIB1.xml
+GUICOM.xml,Commentarius in Micrologum Guidonis Aretini,Anonymous,12th century,1100,1199,chtmlGUICOM.xml
+TORKDEC_MLBLL763.xml,Declaratio et expositio,"Torkesey, Johannes",14th century,1300,1399,chtmlTORKDEC_MLBLL763.xml
+MARLUC9.xml,"Lucidarium, tractatus nonus",Marchetus de Padua,14th century,1300,1399,chtmlMARLUC9.xml
+CENDIE.xml,De die natali liber,Censorinus,3rd-5th century,200,499,chtmlCENDIE.xml
+CZEDMP.xml,[De musica plana],"Czerey, János",17th century,1600,1699,chtmlCZEDMP.xml
+MURPRA.xml,"De practica musica, seu de mensurabili",Johannes de Muris,14th century,1300,1399,chtmlMURPRA.xml
+WOLENC3.xml,"Enchiridion musicae, liber III","Wollick, Nicolaus",16th century,1500,1599,chtmlWOLENC3.xml
+LIBDEA.xml,De accentuum ecclesiasticorum exquisita ratione,"Liban, Jerzy",16th century,1500,1599,chtmlLIBDEA.xml
+QUAPRIB4.xml,Quatuor Principalia IV,Anonymous,14th century,1300,1399,chtmlQUAPRIB4.xml
+WILBRE.xml,Breviarium regulare musicae,Willelmus,14th century,1300,1399,chtmlWILBRE.xml
+ANOLAF.xml,[Tractatus de musica],Anonymous,12th century,1100,1199,chtmlANOLAF.xml
+OSBMUS.xml,De vocum consonantiis,Osbernus Cantuariensis (?),9th-11th century,800,1099,chtmlOSBMUS.xml
+ANOPRA.xml,Practica musicae artis mensurabilis,Anonymous,13th century,1200,1299,chtmlANOPRA.xml
+HOTRC.xml,Regulae contrapuncti,"Hothby, Johannes",15th century,1400,1499,chtmlHOTRC.xml
+ANOTON_MLBLR12.xml,De tonorum agnicionibus,Anonymous,14th century,1300,1399,chtmlANOTON_MLBLR12.xml
+GUIFAR.xml,Ars musice mensurate,Guido Frater,14th century,1300,1399,chtmlGUIFAR.xml
+ANOBRIG.xml,[De musica mensurata],Anonymous,15th century,1400,1499,chtmlANOBRIG.xml
+GAFTM1.xml,"Theorica musice, liber primus","Gaffurio, Franchino",15th century,1400,1499,chtmlGAFTM1.xml
+KECKINMU.xml,Introductorium musicae,"Keck, Ioannes",15th century,1400,1499,chtmlKECKINMU.xml
+EICANON_MEUB685.xml,[Tractatus de musica plana],Anonymous,15th century,1400,1499,chtmlEICANON_MEUB685.xml
+GUIARS6.xml,Ars musicorum liber VI,Guillermus de Podio,15th century,1400,1499,chtmlGUIARS6.xml
+VANREC.xml,"Recanetum de musica aurea, liber II, capituli XX-XXXVII","Vanneo, Stephano",16th century,1500,1599,chtmlVANREC.xml
+ANO10DEM.xml,De minimis notulis,Anonymous X,15th century,1400,1499,chtmlANO10DEM.xml
+BEDMUS.xml,Musica quadrata seu mensurata,Beda [Ps.],13th century,1200,1299,chtmlBEDMUS.xml
+ANCMUS.xml,De musica,"Ancina Fossaniensis, Juvenal",16th century,1500,1599,chtmlANCMUS.xml
+BERTARM.xml,De arte musica,Bertrandus Prudentius,9th-11th century,800,1099,chtmlBERTARM.xml
+JACDCM.xml,Tractatus de consonantiis musicalibus,Jacobus Leodiensis,14th century,1300,1399,chtmlJACDCM.xml
+PEPESUM.xml,Summa musice,Perseus and Petrus,13th century,1200,1299,chtmlPEPESUM.xml
+MARLU11.xml,"Lucidarium, tractatus undecimus",Marchetus de Padua,14th century,1300,1399,chtmlMARLU11.xml
+REGHAR.xml,Epistola de harmonica institutione,Regino Prumiensis,9th-11th century,800,1099,chtmlREGHAR.xml
+ANOIN_MOBB842.xml,[De intervallis],Anonymous,14th century,1300,1399,chtmlANOIN_MOBB842.xml
+ANOMMON.xml,Mensura monocordi,Anonymous,9th-11th century,800,1099,chtmlANOMMON.xml
+MUSICAO_MOBB842.xml,[Opusculum musicum],Anonymous,14th century,1300,1399,chtmlMUSICAO_MOBB842.xml
+BURPOE.xml,Musica poetica,"Burmeister, Joachim",17th century,1600,1699,chtmlBURPOE.xml
+ANOMUS.xml,Musicae liber,Anonymous,14th century,1300,1399,chtmlANOMUS.xml
+LAFVAR.xml,"Lucidarium, Regulae de tonis, Tractatus figurarum, and Nova musica","Marchetus de Padua, Ciconia, and Anonymous",15th century,1400,1499,chtmlLAFVAR.xml
+MURLIBM_MMBAI20I.xml,Libellus cantus mensurabilis,Johannes de Muris,14th century,1300,1399,chtmlMURLIBM_MMBAI20I.xml
+SPANQUA.xml,Quaestiones musicae in usum scholae Northusianae,"Spangenberg, Iohannes",16th century,1500,1599,chtmlSPANQUA.xml
+ANOTDCDM.xml,[Tractatus de contrapuncto et de musica mensurabili],Anonymous,15th century,1400,1499,chtmlANOTDCDM.xml
+RAMMP1T1.xml,"Musica practica, prima pars, tractatus primus","Ramus de Pareia, Bartholomeus",15th century,1400,1499,chtmlRAMMP1T1.xml
+ANOSEM.xml,De semibrevibus caudatis,Anonymous,14th century,1300,1399,chtmlANOSEM.xml
+ANOMMB.xml,Mensura monochordi Boetii,Anonymous,12th century,1100,1199,chtmlANOMMB.xml
+ANOCAN.xml,De cantibus quae supra modum intenduntur vel remittuntur,Anonymous,9th-11th century,800,1099,chtmlANOCAN.xml
+ODORE.xml,Regulae super abacum,Odo,9th-11th century,800,1099,chtmlODORE.xml
+CICPROP.xml,De proportionibus,"Ciconia, Johannes",15th century,1400,1499,chtmlCICPROP.xml
+ANOTRDMW.xml,[Tractatulus de musica],Anonymous,14th century,1300,1399,chtmlANOTRDMW.xml
+MURMUS.xml,Tractatus de musica,Johannes de Muris,14th century,1300,1399,chtmlMURMUS.xml
+ANOOXA.xml,[Glossae in Micrologum],Anonymous,13th century,1200,1299,chtmlANOOXA.xml
+ANOCMM.xml,Compendium musicae mensurabilis artis antiquae,Anonymous,13th century,1200,1299,chtmlANOCMM.xml
+ODOREG.xml,Regulae super abacum,Odo,9th-11th century,800,1099,chtmlODOREG.xml
+HANREG.xml,Regule,Robertus de Handlo,14th century,1300,1399,chtmlHANREG.xml
+RAMMP3T2.xml,"Musica practica, tertia pars, tractatus secundus","Ramus de Pareia, Bartholomeus",15th century,1400,1499,chtmlRAMMP3T2.xml
+WALREG.xml,"Regulae Magistri Thomae Walsingham de figuris compositis et non compositis, et de cantu perfecto et imperfecto, et de modis incipiunt","Walsingham, Thomas",14th century,1300,1399,chtmlWALREG.xml
+ANOMET1_MBAVR114.xml,Metrologus,Anonymous,14th century,1300,1399,chtmlANOMET1_MBAVR114.xml
+MURLIBM1_MMBAH165.xml,Libellus cantus mensurabilis,Johannes de Muris,14th century,1300,1399,chtmlMURLIBM1_MMBAH165.xml
+ANOMUSC.xml,Musice compilatio,Anonymous,14th century,1300,1399,chtmlANOMUSC.xml
+ANOCBT.xml,Commemoratio brevis de tonis et psalmis modulandis,Anonymous,9th-11th century,800,1099,chtmlANOCBT.xml
+CARDEM.xml,De musica liber,"Cardanus, Hieronymus",16th century,1500,1599,chtmlCARDEM.xml
+GENTPRA_MGRU70.xml,"De arte musicali, secunda pars: Musica practica",Dionysius Lewis de Ryckel,15th century,1400,1499,chtmlGENTPRA_MGRU70.xml
+ANOMUPO.xml,Tractatus de musica plana et organica,Anonymous,13th century,1200,1299,chtmlANOMUPO.xml
+ODODI.xml,Dialogus de musica,Odo,9th-11th century,800,1099,chtmlODODI.xml
+ANOTRA17.xml,Tractatuli,Anonymous,12th century,1100,1199,chtmlANOTRA17.xml
+STODEM.xml,De musica verbali libri duo,"Stoquerus, Gaspar",16th century,1500,1599,chtmlSTODEM.xml
+DESCOM.xml,Compendium musicae,"Descartes, René",17th century,1600,1699,chtmlDESCOM.xml
+GAFPM4.xml,Practica musice,"Gaffurio, Franchino",15th century,1400,1499,chtmlGAFPM4.xml
+ANODDC_MLBL2145.xml,[De discantu et contranota],Anonymous,14th century,1300,1399,chtmlANODDC_MLBL2145.xml
+MURMNOR.xml,[Prefatio de Johannis de Muris Musica speculativa],"Noricus, Conradus",16th century,1500,1599,chtmlMURMNOR.xml
+MARLU10.xml,"Lucidarium, tractatus decimus",Marchetus de Padua,14th century,1300,1399,chtmlMARLU10.xml
+MURLCM_MBAVB307.xml,Libellus cantus mensurabilis [fragmentum],Johannes de Muris,14th century,1300,1399,chtmlMURLCM_MBAVB307.xml
+PAMGER.xml,[Gerontikon],"Pambo, Abbas",6th-8th century,500,799,chtmlPAMGER.xml
+ANOCNTR_MSAVI44.xml,[Cantor vero vocatur],Anonymous,15th century,1400,1499,chtmlANOCNTR_MSAVI44.xml
+HOTRCM2.xml,Regulae cantus mensurati secundum Johannem Otteby,"Hothby, Johannes",15th century,1400,1499,chtmlHOTRCM2.xml
+ANOCANT.xml,[Tractatus de cantu mensurabili],Anonymous,13th century,1200,1299,chtmlANOCANT.xml
+VOLDEM_MIBME-78.xml,De modo addiscendi Cantum Ecclesiasticum unicus Tractatus,"Le Vol, Claudius",17th century,1600,1699,chtmlVOLDEM_MIBME-78.xml
+REMMUS.xml,Musica,Remigius Altisiodorensis,9th-11th century,800,1099,chtmlREMMUS.xml
+ARITRA.xml,Tractatus de musica,Aristotle,13th century,1200,1299,chtmlARITRA.xml
+FOLMUS1.xml,"Musica theorica, sectio prima","Folianus, Ludovicus",16th century,1500,1599,chtmlFOLMUS1.xml
+FOLMUS3.xml,"Musica theorica, sectio tertia","Folianus, Ludovicus",16th century,1500,1599,chtmlFOLMUS3.xml
+ANOECC.xml,Ecce modorum sive tonorum auspice Christo incipit ordo,Anonymous,9th-11th century,800,1099,chtmlANOECC.xml
+TORKDEC1_MBAVR114.xml,[Declaratio trianguli et scuti],"Torkesey, Johannes",14th century,1300,1399,chtmlTORKDEC1_MBAVR114.xml
+GAFTM2.xml,"Theorica musice, liber secundus","Gaffurio, Franchino",15th century,1400,1499,chtmlGAFTM2.xml
+JOAMUS.xml,De musica antica et moderna,Joannes Presbyter,12th century,1100,1199,chtmlJOAMUS.xml
+FRAARSC.xml,Ars cantus mensurabilis,Franco,13th century,1200,1299,chtmlFRAARSC.xml
+ANOCOMB.xml,Commemoratio brevis de tonis et psalmis modulandis,Anonymous,9th-11th century,800,1099,chtmlANOCOMB.xml
+PROEXP.xml,Expositiones tractatus pratice cantus mensurabilis magistri Johannis de Muris,Prosdocimo de' Beldomandi,15th century,1400,1499,chtmlPROEXP.xml
+CASLETP.xml,Epistola XL: Boethio patricio Theodericvs rex,"Cassiodorus, Aurelius",6th-8th century,500,799,chtmlCASLETP.xml
+ANODCON.xml,De contrapuncto,Anonymous,15th century,1400,1499,chtmlANODCON.xml
+ADORFA.xml,Ad organum faciendum,Anonymous,9th-11th century,800,1099,chtmlADORFA.xml
+VITARSC.xml,Ars contrapunctus,Philippe de Vitry,14th century,1300,1399,chtmlVITARSC.xml
+MARLU12.xml,"Lucidarium, tractatus duodecimus",Marchetus de Padua,14th century,1300,1399,chtmlMARLU12.xml
+COCTET4.xml,"Tetrachordum musices, tractatus quartus","Cochlaeus, Johannes",16th century,1500,1599,chtmlCOCTET4.xml
+AURMD.xml,Musica disciplina,Aurelianus Reomensis,9th-11th century,800,1099,chtmlAURMD.xml
+VERLDM.xml,Liber de musica,Johannes Verulus de Anagnia,14th century,1300,1399,chtmlVERLDM.xml
+ANOMM_MLBL2145.xml,[De mensurabili musica],Anonymous,14th century,1300,1399,chtmlANOMM_MLBL2145.xml
+ANO1MUS.xml,Musica,Anonymous I,9th-11th century,800,1099,chtmlANO1MUS.xml
+RAMMP1T2.xml,"Musica practica, prima pars, tractatus secundus","Ramus de Pareia, Bartholomeus",15th century,1400,1499,chtmlRAMMP1T2.xml
+ODOPRO.xml,"Dialogus de musica, prologus",Odo,9th-11th century,800,1099,chtmlODOPRO.xml
+GUIRRH.xml,Regulae rhythmicae in antiphonarii sui prologum prolatae,Guido d'Arezzo,9th-11th century,800,1099,chtmlGUIRRH.xml
+ARSORG.xml,Ars organi,Anonymous,12th century,1100,1199,chtmlARSORG.xml
+ANODIA.xml,[Dialogus de organo et tractatulus de cantu],Anonymous,9th-11th century,800,1099,chtmlANODIA.xml
+ANOGUI_MBAVR114.xml,[Guidonis musica],Anonymous,12th century,1100,1199,chtmlANOGUI_MBAVR114.xml
+RAMMP3T1.xml,"Musica practica, tertia pars, tractatus primus","Ramus de Pareia, Bartholomeus",15th century,1400,1499,chtmlRAMMP3T1.xml
+ANOTAA.xml,Tractatus artis antiquae cum explicatione mensurae binariae,Anonymous,13th century,1200,1299,chtmlANOTAA.xml
+MONPREC.xml,De preceptis artis musice et pratice compendiosus libellus,Guilielmus monachus,15th century,1400,1499,chtmlMONPREC.xml
+ZELTRAC.xml,Tractatus de cantu perfecto et imperfecto,Henricus de Zeelandia,14th century,1300,1399,chtmlZELTRAC.xml
+RAMMP1T3.xml,"Musica practica, prima pars, tractatus tertius","Ramus de Pareia, Bartholomeus",15th century,1400,1499,chtmlRAMMP1T3.xml
+ANOFIT.xml,Tractatulus de figuris et temporibus,Anonymous,14th century,1300,1399,chtmlANOFIT.xml
+ADEMUS.xml,Musica,Adelboldus,9th-11th century,800,1099,chtmlADEMUS.xml
+REGDEML_MLBL2145.xml,Regula de monocordo,Anonymous,14th century,1300,1399,chtmlREGDEML_MLBL2145.xml
+ANOAPM_MBAVR114.xml,Ars plane musice,Anonymous,14th century,1300,1399,chtmlANOAPM_MBAVR114.xml
+FINPRA.xml,Practica musica,"Finck, Hermann",16th century,1500,1599,chtmlFINPRA.xml
+NICTRA.xml,Tractatus de musica,Nicolaus de Senis,15th century,1400,1499,chtmlNICTRA.xml
+MURCOMP_MBAVR114.xml,Compendium musicae practicae,Johannes de Muris,14th century,1300,1399,chtmlMURCOMP_MBAVR114.xml
+ANORUB.xml,Rubrice brevis,Anonymous,14th century,1300,1399,chtmlANORUB.xml
+MARLU13.xml,"Lucidarium, tractatus decimustertius",Marchetus de Padua,14th century,1300,1399,chtmlMARLU13.xml
+JOHDEM.xml,De musica cum tonario,Johannes Affligemensis,9th-11th century,800,1099,chtmlJOHDEM.xml
+BERTON.xml,Tonale Sancti Bernardi,Anonymous,12th century,1100,1199,chtmlBERTON.xml
+JACCDM.xml,Compendium de musica,Jacobus Leodiensis,14th century,1300,1399,chtmlJACCDM.xml
+ANOORME.xml,De organo mediolanensi,Anonymous,15th century,1400,1499,chtmlANOORME.xml
+ANOOCTT_MLBLL763.xml,Et octo tonorum incipit tractatus metricus,Anonymous,14th century,1300,1399,chtmlANOOCTT_MLBLL763.xml
+BOENMUS.xml,Musica,"Boen, Johannes",14th century,1300,1399,chtmlBOENMUS.xml
+HOTDEP.xml,De proportionibus,"Hothby, Johannes",15th century,1400,1499,chtmlHOTDEP.xml
+UGODEC2.xml,"Declaratio musicae disciplinae, liber secundus",Ugolino Urbevetanis,15th century,1400,1499,chtmlUGODEC2.xml
+NOTDEMU.xml,[De musica],Notker,9th-11th century,800,1099,chtmlNOTDEMU.xml
+CONCAN.xml,De modo bene cantandi,"Zabern, Conrad von",15th century,1400,1499,chtmlCONCAN.xml
+ANO4DEM.xml,De mensuris et discantu,Anonymous 4,13th century,1200,1299,chtmlANO4DEM.xml
+TINDIF.xml,Diffinitorium musicae,"Tinctoris, Johannes",15th century,1400,1499,chtmlTINDIF.xml
+ANDCON.xml,De contrapuncto quaedam regulae utiles,Phillipotus Andrea,14th century,1300,1399,chtmlANDCON.xml
+MACCOMSS.xml,Somnium Scipionis,"Cicero, Marcus Tullius",3rd-5th century,200,499,chtmlMACCOMSS.xml
+GAFTM3.xml,"Theorica musice, liber tertius","Gaffurio, Franchino",15th century,1400,1499,chtmlGAFTM3.xml
+TDMUS3_MOBB842.xml,"Musica, liber tercius",Theinredus Doverensis,12th century,1100,1199,chtmlTDMUS3_MOBB842.xml
+HOTRCM1.xml,Sequuntur regulae cantus mensurati eiusdem Ottobi,"Hothby, Johannes",15th century,1400,1499,chtmlHOTRCM1.xml
+FOLMUS2.xml,"Musica theorica, sectio secunda","Folianus, Ludovicus",16th century,1500,1599,chtmlFOLMUS2.xml
+NICLAU.xml,"De laude et utilitate spiritualium canticorum, quae fiunt in ecclesia Christiana; seu de psalmodiae bono","Nicetius, episcopus",6th-8th century,500,799,chtmlNICLAU.xml
+ANOAMPO_MBAVB307.xml,Ars et modus pulsandi organa secundum modum nouissimum inuentum per magistros musicos modernos,Anonymous,14th century,1300,1399,chtmlANOAMPO_MBAVB307.xml
+PROBRE2.xml,Brevis summula proportionum,Prosdocimo de' Beldomandi,15th century,1400,1499,chtmlPROBRE2.xml
+GUNDDIV.xml,"De divisione philosophiae, Liber decimus, ""De musica""","Gundissalinus, Dominicus",12th century,1100,1199,chtmlGUNDDIV.xml
+LIPMUS.xml,Synopsis musicae novae omnino verae atque methodicae universae,"Lippius, Johannes",17th century,1600,1699,chtmlLIPMUS.xml
+DONFRA_MFBMA295.xml,Fragmentum. Lectori Ingenuo,"Doni, Giovanni Battista",17th century,1600,1699,chtmlDONFRA_MFBMA295.xml
+ANOFRAG_MOBB842.xml,[Fragmenta],Anonymous,14th century,1300,1399,chtmlANOFRAG_MOBB842.xml
+CONMON.xml,Opusculum de monochordo,"Zabern, Conrad von",15th century,1400,1499,chtmlCONMON.xml
+ANOCOMP.xml,Tractatus de musica compendium cantus figurati,Anonymous,15th century,1400,1499,chtmlANOCOMP.xml
+BURMUS2.xml,"Musices opusculum, tractatus secundus","Burtius, Nicolaus",15th century,1400,1499,chtmlBURMUS2.xml
+HOTDEC.xml,De cantu figurato,"Hothby, Johannes",15th century,1400,1499,chtmlHOTDEC.xml
+GUIMIC.xml,Micrologus,Guido d'Arezzo,9th-11th century,800,1099,chtmlGUIMIC.xml
+ANOHOL6A_MVNB4774.xml,[Opusculum de musica ex traditione Iohannis Hollandrini],Anonymous,15th century,1400,1499,chtmlANOHOL6A_MVNB4774.xml
+BOEARI1.xml,"De institutione arithmetica, liber primus","Boethius, Anicius Manlius Severinus",6th-8th century,500,799,chtmlBOEARI1.xml
+PROLIB.xml,Libellus monocordi,Prosdocimo de' Beldomandi,15th century,1400,1499,chtmlPROLIB.xml
+ANOBRI.xml,[De musica mensurata],Anonymous,15th century,1400,1499,chtmlANOBRI.xml
+JACSP1A.xml,"Speculum musicae, Liber primus",Jacobus Leodiensis,14th century,1300,1399,chtmlJACSP1A.xml
+GAFPM3.xml,Practica musice,"Gaffurio, Franchino",15th century,1400,1499,chtmlGAFPM3.xml
+ANO3FRAM.xml,Fragmentum musices,Anonymous III,12th century,1100,1199,chtmlANO3FRAM.xml
+MURTON.xml,De tonis,Johannes de Muris,14th century,1300,1399,chtmlMURTON.xml
+ANOQUOO.xml,Quomodo organice moduletur,Anonymous,12th century,1100,1199,chtmlANOQUOO.xml
+COCTET1.xml,"Tetrachordum musices, tractatus primus","Cochlaeus, Johannes",16th century,1500,1599,chtmlCOCTET1.xml
+ANOMENR.xml,[Mensura instrumenti organici],Anonymous,9th-11th century,800,1099,chtmlANOMENR.xml
+GUISTON.xml,Tractatus de tonis,Guido de Sancto Dionysio,14th century,1300,1399,chtmlGUISTON.xml
+ANOMCCP_MSAVI44.xml,[De modo cantandi cantum planum],Anonymous,15th century,1400,1499,chtmlANOMCCP_MSAVI44.xml
+ANOFIG.xml,Ars musicae mensurabilis secundum Franconem,Anonymous,13th century,1200,1299,chtmlANOFIG.xml
+GUIPRO.xml,Prologus in antiphonarium,Guido d'Arezzo,9th-11th century,800,1099,chtmlGUIPRO.xml
+ANOVOL.xml,Volens facere clavicordium,Anonymous,15th century,1400,1499,chtmlANOVOL.xml
+ANO11TRA.xml,Tractatus de musica plana et mensurabili,Anonymous XI,15th century,1400,1499,chtmlANO11TRA.xml
+ANODEF.xml,De figuris,Anonymous,14th century,1300,1399,chtmlANODEF.xml
+ANOVERP.xml,[Versus de musica],Anonymous,15th century,1400,1499,chtmlANOVERP.xml
+ANOMUSD.xml,[Musica disciplina],Anonymous,14th century,1300,1399,chtmlANOMUSD.xml
+EBETRA.xml,Tractatus de mensura fistularum,Eberhardus Frisingensis,12th century,1100,1199,chtmlEBETRA.xml
+ANOMUS2.xml,De musica,Anonymous,15th century,1400,1499,chtmlANOMUS2.xml
+ANOOXP.xml,[Glossae in Micrologum],Anonymous,13th century,1200,1299,chtmlANOOXP.xml
+ISIDEM.xml,De musica,Isidorus Hispalensis,6th-8th century,500,799,chtmlISIDEM.xml
+GUIEP.xml,Epistola Guidonis Michaeli monacho de ignoto cantu,Guido d'Arezzo,9th-11th century,800,1099,chtmlGUIEP.xml
+GUIEPI.xml,Epistola Guidonis Michaeli monacho de ignoto cantu directa,Guido d'Arezzo,9th-11th century,800,1099,chtmlGUIEPI.xml
+ANO6DEM.xml,De musica mensurabili,Anonymous VI,14th century,1300,1399,chtmlANO6DEM.xml
+BERNDCT.xml,De consona tonorum diversitate,Berno Augiensis,9th-11th century,800,1099,chtmlBERNDCT.xml
+PETMUS.xml,Musica mensurabilis,Petrus Picardus,13th century,1200,1299,chtmlPETMUS.xml
+ANOOXOC.xml,Comendacio artis musicae secundum quendam Gregorium,Anonymous,14th century,1300,1399,chtmlANOOXOC.xml
+LUDSEN.xml,Sentencia in musica sonora subiecti,Ludovicus Sanctus,14th century,1300,1399,chtmlLUDSEN.xml
+ANOINT_MLBLH978.xml,[De intervallis],Anonymous,13th century,1200,1299,chtmlANOINT_MLBLH978.xml
+STOMTP_MMBN6486.xml,"De modo, tempore, et prolatione","Stoquerus, Gaspar",16th century,1500,1599,chtmlSTOMTP_MMBN6486.xml
+ANOSPEC_MLBLL763.xml,Speculum cantancium. siue psallencium,Anonymous,14th century,1300,1399,chtmlANOSPEC_MLBLL763.xml
+PROSPE.xml,Tractatus musice speculative,Prosdocimo de' Beldomandi,15th century,1400,1499,chtmlPROSPE.xml
+HEYDAC1.xml,"De arte canendi, ac vero signorum in cantibus usu, liber primus","Heyden, Sebaldus",16th century,1500,1599,chtmlHEYDAC1.xml
+TINTRAN.xml,Tractatus de notis et pausis,"Tinctoris, Johannes",15th century,1400,1499,chtmlTINTRAN.xml
+TRADEF.xml,Tractatus de figuris sive de notis,Anonymous,14th century,1300,1399,chtmlTRADEF.xml
+GALRITS1.xml,Vera quamque facilis ad cantandum atque brevis introductio,Johannes Gallicus dictus Carthusiensis seu de Mantua,15th century,1400,1499,chtmlGALRITS1.xml
+ANODUA_MLBLL763.xml,Proportio est duarum rerum,Anonymous,14th century,1300,1399,chtmlANODUA_MLBLL763.xml
+ANO11TDM.xml,[Tractatus de musica plana et mensurabili],Anonymous XI,15th century,1400,1499,chtmlANO11TDM.xml
+SARTON.xml,Tonale secundum usum Sarum et universalis ecclesie,Anonymous,13th century,1200,1299,chtmlSARTON.xml
+MURDEP.xml,Tractatus de proportionibus,Johannes de Muris,14th century,1300,1399,chtmlMURDEP.xml
+TRAFIG.xml,Tractatus figurarum,Anonymous,14th century,1300,1399,chtmlTRAFIG.xml
+JOHMU.xml,Musica,Johannes Affligemensis,9th-11th century,800,1099,chtmlJOHMU.xml
+WILMUSI.xml,Musica,Willehelmus Hirsaugensis,9th-11th century,800,1099,chtmlWILMUSI.xml
+GAFPM2.xml,Practica musice,"Gaffurio, Franchino",15th century,1400,1499,chtmlGAFPM2.xml
+VITARSP.xml,Ars perfecta in musica,Philippe de Vitry,14th century,1300,1399,chtmlVITARSP.xml
+ANOHARP_MOBB842.xml,[De harmonia planetarum],Anonymous,14th century,1300,1399,chtmlANOHARP_MOBB842.xml
+ANOQUAL_MPBN7400.xml,Qualiter debeant fieri organa,Anonymous,13th century,1200,1299,chtmlANOQUAL_MPBN7400.xml
+ANOQS.xml,Quaestiones et solutiones advidendum tam mensurabilis cantus quam immensurabilis musica,Anonymous,15th century,1400,1499,chtmlANOQS.xml
+BOENARS_MLBL2322.xml,Ars musice,"Boen, Johannes",14th century,1300,1399,chtmlBOENARS_MLBL2322.xml
+MARLU16.xml,"Lucidarium, tractatus decimussextus",Marchetus de Padua,14th century,1300,1399,chtmlMARLU16.xml
+HOTDIA.xml,Dialogus in arte musica,"Hothby, Johannes",15th century,1400,1499,chtmlHOTDIA.xml
+PROTRAP1.xml,Tractatus practice de musica mensurabili,Prosdocimo de' Beldomandi,15th century,1400,1499,chtmlPROTRAP1.xml
+BEDMUT.xml,Musica theorica,Bede [Ps.],6th-8th century,500,799,chtmlBEDMUT.xml
+HANSUM.xml,Summa,"Hanboys, Johannes",14th century,1300,1399,chtmlHANSUM.xml
+ANOMUSI_MBAVB307.xml,[De musica],Anonymous,14th century,1300,1399,chtmlANOMUSI_MBAVB307.xml
+BURMUS3.xml,"Musices opusculum, tractatus tertius","Burtius, Nicolaus",15th century,1400,1499,chtmlBURMUS3.xml
+CASLETC.xml,Epistola XL: Boethio patricio Theodericvs rex,"Cassiodorus, Aurelius",6th-8th century,500,799,chtmlCASLETC.xml
+CASTRA.xml,Tractatus de diversis figuris,Philippus de Caserta,14th century,1300,1399,chtmlCASTRA.xml
+HUCHARM.xml,De harmonica institutione,Hucbald,9th-11th century,800,1099,chtmlHUCHARM.xml
+ANOOCT_MLBLL763.xml,De octo tonis vbi nascuntur et oriuntur aut efficiuntur,Anonymous,14th century,1300,1399,chtmlANOOCT_MLBLL763.xml
+ANO4COM.xml,Compendium artis mensurabilis tam veteris quam novae,Anonymous IV,15th century,1400,1499,chtmlANO4COM.xml
+MONPSAL.xml,Monacho qua mente sit psallendum,Anonymous,6th-8th century,500,799,chtmlMONPSAL.xml
+GALTRA.xml,Incipit praefationcula in tam admirabilem quam tacitam et quietissimam novorum concinentiam,Johannes Gallicus dictus Carthusiensis seu de Mantua,15th century,1400,1499,chtmlGALTRA.xml
+GAFTM4.xml,"Theorica musice, liber quartus","Gaffurio, Franchino",15th century,1400,1499,chtmlGAFTM4.xml
+PROBRE1.xml,Brevis summula proportionum quantum ad musicam pertinet,Prosdocimo de' Beldomandi,15th century,1400,1499,chtmlPROBRE1.xml
+LAMCOM.xml,Compendium musices,Lampadius,16th century,1500,1599,chtmlLAMCOM.xml
+GARDMMP.xml,De musica mensurabili positio,Johannes de Garlandia,13th century,1200,1299,chtmlGARDMMP.xml
+ANO3DEC.xml,De cantu mensurabili,Anonymous 3,13th century,1200,1299,chtmlANO3DEC.xml
+BURMUS1.xml,"Musices opusculum, tractatus primus","Burtius, Nicolaus",15th century,1400,1499,chtmlBURMUS1.xml
+SALSCI.xml,Scientia artis musicae,"Salomo, Elias",13th century,1200,1299,chtmlSALSCI.xml
+PERTRA.xml,Tractatus musicae scientiae,"Person, Gobelinus",15th century,1400,1499,chtmlPERTRA.xml
+UGODEC5.xml,"Declaratio musicae disciplinae, liber quintus",Ugolino Urbevetanis,15th century,1400,1499,chtmlUGODEC5.xml
+MARLU14.xml,"Lucidarium, tractatus decimusquartus",Marchetus de Padua,14th century,1300,1399,chtmlMARLU14.xml
+BOEARI2.xml,"De institutione arithmetica, liber secundus","Boethius, Anicius Manlius Severinus",6th-8th century,500,799,chtmlBOEARI2.xml
+MURMUSAB.xml,Musica Johannis de Muris abbreviata,Johannes de Muris,14th century,1300,1399,chtmlMURMUSAB.xml
+JACSP1B.xml,"Speculum musicae, Liber primus",Jacobus Leodiensis,14th century,1300,1399,chtmlJACSP1B.xml
+HOFDOC.xml,Doctrina de tonis seu modis musicis,"Hofman, Eucharius",16th century,1500,1599,chtmlHOFDOC.xml
+HANREGU.xml,Regulae,Robertus de Handlo,14th century,1300,1399,chtmlHANREGU.xml
+BECANO.xml,Tractatus,Anonymous,9th-11th century,800,1099,chtmlBECANO.xml
+ANOFRAM.xml,Fragmentum de mensuris,Anonymous,14th century,1300,1399,chtmlANOFRAM.xml
+FRAACMO_MOBB842.xml,Ars cantus mensurabilis,Franco,13th century,1200,1299,chtmlFRAACMO_MOBB842.xml
+PROCON.xml,Contrapunctus,Prosdocimo de' Beldomandi,15th century,1400,1499,chtmlPROCON.xml
+GUIREG.xml,Regulae rhythmicae,Guido d'Arezzo,9th-11th century,800,1099,chtmlGUIREG.xml
+COCTET2.xml,"Tetrachordum musices, tractatus secundus","Cochlaeus, Johannes",16th century,1500,1599,chtmlCOCTET2.xml
+ANOCYM.xml,[Mensura cymbalorum],Anonymous,14th century,1300,1399,chtmlANOCYM.xml
+ANOFIS.xml,De mensura fistularum in organis,Anonymous,12th century,1100,1199,chtmlANOFIS.xml
+GALRITS3.xml,Incipit liber tertius de contrapuncto praefationcula,Johannes Gallicus dictus Carthusiensis seu de Mantua,15th century,1400,1499,chtmlGALRITS3.xml
+ANOSPI.xml,[Miscellanea],Anonymous,9th-11th century,800,1099,chtmlANOSPI.xml
+ANOVERS.xml,Item versi eiusdem acute divisionis,Anonymous,9th-11th century,800,1099,chtmlANOVERS.xml
+MURLIBV_MVBM8-85.xml,Libellus cantus mensurabilis,Johannes de Muris,14th century,1300,1399,chtmlMURLIBV_MVBM8-85.xml
+TINTRAL.xml,Tractatus alterationum,"Tinctoris, Johannes",15th century,1400,1499,chtmlTINTRAL.xml
+ANOCBP.xml,Compendium breve de proportionibus,Anonymous,15th century,1400,1499,chtmlANOCBP.xml
+BERMAN4_MBAVR114.xml,"[De discantu, proportionibus et tonis]",Anonymous,14th century,1300,1399,chtmlBERMAN4_MBAVR114.xml
+ODAREG.xml,Registrum tonorum,Odalschalchus,12th century,1100,1199,chtmlODAREG.xml
+ANO12TCF.xml,Tractatus cantus figurati,Anonymous,15th century,1400,1499,chtmlANO12TCF.xml
+TINLDN.xml,Liber de natura et proprietate tonorum,"Tinctoris, Johannes",15th century,1400,1499,chtmlTINLDN.xml
+MARPOM.xml,Pomerium,Marchetus de Padua,14th century,1300,1399,chtmlMARPOM.xml
+QUAPRIA1_MLBL4909.xml,Quatuor Principalia I,Anonymous,14th century,1300,1399,chtmlQUAPRIA1_MLBL4909.xml
+JOHPAL.xml,Palma choralis,Johannes de Olomons,15th century,1400,1499,chtmlJOHPAL.xml
+HEYDAC2.xml,"De arte canendi, ac vero signorum in cantibus usu, liber secundus","Heyden, Sebaldus",16th century,1500,1599,chtmlHEYDAC2.xml
+ANODES.xml,De sinemenis,Anonymous,13th century,1200,1299,chtmlANODES.xml
+ANOMON.xml,[Tractatus de organo],Anonymous,12th century,1100,1199,chtmlANOMON.xml
+GERCAR_MSAVI44.xml,[Carmina],"Gerson, Johannes de",15th century,1400,1499,chtmlGERCAR_MSAVI44.xml
+PAUTRA.xml,Tractatus de musica,"Paulirinus, Paulus",15th century,1400,1499,chtmlPAUTRA.xml
+GALRITS2.xml,"Incipit liber secundus de sex, ut, re, mi, fa, sol, la, sillabis",Johannes Gallicus dictus Carthusiensis seu de Mantua,15th century,1400,1499,chtmlGALRITS2.xml
+ALIMUS.xml,Alia musica,Anonymous,9th-11th century,800,1099,chtmlALIMUS.xml
+COCTET3.xml,"Tetrachordum musices, tractatus tertius","Cochlaeus, Johannes",16th century,1500,1599,chtmlCOCTET3.xml
+ANOQUOM.xml,Quomodo de arithmetica procedit musica,Anonymous,9th-11th century,800,1099,chtmlANOQUOM.xml
+ANOOMD.xml,Sub brevissimo compendio Philippus de Vitriaco in musica incipit,Anonymous,14th century,1300,1399,chtmlANOOMD.xml
+GAFPM1.xml,Practica musice,"Gaffurio, Franchino",15th century,1400,1499,chtmlGAFPM1.xml
+CASINST.xml,Institutionum liber secundus saecularium litterarum,"Cassiodorus, Aurelius",6th-8th century,500,799,chtmlCASINST.xml
+PROTRAP2.xml,Tractatus practice de musica mensurabili ad modum italicorum,Prosdocimo de' Beldomandi,15th century,1400,1499,chtmlPROTRAP2.xml
+MARLU15.xml,"Lucidarium, tractatus decimusquintus",Marchetus de Padua,14th century,1300,1399,chtmlMARLU15.xml
+UGODEC4.xml,"Declaratio musicae disciplinae, liber quartus",Ugolino Urbevetanis,15th century,1400,1499,chtmlUGODEC4.xml
+BOEMUS1C_MCTC944.xml,"De institutione musica, liber primus","Boethius, Anicius Manlius Severinus",6th-8th century,500,799,chtmlBOEMUS1C_MCTC944.xml
+UGOMUS.xml,Musica disciplina,Ugolino Urbevetanis,15th century,1400,1499,chtmlUGOMUS.xml
+GERFRA.xml,Fragmenta de musica,Gerlandus,12th century,1100,1199,chtmlGERFRA.xml
+GAFTM5.xml,"Theorica musice, liber quintus","Gaffurio, Franchino",15th century,1400,1499,chtmlGAFTM5.xml
+ANORD_MLBL2145.xml,Regula discantus,Anonymous,14th century,1300,1399,chtmlANORD_MLBL2145.xml
+ANOLIT.xml,Libellus tonarius,Anonymous,9th-11th century,800,1099,chtmlANOLIT.xml
+KILDEO.xml,"De ortu et divisione philosophiae, Capitulum XVIII, De ortu et subiecto et proprio fine ac definitione","Kilwardby, Robert",13th century,1200,1299,chtmlKILDEO.xml
+THEPAR.xml,De partitione licterarum monocordi,"Theatinus, Jacobus",15th century,1400,1499,chtmlTHEPAR.xml
+SALMUS1.xml,"De musica, liber primus","Salinas, Franciscus",16th century,1500,1599,chtmlSALMUS1.xml
+ANOOPAO.xml,[Octo principalia de arte organisandi],Anonymous,15th century,1400,1499,chtmlANOOPAO.xml
+HEHESUM_MLBL2322.xml,Summula,Henricus Helene,14th century,1300,1399,chtmlHEHESUM_MLBL2322.xml
+ANOINC.xml,Inchiriadon Uchubaldi Francigenae,Anonymous,9th-11th century,800,1099,chtmlANOINC.xml
+VOGMUS.xml,Musicae rudimenta,"Vogelsang, Johannes",16th century,1500,1599,chtmlVOGMUS.xml
+ANOEXC.xml,[Excerpta de consonantiis et de contrapuncto],Anonymous,15th century,1400,1499,chtmlANOEXC.xml
+STAPMUS.xml,Elementa musicalia,"Faber Stapulensis, Jacobus",15th century,1400,1499,chtmlSTAPMUS.xml
+ANOFRA7.xml,Fragmentum,Anonymous,15th century,1400,1499,chtmlANOFRA7.xml
+JACSP2B.xml,"Speculum musicae, Liber secundus",Jacobus Leodiensis,14th century,1300,1399,chtmlJACSP2B.xml
+ANOTRDM.xml,[Tractatulus de musica],Anonymous,13th century,1200,1299,chtmlANOTRDM.xml
+ANODEP_MBAVB307.xml,De proportionibus,Anonymous,14th century,1300,1399,chtmlANODEP_MBAVB307.xml
+ALIAMU.xml,Alia musica,Anonymous,9th-11th century,800,1099,chtmlALIAMU.xml
+CAMDEM.xml,De musica mensurabili,Theodoricus de Campo,14th century,1300,1399,chtmlCAMDEM.xml
+HERDEN.xml,De natura cantus ac miraculis vocis,Herbenus Traiectensis,15th century,1400,1499,chtmlHERDEN.xml
+DESCOR.xml,Correspondance,"Descartes, René",17th century,1600,1699,chtmlDESCOR.xml
+ANOSPE.xml,Species plani cantus sunt terdecim,Anonymous,15th century,1400,1499,chtmlANOSPE.xml
+ANODDM.xml,De dimensione monocordi,Anonymous,9th-11th century,800,1099,chtmlANODDM.xml
+ANOCAP.xml,[Capitulum de vocibus applicatis verbis],Anonymous,14th century,1300,1399,chtmlANOCAP.xml
+MURSPE.xml,"Speculum musicae, Liber primus",Johannes de Muris,14th century,1300,1399,chtmlMURSPE.xml
+ANOMOT.xml,Expositio de motu,Anonymous,12th century,1100,1199,chtmlANOMOT.xml
+WILBREV_MOBB842.xml,Breviarium regulare musice,Willelmus,14th century,1300,1399,chtmlWILBREV_MOBB842.xml
+ALIMUSI.xml,Alia musica,Anonymous,9th-11th century,800,1099,chtmlALIMUSI.xml
+AUGDEM4.xml,"De musica, liber quartus","Augustinus, Aurelius",3rd-5th century,200,499,chtmlAUGDEM4.xml
+ZAMLAM.xml,Ars musica,"Aegidius Zamorensis, Iohannes",14th century,1300,1399,chtmlZAMLAM.xml
+ANOCMD.xml,Circa modum discantandi,Anonymous,14th century,1300,1399,chtmlANOCMD.xml
+ANOPROL_MOBB842.xml,[De prolatione],Anonymous,14th century,1300,1399,chtmlANOPROL_MOBB842.xml
+ANO3COMP_MPBN1512.xml,[Compendiolum artis veteris ac novae],Anonymous,14th century,1300,1399,chtmlANO3COMP_MPBN1512.xml
+ANOCOM.xml,Compendium musicae mensurabilis artis antiquae,Anonymous,13th century,1200,1299,chtmlANOCOM.xml
+AUGDEM5.xml,"De musica, liber quintus","Augustinus, Aurelius",3rd-5th century,200,499,chtmlAUGDEM5.xml
+ISISEN.xml,Sententiae de musica,Isidorus Hispalensis,6th-8th century,500,799,chtmlISISEN.xml
+ANOMETE.xml,Metrologus liber,Anonymous,14th century,1300,1399,chtmlANOMETE.xml
+CARLCAN.xml,De cantu iubiliationis armonicae et utilitate eius,"Carlerius, Egidius",15th century,1400,1499,chtmlCARLCAN.xml
+IERTDM1.xml,Tractatus de musica,Ieronimus de Moravia,13th century,1200,1299,chtmlIERTDM1.xml
+ANOMETR.xml,Metrologus,Anonymous,14th century,1300,1399,chtmlANOMETR.xml
+ANOINCOR.xml,De organo,Anonymous,9th-11th century,800,1099,chtmlANOINCOR.xml
+ANOAMP.xml,Ars et modus pulsandi organa secundum modum novissimum inventum per magistros musicos modernos,Anonymous,14th century,1300,1399,chtmlANOAMP.xml
+ANOFMUS_MSAVI44.xml,[Compendium secundum famosiores musicos],Anonymous,15th century,1400,1499,chtmlANOFMUS_MSAVI44.xml
+MURCOM.xml,Compendium musicae practicae,Johannes de Muris,14th century,1300,1399,chtmlMURCOM.xml
+BONBRE.xml,Brevis collectio artis musicae,Bonaventura da Brescia,15th century,1400,1499,chtmlBONBRE.xml
+MURLIB.xml,Libellus cantus mensurabilis,Johannes de Muris,14th century,1300,1399,chtmlMURLIB.xml
+MURARSD.xml,Ars discantus,Johannes de Muris,14th century,1300,1399,chtmlMURARSD.xml
+JACSP2C.xml,"Speculum musicae, Liber secundus",Jacobus Leodiensis,14th century,1300,1399,chtmlJACSP2C.xml
+ANOFRA6.xml,Ars musica,Anonymous,13th century,1200,1299,chtmlANOFRA6.xml
+ANOPI_MOBB842.xml,[De proportionibus et de intervallis],Anonymous,14th century,1300,1399,chtmlANOPI_MOBB842.xml
+ANOTRHO.xml,Opusculum de musica,Anonymous,15th century,1400,1499,chtmlANOTRHO.xml
+ANOORI_MLBLL763.xml,De origine et effectu musice,Anonymous,15th century,1400,1499,chtmlANOORI_MLBLL763.xml
+ISISENT_MBAVB307.xml,Sententiae de musica,Isidorus Hispalensis,6th-8th century,500,799,chtmlISISENT_MBAVB307.xml
+ANOLEIP.xml,Introductorium musicae,Anonymous,16th century,1500,1599,chtmlANOLEIP.xml
+ARNTRA.xml,Tractatulus de differentiis et generibus cantorum,Arnulphus de Sancto Gilleno,14th century,1300,1399,chtmlARNTRA.xml
+ANOLIB.xml,Jesus. Libellus musicae adiscendae valde utilis et est dialogus. Discipulus et magister sunt locutores,Anonymous,15th century,1400,1499,chtmlANOLIB.xml
+FRAACME_MPBN1666.xml,Ars cantus mensurabilis,Franco,13th century,1200,1299,chtmlFRAACME_MPBN1666.xml
+ANO1279.xml,De expositione musice,Anonymous,13th century,1200,1299,chtmlANO1279.xml
+SALMUS2.xml,"De musica, liber secundus","Salinas, Franciscus",16th century,1500,1599,chtmlSALMUS2.xml
+ANO2VAL_MPBN1512.xml,[De valore notularum tam veteris quam novae artis],Anonymous,14th century,1300,1399,chtmlANO2VAL_MPBN1512.xml
+CALVEX.xml,Exercitationes musicae duae,"Calvisius, Seth",17th century,1600,1699,chtmlCALVEX.xml
+JACSP2A.xml,"Speculum musicae, Liber secundus",Jacobus Leodiensis,14th century,1300,1399,chtmlJACSP2A.xml
+AGRRUD.xml,Rudimenta musices,"Agricola, Martinus",16th century,1500,1599,chtmlAGRRUD.xml
+ANOFRA4.xml,De musica,Anonymous,15th century,1400,1499,chtmlANOFRA4.xml
+JACSM7.xml,"Speculum musicae, Liber septimus",Jacobus Leodiensis,14th century,1300,1399,chtmlJACSM7.xml
+FULMIT.xml,Mitologiarum libri tres,"Fulgentius, Fabius Planciades",6th-8th century,500,799,chtmlFULMIT.xml
+ANODIST_MLBLL763.xml,"Distinccio inter colores musicales, et armorum heroum",Anonymous,14th century,1300,1399,chtmlANODIST_MLBLL763.xml
+TINEXP.xml,Expositio manus,"Tinctoris, Johannes",15th century,1400,1499,chtmlTINEXP.xml
+FRAARS.xml,Ars cantus mensurabilis,Franco,13th century,1200,1299,chtmlFRAARS.xml
+FULMUS4.xml,"Musica, pars quarta",Adamus de Fulda,15th century,1400,1499,chtmlFULMUS4.xml
+DONIDE_MBMID-32.xml,"Idea, sive designatio aliquot Operum, quae Ioannes Baptista Donius, partim absolvit, partim incepit","Doni, Giovanni Battista",17th century,1600,1699,chtmlDONIDE_MBMID-32.xml
+ANOTRAC_MCBOLT1.xml,[Tractatus de musica],Anonymous,13th century,1200,1299,chtmlANOTRAC_MCBOLT1.xml
+PETMUSM.xml,Musica mensurabilis,Petrus Picardus,13th century,1200,1299,chtmlPETMUSM.xml
+SZYDMUS.xml,Musica,"Szydlow, Johannes de",15th century,1400,1499,chtmlSZYDMUS.xml
+VERDMPV_MBAVB307.xml,Liber de musica,Johannes Verulus de Anagnia,14th century,1300,1399,chtmlVERDMPV_MBAVB307.xml
+BERINS.xml,Institutio Sancti Bernardi abbatis Clareuallis quomodo cantare et psallere debeamus,Bernardus abbatis Clareuallis,12th century,1100,1199,chtmlBERINS.xml
+ANOFRA.xml,Fragmenta musica,Anonymous,13th century,1200,1299,chtmlANOFRA.xml
+BOENARSM_MVBM8-24.xml,Ars musice,"Boen, Johannes",14th century,1300,1399,chtmlBOENARSM_MVBM8-24.xml
+AUGDEM6.xml,"De musica, liber sextus","Augustinus, Aurelius",3rd-5th century,200,499,chtmlAUGDEM6.xml
+ANOCON.xml,Constitutiones capellae pontificiae,Anonymous,16th century,1500,1599,chtmlANOCON.xml
+ANOMOV.xml,Expositio de motu,Anonymous,9th-11th century,800,1099,chtmlANOMOV.xml
+TDMUS1_MOBB842.xml,"Musica, liber primus",Theinredus Doverensis,12th century,1100,1199,chtmlTDMUS1_MOBB842.xml
+BOEMUS3C_MCTC944.xml,"De institutione musica, liber tertius","Boethius, Anicius Manlius Severinus",6th-8th century,500,799,chtmlBOEMUS3C_MCTC944.xml
+ANOCAR.xml,Cartula de cantu plano,Anonymous,14th century,1300,1399,chtmlANOCAR.xml
+IERTDM2.xml,Tractatus de musica,Ieronimus de Moravia,13th century,1200,1299,chtmlIERTDM2.xml
+ANOSEQ.xml,Sequitur de synemenis,Anonymous,13th century,1200,1299,chtmlANOSEQ.xml
+THEMUS.xml,Musica,Theogerus Metensis,9th-11th century,800,1099,chtmlTHEMUS.xml
+GARDEM.xml,De musica mensurabili,Johannes de Garlandia,13th century,1200,1299,chtmlGARDEM.xml
+SCHOPA.xml,"Opus aureum musicae, partes III et IV","Schanppecher, Melchior",16th century,1500,1599,chtmlSCHOPA.xml
+ANOPHIL.xml,[Tractatus de musica],Anonymous,15th century,1400,1499,chtmlANOPHIL.xml
+VERLIB.xml,Liber de musica,Johannes Verulus de Anagnia,14th century,1300,1399,chtmlVERLIB.xml
+ISIDEMU.xml,De musica,Isidorus Hispalensis,6th-8th century,500,799,chtmlISIDEMU.xml
+BOEMUS4C_MCTC944.xml,"De institutione musica, liber quartus","Boethius, Anicius Manlius Severinus",6th-8th century,500,799,chtmlBOEMUS4C_MCTC944.xml
+ANOTDMM.xml,[Tractatus de musica mensurabili],Anonymous,15th century,1400,1499,chtmlANOTDMM.xml
+FRAARSCM.xml,Ars cantus mensurabilis,Franco,13th century,1200,1299,chtmlFRAARSCM.xml
+BERMAN.xml,Berkeley Manuscript,Anonymous,14th century,1300,1399,chtmlBERMAN.xml
+ANOFRA5.xml,Tractatus de musica,Anonymous,12th century,1100,1199,chtmlANOFRA5.xml
+QUAPRIA4_MLBL4909.xml,Quatuor Principalia IV,Anonymous,14th century,1300,1399,chtmlQUAPRIA4_MLBL4909.xml
+MURMUSM_MMBAH165.xml,Musica speculativa,Johannes de Muris,14th century,1300,1399,chtmlMURMUSM_MMBAH165.xml
+LIPDEM.xml,De musica et poetica opusculum in quo Conradolum Stangam prothonotarium apostolicum perpetua oratione alloquitur,"Lippus, junior, Raphael Brandolinus",16th century,1500,1599,chtmlLIPDEM.xml
+PETMM_MPBN1666.xml,Musica mensurabilis,Petrus Picardus,13th century,1200,1299,chtmlPETMM_MPBN1666.xml
+ANOLEU.xml,Tractatus de musica,Anonymous,15th century,1400,1499,chtmlANOLEU.xml
+ANOMONT.xml,[Tractatus de organo],Anonymous,12th century,1100,1199,chtmlANOMONT.xml
+SALMUS3.xml,"De musica, liber tertius","Salinas, Franciscus",16th century,1500,1599,chtmlSALMUS3.xml
+ANODIS_MOBB842.xml,[De discantu],Anonymous,14th century,1300,1399,chtmlANODIS_MOBB842.xml
+QUAPRIA3_MLBL4909.xml,Quatuor Principalia III,Anonymous,14th century,1300,1399,chtmlQUAPRIA3_MLBL4909.xml
+ANOCOBR.xml,Commemoratio brevis de tonis et psalmis modulandis,Anonymous,9th-11th century,800,1099,chtmlANOCOBR.xml
+MARLU2M_MMBAI20I.xml,"Lucidarium, tractatus secundus",Marchetus de Padua,14th century,1300,1399,chtmlMARLU2M_MMBAI20I.xml
+ANODM.xml,De modis musicis,Anonymous,9th-11th century,800,1099,chtmlANODM.xml
+ANOHOL3_MVNB4774.xml,[Tractatus de musica cum glossis],Anonymous,15th century,1400,1499,chtmlANOHOL3_MVNB4774.xml
+ANO4CMM.xml,Compendium musicae mensurabilis tam veteris quam novae artis,Anonymous,15th century,1400,1499,chtmlANO4CMM.xml
+ANOIUX.xml,Iuxta artem conficiendi [compositiones],Anonymous,16th century,1500,1599,chtmlANOIUX.xml
+PROPLA.xml,Plana musica,Prosdocimo de' Beldomandi,15th century,1400,1499,chtmlPROPLA.xml
+GARINT.xml,Introductio musice,Magister de Garlandia,13th century,1200,1299,chtmlGARINT.xml
+TINCOM.xml,Complexus effectuum musices,"Tinctoris, Johannes",15th century,1400,1499,chtmlTINCOM.xml
+DREPRA.xml,Praecepta musicae poeticae,"Dressler, Gallus",16th century,1500,1599,chtmlDREPRA.xml
+ANOEMD.xml,De enquiriadis monocordi divisione,Anonymous,9th-11th century,800,1099,chtmlANOEMD.xml
+JOHMUS.xml,Musica,Johannes Affligemensis,9th-11th century,800,1099,chtmlJOHMUS.xml
+ODOORG.xml,Quomodo organistrum construatur,Odo,9th-11th century,800,1099,chtmlODOORG.xml
+SALMUS7.xml,"De musica, liber septimus","Salinas, Franciscus",16th century,1500,1599,chtmlSALMUS7.xml
+DYGONPRO.xml,Proportiones practicabiles secundum Gaffurium,"Dygon, John",16th century,1500,1599,chtmlDYGONPRO.xml
+ANO4MUS.xml,[Musica],Anonymous 4,13th century,1200,1299,chtmlANO4MUS.xml
+GUICHA.xml,Musica,Gui de Chalis,13th century,1200,1299,chtmlGUICHA.xml
+MURARSC.xml,Ars contrapuncti,Johannes de Muris,14th century,1300,1399,chtmlMURARSC.xml
+DISPOS.xml,Discantus positio vulgaris,Anonymous,13th century,1200,1299,chtmlDISPOS.xml
+PAULARSA.xml,Ars ad adiscendum contrapunctum,Paulus de Florentia,15th century,1400,1499,chtmlPAULARSA.xml
+ANOARSMU.xml,[Ars musica],Anonymous,13th century,1200,1299,chtmlANOARSMU.xml
+ANOFRAP.xml,[Fragmentum de proportionibus],Anonymous,14th century,1300,1399,chtmlANOFRAP.xml
+PETCOM.xml,Compendium de discantu mensurabili,Petrus dictus Palma ociosa,14th century,1300,1399,chtmlPETCOM.xml
+GROTHE.xml,Theoria,Johannes de Grocheo,14th century,1300,1399,chtmlGROTHE.xml
+ABGUREG.xml,Regulae organi,Abbot Guido,12th century,1100,1199,chtmlABGUREG.xml
+PAULARS.xml,Ars ad discantandum contrapunctum,Paulus de Florentia,15th century,1400,1499,chtmlPAULARS.xml
+VITARN.xml,Ars nova,Philippe de Vitry,14th century,1300,1399,chtmlVITARN.xml
+MARELE.xml,Elementorum musices practicae,"Martin, Claude",16th century,1500,1599,chtmlMARELE.xml
+ANODC_MOBB842.xml,Diverse conclusiones,Anonymous,14th century,1300,1399,chtmlANODC_MOBB842.xml
+ODIDES.xml,De speculatione musice,"Odington, Walter",14th century,1300,1399,chtmlODIDES.xml
+BEUERO2.xml,Erotematum musicae liber secundus,"Beurhusius, Fredericus",16th century,1500,1599,chtmlBEUERO2.xml
+QUECOM.xml,Commentary on De vita et honestate clericorum of Pope John XXII,"Quevedo, Bartolomé de",16th century,1500,1599,chtmlQUECOM.xml
+FULMUS1.xml,"Musica, pars prima",Adamus de Fulda,15th century,1400,1499,chtmlFULMUS1.xml
+TINLIB.xml,Liber imperfectionum notarum musicalium,"Tinctoris, Johannes",15th century,1400,1499,chtmlTINLIB.xml
+ANODFC.xml,De formatione contrapuncti tales dantur regulae,Anonymous,15th century,1400,1499,chtmlANODFC.xml
+FRURIT.xml,Rythmimachia,Frutolfus,12th century,1100,1199,chtmlFRURIT.xml
+ANO2TRDM.xml,Tractatus de musica,Anonymous II,12th century,1100,1199,chtmlANO2TRDM.xml
+MARBRE.xml,Brevis compilatio in arte musicae mensuratae,Marchetus de Padua,14th century,1300,1399,chtmlMARBRE.xml
+ANOCMB.xml,Commemoratio brevis de tonis et psalmis modulandis,Anonymous,9th-11th century,800,1099,chtmlANOCMB.xml
+DISVUL.xml,Discantus vulgaris positio,Anonymous,13th century,1200,1299,chtmlDISVUL.xml
+AUGDEM2.xml,"De musica, liber secundus","Augustinus, Aurelius",3rd-5th century,200,499,chtmlAUGDEM2.xml
+ANOCMU.xml,Compendium musices,Anonymous,16th century,1500,1599,chtmlANOCMU.xml
+MURAD.xml,Ars discantus data a Magistro Iohanne de Muris abbreviando,Johannes de Muris,14th century,1300,1399,chtmlMURAD.xml
+ANODIV_MOBB842.xml,De divisione monacordi,Anonymous,14th century,1300,1399,chtmlANODIV_MOBB842.xml
+AUGDEM3.xml,"De musica, liber tertius","Augustinus, Aurelius",3rd-5th century,200,499,chtmlAUGDEM3.xml
+TALLEC.xml,Lectura,"Tallanderius, Petrus",15th century,1400,1499,chtmlTALLEC.xml
+ANOOXO.xml,Commentum in musicam Boethii,Anonymous,14th century,1300,1399,chtmlANOOXO.xml
+CASTRAM_MMBAI20I.xml,Tractatus de diversis figuris,Philippus de Caserta,14th century,1300,1399,chtmlCASTRAM_MMBAI20I.xml
+ANO1DEM.xml,De musica antiqua et nova,Anonymous I,14th century,1300,1399,chtmlANO1DEM.xml
+ANOTOT_MSAVI44.xml,[Tractatus de octo tonis],Anonymous,15th century,1400,1499,chtmlANOTOT_MSAVI44.xml
+TINTRAP.xml,Tractatus super punctis musicalibus,"Tinctoris, Johannes",15th century,1400,1499,chtmlTINTRAP.xml
+ANOMOD.xml,Modus cantandi in mensuralibus,Anonymous,15th century,1400,1499,chtmlANOMOD.xml
+ANODESA_MLBLL763.xml,Monachus quidam de Sherbourn talem musicam profert de Sancta Maria Magdalene,Anonymous,14th century,1300,1399,chtmlANODESA_MLBLL763.xml
+HERSPE.xml,Musica speculativa,"Heritius, Erasmus",15th century,1400,1499,chtmlHERSPE.xml
+ODORHY.xml,Regulae de rhythmimachia,Odo,9th-11th century,800,1099,chtmlODORHY.xml
+TINTRALT.xml,Tractatus alterationum,"Tinctoris, Johannes",15th century,1400,1499,chtmlTINTRALT.xml
+AUREPI.xml,Musica disciplina,Aurelianus Reomensis,9th-11th century,800,1099,chtmlAUREPI.xml
+AQUARS.xml,Ars musice,"Aquinas [Ps.], Thomas",13th century,1200,1299,chtmlAQUARS.xml
+GAFEXT.xml,Extractus parvus musice,"Gaffurio, Franchino",15th century,1400,1499,chtmlGAFEXT.xml
+MURDEN.xml,"De numeris, qui musicas retinent consonantias, secundum Ptolomaeum de Parisius",Johannes de Muris,14th century,1300,1399,chtmlMURDEN.xml
+ANO5ARS.xml,Ars cantus mensurabilis,Anonymous V,15th century,1400,1499,chtmlANO5ARS.xml
+FRORER.xml,Rerum musicarum opusculum rarum ac insigne,"Frosch, Johannes",16th century,1500,1599,chtmlFRORER.xml
+JACSP3A.xml,"Speculum musicae, Liber tertius",Jacobus Leodiensis,14th century,1300,1399,chtmlJACSP3A.xml
+VITARSN.xml,Ars nova,Philippe de Vitry,14th century,1300,1399,chtmlVITARSN.xml
+AARIH1.xml,"Libri tres de institutione harmonica, liber primus","Aaron, Petrus",16th century,1500,1599,chtmlAARIH1.xml
+MARLU1M_MMBAI20I.xml,"Lucidarium, tractatus primus",Marchetus de Padua,14th century,1300,1399,chtmlMARLU1M_MMBAI20I.xml
+CASAPO.xml,Apologia musices tam vocalis quam instrumentalis et mixtae,"Case, John",16th century,1500,1599,chtmlCASAPO.xml
+RHAENC.xml,Enchiridion utriusque musicae practicae,"Rhau, Georg",16th century,1500,1599,chtmlRHAENC.xml
+ANOQM.xml,De musica,Anonymous,13th century,1200,1299,chtmlANOQM.xml
+MAUDEU.xml,"De universo, liber XVIII, caput IV",Rabanus Maurus,9th-11th century,800,1099,chtmlMAUDEU.xml
+FRACOMO_MOBB842.xml,Compendium discantus,Franco,13th century,1200,1299,chtmlFRACOMO_MOBB842.xml
+SALMUS6.xml,"De musica, liber sextus","Salinas, Franciscus",16th century,1500,1599,chtmlSALMUS6.xml
+VANREM.xml,Recanetum de musica aurea,"Vanneo, Stephano",16th century,1500,1599,chtmlVANREM.xml
+GUIARS8.xml,Ars musicorum liber VIII,Guillermus de Podio,15th century,1400,1499,chtmlGUIARS8.xml
+ANOHOL6B_MVNB4774.xml,[Opusculum de musica ex traditione Iohannis Hollandrini],Anonymous,15th century,1400,1499,chtmlANOHOL6B_MVNB4774.xml
+ISINST.xml,Institutionum disciplinae,Isidorus Hispalensis,6th-8th century,500,799,chtmlISINST.xml
+PROSPEC.xml,Musica speculativa,Prosdocimo de' Beldomandi,15th century,1400,1499,chtmlPROSPEC.xml
+AURMUSD.xml,Musica disciplina,Aurelianus Reomensis,9th-11th century,800,1099,chtmlAURMUSD.xml
+ANORCC.xml,[Regulae cantandi contrapunctum],Anonymous,15th century,1400,1499,chtmlANORCC.xml
+ANO3COM.xml,Compendiolum artis veteris ac novae,Anonymous III,14th century,1300,1399,chtmlANO3COM.xml
+ORIPRA.xml,Practicae musicae utriusque praecepta brevia,"Oridryus, Johannes",16th century,1500,1599,chtmlORIPRA.xml
+ANO3FRA.xml,Fragmentum musices,Anonymous III,12th century,1100,1199,chtmlANO3FRA.xml
+MAUMUS.xml,De origine rerum,Rabanus Maurus,9th-11th century,800,1099,chtmlMAUMUS.xml
+VITLIBM.xml,Liber musicalium,Philippe de Vitry,14th century,1300,1399,chtmlVITLIBM.xml
+ANOSPEG.xml,Liber specierum,Anonymous,9th-11th century,800,1099,chtmlANOSPEG.xml
+PROPAR.xml,Parvus tractatulus de modo monacordum dividendi,Prosdocimo de' Beldomandi,15th century,1400,1499,chtmlPROPAR.xml
+ANOCOMM.xml,Compendium musicae mensurabilis artis antiquae,Anonymous,13th century,1200,1299,chtmlANOCOMM.xml
+SALMUS4.xml,"De musica, liber quartus","Salinas, Franciscus",16th century,1500,1599,chtmlSALMUS4.xml
+THEMUSI.xml,Musica,Theogerus Metensis,9th-11th century,800,1099,chtmlTHEMUSI.xml
+BOEMUS2C_MCTC944.xml,"De institutione musica, liber secundus","Boethius, Anicius Manlius Severinus",6th-8th century,500,799,chtmlBOEMUS2C_MCTC944.xml
+OLIBREV.xml,[Breviarium de musica] and [Versus monocordi],Oliva de Ripoll,9th-11th century,800,1099,chtmlOLIBREV.xml
+JOHPALM_MMBAI20I.xml,Palma choralis,Johannes de Olomons,15th century,1400,1499,chtmlJOHPALM_MMBAI20I.xml
+ANOFRA2.xml,Fragmenta musica,Anonymous,12th century,1100,1199,chtmlANOFRA2.xml
+AARIH3.xml,"Libri tres de institutione harmonica, liber tertius","Aaron, Petrus",16th century,1500,1599,chtmlAARIH3.xml
+QUAPRIA2_MLBL4909.xml,Quatuor Principalia II,Anonymous,14th century,1300,1399,chtmlQUAPRIA2_MLBL4909.xml
+TININV.xml,De inventione et usu musicae,"Tinctoris, Johannes",15th century,1400,1499,chtmlTININV.xml
+BEUERO1.xml,Erotematum musicae liber primus,"Beurhusius, Fredericus",16th century,1500,1599,chtmlBEUERO1.xml
+FULMUS2.xml,"Musica, pars secunda",Adamus de Fulda,15th century,1400,1499,chtmlFULMUS2.xml
+ANO2TDM.xml,Tractatus de musica,Anonymous II,12th century,1100,1199,chtmlANO2TDM.xml
+HOTEXC.xml,Excitatio quaedam musicae artis per refutationem,"Hothby, Johannes",15th century,1400,1499,chtmlHOTEXC.xml
+TINLIMP.xml,Liber imperfectionum notarum musicalium,"Tinctoris, Johannes",15th century,1400,1499,chtmlTINLIMP.xml
+TRADEM.xml,Tractatus de musica figurata et de contrapuncto ab anonymo auctore,Anonymous,15th century,1400,1499,chtmlTRADEM.xml
+TINTRAR.xml,Tractatus de regulari valore notarum,"Tinctoris, Johannes",15th century,1400,1499,chtmlTINTRAR.xml
+GARDEMP.xml,De musica mensurabili positio,Johannes de Garlandia,13th century,1200,1299,chtmlGARDEMP.xml
+MURMSPEB_MBBR1457.xml,Musica speculativa,Johannes de Muris,14th century,1300,1399,chtmlMURMSPEB_MBBR1457.xml
+ARIMU.xml,Musica,Aribo,9th-11th century,800,1099,chtmlARIMU.xml
+AUGDEM1.xml,"De musica, liber primus","Augustinus, Aurelius",3rd-5th century,200,499,chtmlAUGDEM1.xml
+CICNM.xml,Nova musica,"Ciconia, Johannes",15th century,1400,1499,chtmlCICNM.xml
+ODORH.xml,Regulae de rhythmimachia,Odo,9th-11th century,800,1099,chtmlODORH.xml
+ANODEM.xml,De musica mensurabili,Anonymous,14th century,1300,1399,chtmlANODEM.xml
+FINEPI.xml,Epithoma musice instrumentalis ad omnimodam Hemispherii seu Luthine et theoricam et practicam,"Finé, Oronce",16th century,1500,1599,chtmlFINEPI.xml
+WOLDEM.xml,De musica,"Wolterstorpius, Joachimus",16th century,1500,1599,chtmlWOLDEM.xml
+ANO2TRA.xml,Tractatus de discantu,Anonymous 2,13th century,1200,1299,chtmlANO2TRA.xml
+ANO1OMN.xml,[Tractatulus de notis],Anonymous,14th century,1300,1399,chtmlANO1OMN.xml
+FULMUS3.xml,"Musica, pars tertia",Adamus de Fulda,15th century,1400,1499,chtmlFULMUS3.xml
+GUIRR.xml,Regulae rhythmicae in antiphonarii sui prologum prolatae,Guido d'Arezzo,9th-11th century,800,1099,chtmlGUIRR.xml
+AARIH2.xml,"Libri tres de institutione harmonica, liber secundus","Aaron, Petrus",16th century,1500,1599,chtmlAARIH2.xml
+MARCOM.xml,[Compendium],Marchetus de Padua,14th century,1300,1399,chtmlMARCOM.xml
+JACSP3B.xml,"Speculum musicae, Liber tertius",Jacobus Leodiensis,14th century,1300,1399,chtmlJACSP3B.xml
+ANOFRA3.xml,Fragmenta musica,Anonymous,12th century,1100,1199,chtmlANOFRA3.xml
+BURMUSX.xml,"Musices opusculum, tractatus secundus, capitulum VI","Burtius, Nicolaus",15th century,1400,1499,chtmlBURMUSX.xml
+GUIMICRO.xml,Micrologus,Guido d'Arezzo,9th-11th century,800,1099,chtmlGUIMICRO.xml
+SALMUS5.xml,"De musica, liber quintus","Salinas, Franciscus",16th century,1500,1599,chtmlSALMUS5.xml
+TORTRIL_MLBL2145.xml,Trianguli et scuti declaratio,"Torkesey, Johannes",14th century,1300,1399,chtmlTORTRIL_MLBL2145.xml
+ANOMONR.xml,Monochordi mensura,Anonymous,9th-11th century,800,1099,chtmlANOMONR.xml
+BIANTRI_MBMIBM32.xml,De Tribus Generibus Instrumentorum Musicae Veterum Organicae,"Bianchini, Francesco",17th century,1600,1699,chtmlBIANTRI_MBMIBM32.xml
+BERNPRO.xml,Musica seu Prologus in Tonarium,Berno Augiensis,9th-11th century,800,1099,chtmlBERNPRO.xml
+KRODEM.xml,De musica figurata,"Kromer, Marcin",16th century,1500,1599,chtmlKRODEM.xml
+MARLUC10.xml,"Lucidarium, tractatus decimus",Marchetus de Padua,14th century,1300,1399,chtmlMARLUC10.xml
+ANOREG.xml,Regule contrapuncti secundum usum Regni Siciliae,Anonymous,15th century,1400,1499,chtmlANOREG.xml
+ANOCSTO.xml,Commentum super tonos,Anonymous,9th-11th century,800,1099,chtmlANOCSTO.xml
+ANORDC.xml,[Regulae de contrapuncto],Anonymous,15th century,1400,1499,chtmlANORDC.xml
+HERMUSB.xml,Musica,Hermannus Contractus,9th-11th century,800,1099,chtmlHERMUSB.xml
+GAFHAR4.xml,"De harmonia musicorum instrumentorum opus, liber quartus et ultimus","Gaffurio, Franchino",16th century,1500,1599,chtmlGAFHAR4.xml
+AARIHCOR.xml,Libri tres de institutione harmonica; Petrus Aaron Florentinus ad Lectorem,"Aaron, Petrus",16th century,1500,1599,chtmlAARIHCOR.xml
+ANOARSMA_MBUFIX54.xml,Ars musice armonie,Anonymous,12th century,1100,1199,chtmlANOARSMA_MBUFIX54.xml
+ANOPRNO_MSAVI44.xml,[Practica notarum],Anonymous,15th century,1400,1499,chtmlANOPRNO_MSAVI44.xml
+COLORGR.xml,Cologne Organum Treatise,Anonymous,9th-11th century,800,1099,chtmlCOLORGR.xml
+MARLUC4.xml,"Lucidarium, tractatus quartus",Marchetus de Padua,14th century,1300,1399,chtmlMARLUC4.xml
+ANOOREF.xml,De origine et effectu musicae,Anonymous,15th century,1400,1499,chtmlANOOREF.xml
+ODOMUS.xml,De musica,Odo,9th-11th century,800,1099,chtmlODOMUS.xml
+MARBREV.xml,Brevis compilatio,Marchetus de Padua,14th century,1300,1399,chtmlMARBREV.xml
+AGANOCO.xml,De cantu organico,Anonymous,14th century,1300,1399,chtmlAGANOCO.xml
+ANOPTRA.xml,Tractatus de musica,Anonymous OP,14th century,1300,1399,chtmlANOPTRA.xml
+HUYNOV.xml,Novus cyclus harmonicus,"Huygens, Christiaan",17th century,1600,1699,chtmlHUYNOV.xml
+BERNVARP.xml,De varia psalmorum atque cantuum modulatione,Berno Augiensis,9th-11th century,800,1099,chtmlBERNVARP.xml
+ODOOR.xml,Quomodo organistrum construatur,Odo,9th-11th century,800,1099,chtmlODOOR.xml
+PETQUO.xml,Quodlibet VI: Quaestiones 16 et 17,Petrus de Alvernia,13th century,1200,1299,chtmlPETQUO.xml
+THEORC.xml,Regulae contrapuncti,Theodonus de Caprio,15th century,1400,1499,chtmlTHEORC.xml
+ANOME1A.xml,Compositio monocordi secundum Enchiriadem,Anonymous,9th-11th century,800,1099,chtmlANOME1A.xml
+BERMAN1_MLBL2322.xml,"[De litteris, de deduccionibus, de modis, de speciebus]",Anonymous,14th century,1300,1399,chtmlBERMAN1_MLBL2322.xml
+ODOTO.xml,Tonarium,Odo,9th-11th century,800,1099,chtmlODOTO.xml
+CASINS.xml,"Institutiones musicae, seu excerpta ex eiusdem libro, de artibus ac disciplinis liberalium litterarum","Cassiodorus, Aurelius",6th-8th century,500,799,chtmlCASINS.xml
+NOTLET.xml,Quid singulae litterae,Notker,9th-11th century,800,1099,chtmlNOTLET.xml
+BOEMUS5.xml,"De institutione musica, liber quintus","Boethius, Anicius Manlius Severinus",6th-8th century,500,799,chtmlBOEMUS5.xml
+ANOME5.xml,Divisio monocordi secundum enchiriadem,Anonymous,9th-11th century,800,1099,chtmlANOME5.xml
+FRAACM.xml,Ars cantus mensurabilis,Franco,13th century,1200,1299,chtmlFRAACM.xml
+ANOARG.xml,Liber argumentorum,Anonymous,9th-11th century,800,1099,chtmlANOARG.xml
+HEIMUS.xml,Musica,Heinricus Augustensis,9th-11th century,800,1099,chtmlHEIMUS.xml
+BOEMUS4.xml,"De institutione musica, liber quartus","Boethius, Anicius Manlius Severinus",6th-8th century,500,799,chtmlBOEMUS4.xml
+UGODEC1B.xml,"Declaratio musicae disciplinae, liber primus",Ugolino Urbevetanis,15th century,1400,1499,chtmlUGODEC1B.xml
+HERVER.xml,Versus ad discernendum cantum,Hermannus Contractus,9th-11th century,800,1099,chtmlHERVER.xml
+ANOTDD.xml,Tractatus de discantu,Anonymous II,13th century,1200,1299,chtmlANOTDD.xml
+BERNDCTD.xml,De consona tonorum diversitate,Berno Augiensis,9th-11th century,800,1099,chtmlBERNDCTD.xml
+WOLOPA.xml,"Opus aureum, partes I-II","Wollick, Nicolaus",16th century,1500,1599,chtmlWOLOPA.xml
+ANOTRAC2.xml,"Tractatus Guidonis correctorius multorum errorum, qui fiunt in cantu gregoriano in multis locis",Guido d'Arezzo [Ps.],15th century,1400,1499,chtmlANOTRAC2.xml
+GUIENC.xml,Enchiridion de principiis musice discipline,Guillermus de Podio,15th century,1400,1499,chtmlGUIENC.xml
+ANOPROP1_MBAVR114.xml,[De proportionibus],Anonymous,14th century,1300,1399,chtmlANOPROP1_MBAVR114.xml
+CONNOV.xml,Novellus musicae artis tractatus,"Zabern, Conrad von",15th century,1400,1499,chtmlCONNOV.xml
+CARLTRA.xml,Tractatus de duplici ritu cantus ecclesiastici in divinis officiis et primo de simplici,"Carlerius, Egidius",15th century,1400,1499,chtmlCARLTRA.xml
+TINPROM.xml,Proportionale musices,"Tinctoris, Johannes",15th century,1400,1499,chtmlTINPROM.xml
+GRODEM.xml,De musica,Johannes de Grocheo,14th century,1300,1399,chtmlGRODEM.xml
+REMMUSI.xml,Musica,Remigius Altisiodorensis,9th-11th century,800,1099,chtmlREMMUSI.xml
+UGOTRAM.xml,Tractatus monochordi,Ugolino Urbevetanis,15th century,1400,1499,chtmlUGOTRAM.xml
+FRACOM.xml,Compendium discantus,Franco,13th century,1200,1299,chtmlFRACOM.xml
+TINCON1.xml,"Liber de arte contrapuncti, Liber primus","Tinctoris, Johannes",15th century,1400,1499,chtmlTINCON1.xml
+ADORFBB.xml,[Ad organum faciendum],Anonymous,9th-11th century,800,1099,chtmlADORFBB.xml
+ANO12TRA.xml,Tractatus de musica,Anonymous XII,15th century,1400,1499,chtmlANO12TRA.xml
+ANOFRAGM_MBAVB307.xml,[Fragmentum],Anonymous,6th-8th century,500,799,chtmlANOFRAGM_MBAVB307.xml
+CENFRA.xml,Fragmenta,Censorinus,3rd-5th century,200,499,chtmlCENFRA.xml
+ANO7DDM.xml,De diversis manieribus in musica mensurabili,Anonymous,14th century,1300,1399,chtmlANO7DDM.xml
+MARLUC5.xml,"Lucidarium, tractatus quintus",Marchetus de Padua,14th century,1300,1399,chtmlMARLUC5.xml
+LIBDEM.xml,De musicae laudibus oratio,"Liban, Jerzy",16th century,1500,1599,chtmlLIBDEM.xml
+COLORGS.xml,Cologne Organum Treatise,Anonymous,9th-11th century,800,1099,chtmlCOLORGS.xml
+ANODPM_MPBN1512.xml,De plana musica,Anonymous,13th century,1200,1299,chtmlANODPM_MPBN1512.xml
+ANONOT.xml,Nota regulas super tactus,Anonymous,15th century,1400,1499,chtmlANONOT.xml
+FABCOM.xml,Compendiolum musicae pro incipientibus,"Faber, Heinrich",16th century,1500,1599,chtmlFABCOM.xml
+SCENCH.xml,Scolica enchiriadis de arte musica,Anonymous,9th-11th century,800,1099,chtmlSCENCH.xml
+ANOCMDG.xml,Circa modum discantandi,Anonymous,14th century,1300,1399,chtmlANOCMDG.xml
+ADEMUSI.xml,Musica,Adelboldus,9th-11th century,800,1099,chtmlADEMUSI.xml
+LISMUS.xml,Musica,"Listenius, Nicolaus",16th century,1500,1599,chtmlLISMUS.xml
+MURARSPB.xml,Ars practica mensurabilis cantus secundum Iohannem de Muris (Recensio B),Johannes de Muris,14th century,1300,1399,chtmlMURARSPB.xml
+ANOPES.xml,[Rhythmica],Anonymous,13th century,1200,1299,chtmlANOPES.xml
+ENGDEM4.xml,"De musica, tractatus quartus",Engelbertus Admontensis,14th century,1300,1399,chtmlENGDEM4.xml
+MURNOT.xml,Notitia artis musicae,Johannes de Muris,14th century,1300,1399,chtmlMURNOT.xml
+ANOMET_MLBLL763.xml,Metrologus liber,Anonymous,14th century,1300,1399,chtmlANOMET_MLBLL763.xml
+ANOTDS_MVNB4702.xml,[Tractatus de solmisatione],Anonymous,14th century,1300,1399,chtmlANOTDS_MVNB4702.xml
+MARLUC11.xml,"Lucidarium, tractatus undecimus",Marchetus de Padua,14th century,1300,1399,chtmlMARLUC11.xml
+MARLUC13.xml,"Lucidarium, tractatus tercius decimus",Marchetus de Padua,14th century,1300,1399,chtmlMARLUC13.xml
+ANOQUAE_MPBN1474.xml,[Compendium musicae],Anonymous,14th century,1300,1399,chtmlANOQUAE_MPBN1474.xml
+ANOARSM.xml,Ars musicae mensurabilis secundum Franconem,Anonymous,13th century,1200,1299,chtmlANOARSM.xml
+ANOPRO.xml,[Tractatus de musica],Anonymous,15th century,1400,1499,chtmlANOPRO.xml
+DIEREG.xml,Regulae super discantum et ad discernendum ipsas notas discantus,Dietricus,13th century,1200,1299,chtmlDIEREG.xml
+GENTSPE_MGRU70.xml,"De arte musicali, prima pars: Musica speculativa",Dionysius Lewis de Ryckel,15th century,1400,1499,chtmlGENTSPE_MGRU70.xml
+BALABR.xml,Abreviatio Magistri Franconis,Johannes dictus Ballox,13th century,1200,1299,chtmlBALABR.xml
+TININV4.xml,De inventione et usu musicae,"Tinctoris, Johannes",15th century,1400,1499,chtmlTININV4.xml
+MURISAPP.xml,Musica speculativa,Johannes de Muris,14th century,1300,1399,chtmlMURISAPP.xml
+ANOCAPM.xml,Capitulum de modo accipiendo,Anonymous,14th century,1300,1399,chtmlANOCAPM.xml
+MARLUC7.xml,"Lucidarium, tractatus septimus",Marchetus de Padua,14th century,1300,1399,chtmlMARLUC7.xml
+BOENMU.xml,Ars (musicae),"Boen, Johannes",14th century,1300,1399,chtmlBOENMU.xml
+BERNTO.xml,Tonabius [sic],Berno Augiensis,9th-11th century,800,1099,chtmlBERNTO.xml
+ANO6TRA.xml,Tractatus de figuris sive de notis,Anonymous 6,14th century,1300,1399,chtmlANO6TRA.xml
+ANONEUM.xml,[Tabula neumarum],Anonymous,12th century,1100,1199,chtmlANONEUM.xml
+TINCON3.xml,"Liber de arte contrapuncti, Liber tertius","Tinctoris, Johannes",15th century,1400,1499,chtmlTINCON3.xml
+ANOME1B.xml,Compositio monocordi secundum Enchiriadem,Anonymous,9th-11th century,800,1099,chtmlANOME1B.xml
+ANOTPT.xml,Tractatulus prolationum cum tabulis,Anonymous,15th century,1400,1499,chtmlANOTPT.xml
+THEOREG_MBAVB307.xml,Regule contrapuncti,Theodonus de Caprio,15th century,1400,1499,chtmlTHEOREG_MBAVB307.xml
+ANOVIC.xml,Contrapunctus,Anonymous,15th century,1400,1499,chtmlANOVIC.xml
+WFANON4.xml,Tractatus de musica mensurabili,Anonymous,15th century,1400,1499,chtmlWFANON4.xml
+ANOMIC.xml,[Tractatus de musica],Anonymous,14th century,1300,1399,chtmlANOMIC.xml
+NICCOM.xml,Compendium musicale,"Capuanus, Nicolaus",15th century,1400,1499,chtmlNICCOM.xml
+BERNDEM.xml,De mensurando monochordo,Berno Augiensis,9th-11th century,800,1099,chtmlBERNDEM.xml
+ANOARS.xml,Ars mensurandi motetos,Anonymous,14th century,1300,1399,chtmlANOARS.xml
+ANOME6.xml,[Mensura monocordi VI],Anonymous,9th-11th century,800,1099,chtmlANOME6.xml
+ANODMT.xml,De musica et de transformatione specialiter,Anonymous,9th-11th century,800,1099,chtmlANODMT.xml
+UGODEC1A.xml,"Declaratio musicae disciplinae, liber primus",Ugolino Urbevetanis,15th century,1400,1499,chtmlUGODEC1A.xml
+GUIMICR.xml,Micrologus,Guido d'Arezzo,9th-11th century,800,1099,chtmlGUIMICR.xml
+ANSDEM.xml,De musica,"Anselmus, Georgius",15th century,1400,1499,chtmlANSDEM.xml
+ARTDIS.xml,De arte discantandi,Anonymous,13th century,1200,1299,chtmlARTDIS.xml
+ANOCST.xml,Commentum super tonos,Anonymous,9th-11th century,800,1099,chtmlANOCST.xml
+MURLIBF_MFAB1119.xml,Libellus cantus mensurabilis,Johannes de Muris,14th century,1300,1399,chtmlMURLIBF_MFAB1119.xml
+TINCON2.xml,"Liber de arte contrapuncti, Liber secundus","Tinctoris, Johannes",15th century,1400,1499,chtmlTINCON2.xml
+FRUBRE.xml,Breviarium de musica,Frutolfus,12th century,1100,1199,chtmlFRUBRE.xml
+ADORFBA.xml,[Ad organum faciendum],Anonymous,9th-11th century,800,1099,chtmlADORFBA.xml
+ANODUL2.xml,Dulce ingenium (Versio Pragensis),Anonymous,9th-11th century,800,1099,chtmlANODUL2.xml
+DISPOVU.xml,Discantus positio vulgaris,Anonymous,13th century,1200,1299,chtmlDISPOVU.xml
+LUSMUS.xml,Musurgia seu praxis musicae,"Luscinius, Ottmar",16th century,1500,1599,chtmlLUSMUS.xml
+EGECAN.xml,Cantuagium,"Eger von Kalkar, Heinrich",14th century,1300,1399,chtmlEGECAN.xml
+LUDSENT_MFAB1051.xml,Sentencia in musica sonora subiecti,Ludovicus Sanctus,14th century,1300,1399,chtmlLUDSENT_MFAB1051.xml
+MARLUC6.xml,"Lucidarium, tractatus sextus",Marchetus de Padua,14th century,1300,1399,chtmlMARLUC6.xml
+MONPRE.xml,De preceptis artis musice et pratice compendiosus libellus,Guilielmus monachus,15th century,1400,1499,chtmlMONPRE.xml
+ANORCPT.xml,[Regulae contrapuncti],Anonymous,15th century,1400,1499,chtmlANORCPT.xml
+ANOLIBM.xml,Liber musicae,Anonymous,14th century,1300,1399,chtmlANOLIBM.xml
+MURARSPA.xml,Ars practica mensurabilis cantus secundum Iohannem de Muris (Recensio A),Johannes de Muris,14th century,1300,1399,chtmlMURARSPA.xml
+REMVIT.xml,Vita Sancti Remigii,Anonymous,9th-11th century,800,1099,chtmlREMVIT.xml
+TORKSEP.xml,Septem sunt species,"Torkesey, Johannes",14th century,1300,1399,chtmlTORKSEP.xml
+ADORF.xml,Ad organum faciendum,Anonymous,9th-11th century,800,1099,chtmlADORF.xml
+ANOCADI.xml,[Tractatulus de musica],Anonymous,13th century,1200,1299,chtmlANOCADI.xml
+ANOTRDMM_MMBS2818.xml,[Tractatulus de musica],Anonymous,13th century,1200,1299,chtmlANOTRDMM_MMBS2818.xml
+MURREG_MLBLL763.xml,Regule Magistri Johannis de Muris incipiunt,Anonymous,14th century,1300,1399,chtmlMURREG_MLBLL763.xml
+ODODIA.xml,Dialogus de musica,Odo,9th-11th century,800,1099,chtmlODODIA.xml
+MARLUC12.xml,"Lucidarium, tractatus duodecimus",Marchetus de Padua,14th century,1300,1399,chtmlMARLUC12.xml
+HERVERP.xml,Versus ad discernendum cantum,Hermannus Contractus,9th-11th century,800,1099,chtmlHERVERP.xml
+MARLUC16.xml,"Lucidarium, tractatus sextus decimus",Marchetus de Padua,14th century,1300,1399,chtmlMARLUC16.xml
+ODOTON.xml,Tonarium,Odo,9th-11th century,800,1099,chtmlODOTON.xml
+ALIMU.xml,Alia musica,Anonymous,9th-11th century,800,1099,chtmlALIMU.xml
+GAFHAR2.xml,"De harmonia musicorum instrumentorum opus, liber secundus","Gaffurio, Franchino",16th century,1500,1599,chtmlGAFHAR2.xml
+ENGDEM3.xml,"De musica, tractatus tertius",Engelbertus Admontensis,14th century,1300,1399,chtmlENGDEM3.xml
+BEDMUST.xml,Musica theorica,Beda [Ps.],6th-8th century,500,799,chtmlBEDMUST.xml
+ANOTRA2.xml,"Tractatus Guidonis correctorius multorum errorum, qui fiunt in cantu gregoriano in multis locis",Guido d'Arezzo [Ps.],15th century,1400,1499,chtmlANOTRA2.xml
+MARLUC2.xml,"Lucidarium, tractatus secundus",Marchetus de Padua,14th century,1300,1399,chtmlMARLUC2.xml
+ANODDCS.xml,[De discantu et contranota],Anonymous,14th century,1300,1399,chtmlANODDCS.xml
+MURMSPEW.xml,Musica speculativa,Johannes de Muris,14th century,1300,1399,chtmlMURMSPEW.xml
+ADORFBR.xml,[Ad organum faciendum],Anonymous,9th-11th century,800,1099,chtmlADORFBR.xml
+ANOVER.xml,[Versus de musica],Anonymous,12th century,1100,1199,chtmlANOVER.xml
+TDMUS2_MOBB842.xml,"Musica, liber secundus",Theinredus Doverensis,12th century,1100,1199,chtmlTDMUS2_MOBB842.xml
+WFANON1.xml,Tractatus cuiusdam monachi de musica,Anonymous,12th century,1100,1199,chtmlWFANON1.xml
+CHALTIM.xml,Platonis Timaeus et commentarius,Calcidius,3rd-5th century,200,499,chtmlCHALTIM.xml
+GALRC1.xml,Ritus canendi [Pars prima],Johannes Gallicus,15th century,1400,1499,chtmlGALRC1.xml
+ANOTRDIS.xml,Tractatus de discantu,Anonymous,13th century,1200,1299,chtmlANOTRDIS.xml
+MUSENC.xml,Musica enchiriadis,Anonymous,9th-11th century,800,1099,chtmlMUSENC.xml
+ANOTDC.xml,Tractatus de contrapuncto,Anonymous,15th century,1400,1499,chtmlANOTDC.xml
+COSTRA.xml,[Tractatus de solmisatione],"Cosil, Nicolaus de",15th century,1400,1499,chtmlCOSTRA.xml
+ANOTRDMF_MFBL279.xml,[Tractatulus de musica],Anonymous,13th century,1200,1299,chtmlANOTRDMF_MFBL279.xml
+SCHANO.xml,De tractatu tonorum,Anonymous,12th century,1100,1199,chtmlSCHANO.xml
+BEREPI.xml,"Epistola Sancti Bernardi De revisione cantus Cisterciensis, et Tractatus cantum quem Cisterciensis Ordinis ecclesiae cantare",Anonymous,12th century,1100,1199,chtmlBEREPI.xml
+BOEMUS3.xml,"De institutione musica, liber tertius","Boethius, Anicius Manlius Severinus",6th-8th century,500,799,chtmlBOEMUS3.xml
+ANODMP.xml,De plana musica breve compendium,Anonymous,13th century,1200,1299,chtmlANODMP.xml
+ANOQUO.xml,Quomodo de arithmetica procedit musica,Anonymous,9th-11th century,800,1099,chtmlANOQUO.xml
+BOEMUS2.xml,"De institutione musica, liber secundus","Boethius, Anicius Manlius Severinus",6th-8th century,500,799,chtmlBOEMUS2.xml
+ANOME2.xml,Monocordum Domni Encheriadis,Anonymous,9th-11th century,800,1099,chtmlANOME2.xml
+ANODMF.xml,De modorum formulis et tonarius,Anonymous,9th-11th century,800,1099,chtmlANODMF.xml
+ZAMLIB.xml,Liber artis musicae,"Aegidius Zamorensis, Iohannes",14th century,1300,1399,chtmlZAMLIB.xml
+MURSUM.xml,Summa,Johannes de Muris,14th century,1300,1399,chtmlMURSUM.xml
+ANOSUM.xml,Summula,Anonymous,15th century,1400,1499,chtmlANOSUM.xml
+DUFMUS.xml,Musica,"Dufay, Guillaume",15th century,1400,1499,chtmlDUFMUS.xml
+ANOEST_MLBLL763.xml,Est tonus sic,Anonymous,14th century,1300,1399,chtmlANOEST_MLBLL763.xml
+WILMUS.xml,Musica,Willehelmus Hirsaugensis,9th-11th century,800,1099,chtmlWILMUS.xml
+ABGURAM.xml,Regulae de arte musica,Abbot Guido,12th century,1100,1199,chtmlABGURAM.xml
+ANOQUID.xml,Quid est cantus?,Anonymous,9th-11th century,800,1099,chtmlANOQUID.xml
+MARLUC3.xml,"Lucidarium, tractatus tercius",Marchetus de Padua,14th century,1300,1399,chtmlMARLUC3.xml
+JACSP5B.xml,"Speculum musicae, Liber quintus",Jacobus Leodiensis,14th century,1300,1399,chtmlJACSP5B.xml
+BERNINT.xml,Interpolationen,Berno Augiensis,9th-11th century,800,1099,chtmlBERNINT.xml
+JACDIT.xml,Tractatus de intonatione tonorum,Jacobus Leodiensis,14th century,1300,1399,chtmlJACDIT.xml
+GUISEX.xml,De sex motibus vocum ad se invicem et dimensione earum,Guido d'Arezzo,9th-11th century,800,1099,chtmlGUISEX.xml
+PROTRAC.xml,Tractatus de contrapuncto,Prosdocimo de' Beldomandi,15th century,1400,1499,chtmlPROTRAC.xml
+BERTONA.xml,Tonale Sancti Bernardi,Anonymous,12th century,1100,1199,chtmlBERTONA.xml
+ANOEIN.xml,[Mensura monochordi],Anonymous,15th century,1400,1499,chtmlANOEIN.xml
+ANOMONEN.xml,Monochordum Encheriadis,Anonymous,12th century,1100,1199,chtmlANOMONEN.xml
+ENGDEM2.xml,"De musica, tractatus secundus",Engelbertus Admontensis,14th century,1300,1399,chtmlENGDEM2.xml
+GAFHAR3.xml,"De harmonia musicorum instrumentorum opus, liber tertius","Gaffurio, Franchino",16th century,1500,1599,chtmlGAFHAR3.xml
+GARDMP_MPBN1666.xml,De musica mensurabili positio,Johannes de Garlandia,13th century,1200,1299,chtmlGARDMP_MPBN1666.xml
+REGDEM.xml,Regula de monocordo,Anonymous,14th century,1300,1399,chtmlREGDEM.xml
+TINTDR.xml,Tractatus de regulari valore notarum,"Tinctoris, Johannes",15th century,1400,1499,chtmlTINTDR.xml
+SAEMUS.xml,Musica plana atque mensurabilis una cum nonnullis solmisationis regulis certissimis insertis summa diligentia compendiose exarata,"Saess, Heinrich",16th century,1500,1599,chtmlSAEMUS.xml
+NOTDEM.xml,De musica,Notker,9th-11th century,800,1099,chtmlNOTDEM.xml
+GAFAPO.xml,Apologia adversus Ioannem Spatarium et complices musicos Bononienses,"Gaffurio, Franchino",16th century,1500,1599,chtmlGAFAPO.xml
+HERMUSE.xml,Musica,Hermannus Contractus,9th-11th century,800,1099,chtmlHERMUSE.xml
+TINTDP.xml,Tractatus de punctis,"Tinctoris, Johannes",15th century,1400,1499,chtmlTINTDP.xml
+HERMUSG.xml,Musica,Hermannus Contractus,9th-11th century,800,1099,chtmlHERMUSG.xml
+ANOMPM_MBER267.xml,[Tractatus compilatus de musica plana et mensurabili e traditione franconiana],Anonymous,15th century,1400,1499,chtmlANOMPM_MBER267.xml
+MARLUC15.xml,"Lucidarium, tractatus quintus decimus",Marchetus de Padua,14th century,1300,1399,chtmlMARLUC15.xml
+HERMUSP.xml,Musica,Hermannus Contractus,9th-11th century,800,1099,chtmlHERMUSP.xml
+VALMON.xml,Opusculum monacordale,"Valendrinus, Johannes",14th century,1300,1399,chtmlVALMON.xml
+GAFHAR1.xml,"De harmonia musicorum instrumentorum opus, liber primus","Gaffurio, Franchino",16th century,1500,1599,chtmlGAFHAR1.xml
+GUIPROL.xml,Prologus in antiphonarium,Guido d'Arezzo,9th-11th century,800,1099,chtmlGUIPROL.xml
+DISPOSI_MPBN1666.xml,Discantus positio vulgaris,Anonymous,13th century,1200,1299,chtmlDISPOSI_MPBN1666.xml
+FARSCIE.xml,De scientiis,Al-Farabi,12th century,1100,1199,chtmlFARSCIE.xml
+TININV2.xml,De inventione et usu musice,"Tinctoris, Johannes",15th century,1400,1499,chtmlTININV2.xml
+ARIDEM.xml,De musica,Aribo,9th-11th century,800,1099,chtmlARIDEM.xml
+MURMGAFG_MMBAH165.xml,Glossemata quaedam super nonnullas partes theoricae praescriptae Iohannis de Muris,"Gaffurio, Franchino",15th century,1400,1499,chtmlMURMGAFG_MMBAH165.xml
+ANOPROP_MOBB842.xml,[De proportione],Anonymous,14th century,1300,1399,chtmlANOPROP_MOBB842.xml
+BOENMUSI_MVBM8-24.xml,Musica,"Boen, Johannes",14th century,1300,1399,chtmlBOENMUSI_MVBM8-24.xml
+ANO7DEM.xml,De musica libellus,Anonymous 7,13th century,1200,1299,chtmlANO7DEM.xml
+MUSENCI.xml,Musica enchiriadis,Anonymous,9th-11th century,800,1099,chtmlMUSENCI.xml
+MARLUC1.xml,"Lucidarium, tractatus primus",Marchetus de Padua,14th century,1300,1399,chtmlMARLUC1.xml
+GAROPT.xml,Optima introductio in contrapunctum pro rudibus,Johannes de Garlandia,13th century,1200,1299,chtmlGAROPT.xml
+CARTRA.xml,Tractatus de musica plana,Monachus Carthusiensis,15th century,1400,1499,chtmlCARTRA.xml
+WFANON2.xml,Ars musice,Anonymous,12th century,1100,1199,chtmlWFANON2.xml
+REGHARI.xml,De harmonica institutione,Regino Prumiensis,9th-11th century,800,1099,chtmlREGHARI.xml
+GALRC2.xml,Ritus canendi [Pars secunda],Johannes Gallicus,15th century,1400,1499,chtmlGALRC2.xml
+ANO2DEV.xml,De valore notularum tam veteris quam novae artis,Anonymous,14th century,1300,1399,chtmlANO2DEV.xml
+STOVERA_MMBN6486.xml,De vera solfizationis,"Stoquerus, Gaspar",16th century,1500,1599,chtmlSTOVERA_MMBN6486.xml
+MEIMOD.xml,De modis,"Mei, Girolamo",16th century,1500,1599,chtmlMEIMOD.xml
+ODOSENS.xml,"Liber opusculorum, capitula V-VI",Odorannus de Sens,9th-11th century,800,1099,chtmlODOSENS.xml
+MURQUAE.xml,Quaestiones super partes musicae,Johannes de Muris,14th century,1300,1399,chtmlMURQUAE.xml
+MARLU8.xml,"Lucidarium, tractatus octavus",Marchetus de Padua,14th century,1300,1399,chtmlMARLU8.xml
+MARDEN9.xml,"De nuptiis Philologiae et Mercurii, Liber IX, De harmonia",Martianus Capella,3rd-5th century,200,499,chtmlMARDEN9.xml
+ANOTONN.xml,Tonale,Anonymous,12th century,1100,1199,chtmlANOTONN.xml
+PATPSAL.xml,Instituta patrum de modo psallendi sive cantandi,Anonymous,13th century,1200,1299,chtmlPATPSAL.xml
+ANOART.xml,De arte musicae,Anonymous,14th century,1300,1399,chtmlANOART.xml
+BOEMUS1.xml,"De institutione musica, liber primus","Boethius, Anicius Manlius Severinus",6th-8th century,500,799,chtmlBOEMUS1.xml
+ANO5ACM.xml,Ars cantus mensurabilis mensurata per modos iuris,Anonymous,14th century,1300,1399,chtmlANO5ACM.xml
+TINPRO.xml,Proportionale musices,"Tinctoris, Johannes",15th century,1400,1499,chtmlTINPRO.xml
+ANOTER.xml,Terminorium musicalium diffinitorium anonymi,Anonymous,15th century,1400,1499,chtmlANOTER.xml
+PAMCOM.xml,Compendium artis motectorum Marchecti,Petrus de Amalfia,14th century,1300,1399,chtmlPAMCOM.xml
+MARLU9.xml,"Lucidarium, tractatus nonus",Marchetus de Padua,14th century,1300,1399,chtmlMARLU9.xml
+GALLIB.xml,Tacita nunc inchoatur stupendaque numerorum musica,Johannes Gallicus dictus Carthusiensis seu de Mantua,15th century,1400,1499,chtmlGALLIB.xml
+ANOCQM.xml,Capitulum de quattuor mensuris,Anonymous,15th century,1400,1499,chtmlANOCQM.xml
+WFANON3.xml,Compendium totius artis motetorum,Anonymous,14th century,1300,1399,chtmlWFANON3.xml
+ANOVDT.xml,[Versus de tonis],Anonymous,12th century,1100,1199,chtmlANOVDT.xml
+SCHEN.xml,Scholia enchiriadis de arte musica,Anonymous,9th-11th century,800,1099,chtmlSCHEN.xml
+PETARS.xml,Ars motettorum compilata breviter,Petrus Picardus,13th century,1200,1299,chtmlPETARS.xml
+JACSP5A.xml,"Speculum musicae, Liber quintus",Jacobus Leodiensis,14th century,1300,1399,chtmlJACSP5A.xml
+MUSENCH.xml,Musica enchiriadis,Anonymous,9th-11th century,800,1099,chtmlMUSENCH.xml
+WENCOM.xml,[Commentum in musicam speculativam Iohannis de Muris],Wenceslaus de Prachatitz,15th century,1400,1499,chtmlWENCOM.xml
+ANOMARG.xml,[Marginalia],Anonymous,12th century,1100,1199,chtmlANOMARG.xml
+HOTDAC.xml,[De arte contrapuncti],"Hothby, Johannes",15th century,1400,1499,chtmlHOTDAC.xml
+ENGDEM1.xml,"De musica, tractatus primus",Engelbertus Admontensis,14th century,1300,1399,chtmlENGDEM1.xml
+REGDHI.xml,De harmonica institutione,Regino Prumiensis,9th-11th century,800,1099,chtmlREGDHI.xml
+MARLUC14.xml,"Lucidarium, tractatus quartus decimus",Marchetus de Padua,14th century,1300,1399,chtmlMARLUC14.xml
+ANOTRUT.xml,Tractatus de musica et tonarius,Anonymous,12th century,1100,1199,chtmlANOTRUT.xml
+PETTRAC.xml,Tractatus de tonis,Petrus de Cruce Ambianensis,13th century,1200,1299,chtmlPETTRAC.xml

@@ -18,18 +18,40 @@ from datetime import datetime
 # Page config
 st.set_page_config(page_title="Music Theory LLM RAG System", page_icon="🎵", layout="wide")
 
-# API Key
-openai_api_key = st.secrets.get("OPENAI_API_KEY") or os.getenv("OPENAI_API_KEY")
+# Title (shown before login)
+st.title("🎵 Historical Music Theory Query System")
+st.markdown("### Multi-Database RAG with Author Filtering")
+
+# API Key and App Password
+try:
+    openai_api_key = st.secrets["OPENAI_API_KEY"]
+    app_password = st.secrets["APP_PASSWORD"]
+except (KeyError, FileNotFoundError):
+    openai_api_key = ""
+    app_password = ""
+    st.error("⚠️ OpenAI API key or APP_PASSWORD not found. Please add them to your Streamlit secrets.")
+
+# Password authentication
+if 'authenticated' not in st.session_state:
+    st.session_state.authenticated = False
+
+if not st.session_state.authenticated:
+    st.subheader("🔒 Authentication Required")
+    password_input = st.text_input("Enter password:", type="password", key="password_input")
+
+    if st.button("Login"):
+        if password_input == app_password:
+            st.session_state.authenticated = True
+            st.rerun()
+        else:
+            st.error("❌ Incorrect password. Please try again.")
+    st.stop()
 
 # Define State
 class State(TypedDict):
     question: str
     context: List
     answer: str
-
-# Title
-st.title("🎵 Historical Music Theory Query System")
-st.markdown("### Multi-Database RAG with Author Filtering")
 
 st.write("This Streamlit application allows you to query a database of music theory texts using a large language model (LLM) with retrieval-augmented generation (RAG). Learn more about the system and how to write effective prompts with the tools at the left.") 
 
@@ -141,21 +163,21 @@ db_configs = []
 if use_english:
     db_configs.append({
         "name": "English",
-        "path": "./chroma-db_tme_english",
+        "path": "./chroma_files/chroma-db_tme_english",
         "collection_name": "tme_english",
         "description": "TME "
     })
 if use_italian:
     db_configs.append({
         "name": "Italian",
-        "path": "./chroma-db_italian",
+        "path": "./chroma_files/chroma-db_italian",
         "collection_name": "tmi_italian",
         "description": "Thesaurus Musicarum Italicarum"
     })
 if use_latin:
     db_configs.append({
         "name": "Latin",
-        "path": "./chroma-db_latin",
+        "path": "./chroma_files/chroma-db_latin",
         "collection_name": "tml_latin",
         "description": "Thesaurus Musicarum Latinarum"
     })

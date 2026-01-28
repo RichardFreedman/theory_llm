@@ -163,21 +163,21 @@ db_configs = []
 if use_english:
     db_configs.append({
         "name": "English",
-        "path": "./chroma_files/chroma-db_tme_english",
+        "path": "../chroma_files/chroma-db_tme_english",
         "collection_name": "tme_english",
         "description": "TME "
     })
 if use_italian:
     db_configs.append({
         "name": "Italian",
-        "path": "./chroma_files/chroma-db_italian",
+        "path": "../chroma_files/chroma-db_italian",
         "collection_name": "tmi_italian",
         "description": "Thesaurus Musicarum Italicarum"
     })
 if use_latin:
     db_configs.append({
         "name": "Latin",
-        "path": "./chroma_files/chroma-db_latin",
+        "path": "../chroma_files/chroma-db_latin",
         "collection_name": "tml_latin",
         "description": "Thesaurus Musicarum Latinarum"
     })

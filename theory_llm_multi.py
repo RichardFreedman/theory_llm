@@ -395,8 +395,9 @@ with st.sidebar:
         min_value=1,
         max_value=50,
         value=5,
-        help="More segments = more context but slower response"
+        help="Sets segments per database. Total results capped at this × number of active databases."
     )
+    st.write(f"**Max total segments:** {k} × {len(vector_stores)} databases = **{k * len(vector_stores)}**")
 
     st.markdown("---")
     st.subheader("📊 Database Info")
@@ -681,7 +682,13 @@ def retrieve(state: State):
             if doc.metadata.get('author') in selected_authors_list
         ]
         st.write(f"After author filtering: {len(RAG_retrieved_docs)} segments from selected authors")
-    
+
+    # Apply hard cap: limit to k segments per database (user's expected total)
+    max_segments = k * len(vector_stores)
+    if len(RAG_retrieved_docs) > max_segments:
+        st.write(f"Applying cap: limiting from {len(RAG_retrieved_docs)} to {max_segments} segments")
+        RAG_retrieved_docs = RAG_retrieved_docs[:max_segments]
+
     return {"context": RAG_retrieved_docs}
 
 # Generation function with author grouping

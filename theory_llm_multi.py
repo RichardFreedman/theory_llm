@@ -328,7 +328,7 @@ if 'selected_date_range' not in st.session_state:
 # Continue Sidebar - Date Filter
 with st.sidebar:
     st.header("📅 Filter by Date")
-    st.write(f"Sources span {db_min_date} - {db_max_date}")
+    st.write(f"Sources in the selected databases span {db_min_date} - {db_max_date}")
 
     selected_date_range = st.slider(
         "Select date range:",
@@ -336,7 +336,7 @@ with st.sidebar:
         max_value=db_max_date,
         value=st.session_state.selected_date_range,
         step=100,
-        help="Filter sources by publication date range"
+        help="Filter sources by publication date range. The authors available in the 'author selection' box below will update accordingly."
     )
 
     # Update session state
@@ -369,7 +369,7 @@ if not st.session_state.selected_authors:
 # Continue Sidebar - Author Selection and Settings
 with st.sidebar:
     st.header("✏️ Filter by Author")
-    st.write(f"Authors in selected date range ({len(available_authors)} available):")
+    st.write(f"({len(available_authors)} authors available in the selected databases and date range.):")
 
     if st.button("Select All Authors"):
         st.session_state.selected_authors = available_authors.copy()
@@ -379,7 +379,7 @@ with st.sidebar:
         "Choose authors:",
         options=available_authors,
         default=st.session_state.selected_authors,
-        help="Select which authors to include in search results"
+        help="Select which authors to include in search results.  Note that mentioning an author in your question will prioritize their works, provided they are among the options here."
     )
 
     # Update session state when selection changes
@@ -617,27 +617,31 @@ def retrieve(state: State):
                     all_docs.extend(filtered_docs)
                     st.write(f"  → Retrieved {len(filtered_docs)} segments from '{title}' (post-filtered)")
     
-    # Strategy 3: General semantic retrieval WITH author filter applied at Chroma level
-    for db_name, vector_store in vector_stores.items():
-        search_kwargs = {"k": k}
+    # Strategy 3: General semantic retrieval - ONLY if no specific authors/titles were mentioned
+    # This avoids duplicating results when targeted retrieval (Strategies 1/2) already ran
+    if not mentioned_authors and not mentioned_titles:
+        for db_name, vector_store in vector_stores.items():
+            search_kwargs = {"k": k}
 
-        # Apply author filter at retrieval level if not all authors are selected
-        if selected_authors_list and len(selected_authors_list) < len(available_authors):
-            # Use Chroma's $in operator to filter by multiple authors
-            search_kwargs["filter"] = {"author": {"$in": selected_authors_list}}
+            # Apply author filter at retrieval level if not all authors are selected
+            if selected_authors_list and len(selected_authors_list) < len(available_authors):
+                # Use Chroma's $in operator to filter by multiple authors
+                search_kwargs["filter"] = {"author": {"$in": selected_authors_list}}
 
-        try:
-            retriever = vector_store.as_retriever(search_kwargs=search_kwargs)
-            docs = retriever.invoke(question)
-            all_docs.extend(docs)
-            st.write(f"  → Retrieved {len(docs)} segments from {db_name} (filtered by {len(selected_authors_list)} authors)")
-        except Exception as e:
-            # Fallback: retrieve without filter and post-filter (in case $in not supported)
-            st.write(f"  ⚠️ Filter failed for {db_name}, using post-filtering: {str(e)}")
-            retriever = vector_store.as_retriever(search_kwargs={"k": k * 2})
-            docs = retriever.invoke(question)
-            filtered_docs = [d for d in docs if d.metadata.get('author') in selected_authors_list]
-            all_docs.extend(filtered_docs)
+            try:
+                retriever = vector_store.as_retriever(search_kwargs=search_kwargs)
+                docs = retriever.invoke(question)
+                all_docs.extend(docs)
+                st.write(f"  → Retrieved {len(docs)} segments from {db_name} (filtered by {len(selected_authors_list)} authors)")
+            except Exception as e:
+                # Fallback: retrieve without filter and post-filter (in case $in not supported)
+                st.write(f"  ⚠️ Filter failed for {db_name}, using post-filtering: {str(e)}")
+                retriever = vector_store.as_retriever(search_kwargs={"k": k * 2})
+                docs = retriever.invoke(question)
+                filtered_docs = [d for d in docs if d.metadata.get('author') in selected_authors_list]
+                all_docs.extend(filtered_docs)
+    else:
+        st.write("  ℹ️ Skipping general retrieval (using targeted author/title retrieval instead)")
     
     st.write(f"Total segments before deduplication: {len(all_docs)}")
     

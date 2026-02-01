@@ -13,6 +13,7 @@ from reportlab.lib.enums import TA_JUSTIFY, TA_LEFT
 from io import BytesIO
 import pandas as pd
 import os
+import re
 from datetime import datetime
 
 # Page config
@@ -392,7 +393,7 @@ with st.sidebar:
     k = st.slider(
         "Number of segments per database:",
         min_value=1,
-        max_value=20,
+        max_value=50,
         value=5,
         help="More segments = more context but slower response"
     )
@@ -421,8 +422,9 @@ find the exact passage. Also mention the author's name when making claims about 
 Include short quotations from the passages to support your statements, with key words from the original text
 and translation when appropriate.
 
-If you don't know the answer based on the provided context, say that you don't know.
-Use three sentences maximum and keep the answer concise but informative.
+If you don't know the answer based on the provided context, say that you don't know. Do not make up answers.  
+Do not mention sources, authors, or titles that are not included in the context.
+
 
 Context:
 {context}
@@ -433,59 +435,229 @@ Provide a detailed answer with references to specific Source numbers and authors
 
 prompt = ChatPromptTemplate.from_template(system_prompt)
 
-# Retrieval function
+
+# add detect author and title
+
+
+def detect_mentioned_authors(question, available_authors):
+    """
+    Detect if any author names are mentioned in the question.
+    Returns list of detected author names.
+    """
+    mentioned = []
+    question_lower = question.lower()
+    
+    for author in available_authors:
+        # Check for author's last name (assuming format "Firstname Lastname")
+        author_parts = author.split()
+        if author_parts:
+            last_name = author_parts[-1].lower()
+            # Use word boundary to avoid partial matches
+            if re.search(r'\b' + re.escape(last_name) + r'\b', question_lower):
+                mentioned.append(author)
+    
+    return mentioned
+
+def get_unique_titles(vector_stores_dict, selected_authors=None, date_range=None):
+    """
+    Retrieve all unique titles from selected Chroma databases.
+    Optionally filter by authors and date range.
+    """
+    titles = set()
+    for db_name, vector_store in vector_stores_dict.items():
+        all_docs = vector_store.get()
+        if 'metadatas' in all_docs:
+            for metadata in all_docs['metadatas']:
+                if metadata and 'title' in metadata:
+                    # Filter by author if specified
+                    if selected_authors and metadata.get('author') not in selected_authors:
+                        continue
+                    
+                    # Filter by date range if specified
+                    if date_range is not None:
+                        date_start = metadata.get('date_start')
+                        date_end = metadata.get('date_end')
+                        try:
+                            doc_start = int(date_start) if date_start else 0
+                            doc_end = int(date_end) if date_end else 9999
+                        except (ValueError, TypeError):
+                            doc_start, doc_end = 0, 9999
+                        if doc_end < date_range[0] or doc_start > date_range[1]:
+                            continue
+                    
+                    titles.add(metadata['title'])
+    
+    return sorted(list(titles))
+
+def detect_mentioned_titles(question, available_titles):
+    """
+    Detect if any titles are mentioned in the question.
+    Checks for both full titles and significant partial matches.
+    Returns list of (title, match_type) tuples.
+    """
+    mentioned = []
+    question_lower = question.lower()
+    
+    # Remove common quote marks and italics markers that might be in the query
+    question_clean = re.sub(r'[""\'*_]', '', question_lower)
+    
+    for title in available_titles:
+        title_lower = title.lower()
+        
+        # Method 1: Exact title match (case-insensitive)
+        if title_lower in question_clean:
+            mentioned.append((title, 'exact'))
+            continue
+        
+        # Method 2: Check for significant words from title (3+ chars)
+        # This catches partial or abbreviated references
+        title_words = [w for w in re.findall(r'\b\w+\b', title_lower) if len(w) >= 3]
+        
+        # Remove common stop words that aren't distinctive
+        stop_words = {'the', 'and', 'della', 'delle', 'del', 'des', 'les', 'una', 'une', 
+                      'von', 'van', 'der', 'die', 'das', 'pour', 'per', 'con', 'sur'}
+        significant_words = [w for w in title_words if w not in stop_words]
+        
+        if len(significant_words) >= 2:
+            # If 2+ significant words from title appear in query, it's likely a match
+            matches = sum(1 for word in significant_words 
+                         if re.search(r'\b' + re.escape(word) + r'\b', question_clean))
+            
+            # Require at least 2 matching words, or 1 if title has only 1-2 significant words
+            required_matches = min(2, len(significant_words))
+            if matches >= required_matches:
+                mentioned.append((title, 'partial'))
+    
+    return mentioned
+
+# retrieval function
 def retrieve(state: State):
     """
-    Unless otherwise instructed to restrict things to just the English, Italian, or Latin vector stores, retrieve documents from ALL selected vector stores and filter by selected authors and date range.
+    Retrieve documents from ALL selected vector stores.
+    If author names or titles are detected in the query, prioritize those sources.
     """
     question = state["question"]
     selected_authors_list = st.session_state.get('selected_authors', available_authors)
     date_range = st.session_state.get('selected_date_range', (db_min_date, db_max_date))
-
+    
+    # Get available titles (within current filters)
+    available_titles = get_unique_titles(vector_stores, selected_authors_list, date_range)
+    
+    # Detect if specific authors or titles are mentioned in the query
+    mentioned_authors = detect_mentioned_authors(question, available_authors)
+    mentioned_titles = detect_mentioned_titles(question, available_titles)
+    
     # Display filter info
     filter_info = []
     if date_range != (db_min_date, db_max_date):
         filter_info.append(f"dates {date_range[0]}-{date_range[1]}")
     if selected_authors_list and len(selected_authors_list) < len(available_authors):
         filter_info.append(f"{len(selected_authors_list)} author(s)")
-
+    if mentioned_authors:
+        filter_info.append(f"📝 detected authors: {', '.join(mentioned_authors)}")
+    if mentioned_titles:
+        title_list = [f"'{t}' ({match})" for t, match in mentioned_titles]
+        filter_info.append(f"📚 detected titles: {', '.join(title_list)}")
+    
     if filter_info:
         st.write(f"**Filtering by:** {', '.join(filter_info)}")
     else:
         st.write("*Searching all sources*")
-
-    # Retrieve from ALL selected databases
+    
     all_docs = []
+    
+    # Strategy 1: If authors are mentioned, retrieve from those authors
+    if mentioned_authors:
+        for db_name, vector_store in vector_stores.items():
+            for author in mentioned_authors:
+                if author in selected_authors_list:
+                    where_filter = {"author": author}
+                    try:
+                        retriever = vector_store.as_retriever(
+                            search_kwargs={
+                                "k": k,
+                                "filter": where_filter
+                            }
+                        )
+                        docs = retriever.invoke(question)
+                        all_docs.extend(docs)
+                        st.write(f"  → Retrieved {len(docs)} segments from {author} in {db_name}")
+                    except Exception as e:
+                        # Fallback: retrieve more docs and filter afterward
+                        retriever = vector_store.as_retriever(search_kwargs={"k": k * 2})
+                        docs = retriever.invoke(question)
+                        filtered_docs = [d for d in docs if d.metadata.get('author') == author]
+                        all_docs.extend(filtered_docs)
+                        st.write(f"  → Retrieved {len(filtered_docs)} segments from {author} (post-filtered)")
+    
+    # Strategy 2: If titles are mentioned, retrieve from those titles
+    if mentioned_titles:
+        for db_name, vector_store in vector_stores.items():
+            for title, match_type in mentioned_titles:
+                where_filter = {"title": title}
+                try:
+                    retriever = vector_store.as_retriever(
+                        search_kwargs={
+                            "k": k,
+                            "filter": where_filter
+                        }
+                    )
+                    docs = retriever.invoke(question)
+                    all_docs.extend(docs)
+                    st.write(f"  → Retrieved {len(docs)} segments from '{title}' ({match_type} match)")
+                except Exception as e:
+                    # Fallback: retrieve more docs and filter afterward
+                    retriever = vector_store.as_retriever(search_kwargs={"k": k * 3})
+                    docs = retriever.invoke(question)
+                    filtered_docs = [d for d in docs if d.metadata.get('title') == title]
+                    all_docs.extend(filtered_docs)
+                    st.write(f"  → Retrieved {len(filtered_docs)} segments from '{title}' (post-filtered)")
+    
+    # Strategy 3: Also do general semantic retrieval to catch other relevant sources
     for db_name, vector_store in vector_stores.items():
         retriever = vector_store.as_retriever(search_kwargs={"k": k})
         docs = retriever.invoke(question)
         all_docs.extend(docs)
-
-    st.write(f"Retrieved {len(all_docs)} total segments from {len(vector_stores)} database(s)")
-
+    
+    st.write(f"Total segments before deduplication: {len(all_docs)}")
+    
+    # Deduplicate based on page_content hash
+    seen_content = set()
+    unique_docs = []
+    for doc in all_docs:
+        # Create a hash from content + metadata to avoid exact duplicates
+        content_hash = hash((doc.page_content, 
+                           doc.metadata.get('author', ''), 
+                           doc.metadata.get('title', ''),
+                           doc.metadata.get('page_range', '')))
+        if content_hash not in seen_content:
+            seen_content.add(content_hash)
+            unique_docs.append(doc)
+    
+    st.write(f"Retrieved {len(unique_docs)} unique segments from {len(vector_stores)} database(s)")
+    
     # Filter by date range
     def doc_in_date_range(doc, date_range):
         try:
             doc_start = int(doc.metadata.get('date_start', 0))
             doc_end = int(doc.metadata.get('date_end', 9999))
         except (ValueError, TypeError):
-            return True  # Include if date parsing fails
-        # Check if document's date range overlaps with selected range
+            return True
         return not (doc_end < date_range[0] or doc_start > date_range[1])
-
-    RAG_retrieved_docs = [doc for doc in all_docs if doc_in_date_range(doc, date_range)]
-
-    if len(RAG_retrieved_docs) < len(all_docs):
+    
+    RAG_retrieved_docs = [doc for doc in unique_docs if doc_in_date_range(doc, date_range)]
+    
+    if len(RAG_retrieved_docs) < len(unique_docs):
         st.write(f"After date filtering: {len(RAG_retrieved_docs)} segments")
-
-    # Filter by selected authors if specified
+    
+    # Filter by selected authors
     if selected_authors_list and len(selected_authors_list) < len(available_authors):
         RAG_retrieved_docs = [
             doc for doc in RAG_retrieved_docs
             if doc.metadata.get('author') in selected_authors_list
         ]
         st.write(f"After author filtering: {len(RAG_retrieved_docs)} segments from selected authors")
-
+    
     return {"context": RAG_retrieved_docs}
 
 # Generation function with author grouping
@@ -616,7 +788,7 @@ st.subheader("💬 Ask Your Question")
 
 user_query = st.text_area(
     "Enter your question:",
-    height=100,
+    height=300,
     placeholder="e.g., What do different theorists say about the origins of music?"
 )
 

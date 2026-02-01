@@ -570,25 +570,29 @@ def retrieve(state: State):
     if mentioned_authors:
         for db_name, vector_store in vector_stores.items():
             for author in mentioned_authors:
-                if author in selected_authors_list:
-                    where_filter = {"author": author}
-                    try:
-                        retriever = vector_store.as_retriever(
-                            search_kwargs={
-                                "k": k,
-                                "filter": where_filter
-                            }
-                        )
-                        docs = retriever.invoke(question)
-                        all_docs.extend(docs)
-                        st.write(f"  → Retrieved {len(docs)} segments from {author} in {db_name}")
-                    except Exception as e:
-                        # Fallback: retrieve more docs and filter afterward
-                        retriever = vector_store.as_retriever(search_kwargs={"k": k * 2})
-                        docs = retriever.invoke(question)
-                        filtered_docs = [d for d in docs if d.metadata.get('author') == author]
-                        all_docs.extend(filtered_docs)
-                        st.write(f"  → Retrieved {len(filtered_docs)} segments from {author} (post-filtered)")
+                # Check if mentioned author is in the sidebar selection
+                if author not in selected_authors_list:
+                    st.write(f"  ⚠️ '{author}' mentioned in query but not in sidebar selection - skipping")
+                    continue
+
+                where_filter = {"author": author}
+                try:
+                    retriever = vector_store.as_retriever(
+                        search_kwargs={
+                            "k": k,
+                            "filter": where_filter
+                        }
+                    )
+                    docs = retriever.invoke(question)
+                    all_docs.extend(docs)
+                    st.write(f"  → Retrieved {len(docs)} segments from {author} in {db_name}")
+                except Exception as e:
+                    # Fallback: retrieve more docs and filter afterward
+                    retriever = vector_store.as_retriever(search_kwargs={"k": k * 2})
+                    docs = retriever.invoke(question)
+                    filtered_docs = [d for d in docs if d.metadata.get('author') == author]
+                    all_docs.extend(filtered_docs)
+                    st.write(f"  → Retrieved {len(filtered_docs)} segments from {author} (post-filtered)")
     
     # Strategy 2: If titles are mentioned, retrieve from those titles
     if mentioned_titles:
@@ -613,11 +617,27 @@ def retrieve(state: State):
                     all_docs.extend(filtered_docs)
                     st.write(f"  → Retrieved {len(filtered_docs)} segments from '{title}' (post-filtered)")
     
-    # Strategy 3: Also do general semantic retrieval to catch other relevant sources
+    # Strategy 3: General semantic retrieval WITH author filter applied at Chroma level
     for db_name, vector_store in vector_stores.items():
-        retriever = vector_store.as_retriever(search_kwargs={"k": k})
-        docs = retriever.invoke(question)
-        all_docs.extend(docs)
+        search_kwargs = {"k": k}
+
+        # Apply author filter at retrieval level if not all authors are selected
+        if selected_authors_list and len(selected_authors_list) < len(available_authors):
+            # Use Chroma's $in operator to filter by multiple authors
+            search_kwargs["filter"] = {"author": {"$in": selected_authors_list}}
+
+        try:
+            retriever = vector_store.as_retriever(search_kwargs=search_kwargs)
+            docs = retriever.invoke(question)
+            all_docs.extend(docs)
+            st.write(f"  → Retrieved {len(docs)} segments from {db_name} (filtered by {len(selected_authors_list)} authors)")
+        except Exception as e:
+            # Fallback: retrieve without filter and post-filter (in case $in not supported)
+            st.write(f"  ⚠️ Filter failed for {db_name}, using post-filtering: {str(e)}")
+            retriever = vector_store.as_retriever(search_kwargs={"k": k * 2})
+            docs = retriever.invoke(question)
+            filtered_docs = [d for d in docs if d.metadata.get('author') in selected_authors_list]
+            all_docs.extend(filtered_docs)
     
     st.write(f"Total segments before deduplication: {len(all_docs)}")
     

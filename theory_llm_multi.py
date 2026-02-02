@@ -63,12 +63,32 @@ intro  = st.sidebar.checkbox("How to Use this Application", value=False, key="in
 
 if intro:
     st.markdown("""
-            * Enter the site password
-            * Enter your question
-            * select the number of text segments to retrieve
-            * filter results by author
-            * after a few minutes (depending on the number of segments and complexity of your question) you will see a response, followed by a list of the original source segments ('chunks'), and their authors and page references
-            * use the button in the sidebar to download the results as a formatted PDF.
+### Getting Started
+1. **Enter the site password** to access the application
+2. **Select databases** (English, Italian, Latin) in the sidebar
+3. **Set your filters** for date range, authors, and titles
+4. **Enter your question** in the text area below
+5. **Click "🔍 Search"** to retrieve relevant passages and generate a response
+
+### Understanding the Results
+- The AI response appears with citations to numbered "Source" passages
+- Below the response, you'll find the full text of each source segment with metadata
+- Use the sidebar's "📥 Download PDF Report" button to save your results
+
+### Follow-up Questions (Chat Memory)
+After your first query, new options appear:
+
+- **Chat history count**: Shows how many previous exchanges are saved
+- **Follow-up mode**:
+  - 🔍 **New retrieval**: Runs a fresh search with your current filters (useful for new topics)
+  - 📄 **Reuse previous documents**: Asks a new question about the same sources (useful for deeper analysis)
+- **Include chat history in prompt**: When checked, the AI remembers your previous Q&A exchanges and can reference them
+- **🗑️ Clear Chat**: Resets the conversation to start fresh
+
+### Tips for Follow-up Questions
+- Use "Reuse previous documents" when you want to ask clarifying questions or explore the same sources further
+- Use "New retrieval" when changing topics or wanting fresh sources
+- The AI can reference previous answers when chat history is included (e.g., "Tell me more about what Source 3 said")
             """)
     
 prompts = st.sidebar.checkbox("More about Writing AI Prompts", value=False, key="prompts")
@@ -85,20 +105,27 @@ if prompts:
 
     st.markdown("""
     * **Basic Question**: "What are the key elements of good music according to all the theorists in the database? Organize the results by author."
-    * **Comparative Question**: "How do Thomas Morley and Elway Bevin differ in their views on counterpoint?" [Note for this you might want to filter results to just these two authors.  Use the dialogue in the sidebar at the left to do so.]
-    * **Contextual Question**: "What does Thomas Morley say about the relationship between music and emotion?" [Again you might want to filter results to just this author.]
+    * **Comparative Question**: "How do Thomas Morley and Elway Bevin differ in their views on counterpoint?" [Tip: Filter to just these authors in the sidebar, or simply mention their names—the system will detect and prioritize them.]
+    * **Contextual Question**: "What does Thomas Morley say about the relationship between music and emotion?" [Tip: The system detects "Morley" and prioritizes his works automatically.]
     * **Specific Format**: "Provide a bulleted list of the main points made by John Playford regarding dance music."
+    * **Title-Specific**: "Summarize the main points from 'A Plaine and Easie Introduction to Practicall Musicke'." [Tip: Use the title filter in the sidebar to focus on specific treatises.]
     """)
 
     st.subheader("How Many Text Segments ('Chunks') to Retrieve?")
     st.markdown("""
-    The number of text segments (or 'chunks') you choose to retrieve can significantly impact the quality and relevance of the AI's response. There are some 1300 'segments' in the database.
-    Here are some guidelines:
-    - **Fewer Segments (1-10)**: This is useful for very specific questions where you expect a concise answer. The model will have less information to work with, which can lead to more focused responses but may miss broader context.
-    - **Moderate Number of Segments (10-50)**: This range is often a good balance for general questions. It provides the model with enough context to generate a well-rounded answer without overwhelming it with too much information.
-    - **Many Segments (50-100)**: This is suitable for complex questions that require comprehensive answers. However, be cautious as too much information can sometimes lead to confusion or less coherent responses.
-    - **Consider the Question Type**: Tailor the number of segments based on whether your question is specific or broad.
-    - **Experiment**: Don't hesitate to try different numbers of segments to see how it affects the quality of the responses.
+    The **"Number of segments per database"** slider controls how many text segments are retrieved from each active database. The total maximum is this number multiplied by the number of databases you've selected.
+
+    For example: If you set 5 segments and have all 3 databases active, you'll get up to 15 segments total (5 × 3).
+
+    **Guidelines:**
+    - **Fewer Segments (1-5 per database)**: Best for specific questions about particular authors or topics. Produces more focused responses.
+    - **Moderate (5-15 per database)**: Good balance for comparative questions across multiple authors.
+    - **Many Segments (15-50 per database)**: Useful for broad surveys of a topic, but may produce longer, more complex responses.
+
+    **Smart Filtering:**
+    - The system automatically detects author and title names mentioned in your question
+    - When detected, it prioritizes those sources in retrieval
+    - Use the sidebar filters to further narrow results by date, author, or title
     """)
 
 
@@ -939,6 +966,7 @@ if 'chat_history' not in st.session_state:
 # Query Interface
 st.markdown("---")
 st.subheader("💬 Ask Your Question")
+st.write("Enter your question below. After your first query, you can ask follow-up questions using the same sources or retrieve new ones. See **'How to Use this Application'** in the sidebar for detailed instructions.")
 
 # Chat continuation options (only show if there's previous chat)
 if st.session_state.chat_history:

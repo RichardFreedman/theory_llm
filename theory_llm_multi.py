@@ -53,6 +53,7 @@ class State(TypedDict):
     question: str
     context: List
     answer: str
+    chat_history_section: str  # Formatted chat history for the prompt
 
 st.write("This Streamlit application allows you to query a database of music theory texts using a large language model (LLM) with retrieval-augmented generation (RAG). Learn more about the system and how to write effective prompts with the tools at the left.") 
 
@@ -385,6 +386,45 @@ with st.sidebar:
     # Update session state when selection changes
     if selected_authors != st.session_state.selected_authors:
         st.session_state.selected_authors = selected_authors
+        # Reset titles when authors change
+        if 'selected_titles' in st.session_state:
+            del st.session_state.selected_titles
+
+    st.markdown("---")
+
+# Build the title list (filtered by selected authors and date range)
+available_titles = get_unique_titles(vector_stores, selected_authors, selected_date_range)
+
+# Initialize selected titles in session state
+if 'selected_titles' not in st.session_state:
+    st.session_state.selected_titles = available_titles.copy()
+
+# Ensure selected titles are still valid after author/date filter change
+st.session_state.selected_titles = [
+    t for t in st.session_state.selected_titles if t in available_titles
+]
+if not st.session_state.selected_titles:
+    st.session_state.selected_titles = available_titles.copy()
+
+# Continue Sidebar - Title Selection
+with st.sidebar:
+    st.header("📖 Filter by Title")
+    st.write(f"({len(available_titles)} titles from selected authors):")
+
+    if st.button("Select All Titles"):
+        st.session_state.selected_titles = available_titles.copy()
+        st.rerun()
+
+    selected_titles = st.multiselect(
+        "Choose titles:",
+        options=available_titles,
+        default=st.session_state.selected_titles,
+        help="Select which works to include in search results. Useful when an author has multiple treatises or for filtering anonymous works."
+    )
+
+    # Update session state when selection changes
+    if selected_titles != st.session_state.selected_titles:
+        st.session_state.selected_titles = selected_titles
 
     st.markdown("---")
 
@@ -405,12 +445,14 @@ with st.sidebar:
     st.write(f"**Date Range:** {selected_date_range[0]} - {selected_date_range[1]}")
     st.write(f"**Authors in Range:** {len(available_authors)}")
     st.write(f"**Selected Authors:** {len(selected_authors)}")
+    st.write(f"**Titles from Selected Authors:** {len(available_titles)}")
+    st.write(f"**Selected Titles:** {len(selected_titles)}")
 
 # Initialize LLM
 llm = ChatOpenAI(model="gpt-4o-mini", temperature=0)
 
-# Prompt template
-system_prompt = """You are an expert in historical music theory and musicology.
+# Prompt templates
+system_prompt_base = """You are an expert in historical music theory and musicology.
 
 You are also familiar with medieval Latin, and various early modern forms of English, Italian and French.
 
@@ -423,10 +465,10 @@ find the exact passage. Also mention the author's name when making claims about 
 Include short quotations from the passages to support your statements, with key words from the original text
 and translation when appropriate.
 
-If you don't know the answer based on the provided context, say that you don't know. Do not make up answers.  
+If you don't know the answer based on the provided context, say that you don't know. Do not make up answers.
 Do not mention sources, authors, or titles that are not included in the context.
 
-
+{chat_history_section}
 Context:
 {context}
 
@@ -434,7 +476,24 @@ Question: {question}
 
 Provide a detailed answer with references to specific Source numbers and authors."""
 
-prompt = ChatPromptTemplate.from_template(system_prompt)
+prompt = ChatPromptTemplate.from_template(system_prompt_base)
+
+def format_chat_history(chat_history):
+    """Format chat history for inclusion in the prompt."""
+    if not chat_history:
+        return ""
+
+    history_text = "PREVIOUS CONVERSATION:\n"
+    for i, exchange in enumerate(chat_history, 1):
+        history_text += f"\nQ{i}: {exchange['question']}\n"
+        # Truncate long answers to keep context manageable
+        answer = exchange['answer']
+        if len(answer) > 1000:
+            answer = answer[:1000] + "... [truncated]"
+        history_text += f"A{i}: {answer}\n"
+
+    history_text += "\nPlease consider the above conversation when answering the new question. You may reference previous answers if relevant.\n\n"
+    return history_text
 
 
 # add detect author and title
@@ -539,21 +598,24 @@ def retrieve(state: State):
     """
     question = state["question"]
     selected_authors_list = st.session_state.get('selected_authors', available_authors)
+    selected_titles_list = st.session_state.get('selected_titles', [])
     date_range = st.session_state.get('selected_date_range', (db_min_date, db_max_date))
-    
+
     # Get available titles (within current filters)
-    available_titles = get_unique_titles(vector_stores, selected_authors_list, date_range)
-    
+    available_titles_for_detection = get_unique_titles(vector_stores, selected_authors_list, date_range)
+
     # Detect if specific authors or titles are mentioned in the query
     mentioned_authors = detect_mentioned_authors(question, available_authors)
-    mentioned_titles = detect_mentioned_titles(question, available_titles)
-    
+    mentioned_titles = detect_mentioned_titles(question, available_titles_for_detection)
+
     # Display filter info
     filter_info = []
     if date_range != (db_min_date, db_max_date):
         filter_info.append(f"dates {date_range[0]}-{date_range[1]}")
     if selected_authors_list and len(selected_authors_list) < len(available_authors):
         filter_info.append(f"{len(selected_authors_list)} author(s)")
+    if selected_titles_list and len(selected_titles_list) < len(available_titles_for_detection):
+        filter_info.append(f"{len(selected_titles_list)} title(s)")
     if mentioned_authors:
         filter_info.append(f"📝 detected authors: {', '.join(mentioned_authors)}")
     if mentioned_titles:
@@ -576,7 +638,13 @@ def retrieve(state: State):
                     st.write(f"  ⚠️ '{author}' mentioned in query but not in sidebar selection - skipping")
                     continue
 
-                where_filter = {"author": author}
+                # Build filter with author + date range
+                filter_conditions = [{"author": author}]
+                if date_range != (db_min_date, db_max_date):
+                    filter_conditions.append({"date_start": {"$lte": date_range[1]}})
+                    filter_conditions.append({"date_end": {"$gte": date_range[0]}})
+
+                where_filter = {"$and": filter_conditions} if len(filter_conditions) > 1 else filter_conditions[0]
                 try:
                     retriever = vector_store.as_retriever(
                         search_kwargs={
@@ -586,7 +654,8 @@ def retrieve(state: State):
                     )
                     docs = retriever.invoke(question)
                     all_docs.extend(docs)
-                    st.write(f"  → Retrieved {len(docs)} segments from {author} in {db_name}")
+                    date_info = f" ({date_range[0]}-{date_range[1]})" if date_range != (db_min_date, db_max_date) else ""
+                    st.write(f"  → Retrieved {len(docs)} segments from {author} in {db_name}{date_info}")
                 except Exception as e:
                     # Fallback: retrieve more docs and filter afterward
                     retriever = vector_store.as_retriever(search_kwargs={"k": k * 2})
@@ -599,7 +668,13 @@ def retrieve(state: State):
     if mentioned_titles:
         for db_name, vector_store in vector_stores.items():
             for title, match_type in mentioned_titles:
-                where_filter = {"title": title}
+                # Build filter with title + date range
+                filter_conditions = [{"title": title}]
+                if date_range != (db_min_date, db_max_date):
+                    filter_conditions.append({"date_start": {"$lte": date_range[1]}})
+                    filter_conditions.append({"date_end": {"$gte": date_range[0]}})
+
+                where_filter = {"$and": filter_conditions} if len(filter_conditions) > 1 else filter_conditions[0]
                 try:
                     retriever = vector_store.as_retriever(
                         search_kwargs={
@@ -609,7 +684,8 @@ def retrieve(state: State):
                     )
                     docs = retriever.invoke(question)
                     all_docs.extend(docs)
-                    st.write(f"  → Retrieved {len(docs)} segments from '{title}' ({match_type} match)")
+                    date_info = f" ({date_range[0]}-{date_range[1]})" if date_range != (db_min_date, db_max_date) else ""
+                    st.write(f"  → Retrieved {len(docs)} segments from '{title}' ({match_type} match){date_info}")
                 except Exception as e:
                     # Fallback: retrieve more docs and filter afterward
                     retriever = vector_store.as_retriever(search_kwargs={"k": k * 3})
@@ -624,22 +700,49 @@ def retrieve(state: State):
         for db_name, vector_store in vector_stores.items():
             search_kwargs = {"k": k}
 
-            # Apply author filter at retrieval level if not all authors are selected
+            # Build filter conditions for date, author, and title
+            filter_conditions = []
+            filter_description = []
+
+            # Apply date filter if not using full range
+            if date_range != (db_min_date, db_max_date):
+                filter_conditions.append({"date_start": {"$lte": date_range[1]}})
+                filter_conditions.append({"date_end": {"$gte": date_range[0]}})
+                filter_description.append(f"{date_range[0]}-{date_range[1]}")
+
+            # Apply author filter if not all authors are selected
             if selected_authors_list and len(selected_authors_list) < len(available_authors):
-                # Use Chroma's $in operator to filter by multiple authors
-                search_kwargs["filter"] = {"author": {"$in": selected_authors_list}}
+                filter_conditions.append({"author": {"$in": selected_authors_list}})
+                filter_description.append(f"{len(selected_authors_list)} authors")
+
+            # Apply title filter if not all titles are selected
+            if selected_titles_list and len(selected_titles_list) < len(available_titles_for_detection):
+                filter_conditions.append({"title": {"$in": selected_titles_list}})
+                filter_description.append(f"{len(selected_titles_list)} titles")
+
+            # Combine filters with $and if multiple conditions
+            if len(filter_conditions) > 1:
+                search_kwargs["filter"] = {"$and": filter_conditions}
+            elif len(filter_conditions) == 1:
+                search_kwargs["filter"] = filter_conditions[0]
 
             try:
                 retriever = vector_store.as_retriever(search_kwargs=search_kwargs)
                 docs = retriever.invoke(question)
                 all_docs.extend(docs)
-                st.write(f"  → Retrieved {len(docs)} segments from {db_name} (filtered by {len(selected_authors_list)} authors)")
+                filter_desc = " + ".join(filter_description) if filter_description else "all sources"
+                st.write(f"  → Retrieved {len(docs)} segments from {db_name} (filtered by {filter_desc})")
             except Exception as e:
-                # Fallback: retrieve without filter and post-filter (in case $in not supported)
+                # Fallback: retrieve without filter and post-filter
                 st.write(f"  ⚠️ Filter failed for {db_name}, using post-filtering: {str(e)}")
                 retriever = vector_store.as_retriever(search_kwargs={"k": k * 2})
                 docs = retriever.invoke(question)
-                filtered_docs = [d for d in docs if d.metadata.get('author') in selected_authors_list]
+                # Post-filter by date, author, and title
+                filtered_docs = [
+                    d for d in docs
+                    if (not selected_authors_list or d.metadata.get('author') in selected_authors_list)
+                    and (not selected_titles_list or d.metadata.get('title') in selected_titles_list)
+                ]
                 all_docs.extend(filtered_docs)
     else:
         st.write("  ℹ️ Skipping general retrieval (using targeted author/title retrieval instead)")
@@ -683,6 +786,14 @@ def retrieve(state: State):
         ]
         st.write(f"After author filtering: {len(RAG_retrieved_docs)} segments from selected authors")
 
+    # Filter by selected titles
+    if selected_titles_list and len(selected_titles_list) < len(available_titles_for_detection):
+        RAG_retrieved_docs = [
+            doc for doc in RAG_retrieved_docs
+            if doc.metadata.get('title') in selected_titles_list
+        ]
+        st.write(f"After title filtering: {len(RAG_retrieved_docs)} segments from selected titles")
+
     # Apply hard cap: limit to k segments per database (user's expected total)
     max_segments = k * len(vector_stores)
     if len(RAG_retrieved_docs) > max_segments:
@@ -722,8 +833,15 @@ def generate_with_author_grouping(state: State):
     # Join all author sections
     formatted_context = "\n".join(context_parts)
 
+    # Get chat history section (empty string if not provided)
+    chat_history_section = state.get("chat_history_section", "")
+
     # Generate response
-    messages = prompt.invoke({"context": formatted_context, "question": state["question"]})
+    messages = prompt.invoke({
+        "context": formatted_context,
+        "question": state["question"],
+        "chat_history_section": chat_history_section
+    })
     response = llm.invoke(messages)
 
     return {"answer": response.content}
@@ -805,17 +923,48 @@ def create_pdf(question, answer, context_docs, selected_dbs, selected_authors_li
     buffer.seek(0)
     return buffer
 
-# Initialize session state for results
+# Initialize session state for results and chat history
 if 'last_result' not in st.session_state:
     st.session_state.last_result = None
 if 'last_query' not in st.session_state:
     st.session_state.last_query = None
 if 'last_db_names' not in st.session_state:
     st.session_state.last_db_names = None
+if 'chat_history' not in st.session_state:
+    st.session_state.chat_history = []  # List of {"question": str, "answer": str, "context": list}
 
 # Query Interface
 st.markdown("---")
 st.subheader("💬 Ask Your Question")
+
+# Chat continuation options (only show if there's previous chat)
+if st.session_state.chat_history:
+    st.write(f"**Chat history:** {len(st.session_state.chat_history)} previous exchange(s)")
+
+    col1, col2, col3 = st.columns([2, 2, 1])
+    with col1:
+        follow_up_mode = st.radio(
+            "Follow-up mode:",
+            options=["new_retrieval", "reuse_documents"],
+            format_func=lambda x: "🔍 New retrieval" if x == "new_retrieval" else "📄 Reuse previous documents",
+            horizontal=True,
+            help="Choose whether to retrieve new documents or continue discussing the same sources"
+        )
+    with col2:
+        include_chat_context = st.checkbox(
+            "Include chat history in prompt",
+            value=True,
+            help="When enabled, the AI will remember previous questions and answers in this session"
+        )
+    with col3:
+        if st.button("🗑️ Clear Chat"):
+            st.session_state.chat_history = []
+            st.session_state.last_result = None
+            st.session_state.last_query = None
+            st.rerun()
+else:
+    follow_up_mode = "new_retrieval"
+    include_chat_context = False
 
 user_query = st.text_area(
     "Enter your question:",
@@ -827,20 +976,76 @@ submit = st.button("🔍 Search", type="primary")
 
 if submit:
     if user_query:
-        with st.spinner("🔄 Processing query..."):
-            result = graph.invoke({"question": user_query})
-            # Store results in session state
-            st.session_state.last_result = result
-            st.session_state.last_query = user_query
-            st.session_state.last_db_names = [db['name'] for db in db_configs]
+        # Prepare chat history for the prompt
+        chat_history_section = ""
+        if include_chat_context and st.session_state.chat_history:
+            chat_history_section = format_chat_history(st.session_state.chat_history)
+
+        if follow_up_mode == "reuse_documents" and st.session_state.last_result:
+            # Reuse previous documents - only run generation
+            with st.spinner("🔄 Generating response with previous documents..."):
+                st.write("**Using previous documents** (no new retrieval)")
+
+                # Create state with previous context
+                state = {
+                    "question": user_query,
+                    "context": st.session_state.last_result["context"],
+                    "chat_history_section": chat_history_section
+                }
+
+                # Run only the generation step
+                result = generate_with_author_grouping(state)
+                result["context"] = st.session_state.last_result["context"]  # Preserve context
+
+                # Store results
+                st.session_state.last_result = result
+                st.session_state.last_query = user_query
+
+                # Add to chat history
+                st.session_state.chat_history.append({
+                    "question": user_query,
+                    "answer": result["answer"],
+                    "context": result["context"]
+                })
+        else:
+            # New retrieval mode - run full pipeline
+            with st.spinner("🔄 Retrieving documents and generating response..."):
+                # Invoke graph with chat history
+                result = graph.invoke({
+                    "question": user_query,
+                    "chat_history_section": chat_history_section
+                })
+
+                # Store results in session state
+                st.session_state.last_result = result
+                st.session_state.last_query = user_query
+                st.session_state.last_db_names = [db['name'] for db in db_configs]
+
+                # Add to chat history
+                st.session_state.chat_history.append({
+                    "question": user_query,
+                    "answer": result["answer"],
+                    "context": result["context"]
+                })
     else:
         st.warning("⚠️ Please enter a question")
+
+# Display chat history (previous exchanges)
+if len(st.session_state.chat_history) > 1:
+    st.markdown("### 💬 Conversation History")
+    # Show all but the last exchange (which is the current one)
+    for i, exchange in enumerate(st.session_state.chat_history[:-1], 1):
+        with st.expander(f"Exchange {i}: {exchange['question'][:50]}...", expanded=False):
+            st.markdown(f"**Question:** {exchange['question']}")
+            st.markdown("---")
+            st.markdown(f"**Answer:** {exchange['answer']}")
+    st.markdown("---")
 
 # Display results if available
 if st.session_state.last_result:
     result = st.session_state.last_result
 
-    st.markdown("### 📝 Answer")
+    st.markdown("### 📝 Current Answer")
     st.write(result["answer"])
 
     st.markdown("---")

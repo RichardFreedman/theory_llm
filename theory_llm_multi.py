@@ -319,6 +319,38 @@ def get_unique_authors(vector_stores_dict, date_range=None):
                     authors.add(metadata['author'])
     return sorted(list(authors))
 
+# Function to get unique titles from ALL selected databases, filtered by authors and date range
+def get_unique_titles(vector_stores_dict, selected_authors=None, date_range=None):
+    """
+    Retrieve all unique titles from selected Chroma databases.
+    Optionally filter by authors and date range.
+    """
+    titles = set()
+    for db_name, vector_store in vector_stores_dict.items():
+        all_docs = vector_store.get()
+        if 'metadatas' in all_docs:
+            for metadata in all_docs['metadatas']:
+                if metadata and 'title' in metadata:
+                    # Filter by author if specified
+                    if selected_authors and metadata.get('author') not in selected_authors:
+                        continue
+
+                    # Filter by date range if specified
+                    if date_range is not None:
+                        date_start = metadata.get('date_start')
+                        date_end = metadata.get('date_end')
+                        try:
+                            doc_start = int(date_start) if date_start else 0
+                            doc_end = int(date_end) if date_end else 9999
+                        except (ValueError, TypeError):
+                            doc_start, doc_end = 0, 9999
+                        if doc_end < date_range[0] or doc_start > date_range[1]:
+                            continue
+
+                    titles.add(metadata['title'])
+
+    return sorted(list(titles))
+
 # Get date range from databases
 db_min_date, db_max_date = get_date_range(vector_stores)
 
@@ -519,36 +551,6 @@ def detect_mentioned_authors(question, available_authors):
     
     return mentioned
 
-def get_unique_titles(vector_stores_dict, selected_authors=None, date_range=None):
-    """
-    Retrieve all unique titles from selected Chroma databases.
-    Optionally filter by authors and date range.
-    """
-    titles = set()
-    for db_name, vector_store in vector_stores_dict.items():
-        all_docs = vector_store.get()
-        if 'metadatas' in all_docs:
-            for metadata in all_docs['metadatas']:
-                if metadata and 'title' in metadata:
-                    # Filter by author if specified
-                    if selected_authors and metadata.get('author') not in selected_authors:
-                        continue
-                    
-                    # Filter by date range if specified
-                    if date_range is not None:
-                        date_start = metadata.get('date_start')
-                        date_end = metadata.get('date_end')
-                        try:
-                            doc_start = int(date_start) if date_start else 0
-                            doc_end = int(date_end) if date_end else 9999
-                        except (ValueError, TypeError):
-                            doc_start, doc_end = 0, 9999
-                        if doc_end < date_range[0] or doc_start > date_range[1]:
-                            continue
-                    
-                    titles.add(metadata['title'])
-    
-    return sorted(list(titles))
 
 def detect_mentioned_titles(question, available_titles):
     """

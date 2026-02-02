@@ -393,7 +393,8 @@ with st.sidebar:
     st.markdown("---")
 
 # Build the title list (filtered by selected authors and date range)
-available_titles = get_unique_titles(vector_stores, selected_authors, selected_date_range)
+# Use session state to ensure variable is available
+available_titles = get_unique_titles(vector_stores, st.session_state.selected_authors, selected_date_range)
 
 # Initialize selected titles in session state
 if 'selected_titles' not in st.session_state:
@@ -1088,7 +1089,7 @@ with st.sidebar:
             st.session_state.last_result["answer"],
             st.session_state.last_result["context"],
             st.session_state.last_db_names or [db['name'] for db in db_configs],
-            selected_authors,
+            st.session_state.selected_authors,
             date_range=selected_date_range
         )
         st.download_button(

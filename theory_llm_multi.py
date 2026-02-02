@@ -883,7 +883,17 @@ graph_builder.add_edge("generate_with_author_grouping", END)
 graph = graph_builder.compile()
 
 # PDF Generation
-def create_pdf(question, answer, context_docs, selected_dbs, selected_authors_list, date_range=None):
+def create_pdf(chat_history, context_docs, selected_dbs, selected_authors_list, date_range=None):
+    """
+    Create a PDF report including the full conversation history and source documents.
+
+    Args:
+        chat_history: List of {"question": str, "answer": str, "context": list} dicts
+        context_docs: The source documents from the most recent retrieval
+        selected_dbs: List of database names used
+        selected_authors_list: List of selected authors
+        date_range: Tuple of (start_year, end_year) or None
+    """
     buffer = BytesIO()
     pdf_doc = SimpleDocTemplate(buffer, pagesize=letter, rightMargin=72, leftMargin=72,
                                 topMargin=72, bottomMargin=18)
@@ -896,6 +906,9 @@ def create_pdf(question, answer, context_docs, selected_dbs, selected_authors_li
 
     heading_style = ParagraphStyle('CustomHeading', parent=styles['Heading2'],
                                    fontSize=14, textColor='darkblue', spaceAfter=12, spaceBefore=12)
+
+    exchange_heading_style = ParagraphStyle('ExchangeHeading', parent=styles['Heading2'],
+                                            fontSize=12, textColor='darkgreen', spaceAfter=8, spaceBefore=16)
 
     body_style = ParagraphStyle('CustomBody', parent=styles['BodyText'],
                                fontSize=11, alignment=TA_JUSTIFY, spaceAfter=12)
@@ -911,26 +924,45 @@ def create_pdf(question, answer, context_docs, selected_dbs, selected_authors_li
     <b>Databases:</b> {', '.join(selected_dbs)}<br/>
     <b>Date Range:</b> {date_range_str}<br/>
     <b>Authors:</b> {', '.join(selected_authors_list) if len(selected_authors_list) < len(available_authors) else 'All Authors'}<br/>
-    <b>Segments:</b> {len(context_docs)}
+    <b>Total Exchanges:</b> {len(chat_history)}<br/>
+    <b>Source Segments:</b> {len(context_docs)}
     """
     elements.append(Paragraph(metadata_text, body_style))
     elements.append(Spacer(1, 0.3*inch))
 
-    # Query
-    elements.append(Paragraph("Query", heading_style))
-    elements.append(Paragraph(question, body_style))
-    elements.append(Spacer(1, 0.2*inch))
+    # Conversation History
+    elements.append(Paragraph("Conversation", heading_style))
+    elements.append(Spacer(1, 0.1*inch))
 
-    # Answer
-    elements.append(Paragraph("Answer", heading_style))
-    for para in answer.split('\n\n'):
-        if para.strip():
-            elements.append(Paragraph(para, body_style))
+    for i, exchange in enumerate(chat_history, 1):
+        # Exchange header
+        elements.append(Paragraph(f"Exchange {i}", exchange_heading_style))
+
+        # Question
+        elements.append(Paragraph(f"<b>Question:</b>", body_style))
+        elements.append(Paragraph(exchange['question'], body_style))
+        elements.append(Spacer(1, 0.1*inch))
+
+        # Answer
+        elements.append(Paragraph(f"<b>Answer:</b>", body_style))
+        for para in exchange['answer'].split('\n\n'):
+            if para.strip():
+                # Escape special characters for ReportLab
+                safe_para = para.replace('&', '&amp;').replace('<', '&lt;').replace('>', '&gt;')
+                try:
+                    elements.append(Paragraph(safe_para, body_style))
+                except:
+                    # Fallback for problematic text
+                    elements.append(Paragraph(safe_para[:500] + "...", body_style))
+
+        elements.append(Spacer(1, 0.2*inch))
 
     elements.append(PageBreak())
 
-    # Source Documents
+    # Source Documents (from most recent retrieval)
     elements.append(Paragraph("Source Documents", heading_style))
+    elements.append(Paragraph("<i>Sources from the most recent document retrieval:</i>", body_style))
+    elements.append(Spacer(1, 0.1*inch))
 
     for i, source_doc in enumerate(context_docs, 1):
         elements.append(Paragraph(f"<b>Source {i}</b>", heading_style))
@@ -946,7 +978,12 @@ def create_pdf(question, answer, context_docs, selected_dbs, selected_authors_li
         elements.append(Spacer(1, 0.1*inch))
 
         content = source_doc.page_content.replace('\n', '<br/>')
-        elements.append(Paragraph(content, body_style))
+        # Escape special characters
+        content = content.replace('&', '&amp;').replace('<', '&lt;').replace('>', '&gt;').replace('&amp;lt;br/&amp;gt;', '<br/>')
+        try:
+            elements.append(Paragraph(content, body_style))
+        except:
+            elements.append(Paragraph("[Content could not be rendered]", body_style))
         elements.append(Spacer(1, 0.2*inch))
 
     pdf_doc.build(elements)
@@ -1115,17 +1152,18 @@ with st.sidebar:
     st.header("📄 Export Results")
     if st.session_state.last_result:
         pdf = create_pdf(
-            st.session_state.last_query,
-            st.session_state.last_result["answer"],
+            st.session_state.chat_history,
             st.session_state.last_result["context"],
             st.session_state.last_db_names or [db['name'] for db in db_configs],
             st.session_state.selected_authors,
             date_range=selected_date_range
         )
+        num_exchanges = len(st.session_state.chat_history)
+        button_label = f"📥 Download PDF Report ({num_exchanges} exchange{'s' if num_exchanges != 1 else ''})"
         st.download_button(
-            "📥 Download PDF Report",
+            button_label,
             pdf,
-            file_name=f"query_{datetime.now().strftime('%Y%m%d_%H%M%S')}.pdf",
+            file_name=f"conversation_{datetime.now().strftime('%Y%m%d_%H%M%S')}.pdf",
             mime="application/pdf",
             type="primary"
         )

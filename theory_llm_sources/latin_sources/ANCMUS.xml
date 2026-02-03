@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>De musica</title>
+        <title type="abbrev">ANCMUS</title>
+        <author>Ancina Fossaniensis, Juvenal</author>
+        <date notBefore="1500" notAfter="1599">16th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>John Csonka</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Bradley Jon Tucker</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1993</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Adrien de la Fage, 
+<emph>Essais de dipthérographie musicale</emph> (Paris: Legouix, 1864), 344–45.
+</bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANCMUS0001">
+      <pb n="[344]" />Etsi Musica humanum inventum est, cantus tamen nonnullos usque adeo suaves et amoenos reperias, ut divini propemodum videantur, quales Adrianus exhibere consuevit.</p>
+      <p id="ANCMUS0002">Musica ad pulsuum cognitionem plurimum confert; ubi enim eam quae in C spectatur proportionem servant, salutem: quod si hemioliam imitentur mortem portendunt.</p>
+      <p id="ANCMUS0003">
+      <pb n="[345]" />Quemadmodum in numeris arithmeticis, ita et in harmonicis in infinitum progressus est; at in his quidem utrinque, in illis autem altera duntaxat parte.</p>
+      <p id="ANCMUS0004">Hemitonium diesis proferri vetat.</p>
+      <p id="ANCMUS0005">Actionem inter similia fieri diapason in cheli et pentachordo ostendit.</p>
+    </body>
+  </text>
+</TEI>

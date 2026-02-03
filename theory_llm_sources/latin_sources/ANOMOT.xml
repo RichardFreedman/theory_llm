@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Expositio de motu</title>
+        <title type="abbrev">ANOMOT</title>
+        <author>Anonymous</author>
+        <date notBefore="1100" notAfter="1199">12th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Peter Slemon</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>2003</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Joseph Smits van Waesberghe, "Een tweede anoniem Motus-commentaar," in 
+<emph>Muziekgeschiedenis de Middeleeuwen</emph>, 3 vols. (Tilburg: Bergmans, 1936-46), 1:185–87.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: Tractatus de motu</title>
+          
+<idno type="LML">MOT. Omnis cantus</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 14663, 27r-v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">NL-Lu B.P.L. 194, 14r-v</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANOMOT0001">
+      <pb n="[185]" />Clm. 14663, fol. 27 r., v.</p>
+      <p id="ANOMOT0002">Omnis cantus per notam canitur, aut per prepositam, aut per subpositam, aut per interpositam, aut 
+      <pb n="[186]" />per appositam, aut per mixtam. Mixte autem sunt quando note commiscentur sursum vel deorsum.</p>
+      <p id="ANOMOT0003">Musica motus est vocum scilicet: Tonus, Semitonus, Semiditonus, Ditonus, Dyatessaron, Dyapente. Hic fit Arsi ac THesi id est vocis elevatione seu depositione. Iungitur autem altera alteri ipsa sibi, similiter dissimiliter elevatio elevationi vel depositio depositioni, Fiunt autem he vocum coniunctiones nunc preposite, nunc subposite, interdum interposite, modo vero apposite aliquando etiam mixte secundum laxationis et acuminis hoc est augmenti et detrimenti modorum varias qualitates, id est secundum qualitatem elevationis et depositionis hoc est amplificationis vel diminutionis modorum hoc est tonorum videlicet proti, deuteri, triti, tetrardi varias qualitates id est diversas species.</p>
+      <p id="ANOMOT0004">Thesi itaque iungitur arsi per tonum, ut "ecce nomen domini" [G/G/c/c/d/e/dc supra lin.], et item antiphona "Ductus est" [C/CD/D supra lin.]. Aliquando per semitonum, ut "Petre" [F/EEGaG supra lin.], et item "Spiritu principali" [F/E/DC/F/G/Fa/a supra lin.]. Preposite vero sunt quando thesi [ponitur supra lin.] prius quam arsi, ut "Eecce nomen 
+      <pb n="[187]" />domini" [D/EF/G/G/FG/FE/DC supra lin.]. Subposite sunt quando arsi ponitur prius quam thesi, ut "Ecce maria" [F/C/CD/D/D supra lin.]. Interposite sunt, ut "Alleluia [C/D/EG/G/G supra lin.], Hic est discipulus". (Clm. fol. 27 v.) Apposite sunt ut "Alleluia [FEF/DG/GcGacd/cc supra lin.] Paratum". Mixte [vero supra lin.] sunt, ut "Alleluia [CDDEFEFDCDD supra lin.] Veni sancte".</p>
+      <p id="ANOMOT0005">Repercusse [voces supra lin.] sunt, ut "laudabilis" [cc/d/c/dccdc supra lin.]. Repercusse et simplices sunt, ut "Tibi dixi" [Gc/c/ccc/c/ccc supra lin.] et facte sunt per VI modos qui designati sunt hac in figura. Tonus, Semitonus, Ditonus, Semiditonus, dyatessaron, dyapente. Sine istis enim consonantiis, nec elevatio iungitur depositioni, nec depositio elevationi.</p>
+      <p id="ANOMOT0006">Preponuntur ergo vel subponuntur, interponuntur apponuntur, et miscentur hii supra dicti motus, utpote tonus tono preponitur vel quilibet motus alius CD : ED Subponitur ut GE : DE. Interponitur ut DG : FE. Apponitur ut illud CD : FD. Admiscentur iuxta illud, CE : FG : FC. Possunt igitur he note per supradictas VI consonantias coni(i)ungi sicuti monstratum est.</p>
+      <p id="ANOMOT0007">
+      <pb n="[185]" />Lugd. Bat. B.P.L. 194, fol. 14 r., v.</p>
+      <p id="ANOMOT0008">(fol. 14 v.; cf. G.S. II, 18) Omnis cantus per notam canitur, aut per praepositas, aut per suppositas, aut 
+      <pb n="[186]" />per interpositas, aut per appositas, aut per mixtas. Mixtae autem sunt, quando notae commiscentur sursum vel deorsum.</p>
+      <p id="ANOMOT0009">(fol. 14 v.). Musica est motus vocum. Tonus, Semitonus, ditonus, Semiditonus, Dyatessaron, dyapente, Arsis thesis iunguntur, altera alteri ipsae sibi, similiter, dissimiliter; arsis elevatio, thesis depositio. Prepositae, Suppositae, Interpositae, Appositae, Mixtae. Secundum laxationis et acuminis, augmenti et detrementi modorum varias qualitates.</p>
+      <p id="ANOMOT0010">(fol. 14 r.) Secundum variam qualitatem acuminis et gravitatis augmenti et amplificationis, detrimenti id est, diminutionis, et secundum protum, deuterum, tritum, tetrardum.</p>
+      <p id="ANOMOT0011">[T]hesis iungitur arsi per tonum, ut "ecce nomen domini", et item "Ductus est ihesus". Aliquando per semitonum, ut "Petre", et item "Exultate deo" et reliqua. Prepositae sunt quando thesis ponitur prius quam arsis, ut "Eecce nomen 
+      <pb n="[187]" />domini". Suppositae sunt quando arsis ponitur prius quam thesis, ut "Ductus est ihesus". Interpositae sunt, ut "Alle". Appositae sunt ut "Alle". Mixtae vero sunt, ut "Alle".</p>
+      <p id="ANOMOT0012">Repercussae sunt, ut "Laudabilis populus". Repercussae et simplices sunt, ut "Tibi dixit." Et sunt factae per sex modos qui designati sunt in hac figura. Sine ipsis consonantiis, nec elevatio iungitur depositioni, nec depositio elevationi, nec sibi ipsis. Similis dissimili. Elevatio elevationi.</p>
+    </body>
+  </text>
+</TEI>

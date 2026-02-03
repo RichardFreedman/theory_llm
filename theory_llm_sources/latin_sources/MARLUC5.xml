@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Lucidarium, tractatus quintus</title>
+        <title type="abbrev">MARLUC5</title>
+        <author>Marchetus de Padua</author>
+        <date notBefore="1300" notAfter="1399">14th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Stephen E. Hayes</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Peter M. Lefferts</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1990</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>The Lucidarium of Marchetto of Padua: A Critical Edition, Translation, and Commentary</emph>, ed. and trans. by Jan W. Herlinger (Chicago and London: The University of Chicago Press, 1985), 196–222. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Marchettus de Padua: Lucidarium in arte musicae planae</title>
+          
+<idno type="LML">MARCH. luc.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">A-SP Cod. 135/6 (29.4.4), 21v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Br II 785, 15-38v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Br II 4144, 1-41</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">CH-E 689, 1-44</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">E-Sc 5-2-25, 5-20v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">E-Sc 5-2-25, 76v-77v, 124-128 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-SDI 42, 1-33v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ob Canon. Misc. 42, 184-185 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-BREs D 21, 185v-186v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-CATc D 39, 157-189</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fl Conv. Soppr. 388, 34v-52v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fr 734, 74-101</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Ma D. 5 inf., 52-77v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Ma I. 20 inf., 36v-39 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-PEc 1013, 5-45v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-PIu 606 (IV.9), I/1-50</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat lat. 5322, 1-48</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat Reg. lat. 1146, 7-8 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Sc L.V.30, 91v-119</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-TRE without shelfmark, 15-32v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Vnm Lat. Cl. VIII.85 (3579), 1-10 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">US-Cn Case Ms. 54.1, 10v-33</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">US-Wc ML 171 J 6 Case, hv-47</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="MARLUC50001">
+      <pb n="[196]" />1. TRACTATUS QUINTUS INCIPIT</p>
+      <p id="MARLUC50002">DE CONSONANTIIS IN GENERALI</p>
+      <p id="MARLUC50003">2. Sequitur videre de consonantia, de qua primo videbimus in generali, et per consequens secundo de eius opposito, quod est dissonantia;</p>
+      <p id="MARLUC50004">3. tercio de speciebus consonantiarum videndo per ordinem procedemus.</p>
+      <p id="MARLUC50005">1. CAPITULUM PRIMUM</p>
+      <p id="MARLUC50006">QUID SIT CONSONANTIA</p>
+      <p id="MARLUC50007">2. Consonantia est enim, teste Boetio, acuti soni gravisque mixtura, suaviter uniformiterque auribus accedens.</p>
+      <p id="MARLUC50008">3. Item ipse: Consonantia est duarum vocum dissimilium in unum redacta concordia.</p>
+      <p id="MARLUC50009">4. Huic namque contraria est dissonantia.</p>
+      <p id="MARLUC50010">5. Dicitur enim consonantia a consequendo, quia consonantia dicitur esse in motu dum organizatur.</p>
+      <p id="MARLUC50011">
+      <pb n="[198]" />6. Boetius: Omnis paucitas ad pluralitatem ita sese habet ut numerus ad numerum comparatus.</p>
+      <p id="MARLUC50012">7. Eorum vero que secundum numerum conferuntur partim sunt equalia et partim inequalia,</p>
+      <p id="MARLUC50013">8. quocirca soni quoque partim sunt equales et partim inequalitate distantes;</p>
+      <p id="MARLUC50014">9. sed in hiis vocibus que nulla inequalitate discordant nulla omnino consonantia est.</p>
+      <p id="MARLUC50015">10. Est enim consonantia, ut supra, dissimilium vocum in unum redacta concordia.</p>
+      <p id="MARLUC50016">11. Est itaque amica similitudo, hec est consonantia; dissimilitudo vero odiosa atque contraria, hec est dissonantia.</p>
+      <p id="MARLUC50017">
+      <pb n="[200]" />1. CAPITULUM SECUNDUM</p>
+      <p id="MARLUC50018">DE DISSONANTIA</p>
+      <p id="MARLUC50019">2. Dissonantia secundum Ysidorum est duorum sonorum sibimet permixtorum ad aurem veniens aspera atque iniocunda permixtio.</p>
+      <p id="MARLUC50020">3. Boetius: Dissonantia fit cum duo soni simul pulsi sibimet permisceri nolunt, sed sibi quisque gliscit ire,</p>
+      <p id="MARLUC50021">4. hoc est quod uterque sonus ad locum ire cupit ubi est permixtio iocunda, amicabilis, et suavis, hoc est consonantia.</p>
+      <p id="MARLUC50022">5. Dissonantia autem et dyaphonia idem sunt,</p>
+      <p id="MARLUC50023">6. nam, ut dicit Ysidorus, dyaphonie sunt voces discrepantes sive dissone in quibus non est iocundus sed asperus sonus.</p>
+      <p id="MARLUC50024">7. Harum autem dyaphoniarum seu dissonantiarum alie compatiuntur secundum auditum et rationem et alie non.</p>
+      <p id="MARLUC50025">
+      <pb n="[202]" />8. Que vero compatiuntur sunt tres principaliter, scilicet tercia, sexta, decima.</p>
+      <p id="MARLUC50026">9. Hee autem dissonantie et hiis similes ideo compatiuntur ab auditu, quia sunt magis propinque consonantiis, cum moventur sursum et deorsum.</p>
+      <p id="MARLUC50027">10. Oportet enim quod quando due voces sunt in dissonantia que compatitur ab auditu quod ipsarum quelibet requirens consonantiam moveatur ita videlicet, ut si una in sursum tendit, reliqua in deorsum, semper distando per minorem distantiam a consonantia ad quam tendunt.</p>
+      <p id="MARLUC50028">11. Alie vero dissonantie, sive dyaphonie, ideo non compatiuntur ab auditu, quia etsi moveantur sursum et deorsum, non tamen ante consonantiam per minorem distantiam sunt distantes.</p>
+      <p id="MARLUC50029">1. CAPITULUM TERCIUM</p>
+      <p id="MARLUC50030">DE EUPHONIA</p>
+      <p id="MARLUC50031">2. Euphonia bona sonoritas dicitur,</p>
+      <p id="MARLUC50032">
+      <pb n="[204]" />3. nam, ut Ysidorus dicit, heu bona, phonia sonoritas interpretatur, inde euphonia bona sonoritas.</p>
+      <p id="MARLUC50033">1. CAPITULUM QUARTUM</p>
+      <p id="MARLUC50034">DE ARMONIA</p>
+      <p id="MARLUC50035">2. Armonia, ut Ubaldus refert, est diversarum vocum apta coadunatio.</p>
+      <p id="MARLUC50036">3. Dicitur enim ab armos grece, quod latine est adunatio, inde armonia coadunatio vocum.</p>
+      <p id="MARLUC50037">4. Phylosophus: Armonia est ratio numerorum in acuto et gravi.</p>
+      <p id="MARLUC50038">1. CAPITULUM QUINTUM</p>
+      <p id="MARLUC50039">DE SIMPHONIA</p>
+      <p id="MARLUC50040">2. Simphonia, ut dicit Augustinus, est concordia vocum in quibus non est absurdus vel dissonus sonus.</p>
+      <p id="MARLUC50041">
+      <pb n="[206]" />3. Ex diffinitionibus supradictis colligere possumus quod euphonia, armonia, simphonia, et consonantia unum quodammodo sint.</p>
+      <p id="MARLUC50042">1. CAPITULUM SEXTUM</p>
+      <p id="MARLUC50043">QUESTIO DE DISSONANTIIS</p>
+      <p id="MARLUC50044">2. Quoniam dictum est superius quod quedam dissonantie non se compatiuntur nec sunt compassibiles auditui, eo quod magis sunt remote a consonantiis quam oporteat, nam sunt distantes ab ipsis per maiorem distantiam,</p>
+      <p id="MARLUC50045">3. et quedam se compatiuntur et auditui sunt compassibiles, eo quod magis propinque consonantiis et per minorem distantiam sunt distantes,</p>
+      <p id="MARLUC50046">4. ideo questio consurgit, quare scilicet oporteat dissonantiam compassibilem auditui per minorem distantiam a consonantia distare.</p>
+      <p id="MARLUC50047">
+      <pb n="[208]" />5. Et respondemus quod hoc ideo est, eo quod dissonantia sit quoddam imperfectum, requirens perfectum, quo perfici possit.</p>
+      <p id="MARLUC50048">6. Consonantia autem est perfectio ipsius.</p>
+      <p id="MARLUC50049">7. Quanto enim dissonantia minus distat a consonantia, tanto minus distat a sua perfectione et magis assimilatur eidem, et ideo magis amicabilis est auditui, tamquam plus habens de natura consonantie.</p>
+      <p id="MARLUC50050">8. Sed tunc dicet aliquis, quare oportet me distare a consonantia per tonum et dyesim, quam dicis esse minorem distantiam ante consonantiam ad quam tenditur; numquid essem in perfectiori dissonantia et in magis amicabili auditui, quia in magis propinqua consonantie, nullum motum faciendo in altero duorum cantuum, aut supra aut infra, ut hic:</p>
+      <p id="MARLUC50051">[Marchetus, 208] 
+      <figure>
+        <graphic url="/images/MARLUC5_01GF.gif" />
+      </figure></p>
+      <p id="MARLUC50052">
+      <pb n="[210]" />9. Et respondemus quod non, quia magis est delectabilis nature proportio partium ad suum totum quam proportio unius totius ad aliud totum,</p>
+      <p id="MARLUC50053">
+      <pb n="[212]" />10. nam proportionando duo ad invicem consurgit maior delectatio et conformitas quam proportionando duo tota, et ideo oportet quod ibi fiat motus in utrisque partibus, ut earum proportio et ad se invicem et ad sua tota etiam cognoscatur, quod non esset si ex parte unius non motus alius causaretur,</p>
+      <p id="MARLUC50054">11. nam utraque duarum vocum in dissonantia est, et propter hoc utraque appetit perfici, nec potest, si non movetur de loco sive de sono in quo est.</p>
+      <p id="MARLUC50055">12. Oportet igitur quod moveantur ambe sursum et deorsum ad aliquam consonantiam intendentes.</p>
+      <p id="MARLUC50056">13. Debet autem dissonantia distare ante consonantiam per minorem distantiam et per motum utriusque rationibus superius allegatis, ut hic:</p>
+      <p id="MARLUC50057">
+      <pb n="[214]" />[Marchetus, 214,1]</p>
+      <p id="MARLUC50058">14. Queritur quare non est sic proprium dissonantie que dicitur sexta tendere ad consonantiam dyapente sicut ad consonantiam dyapason,</p>
+      <p id="MARLUC50059">15. cum ipsa dissonantia a quacunque ipsarum consonantiarum distare per minorem distantiam videatur, ut hic:</p>
+      <p id="MARLUC50060">[Marchetus, 214,2]</p>
+      <p id="MARLUC50061">
+      <pb n="[216]" />16. nam videmus quod in presenti prima figura cantus superior a tenore incipit in dyapason et descendit unam dyesim, pro quo descensu tenor ascendit unum tonum, qui continet quinque dyeses, et sic sunt sex dyeses, que sunt minor distantia ante consonantiam dyapason, ad quam tendere dinoscuntur.</p>
+      <p id="MARLUC50062">17. In secunda figura similiter distant a dyapente per minorem distantiam, scilicet per sex dyeses, quia cantus superior, qui est supra tenorem per dyapason, descendit unam dyesim, pro quo descensu tenor ascendit unum tonum, et sic sunt in dissonantia que dicitur sexta.</p>
+      <p id="MARLUC50063">18. Post hoc cantus superior descendit semitonium cromaticum, quod continet quatuor dyeses, et tunc tenor ascendit semitonium enarmonicum, quod habet duas dyeses;</p>
+      <p id="MARLUC50064">
+      <pb n="[218]" />19. sic sunt sex, et ecce minor distantia facta ante dyapente et per motum utriusque.</p>
+      <p id="MARLUC50065">20. Respondemus quod duplex ratio est, quare sexta, que est dissonantia, non sic perfecte tendit ad dyapente sicut ad dyapason.</p>
+      <p id="MARLUC50066">21. Prima ratio est quod licet dissonantia illa ab utraque predictarum consonantiarum per minorem distantiam distare videatur, tamen in nullo predictorum cantuum secunde figure est minor distantia, quia non est ibi minor pars toni,</p>
+      <p id="MARLUC50067">22. et per consequens non est ibi minor motus cum transeunt de dissonantia in consonantiam, ut patet intuenti.</p>
+      <p id="MARLUC50068">23. Oportet enim ut sit minor distantia ante consonantiam, quod in aliquo duorum cantuum minor pars toni, que est dyesis, superius aut inferius proferatur.</p>
+      <p id="MARLUC50069">24. Secunda ratio est quod licet dissonantia ab ipsis duabus consonantiis, 
+      <pb n="[220]" />scilicet dyapente et dyapason, equaliter sit vicina, ad illam debet libentius tendere que est perfectior, et ad quam iocundius inclinatur.</p>
+      <p id="MARLUC50070">25. Dyapason autem est perfectior consonantia dyapente, ut infra patebit, et ob hoc minus iocunde inclinatur ad dyapente, que minus perfecta est.</p>
+      <p id="MARLUC50071">26. Patet ergo quod dissonantia que dicitur sexta minus proprie tendit ad dyapente quam ad dyapason.</p>
+      <p id="MARLUC50072">27. Licet sepius in cantibus talis color, qui dicitur ficticius, apponatur, naturaliter autem iniocunde profertur quelibet toni bipartitio per descensum, ut in presentibus figuris probabiliter potest sciri.</p>
+      <p id="MARLUC50073">
+      <pb n="[222]" />[Marchetus, 222]</p>
+      <p id="MARLUC50074">28. FINIT TRACTATUS QUINTUS</p>
+    </body>
+  </text>
+</TEI>

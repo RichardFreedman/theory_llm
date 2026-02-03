@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>De musica</title>
+        <title type="abbrev">ANOMUS2</title>
+        <author>Anonymous</author>
+        <date notBefore="1400" notAfter="1499">15th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>John Csonka</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Jan Herlinger</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Angela Mariani</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1993</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Adrien de la Fage, 
+<emph>Essais de dipthérographie musicale</emph> (Paris: Legouix, 1864), 423–28.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: "Notandum est quod regula subscripta ... Nota quod toni sunt octo"</title>
+          
+<idno type="LML">ANON. La Fage II</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">I-Rv C 105, 119-157</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANOMUS20001">
+      <pb n="[423]" />Notandum est quod regula subscripta debet doceri per magistros omnibus illis qui musicae artis volunt habere documentum in manu sinistra et non in dextra.</p>
+      <p class="textFig" id="ANOMUS20002">*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*
+      <lb /></p>
+      <p id="ANOMUS20003">Nota quod toni sunt octo quorum quatuor sunt authentici et quatuor placales. Authentici dicuntur qui habent auctoritatem ascendendi, placales dicuntur qui habent auctoritatem descendendi.... Nota quod tonorum alius perfectus, alius imperfectus, alius plusquamperfectus, alius mixtus, alius commixtus. Nota quod tonus perfectus est ille qui implet modum suum super et infra sive sit authenticus, sive placalis. Nota quod tonus imperfectus est ille qui non implet modum suum nec super nec infra, sive sit authenticus sive placalis. Nota quod tonus authenticus plusquamperfectus est ille qui ascendit ultra octavam vocem et ad nonam vel ad decimam. Nota quod tonus plusquamperfectus placalis est ille qui descendit ultra quartam vocem. Unde nota quod omnis authenticus dicitur plusquamperfectus a parte superiori, placalis vero infra. Nota quod tonus mixtus authenticus est ille qui descendit unam vocem, tangens descensionem sui placalis. Tonus mixtus placalis est ille qui ascendit ultra sextam vocem, tangens ascensionem. Unde notandum quod omnis authenticus mixtus dicitur a parte infra, placalis vero a parte supra. Nota quod tonus commixtus, sive authenticus sit sive placalis, est ille qui cum aliis speciebus quam cum suis propriis misceri videtur.</p>
+      <p id="ANOMUS20004">Nota quod consonantiae musicae sunt duae principales, scilicet diatessaron et diapente; quae quidem consonantiae si componantur, tum diapason efficitur symphonia.</p>
+      <p class="textFig" id="ANOMUS20005">*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;*
+      <br /></p>
+      <p id="ANOMUS20006">
+      <pb n="[424]" />Nota quod primus tonus formatur ex prima specie diapente et ex prima specie diatessaron superius... Nota quod si primus tonus est perfectus, cantari debet per [sqb] quadrum, ut inveniatur prima species diatessaron posita super diapente; quae quidem species non inveniretur, si per [rob] molle cantaretur. Si vero primus tonus non est perfectus et hoc dupliciter, quare aut ascendit ad c acutum et immediate posthaec antequam descendat ad F grave ascendit ad c acutum, tunc cantari debet per [sqb] quadrum: si vero primus tonus descendit ad F grave, tunc cantari debet per [rob] molle; et ratione quod si per b quadrum cantaretur, tunc in eo reperiretur illa species tritoni quae omni modo in omni cantu evitanda est.</p>
+      <p class="textFig" id="ANOMUS20007">*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*
+      <lb /></p>
+      <p id="ANOMUS20008">Nota quod species musicae sunt quindecim, scilicet: tonus, semitonus dicto nus, semidictonus, diatessaron, tritonus, diapente perfectum, diapente imperfectum, exaten majus, exaten minus, eptaten majus, eptaten minus, diapason, diapason cum diatessaron, diapason cum diapente et bisdiapason.</p>
+      <p id="ANOMUS20009">Nota quod tonus est ligitimum spatium de sono in sonum; vel tonus est dispositio duarum vocum perfectarum et dicitur tonus ab intonato, id est quia perfecte sonat... Semitonus est dispositio duarum vocum imperfectarum... Dictonus est dispositio trium vocum et coherentia duorum tonorum... Tritonus est dispositio quatuor vocum et coherentia trium tonorum; est enim tritonus ab F grave ad [rob] molle acutum et a [rob] molle acutum ad mi acutum.</p>
+      <p class="textFig" id="ANOMUS20010">*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*
+      <br /></p>
+      <p id="ANOMUS20011">Nota quod clavis est reseratio omnium notarum in quolibet signo; signatur et vocatur clavis quia sicut per clavim clauduntur omnia, quae intra ostium sunt, ita per claves cognoscitur melius omnis nota quae in quolibet spatio vel linea est... Nota quod [rob] molle inventum fuit tribus de causis, primo causa tritoni, secundo causa necessitatis, tertio causa consonantiae. Causa tritoni, hoc est ad evitandum tritonum; fuit etiam inventum causa necessitatis, id est cum invenitur diapente 
+      <pb n="[425]" />intensum inter F grave et c acutum adjuncto tono vel mediante Alamire; fuit quoque inventum causa consonantiae et tunc in quinto et sexto tono, quum commodius fieri potuit, quum ibi non incipit nisi in F.</p>
+      <p class="textFig" id="ANOMUS20012">*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*
+      <lb /></p>
+      <p id="ANOMUS20013">Incipit regula cantus figurati.</p>
+      <p id="ANOMUS20014">Nota quod sunt quinque partes prolationis, videlicet: Maxima, lunga, brevis, semibrevis et minima ut hic est forma:</p>
+      <p id="ANOMUS20015">[MX,L,B,S,S]</p>
+      <p id="ANOMUS20016">Maxima perfecta valet tres lungas sive tempore perfecto, sive imperfecto. Si longae sunt de modo perfecto, maxima perfecta valet novem tempora, si de imperfecto, sex ut hic patet:</p>
+      <p id="ANOMUS20017">[MX,L,L,L,B,B,B,B,B,B,B,B,B; MX,L,L,L,B,B,B,B,B,B]</p>
+      <p id="ANOMUS20018">Maxima imperfecta valet duas longas sive de perfecto, sive de imperfecto. Si de modo perfecto, valet sex tempora, si de imperfecto, quatuor, ut hic:</p>
+      <p id="ANOMUS20019">[MX,L,L,B,B,B,B,B,B; MX,L,L,B,B,B,B]</p>
+      <p id="ANOMUS20020">Et ex hoc colligitur quod maxima potest esse perfecta, longis existentibus imperfectis et contrario quod potest esse imperfecta, longis existentibus perfectis. Longa in modo perfecto valet tres breves, in imperfecto duas ut hic:</p>
+      <p id="ANOMUS20021">[L,B,B,B; L,B,B]</p>
+      <p id="ANOMUS20022">Brevis in tempore perfecto valet tres semibreves, in imperfecto duas ut hic patet:</p>
+      <p id="ANOMUS20023">[B,S,S,S; B,S,S]</p>
+      <p id="ANOMUS20024">Semibrevis in majori prolatione valet tres minimas, in minori duas ut hic:</p>
+      <p id="ANOMUS20025">[S,M,M,M; S,M,M]</p>
+      <p id="ANOMUS20026">Item nota quod omnis perfecta nota potest imperfici et omnis imperfecta potest 
+      <pb n="[426]" />perfici. Imperfici potest per abstractionem tertiae partis sive valoris, perfici vero per adjunctionem tertiae partis sive valoris, nam perfectio consistit in numero ternario, imperfectio in binario. Maxima perfecta in toto et partibus potest imperfici duplo modo ad totum dupliciter, scilicet ex parte ante et post. A parte ante, quum ipsam praecedit sola longa; a parte post, quum eam sequitur sola lunga, vel quatuor, vel decem, vel earum valor; tunc prima lunga, vel ejus valor imperficit maximam praecedentem, nisi per punctum ipsa impediretur:</p>
+      <p id="ANOMUS20027">[MX,L,pt,L,MX,L,L,L,L; MX,pt,L,L,L,L,L,L,L; MX,Bcsdx,Bcsdx,Bcsdx,Bcsdx,Bcsdx,Bcsdx,Bcsdx,Bcsdx,L,L]</p>
+      <p id="ANOMUS20028">Quoad partes etiam duplices sunt, scilicet propinquae et remotae. Propinquae sunt sicut maximarum perfectarum longae, longarum breves, brevium semibreves; partes remotae sunt propinquae partes partium propinquarum; remotiores sunt partes partium propinquarum. Maxima igitur quoad partes propinquas potest dupliciter imperfici, scilicet: a parte post et ante per abstractionem tertiae partis valoris cujuslibet partis propinquae vel alterius earumdem. Et sic quoad partes remotas; et ita suo modo intellegi potest de longis, brevibus et semibrevibus.</p>
+      <p id="ANOMUS20029">Longa ante longam in modo perfecto semper est perfecta; brevis ante brevem in tempore perfecto semper est perfecta et semibrevis ante semibrevem in majori prolatione est semper perfecta; ut hic patet:</p>
+      <p id="ANOMUS20030">[MX,MX; L,L; B,B,S,S; M,M]</p>
+      <p id="ANOMUS20031">Quocumque aliqua nota debet imperfici, opportet quod eam immediate sequatur nota major vel minor in forma, vel pausa majoris, vel minoris formae, quum similis ante similem non potest imperfici. Hoc modo imperficitur:</p>
+      <p id="ANOMUS20032">[MX,B; B,pt,L,L; B; pt,B,L; S,M; S,pt]</p>
+      <p id="ANOMUS20033">Quum post longam de modo perfecto sequuntur duae breves, vel tres, nulla sola brevi praecedente a qua possit imperfici, perfecta est, nisi punctus ponatur in divisionem inter primam brevem et alias sequentes, nam tunc prima brevis imperficit longam praecedentem, quod ita intelligitur de brevibus temporis perfecti respectu semibrevium et de semibrevibus minoris prolationis respectu minimarum; ut hic:</p>
+      <p id="ANOMUS20034">[L,MX,B,L,B,B,B,L,B,pt; B,S,B,S,S,S,B,S,S,B; L,pt,B,B; B; pt,S,B; B; S,B; B,S,S,B,B]</p>
+      <p id="ANOMUS20035">
+      <pb n="[427]" />Quum inter duas longas remanet sola brevis perfectione computata, tunc illa imperficit primam longam nisi per punctum impediatur aut aliter. Et ita de semibrevibus inter breves et de minima inter semibreves; ut hic:</p>
+      <p id="ANOMUS20036">[L,B,L,Lig5cdsndaad,pt,B,L; B,S,B,S,S,S,S,B,pt,S,B; S,M,S,M,M,M,S,M,S,S; S,M,S,S]</p>
+      <p id="ANOMUS20037">Nota quod est punctus perfectionis et divisionis; quum ponitur post longam, perfectionis esse dicitur: quum vero post minimam, divisionis est. Triplex est divisio; scilicet temporis, modi et prolationis. Si punctus ponatur inter duas breves, dividit modum, nisi breves illae formentur de tempore perfecto post quas, vel ante quas reperitur aliqua semibrevis sola quae per syncopam reduceretur puncto perfectionis punctatam. Si punctus ponitur inter duas semibreves, pro divisione temporis assignatur, nisi forte illae semibreves sint de minore prolatione post quas vel ante quas inveniretur aliqua minima sola quae per syncopam reduceretur ad dictam semibrevem puncto perfectionis punctatam ut hic:</p>
+      <p id="ANOMUS20038">[B,pt,M,pt,M,M,S,B,pt,S,pt,M,S,L; L,pt,Lig2cdsnd,B,pt,B,pt,S,L; B,S,Bcssn,S,S,pt,S,M,Lig2cssnd]</p>
+      <p id="ANOMUS20039">Quum duplex sit modus, tempus et prolatio, nota quod quadrangulus cum tribus tractulis ponitur pro modo perfecto, cum duobus pro imperfecto modo; ut hic:</p>
+      <p id="ANOMUS20040">[R3rh] [R2rh]</p>
+      <p id="ANOMUS20041">Nota quod circulus ponitur pro tempore perfecto, semicirculus pro imperfecto. Si in circulo vel in semicirculo sunt tres puncti, majoris prolationis est et si duo minoris; ut hic:</p>
+      <p id="ANOMUS20042">[O3d] [C3d] [O2d] [C2d]</p>
+      <p id="ANOMUS20043">Nota quod in omni ligatura ultima nota descendens sub penultima in quadro posita cum perfectione dicitur et est longa. Nota quod si in aliquo cantu reperiantur longae nigrae, vacuae vel rubeae, nigrae sunt modo perfecti. Nota quod si breves inveniantur nigrae, rubeae vel vacuae, nigrae sunt temporis perfecti et rubeae vel vacuae imperfecti. Nota quod si nigrae sunt majoris prolationis, rubeae vel vacuae sunt minoris.</p>
+      <p id="ANOMUS20044">
+      <pb n="[428]" />C D E F G a a G F E D C</p>
+      <p id="ANOMUS20045">Sancte Benedicte doce nos cantare.</p>
+    </body>
+  </text>
+</TEI>

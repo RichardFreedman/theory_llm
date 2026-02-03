@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Regulae super discantum et ad discernendum ipsas notas discantus</title>
+        <title type="abbrev">DIEREG</title>
+        <author>Dietricus</author>
+        <date notBefore="1200" notAfter="1299">13th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Stephen E. Hayes</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Peter M. Lefferts</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Luminita Florea Aluas</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1992</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Hans Müller, 
+<emph>Eine Abhandlung über Mensuralmusik in der Karlsruher Handschrift St. Peter pergamen. 29a</emph>, Mittheilungen aus der Grossherzoglich Badischen Hof- und Landesbibliothek und Münzsammlung, Band 4 (Leipzig: B. G. Teubner, 1886), 5–7.
+</bibl>
+        <bibl type="work">
+          
+<title>Ps.-Dietricus: Regulae super discantum et ad discernendum ipsas notas discantus</title>
+          
+<idno type="LML">PS.-DIETR.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">D-KA S. Peter Pm 29a, 7v-8</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="DIEREG0001">
+      <pb n="[5]" />Regulae super discantum et ad discernendum ipsas notas discantus.</p>
+      <p id="DIEREG0002">Ad discendam artem discantandi notandum est, quod omnis discantus uno sex modorum habet fieri.</p>
+      <p id="DIEREG0003">Primus modus constat ex prima longa, secunda brevi et sic deinceps: [L,B,L,B].</p>
+      <p id="DIEREG0004">Secundus e converso ex prima brevi et altera longa, tertia brevi, quarta longa et sic ulterius hoc modo: [B,L,B,L].</p>
+      <p id="DIEREG0005">Tertius ex una longa et sequentibus duabus brevibus hoc modo: [L,B,B,L,B,B].</p>
+      <p id="DIEREG0006">Quartus modus posset esse e converso ex duabus brevibus et sequenti longa, sed non est in usu.</p>
+      <p id="DIEREG0007">Quintus ex omnibus longis hoc modo: [L,L,L,L].</p>
+      <p id="DIEREG0008">Sextus ex omnibus brevibus sic: [B,B,B,B].</p>
+      <p id="DIEREG0009">Isti tamen modi frequenter adinvicem miscentur. Fit enim mutatio de primo in tertium vel in quintum et sic de aliis.</p>
+      <p id="DIEREG0010">Ulterius sciendum est, quod notarum alia simplex est, alia composita. Simplex est, quae constat ex unico puncto, composita quae ex pluribus. Item punctorum aliud est caudatum, aliud sine cauda. Item aliud cum plica, aliud sine plica.</p>
+      <p id="DIEREG0011">Punctum sine cauda et plica sic scribitur: [B].</p>
+      <p id="DIEREG0012">Punctum cum cauda sic: [L].</p>
+      <p id="DIEREG0013">Punctum cum plica ascendente sic: [Bcsdx] vel sic [Bcssn].</p>
+      <p id="DIEREG0014">Cum plica vero descendente sic: [Lig2cdsnodpddx] vel sic: [Lig2cdsnod].</p>
+      <p id="DIEREG0015">De omnibus his punctis simplicibus tales dantur regulae:</p>
+      <p id="DIEREG0016">Punctum sine nota simplex, sine cauda et plica brevis est: [B].</p>
+      <p id="DIEREG0017">Caudata vero longa: [L].</p>
+      <p id="DIEREG0018">Et si duae caudatae immediate se invicem sequantur: [L,L], prima earum valebit longam et brevem, secunda longam simpliciter. Idem etiam est iudicium de plica longa et caudata: [Lig2cdsnodpddx,L].</p>
+      <p id="DIEREG0019">Punctum vero si oblique scribatur sic: [S,S,S,S], erit semibreve, quia duo talia cum tanta celeritate proferuntur sicut unum breve recte scriptum.</p>
+      <p id="DIEREG0020">Item notandum, quod plica scripta sic: [Lig2cdsnodpddx] vel sic: [Bcsdx] longa est; sic vero: [Lig2cdsnod] vel sic: [Bcssn] brevis est.</p>
+      <p id="DIEREG0021">
+      <pb n="[6]" />Notarum compositarum quaedam habent duo puncta adinvicem ligata, quaedam plura. Harum quaedam dicuntur scribi cum proprietate sic: [Lig2art,Lig2cdsnd]. Quaedam sine proprietate ut hae: [Lig2a,Lig2d]. Quaedam cum opposito proprietatis ut hae: [Lig2cssna,Lig2cssnd].</p>
+      <p id="DIEREG0022">Regula igitur est, quod duarum adinvicem ligatarum cum proprietate scriptarum [Lig2art,Lig2cdsnd] prima brevis est, altera longa. Duae vero sine proprietate simul ligatae ambae sunt breves et valent unam longam: [Lig2a,Lig2d]. Duae vero cum opposito proprietatis scriptae: [Lig2cssna,Lig2cssnd] sunt semibreves, id est ambae simul valentes unicam brevem.</p>
+      <p id="DIEREG0023">Hoc tamen excepto quod si duo puncta adinvicem ligata sic formentur: [Lig2MXart,Lig2MXd], primum eorum valet duas longas, secundum vero unam longam. Eodem modo si nota simplex sic scribatur: [MX], valet duas longas. Item nota, quod duae adinvicem ligatae quandoque sic scribuntur: [Lig3cdsnoaart,Lig2cdsnod], et tunc puncta ipsa ambo sunt brevia.</p>
+      <p id="DIEREG0024">De tribus adinvicem ligatis sciendum est, quod possunt scribi cum proprietate sic: [Lig3ad,Lig3aart,Lig3cdsndd,Lig3cdsnodart], et in omnibus his prima longa est, secunda brevis, tertia longa, nisi forte nota caudata praecedat tres ligatas hoc modo: [L,Lig3ad; L,Lig3aart; L,Lig3cdsndd; L,Lig3cdsnodart], et tunc de tribus ligatis primae duae sunt breves, tertia longa.</p>
+      <p id="DIEREG0025">Item tres ligatae possunt scribi sine proprietate sic: [Lig3cdsnad,Lig3cdsnaod,Lig3cdsnaa,Lig3dd,B,Lig2d,Lig2d,B,Lig3odart], et in omnibus his econtrario superioribus prima est brevis, secunda longa, tertia brevis.</p>
+      <p id="DIEREG0026">Item tres ligatae quandoque scribuntur per oppositum proprietatis sic: [Lig3cssnaa,Lig3cssnad,Lig3cssnaod,Lig3cssndd,Lig3cssnodart], et in omnibus his duae primae sunt semibreves, tertia brevis.</p>
+      <p id="DIEREG0027">Item invenitur quandoque talis nota: [Lig3cdsndod], quae valet tria puncta descendentia brevia. Similiter invenitur talis: [Lig3cdsnododod], quae valet unam longam vel duo brevia. Ita quod primum punctum est breve, reliqua duo semibrevia.</p>
+      <p id="DIEREG0028">
+      <pb n="[7]" />De quatuor adinvicem ligatis sciendum, quod si inveniantur in hac figura: [Lig4cdsnddd], prima tria erunt brevia, ultimum longum. Si vero sic: [Lig4cdsnaaod], omnia sunt brevia. Si vero sic: [Lig4cssnaaod,Lig4cssnadod,Lig4cssnddd], prima duo erunt semibrevia, tertium vero et quartum breve.</p>
+      <p id="DIEREG0029">Ultimo de pausis sciendum est, quod pausa occupans unicum spatium, scilicet inter lineam et lineam, brevis est unius temporis. Pausa occupans duo spatia longa est duorum temporum. Si vero ultra extendatur, erit longa trium temporum:</p>
+      <p id="DIEREG0030">[BP,2LP,3LP on staff4]</p>
+      <p id="DIEREG0031">Qui me scribebat Dietricus nomen habebat.</p>
+    </body>
+  </text>
+</TEI>

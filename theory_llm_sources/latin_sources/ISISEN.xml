@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Sententiae de musica</title>
+        <title type="abbrev">ISISEN</title>
+        <author>Isidorus Hispalensis</author>
+        <date notBefore="500" notAfter="799">6th-8th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Stephen E. Hayes</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Peter M. Lefferts</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1992</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>Scriptores ecclesiastici de musica sacra potissimum</emph>, 3 vols., ed. Martin Gerbert (St. Blaise: Typis San-Blasianis, 1784; reprint ed., Hildesheim: Olms, 1963), 1:20–25.
+</bibl>
+        <bibl type="work">
+          
+<title>Isidorus Hispalensis: Etymologiarum libri XX</title>
+          
+<idno type="LML">ISID. etym.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">A-Wn Cod. 50, 47v-48v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">A-Wn Cod. 1609, 4 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">A-Wn Cod. 2503, 32-37 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">A-Z Cod. Zwetl. 355, 122v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Br 2750/65, 63-67v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Br 10078/95, 44 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">CH-BEb 36, 1-139 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">CH-E 358, 143-144 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">CH-SGs 397, 147 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">CH-SGs 899, 108 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">CH-Zz C. 78, 118r-v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">CZ-Pak M. CII/1 (1461), 58-59v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">CZ-Pu XIX. C. 26, 38r-v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-B Diez B. Sant. 664, 336-343 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-BAs Varia 1, 61v-63 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 14523, 50v-51 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 19489, 38-49 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-TRb Hs. Abt. 95, 6, 93v-95 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">E-Bac Ripoll 42, 71 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">E-Boc 78 Mis, 10v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">E-Mn 9088, 1v-3v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 7211, 151 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 7369, 75v-79v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 16662, 67v-70v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-VAL 384, 1-4v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Lbl Egerton 630, 224v-225v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Lbl Harley 3151, 27-29v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ob Bodley 613, 33-35v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Obac 173A, 76v-79 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fl Ashburnham 1051, 147-150v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fl Plut. XXIX. 48, 56-58 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fn Conv. Soppr. F. III. 565, 76v, 77v-81, 92v, 99v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fr 652, 103r-v, 110v-111, 83r-v, 87-91 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-MC 318, 69 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-MOe a.F.9.9, 2v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Nn V.A.14, 120-122v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-PESo 1336, 46-48v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rv B 81, 86v-87 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat Barb. lat. 307, 27rb-29rb (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat Reg. lat. 1315, 81-88 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Tn R 454, (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-VEcap 208, 1-2 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">NL-Lu B.P.L. 194, 42-43v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">PL-Kj 1861, 2v-6 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">US-Cn Case Ms. f. 9, 63v-65 (Extraits)</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ISISEN0001">
+      <pb n="[20]" />Sententiae Isidori Episcopi ad Braulionem Episcopum de musica.</p>
+      <p id="ISISEN0002">Caput I.</p>
+      <p id="ISISEN0003">De nomine musicae.</p>
+      <p id="ISISEN0004">Musica est peritia modulationis sono cantuque consistens, et dicta Musica per derivationem a Musis. Musae autem appellatae apo tu muson, id est, a quaerendo, quod per eas, sicut antiqui voluerunt, vis carminum et vocis modulatio quaereretur. Quarum sonus, quia sensibilis res est, praeterfluit inter praeteritum tempus, imprimiturque memoriae. Inde a Poetis Iovis et Memoriae filias Musas esse confictum est. Nisi enim ab homine memoria teneantur, soni pereunt, quia scribi non possunt.</p>
+      <p id="ISISEN0005">Caput II.</p>
+      <p id="ISISEN0006">De inventoribus musicae.</p>
+      <p id="ISISEN0007">Moyses dicit, repertorem musicae artis fuisse Tubal, qui fuit de stirpe Cain ante diluvium. Graeci vero Pythagoram dicunt huius artis invenisse primordia ex malleorum sonitu, et chordarum extensione percussa. Alii Linum Thebaeum, et Zethum et Amphion in musica arte primos claruisse ferunt. Post quos paulatim directa est praecipue haec disciplina, et aucta multis modis, eratque tam turpe musicam nescire, quam litteras. Interponebatur autem non modo sacris, sed et omnibus solemniis, omnibusque laetis et tristibus rebus. Ut enim in veneratione divina hymni, ita in nuptiis hymenaei, et in funeribus threni, et lamenta ad tibias canebantur. In conviviis vero lyra vel cythara circumferebatur, et accubantibus singulis ordinabatur convivale genus canticorum.</p>
+      <p id="ISISEN0008">Caput III.</p>
+      <p id="ISISEN0009">Quid possit musica.</p>
+      <p id="ISISEN0010">Itaque sine Musica nulla disciplina potest esse perfecta; nihil enim est sine illa. Nam et ipse mundus quadam harmonia sonorum fertur esse compositus, et coelum ipsum sub harmoniae modulatione revolvitur. Musica movet affectus, provocat in diversum habitum sensus. In praeliis quoque tubae concentus pugnantes accendit, et quanto vehementior fuerit clangor, tanto fit ad certamen animus fortior. Siquidem et remiges cantus hortatur ad tolerandos quoque labores. Musica animum mulcet, et singulorum operum fatigationem modulatio vocis consolatur. Excitatos quoque animos musica sedat, sicut de David legitur, quia a spiritu immundo Saulem arte modulationis eripuit. Ipsas quoque bestias, nec non et serpentes, volucres atque delphinos ad auditum suae modulationis Musica provocat. Sed et quicquid loquimur, vel intrinsecus venarum impulsu (pulsibus) commovemur, 
+      <pb n="[21]" />per musicos rhythmos harmoniae virtutibus probatur esse sociatum.</p>
+      <p id="ISISEN0011">Caput IV.</p>
+      <p id="ISISEN0012">De tribus partibus musicae.</p>
+      <p id="ISISEN0013">Musicae partes sunt tres, id est, harmonica, rhythmica, metrica. Harmonica est, quae discernit in sonis acutum et gravem. Rhythmica est, quae incursionem verborum, utrum bene sonus an male cohaereat. Metrica est, quae mensuram diversorum metrorum probabili ratione cognoscit, ut verbi gratia heroicon, iambicon vel elegiacon, et caetera.</p>
+      <p id="ISISEN0014">Caput V.</p>
+      <p id="ISISEN0015">De triformi musicae divisione.</p>
+      <p id="ISISEN0016">Ad omnem autem sonum, qui materies cantilenarum est, triformem constat esse naturam. Prima est harmonica, quae ex vocum cantibus constat. Secunda organica, quae ex flatu consistit. Tertia rhythmica, quae impulsu digitorum numeros recipit. Nam aut voce editur sonus, sicut per fauces; aut flatu, sicut per tubam, vel tibiam; aut impulsu, sicut per cytharam, aut per quodlibet aliud, quod percutiendo canorum (sonorum) est.</p>
+      <p id="ISISEN0017">Caput VI.</p>
+      <p id="ISISEN0018">De prima divisione musicae, quae harmonica dicitur.</p>
+      <p id="ISISEN0019">Prima divisio Musicae, quae harmonica dicitur, id est, modulatio vocis, pertinet ad comoedos et tragoedos, vel choros, vel ad omnes, qui voce propria canunt. Haec ex animo et corpore motum facit, et ex motu sonum. Ex quo colligitur musica, quae in homine vox appellatur. Vox est aer spiritu verberatus, unde et verba sunt nuncupata. Proprie autem vox est hominum, vel irrationabilium animalium. Nam in aliis abusive non proprie sonitus vox vocatur, ut: vox tubae infremuit; fractasque ad litora voces. Nam proprium est, ut litorei sonent scopuli, et ad tubam terribilem sonitum procul aere canoro. Harmonica est modulatio vocis, et concordantia plurimorum sonorum, et coaptatio. Symphonia est modulationis temperamentum ex gravi et acuto concordantibus sonis sive in voce sive in flatu sive in pulsu. [Per hanc quippe voces acutiores gravioresque concordant, ita ut quisquis ab ea dissonuerit, sensum auditoris offendat. Cuius contraria est Diaphonia, id est, voces discrepantes vel dissonae.]</p>
+      <p id="ISISEN0020">Euphonia est suavitas vocis: haec et melos a suavitate et melle dicta. Diastema est vocis spatium ex duobus vel pluribus sonis aptatum. Diesis sunt spatia quaedam et deductiones modulandi, atque vergentes de uno in alterum sonum. Tonus est acuta enunciatio vocis. Est enim harmoniae differentia et quantitas, quae in vocis accentu et (vel) tenore consistit, cuius genera in XV. partibus musicae (musici) diviserunt, ex quibus hyperlydius novissimus et acutissimus, hypodorius omnium gravissimus est. Cantus est inflexio vocis. Nam sonus directus est, praecedit autem sonus cantum. Arsis est vocis elevatio, hoc est, initium. 
+      <pb n="[22]" />Thesis vocis positio, hoc est, finis. Suaves voces sunt subtiles, spissae et clarae atque acutae.</p>
+      <p id="ISISEN0021">Perspicuae voces sunt, quae longius protrahuntur, ita ut omnem impleant continuo locum sicut clangor tubarum. Subtiles voces sunt, quibus non est spiritus, qualis est infantium vel mulierum et aegrotantium, sicut in nervis. Quae enim subtilissimae chordae sunt, subtiles ac tenues sonos (voces) emittunt. Pingues sunt voces, quando spiritus simul multus egreditur, sicut virorum.</p>
+      <p id="ISISEN0022">Acuta vox est tenuis alta, sicut in chordis videmus. Dura vox, quae violenter emittit sonum sicut tonitruum, sicut incudis sonus, quotiens in durum malleus percutitur ferrum. Aspera vox est rauca, quae dispergitur per minutos et indissimiles pulsus. Caeca vox est, quae, ut emissa fuerit, conticescit, atque suffocata nequaquam longius producitur, sicut est in fictilibus. Vinnola (vinnolata) est vox lenis (levis) vox mollis atque flexibilis, et vinnola dicta a vinno, id est, cincinno (concinno) molliter flexo. Perfecta autem vox est alta suavis et clara: alta, ut in sublimi sufficiat; clara, ut aures adimpleat; suavis, ut animos audientium blandiat. Si ex his aliquid defuerit, vox perfecta non est.</p>
+      <p id="ISISEN0023">Caput VII.</p>
+      <p id="ISISEN0024">De secunda divisione musicae, quae organica dicitur.</p>
+      <p id="ISISEN0025">Secunda divisio est organica, in his, quae spiritu reflante completa in sonum vocis animantur; ut sunt tubae, calami, fistulae, organa, pandora, (pandoria) et his similia instrumenta. Organum vocabulum est generale omnium musicorum vasorum. Hoc autem, cui folles adhibentur, alio nomine Graeci adpellant. Ut autem organum dicatur, magis ea (vulgaris) est Graecorum consuetudo.</p>
+      <p id="ISISEN0026">Tuba primum a Tyrrhenis inventa, de quibus Virgilius: Tyrrhenusque tubae mugire per aethera clangor. Adhibebatur autem non solum in praeliis, sed et in omnibus festis diebus propter laudes vel gaudii claritatem. Unde et in psalmo dicitur: Canite in initio mensis tuba, et in die insigni solemnitatis vestrae; praeceptum enim fuerat Iudaeis, ut initio novae lunae tuba clangerent, quod etiam adhuc usque (hucusque) faciunt. Tibias excogitatas in Phrygia ferunt. Has diu quidem funeribus tantum adhibitas, mox et sacris gentilium. Tibias autem adpellatas quidam (omissit) putant, quod primum de cervinis cruribusque hinnulorum fuerint, (tibiis cruri fierent) deinde per abusionem ita ceperunt vocare et eas, quae non ex crurium ossibus (ceptas vocari etiam, quae non de cruribus ossibusque) essent. Hinc et tibicen quasi tibiae cantus. Calamus nomen est proprium arboris, a calendo et fundendo voces vocatur. Fistulam quidam a Mercurio putant inventam, alii a Fauno, quem Graeci Pan vocant, nonnulli eam ab uno (Idi) pastore Agrigentino ex Sicilia. Fistula autem dicta, quod vocem emittat. Nam fos graece (graece phos) vox, stolia missa latine adpellatur. Sambuca in musicis species est symphoniarum, est enim genus ligni fragilis, unde et tibiae componuntur. 
+      <pb n="[23]" />Pandorius ab inventore vocatus, de quo Virgilius: Pan primus calamos cera coniungere plures instituit. Pan curat oves oviumque magistros.</p>
+      <p id="ISISEN0027">Fuit enim apud gentiles Deus pastoralis, qui primus dispares calamos ad cantum aptavit, et studiosa arte composuit.</p>
+      <p id="ISISEN0028">Caput VIII.</p>
+      <p id="ISISEN0029">De tertia divisione musicae, quae rhythmica dicitur.</p>
+      <p id="ISISEN0030">Tertia est divisio rhythmica, pertinens ad nervos et pulsus, cui dantur species cythararum diversarum. Tympanum quoque, cymbalum, sistrum, acitabula aenea et argentea, vel alia, quae metallico rigore repercussa (percussa) reddunt cum suavitate tinnitum, et caetera huiusmodi. Cytharae ac psalterii repertor Thubal, ut praedictum est, perhibetur. Iuxta opinionem autem Graecorum cytharae usus repertus fuisse ab Apolline creditur. Forma cytharae initio similis fuisse traditur pectori humano, quod veluti vox a pectore, ita ex ipsa cantus ederetur, adpellatamque (adpellataque) eadem de causa: nam pectus dorica lingua cytharam vocari (cythara vocatur). Paullatim autem plures eius species exstiterunt, ut psalteria, lyrae, barbitae fenices et pectices, (phenices et pectides) et quae dicuntur Indicae, et feriuntur a duobus simul. Item aliae atque aliae et quadrata forma vel trigonali chordarum, et ita numerus multiplicatus est et commutatum genus. Veteres autem cytharam fidiculam et fidicen nominaverunt, quia tam inter se concinunt chordae eius, quam bene conveniant, inter quos fides sit. Antiqua autem cythara VII. (septem) chordis erat, unde et Virgilius: VII. discrimina vocum. Discrimina autem ideo, quia nulla chorda vicinae chordae similem sonum reddebat. Sed ideo VII. chordae, quia totam vocem implent, vel quia septem motibus sonat coelum. Chorda autem dicta a corde, quia sicut pulsus est cordis in pectore, ita pulsus chordae in cythara. Has primus Mercurius excogitavit. Idemque prior in nervos sonum strinxit.</p>
+      <p id="ISISEN0031">Psalterium, quod vulgo canticum dicitur, a psallendo nominatur, quod ad eius vocem chorus consonando respondeat. Est autem similitudo cytharae barbaricae in modum Deltae literae: sed psalterii et cytharae haec differentia est, quod psalterium lignum illud concavum, unde sonus redditur, superius habet, et deorsum feriuntur chordae, et desuper sonant, Cythara vero concavitatem ligni inferius habet. Psalterio autem Hebraei 
+      <pb n="[24]" />decachordo usi sunt propter numerum decalogum legis.</p>
+      <p id="ISISEN0032">Lira dicta apo to lirin, (apo tu lirin) id est, a varietate vocum, quod diversos sonos efficiat. Lira primum inventa a Mercurio dicitur hoc modo. Cum regrediens Nilus in suos meatus varia in campis reliquisset animalia, relicta etiam testudo est, quae cum putrefacta esset, et nervi eius remansissent extenti inter corium, percussa a Mercurio sonum dedit. Ad cuius speciem Mercurius liram fecit, et Orpheo tradidit, qui huius rei maxime erat studiosus. Unde et aestimatur eadem arte non tantum feras, sed et saxa atque silvas cantus modulatione adplicuisse. Hanc musici propter studii amorem et carminis laudem etiam inter sidera suarum fabularum commentis collocatam esse finxerunt.</p>
+      <p id="ISISEN0033">Tympanum est pellis vel corium ligno ex una parte extensum; est enim pars media symphoniae in similitudinem cribri. Tympanum autem dicitur, quod medium est, unde et margaretum (margaritum) medium tympanum dicitur, et ipsum ut symphonia ad virgulam percutitur. Cymbala et acitabula quaedam sunt, quae percussa invicem se tangunt, et faciunt sonum. Dicta autem cymbala, quia cum ballematia (ballematica) simul percutiuntur. Ita enim Graeci dicunt cymba ballematia (ballematica).</p>
+      <p id="ISISEN0034">Sistrum ab inventrice vocatum. Isis enim regina AEgyptiorum id genus invenisse probatur. Iuvenalis:</p>
+      <p id="ISISEN0035">Isis et irato feriat mea limina sistro.</p>
+      <p id="ISISEN0036">Unde et hoc mulieres percutiunt, quia inventrix huius generis mulier exstitit. Unde et apud Amazonas sistro ad bellum feminarum exercitus vocabatur.</p>
+      <p id="ISISEN0037">Tintinabulum de sono vocis nomen accepit, sicut et plausus manuum, stridor valvarum. Symphonia vulgo adpellatur lignum cavum ex utraque parte pelle extenta (extensa) quam virgulis hinc et inde musice feriunt, fitque in ea ex concordia gravis et acuti suavissimus cantus.</p>
+      <p id="ISISEN0038">Caput IX.</p>
+      <p id="ISISEN0039">De musicis numeris.</p>
+      <p id="ISISEN0040">Numeros autem secundum musicam ita quaeris. Positis extremis, ut puta VI. et decies dipondius, vides quod a monadibus superest (quod monadibus superetur) sex ac II. et sex monadibus ductis per quadratum, sexies seni faciunt XXXVI. Coniunges extrema illa prima VI. ad XII. simul efficiunt decem et octo. Partiris tricies sexies per decem octo, efficit dipondius: hos iunge cum summa minore, id est sexies, erunt octo, et erit medium inter sexies et XII. Quapropter octo superant sex (sexies) duabus monadibus, id est tertia de sexis et superantur octo a duodecim quatuor monadibus tertia portione. Qua parte superat, eadem superatur. Sed haec ratio quemadmodum in mundo est ex volubilitate circulorum, ita et in microcosmo in tantum praeter vocem valet, ut sine ipsius perfectione etiam homo symphoniis carens non constet. Eiusdem musicae perfectiones et metra consistunt in arsi et thesi, id est, in elevatione et positione.</p>
+      <p id="ISISEN0041">
+      <pb n="[25]" />Hoc excerptum est de Rhythmimachia.</p>
+      <p id="ISISEN0042">Sunt numeri, qui consonantias creant, vel per quos ipsae discernuntur; consonantiae tantum VI. id est, epitritus, hemiolius, duplaris, triplaris, quadruplaris et epogdous. Est autem epitritus, cum de duobus numeris maior habet totum minorem, et insuper eius tertiam partem, ut sunt IIII. ad III. nam in quatuor sunt tres, et trium tertia pars, id est, unitas. De his nascitur symphonia, quae in musica adpellatur diatessaron.</p>
+      <p id="ISISEN0043">Hemiolius est, cum de duobus numeris maior habet minorem, et insuper eius medietatem, ut sunt tres ad duo. Nam in tribus sunt duo, et media pars duorum, id est, unum. Adpellatur hic numerus in arithmetica sesquialter, sed Diapente symphonia vocatur in musica.</p>
+      <p id="ISISEN0044">Duplaris numerus est, cum duobus numeris minor in maiorem bis nominatur, ut sunt IIII. in II. Ex hoc duplari nascitur symphonia, cui nomen est Diapason.</p>
+      <p id="ISISEN0045">Triplaris autem est, cum de duobus numeris minor ter in maiorem numeratur, ut sunt III. ad unum. Ex hoc triplari nascitur symphonia, quae dicitur Diapason et Diapente.</p>
+      <p id="ISISEN0046">Quadruplaris vero numerus est, cum de duobus numeris minor in maiorem quater numeratur, ut sunt quatuor ad unum: qui numerus facit symphoniam, quae dicitur Bis Diapason.</p>
+      <p id="ISISEN0047">Ogdous numerus est, qui intus se habet numerum minorem, et eius octavam partem, ut sunt novem ad octo; quia in novenario sunt octo, et insuper etiam octava pars, id est, unitas, qui numerus facit tonum. Sonum vero tonum minorem, quem veteres semitonium vocabant. Sed non ita accipiendum est, ut dimidius tonus computetur, quia nec semivocalem in litteris pro medietate vocalis accipimus. Demum tonus per naturam sui in duo aeque dividi non poterit. Cum enim ex novenario numero constet, novem a IV. numquam aequaliter dividuntur, tonus in duas dividi medietates recusat. Sed semitonium vocaverunt sonum a tono minorem, quem tam parvo distare comprehensum est, quantum hi numeri inter se distant, id est, CCLIII. et CCLVI. Hoc semitonium Pythagorici quidem veteres diesim nominabant, subsequens sonum se minorem diesi constituit nominandum. Plato semitonium lima vocitavit.</p>
+      <p id="ISISEN0048">Hae sunt partes, in quibus omnis musica resolvitur. Sunt igitur quinque symphoniae, diapason, diatessaron, et diapente; diapason haec et diapente: bis diapason. Consistunt itaque omnes musicae consonantiae aut in duplici, aut in triplici, aut in quadrupla, aut in sesquialtera, aut in sesquitertia numerorum proportione. Quae autem vocatur in numeris sesquitertia, diatessaron in melodia; quae autem in numeris sesquialtera, diapente vocatur in vocibus. Quae dupla in numeris, diapason in consonantiis. Tripla vero diapente ac diapason, quadrupla autem bis diapason. Agnoscat autem diligens lector, quod consonantiae consonantiis superpositae alias quidem consonantias effecerunt. Nam diapente et diatessaron iunctae diapason consonantias creant.</p>
+    </body>
+  </text>
+</TEI>

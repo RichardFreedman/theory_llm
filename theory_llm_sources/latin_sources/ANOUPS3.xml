@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>[Tractatus brevis de musica mensurata]</title>
+        <title type="abbrev">ANOUPS3</title>
+        <author>Anonymous</author>
+        <date notBefore="1200" notAfter="1299">13th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Peter Slemon</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Anastasia Arapova</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Mark Butler</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>2001</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Carl Allan Moberg, "Om flerstämmig musik i Sverige under medeltiden," 
+<emph>Svensk Tidskrift för Musikforskning</emph> 10 (1928): 62-67, 82–86.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: Tractatus de musica mensurabili</title>
+          
+<idno type="LML">MENS. Notularum</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">F-Sm Ms. M. 222 C. 22, 9-11</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">S-Uu C 55, 26-27</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANOUPS30001">
+      <pb n="[82]" />[TRACTATVS BREVIS DE MVSICA MENSVRATA]</p>
+      <p id="ANOUPS30002">(E COD. VPSAL. C.55.)</p>
+      <p id="ANOUPS30003">[f. 26ro] Notularum alia longa, alia breuis, alia semibreuis, et sunt duplices uel simplices et per se uel ad inuicem ligatae. Longa simplex dicitur punctus quadratus, habens (hs.: huius) tractum a parte dextra uel ascendentem uel descendentem, ut hic (fig. Nr 88) [L,Bcsdx,L,Bcsdx]. Breuis dicitur cuius punctus caret omni tractu, ut hic (fig. Nr 89) [B,B,B,B,B,B]. Semibreuis sic formatur (fig. Nr 90) [S,S,S].</p>
+      <p id="ANOUPS30004">Longarum alia perfecta, alia imperfecta, alia plus quam perfecta. Perfecta ualet tria tempora, imperfecta ualet duo. Plus quam perfecta uocatur duplex longa et ualet sex tempora et formatur sic (fig. Nr 91) [MX,MXcsdx].</p>
+      <p id="ANOUPS30005">
+      <pb n="[83]" />Breuium alia recta breuis, alia altera breuis dicitur. Omnis breuis diuiditur rectae breues, nisi quando duas breues ponuntur inter duas longas, ut hic (fig. Nr 92) [L,B,B,L,B,B,L,B,B,L,B,B,L], uel solummodo cum longam sic (fig. Nr 93) [B,B,L]. Tunc uero ultima breuis altera breuis dicitur et ualet duo tempora, nisi inter praedictas breues ponatur paruus punctus diuidens modum; tunc ambae sunt rectae breues, ut hic (fig. Nr 94) [L,B; B,L,B,L].</p>
+      <p id="ANOUPS30006">Semibreuium alia minor, alia maior. Minor ualet tertiam partem unius temporis, maior uero duas [partes], quia sicuti iii (= tres) rectae breues faciunt perfectionem, ita tres semibreues faciunt breuem qualiter. Si duae semibreues pro uno tempore ponuntur, prima fit minor, secunda maior, ut hic (fig. Nr 95) [staff4], nisi secunda discordet, tunc causa concordantiae quandocumque fit aequo, ut hic (fig. Nr 96) [staff4]. Si uero tres pro uno tempore ponantur, omnes sunt aequales, ut hic (fig. Nr 97) [staff4]; si autem plures quam tres, semibreuis minor debet diuidi et mensurari ad modum breuis.</p>
+      <p id="ANOUPS30007">Plica simplex (!) dicitur nota, habens tractum ex utraque parte, ut hic (fig. Nr 98) [Bpdsnpddx,Bpssnpsdx,Bpdsnpddx,Bpssnpsdx(!)], praeter semibreuem, quae solo tractu plicatur, ut hic (fig. Nr 99) [Scddxosn,Scddxosn,Scddxosn,Scsdxosn,Scsdxosn,Scsdxosn]. Longa dicitur, cuius tractus dexter est longior sinistro, ut hic (fig. Nr 100) [Bpssncsdx,Bpssncsdx,Bpdsncddx]; breuis autem aequo, ut hic (fig. Nr 101) [Bcssnpsdx,Bcdsnpddx]. Supra fit ligatura ascendendo, ut hic (fig. Nr 102) [Lig2art,Lig3aa,Lig2cdsnoa,Lig3aart,Lig4aodart]; descendendo uero, ut patet hic (fig. Nr 103) [Lig2cdsnod,Lig3dd,Lig2d,Lig3pssncsdxdod]. Ligatura ascendens, cuius prima [nota] caret omni tractu, cum proprietate dicitur, ut hic (fig. Nr 104) [Lig2art,Lig3aa,Lig3aart,Lig4aodart,Lig3ad]; cuius prima habet tractum ascendentem sine proprietate dicitur, ut hic patet (fig. Nr 105) [Lig3cdsnaart,Lig3cdsnaa,Lig4cdsnaodart,Lig4cdsnaaart]. [f. 25vo] Ligatura descendens, cuius prima tractum descendentem [habet] cum proprietate dicitur, ut hic (fig. Nr 106) [Lig2cdsndMX,Lig2cdsnd,Lig3cdsndd,Lig4cdsndoda,Lig2cdsnod]; cuius prima caret omni tractu sine proprietate dicitur, ut hic (fig. Nr 107) [Lig2od,Lig2d,Lig3dod,Lig4ddd]. Quaelibet ligatura, cuius prima habet tractum a parte sinistra ascendentem, cum opposita proprietate dicitur, ut hic (fig. Nr 108) [Lig3cssndod,Lig2cssna,Lig2cssnod,Lig3cssnaa,Lig4cssnddod]. Cuiuslibet ligaturae cum proprietate [est] prima breuis, sine proprietate prima longa, cum opposita proprietate duae semibreues. Omnes mediae breues, nisi per oppositam proprietatem [semi]breuientur, ut dictum est (fig. Nr 109) [Lig3cssndod,Lig5cssnacsdxadod]. Vltima ligaturis ascendenti[bu]s, recta sita supra penultimam, dicitur longa, nec debet plicari, ut patet hic (fig. Nr 110) [Lig2art,Lig3aart,Lig4aodart,Lig4dodart]; oblonga (hs.: o--am) uero sita dicitur breuis, ut patet hic (fig. Nr 111) [Lig2a,Lig4aaa]. 
+      <pb n="[84]" />Si plicatur tunc dicitur longa, ut hic (fig. Nr 112) [Lig2acsdx,Lig4csdxdodacsdx,Lig4cdsndodart]. Vltima ligaturis desendentis quadrata dicitur longa [cum perfectione], ut hic (fig. Nr 113) [Lig2cdsnd,Lig4cssndddcddx,Lig4odad,Lig5odadd], et potest sic plicari (fig. Nr 114) [Lig2d(!),Lig3cdsndd,Lig4csdxaddcsdx,Lig2cdsnd]. Si uero duae ultimae fiant in uno corpore, in una qualicumque 
+      <pb n="[85]" />ligatura ultima dicitur breuis, ut hic (fig. Nr 115) [Lig3cdsndod,Lig3aoa,Lig3aod,Lig4cssnddod]. Plicatur autem in hunc modum (fig. Nr 116) [Lig3aoa,Lig3aoa,Lig4cdsnoadodcsdx,Lig3dod].</p>
+      <p id="ANOUPS30008">Paruus (hs.: primus) punctus, [quem] longae apponimus, dicitur 'signum perfectionis', ut hic (fig. Nr 117, [* * *]) [L,B,B,L; B,L,B; B,B,B,L]; comparando autem ad notulas sequentes dicitur 'diuisio modi'; ponimus autem inter semibreues, dicitur 'distinctio', quasi sic (fig. Nr 118) [S,S; S,S; S,S,S; S,S,S,S; S,S,S; S,S,S,S,S,S].</p>
+      <p id="ANOUPS30009">Praepositus autem notulae dicitur 'acceptio syllabarum', ut hic (fig. Nr 119).</p>
+      <p id="ANOUPS30010">[STM10:85; text: Alleluyaa.] 
+      <figure>
+        <graphic url="/images/ANOUPS3_01GF.gif" />
+      </figure></p>
+      <p id="ANOUPS30011">Pausa dicitur quidam tractus inter notulas, per se positus signum uocis omissionis (hs.: o--em). Et sciendum, quod pausa debet ualeri tot tempora, quot continet spatia partis, [excepta] illa (hs.: illam), quae continet omnes lineas, quae immensurabilis dicitur. Exemplum temporale de omnibus (fig. Nr 120).</p>
+      <p id="ANOUPS30012">[STM10:85]</p>
+      <p id="ANOUPS30013">Sciendum uero, quod eodem modo perficiunt et imperficiunt pausae et notulae, et idem est quantum ad modum et perfectiones, quacumque sunt modi mensurandi.</p>
+      <p id="ANOUPS30014">
+      <pb n="[86]" />Primus est ex longa et breui, ut hic (fig. Nr 121),</p>
+      <p id="ANOUPS30015">[STM10:85]</p>
+      <p id="ANOUPS30016">secundus ex breui et longa, ut hic (fig. Nr 122),</p>
+      <p id="ANOUPS30017">[STM10:85]</p>
+      <p id="ANOUPS30018">tertius ex longa et duabus breuibus, ut hic (fig. Nr 123)</p>
+      <p id="ANOUPS30019">[STM10:85]</p>
+      <p id="ANOUPS30020">[f. 27ro], quartus ex duabus breuibus et longa, ut hic (fig. Nr 124),</p>
+      <p id="ANOUPS30021">[STM10:85]</p>
+      <p id="ANOUPS30022">quintus ex omnibus breuibus uel semibreuibus, ut patet hic (fig. Nr 125).</p>
+      <p id="ANOUPS30023">[STM10:85]</p>
+      <p id="ANOUPS30024">Sciendum [est], quod longa cum longam semper est perfecta. Praeterea in primo modo et secundo omnes longae sunt imperfectae, in tertio et in quarto omnes longae sunt perfectae. Et per haec sufficiunt regulae tam simplicium [figurarum] quam ligaturarum. [Explicit.]</p>
+    </body>
+  </text>
+</TEI>

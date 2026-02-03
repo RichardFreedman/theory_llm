@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Discantus positio vulgaris</title>
+        <title type="abbrev">DISPOS</title>
+        <author>Anonymous</author>
+        <date notBefore="1200" notAfter="1299">13th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Bradley Jon Tucker</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Jan Herlinger</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1991</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>Scriptorum de musica medii aevi nova series a Gerbertina altera</emph>, 4 vols., ed. Edmond de Coussemaker (Paris: Durand, 1864-76; reprint ed., Hildesheim: Olms, 1963), 1:94–97.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: Discantus positio vulgaris</title>
+          
+<idno type="LML">DISC. POS. VULG.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 16663, 64v-66v</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="DISPOS0001">
+      <pb n="[94]" />Discantus positio vulgaris.</p>
+      <p id="DISPOS0002">Viso igitur quid sit discantus, quedam precognitiones sunt vidende. Est autem discantus diversus consonus cantus. Scire etiam opportet quid sit sonus, et quot sint soni; quid mensurabile, et quid ultra mensuram; quid ligatura et quomodo habeat proferri; quid consonantia, et quid dissonantia.</p>
+      <p id="DISPOS0003">Sonus est duarum vocum vel plurium in eodem puncto vel in diversis conjunctio. Soni sunt IX, scilicet unisonus, semitonium, tonus etc.</p>
+      <p id="DISPOS0004">Mensurabile est quod mensura unius temporis, vel plurium mensuratur. Ultra mensuram sunt que minus quam uno tempore et amplius quam duobus mensurantur; ut semibreves que sic figurantur: [S,S,S on staff2], et longa quam longa subsequitur; habet enim tria tempora, ut hic [L,L,L on staff2].</p>
+      <p id="DISPOS0005">Ligatura est plurium notarum invicem conjunctarum ligatio, que quidem in unisono fieri non debet. Ligantur enim voces duo et duo, tres et quatuor, de quibus talis datur regula.</p>
+      <p id="DISPOS0006">Quecunque due note ligantur in discantu, prima est brevis, secunda longa, nisi prima grossior sit secunda, ut hic : [Lig2MXart].</p>
+      <p id="DISPOS0007">
+      <pb n="[95]" />Quando autem tres , si pausa precedit, prima est longa, secunda brevis, tertia longa. Si nota longa precedit, prime due sunt breves, tertia longa; quam si nota longa sequitur , tertia erit longior longa; si vero quatuor ligata fuerint, omnes sunt breves.</p>
+      <p id="DISPOS0008">Quod si plures quam quatuor fuerint, tunc quasi regulis non subjacent; sed ad placitum proferuntur, que etiam ad organum et conductum pertinent singulariter.</p>
+      <p id="DISPOS0009">Item consonantia est diversarum vocum in eodem sono, vel in pluribus concordia.</p>
+      <p id="DISPOS0010">Inter concordantias autem tres sunt ceteris meliores, scilicet unisonus, diapente et diapason. Ceteri vero modi magis sunt dissonantie quam consonantie; tamen secundum magis et minus, unde major videtur dissonantia in tono, quam in aliquo alio modo.</p>
+      <p id="DISPOS0011">Propterea notandum quod omnes note plane musice sunt longe et ultra mensuram, eo quod mensuram trium temporum continent.</p>
+      <p id="DISPOS0012">Omnes autem note discantus sunt mensurabiles per directam brevem et directam longam; unde sequitur quod super quamlibet notam firmi cantus ad minus due note, longa scilicet et brevis, vel aliquid his equipollens,ut quatuor breves,vel tres cum plica brevi, proferri debent; que etiam convenire debent in aliqua dictarum trium consonantiarum.</p>
+      <p id="DISPOS0013">Sic autem ascendere et descendere debet discantus. Omnis enim cantus ascendit vel descendit per aliquem dictorum IX modorum, vel facit unisonum.</p>
+      <p id="DISPOS0014">Sciendum infra quod omnes note impares, he que consonant, melius consonant, que vero dissonant, minus dissonant, quam pares. Unde si ascendat vel descendat de quinta in unisonum, per tertiam debet ascendere vel descendere; verbi gratia: si firmus cantus habeat duas notas unisonas in quacunque clavi, puta in F gravi, et discantus cum prima illarum sit in quinta, puta in c acuto, velitque descendere in unisonum cum secunda, per tertiam, id est, per c acutum, debet descendere et e converso ascendere.</p>
+      <p id="DISPOS0015">Si vero super easdem duas notas unisonas de diapason descendat in diapente, puta de f acuto in c acutum, per tertiam a diapente, id est per e acutum, debet descendere, et e converso de diapente in diapason.</p>
+      <p id="DISPOS0016">Item si firmus cantus ascendat per semitonium, puta de E gravi in F grave, et discantus sit in diapason, puta in e acuto, descendat in ditonum, scilicet in c, per secundam, scilicet in d, a dupla, et habebit diapente.</p>
+      <p id="DISPOS0017">Si autem e converso descendat in firmo cantu per semitonium, et discantus sit in diapente, e converso in ditonum debet ascendere, ut habeat diapason.</p>
+      <p id="DISPOS0018">Item si ascendat per tonum, puta de C in D, et discantus sit in diapason, in semiditonum per secundam debet descendere, et habet diapente, et e converso discantus, exeuns in diapente, ascendat semiditonum, ut habeat diapason, si cantus per tonum descendat.</p>
+      <p id="DISPOS0019">Item si ascendat per semiditonum, tunc per tonum descendat; et converso, si per semiditonum cantus descendat.</p>
+      <p id="DISPOS0020">Item si ascendat per semiditonum, tunc per tonum descendat, et converso, si per semiditonum cantus descendat.</p>
+      <p id="DISPOS0021">Item si ascendat per ditonum, descendat per semitonium; si descendat, e converso ascendat.</p>
+      <p id="DISPOS0022">Item, si ascendat cantus per diatessaron, stet 
+      <pb n="[96]" />discantus in eadem; et eodem modo si descendat.</p>
+      <p id="DISPOS0023">Item si firmus cantus ascendit in diapente, discantu exeunte in diapason, ascendat et ipse discantus tonum vel descendat diapason. Si vero descendat, tunc e converso ascendat.</p>
+      <p id="DISPOS0024">Item si per semitonium cum diapente ascendat, tunc et ipse in semiditonum per secundam ascendit, vel duplex diatessaron descendat. Si vero descendat, tunc e converso descendat quantum ad semiditonum, et ascendat quantum ad duplex diatassaron.</p>
+      <p id="DISPOS0025">Item si ascendat per tonum cum diapente, tunc et ipse ascendat per secundam in ditonum, vel duplex diatessaron descendat. Si vero descendat, tunc e converso descendat quantum ad ditonum, et ascendat quantum ad duplex diatessaron.</p>
+      <p id="DISPOS0026">Item si ascendat per duplex diatessaron, tunc descendat per tonum cum diapente; et e converso ascendat, si descendat.</p>
+      <p id="DISPOS0027">Item si ascendat per diapason, tunc discantus in diapente descendat, et e converso ascendat, si cantus descendat.</p>
+      <p id="DISPOS0028">Quibus visis et memorie commendatis totam discantandi artem habere poterit, arte usui applicata.</p>
+      <p id="DISPOS0029">Discantuum vero alius pure discantus, alius organum, quod est duplex scilicet organum duplex, (sic) et quod pure organum dicitur</p>
+      <p id="DISPOS0030">Item alius conductus, alius mothetus, et alius est ochetus. Discantus ipse est idem in pausis, sed diversus in notis, consonus cantus sicut cum aliquis cantus ecclesiasticus in quinta, octava et duodecima discantatur.</p>
+      <p id="DISPOS0031">Duplex organum est idem in pausis, non autem in notis, eo quod ducte longe sunt in tenore. In discantu vero duplex, et a primo diversus consonus cantus.</p>
+      <p id="DISPOS0032">Pure organum est, quando cuilibet note de plano cantu ultra mensuram existenti correspondent de discantu due note, longa scilicet et brevis, vel his aliquid equipollens, ut superius est ostensum.</p>
+      <p id="DISPOS0033">Conductus autem est super unam metrum multiplex consonans cantus, qui etiam secundarias recipit consonantias.</p>
+      <p id="DISPOS0034">Motetus vero est super determinatas notas firmi cantus mensuratas, sive ultra mensuram, diversus in notis, diversus in pausis, multiplex consonans cantus.</p>
+      <p id="DISPOS0035">Cujus quidem modi sunt VI.</p>
+      <p id="DISPOS0036">Primus scilicet constans ex una longa et alia brevi. Secundus scilicet ex una brevi et alia longa. Tertius ex una longa et duabus brevibus. Quartus ex duabus brevibus et una longa. Quintus ex omnibus longis. Sextus autem ex omnibus brevibus et semibrevibus.</p>
+      <p id="DISPOS0037">De quibus in comparatione ad tenores tales dantur regule. Et primo de primo modo; cujus quidem tenora aliquando concordat cum moteto in notis, sicut hic: Virgo decus castitatis. Et tunc semper nota longa de motheto note longe correspondet de tenore, et brevis brevi, et e converso. Pausa vero utriusque valet unam brevem, nisi simul pauset uterque cum tripla; et tunc pause cantus ecclesiastici tenentur ad placitum.</p>
+      <p id="DISPOS0038">Aliquando vero tenor constat ex notis omnibus longis, sicut tenor motheti: O maria maris stella. Et tunc semper nota longa cum brevi de motheto, uni tantum note longe de tenore correspondet, et e converso. Pausa vero utriusque est longa, nisi simul cum tripla pauset uterque, et tunc sicut prius.</p>
+      <p id="DISPOS0039">Item secundi modi tenor aliquando cum moteto convenit in notis, sicut hic in parte: In omni fratre tuo sum et Gaude chorus omnium.</p>
+      <p id="DISPOS0040">Aliquando vero disconvenit constans, scilicet ex omnibus longis, et tunc semper totum primo modo fit oppositum; in pausis tamen utrisque conveniunt.</p>
+      <p id="DISPOS0041">Similiter et tercii modi tenor cum convenit cum 
+      <pb n="[97]" />moteto, sicut hic: O natio nefandi generis; tunc semper singule longe note de moteto, singulis notis de tenore, et breves brevibus correspondent.</p>
+      <p id="DISPOS0042">Cum vero tenor constat ex notis omnibus longis, sicut hic: O maria beata genetrix; tunc semper una longa nota de tenore valet aliam longam de moteto. Sequens longa de tenore, duas breves de moteto, et e converso. Quod etiam pause valere debent, nisi simul cum tripla pauset uterque, et tunc sicut et antea.</p>
+      <p id="DISPOS0043">Quartus vero modus, sive cum tenore in notis conveniat, sive non, et etiam in pausis, totum tertio tenet oppositum.</p>
+      <p id="DISPOS0044">Quintus vero et sextus modus disconvenientes, et etiam cum tenuris convenientes in pausis, et in triplis, etiam aliorum modorum qualiter concordari debeant, potest colligi ex jam dictis.</p>
+      <p id="DISPOS0045">Item ochetus est super tenorem uniuscujusque modi motetorum absque pausa diversus et consonus cantus.</p>
+      <p id="DISPOS0046">Hec est prima positio. Qua quia quedam nationes utuntur communiter, et quia antiquior est omnibus, vulgarem esse diximus; sed quoniam defectuosa est, ideo positionem que Johannis de Garlandia est, subvehimus.</p>
+    </body>
+  </text>
+</TEI>

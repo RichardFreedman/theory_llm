@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Compendium artis motectorum Marchecti</title>
+        <title type="abbrev">PAMCOM</title>
+        <author>Petrus de Amalfia</author>
+        <date notBefore="1300" notAfter="1399">14th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Peter Slemon</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Jessica Sisk</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>2003</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+F. Alberto Gallo, 
+<emph>Mensurabilis musicae tractatuli</emph>, Antiquae musicae italicae scriptores, vol. 1 (Bologna: Università degli Studi di Bologna, Istituto di Studi Musicali e Teatrali - Sez. Musicologia, 1966), 43–47. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Petrus Capuanus de Amalfia: Compendium artis motectorum Marchecti</title>
+          
+<idno type="LML">PETR. CAP.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">E-Sc 5-2-25, 116-117v</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="PAMCOM0001">
+      <pb n="[43]" />INCIPIT COMPENDIUM ARTIS MOTECTORUM MARCHECTI EDITUM A FRATRE PETRO CAPUANO DE AMALFIA</p>
+      <p id="PAMCOM0002">1 Quoniam tocius nove artis motectorum difficultas circa temporum varietatem et semibrevium figuracionem acceditur, igitur de ipsorum temporum diversitate et semibrevium figuracione cuiusdam mei amici precibus inclinatus sub brevitate dicere destinavi. Non ex me ipso aliquid novi, [sed] secundum quod Marchectus cantor egregius et istius artis rector dispendio compilavit, ego Petrus de Amalfia cantorum minimus sub compendio declarabo.</p>
+      <p id="PAMCOM0003">2 Unde sciendum est, quod tempus secundum generalem sui accepcionem est mora motus mutabilium rerum. Que quidem mora aut est longa aut est brevis, si longa aut perfecta aut inperfecta. Si perfecta et sic habemus tempus perfectum, quod constat ex duodecim minimis semibrevibus, quod alio nomine nuncupatur duodenarium. Si vero fuerit mora inperfecta habemus tempus inperfectum, quod ex octo semibrevibus minimis construitur et alio nomine nuncupatur octonarium. Si vero mora fuerit brevis et sic habemus tempus breve, quod ex quatuor minimis perficitur et aliter nuncupatur quaternarium nec non inperfectissimum.</p>
+      <p id="PAMCOM0004">3 Diviso tripliciter tempore, videndum est de figura semibrevium et valore ipsarum.</p>
+      <p id="PAMCOM0005">
+      <pb n="[44]" />Unde notandum est, quod secundum Marchectum tribus modis quelibet semibrevium figuratur: aut enim figuratur sine cauda sive tractu et tunc vocatur minor, aut cum cauda sive tractu et tunc distingue, aut cum cauda ex parte inferiori et tunc vocatur maior, aut cum cauda ex parte superiori et tunc minima nuncupatur:</p>
+      <p id="PAMCOM0006">[Scd,S,M]</p>
+      <p id="PAMCOM0007">4a Sequitur de valore ipsarum et primo de semibrevibus temporis perfecti.</p>
+      <p id="PAMCOM0008">Ubi est advertendum, quod si maior primo loco ponatur et deinde minor cum temporis divisione post se inmediate sequatur, maior valet duas partes temporis perfecti id est octo minimas, et minor terciam partem id est quatuor minimas, ut hic:</p>
+      <p id="PAMCOM0009">[Scd,S]</p>
+      <p id="PAMCOM0010">Si vero maior precedat et due minores cum divisione temporis post se inmediate sequantur, maior valet sex minimas, et prima minor duas, et ultima quatuor, et sic fiunt duodecim et perficitur tempus, ut hic:</p>
+      <p id="PAMCOM0011">[Scd,S,S,pt,Scd,S,S]</p>
+      <p id="PAMCOM0012">Si vero maior primo loco ponatur et tres minores post ipsam sequantur, prima id est maior valet dimidiam partem temporis perfecti, et relique tres minores erunt equales et valebunt alteram partem dimidiam temporis perfecti, ut hic:</p>
+      <p id="PAMCOM0013">[Scd,S,S,S,pt,Scd,S,S,S]</p>
+      <p id="PAMCOM0014">Item si due minores precedant et maior sequatur, tunc minores erunt equales et maior valebit octo minimas ut hic:</p>
+      <p id="PAMCOM0015">[S,S,Scd,pt,S,S,Scd]</p>
+      <p id="PAMCOM0016">
+      <pb n="[45]" />Si vero due maiores precedant et una minor sequatur, tunc prima maior valebit sex minimas, et secunda quatuor, et minor duas, et sic completur tempus, ut hic:</p>
+      <p id="PAMCOM0017">[Scd,Scd,S,pt,Scd,Scd,S]</p>
+      <p id="PAMCOM0018">Item ubicumque invenimus maiorem aliter quam superius sic notata, valebit quatuor minimas, ut hic:</p>
+      <p id="PAMCOM0019">[Scd,S,S,Scd]</p>
+      <p id="PAMCOM0020">4b Dicto de valore maiorum caudatarum, dicendum est de valore earundem cum non caudantur.</p>
+      <p id="PAMCOM0021">Unde sciendum est, quod si reperiantur due semibreves secundum figuras minores, secundum valorem erunt maiores et inequales, nam prima valebit terciam partem temporis id est quatuor minimas, secunda duas partes id est minimas octo; et idem est iudicium de hiis que figurantur cum opposita proprietate, ut hic:</p>
+      <p id="PAMCOM0022">[S,S,pt,S,S,pt,S,S [pt,Lig2cssnod,pt,Lig2cssna]]</p>
+      <p id="PAMCOM0023">Item [si inveniantur tres, erunt] maiores et equales: valebit omnium quelibet ipsarum quatuor minimas, ut hic:</p>
+      <p id="PAMCOM0024">[S,S,S,pt,S,S,S,pt,S,S,S]</p>
+      <p id="PAMCOM0025">Item si inveniantur quatuor, tunc due precedentes erunt minores secundum valorem, et relique due sequentes erunt maiores, ut hic:</p>
+      <p id="PAMCOM0026">[S,S,S,S,pt,S,S,S,S]</p>
+      <p id="PAMCOM0027">Item si inveniantur quinque, tunc precedentes erunt minores secundum valorem et equales, et ultima erit maior valens quatuor minimas, ut hic:</p>
+      <p id="PAMCOM0028">[S,S,S,S,S,pt,S,S,S,S,S]</p>
+      <p id="PAMCOM0029">
+      <pb n="[46]" />Item si sex, omnes erunt equales, ut hic:</p>
+      <p id="PAMCOM0030">[S,S,S,S,S,S]</p>
+      <p id="PAMCOM0031">4c Si vero reperiantur plures, oportet quod sint ibi minime que ex parte superiori caudantur.</p>
+      <p id="PAMCOM0032">Ubi est advertendum, quod si una minima [fuerit] post minorem, tunc minor valebit tres minimas in quocumque tempore fuerit predicta figuracio designata, si vero due fuerint minime, minor valebit duas minimas, ut hic:</p>
+      <p id="PAMCOM0033">[S,M,S,S,M,M,S]</p>
+      <p id="PAMCOM0034">5 Dicto de valore semibrevium temporis perfecti, nunc videndum est de valore semibrevium temporis inperfecti.</p>
+      <p id="PAMCOM0035">Unde sciendum est, quod tempus inperfectum secundum Marchectum constat ex octo minimis, ut supra dictum est.</p>
+      <p id="PAMCOM0036">Unde si reperiantur due semibreves quarum prima sit maior secunda vero minor, maior valet sex minimas et minor duas, ut hic:</p>
+      <p id="PAMCOM0037">[Scd,S,pt,Scd,S]</p>
+      <p id="PAMCOM0038">Si vero fuerint anbo [minores], erunt equales: quelibet ipsarum valebit quatuor minimas; et idem est iudicium de hiis que figurantur cum opposita proprietate, ut hic:</p>
+      <p id="PAMCOM0039">[S,S,pt,S,S,pt,Lig2cssnod,pt,Lig2cssnod,pt,Lig2cssna,pt,Lig2cssna]</p>
+      <p id="PAMCOM0040">Item si una fuerit maior et due minores, tunc maior valebit quatuor minimas sive ante sive retro, ut hic:</p>
+      <p id="PAMCOM0041">[Scd,S,S,pt,Scd,S,S,pt,S,S,Scd]</p>
+      <p id="PAMCOM0042">Item si reperiantur quatuor minores, omnes erunt equales, ut hic:</p>
+      <p id="PAMCOM0043">[S,S,S,S,pt,S,S,S,S]</p>
+      <p id="PAMCOM0044">
+      <pb n="[47]" />Si aliqua minima sit intermixta, minor que precedit minimam valet tres minimas, ut hic:</p>
+      <p id="PAMCOM0045">[S,M,S,S,pt,S,M,S,S]</p>
+      <p id="PAMCOM0046">Item si due minime sequntur minorem, tunc minor valebit duas minimas, ut hic:</p>
+      <p id="PAMCOM0047">[S,M,M,pt,S,M,M]</p>
+      <p id="PAMCOM0048">6 Viso de tempore inperfecto, videndum est de tempore brevi, quod respectu aliorum inperfectissimum potest dici: constat enim ex quatuor minimis et non pluribus.</p>
+      <p id="PAMCOM0049">Unde notandum est, quod in tempore brevi non reperitur semibrevis maior, sed tantum minor et minima.</p>
+      <p id="PAMCOM0050">Et hec due duobus modis variantur, nam aut minor precedit et una minima sequitur et e converso, et tunc minor valet tres minimas, ut hic:</p>
+      <p id="PAMCOM0051">[M,M,M,M,pt,S,M,pt,M,S,pt,M,S]</p>
+      <p id="PAMCOM0052">aut minor precedit et due minime sequntur et e converso, et tunc minor valet duas minimas, ut hic:</p>
+      <p id="PAMCOM0053">[S,M,M,pt,M,M,S]</p>
+      <p id="PAMCOM0054">Insuper in isto tempore brevi inveniuntur due minores pro uno tempore, et tunc sunt equales, ut hic:</p>
+      <p id="PAMCOM0055">[S,S,pt,S,S,pt,S,S]</p>
+      <p id="PAMCOM0056">Et idem [est] iudicium si cum opposita proprietate figurarentur, ut hic:</p>
+      <p id="PAMCOM0057">[Lig2cssnod,Lig2cssnod,Lig2cssna]</p>
+      <p id="PAMCOM0058">Et hec de arte motectorum Marchecti uniuscuiusque cantoris dubia resolventis sub compendio declarata sufficiant.</p>
+    </body>
+  </text>
+</TEI>

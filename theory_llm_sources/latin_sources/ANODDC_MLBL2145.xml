@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>[De discantu et contranota]</title>
+        <title type="abbrev">ANODDC_MLBL2145</title>
+        <author>Anonymous</author>
+        <date notBefore="1300" notAfter="1399">14th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>T</resp>
+        <persName>Peter M. Lefferts</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Michael W. Lundell</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1995</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+London, British Library, MS Additional 21455, ff. 9v–11r.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: Tractatus de contrapuncto</title>
+          
+<idno type="LML">CONTR. Circa modum</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">GB-Lbl Add. 21455, 9v-10</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Lbl Add. 21455, 11</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANODDC_MLBL21450001">
+      <pb n="[f.9v]" />Circa modum discantandi primo attendendum est. quot sunt concordancie et que. Et sunt iste. tercia nota a plano cantu que dicitur ditonus. quinta a plano que diapente uocatur. sexta a plano que diapente cum tono uel cum semitono dicitur et octaua a plano que diapason. Non sunt plures concordancie nec alie preter istas duplicatas triplicatas uel quadruplicatas et cetera ut patet tam in uocibus quam in aliis instrumentis uel in cordulis lire uel organis Harum quattuor concordanciarum due sunt perfecte et due inperfecte Perfecte sunt diapente et diapason. Inperfecte sunt ditonus et diapente cum tono uel semitono. Toni sunt isti scilicet ut re. re ut. re mi. mi re. fa sol. sol fa. sol la la sol Semitonia sunt mi fa fa mi in quocumque loco loco gammatis Sequitur de regula obseruandi modum in discantu et [nota add. supra lin.] quod quando planus cantus ascendit discantus debet descendere et e conuerso. Quando autem continuatur planus cantus in eodem lineali uel spaciali tunc discantus debet ascendere uel descendere ad libitum seruando concordancias antedictas Nec debet discantus continuare notulas in eodem lineari uel spaciali in quacumque concordancia dum planus cantus hoc [[facit]] [facit add. supra lin.]. Tamen in inperfectis concordancijs non obstante predicta regula potest discantus ascendere uel descendere cum plano per tres aut maximum per quattuor notas ante perfectam concordanciam ut patebit in exemplo inferius posito. Iam uide de ordine discantandi. Qui medium discantas serua modum predictum ascendendi et descendendi in istis scilicet concordancijs tercia et quinta et potes ascendere aliquando ad sextam et diapason aliquando descendere ad planum Idem modus seruit pro puero discantante quadruplicem quia cum uox pueri uidetur esse cum uoce uiri in unisono est a uiri uoce in diapason. Qui uero triplicem discantas serua has concordancias scilicet octauam decimam duodecimam terciadecimam quintamdecimam et hec sunt supra diapason item sub diapason et eodem modo faciat puer Set quia facile non est huius concordancias sic a plano tam uisu quam uoce remotas in multum a plano remotis linearibus et spacialibus intueri. quendam fictum uisum concordanciarum in quo scilicet concordancie passunt conprehendi et satis discrete discantari hic poteris tam uiris quam pueris reperire et infra quattuor linearia plani cantus satis aperte uidere ualebit hoc modo. Pone uisum supra planum in diatessaron siue quarta nota et uocem in diapason uel ponas uisum cum plano et uocem in diapente et tunc discanta per has concordancias scilicet per quartam et secundam supra planum cum plano terciam et quintam sub plano ut patet in exemplo sequenti. Exemplum de discantando medium siue quadruplicem ut hic. Sequitur exemplum triplicis et quadruplicis secundum uerum uisum et nimis a plano remotum ut patet hic:</p>
+      <p id="ANODDC_MLBL21450002">[London, British Library, Additional 21455, f.9v] 
+      <figure>
+        <graphic url="/images/ANODDC_01GF.gif" />
+      </figure></p>
+      <p id="ANODDC_MLBL21450003">Iste uisus quamuis in se sit uerus tamen propter ...iorem eius uisum ut patet hic supra inducit de facili simplicibus 
+      <pb n="[f.10r]" />cantoribus falsitatem.</p>
+      <p id="ANODDC_MLBL21450004">[London, British Library, Additional 21455, f.10r,1]</p>
+      <p id="ANODDC_MLBL21450005">Quapropter illum fictum uisum accipe qui etsi in se uerus non fuerit cum tenentibus tamen propter eius uiciniorem et conpendiosiorem uisum prebet discantantibus de facili ueritatem ut patet hic:</p>
+      <p id="ANODDC_MLBL21450006">[London, British Library, Additional 21455, f.10r,2]</p>
+      <p id="ANODDC_MLBL21450007">Adhuc nota quod discantus potest satis congrue ascendere uel descendere cum plano cantu in quibuscumque concordancijs perfectis et inperfectis dum tamen magis aut minus ascendit uel descendit quam planus cantus. ut si planus cantus ascendat ad quartam uel ad quintam notam discantus potest ascendere ad secundam uel terciam notam et sic in descendendo. Item si planus cantus ascendat ad secundam uel terciam notam discantus potest ascendere ad quartam uel quintam notam et sic fit descendendo et semper discurrat discantus per concordancias. Exemplum.</p>
+      <p id="ANODDC_MLBL21450008">[London, British Library, Additional 21455, f.10r,3]</p>
+      <p id="ANODDC_MLBL21450009">Hee concordancie sunt super tenore. B quadrata In gamaut. ut mi sol la. In are re fa la. In bemy ut mi sol. In Cfaut ut re fa la. In dsolre re mi sol. In Elamy ut mi fa la. In ffaut re fa sol. In Gsolreut ut my sol la. In alamire re fa la. In bfa[sqb]my ut my sol. In Csolfaut ut re fa la. In dlasolre re mi sol. In Elamy ut mi fa la. In ffa re fa sol. In Gsolreut ut mi sol la. In alamire re fa la. In bfa[sqb]my ut sol. In Csolfa fa la. In dlasol sol. In ela la.</p>
+      <p id="ANODDC_MLBL21450010">Hic incipiunt concordancie que sunt omnes sub tenore. In bmy ut In Cfa re In dsolre my ut In Elamy fa re In ffaut sol my re In Gsolre la fa my ut In Alamire sol fa re In bfa[sqb]my la sol my ut In Csol la fa re In dlasolre sol my ut In elamy la fa re ut In ffaut sol my re. In Gsolreut la fa my ut In Alamire sol fa re In bfa la sol my In Csolfa la fa re. In dlasol sol my ut In ela la fa re.</p>
+      <p id="ANODDC_MLBL21450011">Hic incipiunt concordancie que sunt omnes super tenore cantando per naturam id est per proprium cantum. In [Gamma]ut re my sol. In Are ut my fa la. In [sqb]my re fa sol. In Cfaut ut my sol la. In dsolre re fa la. In Elamy ut my sol. In ffa ut re fa la. In Gsolreut re my sol. In Alamire ut my fa la. In bfa[sqb]my re fa. In Csolfaut ut my sol la. In dlasolre re fa la. In Elamy ut my sol. In ffaut ut re fa la. In Gsolreut re my sol. In Alamire ut my fa la. In bfa[sqb]mi re fa. In Csolfa my sol la. In dlasol fa la. In Ela sol.</p>
+      <p id="ANODDC_MLBL21450012">
+      <pb n="[f.10v]" />Proprius Cantus</p>
+      <p id="ANODDC_MLBL21450013">Hic incipiunt concordancie que sunt omnes sub tenore. In Elamy ut. In ffaut re In Gsolreut my ut In Alamire fa re ut In bfa[sqb]my sol my re In csolfaut [[my ut]] la fa my ut In dlasolre sol fa re In Elamy la sol my ut In ffaut la fa re In gsolreut sol my ut In Alamire la fa re ut In bfa[sqb]my sol my re In csolfa la fa my ut In Dlasol sol fa re In Ela la sol my ut.</p>
+      <p id="ANODDC_MLBL21450014">Hic incipiunt concordancie que sunt omnes super tenore ad cantandi per b mollem. In [Gamma]ut re fa la. In are ut my sol. In bmy ut re la In Cfaut re my sol. In dsolre ut my fa la. In Elamy re fa sol. In ffaut ut my sol la. In Gsolreut re fa la In Alamire ut my sol. In bfa[sqb]my ut re fa la. In Csolfaut re my sol. In dlasolre ut my fa la In Elamy re fa sol. In ffaut my sol la In gsolreut fa la In Alamire sol. In bfa[sqb]my la.</p>
+      <p id="ANODDC_MLBL21450015">Hic incipiunt concordancie que sunt omnes sub tenore In Alamire ut In bfa[sqb]my re In Csolf my ut In dlasolre fa re ut In Elamy sol my re In ffaut la fa my ut In gsolreut la fa re In Alamire sol my ut In bfa[sqb]my la fa re In Csolfa sol my ut In dlasol la fa re ut In ela sol my re.</p>
+      <p id="ANODDC_MLBL21450016">Ficta musica est accipere notas ubi non sunt. [sqb] quadrata et ficta musica assimulant unum uel eundum. Ita quod debes mutare clauem de Csolfaut in clauem de ffaut. et tunc facies de dlasolre Gsolreut. de [sqb] quadrata accipies tantum ut in gsolreut et de ficta musica accipies tantum ut in dlasolre et ideo muta clauem de Csolfaut in clauem de ffaut. Sic erunt [sqb] quadrata et ficta musica similes sicut apparet hic.</p>
+      <p id="ANODDC_MLBL21450017">[London, British Library, Additional 21455, f.10v]</p>
+      <p id="ANODDC_MLBL21450018">Hic incipiunt concordancie que sunt omnes super tenore ad cantandi per fictam musicam. In [gamma]ut ut re fa In Are re my sol In bmy ut my fa la In Cfaut re fa sol In dsolre ut my sol la In E. re fa la In F. ut my sol. In G. re fa la. In A. re my sol. In b[sqb]. ut my fa la In C. re fa sol. In D. my sol la. In E. fa la. In F. sol. In g. la. Ficta musica</p>
+      <p id="ANODDC_MLBL21450019">Hic incipiunt concordancie que sunt omnes sub tenore. In F. u In g. re In A. my ut In b[sqb]. fa re ut In C. sol my re In d. la fa my ut In E. sol fa re In F. la sol my ut In g. la fa re In A. sol my ut In b[sqb]. la fa re ut In Csolfa sol my re. In d. la fa my ut In Ela sol fa re.</p>
+      <p id="ANODDC_MLBL21450020">
+      <pb n="[f.11r]" />Septem sunt concordancie in discantu uidelicet unisonus tercia quinta sexta octaua decima duodecima. Et debes incipere et finire per unam notam perfectam. Enim non debes facere duas uel tres concordancias perfectas que sunt similes unam post in una regula nec duos uel tres tres unisonos ne quintas nec octauas uel duodecimas Sed potes facere unum unisonum unam quintam unam octauam et unam duodecimam unam post aliam in una regula Et si debes facere unam octauam post sextam tunc potes facere duas uel tres concordancias inperfectas unam post aliam in una regula ascendendo uel descendendo. Sed non debes ascendere nec descendere cum plano cantu in concordancijs perfectis sed in concordancijs inperfectis potes bene ascendere uel descendere ad libitum tuum.</p>
+      <p id="ANODDC_MLBL21450021">Ista sufficiunt de discantu et contranota.</p>
+    </body>
+  </text>
+</TEI>

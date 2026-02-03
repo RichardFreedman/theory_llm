@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Ars musica</title>
+        <title type="abbrev">ANOFRA6</title>
+        <author>Anonymous</author>
+        <date notBefore="1200" notAfter="1299">13th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>John Csonka</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Jan Herlinger</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Angela Mariani</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1991</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Adrien de la Fage, 
+<emph>Essais de dipthérographie musicale</emph> (Paris: Legouix, 1864), 483–84.
+</bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANOFRA60001">
+      <pb n="[483]" />Quatuor ut reges infra sua regna sedentes;</p>
+      <p id="ANOFRA60002">Hinc protus ac deuterus, tritus tropicusque tetrardus</p>
+      <p id="ANOFRA60003">
+      <pb n="[484]" />Sub dicione sua cohibent modulamina cuncta,</p>
+      <p id="ANOFRA60004">Quos tam prudenter distinxit musica mater.</p>
+      <p id="ANOFRA60005">Nam statuit cunctas vocum discrimine metas,</p>
+      <p id="ANOFRA60006">Unus ut alius non usurpet sua cantus.</p>
+      <p class="textFig" id="ANOFRA60007">.&#160;&#160;.&#160;&#160;.&#160;&#160;.&#160;&#160;.&#160;&#160;.&#160;&#160;.&#160;&#160;.&#160;&#160;.&#160;&#160;.&#160;&#160;.&#160;&#160;.&#160;&#160;.&#160;&#160;.
+      <lb /></p>
+      <p id="ANOFRA60008">A gravitate quidem nimium distabat acumen,</p>
+      <p id="ANOFRA60009">Et gravitas neumis non conveniebat acutis</p>
+      <p id="ANOFRA60010">Fit ex consilio divisio quatuor octo.</p>
+      <p class="textFig" id="ANOFRA60011">.&#160;&#160;.&#160;&#160;.&#160;&#160;.&#160;&#160;.&#160;&#160;.&#160;&#160;.&#160;&#160;.&#160;&#160;.&#160;&#160;.&#160;&#160;.&#160;&#160;.&#160;&#160;.&#160;&#160;.
+      <br /></p>
+      <p id="ANOFRA60012">Omnibus hospitium finale dedit tetracordum.</p>
+    </body>
+  </text>
+</TEI>

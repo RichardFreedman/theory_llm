@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Lucidarium, tractatus septimus</title>
+        <title type="abbrev">MARLUC7</title>
+        <author>Marchetus de Padua</author>
+        <date notBefore="1300" notAfter="1399">14th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Stephen E. Hayes</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Peter M. Lefferts</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1990</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>The Lucidarium of Marchetto of Padua: A Critical Edition, Translation, and Commentary</emph>, ed. and trans. by Jan W. Herlinger (Chicago and London: The University of Chicago Press, 1985), 256–66. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Marchettus de Padua: Lucidarium in arte musicae planae</title>
+          
+<idno type="LML">MARCH. luc.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">A-SP Cod. 135/6 (29.4.4), 21v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Br II 785, 15-38v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Br II 4144, 1-41</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">CH-E 689, 1-44</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">E-Sc 5-2-25, 5-20v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">E-Sc 5-2-25, 76v-77v, 124-128 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-SDI 42, 1-33v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ob Canon. Misc. 42, 184-185 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-BREs D 21, 185v-186v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-CATc D 39, 157-189</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fl Conv. Soppr. 388, 34v-52v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fr 734, 74-101</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Ma D. 5 inf., 52-77v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Ma I. 20 inf., 36v-39 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-PEc 1013, 5-45v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-PIu 606 (IV.9), I/1-50</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat lat. 5322, 1-48</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat Reg. lat. 1146, 7-8 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Sc L.V.30, 91v-119</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-TRE without shelfmark, 15-32v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Vnm Lat. Cl. VIII.85 (3579), 1-10 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">US-Cn Case Ms. 54.1, 10v-33</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">US-Wc ML 171 J 6 Case, hv-47</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="MARLUC70001">
+      <pb n="[256]" />1. INCIPIT TRACTATUS SEPTIMUS</p>
+      <p id="MARLUC70002">CAPITULUM PRIMUM</p>
+      <p id="MARLUC70003">DE GENERIBUS INEQUALITATIS QUOT SINT ET QUE IN MUSICA SINT NECESSARIA</p>
+      <p id="MARLUC70004">2. Genera inequalitatis quinque sunt, scilicet multiplex, superparticulare, superpartiens, multiplex superpartiens, et multiplex superparticulare.</p>
+      <p id="MARLUC70005">3. Primum igitur inequalitatis genus est multiplex,</p>
+      <p id="MARLUC70006">
+      <pb n="[258]" />4. cum maior numerus continet totum minorem in se dupliciter vel tripliciter vel quadrupliciter, et sic deinceps; nichilque deest, nichilque exuberat.</p>
+      <p id="MARLUC70007">5. Appellatur enim aut duplum aut triplum aut quadruplum et cetera, ut sunt duo ad unum aut tres ad unum aut quatuor ad unum et cetera.</p>
+      <p id="MARLUC70008">6. In hoc quidem genere inequalitatis ponuntur tres consonantie, scilicet dyapason, dyapason dyapente, et bisdyapason.</p>
+      <p id="MARLUC70009">7. Secundum autem genus inequalitatis est quod appellatur superparticulare,</p>
+      <p id="MARLUC70010">8. hoc est cum maior numerus continet totum minorem in se et eius aliquam unam partem, ut sunt tres ad duo, quatuor ad tres, et quinque ad quatuor, et cetera.</p>
+      <p id="MARLUC70011">9. In hoc quidem genere inequalitatis ponuntur due consonantie, scilicet dyatessaron et dyapente,</p>
+      <p id="MARLUC70012">
+      <pb n="[260]" />10. necnon proportio sesquioctava, in qua est tonus, qui, ut dictum est et infra de coniunctionibus ostendetur, consonantia non est,</p>
+      <p id="MARLUC70013">11. similiterque due proportiones duorum semitoniorum, minoris et maioris, hoc est enarmonici et dyatonici, que vocantur sesquisexta decima et sesquidecima septima.</p>
+      <p id="MARLUC70014">12. Tercium genus inequalitatis est quod superpartiens dicitur,</p>
+      <p id="MARLUC70015">13. cum maior numerus continet totum minorem in se et eius aliquas partes.</p>
+      <p id="MARLUC70016">14. Et siquidem duas partes supra continet, vocatur proportio superbipartiens,</p>
+      <p id="MARLUC70017">15. et si tres, supertripartiens dicitur, et cetera,</p>
+      <p id="MARLUC70018">16. ut sunt quinque ad tres, hec proportio dicitur superbipartiens,</p>
+      <p id="MARLUC70019">
+      <pb n="[262]" />17. vel septem ad quatuor, hec enim proportio supertripartiens nominatur.</p>
+      <p id="MARLUC70020">18. In hoc quidem genere nulla consonantia cadit, quia in eo simpliciter sumpto nulla est proportio musicalis.</p>
+      <p id="MARLUC70021">19. Quartum genus inequalitatis est multiplex superparticulare,</p>
+      <p id="MARLUC70022">20. cum maior numerus continet totum minorem in se vel bis vel ter vel quater, et cetera, et insuper eius unam partem.</p>
+      <p id="MARLUC70023">21. Et si eum continet bis et eius medietatem, vocatur proportio dupla supersesqualtera, ut sunt quinque ad duo;</p>
+      <p id="MARLUC70024">22. si vero maior numerus adhuc continet minorem bis et eius terciam partem, vocatur proportio dupla supersesquitercia, ut septem comparati ad tres.</p>
+      <p id="MARLUC70025">
+      <pb n="[264]" />23. Si autem contineat maior numerus totum minorem in se ter et eius medietatem, vocatur proportio tripla supersesqualtera, ut sunt septem ad duo,</p>
+      <p id="MARLUC70026">24. et si maior numerus continet totum minorem in se ter et eius terciam partem, vocatur proportio tripla supersesquitercia, ut decem comparati ad tres.</p>
+      <p id="MARLUC70027">25. Quintum genus inequalitatis est quod multiplex superpartiens nominatur,</p>
+      <p id="MARLUC70028">26. cum maior numerus continet totum minorem in se vel bis vel ter vel quater, et cetera, et insuper eius aliquas partes.</p>
+      <p id="MARLUC70029">27. Et si bis eum continet et eius duas partes, vocatur proportio dupla superbipartiens, ut sunt octo ad tres;</p>
+      <p id="MARLUC70030">28. in hoc quidem genere inequalitatis ponitur consonantia dyapason dyatessaron.</p>
+      <p id="MARLUC70031">29. Et rursus tripla superbipartiens dicitur, si maior numerus contineat 
+      <pb n="[266]" />totum minorem in se ter insuper et eius duas partes, ut sunt undecim ad tres, et sic deinceps.</p>
+      <p id="MARLUC70032">30. Ex dictis immediate apparet quod de quinque generibus inequalitatis in musica omnino tria sunt necessaria, scilicet multiplex, in quo ponuntur proportiones tres, scilicet dupla, tripla, et quadrupla;</p>
+      <p id="MARLUC70033">31. superparticulare, in quo ponuntur sesquitercia, sesqualtera, sesquioctava, sesquisexta decima, et sesquidecima septima;</p>
+      <p id="MARLUC70034">32. et multiplex superbipartiens, in quo ponitur consonantia dyapason dyatessaron.</p>
+      <p id="MARLUC70035">33. Et hec de generibus inequalitatis dicta sufficiant.</p>
+      <p id="MARLUC70036">34. FINIT TRACTATUS SEPTIMUS</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>[Ad organum faciendum]</title>
+        <title type="abbrev">ADORFBB</title>
+        <author>Anonymous</author>
+        <date notBefore="800" notAfter="1099">9th-11th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Angela Mariani</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Peter Slemon</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1994</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Hans Heinrich Eggebrecht and Frieder Zaminer, eds., 
+<emph>Ad organum faciendum. Lehrschriften der Mehrstimmigkeit in nachguidonischer Zeit</emph>, Neue Studien zur Musikwissenschaft, vol. 3 (Mainz: B. Schotts Söhne, 1970), 159–60.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: Tractatus de organo cod. Berolinensis (B)</title>
+          
+<idno type="LML">ORG. Berol.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">D-B Ms. theol. lat. qu. 261, 50v-51v</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ADORFBB0001">
+      <pb n="[159]" />Item de organo [f. 50v in marg.]</p>
+      <p id="ADORFBB0002">Cum multi ueterum ac modernorum de diaphonia satis indiscrete tractassent ego ipsarum naturam uocum et usualium organizatorum modos intuens tribus solum modis cum alii plures organizandi modos uelint. quecumque organizantibus necessaria uiderentur compendiose explicaui . in hiis enim tribus modis quicquid in pluribus aliis continetur. si subtiliter ingenii acumen aliquis aplicauerit aut inuenire cessabit. Quare quid sit organum prius dicendum est. | [f. 51r in marg.]</p>
+      <p id="ADORFBB0003">Organum est uox sequens precedentem sub celeritate diapente uel diatassaron uel dittoni uel semidittoni. quarum id est precedentis uel subsequentis fit copula aliqua decenti consonantia.</p>
+      <p id="ADORFBB0004">Diaphonia uocum disiunctio dicitur. quam nos organum uocamus. Disiuncte enim uoces ab inuicem concorditer dissonant uel dissonanter concordant . qua organizatores ita utuntur. quatinus per diapente uel diatessaron uel dittonum uel semidittonum discurrant. Facta igitur hac diffinitione natura uocum perspicienda est. Prima uox organi aut manebit coniuncta cum precedenti per diapason uel in eadem. aut manebit disiuncta pars aliquarum supradictarum quatuor consonantiarum. Medie uero uoces per easdem supradictas discurrunt. Copulatio uero fit quollibet modo. Itaque cum quatuor sint uoces. una organalis dicitur. Nam prima quandoque iungitur secunda semper disiungitur. tertia est intuens prestolantem ut abilem copulam tribuat quarte uoci cum qualibet consonantia. Vbi uero tres uoces perspiciuntur tantum est inceptio et copulatio . duabus uero sola coniunctio. Hiis itaque dictis tres modos consideremus quorum primus est quando prima uox copulatur cum precedenti. Secundus fit per disiunctionem ipsius uocis. Tertius summitur a mediis uocibus que mutantur. quod autem dictum est uerbis ostendamus exemplis.</p>
+      <p id="ADORFBB0005">
+      <pb n="[160]" />Quando prima uox copulatur cum precedenti.</p>
+      <p class="textFig" id="ADORFBB0006">D&#160;F&#160;a&#160;c&#160;G&#160;c&#160;a.
+      <lb />D&#160;D&#160;D&#160;F&#160;D&#160;C&#160;D.
+      <br />Descendit
+      <lb /></p>
+      <p id="ADORFBB0007">Per disiunctionem ipsius uocis</p>
+      <p class="textFig" id="ADORFBB0008">a&#160;F&#160;&#160;a&#160;c&#160;G&#160;a&#160;c
+      <br />Descendit
+      <lb /></p>
+      <p id="ADORFBB0009">Que mutantur mediis uocibus.</p>
+      <p class="textFig" id="ADORFBB0010">G&#160;F&#160;D&#160;C&#160;&#160;&#160;A
+      <br />Descendit&#160;[Gamma].
+      <lb /></p>
+      <p id="ADORFBB0011">Explicatis breuiter tribus modis ad mediarum naturam uocum transeundum est. Per eas enim tota uis organizandi discurrit. Medie siquidem uoces per quatuor. supradictas consonantias incedunt quarum diapente et diatessaron. principatum organi possidere dicuntur eo quod modulantius in eis organum resonet et constitutiue diapason considerentur. Vt in dispositione IIII. litterarum superius ostensum est. Que id est medias aliquando in depositione cantus eleuamus aliquando utraque in circulum tememus. quandoque utraque deponimus quandoque utraque eleuamus. Que omnia melius usu organizatorum quam regulis declarantur. Sciatur itaque quoniam organales uoces affinitatem debent habere cum precedentibus id est cum uocibus cantus. ad supradicta enucleanda huius exempla ponimus. Illic ubi dicit. Si cantus tenebit .D. organum erit in a. et cetera.</p>
+      <p id="ADORFBB0012">Adtendendum uero est. quoniam nisi uertendo ad copulam medie diaphonales uoces plus tertia uoce ad cantum se numquam debent coniungere. [Gamma]. et A faciunt tonum. A. et B. similiter tonum et he tres faciunt dittonum id est duos tonos. siue gradatim siue transiliendo. | [f. 51v in marg.] B. autem et C. faciunt semitonium id est non plenum tonum. A. uero et B. et C. faciunt semidittonum id est tonum et semitonium. [Gamma]. autem et A. et B. et C. faciunt diatessaron id est dittonum et semitonium. et diatessaron. interpretatur de quatuor quia de uocibus quatuor constat. Diapente autem interpretatur de .V. quia fit de .V. uocibus continet tres tonos et semitonium.</p>
+    </body>
+  </text>
+</TEI>

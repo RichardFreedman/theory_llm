@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Dialogus de musica, prologus</title>
+        <title type="abbrev">ODOPRO</title>
+        <author>Odo</author>
+        <date notBefore="800" notAfter="1099">9th-11th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Peter Slemon</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Mark Butler</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>2001</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Michel Huglo, "Der Prolog des Odo zugeschriebenen 'Dialogus de Musica'," 
+<emph>Archiv für Musikwissenschaft</emph> 28 (1971): 134-146, 138–39. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Ps.-Odo: Prologus in antiphonarium (= Prologus in dialogum)</title>
+          
+<idno type="LML">PS.-ODO prol.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">B-Br II 784, 42v-43v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-B Ms. lat. oct. 265, 9r-v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-LEu 1492, 107r-v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 3713, 30r-v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 7211, 105v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Lbl Add. 10335, 14v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Lbl Harley 281, 24v-25</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-PS 100, 39-40</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat Reg. lat. 1146, 24-25, 25</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ODOPRO0001">
+      <pb n="[138]" />[INCIPIT PROLOGUS]</p>
+      <p id="ODOPRO0002">Petistis obnixe, karissimi fratres, quatenus paucas vobis de Musica regulas traderem, atque eas tantummodo, quas et pueri vel simplices sufficiant capere, quibusque ad cantandi perfectam peritiam velociter, Deo adjuvante, valeant pervenire. Quod ideo petistis quia posse fieri ipsi audistis et vidistis, certisque indiciis comprobastis. Vobiscum quippe positus tantum cooperante Deo per hanc artem quosdam vestros pueros ac juvenes docui, ut alii ex eis triduo, alii quatriduo, quidam vero unius hebdomadae spatio hac arte exercitati, quam plures antiphonas, non audientes ab aliquo, sed regulari tantummodo descriptione contenti per se discerent et post modicum indubitanter proferrent. Non multis preterea evolutis diebus primo intuitu et ex improviso, quicquid per musicas notas descriptum erat, sine vitio decantabant; quod hactenus communes cantores facere potuerunt dum plurimi eorum quinquaginta jam annis in canendi usu et studio inutiliter permanserunt.</p>
+      <p id="ODOPRO0003">
+      <pb n="[139]" />Sollicite quoque ac curiosissime investigantibus, an per omnes cantus nostra doctrina valeret, assumpto quodam fratre, qui ad comparationem aliorum cantorum videbatur perfectus, antiphonarium sancti Gregorii diligentissime cum eo investigavi in quo pene omnia regulariter stare inveni, pauca vero quae ab imperitis cantoribus erant vitiata, non minus aliquorum cantorum testimonio, quam regulae sunt auctoritate correpta. Rarissime tamen et in prolixioribus cantibus voces ad alium tonum pertinentes, id est superfluas elevationes vel depositiones contra regulam invenimus. Sed quia illos cantus omnium usus unanimiter defendebat, emendare non praesumpsimus. Sane per singulos notavimus, ne veritatem regulae quaerentes dubios redderemus. Quo facto majori desiderio accensi vehementissimis precibus ac monitis institistis, quatenus ad honorem Dei ac sanctissimae Genitricis ejus Mariae, in cujus venerabili coenobio ista fiebant, et regulae fierent, tamquam utilibus notis totum antiphonarium cum tonorum formulis describeretur.</p>
+      <p id="ODOPRO0004">De vestris igitur meritis precibusque confidens et communis patris gratissima praecepta suscipiens, hoc opus intermittere nec volo nec valeo. Est autem apud sapientes hujus seculi valde difficilis et ampla hujus artis doctrina. Cuicumque autem ita placuerit multo labore excolat atque circumeat campum. Qui autem hoc parvum Dei donum ab ipso perceperit, simplici cum pace satiabitur fructu. Ut autem haec melius intellegatis et necessaria pro vestra voluntate accipiatis, unus vestrum ad interrogandum vel colloquendum accedat, cui prout Dominus donaverit, respondere non neglegam.</p>
+    </body>
+  </text>
+</TEI>

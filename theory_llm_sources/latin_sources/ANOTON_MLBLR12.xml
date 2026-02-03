@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>De tonorum agnicionibus</title>
+        <title type="abbrev">ANOTON_MLBLR12</title>
+        <author>Anonymous</author>
+        <date notBefore="1300" notAfter="1399">14th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>T</resp>
+        <persName>Peter M. Lefferts</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Andreas Giger</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1996</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+London, British Library, MS Royal 12.C.VI, ff. 52r–53v.
+</bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANOTON_MLBLR120001">
+      <pb n="[f.52r]" />[D]e tonorum agnicionibus singulorum et differenciarum secundum varias incepciones terminacionibus; compendiosam doctrinam proveccioni vestre si propalare et a pluribus decerptam et ab aliundis diuertilacionem magistris annuante et adiuuante opimo in vnum redigere. et in apertum conabor producere. Quam scilicet doctrinam omnibus sancte matris ecclesie filiis chorum celebriter colentibus sciencia comprehendisse coram deo et hominibus iocunda laus est et exultacio. Negligentibus autem et ignorantibus. euidentem professionem et officii scandalum et crebra confusio et turpissimum dedecus et frequens chori turbacio. Quocirca quoniam elegancius est semel discentis animum studio paulisper fatigari. quam ignorantis faciem continuo rubore notari. et probroso iugiter vrgeri in properio; vestram summo opere non desisto [desistam ante corr.] commouere beniuolenciam. quatinus per multa temporum spacia a philosophis vix elaborata et vobis absque difficultate oblata; placido animo suscipere non obtorpeatis</p>
+      <p id="ANOTON_MLBLR120002">
+      <pb n="[f.52v]" />[London, British Library, Royal 12.C.VI, f.52v; text: [Gamma] vt, A re, B mi, c fa vt, D sol re, e la mi, F fa vt, g sol re vt, b fa b mi, A la mi re, d la sol, c sol fa, c sol fa vt, d la sol re, E la, proprius cantus, b molle, [sqb] quadratum] 
+      <figure>
+        <graphic url="/images/ANOTON_01GF.gif" />
+      </figure></p>
+      <p id="ANOTON_MLBLR120003">
+      <pb n="[f.53r]" />[London, British Library, Royal 12.C.VI, f.53r; text: e, g, #, [rob], [rob][rob], [Gamma]] 
+      <figure>
+        <graphic url="/images/ANOTON_02GF.gif" />
+      </figure></p>
+      <p id="ANOTON_MLBLR120004">
+      <pb n="[f.53v]" />[London, British Library, Royal 12.C.VI, f.53v; text: vt, re, mi, fa, sol, [rob], [rob][rob], g, #, [Gamma]] 
+      <figure>
+        <graphic url="/images/ANOTON_03GF.gif" />
+      </figure></p>
+    </body>
+  </text>
+</TEI>

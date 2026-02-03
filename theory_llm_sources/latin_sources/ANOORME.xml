@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>De organo mediolanensi</title>
+        <title type="abbrev">ANOORME</title>
+        <author>Anonymous</author>
+        <date notBefore="1400" notAfter="1499">15th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Anastasia Arapova</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Mark Butler</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>2001</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Jacques Handschin, "Aus der alten Musiktheorie III. Zur Ambrosianischen Mehrstimmigkeit," 
+<emph>Acta musicologica</emph> 15 (1943): 2-23, 93-94, 5–6.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: Tractatus de organo Mediolanensi: Ratio sequitus</title>
+          
+<idno type="LML">ORG. Ambros.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">I-Ma I. 20 inf., 25</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANOORME0001">
+      <pb n="[5]" />Ratio sequitus est ista.</p>
+      <p id="ANOORME0002">Si aliquis vult scire sequitum, oportet se scire sex rationes, videlicet bene cantum firmum, et cognoscere si cantus ascendit vel descendit, et scire quid est concordantia et quid est discordantia et quid est consonantia, et scire si sequitus debet incipere in voce vel in secunda vel in quarta vel in quinta, quia sequitus non est nisi secunda, quarta (et) aliqua vice quinta. Nota quid est diffinitio rationis stre (?), videlicet quando duo cantatores cantant simul in eadem voce et concordantia et sterri (?). Cantatores qui cantant unus stet firmus in una nota, videlicet in ut vel in aliis notis, et alius cantator precedat unam notam vel quartam vel quintam supra socium, videlicet re super ut et est seconda et discordantia, et fa supra ut est quarta et est similiter discordantia, et sol supra ut est quinta et est consonantia. Item ille qui facit sequitum debet incipere semper in voce. Si cantus ascendit tertiam videlicet ut mi, vel quinta videlicet re la, similiter in voce. Et si descendit de secunda (?), videlicet e ut vel la secunda (?), debet semper incipere in quartam. Item debet semper incipere in secundam, si cantus ascendit, videlicet ut, re, mi, fa, sol, et debet secondare per secondam usque subtus sol et subtus mi quando cantus ascendit ut re mi fa sol, et subtus re quando cantus ascendit ut re mi fa. Et omnes alie note que descendunt, videlicet la sol fa mi re ut vel per alium modum, semper debet descendere per quartam usque subtus re, quia postea debet venire in voce cum socio, quia sic finitur semper cantus.</p>
+      <p id="ANOORME0003">Versus. Ex una sursum tertia infra.</p>
+      <p id="ANOORME0004">Ex una infra tertia sursum.</p>
+      <p id="ANOORME0005">Ex tertia sursum una infra.</p>
+      <p id="ANOORME0006">Ex tertia infra una sursum.</p>
+      <p id="ANOORME0007">
+      <pb n="[6]" />Ex quarta sursum tene par.</p>
+      <p id="ANOORME0008">Ex quarta infra tene par.</p>
+      <p id="ANOORME0009">Ex quinta sursum una sursum.</p>
+      <p id="ANOORME0010">Ex quinta infra una infra.</p>
+      <p id="ANOORME0011">Ex sexta sursum tertia sursum.</p>
+      <p id="ANOORME0012">Due notae aequales (d. h. wenn in der gegebenen Melodie Tonwiederholung stattfindet), si eris ad octavam, descende quartam gradatim; si eris ad quintam, ascende quartam; et sic de omnibus notis. Omnes ejus notae quae ascendunt aequales vel II (?), omnes notae quae descendunt volunt quartam; et hoc non moveatur.</p>
+    </body>
+  </text>
+</TEI>

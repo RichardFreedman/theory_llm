@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>[Mensura monocordi VI]</title>
+        <title type="abbrev">ANOME6</title>
+        <author>Anonymous</author>
+        <date notBefore="800" notAfter="1099">9th-11th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Andreas Giger</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Dawn Reindl</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Andreas Giger</persName>
+      </respStmt>
+      <date>1998</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Hans Schmid, ed., 
+<emph>Musica et scolica enchiriadis una cum aliquibus tractatulis adiunctis</emph>, Bayerische Akademie der Wissenschaften, Veröffentlichungen der Musikhistorischen Kommission, Band 3 (Munich: Bayerische Akademie der Wissenschaften / C. H. Beck, 1981), 241. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: Mensura monochordi</title>
+          
+<idno type="LML">MON. Si vis mensurare</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">B-Br 10078/95, 38</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANOME60001">
+      <pb n="[241]" />Si vis mensurare monocordum, quod dicitur Enchiriadis, tunc debes illud partiri inprimis per VIIII et in initio pone protum gravem et in secundo loco deuterum gravem. Item ab ipso deutero divide illud per IIII usque ad summitatem et habebis finalem protum et superiorem protum et excellentem tetrardum. Deinde quartam partem a summitate partire per quinque et supra habebis in quinta parte iacentem deuterum ac gyrato circino habebis subtus excellentem deuterum. Iterum quartam partem partire per VIIII et habebis superius iacentem protum. Ab excellenti deutero usque ad summum divide per medium et gyrato circino habebis superiorem deuterum. Post haec ab ipso supero deutero usque ad summum divide per medium et gyrato circino habebis finalem deuterum. Tunc demum incipe quartam partem mensurare per VIII usque ad tetrardum excellentem et gyrato circino habebis tritum excellentem. Similiter residuos omnes quere per VIII, id est semper tres tonos et quartum semitonium.</p>
+    </body>
+  </text>
+</TEI>

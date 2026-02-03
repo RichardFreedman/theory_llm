@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Tractatus</title>
+        <title type="abbrev">BECANO</title>
+        <author>Anonymous</author>
+        <date notBefore="800" notAfter="1099">9th-11th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Firoozeh Khazrai</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Bradley Jon Tucker</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1993</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Adolf Becker, "Ein Erfurter Traktat über gregorianische Musik," 
+<emph>Archiv für Musikwissenschaft</emph> 1 (1918-19): 145-165, 151–61.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: "Pythagoras philosophus primus apud Graecos"</title>
+          
+<idno type="LML">ANON. Erford.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">D-EF 8° 94, 83v-84</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-EF 8° 94, 80</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-EF 8° 94, 83v</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="BECANO0001">
+      <pb n="[151]" />De speciebus diatessaron.</p>
+      <p id="BECANO0002">Diatessaron alia constat ex tono et semitonio et tono, ut ab A in D; alia ex semitonio et ditono, ut a B in E; alia ex ditono et semitonio, ut a C in F; alia ex tono et semitonio et tono, ut a D in G. Quarta (scilicet species) est eadem cum prima, nisi quia loco differt a prima constitutione, quia quartam speciem diapason constituit cum superiori diapente, quod prima non facit.</p>
+      <p id="BECANO0003">Specierum diatessaron alia naturalis, alia formalis. Naturalis a tetrachordo gravium originaliter sumitur, quia prima species eius ex prima gravium et prima finalium constat, hoc est ab A in D. Secunda species tollitur ex secunda gravium in secunda finalium, hoc est a B in E. Tertia a C in F. Quarta a D in G. Formalis autem est quae aliunde, undecumque sumitur, quia similitudinem et formam retinet naturaliter, sicut ab a in d.</p>
+      <p id="BECANO0004">De speciebus diapente.</p>
+      <p id="BECANO0005">Diapente alia constat ex tono et semitonio et ditono, ut a D in a; alia ex semitonio et tribus tonis, ut E in [sqb]; alia ex tribus tonis et semitonio, ut a F in c; alia ex ditono et semitonio et tono, ut a G in d. Quarta est extraria primae et tertia secundae. Quarum similiter alia est naturalis, alia formalis. Naturales enim oriuntur a tetrachordo finalium. Prima species a prima acutarum sumitur, hoc est a D in a; secunda species ab E in [sqb]; tertia a F in c; quarta a G in d. Formales autem sunt, quae aliunde undecumque sumuntur, quia similitudinem et formam retinent naturalium.</p>
+      <p id="BECANO0006">
+      <pb n="[152]" />De differentiis primi toni.</p>
+      <p id="BECANO0007">[AMW1:152; text: Primum quaerite regnum dei. Dixit dominus domino meo: sede a dextris meis. Magnificat anima mea dominum. Saeculorum Amen. Angelus domini, Dum aurora, Amavit eum, Reges tarsis, Factus es, Jte dicere, Postquam surrexit, Ecce quam bonum, Secundum autem simile est huic.] 
+      <figure>
+        <graphic url="/images/BECANO_01GF.gif" />
+      </figure></p>
+      <p id="BECANO0008">
+      <pb n="[153]" />[AMW1:153; text: Dixit dominus domino meo: sede a dextris meis. Magnificat anima mea dominum. Saeculorum Amen. O sapientia. Tertia dies est quod haec facta sunt. Qui de terra est, Sic eum volo, Elisabeth, Dominus legifer noster. Quarta vigilia venit ad eos.] 
+      <figure>
+        <graphic url="/images/BECANO_02GF.gif" />
+      </figure></p>
+      <p id="BECANO0009">
+      <pb n="[154]" />[AMW1:154; text: Dixit dominus domino meo: sede a dextris meis. Magnificat anima mea dominum. Saeculorum Amen. Et facta est, Rubum quem viderat, Bethlem, Dignare me, Petre amas me? Sion renovaberis, Fidelia, Quinque prudentes intraverunt ad nuptias.] 
+      <figure>
+        <graphic url="/images/BECANO_03GF.gif" />
+      </figure></p>
+      <p id="BECANO0010">
+      <pb n="[155]" />[AMW1:155; text: Magnificat anima mea dominum, Saeculorum Amen. Ecce dominus, Quivis vallis, Sexta hora sedit super puteum. Dixit dominus domino meo: sede a dextris meis. Benedictus dominus, Benedixit, Septem sunt beatitudines spiritus ante thronum dei.] 
+      <figure>
+        <graphic url="/images/BECANO_04GF.gif" />
+      </figure></p>
+      <p id="BECANO0011">
+      <pb n="[156]" />[AMW1:156; text: Audistis quia dixi vobis, Magnificat anima mea dominum, Saeculorum Amen. Constitues eos, Stella ista, Omnes sitientes, Veterem hominem. Octo sunt beatitudines. Dixit dominus domino meo: sede a dextris meis. Beatus Petrus, Dominus dixit ad me, Adorna thalamum] 
+      <figure>
+        <graphic url="/images/BECANO_05GF.gif" />
+      </figure></p>
+      <p id="BECANO0012">
+      <pb n="[157]" />[AMW1:157,1; text: Veniet fortior me, Saeculorum Amen. Deo nostro, Nos qui vivimus.] 
+      <figure>
+        <graphic url="/images/BECANO_06GF.gif" />
+      </figure></p>
+      <p id="BECANO0013">Saeculorum Amen.</p>
+      <p id="BECANO0014">Per horum versuum melodias dinoscitur quodlibet responsorium, cuius sit est toni, sive authenti, sive plagalis.</p>
+      <p id="BECANO0015">[AMW1:157,2; text: Primus authentus protus, Secundus plagis proti. Tertius authentus deuterus, Quartus plagis deuteri. Quintus authentus tritus. Sextus plagis triti. Septimus authentus tetrardus, Octavus plagis tetrardi.]</p>
+      <p id="BECANO0016">Inceptio psalmorum introitu, unde diligentissime haec notanda sunt.</p>
+      <p id="BECANO0017">Primus tonus duas habet differentias introitibus.</p>
+      <p id="BECANO0018">[AMW1:157,3; text: Pater in, Gloria patri et filio, Primus ut exurge, Saeculorum Amen. Exurge, Rorate coeli desuper, Meditatio]</p>
+      <p id="BECANO0019">
+      <pb n="[158]" />Secundus nullam habet differentiam.</p>
+      <p id="BECANO0020">[AMW1:158,1; text: Filio, Gloria patri, Secundus ut ecce. Saeculorum Amen. Ecce advenit.] 
+      <figure>
+        <graphic url="/images/BECANO_07GF.gif" />
+      </figure></p>
+      <p id="BECANO0021">Tertius unam habet differentiam.</p>
+      <p id="BECANO0022">[AMW1:158,2; text: Filius, Gloria patri, Tertius ut vocem, Saeculorum Amen. Liberator meus, Vocem iocunditatis.]</p>
+      <p id="BECANO0023">Quartus nullam habet differentiam.</p>
+      <p id="BECANO0024">[AMW1:158,3; text: In patre, Gloria patri, Quartus ut resurrexi, Saeculorum Amen. Resurrexi.]</p>
+      <p id="BECANO0025">Quintus unam differentiam.</p>
+      <p id="BECANO0026">[AMW1:158,4; text: Spiritus, Gloria patri, Quintus ut ecce deus, Saeculorum Amen. Ecce deus, Circumdederunt me.]</p>
+      <p id="BECANO0027">Sextus nullam habet differentiam.</p>
+      <p id="BECANO0028">[AMW1:158,5; text: Sanctus ab, Gloria patri, Sextus ut medio, Saeculorum Amen. In medio ecclesiae.]</p>
+      <p id="BECANO0029">Septimus nullam habet differentiam.</p>
+      <p id="BECANO0030">[AMW1:158,6; text: Utroque, Gloria patri, Septimus ut populus. Saeculorum Amen. Populus sion.]</p>
+      <p id="BECANO0031">Octavus unam habet differentiam.</p>
+      <p id="BECANO0032">[AMW1:158,7; text: Procedens, Gloria patri, Octavus ut ad te levavi, Saeculorum Amen.]</p>
+      <p id="BECANO0033">
+      <pb n="[159]" />[AMW1:159,1; text: Benedicta sit, Saeculorum Amen. Ad te levavi animam.] 
+      <figure>
+        <graphic url="/images/BECANO_08GF.gif" />
+      </figure></p>
+      <p id="BECANO0034">Quot sunt modi, quibus omnis cantus constat. Incipe ter....</p>
+      <p id="BECANO0035">[AMW1:159,2; text: Ter terni sunt modi, quibus omnis cantilena contexitur, scilicet: unisonus, semitonium, tonus, ditonus, semiditonus, diatessaron, diapente, semitonium cum diapente, tonus cum diapente, ad haec sonus diapason. Si quem delectat eius hunc modulum esse agnoscat. Cumque tam paucis clausulis tota harmonia formetur, utilissimum]</p>
+      <p id="BECANO0036">
+      <pb n="[160]" />[AMW1:160; est eas altae memoria commendare, nec prius ab huius modi studio quiescere, donec vocum intervallis agnitis harmoniae totius facillime poteris comprehendere notitiam.] 
+      <figure>
+        <graphic url="/images/BECANO_09GF.gif" />
+      </figure></p>
+      <p id="BECANO0037">Versus ad inceptiones psalmorum.</p>
+      <p id="BECANO0038">Primus cum sexto fa sol la superhabeto.</p>
+      <p id="BECANO0039">Tertius octavus canit ut re fa; sicque secundus.</p>
+      <p id="BECANO0040">Septimus incipitur mi fa sol, quartusque la sol la.</p>
+      <p id="BECANO0041">Quintus erit tonus sic fa la re fa tibi notus.</p>
+      <p id="BECANO0042">Gurtulus [neumae supra lin.], epiphonus [neumae supra lin.], clivis [neumae supra lin.], quilisma [neumae supra lin.], podatus [neumae supra lin.],</p>
+      <p id="BECANO0043">torculus [neumae supra lin.] et morila [neumae supra lin.], punctum [neumae supra lin.] quoque virgula [neumae supra lin.], flexa [neumae supra lin.].</p>
+      <p id="BECANO0044">Non plures invenies; sunt non plures neumae repertae.</p>
+      <p id="BECANO0045">Pythagoras philosophus primus apud Graecos musicae artis inventor et monochordi legitur. Qui transivit quandam fabricam, et audivit quinque malleos concurrentes. Considerans eos reddere dulcem sonum mirabatur valde. Tandem subtraxit unum et sic remansit sonus discrepans. Qui etiam soni quatuor malleorum comparantur quatuor virtutibus cardinalibus, quae sunt iustitia, prudentia, fortitudo, temperantia. Unde in Theodoli aequabit studio: tetras sit in ordine vestro Pythagorae numerus. Et sic primo secundum quosdam dicitur inventa esse musica.</p>
+      <p id="BECANO0046">
+      <pb n="[161]" />Notandum autem, quod musicum instrumentum antiquitus naturaliter et sufficienter constabat octo chordis, quae notabantur totidem primis litteris alphabeti. Secundum usum modernorum et dividitur in quatuor tetrachorda, videlicet tetrachordum gravium, in tetrachordum finalium, in tetrachordum superiorum, in tetrachordum excellentium. Tetrachordum est spatium, quod continet quatuor cordas regulariter dimensas. Tetrachordum gravium idcirco dicitur, quia graves voces ibi sonant, et constat ex tono et semitonio et tono et fit ab A re gravi usque in D sol re grave. Tetrachordum finalium idcirco dicitur, quia omnis regularis cantus ibi finitur et constat ex tono et semitonio et tono, et sic a D sol re gravi usque in G sol re ut grave. Tetrachordum superiorum dicitur, quia omnes voces superiores insonant et constat ex tono et semitonio et tono et fit ab a la mi re acuto usque in d la sol re acutum. Tetrachordum excellentium dicitur, quia excellentiores voces insonant, et constat ex tono et semitonio et tono et fit a d la sol re acuto usque in g sol re ut acutum. In hac divisione quatuor tetrachordorum tres toni remanent: primus inter Gamma ut et A re grave; secundus inter g sol re ut acutum et a la mi re.</p>
+      <p id="BECANO0047">Septem sunt litterae ab antiquis, quibus musica constat ob totidem discrepantias ab A videlicet in a. Nam a modernis additum est [Gamma] in principio, ut plagalis proti sub se haberet diapente, et ut diatonicum genus staret in capite; et graeca figura positum est, ut distaret a nostro Gg, quod dupliciter positum est, et ostenderet hanc artem a Graecis inventam.</p>
+      <p id="BECANO0048">Superacutae inventae sunt, quia, cum quilibet cantus proti, deuteri vel triti transferantur a legitimis finalibus, scilicet D, E, F in sociales et affines, scilicet a, b, c, necessarium est habere tetrachordum superacutarum, ut acutae, legem finalium sortitae, reddant diapason ad superacutas, scilicet a ad aa, b ad bb, c ad cc. aa quoque ad perfectionem tetrachordi addita est, et ut trito, in acutas translato, unam vocem super diapason necessario impleret. Nulli vero diapason deest vox media, quae ad utrumque latus non concordat et inferius per diatessaron et subtus per diapente et e converso infra per diapente et supra per diattessaron praeter illam, quae a F in f, quae neque a gravibus habet diatessaron cum [sqb] quadrato, neque ab acutis diapente propter duo semitonia. Unde b molle additum est ad suplendam praedictarum consonantiarum confortantiam regularem, et maxime frequentat in eo cantu, ubi F et f continentur; vel causa diatonii interpositum est, quia in F grave et [sqb] quadratum est dissonans tritonus, quod diatonicum genus non concedit. Ex normitate vero sua b hanc legem habet, ut nusquam eius nota intelligatur nec ipsa ascribatur. Haec autem rotunda est, quia volubilis et instabilis est, altera vero quadrata, quia naturalis et stabilis est.</p>
+    </body>
+  </text>
+</TEI>

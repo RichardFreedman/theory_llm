@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Tractatus artis antiquae cum explicatione mensurae binariae</title>
+        <title type="abbrev">ANOTAA</title>
+        <author>Anonymous</author>
+        <date notBefore="1200" notAfter="1299">13th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Peter Slemon</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Michael W. Lundell</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1994</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Johannes dictus Balloce, 
+<emph>Abreviatio magistri Franconis</emph>; Anonymus, 
+<emph>Compendium musicae mensurabilis artis antiquae (Ms. Saint-Dié, Bibl. Municipale, 42)</emph>, ed. Gilbert Reaney; Anonymus, 
+<emph>Compendium musicae mensurabilis artis antiquae (Ms. Wien, Nationalbibl., 5003)</emph>; Anonymus, 
+<emph>Tractatus artis antiquae cum explicatione mensurae binariae (Ms. Wien, Nationalbibl., 5003)</emph>, ed. Heinz Ristory, Corpus scriptorum de musica, vol. 34 (n.p.: American Institute of Musicology, 1987), 69–73. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: Tractatus de musica mensurabili: Tractatus artis antiquae cum explicatione mensurae binariae</title>
+          
+<idno type="LML">MENS. Notandum quod</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">A-Wn Cod. 5003, 202v-204</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANOTAA0001">
+      <pb n="[69]" />Anonymus</p>
+      <p id="ANOTAA0002">Tractatus artis antiquae cum explicatione mensurae binariae</p>
+      <p id="ANOTAA0003">I Notandum quod, muteto vel conducto qui mensurabiliter cantantur, speciales in notis mensurae ascribuntur. Et alia notarum est longa, alia brevis, quaedam vero semibrevis, quarum proprietates suo loco ponuntur.</p>
+      <p id="ANOTAA0004">II Nota longa sive duorum temporum aut trium dicitur illa quae habet tractum a parte posteriori sive dextra, sive deorsum descendat aut sursum respiciat, ut hic: [L,L; Bcsdx,Bcsdx] Item longarum notarum alia est trium temporum, alia vero duorum, verbi gratia: si duae notae longae inmediate ante pausam, semipausam vel suspirium conveniunt, semper penultima est trium temporum, ultima vero unius temporis, ut hic ante pausam: [L,L on staff4] ante semipausam: [L,L on staff4] item ante suspirium ut hic: [L,L on staff4] In omni loco, sive sit in linea aut spatio, alias in omni loco praeterquam ut dictum est, nota longa in proprietate sua duorum temporum debet esse.</p>
+      <p id="ANOTAA0005">
+      <pb n="[70]" />III Nota brevis dicitur illa quae nulla proprietate signata ponitur sed simpliciter quadrata, quae unius est temporis, quarum duae valent unam longam in omni loco positae sigillatim, ut hic: [B,B,B,B on staff2]</p>
+      <p id="ANOTAA0006">IV De semibrevi. Et est semibrevis nota illa quarum duae sigillatim positae unam brevem valent, quatuor vero unam longam, ut hic: [B,B,B,B; B,B on staff3]</p>
+      <p id="ANOTAA0007">Va Brevium notarum binaria ligatura est duplex: quaedam est duorum temporum et valet unam longam, ut hic: [Lig2d,Lig2d,Lig2d on staff3] alia vero est unius temporis et valet unam brevem: [Lig2cdsnd,Lig2cdsnd,Lig2cssnd,Lig2cssna,Lig2cssnd,Lig2cdsnd on staff4] Praeterea omnis nota habens signum proprietatis suae a parte anteriori, id est tractum, dicitur esse brevis, ut hic: [Bcdsn,Bcdsn,Bcdsn,Bcdsn,Bcdsn,Bcdsn,Bcdsn,Bcdsn on staff3]</p>
+      <p id="ANOTAA0008">Et sciendum quod ubicumque vel quotienscumque haec proprietas sive tractus, ut iam dictum est, reperitur, significat brevitatem.</p>
+      <p id="ANOTAA0009">Ternaria ligatura brevium similiter est duplex: alia est trium temporum, alia quatuor temporum, et sic describitur cum tractu sursum: [Lig3cssnaart,Lig3cssnaart,Lig3cssndd,Lig3cssndd on staff3] 
+      <pb n="[71]" />Nota quod iste tractus, qui a parte anteriori ponitur, aliud in ternaria quam in binaria ligatura operatur, quia in ternaria ligatura designat brevitatem, in binaria vero semibrevitatem. Sic ob gratiam illius tractus in ternaria quaelibet nota fit aequalis brevis, id est trium temporum, ut superius est notatum. De ternaria ligatura quatuor temporum sic est accipiendum: quando tres notae breves insimiles sine aliqua proprietate tractus sunt ligatae, semper prima est duorum temporum et aliae duae breves, ut hic: [Lig3aart,Lig3aart,Lig3dd on staff3]</p>
+      <p id="ANOTAA0010">De quaternaria ligatura brevium notarum idem dicimus quantum ad tractum; qui, si in primo puncto signatus fuerit, ipsa quaternaria ligatura erit quatuor temporum et aequalis brevis, ut hic: [Lig4cssnaaart,Lig4cssnddd,Lig4cssnaaa on staff4] Si vero fuerit sine tractu, prima erit duorum temporum et quarta similiter, mediae duae erunt aequales breves, ut hic: [Lig4ddd,Lig4aaart on staff3]</p>
+      <p id="ANOTAA0011">Si vero quaternaria ligatura erit, praedictae regulae subiacebit. Notandum de ternaria ligatura brevium quae alio modo describitur et aliter profertur, nam primae duae sunt semibreves et unius temporis, tertia vero brevis; sic ista ternaria ligatura duo tantum valet tempora, cum praecedentes tria aut quatuor valeant tempora; eius proprietas est talis: [(Lig2cssnod),Lig3cssnodacddx,Lig3aod,Lig3cssnoad on staff3]</p>
+      <p id="ANOTAA0012">Vb Nota ubicumque eadem ligatura inter duas longas evenerit, 
+      <pb n="[72]" />brevis sive unius temporis erit. Ternaria ligatura semibrevium est duplex: alia unius temporis, alia duorum; eius proprietas talis est: [S,S,S,S,S,S,S,S,S on staff3] Sed videndum ubi minor vel maior esse debeat in proprietate, et notandum quod quandocumque haec ligatura ternaria inter duas longas erit, evenerit brevis et unius temporis erit, ut hic: [Bcdsn,S,S,S,Bcdsn; Bcdsn,S,S,S,Bcdsn on staff3] Et e converso si inter duas breves notas evenerit, duorum temporum est et unam longam valebit, ut hic: [B,S,S,S,B on staff2]</p>
+      <p id="ANOTAA0013">Quaternaria ligatura semibrevium, sive stet cum brevibus aut cum longis, duorum temporum debet esse; cum brevibus ut hic: [B,S,S,S,S,B; B,S,S,S,S,B on staff3] cum longis ut hic inferius: [L,S,S,S,S,L,L,S,S,S,S,L on staff3]</p>
+      <p id="ANOTAA0014">VI Pausa longa est illa quae omnes quatuor lineas comprehendit et tempora duo valet sicut et nota longa, et eius proprietas est talis: [MXP,MXP,MXP,MXP,MXP on staff4] Et notandum quod, quotienscumque in aliquo tenore pausa signata dupliciter, tripliciter, quadrupliciter invenitur, aut in medio aut in fine, totiens ille tenor ab illo loco reiteratur. Semipausa 
+      <pb n="[73]" />valet unam brevem notam unius temporis, et duas tantum lineas ex omni parte vix excedit, ut hic: [BP,BP,BP,BP on staff2] Suspirium unam notam semibrevem valet vel dimidium tempus de linea ad lineam, de spatio ad spatium vix se extendens, sicut de omnibus hic patet:</p>
+      <p id="ANOTAA0015">[CSM34:73] 
+      <figure>
+        <graphic url="/images/ANOTAA_01GF.gif" />
+      </figure></p>
+    </body>
+  </text>
+</TEI>

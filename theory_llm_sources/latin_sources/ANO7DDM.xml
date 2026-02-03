@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>De diversis manieribus in musica mensurabili</title>
+        <title type="abbrev">ANO7DDM</title>
+        <author>Anonymous</author>
+        <date notBefore="1300" notAfter="1399">14th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Peter Slemon</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Andreas Giger</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1995</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>De valore notvlarum tam veteris qvam novae artis (Ms. Paris, Bibl. Nat., lat. 15128)</emph>; 
+<emph>Compendium mvsicae mensvrabilis tam veteris qvam novae artis (Ms. Paris, Bibl. Nat., lat. 15128)</emph>; 
+<emph>De diversis maneriebvs in mvsica mensvrabili (Ms. Saint-Dié, Bibl. Municipale 42)</emph>, ed. Gilbert Reaney, Corpus scriptorum de musica, vol. 30 (n.p.: American Institute of Musicology, 1982), 51–62. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: Fragmentum cod. Deodatensis (Saint-Dié)</title>
+          
+<idno type="LML">ANON. Deodat.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">F-SDI 42, 123-126v</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANO7DDM0001">
+      <pb n="[51]" />De figuris</p>
+      <p id="ANO7DDM0002">Capitulum 1</p>
+      <p id="ANO7DDM0003">S 123</p>
+      <p id="ANO7DDM0004">...ascendendo vel descendendo, ut hic supra. Sic formantur breves plicatae, ut hic:</p>
+      <p id="ANO7DDM0005">[ClefC3,Bvpssncsdx,Lvpdsn,Bvcssnpsdx,Lvpdsn,Bvpssncsdx,Bvpssncsdx on staff4]</p>
+      <p id="ANO7DDM0006">Sic formantur semibreves in baculo et in quadro, quarum nisi duo pro tempore in qualibet manerie ire possunt, ut hic:</p>
+      <p id="ANO7DDM0007">[ClefC3,Lig2vcssnod,Lig2vcssnod,Lig2vcssnod,Lig2vcssna,Lig2vcssna,Lig2vcssnod,Lig2vcssna on staff5]</p>
+      <p id="ANO7DDM0008">Omnis nota in baculo posita descendendo sine tractu in capite longa dicitur, in fine brevis, ut:</p>
+      <p id="ANO7DDM0009">[ClefC3,Lig2vod,Lig2vod,Lig2vod,Lig2vod,Lig2vod on staff5]</p>
+      <p id="ANO7DDM0010">Omnis nota tractu carens ascendendo in baculo formata brevis est, ut:</p>
+      <p id="ANO7DDM0011">[ClefC3,Lig2voa,Lig2voa,Lig2voa,Lig2voa,Lig2voa on staff5]</p>
+      <p id="ANO7DDM0012">
+      <pb n="[52]" />De modis</p>
+      <p id="ANO7DDM0013">Capitulum 2</p>
+      <p id="ANO7DDM0014">S 123</p>
+      <p id="ANO7DDM0015">Primus modus constat ex omnibus longis perfectis, vel ex longa imperfecta et brevi:</p>
+      <p id="ANO7DDM0016">[ClefF3,Lv,Lv,Lv,Lv,2LP,Lv,Bv,Lv,2LP,Lv,Lig2vcssnod,Lv,2LP,Lig2vod,Lig2vod,Lv,Lv on staff4]</p>
+      <p id="ANO7DDM0017">Secundus modus e contrario ex brevi et longa imperfecta:</p>
+      <p id="ANO7DDM0018">[ClefF3,Bv,Lv,Bv,Lv,BP,Lv,BP,Bv,Lv,BP,Bv,Lv,Lig2vart,Lig2vart,Lig2vcssnod,Lv,Sv,Sv,Sv,Sv,Lv,Lv on staff5]</p>
+      <p id="ANO7DDM0019">Tertius modus ex longa perfecta et brevi et altera brevi:</p>
+      <p id="ANO7DDM0020">[ClefF3,Lv,Bv,Bv,Bvpssncsdx,Lig2vcdsnod,Lv,Lig2vcdsnod,Lv,Lig3vad,Lig2vcssnod,Lv,Lv,Lig4vcssnodaart,3LP on staff5]</p>
+      <p id="ANO7DDM0021">[ClefF3,Sv,Sv,Sv,Sv,Lv,Lig2vd,2LP,Lv,Bv,Bv,Lig2vd,Lig2vd,Lig2vd,Lv,3LP on staff5]</p>
+      <p id="ANO7DDM0022">Quartus modus ex brevi et altera brevi et longa perfecta:</p>
+      <p id="ANO7DDM0023">[ClefF3,Lig3vcdsnodart,Bv,Bv,Lv,Lig3vad,Lig3vcdsndod,Lv,Lig3vcdsndd,Lig3vcdsndd,Lig6vcdsnddddd,Lv,Lv,Lv on staff4]</p>
+      <p id="ANO7DDM0024">Quintus modus constat ex longis, brevibus et semibrevibus:</p>
+      <p id="ANO7DDM0025">[ClefF3,Lv,Lv,Lv,Bvcdsnpddx,Lv,Lig3vcssnoda,Sv,Sv,Sv,Lv,Sv,Sv,Sv,Sv,Lv,BP,Lv,BP,Lig2vacddx on staff5]</p>
+      <p id="ANO7DDM0026">
+      <pb n="[53]" />De pausis</p>
+      <p id="ANO7DDM0027">Capitulum 3</p>
+      <p id="ANO7DDM0028">S 123v</p>
+      <p id="ANO7DDM0029">Quot spatia pausa tenet, tot tempora valet:</p>
+      <p id="ANO7DDM0030">[ClefF3,BP,2LP,3LP,MXP,MXP,3LP,2LP,BP; BP,2LP,3LP,MXP,MXP,3LP,2LP,BP on staff5]</p>
+      <p id="ANO7DDM0031">Si iuxta longam sit pausa duorum temporum, tunc longa valet duo tempora et duplex longa quatuor, nisi per puntillum defendatur.</p>
+      <p id="ANO7DDM0032">[ClefF3,Lv,2LP,MXv,2LP,Lv,Lig2vcdsnod,Lv,2LP,Lv,Lv,Lv,2LP on staff5]</p>
+      <p id="ANO7DDM0033">De brevibus inter longas positis</p>
+      <p id="ANO7DDM0034">Capitulum 4</p>
+      <p id="ANO7DDM0035">S 123v</p>
+      <p id="ANO7DDM0036">Nota quod quando tres breves inter duas longas inveniuntur, tunc quaelibet brevis est unius temporis et quaelibet longa est trium temporum, nisi ante vel post aliquid adiciatur.</p>
+      <p id="ANO7DDM0037">Item nota quod quando quinque breves inter duas longas inveniuntur, tunc pro perfectione numerantur tres primae breves; aliarum brevium prima brevis, secunda altera brevis.</p>
+      <p id="ANO7DDM0038">
+      <pb n="[54]" />De semibrevibus in brevi manerie</p>
+      <p id="ANO7DDM0039">Capitulum 5</p>
+      <p id="ANO7DDM0040">S 123v</p>
+      <p id="ANO7DDM0041">Hic vadunt semibreves secundum quod puntillus distinguit:</p>
+      <p id="ANO7DDM0042">[ClefF3,Bv,Lig2vcssnod,Lig2vcssna,Sv,Sv,pt,Sv,Sv,Sv,Sv,pt,Sv,Sv,Sv,pt,Sv,Sv,Sv,Sv,pt,Lig2vcssnod,Sv,Sv,Sv,pt on staff5]</p>
+      <p id="ANO7DDM0043">Duae semibreves in brevi manerie sunt ambae aequales et vadunt pro tempore:</p>
+      <p id="ANO7DDM0044">[ClefC3,Sv,Sv,Lig2vcssna,Lig2vcssnod,Sv,Sv,Lig2vcssna,Sv,Sv,Bv on staff5]</p>
+      <p id="ANO7DDM0045">Trium prima tenetur:</p>
+      <p id="ANO7DDM0046">[ClefF3,Bv,Sv,Sv,Sv,pt,Sv,Sv,Sv,pt,Sv,Sv,Sv,Lig2vcdsnod on staff4]</p>
+      <p id="ANO7DDM0047">Quatuor sunt aequales:</p>
+      <p id="ANO7DDM0048">[ClefF3,Bv,Sv,Sv,Sv,Sv,pt,Sv,Sv,Sv,Sv,pt,Sv,Sv,Sv,Sv,pt,Lig2vcssnod,Sv,Sv,Sv,Lig2vcdsnod on staff5]</p>
+      <p id="ANO7DDM0049">Quinque prima et duae ultimae minores, aliae minimae:</p>
+      <p id="ANO7DDM0050">[ClefF3,Bv,Sv,Mv,Mv,Sv,Sv,pt,Sv,Mv,Mv,Sv,Sv,Bv,Sv,Mv,Mv,Sv,Sv,pt on staff5]</p>
+      <p id="ANO7DDM0051">[ClefF3,Sv,Mv,Mv,Sv,Sv,[pt],Sv,Mv,Mv,Sv,Sv,Bv on staff5]</p>
+      <p id="ANO7DDM0052">
+      <pb n="[55]" />De senaria et nonaria maneriebus</p>
+      <p id="ANO7DDM0053">Capitulum 6</p>
+      <p id="ANO7DDM0054">S 124</p>
+      <p id="ANO7DDM0055">Tres sunt semibreves, secundum magistrum Philippum Parisiensem, per quas mensura de senaria et nonaria discernitur, scilicet maior ut hic: [[S,S]], minor ut hic: [S,M], minima ut hic: [[M]]. Maior caret tractu et valet tres minimas; et sequitur alia maior sine tractu, sicut longa praecedit longam ut hic: [L,L]. Minor caret tractu sicut et maior; et sequitur minima ut supra, sicut longa iuxta brevem ut hic: [L,B].</p>
+      <p id="ANO7DDM0056">Minor valet duas minimas. Minima est caudata ascendendo. In istis maneriebus de nonaria et senaria, nulla semibrevis caudatur ex parte inferiori.</p>
+      <p id="ANO7DDM0057">Brevis in ista manerie de senaria valet duas maiores semibreves, id est sex minimas, quia brevis in nonaria valet tres maiores semibreves, id est novem minimas. Semibrevis in baculo vel in quadro in manerie de senaria, omnes sunt maiores semibreves. Et in manerie de nonaria prima maior, secunda duplex maior. Si iuxta brevem sit minima in manerie de senaria, tunc brevis valet quinque minimas. Et si iuxta brevem sint duae minimae, tunc brevis valet quatuor minimas.</p>
+      <p id="ANO7DDM0058">Quot modis in senaria manerie fiant duae semibreves pro tempore:</p>
+      <p id="ANO7DDM0059">[ClefF3,Lig2vcssnod,Sv,Sv,pt,Lig2vcssna,Sv,Sv,pt.Bv,2LP,Bv,Sv,Bv,Sv,pt,Bv,Sv,pt,Bv,2LP,Sv,Bv,pt on staff5]</p>
+      <p id="ANO7DDM0060">
+      <pb n="[56]" />[CSM30:56; Text: t] 
+      <figure>
+        <graphic url="/images/ANO7DDM_01GF.gif" />
+      </figure></p>
+      <p id="ANO7DDM0061">Quot modis tres:</p>
+      <p id="ANO7DDM0062">[ClefF3,Bv,Sv,Sv,Mv,pt,Mv,Sv,Sv,pt,Sv,Mv,Sv,Bvcdsnpddx,2LP,Bv,Mv,Mv,pt,Bv,Mv,Mv,Bv,2LP on staff5]</p>
+      <p id="ANO7DDM0063">[ClefC3,Sv,Sv,Mv,pt,Sv,Sv,Sv,Lig3vcssnaod,Lig4vcssnadod,2LP on staff5]</p>
+      <p id="ANO7DDM0064">Quot modis quatuor:</p>
+      <p id="ANO7DDM0065">[ClefF3,Bv,Sv,Mv,Sv,Mv,pt,Sv,Mv,Sv,Mv,Lig2vcssnod,2LP,Mv,Sv,Mv,Sv,pt,Mv,Sv,Mv,Sv,pt,Lig3vcdsnoda on staff5]</p>
+      <p id="ANO7DDM0066">[ClefF3,Sv,Mv,Mv,Mv,pt,Mv,Mv,Mv,Sv,Lv on staff5; ClefF2,Mv,Mv,Sv,Mv,pt,Mv,Mv,Mv,Mv,pt,Bv on staff4]</p>
+      <p id="ANO7DDM0067">[ClefF2,Sv,Sv,Mv,Mv,pt,Mv,Mv,Sv,Sv,pt,Lig3vcssnoda,2LP,Sv,Mv,Sv,Mv,pt,Sv,Mv,Mv,Sv,pt,Bv on staff4]</p>
+      <p id="ANO7DDM0068">[ClefF3,Mv,Sv,Mv,Mv,pt,Sv,Mv,Mv,Mv,pt,Bv,2LP,Mv,Sv,Mv,Sv,pt,Sv,Sv,pt,Mv,Mv,Mv,Sv,pt,Lig2vcdsnod on staff5]</p>
+      <p id="ANO7DDM0069">
+      <pb n="[57]" />Quot modis quinque:</p>
+      <p id="ANO7DDM0070">[ClefF3,Bv,Mv,Mv,Mv,Sv,Mv,pt,Mv,Mv,Mv,Sv,Mv,Bv,2LP,Bv,Mv,Mv,Mv,Mv,Sv,pt on staff4]</p>
+      <p id="ANO7DDM0071">[ClefF3,Mv,Mv,Mv,Mv,Sv,Bv,2LP,Bv,Mv,Mv,Sv,Mv,Mv,pt,Mv,Mv,Sv,Mv,Mv,Bv,2LP on staff4]</p>
+      <p id="ANO7DDM0072">[ClefF3,Bv,pt,Mv,Sv,Mv,Mv,Mv,pt,Sv,Mv,Mv,Mv,Mv,Lig2vcdsnod,2LP on staff4]</p>
+      <p id="ANO7DDM0073">[ClefF3,Mv,Mv,Sv,Mv,Mv,pt,Sv,Mv,Mv,Mv,Mv,Lig2vcdsnod,2LP on staff4]</p>
+      <p id="ANO7DDM0074">Quot modis sex:</p>
+      <p id="ANO7DDM0075">[ClefF3,Bv,Mv,Mv,Mv,Mv,Mv,Mv,Bv,2LP,Bv,Mv,Mv,Mv,Mv,Mv,Mv,Bv,2LP,Mv,Mv,Mv,Mv,Mv,Mv,Lv on staff5]</p>
+      <p id="ANO7DDM0076">In nonaria manerie tres maiores semibreves vadunt pro tempore, ut hic: [S,S,S]; vel tres minores et tres minimae, ut hic: [S,M,S,M,S,M]; vel novem minimae, ut hic: [M,M,M,M,M,M,M,M,M]. Brevis in nonaria manerie valet tres maiores semibreves. Semibrevium in baculo vel in quadro positarum, prima maior, secunda duplex maior ut hic:</p>
+      <p id="ANO7DDM0077">[Lig2vcssnod,Lig2vcssna,Lig2vcssnod]</p>
+      <p id="ANO7DDM0078">Senaria maneries aliquando cognoscitur per hoc signum: .s., nonaria per .n., octonaria per .o., duodenaria per .d.</p>
+      <p id="ANO7DDM0079">
+      <pb n="[58]" />Quot modis fiant duae semibreves pro tempore in nonaria manerie:</p>
+      <p id="ANO7DDM0080">[ClefF3,Lig2vcssnod,Lig2vcssna,Sv,Sv,pt,Sv,Sv,pt,Lig2vcdsnod,Lig2vcssnod,Lig2vcssna,Lig2vcdsnd,3LP on staff5]</p>
+      <p id="ANO7DDM0081">Quot modis fiant tres:</p>
+      <p id="ANO7DDM0082">[ClefF3,Bv,Sv,Sv,Sv,pt,Sv,Sv,Sv,pt,Sv,Sv,Sv,Lig2va,2LP,Lig2va,Sv,Mv,pt,Mv,Sv,Bv,pt,Bv,pt,2LP on staff5]</p>
+      <p id="ANO7DDM0083">[ClefF3,Bv,Sv,Sv,pt,Sv,Sv,Lig3vad,3LP on staff5]</p>
+      <p id="ANO7DDM0084">Quot modis quatuor:</p>
+      <p id="ANO7DDM0085">[ClefF3,Bv,Sv,Sv,Mv,Sv,pt,Sv,Mv,Sv,Sv,pt,Lig2vcdsnod,2LP,Mv,Sv,Sv,Sv,pt on staff5]</p>
+      <p id="ANO7DDM0086">[ClefF3,Sv,Sv,Mv,Sv,pt,Lig2vcdsnod,2LP,Bv,Sv,Mv,Sv,Sv,Lig2vcdsnod,3LP on staff5]</p>
+      <p id="ANO7DDM0087">Quot modis quinque:</p>
+      <p id="ANO7DDM0088">[ClefF2,Bv,Sv,Sv,Mv,Sv,Mv,pt,Sv,Mv,Sv,[Mv],Mv,pt,Lig2vacddx,2LP on staff5]</p>
+      <p id="ANO7DDM0089">[ClefF3,Mv,Sv,Mv,Sv,Sv,pt,Mv,Mv,Mv,Sv,Sv,pt,Sv,Sv,Mv,Mv,Mv,pt,Lig2vcdsnod on staff5]</p>
+      <p id="ANO7DDM0090">
+      <pb n="[59]" />Quot modis sex:</p>
+      <p id="ANO7DDM0091">[ClefF2,Bv,Sv,Mv,Sv,Mv,Sv,Mv,pt,Sv,Mv,Sv,Mv,Sv,Mv,Lv,2LP on staff4]</p>
+      <p id="ANO7DDM0092">[ClefC3,Sv,Mv,Sv,Mv,Sv,Mv,pt,Sv,Mv,Sv,Mv,Sv,Mv,Lig3vad,3LP on staff5]</p>
+      <p id="ANO7DDM0093">Quot modis septem:</p>
+      <p id="ANO7DDM0094">[ClefF3,Bv,Mv,Mv,Mv,Sv,Mv,Mv,Mv,pt,Sv,Mv,Mv,Mv,Mv,Mv,Mv,pt,Lig2vcdsnod,3LP on staff5]</p>
+      <p id="ANO7DDM0095">[ClefF3,Mv,Mv,Mv,Sv,Sv,Sv,Sv,pt,Mv,Sv,Mv,Sv,Mv,Mv,Mv,Lv,2LP on staff5]</p>
+      <p id="ANO7DDM0096">Quot modis octo:</p>
+      <p id="ANO7DDM0097">[ClefC3,Mv,Mv,Mv,Sv,Mv,Mv,Mv,Mv,pt,Lig2vcdsnod,3LP,ClefC1,Mv,Mv,Mv,Sv,Mv,Mv,Mv,Mv,Lig2vcdsnod,3LP on staff5]</p>
+      <p id="ANO7DDM0098">Quot modis novem:</p>
+      <p id="ANO7DDM0099">[ClefC3,Bv,Mv,Mv,Mv,Mv,Mv,Mv,Mv,Mv,Mv,Lig3vcssnad,2LP on staff6]</p>
+      <p id="ANO7DDM0100">
+      <pb n="[60]" />De octonaria et duodenaria maneriebus</p>
+      <p id="ANO7DDM0101">Capitulum 7</p>
+      <p id="ANO7DDM0102">S 125v</p>
+      <p id="ANO7DDM0103">In octonaria manerie duae semibreves pro tempore sunt aequales et sunt maiores, quarum quaelibet valet quatuor minimas ut hic:</p>
+      <p id="ANO7DDM0104">[ClefF2,Sv,Sv,pt,Lig2vcssnod,Lig2vcssna,Sv,Sv,pt,Lv,2LP on staff4]</p>
+      <p id="ANO7DDM0105">Trium prima maior:</p>
+      <p id="ANO7DDM0106">[ClefC3,Sv,Sv,Sv,pt,Sv,Sv,Sv,pt,Lig2va,2LP,2LP on staff5]</p>
+      <p id="ANO7DDM0107">Quatuor, quaelibet minor, et valet duas minimas:</p>
+      <p id="ANO7DDM0108">[ClefC3,Sv,Sv,Sv,Sv,pt,Sv,Sv,Sv,Sv,pt,Lig2vcdsnod on staff4]</p>
+      <p id="ANO7DDM0109">Quinque, prima et duae ultimae minores, aliae minimae, ut hic:</p>
+      <p id="ANO7DDM0110">[ClefC3,Sv,Sv,Sv,Sv,Sv,pt,Sv,Sv,Sv,Sv,Sv,Lv on staff5]</p>
+      <p id="ANO7DDM0111">Sex, prima et quarta minores, aliae minimae:</p>
+      <p id="ANO7DDM0112">[ClefC3,Sv,Sv,Sv,Sv,Sv,Sv,pt,Sv,Sv,Sv,Sv,Sv,Sv,pt,Bvcsdx,r on staff5]</p>
+      <p id="ANO7DDM0113">
+      <pb n="[61]" />Septem, minor prima, aliae minimae:</p>
+      <p id="ANO7DDM0114">[ClefC3,Sv,Sv,Sv,Sv,Sv,Sv,Sv,pt,Lig2vcdsnod on staff5]</p>
+      <p id="ANO7DDM0115">Quot modis fiant duae semibreves in octonaria pro tempore:</p>
+      <p id="ANO7DDM0116">[ClefC3,Lig2vcssnod,Sv,Sv,pt,Lig2vcssna,Sv,Sv,pt,Lig2vcssnod,3LP on staff5]</p>
+      <p id="ANO7DDM0117">Quot modis fiant tres:</p>
+      <p id="ANO7DDM0118">[ClefC3,Bv,Svcd,Sv,Sv,pt,Sv,Svcd,Sv,pt,Bv,Mv,Mv,Lig2vcdsnod on staff4]</p>
+      <p id="ANO7DDM0119">Quot modis fiant quatuor:</p>
+      <p id="ANO7DDM0120">[ClefC3,Sv,Sv,Sv,Sv,pt,Bv,Svcd,Mv,Sv,Mv,pt,Lv,3LP on staff5]</p>
+      <p id="ANO7DDM0121">Quot modis fiant quinque:</p>
+      <p id="ANO7DDM0122">[ClefC3,Sv,Mv,Mv,Sv,Sv,pt,Mv,Svcd,Mv,Mv,Mv,pt,Lig3vad,3LP on staff5]</p>
+      <p id="ANO7DDM0123">Quot modis sex:</p>
+      <p id="ANO7DDM0124">[ClefC3,Bv,pt,Sv,Sv,Sv,Sv,Sv,[Sv],pt,Lig3vaacddx,MXP on staff6]</p>
+      <p id="ANO7DDM0125">
+      <pb n="[62]" />Quot modis septem:</p>
+      <p id="ANO7DDM0126">[ClefC4,Bv,Mv,Mv,Mv,Mv,Mv,Mv,Mv,pt,Bv,Mv,Mv,Mv,Mv,Mv,Mv,Mv,Lig2vcdsnod,3LP on staff6]</p>
+      <p id="ANO7DDM0127">Quot modis octo:</p>
+      <p id="ANO7DDM0128">[ClefC4,Bv,Mv,Mv,Mv,Mv,Mv,Mv,Mv,Mv,Lig2vcdsnd,3LP on staff6]</p>
+      <p id="ANO7DDM0129">In duodenaria manerie, duarum semibrevium pro tempore, prima maior, secunda duplex maior, et si iuxta brevem sit maior semibrevis, tunc brevis valet duas maiores semibreves:</p>
+      <p id="ANO7DDM0130">[Lig2cssnod,S,S,pt,L]</p>
+      <p id="ANO7DDM0131">Tres sunt omnes maiores:</p>
+      <p id="ANO7DDM0132">[ClefC3,Sv,Sv,Sv,pt,Svcd,Svcd,Svcd,pt,Sv,Sv,Sv,Lv,3LP on staff5]</p>
+      <p id="ANO7DDM0133">Quatuor, primae duae minores et aliae sequentes maiores:</p>
+      <p id="ANO7DDM0134">[ClefC3,Sv,Sv,Sv,Sv,pt,Sv,Sv,Sv,Sv,pt,Lv,r on staff5]</p>
+      <p id="ANO7DDM0135">Quinque, quatuor primae minores:</p>
+      <p id="ANO7DDM0136">[CSM30:62]</p>
+    </body>
+  </text>
+</TEI>

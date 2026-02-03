@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Libellus cantus mensurabilis</title>
+        <title type="abbrev">MURLIBR_MBAVR114</title>
+        <author>Johannes de Muris</author>
+        <date notBefore="1300" notAfter="1399">14th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>T</resp>
+        <persName>Peter M. Lefferts</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Travis Yeager</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Peter M. Lefferts</persName>
+      </respStmt>
+      <date>2009</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Vatican City, Biblioteca Apostolica Vaticana, MS Reg. lat. 1146, ff. 35r–46r.
+</bibl>
+        <bibl type="work">
+          
+<title>Iohannes de Muris: Ars practica mensurabilis cantus (= Libellus cantus mensurabilis)</title>
+          
+<idno type="LML">IOH. MUR. Lib.</idno>
+        
+</bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="MURLIBR_MBAVR1140001">
+      <pb n="[f.35r]" />[Ioannibus de muribus. m.sec. supra lin.]</p>
+      <p id="MURLIBR_MBAVR1140002">Quilibet in arte practica mensurabilis cantus erudiri mediocriter affectans ea scribit diligenter que secuntur summarie compilata secundum magistrum Iohannem de Muris Quinque sunt partes prolacionis videlicet maxima longa. breuis. semibreuie minima</p>
+      <p id="MURLIBR_MBAVR1140003">[MX,L,B,S,M on staff4]</p>
+      <p id="MURLIBR_MBAVR1140004">Maxima perfecta valet tres longas siue de modo perfecto siue de inperfecto Et si ille longe sint de modo perfecto. valet maxima perfecta nouem tempora Si de inperfecto valet sex tempora ut hic</p>
+      <p id="MURLIBR_MBAVR1140005">[MX,L,L,L,MX,B,B,B,pt,B,B,B,pt,B,B,B,pt,Cd,MX,B,B,B,pt,B,B,B,Od,O on staff4]</p>
+      <p id="MURLIBR_MBAVR1140006">Maxima inperfecta valet duas longas siue de modo perfecto [inperfecto ante corr.] siue de inperfecto Si de modo perfecto. maxima inperfecta valet sex breues si de inperfecto duas ut hic patet verius</p>
+      <p id="MURLIBR_MBAVR1140007">[de Muris, Libellus, f.35r,1] 
+      <figure>
+        <graphic url="/images/MURLIBR_01GF.gif" />
+      </figure></p>
+      <p id="MURLIBR_MBAVR1140008">Ex his infertur quod maxima potost esse perfecta longis existentibus inperfectis. et econuerso longa in modo perfecto valet tres breues in modo inperfecto duas ut hic patet</p>
+      <p id="MURLIBR_MBAVR1140009">[de Muris, Libellus, f.35r,2]</p>
+      <p id="MURLIBR_MBAVR1140010">Breuis in tempore perfecto valet tres semibreues In tempore inperfecto duas ut hic patet</p>
+      <p id="MURLIBR_MBAVR1140011">[de Muris, Libellus, f.35r,3]</p>
+      <p id="MURLIBR_MBAVR1140012">
+      <pb n="[f.35v]" />Semibreuis valet tres minimas in maiori prolacione in minori duas ut hic</p>
+      <p id="MURLIBR_MBAVR1140013">[de Muris, Libellus, f.35v]</p>
+      <p id="MURLIBR_MBAVR1140014">[Nota m.sec. in marg.] Pro quibus nota quod duplex est modus silicet perfectus et inperfectus Perfectus quando longa valet tres breues Inperfectus quando duas Item duplex est tempus perfectum et inperfectum Perfectum quando breuis valet tres semibreues Inperfectum quando duas exempla patent ex predictis [Nota m.sec. in marg.] Insuper notandum est quod omnis nota perfecta potest inperfici. et inperfecta perfici. Inperfici vero per abstraccionem tercie partis sui valoris Perfici vero per addicionem medietatis sui valoris [Nota bona m.sec. in marg.] Nam perfeccio constat in numero ternario Inperfeccio vero in numero binario [Nota bona in marg m.sec.] Vnde maxima perfecta in toto et in partibus potest inperfici dupliciter videlicet quo ad totum et quo ad partes. Quo ad totum dupliciter scilicet a parte ante et a parte post. A parte ante quando precedit ipsam sola [solam ante corr.] longa [longam ante corr.] A parte post quando sequitur vel remanet sola longa perfeccione computata vel eius valore ut hic</p>
+      <p id="MURLIBR_MBAVR1140015">[L,MX,2LP,MX,L,3LP,MX,L,L,L,MX,L,MX on staff4]</p>
+      <p id="MURLIBR_MBAVR1140016">Quo ad partes eciam dupliciter silicet quo ad partes propinquas. et quo ad partes remotas [Nota. m.sec. in marg.] Circa quod notandum est quod pars propinqua alicuius tocius est illa in qua ipsum totum in medietate 
+      <pb n="[f.36r]" />diuiditur. sicut maximarum. partes propinque sunt longe longarum. breues breuium. semibreues et cetera Partes remote. sunt partes parcium propinquarum. remociores partes. parcium. parcium propinquarum et cetera [Nota m.sec. in marg.] Maxima igitur quo ad partes propinquas potest inperfici dupliciter scilicet a parte ante et a parte post per abstraccionem tercie partis valoris cuiuslibet partis propinque vel alterius earundem et sic similiter quo ad partes earundem remotas per abstraccionem tercie partis de valore cuiuslibet partis remote. vel alterius earundem et cetera et sic isto modo intelligi potest de .longis. breuibus. et semibreuibus exempla inferius et econuerso Et pro predictis et infrascriptis nota has regulas</p>
+      <p id="MURLIBR_MBAVR1140017">[L,MX,3LP,MX,L,3LP,MX,L,B,L,MX,B,B,3LP,B,L,MX,B,S,B,S,S,B,L,MX,B,S,M,B,S,M on staff4]</p>
+      <p id="MURLIBR_MBAVR1140018">[prima in marg.] Prima regula est quod longa ante longam in modo perfecto semper est perfecta. et breuis ante breuem in tempore perfecto. et semibreuis ante semibreuem in maiori prolacione ut hic patet</p>
+      <p id="MURLIBR_MBAVR1140019">[de Muris, Libellus, f.36r]</p>
+      <p id="MURLIBR_MBAVR1140020">[secunda in marg.] Secunda regula est quod quicunque aliqua nota debet inperfici oportet quod eam in mediate sequatur nota maioris vel minoris forme vel 
+      <pb n="[f.36v]" />pausa. quia similis ante similem non potest inperficici ut hic</p>
+      <p id="MURLIBR_MBAVR1140021">[de Muris, Libellus, f.36v,1]</p>
+      <p id="MURLIBR_MBAVR1140022">[3 in marg.] Tercia regula est quando post longam de modo perfecto secuntur due vel tres breues tantum nulla breui sola precedente a quo possit inperfici ante perfecta est. nisi punctus diuisionis ponatur inter breuem primam. et aliam vel alias. sequentem vel sequentes Tunc omni breuis prima inperficit longam precedentem. et idem iudicium de breuibus temporis perfecti respectu semibreuium et semibreuibus maioris prolacionis respectu minimarum ut hic ponitur</p>
+      <p id="MURLIBR_MBAVR1140023">[de Muris, Libellus, f.36v,2]</p>
+      <p id="MURLIBR_MBAVR1140024">[4 in marg.] Quarta regula est quod quando inter duas longas remanet vna breuis perfeccione computata. tunc illa inperficit longam precedentem nisi per punctum aut aliter impediatur Et idem est de semibreuibus inter breues et de minima inter semibreues ut hic</p>
+      <p id="MURLIBR_MBAVR1140025">[de Muris, Libellus, f.36v,3]</p>
+      <p id="MURLIBR_MBAVR1140026">[5 in marg.] Quinta regula est quod quando aliqua nota est sola debet reduci ad priorem locum quem potest habere ut hic patet</p>
+      <p id="MURLIBR_MBAVR1140027">[de Muris, Libellus, f.36v,4]</p>
+      <p id="MURLIBR_MBAVR1140028">
+      <pb n="[f.37r]" />[de Muris, Libellus, f.37r,1] 
+      <figure>
+        <graphic url="/images/MURLIBR_02GF.gif" />
+      </figure></p>
+      <p id="MURLIBR_MBAVR1140029">[6 in marg.] Sexta regula est quod omnis nota que inperficitur. inperficitur a propinquiore Exempla colliguntur ab exemplis precedentibus</p>
+      <p id="MURLIBR_MBAVR1140030">[7 in marg.] Septima regula est quod quando inueniuntur due note simul sole ille non debent partiri sed simul computare ut colligantur ex tenore Flos virginum et ex aliis cantibus ut hic</p>
+      <p id="MURLIBR_MBAVR1140031">[de Muris, Libellus, f.37r,2]</p>
+      <p id="MURLIBR_MBAVR1140032">[Nota in marg.] Vlterius nota quod quando aliqua nota inperficitur a parte propinqua vel eius valore hoc fit racione tocius quo ad partes Si a parte remota vel partibus remotis non tamen valentibus vnam partem propinquam hoc fit quo ad partem vel ad partes</p>
+      <p id="MURLIBR_MBAVR1140033">[Nota m.sec. in marg.] Item quidquid inperficitur. inperficitur a tercia parte. et quidquid diuisibile est in tres partes equales potest inperfici ab illa tercia parte. et quocienscunque potest diuidi in tres partes equales. tociens potest inperfici ab illa tercia parte</p>
+      <p id="MURLIBR_MBAVR1140034">[Nota m.sec. in marg.] Et inperficiens [nota m.sec. supra lin.] potest preponi et postponi illi quod inperficitur iuxta libiter ponentis seruata 
+      <pb n="[f.37v]" />tamen hac regula Quod nulla nota potest inperfici ante sibi similem sed bene ante maiorem se vel minorem ut superius dictum est. ex quibus breuiter concluditur quod semibreuis minoris prolacionis non potest inperfici. sed maioris bene potest inperfici [ab supra lin.] vna minima prededente vel subsequente ut hic</p>
+      <p id="MURLIBR_MBAVR1140035">[de Muris, Libellus, f.37v,1]</p>
+      <p id="MURLIBR_MBAVR1140036">Item [breuis supra lin.] inperfecta minoris prolacionis non potest inperfici aliquo modo. sed maioris prolacionis potest inperfici ab vna minima precedente vel subsequente quo ad vnam partem et a duabus minimis qui ad ambas partes ut hic patet</p>
+      <p id="MURLIBR_MBAVR1140037">[de Muris, Libellus, f.37v,2]</p>
+      <p id="MURLIBR_MBAVR1140038">Item breuis perfecta minoris prolacionis potest inperfici ab vna semibreui vel a duabus minimis et hoc fit quo ad totum ut hic</p>
+      <p id="MURLIBR_MBAVR1140039">[de Muris, Libellus, f.37v,3]</p>
+      <p id="MURLIBR_MBAVR1140040">Et nota quod quidam cantores scilicet Gaulfridus de Mascando non nulli alii inperficiunt breuem perfectam minoris prolacionis [ab supra lin.] vna minima sequente vel precedente quo ad vnam partem et a duabus quo ad duas partes ut hic</p>
+      <p id="MURLIBR_MBAVR1140041">[de Muris, Libellus, f.37v,4]</p>
+      <p id="MURLIBR_MBAVR1140042">Et dicunt ibi mutare qualitatem capiunt enim ibi breuem perfectam minoris prolacionis ut [breuis supra lin.] inperfectam maioris 
+      <pb n="[f.38r]" />et econuerso. breuis perfecta maioris prolacionis potest inperfici ab vna minima sequente vel precedente quo ad vnam partem et a duabus quo ad duas partes ut hic patet</p>
+      <p id="MURLIBR_MBAVR1140043">[de Muris, Libellus, f.38r,1]</p>
+      <p id="MURLIBR_MBAVR1140044">Item a tribus vel earum valore quo ad totum vel ad quatuor minimas quo ad totum et vnam partem et quinque quo ad totum et duas partes residuas ut hic</p>
+      <p id="MURLIBR_MBAVR1140045">[de Muris, Libellus, f.38r,2] 
+      <figure>
+        <graphic url="/images/MURLIBR_03GF.gif" />
+      </figure></p>
+      <p id="MURLIBR_MBAVR1140046">Et nota plus potest inperfici quia nec ipsa nec partes sue possunt diuidi in tres partes equales. [nota m.sec. in marg.] et nota quod quidquid circa inperfeccionem dictum est de minimis respectu breuium intelligitur de semibreuibus respectu longarum et de breuibus respectu maximarum</p>
+      <p id="MURLIBR_MBAVR1140047">Vnde sicut dare est breuem valentem duas semibreues valentes quatuor minimas Ita est dare longam inperfectam valentem duas breues valentes quatuor semibreues Et maximam inperfectam valentem duas longas valentes quatuor breues Et sicut est dare breuem inperfectam maioris prolacionis valentem duas semibreues valentes sex minimas Ita est dare 
+      <pb n="[f.38v]" />longam inperfectam de duabus breuibus et sex semibrebreuibus et maximam inperfectam de duabus longis et sex breuibus Ac sicut est dare breuem perfectam valentem tres semibreues valentes nouem minimas Ita et longa de tribus breuibus et nouem semibreuibus et maximam de tribus longis et nouem breuibus Ex predictis sufficienter colligitur inperfeccio longarum et maximarum patet eciam ex exemplis sequentibus et primo de longis inperfectis modo et tempore sed maioris prolacionis ut hic</p>
+      <p id="MURLIBR_MBAVR1140048">[de Muris, Libellus, f.38v]</p>
+      <p id="MURLIBR_MBAVR1140049">De longis perfectis [modo et inperfectis add. in marg.] tempore ut hic</p>
+      <p id="MURLIBR_MBAVR1140050">[L,B,pt,B,L,S,S,L,S,L,S on staff4]</p>
+      <p id="MURLIBR_MBAVR1140051">De longis inperfectis modo sed perfectis tempore ut hic</p>
+      <p id="MURLIBR_MBAVR1140052">[L,S,pt,L,B,pt,S,L,S,L,pt,S,L,B,pt,L on staff4]</p>
+      <p id="MURLIBR_MBAVR1140053">De maximis perfectis quarum longe sunt perfecte ut hic patet</p>
+      <p id="MURLIBR_MBAVR1140054">[MX,L,3LP,B,B,MX,pt,B,MX,B,3LP,MX,L,pt,3LP,B,L,B on staff4]</p>
+      <p id="MURLIBR_MBAVR1140055">Hec predicta de notarum inperfeccione sufficiunt.</p>
+      <p id="MURLIBR_MBAVR1140056">modus duplex est sicut tempus et prolacio duplex est ut supradicte est Videndum igitur est per que distinguntur vnum quadrangulus cum tribus dactilis ponitur pro modo perfecto. cum duobus vero pro modo inperfecto 
+      <pb n="[f.39r]" />ut hic patet</p>
+      <p id="MURLIBR_MBAVR1140057">[de Muris, Libellus, f.39r,1]</p>
+      <p id="MURLIBR_MBAVR1140058">[nota. m.sec. in marg.] Item circulus ponitur pro tempore perfecto et semicirculus pro tempore inperfecto ut hic patet</p>
+      <p id="MURLIBR_MBAVR1140059">[de Muris, Libellus, f.39r,2]</p>
+      <p id="MURLIBR_MBAVR1140060">[notabile m.sec. in marg.] Item circulus cum puncto in medio ponitur pro maiori prolacione. et semicirculus cum puncto in medio pro maiori prolacione ut hic [quia prolacio semper constat in minimis in marg.]</p>
+      <p id="MURLIBR_MBAVR1140061">[de Muris, Libellus, f.39r,3]</p>
+      <p id="MURLIBR_MBAVR1140062">[.nota. m.sec. in marg.] Item modus tempus et prolacio distinguitur eciam per rubeas siue vacuas et nigras deinde variantur in cantu. vnde quando reperiuntur longe nigre et rubie vel vacue. nigre sunt modi perfecti. alie vero sunt modi inperfecti ut hic</p>
+      <p id="MURLIBR_MBAVR1140063">[de Muris, Libellus, f.39r,4]</p>
+      <p id="MURLIBR_MBAVR1140064">Nigre breues. sunt temporis perfecti. alie sunt inperfecti ut hic</p>
+      <p id="MURLIBR_MBAVR1140065">[de Muris, Libellus, f.39r,5]</p>
+      <p id="MURLIBR_MBAVR1140066">Nigre semibreues sunt maioris prolacionis. rubie vel vacue minoris ut hic patet</p>
+      <p id="MURLIBR_MBAVR1140067">[de Muris, Libellus, f.39r,6]</p>
+      <p id="MURLIBR_MBAVR1140068">Item subscripcionibus coloribus et pausis et signis. perfectum distinguitur ab inperfecto.</p>
+      <p id="MURLIBR_MBAVR1140069">[sex sunt modi. m.sec. in marg.] Item sex sunt modi. primus procedit ex vna longa et altera breui</p>
+      <p id="MURLIBR_MBAVR1140070">[L,Lig2cdsnd,Lig2cdsnd,Lig2acddx,Lig2acddx,Lig2art,L on staff4]</p>
+      <p id="MURLIBR_MBAVR1140071">
+      <pb n="[f.39v]" />Secundus econuerso ut hic</p>
+      <p id="MURLIBR_MBAVR1140072">[B,Lig2od,Lig2od,B,L on staff4]</p>
+      <p id="MURLIBR_MBAVR1140073">Tercius ex vna longa et duabus breuibus vel tribus ut hic</p>
+      <p id="MURLIBR_MBAVR1140074">[L,Lig3cdsndd,Lig3ad,L,Lig3Laod,L,Lig3aacddx on staff4]</p>
+      <p id="MURLIBR_MBAVR1140075">Quartus econuerso ut hic</p>
+      <p id="MURLIBR_MBAVR1140076">[Lig3ad,Lig3cdsndd,Lig4aadcddx,Lig4cdsnddacddx on staff4]</p>
+      <p id="MURLIBR_MBAVR1140077">Quintus ex omnibus longis ut hic</p>
+      <p id="MURLIBR_MBAVR1140078">[L,Lig2Lacddx,Lig2d,Lig2Ldcddx,L on staff4]</p>
+      <p id="MURLIBR_MBAVR1140079">Sextus ab omnibus et semibreuibus ut hic</p>
+      <p id="MURLIBR_MBAVR1140080">[Lig3aa,Lig4cdsndda,S,S,S,Lig2cssna,Lig2cssoa,Lig2cssnod on staff4]</p>
+      <p id="MURLIBR_MBAVR1140081">Alioquin enim quinque modis ponunt quintum de primo et sextus loco quinti</p>
+      <p id="MURLIBR_MBAVR1140082">[a nota ad aliud * ibi eciam nouem folia ad hunc signum m.sec. in marg.]</p>
+      <p id="MURLIBR_MBAVR1140083">[de Muris, Libellus, f.31v; text: Perfectus ad omnia, Inperfectus ad omnia, Inperfectus de perfecto, Perfectus de inperfecto, Modus perfectus, Modus inperfectus] 
+      <figure>
+        <graphic url="/images/MURLIBR_04GF.gif" />
+      </figure></p>
+      <p id="MURLIBR_MBAVR1140084">[Est vbi constat perfectio longarum et breuium semibreuiumque. m.sec. in marg.] Perfeccio largarum constat in longis. et longarum in breuibus. breuium in semibreuibus. et semibreuium in minimis Et nota quod prolacio semper 
+      <pb n="[f.40r]" />constat in minimis et cetera</p>
+      <p id="MURLIBR_MBAVR1140085">[notabilia m.sec. in marg.] Ista larga est maxima. [[signum] in marg.] et perfectus modus et tempus perfectum et maioris prolacionis ut hic sequitur</p>
+      <p id="MURLIBR_MBAVR1140086">[Od,MX,L,L,L,B,B,B,S,S,S,M,M,M on staff4]</p>
+      <p id="MURLIBR_MBAVR1140087">Ista larga est perfecta et modus perfectus tempusque perfectum sed minoris prolacionis ut hic</p>
+      <p id="MURLIBR_MBAVR1140088">[O,MX,L,L,L,B,B,B,S,S,S,M,M on staff4]</p>
+      <p id="MURLIBR_MBAVR1140089">Ista larga est inperfecta. modus inperfectus et tempus inperfectum sed maioris prolacionis</p>
+      <p id="MURLIBR_MBAVR1140090">[Cd,MX,L,L,B,B,S,S,M,M,M on staff4]</p>
+      <p id="MURLIBR_MBAVR1140091">Ista larga est inperfecta modus inperfectus tempus inperfectum et minoris prolacionis</p>
+      <p id="MURLIBR_MBAVR1140092">[C,MX,L,L,B,B,S,S,M,M on staff4]</p>
+      <p id="MURLIBR_MBAVR1140093">Ista larga est perfecta modus perfectus tempus perfectum ut hic patet</p>
+      <p id="MURLIBR_MBAVR1140094">[de Muris, Libellus, f.40r,1]</p>
+      <p id="MURLIBR_MBAVR1140095">Ista larga est inperfecta. modus inperfectus et tempus inperfectum ut hic patet</p>
+      <p id="MURLIBR_MBAVR1140096">[de Muris, Libellus, f.40r,2]</p>
+      <p id="MURLIBR_MBAVR1140097">Iam satis dictum est de perfeccione et inperfeccione largarum longarum breuium semibreuium et minimarum. Iam dicendum est de alteracione.</p>
+      <p id="MURLIBR_MBAVR1140098">[Alteratio m.sec. in marg.] Alteracio in musica est proprii valoris secundum note formam duplicacio de qua datur tales regule. Prima regula est quia nulla 
+      <pb n="[f.40v]" />nota potest alterari ante sibi similem nec ante minorem se</p>
+      <p id="MURLIBR_MBAVR1140099">[secunda. m.sec.in marg.] Secunda regula quod omnis nota potest alterari ante proximum maiorem se sicut minima ante semibreuem vel eius pausam. semibreuis ante breuem vel eius pausam. breuis ante longam vel eius pausam longa ante maximam et non aliter</p>
+      <p id="MURLIBR_MBAVR1140100">[tercia m.sec. in marg.] Tercia regula est quod quandocunque inter duas longas modi perfecti vel pausis longarum vel inter punctis et longam inueniuntur due breues sine puncto in medio secunda alteratur et valet duas breues. Item de semibreues inter breues. et de minimis inter semibreues Et nota. quod nota alterata potest inperfici a parte ante exemplum de predictis ut hic patet</p>
+      <p id="MURLIBR_MBAVR1140101">[de Muris, Libellus, f.40v]</p>
+      <p id="MURLIBR_MBAVR1140102">Vlterius notandum quod duplex est. minima. semibreuis. breuis. et longa. silicet recta et altera recta quando simpliciter ponitur pro valore sue forme Et altera quando pro duplici valore ponitur [nota m.sec. in marg.] Item quandocunque alteratur aliqua nota hoc fit causa perfeccionis silicet ut perfeccio compleatur vnde longa alteratur ad perficiendum modum Breuis ad perficiendum longam Semibreuis ad perficiendum tempus Minima ad perficiendum prolacionem Et hic de alteracione sufficiunt</p>
+      <p id="MURLIBR_MBAVR1140103">Ista larga est perfecta in toto sic modus perfectus et tempus perfectum et maioris 
+      <pb n="[f.41r]" />prolacionis ut hic patet</p>
+      <p id="MURLIBR_MBAVR1140104">[de Muris, Libellus, f.41r,1]</p>
+      <p id="MURLIBR_MBAVR1140105">[nota m.sec. in marg.] [nota has regulas m.sec. in marg.] Et quando due longe interueniunt inter duas largas perfectas posterior longa debet alterari. ac eciam duo breues inter duas [[breues]] longas posterior breuis debet alterari. Item quando due semibreues veniunt inter duas breues perfectas posterior semibreuis debet alterari. Sic quando due minime inter duas semibreues maioris prolacionis vel inter punctum et semibreuem sine punctum diuisionis posterior minima alterabit</p>
+      <p id="MURLIBR_MBAVR1140106">Ista larga est inperfecta. modus perfectus tempus inperfectum et maioris prolacionis ut hic patet</p>
+      <p id="MURLIBR_MBAVR1140107">[de Muris, Libellus, f.41r,2] 
+      <figure>
+        <graphic url="/images/MURLIBR_05GF.gif" />
+      </figure></p>
+      <p id="MURLIBR_MBAVR1140108">Et si acciderit quod due longe interueniunt inter duas largas inperfectas longa non debet alterari Et si longe fuerint perfectem posterior breuis debet alterari nisi punctus diuisionis acciderit Et si breues sint perfectem. tunc semibreues debent alterari Et sic de minimis</p>
+      <p id="MURLIBR_MBAVR1140109">Ista larga est perfecta. modus perfectus. tempus perfectum minoris prolacionis</p>
+      <p id="MURLIBR_MBAVR1140110">[de Muris, Libellus, f.41r,3]</p>
+      <p id="MURLIBR_MBAVR1140111">Et quando due breues [perfecte in marg.] veniunt inter duas [longas in marg.] inperfectas posterior breuis non alterabit</p>
+      <p id="MURLIBR_MBAVR1140112">Modus perfectus et quando due semibreues perfecte [veniunt supra lin.] inter breues inperfectas posterior semibreuis non alterabit. et sic de minimis. 
+      <pb n="[f.41v]" />tempus inperfectum et maioris prolacionis</p>
+      <p id="MURLIBR_MBAVR1140113">[de Muris, Libellus, f.41v,1]</p>
+      <p id="MURLIBR_MBAVR1140114">[Nota bona m.sec. in marg.] Modus perfectus et tempus perfectum et minoris prolacionis ut hic</p>
+      <p id="MURLIBR_MBAVR1140115">[de Muris, Libellus, f.41v,2]</p>
+      <p id="MURLIBR_MBAVR1140116">Iste tenor est perfectus in toto. [videliset m.sec.] in modo. in tempore. et in prolacione ut hic</p>
+      <p id="MURLIBR_MBAVR1140117">[de Muris, Libellus, f.41v,3]</p>
+      <p id="MURLIBR_MBAVR1140118">Et nota quod quando due longe veniunt inter duas largas perfectas vel inter punctus et largam sine punctu diuisionis interuenientem semper posterior longa debet alterari. Item nota quod quando due breues veniunt inter duas longas perfectas vel inter punctus et longam sine punctu diuisionis interueniente semper posterior breuis debet alterari. Item nota quod quando due semibreues veniunt inter duas breues perfectas vel inter punctum et breuem sine punctu diuisionis semper posterior semibreuis alterabit. Item quando due minime veniunt inter duas semibreues perfectas vel inter punctum et semibreuem sine punctu diuisionis semper posterior minima debet alterari</p>
+      <p id="MURLIBR_MBAVR1140119">Iste tenor a semicirculo cum punctu. usque ad semicirculum sine punctu est perfectus modus. et temporis inperfecti ut hic patet [...ale in marg.]</p>
+      <p id="MURLIBR_MBAVR1140120">[de Muris, Libellus, f.41v,4]</p>
+      <p id="MURLIBR_MBAVR1140121">Et quando canitur cantus modi perfecti. et temporis 
+      <pb n="[f.42r]" />inperfecti. tunc breues debent alterari in sua natura et non semibreues Et tenor a semicirculo sine punctu usque ad finem est modi inperfecti et temporis perfecti Et quandocunque canitur cantus modi inperfecti et temporis perfecti semibreues debent alterari et non breues Sequitur de punctis</p>
+      <p id="MURLIBR_MBAVR1140122">Punctus duplex est. silicet punctus perfeccionis et punctus diuisionis Punctus perfeccionis perficit longam in vtroque modo Punctus diuisionis inperficit longam diuidendo breues. et inperficit breuem diuidendo semibreues. et inperficit semibreuem diuidendo minimas Diuisio triplex est et perfeccio id est modi. temporis. et prolacionis. Videndum igitur est quomodo cognoscamus punctus perfeccionis a puncto diuisionis tamen vnus habeat perficere figuras. et alius inperficere seu diuidere ut est dictum. Vnde quando ponitur punctus post longam in ima parte. perfeccionis dicitur Quando post post longam in superiore parte diuisionis dum Item si punctus ponatur inter duas breues diuidit. nisi forte ille breues forent de inperfecto tempore. post quas vel ante quas inueniretur aliquam semibreuis sola que per sincopam reduceretur ad dictam breuem puncto perfeccionis punctatam. si autem ponitur inter duas semibreues pro diuisione temporis assignatur nisi forte ille 
+      <pb n="[f.42v]" />semibreues essent de minore prolacione post quas vel ante quas reperiretur sola minima que reduceretur ad dictam semibreuem puncto perfeccionis punctatam Et hec de punctis sufficiunt ut hic patet</p>
+      <p id="MURLIBR_MBAVR1140123">[de Muris, Libellus, f.42v] 
+      <figure>
+        <graphic url="/images/MURLIBR_06GF.gif" />
+      </figure></p>
+      <p id="MURLIBR_MBAVR1140124">Pausa dicitur vocum omissio. seu aspiracio mensurata per tot temporibus quo fieret spaciis figurata Tot tempora valent pausa. quot ocupat spacia. si igitur tria spacia ocupat tria tempora valet Si duo. duo Si vnum. vnum [Nota in marg.] Et nota quod maior pausa quam trium temporum non est ponenda Nam aliis reduplicari deberent pause secundum exigencias modi Quare tales pause dicuntur communes et inmensurabiles Vlterius nota quod pausa semibreuis debet incipere in linea et descendere usque ad medium spacii. pausa vero minime debet incipere in linea et ascendere usque ad medium spacii Exempla de predictis ut hic patet</p>
+      <p id="MURLIBR_MBAVR1140125">[3LP,3LP,3LP,BP,BP,BP,2LP,2LP,BP,BP,SP,SP,MP,MP on staff4]</p>
+      <p id="MURLIBR_MBAVR1140126">Insuper nota quod non debet poni pausa semibreuis neque maior nisi completa prolacione. nec pausa breuis vel maior nisi completo tempore. et pausa longe trium temporum nisi completo modo. Item pause non possunt inperfici. nec perfici. neque alterari Sincopa</p>
+      <p id="MURLIBR_MBAVR1140127">Sincopa est diuisio circumquarum figure per partes separatas que numerando perfecciones 
+      <pb n="[f.43r]" />ad inuicem reducuntur et potest fieri in tempore et prolacione. si. in modo. aut perfecto. aut inperfecto Si perfecto tunc est reperire tres breues separatas vel valorem. pro longa perfecta que numerando perfecciones ad inuicem reducuntur Si inperfecto duas breues vel longam puncto perfeccionis punctatam ad quam breuis aliqua separata reducitur ut hic</p>
+      <p id="MURLIBR_MBAVR1140128">[de Muris, Libellus, f.43r,1]</p>
+      <p id="MURLIBR_MBAVR1140129">Sincopa fieres in tempore. aut fit perfecto. aut inperfecto Si perfecto tunc est reperire tres semibreues separatas vel valorem per breui perfecta Si inperfecta. duas vel breuem puncto perfeccionis punctatam ad quam aliqua sola semibreuis reducitur ut hic</p>
+      <p id="MURLIBR_MBAVR1140130">[de Muris, Libellus, f.43r,2]</p>
+      <p id="MURLIBR_MBAVR1140131">Si in prolacione. aut maiori. aut minori. Si maiori tunc est reperire tres minimas separatis per semibreuem maioris prolacionis. que adinuicem reducuntur perfecciones numerando Si in minori duas vel semibreuem puncto perfeccionis punctatam ad quam aliqua sola minima reducitur ut hic</p>
+      <p id="MURLIBR_MBAVR1140132">[de Muris, Libellus, f.43r,3]</p>
+      <p id="MURLIBR_MBAVR1140133">Et nota quod nuncquam nota per sincopam debet reduci ultra pausam maiorem se vtpote minima ultra pausa semibreuis vel maioris non debet reduci. vlterius nec semibreuis vel maioris. et sic de aliis licet aliqui dicunt contrarium nescio quo motu 
+      <pb n="[f.43v]" />et hec de pausis sufficiunt Sequitur de ligaturis</p>
+      <p id="MURLIBR_MBAVR1140134">Ligaturis ligaturarum Alia descendens Alia ascendens. Ascendens quando secunda nota est alcior prima Descendens econuerso. de quibus dantur tale regule</p>
+      <p id="MURLIBR_MBAVR1140135">[de primis m.sec. in marg.] Prima regula est quod quandocunque prima nota est alcior secunda habens tractum a parte sinistra descendente siue fuerit in quadrato siue in obliquo corpore figurata cum proprietate et est prima breuis ut hic</p>
+      <p id="MURLIBR_MBAVR1140136">[de Muris, Libellus, f.43v,1]</p>
+      <p id="MURLIBR_MBAVR1140137">Secunda regula est quod quandocunque secunda nota est alcior prima et prima habuerit tractum a parte dextra descendente sine proprietate dicitur et est prima longa ut hic</p>
+      <p id="MURLIBR_MBAVR1140138">[de Muris, Libellus, f.43v,2]</p>
+      <p id="MURLIBR_MBAVR1140139">Et si prima nota non habuerit tractum sine perfeccione. tunc est prima breuis ut hic</p>
+      <p id="MURLIBR_MBAVR1140140">[de Muris, Libellus, f.43v,3]</p>
+      <p id="MURLIBR_MBAVR1140141">Tercia regula est quod quandocunque prima nota. siue quadrata siue obliqua est alcior secunda carens tractu et sine proprietate dicitur et est prima longa ut hic</p>
+      <p id="MURLIBR_MBAVR1140142">[de Muris, Libellus, f.43v,4]</p>
+      <p id="MURLIBR_MBAVR1140143">Quarta regula est in omni ligatura prima nota habens tractum a parte sinistra ascendentem cum opposita proprietate dicitur. et facit primas duas semibreues ut hic</p>
+      <p id="MURLIBR_MBAVR1140144">[de Muris, Libellus, f.43v,5]</p>
+      <p id="MURLIBR_MBAVR1140145">[de vltimis m.sec. in marg.] Quinta regula est in omni ligatura vltima descendens super penultimam in quadroposita cum perfeccione dicitur. est longa ut hic</p>
+      <p id="MURLIBR_MBAVR1140146">[de Muris, Libellus, f.43v,6]</p>
+      <p id="MURLIBR_MBAVR1140147">
+      <pb n="[f.44r]" />Et in obliquo sine perfeccione dicitur breuis ut hic</p>
+      <p id="MURLIBR_MBAVR1140148">[de Muris, Libellus, f.44r,1] 
+      <figure>
+        <graphic url="/images/MURLIBR_07GF.gif" />
+      </figure></p>
+      <p id="MURLIBR_MBAVR1140149">Sexta regula quod omnis nota vltima stans directe super penultimam vel a latere habens tractum a parte dextra cum perfeccione dicitur et est longa. et secundum quosdam vel aliquis vocatur per opposita proprietate ut hic sequitur</p>
+      <p id="MURLIBR_MBAVR1140150">[de Muris, Libellus, f.44r,2]</p>
+      <p id="MURLIBR_MBAVR1140151">Septima regula omnis vltima stans a latere supra penultimam sine tractu fuerit siue quadrata siue obliqua sine perfeccione dicitur et est breuis ut hic patet</p>
+      <p id="MURLIBR_MBAVR1140152">[de Muris, Libellus, f.44r,3]</p>
+      <p id="MURLIBR_MBAVR1140153">[de mediis notabile m.sec. in marg.] Octaua regula est in omni ligatura medie sunt breues ut hic</p>
+      <p id="MURLIBR_MBAVR1140154">[Lig6Laadad,Lig7dadadd on staff4]</p>
+      <p id="MURLIBR_MBAVR1140155">Nisi prima esset cum opposita proprietate quia tunc sodomet cum prima pro vna breui iuxta quintam regulam predictam computaretur ut hic</p>
+      <p id="MURLIBR_MBAVR1140156">[de Muris, Libellus, f.44r,4]</p>
+      <p id="MURLIBR_MBAVR1140157">Et hec sufficiunt de ligaturis ad</p>
+      <p id="MURLIBR_MBAVR1140158">Color igitur vocatur similium figurarum vnius processus plures repetita posicio in eodem cantu. Pro quo notandum est quod non nulli cantores ponunt differenciam inter colorem et talliam Nam vocant colorem quando repetuntur eodem voces Tallia vero quando repetuntur similes figure que sint diuersarum vocum Que differencia licet sequetur in quam pluribus tenoribus motetorum. non tamen seruatur in ipsis motetis ut in eis 
+      <pb n="[f.44v]" />liquidem est videre et hic predicta quamquam rudia. sufficiunt in arte practica mensurabiles cantus anelantibus introduci</p>
+      <p id="MURLIBR_MBAVR1140159">[Nota bona m.sec. in marg.] Nota quod nota colorata in maiori prolacione inperficitur ut hic</p>
+      <p id="MURLIBR_MBAVR1140160">[de Muris, Libellus, f.44v,1]</p>
+      <p id="MURLIBR_MBAVR1140161">In minori prolacione perficitur ut hic</p>
+      <p id="MURLIBR_MBAVR1140162">[de Muris, Libellus, f.44v,2]</p>
+      <p id="MURLIBR_MBAVR1140163">Et nota quando inueniuntur due breues quinque vel octo vel plures inter duas longas in modo perfecto semper vltima altereratur ut hic</p>
+      <p id="MURLIBR_MBAVR1140164">[de Muris, Libellus, f.44v,3]</p>
+      <p id="MURLIBR_MBAVR1140165">[[signum] in marg.] Et nota quod nuncquam poni debet pausa trium temporum nisi in modo perfecto ut hic</p>
+      <p id="MURLIBR_MBAVR1140166">[Lig2d,2LP,Lig5cssnaadoa,2LP,L on staff4]</p>
+      <p id="MURLIBR_MBAVR1140167">Item inter punctum et longam duabus breuibus in modo perfecto vltima alterabit ut hic</p>
+      <p id="MURLIBR_MBAVR1140168">[L,B,Lig3cdsndd,3LP,B,pt,Lig2a,3LP,L on staff4</p>
+      <p id="MURLIBR_MBAVR1140169">Nisi punctus ponatur in medio illarum breuium tunc enim est computare cum sequentibus ad perfeccionem habendam ut hic patet</p>
+      <p id="MURLIBR_MBAVR1140170">[L,B,pt,Lig2acddx,Lig3cdsndod,pt,B,Lig2d on staff4]</p>
+      <p id="MURLIBR_MBAVR1140171">Item si inter duas longas inueniuntur due sole breues si punctus sit inter breues secunda non alteratur. alias vero. sic ut supra. In modo perfecto [perto ante corr. supra lin.] longa valet tria tempora. In modo inperfecto duo tempora ut supra in tractu. Item quando inter duas breues inuenitur sola semibreuis perfeccione computatur. tunc illa semibreuis vadit. ad proxima vbi potest habere locus ut hic</p>
+      <p id="MURLIBR_MBAVR1140172">[Od,L,pt,B,pt,S,pt,M,pt,M,M,S,Lig2cdsnd,Lig2MXdMXcddx on staff4]</p>
+      <p id="MURLIBR_MBAVR1140173">Diminucio sepe fit in tenoribus motetorum Circa quod notandum est quod pro maxima ponitur</p>
+      <p id="MURLIBR_MBAVR1140174">
+      <pb n="[f.45r]" />[de Muris, Libellus, f.45r; text: miserere michi domine et exaudi oracionem meam, matri cum natis felicis prosperitatis, pictagore numeris hanc musam psallite veris, psallite prudenter bene deuote reuerenter m.sec.] 
+      <figure>
+        <graphic url="/images/MURLIBR_08GF.gif" />
+      </figure></p>
+      <p id="MURLIBR_MBAVR1140175">
+      <pb n="[f.45v]" />[[signum crucis] in marg.] Tercio dicendum est quod quando Tenor est de modo perfecto temporis perfecti maioris prolacionis Larga valet .81. minime Et diminucio fit recte per medium et nota quod sola minima per se indiuisibilis est. quia non est dari minimo minus Et sic diminucio de .81. est .41. quia numerus que resultat debet numerari cum diminucione et semper debet esse maior pars ut sic .41. et cetera Longa de tempore perfecto et de maiore prolacione valet .27. minime Diminucio de .21. est .14. et cetera sicut patet per regulam supradictam Breuis maioris prolacionis valet .9. minime Diminucio de nouem. est .5. et cetera sicut patet per regulam antedictam</p>
+      <p id="MURLIBR_MBAVR1140176">Quinto dicendum est quod quando Tenor est de modo perfecto temporis perfecti minoris prolacionis. Larga valet .54. minime Diminucio de .54. est .27. et cetera per regulam supradictam. Longa de tempore perfecto minoris prolacionis valet .18. minime diminucio de .18. est .9. per regulam supradictam. Breuis de minoris prolacionis valet .6. minime diminucio de sex est .tres. de .tres. duo ut prius ostenditur.</p>
+      <p id="MURLIBR_MBAVR1140177">[cc m.sec. in marg.] Perfectus ad omnia. Larga .81.41.21.11.6.3. Longa sic .21.14.7.4.2. Breuis sic .9.5.3.2.1. et cetera</p>
+      <p id="MURLIBR_MBAVR1140178">[cc m.sec. in marg.] Perfectus de inperfecto Larga sic .54.27.14.7.4.2. Longa sic .18.9.5.3.2. Breuis sic .6.3.2.1. et cetera</p>
+      <p id="MURLIBR_MBAVR1140179">[cc m.sec. in marg.] Inperfectus de perfecto Larga sic .24.12.6.3.2. Longa sic .12.6.3.2.1. Breuis sic .6.3.2.1. et cetera</p>
+      <p id="MURLIBR_MBAVR1140180">[cc m.sec. in marg.] Inperfectus ad omnia Larga sic .16.8.4.2. Longa sic .8.4.2. Breuis sic .4.2.1.</p>
+      <p id="MURLIBR_MBAVR1140181">et hec sufficiunt.</p>
+      <p id="MURLIBR_MBAVR1140182">
+      <pb n="[f.46r]" />longa. et pro longa breuis. pro breuem semibreuis. et pro semibreuem minima Et idem dicendum de pausis Secundo dicendum est quod quando tenor est de modo perfecto temporis perfecti minoris prolacionis diminitum fit directe per terciam partem. ut pro longa valente tres breues ponatur breuis valens tres semibreues et cetera [uacat [signum crucis] in marg.] Quarto notandum est quod quando tenor est de modo inperfecto temporis inperfecti diminucio fit per medium ut pro longa valente .2. breues ponatur breuis valens duas semibreues et cetera</p>
+    </body>
+  </text>
+</TEI>

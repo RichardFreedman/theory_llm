@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>De contrapuncto quaedam regulae utiles</title>
+        <title type="abbrev">ANDCON</title>
+        <author>Phillipotus Andrea</author>
+        <date notBefore="1300" notAfter="1399">14th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>C. Matthew Balensuela</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Oliver B. Ellsworth</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1990</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>Scriptorum de musica medii aevi nova series a Gerbertina altera</emph>, 4 vols., ed. Edmond de Coussemaker (Paris: Durand, 1864-76; reprint ed., Hildesheim: Olms, 1963), 3:116–18.
+</bibl>
+        <bibl type="work">
+          
+<title>Philipoctus Andreas: Regule de contrapuncto</title>
+          
+<idno type="LML">PHIL. ANDR.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">A-SP Cod. 135/6 (29.4.4), 23v-24</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">BR-Rn Cofre 18, 619r-v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">CH-E 689, 45v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fl Plut. XXIX. 48, 88v-89</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Ma I. 20 inf., 36rv</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rli 2067, 13</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">US-Cn Case Ms. 54.1, 6v-7</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANDCON0001">
+      <pb n="[116]" />Magistri Phillipoti Andreae</p>
+      <p id="ANDCON0002">De contrapuncto quaedam regulae utiles.</p>
+      <p id="ANDCON0003">Versus</p>
+      <p id="ANDCON0004">Post octavam quinta, si note tendunt in altum.</p>
+      <p id="ANDCON0005">Ut hic patet:</p>
+      <p id="ANDCON0006">[CSIII:116,1; text: o, V, t] 
+      <figure>
+        <graphic url="/images/ANDCON_01GF.gif" />
+      </figure></p>
+      <p id="ANDCON0007">Si nota unam ascendit, equaliter hanc quintam indicat.</p>
+      <p id="ANDCON0008">Ut hic patet:</p>
+      <p id="ANDCON0009">[CSIII:116,2; text: o, V]</p>
+      <p id="ANDCON0010">Si stant equaliter, post octavam quintam tenebis.</p>
+      <p id="ANDCON0011">Et e converso, si plures esse videbis.</p>
+      <p id="ANDCON0012">Ut hic patet:</p>
+      <p id="ANDCON0013">[CSIII:116,3; text: o, V]</p>
+      <p id="ANDCON0014">Post quintam octava, si nota puncta plura descendit.</p>
+      <p id="ANDCON0015">Ut hic patet:</p>
+      <p id="ANDCON0016">[CSIII:116,4; text: o, V]</p>
+      <p id="ANDCON0017">Et si descendit per unam, sextam judicabis.</p>
+      <p id="ANDCON0018">Ut hic patet:</p>
+      <p id="ANDCON0019">[CSIII:116,5; text: o, VI]</p>
+      <p id="ANDCON0020">Et si plura sequuntur, judicium dabis idem.</p>
+      <p id="ANDCON0021">Ut hic patet:</p>
+      <p id="ANDCON0022">[CSIII:116,6; text: o, 6]</p>
+      <p id="ANDCON0023">Tertia post quintam semper tenere memento.</p>
+      <p id="ANDCON0024">Ut hic patet:</p>
+      <p id="ANDCON0025">[CSIII:116,7; text:V, t]</p>
+      <p id="ANDCON0026">
+      <pb n="[117]" />Et si plura sequuntur, idem judicium habeto.</p>
+      <p id="ANDCON0027">Ut hic patet:</p>
+      <p id="ANDCON0028">[CSIII:117,1; text: V, t] 
+      <figure>
+        <graphic url="/images/ANDCON_02GF.gif" />
+      </figure></p>
+      <p id="ANDCON0029">Post octavam decima, si cantus tendit in altum.</p>
+      <p id="ANDCON0030">Ut hic patet:</p>
+      <p id="ANDCON0031">[CSIII:117,2; text: o, X, V]</p>
+      <p id="ANDCON0032">Sed sexto loco decime, si hoc modo habetur.</p>
+      <p id="ANDCON0033">Ut hic patet:</p>
+      <p id="ANDCON0034">[CSIII:117,3; text: o, VI, V, t]</p>
+      <p id="ANDCON0035">Et si nota sub octava, decimam habere memento.</p>
+      <p id="ANDCON0036">Ut hic patet:</p>
+      <p id="ANDCON0037">[CSIII:117,4; text: o, VI, X, V, t]</p>
+      <p id="ANDCON0038">Si altera sub decima, duodecima sit tibi tradita.</p>
+      <p id="ANDCON0039">Ut hic patet:</p>
+      <p id="ANDCON0040">[CSIII:117,5; text: o, VI, V, X, XII, XI]</p>
+      <p id="ANDCON0041">Post decimam octava, si nota per unam ascendit.</p>
+      <p id="ANDCON0042">Ut hic patet:</p>
+      <p id="ANDCON0043">[CSIII:117,6; text: o, X, VI, V]</p>
+      <p id="ANDCON0044">Post quintam sexta, si plura transire videbis.</p>
+      <p id="ANDCON0045">Ut hic patet:</p>
+      <p id="ANDCON0046">[CSIII:117,7; text: o, V, VI]</p>
+      <p id="ANDCON0047">Si decima hoc modo, post hanc octava sequatur.</p>
+      <p id="ANDCON0048">Ut hic patet:</p>
+      <p id="ANDCON0049">[CSIII:117,8; text: o, VI, X, V, t]</p>
+      <p id="ANDCON0050">Post sextam octava, si nota per unam ascendit.</p>
+      <p id="ANDCON0051">Ut hic patet:</p>
+      <p id="ANDCON0052">[CSIII:117,9; text: VI, o, V]</p>
+      <p id="ANDCON0053">Post tertiam quinta, si cantus descendit in unam.</p>
+      <p id="ANDCON0054">Ut hic patet:</p>
+      <p id="ANDCON0055">[CSIII:117,10; text: o, V, t]</p>
+      <p id="ANDCON0056">Si plures, sextam vel octavam judicabis.</p>
+      <p id="ANDCON0057">Ut hic patet:</p>
+      <p id="ANDCON0058">[CSIII:117,11; text: o, V, t, VI]</p>
+      <p id="ANDCON0059">Tertia post quintam per hunc modum habebis.</p>
+      <p id="ANDCON0060">Ut hic patet:</p>
+      <p id="ANDCON0061">[CSIII:117,12; text: V, t, o, VI]</p>
+      <p id="ANDCON0062">Post quintam sexta, si tibi octava jungatur.</p>
+      <p id="ANDCON0063">Ut hic patet:</p>
+      <p id="ANDCON0064">[CSIII:117,13; text: o, V, VI]</p>
+      <p id="ANDCON0065">
+      <pb n="[118]" />Et alio modo post quintam sexta habetur.</p>
+      <p id="ANDCON0066">Ut hic patet:</p>
+      <p id="ANDCON0067">[CSIII:118,1; text: o, V, VI] 
+      <figure>
+        <graphic url="/images/ANDCON_03GF.gif" />
+      </figure></p>
+      <p id="ANDCON0068">In octava cantus incipit, si ascendit ut, re.</p>
+      <p id="ANDCON0069">Ut hic patet:</p>
+      <p id="ANDCON0070">[CSIII:118,2; text: o, V]</p>
+      <p id="ANDCON0071">Et quinta contradicit, si affirmat fa, re.</p>
+      <p id="ANDCON0072">Ut hic patet:</p>
+      <p id="ANDCON0073">[CSIII:118,3; text: o, V]</p>
+      <p id="ANDCON0074">Sed post octavam decimam mi, re, mi, docet regula.</p>
+      <p id="ANDCON0075">Ut hic patet:</p>
+      <p id="ANDCON0076">[CSIII:118,4; text: o, X]</p>
+      <p id="ANDCON0077">Et post quintam sexta erit, si fa, mi, re, fuerit.</p>
+      <p id="ANDCON0078">Ut hic patet:</p>
+      <p id="ANDCON0079">[CSIII:118,5; text: o, V, VI]</p>
+      <p id="ANDCON0080">Expliciunt versus in tractatum dictum contrapunctus.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Institutiones musicae, seu excerpta ex eiusdem libro, de artibus ac disciplinis liberalium litterarum</title>
+        <title type="abbrev">CASIM</title>
+        <author>Cassiodorus, Aurelius</author>
+        <date notBefore="500" notAfter="799">6th-8th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Stephen E. Hayes</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Peter M. Lefferts</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Bradley Jon Tucker</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1993</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>Patrologia cursus completus, series latina</emph>, ed. J. P. Migne, 221 vols. (Paris: Garnier, 1844-1904), 70:1208–12.
+</bibl>
+        <bibl type="work">
+          
+<title>Flavius Magnus Aurelius Cassiodorus: Institutiones</title>
+          
+<idno type="LML">CASSIOD. inst.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">B-Br 10078/95, 81-82v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">CH-SGs 270, 39-45 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">E-Bac Ripoll 42, 70 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-CHRm 130, 29v-31 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 7211, 17r-v, 17v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 8500, 39v-41 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Lbl Royal 15.A.XXXIII, 239v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Obac 173A, 79r-v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fn Conv. Soppr. F. III. 565, 31 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fr 652, 34 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-MC 318, 43-46, 47-48, 55, 55-56 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-PCsa 65, 262rv (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-PESo 1336, 28v-29v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rv B 81, 91, 94r-v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Vnm Lat. Z. 497 (1811), 148r-v, 155v-156 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">PL-Kj 1861, 6v-8 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">US-MAL Ms. Ludwig XII 1, 74-79 (Extraits)</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="CASIM0001">
+      <pb n="[1208]" />Caput quintum.</p>
+      <p id="CASIM0002">De musica.</p>
+      <p id="CASIM0003">Gaudentius quidam, de musica scribens, Pythagoram dicit hujus rei invenisse primordia ex malleorum sonitu et chordarum extensione percussa. Quam amicus noster vir disertissimus Mutianus transtulit in Latinum, ut ingenium ejus assumpti operis qualitas indicaret. Clemens vero Alexandrinus presbyter in libro quem contra paganos edidit, musicam ex musis dicit sumpsisse principium; musasque ipsas, qua de causa inventae fuerint, diligenter exponit. Quae musae ipsae appellatae sunt [apo tou masenein], id est a quaerendo, quod per ipsas, sicut antiqui voluerunt, vis carminum et vocis modulatio quaereretur. Invenimus etiam Censorinum, qui ad Q. Cerellium scripsit de natali ejus die, ubi de musica disciplina, vel de alia parte mathesis non negligenda disseruit: quoniam non inutiliter legitur, ut res ipsae penetrabilius animo frequenti meditatione condantur.</p>
+      <p id="CASIM0004">Musica ergo disciplina per omnes actus vitae nostrae 
+      <pb n="[1209]" />hac ratione [ed., a creatione] diffunditur. Primum si Creatoris mandata faciamus, et puris mentibus statutis ab eo regulis serviamus. Quidquid enim loquimur, vel intrinsecus venarum pulsibus commovemur, per musicos rhythmos harmoniae virtutibus probatur esse sociatum. Musica quippe est scientia bene modulandi; quod si nos bona conversatione tractemus, tali disciplinae probamur semper esse sociati; quando vero iniquitates gerimus, musicam non habemus. Coelum quoque et terram, vel omnia quae in eis dispensatione superna peraguntur, non sunt sine musica disciplina, cum Pythagoras hunc mundum per musicam conditum et gubernari posse testetur.</p>
+      <p id="CASIM0005">In ipsa quoque religione valde permixta est, ut Decalogi decachordus, tinnitus citharae, tympana, 587 organi melodia, cymbalorum sonus; ipsum quoque Psalterium ad instar instrumenti musici nominatum esse non dubium est, eo quod in ipso contineatur coelestium virtutum suavis nimis et grata modulatio.</p>
+      <p id="CASIM0006">Nunc de musicae partibus, sicut est a majoribus traditum, disseramus. Musica est disciplina vel scientia quae de numeris loquitur, qui ad aliquid sunt his qui inveniuntur in sonis; ut duplum, triplum, quadruplum, et his similia, quae dicuntur ad aliquid.</p>
+      <p id="CASIM0007">Musicae partes sunt tres, nam vel est illa</p>
+      <p id="CASIM0008">Harmonica,</p>
+      <p id="CASIM0009">Rhythmica,</p>
+      <p id="CASIM0010">Metrica.</p>
+      <p id="CASIM0011">Harmonica scientia est musica quae discernit in sonis acutum et grave.</p>
+      <p id="CASIM0012">Rhythmica est quae requirit in concursione verborum, utrum bene sonus, an male cohaereat.</p>
+      <p id="CASIM0013">Metrica est quae mensuras diversorum metrorum probabili ratione cognoscit; ut, verbi gratia, heroicum, iambicum, elegiacum et caetera.</p>
+      <p id="CASIM0014">Instrumentorum musicorum genera sunt tria:</p>
+      <p id="CASIM0015">Percussionale,</p>
+      <p id="CASIM0016">Tensibile,</p>
+      <p id="CASIM0017">Inflatile.</p>
+      <p id="CASIM0018">Percussionalia, ut sunt acitabula aenea et argentea, vel alia quae metallico rigore percussa, reddunt cum suavitate tinnitum.</p>
+      <p id="CASIM0019">Tensibilia sunt chordarum fila, sub arte religata, quae amodo plectro percussa mulcent aurium delectabiliter sensum: in quibus sunt species cithararum diversarum.</p>
+      <p id="CASIM0020">Inflatilia sunt quae spiritu reflante completa, in sonum vocis animantur, ut sunt tubae, calami, organa, panduria, et caetera hujusmodi.</p>
+      <p id="CASIM0021">Restat nunc ut de symphoniis dicere debeamus. Symphonia est temperamentum sonitus gravis ad acutum, vel acuti ad gravem, modulamen efficiens, sive in voce, sive in percussione, sive in flatu.</p>
+      <p id="CASIM0022">Symphoniae sunt sex:</p>
+      <p id="CASIM0023">Prima, diatessaron,</p>
+      <p id="CASIM0024">Secunda, diapente,</p>
+      <p id="CASIM0025">Tertia, diapason,</p>
+      <p id="CASIM0026">Quarta, diapason simul et diatessaron,</p>
+      <p id="CASIM0027">
+      <pb n="[1210]" />Quinta, diapason simul et diapente,</p>
+      <p id="CASIM0028">Sexta, disdiapason.</p>
+      <p id="CASIM0029">Diatessaron symphonia est quae constat ex ratione epitrita, et fit ex sonitibus quatuor, unde nomen accepit.</p>
+      <p id="CASIM0030">Diapente symphonia est quae constat ex ratione hemiolia, et fit ex sonitibus quinque, unde etiam nomen accepit.</p>
+      <p id="CASIM0031">Tertia, diapason, symphonia est, quae etiam diocto dicitur, constat ex ratione diplasia, hoc est dupla; fit autem per sonitus octo, unde nomen accepit, sive diocto, sive diapason: quia apud veteres citharae ex octo chordis constabant. Diapason ergo dicta est, quasi ex omnibus sonitibus constans.</p>
+      <p id="CASIM0032">Quarta, diapason simul et diatessaron, symphonia est quae constat ex ratione quam habet 24 numerus ad 8 numerum; fit autem ex sonitibus undecim.</p>
+      <p id="CASIM0033">Quinta, diapason, simul et diapente, symphonia est quae constat ex ratione triplasia; fit autem per sonitus duodecim.</p>
+      <p id="CASIM0034">Sexta, disdiapason, id est dupla diapason, symphonia est quae constat ex ratione tetraplasia; fit autem per sonitus quindecim.</p>
+      <p id="CASIM0035">Tonus est totius constitutionis harmonicae differentia et quantitas, quae in vocis accentu sive tenore consistit.</p>
+      <p id="CASIM0036">Toni sunt quindecim:</p>
+      <p id="CASIM0037">Hypodorius,</p>
+      <p id="CASIM0038">Hypojastius,</p>
+      <p id="CASIM0039">Hypophrygius,</p>
+      <p id="CASIM0040">Hypoaeolius,</p>
+      <p id="CASIM0041">Hypolydius,</p>
+      <p id="CASIM0042">Doricus,</p>
+      <p id="CASIM0043">Jastius,</p>
+      <p id="CASIM0044">Phrygius,</p>
+      <p id="CASIM0045">AEolius,</p>
+      <p id="CASIM0046">Lydius,</p>
+      <p id="CASIM0047">Hyperdorius,</p>
+      <p id="CASIM0048">Hyberjastius,</p>
+      <p id="CASIM0049">Hyperphrygius,</p>
+      <p id="CASIM0050">Hyperaeolius,</p>
+      <p id="CASIM0051">Hyperlydius,</p>
+      <p id="CASIM0052">1. Hypodorius tonus est omnium gravissime sonans, propter quod et inferior nuncupatur.</p>
+      <p id="CASIM0053">2. Hypojastius autem, hypodorium hemitonio praecedens.</p>
+      <p id="CASIM0054">3. Hypophrygius est hypojastium hemitonio, hypodorium tono praecedens.</p>
+      <p id="CASIM0055">4. Hypoaeolius est hypophrygium hemitonio, hypojastium tono, hypodorium tono semis praecedens.</p>
+      <p id="CASIM0056">5. Hypolydius est hypoaeolium hemitonio, hypophrygium tono, hypojastium tono semis, hypodorium ditono praecedens.</p>
+      <p id="CASIM0057">6. Dorius est hypolydium hemitonio, hypoaeolium tono, hypophrygium tono semis, hypojastium ditono, hypodorium duobus semis tonis, hoc est, diatessaron symphonia praecedens.</p>
+      <p id="CASIM0058">7. Jastius est dorium hemitonio, hypolydium tono, hypoaeolium tono semis, hypophrygium ditono, hypojastium 
+      <pb n="[1211]" />duobus semis, hoc est diatessaron symphonia, hypodorium tribus tonis praecedens.</p>
+      <p id="CASIM0059">8. Phrygius est jastium hemitonio, dorium tono, hypolydium tono semis, hypoaeolium ditono, hypophrygium duobus semis tonis, hoc est diatessaron symphonia; hypojastium tribus tonis, hypodorium tribus semis tonos hoc est diapente, symphonia praecedens.</p>
+      <p id="CASIM0060">9. AEolius phrygium hemitonio, jastium tono, dorium tono semis, hypolydium duobus semis, hoc est diatessaron symphonia; hypophrygium tribus tonis, hypojastium tribus semis, hoc est diapente symphonia; hypodorium quatuor tonis praecedens.</p>
+      <p id="CASIM0061">10. Lydius est aeolium hemitonio, phrygium tono, jastium tono semis, dorium duobus tonis, hypolydium duobus semis tonis, hoc est, diatessaron symphonia: hypoaeolium tribus tonis, hypophrygium 588 tribus semis tonis, hoc est diapente symphonia; hypojastium quatuor tonis, hypodorium quatuor semis tonis praecedens.</p>
+      <p id="CASIM0062">11. Hyperdorius et lydium hemitonio, aeolium tono, phrygium tono semis, jastium duobus tonis, dorium duobus semis, hoc est diatessaron symphonia: hypolydium tribus tonis, hypoaeolium tribus semis tonis, hoc est diapente symphonia; hypophrygium quatuor tonis, hypojastium quatuor semis, hypodorium quinque.</p>
+      <p id="CASIM0063">12. Hyperjastius, est hyperdorium hemitonio, lydium tono, aeolium tono semis, phrygium duobus tonis, jastium duobus semis tonis, hoc est diatessaron symphonia; dorium tribus tonis, hypolydium tribus semis tonis, hoc est diapente symphonia; hypoaeolium quatuor tonis, hypophrygium quatuor semis, hypojastium quinque tonis, hypodorium quinque semis.</p>
+      <p id="CASIM0064">13. Hyperphrygius est hyperjastium hemitonio, hyperdorium tono, lydium tono semis, aeolium duobus, phrygium duobus semis, hoc est diatessaron symphonia; jastium tribus tonis, dorium tribus semis, hoc est diapente symphonia; hypolydium quatuor tonis, hypoaeolium quatuor semis, hypophrygium quinque, hypojastium quinque semis, hypodorium sex, hoc est, diapason symphonia praecedens.</p>
+      <p id="CASIM0065">14. Hyperaeolius est hyperphrygium hemitonio, hyperjastium tono, hyperdorium tono semis, lydium duobus tonis, AEolium duobus semis, hoc est diatessaron symphonia; phrygium tribus tonis, jastium tribus semis tonis, hoc est diapente symphonia; dorium quatuor tonis, hypolydium quatuor semis, hypoaeolium quinque tonis, hypophrygium quinque semis, hypojastium sex tonis, hoc est diapason symphonia: hypodorium sex semis tonis.</p>
+      <p id="CASIM0066">15. Hyperlydius est novissimus et acutissimus omnium, hyperaeolium hemitonio, hyperphrygium tono, hyperjastium duobus tonis, hyperdorium duobus semis tonis, hoc est diatessaron symphonia; aeolium tribus tonis, phrygium tribus semis tonis, hoc est diapente symphonia; jastium quatuor tonis, dorium quatuor semis, hypolydium quinque, hypoaeolium quinque semis tonis, hypophrygium sex tonis, 
+      <pb n="[1212]" />hoc est diapason symphonia; hypojastium sex semis tonis, hypodorium septem tonis. Unde claret quoniam hyperlydius tonus omnium acutissimus, septem tonis praecedit hypodorium omnium gravissimum: in quibus, ut Varro meminit, tantae utilitatis virtus ostensa est, ut excitatos [mss., ut excitaret] animos sedaret, ipsas quoque bestias, nec non et serpentes, volucres atque delphinas ad auditum suae modulationis attraheret.</p>
+      <p id="CASIM0067">Nam ut Orphei lyram, Sirenarum cantus, tanquam fabulosa taceamus: quid de David dicimus, qui ab spiritu immundo Saulem disciplina saluberrimae modulationis eripuit, novoque modo per auditum sanitatem contulit regi, quam medici non poterant herbarum potestatibus operari (I Regum xvi, 23)? Asclepiades quoque melicus, majorem attestatione doctissimus, phreneticum quemdam per symphoniam naturae suae reddidisse memoratur. Multa sunt autem in aegris hominibus per hanc disciplinam facta miracula. Coelum ipsum, sicut supra memoravimus, dicitur sub harmoniae dulcedine revolvi. Et ut breviter cuncta complectar, quidquid in supernis sive terrenis rebus convenienter secundum auctoris sui dispositionem geritur, ab hac disciplina non refertur exceptum.</p>
+      <p id="CASIM0068">Gratissima ergo nimis utilisque cognitio, quae et sensum nostrum ad superna erigit, et aures modulatione permulcet; quam apud Graecos Alypius, Euclides, Ptolomaeus, et caeteri probabili institutione [mss., instructione] docuerunt. Apud Latinos autem vir magnificus Albinus librum de hac re compendiosa brevitate conscripsit; quem in bibliotheca Romae nos habuisse, atque studiose legisse retinemus. Qui si forte gentili incursione sublatus est, habetis hic Gaudentium Mutiani Latinum; quem si sollicita intentione relegitis, hujus scientiae vobis atria patefacit. Fertur etiam Latino sermone et Apuleium Madaurensem instituta hujus operis effecisse.</p>
+      <p id="CASIM0069">Scripsit etiam et Pater Augustinus de musica sex libros, in quibus humanam vocem, rhythmicos sonos et harmoniam modulabilem in longis syllabis atque brevibus naturaliter habere monstravit. Censorinus quoque de accentibus voci nostrae adnecessariis subtiliter disputavit, pertinere dicens ad musicam disciplinam; quem vobis inter caeteros transcriptum reliqui.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Liber de arte contrapuncti, Liber secundus</title>
+        <title type="abbrev">TINCPT2</title>
+        <author>Tinctoris, Johannes</author>
+        <date notBefore="1400" notAfter="1499">15th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Stephen E. Hayes</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Peter M. Lefferts</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Angela Mariani</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1992</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>Johannis Tinctoris Opera theoretica</emph>, ed. Albert Seay, 3 vols. in 2, Corpus scriptorum de musica, vol. 22 ([Rome]: American Institute of Musicology, 1975-78), 2:90–145. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Iohannes Tinctoris: Liber de arte contrapuncti</title>
+          
+<idno type="LML">IOH. TINCT. contr.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">B-Br II 4147, 52-101</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">E-VAu 835, 77v-144</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Bu 2573, 88-166</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="TINCPT20001">
+      <pb n="[90]" />Liber secundus</p>
+      <p id="TINCPT20002">Incipit Secundus.</p>
+      <p id="TINCPT20003">Capitulum I--De generali diffinitione discordantiarum earumque numero ac nominibus.</p>
+      <p id="TINCPT20004">Postquam superiori libro de concordantiis tractatum est ut nunc de discordantiis tractemus debitus ordo postulat. Hinc tametsi iuxta Philosophum, "Cognito uno contrariorum cognoscatur et reliquum," quo videtur cognitis concordantiis mox et discordantias esse cognitas, specifice tamen ut perfectius cognoscantur quot et quae sint intra tridiapason ostendere diffinireque decrevi.</p>
+      <p id="TINCPT20005">Unde primo notandum est quod discordantia est duarum vocum mixtura naturaliter aures offendens. Diciturque discordantia metaphorice a dis et corde. Quemadmodum enim ex separatione duorum cordium ab uniformitate mutui consensus amaritudo inimicitiae oritur, ita ex duabus vocibus sibi invicem non consentientibus asperitas discordantiae producitur.</p>
+      <p id="TINCPT20006">Et quamvis apud diversos auctores nostrae artis discordantiam nunc diaphoniam, nunc dissonantiam, nunc discrepantiam nominari compererim, numquam tamen eam appellari malam concordantiam accepi. Unde revera plurium errant multi nostrae aetatis cantores imperitissimi quom discordantiam malam concordantiam vocent, enim vero sicut vitium mala virtus a nullo umquam morali philosopho dictum fuit, ita nec musicus umquam litteratus discordantiam malam concordantiam nuncupavit. Porro tridiapason in se septem et triginta mixturas continente, duae et viginti earum, ut superius demonstravimus, concordantiae sunt, caeterae vero, hoc est quindecim, discordantiae, videlicet:</p>
+      <p class="textFig" id="TINCPT20007">Semitonium,&#160;quod&#160;communiter&#160;dicitur&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Secunda&#160;imperfecta
+      <lb />Tonus&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Secunda&#160;perfecta
+      <br />Tritonus&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Quarta&#160;falsa
+      <lb />Diapente&#160;cum&#160;semiditono&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Septima&#160;imperfecta
+      <br />Diapente&#160;cum&#160;ditono&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Septima&#160;perfecta
+      <lb />Semitonium&#160;supra&#160;diapason&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Nona&#160;imperfecta
+      <br />Tonus&#160;supra&#160;diapason&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Nona&#160;perfecta
+      <lb />Tritonus&#160;supra&#160;diapason&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Undecima&#160;falsa
+      <br />Diapente&#160;cum&#160;semiditono&#160;supra&#160;diapason&#160;&#160;&#160;&#160;&#160;&#160;&#160;Quartadecima&#160;imperfecta
+      <lb />
+      <pb n="[91]" />&#160;Diapente&#160;cum&#160;ditono&#160;supra&#160;diapason&#160;&#160;&#160;&#160;Quartadecima&#160;perfecta
+      <br />Semitonium&#160;supra&#160;bisdiapason&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Sextadecima&#160;imperfecta
+      <lb />Tonus&#160;supra&#160;bisdiapason&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Sextadecima&#160;perfecta
+      <br />Tritonus&#160;supra&#160;bisdiapason&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Decimaoctava&#160;falsa
+      <lb />Diapente&#160;cum&#160;semiditono&#160;supra&#160;bisdiapason&#160;&#160;&#160;&#160;Vicesimaprima&#160;imperfecta
+      <br />Diapente&#160;cum&#160;ditono&#160;supra&#160;bisdiapason&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Vicesimaprima&#160;perfecta
+      <lb /></p>
+      <p id="TINCPT20008">Et haec discordantiarum communia nomina instar concordantiarum ab ordine locorum in quibus collocantur sunt instituta, ut si tenore in D sol re assistente discordantia sit in E la mi gravi. Hinc enim discordantiae secunda nomen erit, eo quod locus E la mi gravis a D sol re connumerando eum secundus sit, et sic de quarta falsa, septima et omnibus aliis, ut hic patet:</p>
+      <p id="TINCPT20009">[CSM22/2:91,1; text: Exempla] 
+      <figure>
+        <graphic url="/images/TINCPT2_01GF.gif" />
+      </figure></p>
+      <p id="TINCPT20010">Capitulum II--De semitonio et tono, id est secunda imperfecta et secunda perfecta.</p>
+      <p id="TINCPT20011">Est autem semitonium discordantia ex mixtura duarum vocum duobus diascismatibus ab invicem distantium constituta, sicut mi, E la mi gravis, et fa, F fa ut gravis, ut hic:</p>
+      <p id="TINCPT20012">[CSM22/2:91,2]</p>
+      <p id="TINCPT20013">Diciturque semitonium a semus, quod est imperfectus, et tonus, quasi imperfectus tonus. Neque ignorandum est diffinitionem hanc de semitonio minori solum intelligi. Ut enim compertum habeo semitonium per se positum pro minori semper accipitur. Semitonium autem maius quod duobus diascismatibus et uno comate constat etiam discordantia est, sicut fa et mi, cuiuslibet [rob] fa [sqb] mi, ut hic:</p>
+      <p id="TINCPT20014">[CSM22/2:91,3]</p>
+      <p id="TINCPT20015">
+      <pb n="[92]" />Et hanc discordantiam harmonici falsum unisonum vocant, eo quod apud eos in uno et eodem loco contingat; quiquidem falsus unisonus etiam committitur si contra aliquam notam per semitonium chromaticum sustinendam alia in eodem loco ponatur, ut hic:</p>
+      <p id="TINCPT20016">[CSM22/2:92,1]</p>
+      <p id="TINCPT20017">Neque dubium est hoc quoque semitonium chromaticum caeterorum minimum, constans secundum aliquos quinta parte toni, merito inter discordantias numerari. Porro omne semitonium, sive minus sive chromaticum, fuerit secunda imperfecta ad differentiam perfectae quae tonus est communiter dicitur.</p>
+      <p id="TINCPT20018">Unde tonus est discordantia ex mixtura duarum vocum uno semitonio maiore ac uno minore ab invicem distantium effecta, sicut fa, F fa ut gravis, et sol, G sol re ut gravis, ut hic:</p>
+      <p id="TINCPT20019">[CSM22/2:92,2]</p>
+      <p id="TINCPT20020">Quiquidem tonus a tono as dicitur, eo quod primus omnium sonorum ab uno loco ad alium progressorum perfecte tonet. Hinc, ut dictum est, secunda perfecta vulgariter appellatur. Et quamvis tonus ipse, prout Macrobius Boethiusque referunt a Pythagora, in proportione sesquioctave consistere inventus sit, non tamen sequitur quod concordet, manifestissimum enim est omnes proportiones etiam superparticulares concordantias non efficere.</p>
+      <p id="TINCPT20021">Praeterea notandum est quod praedicta semitonia simplices discordantiae sunt, tonus autem ac caeterae compositae, et hoc tripliciter, hoc est aut ex duabus discordantiis, ut ipse hic tonus qui ex duobus semitoniis uno maiore et altero minore formatur, aut ex duabus concordantiis, ut diapente cum semiditono, quod ex diapente ac semiditono confectum est, aut ex una concordantia et una discordantia, ut semitonium supra diapason, quod nullus ignorat ex diapason ac semitonio esse compositum.</p>
+      <p id="TINCPT20022">Sed videtur quod discordantiae ex duabus concordantiis compositae potius concordantiae sint, ut diapente cum semiditono vel cum ditono, namque 
+      <pb n="[93]" />si Boethio credendum est, dicenti ut superiori libro retulimus, quod concordantiae concordantiis suppositae alias quasdam concordantias efficiunt, quotienscumque una concordantia alteri coniungitur ex tali compositione non discordantia sed concordantia generatur.</p>
+      <p id="TINCPT20023">Ad hoc dicendum est auctoritatem hanc Boethianam intelligi debere de concordantiis infra diapason existentibus, ex quibus supra diapason vel bisdiapason vel tridiapason vel quantumvis diapason assumptis aliae nascuntur concordantiae, quippe si ditonus supra diapason vel bisdiapason assumatur alia concordantia quae simplex ditonus est efficitur. Et sic de aliis.</p>
+      <p id="TINCPT20024">Capitulum III--De tritono, id est quarta falsa.</p>
+      <p id="TINCPT20025">Tritonus est discordantia ex mixtura duarum vocum tribus tonis ab invicem distantium constituta, sicut fa, F fa ut gravis, et mi, [rob] fa [sqb] mi acuti, ut hic:</p>
+      <p id="TINCPT20026">[CSM22/2:93,1]</p>
+      <p id="TINCPT20027">Dictusque est tritonus a tribus et tonus, eo quod ex tribus tonis sit confectus. Continet itaque discordantia haec tres tonos quae adeo naturae inimica est, ut non solum aures offendat verum etiam a tenore in eam vel ab ea in tenorem absque medio ascendere vel descendere voci humanae quodammodo sit impossibile. Vocaturque communiter quarta falsa propterea quod veram quartam, hoc est diatessaron, uno maiori semitonio excedat.</p>
+      <p id="TINCPT20028">Capitulum IV--De diapente cum semiditono et diapente cum ditono, id est septima imperfecta et septima perfecta.</p>
+      <p id="TINCPT20029">Diapente cum semiditono est discordantia ex mixtura duarum vocum diapente ad semiditono ab invicem distantium effecta, sicut re, D sol re, et fa, C sol fa ut, ut hic patet:</p>
+      <p id="TINCPT20030">[CSM22/2:93,2]</p>
+      <p id="TINCPT20031">
+      <pb n="[94]" />Diciturque diapente cum semiditono, eo quo diapente et semiditono constituatur, et quia discordantia haec quatuor tonos duoque semitonia tantum continet, communiter septima imperfecta nominatur.</p>
+      <p id="TINCPT20032">Diapente vero cum ditono est discordantia ex mixtura duarum vocum diapente ac di tono ab invicem distantium constituta, sicut fa, F fa ut gravis, et mi, E la mi acuti, ut hic patet:</p>
+      <p id="TINCPT20033">[CSM22/2:94,1]</p>
+      <p id="TINCPT20034">Dictumque est diapente cum ditono quoniam ex diapente ac ditono confectum sit. Continet autem ipsa haec discordantia quinque tonos et unum semitonium, unde et septima perfecta vulgariter est appellata.</p>
+      <p id="TINCPT20035">Capitulum V--De semitonio et tono supra diapason, id est nona imperfecta et nona perfecta.</p>
+      <p id="TINCPT20036">Semitonium supra diapason est discordantia ex mixtura duarum vocum diapason ac semitonio ab invicem distantium effecta, sicut mi, E la mi gravis, et fa, F fa ut acuti, ut hic:</p>
+      <p id="TINCPT20037">[CSM22/2:94,2]</p>
+      <p id="TINCPT20038">Diciturque semitonium supra diapason, eo quod ex semitonio supra diapason posito constituatur. Porro discordantia haec sicut diapason, ut supra demonstratum est, quinque tonos ac duo semitonia continet, quinque tonis ac tribus semitoniis tantummodo constat, hinc et communiter nona imperfecta vocatur.</p>
+      <p id="TINCPT20039">Tonus autem supra diapason discordantia est ex mixtura duarum vocum ab invicem diapason ac tono distantium constituta, sicut fa, F fa ut gravis, et sol, G sol re ut acuti, ut hic:</p>
+      <p id="TINCPT20040">[CSM22/2:94,3]</p>
+      <p id="TINCPT20041">
+      <pb n="[95]" />Dictusque est tonus supra diapason, quoniam ex tono supra diapason assumpto conficiatur, et eo quod diapason quinque tonis ac duobus semitoniis constet, [discordantia] haec sex tonos ac duo etiam semitonia necessario continet, unde et nona perfecta vulgariter est nuncupata.</p>
+      <p id="TINCPT20042">Capitulum VI--De tritono supra diapason, id est undecima falsa.</p>
+      <p id="TINCPT20043">Tritonus supra diapason est discordantia ex mixtura duarum vocum diapason ac tritono ab invicem distantium effecta, sicut fa, F fa ut gravis, et mi, [rob] fa [sqb] mi superacuti, ut hic:</p>
+      <p id="TINCPT20044">[CSM22/2:95,1]</p>
+      <p id="TINCPT20045">Dictusque est tritonus supra diapason quia ex tritono supra diapason posito constituatur. Et quoniam, ut praeostendimus, diapason ex quinque tonis ac duobus semitoniis, tritonus vero ex tribus tonis constat, hanc discordantiam octo tonos ac duo semitonia continere manifestissimum est. Quaequidem discordantia ideo vulgariter undecima falsa vocatur, quia vera undecima, id est diatessaraon supra diapason, ab ea uno semitonio maiore superetur.</p>
+      <p id="TINCPT20046">Capitulum VII--De diapente cum semiditono et diapente cum ditono supra diapason, id est quartadecima imperfecta et quartadecima perfecta.</p>
+      <p id="TINCPT20047">Diapente cum semiditono supra diapason est discordantia ex mixtura duarum vocum diapason ac diapente cum semiditono ab invicem distantium constituta, sicut re, D sol re, et fa, C sol fa, ut hic:</p>
+      <p id="TINCPT20048">[CSM22/2:95,2]</p>
+      <p id="TINCPT20049">Diciturque diapente cum semiditono supra diapason, eo quod ex diapente cum semiditono supra diapason assumpto confectum sit; et quia, ut saepe 
+      <pb n="[96]" />dictum est, diapason quinque tonos ac duo semitonia, diapente vero cum semiditono quatuor tonos ac duo etiam semitonia contineat, discordantia haec novem tonis et quatuor semitoniis tantummodo constat. Quo fit ut et quartadecima imperfecta communiter nominetur.</p>
+      <p id="TINCPT20050">Diapente autem cum ditono supra diapason est discordantia ex mixtura duarum vocum ab invicem diapason ac diapente cum ditono distantium constituta, sicut fa, C fa ut, et mi, [rob] fa [sqb] mi superacuti, ut hic patet:</p>
+      <p id="TINCPT20051">[CSM22/2:96,1]</p>
+      <p id="TINCPT20052">Dictaque est discordantia haec diapente cum ditono supra diapason, eo quod ex diapente cum ditono supra diapason posito efficiatur. Quamquidem discordantiam decem tonos ac tria semitonia continere clarissimum est, quom diapason quinque tonis ac duobus semitoniis et diapente cum ditono quinque etiam tonis ac uno semitoniis et diapente cum ditono quinque etiam tonis ac uno semitonio constare superius ostensum sit. Hinc et ipsa quartadecima perfecta vulgariter est nuncupata.</p>
+      <p id="TINCPT20053">Capitulum VII bis--De semitonio et tono supra bisdiapason, id est sextadecima imperfecta et sextadecima perfecta.</p>
+      <p id="TINCPT20054">Semitonium supra bisdiapason est discordantia ex mixtura duarum vocum ab invicem bisdiapason ac semitonio distantium effecta, sicut mi, [rob] fa [sqb] mi, et fa, C sol fa, ut hic patet:</p>
+      <p id="TINCPT20055">[CSM22/2:96,2]</p>
+      <p id="TINCPT20056">Dictumque est semitonium supra bisdiapason quoniam ex semitonium supra bisdiapason posito constituatur. Porro si bisdiapason decem tonis et quatuor semitoniis constat, necessarium est ut discordantia haec decem tonos 
+      <pb n="[97]" />et quinque semitonia tantum contineant, unde et communiter sextadecima imperfecta dicitur.</p>
+      <p id="TINCPT20057">Tonus vero supra bisdiapason est discordantia ex mixtura duarum vocum bisdiapason ac tono ab invicem distantium constituta, sicut fa, C fa ut, et sol, D la sol, ut hic:</p>
+      <p id="TINCPT20058">[CSM22/2:97,1]</p>
+      <p id="TINCPT20059">Diciturque discordantia haec tonus supra bisdiapason eo quod ex tono supra bisdiapason assumpto confecta sit. Et quom bisdiapason decem tonos et quatuor semitonia contineat, ipsa haec discordantia undecim tonis et quatuor etiam semitoniis necessario constat. Hinc et sextadecima vulgariter est appellata.</p>
+      <p id="TINCPT20060">Capitulum VIII--De tritono supra bisdiapason, id est decimaoctava falsa.</p>
+      <p id="TINCPT20061">Tritonus supra bisdiapason est discordantia ex mixtura duarum vocum bisdiapason ac tritono ab invicem distantium effecta, sicut la fictum, in [sqb] mi, et la, in E la, ut hic:</p>
+      <p id="TINCPT20062">[CSM22/2:97,2]</p>
+      <p id="TINCPT20063">Estque discordantia haec dicta tritonus supra bisdiapason quia ex tritono supra bisdiapason posito constituatur, et quoniam superius demonstratum est bisdiapason decem tonis et quatuor semitoniis, tritonum vero tribus tonis constare, ipsa haec discordantia tredecim tonos ac quatuor etiam semitonia necessario continet. Vocaturque communiter decimaoctava falsa, eo quod veram decimamoctavam, hoc est diatessaron supra bisdiapason, uno semitonio maiore superet.</p>
+      <p id="TINCPT20064">Capitulum IX--De diapente cum semiditono et diapente cum ditono supra bisdiapason, id est vicesimaprima imperfecta et vicesimaprima perfecta.</p>
+      <p id="TINCPT20065">
+      <pb n="[98]" />Diapente cum semiditono supra bisdiapason est discordantia ex mixtura duarum vocum ab invicem bisdiapason ac diapente cum semiditono distantium constituta, sicut se fictum in [Gamma] ut, et fa etiam fictum in primo loco extra manum supra E la, ut hic patet:</p>
+      <p id="TINCPT20066">[CSM22/2:98,1]</p>
+      <p id="TINCPT20067">Diciturque diapente cum semiditono supra bisdiapason, eo quod ex diapente cum semiditono supra bisdiapason assumpto constitutum sit. Porro quom bisdiapason, ut saepissime dictum est, decem tonos et quatuor semitonia, diapente vero cum semiditono quatuor tonos et duo semitonia contineat, discordantiam hanc quatuordecim tonis et sex semitoniis tantum constare manifestissimum est. Unde et vicesimaprima imperfecta vulgariter nominatur.</p>
+      <p id="TINCPT20068">Diapente autem cum ditono supra bisdiapason est discordantia ex mixtura duarum vocum bisdiapason ac diapente cum ditono ab invicem distantium effecta, sicut fa fictum extra manum in loco primo sub [Gamma] ut, et la, E la, ut hic:</p>
+      <p id="TINCPT20069">[CSM22/2:98,2]</p>
+      <p id="TINCPT20070">Dictaque est discordantia haec diapente cum ditono supra bisdiapason, quia ex diapente cum ditono supra bisdiapason posito conficiatur. Quaequidem discordantia quindecim tonis et quinque semitoniis necessario constat, si bisdiapason decem tonos et quatuor semitonia ac diapente cum ditono quinque etiam tonos ac unum semitonium continent, quapropter vicesimaprima perfecta communiter est nuncupata.</p>
+      <p id="TINCPT20071">Capitulum X--De falsis concordantiis.</p>
+      <p id="TINCPT20072">Denique praeter discordantias praedictas, ut praetermittam diatessaron, diatessaron supra diapason et diatessaron supra bisdiapason, de quibus per se 
+      <pb n="[99]" />positis intolerabiliter discordantibus satis libro superiori tractatum est, aliae intra tridiapason discordantiae comperiuntur, quas vulgariter falsas concordantias vocant, scilicet:</p>
+      <p class="textFig" id="TINCPT20073">Diapente&#160;imperfectum
+      <br />Diapente&#160;superfluum&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;id&#160;est,&#160;falsa&#160;quinta
+      <lb />Diapason&#160;imperfectum
+      <br />Diapason&#160;superfluum&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;id&#160;est,&#160;falsa&#160;octava
+      <lb />Diapente&#160;imperfectum&#160;supra&#160;diapason
+      <br />Diapente&#160;superfluum&#160;supra&#160;diapason&#160;&#160;&#160;&#160;&#160;&#160;&#160;id&#160;est,&#160;falsa&#160;duodecima
+      <lb />Bisdiapason&#160;imperfectum
+      <br />Bisdiapason&#160;superfluum&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;id&#160;est,&#160;falsa&#160;quintadecima
+      <lb />Diapente&#160;imperfectum&#160;supra&#160;bisdiapason
+      <br />Diapente&#160;superfluum&#160;supra&#160;bisdiapason&#160;&#160;&#160;&#160;id&#160;est,&#160;falsa&#160;decimanona
+      <lb />Tridiapason&#160;imperfectum
+      <br />Tridiapason&#160;superfluum&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;id&#160;est,&#160;falsa&#160;vicesimasecunda
+      <lb /></p>
+      <p id="TINCPT20074">Quae vero istarum discordantiarum aut falsarum concordantiarum imperfectae dictae sunt, ideo sic dicuntur, quoniam a perfectione verarum concordantiarum uno maiore semitonio distant. Superfluae autem ob hoc nominantur, quia e converso veras concordantias uno maiore semitonio superant, ut ex dictis ac exemplis sequentibus in unaquaque specie patebit.</p>
+      <p id="TINCPT20075">Capitulum XI--De diapente imperfecto et superfluo, id est quinta falsa.</p>
+      <p id="TINCPT20076">Diapente imperfectum est discordantia ex mixtura duarum vocum duobus tonis ac duobus semitoniis ab invicem distantium constituta, sicut mi, E la mi gravis, et fa, ipsius, [rob] fa [sqb] mi acuti, ut hic patet:</p>
+      <p id="TINCPT20077">[CSM22/2:99]</p>
+      <p id="TINCPT20078">
+      <pb n="[100]" />Continet itaque discordantia haec tantum duos tonos ac duo semitonia.</p>
+      <p id="TINCPT20079">Diapente vero superfluum est discordantia ex mixtura duarum vocum ab invicem quatuor tonis distantium effecta, sicut fa fictum, in E la mi gravis, et mi, in [rob] fa [sqb] mi acuti, ut hic:</p>
+      <p id="TINCPT20080">[CSM22/2:100,1]</p>
+      <p id="TINCPT20081">Haec igitur discordantia quatuor tonis integris constat.</p>
+      <p id="TINCPT20082">Capitulum XII--De diapason imperfecto et superfluo, id est falsa octava.</p>
+      <p id="TINCPT20083">Diapason imperfectum est discordantia ex mixtura duarum vocum imperfecto diapente ad diatessaron ab invicem distantium effecta, sicut mi, ipsius [sqb] mi, et [rob] fa, [sqb] mi acuti, ut hic:</p>
+      <p id="TINCPT20084">[CSM22/2:100,2]</p>
+      <p id="TINCPT20085">Etque diapente imperfectum duobus tonis totidemque semitoniis tantum ac diatessaron duobus etiam tonis et uno semitonio constare praedictum est. Discordantia haec quatuor tonos ac tria semitonia solummodo continet. Diapason autem superfluum est discordantia ex mixtura duarum vocum ab invicem perfecto diapente ac tritono distantium constituta, sicut fa, [rob] fa [sqb] mi acuti, et mi, etiam [rob] fa [sqb] mi superacuti, ut hic patet:</p>
+      <p id="TINCPT20086">[CSM22/2:100,3]</p>
+      <p id="TINCPT20087">Quoniam vero perfectum diapente tres tonos ac unum semitonium tritonusque tres tonos ut praediximus continent, manifestum est discordantiam hanc sex tonis ac semitonio constare.</p>
+      <p id="TINCPT20088">Capitulum XIII--De diapente supra diapason imperfecto et superfluo, id est duodecima falsa.</p>
+      <p id="TINCPT20089">Diapente supra diapason imperfectum est discordantia ex mixtura duarum 
+      <pb n="[101]" />vocum perfecto diapason ac imperfecto diapente ab invicem distantium effecta, sicut mi, [sqb] mi, et fa, [rob] fa [sqb] mi acuti, ut hic:</p>
+      <p id="TINCPT20090">[CSM22/2:101,1]</p>
+      <p id="TINCPT20091">Et quia perfectum diapason quinque tonis ac duobus semitoniis imperfectumque diapente duobus tonis ac duobus etiam semitoniis confici superius ostensum est, discordantia haec septem tonos et quatuor semitonia tantummodo comprehendit.</p>
+      <p id="TINCPT20092">Diapente vero supra diapason superfluum est discordantia ex mixtura duarum vocum ab invicem superfluo diapason ac perfecto diapente distantium constituta, sicut fa fictum, in E la mi gravi, et mi, [rob] fa [sqb] mi superacuti, ut hic:</p>
+      <p id="TINCPT20093">[CSM22/2:101,2]</p>
+      <p id="TINCPT20094">Quoniam autem superfluum diapason sex tonos unum semitonium diapenteque perfectum tres tonos ac unum etiam semitonium continent, ut novem tonis ac duobus semitoniis haec discordantia constet necessarium est.</p>
+      <p id="TINCPT20095">Capitulum XIV--De bisdiapason imperfecto et superfluo, id est quintadecima falsa.</p>
+      <p id="TINCPT20096">Bisdiapason imperfectum est discordantia ex mixtura duarum vocum ab invicem uno perfecto diapason et altero imperfecto distantium effecta, sicut mi, [sqb] mi, et fa, [rob] fa [sqb] mi superacuti, ut hic:</p>
+      <p id="TINCPT20097">[CSM22/2:101,3]</p>
+      <p id="TINCPT20098">Et quoniam perfectum diapason, ut frequentissime dictum est, quinque tonis duobusque semitoniis ac imperfectum quatuor tonis et tribus semitoniis solummodo constat, hanc discordantiam novem tonos et quinque semitonia 
+      <pb n="[102]" />tantum continere nemo dubitat. Bisdiapason autem superfluum est discordantia ex mixtura duarum vocum uno diapason perfecto et altero superfluo ab invicem distantium constituta sicut fa fictum, [sqb] mi, et mi, [rob] fa [sqb] mi superacuti, ut hic patet:</p>
+      <p id="TINCPT20099">[CSM22/2:102,1]</p>
+      <p id="TINCPT20100">Porro quom diapason perfectum, ut praeostendemus, quinque tonos et duo semitonia, superfluum vero sex tonos ac unum semitonium contineat, discordantia haec undecim tonis ac tribus semitoniis necessario constat.</p>
+      <p id="TINCPT20101">Capitulum XV--De diapente supra bisdiapason imperfecto et superfluo, id est decimanona falsa.</p>
+      <p id="TINCPT20102">Diapente supra bisdiapason imperfectum est discordantia ex mixtura duarum vocum ab invicem perfecto bisdiapason et imperfecto diapente distantium effecta, sicut mi, [sqb] mi, et fa fictum, in primo loco extra manum supra E la, ut hic:</p>
+      <p id="TINCPT20103">[CSM22/2:102,2]</p>
+      <p id="TINCPT20104">Et quia bisdiapason perfectum decem tonis ac quatuor semitoniis, diapente autem imperfectum duobus tonis ac totidem semitoniis tantummodo constat, discordantia haec necessario duodecim tonos et sex semitonia solum continet.</p>
+      <p id="TINCPT20105">Diapente vero supra bisdiapason superfluum est discordantia ex mixtura duarum vocum bisdiapason superfluo ac diapente perfecto ab invicem distantium constituta, sicut fa fictum extra manum, loco secundo sub [Gamma] ut, et mi, [rob] fa [sqb] superacuti, ut hic patet:</p>
+      <p id="TINCPT20106">
+      <pb n="[103]" />[CSM22/2:103,1]</p>
+      <p id="TINCPT20107">Constatque discordantia haec quatuordecim tonis et quatuor semitoniis, si bisdiapason superfluum undecim tonos ac tria semitonia, diapente vero perfectum tres tonos ac unum semitonium, ut saepe diximus, contineat.</p>
+      <p id="TINCPT20108">Capitulum XVI--De tridiapason imperfecto et superfluo, id est vicesimasecunda falsa.</p>
+      <p id="TINCPT20109">Tridiapason imperfectum est discordantia ex mixtura duarum vocum bisdiapason perfecto ac diapason imperfecto ab invicem distantium effecta, sicut mi fictum extra manum, secundo loco sub [Gamma] ut, et fa etiam fictum, in E la, ut hic:</p>
+      <p id="TINCPT20110">[CSM22/2:103,2]</p>
+      <p id="TINCPT20111">Porro quom bisdiapason perfectum decem tonos et quatuor semitonia, diapasonque imperfectum quatuor tonos ac tria semitonia tantum contineant, hanc discordantiam tonis ac septem semitoniis constare solummodo manifestissimum est.</p>
+      <p id="TINCPT20112">Tridiapason autem superfluum est discordantia ex mixtura duarum vocum ab invicem superfluo diapason ac perfecto bisdiapason effecta, sicut fa sub [Gamma] ut, secundo loco extra manum fictum, et la, E la, ut hic patet:</p>
+      <p id="TINCPT20113">[CSM22/2:103,3]</p>
+      <p id="TINCPT20114">Et quoniam ut praemonstratum est superfluum diapason sex tonis ac uno semitonio et bisdiapason perfectum decem tonis quatuorque semitoniis 
+      <pb n="[104]" />conficiuntur, discordantia haec sexdecim tonos et quinque semitonia necessario continet.</p>
+      <p id="TINCPT20115">Capitulum XVII--Quomodo etiam concordantiae perfectae, hoc est diapente, diapason et caeterae, possunt esse falsae concordantiae per imperfectionem aut superfluitatem ex semitonio chromatico causatam.</p>
+      <p id="TINCPT20116">Neque praemittendum est ipsas concordantias perfectas, id est diapente, diapason, diapente supra diapason, bisdiapason, diapente supra bisdiapason et tridiapason, fieri posse discordantias aut falsas concordantias per imperfectionem ac superfluitatem ex semitonio chromatico causatam, verbi gratia, si supra aliquam notam sustinendam quaevis istarum perfectarum concordantiarum contraponatur, tunc enim imperfecta quinta parte unius toni efficietur, ut hic patet:</p>
+      <p id="TINCPT20117">[CSM22/2:104,1; text: Exempla] 
+      <figure>
+        <graphic url="/images/TINCPT2_02GF.gif" />
+      </figure></p>
+      <p id="TINCPT20118">At si infra quamvis notam etiam sustinendam aliqua dictarum concordantiarum perfectarum contraposita sit, quatuor partibus toni superflua erit, ut hic probatur:</p>
+      <p id="TINCPT20119">[CSM22/2:104,2; text: Exempla]</p>
+      <p id="TINCPT20120">Et quamvis hoc modo omnes concordantiae perfectae, ut dictum est, efficiantur discordantiae vel falsae concordantiae, diapente tamen ac diapente supra diapason et diapente supra bisdiapason non tam asperae per huiusmodi semitonia chromatica discordant ut caeterae, quod et praeposita apertissime manifestant exempla.</p>
+      <p id="TINCPT20121">
+      <pb n="[105]" />Capitulum XVIII--Quod verae etiam discordantiae, id est septimanona, quartadecima et reliqua, per semitonium chromaticum possunt esse remissiores vel intensiores.</p>
+      <p id="TINCPT20122">Solent etiam aliae discordantiae verae, hoc est septimanona, quartadecima et similes, virtute chromatici semitonii vel intensiores vel remissiores effici, verumtamen tunc minime vel parum qualitas earum immutatur, semper enim discordantiae sunt, ut hic patet:</p>
+      <p id="TINCPT20123">[CSM22/2:105,1; text: Exempla]</p>
+      <p id="TINCPT20124">Capitulum XIX--Quod contrapunctus duplex sit, id est simplex et diminutus.</p>
+      <p id="TINCPT20125">Quoniam autem, ut principio libri superius diximus, in contrapuncto discordantiae aliquando admittuntur, notandum est primo contrapunctum esse duplicem, hoc est aut simplicem aut diminutum. Simplex contrapunctus dicitur ille qui simpliciter una nota contra aliam posita eiusdem valoris efficitur, ut hic:</p>
+      <p id="TINCPT20126">[CSM22/2:105,2; text: Contrapunctus simplex, Tenor]</p>
+      <p id="TINCPT20127">Dictusque est contrapunctus hic simplex eo quod simpliciter per proportionen aequalitatis tantum sine aliquo flore diversitatis confectus sit.</p>
+      <p id="TINCPT20128">
+      <pb n="[106]" />Diminutus autem contrapunctus ille est qui per positionem duarum aut plurium notarum contra unam, nunc per proportionem aequalitatis, nunc inaequalitatis conficitur, ut hic:</p>
+      <p id="TINCPT20129">[CSM22/2:106; text: Contrapunctus diminutus, Tenor] 
+      <figure>
+        <graphic url="/images/TINCPT2_03GF.gif" />
+      </figure></p>
+      <p id="TINCPT20130">
+      <pb n="[107]" />Diciturque contrapunctus huiusmodi diminutus, quoniam in eo notarum integrarum quaedam fit in diversas minutas partes divisio. Hinc et floridus a nonnullis per metaphoram appellatur. Quemadmodum enim diversitas florum agros iucundissimos efficit, ita proportionum varietas contrapunctum acceptissimum reddit.</p>
+      <p id="TINCPT20131">Capitulum XX--Quod tam simplez quam diminutus contrapunctus dupliciter fit, hoc est scripto vel mente, et in quo res facta a contrapuncto differt.</p>
+      <p id="TINCPT20132">Porro tam simplex quam diminutus contrapunctus dupliciter fit, hoc est aut scripto aut mente.</p>
+      <p id="TINCPT20133">Contrapunctus qui scripto fit communiter res facta nominatur. At istum quem mentaliter conficimus absolute contrapunctum vocamus, et hunc qui faciunt super librum cantare vulgariter dicuntur. In hoc autem res facta a contrapuncto potissimum differt, quod omnes partes rei factae sive tres sive quatuor sive plures sint, sibi mutuo obligentur, ita quod ordo lexque concordantiarum cuiuslibet partis erga singulas et omnes observari debeat, ut satis patet in hoc exemplo quinque partium existenti, quarumquidem partium tres primo, deinde quatuor ac postremo omnes quinque concinunt:</p>
+      <p id="TINCPT20134">[CSM22/2:107; text: Contratenor tertius, Deo, Tenor, Contratenor secundus, Contratenor primus] 
+      <figure>
+        <graphic url="/images/TINCPT2_04GF.gif" />
+      </figure></p>
+      <p id="TINCPT20135">
+      <pb n="[108]" />[CSM22/2:108] 
+      <figure>
+        <graphic url="/images/TINCPT2_05GF.gif" />
+      </figure></p>
+      <p id="TINCPT20136">
+      <pb n="[109]" />[CSM22/2:109; text: o, grati-] 
+      <figure>
+        <graphic url="/images/TINCPT2_06GF.gif" />
+      </figure></p>
+      <p id="TINCPT20137">
+      <pb n="[110]" />[CSM22/2:110,1; text: tias.] 
+      <figure>
+        <graphic url="/images/TINCPT2_07GF.gif" />
+      </figure></p>
+      <p id="TINCPT20138">Sed duobus aut tribus, quatuor aut pluribus super librum concinentibus alter alteri non subiicitur. Enimvero cuilibet eorum circa ea, quae ad legem ordinationemque concordantiarum pertinent, tenori consonare sufficit. Non tamen vituperabile immo plurimum laudabile censeo si concinentes similitudinem assumptionis ordinationisque concordantiarum inter se prudenter cantavering. Sic enim concentum eorum multo repletiorem suavioremque efficient.</p>
+      <p id="TINCPT20139">Capitulum XXI--Quod omnis contrapunctus aut super cantum planum aut super figuratum fit, et primo quomodo super cantum planum.</p>
+      <p id="TINCPT20140">Denique omnis contrapunctus aut super cantum planum aut figuratum fit. Super cantum planum quidem contrapunctum fieri contingit, quando ad voluntatem canentium quaelibet ipsius plani cantus nota una semibrevis minoris prolationis aut maioris tenetur, ut hic probatur:</p>
+      <p id="TINCPT20141">[CSM22/2:110,2; text: Contrapunctus, Tenor, Virginis,]</p>
+      <p id="TINCPT20142">
+      <pb n="[111]" />[CSM22/2:111; text: -nis Mariae laudes intonent] 
+      <figure>
+        <graphic url="/images/TINCPT2_08GF.gif" />
+      </figure></p>
+      <p id="TINCPT20143">
+      <pb n="[112]" />[CSM22/2:112; text: Virginia Mariae laudes intonent Christiani.] 
+      <figure>
+        <graphic url="/images/TINCPT2_09GF.gif" />
+      </figure></p>
+      <p id="TINCPT20144">Praeterea nonnulli sunt quamlibet notam plani cantus duas semibreves prolationis minoris efficientes, ut hic patet:</p>
+      <p id="TINCPT20145">
+      <pb n="[113]" />[CSM22/2:113; text: Tenor, Contrapunctus, Allelu-] 
+      <figure>
+        <graphic url="/images/TINCPT2_10GF.gif" />
+      </figure></p>
+      <p id="TINCPT20146">
+      <pb n="[114]" />[CSM22/2:114,1; text: -luia.] 
+      <figure>
+        <graphic url="/images/TINCPT2_11GF.gif" />
+      </figure></p>
+      <p id="TINCPT20147">Alii vero primam notam ipsius plani cantus tres semibreves minoris prolationis, secundam duas et tertiam unam, et sic de aliis usque in finem concinunt, ut hic patet:</p>
+      <p id="TINCPT20148">[CSM22/2:114,2; text: Contrapunctus, Tenor, Alleluia]</p>
+      <p id="TINCPT20149">
+      <pb n="[115]" />[CSM22/2:115] 
+      <figure>
+        <graphic url="/images/TINCPT2_12GF.gif" />
+      </figure></p>
+      <p id="TINCPT20150">Quidam insuper primam notam plani cantus tres semibreves minoris prolationis, secundam duas, tertiam unam et e converso quartam unam, quintam duas, sextam tres, et sic de caeteris usque in finem efficiunt, ut hic:</p>
+      <p id="TINCPT20151">
+      <pb n="[116]" />[CSM22/2:116; text: Contrapunctus, Alleluia, Tenor] 
+      <figure>
+        <graphic url="/images/TINCPT2_13GF.gif" />
+      </figure></p>
+      <p id="TINCPT20152">
+      <pb n="[117]" />[CSM22/2:117,1] 
+      <figure>
+        <graphic url="/images/TINCPT2_14GF.gif" />
+      </figure></p>
+      <p id="TINCPT20153">In pluribus etiam ecclesiis cantus ipse planus absque mensura canitur, super quem suavissimus concentus ab eruditis efficitur. Et in hoc auris bona concinentibus necessaria est ut attentissime cursum tenoristarum animadvertant ne istis unam notam canentibus illi super aliam concinant.</p>
+      <p id="TINCPT20154">Capitulum XXII--Quomodo super figuratum cantum fiat contrapunctus.</p>
+      <p id="TINCPT20155">Super cantum autem figuratum contrapunctus fit quotiens tenore ex notis certi valoris iuxta perfectas aut imperfectas quantitates mensuratis composito super eum concinitur, ut hic:</p>
+      <p id="TINCPT20156">[CSM22/2:117,2; text: Contrapunctus, Sanctus]</p>
+      <p id="TINCPT20157">
+      <pb n="[118]" />[CSM22/2:118; text: sanctus, Dominus Deus Saba-] 
+      <figure>
+        <graphic url="/images/TINCPT2_15GF.gif" />
+      </figure></p>
+      <p id="TINCPT20158">
+      <pb n="[119]" />[CSM22/2:119,1; text: -baoth.] 
+      <figure>
+        <graphic url="/images/TINCPT2_16GF.gif" />
+      </figure></p>
+      <p id="TINCPT20159">Similis vero contrapunctus super planum cantum efficitur, quando per quasvis quantitates notae ipsius plani cantus secundum formas earum quae longarum, brevium et semibrevium sunt, mensurantur, ut patebit in hoc sequenti exemplo per omnes quantitates imperfectas canendo:</p>
+      <p id="TINCPT20160">[CSM22/2:119,2; text: Contrapunctus, Alleluia, Tenor]</p>
+      <p id="TINCPT20161">
+      <pb n="[120]" />[CSM22/2:120] 
+      <figure>
+        <graphic url="/images/TINCPT2_17GF.gif" />
+      </figure></p>
+      <p id="TINCPT20162">Sunt autem et aliqui, quamvis rarissimi, non solum super tenorem, verum etiam super quamlibet aliam partem rei factae concinentes. Talique contrapunctus plurimum artis et usus requirit. Hinc si dulciter ac scientifice fiat, tanto est laudabilior quanto difficilior.</p>
+      <p id="TINCPT20163">Porro licet omnium praemissorum modorum ad efficiendum contrapunctum tam super cantum planum quam super figuratum exempla sint contrapuncti diminuti, simpliciter tamen, hoc est nota contra notam eisudem 
+      <pb n="[121]" />valoris in quovis modo, contrapunctus fieri potest. Verum eo uti super cantum figuratum per omnia ridiculosum est, et super planum puerile, nisi quando nota qualibet ipsius plani cantus accelerando mensuram, una semibrevis minoris prolationis tantummode canitur, tunc enim verbis distincte cum eo prolatis huiusmodi contrapunctus multum affert dulcedinis, ut hic patet:</p>
+      <p id="TINCPT20164">[CSM22/2:121; text: Contrapunctus, Lauda Syon salvatorem, lauda ducem et pastorem in hymnis et canticis, Tenor] 
+      <figure>
+        <graphic url="/images/TINCPT2_18GF.gif" />
+      </figure></p>
+      <p id="TINCPT20165">Capitulum XXIII--Quod in simplici contrapuncto discordantiae non sunt admittendae, sed in diminuto, et primo qualiter circa partes minimae in utraque prolatione et circa partes semibrevis in minori.</p>
+      <p id="TINCPT20166">In ipso autem simplici contrapuncto discordantiae simpliciter et absolute prohibentur, sed in diminuto cum ratione moderata interdum permittuntur. Unde sciendum est ut veterum musicorum compositiones transeam in quibus plures erant discordantiae quam concordantiae, quod fere omnes recentiores non solum compositores verum etiam super librum canentes, tam in prolatione maiori quam in minori supra primam vel aliam partem minimae et in minori ultra hoc supra primam vel aliam etiam partem semibrevis posita concordantia, discordantiam eiusdem aut minoris notae supra sequentem immediate collocant.</p>
+      <p id="TINCPT20167">E contra vero, tam in prolatione maiori quam in minori, supra primam partem primae duarum minimarum in eodem loco existentium unitarum aut separatarum vel minimae solius, et ultra hoc in prolatione minori supra primam partem duarum semibrevium in eodem etiam loco unitarum aut separatum, 
+      <pb n="[122]" />perfectionem aliquam immediate praecedentium discordantia fere semper assumitur. Immo si tam in prolatione maiori quam in minori per plures minimas, vel ultra hoc in prolatione minori per plures semibreves fiat descensus in aliquam perfectionem, discordantia super primam etiam partem cuiuslibet earum syncopando frequentissime admittitur, ut hic in sequenti exemplo patet:</p>
+      <p id="TINCPT20168">[CSM22/2:122; text: Supremum, Salve martyr virgoque Barbara, sponsa pulchra Jesu Christo cara.] 
+      <figure>
+        <graphic url="/images/TINCPT2_19GF.gif" />
+      </figure></p>
+      <p id="TINCPT20169">
+      <pb n="[123]" />[CSM22/2:123; text: Sis meritis nobis et precibus propicia coram summo Deo, ut] 
+      <figure>
+        <graphic url="/images/TINCPT2_20GF.gif" />
+      </figure></p>
+      <p id="TINCPT20170">
+      <pb n="[124]" />[CSM22/2:124; text: locati in caeli sedibus, te cum omnes laetemur in eo.] 
+      <figure>
+        <graphic url="/images/TINCPT2_21GF.gif" />
+      </figure></p>
+      <p id="TINCPT20171">Capitulum XXIV--De admissione discordantiarum circa partes notarum secundum quas mensura cantus dirigitur et quae proportionibus binariis quantitatibusque imperfectis subiiciuntur.</p>
+      <p id="TINCPT20172">Praeterea quod de admissione discordantiarum circa partes semibrevis prolationis minoris diximus, hoc etiam de discordantiis circa partes omnium notarum et secundum directionem mensurae aequipollentium admittendis intelligendum est, ut circa partes minimae cuiusvis prolationis in proportione subdupla vel ubi tenor, quod idem, crescit in duplo, circa partes brevis temporis 
+      <pb n="[125]" />imperfecti et minoris prolationis in cantu ad medium vel per proportionem duplam quod etiam idem est, canendo, circa partes longae eiusdem temporis et prolationis modi quoque minoris imperfecti in proportione quadrupla, et circa partes maximae eorumdem temporis, prolationis et modi minoris ac modi maioris pariter imperfecti in proportione octupla. Namque posita similiter concordantia supra primam aut aliam partem huiusmodi notarum per praedictos modos, proportiones et quantitates canendarum, discordantia eiusdem aut minoris notae supra sequentem assumi poterit.</p>
+      <p id="TINCPT20173">Et si duae earum unitae aut separatae in eodem loco perfectionem aliquam praecesserint, supra primam partem primae ipsarum discordantia e converso interdum collocatur, immo ubi per unam aut plures praedictarum notarum descensus fit in aliquam perfectionem, quaelibet earum supra primam partem sui discordantiam syncopando frequenter assumi permittit, ut hic patet in sequenti exemplo:</p>
+      <p id="TINCPT20174">[CSM22/2:125; text: Tenor, Contratenor, Sancte Johannes Ba-] 
+      <figure>
+        <graphic url="/images/TINCPT2_22GF.gif" />
+      </figure></p>
+      <p id="TINCPT20175">
+      <pb n="[126]" />[CSM22/2:126; text: Baptista via rege nos in ista ut te rectore,] 
+      <figure>
+        <graphic url="/images/TINCPT2_23GF.gif" />
+      </figure></p>
+      <p id="TINCPT20176">
+      <pb n="[127]" />[CSM22/2:127; text: te duce fruamur eterna luce.] 
+      <figure>
+        <graphic url="/images/TINCPT2_24GF.gif" />
+      </figure></p>
+      <p id="TINCPT20177">
+      <pb n="[128]" />Capitulum XXV--Quomodo discordantiae circa partes notarum cantus mensuram dirigentium in proportione binaria constitutarum et per naturam quantitatis cui subiiciuntur perfectarum admittendae sint.</p>
+      <p id="TINCPT20178">Si vero quamvis praedictarum notarum in proportione binaria constitutarum per naturam quantitatis cui subiicitur perfecta fuerit, ut brevis prolationis minoris, sed temporis perfecti in dupla vel longa prolationis minoris et temporis imperfecti, sed modi minoris perfecti in quadrupla, quia tunc mensura non secundum totam ipsam notam sed secundum duas eius partes tantum dirigitur, necessarium est ultimam eius partem tertiam totam aut partem primam ipsius esse concordantiam, eo quod per eam mensurae directio incipiat.</p>
+      <p id="TINCPT20179">Ante ipsam tamen huiusmodi notae partem tertiam, postquam supra primam aut aliam partem eius concordantiam ut opportet assumpta fuerit, discordantia eiusdem aut minoris notae supra sequentem collocari permittitur. Et quamvis per huiusmodi notam aut plures similes natura quantitatis cui subiecta est vel subiectae sunt, ut dictum est, perfectam aut perfectas descensus fiat in aliquam perfectionem, vel duae earum in eodem loco unitarum aut separatarum perfectionem ipsam antecedant, supra primam partem nullius earum discordantia est admittenda, ut hic:</p>
+      <p id="TINCPT20180">[CSM22/2:128; text: Contratenor, Tenor, Beatissima Beatrix, prudens vir-] 
+      <figure>
+        <graphic url="/images/TINCPT2_25GF.gif" />
+      </figure></p>
+      <p id="TINCPT20181">
+      <pb n="[129]" />[CSM22/2:129; text: virtutum amatrix, nos omnes abs te amatos in e-] 
+      <figure>
+        <graphic url="/images/TINCPT2_26GF.gif" />
+      </figure></p>
+      <p id="TINCPT20182">
+      <pb n="[130]" />[CSM22/2:130; text: in eternum fac beatos.] 
+      <figure>
+        <graphic url="/images/TINCPT2_27GF.gif" />
+      </figure></p>
+      <p id="TINCPT20183">Capitulum XXVI--De admissione discordantiarum circa partes notarum secundum quas totaliter aut principaliter mensura cantus dirigitur et quae in proportione ternaria constitutae vel perfectae vel augmentatae vel imperfectae quovismodo sint.</p>
+      <p id="TINCPT20184">In proportione autem ternaria ut in tripla, sesquialtera, subsesquialtera, sextupla et simili, si nota secundum quam totaliter aut principaliter cantus mensuratur perfecta vel augmentata vel imperfecta per imperfectionem aut per naturam quantitatis cui subiicitur fuerit, tunc posita concordantia supra primam partem eius, discordantia similis aut minoris notae supra secundam assumi permittitur.</p>
+      <p id="TINCPT20185">Sed si ipsa nota perfecta vel augmentata sit sive per syncopam una minor eam antecedat, sive non, quoniam tertia pars eius magis quam secunda exprimi soleat, haec supra se totam aut supra primam partem sui concordantiam postulat. Et quando huiusmodi notam perfectam vel augmentatam duae minores syncopando praecedunt, tunc secunda pars eius tota aut prima pars ipsius concordantiam requirit, eo quod ab ea dirigi mensura incipit.</p>
+      <p id="TINCPT20186">Dum vero descensum per unam aut plures huiusmodi notarum proportionis ternariae in aliquam perfectionem fieri contingit, tunc si perfectae sint vel augmentatae, supra primam partem nullius earum discordantia umquam assumi debebit. Secus autem si quovismodo fuerint imperfectae, quia tunc prima pars cuiuslibet earum supra se discordantiam collocari patitur, ut patet in sequenti exemplo:</p>
+      <p id="TINCPT20187">
+      <pb n="[131]" />[CSM22/2:131; text: Tenor, Contratenor, Martine praesul inclyte superis de-] 
+      <figure>
+        <graphic url="/images/TINCPT2_28GF.gif" />
+      </figure></p>
+      <p id="TINCPT20188">
+      <pb n="[132]" />[CSM22/2:132; text: -cus, addite impe-] 
+      <figure>
+        <graphic url="/images/TINCPT2_29GF.gif" />
+      </figure></p>
+      <p id="TINCPT20189">
+      <pb n="[133]" />[CSM22/2:133; text: tra nobis gaudi-] 
+      <figure>
+        <graphic url="/images/TINCPT2_30GF.gif" />
+      </figure></p>
+      <p id="TINCPT20190">
+      <pb n="[134]" />[CSM22/2:134; text: a quae possides celestia.] 
+      <figure>
+        <graphic url="/images/TINCPT2_31GF.gif" />
+      </figure></p>
+      <p id="TINCPT20191">Capitulum XXVII--Quomodo discordantiae circa partes minimae in proportione subtripla vel ubi tenor crescit in triplo admitti possint.</p>
+      <p id="TINCPT20192">Quia vero in proportione subtripla vel ubi, quod idem est, tenor in triplo crescit, non secundum totam minimam, sed secundum duas partes eius tantum mensura dirigitur, ultima tertia pars eius tota aut pars ipsius prima necessario supra se concordantiam postulat, eo quod ab ea mensurae directio incipiat.</p>
+      <p id="TINCPT20193">Posita vero, ut necessarium est, supra primam aut aliam partem huiusmodi minimae concordantia, discordantia eiusdem aut minoris notae supra 
+      <pb n="[135]" />sequentem ante tertiam licite est assumenda. Et licet per unam huiusmodi minimam aut per plures in aliquam perfectionem descendatur, vel duae in eodem loco unitae aut separatae perfectionem ipsam praecedant, supra primam partem nullius earum discordantia est admittenda, ut hic patet:</p>
+      <p id="TINCPT20194">[CSM22/2:135; text: Tenor: Crescit in triplo, Contratenor, Catherina sponsa Dei residens in celestibus] 
+      <figure>
+        <graphic url="/images/TINCPT2_32GF.gif" />
+      </figure></p>
+      <p id="TINCPT20195">
+      <pb n="[136]" />[CSM22/2:136; text: stibus ut salver tuis precibus, semper memor esto mei.] 
+      <figure>
+        <graphic url="/images/TINCPT2_33GF.gif" />
+      </figure></p>
+      <p id="TINCPT20196">Capitulum XXVIII--De admissione discordantiarum circa partes semibrevis in prolatione maiori consistentis quando secundum duas partes eius mensura cantus dirigitur.</p>
+      <p id="TINCPT20197">Subinde quoniam cantus maioris prolationis aliquando non secundum integram semibrevem vel secundum minimam solam, sed secundum 
+      <pb n="[137]" />semibrevem imperfectam, hoc est duas minimas, mensuratur, ut scilicet quando in eadem parte cantus ipsa maior prolatio minorem immediate sequitur, tunc, eo quod supra tertiam minimam semibrevis mensura dirigi incipiat, necesse est supra eam totam aut primam partem ipsius assumi concordantiam.</p>
+      <p id="TINCPT20198">Sed ante hanc semibrevis teriam partem, dummodo ut opportet supra primam vel aliam partem eius concordantia posita fuerit, discordantia eiusdem aut minoris notae supra sequentem assumi poterit. Et quamvis duae semibreves perfectae hoc in cantu ante perfectionem aliquam in eodem loco unitae aut separatae fuerint, vel per unum aut plures etiam perfectas in ipsam perfectionem descendatur, nulla earum supra primam partem sui discordantiam collocari permittit.</p>
+      <p id="TINCPT20199">Ubi vero in huiusmodi cantu semibrevis ipsa fuerit imperfecta, ita circa discordantias supra partes eius admittendas versabitur, sicut et circa discordantias quae supra partes semibrevis prolationis minoris admittuntur versandum esse superius ostendimus, ut hic:</p>
+      <p id="TINCPT20200">[CSM22/2:137; text: Contratenor, Tenor, Magne doctor Augustine inter-] 
+      <figure>
+        <graphic url="/images/TINCPT2_34GF.gif" />
+      </figure></p>
+      <p id="TINCPT20201">
+      <pb n="[138]" />[CSM22/2:138; text: -pres legis divinae, effice, et nos trinitatis cognitores cum beatis.] 
+      <figure>
+        <graphic url="/images/TINCPT2_35GF.gif" />
+      </figure></p>
+      <p id="TINCPT20202">
+      <pb n="[139]" />Capitulum XXIX--Quomodo multi numquam supra integram partem dimidiam notae secundum quam mensura cantus dirigitur, immo supra minorem tantum assumunt.</p>
+      <p id="TINCPT20203">Multi tamen adeo exacte discordantias evitant ut numquam supra dimidiam partem integram, immo supra tertiam aut quartam aut minorem tantum cuiusvis notae secundum quam mensura dirigitur discordantiam assumant. Et ut mea fert opinio, tales potius imitandi sunt quam Petrus de Domarto et Anthonius Busnois, quorum ille in prima parte "Et in terra" Missae Spiritus almus, iste vero in cantilena Maintes femmes non solum dimidiam partem notuae mensuram dirigentis, hoc est semibrevis minoris prolationis in tempore perfecto, immo totam ipsam semibrevem discordantiam effecerunt, ut hic patet:</p>
+      <p id="TINCPT20204">[CSM22/2:139,1; text: Petrus de Domarto, Contratenor altus, Contratenor bassus, etc.] 
+      <figure>
+        <graphic url="/images/TINCPT2_36GF.gif" />
+      </figure></p>
+      <p id="TINCPT20205">[CSM22/2:139,2; text: Antonius Busnois, Maintes femmes, Tenor, etc.]</p>
+      <p id="TINCPT20206">Capitulum XXX--Confutatio quorumdam dicentium hanc ob causam discordantias integras admitti ut concordantia sequens dulcior appareat.</p>
+      <p id="TINCPT20207">Et nonnulli sunt qui talis integrae discordantiae admissionem probant, eo 
+      <pb n="[140]" />quod concordantia immediate sequens suavior appareat, ut enim natura est, opposita iuxta se posita magis elucescunt. O firmissima ratio! Num quid vitium aliquod ab homine praedicto virtute committendum est, quo virtus eius clarius enitescat? Num quid orationi distincte et ornate aliqua ineptia est inserenda, ut caeterae partes eois elegantiores esse videantur? Et quid obsecro eruditorum pectorum visum delectare nitentium viderit umquam alicui pulchrae formae quampiam deformitatem admississe, quo caeterae membra formosiora appareant? Quid verbis moror? Si Tullio credimus, quemadmodum in omnem vitam, ita in actiones nullam discrepantiam conferre debemus. Namque, ut idem in primo suorum Officialium librorum, "in fidibus aut tibiis, quamvis paululum discrepent, tamen id a sciente animadverti solet." Unde fit quod praeter intentionem musicae quam Aristoteles naturalem in se delectationem continere affirmat, animus eruditi auditoris in dolorem collabatur.</p>
+      <p id="TINCPT20208">Capitulum XXXI--Quibus ex causis parvae discordantiae a musicis assumi permittantur.</p>
+      <p id="TINCPT20209">Verumtamen modis aliquando praedictis discordantiae parvae a musicis, sicut figurae rationabiles a grammaticis ornatus necessitatisve causa assumi permittuntur. Ornatur enim cantus, quando fit ascensus vel descensus ab una concordantia ad aliam per media compatibilia et per syncopas quae interdum sine discordantiis fieri non possunt. Quaequidem discordantiae parvae ita vehementer se non repraesentant auditui, quom supra ultimas partes notarum collocantur, ut si supra primas assumantur. Soni nempe musici violento notu fiunt. Unde si motus violentus eius naturae sit, ut circa finem remittatur, consequens est secundas partes notarum non tam vehementis soni esse quam primas. Quodquidem intelligendum est de notis mensuram dirigentibus aerumque partibus unitis; in caeteris enim aeque sonos exaudiri manifestissimum est.</p>
+      <p id="TINCPT20210">Capitulum XXXII--De ordinatione cuiuslibet discordantiae.</p>
+      <p id="TINCPT20211">Ordinatio autem cuiuslibet discordantiae haec est, ut tam ascendendo quam descendendo semper post aliquam concordantiarum ei proximarum collocetur, ut secunda post unisonum aut tertiam, quarta post tertiam aut 
+      <pb n="[141]" />quintam, septima post quintam aut octavam, et sic de aliis. Et hanc ipsam discordantiam concordantia uno gradu vel duobus tantum quamvis hoc rarissime distans ab ea immediate sequetur. Itaque si ab uno loco ascendatur vel descendatur per aliquam discordantiam, ad eundem continuo non est revertendum, nisi ipsa discordantia adeo parva sit, ut vis exaudiatur, sicut hic patet:</p>
+      <p id="TINCPT20212">[CSM22/2:141; text: Tenor, Contratenor, Omnes sancti gloriosi cives caeli luminosi, Orate Dei fili-] 
+      <figure>
+        <graphic url="/images/TINCPT2_37GF.gif" />
+      </figure></p>
+      <p id="TINCPT20213">
+      <pb n="[142]" />[CSM22/2:142,1; text: -lium pro salute fidelium.] 
+      <figure>
+        <graphic url="/images/TINCPT2_38GF.gif" />
+      </figure></p>
+      <p id="TINCPT20214">Ab hac tamen nostra discordantiarum ordinatione Johannes Okeghem in parva cantus particula, hoc est in principio "Patrem" Missae la belle se siet, plurimum dissentit, ut hic:</p>
+      <p id="TINCPT20215">[CSM22/2:142,2; text: Johannes Okeghem, Patrem omnipotentem]</p>
+      <p id="TINCPT20216">
+      <pb n="[143]" />Quod si tamquam optimus compositor ac accuratus exquisitor effecerit cunctis id audientibus iudicandum reliquo.</p>
+      <p id="TINCPT20217">Capitulum XXXIII--Quod discordantiae quas falsas concordantias vocant omnino sunt evitandae.</p>
+      <p id="TINCPT20218">Porro quaecumque superius de praemissu ac ordinatione discordantiarum conscripsimus, non de discordantiis quas falsas concordantias alii nuncupant, intelligenda esse quisquis claro pollet ingenio facillime comprehendit. Quippe et falsum unisonum et falsum diapente et falsum diapason et quamlibet aliam falsam concordantiam per defectum aut superabundantiam semitonii maioris effectam evitare debemus. Id enim est quod in primis a magistris scholaribus praecipitur, ne mi contra fa in concordantiis perfectis admittant. Verumtamen saepissime apud infinitos compositores etiam celeberrimos oppositum comperi, ut apud Faugues in Missa Le serviteur, apud Busnois in carmine Je ne demande et apud Caron etiam in uno carmine quod dicitur Hellas, sicut hic patet:</p>
+      <p id="TINCPT20219">[CSM22/2:143; text: Faugues, Tenor, Contratenor, Qui sedes, etc.] 
+      <figure>
+        <graphic url="/images/TINCPT2_39GF.gif" />
+      </figure></p>
+      <p id="TINCPT20220">
+      <pb n="[144]" />[CSM22/2:144; text: Busnois, Contratenor, Je ne demande, etc. Caron, Tenor, Hellas]</p>
+      <p id="TINCPT20221">Et profecto quom errores tam evidentes a tantis compositoribus committi video, nullo prorsus alio modo eos excusandos arbitror quam per hoc dictum Horatii, Quandoque bonus dormitat Homerius," id est ut Acro exponit, quandoque errat bonus poeta, unde et bonum etiam musicam aliquando errare non est mirandum.</p>
+      <p id="TINCPT20222">Capitulum XXXIV--De concordantiis perfectis quae vel imperfectae vel superfluae per semitonium chromaticum fiunt evitandis.</p>
+      <p id="TINCPT20223">Concordantiae vero perfectae quae per semitonium chromaticum, hoc est per sustentionem aut imperfectae aut superfluae efficientur etiam sunt evitandae, licet et his uti supra totam aut dimidiam aut maiorem partem notae mensuram dirigentis, et perfectionem immediate praecedentis omnes fere compositores in compositione trium aut plurium partium, ut in sequentibus exemplis patet expertus sum:</p>
+      <p id="TINCPT20224">
+      <pb n="[145]" />[CSM22/2:145; text: Tenor, Contratenor, O Deus princeps caelorum, memor esto musicorum.] 
+      <figure>
+        <graphic url="/images/TINCPT2_40GF.gif" />
+      </figure></p>
+      <p id="TINCPT20225">Explicit Liber secundus.</p>
+    </body>
+  </text>
+</TEI>

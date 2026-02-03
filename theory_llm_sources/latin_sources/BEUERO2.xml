@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Erotematum musicae liber secundus</title>
+        <title type="abbrev">BEUERO2</title>
+        <author>Beurhusius, Fredericus</author>
+        <date notBefore="1500" notAfter="1599">16th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Yury Popov</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Sergei Lebedev</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Andreas Giger</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1995</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>Erotematum musicae libri duo, ex optimis huius artis scriptoribus vera perspicuaque methodo descripti</emph> (Nuremberg: In officina typographica Catharinae Gerlachin, et Haeredum Ioannis Montani, 1580; repr., Cologne: Arno Volk, 1969), 68–125.
+</bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="BEUERO20001">
+      <pb n="[68]" />MVSICAE LIBER SECVNDVS, DE SONORVM HARMONIA.</p>
+      <p id="BEUERO20002">CAPVT I.</p>
+      <p id="BEUERO20003">DE SIMPLICIBVS CANTVS GENERIBVS.</p>
+      <p id="BEUERO20004">Quae pars Harmonica?</p>
+      <p id="BEUERO20005">HArmonica pars est de sonorum inflexione ad bene canendum: unde ea cantus dicitur.</p>
+      <p id="BEUERO20006">
+      <pb n="[69]" />Cantus autem a figuris paribus Par et choralis, ab imparibus Impar et figuratus dicitur.</p>
+      <p id="BEUERO20007">Quottuplex est Harmonia?</p>
+      <p id="BEUERO20008">Duplex, Melodia et Symphonia.</p>
+      <p id="BEUERO20009">Quae Melodia?</p>
+      <p id="BEUERO20010">Melodia est harmonia sonorum, certo systemate et Modo ad canentis affectum inflexa.</p>
+      <p id="BEUERO20011">Quomodo fit certo systemate?</p>
+      <p id="BEUERO20012">Systema certa genera cantus ex omnibus sonorum gradibus distinguit.</p>
+      <p id="BEUERO20013">Quottuplex est Genus Cantus?</p>
+      <p id="BEUERO20014">Duplex: Simplex et Conjunctum: et utrumque ex Gravibus, mediis vel peracutis fieri potest.</p>
+      <p id="BEUERO20015">Quis simplex Cantus?</p>
+      <p id="BEUERO20016">Simplex est, cujus melodia per simplex unius vocum ordinis systema inflectitur, aut saltem La secundae spacio transcendit: ideoque uno vocum ordine exercetur, notaque La excedens per fa (ut etiam saepe in conjunctis) exprimitur.</p>
+      <p id="BEUERO20017">Quottuplex Simplex Cantus?</p>
+      <p id="BEUERO20018">Duplex: Princeps, et Administer.</p>
+      <p id="BEUERO20019">Quis princeps?</p>
+      <p id="BEUERO20020">Princeps, cujus systema est in principe clavium et vocum ordine: unde est Mollis vel Durus.</p>
+      <p id="BEUERO20021">1. Quis Mollis simplex?</p>
+      <p id="BEUERO20022">
+      <pb n="[70]" />Mollis simplex est, qui per mollem tantum ordinem mollius inflectitur.</p>
+      <p id="BEUERO20023">Da Exemplum chorale.</p>
+      <p id="BEUERO20024">[Beurhusius, 70,1; text: Dum transisset Dominus per medios fines Tyri, surdos fecit audire et mutos loqui.] 
+      <figure>
+        <graphic url="/images/BEUERO2_01GF.gif" />
+      </figure></p>
+      <p id="BEUERO20025">Exemplum figuratum ex peracutis.</p>
+      <p id="BEUERO20026">[Beurhusius, 70,2; text: Sit laus honos et gloria Deo patri, qui omnia sua]</p>
+      <p id="BEUERO20027">
+      <pb n="[71]" />[Beurhusius, 71,1; text: creavit gratia, fovet regitque condita.]</p>
+      <p id="BEUERO20028">2. Quid Durus simplex?</p>
+      <p id="BEUERO20029">Durus est, cujus melodia per durum tantum ordinem durius decurrit.</p>
+      <p id="BEUERO20030">Da Exemplum chorale.</p>
+      <p id="BEUERO20031">[Beurhusius, 71,2; text: Redemtionem misit Dominus populo suo, mandavit in aeternum testamentum suum.]</p>
+      <p id="BEUERO20032">
+      <pb n="[72]" />Da figuratum ex suprema scala.</p>
+      <p id="BEUERO20033">[Beurhusius, 72,1; text: Fuga duorum in unisono.]</p>
+      <p id="BEUERO20034">Quis administer?</p>
+      <p id="BEUERO20035">Administer est naturalis, per naturalem tantum ordinem, neutrum b[sqb] atingens, mediocriter decurrens.</p>
+      <p id="BEUERO20036">Da exemplum chorale.</p>
+      <p id="BEUERO20037">[Beurhusius, 72,2; text: Christe qui lux es et dies, noctis tenebras detegis, lucisque lumen crederis, lumen beatum praedicans.]</p>
+      <p id="BEUERO20038">
+      <pb n="[73]" />Da exemplum figuratum peracutum.</p>
+      <p id="BEUERO20039">[Beurhusius, 73; text: Laudate dominum omnes gentes, laudate eum omnes populi, quoniam confirmata est super nos misericordia ejus, et veritas Domini manet in aeternum, in aeternum, manet in aeternum]</p>
+      <p id="BEUERO20040">
+      <pb n="[74]" />[Beurhusius, 74; text: in aeternum.] 
+      <figure>
+        <graphic url="/images/BEUERO2_02GF.gif" />
+      </figure></p>
+      <p id="BEUERO20041">Ex eadem cantione Basis effici potest post duo tempora in a, et Tenor post 4. tempora in e.</p>
+      <p id="BEUERO20042">CAPVT II.</p>
+      <p id="BEUERO20043">DE CONIVNCTIS GENERIBUS.</p>
+      <p id="BEUERO20044">Quis cantus conjunctus?</p>
+      <p id="BEUERO20045">COnjunctus est cujus Melodia per systema ordinum conjunctorum decurrit: Atque is permutatione extremarum vocum, praesertim re et la, conjunctis illis ordinibus vocum exercetur.</p>
+      <p id="BEUERO20046">Quae illa Mutatio?</p>
+      <p id="BEUERO20047">Est vocum ejusdem vel propinquae naturae in eadem clave unisona variatio. Ea autem utimur, quando ultra secundam cantus excedit alterutrum ordinem.</p>
+      <p id="BEUERO20048">Quottuplex Mutatio?</p>
+      <p id="BEUERO20049">Duplex, Contigua et Interrupta, atque utraque in adscensum vel descensum.</p>
+      <p id="BEUERO20050">Quae contigua?</p>
+      <p id="BEUERO20051">Contigua fit ordinum continuatione, ut primo libro apparet.</p>
+      <p id="BEUERO20052">
+      <pb n="[75]" />Quae interrupta?</p>
+      <p id="BEUERO20053">Inperrupta fit transiliendis intermissis vocibus: ut in Quarta, Quincta, Octava ex Re in Re, Mi in Mi, Fa in Fa: item La in La, Sol in Sol.</p>
+      <p id="BEUERO20054">Diligenter autem in omni mutatione genus Cantus, et in eo voces propriae in clavibus considerandae: ut ex clavibus trium vocum una diversi generis excludatur: et ex binis inferior adscendendo, superior descendendo sumatur.</p>
+      <p id="BEUERO20055">Clavis transpositio etiam notanda: ut proprii clavium soni retineantur.</p>
+      <p id="BEUERO20056">Quottuplex Cantus Conjunctus?</p>
+      <p id="BEUERO20057">Duplex: Mollis cum Naturali: vel Durus cum naturali legitime conjungitur. Attamen alter in alterum uspiam etiam alieno loco incidit, qui fictus cantus appellatur.</p>
+      <p id="BEUERO20058">1. Quis Mollis conjunctus?</p>
+      <p id="BEUERO20059">Mollis in systemate molli cum naturali infimo, medio vel supremo decurrit.</p>
+      <p id="BEUERO20060">Quae in molli mutationis certitudo?</p>
+      <p id="BEUERO20061">In molli commode mutamus in tribus clavibus:</p>
+      <p id="BEUERO20062">[Beurhusius, 75; text: In D et A, G sume La descendendo in mollem et naturalem. Re ascendendo in naturalem et mollem.]</p>
+      <p id="BEUERO20063">
+      <pb n="[76]" />Exemplum Chorale mediorum.</p>
+      <p id="BEUERO20064">[Beurhusius, 76,1; text: Adsunt festa jubilaea in Mariae gaudia tota psallat Ecclesia devote laudum dragmata.]</p>
+      <p id="BEUERO20065">Figuratum mediorum qua Fuga trium in vnisono.</p>
+      <p id="BEUERO20066">[Beurhusius, 76,2; text: Ne timeas eris cum dives factus fuerit]</p>
+      <p id="BEUERO20067">
+      <pb n="[77]" />[Beurhusius, 77; text: fuerit homo, et cum multiplicata fuerit gloria domus eius, domus ejus. Quoniam cum interierit, non sumet omnia, neque descendit cum eo]</p>
+      <p id="BEUERO20068">
+      <pb n="[78]" />[Beurhusius, 78,1; text: eo gloria ejus.] 
+      <figure>
+        <graphic url="/images/BEUERO2_03GF.gif" />
+      </figure></p>
+      <p id="BEUERO20069">2. Quis Durus conjunctus?</p>
+      <p id="BEUERO20070">Durus in systemate duro cum naturali infimo, medio, vel supremo decurrit.</p>
+      <p id="BEUERO20071">Quae in Duro mutationis certitudo?</p>
+      <p id="BEUERO20072">In Duro etiam commode tribus clavibus mutamus:</p>
+      <p id="BEUERO20073">[Beurhusius, 78,2; text: In A et E, D sume La descendendo in naturalem et durum. Re ascendendo in Durum et naturalem.]</p>
+      <p id="BEUERO20074">Exemplum par mediorum.</p>
+      <p id="BEUERO20075">[Beurhusius, 78,3; text: Sic Deus dilexit mundum, ut filium suum unigenitum daret, ut omnis qui credit in ipsum non pereat]</p>
+      <p id="BEUERO20076">
+      <pb n="[79]" />[Beurhusius, 79,1; text: pereat, sed habeat vitam aeternam, Alleluia.]</p>
+      <p id="BEUERO20077">Da impar mediorum Fuga in epidiapente post [Sv]</p>
+      <p id="BEUERO20078">[Beurhusius, 79,2 text: Ad Dominum cum tribularer clamavi, et exaudivit me. O Domine libera animam a labiis iniquis et a lingua]</p>
+      <p id="BEUERO20079">
+      <pb n="[80]" />[Beurhusius, 80; text: dolosa, a lingua dolosa. Quid detur tibi ad linguam dolosam, sagittae potentis acutae, cum carbonibus desolatoriis. Heu mihi, heu mihi, quia incolatus meus prolongatus est, habitavi cum habitantibus Caedar, multum incola fuit anima mea]</p>
+      <p id="BEUERO20080">
+      <pb n="[81]" />[Beurhusius, 81; text: mea, cum his, qui oderunt pacem, eram pacificus. 1, 2, 3, 4, Tendit ad ardua virtus. Fuga 4. vocum ex una.]</p>
+      <p id="BEUERO20081">DE ANOMALIA GENERUM, id est, de Ficto Cantu.</p>
+      <p id="BEUERO20082">Quae Anomalia cantus?</p>
+      <p id="BEUERO20083">Anomalia est fictio alieni soni vel semisoni in alieno loco, suavitatis vel necessitatis causa. Est autem raro tota cantio ficta, cum ficta clavis initio alieno loco est, saepissime pars, si uspiam incidat, et vicinas aliquot notas tantum ficte edendas indicet.</p>
+      <p id="BEUERO20084">
+      <pb n="[82]" />Quottuplex est fictio?</p>
+      <p id="BEUERO20085">Duplex: Mollis vel Dura: illa b rotundo, haec [sqb] quadrato vel # transverso notatur.</p>
+      <p id="BEUERO20086">Exemplum molle, tota cantione et parte fictum</p>
+      <p id="BEUERO20087">[Beurhusius, 82] 
+      <figure>
+        <graphic url="/images/BEUERO2_04GF.gif" />
+      </figure></p>
+      <p id="BEUERO20088">CAPVT III.</p>
+      <p id="BEUERO20089">DE MODIS.</p>
+      <p id="BEUERO20090">Quis Modus?</p>
+      <p id="BEUERO20091">MOdus est numerosa ratio melodiae, intra certos fines ad affectum inflectendae. Vocant [nomous], Tonos et Tropos.</p>
+      <p id="BEUERO20092">
+      <pb n="[83]" />Qui fines illi, intra quos consistunt?</p>
+      <p id="BEUERO20093">Septem Diapason species, in quibus ex certa initii, medii et finis ratione efficiuntur modulorum formae: unde et Cantus et modi differentia sumitur.</p>
+      <p id="BEUERO20094">Cantus enim regularis intra suos fines decurrit, et in propriam finalem clavem cadit: irregularis nonnihil trajicitur, et in confinalem exit.</p>
+      <p id="BEUERO20095">Et Tonus proprie unam diapason speciem complet: sin minus, diminutus et imperfectus, sin excedat superne inferneque octavam, mixtus dicitur.</p>
+      <p id="BEUERO20096">Quot Modi?</p>
+      <p id="BEUERO20097">Octo praecipui: quorum septem ex totidem diapason speciebus nascuntur: octavus ad totum systema diapason complendum additus est.</p>
+      <p id="BEUERO20098">Quae modorum differentia?</p>
+      <p id="BEUERO20099">Alius Autenticus, alius Plagalis, a modulorum forma adscendente vel descendente dicitur.</p>
+      <p id="BEUERO20100">Quis Autenticus?</p>
+      <p id="BEUERO20101">Autenticus principalis et dominans dicitur, qui in quatuor postremis diapason speciebus decurrens initium in D. E. F. vel G. medium sursum in quincta sua confinali harmonice, finem in jisdem habens liberius supra finalem clavem. Autentici igitur sunt quatuor imparis numeri, Primus, Tertius, Quinctus, Septimus.</p>
+      <p id="BEUERO20102">Quis Plagius?</p>
+      <p id="BEUERO20103">Plagius est obliquus, qui in ceteris diapason 
+      <pb n="[84]" />speciebus decurrens initium in A. [sqb]. C. vel D, medium sursum per quartam in D. E. F. vel G. arithmetice, finem supremum in octava exitum cum autenticis habent, infra finalem clavem liberius ad quartam vel quinctam descendit, supra vero ad quinctam vel sextam pertingit. Eius etiam quatuor sunt formae paris numeri, Secundus, et cetera.</p>
+      <p id="BEUERO20104">Harmonicum Octavae medium vocant, quando quincta est infra quartam, Arithmeticum contra, quod diatessaron infra quartam non faciat harmoniam.</p>
+      <p id="BEUERO20105">Quomodo igitur proprie principio, medio et fine dignoscuntur?</p>
+      <p id="BEUERO20106">1. Principium Autentici ultra terminum ad quinctam, nisi fuga impediat, adscendit: plagii ad quartam descendit.</p>
+      <p id="BEUERO20107">2. Medium certa intervalla phraseos passim resonantia habet, vocant repercussiones vocum: ut.</p>
+      <p id="BEUERO20108">[Beurhusius, 84,1; text: 1. 2. 3. 4. 5. 6. 7. 8.]</p>
+      <p id="BEUERO20109">3. Finis regularis in claves finales, irregularis in confinales cadit, hoc modo:</p>
+      <p id="BEUERO20110">[Beurhusius, 84,2; text: Regularis: in G. ut, F. fa, ut, E. mi, D. re, Irregularis: durus in d, c, [sqb], a, mollis in c, b, a, g, toni septimi et octaui, quincti et sexti, tertii et quarti, primi et secundi]</p>
+      <p id="BEUERO20111">
+      <pb n="[85]" />Discrimen eorum, qui sunt ejusdem clavis, facit ascensus et descensus.</p>
+      <p id="BEUERO20112">Attamen septimus et octavus vix transponuntur: et in figurato potius vox quam clavis finalis spectatur.</p>
+      <p id="BEUERO20113">Postremo etiam breviusculi concentus (vocant tropos et eorum differentias) ex repercussionibus seu resonantiis tonorum observati, ad antiphonas et Introitus in fine notantur, subjectis literis EVOVAE, id est, seculorum, Amen, quibus toni et Psalmi incipiendi ratio indicatur.</p>
+      <p id="BEUERO20114">Psalmi enim majores, id est, novi, et minores, id est, veteris foederis, certa toni alicujus carminis ratione canuntur.</p>
+      <p id="BEUERO20115">Itaque hic clavis finalis et tonus primo spectentur: deinde autentici profundius, plagales acutius, mixti mediocriter, majores cum adscensu, minores unisono inchoentur.</p>
+      <p id="BEUERO20116">Tum in Psalmis minoribus ultima medii syllaba elevabitur, si sit dictio monosyllaba, Hebraica, peregrina aut propria.</p>
+      <p id="BEUERO20117">Postremo in Psalmis primi et sexti: deinde secundi et octavi toni, eadem principii et medii, sed diversa finis ratio.</p>
+      <p id="BEUERO20118">Responsoria et Introitus sui etiam toni proprios versus quasi indices habent.</p>
+      <p id="BEUERO20119">Quis igitur Primus tonus, ejusque modulorum ambitus et affectus?</p>
+      <p id="BEUERO20120">Primus est autenticus, qui per quartam Diapason 
+      <pb n="[86]" />speciem inter D et d inflexus, in a sua confinali mediatur harmonice, et re la per quinctam saepe resonans cadit in Re clavis D, a vel g. Appellatur Dorius, et cum majestate et gravitate virilem ac moderatum affectum exprimit. Atque ejus praecipui moduli sequenti ambitu, tanquam propria phrasi decurrunt: cui choricus Tropus cum differentiis subjicitur:</p>
+      <p id="BEUERO20121">[Beurhusius, 86; text: Ambitus ac phrasis primi modi. Tropus. EVOVAE. 1. 2. 3. 4. differentia. Adam primus homo.]</p>
+      <p id="BEUERO20122">
+      <pb n="[87]" />Ratio praecinendi vel intonandi.</p>
+      <p id="BEUERO20123">[Beurhusius, 87,1; text: Primus in medio quadrat sexto: sed flectitur tonis primus. Dixit Dominus Domino meo, sede a dextris meis. Nunc dimittis servum tuum Domine, secundum verbum tuum in pace.]</p>
+      <p id="BEUERO20124">Modi primi toni.</p>
+      <p id="BEUERO20125">[Beurhusius, 87,2; text: Magnificat anima mea Dominum. Benedictus Dominus Deus Israel, quia visitavit et fecit redemptionem plebis suae.]</p>
+      <p id="BEUERO20126">
+      <pb n="[88]" />2. Quis secundus?</p>
+      <p id="BEUERO20127">Secundus est plagalis, qui ex prima diapason specie inter A et a derivatus medium arithmetice in D, saepe iterans Re fa per tertiam, finem per Re in D, a, vel g, habet: Appellatur Hypodorius, magnifici et gravis affectus, qui tamen ad blandiendum flecti potest.</p>
+      <p id="BEUERO20128">[Beurhusius, 88,1; text: Ambitus ac Phrasis hypodorii. Tropus. Noe secundus.] 
+      <figure>
+        <graphic url="/images/BEUERO2_05GF.gif" />
+      </figure></p>
+      <p id="BEUERO20129">Caret differentia. nisi mutetur in s.</p>
+      <p id="BEUERO20130">[Beurhusius, 88,2; text: Secundo jungas octavum, qui lapsus quarta scandit secunda. Laudate pueri Dominum, laudate nomen Domini. Nunc dimittis servum tuum Domine, secundum verbum tuum in pace.]</p>
+      <p id="BEUERO20131">
+      <pb n="[89]" />Modi secundi toni.</p>
+      <p id="BEUERO20132">[Beurhusius, 89,1; text: Magnificat anima mea Dominum. Benedictus Dominus Deus Israel, quia visitavit et fecit redemtionem plebis suae.]</p>
+      <p id="BEUERO20133">3. Quis Tertius?</p>
+      <p id="BEUERO20134">Tertius est autenticus, qui ex quincta diapason specie inter E et e derivatus, medium in confinali [sqb] acuta harmonice, et saepe sonans mi fa sextam, finem per mi in E, [sqb], vel a habet. Appellatur Phrygius, affectus religiosi concitantis, et impellentis animos.</p>
+      <p id="BEUERO20135">[Beurhusius, 89,2; text: Ambitus Phrygii, id est, tertii.]</p>
+      <p id="BEUERO20136">
+      <pb n="[90]" />[Beurhusius, 90; text: Tropus. Tertius Abraham. 1. 2. 3. differentia. Tertii semper extolle medium, sed dejice finem tertiis. Laetatus sum in his quae dicta sunt mihi, in domum Domini ibimus. Nunc dimittis servum tuum Domine, secundum verbum tuum in pace.]</p>
+      <p id="BEUERO20137">
+      <pb n="[91]" />Modi tertii toni.</p>
+      <p id="BEUERO20138">[Beurhusius, 91,1; text: Magnificat anima mea Dominum. Benedictus Dominus Deus Israel, quia visitavit et fecit redemtionem plebis suae.]</p>
+      <p id="BEUERO20139">4. Quis Quartus?</p>
+      <p id="BEUERO20140">Quartus est plagius, qui per secundam diapason speciem inter [sqb] et b[sqb] inflexus in E arithmetice mediatur, et saepe mi la per quartam resonans tandem exit in mi in clave E, [sqb] vel a. Nominatur Hypophrygius, estque flexanimus, gravius animos quasi lymphatos concitans.</p>
+      <p id="BEUERO20141">[Beurhusius, 91,2; text: Ambitus quarti modulos exprimens.]</p>
+      <p id="BEUERO20142">
+      <pb n="[92]" />[Beurhusius, 92; text: Quatuor Euangelistae. 1. 2. 3. 4. differentia. Quartus in medio leuis scandit, sed tandem praeceps cadit. Laudate pueri Dominum, laudate nomen Domini. Nunc dimittis seruum tuum Domine, secundum verbum tuum in pace.] 
+      <figure>
+        <graphic url="/images/BEUERO2_06GF.gif" />
+      </figure></p>
+      <p id="BEUERO20143">
+      <pb n="[93]" />Modi quarti toni.</p>
+      <p id="BEUERO20144">[Beurhusius, 93,1; text: Magnificat anima mea dominum. Benedictus Dominus Deus Israel, quia visitavit et fecit redemtionem plebis suae.]</p>
+      <p id="BEUERO20145">5. Quis Quinctus?</p>
+      <p id="BEUERO20146">Quinctus est autenticus, qui per sextam diapason speciem inter F et f inflexus, in c sua confinali harmonice saepe ut, sol, mi resonans mediatur, et literam terminalem proprie f habet. Appellatur Lydius, estque querulus et lugubris ornatum cum doctrina referens.</p>
+      <p id="BEUERO20147">[Beurhusius, 93,2; text: Ambitus modulorum quincti.]</p>
+      <p id="BEUERO20148">
+      <pb n="[94]" />[Beurhusius, 94,1; text: Tropus. Quinque libri Mosis. 1. differentia. Quinctus et septimus resultant, sed tertiis cadit quinctus. Deus Deus meus, ad te de luce vigilo. Nunc dimittis servum tuum Domine, secundum verbum tuum in pace.]</p>
+      <p id="BEUERO20149">Modi quincti toni.</p>
+      <p id="BEUERO20150">[Beurhusius, 94,2; text: Magnificat. Benedictus Dominus Deus Israel,]</p>
+      <p id="BEUERO20151">
+      <pb n="[95]" />[Beurhusius, 95,1; text: anima mea Dominum. quia visitavit et fecit redemtionem plebis suae.]</p>
+      <p id="BEUERO20152">6. Quis Sextus?</p>
+      <p id="BEUERO20153">Sextus est plagius, qui per tertiam diapason speciem inter C et c inflexus in F gravi Arithmetice mediatur, et saepe resonans fa la per tertiam in fa literae f terminatur. Vocant Hypolydium, qui pius et quasi vagiens lacrimas ciet.</p>
+      <p id="BEUERO20154">[Beurhusius, 95,2; text: Cursus modulorum Sexti. Tropus. Sex hydriae posita. 1. differentia]</p>
+      <p id="BEUERO20155">
+      <pb n="[96]" />[Beurhusius, 96,1; text: Sextus in medio consonat primo, sed tertia cadens redit. Beati omnes qui timent Dominum, qui ambulant in viis eius. Nunc dimittis servum tuum Domine, secundum verbum tuum in pace.] 
+      <figure>
+        <graphic url="/images/BEUERO2_07GF.gif" />
+      </figure></p>
+      <p id="BEUERO20156">Modi sexti toni.</p>
+      <p id="BEUERO20157">[Beurhusius, 96,2; text: Magnificat anima mea Dominum. Benedictus Dominus Deus Israel, quia visitavit et fecit redemtionem plebis suae.]</p>
+      <p id="BEUERO20158">
+      <pb n="[97]" />7. Quis Septimus?</p>
+      <p id="BEUERO20159">Septimus est autenticus, qui per septimam diapason speciem inter G et g inflexus, in d sua confinali harmonice mediatur, et ut sol iterans cadit in ut literae G. Vocatur Mixolydius, qui Aristoteli flebiles et contractos affectus reddere, Platonicis affectibus refertus videtur.</p>
+      <p id="BEUERO20160">[Beurhusius, 97; text: Cursus modulorum septimi. Sanctus dies septimus. EVOVAE. 1. 2. 3. 4. 5. differentia]</p>
+      <p id="BEUERO20161">
+      <pb n="[98]" />[Beurhusius, 98,1; text: Septimus et quinctus resultant: sed in fine gradatim descendit. Laudate Dominum de coelis, laudate eum in excelsis. Nunc dimittis servum tuum Domine, secundum verbum tuum in pace. vel. Laudate pueri Dominum.]</p>
+      <p id="BEUERO20162">Modi septimi toni.</p>
+      <p id="BEUERO20163">[Beurhusius, 98,2; text: Magnificat, Benedictus Dominus Deus Israel, quia visitavit et fecit redemtionem]</p>
+      <p id="BEUERO20164">
+      <pb n="[99]" />[Beurhusius, 99,1; text: anima mea Dominum. redemtionem plebis suae.]</p>
+      <p id="BEUERO20165">8. Quis Octavus?</p>
+      <p id="BEUERO20166">Octavus est plagius, qui per quartam diapente speciem et primam diatessaron inflexus, in G arithmetice mediatur, et ut fa per quartam sonans cadit in ut literae G. Nominatur aliis Hypomixolydius, alii Hypermixolydius, qui ambitum illi tribuunt inter a et aa, finem d, arithmetica mediatione, ut ita totum systema Disdiapason compleatur. Est autem officiosus quasi cliens et curator.</p>
+      <p id="BEUERO20167">[Beurhusius, 99,2; text: Ambitus modulorum octavi. EVOVAE. Sed octo sunt partes. 1. differentia]</p>
+      <p id="BEUERO20168">
+      <pb n="[100]" />[Beurhusius, 100,1; text: 2. 3. differentia, Octavum jungas secundo: sed claudas semiditono. Lauda Hierusalem Dominum, lauda Deum tuum Zyon. Nunc dimittis servum tuum Domine, secundum verbum tuum in pace.] 
+      <figure>
+        <graphic url="/images/BEUERO2_08GF.gif" />
+      </figure></p>
+      <p id="BEUERO20169">Modi octavi toni.</p>
+      <p id="BEUERO20170">[Beurhusius, 100,2; text: Magnificat anima, Benedictus Dominus Deus Israel, quia visitavit et fecit redemtionem]</p>
+      <p id="BEUERO20171">
+      <pb n="[101]" />[Beurhusius, 101,1; text: mea Dominum. redemtionem plebis suae.]</p>
+      <p id="BEUERO20172">Addunt peregrinum, id est, rarum.</p>
+      <p id="BEUERO20173">[Beurhusius, 101,2; text: EVOVAE. Extraneus factus sum fatribus meis, et filiis matris meae peregrinus. Tropus. In exitu Israel de AEgypto, domus Iacob de populo barbaro.]</p>
+      <p id="BEUERO20174">
+      <pb n="[102]" />TONI VERSVVM FACILE deinceps observantur, si haec initia vulgata notentur.</p>
+      <p id="BEUERO20175">Primi Toni. Responsorii.</p>
+      <p id="BEUERO20176">[Beurhusius, 102,1; text: Gloria patri, et cetera]</p>
+      <p id="BEUERO20177">Introitus.</p>
+      <p id="BEUERO20178">[Beurhusius, 102,2; text: Beati immaculati, et cetera]</p>
+      <p id="BEUERO20179">Secundi Toni. Responsorii.</p>
+      <p id="BEUERO20180">[Beurhusius, 102,3; text: Gloria patri, et, et cetera]</p>
+      <p id="BEUERO20181">Introitus.</p>
+      <p id="BEUERO20182">[Beurhusius, 102,4; text: Deus judicium tuum.]</p>
+      <p id="BEUERO20183">
+      <pb n="[103]" />Tertii Toni. Responsorii.</p>
+      <p id="BEUERO20184">[Beurhusius, 103,1; text: Gloria patri, et cetera]</p>
+      <p id="BEUERO20185">Introitus.</p>
+      <p id="BEUERO20186">[Beurhusius, 103,2; text: Exaudi Deus orationem.]</p>
+      <p id="BEUERO20187">Quarti Toni. Responsorii.</p>
+      <p id="BEUERO20188">[Beurhusius, 103,3; text: Gloria patri. et cetera]</p>
+      <p id="BEUERO20189">Introitus.</p>
+      <p id="BEUERO20190">[Beurhusius, 103,4; text: Psalmum dicite nomini.]</p>
+      <p id="BEUERO20191">Quincti Toni. Responsorii.</p>
+      <p id="BEUERO20192">[Beurhusius, 103,5; text: Gloria patri, et cetera]</p>
+      <p id="BEUERO20193">
+      <pb n="[104]" />Introitus.</p>
+      <p id="BEUERO20194">[Beurhusius, 104,1; text: Laetatus sum in his, et cetera] 
+      <figure>
+        <graphic url="/images/BEUERO2_09GF.gif" />
+      </figure></p>
+      <p id="BEUERO20195">Sexti Toni. Responsorii.</p>
+      <p id="BEUERO20196">[Beurhusius, 104,2; text: Gloria patri, et cetera]</p>
+      <p id="BEUERO20197">Introitus.</p>
+      <p id="BEUERO20198">[Beurhusius, 104,3; text: Bonum est confiteri Domino, et cetera]</p>
+      <p id="BEUERO20199">Septimi Toni. Responsorii.</p>
+      <p id="BEUERO20200">[Beurhusius, 104,4; text: Gloria patri. et cetera]</p>
+      <p id="BEUERO20201">Introitus.</p>
+      <p id="BEUERO20202">[Beurhusius, 104,5; text: Cantate Domino canticum novum, et cetera]</p>
+      <p id="BEUERO20203">
+      <pb n="[105]" />Octaui Toni. Responsorii.</p>
+      <p id="BEUERO20204">[Beurhusius, 105,1; text: Gloria patri, et cetera]</p>
+      <p id="BEUERO20205">Introitus.</p>
+      <p id="BEUERO20206">[Beurhusius, 105,2; text: Qui habitat. et cetera]</p>
+      <p id="BEUERO20207">Atque haec modorum genera, quibus cantionum moduli ad affectus varie inflectuntur. Itaque his duo praecipue spectanda, Proprietas, Suavitas.</p>
+      <p id="BEUERO20208">Proprietas, ut tum universi carminis genus et modus orationis sententiaeque affectui, tum singulae etiam clausulae seu conversiones singulis subjectis membris (neque enim totius orationis idem tenor) decore accommodentur, quo fictus saepe sonus conducit.</p>
+      <p id="BEUERO20209">Sic lugubris oratio lugubres modos, laeta laetos postulat.</p>
+      <p id="BEUERO20210">Suavitas, ut Cantio suavitate et flosculis harmoniae condita aures mulceat, et suaviter in animos influens delectet. Haec autem in variis fugis, decoris clausulis, et sonis apposite fictis maxime consistit.</p>
+      <p id="BEUERO20211">Hactenus Melodia: sequitur Symphonia.</p>
+      <p id="BEUERO20212">
+      <pb n="[106]" />CAPVT IIII.</p>
+      <p id="BEUERO20213">DE SYMPHONIAE CONSONANTIIS.</p>
+      <p id="BEUERO20214">Quid Symphonia?</p>
+      <p id="BEUERO20215">SYmphonia est distinctorum sonorum et melodiarum concors harmonia.</p>
+      <p id="BEUERO20216">In quibus rebus consistit?</p>
+      <p id="BEUERO20217">In sonorum consonantia, et Melodiarum concentu.</p>
+      <p id="BEUERO20218">1. Quae Consonantia?</p>
+      <p id="BEUERO20219">Consonantia est congruens sonorum per intervalla consecutio seu proportio: ideoque in Intervallis, quae vel systemate continentur, vel foris etiam assumuntur, consistit. Nam intervalla simul resonantia vel consecutionem congruentem (vocant consonantiam et concordantiam) vel discrepantem, (vocant discordantiam) efficiunt. Illa igitur concentum suavem, haec ingratam [kakophonian] efficiunt, ideoque repudiantur, nisi certis rationibus molliantur.</p>
+      <p id="BEUERO20220">Quot intervalla consonantias efficiunt?</p>
+      <p id="BEUERO20221">Duodecim, nempe quatuor prima, et octo derivata, ut, 1. 3. 5. 6. 8. 10. 12. 13. 17. 19. 20. Cetera novem discrepant: ut, 2. 4. 7. 9. 11. 14. 16. 18. 21.</p>
+      <p id="BEUERO20222">
+      <pb n="[107]" />Quomodo distinguuntur?</p>
+      <p id="BEUERO20223">Dupliciter: Primo ratione soni alia AEquisonas, alia consonas vel Emmeles consecutiones efficiunt.</p>
+      <p id="BEUERO20224">Quae AEquisonae Consonantiae?</p>
+      <p id="BEUERO20225">AEquisonae sunt, quae simul resonantes unum edunt sonum, ut Intervalla prima et orta, quae ratio etiam in discordantiis: ut,</p>
+      <p id="BEUERO20226">AEquisonae.</p>
+      <p id="BEUERO20227">[Beurhusius, 107; text: Concordantiae. Discordantiae. Vnisonus. tertia. quincta. Sexta. secunda. quarta. [Gamma], [sqb], F, e, g, dd, 8, 15, 10, 17, 12, 19, 13, 20, 9, 16, 11, 18, 14, 21. Septima. Sono coeunt in octavis.]</p>
+      <p id="BEUERO20228">Atque ita inversis et traductis locis illa intervalla per octavas aequisona sunt.</p>
+      <p id="BEUERO20229">
+      <pb n="[108]" />2. Quae Consonae?</p>
+      <p id="BEUERO20230">Consonae permixta consecutione suaviter resonant, ut Diapente et Diapason diapente.</p>
+      <p id="BEUERO20231">His Dissonae opponuntur, ut septima et octava.</p>
+      <p id="BEUERO20232">Quae Emmeles?</p>
+      <p id="BEUERO20233">Emmeles sunt concinentes non per se, sed aurium judicio ad melodiam aptatae, ut Tertiae, sextae, caeteraeque imperfectae consonantiae.</p>
+      <p id="BEUERO20234">His Ecmeles opponuntur, quae vocem auribus gratam non reddunt, ut Tonus et Tonus, quarta et quarta.</p>
+      <p id="BEUERO20235">Atque ita vitanda sunt intervalla prohibita, ut Tritonus, Diapente, Diapason, undecima, duodecima, et decimaquincta deficiens et redundans.</p>
+      <p id="BEUERO20236">Nascuntur autem prohibita Intervalla ex perfectis consonantiarum speciebus semitonio auctis vel diminutis. Adde vel detrahe Diapente deficienti vel redundanti semitonium, et perfecta absolutaque quincta existet.</p>
+      <p id="BEUERO20237">Quae secunda distinctio?</p>
+      <p id="BEUERO20238">Secundo ratione proportionis et consecutionis consonantiae aliae Perfectae, aliae Imperfectae.</p>
+      <p id="BEUERO20239">Quae Perfectae?</p>
+      <p id="BEUERO20240">Perfectae sunt, quae certa proportione probabiles per se consistunt, et perfecte consonant: ut,</p>
+      <p id="BEUERO20241">
+      <pb n="[109]" />[Beurhusius, 109,1; text: Ex primis unisonus, quincta et ex ortis 8. 15 et 12. 19 vel 1, 5, 8 et 12, 15, 19]</p>
+      <p id="BEUERO20242">Quae Imperfectae?</p>
+      <p id="BEUERO20243">Imperfectae sunt, quae per se non ita probabiles imperfecte consonant, ideoque inter perfectas collocantur: ut,</p>
+      <p id="BEUERO20244">[Beurhusius, 109,2; text: Ex primis 3, 6 et ex ortis 10. 17 et 13. 20. vel 3, 6, 10 et 13, 17, 20]</p>
+      <p id="BEUERO20245">CAPVT V.</p>
+      <p id="BEUERO20246">DE SYMPHONIA MELODIARUM.</p>
+      <p id="BEUERO20247">Quis Concentus Melodiarum?</p>
+      <p id="BEUERO20248">EST congruens moderatio dissimilium cantionum ex certis systematis generibus, et consonantiis. Itaque Symphonia primo partibus et forma est Par, ex paribus notis, vel Impar et figurata ex imparibus, vel etiam mixta, quae fracta et florida dicitur, cum uni planae voci ceterae figuratae opponuntur. Est autem hic tempus quantitatis diligenter distinguendum et observandum, ne cantio [aphonos] et [paramelos] efficiatur.</p>
+      <p id="BEUERO20249">Secundo genere et modo est vel Simplex, Mollis, 
+      <pb n="[110]" />Dura aut Naturalis, vel Conjuncta Mollis aut Dura certi alicujus Toni.</p>
+      <p id="BEUERO20250">Ergo ea omnia, quae supra de Melodia explicata, et haec deinceps observanda sunt.</p>
+      <p id="BEUERO20251">1. Principiorum, clausularum formalium, et finium praecipua cura erit.</p>
+      <p id="BEUERO20252">Est autem clausula, vocum in perfectis consonantiis conjunctio, quietis et perfectionis caussa: qua omnis cantus in primis exornari, sed non eadem saepe iterari debet. Est enim Clausulae tanta suavitas, ut etiam discordantias molliat. Omnis clausula tribus praecipuis formatur notis, antepenultima, penultima et ultima.</p>
+      <p id="BEUERO20253">2. Tum venustis fugis carmen jucundius et subtilius efficitur: quare cavendum, ne Tenor vel alia pars [akinetos] et prorsus immobilis relinquatur, sed decenter varietur.</p>
+      <p id="BEUERO20254">3. Pausarum itaque usus et oportunitas hic plurimum valet. Hae enim tum respirando harmoniam, ne languescat, stabiliunt, tum fugarum commoditatem promovent, dum interpositae cavent, ne perfectae consonantiae simul adscendant et descendant, tum denique intervalla prohibita discrepantiasque declinant.</p>
+      <p id="BEUERO20255">4. Ficti soni et semisoni oportune inserendi: qui et necessitati consonantiarum subveniunt.</p>
+      <p id="BEUERO20256">Quot Symphoniacae melodiae seu partes?</p>
+      <p id="BEUERO20257">Partes vel ratione gravis et acuti soni due 
+      <pb n="[111]" />sunt, una Vox gravis, altera acuta: vel ex utriusque distinctione plures, sed praecipue quatuor principes, Basis, Tenor, Altus et Discantus: quae proprias sedes in sonorum ordinibus habent. Accedunt aliae, quae vel incertis sedibus vagantur, unde Vagans, Concordans et cetera vel fiunt ex principibus multiplicatis ad 12. vel 36. unde secundus, tertius Discantus, Tenor, et cetera.</p>
+      <p id="BEUERO20258">Quomodo igitur partes illae distinguuntur?</p>
+      <p id="BEUERO20259">Ex systemate omnium sonorum propriis sedibus suis clavibus distincto, quemadmodum primo libro singularum systemata depicta sunt. Itaque ad exercitationem compositionis Scala clavibus vocum insignita cancellis ad sonorum tempora distinguetur: in quibus Vocum soni quasi in acie collocentur.</p>
+      <p id="BEUERO20260">Quid igitur Basis?</p>
+      <p id="BEUERO20261">Basis est cantio seu vox infima, per gravium sonorum systema inflexa, ideoque gravi virorum voce exprimenda. Clausula ejus sortitur vel octavam infra Tenorem, vel etiam quinctam supra, si non in unisonum coeat.</p>
+      <p id="BEUERO20262">Quid Tenor?</p>
+      <p id="BEUERO20263">Tenor est vox media, per medios sonos praecipuam fere melodiam, ad quam caeterae referuntur, 
+      <pb n="[112]" />certi toni spaciis informans. Clausula ejus ultimam semper demittit.</p>
+      <p id="BEUERO20264">Quid Altus?</p>
+      <p id="BEUERO20265">Altus est vox acuta, per medios etiam fere acutos decurrens, sed ita ut vacua complens omnibus vocibus aptetur. Observat autem unice gravitonam, contra quam saepe in supremum se attollit, modo quasi in gravitonam mutata in profundum se mergit, sublimiorem totius harmoniae vocem contrario motu observans. Plerunque circa mediam spacia complendo ludit. Ergo ut nobilissima vox est, praeclaram etiam cantoris naturam et solertiam exigit, alioquin nulla prorsus evadit. Hujus clausula arbitraria est, eo quod variis incedat motibus, ultimam notam nunc in tertiam vel quinctam supra Tenorem, nunc in quartam infra trajiciens.</p>
+      <p id="BEUERO20266">Quis Discantus?</p>
+      <p id="BEUERO20267">Discantus est vox suprema, ex sonis peracutis modulate inflexa, ideoque tenera et puerilis. Hujus clausula ultimam notam sursum habet.</p>
+      <p id="BEUERO20268">Attamen Cantus saepe Tenoris, et rursum Tenor Cantus clausulam (diversitate motuum computata) sibi vendicat, atque etiam Baritonans Tenoris, et hic Discantus formam et contra assumit.</p>
+      <p id="BEUERO20269">Atque etiam Symphoniae ita ex vicinis et certis legibus moderatis sonis fiunt, ut paribus vocibus 
+      <pb n="[113]" />canantur, unde ad pares seu aequales vocantur.</p>
+      <p id="BEUERO20270">Saepe una Melodia concentus consecutione et phraseos ratione ita inflectitur, ut ea duabus pluribusve vocibus unisonis vel intervallis distinctis quasi in orbem canatur, vocant fugas, quae solent his Intervallorum nominibus indicari.</p>
+      <p id="BEUERO20271">Fuga in unisono, id est, in eodem.</p>
+      <p id="BEUERO20272">Epidiatessaron, hyperdiatessaron,</p>
+      <p id="BEUERO20273">Oben in der quarten.</p>
+      <p id="BEUERO20274">Subdiatessaron,</p>
+      <p id="BEUERO20275">Unten in der quarten.</p>
+      <p id="BEUERO20276">Epidiapente,</p>
+      <p id="BEUERO20277">Oben in der quincten.</p>
+      <p id="BEUERO20278">Subdiapente,</p>
+      <p id="BEUERO20279">Unten in der quincten.</p>
+      <p id="BEUERO20280">Epidiapason,</p>
+      <p id="BEUERO20281">Oben in der octauen.</p>
+      <p id="BEUERO20282">Subdiapason,</p>
+      <p id="BEUERO20283">Unten in der octaua.</p>
+      <p id="BEUERO20284">Quomodo igitur deinceps voces illae conficiuntur ut Symphoniam faciant?</p>
+      <p id="BEUERO20285">Ex universali systemate, clavibus signandis et cancellis temporum distincto, observatis quibusdam generalibus et singularibus Consonantiarum legibus.</p>
+      <p id="BEUERO20286">Quae generales illae?</p>
+      <p id="BEUERO20287">
+      <pb n="[114]" />1. Perfectae Consonantiae Exordia cantionum modulata faciunt: sed necessario clausulas finesque, in quibus perfectio iudicatur, exornant.</p>
+      <p id="BEUERO20288">2. Duae species perfectae ejusdem generis omnino se non consequuntur, nisi sint immobiles in unisono. Attamen octava priore sursum, altera deorsum, octavae: et Quincta priore deorsum, altera sursum pertinente quinctae, intercurrente saltem minima vel ejus pausa succedit.</p>
+      <p id="BEUERO20289">3. In perfectis consecutionibus vox dura molli ne opponatur, sed mollis cum molli, dura cum dura aut naturali consonet.</p>
+      <p id="BEUERO20290">4. Consonantiae Imperfectae adscendendo vel descendendo se concinne, et eas rursus viciniores perfectae sequuntur: ut tertiam imperfectam vel mollem unisonus, perfectam seu duram quincta vel etiam octava, sextam imperfectam quincta, perfectam octava comitatur. Debent enim perfectae cum imperfectis modulate misceri, ut inter duas perfectas imperfecta interjiciatur, et contra. Sic inter unisonum et Diapenten tertia, inter diapenten et duplam sexta, inter hanc quoque et duodecimam, decima. Tres tamen aut quatuor tertiae vel decimae continuantur, ut dictum est, si perfecta accommodata sequatur.</p>
+      <p id="BEUERO20291">5. Plures sextae in adscensum non continuantur, sed in descensum, sequente tamen perfecta duodecima: quanquam et sextam decima sequatur, Tenore ditono vel ad diatessaron cadente, eo autem adscendente ad diatessaron, sequi etiam ditonus possit.</p>
+      <p id="BEUERO20292">
+      <pb n="[115]" />6. Diatessaron numeratur inter ambiguas conjugationes: quatenus enim per se est, dissonans est, atque sic in consonantem et dissonantem dividi potest: quatenus autem pars est diapason consonans in acutis: quanquam etiam, adjecto ditono aut semiditono, supra efficiat sextam majorem et minorem parum bene sonantes. Itaque quarta per se dissonans duobus modis congruente conmixtione concors efficitur. Primo, quando gravis et peracuta vox octavam inter se sonant, vox media quarta infra peracutam grate concinet, ut sic quincta sit infra non supra. Secundo, quando vox gravis et acuta una vel pluribus sextis consonant: vox media tertiam ad gravem observans, quarta in acutum concordabit. Sic itaque quarta per semibreves vel breves deducta concentum facit.</p>
+      <p id="BEUERO20293">7. Reliquae dissonantiae ut II. IIII. VII. IX. sunt ab omni modulationis ratione sejunctae: at in velocissimo figurarum cursu adhibitae non sentiuntur. Deinde fieri etiam potest, ut minima vel semiminima partibus contrario ordine procedentibus concinant, quod propter celeritatem lateat discrepantiae offensio. Semibrevis autem discrepans repudiatur, nisi duplo diminuatur. At vero si discrepantia Syncopa vel celeri transitu leniatur, non offendit, ut si minima vel semibrevis sit secunda, cum ex tertia in unisonum provenitur, vel quarta cum in quinctam prodiit, vel septima, cum ad aequisonantem octavam prosiliit. Modi inusitati 
+      <pb n="[116]" />omnes sunt vitandi, quod dissonent, excepta decima.</p>
+      <p id="BEUERO20294">8. Vna voce sursum vel deorsum gradiente, non est opus variare reliquas: quia immobili voci plures consonantiae mobiles aptari possunt. Si Tenor acutos sonos attigerit: Discantus possit ad medios descendere: et, si Tenor descenderit ad graves, Basis per medios servatis consonantiis flectetur.</p>
+      <p id="BEUERO20295">9. Si Tenor in chorali nimis descendat, transponatur ad quinctam vel quartam, si id necessitas efficiat. Discantus supra Tenorem raro quinctam, sed saepius imperfectas consonantias teneat. Basis infra Tenorem raro in sexta, nisi mox sequatur octava, sed saepius in perfectis locetur: sin sexta illa fuerit, Discantus quincta Tenorem transcendet clausulam faciens per tertiam.</p>
+      <p id="BEUERO20296">Quae singulares Leges?</p>
+      <p id="BEUERO20297">Singulares nominatim consonantias ad voces collatas accommodant, et sunt ejusmodi:</p>
+      <p id="BEUERO20298">1. De Clausulis.</p>
+      <p id="BEUERO20299">Si Tenor cum Cantu in mi clauditur, penultima Baritonantis notula ex tertia in quinctam desiliet: deinde Contratenor in tertiam supra Tenorem ductus, et ultima nota per quartam sive sextam Tenori optime respondebit.</p>
+      <p id="BEUERO20300">Si vero Tenor et Cantus ex sexta ad aequisonantem octavam prolabuntur, penultima Baritonantis nota ex tertia in gravi in tertiam supra 
+      <pb n="[117]" />Tenorem ducta, et Contratenor ex tertia Tenoris in quinctam ductus gratam harmoniam facit.</p>
+      <p id="BEUERO20301">2.</p>
+      <p id="BEUERO20302">Cantui et Tenori unisonis Basis tertia infra, Altus tertia supra harmonice consonat.</p>
+      <p id="BEUERO20303">3.</p>
+      <p id="BEUERO20304">Cantui a Tenore per tertiam intenso, et Baritonanti ab eodem per octavam remisso, Altus sexta vel quarta sub Tenore consonat, hac forma:</p>
+      <p id="BEUERO20305">[Beurhusius, 117; text: 2. 3.] 
+      <figure>
+        <graphic url="/images/BEUERO2_10GF.gif" />
+      </figure></p>
+      <p id="BEUERO20306">4.</p>
+      <p id="BEUERO20307">Tenore quartam sub Cantu resonante, Baritonans quinctam sub Tenore sibi vendicabit, et Contratenor per tertiam supra Baritonantem intensus, intervallum hujus quinctae mediabit.</p>
+      <p id="BEUERO20308">5.</p>
+      <p id="BEUERO20309">Si cantus quincta a Tenore intendatur, Basis sexta vel potius octava sub Tenore, Altus modo tertia supra tenorem, modo quarta vel sexta infra harmonicam consecutionem facit.</p>
+      <p id="BEUERO20310">
+      <pb n="[118]" />6.</p>
+      <p id="BEUERO20311">Cantui per sextam a Tenore in acumen intenso, et Baritonanti ab eodem per quinctam remisso, Contratenor vel tertia vel octava supra Baritonantem respondebit.</p>
+      <p id="BEUERO20312">[Beurhusius, 118; text: 4. 5. 6.]</p>
+      <p id="BEUERO20313">7.</p>
+      <p id="BEUERO20314">Cantui et Tenori octava consonantibus Baritonans octava infra Tenorem, et Altus tertia vel quincta supra eundem, vel quarta infra harmonice conveniet.</p>
+      <p id="BEUERO20315">8.</p>
+      <p id="BEUERO20316">Cantui autem decima a Tenore adscendenti Baritonans quincta, et Altus octava supra Tenorem consentiet.</p>
+      <p id="BEUERO20317">9.</p>
+      <p id="BEUERO20318">Quod de tertia ad unisonum, idem de decima ad octavam: quod de octava ad quinctam, idem 
+      <pb n="[119]" />de decimaquincta ad duodecimam: et quod de sexta ad tertiam, hoc etiam de decimatertia ad decimam intelligendum est. Efficiendum igitur ex Symphoniae legibus, ut omnes Cantilenae partes diversis consecutionum motibus suaviter consentiant.</p>
+      <p id="BEUERO20319">Huc plurimum conferunt et Musici ipsius ingenium, et exercitatio ad imitationem praestantissimorum exemplorum creberrima, qua tandem [gnesia] illa vis harmoniarum et variorum colorum [schemata] exprimuntur.</p>
+      <p id="BEUERO20320">Confer porro cum paucis propositis regulis quae sunt a clarissimis Musicis, ut Ornithoparchus, Ioannes, Petrus, Gregorius, Faberus, et cetera scripta.</p>
+      <p id="BEUERO20321">[Beurhusius, 119; text: 7. 8. 9. et cetera]</p>
+      <p id="BEUERO20322">
+      <pb n="[120]" />EXEMPLA PLANA AD PRAEcipua capita nonnihil illustranda. Prima Vox voces facit.</p>
+      <p id="BEUERO20323">[Beurhusius, 120; text: O lux beata trinitas, et principalis unitas, jam sol recedit igneus, infunde lumen cordibus. SECUNDA VOX.]</p>
+      <p id="BEUERO20324">
+      <pb n="[121]" />[Beurhusius, 121; text: TERTIA VOX.]</p>
+      <p id="BEUERO20325">
+      <pb n="[122]" />ITEM MARTINVS AGRICOLA DE Tonis cum Symphonia.</p>
+      <p id="BEUERO20326">[Beurhusius, 122; text: Discantus, primi Toni. Magnificat anima mea Dominum. Altus. Tenor. Bassus.] 
+      <figure>
+        <graphic url="/images/BEUERO2_11GF.gif" />
+      </figure></p>
+      <p id="BEUERO20327">
+      <pb n="[123]" />[Beurhusius, 123; text: Discantus, secundi Toni. Magnificat anima mea Dominum. Altus. Tenor. Bassus.]</p>
+      <p id="BEUERO20328">
+      <pb n="[124]" />EPILOGVS.</p>
+      <p id="BEUERO20329">HAEc igitur rudia lineamenta e bonis auctoribus hoc ordine adumbravi, ut experirer anne Musica recte hac Methodo describeretur. Qua in re si quid ex legibus de Materia et forma artium factum sit; colores lineamentis addi possint: sin minus, facile doctorum, qui sunt aequi rerum aestimatores, admonitionibus parebo. Laborem colligendi tantum mihi tribuo; ideoque de symphonia praecipua tantum documenta collegi: caetera aliis relinquuntur, suisque auctoribus quaeque vendicantur.</p>
+      <p id="BEUERO20330">FINIS.</p>
+      <p id="BEUERO20331">[Beurhusius, 124]</p>
+      <p id="BEUERO20332">
+      <pb n="[125]" />NORIBERGAE, IMPRIMEBATVR IN OFFICINA TYPOgraphica Catharinae Gerlachin, et Haeredum Ioannis Montani.</p>
+      <p id="BEUERO20333">[Beurhusius, 125]</p>
+    </body>
+  </text>
+</TEI>

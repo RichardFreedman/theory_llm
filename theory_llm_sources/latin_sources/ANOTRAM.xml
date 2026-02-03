@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Tractatulus de mensurationum</title>
+        <title type="abbrev">ANOTRAM</title>
+        <author>Anonymous</author>
+        <date notBefore="1400" notAfter="1499">15th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Katherine Clark</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Andreas Giger</persName>
+      </respStmt>
+      <date>1999</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Antonius de Luca, 
+<emph>Ars cantus figurati</emph>; 
+<emph>Capitulum de quattuor mensuris</emph>; 
+<emph>Tractatulus mensurationum</emph>; 
+<emph>Compendium breve de proportionibus</emph>; 
+<emph>Tractatulus prolationum cum tabulis</emph>, ed. Heinz Ristory, Corpus scriptorum de musica, vol. 38 (n.p.: American Institute of Musicology / Hänssler-Verlag, 1997), 66–73. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: Tractatus de musica mensurabili</title>
+          
+<idno type="LML">MENS. Nota quod</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">B-Br II 785, 8v-9v</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANOTRAM0001">
+      <pb n="[66]" />Anonymus</p>
+      <p id="ANOTRAM0002">TRACTATULUS MENSURATIONUM</p>
+      <p id="ANOTRAM0003">Br1 8v-9v</p>
+      <p id="ANOTRAM0004">De alteratione sub brevitate</p>
+      <p id="ANOTRAM0005">Capitulum 1</p>
+      <p id="ANOTRAM0006">Br1 8v</p>
+      <p id="ANOTRAM0007">Nota quod ubi est perfectio numeri, ibi est alteratio; appellatione numeri perfecti intelligitur numerus ternarius. Quae perfectio invenitur in modo perfecto, quia in eo alterantur breves:</p>
+      <p id="ANOTRAM0008">[Lv,pt,Bv,Bv,Lv,pt on staff2]; secunda alteratur.</p>
+      <p id="ANOTRAM0009">Invenitur in tempore, quia in eo alterantur semibreves:</p>
+      <p id="ANOTRAM0010">[Bv,pt,Sv,Sv,Bv,pt on staff2]</p>
+      <p id="ANOTRAM0011">Invenitur in prolatione, quia in ea alterantur minimae:</p>
+      <p id="ANOTRAM0012">[Sv,pt,Mv,Mv,Sv,pt on staff2]</p>
+      <p id="ANOTRAM0013">Est autem inventa alteratio ut perfectio numeri compleatur, scilicet vel modi aut temporis aut prolationis.</p>
+      <p id="ANOTRAM0014">Nota quod [MXv,Lv,Bv,Sv,Mv on staff2] istae quattuor notae post maximam habent imperficere maximam; sic quoad totum: [Lv], seu ad propinquiorem partem: [Bv], quoad partem remotam: [Sv], quoad partem remotiorem: [Mv], quoad partem remotissimam.</p>
+      <p id="ANOTRAM0015">
+      <pb n="[67]" />In alio autem loco diximus qualiter maxima modi maioris imperficitur a parte post. Nunc dicendum est quod simili modo imperficitur a parte ante, ut hic patet:</p>
+      <p id="ANOTRAM0016">[Lv,MXv; Lv,Lv,Lv,Lv,MXv; Bv,Bv,Bv,[Bv,pt,]Lv,Lv,MXv; Sv,Sv,Sv,Sv,Sv,Sv,Sv,Sv,Sv,[Sv,pt,]Lv,Lv,MXv on staff1]</p>
+      <p id="ANOTRAM0017">Nunc vero dicendum est quando maxima imperfecta perficitur, scilicet sic per additionem mediae partis sui valoris. Nam si maxima modi maioris imperfecti valet duas longas, tunc media pars duarum longarum est una longa vel eius valor quod est punctus, tunc si ista maxima: [MXv] valet duas longas, addito puncto valet tres ut hic: [MXv,pt]. Et tunc cum puncto est perfecta. Et sic etiam est de longa imperfecta modi minoris, de tempore imperfecto, et de prolatione minori sive imperfecta. Exempla:</p>
+      <p id="ANOTRAM0018">[Lv,pt,Bv,pt,Sv,pt on staff2]</p>
+      <p id="ANOTRAM0019">Ubi prius erant imperfectae, nunc cum punctis sunt perfectae. Et talis imperfectio istis regulis posita consistit solum in numero ternario, quia ibi perfectio ibi etiam imperfectio. Nam super id dicendum est de imperfectione, et qualiter perfecta imperficitur, ac etiam quando imperfecta perficitur medietate puncto:</p>
+      <p id="ANOTRAM0020">[MXv,Lv,pt,Lv,Bv,pt,Bv,Sv,pt,Sv,Mv,pt,MXv,Bv on staff2]</p>
+      <p id="ANOTRAM0021">
+      <pb n="[68]" />Nunc est quando maxima modi maioris imperficitur quoad partem remotam. Et tunc talis maxima dicitur esse temporis perfecti. Et illa talis brevis imperficiens maximam respectu longae imperficit.</p>
+      <p id="ANOTRAM0022">[MXv,Sv,pt on staff2]</p>
+      <p id="ANOTRAM0023">Nunc est quando maxima modi maioris imperficitur quoad partem remotiorem. Et tunc talis maxima dicitur esse maioris prolationis. Et illa talis semibrevis imperficiens maximam imperficit eam respectu temporis.</p>
+      <p id="ANOTRAM0024">[MXv,Mv,pt on staff2]</p>
+      <p id="ANOTRAM0025">Nunc est quando maxima modi maioris imperficitur quoad partem remotissimam. Et tunc talis maxima dicitur esse maioris sive perfectae prolationis. Et illa talis minima imperficiens maximam imperficit eam respectu prolationis sive semibrevis.</p>
+      <p id="ANOTRAM0026">Superius dictum est de imperfectione maximae modi maioris. Nunc dicendum est de longa modi minoris. Et primo notandum est quod quando longa modi minoris imperficitur sic:</p>
+      <p id="ANOTRAM0027">[Lv,Bv,pt on staff2]</p>
+      <p id="ANOTRAM0028">scilicet per abstractionem tertiae partis sui valoris, et quoad totum et quoad partem propinquam. Et tunc dicendum est quod si modus perfectus minor:</p>
+      <p id="ANOTRAM0029">[Lv,Sv,pt on staff2]</p>
+      <p id="ANOTRAM0030">
+      <pb n="[69]" />Nunc est quando longa modi minoris imperficitur quoad partem remotam. Et tunc talis longa dicitur esse temporis perfecti. Et talis semibrevis imperficit eam respectu temporis:</p>
+      <p id="ANOTRAM0031">[MXv,Bv,BP,Lv,Bv,Lv,Bv,Sv,pt,Sv,Mv,pt on staff2]</p>
+      <p id="ANOTRAM0032">Nunc est quando maxima modi maioris imperficitur per remotionem tertiae partis sui valoris. Et tunc imperficitur quoad totum et quoad se, et quoad partem propinquam. Et tunc dicitur esse modus major.</p>
+      <p id="ANOTRAM0033">Maxima perfecta cuius longae sunt perfectae:</p>
+      <p id="ANOTRAM0034">[MXv,Lv,Lv,Lv,Bv,Bv,Bv,Bv,Bv,Bv,Bv,Bv,Bv on staff2]</p>
+      <p id="ANOTRAM0035">Maxima perfecta cuius longae sunt imperfectae:</p>
+      <p id="ANOTRAM0036">[MXv,Lv,Lv,Lv,Bv,Bv,Bv,Bv,Bv,Bv on staff2]</p>
+      <p id="ANOTRAM0037">Maxima imperfecta cuius longae sunt perfectae:</p>
+      <p id="ANOTRAM0038">[MXv,Lv,Lv,Bv,Bv,Bv,Bv,Bv,Bv on staff2]</p>
+      <p id="ANOTRAM0039">Maxima imperfecta cuius longae sunt imperfectae:</p>
+      <p id="ANOTRAM0040">[MXv,Lv,Lv,Bv,Bv,Bv,Bv on staff2]</p>
+      <p id="ANOTRAM0041">
+      <pb n="[70]" />Modus perfectus maior:</p>
+      <p id="ANOTRAM0042">[MXv,Lv,Lv,Lv on staff2]</p>
+      <p id="ANOTRAM0043">Modus perfectus minor:</p>
+      <p id="ANOTRAM0044">[Lv,Bv,Bv,Bv on staff2]</p>
+      <p id="ANOTRAM0045">Modus imperfectus major:</p>
+      <p id="ANOTRAM0046">[MXv,Lv,Lv on staff2]</p>
+      <p id="ANOTRAM0047">Modus imperfectus minor:</p>
+      <p id="ANOTRAM0048">[Lv,Bv,Bv on staff2]</p>
+      <p id="ANOTRAM0049">Tempus perfectum:</p>
+      <p id="ANOTRAM0050">[Bv,Sv,Sv,Sv on staff2]</p>
+      <p id="ANOTRAM0051">Tempus imperfectum:</p>
+      <p id="ANOTRAM0052">[Bv,Sv,Sv on staff2]</p>
+      <p id="ANOTRAM0053">Prolatio maior:</p>
+      <p id="ANOTRAM0054">[Sv,Mv,Mv,Mv on staff2]</p>
+      <p id="ANOTRAM0055">
+      <pb n="[71]" />Prolatio minor:</p>
+      <p id="ANOTRAM0056">[Sv,Mv,Mv on staff2]</p>
+      <p id="ANOTRAM0057">De puncto et duplex dicitur, scilicet perfectionis et divisionis</p>
+      <p id="ANOTRAM0058">Capitulum 2</p>
+      <p id="ANOTRAM0059">Br1 9v</p>
+      <p id="ANOTRAM0060">Punctus perfectionis:</p>
+      <p id="ANOTRAM0061">[CSM38:71,1] 
+      <figure>
+        <graphic url="/images/ANOTRAM_01GF.gif" />
+      </figure></p>
+      <p id="ANOTRAM0062">Punctus divisionis:</p>
+      <p id="ANOTRAM0063">[CSM38:71,2]</p>
+      <p id="ANOTRAM0064">Quando punctus ponitur post longam ut hic: [Lv,pt on staff2], perfectionis esse dicitur. Quando vero ponitur post minimam ut hic: [Mv,pt on staff2], dicitur 
+      <pb n="[72]" />esse punctus divisionis; causa quia minima non dividitur in tres partes, et quidquid non dividitur in tres partes non potest imperfici. Ergo minima non potest perfici nec imperfici. Et tunc quando post minimam invenitur punctus, stat ibi per divisionem ut hic:</p>
+      <p id="ANOTRAM0065">[Sv,Mv,pt,Mv,Mv,Sv on staff2]</p>
+      <p id="ANOTRAM0066">Et nota quod quando ponitur punctus divisionis, tunc denotat aut perfectionem modi aut temporis sive prolationis.</p>
+      <p id="ANOTRAM0067">Nunc est dare unum dubium alicui quare post maximam perfectam vel post longam vel tempus sive prolationem perfectam ponitur punctus. Respondeo: dicendum est quod ille punctus sic positus stat ibi ad significandum perfectionem maximae sive longae, vel temporis aut prolationis, quia non est ultra dare punctum rei perfectae ita quod ille punctus stat solum significative.</p>
+      <p id="ANOTRAM0068">Item non semper id. Si punctus et cetera.</p>
+      <p id="ANOTRAM0069">Exempla:</p>
+      <p id="ANOTRAM0070">[MXv,pt,Lv,Lv,Lv,Lv,MXv; MXv,Lv,Lv,MXv on staff3]</p>
+      <p id="ANOTRAM0071">[Lv,pt,Bv,Bv,Bv,Bv,Lv on staff3]</p>
+      <p id="ANOTRAM0072">[Bv,pt,Sv,Sv,Sv,Sv,Bv on staff3]</p>
+      <p id="ANOTRAM0073">[Sv,pt,Mv,Mv,Mv,Mv,Sv on staff3]</p>
+      <p id="ANOTRAM0074">
+      <pb n="[73]" />[CSM38:73; text: Exceptiones]</p>
+    </body>
+  </text>
+</TEI>

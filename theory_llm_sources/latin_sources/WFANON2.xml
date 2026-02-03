@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Ars musice</title>
+        <title type="abbrev">WFANON2</title>
+        <author>Anonymous</author>
+        <date notBefore="1100" notAfter="1199">12th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Bradley Jon Tucker</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Angela Mariani</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1993</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Johannes Wolf, "Anonymi cujusdam Codex Basiliensis," 
+<emph>Vierteljahresschrift für Musikwissenschaft</emph> 9 (1893), 410–12.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: Tabula cod. Basiliensis</title>
+          
+<idno type="LML">TAB. Basil.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">CH-Bu F IX 54, 1</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="WFANON20001">
+      <pb n="[410]" />[VMW9:410; text: Ad iocundos primus, Ad severos tertius, Ad lascivos (?) quintus, Ad versutos septimus, Ad senes secundus, Ad blandos quartus, Ad tristes sextus. Ad honestos octavus pertinet, Musica in connexu utriusque, Musica in corpore, Musica in voce, Musica in anima, Fortitudo, Sanguis, Colera, Phlegma, Melancholia, Justitia. Temperantia, Prudentia, comes discipulus, dux autentus, [Gamma], A, B, C, D, E, F, G, a, b, c, d, e, f, g, aa, [rob], libere raro, hypomixolydius, dorius, phrygius, lydius, mixolydius, hypodorius, hypophrygius, hypolydius, I, II, III, IIII, V, VI, VII, VIII, Octo modi musice matris] 
+      <figure>
+        <graphic url="/images/WFANON2_01GF.gif" />
+      </figure></p>
+      <p class="textFig" id="WFANON20002">*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*
+      <lb /></p>
+      <p id="WFANON20003">
+      <pb n="[411]" />Quatuor ecce tropi natura matre creati</p>
+      <p id="WFANON20004">Quatuor ut reges intra sua regna sedentes.</p>
+      <p id="WFANON20005">Hinc prothus, ac deutrus, tritus tropicusque tetrardus</p>
+      <p id="WFANON20006">Sub dicione sua cohibent modulamina cuncta.</p>
+      <p id="WFANON20007">Quos tam prudenter distinxit musica mater,</p>
+      <p id="WFANON20008">Tam statuit certas vocum discrimina metas,</p>
+      <p id="WFANON20009">Alter ut alterius non usurpet sibi cantus</p>
+      <p id="WFANON20010">Vindice natura vel cedat in altera iura.</p>
+      <p id="WFANON20011">A gravitate quidem nimium distabat acumen</p>
+      <p id="WFANON20012">Et gravitas neumis non conveniebat acutis.</p>
+      <p id="WFANON20013">Sic ex consilio divisis quatuor octo</p>
+      <p id="WFANON20014">[Late diffusus tenet ecclesiasticus usus.]</p>
+      <p id="WFANON20015">Ergo suum comitem dux sede recepit eadem,</p>
+      <p id="WFANON20016">Commodus et patiens et amice foedera iungens.</p>
+      <p id="WFANON20017">Omnibus hospitium finalium dat tetrachordum:</p>
+      <p id="WFANON20018">Primaque D primos habet, E que secundos</p>
+      <p id="WFANON20019">Obtinet aequivocos F tertia, quartaque quartos.</p>
+      <p id="WFANON20020">Hos tonus et semis sequitur, semis, tonus istos;</p>
+      <p id="WFANON20021">Ditonus et semis superantes propedit illos.</p>
+      <p id="WFANON20022">
+      <pb n="[412]" />Sic cum semitonis series discreta tonorum</p>
+      <p id="WFANON20023">Discernit nobis finem quorumque troporum.</p>
+      <p id="WFANON20024">Quaerere nunc ratio rationis et exigit ordo,</p>
+      <p id="WFANON20025">Quid teneant proprium, quae sint communia, quae non,</p>
+      <p id="WFANON20026">Quomodo quemque tropum sua constituat diapason,</p>
+      <p id="WFANON20027">Aut ubi concordent, ubi discordando repugnent,</p>
+      <p id="WFANON20028">Alter ab alterius defendens iure suum ius.</p>
+      <p id="WFANON20029">Et nunc quisque modus duplici modulamine fretus</p>
+      <p id="WFANON20030">Autentum, plagam sedem componit in unam,</p>
+      <p id="WFANON20031">Ut dux authentus, comes ut sit plaga vocatus.</p>
+      <p id="WFANON20032">Alter ei minor est, praecellit dignior alter,</p>
+      <p id="WFANON20033">Quod cum natura dictavit philosophia,</p>
+      <p id="WFANON20034">Vocibus ut voces liquidis apte graviores</p>
+      <p id="WFANON20035">Et gravibus liquidae resonent infraque supraque.</p>
+      <p id="WFANON20036">Quae quasi confuse concordabant nimis ante.</p>
+      <p id="WFANON20037">Condicione tamen, qui se sciat inferiorem</p>
+      <p id="WFANON20038">Seu graves sortitur metas, comes egrediatur.</p>
+      <p id="WFANON20039">At cui non liceat voces attingere, quaerat,</p>
+      <p id="WFANON20040">Sui alias captum dux fortior auferat illum.</p>
+      <p id="WFANON20041">Et totus cantus sub nomine transeat huius.</p>
+      <p id="WFANON20042">Primus ab A plagalis in a firmat sua castra,</p>
+      <p id="WFANON20043">Alterius B [sqb] cursum distinguit utrumque,</p>
+      <p id="WFANON20044">Extendit de C tentoria tertius in c,</p>
+      <p id="WFANON20045">Nam D d quartum certo sub limite claudunt.</p>
+      <p id="WFANON20046">Hos D cingit et E mediis ius legis et F, G,</p>
+      <p id="WFANON20047">Quae diapente supra reddunt, diatessaron infra.</p>
+      <p id="WFANON20048">Authentus primus inter D d spaciatur.</p>
+      <p id="WFANON20049">At sua tendit in e tentoria deuterus ex E.</p>
+      <p id="WFANON20050">Ex F in f magni distingue palatia triti.</p>
+      <p id="WFANON20051">Ex G g summi disponitur aula tetrardi.</p>
+      <p id="WFANON20052">His a, b, c, d mediatrices liquet esse.</p>
+      <p id="WFANON20053">His diapente subest, gressus diatessaron effert.</p>
+      <p id="WFANON20054">Sed quoniam veluti promit sententia flati (?)</p>
+      <p id="WFANON20055">Segnius irritant animos dimissa per aures,</p>
+      <p id="WFANON20056">Quam quae sunt oculis subiecta fidelibus. Ecce!</p>
+      <p id="WFANON20057">Ordine dispositis compingo castra figuris,</p>
+      <p id="WFANON20058">Quae tam mirifice natura struxit et arte</p>
+      <p id="WFANON20059">Distribuitque tropis se musica matre creatis.</p>
+      <p id="WFANON20060">Hic ades, expugna, quisquis potes, haec mea castra.</p>
+      <p id="WFANON20061">[Quae situ superes, capias ut victor et intres,</p>
+      <p id="WFANON20062">Invenies in eis thesauros totius artis.]</p>
+    </body>
+  </text>
+</TEI>

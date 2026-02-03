@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Terminorium musicalium diffinitorium anonymi</title>
+        <title type="abbrev">ANOTER</title>
+        <author>Anonymous</author>
+        <date notBefore="1400" notAfter="1499">15th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>John-Bede Pauley</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Peter Slemon</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>2004</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Zsuzsa Czagány, "Ein Diffinitorium musicum aus dem späten 15. Jahrhundert," in 
+<emph>International Musical Society Study Group Cantus Planus: Papers Read at the Fourth Meeting, Pécs, Hungary, 3-8 September 1990</emph> (Budapest: Hungarian Academy of Sciences, Institute for Musicology, 1992), 132–39.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: Terminorum musicalium diffinitorium</title>
+          
+<idno type="LML">DIFF. MUS.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">I-Vnm Lat. Cl. VIII.82 (3047), 142-147</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANOTER0001">
+      <pb n="[132]" />Terminorium musicalium diffinitorium anonymi</p>
+      <p id="ANOTER0002">Incipit unumquodlibet in arte musicali tam practica quam theorica.</p>
+      <p id="ANOTER0003">De difinitione musice imprimis. Ugo in flores musice:</p>
+      <p id="ANOTER0004">Musicha est liberalis scientia periite cantandi copiam ad ministrans. Idem: musica est recte cantandi scientia.</p>
+      <p id="ANOTER0005">Boetius: Inter septem artes liberales optinet principatum ex eo, quod omnes alie artes in suis vocabulis vocum intensiones et remissiones, id est tempus longum vel brevem requirunt, circa que musica spetialiter versatur. Idem: Dicitur autem musica a musis, que secundum fabulas asseruntur fuisse filie Iovis et memorie. Nisi enim ab homine memoria teneantur, soni pereunt, quia scribi non possunt. Vel dicitur musica a moys, quod est aqua, et ico, scientia, quasi scientia aque.</p>
+      <p id="ANOTER0006">Nicholaus Burcius: Musica est ars deo placens ac hominibus, omne quod canitur discernens et diiudicans, ac de cunctis, que fiunt per arsim et tesim, id est per vocularum intensionem et remissionem, veram inquirens rationem. Dicta est a musis, quod est inquiro. Ratio est ut inquit Isidorus, quia eo tempore vocis modulatio et usus carminum querebatur. Vel, ut quibusdam placet, a musis, quia per easdem, que novem fuere, antiqui eam invenerunt.</p>
+      <p id="ANOTER0007">
+      <pb n="[133]" />De diffinitione musice, require in principio huius operis et quid sit musicus et differentia inter musicum et cantorem et alia pulcra.</p>
+      <p id="ANOTER0008">Musica est ars spectabilis et suavis, cuius sonus in celo et in terra modulatur. Musica est disciplina, que in carminibus multis extollitur argumentis. Item musica est disciplina cantilenarum. Item musica est omne carmen.</p>
+      <p id="ANOTER0009">Musica est disciplina, quae de numeris loquitur, qui ad aliquid sunt. Qui inveniuntur in sonis, ut duplum, triplum, quadruplum, sesqualter et cetera.</p>
+      <p id="ANOTER0010">Musica est scientia bene modulandi.</p>
+      <p id="ANOTER0011">Guydo: Musica est motus vocum in arsim et thesim.</p>
+      <p id="ANOTER0012">+Va.+: Musica est materia quaedam pertinet +cat+ et cetera.</p>
+      <p id="ANOTER0013">NICOLAUS BURTIUS DE SONO</p>
+      <p id="ANOTER0014">Sonus est justa Albertum Magnum libro 2 de anima nichil aliud est nisi perceptum per auditum ex aere commoto.</p>
+      <p id="ANOTER0015">Boetius: Sonus est percussio aeris indissoluta usque ad auditum, et largo modo omne, quod sonat, sed non stricte.</p>
+      <p id="ANOTER0016">Aliquis doctus: Sonus est percussio aeris, ut omnes autores ipsi consentiunt.</p>
+      <p id="ANOTER0017">Boetius: Sonus est percussio aeris indissoluta id est inrupta usque ad auditum.</p>
+      <p id="ANOTER0018">Idem: Sonus est casus modulat e vocis una intensione productus.</p>
+      <p id="ANOTER0019">Idem: Sonus est motus aeris.</p>
+      <p id="ANOTER0020">Item: Sonus est quiquid auditur sensibile.</p>
+      <p id="ANOTER0021">Ubaldus: Sonus est generale nomen quarumcumque vocum.</p>
+      <p id="ANOTER0022">
+      <pb n="[134]" />DE VOCE</p>
+      <p id="ANOTER0023">Albertus Magnus: Vox est percussio aeris expirati ad artariam.</p>
+      <p id="ANOTER0024">Boetius: Vox est aeris ictus auditu sensibilis quantum in ipso.</p>
+      <p id="ANOTER0025">Item: Vox est aeris spiritus verberatus.</p>
+      <p id="ANOTER0026">DE TONO</p>
+      <p id="ANOTER0027">Flores musices caput 3: Tonus est perfectum spatium duarum vocum invicem plene sonantium.</p>
+      <p id="ANOTER0028">Item: Tonus est assotiatio duarum vocum invicem plene sonantium, quod redit in idem, sive fiat intensio sive remissio, scilicet iungendo ut re, re mi et econverso.</p>
+      <p id="ANOTER0029">De tono per doctores: Prima igitur coniunctio phtongorum tonus est, quem autores musice nuncupaverunt: tonum, diastema, cola emelis et sesquiottavum.</p>
+      <p id="ANOTER0030">Boetius: Omnis tonus coniunctione et quantitate duorum phthongorum semper consistit.</p>
+      <p id="ANOTER0031">Encheridion Ubaldi: Tonus est legittimum spatium a sono in sonum.</p>
+      <p id="ANOTER0032">Guido: Tonus dicitur a tonando, id est sonando.</p>
+      <p id="ANOTER0033">Remigius: Tonus vere et sonus idem sunt. Sed distantia inter eos est, quod sonus in una corda potest fieri et tonus vero in duabus fit.</p>
+      <p id="ANOTER0034">Guido: Omnis tonus acuta eius vox habet 8 spatia, gravis vero 9.</p>
+      <p id="ANOTER0035">Idem: Tonus in musica sexquiottava, in proportionibus numerorum, id est 9:8, in gramatica colon, epogdous in arithmetica, diastema melis.</p>
+      <p id="ANOTER0036">
+      <pb n="[135]" />Flores musices capitulo quarto: Tonus est regula naturam et formam seu debitum cursum cantus regularis determinans, ad differentiam cantus irregularis, scilicet sicut in ascendente in Yhesu in naviculam et in Benedicta sit creatrix, que regulariter sunt 8. toni, a quibusdam sexto, a quibusdam tertio coaptantur tono.</p>
+      <p id="ANOTER0037">Item tonus est regula que de omni cantu in fine diiudicat. Item</p>
+      <p id="ANOTER0038">DE CONSONANTIA ET DISSONANTIA PER DOCTORES</p>
+      <p id="ANOTER0039">Nicolaus Burtius primus: Consonantia est acuti soni gravisque mistura suaviter uniformiterque auribus accidens. Dicitur autem consonantia a consequendo, ut Isidoro placet, quia consequendo organizat voces suas. Euphonia idem est quod consonantia, et dicitur ab eu, quod est bonum, et phonia, sonoritas, quasi bona sonoritas. Idemque esse sinphoniam perpendimus.</p>
+      <p id="ANOTER0040">Dissonantia est duorum sonorum sibimet permistorum ad aurem veniens aspera atque iniocunda percussio.</p>
+      <p id="ANOTER0041">Dissonantiarum alia compassibilis alia incompassibilis, ut tertia, sexta, decima et huiusmodi. Incompassibilis, ut quarta, septima, undecima.</p>
+      <p id="ANOTER0042">Mutatio est variatio nominis sive note in eodem spatio, linea ac sono, et potest fieri in quolibet loco manus, ubi due, vel tres voces nomine sunt diverse, que quidem sub una sola lictera includuntur, scilicet in [Gamma] ut, A re, [sqb] mi, ela et bfa mi ... Mutatio est unius vocis pro altera vicaria prestatio.</p>
+      <p id="ANOTER0043">Legant musici et videant superscripta et sub.</p>
+      <p id="ANOTER0044">
+      <pb n="[136]" />CANTUS FIGURATUS</p>
+      <p id="ANOTER0045">Cantus figuratus est quedam vocum fractio vel levitas ex contrapuncti gravitate edita. Tria in cantu consideranda sunt, scilicet modus, tempus et prolatio.</p>
+      <p id="ANOTER0046">MODUS</p>
+      <p id="ANOTER0047">Modus est coniuntio soni temporisque longis mensurati.</p>
+      <p id="ANOTER0048">TEMPUS</p>
+      <p id="ANOTER0049">Tempus est duratio subcessiva vel est numerus motus.</p>
+      <p id="ANOTER0050">PROLATIO</p>
+      <p id="ANOTER0051">Prolatio a proferendo dicitur, quia, cum tempus dividitur in partes, melius profertur.</p>
+      <p id="ANOTER0052">LIGATURA</p>
+      <p id="ANOTER0053">Ligatura est duarum pluriumve simul tenentium notarum adunatio, et est duplex, scilicet ascendens et descendens.</p>
+      <p id="ANOTER0054">PUNCTUS</p>
+      <p id="ANOTER0055">Puntus est quid minimum in quantitate, et quid maximum in potestate.</p>
+      <p id="ANOTER0056">PAUSA</p>
+      <p id="ANOTER0057">Pausa est vocum admissio vel est aspiratio.</p>
+      <p id="ANOTER0058">
+      <pb n="[137]" />ALTERATIO</p>
+      <p id="ANOTER0059">Alteratio, proprie sumta, est mutatio de qualitate in qualitatem, vel est duplicatio note.</p>
+      <p id="ANOTER0060">DIMINUTIO</p>
+      <p id="ANOTER0061">Diminutio est quedam fractio notularum.</p>
+      <p id="ANOTER0062">SINCOPA</p>
+      <p id="ANOTER0063">Sincopa est divisio valoris alicuius note per partes separatas, que numerando ad invicem reducuntur. Sincopa est aliquarum notarum ad invicem per intermedia divisarum insimul reductio.</p>
+      <p id="ANOTER0064">NUMERUS</p>
+      <p id="ANOTER0065">Numerus apud Isidorum est multitudo ex unitatibus constituta et dicitur numerus a nummo et a sui frequentatione vocabulum sumsit. Unus a greco nomen trahit grece enna, id est unus.</p>
+      <p id="ANOTER0066">NUMERI DISTINCTIO</p>
+      <p id="ANOTER0067">Triplex est numerus, scilicet numerus numerans, numerus numeratus, et numerus, quo numeramus. Et distinguitur etiam in duas partes numerorum, alius par, alius impar. Item parium alius pariter par, alius pariter impar. Inparium vero alius primus et simplex, alius secundus et compositus, et alius mediocris.</p>
+      <p id="ANOTER0068">PROPORTIO</p>
+      <p id="ANOTER0069">Proportio est duorum terminorum ad se quedam comparatio, terminos autem voco numerorum summas.</p>
+      <p id="ANOTER0070">
+      <pb n="[138]" />Vel sic: proportio est habitudo seu comparatio unius quantitatis ad aliam, scilicet equalitatis et inequalitatis, vel secundum Boetium scilicet alia rationalis alia irrationalis.</p>
+      <p id="ANOTER0071">PROPORTIONALITAS</p>
+      <p id="ANOTER0072">Proportionalitas est equarum proportionum collectio et consideratur tripliciter, scilicet arismetrice, geometrice et armonice. Arismetrica unum, duo, tres geometrica unum, duo, quattuor, armonica tres, quattuor, sex. Inter has tres medietates proportionalitas quidem proprie et maxime geometrica nuncupatur.</p>
+      <p id="ANOTER0073">CANTILENARUM GENERA</p>
+      <p id="ANOTER0074">Genera cantilenarum eadem sunt: diatonus per semitonum, tonum et tonum. Cromaticus per semitonum et semitonum et tria semitona. Enarmonicus per diesim et diesim et ditonum dividuntur.</p>
+      <p id="ANOTER0075">MONOCORDUM</p>
+      <p id="ANOTER0076">Monocordum est lignum longum quadratum in modum casse, et intus concavum in modum cithare, super quo posita corda eius sonitu varietates vocum facile comprehendit. Et dicitur a monos, quod est unum, et corda, quasi unum habentem cordam.</p>
+      <p id="ANOTER0077">MONOCORDI INVENTOR</p>
+      <p id="ANOTER0078">Inventor huius fuit Pithagoras magister Grecorum et doctor.</p>
+      <p id="ANOTER0079">
+      <pb n="[139]" />NUMERUS QUADRATUS</p>
+      <p id="ANOTER0080">Quadratus numerus est ille, qui gemina dimensione in equa concreverit, ut bis duo 4, ter tres 9, quater quatuor 16.</p>
+      <p id="ANOTER0081">PROPORTIONES AD INVENIENDAS REGULA</p>
+      <p id="ANOTER0082">Regula utilis in musica et calculationibus ad inveniendas quotlibet continuas proportiones superparticulares. Hac regula quolibet equas proportiones ex multiplicitate ducemus. Unusquisque ab unitate, scilicet computatus tot superparticulares habitudines precedit sue scilicet in contrariam partem denominationis. Quotus ipse ab unitate discesserit, hoc modo, ut duplex sexquialteras antecedat, triplex sexquitertias, quadruplex sexquiquartas ac deinceps. In hunc modum fit igitur duplorum terminorum subiecta descriptio:</p>
+      <p id="ANOTER0083">[Anonymous, Terminorium musicalium, 139; text: duple, triple, quadrupla, quadruple, quincupla, I, II, III, IIII, V, VI, VIII, VIIII, XII, XVI, XVIII, XX, XXIIII, XXV, XXVII, XXXVI, XLVIII, LIIII, LXIIII, LXXX, LXXXI, C, CVIII, CXXV, CXLIIII, CXCII, CCLVI, CCLVI, CCCXX, CCCC, D, DCXXV] 
+      <figure>
+        <graphic url="/images/ANOTER_01GF.gif" />
+      </figure></p>
+    </body>
+  </text>
+</TEI>

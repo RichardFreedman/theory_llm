@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>[Versus de musica]</title>
+        <title type="abbrev">ANOVERP</title>
+        <author>Anonymous</author>
+        <date notBefore="1400" notAfter="1499">15th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Peter Slemon</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Phil Kurasz</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>2004</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Alexander Rausch, "Mensuraltraktate des Spätmittelalters in Österreichischen Bibliotheken," in 
+<emph>Quellen und Studien zur Musiktheorie des Mittelalters</emph>, vol. 3, ed. Michael Bernhard, Bayerische Akademie der Wissenschaften, Veröffentlichungen der Musikhistorischen Kommission, Band 15 (Munich: Bayerische Akademie der Wissenschaften; C. H. Beck, 2001), 284–91. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: Versus de musica</title>
+          
+<idno type="LML">VERS. Iam post</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">A-KR Cod. 312, 207v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">A-M Cod. 950, 205-208v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">A-MB Man. cart. 95, 150-153r</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-B Mus. ms. theor. 1590, 87r-v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">PL-Wn BOZ 61, 293r-v (Extraits)</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANOVERP0001">
+      <pb n="[284]" />Versus de musica anonymi Pragensis (VERS. Iam post)</p>
+      <p id="ANOVERP0002">Iam post has normas mensurati volo cantus
+      <lb />Tradere doctrinas, per quas cantare valebis
+      <br />Immensuratum mensuratum quoque cantum.
+      <lb />Isti funguntur specialibus ambo figuris,
+      <br />Cantus mensure fungitur sed pluribus illo.
+      <lb />Immensuratus cantus planus vocitatur,
+      <br />Eo quod nulla fruitur penitus ratione
+      <lb />Nec a cantore mensurari bene possit.</p>
+      <p id="ANOVERP0003">Tempore mensuro cantum quemcumque videbo,
+      <br />Quem concipere quis fueris forte figuris.
+      <lb />Ecce figura brevis [B], erit altera longa figura [L];
+      <br />Ambe quadrantur, sed filo longa notata
+      <lb />A dextris velut hic [L,Bcsdx], filatur curta sinistris,
+      <br />Ut patet hic [Bcdsn,Bcssn], vel fit brevis hec omni sine filo,
+      <lb />Ut patet hic [B]. Tempus duplex tantum reperitur.
+      <br />Est imperfectum, perfectum sit quoque tempus.
+      <lb />Tempore perfecto curtas tres longa valebit [L,B,B,B].
+      <br />Ast imperfecto retinet tantummodo binas [L,B,B].
+      <lb />Si duplicas, signum duplex apponitur ei,
+      <br />Et recipit nomen, quod duplex longa vocatur [2L].
+      <lb />Omnis quadrata (brevis est prius illa vocata)
+      <br />Tempore quocumque semper tempus valet unum.
+      <lb />
+      <pb n="[285]" />Tempore perfecto valet hec sed semibreves tres [B,S,S,S],
+      <br />Et valet ipsa duas, imperfectum fuerit si [B,S,S].
+      <lb />Istam semibrevem [S] omnis vocitat geometer
+      <br />Elimachim; sursum si tu filabis eandem,
+      <lb />Dicetur minima [M]; perfectam semibrevem sed
+      <br />Tres minime faciunt [M,M,M,S], imperfectam nisi bine [M,M,S].
+      <lb />Si minimam cernes, fueritque superius uncus,
+      <br />Fit semiminima, velut hic patet [A], et nisi bine
+      <lb />Persolvunt minimam [A,A,M]; Lambardi semibrevem sed
+      <br />Sepius inferius filant [Scd], valet illaque tempus.
+      <lb />Ordo figurarum est simplicium manifestus.</p>
+      <p id="ANOVERP0004">Multotiens cantor, si tempus non bene pensat,
+      <br />Decipitur, quia sicut hic duplex sibi tempus [S,S,S,S,S,]
+      <lb />Constat, sic fiet duplex prolatio harum.
+      <br />Est maior prima, minor altera sed vocitata.
+      <lb />Tempus perfectum maioris semibreves tres [S,S,S]
+      <br />Persolvit, sed semibrevis quevis minimas tres [M,M,M].
+      <lb />Perfectum tempus fuerit si forte minoris,
+      <br />Non plus persolvet nisi tantum semibreves tres [S,S,S],
+      <lb />Semibrevis quevis solvit minimas nisi binas [M,M].
+      <br />Temporis imperfecti, sed prolacio maior,
+      <lb />Semibreves binas valet [S,S,] et quevis minimas tres [M,M,M].
+      <br />Dumtaxat minor imperfecti temporis solvit
+      <lb />Semibreves binas [S,S], quevis duas minimas vult [M,M].</p>
+      <p id="ANOVERP0005">
+      <pb n="[286]" />Virtus euphonica vagans imperficiatur.
+      <br />Ornat enim modulos concordes temporis omnis
+      <lb />Mensure; cantum tu sic imperfice quemque.
+      <br />Per quartam partem manet imperfecta figura;
+      <lb />Hanc imperficere poterit post quisque vel ante
+      <br />Per minimam primam vel postremam. Brevis omnis
+      <lb />En imperficitur velut hic stat [B,M,M,B], semibrevisque
+      <br />Per semiminimam, hoc exemplum tibi sume [S,A,A,S].
+      <lb />In gemino numero plures quo utuntur illo,
+      <br />Non imperficiunt, ut ego fit id absque ratione.
+      <lb />Dicunt cuncta brevis imperficit tibi longam [L,B,pt,B,L],
+      <br />Semibrevisque brevem [B,S], semibrevis ex minima [S,M], sed
+      <lb />Per semiminimam imperficiunt minimamque [M,A].
+      <br />Astruit hoc nullus, recte si quis speculetur.</p>
+      <p id="ANOVERP0006">In cantu mensurato duplex modus esse videtur.
+      <lb />Scitur perfectus modus unus, fit modus alter
+      <br />Ast imperfectus. Primus tria tempora poscit,
+      <lb />Imperfecta sive perfecta capit modus alter;
+      <br />Imperfecta duo perfectave tempora tantum.</p>
+      <p id="ANOVERP0007">Sed quia dulce melos sine limatibus nequit esse,
+      <lb />Illa carent signis specialibus; ergo carentes
+      <br />Ne simus, duo b semper supplere videntur
+      <lb />Limma; quod [sqb] quadram signat vel quod b rotundum,
+      <br />Concipias mente, quibus utere, cum petis illa.
+      <lb />
+      <pb n="[287]" />Ut breviter liqueat, exemplum suscipe solum.
+      <br />Multotiens petit semitonia vox rutilare,
+      <lb />Tantum scandenti tu signabis b rotundum.
+      <br />Sed descendenti [sqb] quadrum signare memento.
+      <lb />Hoc quocumque tono cantus si limata poscit,
+      <br />Exemplo posito signabis, non alieno.</p>
+      <p id="ANOVERP0008">Signorum ponam coniuncturas tibi quasdam,
+      <lb />Sed sunt discordes Lambardi Francigeneque,
+      <br />Sic alie terre non consentire videntur.
+      <lb />Eliciam nucleum pro posse meo meliorem.
+      <br />Dupliciter vocum cunctarum signa ligantur,
+      <lb />Aut ascendendo vel descendendo ligantur.
+      <br />Taliter ascendunt [Lig3aa], descendunt taliter signa [Lig3dd].
+      <lb />Si fuerint prima filo scandente, valebunt
+      <br />Unum tempus utreque, velut hic patet manifeste [Lig2cssnd,Lig2cssna,Lig2cssnoa,Lig2cssnod].
+      <lb />Filo si caret, quevis tempus vocitatur [Lig2a,Lig2oa].
+      <br />Si quadrata caret filo, mox altera iuncta
+      <lb />Illi directe fit, et hec perpendicularis;
+      <br />Tempus prima valet, duo sed perpendicularis [Lig2art].
+      <lb />Et descendentes fuerint si forte ligate,
+      <br />Quadrate bine iuncte filisque carentes
+      <lb />
+      <pb n="[288]" />Tempore perfecto, quevis tria tempora solvit [Lig2d,Lig2od].
+      <br />At imperfecto duo tempora queque habebit.
+      <lb />Hic valor in istis scitur tantummodo signis,
+      <br />Plures si fuerint, numquam valor iste manebit.
+      <lb />Quadrate bine tantum filo redimite
+      <br />Ac ascendente persolvunt tempus utreque.
+      <lb />Si tempus fuerit imperfectum, valet autem
+      <br />Semibrevem prima, valet altera non nisi binas
+      <lb />Tempore perfecto, quod in exemplo patet isto [Lig2cssnd,Lig2cssnod,Lig2cssna,Lig2cssnoa].
+      <br />Semibreves plures non iunguntur nisi bine [S,S,S,S,S,S].
+      <lb />Addita si tercia, perfectam tempus habebis [S,S,S,S,S,S,S,S,S,S,S,S].
+      <br />Si plures iuncte fuerint, tempus valet unum
+      <lb />Quelibet, et filum descendens parte sinistra
+      <br />Si tenet; excepta postrema: duo valebit,
+      <lb />Hoc si descendit [Lig3cdsndd]; sed si fors scanderit illa,
+      <br />Solum vult tempus, velut exemplum probat istud [Lig4cdsndda].
+      <lb />Si descendendo sine tractu plura ligantur,
+      <br />Quorum postremum scandit, duo tempora primum
+      <lb />Solvit, sed quodvis aliorum non nisi tempus.
+      <br />
+      <pb n="[289]" />Hoc probat exemplum, bene si perspexeris illud [Lig4dda].
+      <lb />Si fuerit tractus scandens ex parte sinistra,
+      <br />Unum vult tempus dumtaxat tota figura [Lig2cssnoa,Lig2cssnod].
+      <lb />Sed si descendens fuerit, quevis valet unum [Lig2cdsnod,Lig2cdsnoa].
+      <br />Si caret hec filo, tria tempora prima valebit
+      <lb />Tempore perfecto, tempus tenet infima solum;
+      <br />In non perfecto duo tempora prima valebit,
+      <lb />Infima dumtaxat solum tempus retinebit.
+      <br />Huius in exemplum postscriptam tene figuram [Lig2od].</p>
+      <p id="ANOVERP0009">In cantu plano non accipitur valor iste,
+      <lb />Quamvis iuncture cernantur ut hic sine filo [Lig5aaaod].
+      <br />Non tamen ista magis valet illa, sed decor illis,
+      <lb />Si sic filantur plures aut forte ligantur [Lig5cssnaaaod].</p>
+      <p id="ANOVERP0010">Cogit debilitas cantum non continuare
+      <br />Nature, quare cantor pausare iubetur
+      <lb />Tantum mensura, quantum canit ille sonorus.
+      <br />Pause cognicio per fila datur, quia filum
+      <lb />Omnia si spacia transcendit ac lineas, tunc
+      <br />Hoc filum pausam mox significat generalem.
+      <lb />Bis binas tegens lineas tria tempora signat.
+      <br />Et tres dumtaxat tegens duo tempora poscit.
+      <lb />At binas tegens solum tempus representat.
+      <br />A linea bine spacium tangentesque deorsum,
+      <lb />Signant semibreves perfecti temporis pausas.
+      <br />
+      <pb n="[290]" />A linea tantum spacium tangensque deorsum
+      <lb />Signat semibrevis imperfecti tibi pausam.
+      <br />Oppositum prime pause minimarum tibi fiunt
+      <lb />Maioris prolacionis, quia secunda minoris
+      <br />Aut suspiramen tibi idem representabit.
+      <lb />Si videas filum protensum sine lineis sic: |,
+      <br />Pausa semibrevis fit, perfecte quoque figure.
+      <lb />Ut patent exempla tibi per sequentia fila,
+      <br />Cerne bono studio, quia pausa valet quasi cantus.</p>
+      <p id="ANOVERP0011">[Anonymous, Versus, 290; text: tria tempora modi perfecti, modi imperfecti, due semibreves perfecti temporis, semibrevis imperfecti temporis, due minime maioris prolacionis, minima minoris prolacionis, semibrevis prefecta trium minimarum, pausa generalis, secundo tempora, unum tempus] 
+      <figure>
+        <graphic url="/images/ANOVERP_01GF.gif" />
+      </figure></p>
+      <p id="ANOVERP0012">Est quoddam signum, per quod perfectio scitur,
+      <lb />[O] si perfectum videris, tunc creditor esse
+      <br />Cantos perfectus; si semicirculus extat [Cd],
+      <lb />Temporis imperfecti cantus creditur esse.</p>
+      <p id="ANOVERP0013">Ad laudem Dei Margaretheque Marie,
+      <br />Que tibi composui magnoque labore peregi,
+      <lb />Accipe dignanter, Servati, simul gratulanter.
+      <br />
+      <pb n="[291]" />Vernanti studio propinans pande Pragensi,
+      <lb />Pande tuis sociis, quia non nimis est puerilis
+      <br />Hic flos pervisi campi, pro quo rogitasti.
+      <lb />Emulus ex studio ne surgat corde honestus,
+      <br />Ascribens sibi meque negans dicam facientem
+      <lb />Nomen fingentis: nosces primis elementis.
+      <br />Post numerum mille c ter sexagintaque nono,
+      <lb />Fortis in adventu Domini, quando Gabrielis
+      <br />Verbum cantatur, est inceptus liber iste.
+      <lb />Cum fuit affata predulcis virgo Maria
+      <br />Precedente die completus erat; tibi Christe
+      <lb />Grates reddo, quia sum adiutus matre Maria.</p>
+    </body>
+  </text>
+</TEI>

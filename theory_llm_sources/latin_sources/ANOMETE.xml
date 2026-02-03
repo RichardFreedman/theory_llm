@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Metrologus liber</title>
+        <title type="abbrev">ANOMETE</title>
+        <author>Anonymous</author>
+        <date notBefore="1300" notAfter="1399">14th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Peter M. Lefferts</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Peter Slemon</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>2001</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>Expositiones in Micrologum Guidonis Aretini</emph>, ed. Joseph Smits van Waesberghe, Musicologica medii aevi, vol. 1 (Amsterdam: North-Holland Publishing Company, 1957), 67–92.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: Metrologus</title>
+          
+<idno type="LML">METROL.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">GB-Lbl Add. 8866, 64 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Lbl Arundel 130, 100-118</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Lbl Lansdowne 763, 61-68v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-LI 229, 128v-132</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-NH Fitzwilliam (Milton) Irish MS 71, 1r-v (Fragment)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ob Bodley 515, 78-87</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat Reg. lat. 1146, 67-70v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Sc L.V.30, 121-127</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANOMETE0001">
+      <pb n="[67]" />METROLOGUS</p>
+      <p id="ANOMETE0002">In nomine sanctae et individuae Trinitatis incipit Metrologus liber de plana Musica, id est Brevis Sermo. Quid est musica? Musica est peritia modulationis sono cantuque consistens, et est dicta musica per derivationem a Musis secundum Isidorum Ethymologiarum.</p>
+      <p id="ANOMETE0003">De inventoribus artis musicae</p>
+      <p id="ANOMETE0004">Magister Historiarum dicit quod Thubal pater canentium cithara et organo non instrumentorum quidem quae longe post inventa sunt, sed inventor fuit musicae, id est consonantiarum. Ut labor pastoralis quasi in delicias vertetur, fratre suo itaque in arte ferraria fabricante sono malleorum delectatus, ex ponderibus eorum proportiones et consonantias, quae ex his nascuntur, diligenter facere cogitavit. Et quia audierat Adam prophetasse de duobus iudiciis, ne periret ars inventa, scripsit et sculpsit eam in duabus columnis, in qualibet totam; una marmorea, altera latericia, quarum altera non dilueretur diluvio, altera non dissolveretur incendio. Marmoriam vero dicit Josephus adhuc esse in terra Syriaca. 
+      <pb n="[68]" />Et sic maxime errant Graeci putantes Pythagoram philosophum dictae artis esse inventorem.</p>
+      <p id="ANOMETE0005">Quid prodest musica?</p>
+      <p id="ANOMETE0006">Musica secundum Isidorum Ethymologiarum movet affectus, provocat in diversum ambitum sensus; in proelio quoque tubae concentus pugnantes accendit, et quanto vehementior fuerit clangor, tanto fit ad certamen animus fortior. Ad tollerandum quoque labores musica animum mulcet, et singulorum operum fatigationem modulatio vocis solatur.</p>
+      <p id="ANOMETE0007">De tribus partibus musicae</p>
+      <p id="ANOMETE0008">Musicae partes sunt tres secundum Isidorum Ethymologiarum, harmonica, rhythmica et metrica. Harmonica est quae discernit in sonis acutum et gravem. Rhythmica est quae requirit in cursionem verborum, utrum bene sonus aut male cohaereat. Metrica est quae mensuram diversorum metrorum probabili ratione cognoscit, verbi gratia Heroicon, Jambicon et caetera, ut inferius docetur.</p>
+      <p id="ANOMETE0009">De triformi musicae divisione</p>
+      <p id="ANOMETE0010">Ad omnem autem sonum, quae materies est cantilenarum, secundum 
+      <pb n="[69]" />Isidorum Ethymologiarum, triformem consistit esse naturam. Prima est harmonica, quae ex vocum cantibus constat. Secunda organica, quae ex flatu consistit. Tertia rhythmica, quae pulsu digitorum numeros recipit. Nam aut voce editur sonus sicut per fauces, aut flatu sicut per tubam vel tibiam, aut pulsu sicut per citharam aut per quodlibet aliud quod percutiendo canorum est.</p>
+      <p id="ANOMETE0011">De Gamma</p>
+      <p id="ANOMETE0012">Notae autem vel figurae, id est litterae, in gamma secundum Guidonem de Sancto Mauro capitulo secundo hae sunt: In primis ponitur .[Gamma]. littera graeca et dicitur gamma. Deinde sequuntur septem alphabeti litterae graves ideoque maioribus litteris insignitae hoc modo: .A.B.C.D.E.F.G. Post has aliae septem litterae acutae repetuntur, sed minoribus litteris describuntur, in quibus tamen inter .a. et .c. duplicem .b. ponimus, unam quam rotundam facimus, alteram quadravimus, ita: .a.b.[sqb].c.d.e.f.g. Addimus his eisdem litteris, sed variis figuris tetrachordum superacutarum, in quo .b. similiter duplicamus ita .aa.bb.[sqb][sqb].cc.dd. Hae a multis superfluae dicuntur; nos autem maluimus superabundare quam 
+      <pb n="[70]" />deficere. Fiunt itaque simul omnes XXI; ita tamen, quod semper ponatur una figura vel littera in regula quam nos lineam vocamus, et alia in spatio; hoc modo ita etiam, quod ista littera .dd. sit ultima.</p>
+      <p id="ANOMETE0013">[Anonymous, Metrologus, 70; text: graves, [Gamma] ut per [sqb] quadratam, arsis id est elevatio, thesis id est depositio, A re, B mi, C fa ut per proprium cantum, D sol re, E la mi, F fa ut per b rotundam quam mollem vocamus, G sol re ut per [sqb] quadratam, acutae, a la mi re, b fa [sqb] mi, c sol fa ut per proprium cantum, d la sol re, e la mi, f fa ut per b rotundam quam mollem vocamus, g sol re ut per [sqb] quadratam, superacutae, aa la mi re, bb fa [sqb][sqb] mi, cc sol fa, dd la sol] 
+      <figure>
+        <graphic url="/images/ANOMETE_01GF.gif" />
+      </figure></p>
+      <p id="ANOMETE0014">
+      <pb n="[71]" />In ista figura prima .[Gamma]., id est gamma, et in istis duabus litteris .G. sol re ut gravi et .g. sol re ut acuta incipit cantus per .[sqb]. quadratam, et ab his usque ad istas tres litteras ascendit, scilicet ad .E. la mi gravem, et ad .e. la mi acutam et ad .d. la sol superacutam supradicto modo. Item in his duabus litteris .C. fa ut gravi et .c. sol fa ut acuta incipit cantus per propriam vocem, et ab his usque ad has duas litteras ascendit, scilicet ad .a. la mi re acutam et ad .a. la mi re superacutam, ut supra notatum est. Item in his duabus litteris .F. fa ut gravi et .f. fa ut acuta incipit cantus per .b. rotundam quam .[rob]. mollem vocamus, et ex istis usque ad has duas litteras ascendit, scilicet ad .d. la sol re acutam et ad .dd. la sol superacutam, sicut praenotavimus in praedicta figura. Unde versus: Ter .g.[sqb]. quarre bis .c. properchant .f. duo .b. mol.</p>
+      <p id="ANOMETE0015">De notis vel syllabis</p>
+      <p id="ANOMETE0016">Sex sunt notae vel syllabae in quibus totus cantus disponitur, scilicet Ut Re Mi Fa Sol La. Cumque tam paucis notis vel syllabis tota harmonia formetur, utillimum est altae eas memoriae commendare.</p>
+      <p id="ANOMETE0017">
+      <pb n="[72]" />De clavibus</p>
+      <p id="ANOMETE0018">Ubicumque invenitur in aliqua linea, id est regula, talis figura D, ipsa tota linea erit .D. sol re. Et si sequatur in ipsa linea talis figura F vel talis f, tunc deinceps non erit .D. sol re linea praedicta, sed .F. fa ut. Et si in aliqua linea formaretur talis figura c, tota ipsa linea erit .c. sol fa ut. Et si sequatur in ipsa linea talis figura g, tunc deinceps non erit .c. sol fa ut ista linea praedicta, sed .g. sol re ut. Quandocumque invenitur in aliquo spatio talis figura b, totum ipsum spatium erit .b. fa .[sqb]. mi et cantetur per .[rob]. mollem. Et si sequatur in eodem spatio talis figura [sqb], etiam erit .b. fa .[sqb]. mi, sed cantetur per .[sqb]. quadratam. Si autem in aliqua linea invenitur talis figura B, tota ipsa linea erit .b. fa .[sqb]. mi superacuta et cantetur per .[rob]. mollem. Et si invenitur in aliqua linea talis figura [sqb][sqb], tunc etiam erit ipsa linea .b. fa .[sqb]. mi superacuta et cantetur per .[sqb]. quadratam.</p>
+      <p id="ANOMETE0019">De consonantiis</p>
+      <p id="ANOMETE0020">Dispositis itaque vocibus inter vocem et vocem alias maius, alias 
+      <pb n="[73]" />minus spatium cernitur secundum Guidonem de Sancto Mauro capitulo quarto, ut tonus, semitonus, ditonus, semiditonus, diatessaron, diapente, tonus cum diapente, semitonus cum diapente, semiditonus cum diapente et diapason.</p>
+      <p id="ANOMETE0021">De tono</p>
+      <p id="ANOMETE0022">Tonus est quaedam vox bene et regulariter sonans, ita, ut habeat naturaliter ascensum et descensum, ut inter .[Gamma]. et .A. re, et inter .A. re et .B. mi, et inter .C. fa ut et .D. sol re et inter .D. sol re et .E. la mi, et inter .F. fa ut et .G. sol re ut graves; et inter .G. sol re ut et .a. la mi re, et inter .a. la mi re et .[sqb]. quadratam, id est .b. fa .[sqb]. mi, et inter .[rob]. rotundam et .c. sol fa ut, et inter .c. sol fa ut et .d. la sol re, et inter .d. la sol re et .e. la mi, et inter .f. fa ut et .g. sol re ut acutas; et inter .g. sol re ut et .aa. la mi re, et inter .aa. la mi re et .[sqb][sqb]. quadratam, id est .b. fa .[sqb]. mi, et inter .[rob]. rotundam et .cc. sol fa, et inter .cc. sol fa et .dd. la sol superacutas.</p>
+      <p id="ANOMETE0023">De semitono</p>
+      <p id="ANOMETE0024">Semitonus est quaedam vox, quae minorem et molliorem sonum reddit, sicut mi-fa, fa-mi, videlicet inter .B. mi et .C. fa ut, et inter .E. la mi et .F. fa ut graves; et inter .a. la mi re et .[rob]. rotundam, id est .b. fa .[sqb]. mi acutas, et inter .[sqb]. quadratam et .c. sol fa ut acutas, et inter .e. la 
+      <pb n="[74]" />mi et .f. fa ut acutas; et inter .aa. la mi re et .[rob][rob]. mollem, id est .b. fa .[sqb]. mi superacutas, et inter .[sqb][sqb]. quadratam et .cc. sol fa superacutas tantum. Nam inter alias figuras vel litteras non semitonus sed plenus tonus cernitur, sicut iam praenotatum est, et sic maxime errant qui in plana musica faciunt semitonum, ubi plenus tonus haberetur.</p>
+      <p id="ANOMETE0025">De semiditono</p>
+      <p id="ANOMETE0026">Semiditonus est quaedam vox, quae habet in se tonum et semitonum, et molliorem sonum reddit quam illa quae duos plenos tonos habet, sicut re-fa, fa-re, mi-sol, sol-mi, tam in gravibus quam in acutis et superacutis.</p>
+      <p id="ANOMETE0027">De ditono</p>
+      <p id="ANOMETE0028">Ditonus est quaedam vox, quae habet in se duos plenos tonos, et maiorem sonum reddit tam in elevatione quam in reflexione, sicut ut-mi, mi-ut, fa-la, la-fa, tam in gravibus quam in acutis et superacutis.</p>
+      <p id="ANOMETE0029">De diatessaron</p>
+      <p id="ANOMETE0030">Diatessaron est quaedam vox, quae habet in se duos plenos tonos et dimidium, id est semitonum, sicut ut-fa, fa-ut, re-sol, sol-re, mi-la, la-mi, tam in gravibus quam in acutis et superacutis.</p>
+      <p id="ANOMETE0031">De diapente</p>
+      <p id="ANOMETE0032">Diapente est quaedam vox, quae habet in se tres plenos tonos et 
+      <pb n="[75]" />dimidium, id est semitonum, sicut ut-sol, sol-ut, re-la, la-re, mi-mi, mi-mi, fa-fa, fa-fa, tam in gravibus quam in acutis et superacutis.</p>
+      <p id="ANOMETE0033">Habes itaque sex vocum consonantias, id est tonum, semitonum, semiditonum, ditonum, diatessaron et diapente. In nullo enim cantu aliis modis vox voci coniungitur, vel intendendo vel remittendo. Cumque tam paucis clausulis tota harmonia formetur, utillimum est altae eas memoriae commendare, et devote (lege donac) plene in canendo sentiantur et cognoscantur, ab excercitio numquam necessariae (lege cessare), ut his velut clavibus habitis canendi possis peritiam sagaciter ideoque facile possidere.</p>
+      <p id="ANOMETE0034">De tono cum diapente</p>
+      <p id="ANOMETE0035">Tonus cum diapente est quaedam vox, quae habet in se quattuor tonos et dimidium, sicut ut-la, la-ut et in consimilibus tam in gravibus quam in acutis et superacutis.</p>
+      <p id="ANOMETE0036">De semitono cum diapente</p>
+      <p id="ANOMETE0037">Semitonus cum diapente est quaedam vox, quae habet in se tres tonos et duos semitonos, ut ab .E. la mi gravi in .c. sol fa ut, et in consimilibus ubicumque canitur.</p>
+      <p id="ANOMETE0038">De semiditono cum diapente</p>
+      <p id="ANOMETE0039">Semiditonus cum diapente est quaedam vox, quae habet in se 
+      <pb n="[76]" />quattuor tonos et duos semitonos, ut a .D. sol re in .c. sol fa ut, et in consimilibus ubicumque canitur.</p>
+      <p id="ANOMETE0040">De diapason</p>
+      <p id="ANOMETE0041">Diapason autem est in qua diatessaron et diapente iunguntur; cum enim ab .A. re in .D. sol re gravem sit diatessaron, et ab eadem .D. sol re in .a. la mi re acutam sit diapente, tunc ab .A. re gravi in .a. la mi re acutam diapason consistit. Cuius vis est eandem litteram utroque habere latere, ut a .B. mi gravi in [sqb] quadratam, id est .b. fa .[sqb]. mi acutam, et a .C. fa ut in .c. sol fa ut, et a .D. sol re in .d. la sol re, et reliquae. Sicut enim utraque vox eadem littera notatur, ita per omnia eiusdem qualitatis perfectissimaeque similitudinis utraque habetur et creditur. Nam sicut finitis septem diebus eosdem repetimus, ut semper primum et octavum eundem dicamus.</p>
+      <p id="ANOMETE0042">De interpretatione tonorum</p>
+      <p id="ANOMETE0043">Tonus autem a tonando, id est sonando, nomen accepit. Semitonus a semis, id est non plenus tonus. Ditonus id est duo toni. Diatessaron sonat de quattuor, nam et quattuor habet voces. Diapente dicitur de quinque; sunt enim in eius spatio quinque voces. Diapason autem interpretatur de omnibus, sive quod omnes habeat voces.</p>
+      <p id="ANOMETE0044">
+      <pb n="[77]" />De modis et tropis vel sonis</p>
+      <p id="ANOMETE0045">Hi sunt quattuor modi vel tropi, quos abusive tonos nominant secundum Guidonem de Sancto Mauro capitulo decimo. Qui sic sunt ab invicem naturali diversitate disiuncti, ut alter alteri in sua sede locum non tribuat, alterque alterius neumam aut transformet aut numquam recipiat. Hos autem modos vel tropos graece nominamus prothum, deuterum, tritum, tetrardum.</p>
+      <p id="ANOMETE0046">Quae vox et quare in cantu obtineat principatum</p>
+      <p id="ANOMETE0047">Cum aliquem cantare audivimus, secundum Guidonem de Sancto Mauro capitulo undecimo, primam eius vocem cuius modi sit, ignoramus, quia quemadmodum aut toni aut semitoni vel reliquae species sequantur, nescimus. Finito vero cantu ultimae vocis modum ex praeteritis aperte cognoscimus. Incepto enim cantu, quid sequitur, ignoramus; finito enim quid praecesserit, videmus. Itaque finalis vox est quam mediis (lege melius) intuemur. Deinde si eidem cantui versum aut psalmum aut aliquid velis subiungere, ad finalem vocem maxime opus est coaptare, non aliud (lege ad) primae vel aliarum adeo inspectionem redire. Additur quoque et illud quod acuratissimi cantus in finalem vocem maxime distinctiones mittunt.</p>
+      <p id="ANOMETE0048">
+      <pb n="[78]" />Nec mirum regulas musicae (lege musicam) a finali voce sumere, cum in grammaticae partibus pene ubique vim sensus in ultimis litteris vel syllabis per casus, numeros, personas et tempora discernimus. Igitur quia et omnis laus in fine canitur, iure dicamus, quia omnis cantus eius (lege ei) modo sit subiectus et ab eo modo regulam sumat, quem ultimum sonat. A finali itaque voce ad quintam in quolibet cantu ex praedictis quattuor modis iusta est depositio, et usque ad octavas et decimas elevatio, licet contra hanc regulam saepe fiat, cum ad decimam ne (lege nonam decimamve) progrediamur vocem. Unde et finales voces statuerunt scilicet .D. sol re, .E. la mi, .F. fa ut et .G. sol re ut graves.</p>
+      <p id="ANOMETE0049">De divisione quattuor modorum in octo secundum Guidonem de Sancto Mauro</p>
+      <p id="ANOMETE0050">Interea cum cantus unius modi, utpote prothi, ad comparationem finis tum sint graves et plani, tum acuti et alti, versus et psalmi et si quid, ut diximus, fini aptandum erat uno eodemque modo prolatum, diversis aptari non poterat. Quod enim subiungebatur si erat grave, cum acutis non conveniebat; si erat acutum a gravibus discordabat. Consilium itaque fuit ut quisque modus partiretur in duos, id est acutum et gravem, distributisque regulis acuta acutis et gravia convenirent gravibus. Et 
+      <pb n="[79]" />acutus quisque modus diceretur autenticus, id est auctoralis et princeps; graves autem plagi vocarentur, id est collaterales et minores.</p>
+      <p id="ANOMETE0051">Cum ergo dicatur autentus protus et plagis proti et similiter de reliquis, naturaliter qui in vocibus quattuor erant, in cantibus facti sunt octo. Abusio autem tradidit latinis dicere pro autentico proto et plaga proti, primus et secundus; pro autentico deutero et plaga deuteri, tertius et quartus; pro autentico trito et plaga triti, quintus et sextus; pro autentico tetrardo et plaga tetrardi, septimus et octavus.</p>
+      <p id="ANOMETE0052">De octo modorum agnitione et acumine et gravitate</p>
+      <p id="ANOMETE0053">Igitur octo sunt modi, ut octo partes orationis et octo formae beatitudinis, secundum Guidonem de Sancto Mauro capitulo tertio decimo, per quos omnis cantilena discurrens octo dissimilibus vocibus et qualitatibus variatur. Ad quos in cantibus discernendos etiam quaedam neumae inventae sunt, ex quarum aptitudine ita modum cantionis agnoscimus, sicut saepe ex aptitudine corporis cuius sit tunica, reperimus. Praeterea primus, tertius, quintus et septimus modus elevationem habent a suis finalibus litteris usque ad octavam vocem et aliquando ad nonam et aliquando ad decimam auctoritate psalmistae qui ait: in psalterio decacordo psallite illi. Secundus 
+      <pb n="[80]" />vero modus habet elevationem a sua finali littera usque ad .a. la mi re acutam, et aliquando usque ad .[rob]. rotundam regulariter, scilicet in antiphonis cantandis vel responsoriis, aliquando usque ad .c. sol fa ut, tamen irregulariter. In gradualibus vero cum suis versibus et in sequentiis aliquando, sed raro, usque ad .d. la sol re et .e. la mi acutas ut in graduali "Universi qui te expectant", et in graduali "Benedicta venerabilis" et in consimilibus, tamen irregulariter. Quartus autem et sextus modus habent elevationes a suis finalibus litteris, usque ad quintam vocem, et aliquando ad sextam, et aliquando sed raro ad septimam, ut in officiis et in offertoriis cantandis. Octavus vero modus habet elevationem a sua finali littera usque ad quintam vocem, et aliquando ad sextam regulariter, et aliquando ad octavam vocem, scilicet ad litteram consimilem, id est .g. sol re ut acutam, quae est diapason, tamen irregulariter, sed propter dulcedinem cantus.</p>
+      <p id="ANOMETE0054">Praeterea primus tonus potest descendere sub sua finali littera regulariter usque ad secundam vocem, irregulariter vero usque ad tertiam et quartam vocem. Tertius vero tonus usque ad .C. fa ut, et quintus modus usque in semitonum et aliquando ad quartam vocem; septimus vero tonus ad secundam vocem, et aliquando ad quartam. Secundus autem et sextus modus possunt descendere sub finalibus litteris usque ad quartam vocem. Quartus enim modus usque ad quartam vocem tantum, nisi in sequentia "Fulgens praeclara", quae descendit et ascendit 
+      <pb n="[81]" />irregulariter. Octavus vero modus usque ad quartam vocem regulariter, irregulariter vero ad quintam et aliquando ad sextam, sed raro, vel ad septimam; et hoc praecipue in prosis et sequentiis ad missam, ut in "Christi hodierna" et "Alle celeste" et "Ad celebres" et "Christo inclita candida" et in consimilibus. Nam quando desinit cantus octavi toni in .d. la sol re, tunc potest descendere ad .F. fa ut vel .E. la mi graves. Et si vox aliquo modo, id est tono, supra notato inferius descenderit vel superius ascenderit quam supra diximus, tunc falsus erit cantus. Plagae vero et autentici proti, deuteri, triti et tetrardi aliquando in .a. la mi re et .b. fa .[sqb]. mi, .c. sol fa ut, .d. la sol re et .g. sol re ut acutas ut necessario finiuntur, causa toni vel semitoni.</p>
+      <p id="ANOMETE0055">Supradictae regulae permaxime caventur in antiphonis et responsoriis, ut cantus psalmis et versibus coaptentur, oportet ut communibus regulis fulciantur. Alioquin plures cantus invenies, in quibus adeo confunditur gravitas et acumen, ut non possit adverti cui magis, id est autentico aut plagae conferantur. Praeterea et in ignotorum cantuum inquisitione plurimum adiuvamur cum talium aptitudine soni cuiusque proprietatem per vim tropicam intuemur. Est autem tropus species cantionis qui et modus dictus est, et adhuc de eo dicendum est.</p>
+      <p id="ANOMETE0056">
+      <pb n="[82]" />De tropis et vi musicae secundum Guidonem de Sancto Mauro</p>
+      <p id="ANOMETE0057">Horum quidem troporum excercitati ita proprietates et discretas ut ita dicam, facies extemplo ut audierint, recognoscunt, sicut peritus gentium coram positis multis habitus eorum intueri potest et dicere: hic Graecus est, ille Hispanus, ille Teutonicus, ille vero Gallus. Atque ita diversitas troporum diversitati mentium coaptatur ut unus autenti deuteri fractis saltibus delectatur, alius plagis triti eligat voluntatem (lege voluptatem), uni autentici tetrardi garrulitas magis placet, iter (lege alter) eiusdem plagae suavitatem probat, et sic de reliquis.</p>
+      <p id="ANOMETE0058">Nec mirum si varietate sonorum delectatur auditus, cum varietate colorum gratuletur visus, varietate odorum foveatur olfactus, mutatisque saporibus lingua congaudeat. Sic enim per fenestras corporis habilium rerum suavitas intrat mirabiliter penetralia cordis; inde est quod sicut quibusdam saporibus et odoribus vel etiam colorum intuitu similiter auditu sonorum salus tam cordis quam corporis vel minuitur vel augescit. Ita quondam legitur quidam phreneticus canente Asclepiade medico ab insania revocatus. Et item alius quidam sonitu citharae in tantam libidinem 
+      <pb n="[83]" />incitatus, ut cubiculum puellae quaereret effringere dementatus, moxque citharaedo mutante modum voluptatis poenitentia ductum recessisse confusum. Item et David Saulem daemonium cithara mitigabat et daemoniacam feritatem huius artis potenti vi ac suavitate frangebat. Quae tamen solum vis divinae sapientiae ad plenum patet, nos vero quae in aenigmate sunt ab inde percepimus. Sed quia de artis virtute vix pauca libavimus, quibus ad bene modulandum rebus opus sit videamus.</p>
+      <p id="ANOMETE0059">De commoda vel componenda modulatione secundum Guidonem de Sancto Mauro</p>
+      <p id="ANOMETE0060">Igitur quemadmodum in metris sunt litterae et syllabae, partes et pedes ac versus, ita in harmonia sunt phtongi id est voces vel soni, quorum unus, duo vel tres aptantur in syllabas; ipsaeque solae vel duplicatae neumam vel partem constituunt cantilenae; et pars una vel plures distinctionem faciunt, id est congruum respirationis locum. De quibus illud est notandum, quod tota pars compresse et notanda et exprimenda est, syllaba vero compressius. Tenor vero, id est mora ultimae vocis, qui in syllaba quantuluscunque est, in parte amplior, diutissimus vero in distinctione, signum in his divisionis existit. Sicque opus est, ut quasi metricis pedibus cantilena plaudatur.</p>
+      <p id="ANOMETE0061">
+      <pb n="[84]" />Praeponatque sibi musicus quibus ex his divisionibus incedentem faciat cantum, sicut metricus quibus faciat pedibus versum, nisi quod musicus non se tanta legis necessitate constringat, quia in omnibus se haec ars in vocum dispositione rationabili varietate per multas (lege permutat). Quam rationabilitatem etsi non comprehendamus, rationabile tamen est id quo mens, in qua est ratio, delectatur. Sed haec et huiusmodi melius colloquendo quam in scribendo monstrantur.</p>
+      <p id="ANOMETE0062">Item more versuum distinctiones aequales sunt et aliquotiens eaedem repetitae aut aliqua vel parva mutatione varietate (lege variatae), et cum per plures (lege pulchrae) fuerint duplicatae, habentes partes non nimis diversas, et quae aliquotiens eaedem transformentur per modos, id est tonos, aut similes intentae et remissae inveniantur.</p>
+      <p id="ANOMETE0063">Item ut reciprocata neuma eadem via qua venerat, redeat, ac per eadem vestigia.</p>
+      <p id="ANOMETE0064">Item ut qualem ambitum vel lineam una facit saliendo ab acutis, talem altera inclinata e regione opponat respondendo a gravibus, sicut fit cum in puteo nos imaginem nostram contra expectamus.</p>
+      <p id="ANOMETE0065">Item aliquando una syllaba unam vel plures habeat neumas; aliquando 
+      <pb n="[85]" />una neuma plures dividatur in syllabas. Variabuntur hae vel omnes neumae, cum alias ab eadem voce reincipient, alias a dissimili secundum laxationis et acuminis varias qualitates.</p>
+      <p id="ANOMETE0066">Item ut ad principalem vocem, id est finalem, vel si quam affinem eius pro ipsa elegerint, pene omnis distinctiones currant, ut (lege et) eadem aliquando sicut et vox et in has (lege neumas) omnes aut perplures distinctiones finiat, aliquando et incipiat, qualia apud Ambrosium si curiosus sis, invenire licebit. Sunt vero quasi prosaici cantus, qui hoc minus observant, in quibus non est curae, si aliae maiores, aliae minores partes et distinctiones per loca sine discretione vel separatione inveniantur more prosarum, id est sequentiarum.</p>
+      <p id="ANOMETE0067">Metricos autem dico cantus, quia saepe ita canimus, ut quasi versus pedibus scandere videamur, sicut fit, cum ipsa metra canimus in quibus cavendum est, ne superfluae continuentur neumae dissyllabae, sine admixtione trisyllabarum atque tetrasyllabarum. Sicnut enim lyrici poetae nunc hos nunc alios iunxere pedes, ita et qui cantum faciunt, rationabiliter diversas ac discretas neumas componant. Rationabilis vero discretio est, si ita fit neumarum et distinctionum moderata varietas, ut cum (lege tamen) neumae neumis et distinctiones distinctionibus quadam semper similitudine sibi consonanter respondeant, vel (lege id est) sit similitudo 
+      <pb n="[86]" />dissimilis, more praedulcis Ambrosii. Non autem parva similitudo est metris et cantibus, cum et neumae loco sint pedum et distinctiones loco sint versuum, utpote ista neuma dactilico, illa vero spondaico, alia iambico more decurrit, et distinctionem nunc tetrametram, nunc pentametram, alias quasi hexametram cernas, et multa alia ad hunc modum.</p>
+      <p id="ANOMETE0068">Dactilus unam habet longam et duas breves sequentes hoc modo: [L,S,S] vel [L,S,S,L,S,S] Spondaici hoc modo figurantur: [L,L,L,L] Gemina vel dupla sic figurantur: [Lig2art,Lig2cdsnd,Lig2cdsnd] Pentametrum sic: [Lig4aodart,S,S] Anapestus hoc est repercussio figuratur sic: [Lig3cdsnoda] vel sic: [Lig4aodart] 
+      <pb n="[87]" />Trimetrum vel tetrametrum vel trochaeus. Trochaeus vero dictus est ab eo quod celerem conversionem facit cantilenae ut hic: [rob,Lig2art,L,S,S,S] vel sic: [Lig2art,S,S,S,L,S,S] Tribrachus dictus est ex tribus brevibus ut hic: [Lig3ad] vel sic: [Lig3ad] Figura vero molosi, qui dictus est a saltatione, hoc modo: [Lig2a] Idem est quod sic: [Lig2art,L] Fictulos hoc modo facimus sic: [L,Lig3cdsndart] Ternarios facimus hoc modo: [Lig2art,L,B,Lig2art,Lig2art,L,L,Lig2art] Triplum dictum est, quia maior pars continet ter totum unius id est tria et unum ut hic: [L,S,S,S] Hexametri vel epitriti vocati quod semper tres longas habent et 
+      <pb n="[88]" />unam brevem hoc modo: [L,L,Lig2cdsnd] Licet enim longas et breves nominemus, non sic tenentur in plana musica sicut et in organo, sed omnes notae praeter pausationes aequaliter cantentur; ad nil enim deserviunt nisi tantum ad ornamentum</p>
+      <p id="ANOMETE0069">Item ut in unum terminentur partes et distinctiones neumarum atque verborum, nec tenor longus in quibusdam brevibus syllabis aut brevis in longis obscoenitatem paret, quod tamen raro opus erit curare propter barbarismum, nam in cantu saepe oportet barbarizare.</p>
+      <p id="ANOMETE0070">Barbarismus autem fit scripto et pronuntiatione. Scripto quattuor modis: si quis in verbo litteram vel syllabam adiiciat, mutet, transmutet vel minuat. Pronuntiatione vero fit in temporibus et tonis; per tempora quippe fit barbarismus si pro longa syllaba brevis ponatur aut pro brevi longa, sicut iam supra diximus per tonos plagas proti, si accentus in aliam syllabam commutetur.</p>
+      <p id="ANOMETE0071">Item ut rerum eventus sic cantionibus imitetur effectus, ut in tristibus rebus graves sint neumae, in tranquillis iucundae, in prosperis exultantes et reliqua.</p>
+      <p id="ANOMETE0072">
+      <pb n="[89]" />Item saepe vocibus gravem et acutum(adde accentum) superponimus, quia saepe aut maiori impulsu aut minori efferimus, adeo ut eiusdem saepe vocis repetitio elevatio vel depositio esse videatur.</p>
+      <p id="ANOMETE0073">Item in modum currentis equi, id est velocis capilli, semper in fine (lege finem) distinctionum rarius voces ad locum respirationis accedant, et (lege ut) quasi gravi more ad repausandum lassae perveniant.</p>
+      <p id="ANOMETE0074">Spissim autem et raro prout oportet notae compositae huius rei poterunt indicium dare.</p>
+      <p id="ANOMETE0075">Liquescunt autem in multis voces more litterarum, id est consonantiarum, ita ut inceptus modus unius ad alteram limpide transiens nec finiri videatur. Porro liquescenti voci descendendo punctum quasi maculando supponimus, aliquando super consonantias ut reg, dig, leg, ag, vim, vem, tum, tem et super consimiles sonando usque ad proximam vocem vel notam iuxta se vel supra se hoc modo: [Lig2cdsndrt,Lig2art,Lig2cdsndrt,Lig2art] ascendendo vero hoc modo: [Lig2art,L,Lig2art,L] Et si proxima nota subsequens inferior se fuerit, tunc non est 
+      <pb n="[90]" />liquescens, sed duae notae sunt post hanc liquescentem hoc modo: [Lig2cdsnd,Lig2cdsnd,Lig2cdsnd,Lig2cdsnd] Aliquando sequiter alia nota inferior se similiter fiet et post has notas.</p>
+      <p id="ANOMETE0076">Super vocales vero non faciat liquescentem vel strictionem nisi tantum super au, eu, luy, ley, et ey. Quando vero super a e i o vel u, sic formatur: [Lig2d,L,Lig3aod,Lig3ad,L,Lig4cdsndaod,L,L,Lig2d,Lig3aod] Tunc vero ultima pro duabus reputatur vocibus.</p>
+      <p id="ANOMETE0077">Et si eam, scilicet liquescentem plenius vis proferre non liquefaciens nihil nocet, saepe autem magis placet. Et omnia quaecumque diximus nec nimis raro nec continue facias, sed cum discretione.</p>
+      <p id="ANOMETE0078">
+      <pb n="[91]" />De multiplici varietate sonorum et neumarum secundum Guidonem de Sancto Mauro Capitulo sexto decimo</p>
+      <p id="ANOMETE0079">Illud vero non debet mirum videri cur tanta copia tam diversorum cantuum tam paucis formata sit vocibus, quae voces non nisi sex modis, scilicet tonus semitonus et caetera vel sic ut-re-mi-fa-sol-la, ut supra diximus scilicet sibi iungantur tam per elevationem quam per depositionem, cum et de paucis litteris, et si non perplures conficiantur syllabae, potest enim colligi numerus syllabarum.</p>
+      <p id="ANOMETE0080">Infinitae (lege Infinita) tamen partium pluralitas concrevit ex syllabis, et in metris de paucis pedibus quam plura sunt genera metrorum et unius generis metrum plurimis varietatibus invenitur diversum, ut hexametrum. Quod quomodo fiat videant grammatici; nos ubi (lege si) possumus, videamus quibus modis distantes ab invicem neumas constituere valeamus.</p>
+      <p id="ANOMETE0081">Igitur motus vocum, qui sex modis fieri dictus est, fit arsis et thesis, id est elevatio et depositio; quorum gemino motu, id est arsis et thesis, omnis neuma formatur praeter repercussas aut simplices. Deinde arsis et thesis tum sibimet iunguntur, ut arsis arsi et thesis thesi; tum altera alteri, ut arsis thesi et thesis arsi coniunguntur. Ipsa quoque coniunctio tum fit ex 
+      <pb n="[92]" />similibus, tum ex dissimilibus. Dissimilitudo autem erit si ex praedictis motibus alius alio plures pauciores ut (lege paucioresve) habeat voces (adde aut magis) coniunctas vel disiunctas. Dissimilitudo deinde similitudo (lege Dissimiliter deinde vel similiter) facta coniunctione motus motui tunc erit praepositus, id est in superioribus positus; tum suppositus; tum appositus, id est cum in eadem voce unius finis erit alteriusque principium; tum interpositus, id est quando unus motus infra alium positus et minus est gravis et minus acutus; tum commixtus, id est partim interpositus, partimque suppositus aut praepositus aut appositus. Rursusque hae positiones dirimi possunt secundum laxationis et acuminis, augmenti et detrimenti modorumque varias qualitates. Explicit liber Metrologus.</p>
+    </body>
+  </text>
+</TEI>

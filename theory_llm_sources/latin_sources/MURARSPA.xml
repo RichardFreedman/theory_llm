@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Ars practica mensurabilis cantus secundum Iohannem de Muris (Recensio A)</title>
+        <title type="abbrev">MURARSPA</title>
+        <author>Johannes de Muris</author>
+        <date notBefore="1300" notAfter="1399">14th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Peter Slemon</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Travis Yeager</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>2007</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>Ars practica mensurabilis cantus secundum Iohannem de Muris: Die Recensio maior des sogenannten "Libellus practice cantus mensurabilis,"</emph> ed. Christian Berktold, Bayerische Akademie der Wissenschaften, Veröffentlichungen der Musikhistorischen Kommission, Band 14 (Munich: Bayerische Akademie der Wissenschaften / C. H. Beck, 1999), 3–79. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Iohannes de Muris: Ars practica mensurabilis cantus (= Libellus cantus mensurabilis)</title>
+          
+<idno type="LML">IOH. MUR. Lib.</idno>
+        
+</bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="MURARSPA0001">
+      <pb n="[3]" />Ars practica mensurabilis cantus secundum Iohannem de Muris</p>
+      <p id="MURARSPA0002">Quilibet in arte practica mensurabilis cantus erudiri mediocriter affectans ea scribat diligenter, que sequuntur summarie compilata secundum magistrum Iohannem de Muris.</p>
+      <p id="MURARSPA0003">1. De quinque partibus prolationis</p>
+      <p id="MURARSPA0004">Quinque sunt partes prolationis, videlicet maxima, longa, brevis, semibrevis 
+      <pb n="[4]" />et minima, ut hic:</p>
+      <p id="MURARSPA0005">[MX,L,B,S,M]</p>
+      <p id="MURARSPA0006">Maxima perfecta valet tres longas, sive de modo perfecto sive de imperfecto: si longe sunt de modo perfecto, maxima perfecta valet novem tempora, si de modo imperfecto, valet sex, ut hic:</p>
+      <p id="MURARSPA0007">[MX,L,L,L,MX,B,B,B,B,B,B,B,B,B,MX,B,B,B,B,B,B]</p>
+      <p id="MURARSPA0008">
+      <pb n="[5]" />Maxima imperfecta valet duas longas, sive sint de modo perfecto sive imperfecto: si de modo perfecto, valet sex tempora, si de modo imperfecto, valet quatuor, ut hic:</p>
+      <p id="MURARSPA0009">[MX,L,L,MX,B,B,B,B,B,B,MX,B,B,B,B]</p>
+      <p id="MURARSPA0010">
+      <pb n="[6]" />Ex hiis infertur, quod maxima potest esse perfecta longis existentibus imperfectis; et e contrario maxima potest esse imperfecta longis existentibus perfectis.</p>
+      <p id="MURARSPA0011">
+      <pb n="[7]" />Longa in modo perfecto valet tres breves, in modo imperfecto duas, ut hic:</p>
+      <p id="MURARSPA0012">[L,B,B,B,L,B,B]</p>
+      <p id="MURARSPA0013">Brevis in tempore perfecto valet tres semibreves, in tempore imperfecto duas, ut hic:</p>
+      <p id="MURARSPA0014">[B,S,S,S,B,S,S]</p>
+      <p id="MURARSPA0015">
+      <pb n="[8]" />Semibrevis in maiori prolatione valet tres minimas, in minori duas, ut hic:</p>
+      <p id="MURARSPA0016">[S,M,M,M,S,M,M]</p>
+      <p id="MURARSPA0017">
+      <pb n="[9]" />2. De modo, tempore et prolatione</p>
+      <p id="MURARSPA0018">Nota, quod duplex est modus, scilicet perfectus et imperfectus: perfectus, quando longa valet tres breves, imperfectus, quando valet duas.</p>
+      <p id="MURARSPA0019">Item duplex est tempus, scilicet perfectum et imperfectum: perfectum, quando brevis valet tres semibreves, imperfectum, quando valet duas.</p>
+      <p id="MURARSPA0020">Item duplex est prolatio, scilicet perfecta, que vocatur maior, et imperfecta, que vocatur minor: perfecta sive maior prolatio est, quando semibrevis valet 
+      <pb n="[10]" />tres minimas, imperfecta sive minor est, quando valet duas. Exempla patent ex predictis.</p>
+      <p id="MURARSPA0021">
+      <pb n="[11]" />3. De imperfectione</p>
+      <p id="MURARSPA0022">Insuper notandum est, quod omnis nota perfecta potest imperfici, et imperfecta perfici: imperfici per abstractionem tertie partis sui valoris, perfici per additionem medie partis sui valoris; nam perfectio consistit in numero ternario, imperfectio in binario.</p>
+      <p id="MURARSPA0023">Unde maxima perfecta in toto et in partibus potest imperfici dupliciter, videlicet quo ad totum et quo ad partes:</p>
+      <p id="MURARSPA0024">Quo ad totum dupliciter, scilicet a parte ante et a parte post: a parte ante, 
+      <pb n="[12]" />quando eam precedit sola longa, a parte post, quando eam sequitur sola longa vel quatuor vel septem vel decem longe et cetera, vel earum valor: tunc prima longa vel eius valor imperficit maximam precedentem, nisi per punctum impediatur; exemplum:</p>
+      <p id="MURARSPA0025">[MX,L,pt,L,MX MX,L,L,L,L MX,pt,L,L,L,L,MX]</p>
+      <p id="MURARSPA0026">
+      <pb n="[13]" />Quo ad partes etiam dupliciter, scilicet quo ad partes propinquas et quo ad partes remotas. Pro quo notandum est, quod pars propinqua alicuius totius est illa, in qua ipsum totum immediate dividitur, sicut maximarum partes propinque sunt longe, longarum breves, brevium semibreves et cetera. Partes remote sunt partes partium propinquarum, remotiores sunt partes partium remotarum. Maxima igitur quo ad partes propinquas potest imperfici dupliciter, scilicet a parte ante et a parte post, per abstractionem tertie partis valoris cuiuslibet partis propinque vel alterius earumdem; et sic similiter quo ad partes remotas per abstractionem tertie partis valoris cuiuslibet partis remote vel alterius earumdem et cetera. Et ita suo modo intelligi potest de longis, brevibus et semibrevibus. Exempla patebunt inferius.</p>
+      <p id="MURARSPA0027">Et pro predictis et infrascriptis nota has regulas:</p>
+      <p id="MURARSPA0028">
+      <pb n="[14]" />Prima regula est, quod longa ante longam in modo perfecto semper est perfecta, et brevis ante brevem in tempore perfecto similiter est perfecta, et semibrevis ante semibrevem in maiori prolatione semper etiam est perfecta, ut hic:</p>
+      <p id="MURARSPA0029">[L,L,B,B,S,S [L,B,S,M]]</p>
+      <p id="MURARSPA0030">Secunda regula est: Quandocumque aliqua nota debet imperfici, oportet, 
+      <pb n="[15]" />quod eam immediate sequatur nota maior vel minor in forma vel pausa maioris vel minoris forme, quia similis ante similem non potest imperfici, ut hic:</p>
+      <p id="MURARSPA0031">[de Muris, Ars practica, 15] 
+      <figure>
+        <graphic url="/images/MURARSPA_01GF.gif" />
+      </figure></p>
+      <p id="MURARSPA0032">Tertia regula est: Quando post longam de modo perfecto sequuntur due vel 
+      <pb n="[16]" />tres breves tantum, nulla sola brevi precedente, a qua possit imperfici, perfecta est, nisi punctus divisionis ponatur inter primam brevem et aliam vel alias sequentes: nam tunc prima brevis imperficit longam precedentem; et idem est intelligendum de brevibus temporis perfecti respectu semibrevium et de semibrevibus maioris prolationis respectu minimarum, ut hic:</p>
+      <p id="MURARSPA0033">[L,B,B L,B,B,B L,B,pt,B,B,L B,S,S,B,S,S,S,B,S,pt,S,S,B S,M,M S,M,M,M S,M,pt,M,M,S,L]</p>
+      <p id="MURARSPA0034">
+      <pb n="[17]" />Quarta regula est: Quando inter duas longas remanet sola brevis perfectione computata, tunc illa imperficit primam longam scilicet precedentem, nisi per punctum aut aliter impediatur; et idem est de semibrevi inter breves et de minima inter semibreves, ut hic:</p>
+      <p id="MURARSPA0035">[L,B,L,Lig5cdsnodaad,pt,B,L B,S,B,S,S,S,S,B,pt,S,B S,M,S,M,M,M,M,S,pt,M,S,L]</p>
+      <p id="MURARSPA0036">
+      <pb n="[18]" />Quinta regula est: Quando aliqua nota est sola, debet reduci ad priorem locum, quem potest habere, ut hic:</p>
+      <p id="MURARSPA0037">[de Muris, Ars practica, 18]</p>
+      <p id="MURARSPA0038">
+      <pb n="[20]" />Sexta regula est, quod omnis nota, que imperficitur, imperficitur a propinquiori; exempla patent in exemplis regule precedentis.</p>
+      <p id="MURARSPA0039">Septima regula est: Quando inveniuntur due note simul sole, ille non debent partiri, sed simul computari, ut hic:</p>
+      <p id="MURARSPA0040">[de Muris, Ars practica, 20]</p>
+      <p id="MURARSPA0041">
+      <pb n="[21]" />Ulterius notandum est, quod quando aliqua nota imperficitur a parte propinqua 
+      <pb n="[22]" />vel eius valore, hoc fit ratione totius sive quo ad totum; si a parte remota vel a partibus remotis non tamen valentibus unam partem propinquam, hoc est quo ad partem vel quo ad partes. Item notandum est, quod quicquid imperficitur, imperficitur a tertia parte. Ex quo sequitur, quod quicquid est divisibile in tres partes equales, potest imperfici a tertia parte, et quotienscumque potest dividi in tres partes equales, totiens potest imperfici ab illa tertia parte. Et imperficiens potest preponi vel postponi illi, quod imperficitur iuxta libitum ponentis servata tamen hac regula, quod nulla nota potest imperfici ante sibi similem, sed bene ante maiorem vel minorem, ut superius dictum est.</p>
+      <p id="MURARSPA0042">Sequitur etiam ex premissis, quod semibrevis maioris prolationis potest imperfici ab una minima precedente vel sequente, ut hic:</p>
+      <p id="MURARSPA0043">[S,M,S,M,pt,M,S,M,S S,M,M,M,pt,S,S,L]</p>
+      <p id="MURARSPA0044">
+      <pb n="[23]" />Brevis imperfecta minoris prolationis non potest imperfici aliquo modo, quia non est divisibilis in tres partes equales.</p>
+      <p id="MURARSPA0045">Brevis imperfecta maioris prolationis potest imperfici ab una minima precedente vel sequente quo ad partem unam, et a duabus minimis quo ad ambas partes, ut hic:</p>
+      <p id="MURARSPA0046">[B,M,pt,M,B,M,pt,M,B,L]</p>
+      <p id="MURARSPA0047">
+      <pb n="[24]" />Brevis perfecta minoris prolationis potest imperfici ab una semibrevi vel a duabus minimis, et hoc quo ad totum, ut hic:</p>
+      <p id="MURARSPA0048">[B,S,pt,M,M,B,pt,M,B,M,pt,L]</p>
+      <p id="MURARSPA0049">
+      <pb n="[25]" />Et nota, quod quidam cantores, puta Gulielmus de Mascandio et nonnulli alii, imperficiunt brevem perfectam minoris prolationis ab una sola minima, et brevem imperfectam maioris prolationis a duabus minimis simul sequentibus vel precedentibus, ut hic:</p>
+      <p id="MURARSPA0050">[O,B,M,B,M,B,M,L C,B,M,M,pt,M,M,B,M,M,B,[M,M,B],M,M,L]</p>
+      <p id="MURARSPA0051">
+      <pb n="[26]" />Et dicunt ibi mutari qualitatem; capiunt enim ibi brevem perfectam minoris prolationis ac si esset brevis imperfecta maioris prolationis, et e contrario brevem imperfectam maioris prolationis ac si esset brevis perfecta minoris prolationis.</p>
+      <p id="MURARSPA0052">Brevis perfecta maioris prolationis potest imperfici ab una sola minima precedente vel sequente, et hoc quo ad unam eius partem, et a duabus minimis una precedente et alia sequente quo ad duas partes, ut hic:</p>
+      <p id="MURARSPA0053">[B,M,pt,M,B,M,pt,M,B,[L]]</p>
+      <p id="MURARSPA0054">
+      <pb n="[27]" />vel ambabus precedentibus vel sequentibus, ut hic:</p>
+      <p id="MURARSPA0055">[B,M,M,pt,M,M,B]</p>
+      <p id="MURARSPA0056">et a tribus minimis vel earum valore quo ad totum, ut hic:</p>
+      <p id="MURARSPA0057">[B,S,pt,B,S,M,pt,M,M,M,B,[L]]</p>
+      <p id="MURARSPA0058">
+      <pb n="[28]" />et a quatuor minimis vel earum valore quo ad totum et unam partem, ut hic:</p>
+      <p id="MURARSPA0059">[B,M,S,M,pt,M,B,S,M,pt,M,M,M,M,B,[L]]</p>
+      <p id="MURARSPA0060">et a quinque minimis vel earum valore quo ad totum et ambas partes remanentes, ut hic:</p>
+      <p id="MURARSPA0061">[de Muris, Ars practica, 28]</p>
+      <p id="MURARSPA0062">
+      <pb n="[29]" />Et non potest plus imperfici, quia non remanet ei nisi valor brevis imperfecte minoris prolationis, que non potest imperfici, ut dictum est.</p>
+      <p id="MURARSPA0063">Et quicquid circa imperfectionem est dictum de minimis respectu brevium, 
+      <pb n="[30]" />intelligatur de semibrevibus respectu longarum et de brevibus respectu maximarum. Et quod dictum est de semibrevibus respectu brevium, intelligatur de brevibus respectu longarum et de longis respectu maximarum.</p>
+      <p id="MURARSPA0064">Unde sicut est dare brevem imperfectam valentem duas semibreves valentes quatuor minimas, sic est dare longam valentem duas breves valentes quatuor semibreves, et maximam valentem duas longas valentes quatuor breves.</p>
+      <p id="MURARSPA0065">Et sicut est dare brevem imperfectam valentem duas semibreves valentes sex minimas, sic est dare longam imperfectam valentem duas breves valentes sex semibreves, et maximam imperfectam valentem duas longas valentes sex breves.</p>
+      <p id="MURARSPA0066">Et sicut est dare brevem perfectam valentem tres semibreves valentes sex minimas, sic est dare longam perfectam valentem tres breves valentes sex semibreves, et maximam perfectam valentem tres longas valentes sex breves.</p>
+      <p id="MURARSPA0067">Et sicut est dare brevem perfectam valentem tres semibreves valentes novem 
+      <pb n="[31]" />minimas, sic est dare longam perfectam valentem tres breves valentes novem semibreves, et maximam perfectam valentem tres longas valentes novem breves.</p>
+      <p id="MURARSPA0068">Ex quibus predictis sufficienter habetur, quomodo maxime et longe possunt imperfici; tamen videantur exempla, que sequuntur:</p>
+      <p id="MURARSPA0069">Et primo de longis imperfectis modo et tempore, sed de maiori prolatione, ut hic:</p>
+      <p id="MURARSPA0070">[L,M,pt,M,L,M,pt,M,M,L,M,pt,M,M,L,M,M,L]</p>
+      <p id="MURARSPA0071">
+      <pb n="[32]" />Item de longis imperfectis modo, sed perfectis tempore, ut hic:</p>
+      <p id="MURARSPA0072">[L,S,pt,S,L,S,pt,L,S,S,pt,S,L]</p>
+      <p id="MURARSPA0073">Item de longis perfectis modo, sed imperfectis tempore, ut hic:</p>
+      <p id="MURARSPA0074">[L,B,pt,B,L,B,L,[B,L]]</p>
+      <p id="MURARSPA0075">
+      <pb n="[33]" />Item de longis perfectis modo et tempore, ut hic:</p>
+      <p id="MURARSPA0076">[L,S,L,B,pt,S,L,S,B,pt,S,L,B,pt,S,L,S]</p>
+      <p id="MURARSPA0077">Sequuntur exempla, quomodo maxime possunt imperfici:</p>
+      <p id="MURARSPA0078">Et primo de maximis imperfectis, quarum longe sum perfecte, ut hic:</p>
+      <p id="MURARSPA0079">[MX,B,pt,B,MX,pt,B,MX,B,pt,MX,B,B]]</p>
+      <p id="MURARSPA0080">
+      <pb n="[34]" />Item de maximis perfectis, quarum tamen longe sunt imperfecte, ut hic:</p>
+      <p id="MURARSPA0081">[de Muris, Ars practica, 34]</p>
+      <p id="MURARSPA0082">
+      <pb n="[35]" />Item de maximis perfectis, quarum longe sunt perfecte, ut hic:</p>
+      <p id="MURARSPA0083">[de Muris, Ars practica, 35]</p>
+      <p id="MURARSPA0084">Et predicta de imperfectione notarum sufficiant.</p>
+      <p id="MURARSPA0085">
+      <pb n="[36]" />4. De alteratione</p>
+      <p id="MURARSPA0086">Sequitur de alteratione. Unde alteratio in musica est proprii valoris secundum note formam duplicatio; de qua tales dantur regule:</p>
+      <p id="MURARSPA0087">Prima regula est, quod nulla nota potest alterari ante sibi similem nec ante minorem se.</p>
+      <p id="MURARSPA0088">
+      <pb n="[37]" />Secunda regula est, quod omnis nota potest alterari ante proximam maiorem se, sicut minima ante semibrevem vel ante pausam semibrevis, semibrevis ante brevem vel ante pausam brevis, brevis ante longam vel ante pausam longe, et longa ante maximam et non aliter.</p>
+      <p id="MURARSPA0089">Tertia regula est, quod quandocumque inter duas longas de modo perfecto vel pausas longarum vel inter punctum et longam inveniuntur due breves sine puncto in medio, secunda alteratur, idest valet duas breves; similiter quando inveniuntur due semibreves inter duas breves de tempore perfecto vel inter punctum et brevem vel inter pausas brevium, secunda alteratur, idest valet duas semibreves; idem est de duabus minimis inter duas semibreves de maiori prolatione: nam quandocumque remanent due sine puncto in medio, secunda est alterata.</p>
+      <p id="MURARSPA0090">Et nota, quod nota alterata potest imperfici a parte ante.</p>
+      <p id="MURARSPA0091">
+      <pb n="[38]" />Exempla de omnibus patent:</p>
+      <p id="MURARSPA0092">[de Muris, Ars practica, 38]</p>
+      <p id="MURARSPA0093">
+      <pb n="[41]" />Item notandum est, quod duplex est minima, semibrevis, brevis et longa, scilicet recta et altera: recta, quando simpliciter ponitur pro valore sue forme, altera, quando pro duplici. Ulterius nota, quod quando aliqua nota alteratur, hoc fit causa perfectionis, scilicet ut perfectio compleatur. Unde brevis alteratur ad perficiendum modum, semibrevis ad perficiendum tempus, et minima ad perficiendum prolationem.</p>
+      <p id="MURARSPA0094">Et hec de alteratione sufficiant.</p>
+      <p id="MURARSPA0095">
+      <pb n="[42]" />5. De puncto</p>
+      <p id="MURARSPA0096">Sequitur de puncto. Duplex est punctus, scilicet perfectionis et divisionis: punctus perfectionis perficit longam in utroque modo, brevem in utroque tempore et semibrevem in utraque prolatione; punctus divisionis imperficit longam dividendo breves, et imperficit breves dividendo semibreves, et imperficit semibreves dividendo minimas.</p>
+      <p id="MURARSPA0097">Unde videndum est, per que vel quomodo cognoscitur punctus perfectionis a puncto divisionis, cum unus habeat perficere figuras et alius imperficere, ut dictum est: Quando punctus ponitur post longam, perfectionis esse dicitur, 
+      <pb n="[43]" />quando vero post minimam, divisionis esse dicitur. Et nota, quod triplex est divisio, scilicet modi, temporis et prolationis.</p>
+      <p id="MURARSPA0098">Item nota, quod si punctus ponatur inter duas breves, dividit modum, nisi forte breves ille forent de tempore imperfecto, post quas vel ante quas reperiretur aliqua semibrevis sola, que per sincopam reduceretur ad dictam brevem puncto perfectionis punctatam. Si autem punctus ponatur inter duas semibreves, pro divisione temporis assignatur, nisi forte ille semibreves essent de minori prolatione, post quas vel ante quas inveniretur aliqua minima sola, que per sincopam reduceretur ad dictam semibrevem puncto perfectionis punctatam.</p>
+      <p id="MURARSPA0099">Et hec de punctis sufficiant studere volentibus. Exempla de predictis punctis, ut hic:</p>
+      <p id="MURARSPA0100">[de Muris, Ars practica, 43] 
+      <figure>
+        <graphic url="/images/MURARSPA_02GF.gif" />
+      </figure></p>
+      <p id="MURARSPA0101">
+      <pb n="[45]" />6. De distinctione modi, temporis et prolationis</p>
+      <p id="MURARSPA0102">Cum duplex sit modus, tempus et prolatio, ut superius dictum est, videndum est, per que distinguuntur. Unde quadrangulus cum tribus tractulis ponitur pro modo perfecto, cum duobus pro modo imperfecto, ut hic:</p>
+      <p id="MURARSPA0103">[R3rvs,L,Lig3cdsndd,Lig3aacddx,R2rvs,L,Lig3cdsndd,Lig3aacddx]</p>
+      <p id="MURARSPA0104">
+      <pb n="[46]" />Item circulus ponitur pro tempore perfecto, semicirculus pro tempore imperfecto. Item si in circulo vel in semicirculo inveniantur tres puncti, maioris prolationis est, si duo, minoris est, ut hic:</p>
+      <p id="MURARSPA0105">[de Muris, Ars practica, 46]</p>
+      <p id="MURARSPA0106">
+      <pb n="[48]" />Item modus, tempus et prolatio distinguuntur etiam per notas rubeas sive vacuas et per nigras, quando in aliquo cantu variantur. Unde si in aliquo cantu reperiantur longe nigre, rubee vel vacue: nigre sunt modi perfecti et rubee vel vacue sunt modi imperfecti, ut hic:</p>
+      <p id="MURARSPA0107">[L,Lig3cdsndd; Lv,Lig5vaaaa,Lv,Bv]</p>
+      <p id="MURARSPA0108">
+      <pb n="[49]" />Item si breves inveniantur nigre, rubee vel vacue: nigre sunt temporis perfecti, rubee vel vacue imperfecti, ut hic:</p>
+      <p id="MURARSPA0109">[de Muris, Ars practica, 49]</p>
+      <p id="MURARSPA0110">
+      <pb n="[50]" />Item si semibreves nigre sunt maioris prolationis, rubee vel vacue sunt minoris, ut hic:</p>
+      <p id="MURARSPA0111">[S,M,M,M,M,S,M,S,M,S,S,M,Lig2cdsnd; Sv,Mv,Sv,Mv,Sv,Sv,Sv,Lv; [S,Sv,Sv,Sv,S,Sv,Sv,L]]</p>
+      <p id="MURARSPA0112">
+      <pb n="[51]" />Item coloribus, subscriptionibus, pausis et signis perfectum distinguitur ab imperfecto et etiam cognoscitur.</p>
+      <p id="MURARSPA0113">
+      <pb n="[52]" />7. De modis</p>
+      <p id="MURARSPA0114">Item sex sunt modi. Primus procedit ex una longa et altera brevi, ut hic:</p>
+      <p id="MURARSPA0115">[L,Lig2cdsnd,B,Lig2od,L,[B,Lig2od]]</p>
+      <p id="MURARSPA0116">Secundus e converso ex una brevi et altera longa, ut hic:</p>
+      <p id="MURARSPA0117">
+      <pb n="[53]" />[Lig2cdsnd,B,Lig2od,L,[Lig3aod],Lig2acddx]</p>
+      <p id="MURARSPA0118">Tertius modus procedit ex una longa et duabus vel tribus brevibus, ut hic:</p>
+      <p id="MURARSPA0119">[L,Lig3cdsndd,Lig4aaacddx,Lig3cdsndd,[B],Lig3aacddx]</p>
+      <p id="MURARSPA0120">
+      <pb n="[54]" />Quartus e converso ex duabus vel tribus brevibus et una longa, ut hic:</p>
+      <p id="MURARSPA0121">[Lig3aacddx,Lig4cdsnddd,Lig3cdsndd]</p>
+      <p id="MURARSPA0122">Quintus ex omnibus longis, ut hic:</p>
+      <p id="MURARSPA0123">[Lig2d,L,L,L,Bcsdx,Bcsdx,L,L,Lig2d,Lig2d]</p>
+      <p id="MURARSPA0124">
+      <pb n="[55]" />Sextus ex omnibus brevibus et semibrevibus, ut hic:</p>
+      <p id="MURARSPA0125">[Lig3aod,Lig3aa,Lig2cssnod,Lig3cssnaod,S,S,Lig4cdsnddod Lig2cssnod,Lig2a,Lig2cssnod,Lig2a,S,S,Lig2a,Lig2cdsnod]</p>
+      <p id="MURARSPA0126">
+      <pb n="[56]" />Dicunt tamen aliqui solum esse quinque modos, et illi ponunt quintum cum primo et sextum loco quinti.</p>
+      <p id="MURARSPA0127">
+      <pb n="[57]" />8. De ligaturis</p>
+      <p id="MURARSPA0128">Sequitur de ligaturis. Unde ligaturarum alia ascendens, alia descendens: ascendens, quando secunda nota est altior prima; descendens e contrario, quando prima nota est altior secunda. De quibus tales dantur regule:</p>
+      <p id="MURARSPA0129">Prima regula est: Quandocumque prima nota est altior secunda habens caudam sive tractum a parte sinistra descendentem, sive fuerit in quadro sive in obliquo corpore figurata, cum proprietate dicitur, et est prima nota brevis, ut hic:</p>
+      <p id="MURARSPA0130">[Lig3cdsndod,Lig2cdsnod,Lig2cdsnd]</p>
+      <p id="MURARSPA0131">
+      <pb n="[58]" />Secunda regula est: Quandocumque secunda nota est altior prima, et prima habuerit tractum a parte dextra descendentem, sine proprietate dicitur, et est prima longa, ut hic:</p>
+      <p id="MURARSPA0132">[Lig4Laaod,Lig6Laaddod]</p>
+      <p id="MURARSPA0133">Et si prima non habuerit tractum, cum proprietate dicitur, et est prima 
+      <pb n="[59]" />brevis, ut hic:</p>
+      <p id="MURARSPA0134">[[Lig3aod],Lig4adod,Lig3ad,Lig4adod]</p>
+      <p id="MURARSPA0135">Tertia regula est: Quandocumque prima nota, sive fuerit quadra sive obliqua, est altior secunda carens tractu, sine proprietate dicitur, et est prima longa, ut hic:</p>
+      <p id="MURARSPA0136">[Lig2od,Lig3dod,Lig3dd,Lig4ddod]</p>
+      <p id="MURARSPA0137">
+      <pb n="[60]" />Quarta regula est: In omni ligatura prima nota habens tractum a parte sinistra ascendentem, cum opposita proprietate dicitur, et facit primas duas esse semibreves, ut hic:</p>
+      <p id="MURARSPA0138">[Lig2cssna,Lig2cssnoa,Lig2cssnaa,Lig2cssnod,Lig3cssndod]</p>
+      <p id="MURARSPA0139">
+      <pb n="[61]" />Quinta regula est: In omni ligatura ultima descendens sub penultima in quadro posita cum perfectione dicitur, et est longa, ut hic:</p>
+      <p id="MURARSPA0140">[Lig2d,Lig3dd,[Lig3cdsndd]]</p>
+      <p id="MURARSPA0141">et in obliquo corpore figurata, sine perfectione dicitur, et est brevis, ut hic:</p>
+      <p id="MURARSPA0142">[Lig2cdsnod,[Lig2od],Lig3cdsndod]</p>
+      <p id="MURARSPA0143">
+      <pb n="[62]" />Sexta regula est, quod omnis ultima stans directe supra penultimam vel a latere habens tractum a parte dextra cum perfectione dicitur, et est longa, et secundum aliquos vocatur longa per oppositam proprietatem, ut hic:</p>
+      <p id="MURARSPA0144">[Lig2art,Lig2acddx]</p>
+      <p id="MURARSPA0145">Septima regula est, quod omnis ultima stans a latere supra penultimam sine 
+      <pb n="[63]" />tractu, sive fuerit quadra sive obliqua, sine perfectione dicitur, et est brevis, ut hic:</p>
+      <p id="MURARSPA0146">[Lig2a,[Lig3Laa,Lig3aa,Lig3Laoa,Lig3aoa,Lig3doa]]</p>
+      <p id="MURARSPA0147">Octava regula est: In omni ligatura medie sunt breves, ut hic:</p>
+      <p id="MURARSPA0148">[Lig4ddd,[Lig4cdsnddacddx,Lig4cdsnddod]]</p>
+      <p id="MURARSPA0149">
+      <pb n="[64]" />nisi prima esset cum opposita proprietate, quia tunc secunda iret cum prima pro una brevi iuxta quartam regulam predictam, ut hic:</p>
+      <p id="MURARSPA0150">[Lig4cssnddd,[Lig5cssndddod],Lig5cssnaaaod,[Lig5cssnaaad]]</p>
+      <p id="MURARSPA0151">
+      <pb n="[65]" />Et hec de ligaturis sufficiant.</p>
+      <p id="MURARSPA0152">9. De sincopa</p>
+      <p id="MURARSPA0153">Sequitur de sincopa. Unde sincopa est divisio circumquaque figure per partes separatas, que numerando perfectiones ad invicem reducuntur; et potest fieri in modo, tempore et prolatione.</p>
+      <p id="MURARSPA0154">Si fiat in modo, aut fit perfecto aut imperfecto: si in modo perfecto, tunc est 
+      <pb n="[66]" />reperire tres breves separatas vel valorem pro longa perfecta, que numerando perfectiones ad invicem reducuntur; si in modo imperfecto, tunc est reperire duas breves separatas vel longam puncto perfectionis punctatam, cuius tertia pars ad aliquam brevem solam reducitur separatam, ut hic:</p>
+      <p id="MURARSPA0155">[de Muris, Ars practica, 66]</p>
+      <p id="MURARSPA0156">
+      <pb n="[67]" />Sincopa si fiat in tempore, aut fit in tempore perfecto vel imperfecto: si in 
+      <pb n="[68]" />tempore perfecto, tunc est reperire tres semibreves separatas vel valorem pro brevi perfecta, que ad invicem reducuntur perfectiones numerando; si in tempore imperfecto, est reperire duas semibreves vel brevem puncto perfectionis punctatam, cuius tertia pars ad aliquam semibrevem solam reducitur separatam, ut hic:</p>
+      <p id="MURARSPA0157">[O,Lig3cssnaod,pt,S,S,S,S,Lig4cdsnddod,pt,Lig2cssna,pt,Lig4cssnaodacddx; C,S,Lig2a,Lig2cssnod,Lig3cssnoda,pt,Lig4cdsnddod,pt,S,B,pt,Lig4cdsnddod,S,L]</p>
+      <p id="MURARSPA0158">
+      <pb n="[69]" />Similiter si in prolatione, aut fit in maiori aut in minori: si in maiori, tunc 
+      <pb n="[70]" />est reperire tres minimas separatas vel valorem pro semibrevi maioris prolationis, que ad invicem reducuntur perfectiones numerando; si in minori, duas vel semibrevem puncto perfectionis punctatam, cuius tertia pars ad aliquam minimam solam reducitur separatam, ut hic:</p>
+      <p id="MURARSPA0159">[M,S,M,pt,M,M,S,M,pt,M,M,M,M,M,M,S,M,S,M,pt,M,M,B,M,L; M,S,S,S,M,S,M,S,M,S,pt,Lig2cssnod,pt,S,pt,S,M,M,Lig2cssnod,Lig2cssnod,S,M,L]</p>
+      <p id="MURARSPA0160">
+      <pb n="[71]" />Et nota, quod numquam nota per sincopam debet reduci ultra pausam maiorem 
+      <pb n="[72]" />se, ut pote minima ultra pausam semibrevis vel maiorem, nec semibrevis ultra pausam brevis vel maiorem; et sic de aliis, licet aliqui dicant contrarium, nescio quo motu.</p>
+      <p id="MURARSPA0161">Et hec de sincopa sufficiant.</p>
+      <p id="MURARSPA0162">10. De pausis</p>
+      <p id="MURARSPA0163">Sequitur de pausis. Unde pausa dicitur vocum amissio seu aspiratio mensurata 
+      <pb n="[73]" />pro tot temporibus, quot fuerit spatiis figurata, quoniam pausa valet tot tempora, quot occupat spatia: sicut si tria spatia, tria tempora valet, si duo tenet spatia, duo valet tempora, et si unum, unum valet tempus. Et nota, quod maior pausa trium temporum non est ponenda, nam aliter reduplicari deberent pause secundum exigentiam modi, quare tales dictiones essent immensurabiles.</p>
+      <p id="MURARSPA0164">Ulterius nota, quod pausa semibrevis debet incipere in linea et descendere ad medium spatii; et pausa minime e contrario debet incipere in linea et ascendere ad medium spatii; et pause semiminimarum fiunt ut pause minimarum 
+      <pb n="[74]" />cum semicirculo. Exempla de omnibus pausis supradictis:</p>
+      <p id="MURARSPA0165">[de Muris, Ars practica, 74]</p>
+      <p id="MURARSPA0166">
+      <pb n="[75]" />Insuper nota, quod non debet poni pausa semibrevis neque maior, nisi completa prolatione, nec debet poni pausa brevis neque maior, nisi completo tempore, nec pausa longa trium temporum, nisi completo modo. Item nota, quod pause non possunt imperfici nec alterari.</p>
+      <p id="MURARSPA0167">Et hec de pausis dicta sufficiant.</p>
+      <p id="MURARSPA0168">
+      <pb n="[76]" />11. De diminutione</p>
+      <p id="MURARSPA0169">Sequitur de diminutione, que sepe fit in tenoribus motetorum.</p>
+      <p id="MURARSPA0170">Circa quam notandum est primo, quod pro maxima in diminutione ponitur longa, pro longa brevis, pro brevi semibrevis, pro semibrevi minima.</p>
+      <p id="MURARSPA0171">Secundo nota, quod quando tenor est de modo imperfecto, sive fuerit de tempore perfecto sive imperfecto, diminutio fit directe per medietatem notarum et pausarum.</p>
+      <p id="MURARSPA0172">
+      <pb n="[77]" />Tertio nota, quod quando tenor est de modo perfecto et tempore imperfecto, diminutio etiam fit directe per medium, sicut pro longa valente tres breves ponitur brevis valens tres semibreves.</p>
+      <p id="MURARSPA0173">Quarto nota, quod quando tenor est de modo perfecto et tempore perfecto, diminutio fit per tertium et non per medium.</p>
+      <p id="MURARSPA0174">Et hec de diminutione sufficiant. Exempla patent in motetis.</p>
+      <p id="MURARSPA0175">
+      <pb n="[78]" />12. De colore</p>
+      <p id="MURARSPA0176">Sequitur de colore. Unde color in musica vocatur similium figurarum unius processus pluries repetita positio in eodem cantu. Pro quo nota, quod nonnulli cantores ponunt differentiam inter colorem et tallam: nam vocant colorem, quando repetuntur eedem voces, tallam vero, quando repetuntur similes figure et sic fiunt diversarum vocum. Que differentia, licet servetur in quampluribus tenoribus motetorum, non tamen servatur in ipsis motetis. Exempla patent in motetis.</p>
+      <p id="MURARSPA0177">
+      <pb n="[79]" />Et predicta quamvis rudia sufficiant in arte practica mensurabilis cantus anhelantibus introduci.</p>
+    </body>
+  </text>
+</TEI>

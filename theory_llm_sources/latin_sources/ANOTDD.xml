@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Tractatus de discantu</title>
+        <title type="abbrev">ANOTDD</title>
+        <author>Anonymous II</author>
+        <date notBefore="1200" notAfter="1299">13th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Peter Slemon</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Bradley Jon Tucker</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1994</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Anonymous II, 
+<emph>Tractatus de discantu</emph>, ed. Albert Seay, Texts/Translations, no. 1 (Colorado Springs: Colorado College Music Press, 1978), 2–62. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: "Quandocumque punctus quadratus vel nota quadrata tractum habens"</title>
+          
+<idno type="LML">TRAD. Franc. I</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 5539, 24-27</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-SDI 42, 34-43</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Nn XVI.A.15, 1r-v, 1v (Extraits)</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANOTDD0001">
+      <pb n="[2]" />[Anonymi 2]</p>
+      <p id="ANOTDD0002">[Tractatus de discantu]</p>
+      <p id="ANOTDD0003">Gaudent brevitate moderni.</p>
+      <p id="ANOTDD0004">Quandocumque punctus quadratus vel nota quadrata tractum habens a parte dextra descendentem vel ascendentem, longa dicitur, ut hic:</p>
+      <p id="ANOTDD0005">[Lv,Lv,Lv,Lv,Lv,Lv,Lv on staff5]</p>
+      <p id="ANOTDD0006">Longa plicata sic formatur ascendendo vel descendendo, ut hic:</p>
+      <p id="ANOTDD0007">[Bvpssncsdx,Bvpssncsdx,Bvpssncsdx; Lvpdsn,Lvpdsn,Lvpdsn on staff5]</p>
+      <p id="ANOTDD0008">Quandocumque punctus quadratus invenitur qui caret omni tractu, brevis dicitur, ut hic:</p>
+      <p id="ANOTDD0009">[Bv,Bv,Bv,Bv,Bv,Bv,Bv,Bv on staff5]</p>
+      <p id="ANOTDD0010">Brevis plicata sic formatur ascendendo et descendendo, ut hic:</p>
+      <p id="ANOTDD0011">[Bvcssnpsdx,Bvcssnpsdx,Bvcssnpsdx; Bvcdsnpddx,Bvcdsnpddx,Bvcdsnpddx on staff5]</p>
+      <p id="ANOTDD0012">Semibrevis vero formatur ad modum losengae et plicari non potest, ut hic:</p>
+      <p id="ANOTDD0013">[Sv,Sv,Sv,Sv,Sv,Sv,Sv,Sv,Sv on staff5]</p>
+      <p id="ANOTDD0014">Nisi quando tres super unam syllabam ordinantur, ut hic:</p>
+      <p id="ANOTDD0015">[Sv,Sv,Svcsdxodx; Sv,Sv,Svcsdxodx; Sv,Sv,Svcsdxodx; Sv,Sv,Svcsdxodx on staff5]</p>
+      <p id="ANOTDD0016">
+      <pb n="[4]" />Sciendum est quod de ligatis et non ligatis simile est iudicium.</p>
+      <p id="ANOTDD0017">Longa ante longam valet tria tempora, ut hic:</p>
+      <p id="ANOTDD0018">[Lv,Lv,Lv,Lv,Lv,Lv,Lv,Lv,Lv on staff5]</p>
+      <p id="ANOTDD0019">Perfecta longa valet tria tempora, ut hic:</p>
+      <p id="ANOTDD0020">[Lv,3LP,Lv,3LP,Lv,3LP,Lv on staff5]</p>
+      <p id="ANOTDD0021">Imperfecta longa valet duo tempora, ut hic:</p>
+      <p id="ANOTDD0022">[[Lv,2LP,Lv,2LP,Lv,2LP,Lv on staff5]]</p>
+      <p id="ANOTDD0023">Duplex longa valet sex tempora, ut hic:</p>
+      <p id="ANOTDD0024">[2Lv,3LP,2Lv,3LP,2Lv,3LP,2Lv on staff5]</p>
+      <p id="ANOTDD0025">Si autem sola brevis sequatur longam, imperficit eam, ut hic:</p>
+      <p id="ANOTDD0026">[Lv,Bv,Lv,Bv,Lv,Bv,Lv,Bv,Lv,Bv,Lv on staff5]</p>
+      <p id="ANOTDD0027">Nisi per divisionem modi aliter distinguatur, ut hic:</p>
+      <p id="ANOTDD0028">[Lv,pt,Bv,Lv; Lv,pt,Bv,Lv; Lv,pt,Bv,Lv on staff5]</p>
+      <p id="ANOTDD0029">Tunc prima longa valet tria tempora, et brevis sequens refertur ad longam sequentem et imperficit eam.</p>
+      <p id="ANOTDD0030">Omnes breves sunt aequales, nisi duobus modis, scilicet, quando inter duas longas duae breves inveniuntur, ut hic:</p>
+      <p id="ANOTDD0031">[Lv,Bv,Bv,Lv; Lv,Bv,Bv,Lv; Lv,Bv,Bv,Lv; Lv,Bv,Bv,Lv on staff5]</p>
+      <p id="ANOTDD0032">
+      <pb n="[6]" />Vel duae semibreves et brevis, ut hic:</p>
+      <p id="ANOTDD0033">[Lv,Sv,Sv,Bv,Lv; Lv,Sv,Sv,Bv,Lv; Lv,Sv,Sv,Bv,Lv on staff5]</p>
+      <p id="ANOTDD0034">Vel tres semibreves et brevis, ut hic:</p>
+      <p id="ANOTDD0035">[Lv,Sv,Sv,Sv,Bv,Lv; Lv,Sv,Sv,Sv,Bv,Lv on staff5]</p>
+      <p id="ANOTDD0036">Tunc brevis quae est ante ultimam longam valet duo tempora et vocatur altera brevis. Et prima brevis vel valor primae brevis valet tunc unum tempus.</p>
+      <p id="ANOTDD0037">Item, si inter praedictas alio modo divisio modi ponatur, ut hic:</p>
+      <p id="ANOTDD0038">[Lv,Sv,Sv,pt,Bv,Lv; Lv,Sv,Sv,Sv,pt,Bv,Lv on staff5]</p>
+      <p id="ANOTDD0039">Tunc ambae erunt aequales et prima brevis imperficit primam longam, secunda vero ultimam.</p>
+      <p id="ANOTDD0040">Si autem tres breves inveniuntur inter duas longas, praedictae breves erunt aequales, ut hic:</p>
+      <p id="ANOTDD0041">[Lv,Bv,Bv,Bv,Lv; Lv,Bv,Bv,Bv,Lv; Lv,Bv,Bv,Bv,Lv on staff5]</p>
+      <p id="ANOTDD0042">Nisi per divisionem modi aliter distinguatur, ut hic:</p>
+      <p id="ANOTDD0043">[Lv,Bv,pt,Bv,Bv,Lv; Lv,Sv,Sv,pt,Bv,Bv,Lv; Lv,Sv,Sv,Sv,pt,Bv,Bv,Lv on staff5]</p>
+      <p id="ANOTDD0044">Tunc penultima erit altera brevis.</p>
+      <p id="ANOTDD0045">Item si plures breves inveniuntur inter duas longas vel etiam sine prima longa, ita quod tantum ultima longa maneat et in fine duae breves remaneant, tunc ultima brevis habet duo tempora et erit altera brevis, ut hic:</p>
+      <p id="ANOTDD0046">[Lv,Bv,Bv,Bv,Bv,Bv,Bv,Bv,Bv,Bv,Bv,Bv,Lv on staff5]</p>
+      <p id="ANOTDD0047">
+      <pb n="[8]" />Quandocumque duae semibreves inter duas longas vel breves [ms.: longas] inveniuntur, prima habebit unum tempus semibreve, secunda duo tempora semibrevia, ut hic:</p>
+      <p id="ANOTDD0048">[Lv,Sv,Sv,Lv; Bv,Sv,Sv,Bv on staff5]</p>
+      <p id="ANOTDD0049">Si autem tres inveniantur, omnes erunt aequales, ut hic:</p>
+      <p id="ANOTDD0050">[Lv,Sv,Sv,Sv,Lv; Bv,Sv,Sv,Sv,Bv on staff5]</p>
+      <p id="ANOTDD0051">Si autem quatuor, tunc semper duae et duae pro recta brevi computentur, ut hic:</p>
+      <p id="ANOTDD0052">[Lv,Sv,Sv,pt,Sv,Sv,Lv; Bv,Sv,Sv,pt,Sv,Sv,Bv on staff5]</p>
+      <p id="ANOTDD0053">Et sciendum est quod quandocumque plures semibreves inveniuntur inter duas longas vel breves quam tres, omnes erunt inaequales nisi tres in fine remaneant; illae erunt aequales. Sed prius duae et duae semibreves semper pro recta brevi computentur; in fine autem si tres remaneant, illae erunt aequales; ut hic:</p>
+      <p id="ANOTDD0054">[Lv,Sv,Sv,Sv,Sv,Sv,Sv,Sv,Sv,Sv,Lv; Bv,Sv,Sv,Sv,Sv,Sv,Sv,Sv,Sv,Sv,Bv on staff5]</p>
+      <p id="ANOTDD0055">Nisi per divisionem modi aliter distinguatur, ut hic:</p>
+      <p id="ANOTDD0056">[Lv,Sv,Sv,Sv,pt,Sv,Sv,Sv,pt,Sv,Sv,pt,Sv,Sv,pt,Lv; Bv,Sv,Sv,pt,Sv,Sv,Sv,pt,Sv,Sv,pt,Bv on staff5]</p>
+      <p id="ANOTDD0057">De ligaturis</p>
+      <p id="ANOTDD0058">Ligatura ascendens est quandocumque secundus punctus est altior primo, ut hic:</p>
+      <p id="ANOTDD0059">[ClefC4,Lig2vart,2LP,Lig2vart,2LP,Lig2vart,2LP,Lig2vart,2LP,Lig4vaaart,2LP,Lig3vaart; Lig9vadadadad on staff5]</p>
+      <p id="ANOTDD0060">
+      <pb n="[10]" />Descendens est quandocumque primus punctus altior est secundo, ut hic:</p>
+      <p id="ANOTDD0061">[ClefC4,Lig8vcdsndadadad; Lig3vcdsndd; Lig2vcdsnd; Lig3vcdsndd; Lig6vcdsndddad on staff5]</p>
+      <p id="ANOTDD0062">Quandocumque secundus punctus altior est primo et primus punctus caret omni tractu, cum proprietate dicitur, ut hic:</p>
+      <p id="ANOTDD0063">[ClefC3,Lig6vaaodaart; Lig3vad; Lig10vadodaaoddad on staff5]</p>
+      <p id="ANOTDD0064">Quandocumque primus punctus altior est secundo habens tractum a parte sinistra descendentem, cum proprietate dicitur, ut hic:</p>
+      <p id="ANOTDD0065">[ClefC4,Lig2vcdsnd,Lig3vcdsndod,Lig6vcdsnddodad,Lig8vcdsndadodaad,Lig5vcdsndddd on staff5]</p>
+      <p id="ANOTDD0066">Valor: Omnis ligatura cum proprietate, prima brevis est.</p>
+      <p id="ANOTDD0067">Quandocumque secundus punctus altior primo et primus punctus tractum habet a parte dextra descendentem, sine proprietate dicitur, ut hic:</p>
+      <p id="ANOTDD0068">[ClefC4,Lig2vLart,Lig4vLadod; Lig9vLadaodaodad; Lig9vLaadodaddod on staff5]</p>
+      <p id="ANOTDD0069">[Valor]: Omnis ligatura sine proprietate, prima longa dicitur.</p>
+      <p id="ANOTDD0070">Opposita proprietas est, quandocumque in primo puncto ligaturae ascendentis et descendentis tractus ascendens invenitur, ut hic:</p>
+      <p id="ANOTDD0071">[ClefC4,Lig4vcssnaad; Lig4vcssnaaa; Lig4vcssnaodart; Lig4vcssnddod; Lig2vcssnod,Lig9vcssnddaodaddd on staff5]</p>
+      <p id="ANOTDD0072">[Valor]: Omnis opposita proprietas est signum semibrevitatis, duorum ubicumque inveniatur.</p>
+      <p id="ANOTDD0073">Quandocumque ultimus punctus recte stat super penultimam, cum perfectione, ut hic:</p>
+      <p id="ANOTDD0074">[ClefF4,Lig2vart; Lig4vaodart; Lig4vcdsndodart; Lig7vcssnodadaodart on staff5]</p>
+      <p id="ANOTDD0075">In ligatura descendente, quandocumque in fine ligaturae punctus quadrata invenitur, cum perfectione dicitur, ut hic:</p>
+      <p id="ANOTDD0076">
+      <pb n="[12]" />[ClefF4,Lig4vcdsnodad; Lig2vcdsnd; Lig4vcssnddd; Lig5vcssnodadd; Lig6vadadd; Lig3vcssndd on staff5]</p>
+      <p id="ANOTDD0077">[Valor]: Omnis perfectio longa.</p>
+      <p id="ANOTDD0078">Ligatura imperfecta ascendens est quandocumque ultimus punctus stat ab aliquo supra penultimam, ut hic:</p>
+      <p id="ANOTDD0079">[ClefC4,Lig2va,2LP,Lig3vaa; Lig4vaoda,2LP,Lig5vadoda; Lig7vaaaaoda on staff5]</p>
+      <p id="ANOTDD0080">In ligatura descendente imperfecta vocatur quando duae notae in uno corpore obliquo in fine ligaturae inveniuntur, ut hic:</p>
+      <p id="ANOTDD0081">[ClefC4,Lig4vcdsnddod; Lig6vcdsndadaod; Lig3vcdsndod; Lig2vcdsnod on staff5]</p>
+      <p id="ANOTDD0082">[Valor]: Omnis imperfecta brevis.</p>
+      <p id="ANOTDD0083">Omnes mediae sunt breves, nisi per oppositam proprietatem defendantur; tunc mediae erunt semibreves, ut hic:</p>
+      <p id="ANOTDD0084">[CCMP/TT1:12; text: Has ego posui, quia qaue praecedit videtur mihi male stare, cum sint quatuor pro tribus.] 
+      <figure>
+        <graphic url="/images/ANOTDD_01GF.gif" />
+      </figure></p>
+      <p id="ANOTDD0085">Ratio est, quia nulla semibrevis sola inveniri potest.</p>
+      <p id="ANOTDD0086">Ligatura quae est cum perfectione ascendendo et descendendo sic plicatur:</p>
+      <p id="ANOTDD0087">[ClefC4,Lig3vaacddx; Lig3vaacsdx; Lig2vacsdx; Lig2vcdsndcddx; Lig3vcdsnddcddx; Lig2vcdsndpddx on staff5]</p>
+      <p id="ANOTDD0088">Ligatura quae est sine perfectione ascendendo et descendendo, sic plicatur:</p>
+      <p id="ANOTDD0089">[ClefC4,Lig3vaoacsdx; Lig4vcdsnoadoacddx; Lig2vcdsnodcsdx; Lig3vaoacddx on staff5]</p>
+      <p id="ANOTDD0090">
+      <pb n="[14]" />Sequitur de pausis.</p>
+      <p id="ANOTDD0091">Pausationum sex sunt species. Prima pausa est trium temporum, secunda duorum, tertia unius temporis, quarta duarum partium unius temporis, quinta tertiae partis unius temporia, sexta et ultima nullius temporis, sed potius immensurabilis appellatur. Causa inventionis eius fuit haec, ut ubicumque inveniretur, significaret penultimam figuram esse longam.</p>
+      <p id="ANOTDD0092">Pausa trium temporum tria spatia vel valorem trium tegit, scilicet, cum duobus integris et duobus semis.</p>
+      <p id="ANOTDD0093">Pausa duorum temporum duo tegit spatia vel unum integrum et duobus semis.</p>
+      <p id="ANOTDD0094">Pausa unius temporis unum spatium tegit vel duo semis.</p>
+      <p id="ANOTDD0095">Pausa duarum partium unius temporis duas partes unius spatii tantum tegit.</p>
+      <p id="ANOTDD0096">Pausa unius partis unius temporis unam partem unius spatii tantum tegit. [In marg.: Nota quod adiunxi hanc quia credidi eam fore necessariam.]</p>
+      <p id="ANOTDD0097">Pausa quae est immensurabilis finis punctorum appellatur, haec enim plus quam tria spatia tegit. Et apparent formae earum in hoc exemplo:</p>
+      <p id="ANOTDD0098">[CCMP/TT1:14,1]</p>
+      <p id="ANOTDD0099">Quot sunt modi</p>
+      <p id="ANOTDD0100">Modi secundum magistrum Franconem sunt quinque, licet secundum antiquos sint plures.</p>
+      <p id="ANOTDD0101">Primus modus procedit ex omnibus longis, ut hic patet:</p>
+      <p id="ANOTDD0102">[CCMP/TT1:14,2; text: In Bethleem]</p>
+      <p id="ANOTDD0103">Vel ex una longa et brevi, ut hic:</p>
+      <p id="ANOTDD0104">[CCMP/TT1:14,3; text: Mellis stilla]</p>
+      <p id="ANOTDD0105">
+      <pb n="[16]" />Secundus constat ex brevi et longa, ut hic:</p>
+      <p id="ANOTDD0106">[CCMP/TT1:16,1; text: Gaude chorus] 
+      <figure>
+        <graphic url="/images/ANOTDD_02GF.gif" />
+      </figure></p>
+      <p id="ANOTDD0107">Tertius ex una longa et duabus brevibus, ut hic:</p>
+      <p id="ANOTDD0108">[CCMP/TT1:16,2; text: Eximium decus]</p>
+      <p id="ANOTDD0109">Quartus ex duabus brevibus et longa, ut hic:</p>
+      <p id="ANOTDD0110">[CCMP/TT1:16,3; text: Honores mores mutant hominum]</p>
+      <p id="ANOTDD0111">Quintus ex duabus brevibus et longa, ut hic:</p>
+      <p id="ANOTDD0112">[CCMP/TT1:16,4; text: En grant dolour, en grant paour.]</p>
+      <p id="ANOTDD0113">Sequitur de organo.</p>
+      <p id="ANOTDD0114">Organum est [cantus] armonicus diversis troporum consonantiis dulci concordia prolatus, symphoniis variisque metrorum coloribus adornatus. Organi tres sunt species, scilicet, diaphonia, copula et prolatio.</p>
+      <p id="ANOTDD0115">Tredecima species sunt cantus secundum quod moderni dicunt et asserunt, quarum nomina et diffinitiones ulterius insubscribuntur. Verumtamen species cantus possunt esse infinitae per unius additionem ad alteram, quia tenent rationem numeri cui potest fieri additio usque in infinitum. Sed secundum vocem hominis non possunt modo bono aliae cantari, licet in scripto possint poni, et ideo non ponunt alias species praeter istas.</p>
+      <p id="ANOTDD0116">De unisono</p>
+      <p id="ANOTDD0117">Unisonus est prima species cantus et continet tantummodo unam lineam vel unum spatium, et dicitur ab unus et sonus, quasi unius soni, ut hic:</p>
+      <p id="ANOTDD0118">[CCMP/TT1:16,5; text: Unisonus]</p>
+      <p id="ANOTDD0119">
+      <pb n="[18]" />De semitonio</p>
+      <p id="ANOTDD0120">Semitonium est quandocumque mi fa vel fa mi coniunguntur. Et dicitur, ut dicit Boetius, non a semis, quod est dimidium, sed a semis, quod est imperfectum, quasi duae voces non plenum sonum facientes, ut hic:</p>
+      <p id="ANOTDD0121">[CCMP/TT1:18,1; text: Semitonium]</p>
+      <p id="ANOTDD0122">Quid sit tonus</p>
+      <p id="ANOTDD0123">Tonus est ex duabus vocibus perfectus, ut sunt ut re vel re mi vel fa sol vel sol la, et dicitur a tonando, quia plene sonat, ut hic:</p>
+      <p id="ANOTDD0124">[CCMP/TT1:18,2; text: Tonus]</p>
+      <p id="ANOTDD0125">De semiditono</p>
+      <p id="ANOTDD0126">Semiditonus est cantus qui tenet tonum et semitonium, et dicitur a tono et semitonio, ut hic:</p>
+      <p id="ANOTDD0127">[CCMP/TT1:18,3; text: Semiditonus]</p>
+      <p id="ANOTDD0128">Quid sit ditonus</p>
+      <p id="ANOTDD0129">Ditonus est cantus qui continens tres voces ascendendo et descendendo seriatim, ita quod mi fa non interponatur, et dicitur a dia quod est duo, et tonus, ut hic:</p>
+      <p id="ANOTDD0130">[CCMP/TT1:18,4; text: Ditonus]</p>
+      <p id="ANOTDD0131">Quid sit diatessaron</p>
+      <p id="ANOTDD0132">Diatessaron est cantus qui continet quatuor voces, ita quod mi fa semel interponatur, et dicitur a dia, quod est de, et tetra, quod est quatuor, quasi [de...quasi in marg.] de quatuor vocibus, ut hic:</p>
+      <p id="ANOTDD0133">[CCMP/TT1:18,5; text: Diatessaron]</p>
+      <p id="ANOTDD0134">
+      <pb n="[20]" />Quid sit tritonus</p>
+      <p id="ANOTDD0135">Tritonus est cantus qui continet tres tonos et quatuor voces, ita quod mi fa non interponatur, et dicitur a tri quod est tres, et tonus, ut hic:</p>
+      <p id="ANOTDD0136">[CCMP/TT1:20,1; text: Tritonus] 
+      <figure>
+        <graphic url="/images/ANOTDD_03GF.gif" />
+      </figure></p>
+      <p id="ANOTDD0137">Quid sit diapente</p>
+      <p id="ANOTDD0138">Diapente dicitur a dia quod est de, et penta quod est quinque, quia continet quinque voces ita quod mi fa semel interponatur, ut hic:</p>
+      <p id="ANOTDD0139">[CCMP/TT1:20,2; text: Diapente]</p>
+      <p id="ANOTDD0140">Quid sit semitonium cum diapente</p>
+      <p id="ANOTDD0141">Semitonium cum diapente est species composita et continet sex voces, et dicitur quia semitonium et diapente continet, ut hic:</p>
+      <p id="ANOTDD0142">[CCMP/TT1:20,3; text: Semitonium cum diapente]</p>
+      <p id="ANOTDD0143">Quid sit tonus cum diapente</p>
+      <p id="ANOTDD0144">Tonus cum diapente similiter est species composita, ex praedictis patet quod contineat et unde dicatur, ut hic:</p>
+      <p id="ANOTDD0145">[CCMP/TT1:20,4; text: Tonus cum diapente]</p>
+      <p id="ANOTDD0146">Quid sit semiditonus cum diapente</p>
+      <p id="ANOTDD0147">Semiditonus cum diapente est etiam species composita ex semiditono cum diapente, ut hic appareat exemplum:</p>
+      <p id="ANOTDD0148">[CCMP/TT1:20,5; text: Semiditonus cum diapente]</p>
+      <p id="ANOTDD0149">
+      <pb n="[22]" />Quid sit ditonus cum diapente</p>
+      <p id="ANOTDD0150">Ditonus cum diapente est species composita et continet [quinque tonos et unum semitonium] [ms.: tres tonos], ut hic:</p>
+      <p id="ANOTDD0151">[CCMP/TT1:22,1; text: Ditonus cum diapente]</p>
+      <p id="ANOTDD0152">Quid sit diapason</p>
+      <p id="ANOTDD0153">Diapason dicitur a dia, quod est de, et pan, quod est totum, quia continet omnes alias species praedictas sub se et continet [quinque tonos et dua semitonia] [ms.: quatuor voces] ita quod mi fa bis interponatur, ut hic:</p>
+      <p id="ANOTDD0154">[CCMP/TT1:22,2; text: [Diapason]]</p>
+      <p id="ANOTDD0155">Nota tamen quod potest speciei diapason fiere addition, sicut facta est speciei diapente, et potest dici semitonium cum diapason, tonus cum diapason, et sic de aliis usque ad bisdiapason et similiter illi potest addi usque [ad...usque in marg.] ad infinitum, quia rationem numeri tenent, qui potest augeri usque in infinitum.</p>
+      <p id="ANOTDD0156">Nota quod quando dicit continet duas voces, vel tres, vel quatuor, debes intelligere seriatim prolatus, sicut sunt in deductione de ut, re, mi, fa, sol, la.</p>
+      <p id="ANOTDD0157">[De organo]</p>
+      <p id="ANOTDD0158">Per regulas infrascriptas potest cuilibet cantui fieri discantus sive triplum.</p>
+      <p id="ANOTDD0159">Si cantus ascenderit duas voces [ms.: unam vocem] et organum incipiat in diapente, descendat [ms.: descendit] quatuor et erit cum cantu. Et e converso, si descenderit duas, ascendat quatuor et erit in diapente, verbi gratia, ut in hoc exemplo:</p>
+      <p id="ANOTDD0160">[CCMP/TT1:22,3]</p>
+      <p id="ANOTDD0161">
+      <pb n="[24]" />Si cantus ascenderit tres voces et organum incipiat diapason, descendat duas [ms.: unam] et erit in diapente. Et e converso, si descenderit tres, ascendat duas et erit in diapason, ut hic exemplo:</p>
+      <p id="ANOTDD0162">[CCMP/TT1:24,1] 
+      <figure>
+        <graphic url="/images/ANOTDD_04GF.gif" />
+      </figure></p>
+      <p id="ANOTDD0163">Si cantus ascenderit tres voces et organum incipiat in diapente, descendat tres et erit cum cantu. Et si descenderit tres, ascendat tres et erit in cantu, ut hic:</p>
+      <p id="ANOTDD0164">[CCMP/TT1:24,2]</p>
+      <p id="ANOTDD0165">Si cantus ascenderit quatuor voces et organum incipiat in diapason, descendat in quinta et erit cum cantu. Si descenderit quatuor, ascendat quinque et erit in diapason, ut hic:</p>
+      <p id="ANOTDD0166">[CCMP/TT1:24,3]</p>
+      <p id="ANOTDD0167">
+      <pb n="[26]" />Si cantus ascenderit [ms.: descenderit] quatuor voces et organum incipiat in diapente, descendat duas et erit in cantu. Et e converso, si descenderit quatuor, ascendat duas et erit in cantu, [ut hic:]</p>
+      <p id="ANOTDD0168">[CCMP/TT1:26,1]</p>
+      <p id="ANOTDD0169">Si cantus ascenderit [ms.: ascendat] quinque voces et organum incipiat in diapason, descendat quatuor et erit cum cantu. Et e converso, si descenderit quinque, ascendat quatuor et erit in diapason, ut hic:</p>
+      <p id="ANOTDD0170">[CCMP/TT1:26,2]</p>
+      <p id="ANOTDD0171">Si cantus ascenderit quinque voces et organum incipiat in diapente, descendat quinque et erit in diapente. Et e converso similiter, ut hic:</p>
+      <p id="ANOTDD0172">[CCMP/TT1:26,3]</p>
+      <p id="ANOTDD0173">
+      <pb n="[28]" />[De musica falsa]</p>
+      <p id="ANOTDD0174">Et sciendum est quod Boetius determinavit de semitonio per solutionem cuiusdam quaestionis, nam ita est quod aliquando per fictam musicam facimus semitonium, ubi non debet esse. Nam in mensurabili musica illud videmus quod tenor moteti, vel organi, vel conducti stat in [rob] fa [sqb] mi, dicendo per [sqb] durum, tunc accipiendo in diapente sive discantu oportet dicere mi aut inferius aut superius et sic per falsam musicam, nam facere diapente a mi in fa non est bona concordantia, quia fa magis habet de sono quam mi. Et oportet quod ubi est diapente ab una voce in aliam, ibi sit bona concordantia.</p>
+      <p id="ANOTDD0175">Et ideo oritur quaestio ex hoc quod videlicet quae fuit necessitas in musica considerari de falsa musica sive de falsa mutatione, cum nullum regulare debeat accipere falsum, sed potius verum.</p>
+      <p id="ANOTDD0176">Ad quod est dicendum quod mutatio falsa sive falsa musica non est inutilis, imo est necessaria propter bonam consonantiam inveniendam et malam vitandam. Nam sic dictum est: Si velimus habere diapente, de necessitate oportet quod habeamus tres tonos cum semitonio, ita quod si aliqua figura sit in [rob] fa [sqb] mi et alia in fa f acuto per naturam, tunc non est ibi consonantia sed dissonantia cum semitonio duplici. Verumtamen potest fieri ibidem per falsam musicam quam appellamus, scilicet, quando facimus de semitonio tonum vel e converso; non tamen falsa musica, sed inusitata.</p>
+      <p id="ANOTDD0177">Unde notandum est quod [rob] molle non est origine aliarum clavium. Haec autem cognoscitur per signum [sqb] quadrati vel [rob] rotundi in loco inusitato locatum, ita quod dicamus mi durum in f acutum cum signo [sqb] quadrati, vel si [rob] rotundum ponamus in [rob] fa [sqb] mi vel in consimilibus, ita quod sit in toni proportione, et tunc erit cum diapente consonantia. Et ideo falsa musica est necessaria quandoque. Et etiam ut omnis consonantia seu melodia in quolibet signo perficiatur.</p>
+      <p id="ANOTDD0178">Est notandum quod diatessaron fit de qualibet quarta voce ad quartam praeterquam ab F gravi in [sqb] acutum quadratum, vel ab eodem rotundo in e acuto, ut hic:</p>
+      <p id="ANOTDD0179">[CCMP/TT1:28] 
+      <figure>
+        <graphic url="/images/ANOTDD_05GF.gif" />
+      </figure></p>
+      <p id="ANOTDD0180">Fieri tamen potest ibi et consimilibus per falsam musicam praedictam.</p>
+      <p id="ANOTDD0181">
+      <pb n="[30]" />Item diapente fit in qualibet quinta voce ad quintam, praeter a [sqb] gravi in F gravem, vel a [sqb] acutum ad f acutum, ut hic:</p>
+      <p id="ANOTDD0182">[CCMP/TT1:30,1]</p>
+      <p id="ANOTDD0183">Fieri tamen potest per falsam musicam et in consimilibus.</p>
+      <p id="ANOTDD0184">Diapason fit aut a qualibet octava ad octavam praeterquam a [sqb] gravi in [rob] molle acutum, vel a [sqb] quadro acuto in [rob] molle superacutum, ut hic:</p>
+      <p id="ANOTDD0185">[CCMP/TT1:30,2]</p>
+      <p id="ANOTDD0186">Fieri tamen potest per falsam musicam, ut dictum est.</p>
+      <p id="ANOTDD0187">Sequitur de discantu.</p>
+      <p id="ANOTDD0188">Quoniam latens scientia nulli prodest et cito labitur, distributa vero multum prodest et magnum recipit incrementum. Idcirco artem sciendi componere et proferre discantum ex improviso quae diu latuit apud quosdam peritos musicos pro posse nostro nostris specialibus proponimus enodare. Videndum est ergo quid sit discantus, et unde dicatur, et ex quibus partibus et qualiter componatur, et quot vel quae requiruntur ad eius bonitatem.</p>
+      <p id="ANOTDD0189">Quid sit discantus.</p>
+      <p id="ANOTDD0190">Discantus est aliquorum diversorum cantuum consonantia secundum modum et secundum aequipollentis sui aequipollentiam. Discantus dicitur quasi diversus cantus eo quod illi cantus ex quibus componitur differe debent, ita quod quando unus cantus ascendit, alter descendat. Possunt tamen ambo simul ascendere vel descendere propter cantuum pulchritudinem.</p>
+      <p id="ANOTDD0191">Notandum quod ad bonitatem discantus quatuor requiruntur:</p>
+      <p id="ANOTDD0192">Primo, quod illorum diversorum cantuum sit differentia ita quod quando unus ascendit alter descendat. Aliquando tamen permittitur quod ambo simul ascendant et descendant propter cantuum pulchritudinem per se.</p>
+      <p id="ANOTDD0193">
+      <pb n="[32]" />Secundo, requiritur cantuum pulchritudo.</p>
+      <p id="ANOTDD0194">Tertio, requiritur in ipsorum prolationem bona melodia.</p>
+      <p id="ANOTDD0195">Quarto, requiritur bona cadentia dictaminum cum discantu ita quod longae figurae longis syllabis, breves brevibus nobiliter adaptentur.</p>
+      <p id="ANOTDD0196">Quomodo fit discantus.</p>
+      <p id="ANOTDD0197">Componitur autem discantus ex consonantiis principaliter et ex dissonantiis incidentaliter, ut discantus sit per se pulchrior, et ut post ipsas magis consonantiis delectemur.</p>
+      <p id="ANOTDD0198">Consonantia est diversorum sonorum sibimet permixtorum; dissonantia dura collisio.</p>
+      <p id="ANOTDD0199">Consonantiarum aliae perfectae, aliae imperfectae, aliae mediae. Perfectae sunt ut unisonus et diapason. Imperfectae sunt ditonus et semiditonus, quae sunt bonae veniendo a diapente in diapente, vel a diapente ad unisonum, et e converso, et tonus cum diapente, quae est bona ante diapason. Mediae sunt diatessaron et diapente.</p>
+      <p id="ANOTDD0200">Aliae species, scilicet, tonus, semitonium, tritonus, semitonium cum diapente, vocantur dissonantiae. Quibus dissonantiis non utitur in longis, nisi tenens velit se fingere vel tacere.</p>
+      <p id="ANOTDD0201">Ad haec autem intelligenda, notandum est capitulum de proportionibus quod spectat ad planam musicam. Sed quia sine falsa musica non possimus discantare, ideo de ipsa breviter videamus.</p>
+      <p id="ANOTDD0202">Sequitur de falsa musica</p>
+      <p id="ANOTDD0203">Falsa musica dicitur esse quando locatur [rob] molle vel [sqb] quadrum in loco non usitato.</p>
+      <p id="ANOTDD0204">Sunt enim duo signa falsae musicae, scilicet, [rob] molle et [sqb] quadratum. Ubi ponitur [rob] rotundum dicitur fa; ubi vero [sqb] quadrum dicetur mi. Et sic potest unam speciem in aliam transmutari, ut visum est in capitulo de proportionibus.</p>
+      <p id="ANOTDD0205">Fuit autem inventa falsa musica propter duas causas, scilicet, causa necessitatis et causa pulchritudinis cantus per se. Causa necessitatis, quia non poteramus habere diapente, diatessaron, diapason, ut in locis visis in capitulo de proportionibus. Causa pulchritudinis, ut patet in cantilenis [ms.: cantinellis] coronatis.</p>
+      <p id="ANOTDD0206">
+      <pb n="[34]" />[De discantu]</p>
+      <p id="ANOTDD0207">Sciendum est quod in plana musica vel mensurabili aut fit unisonus, aut ascensus unius, aut duorum, aut trium, aut quatuor, aut quinque, quod raro accidit, vel descensus e converso.</p>
+      <p id="ANOTDD0208">Et secundum hoc dantur regulae subsequentes. Unde qui vult scire modum discantus, primo debet scire duplam et quintam cuiuslibet notae, ut sequitur. Et dico duplam, id est, octavam quod est diapason. Et sciendum est quod ad intelligendum exempla, requiritur cognitio figurarum modorum et pausarum.</p>
+      <p id="ANOTDD0209">Ad unisonum incipiens in diapason supra vel in diapente infra, fac diatessaron deprimendo. Et nota quod quando dicitur ascende vel descende, sic vel sic, prima non computatur; sequuntur exempla:</p>
+      <p id="ANOTDD0210">[CCMP/TT1:34]</p>
+      <p id="ANOTDD0211">Incipiens autem in diapente supra vel in diapason infra, fac diatessaron elevando, ut hic:</p>
+      <p id="ANOTDD0212">
+      <pb n="[36]" />[CCMP/TT1:36,1] 
+      <figure>
+        <graphic url="/images/ANOTDD_06GF.gif" />
+      </figure></p>
+      <p id="ANOTDD0213">Vel incipiens in diapason supra, fac diatessaron deprimendo vel fac unisonum. Ubicumque incipias, longis, brevibus et semibrevibus nobiliter intermixtis, ut hic:</p>
+      <p id="ANOTDD0214">[CCMP/TT1:36,2]</p>
+      <p id="ANOTDD0215">
+      <pb n="[38]" />Ad ascensum unius incipiens in diapason supra vel in diapente infra, et descende duas voces, ut hic:</p>
+      <p id="ANOTDD0216">[CCMP/TT1:38,1] 
+      <figure>
+        <graphic url="/images/ANOTDD_07GF.gif" />
+      </figure></p>
+      <p id="ANOTDD0217">Vel incipiens in diapente supra vel cum tenore, descende tres voces, ut hic:</p>
+      <p id="ANOTDD0218">[CCMP/TT1:38,2]</p>
+      <p id="ANOTDD0219">
+      <pb n="[40]" />Ad ascensum duarum, incipiens in diapason supra vel in diapente infra, descende unam vocem, ut hic:</p>
+      <p id="ANOTDD0220">[CCMP/TT1:40,1] 
+      <figure>
+        <graphic url="/images/ANOTDD_08GF.gif" />
+      </figure></p>
+      <p id="ANOTDD0221">Vel incipiens in diapente supra vel cum tenore, descende duas voces, ut hic:</p>
+      <p id="ANOTDD0222">[CCMP/TT1:40,2]</p>
+      <p id="ANOTDD0223">
+      <pb n="[42]" />Ad ascensum trium, incipiens in diapason supra vel in diapente infra, fac unisonum, ut hic:</p>
+      <p id="ANOTDD0224">[CCMP/TT1:42,1] 
+      <figure>
+        <graphic url="/images/ANOTDD_09GF.gif" />
+      </figure></p>
+      <p id="ANOTDD0225">Vel incipiens in diapente supra vel cum tenore, descende unam vocem, ut hic:</p>
+      <p id="ANOTDD0226">[CCMP/TT1:42,2]</p>
+      <p id="ANOTDD0227">
+      <pb n="[44]" />Incipiens autem in diapason supra vel cum tenore, fac diapente deprimendo, ut hic:</p>
+      <p id="ANOTDD0228">[CCMP/TT1:44,1] 
+      <figure>
+        <graphic url="/images/ANOTDD_10GF.gif" />
+      </figure></p>
+      <p id="ANOTDD0229">Ad ascensum quatuor, incipiens in diapason supra vel in diapente infra, ascende unam vocem, ut hic:</p>
+      <p id="ANOTDD0230">[CCMP/TT1:44,2]</p>
+      <p id="ANOTDD0231">
+      <pb n="[46]" />Vel incipiens in diapente supra vel cum tenore, fac unisonum, ut hic:</p>
+      <p id="ANOTDD0232">[CCMP/TT1:46,1] 
+      <figure>
+        <graphic url="/images/ANOTDD_11GF.gif" />
+      </figure></p>
+      <p id="ANOTDD0233">Incipiens autem in diapason supra vel cum tenore, descende tres voces, ut hic:</p>
+      <p id="ANOTDD0234">[CCMP/TT1:46,2]</p>
+      <p id="ANOTDD0235">
+      <pb n="[48]" />Ad ascensum quinque, qui raro accidit, incipiens in diapason supra vel diapente infra, ascende duas voces, ut hic:</p>
+      <p id="ANOTDD0236">[CCMP/TT1:48,1] 
+      <figure>
+        <graphic url="/images/ANOTDD_12GF.gif" />
+      </figure></p>
+      <p id="ANOTDD0237">Vel incipiens in diapente supra vel cum tenore, ascende unam vocem, ut hic:</p>
+      <p id="ANOTDD0238">[CCMP/TT1:48,2]</p>
+      <p id="ANOTDD0239">
+      <pb n="[50]" />Incipiens autem in diapason supra vel cum tenore, descende duas voces, ut hic:</p>
+      <p id="ANOTDD0240">[CCMP/TT1:50,1] 
+      <figure>
+        <graphic url="/images/ANOTDD_13GF.gif" />
+      </figure></p>
+      <p id="ANOTDD0241">Ad descensum unius, incipiens in diapason infra vel in diapente supra, ascende duas voces, ut hic:</p>
+      <p id="ANOTDD0242">[CCMP/TT1:50,2; text: omittuntur in manuscripta]</p>
+      <p id="ANOTDD0243">
+      <pb n="[52]" />Vel incipiens in diapente infra vel cum tenore, ascende tres voces, ut hic:</p>
+      <p id="ANOTDD0244">[CCMP/TT1:52,1] 
+      <figure>
+        <graphic url="/images/ANOTDD_14GF.gif" />
+      </figure></p>
+      <p id="ANOTDD0245">Ad descensum duarum, incipiens in diapason infra vel in diapente supra, ascende unam vocem, ut hic:</p>
+      <p id="ANOTDD0246">[CCMP/TT1:52,2]</p>
+      <p id="ANOTDD0247">
+      <pb n="[54]" />Vel incipiens in diapente infra vel cum tenore, ascende duas voces, ut hic:</p>
+      <p id="ANOTDD0248">[CCMP/TT1:54,1] 
+      <figure>
+        <graphic url="/images/ANOTDD_15GF.gif" />
+      </figure></p>
+      <p id="ANOTDD0249">Ad descensum trium, incipiens in diapason infra vel in diapente supra, fac unisonum, ut hic:</p>
+      <p id="ANOTDD0250">[CCMP/TT1:54,2]</p>
+      <p id="ANOTDD0251">
+      <pb n="[56]" />Vel incipiens in diapente infra vel cum tenore, ascende unam vocem, ut hic:</p>
+      <p id="ANOTDD0252">[CCMP/TT1:56,1] 
+      <figure>
+        <graphic url="/images/ANOTDD_16GF.gif" />
+      </figure></p>
+      <p id="ANOTDD0253">Incipiens in diapason infra vel cum tenore, ascende quatuor voces, ut hic:</p>
+      <p id="ANOTDD0254">[CCMP/TT1:56,2]</p>
+      <p id="ANOTDD0255">
+      <pb n="[58]" />Ad ascensum quatuor, incipiens in diapason infra vel diapente supra, descende unam vocem, ut hic:</p>
+      <p id="ANOTDD0256">[CCMP/TT1:58,1] 
+      <figure>
+        <graphic url="/images/ANOTDD_17GF.gif" />
+      </figure></p>
+      <p id="ANOTDD0257">Vel incipiens in diapente infra vel cum tenore, fac unisonum, ut hic:</p>
+      <p id="ANOTDD0258">[CCMP/TT1:58,2]</p>
+      <p id="ANOTDD0259">
+      <pb n="[60]" />Incipiens autem in diapason infra vel cum tenore, ascende tres voces, ut hic:</p>
+      <p id="ANOTDD0260">[CCMP/TT1:60,1] 
+      <figure>
+        <graphic url="/images/ANOTDD_18GF.gif" />
+      </figure></p>
+      <p id="ANOTDD0261">Ad ascensum quinque, qui raro accidit, incipiens in diapason infra vel in diapente supra, descende duas voces, ut hic:</p>
+      <p id="ANOTDD0262">[CCMP/TT1:60,2]</p>
+      <p id="ANOTDD0263">
+      <pb n="[62]" />Vel incipiens in diapente infra vel cum tenore, descende unam vocem, ut hic:</p>
+      <p id="ANOTDD0264">[CCMP/TT1:62,1] 
+      <figure>
+        <graphic url="/images/ANOTDD_19GF.gif" />
+      </figure></p>
+      <p id="ANOTDD0265">Incipiens autem in diapason infra vel cum tenore, ascende duas voces, ut hic:</p>
+      <p id="ANOTDD0266">[CCMP/TT1:62,2]</p>
+      <p id="ANOTDD0267">Et de discantu hic dicta sufficiant. Amen. Amen.</p>
+    </body>
+  </text>
+</TEI>

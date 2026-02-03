@@ -1,0 +1,1018 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Liber de arte contrapuncti, Liber primus</title>
+        <title type="abbrev">TINCPT1</title>
+        <author>Tinctoris, Johannes</author>
+        <date notBefore="1400" notAfter="1499">15th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Stephen E. Hayes</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Peter M. Lefferts</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Bradley Jon Tucker</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1992</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>Johannis Tinctoris Opera theoretica</emph>, ed. Albert Seay, 3 vols. in 2, Corpus scriptorum de musica, vol. 22 ([Rome]: American Institute of Musicology, 1975-78), 2:11–89. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Iohannes Tinctoris: Liber de arte contrapuncti</title>
+          
+<idno type="LML">IOH. TINCT. contr.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">B-Br II 4147, 52-101</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">E-VAu 835, 77v-144</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Bu 2573, 88-166</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="TINCPT10001">
+      <pb n="[11]" />Liber de arte contrapuncti a Magistro Johanne Tinctoris, Iurisconsulto ac Musico serenissimique Regis Siciliae capellano compositus feliciter incipit.</p>
+      <p id="TINCPT10002">Prologus</p>
+      <p id="TINCPT10003">Sacratissimo gloriosissimoque principi Ferdinando, Dei gratia Jerusalem ac Siciliae regi, Johannes Tinctoris, inter musicos eius minimus, observantiam immortalem.</p>
+      <p id="TINCPT10004">Quia iam olim, prudentissime rex, apud Horatii poeticam versum hunc elegantissimum verissimumque reppererim:</p>
+      <p id="TINCPT10005">"Scribendi recte sapere est et principium et fons."</p>
+      <p id="TINCPT10006">Antequam de musica aliquid conscriberem, sapientiam rerum diversarum ad eam pertinentium audiendo, legendo cum exercitatione continua quoad potui, acquirere conatus sum. Quod tametsi audiens ipsam Sapientiam clamitantem, "Ego diligentes me diligo et qui vigilaverint ad me, invenient me," firma cum fiducia adorsus fuerim, me tamen huiusque fontis eius unicam stillam vix exhausisse confiteor. Et hanc profecto, quantulacumque sit, per minutos calami rivulos effundere in attentos atque dociles animos mihi decretum est, non ut eo officio gloriam mihi pariam, quo Titus Livius, auctor celeberrimus, a Plinio reprehenditur, sed ut posteritati quod Cicero optimi cuiusque opus asserit pro modulo ingenii serviam, ne talentum a Deo, qui iuxta Prophetam scientiarum dominus est, mihi traditum in terra fodiens, in tenebras exteriores ubi fletus ac stridor dentium erit tamquam servus inutilis eiici praecipiar.</p>
+      <p id="TINCPT10007">Iam itaque inter caetera de arte contrapuncti, qui ex consonantiis onnem musicae delectationem, Boethio teste, regentibus conficitur, ad gloriam et honorem sempiternae maiestatis Eius, cui per ipsum contrapunctum ut in Psalmo imperatur fit iocunda decoraque laudatio, ac omnium huius artis egregiae studiosorum utilitatem, ea pauca quae pervigili studio percepit, conscribere omnino statui.</p>
+      <p id="TINCPT10008">Quod priusquam exequar, silentio praeterire nequeo complures philosophus ut Platonem, Pythagoram eorumque sequaces, Ciceronem, 
+      <pb n="[12]" />Macrobium, Boethium ac nostrum Isidorum, orbes siderum sub harmonica modulatione, hoc est concordantiarum diversarum concentu revolvi. Sed quom, ut refert Boethius, alii Saturnum gravissimo atque gradatim per reliquos planetas discurrendo lunam acutissimo sono moversi disserant, alii autem e converso gravissimum sonum lunae et acutissimum cursui stellifero attribuant, neutri opinioni fidem adhibeo. Immo Aristoteli ac commentatori cum nostris recentioribus philosophis in caleo nec realem nec intentionalem esse sonum manifestissime probantibus irrefragabiliter credo. Quo fit ut concordantias musicas quae praeter sonum effici non possunt motu corporum caelestium fieri numquam mihi persuaderi poterit.</p>
+      <p id="TINCPT10009">Concordantiae igitur vocum et cantuum quorum suavitate, ut inquit Lactantinus, aurium voluptas percipitur, non corporibus caelestibus sed instrumentis terrenis cooperante natura conficiuntur, quibusquidem concordantiis, licet veteres etiam musici ut Plato, Pythagoras, Nicomachus, Aristoxenus, Philolaus, Archytas, Ptolomaeus ac alii numerosi, ipse quoque Boethius, operosissime incubuerint, tamen qualiter ordinare componereque soliti sint nobis minime notum est.</p>
+      <p id="TINCPT10010">Et si visa auditaque referre liceat nonnulla vetusta carmina ignotae auctoritatis quae apocrypha dicuntur in manibus aliquando habui, adeo inepte, adeo insulse composita ut multo potius aures offendebant quam delectabant.</p>
+      <p id="TINCPT10011">Neque quod satis admirari nequeo quippiam compositum nisi citra annos quadraginta extat quod auditu dignum ab eruditis existimetur. Hac vero tempestate, ut praeteream innumeros concentores venustissime pronuntiantes, nescio an virtute cuiusdam caelestis influxus an vehementia assiduae exercitationis infiniti florent compositores, ut Johannes Okeghem, Johannes Regis, Anthonius Busnois, Firminus Caron, Guillermus Faugues, qui novissimis temporibus vita functos Johannem Dunstaple, Egidium Binchois, Guillermum Dufay se praeceptores habuisse in hac arte divina gloriantur. Quorum omnium omnia fere opera tantam suavitudinem redolent ut, mea quidem sententia, non modo hominibus heroibusque verum etiam Diis immortalibus dignissima censenda sint. Ea quoque profecto numquam audio, numquam considero quin laetior ac doctior evadam, unde quemadmodum Virgilius in illo opere divino Eneidos Homero, ita iis Hercule, in meis opusculis utor 
+      <pb n="[13]" />archetypis. Praesertim autem in hoc in quo, concordantias ordinando, approbabilem eorum componendi stilum plane imitatus sum.</p>
+      <p id="TINCPT10012">Porro non ignarus, optime regum, quam ubero fonte amicitiae, hoc est benevolentia, me pro tua insigni humanitate prosequaris, hoc ipsum opusculum tuo nomini praestantissimo dicare institui, sperans id lignum fore aridissimum quo caritatis illius qua hactenus erga me tua splendidissima maiestas affecta est, indeficiens ignis longe flagrantius ardebit. Hoc enim ex virtute mera procedere manifestissimum est qua, ut ait Tullius, nihil est amabilius.</p>
+      <p id="TINCPT10013">
+      <pb n="[14]" />Incipit liber primus</p>
+      <p id="TINCPT10014">Capitulum I--Quid sit, unde dicatur et ex quo fiat contrapunctus.</p>
+      <p id="TINCPT10015">Contrapuncto daturos operam quid sit ac unde descendat scire primum oportet. Contrapunctus itaque est moderatus ac rationabilis concentus per positionem unius vocis contra aliam effectus, diciturque contrapunctus a contra et punctus, eo quod una nota contra aliam posita tamquam uno puncto contra alium constituatur. Hinc omnis contrapunctus ex mixtura vocum fit. Quaequidem mixtura aut dulciter auribus consonat, et sic est concordantia, aut aspere dissonat et tunc est discordantia.</p>
+      <p id="TINCPT10016">Sed quoniam in contrapuncto principaliter concordantiae praecipiuntur, discordantiae vero interdum permittuntur, primo de illis ac postremo de istis scribere decrevimus.</p>
+      <p id="TINCPT10017">Capitulum II--De generali concordantiarum diffinitione, origine, numero, proportionibus, nominibus ac multiformi divisione.</p>
+      <p id="TINCPT10018">Est igitur concordantia duarum vocum mixtura naturali virtute dulciter auribus conveniens dictamque concordantiam arbitror metaphorice a con et corde, sicut enim ex coniunctione duorum cordium sibi mutuo consentientium amicitia dulcis efficitur, ita ex mixtura duarum vocum inter se convenientium concordantia suavis constituitur.</p>
+      <p id="TINCPT10019">Et quamvis ab auctoribus diversis concordantia, nunc consonantia, nunc concrepantia, nunc euphonia, nunc symphonia, nunc species nominetur, quia tamen illud nomen istis multo communius est, eo praeuti omnino decrevi.</p>
+      <p id="TINCPT10020">Hinc in primis animadvertendum sex tantum concordantiis, ut ex Muscia Boethii ex dictisque Macrobii libro secundo In Somnium Scipionis accepi, nostros maiores usos fuisse, id est diatessaron, diapente, diapason, diatessaron supra diapason, diapente super diapason ac bisdiapason. Quarum tres, hoc est diatessaron, diapente ac diapason, qua ratione proportionali constarent primus 
+      <pb n="[15]" />omnium Pythagoras invenit. Fabrorum etenim officinam quodam nutu divino praeteriens, malleorum ictibus istas tres concordantias effici cognovit. Hinc pondus eorum examinans, malleo duodecim ponderum existente ad eum qui novem erat relato, diatessaron ex sexquiteria proportione fieri perpendit. Quom malleus iste novem ponderum ad eum quod sex erat relatus fuit proportio sexquialtera diapente reddidit atque per relationem illius mallei duodecim ponderum existentis ad istum qui sex erat proportionem duplam efficere diapason, liquido perceptum est. Porro diatessaron supra diapason ex proportione dupla superbipartiente tertias et diapente supra diapason ex tripla bisque diapason ex quadrupla constitui Boethius in sua Musica manifestissime demonstrat.</p>
+      <p id="TINCPT10021">Recentiores vero musici non solum propter cordas instrumentorum auctas sed etiam propter aliquorum voces excellentissimas pluribus utuntur concordantiis. Multos etenim cantus compositos totam manum continentes et quosdam excedere vidi, nonnullos etiam pueros ad tridiapason usque contrapunctum canentes audivi. Quo fit ut concordantiae nunc usitate 22 sint, hoc est:</p>
+      <p id="TINCPT10022">Unisonus</p>
+      <p id="TINCPT10023">Semiditonus</p>
+      <p id="TINCPT10024">Ditonus</p>
+      <p id="TINCPT10025">Diatessaron</p>
+      <p id="TINCPT10026">Diapente</p>
+      <p id="TINCPT10027">Diapente cum semitonio</p>
+      <p id="TINCPT10028">Diapente cum tono</p>
+      <p id="TINCPT10029">Diapason</p>
+      <p id="TINCPT10030">Semiditonus supra diapason</p>
+      <p id="TINCPT10031">Ditonus supra diapason</p>
+      <p id="TINCPT10032">Diatessaron supra diapason</p>
+      <p id="TINCPT10033">Diapente supra diapason</p>
+      <p id="TINCPT10034">Diapente cum semitonio supra diapason</p>
+      <p id="TINCPT10035">Diapente cum tono supra diapason</p>
+      <p id="TINCPT10036">Bisdiapason</p>
+      <p id="TINCPT10037">Semiditonus supra bisdiapason</p>
+      <p id="TINCPT10038">Ditonus supra bisdiapason</p>
+      <p id="TINCPT10039">Diatessaron supra bisdiapason</p>
+      <p id="TINCPT10040">
+      <pb n="[16]" />Diapente supra bisdiapason</p>
+      <p id="TINCPT10041">Diapente cum semitonio supra bisdiapason</p>
+      <p id="TINCPT10042">Diapente cum tono supra bisdiapason</p>
+      <p id="TINCPT10043">Tridiapason</p>
+      <p id="TINCPT10044">Omnium autem harum concordantiarum aliae sunt simplices et aliae compositae. Simplices illae dicuntur quae ex nullis aliis componuntur, ut unisonus, semiditonus, ditonus et diatessaron. Compositae vero sunt quae ex aliquarum aliarum coniunctione resultant, ut diapente quod ex semiditono et ditono constat, diapente cum semitonio quod ex diatessaron et semiditono fit, diapente cum tono quod ex diatessaron et ditono componitur, diapason quod ex diapente et diatessaron confectum est, et sic de aliis.</p>
+      <p id="TINCPT10045">Sed quoniam Boethius inter simplices concordantias diapente posuerit, ne contra eum irrationabiliter sentire videamur, dico ipsum nec semiditoni nec ditoni habuisse notitiam. Minimam enim concordantiam in primo libro suae Musicae diatessaron vocans, nullam prorsus de praedictis duabus concordantiis in aliquo librorum suorum mentionem facit. Unde cum partes ipsius diapente ignoravit, non miror si idipsum inter concordantias simplices collocaverit.</p>
+      <p id="TINCPT10046">Praeterea notandum est Ptolomeum diapason, bisdiapason et tridiapason aequisonantias non concordantias appellasse, eo quod unum ex duobus atque simplicem quodammodo efficiunt sonum. Non obest tamen quoniam etiam concordantiae dici possint, namque omnis aequisonantia est concordantia sed non e converso.</p>
+      <p id="TINCPT10047">Insuper concordantiarum aliae perfectae sunt et aliae imperfectae. Perfectae sunt illae per quas tamquam principales et ad hoc magis aptas omnis cantus perfectiones constituuntur, ut sunt unisonus, diatessaron, diapente, diapason, diatessaron supra diapason, diapente supra diapason, bisdiapason, diatessaron supra bisdiapason, diapente supra bisdiapason, tridiapason. Imperfectae sunt per quas tamquam minus principales et ad hoc ineptas nulla cantus fit perfectio, cuiusmodi sunt semiditonus, ditonus, diapente cum semitonio, diapente cum tono ac caeterae ex eis et diapason aut bisdiapason compositae.</p>
+      <p id="TINCPT10048">Denique omnis concordantia praeter unisonum aut superior aut inferior dicitur. Concordantia superior illa est quae supra tenorem constituitur, inferior vero quae infra tenorem ponitur. Porro cantum primo institutum supra vel infra quem contrapunctus efficitur proprie tenorem appellamus, 
+      <pb n="[17]" />tamquam ipsum contrapunctum qui secundum eum fieri debet subditum sibi quodammodo tenentem.</p>
+      <p id="TINCPT10049">Sed hic 22 concordantias tradens artis musicae praeceptoribus refragari videor, enimvero quatuor tantummodo docent, id est ut more eorum loquar tertiam, quintam, sextam et octavam, asserentes unisonum ac diatessaron non esse concordantias omnesque supra diapason reiterationes, et certe id facio. Nam ut de unisono et diatessaron taceam, de eius suis locis disceptaturus concordantias esse reiterationes nego, immo eas differre realiter ab inferioribus asserere non erubesco, sicut enim Boethius ait, consonantiae consonantiis superpositae alias quasdam consonantias efficunt. Unde fit ut concordantiae sint infinitae. Sed quoniam infinitatem attingere nequeo ac supervacua reiicere volo, ad istas 22 concordantias me restrinxi, quas aevi presentis compositores cantoresque priscis multo praestantiores, more Aristoxeni aurium iudicio comprobatas, in usum assumpserunt, de quibus antequam ulterius tractemus, eas vulgarioribus terminis secundum quos, ut facilior nostra sit eruditio, procedemus, interpretari mens est.</p>
+      <p class="textFig" id="TINCPT10050">Semiditonus&#160;itaque&#160;communiter&#160;dicitur&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;tertia&#160;imperfecta
+      <lb />Ditonus&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;tertia&#160;perfecta
+      <br />Diatessaron&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;quarta
+      <lb />Diapente&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;quinta
+      <br />Diapente&#160;cum&#160;semitonio&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;sexta&#160;imperfecta
+      <lb />Diapente&#160;cum&#160;tono&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;sexta&#160;perfecta
+      <br />Diapason&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;octava
+      <lb />Semiditonus&#160;supra&#160;diapason&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;decima&#160;imperfecta
+      <br />Ditonus&#160;supra&#160;diapason&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;decima&#160;perfecta
+      <lb />Diatessaron&#160;supra&#160;diapason&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;undecima
+      <br />Diapente&#160;supra&#160;diapason&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;duodecima
+      <lb />Diapente&#160;cum&#160;semitonio&#160;supra&#160;diapason&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;tertiadecima&#160;imperfecta
+      <br />Diapente&#160;cum&#160;tono&#160;supra&#160;diapason&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;tertiadecima&#160;perfecta
+      <lb />Bisdiapason&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;quintadecima
+      <br />Semiditonus&#160;supra&#160;bisdiapason&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;decimaseptima&#160;imperfecta
+      <lb />Ditonus&#160;supra&#160;bisdiapason&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;decimaseptima&#160;perfecta
+      <br />Diatessaron&#160;supra&#160;bisdiapason&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;decimaoctava
+      <lb />Diapente&#160;supra&#160;bisdiapason&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;decimanona
+      <br />
+      <pb n="[18]" />&#160;Diapente&#160;cum&#160;semitonio&#160;supra&#160;bisdiapason&#160;&#160;vicesima&#160;imperfecta
+      <lb />Diapente&#160;cum&#160;tono&#160;supra&#160;bisdiapason&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;vicesima&#160;perfecta
+      <br />Tridiapason&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;vicesimasecunda
+      <lb /></p>
+      <p id="TINCPT10051">Quamvis autem haec vulgaria concordantiarum nomina ordinali numero sint instituta, non tamen secundum earum ordinem, sed secundum ordinem locorum in quibus ipsae concordantiae ponuntur, sunt accipienda, verbi gratia si tenor in D sol re fuerit, concordantia quae supra eum in F fa ut gravi fiet, tertia dicetur, eo quod in tertio loco ab ipso tenore connumerando locum eius collocata sit, et sic de quinta et omnibus aliis, ut hic patet:</p>
+      <p id="TINCPT10052">[CSM22/2:18,1; text: Exempla] 
+      <figure>
+        <graphic url="/images/TINCPT1_01GF.gif" />
+      </figure></p>
+      <p id="TINCPT10053">Porro animavertendum est quod in iis et in reliquis nostrae huius compilationis exemplis ubi neque tenor neque contrapunctus subscriptus fuerit, notae vacuae ad tenorem, impletae ad contrapunctum et mixtae, id est partim vacuae et partim impletae, ad utrumque pertinent.</p>
+      <p id="TINCPT10054">Capitulum III--De particulari cuiuslibet concordantiae quiditate, qualitate, et ordinatione.</p>
+      <p id="TINCPT10055">Ac primum de unisono.</p>
+      <p id="TINCPT10056">Nunc ex quo generaliter circa diffinitionem, originem, numerum, proportiones, nomina ac divisiones concordantiarum aliquantisper immorati sumus, ad particulares earum quiditates, qualitates ac ordinationes transmigrare decrevimus.</p>
+      <p id="TINCPT10057">Unde, ut ab unisono fonte et origine omnium concordantiarum incipiamus, sciendum quod unisonus est concordantia ex mixtura duarum vocum in uno et eodem loco positarum effecta, sicut re in D sol re et sol in eodem loco, ut hic vides:</p>
+      <p id="TINCPT10058">[CSM22/2:18,2; text: Exemplum]</p>
+      <p id="TINCPT10059">
+      <pb n="[19]" />Diciturque unisonus quasi unus sonus, eo quod duae voces diversae in eodem loco positae unum atque eundem sonum emittunt.</p>
+      <p id="TINCPT10060">Hinc nonnulli ipsum unisonum non esse concordantiam asserunt, sed contrarium probatur ex hoc quod omnis mixtura vocum aut concordantia aut discordantia est. Unde quom unisonus quem duae voces in eodem loco mixtae constituunt, nullam, ut sensu patet, discordiam pariat, concordantia sit necesse est.</p>
+      <p id="TINCPT10061">Verumtamen unisonus propter eius modicam dulcedinem accuratissime est evitandus nisi per eum incipiatur, vel gratia venustatus aliqua fuga efficatur vel in perfectionem deveniatur, ut hic patet:</p>
+      <p id="TINCPT10062">[CSM22/2:19,1; text: Exemplum]</p>
+      <p id="TINCPT10063">Potest autem unisonus habere post se alium unisonum, tertiam, quintam, sextam et octavam, sed hoc diversimode.</p>
+      <p id="TINCPT10064">Quomodo unisonus post se habere potest alium unisonum.</p>
+      <p id="TINCPT10065">Unisonus enim alius post unisonum quamvis rarissime assumi poterit quando tenor in eodem loco permanebit, ut hic:</p>
+      <p id="TINCPT10066">[CSM22/2:19,2; text: Exemplum]</p>
+      <p id="TINCPT10067">Quomodo tertiam.</p>
+      <p id="TINCPT10068">Tertiam unisonus post se supra et infra tenorem postulat, si tenor ipse non moveatur vel si unum gradum aut duos ascendat vel descendat, ut hic patet:</p>
+      <p id="TINCPT10069">[CSM22/2:19,3; text: Exempla]</p>
+      <p id="TINCPT10070">
+      <pb n="[20]" />Tenore vero tres aut quatuor gradus ascendente, tertiam infra eundem tantummodo post unisonum ponemus, supra quem tenorem tot gradus, hoc est tres aut quatuor, descendentem post ipsum unisonum tertia etiam solum collocabitur, ut hic probatur:</p>
+      <p id="TINCPT10071">[CSM22/2:20,1; text: Exempla]</p>
+      <p id="TINCPT10072">Et hic advertendum est quod gradus pro quantitate ascensus vel descensus a spatio in lineam immediatam et e contra accipitur.</p>
+      <p id="TINCPT10073">Unde fit ut unus gradus secundam, duo tertiam, tres quartam et quatuor quintam importent eas, id est, secundam, tertiam, quartam et quintam, intelligendo coniunctiones et non concordantias aut discordantias.</p>
+      <p id="TINCPT10074">Quomodo quintam.</p>
+      <p id="TINCPT10075">Quinta post unisonum supra et infra tenorem assumi potest quando tenor ipse in eodem loco permanet, ut hic patet:</p>
+      <p id="TINCPT10076">[CSM22/2:20,2; text: Exemplum]</p>
+      <p id="TINCPT10077">Sed si tenor unum gradum tantum aut duos aut tres aut quatuor ascendat, unisonus post se infra eum tantummodo quintam requirit. Quaequidem quinta unisonum hunc supra tenorem solummodo sequetur, si tot gradus, hoc est unum, duo, tres aut quatuor tenor ipse descendat, ut hic probatur:</p>
+      <p id="TINCPT10078">[CSM22/2:20,3; text: Exempla]</p>
+      <p id="TINCPT10079">Quomodo sextam.</p>
+      <p id="TINCPT10080">Sextam unisonus post se supra tenorem habere poterit si ipse tenor 
+      <pb n="[21]" />etiam unum aut duos, tres aut quatuor gradus descenderit, tenore vero tot gradus, id est unum aut duos, tres aut quatuor ascendente, sexta infra cum sequetur unisonum, ut hic patet:</p>
+      <p id="TINCPT10081">[CSM22/2:21,1; text: Exempla] 
+      <figure>
+        <graphic url="/images/TINCPT1_02GF.gif" />
+      </figure></p>
+      <p id="TINCPT10082">Quomodo octavam.</p>
+      <p id="TINCPT10083">Octava post unisonum licet raro supra tenorem sumitur quando tres aut quatuor gradus descendit. Quamquidem octavam infra tenorem unisonus ipse, quamvis etiam raro, post se requirit si tenor tot gradus, hoc est tres aut quatuor, ascenderit, ut hic probatur:</p>
+      <p id="TINCPT10084">[CSM22/2:21,2; text: Exempla]</p>
+      <p id="TINCPT10085">Capitulum IV--De semiditono ac ditono, id est tertia imperfecta et tertia perfecta.</p>
+      <p id="TINCPT10086">Semiditonus est concordantia ex mixtura duarum vocum semitonio et tono ab invicem distantium constituta, sicut re, D sol re, et fa, F fa ut gravis, ut hic:</p>
+      <p id="TINCPT10087">[CSM22/2:21,3; text: Exemplum]</p>
+      <p id="TINCPT10088">Diciturque semiditonus a semus, id est imperfectus, et ditonus, quasi imperfectus ditonus. Hinc uno tono ac uno semitonio tantummodo constans vulgariter tertia imperfecta appellatur.</p>
+      <p id="TINCPT10089">Ditonus vero est concordantia ex mixtura duarum vocum duobus tonis ab invicem distantium effecta, sicut fa, F fa ut gravis, et la, A la mi re acuti, ut hic patet:</p>
+      <p id="TINCPT10090">
+      <pb n="[22]" />[CSM22/2:22,1; text: Exemplum]</p>
+      <p id="TINCPT10091">Quiquidem ditonus a dya per y graecum, quod est duo, et tonus dicitur, quasi ex duobus tonis perfectis constitutus. Unde et tertia perfecta communiter vocatur.</p>
+      <p id="TINCPT10092">Siquidem quaelibet tertia sive perfecta sive imperfecta sive superior sive inferior fuerit, per se suavissima est omnibusque notis tam extremis quam mediis consonantissime accomodabilis. Et ut omnia quae scribimus liquido intelligantur, notandum est quod notae extremae sunt omnes initiales ac finales superiores ac inferiores.</p>
+      <p id="TINCPT10093">Initiales ac finales illae dicuntur per quas cantus initium ac finem sumit.</p>
+      <p id="TINCPT10094">Superiores vero illas appellamus quae unam aut multas alias ante se et post immediate habent uno gradu aut pluribus eis inferiores; at inferiores dictae sunt illae quas una aut multae aliae sive uno gradu sive pluribus altiores immediate praecedunt atque sequuntur.</p>
+      <p id="TINCPT10095">Medias autem illas vocamus quae praedictis, hoc est initialibus, finalibus, superioribus ac inferioribus, passim interpositae conspiciuntur, ut hic patet:</p>
+      <p id="TINCPT10096">[CSM22/2:22,2; text: Exemplum]</p>
+      <p id="TINCPT10097">In hoc enim exemplo prima nota dicitur initialis, secunda media, tertia superior, quarta inferior, quinta superior, sexta inferior, octava et nona mediae, decima inferior, undecima media, duodecima et ultima finalis. Porro ut unde digressi sumus revertamur, omnis tertia variis licet respectibus post se habere potest unisonum, tertiam aliam, quintam, sexta, octavam atque decimam.</p>
+      <p id="TINCPT10098">Quomodo tertia superior unisonum post se requirit.</p>
+      <p id="TINCPT10099">Unisonum namque tertia superior post se requirit quando tenor non movetur et hoc raro, vel quando unum gradum ascendit, et hoc aptius, ut hic probatur:</p>
+      <p id="TINCPT10100">[CSM22/2:22,3; text: Exempla]</p>
+      <p id="TINCPT10101">
+      <pb n="[23]" />Quomodo aliam tertiam.</p>
+      <p id="TINCPT10102">Tertia alia tertiam superiorem supra et infra tenorem sequetur, si tenor ipse in eodem loco permanserit, vel si unum aut duos, tres aut quatuor gradus ascenderit. Sed tenore tot gradus, hoc est unum, duos, tres aut quatuor descendente, ipsa tertia superior aliam tertiam post se [supra] eum tantum habebit, ut hic:</p>
+      <p id="TINCPT10103">[CSM22/2:23,1; text: Exempla]</p>
+      <p id="TINCPT10104">Quomodo quintam.</p>
+      <p id="TINCPT10105">Quintam supra tenorem tertia superior post se habere potest quando tenor immotus permanet aut quando unum aut duos, tres aut quatuor gradus descendit, ut hic probatur:</p>
+      <p id="TINCPT10106">[CSM22/2:23,2; text: Exempla]</p>
+      <p id="TINCPT10107">Si vero tenor duos aut tres aut quatuor gradus ascenderit, tunc ipsa tertia superior infra ipsum tenorem quintam post se requirit, ut hic patet:</p>
+      <p id="TINCPT10108">[CSM22/2:23,3; text: Exempla]</p>
+      <p id="TINCPT10109">Quomodo sextam.</p>
+      <p id="TINCPT10110">Sexta post tertiam superiorem optime ponetur quando tenor ipse etiam non movebitur, vel unum gradum ascendet, vel unum aut duos, tres aut quatuor descendet, ut hic probatur:</p>
+      <p id="TINCPT10111">[CSM22/2:23,4; text: Exempla]</p>
+      <p id="TINCPT10112">
+      <pb n="[24]" />Tenore vero tres aut quatuor gradus ascendente, tertia haec superior infra ipsum tenorem sextam post se habebit, ut hic patet:</p>
+      <p id="TINCPT10113">[CSM22/2:24,1; text: Exempla] 
+      <figure>
+        <graphic url="/images/TINCPT1_03GF.gif" />
+      </figure></p>
+      <p id="TINCPT10114">Quomodo octavam.</p>
+      <p id="TINCPT10115">Octavam supra tenorem tertia superior post se habere poterit, si tenor unum gradum, duos, tres aut quatuor descenderit, ut hic probatur:</p>
+      <p id="TINCPT10116">[CSM22/2:24,2; text: Exempla]</p>
+      <p id="TINCPT10117">Quomodo decimam.</p>
+      <p id="TINCPT10118">Decima superiorem tertiam aliquando etiam sequitur supra tenorem tres aut quatuor gradus descendentem, ut hic patet:</p>
+      <p id="TINCPT10119">[CSM22/2:24,3; text: Exempla]</p>
+      <p id="TINCPT10120">Quomodo tertia inferior unisonum post se habere potest.</p>
+      <p id="TINCPT10121">Unisonum denique tertia inferior post se habebit infra tenorem quando tenor ipse non movebitur, sed hoc rarissime, vel quando unum gradum descendet, et hoc melius, ut hic patet:</p>
+      <p id="TINCPT10122">[CSM22/2:24,4; text: Exempla]</p>
+      <p id="TINCPT10123">Quomodo aliam tertiam.</p>
+      <p id="TINCPT10124">Tertia alia inferiorem tertiam supra et infra tenorem sequetur si tenor ipse non moveatur, vel si unum aut duos, tres aut quatuor gradus descendat.</p>
+      <p id="TINCPT10125">Sed tenore tot gradus, id est unum aut duos, tres aut quatuor ascendente 
+      <pb n="[25]" />ipsa tertia inferior aliam tertiam post se infra eum tantum habere poterit, ut hic:</p>
+      <p id="TINCPT10126">[CSM22/2:25,1; text: Exempla]</p>
+      <p id="TINCPT10127">Quomodo quintam.</p>
+      <p id="TINCPT10128">Quintam infra tenorem tertia inferior habere post se poterit, tenore in eodem loco manente vel unum gradum aut duos ascendente, vel unum descendente, ut hic probatur:</p>
+      <p id="TINCPT10129">[CSM22/2:25,2; text: Exempla]</p>
+      <p id="TINCPT10130">Quando autem tenor ipse duos gradus descendit, tunc et supra eum et infra quinta post tertiam inferiorem indifferenter collocari poterit.</p>
+      <p id="TINCPT10131">Sed eo ipso tenore tres aut quatuor gradus descendente, tertia haec inferior supra ipsum tenorem tantum quintam habebit, ut hic patet:</p>
+      <p id="TINCPT10132">[CSM22/2:25,3; text: Exempla]</p>
+      <p id="TINCPT10133">Quomodo sextam.</p>
+      <p id="TINCPT10134">Sexta infra tenorem post inferiorem tertiam ponenda erit si tenor ipse non motus fuerit, vel unum gradum descenderit vel unum aut duos, tres aut quatuor ascenderit, ut hic patet:</p>
+      <p id="TINCPT10135">[CSM22/2:25,4; text: Exempla]</p>
+      <p id="TINCPT10136">Ubi vero tenor tres aut quatuor gradus descendit, tertia inferior post se sextam [supra] ipsum tenorem habere potest, ut hic vides:</p>
+      <p id="TINCPT10137">
+      <pb n="[26]" />[CSM22/2:26,1; text: Exempla]</p>
+      <p id="TINCPT10138">Quomodo octavam.</p>
+      <p id="TINCPT10139">Octavam inferior tertia post se infra tenorem aliquando habebit quando tenor unum gradum aut duos, tres aut quatuor ascendit, ut hic:</p>
+      <p id="TINCPT10140">[CSM22/2:26,2; text: Exempla]</p>
+      <p id="TINCPT10141">Quomodo decimam.</p>
+      <p id="TINCPT10142">Decima etiam infra tenorem interdum tertiam inferiorem sequi poterit si tenor ipse tres aut quatuor gradus ascenderit, ut hic patet:</p>
+      <p id="TINCPT10143">[CSM22/2:26,3; text: Exempla]</p>
+      <p id="TINCPT10144">Capitulum V--De diatessaron, id est quarta.</p>
+      <p id="TINCPT10145">Diatessaron est concordantia secundum quid ex mixtura duarum vocum ab invicem duobus tonis ac uno semitonio distantium constituta, sicut re, D so re, et sol, G sol re ut gravis, ut hic patet:</p>
+      <p id="TINCPT10146">[CSM22/2:26,4]</p>
+      <p id="TINCPT10147">Diciturque diatessaron a dia per i latinum, quod est per, et tessaron, quod est quatuor, quasi per quatuor voces effectum, ut patet ex eius resolutione sive per arsim sive per thesim fiat. Hinc et vulgariter quarta vocatur.</p>
+      <p id="TINCPT10148">Constat itaque diatesseron hoc duobus tonis ac uno semitonio, quod licet apud veteres prima omnium concordantiarum ponatur; simpliciter tamen concordantia non est, immo per se emissa apud aures eruditas, quae, ut inquit Cicero, discrepantem concentum audire non possunt, intolerabiliter discordat. Unde fit ut a contrapuncto reiiciatur, nisi quando plures sunt puber librum 
+      <pb n="[27]" />cantantes, unus eorum sub aliqua tenoris nota, quod frequenter in penultima fit, quintam assumat. Tunc enim alius supra eandem nota quartam accipere poterit quae mox post se proximiorem convenientioremque concordantiam requirit, ut patet in hoc exemplo:</p>
+      <p id="TINCPT10149">[CSM22/2:27,1; text: Exemplum] 
+      <figure>
+        <graphic url="/images/TINCPT1_04GF.gif" />
+      </figure></p>
+      <p id="TINCPT10150">Porro per totum discursum cantus quem faubourdon vocant, quarta sola admittitur, ei saepe quinta ac saepius tertia supposita, quamvis quinta ipsi quartae subiuncta suaviorem concentum quam tertia efficiat, ut hic patet:</p>
+      <p id="TINCPT10151">[CSM22/2:27,2; text: Faubourdon, Lauda Sion Salvatorem]</p>
+      <p id="TINCPT10152">In re facta vero per complura loca assumitur quarta, ei non solum quinta vel tertia, sed etiam decima ac duodecima supposita. Verumtamen per subiunctionem illarum concordantiarum dulcior cantus quam per istarum conficitur, ut hic probatur:</p>
+      <p id="TINCPT10153">[CSM22/2:27,3; text: Supremum, Contratenor, Tenor]</p>
+      <p id="TINCPT10154">
+      <pb n="[28]" />[CSM22/2:28,1]</p>
+      <p id="TINCPT10155">Capitulum VI--De diapente, id est quinta.</p>
+      <p id="TINCPT10156">Diapente est concordantia ex mixtura duarum vocum ab invicem diatessaron et tono distantium effecta, sicut re, D sol re, et la, A la mi re acuti, ut hic:</p>
+      <p id="TINCPT10157">[CSM22/2:28,2]</p>
+      <p id="TINCPT10158">Constat autem diapente ex tribus tonis et uno semitonio, diciturque a dia per i latinum, quod est per, et pente, quod est quinque, eo quod per quinque voces ut per eius resolutionem tam per arsim quam per thesim patet constituatur. Siquidem diapente hoc communiter quinta appellatur estque concordantia melodiosissima tam notis mediis quam extremis iucundissime coaptabilis, nisi tenor unum gradum in aliquam perfectionem ascenderit vel descenderit. Enimvero tunc, hoc est tenore unum gradum in aliquam perfectionem ascendente, nota praecedens numquam contra se quintam inferiorem requirit. Et si tenor unum gradum etiam in aliquam perfectionem descenderit, numquam contra praecedenten notam quinta superior collocari poterit, ut hic patet:</p>
+      <p id="TINCPT10159">
+      <pb n="[29]" />[CSM22/2:29,1; text: Exempla] 
+      <figure>
+        <graphic url="/images/TINCPT1_05GF.gif" />
+      </figure></p>
+      <p id="TINCPT10160">Post se vero quinta haec habere potest quamvis diversimode unisonum, tertiam, quintam aliam, sexta, octavam, decimam, ac duodecimam.</p>
+      <p id="TINCPT10161">Quomodo quinta superior unisonum post se habere potest.</p>
+      <p id="TINCPT10162">Unisonum quinta superior, licet rarissime, post se habere poterit ubi tenor duos gradus ascenderit, ut hic probatur:</p>
+      <p id="TINCPT10163">[CSM22/2:29,2; text: Discantus, Tenor]</p>
+      <p id="TINCPT10164">Quomodo tertiam.</p>
+      <p id="TINCPT10165">Tertia quintam superiorem supra et infra tenorem sequitur quando tenor duos aut tres aut quatuor gradus ascendit. Sed tenore in eodem loco permanente, vel unum gradum ascendente, vel unum aut duos descendente, ipsa quinta superior tertiam post se supra eum tantum habebit, ut hic patet:</p>
+      <p id="TINCPT10166">[CSM22/2:29,3; text: Exempla]</p>
+      <p id="TINCPT10167">Quomodo quintam aliam.</p>
+      <p id="TINCPT10168">Quintam aliam supra tenorem superior quinta post se, quamvis raro, habere potest quando tenor immotus permanet. Sed si tenor ipse quatuor 
+      <pb n="[30]" />gradus ascenderit, ipsa superior quinta infra eum aliam quintam post se congruentissime habebit, ut patet in hoc exemplo:</p>
+      <p id="TINCPT10169">[CSM22/2:30,1; text: Exempla]</p>
+      <p id="TINCPT10170">Quomodo sextam.</p>
+      <p id="TINCPT10171">Sexta post quintam superiorem aliquando ponetur supra tenorem in eodem loco permanentem vel unum gradum, duos aut tres ascendentem vel descendentem, ut hic patet:</p>
+      <p id="TINCPT10172">[CSM22/2:30,2; text: Exempla]</p>
+      <p id="TINCPT10173">Quomodo octavam.</p>
+      <p id="TINCPT10174">Octavam post se supra tenorem superior quinta saepissime requirit quando tenor non movetur vel unum aut duos, tres aut quatuor gradus descendit, ut hic probatur:</p>
+      <p id="TINCPT10175">[CSM22/2:30,3; text: Exempla]</p>
+      <p id="TINCPT10176">Quomodo decimam.</p>
+      <p id="TINCPT10177">Decima post quintam superiorem dulcissime supra tenorem collocabitur quando tenor ipse unum gradum aut duos, tres aut quatuor descendet, ut hic patet:</p>
+      <p id="TINCPT10178">[CSM22/2:30,4; text: Exempla]</p>
+      <p id="TINCPT10179">Quomodo duodecimam.</p>
+      <p id="TINCPT10180">Duodecimam vero post se supra tenorem quinta superior interdum eleganter habebit, ipso tenore tres gradus aut quatuor descendente, ut hic probatur:</p>
+      <p id="TINCPT10181">
+      <pb n="[31]" />[CSM22/2:31,1; text: Exempla] 
+      <figure>
+        <graphic url="/images/TINCPT1_06GF.gif" />
+      </figure></p>
+      <p id="TINCPT10182">Quomodo quinta inferior unisonum post se requirit.</p>
+      <p id="TINCPT10183">Unisonus autem quintam inferiorem, licet rarissime, sequi poterit si tenor duos gradus descenderit, ut hic patet:</p>
+      <p id="TINCPT10184">[CSM22/2:31,2; text: Exempla]</p>
+      <p id="TINCPT10185">Quomodo tertiam.</p>
+      <p id="TINCPT10186">Tertiam inferior quinta supra et infra tenorem frequentissime post se requirit quando tenor duos gradus aut tres aut quatuor descendit. Tenore vero in eodem loco permanente, vel unum gradum aut duos ascendente vel unum descendente, tertia post ipsam quintam inferiorem infra eum tantum recte collocabitur, ut hic probatur:</p>
+      <p id="TINCPT10187">[CSM22/2:31,3; text: Exempla]</p>
+      <p id="TINCPT10188">Quomodo aliam quintam.</p>
+      <p id="TINCPT10189">Quinta aliam inferiorem quintam licet raro sequitur quando tenor non movetur, sed ipse tenor quatuor gradus descendat, quinta haec inferior post se supra eum aliam quintam postulat, ut hic patet:</p>
+      <p id="TINCPT10190">[CSM22/2:31,4; text: Exempla]</p>
+      <p id="TINCPT10191">Quomodo sextam.</p>
+      <p id="TINCPT10192">Sextam inferior quinta post se aliquando infra tenorem habere potest quando tenor ipse non movetur, vel quando unum gradum, duos, tres aut quatuor ascendit, vel unum aut duos descendit, ut patet in hoc exemplo:</p>
+      <p id="TINCPT10193">[CSM22/2:31,5; text: Exempla]</p>
+      <p id="TINCPT10194">
+      <pb n="[32]" />Quomodo octavam.</p>
+      <p id="TINCPT10195">Octava post inferiorem quintam infra tenorem saepissime assumitur, ipso tenore in eodem loco permanente, vel unum gradum aut duos aut tres ascendente vel unum descendente, ut hic patet:</p>
+      <p id="TINCPT10196">[CSM22/2:32,1; text: Exempla]</p>
+      <p id="TINCPT10197">Quomodo decimam.</p>
+      <p id="TINCPT10198">Decimam post se inferior quinta infra tenorem suavissime interdum requirit quando tenor ipse unum gradum aut duos, tres aut quatuor ascendit, ut hic patet:</p>
+      <p id="TINCPT10199">[CSM22/2:32,2; text: Exempla]</p>
+      <p id="TINCPT10200">Quomodo duodecimam.</p>
+      <p id="TINCPT10201">Duodecimam autem quinta haec inferior aliquando elegantissime post se habere poterit, infra tenorem tres aut quatuor gradus ascendentem, ut hic probatur:</p>
+      <p id="TINCPT10202">[CSM22/2:32,3; text: Exempla]</p>
+      <p id="TINCPT10203">Capitulum VII--De diapente cum semitonio et diapente cum tono, id est sexta imperfecta et sexta perfecta.</p>
+      <p id="TINCPT10204">Diapente cum semitonio est concordantia ex mixtura duarum vocum diapente ac semitonio ab invicem distantium constituta, sicut mi, E la mi gravis, et fa, C sol fa ut, ut hic:</p>
+      <p id="TINCPT10205">[CSM22/2:32,4; text: Exemplum]</p>
+      <p id="TINCPT10206">
+      <pb n="[33]" />Diciturque diapente cum semitonio quia ex diapente ac semitonio efficitur et, eo quod ex tribus tonis duobusque semitoniis tantummodo constet, sexta imperfecta communiter est appellata.</p>
+      <p id="TINCPT10207">Diapente autem cum tono concordantia est ex mixtura duarum vocum diapente ac tono ab invicem distantium effecta, sicut fa, F fa ut gravis, et sol, D la sol re, ut hic:</p>
+      <p id="TINCPT10208">[CSM22/2:33,1; text: Exemplum] 
+      <figure>
+        <graphic url="/images/TINCPT1_07GF.gif" />
+      </figure></p>
+      <p id="TINCPT10209">Dictumque est diapente cum tono quia ex diapente ac tono constituitur, quoniam vero quatuor tonos as unum semitonium continet, sexta perfecta dicitur vulgariter.</p>
+      <p id="TINCPT10210">Porro omnis sexta, sive perfecta sive imperfecta, sive superior sive inferior fuerit, apud antiquos discordantia reputabatur, et ut vera fatear, aurium mearum iudicio per se audita, hoc est sola, plus habet asperitatis quam dulcedinis. Quae ut notis mediis tendendo in octavam aut decimam praecipue est amica, ita extremis est inimica nisi ipsae notae extremae, id est inferiores, naturaliter sustinendae sint, et contra eas ponendo sextam ipsam quod etiam in superioribus contingere potest, absque concordantia alterius speciei tendatur in octavam aut decimam. Unde accuratissime notandum est numquam sextam superiorem melodiose assumi posse nisi eam una aut plures aliae sextae sequantur, finaliter ad octavum aut decimam superiorem sine interpositione concordantiae alterius speciei tendentes, aut nisi tenor post eam descendat unum gradum tantum aut tres, contra quorum graduum notas aut superior octava aut decima ponetur, ut hic:</p>
+      <p id="TINCPT10211">[CSM22/2;33,2; text: Contrapunctus, Tenor]</p>
+      <p id="TINCPT10212">
+      <pb n="[34]" />Confiteor tamen praeter hoc sextam hanc supra tenorem assumi posse si ipso tenore in eodem loco permanente habeat unam quintam etiam supra eum immediate praecedentem et aliam aut octavam sequentem aut octavam praecedentem et quintam sequentem, ut hic patet:</p>
+      <p id="TINCPT10213">[CSM22/2:34,1; text: Exempla]</p>
+      <p id="TINCPT10214">Item, sexta inferior numquan dulciter fiet nisi etiam unam aut plures alias sextas, nullis alterius speciei concordantiis interiectis, sequentes habeat, in octavam aut decimam inferiorem finaliter tendentes, aut nisi tenor post eam unum gradum aut tres ascendat, contra quorum graduum notas octava aut decima inferior collocabitur, ut hic patet:</p>
+      <p id="TINCPT10215">[CSM22/2:34,2; text: Tenor, Contrapunctus]</p>
+      <p id="TINCPT10216">Verumtamen sexta haec infra tenorem pluribus accepta est, si eam etiam infra ipsum tenorem in eodem loco permanentem una quinta praecedat et alia vel octava sequatur, vel e converso octava praecedat et quinta sequatur, ut hic patet:</p>
+      <p id="TINCPT10217">[CSM22/2:34,3; text: Exempla]</p>
+      <p id="TINCPT10218">Et hic nota quod omnia praedicta tantummodo sunt intelligenda de ordinatione sextae in contrapuncto vel re facta duarum partium tantum fienda. Nam semper et ubique sexta suavis est si ei tertia vel decima supponatur, sed multo suavior si quinta vel duodecima, ut hic probatur:</p>
+      <p id="TINCPT10219">
+      <pb n="[35]" />[CSM22/2:35,1; text: Contratenor, Exemplum] 
+      <figure>
+        <graphic url="/images/TINCPT1_08GF.gif" />
+      </figure></p>
+      <p id="TINCPT10220">Potest igitur quaelibet sexta post se habere modis licet variis tertiam, quintam, sextam aliam, octavam, decimam atque duodecimam.</p>
+      <p id="TINCPT10221">Quomodo sexta superior tertiam post se habere potest.</p>
+      <p id="TINCPT10222">Tertia namque post superiorem sextam supra tenorem assumi poterit, si tenor ipse immotus permanserit vel unum gradum aut duos, tres aut quatuor ascenderit, vel unum descenderit, quod numquam tamen aut rarissime fiet in solo contrapuncto et simplici, tunc enim asperitas eius ultra modum appareret:</p>
+      <p id="TINCPT10223">[CSM22/2:35,2; text: Exempla]</p>
+      <p id="TINCPT10224">Quomodo quintam.</p>
+      <p id="TINCPT10225">Quintam post se sexta superior habebit supra tenorem in eodem loco permanentem, ut hic patet:</p>
+      <p id="TINCPT10226">[CSM22/2:35,3; text: Exemplum]</p>
+      <p id="TINCPT10227">Quomodo sextam aliam.</p>
+      <p id="TINCPT10228">Sexta alia superiorem sextam supra tenorem sequetur, eo vel non moto vel unum aut duos gradus aut tres ascendente vel descendente, ut hic:</p>
+      <p id="TINCPT10229">[CSM22/2:35,4; text: Exempla]</p>
+      <p id="TINCPT10230">Quomodo octavam.</p>
+      <p id="TINCPT10231">Octavam post se aliquando sexta superior postulat supra tenorem quando tenor ipse non movetur vel quando unum gradum descendit et hic 
+      <pb n="[36]" />saepissime, vel quando duos aut tres, et hoc raro vel numquam in solo et simplici contrapuncto, ut hic patet:</p>
+      <p id="TINCPT10232">[CSM22/2:36,1; text: Exempla]</p>
+      <p id="TINCPT10233">Quomodo decimam.</p>
+      <p id="TINCPT10234">Decima post superiorem sextam supra tenorem collocabitur si tenor etiam immotus steterit vel unum gradum aut duos aut tres aut quatuor descenderit, primus attamen huius ordinationis modus, tertius et quintus raro vel numquam in solo et simplici contrapuncto fient, ut hic:</p>
+      <p id="TINCPT10235">[CSM22/2:36,2; text: Exempla]</p>
+      <p id="TINCPT10236">Quomodo duodecimam.</p>
+      <p id="TINCPT10237">Duodecima autem quamvis etiam raro vel numquam in solo et simplici contrapuncto sexta superior interdum post se supra tenorem requirit, ipso tenore duos aut tres gradus descendente, ut hic patet:</p>
+      <p id="TINCPT10238">[CSM22/2:36,3; text: Exempla]</p>
+      <p id="TINCPT10239">Quomodo sexta inferior tertiam post se requirit.</p>
+      <p id="TINCPT10240">Tertia vero inferiorem sextam aliquando infra tenorem sequetur quando tenor non movebitur vel unum gradum aut duos, tres aut quatuor descendet vel unum ascendet.</p>
+      <p id="TINCPT10241">Si tamen contrapunctus simplex et solux conficiendus fuerit, talis ordinatio proper sextae duritiem nimis apparentem rarissime vel numquam admittenda erit, ut hic probatur:</p>
+      <p id="TINCPT10242">[CSM22/2:36,4; text: Exempla]</p>
+      <p id="TINCPT10243">Quomodo quintam.</p>
+      <p id="TINCPT10244">Quinta post sextam inferiorem infra tenorem non numquam collocabitur si tenor ipse non moveatur, ut hic patet:</p>
+      <p id="TINCPT10245">
+      <pb n="[37]" />[CSM22/2:37,1; text: Exemplum] 
+      <figure>
+        <graphic url="/images/TINCPT1_09GF.gif" />
+      </figure></p>
+      <p id="TINCPT10246">Quomodo aliam sextam.</p>
+      <p id="TINCPT10247">Sextam aliam inferior sexta infra tenorem habere poterit, ipso tenore in eodem loco permanente vel unum aut duos aut tres gradus ascendente vel descendente, ut hic probatur:</p>
+      <p id="TINCPT10248">[CSM22/2:37,2; text: Exempla]</p>
+      <p id="TINCPT10249">Quomodo octavam.</p>
+      <p id="TINCPT10250">Octava infra tenorem aliquando sextam inferiorem sequitur quando tenor immotus est vel quando unum gradum ascendit, et hoc frequentissime, vel quando duos ascendit aut unum descendit, et hoc raro vel numquam ubi solus et simplex fit contrapunctus, ut hic patet:</p>
+      <p id="TINCPT10251">[CSM22/2:37,3; text: Exempla]</p>
+      <p id="TINCPT10252">Quomodo decimam.</p>
+      <p id="TINCPT10253">Decimam infra tenorem sexta inferior post se interdum assumit quando tenor ipse non movetur, vel unum aut duos aut tres aut quatuor gradus ascendit.</p>
+      <p id="TINCPT10254">Attamen primus, tertius et quintus huius ordinationis modi in solo et simplici contrapuncto raro vel numquam sunt admittendi, ut hic probatur:</p>
+      <p id="TINCPT10255">[CSM22/2:37,4; text: Exempla]</p>
+      <p id="TINCPT10256">Quomodo duodecimam.</p>
+      <p id="TINCPT10257">Duodecima post sextam inferiorem, licet etiam raro vel numquam ubi solus et simplex fit contrapunctus, aliquando infra tenorem collocari poterit, si tenor ipse tres aut quatuor gradus ascenderit, ut hic patet:</p>
+      <p id="TINCPT10258">
+      <pb n="[38]" />[CSM22/2:38,1; text: Exempla]</p>
+      <p id="TINCPT10259">Capitulum VIII--De diapason, id est octava.</p>
+      <p id="TINCPT10260">Diapason est concordantia ex mixtura duarum vocum diapente ac diatessaron ab invicem distantium constituta, sicut re, D sol re, et sol, D la sol re, ut hic:</p>
+      <p id="TINCPT10261">[CSM22/2:38,2]</p>
+      <p id="TINCPT10262">Diciturque diapason a dia per i latinum, quod est per, et pason, id est omne, eo quod omnium concordantiarum quas sub se comprehendit quaedam universalis conclusio sit. Unde Plinius in secundo libro suae Naturalis historiae ipsum diapason universitatem concentus diffinit.</p>
+      <p id="TINCPT10263">Et quamvis id Aristoxenus, quem secutus est Macrobius, asseruerit ex sex tonis constare, a Boethio tamen errasse convincitur, namque, ut ex demonstrationibus arithmeticis ipse Boethius ostendit, ex quinque tonis ac duobus semitoniis minoribus concordantia haec conficitur, quaequidem duo semitonio minora tonum perfectum, ut ille, idem Macrobius, etiam confitetur minime constituunt.</p>
+      <p id="TINCPT10264">Communiter autem hoc ipsum diapason octava vocatur estque secundum Nichomacum omnium concordantiarum prima, ac teste Boethio excellentissima et optima.</p>
+      <p id="TINCPT10265">Et quoniam caeteris insuper concordantiis suavior atque perfectior est, notis extremis praecipue autem perfectionalibus eam frequentissime immo fere semper accommodari videmus, licet interdum mediis adaptata non parum melodiis afferat.</p>
+      <p id="TINCPT10266">Porro diversimode octava haec post se habere potest tertiam, quintam, sextam, aliam octavam, decimam, duodecimam, tertiamdecimam et quintamdecimam.</p>
+      <p id="TINCPT10267">
+      <pb n="[39]" />Quomodo superior octava tertiam post se habere potest.</p>
+      <p id="TINCPT10268">Tertiam itaque superior octava post se supra tenorem habere poterit si tenor ipse unum gradum aut duos, tres aut quatuor ascenderit, ut hic patet:</p>
+      <p id="TINCPT10269">[CSM22/2:39,1; text: Exempla]</p>
+      <p id="TINCPT10270">Quomodo quintam.</p>
+      <p id="TINCPT10271">Quinta superiorem octavam supra tenorem sequetur, tenore immoto permanente vel unum etiam aut duos, tres aut quatuor gradus ascendente, ut hic patet:</p>
+      <p id="TINCPT10272">[CSM22/2:39,2; text: Exempla]</p>
+      <p id="TINCPT10273">Quomodo sextam.</p>
+      <p id="TINCPT10274">Sextam supra tenorem octava superior post se requirit quando tenor ipse non movetur vel quando unum gradum aut duos, tres aut quatuor ascendit vel unum aut duos descendit, ut hic patet:</p>
+      <p id="TINCPT10275">[CSM22/2:39,3; text: Exempla]</p>
+      <p id="TINCPT10276">Quomodo aliam octavam.</p>
+      <p id="TINCPT10277">Octava alia interdum supra tenorem post octavam superiorem collocari potest, quando tenor in eodem loco permanet, ut hic probatur:</p>
+      <p id="TINCPT10278">[CSM22/2:39,4; text: Exemplum]</p>
+      <p id="TINCPT10279">Quomodo decimam.</p>
+      <p id="TINCPT10280">Decimam frequenter supra tenorem post se octava superior assumet 
+      <pb n="[40]" />quando tenor ipse non movebitur vel unum gradum aut duos ascendet vel unum, duos, tres aut quatuor descendet, ut hic:</p>
+      <p id="TINCPT10281">[CSM22/2:40,1; text: Exempla] 
+      <figure>
+        <graphic url="/images/TINCPT1_10GF.gif" />
+      </figure></p>
+      <p id="TINCPT10282">Quomodo duodecimam.</p>
+      <p id="TINCPT10283">Duodecima aliquando post superiorem octavam ponitur supra tenorem immotum permanentem vel unum aut duos gradus, tres aut quatuor descendentem, ut hic:</p>
+      <p id="TINCPT10284">[CSM22/2:40,2; text: Exempla]</p>
+      <p id="TINCPT10285">Quomodo tertiamdecimam.</p>
+      <p id="TINCPT10286">Tertiadecimam post se supra tenorem superior octava interdum accipiet, ipso tenore unum gradum aut duos, tres aut quatuor descendente, ut hic patet:</p>
+      <p id="TINCPT10287">[CSM22/2:40,3; text: Exempla]</p>
+      <p id="TINCPT10288">Quomodo quintamdecimam.</p>
+      <p id="TINCPT10289">Quintadecima octavam superiorem licet rarissime sequi poterit, si tenor ipse tres aut quatuor gradus descenderit, ut hic probatur:</p>
+      <p id="TINCPT10290">[CSM22/2:40,4; text: Exempla]</p>
+      <p id="TINCPT10291">Quomodo octava inferior tertiam post se requirit.</p>
+      <p id="TINCPT10292">Tertiam vero octava inferior infra tenorem saepissime postulat si tenor unum gradum aut duos, tres aut quatuor descendat, ut hic patet:</p>
+      <p id="TINCPT10293">[CSM22/2:40,5; text: Exempla]</p>
+      <p id="TINCPT10294">Quomodo quintam.</p>
+      <p id="TINCPT10295">Quinta inferiorem octavam bene infra tenorem sequitur quando tenor 
+      <pb n="[41]" />ipse non movetur vel quando unum gradum ascendit vel unum aut duos aut tres descendit, ut hic patet:</p>
+      <p id="TINCPT10296">[CSM22/2:41,1; text: Exempla]</p>
+      <p id="TINCPT10297">Quomodo sextam.</p>
+      <p id="TINCPT10298">Sextam octava inferior non numquam post se infra tenorem requirit, ipso tenore in eodem loco permanente, vel unum aut duos gradus ascendente vel unum, duos, tres aut quatuor descendente, ut hic probatur:</p>
+      <p id="TINCPT10299">[CSM22/2:41,2; text: Exempla]</p>
+      <p id="TINCPT10300">Quomodo aliam octavam.</p>
+      <p id="TINCPT10301">Octava alia inferiorem octavam infra tenorem sequi poterit, quando tenor immotus permanebit, ut hic patet:</p>
+      <p id="TINCPT10302">[CSM22/2:41,3; text: Exemplum]</p>
+      <p id="TINCPT10303">Quomodo decimam.</p>
+      <p id="TINCPT10304">Decimam octava inferior post se infra tenorem saepe accipiet quando tenor ipse non movebitur, vel quando unum gradum, duos, tres aut quatuor ascendet, vel unum aut duos descendet, ut hic patet:</p>
+      <p id="TINCPT10305">[CSM22/2:41,4; text: Exempla]</p>
+      <p id="TINCPT10306">Quomodo duodecimam.</p>
+      <p id="TINCPT10307">Duodecima post octavam inferiorem aliquando infra tenorem ponetur si tenor in eodem loco permanserit vel unum aut duos, tres aut quatuor gradus ascenderit, ut hic patet:</p>
+      <p id="TINCPT10308">
+      <pb n="[42]" />[CSM22/2:42,1; text: Exempla] 
+      <figure>
+        <graphic url="/images/TINCPT1_11GF.gif" />
+      </figure></p>
+      <p id="TINCPT10309">Quomodo tertiamdecimam.</p>
+      <p id="TINCPT10310">Tertiamdecimam inferior octava interdum post se infra tenorem requirit quando tenor ipse unum gradum aut duos, tres aut quatuor ascendit, ut hic:</p>
+      <p id="TINCPT10311">[CSM22/2:42,2; text: Exempla]</p>
+      <p id="TINCPT10312">Quomodo quintamdecimam.</p>
+      <p id="TINCPT10313">Quintadecima octavam inferiorem aliquando sequitur infra tenorem tres aut quatuor gradus ascendentem, ut hic:</p>
+      <p id="TINCPT10314">[CSM22/2:42,3; text: Exempla]</p>
+      <p id="TINCPT10315">Capitulum IX--De semiditono et ditono supra diapason, id est decima imperfecta et decima perfecta.</p>
+      <p id="TINCPT10316">Semiditonus supra diapason est concordantia ex mixtura duarum vocum ab invicem diapason ac semiditono distantium constituta, sicut re, D sol re, et fa, F fa ut acuti, ut hic:</p>
+      <p id="TINCPT10317">[CSM22/2:42,4]</p>
+      <p id="TINCPT10318">Diciturque semiditonus supra diapason eo quod ex semiditono supra diapason posito efficiatur.</p>
+      <p id="TINCPT10319">Et quoniam diapason quinque tonos ac duo semitonia et semiditonus unum tonum ac unum semitonium continent concordantiam hanc sex tonis ac tribus semitoniis tantum constare necesse est. Hinc et decima imperfecta communiter est appellata.</p>
+      <p id="TINCPT10320">Ditonus autem supra diapason est concordantia ex mixtura duarum vocum ab invicem diapason ac ditono distantium effecta, sicut fa, F fa ut gravis, et la, A la mi re acuti, ut hic probatur:</p>
+      <p id="TINCPT10321">
+      <pb n="[43]" />[CSM22/2:43,1]</p>
+      <p id="TINCPT10322">Dictusque est ditonus supra diapason quia ex ditono supra diapason assumpto constituitur. Ac eo quod diapason, ut praedictum est, quinque tonos duoque semitonia, et ditonus duos tonos continet, concordantia haec septem tonis ac duobus semitoniis necessario constat, quo fit ut decima perfecta vulgariter nominetur.</p>
+      <p id="TINCPT10323">Porro omnis decima sive imperfecta sive perfecta, sive superior sive inferior sit, per se instar tertiae cui ad diapason correspondent suavissima est, tam extremis notis quam mediis aeque accommodabilis. Potestque post se habere licet variis modis tertiam, quintam, sextam, octavam, aliam decimam, duodecimam, tertiamdecimam, quintamdecimam et decimamseptimam.</p>
+      <p id="TINCPT10324">Quomodo decima superior tertiam post se habere potest.</p>
+      <p id="TINCPT10325">Tertiam superior decima post se supra tenorem postulat si tenor ipse duos aut tres gradus ascendat, ut hic probatur:</p>
+      <p id="TINCPT10326">[CSM22/2:43,2; text: Exempla]</p>
+      <p id="TINCPT10327">Quomodo quintam.</p>
+      <p id="TINCPT10328">Quinta post superiorem decimam collocabitur supra tenorem unum gradum aut duos, tres aut quatuor ascendentem, ut hic patet:</p>
+      <p id="TINCPT10329">[CSM22/2:43,3; text: Exempla]</p>
+      <p id="TINCPT10330">Quomodo sextam.</p>
+      <p id="TINCPT10331">Sextam supra tenorem decima superior requirit quando tenor ipse non movetur vel unum, duos, tres aut quatuor gradus ascendit, ut hic probatur:</p>
+      <p id="TINCPT10332">[CSM22/2:43,4; text: Exempla]</p>
+      <p id="TINCPT10333">
+      <pb n="[44]" />Quomodo octavam.</p>
+      <p id="TINCPT10334">Octava superiorem decimam supra tenorem interdum sequitur, ipso tenore in eodem loco permanente vel unum gradum aut duos aut tres ascendente, ut hic patet:</p>
+      <p id="TINCPT10335">[CSM22/2:44,1; text: Exempla]</p>
+      <p id="TINCPT10336">Quomodo decimam aliam.</p>
+      <p id="TINCPT10337">Decimam aliam supra tenorem decima superior post se habere poterit ubi tenor ipse immotus steterit vel unum aut duos, tres aut quatuor gradus ascenderit vel descenderit, ut hic probatur:</p>
+      <p id="TINCPT10338">[CSM22/2:44,2; text: Exempla]</p>
+      <p id="TINCPT10339">Quomodo duodecimam.</p>
+      <p id="TINCPT10340">Duodecima post superiorem decimam sumetur aliquando supra tenorem en eodem loco permanentem vel unum gradum aut duos, tres aut quatuor descendentem, ut hic probatur:</p>
+      <p id="TINCPT10341">[CSM22/2:44,3; text: Exempla]</p>
+      <p id="TINCPT10342">Quomodo tertiamdecimam.</p>
+      <p id="TINCPT10343">Tertiamdecimam supra tenorem decima superior post se interdum accipiet quando tenor ipse immotus permanebit, vel unum aut duos, tres aut quatuor gradus descendet, ut hic probatur:</p>
+      <p id="TINCPT10344">
+      <pb n="[45]" />[CSM22/2:45,1; text: Exempla] 
+      <figure>
+        <graphic url="/images/TINCPT1_12GF.gif" />
+      </figure></p>
+      <p id="TINCPT10345">Quomodo quintamdecimam.</p>
+      <p id="TINCPT10346">Quintadecima non numquam superiorem decimam sequetur supra tenorem eo unum gradum aut duos, tres aut quatuor descendente, ut hic patet:</p>
+      <p id="TINCPT10347">[CSM22/2:45,2; text: Exempla]</p>
+      <p id="TINCPT10348">Quomodo decimamseptimam.</p>
+      <p id="TINCPT10349">Decimamseptimam aliquando supra tenorem decima superior post se habebit si tenor tres aut quatuor gradus descendit, ut hic:</p>
+      <p id="TINCPT10350">[CSM22/2:45,3; text: Exempla]</p>
+      <p id="TINCPT10351">Quomodo decima inferior tertiam post se requirit.</p>
+      <p id="TINCPT10352">Tertia denique inferiorem decimam infra tenorem sequi poterit ubi tenor ipse tres aut quatuor gradus descenderit, ut hic patet:</p>
+      <p id="TINCPT10353">[CSM22/2:45,4; text: Exempla]</p>
+      <p id="TINCPT10354">Quomodo quintam.</p>
+      <p id="TINCPT10355">Quintam post se infra tenorem decima inferior habebit quando tenor ipse unum gradum aut duos aut tres aut quatuor descendit, ut hic probatur:</p>
+      <p id="TINCPT10356">
+      <pb n="[46]" />[CSM22/2:46,1; text: Exempla]</p>
+      <p id="TINCPT10357">Quomodo sextam.</p>
+      <p id="TINCPT10358">Sexta infra tenorem inferiorem decimam sequetur si tenor non moveatur, vel unum aut duos, tres aut quatuor gradus descendat, ut hic patet:</p>
+      <p id="TINCPT10359">[CSM22/2:46,2; text: Exempla]</p>
+      <p id="TINCPT10360">Quomodo octavam.</p>
+      <p id="TINCPT10361">Octavam inferior decima post se aliquando habere poterit infra tenorem in eodem loco permanentem vel unum gradum ascendentem vel unum aut duos descendentem, ut hic:</p>
+      <p id="TINCPT10362">[CSM22/2:46,3; text: Exempla]</p>
+      <p id="TINCPT10363">Quomodo decimam aliam.</p>
+      <p id="TINCPT10364">Decima alia infra tenorem post decimam inferiorem collocabitur quando tenor ipse non movebitur vel unum gradum aut duos, tres aut quatuor ascendet vel descendet, ut hic patet:</p>
+      <p id="TINCPT10365">[CSM22/2:46,4; text: Exempla]</p>
+      <p id="TINCPT10366">Quomodo duodecimam.</p>
+      <p id="TINCPT10367">Duodecimam infra tenorem decima inferior post se habere poterit si tenor immotus perstiterit vel unum gradum aut duos ascenderit vel descenderit, ut hic probatur:</p>
+      <p id="TINCPT10368">
+      <pb n="[47]" />[CSM22/2:47,1; text: Exempla] 
+      <figure>
+        <graphic url="/images/TINCPT1_13GF.gif" />
+      </figure></p>
+      <p id="TINCPT10369">Quomodo tertiamdecimam.</p>
+      <p id="TINCPT10370">Tertiadecima inferiorem decimam infra tenorem interdum sequetur, ipso tenore immoto permanente vel unum gradum aut duos, tres aut quatuor ascendente, ut hic patet:</p>
+      <p id="TINCPT10371">[CSM22/2:47,2; text: Exempla]</p>
+      <p id="TINCPT10372">Quomodo quintamdecimam.</p>
+      <p id="TINCPT10373">Quintamdecimam infra tenorem decima inferior non numquam post se postulat, si tenor unum aut duos, tres aut quatuor ascendat, ut hic probatur:</p>
+      <p id="TINCPT10374">[CSM22/2:47,3; text: Exempla]</p>
+      <p id="TINCPT10375">Quomodo decimamseptimam.</p>
+      <p id="TINCPT10376">Decimaseptima post inferiorem decimam aliquando ponetur infra tenorem tres aut quatuor gradus ascendentem, ut hic:</p>
+      <p id="TINCPT10377">[CSM22/2:47,4; text: Exempla]</p>
+      <p id="TINCPT10378">
+      <pb n="[48]" />Capitulum X--De diatessaron supra diapason, id est undecima.</p>
+      <p id="TINCPT10379">Diatessaron supra diapason est concordantia secundum quid ex mixtura duarum vocum diapason ac diatessaron ab invicem distantium constituta, sicut re, D sol re, et sol, G sol re ut acuti, ut hic:</p>
+      <p id="TINCPT10380">[CSM22/2:48]</p>
+      <p id="TINCPT10381">Diciturque diatessaron supra diapason eo quod ex diatessaron supra diapason posito conficatur. Et quoniam, ut praediximus, diapason quinque tonos ac duo semitonia, et diatessaron duos tonos ac unum semitonium continent, hanc concordantiam septem tonis ac tribus semitoniis constare manifestissimum est, quam et vulgariter undecimam nuncupant.</p>
+      <p id="TINCPT10382">Utque refert Boethius suae Musicae libro quinto, quamvis Pythagorei diatessaron concordantiarum numero adiungerent, diatessaron tamen supra diapason concordantiam esse non existimabant. Idcirco quoniam non in superparticulari vel multiplici cadit comparatione, sed in multiplici superpartienti, hoc est proportione dupla superbispartienti tertias, quam octo ad tria comparata, efficiunt illi namque concordantias omnes in proportionibus multiplicibus ac superparticularibus ponebant easque a superpartientibus ac multiplicibus superpartientibus separabant.</p>
+      <p id="TINCPT10383">Sed Ptolomaeus eos reprehendit, probans hoc ipsum diatessaron supra diapason esse concordantiam, eo quod diapason talem vocum efficit coniunctionem ut unus atque idem sonus esse videatur. Unde si qua ei consonantia fuerit addita integra ac inviolata servatur, cuiquidem Ptolomeo assentior sed non simpliciter. Hoc enim diatessaron supra diapason per se positum sicut de diatessaron praedictum est apud aures eruditas intolerabiliter discordat. Hinc a contrapuncto abiicitur nisi pluribus super librum cantantibus, unus eorum quintam sub aliqua tenoris nota, quod in penultima saepe fit, assumat. Tunc enim ab alio undecima cantari poterit quam mox convenientior proximiorque concordantia sequetur, ut hic patet:</p>
+      <p id="TINCPT10384">
+      <pb n="[49]" />[CSM22/2:49,1; text: Exemplum] 
+      <figure>
+        <graphic url="/images/TINCPT1_14GF.gif" />
+      </figure></p>
+      <p id="TINCPT10385">In plurimis autem rei factae locis undecima admittitur, non solum ei quinta sed etiam tertia subiuncta, licet illius concordantiae subiunctio magis quam istius asperitatem eius mitiget, ut hic probatur:</p>
+      <p id="TINCPT10386">[CSM22/2:49,2; text: Supremum, Tenor, Contratenor]</p>
+      <p id="TINCPT10387">
+      <pb n="[50]" />[CSM22/2:50,1] 
+      <figure>
+        <graphic url="/images/TINCPT1_15GF.gif" />
+      </figure></p>
+      <p id="TINCPT10388">Capitulum XI--De diapente supra diapason, id est duodecima.</p>
+      <p id="TINCPT10389">Diapente supra diapason est concordantia ex mixtura duarum vocum diapason ac diapente ab invicem distantium effecta, sicut re, D sol re, et la, A la mi re acuti, ut hic:</p>
+      <p id="TINCPT10390">[CSM22/2:50,2]</p>
+      <p id="TINCPT10391">Dictumque est diapente supra diapason, quia ex diapente supra diapason posito constituatur. Et quoniam, ut saepe diximus, diapason quinque tonos ac duo semitonia et diapente tres tonos ac unum semitonium continent, liquidum est hanc concordantiam octo tonis ac tribus constare semitoniis vocaturque communiter duodecima.</p>
+      <p id="TINCPT10392">Neque dubitandum est eam non minus quam diapente cui ad diapason correspondet inter concordantias melodiosissimas esse connumerandum, tam notis extremis quam mediis iocundissime coaptabilem, excepto duntaxat ubi tenor unum gradum in aliquam perfectionem ascendert; tunc enim, id est tenore unum gradum in aliquam perfectionem ascendente, nota praecedens numquam contra se duodecimam inferiorem assumi patitur, ut hic patet:</p>
+      <p id="TINCPT10393">[CSM22/2:50,3; text: Exemplum]</p>
+      <p id="TINCPT10394">
+      <pb n="[51]" />Similiter quando tenor unum etiam gradum in aliquam perfectionem descendit, numquam contra praecedentem notam duodecima superior collocari debebit, ut hic probatur:</p>
+      <p id="TINCPT10395">[CSM22/2:51,1; text: Exemplum]</p>
+      <p id="TINCPT10396">Post se autem habere potest haec duodecima quamvis diversimode quintam, sextam, octavam, decimam, duodecimam aliam, tertiamdecimam, quintamdecimam, decimamseptimam et decimamnonam.</p>
+      <p id="TINCPT10397">Quomodo duodecima superior post se quintam habere potest.</p>
+      <p id="TINCPT10398">Quinta post duodecimam superiorem dulcissime supra tenorem assumetur quando tenor ipse tres aut quatuor gradus ascendet, ut hic probatur:</p>
+      <p id="TINCPT10399">[CSM22/2:51,2; text: Exempla]</p>
+      <p id="TINCPT10400">Quomodo sextam.</p>
+      <p id="TINCPT10401">Sextam post se superior duodecima saepius habebit supra tenorem duos gradus, tres aut quatuor ascendentem, ut hic patet:</p>
+      <p id="TINCPT10402">[CSM22/2:51,3; text: Exempla]</p>
+      <p id="TINCPT10403">Quomodo octavam.</p>
+      <p id="TINCPT10404">Octava duodecimam superiorem non numquam supra tenorem sequetur, 
+      <pb n="[52]" />eo non moto vel etiam duos aut tres aut quatuor gradus ascendente, ut hic probatur:</p>
+      <p id="TINCPT10405">[CSM22/2:52,1; text: Exempla] 
+      <figure>
+        <graphic url="/images/TINCPT1_16GF.gif" />
+      </figure></p>
+      <p id="TINCPT10406">Quomodo decimam.</p>
+      <p id="TINCPT10407">Decimam supra tenorem superior duodecima post se frequenter habere potest quando tenor non movetur, vel unum aut duos gradus, tres aut quatuor ascendit, vel unum aut duos descendit, ut hic:</p>
+      <p id="TINCPT10408">[CSM22/2:52,2; text: Exempla]</p>
+      <p id="TINCPT10409">Quomodo duodecimam aliam.</p>
+      <p id="TINCPT10410">Duodecima alia post superiorem duodecimam supra tenorem licet raro collocabitur quando tenor ipse non movebitur, ut hic:</p>
+      <p id="TINCPT10411">[CSM22/2:52,3; text: Exemplum]</p>
+      <p id="TINCPT10412">Quomodo tertiamdecimam.</p>
+      <p id="TINCPT10413">Tertiamdecimam post se duodecima superior interdum habere poterit ubi tenor in eodem loco permanserit vel unum gradum aut duos aut tres ascenderit vel descenderit, ut hic patet:</p>
+      <p id="TINCPT10414">
+      <pb n="[53]" />[CSM22/2:53,1; text: Exempla]</p>
+      <p id="TINCPT10415">Quomodo quintamdecimam.</p>
+      <p id="TINCPT10416">Quintadecima superiorem duodecimam supra tenorem aliquando sequetur si tenor ipse non moveatur, vel unum, duos, tres aut quatuor gradus descendat, ut hic probatur:</p>
+      <p id="TINCPT10417">[CSM22/2:53,2; text: Exempla]</p>
+      <p id="TINCPT10418">Quomodo decimamseptimam.</p>
+      <p id="TINCPT10419">Decimamseptimam post se duodecima superior dulciter supra tenorem habebit, ipso tenore unum, duos, tres aut quatuor gradus descendente, ut hic:</p>
+      <p id="TINCPT10420">[CSM22/2:53,3; text: Exempla]</p>
+      <p id="TINCPT10421">Quomodo decimamnonam.</p>
+      <p id="TINCPT10422">Decimanona post duodecimam superiorem interdum assumetur supra tenorem tres aut quatuor gradus descendentem, ut hic probatur:</p>
+      <p id="TINCPT10423">[CSM22/2:53,4; text: Exempla]</p>
+      <p id="TINCPT10424">Quomodo duodecima inferior post se quintam requirit.</p>
+      <p id="TINCPT10425">Quintam autem infra tenorem duodecima inferior post se habebit ubi tenor tres aut quatuor gradus descendit, ut hic patet:</p>
+      <p id="TINCPT10426">
+      <pb n="[54]" />[CSM22/2:54,1; text: Exempla] 
+      <figure>
+        <graphic url="/images/TINCPT1_17GF.gif" />
+      </figure></p>
+      <p id="TINCPT10427">Quomodo sextam.</p>
+      <p id="TINCPT10428">Sexta duodecimam inferiorem non raro sequetur infra tenorem duos gradus, tres aut quatuor descendentem, ut hic probatur:</p>
+      <p id="TINCPT10429">[CSM22/2:54,2; text: Exempla]</p>
+      <p id="TINCPT10430">Quomodo octavam.</p>
+      <p id="TINCPT10431">Octavam post se duodecima inferior infra tenorem non numquam accipiet eo immoto permanente vel unum aut duos aut quatuor gradus descendente, ut hic patet:</p>
+      <p id="TINCPT10432">[CSM22/2:54,3; text: Exempla]</p>
+      <p id="TINCPT10433">Quomodo decimam.</p>
+      <p id="TINCPT10434">Decima infra tenorem saepe duodecimam inferiorem sequitur quando tenor ipse non movetur vel quando unum aut duos, tres aut quatuor gradus descendit, vel unum aut duos ascendit, ut hic probatur:</p>
+      <p id="TINCPT10435">[CSM22/2:54,4; text: Exempla]</p>
+      <p id="TINCPT10436">
+      <pb n="[55]" />Quomodo duodecimam aliam.</p>
+      <p id="TINCPT10437">Duodecimam aliam inferior duodecima, quamvis raro, infra tenorem post se requirit si tenor ipse a suo loco motus non sit, ut hic patet:</p>
+      <p id="TINCPT10438">[CSM22/2:55,1; text: Exemplum]</p>
+      <p id="TINCPT10439">Quomodo tertiamdecimam.</p>
+      <p id="TINCPT10440">Tertiadecima post inferiorem duodecimam interdum collocatur infra tenorem in eodem loco permanentem val unum gradum, duos, tres aut quatuor ascendentem, vel unum aut duos descendentem, ut hic in sequenti patebit:</p>
+      <p id="TINCPT10441">[CSM22/2:55,2; text: Exempla]</p>
+      <p id="TINCPT10442">Quomodo quintamdecimam.</p>
+      <p id="TINCPT10443">Quintamdecimam post se infra tenorem duodecima inferior aliquando sumet quando tenor immotus permanebit, vel quando unum aut duos aut tres gradus ascendet, vel unum tantum descendet, ut hic patet:</p>
+      <p id="TINCPT10444">[CSM22/2:55,3; text: Exempla]</p>
+      <p id="TINCPT10445">Quomodo decimamseptimam.</p>
+      <p id="TINCPT10446">Decimaseptima duodecimam inferiorem dulciter infra tenorem sequi poterit ubi tenor ipse unum gradum aut duos, tres aut quatuor ascenderit, ut hic probatur:</p>
+      <p id="TINCPT10447">
+      <pb n="[56]" />[CSM22/2:56,1; text: Exempla] 
+      <figure>
+        <graphic url="/images/TINCPT1_18GF.gif" />
+      </figure></p>
+      <p id="TINCPT10448">Quomodo decimamnonam.</p>
+      <p id="TINCPT10449">Decimamnonam infra tenorem post se duodecima inferior interdum assumit quando tenor tres aut quatuor gradus ascendit, ut hic patet:</p>
+      <p id="TINCPT10450">[CSM22/2:56,2; text: Exempla]</p>
+      <p id="TINCPT10451">Capitulum XII--De diapente cum semitonio et diapente cum tono supra diapason, id est tertiadecima imperfecta et tertiadecima perfecta.</p>
+      <p id="TINCPT10452">Diapente cum semitonio supra diapason est concordantia ex mixtura duarum vocum ab invicem diapason ac diapente cum semitonio distantium constituta, sicut mi, E la mi gravis, et fa, C sol fa, ut hic:</p>
+      <p id="TINCPT10453">[CSM22/2:56,3]</p>
+      <p id="TINCPT10454">Diciturque diapente cum semitonio supra diapason eo quod ex diapente cum semitonio supra diapason assumpto conficiatur.</p>
+      <p id="TINCPT10455">Et quoniam, ut praedictum est, diapente cum semitonio tribus tonis ac duobus semitoniis, diapason vero quinque tonis ac duobus etiam semitoniis constat, concordantiam hanc octo tonos et quatuor semitonia tantum continere necessarium est. Hinc est et communiter tertiadecima imperfecta vocatur.</p>
+      <p id="TINCPT10456">Diapente autem cum tono supra diapason est concordantia ex mixtura duarum vocum diapason ac diapente cum tono ab invicem distantium effecta, sicut fa, F fa ut gravis, et sol, D la sol, ut hic:</p>
+      <p id="TINCPT10457">
+      <pb n="[57]" />[CSM22/2:57,1]</p>
+      <p id="TINCPT10458">Quodquidem diapente cum tono supra diapason dicitur eo quod ex diapente cum tono supra diapason posito constituatur. Quia vero diapente cum tono quatuor tonos ac unum semitonium et diapason quinque tonos ac duo semitonia continere superius ostensum est, concordantia haec necesse novem tonis ac tribus semitoniis constat, unde tertiadecima perfecta vulgariter appellatur.</p>
+      <p id="TINCPT10459">Porro omnis tertiadecima sive imperfecta sive perfecta, sive superior sive inferior fuerit, instar sextae cui ad diapason correspondens est a veteribus musicis inter discordantias numerabatur. Et profecto eam per se positam plus asperitudinis quam suavitudinis inferre sensibus aures meae percipiunt.</p>
+      <p id="TINCPT10460">Denique sicut haec concordantia notis mediis tendendo in quintamdecimam aut decimamseptimam praecipue est accommodabilis, ita et extremis est evitabilis, nisi ipsae notae extremae, hoc est inferiores, naturaliter sustineri debeant ac contra eas sextam assumendo. Quod et in superioribus evenire potest absque interpositione concordantiae alterius speciei in quintamdecimam aut decimamseptimam tendatur.</p>
+      <p id="TINCPT10461">Hinc et diligentissime animadvertendum est quod numquam tertiadecima superior admittenda est nisi una vel plures aliae similes tertiaedecimae sive concordantia alterius speciei interiecta sequantur, eam finaliter in superiorem quintamdecimam aut decimamseptimam tendentes, vel nisi post eam tenor descendat unum aut tres gradus, contra quorum graduum notas aut quintadecima aut decimaseptima superponatur, ut hic:</p>
+      <p id="TINCPT10462">[CSM22/2:57,2; text: Contrapunctus, Tenor]</p>
+      <p id="TINCPT10463">
+      <pb n="[58]" />[CSM22/2:58,1] 
+      <figure>
+        <graphic url="/images/TINCPT1_19GF.gif" />
+      </figure></p>
+      <p id="TINCPT10464">Attamen haec tertiadecima supra tenorem fieri poterit si ipso tenore non moto habeat unam duodecimam immediate praecedentem et aliam aut quintamdecimam sequentem vel quintamdecimam praecedentem et duodecimam sequentem, ut hic:</p>
+      <p id="TINCPT10465">[CSM22/2:58,2; text: Exempla]</p>
+      <p id="TINCPT10466">Simili modo inferior tertiadecima numquam dulciter ponetur nisi etiam una aut plures aliae tertiaedecimae eam sequantur, in quintamdecimam aut decimamseptimam inferiorem nulla alterius speciei concordantia interposita tendentes, vel nisi tenor post eam unum gradum aut tres ascendat contra quorum graduum notas quintadecima aut decimaseptima inferior collocabitur, ut hic:</p>
+      <p id="TINCPT10467">[CSM22/2:58,3; text: Tenor, Contrapunctus]</p>
+      <p id="TINCPT10468">Verum tertiamdecimam hanc infra tenorem aliqui approbant, si eam etiam infra tenorem in eodem loco permanentem una duodecima praecedat et alia vel quintadecima immediate sequatur, vel e converso quintadecima praecedat et duodecima sequatur, ut hic patet:</p>
+      <p id="TINCPT10469">[CSM22/2:58,4; text: Exempla]</p>
+      <p id="TINCPT10470">
+      <pb n="[59]" />Et hic adverte omnia praedicta ad ordinationem tertiaedecimae in contrapuncto vel re facta duarum partium tantum fiendam esse restringenda. Enim vero qualiter cumque tertiadecima ponatur, competenter dulcis est si ei tertia fuerit subdita, dulcior tamen si quinta, ut hic probatur:</p>
+      <p id="TINCPT10471">[CSM22/2:59,1; text: Contrapunctus, Tenor et Contratenor]</p>
+      <p id="TINCPT10472">Poterit itaque tertiadecima quaelibet habere post se quamvis diversimode decimam, duodecimam, aliam tertiamdecimam, quintamdecimam decimamseptimam et decimamnonam.</p>
+      <p id="TINCPT10473">Quomodo tertiadecima superior post se decimam habere potest.</p>
+      <p id="TINCPT10474">Decima namque post superiorem tertiamdecimam supra tenorem collocari potest quando tenor ipse in eodem loco permanet, vel quando unum gradum aut duos, tres aut quatuor ascendit, vel unum descendit. Verumtamen huiusmodi ordinatio numquam aut rarissime fieri debet ubi solus ac simplex contrapunctus efficitur, ipsius enum tertiaedecimae durities tunc nimium evidens esset, ut hic patet:</p>
+      <p id="TINCPT10475">[CSM22/2:59,2; text: Exempla]</p>
+      <p id="TINCPT10476">Quomodo duodecimam.</p>
+      <p id="TINCPT10477">Duodecima post se tertiadecima superior habere poterit supra tenorem immotum permanentem, ut hic probatur:</p>
+      <p id="TINCPT10478">[CSM22/2:59,3; text: Exemplum]</p>
+      <p id="TINCPT10479">
+      <pb n="[60]" />Quomodo tertiamdecimam aliam.</p>
+      <p id="TINCPT10480">Tertiadecima alia supra tenorem tertiamdecimam superiorem frequenter sequetur quando tenor non movebitur, vel quando unum gradum aut duos aut tres ascendet vel descendet, ut hic patet:</p>
+      <p id="TINCPT10481">[CSM22/2:60,1; text: Exempla] 
+      <figure>
+        <graphic url="/images/TINCPT1_20GF.gif" />
+      </figure></p>
+      <p id="TINCPT10482">Quomodo quintamdecimam.</p>
+      <p id="TINCPT10483">Quintamdecimam superiorem superior tertiadecima supra tenorem qui non movetur interdum post se requirit, saepissime vero quando tenor ipse unum gradum et raro vel numquam in solo et simplici contrapuncto quando duos aut tres descendit, ut hic probatur:</p>
+      <p id="TINCPT10484">[CSM22/2:60,2; text: Exempla]</p>
+      <p id="TINCPT10485">Quomodo decimamseptimam.</p>
+      <p id="TINCPT10486">Decimaseptima post tertiamdecimam superiorem supra tenorem ponitur quando tenor ipse non movetur, vel quando unum, duos, tres aut quatuor descendit; primus tamen huius ordinationis modus, tertius et ultimus raro vel numquam in solo et simplici contrapuncto admittendi sunt, ut hic:</p>
+      <p id="TINCPT10487">[CSM22/2:60,3; text: Exempla]</p>
+      <p id="TINCPT10488">Quomodo decimamnonam.</p>
+      <p id="TINCPT10489">Decimamnonam vero quamvis etiam raro vel numquam in solo et simplici contrapuncto tertiadecima superior interdum post se supra tenorem habere poterit, ubi tenor duos, aut tres gradus descenderit, ut hic:</p>
+      <p id="TINCPT10490">
+      <pb n="[61]" />[CSM22/2:61,1; text: Exempla]</p>
+      <p id="TINCPT10491">Quomodo tertiadecima inferior post se decimam requirit.</p>
+      <p id="TINCPT10492">Decima autem inferiorem tertiamdecimam aliquando infra tenorem sequetur quando tenor non movebitur, vel unum gradum ascendet, vel unum aut duos, tres aut quatuor descendet.</p>
+      <p id="TINCPT10493">Verumtamen ubi contrapunctus simplex et solus est conficiendus, talem ordinationem propter ipsius tertiaedecimae asperitatem nimis apparrentem numquam vel rarissime admittere debemus, ut hic probatur:</p>
+      <p id="TINCPT10494">[CSM22/2:61,2; text: Exempla]</p>
+      <p id="TINCPT10495">Quomodo duodecimam.</p>
+      <p id="TINCPT10496">Duodecimam infra tenorem inferior tertiadecima post se habebit quando tenor ipse immotus perstiterit, ut hic patet:</p>
+      <p id="TINCPT10497">[CSM22/2:61,3; text: Exemplum]</p>
+      <p id="TINCPT10498">Quomodo tertiamdecimam aliam.</p>
+      <p id="TINCPT10499">Tertiadecima alia inferiorem tertiamdecimam infra tenorem sequi poterit, ipso tenore in eodem loco permanente, vel unum gradum aut duos aut tres ascendente vel descendente, ut hic probatur:</p>
+      <p id="TINCPT10500">[CSM22/2:61,4; text: Exempla]</p>
+      <p id="TINCPT10501">
+      <pb n="[62]" />Quomodo quintamdecimam.</p>
+      <p id="TINCPT10502">Quintamdecimam inferior tertiadecima infra tenorem non motum aliquando post se requirit, sed saepius et congruentissime quando tenor ipse unum gradum ascendit, raro autem vel numquam ubi simplex et solus fit contrapunctus quando duos ascendit vel unum descendit, ut hic patet:</p>
+      <p id="TINCPT10503">[CSM22/2:62,1; text: Exempla] 
+      <figure>
+        <graphic url="/images/TINCPT1_21GF.gif" />
+      </figure></p>
+      <p id="TINCPT10504">Quomodo decimamseptimam.</p>
+      <p id="TINCPT10505">Decimaseptima post inferiorem tertiamdecimam infra tenorem fiet quando tenor ipse non movebitur, vel unum aut duos aut tres aut quatuor gradus ascendet, ubi tamen simplicem et solum contrapunctum efficere voluerimus, nec primum huius ordinationis modum nec tertium nec ultimum umquam aut vix admittemus, ut hic patet:</p>
+      <p id="TINCPT10506">[CSM22/2:62,2; text: Exempla]</p>
+      <p id="TINCPT10507">Quomodo decimamnonam.</p>
+      <p id="TINCPT10508">Decimamnonam, quamvis etiam raro vel numquam, in solo et simplici contrapuncto interdum infra tenorem post tertiamdecimam inferiorem collocare poterimus, ubi tenorem tres aut quatuor gradus ascendere viderimus, ut hic probatur:</p>
+      <p id="TINCPT10509">[CSM22/2:62,3; text: Exempla]</p>
+      <p id="TINCPT10510">
+      <pb n="[63]" />Capitulum XIII--De bisdiapason, id est quintadecima.</p>
+      <p id="TINCPT10511">Bisdiapason est concordantia ex mixtura duarum vocum duplici diapason ab invicem distantium constituta, sicut re, D sol re, et sol, D la sol, ut hic:</p>
+      <p id="TINCPT10512">[CSM22/2:63,1]</p>
+      <p id="TINCPT10513">Diciturque bisdiapason eo quod ex diapason bis sumpto efficiatur, et quoniam diapason, ut saepius relatum est, quinque tonis ac duobus semitoniis constat, concordantia haec quae ex duplici diapason constituitur decem tonos et quatuor semitonia necessario continet vocaturque communiter quintadecima. Porro cythara apud priscos, secundum dicta Boethii, quindecim tantum cordis compacta, nulli dubium est bisdiapason tunc omnium concordantiarum fuisse ultimam. Quaequidem octavae cordae ad diapason correspondens adeo naturae diapason participat ut sit instar eius plurimum sonora, dulcis et perfecta, exindeque notis extremis praecipue perfectionalibus frequentissime immo fere semper accommodanda. Quamvis etiam non parum suavitatis afferat, si mediis congrue fuerit adaptata. Potest autem diversimode quintadecima haec habere post se decimam duodecimam, tertiamdecimam, aliam quintamdecimam, decimamseptimam, decimamnonam, vicesimam et vicesimamsecundam.</p>
+      <p id="TINCPT10514">Quomodo quintadecima superior decimam post se habere potest.</p>
+      <p id="TINCPT10515">Decimam enim superior quintadecima supra tenorem habere post se poterit ubi tenor ipse unum gradum aut duos, tres aut quatuor ascenderit, ut hic probatur:</p>
+      <p id="TINCPT10516">[CSM22/2:63,2; text: Exempla]</p>
+      <p id="TINCPT10517">
+      <pb n="[64]" />Quomodo duodecimam.</p>
+      <p id="TINCPT10518">Duodecima superiorem quintamdecimam supra tenorem elegantissime sequetur, ipso tenore immoto permanente, vel unum, duos, tres aut quatuor gradus ascendente, ut hic patet:</p>
+      <p id="TINCPT10519">[CSM22/2:64,1; text: Exempla] 
+      <figure>
+        <graphic url="/images/TINCPT1_22GF.gif" />
+      </figure></p>
+      <p id="TINCPT10520">Quomodo tertiamdecimam.</p>
+      <p id="TINCPT10521">Tertiamdecimam post se supra tenorem quintadecima superior assumet quando tenor non movebitur vel unum gradum aut duos, tres aut quatuor ascendet, vel unum aut duos descendet, ut hic probatur:</p>
+      <p id="TINCPT10522">[CSM22/2:64,2; text: Exempla]</p>
+      <p id="TINCPT10523">Quomodo quintamdecimam aliam.</p>
+      <p id="TINCPT10524">Quintadecima alia supra tenorem post quintamdecimam superiorem fieri poterit se tenor ipse in eodem loco permanserit, ut hic patet:</p>
+      <p id="TINCPT10525">[CSM22/2:64,3; text: Exemplum]</p>
+      <p id="TINCPT10526">Quomodo decimamseptimam.</p>
+      <p id="TINCPT10527">Decimamseptimam frequenter post se quintadecima superior poscit supra tenorem, se non moventem, vel unum aut duos gradus ascendentem, vel unum aut duos, tres aut quatuor descendentem, ut hic probatur:</p>
+      <p id="TINCPT10528">
+      <pb n="[65]" />[CSM22/2:65,1; text: Exempla]</p>
+      <p id="TINCPT10529">Quomodo decimamnonam.</p>
+      <p id="TINCPT10530">Decimanona interdum supra tenorem quintamdecimam superiorem sequetur, si tenor ipse immotus steterit vel unum, duos, tres aut quatuor gradus descenderit, un hic patet:</p>
+      <p id="TINCPT10531">[CSM22/2:65,2; text: Exempla]</p>
+      <p id="TINCPT10532">Quomodo vicesimam.</p>
+      <p id="TINCPT10533">Vicesimam post se superior quintadecima, quamvis rarissime, assumit, ipso tenore unum gradum aut duos, tres aut quatuor descendente, ut hic probatur:</p>
+      <p id="TINCPT10534">[CSM22/2:65,3; text: Exempla]</p>
+      <p id="TINCPT10535">Quomodo vicesimamsecundam.</p>
+      <p id="TINCPT10536">Vicesimasecunda, licet raro aut numquam, post superiorem quintamdecimam ponitur supra tenorem tres gradus aut quatuor descendentem, ut hic patet:</p>
+      <p id="TINCPT10537">[CSM22/2:65,4; text: Exempla]</p>
+      <p id="TINCPT10538">
+      <pb n="[66]" />Quomodo quintadecima inferior decimam post requirit.</p>
+      <p id="TINCPT10539">Decimam vero infra tenorem quintadecima inferior post se dulcissime habere poterit ubi tenor unum gradum aut duos, tres aut quatuor descenderit, ut hic probatur:</p>
+      <p id="TINCPT10540">[CSM22/2:66,1; text: Exempla] 
+      <figure>
+        <graphic url="/images/TINCPT1_23GF.gif" />
+      </figure></p>
+      <p id="TINCPT10541">Quomodo duodecimam.</p>
+      <p id="TINCPT10542">Duodecima inferiorem quintamdecimam infra tenorem saepe et optime sequetur, ipso tenore immoto permanente vel unum gradum ascendente, vel unum aut duos aut tres gradus descendente, ut hic patet:</p>
+      <p id="TINCPT10543">[CSM22/2:66,2; text: Exempla]</p>
+      <p id="TINCPT10544">Quomodo tertiamdecimam.</p>
+      <p id="TINCPT10545">Tertiamdecimam post se inferior quintadecima infra tenorem requirit quando tenor ipse non movetur, vel quando unum gradum, duos, tres aut quatuor descendit, vel unum aut duos ascendit, ut hic probatur:</p>
+      <p id="TINCPT10546">[CSM22/2:66,3; text: Exempla]</p>
+      <p id="TINCPT10547">Quomodo quintamdecimam aliam.</p>
+      <p id="TINCPT10548">Quintadecima alia inferiorem quintamdecimam infra tenorem interdum sequitur si tenor ipse non moveatur, ut hic patet:</p>
+      <p id="TINCPT10549">[CSM22/2:66,4; text: Exemplum]</p>
+      <p id="TINCPT10550">
+      <pb n="[67]" />Quomodo decimamseptimam.</p>
+      <p id="TINCPT10551">Decimamseptimam infra tenorem quintadecima inferior post se assumet quando tenor non movebitur, vel quando unum gradum aut duos, tres aut quatuor ascendet vel quando unum aut duos descendet, ut hic probatur:</p>
+      <p id="TINCPT10552">[CSM22/2:67,1; text: Exempla]</p>
+      <p id="TINCPT10553">Quomodo decimamnonam.</p>
+      <p id="TINCPT10554">Decimanona post inferiorem quintamdecimam infra tenorem aliquando collocatur, ipso tenore in eodem loco persistente, vel unum gradum aut duos, tres aut quatuor ascendente, ut hic patet:</p>
+      <p id="TINCPT10555">[CSM22/2:67,2; text: Exempla]</p>
+      <p id="TINCPT10556">Quomodo vicesimam.</p>
+      <p id="TINCPT10557">Vicesimam infra tenorem, quamvis rarissime, inferior quintadecima post se postulat si tenor unum gradum aut duos, tres aut quatuor ascendat, ut hic probatur.</p>
+      <p id="TINCPT10558">[CSM22/2:67,3; text: Exempla]</p>
+      <p id="TINCPT10559">Quomodo vicesimamsecundam.</p>
+      <p id="TINCPT10560">Vicesimasecunda inferiorem quintamdecimam, licet raro aut numquam, sequitur, infra tenorem tres aut quatuor gradus ascendentem, ut hic patet:</p>
+      <p id="TINCPT10561">
+      <pb n="[68]" />[CSM22/2:68,1; text: Exempla] 
+      <figure>
+        <graphic url="/images/TINCPT1_24GF.gif" />
+      </figure></p>
+      <p id="TINCPT10562">Capitulum XIV--De semiditono et ditono supra bisdiapason, id est decimaseptima imperfecta et decimaseptima perfecta.</p>
+      <p id="TINCPT10563">Semiditonus supra bisdiapason est concordantia ex mixtura duarum vocum bisdiapason ac semiditono ab invicem distantium constituta, sicut re, A re, et fa, C sol fa, ut hic:</p>
+      <p id="TINCPT10564">[CSM22/2:68,2]</p>
+      <p id="TINCPT10565">Diciturque semiditonus supra bisdiapason eo quod ex semiditono supra bisdiapason posito efficiatur. Et quia bisdiapason, ut praemissum est, decem tonos et quatuor semitonia, semiditonus vero unum tonum ac unum semitonium continet, concordantiam hanc undecim tonis et quinque semitoniis tantum constare necessarium est, hinc decimaseptima imperfecta communiter vocatur.</p>
+      <p id="TINCPT10566">Ditonus autem supra bisdiapason est concordantia ex mixtura duarum vocum ab invicem bisdiapason ac ditono distantium effecta, sicut fa, C fa ut, et la, E la, ut hic:</p>
+      <p id="TINCPT10567">[CSM22/2:68,3]</p>
+      <p id="TINCPT10568">Dictusque est ditonus supra bisdiapason quia ex ditono supra bisdiapason assumpto constituatur. Ac eo quod, ut praediximus, bisdiapason decem tonis et quatuor semitoniis ac ditonus duobus tonis constant, concordantia haec duodecim tonos et quatuor semitonia necessario continet, unde fit ut decimaseptima perfecta vulgariter nominetur.</p>
+      <p id="TINCPT10569">
+      <pb n="[69]" />Omnis vero decimaseptima sive imperfecta sive perfecta, sive superior sive inferior sit, ad similitudinem tertiae cui ad bisdiapason et decimae cui ad diapason correspondet plurimum dulcedinis habet omnibusque notis tam extremis quam mediis indifferenter est adaptabilis.</p>
+      <p id="TINCPT10570">Hinc et post se, modis licet variis, habere potest decimam, duodecimam, tertiamdecimam, quintamdecimam, aliam decimamseptimam, decimamnonam, vicesimam et vicesimamsecundam.</p>
+      <p id="TINCPT10571">Quomodo decimaseptima superior decimam post se habere potest.</p>
+      <p id="TINCPT10572">Decimam post se superior decimaseptima supra tenorem habere poterit si tenor ipse tres aut quatuor gradus ascenderit, ut hic probatur:</p>
+      <p id="TINCPT10573">[CSM22/2:69,1; text: Exempla]</p>
+      <p id="TINCPT10574">Quomodo duodecimam.</p>
+      <p id="TINCPT10575">Duodecima superiorem decimamseptimam optime sequetur supra tenorem unum gradum aut duos, tres aut quatuor ascendentem, ut hic patet:</p>
+      <p id="TINCPT10576">[CSM22/2:69,2; text: Exempla]</p>
+      <p id="TINCPT10577">Quomodo tertiadecimam.</p>
+      <p id="TINCPT10578">Tertiamdecimam supra tenorem decimaseptima post se habere potest quando tenor non movetur, vel quando unum, duos, tres aut quatuor gradus ascendit, ut hic:</p>
+      <p id="TINCPT10579">[CSM22/2:69,3; text: Exempla]</p>
+      <p id="TINCPT10580">
+      <pb n="[70]" />Quomodo quintamdecimam.</p>
+      <p id="TINCPT10581">Quintadecima post superiorem decimamseptimam collocabitur supra tenorem ipso in eodem loco permanente, vel unum gradum, duos aut tres ascendente, ut hic:</p>
+      <p id="TINCPT10582">[CSM22/2:70,1; text: Exempla] 
+      <figure>
+        <graphic url="/images/TINCPT1_25GF.gif" />
+      </figure></p>
+      <p id="TINCPT10583">Quomodo decimamseptimam aliam.</p>
+      <p id="TINCPT10584">Decimamseptimam aliam supra tenorem decimaseptima superior post se requirit quando tenor immotus permanet, vel quando unum gradum aut duos aut tres aut quatuor ascendit vel descendit, ut hic probatur:</p>
+      <p id="TINCPT10585">[CSM22/2:70,2; text: Exempla]</p>
+      <p id="TINCPT10586">Quomodo decimamnonam.</p>
+      <p id="TINCPT10587">Decimanona supra tenorem decimamseptimam superiorem aliquando et bene sequitur quando tenor ipse non movetur, vel quando unum gradum aut duos, tres aut quatuor descendit, ut hic patet:</p>
+      <p id="TINCPT10588">[CSM22/2:70,3; text: Exempla]</p>
+      <p id="TINCPT10589">Quomodo vicesimam.</p>
+      <p id="TINCPT10590">Vicesimam supra tenorem decimaseptima, quamvis raro, post se assumere poterit ubi tenor etiam immotus steterit vel unum gradum aut duos, tres aut quatuor descenderit, ut hic probatur:</p>
+      <p id="TINCPT10591">
+      <pb n="[71]" />[CSM22/2:71,1; text: Exempla]</p>
+      <p id="TINCPT10592">Quomodo vicesimamsecundam.</p>
+      <p id="TINCPT10593">Vicesimasecunda post superiorem decimamseptimam, licet non saepe, ponetur, ipso tenore unum, duos, tres aut quatuor gradus descendente, ut hic patet:</p>
+      <p id="TINCPT10594">[CSM22/2:71,2; text: Exempla]</p>
+      <p id="TINCPT10595">Quomodo decimaseptima inferior decimam post se requirit.</p>
+      <p id="TINCPT10596">Decimam autem infra tenorem decimaseptima inferior post se requirit quando tenor ipse tres gradus aut quatuor descendit, ut hic probatur:</p>
+      <p id="TINCPT10597">[CSM22/2:71,3; text: Exempla]</p>
+      <p id="TINCPT10598">Quomodo duodecimam.</p>
+      <p id="TINCPT10599">Duodecima infra tenorem post decimamseptimam inferiorem recte ponetur si tenor unum gradum duos, tres aut quatuor descendit, ut hic patet:</p>
+      <p id="TINCPT10600">[CSM22/2:71,4; text: Exempla]</p>
+      <p id="TINCPT10601">
+      <pb n="[72]" />Quomodo tertiamdecimam.</p>
+      <p id="TINCPT10602">Tertiamdecimam inferior decimaseptima post se assumet infra tenorem se non moventem, vel etiam unum aut duos, tres aut quatuor gradus descendentem, ut hic probatur:</p>
+      <p id="TINCPT10603">[CSM22/2:72,1; text: Exempla] 
+      <figure>
+        <graphic url="/images/TINCPT1_26GF.gif" />
+      </figure></p>
+      <p id="TINCPT10604">Quomodo quintamdecimam.</p>
+      <p id="TINCPT10605">Quintadecima inferiorem decimamseptimam infra tenorem sequi poterit, ipso tenore in eodem loco permanente, vel unum gradum ascendente, vel unum aut duos descendente, ut hic patet:</p>
+      <p id="TINCPT10606">[CSM22/2:72,2; text: Exempla]</p>
+      <p id="TINCPT10607">Quomodo aliam decimamseptimam.</p>
+      <p id="TINCPT10608">Decimamseptimam aliam inferior decimaseptima post se infra tenorem postulat, si tenor ipse immotus permaneat vel unum gradum, duos, tres aut quatuor ascendat vel descendat, ut hic probatur:</p>
+      <p id="TINCPT10609">[CSM22/2:72,3; text: Exempla]</p>
+      <p id="TINCPT10610">Quomodo decimamnonam.</p>
+      <p id="TINCPT10611">Decimanona post inferiorem decimamseptimam infra tenorem collocari poterit se tenor ipse immotus perstiterit vel unum aut duos gradus ascenderit vel descenderit, ut hic patet:</p>
+      <p id="TINCPT10612">
+      <pb n="[73]" />[CSM22/2:73,1; text: Exempla]</p>
+      <p id="TINCPT10613">Quomodo vicesimam.</p>
+      <p id="TINCPT10614">Vicesimam inferior decimaseptima post se non numquam infra tenorem requirit quando tenor ipse in eodem loco permanet, vel unum gradum aut duos, tres aut quatuor ascendit, ut hic probatur:</p>
+      <p id="TINCPT10615">[CSM22/2:73,2; text: Exempla]</p>
+      <p id="TINCPT10616">Quomodo vicesimamsecundam.</p>
+      <p id="TINCPT10617">Vicesimasecunda inferiorem decimamseptimam aliquando infra tenorem sequitur, ipso tenore unum aut duos, tres aut quatuor gradus ascendente, ut hic patet:</p>
+      <p id="TINCPT10618">[CSM22/2:73,3; text: Exempla]</p>
+      <p id="TINCPT10619">Capitulum XV--De diatessaron supra bisdiapason, id est decimaoctava.</p>
+      <p id="TINCPT10620">Diatessaron supra bisdiapason est concordantia secundum quid ex mixtura duarum vocum bisdiapason ac diatessaron ab invicem distantium constituta, sicut re, A re, et sol, D la sol, ut hic:</p>
+      <p id="TINCPT10621">[CSM22/2:73,4]</p>
+      <p id="TINCPT10622">
+      <pb n="[74]" />Diciturque diatessaron supra bisdiapason eo quod ex diatessaron supra bisdiapason posito efficiatur. Et quoniam, ut praedictum est, bisdiapason ex decem tonis cum quatuor semitoniis et diatessaron ex duobus tonis et uno semitonio constant, nulli dubium est quin haec concordantia duodecim tonos et quinque semitonia contineat.</p>
+      <p id="TINCPT10623">Porro quemadmodum diatessaron cui ad bisdiapason et diatessaron supra diapason cui ad diapason correspondet, si per se ponantur discordantiae sunt; ita et haec quam communiter decimamoctavam nuncupant per se posita mirum in modum aures eruditas offendit. Hinc in contrapuncto non admittitur nisi aliquis multorum super librum concinentium audito ab alio infra tenorem diapente quod frequentissime in penultima nota fit, ea uti voluerit postquam immediate concordantia proximior et convenientior assumetur, ut hic:</p>
+      <p id="TINCPT10624">[CSM22/2:74,1; text: Exemplum] 
+      <figure>
+        <graphic url="/images/TINCPT1_27GF.gif" />
+      </figure></p>
+      <p id="TINCPT10625">In re facta vero non numquam haec concordantia admitti poterit, si ei vel tertia vel quinta, qua dulcior efficitur, supposita fuerit. Verumtamen huius modi compositionem ab optimo quoque compositore evitandam censeo, enim vero in ea modicum suavitudinis sensus auditoris percipit, ut hic probatur:</p>
+      <p id="TINCPT10626">[CSM22/2:74,2; text: Supremum, Contratenor, Tenor]</p>
+      <p id="TINCPT10627">Capitulum XVI--De diapente supra bisdiapason, id est decimanona.</p>
+      <p id="TINCPT10628">Diapente supra bisdiapason est concordantia ex mixtura duarum vocum bisdiapason ac diapente ab invicem distanium effecta, sicut re, A re, et la, E la, ut hic:</p>
+      <p id="TINCPT10629">
+      <pb n="[75]" />[CSM22/2:75,1]</p>
+      <p id="TINCPT10630">Diciturque diapente supra bisdiapason eo quod ex diapente supra bisdiapason assumpto constituatur. Quoniam vero, sicut praemisimus, decem toni cum quatuor semitoniis bisdiapason et tres toni cum uno semitonio diapente conficiunt, concordantiam hanc tredecim tonos et quinque semitonia continere necessarium est. Quaequidem concordantia vulgariter decimanona vocata, plurimum suavitatis habens instar quintae cui ad bisdiapason ac duodecimae cui ad diapason correspondet, tam notis extremis quam mediis aeque accommodari potest.</p>
+      <p id="TINCPT10631">Verumtamen tenore unum gradum in aliquam perfectionem ascendente [decimamnonam] inferiorem contra notam praecedentem numquam debemus collocare, ut hic:</p>
+      <p id="TINCPT10632">[CSM22/2:75,2; text: Exempla]</p>
+      <p id="TINCPT10633">Simili modo quando tenor unum gradum in aliquam etiam perfectionem descendit, nota praecedens contra se [decimamnotam] superiorem collocari non permittit, ut hic:</p>
+      <p id="TINCPT10634">[CSM22/2:75,3; text: Exempla]</p>
+      <p id="TINCPT10635">Post se autem, quamvis diversimode, decimanona haec habere potest duodecimam, tertiamdecimam, quintamdecimam, decimamseptimam, aliam decimamnonam, vicesimam et vicesimamsecundam.</p>
+      <p id="TINCPT10636">
+      <pb n="[76]" />Quomodo decimanona superior post se duodecima habere potest.</p>
+      <p id="TINCPT10637">Duodecimam post se superior decimanona supra tenorem habere poterit, ipso tenore tres aut quatuor gradus ascendente, ut hic probatur:</p>
+      <p id="TINCPT10638">[CSM22/2:76,1; text: Exempla] 
+      <figure>
+        <graphic url="/images/TINCPT1_28GF.gif" />
+      </figure></p>
+      <p id="TINCPT10639">Quomodo tertiamdecimam.</p>
+      <p id="TINCPT10640">Tertiadecima post superiorem decimamnonam interdum supra tenorem collocabitur, quando tenor ipse duos aut tres aut quatuor gradus ascendet, ut hic patet:</p>
+      <p id="TINCPT10641">[CSM22/2:76,2; text: Exempla]</p>
+      <p id="TINCPT10642">Quomodo quintamdecimam.</p>
+      <p id="TINCPT10643">Quintamdecimam post se superior decimanona non numquam requirit supra tenorem se non moventem, vel duos etiam gradus aut tres aut quatuor ascendentem, ut hic probatur:</p>
+      <p id="TINCPT10644">[CSM22/2:76,3; text: Exempla]</p>
+      <p id="TINCPT10645">Quomodo decimamseptimam.</p>
+      <p id="TINCPT10646">Decimaseptima superiorem decimamnonam frequenter supra tenorem sequitur quando tenor ipse non movetur, vel quando unum gradum, duos, tres aut quatuor ascendit, vel unum aut duos descendit, ut hic patet:</p>
+      <p id="TINCPT10647">
+      <pb n="[77]" />[CSM22/2:77,1]</p>
+      <p id="TINCPT10648">Quomodo decimamnonam aliam.</p>
+      <p id="TINCPT10649">Decimamnonam aliam post se superior decimanona supra tenorem aliquando postulat, si tenor ipse in eodem loco permaneat, ut hic probatur:</p>
+      <p id="TINCPT10650">[CSM22/2:77,2; text: Exemplum]</p>
+      <p id="TINCPT10651">Quomodo vicesimam.</p>
+      <p id="TINCPT10652">Vicesima post decimamnonam superiorem interdum assumi supra tenorem poterit ubi tenor ipse immotus permanserit, vel unum gradum aut duos aut tres ascenderit vel descenderit, ut hic:</p>
+      <p id="TINCPT10653">[CSM22/2:77,3; text: Exempla]</p>
+      <p id="TINCPT10654">Quomodo vicesimamsecundam.</p>
+      <p id="TINCPT10655">Vicesimamsecundam post se non numquam supra tenorem decimanona superior requirit quando tenor non movetur vel quando unum gradum aut duos, tres aut quatuor descendit, ut hic:</p>
+      <p id="TINCPT10656">[CSM22/2:77,4; text: Exempla]</p>
+      <p id="TINCPT10657">
+      <pb n="[78]" />Quomodo decimanona inferior duodecimam post se requirit.</p>
+      <p id="TINCPT10658">Duodecima vero infra tenorem decimamnonam inferiorem optime sequetur si tenor descenderit tres aut quatuor gradus, ut hic patet:</p>
+      <p id="TINCPT10659">[CSM22/2:78,1; text: Exempla] 
+      <figure>
+        <graphic url="/images/TINCPT1_29GF.gif" />
+      </figure></p>
+      <p id="TINCPT10660">Quomodo tertiamdecimam.</p>
+      <p id="TINCPT10661">Tertiamdecimam infra tenorem inferior decimanona post se habere poterit, si tenor ipse duos gradus, tres aut quatuor descenderit, ut hic patet:</p>
+      <p id="TINCPT10662">[CSM22/2:78,2; text: Exempla]</p>
+      <p id="TINCPT10663">Quomodo quintamdecimam.</p>
+      <p id="TINCPT10664">Quintadecima infra tenorem post inferiorem decimamnonam aliquando ponetur, ipso tenore immoto permanente, vel unum gradum aut duos aut quatuor descendente, ut hic probatur:</p>
+      <p id="TINCPT10665">[CSM22/2:78,3; text: Exempla]</p>
+      <p id="TINCPT10666">Quomodo decimamseptimam.</p>
+      <p id="TINCPT10667">Decimamseptimam post se inferior decimanona infra tenorem saepe requitir quando tenor ipse non movetur, vel quando unum gradum aut duos, tres aut quatuor descendit, vel unum aut duos ascendit, ut hic probatur:</p>
+      <p id="TINCPT10668">
+      <pb n="[79]" />[CSM22/2:79,1; text: Exempla]</p>
+      <p id="TINCPT10669">Quomodo aliam decimamnonam.</p>
+      <p id="TINCPT10670">Decimanona alia inferiorem decimamnonam interdum infra tenorem sequi poterit, si tenor ipse immotus permanserit, ut hic patet:</p>
+      <p id="TINCPT10671">[CSM22/2:79,2; text: Exemplum]</p>
+      <p id="TINCPT10672">Quomodo vicesimam.</p>
+      <p id="TINCPT10673">Vicesimam infra tenorem aliquando inferior decimanona post se assumit, ubi tenor in eodem loco permanet vel unum gradum aut duos, tres aut quatuor ascendit, vel unum aut duos descendit, ut hic probatur:</p>
+      <p id="TINCPT10674">[CSM22/2:79,3; text: Exempla]</p>
+      <p id="TINCPT10675">Quomodo vicesimamsecundam.</p>
+      <p id="TINCPT10676">Vicesimasecunda post decimamnonam inferiorem accipi potest infra tenorem se non moventem, vel unum aut duos aut tres gradus ascendentem, vel unum descendentem, ut hic:</p>
+      <p id="TINCPT10677">[CSM22/2:79,4; text: Exempla]</p>
+      <p id="TINCPT10678">
+      <pb n="[80]" />Capitulum XVII--De diapente cum semitonio et diapente cum tono supra bisdiapason, id est vicesima imperfecta et vicesima perfecta.</p>
+      <p id="TINCPT10679">Diapente cum semitonio supra bisdiapason est concordantiae ex mixtura duarum vocum bisdiapason ac diapente cum semitonio ab invicem distantium constituta, sicut re, A re, et fa, in loco proximiori E la extra manum, ut hic:</p>
+      <p id="TINCPT10680">[CSM22/2:80,1] 
+      <figure>
+        <graphic url="/images/TINCPT1_30GF.gif" />
+      </figure></p>
+      <p id="TINCPT10681">Diciturque diapente cum semitonio supra bisdiapason eo quod ex diapente cum semitonio supra bisdiapason posito efficiatur. Et quoniam supra demonstratum est bisdiapason decem tonos cum quatuor semitoniis et diapente cum semitonio tres tonos et duo semitonia continere, concordantia haec necesse est tredecim tonis sexque semitoniis tantummodo constat, quo fit ut vicesima imperfecta communiter nominetur.</p>
+      <p id="TINCPT10682">Diapente vero cum tono supra bisdiapason est concordantia ex mixtura duarum vocum ab invicem bisdiapason ac diapente cum tono distantium effecta, sicut ut, [Gamma] ut, et la, E la, ut hic:</p>
+      <p id="TINCPT10683">[CSM22/2:80,2]</p>
+      <p id="TINCPT10684">Dictumque est diapente cum tono supra bisdiapason, quia ex diapente cum tono supra bisdiapason assumpto constituatur. Ac eo quod bisdiapason, ut praediximus, decem tonos et quatuor semitonia ac diapente cum tono quatuor tonos ac unum semitonium continent, hanc concordantiam quatuordecim tonis et quinque semitoniis constare manifestissimum est. Unde et vicesima perfecta vulgariter est appallata.</p>
+      <p id="TINCPT10685">Omnis autem vicesima sive imperfecta sive perfecta, sive superior sive inferior, fuerit ad similitudinem sextae cui ad bisdiapason ac tertiaedicimae cui ad diapason correspondet, ab antiquis discordantia reputabatur. Etsi meae 
+      <pb n="[81]" />aures vim recte sentiendi habeant, confiteor eam per se positam plus discordantiae quam concordantiae auditui inferre. Porro quemadmodum vicesima haec notis mediis accommodari potest, sequente ea praecipue vicesimasecunda, ita et extremis diligenter est evitanda, nisi ipsae notae extremae, hoc est inferiores, naturaliter sustinendae sint et contra eas vicesimam ponendo, quod etiam in superioribus bene contingit, absque interpositione alicuius concordantiae alterius speciei in vicesimamsecundam tendatur. Unde accuratissime considerandum est vicesimam superiorem numquam esse assumendam nisi una aut plures aliae similes vicesimae, alterius speciei concordantia non interposita, eam sequantur, finaliter in vicesimamsecundam tendentes, aut nisi post eam tenor descendat unum gradum contra cuius gradus notam vicesimasecunda ponetur, ut hic probatur:</p>
+      <p id="TINCPT10686">[CSM22/2:81,1; text: Exemplum]</p>
+      <p id="TINCPT10687">Poterit insuper vicesima haec assumi supra tenorem, si ipso tenore in eodem loco permanente, habeat unam [decimamnonam] etiam supra eum immediate praecedentem et aliam aut vicesimamsecundam sequentem, vel vicesimamsecundam praecedentem et decimamnonam sequentem, ut hic patet:</p>
+      <p id="TINCPT10688">[CSM22/2:81,2; text: Exempla]</p>
+      <p id="TINCPT10689">Similiter vicesima inferior dulciter numquam assumetur, nisi una etiam aut plures aliae similes vicesimae sequantur eam, absque interpositione concordantiae alterius speciei tendentes in vicesimamsecundam, vel nisi tenor post eam unum gradum ascendat contra cuius gradus notam vicesimasecunda supponenda erit, ut hic probatur:</p>
+      <p id="TINCPT10690">
+      <pb n="[82]" />[CSM22/2:82,1; text: Exempla]</p>
+      <p id="TINCPT10691">Vicesimam quoque hanc infra tenorem assumere poterimus, si eam etiam infra tenorem in eodem loco permanentem una decimanona praecedat et alia vel vicesimasecunda immediate sequatur vel e converso praecedat vicesimasecunda sequaturque vel decimanona, ut hic patet:</p>
+      <p id="TINCPT10692">[CSM22/2:82,2; text: Exempla]</p>
+      <p id="TINCPT10693">Porro haec omnia, quae praediximus ad ordinationem vicesimae quae in contrapuncto vel re facta fieri debet, restringi volumus quia ubicumque et qualitercumque vicesima ponetur, asperitas eius satis mitigabitur si ei vel tertia vel quinta hac magis poterit esse supposita, ut hic probatur:</p>
+      <p id="TINCPT10694">[CSM22/2:82,3; text: Contrapunctus, Tenor et Contratenor]</p>
+      <p id="TINCPT10695">Poterit igitur vicesima quaelibet habere post se, modis licet diversis, decimamseptimam, decimamnonam, aliam vicesimam et vicesimamsecundam.</p>
+      <p id="TINCPT10696">Quomodo vicesima superior decimamseptimam post se habere potest.</p>
+      <p id="TINCPT10697">Decimamseptimam post se vicesima superior interdum supra tenorem assumit, quando tenor ipse immotus permanet vel quando unum aut duos, tres aut quatuor gradus ascendit vel unum descendit.</p>
+      <p id="TINCPT10698">Rarissime tamen aut numquam talis ordinatio admittitur ubi simplex ex solus contrapunctus efficitur, tunc enim ipsius vicesimae durities nimium evidens est, et hic:</p>
+      <p id="TINCPT10699">
+      <pb n="[83]" />[CSM22/2:83,1; text: Exempla] 
+      <figure>
+        <graphic url="/images/TINCPT1_31GF.gif" />
+      </figure></p>
+      <p id="TINCPT10700">Quomodo decimamnonam.</p>
+      <p id="TINCPT10701">Decimanona vicesimam superiorem supra tenorem sequi poterit ubi tenor ipse immotus perstiterit, ut hic:</p>
+      <p id="TINCPT10702">[CSM22/2:83,2; text: Exemplum]</p>
+      <p id="TINCPT10703">Quomodo vicesimam aliam.</p>
+      <p id="TINCPT10704">Vicesimam aliam supra tenorem vicisima superior post se requirit, ipso tenore in eodem loco permanente, vel unum gradum aut duos aut tres ascendente vel descendente, ut hic probatur:</p>
+      <p id="TINCPT10705">[CSM22/2:83,3; text: Exempla]</p>
+      <p id="TINCPT10706">Quomodo vicesimamsecundam.</p>
+      <p id="TINCPT10707">Vicesimasecunda post vicesimam superiorem supra tenorem immotum aliquando assumi potest congruentissime vero ac saepissime quando tenor ipse unum gradum, et rarissime in solo et simplici contrapuncto quando duos aut tres descendit, ut hic patet:</p>
+      <p id="TINCPT10708">[CSM22/2:83,4; text: Exempla]</p>
+      <p id="TINCPT10709">
+      <pb n="[84]" />Quomodo vicesima inferior decimamseptimam post se requirit.</p>
+      <p id="TINCPT10710">Decimamseptimam autem post se vicesima inferior aliquando habebit [infra] tenorem immotum permanentem vel unum gradum ascendentem, vel unum aut duos, tres aut quatuor descendentem. Quamvis huiusmodi ordinationem ubi solus et simplex contrapunctus est efficiendus, numquam propter ipsius vicesimae asperitatem ita nimis apparentem vix aut numquam admittere debemus, ut hic probatur:</p>
+      <p id="TINCPT10711">[CSM22/2:84,1; text: Exempla]</p>
+      <p id="TINCPT10712">Quomodo decimamnonam.</p>
+      <p id="TINCPT10713">Decimamnonam infra tenorem inferior vicesima post se interdum postulat si tenor ipse non moveatur, ut hic patet:</p>
+      <p id="TINCPT10714">[CSM22/2:84,2; text: Exemplum]</p>
+      <p id="TINCPT10715">Quomodo vicesimam aliam.</p>
+      <p id="TINCPT10716">Vicesima alia inferiorem vicesimam infra tenorem recte sequitur si tenor ipse immotus permanet vel unum gradum aut duos aut tres ascendit vel descendit, ut hic probatur:</p>
+      <p id="TINCPT10717">[CSM22/2:84,3; text: Exempla]</p>
+      <p id="TINCPT10718">Quomodo vicesimamsecundam.</p>
+      <p id="TINCPT10719">Vicesimamsecundam inferior vicesima post se infra tenorem non motum 
+      <pb n="[85]" />aliquando requirit, sed saepius et magis congrue quando tenor ipse unum gradum ascendit, raro autem vel numquam in solo et simplici contrapuncto quando duos ascendit vel unum descendit, ut hic patet:</p>
+      <p id="TINCPT10720">[CSM22/2:85,1; text: Exempla] 
+      <figure>
+        <graphic url="/images/TINCPT1_32GF.gif" />
+      </figure></p>
+      <p id="TINCPT10721">Capitulum XVIII--De tridiapason, id est vicesimasecunda.</p>
+      <p id="TINCPT10722">Tridiapason est concordantia ex mixtura duarum vocum triplici diapason ab invicem distantium constituta, sicut ut, [Gamma] ut, et sol, fictum extra manum secundo loco post E la, ut hic ostenditur:</p>
+      <p id="TINCPT10723">[CSM22/2:85,2]</p>
+      <p id="TINCPT10724">Diciturque tridiapason eo quod ex diapason ter sumpto efficiatur. Et quoniam diapason, ut supra habitum est, quinque tonis ac duobus semitoniis constat, concordantiam hanc, quom ex triplici diapason confecta sit, quindecim tonos atque sex semitonia continere necessarium est.</p>
+      <p id="TINCPT10725">Quaequidem concordantia vicesimasecunda vulgariter nuncupata instar octavae ac quintaedecimae quibis aequisonae correspondet dulcis ac sonora est. Hinc notis extremis maxime perfectionalibus sicut et ille accommodari debet, quamvis etiam mediis non incongrue sit adaptabilis.</p>
+      <p id="TINCPT10726">Potest autem ipsa haec vicesimasecunda post se habere, licet diversimode, decimamseptimam, decimamnonam, vicesimam et aliam vicesimamsecundam.</p>
+      <p id="TINCPT10727">Quomodo videsimasecunda superior decimamseptimam post se habere potest.</p>
+      <p id="TINCPT10728">Decimamseptimam vicesimasecunda superior post se habere poterit supra tenorem unum gradum aut duos, tres aut quatuor ascendentem, ut hic:</p>
+      <p id="TINCPT10729">
+      <pb n="[86]" />[CSM22/2:86,1; text: Exempla]</p>
+      <p id="TINCPT10730">Quomodo decimamnonam.</p>
+      <p id="TINCPT10731">Decimanona superiorem vicesimamsecundam optime sequitur quando tenor ipse non movetur, vel quando aut duos, tres aut quatuor etiam gradus ascendit, ut hic patet:</p>
+      <p id="TINCPT10732">[CSM22/2:86,2; text: Exempla]</p>
+      <p id="TINCPT10733">Quomodo vicesimam.</p>
+      <p id="TINCPT10734">Vicesimam post se supra tenorem vicesimasecunda assumere poterit, ipse tenore in eodem etiam loco permanente, vel unum gradum aut duos, tres aut quatuor ascendente, vel unum aut duos descendente, ut hic probatur:</p>
+      <p id="TINCPT10735">[CSM22/2:86,3; text: Exempla]</p>
+      <p id="TINCPT10736">Quomodo vicesimamsecundam aliam.</p>
+      <p id="TINCPT10737">Vicesimasecunda alia superiorem vicesimamsecundam supra tenorem aliquando sequetur si tenor ipse perstiterit immotus, ut hic patet:</p>
+      <p id="TINCPT10738">[CSM22/2:86,4; text: Exemplum]</p>
+      <p id="TINCPT10739">
+      <pb n="[87]" />Quomodo vicesimasecunda inferior decimamseptimam post se requirit.</p>
+      <p id="TINCPT10740">Decimamseptimam autem infra tenorem vicesimasecunda inferior post se requirit quando tenor unum gradum aut duos, tres aut quatuor descendit, ut hic probatur:</p>
+      <p id="TINCPT10741">[CSM22/2:87,1; text: Exempla] 
+      <figure>
+        <graphic url="/images/TINCPT1_33GF.gif" />
+      </figure></p>
+      <p id="TINCPT10742">Quomodo decimamnonam.</p>
+      <p id="TINCPT10743">Decimanona post inferiorem vicesimamsecundam infra tenorem collocari poterit ubi tenor ipse in eodem loco permanserit vel unum gradum aut duos aut tres descenderit, ut hic patet:</p>
+      <p id="TINCPT10744">[CSM22/2:87,2; text: Exempla]</p>
+      <p id="TINCPT10745">Quomodo vicesimam.</p>
+      <p id="TINCPT10746">Vicesimam infra tenorem vicesimasecunda inferior post se postulat, si tenor immotus permaneat vel unum gradum aut duos ascendat vel unum, duos, tres aut quatuor descendat, ut hic probatur:</p>
+      <p id="TINCPT10747">[CSM22/2:87,3; text: Exempla]</p>
+      <p id="TINCPT10748">Quomodo vicesimamsecundam aliam.</p>
+      <p id="TINCPT10749">Vicesimasecunda alia inferiorem vicesimamsecundam infra tenorem interdum sequetur ipso tenore immoto permanente, ut hic patet:</p>
+      <p id="TINCPT10750">[CSM22/2:87,4; text: Exemplum]</p>
+      <p id="TINCPT10751">
+      <pb n="[88]" />Alias autem plures concordantias haec vicesimasecunda, similiter vicesima, decimanona et decimaseptima post se habere possent, verumtamen eas praetermisi, eo quod tridiapason quod ipse excederent, non transgredi rationabiliter statui.</p>
+      <p id="TINCPT10752">At si aliquis non solum eas sed etiam alias supra tridiapason et ultra scire et ordinare studeat, ex illis quibus istae ad diapason corresponderint normam accipiat, verbi gratia, semiditonus supra bisdiapason, id est decimaseptima imperfecta, superior post se supra tenorem decimamnonam requirit quando tenor ipse non movetur vel quando unum aut duos, tres aut quatuor gradus descendit. Semiditonus itaque supra tridiapason, hoc est vicesimaquarta imperfecta, superior quae ei ad diapason correspondet post se vicesimamsextam supra tenorem habere poterit ubi tenor ipse immotus perstiterit, vel unum gradum aut duos, tres aut quatuor descenderit, et sic de aliis.</p>
+      <p id="TINCPT10753">Capitulum XIX--Quomodo concordantiae sunt ordinandae ubi tenor usque ad quintum gradum aut sextum aut septimum ascendit vel usque ad ipsum septimum descendit.</p>
+      <p id="TINCPT10754">Praeterea sciendum est quod raro in re facta et vix vel numquam in cantu plano, tenor ultra quartum gradum ascendit vel descendit. Unde secundum ipsius quarti gradus excessum concordantias non ordinavimus, sed ubi inventum esset tenorem usque ad quintum aut sextum aut septimum gradum ascendere vel etiam usque ad ipsum septimum descendere, quod in re facta non numquam contingere et non ulterius vidi, generaliter observandum censeo ut infra vel supra cuius istorum gradum notam propinquior et convenientior concordantia post praecedentem assumatur. Ut si tenor quinque gradus aut sex aut septem ascendat, vel etiam septem descendat, decima superior post se tertiam supra tenorem ipsum assumat, ut hic patet:</p>
+      <p id="TINCPT10755">[CSM22/2:88; text: Exempla]</p>
+      <p id="TINCPT10756">
+      <pb n="[89]" />Pariformiter si placuerit compositor aut super librum concinenti ab aliquo concordi loco in alium ab illo distante quinque aut sex aut septem gradibus ascendere vel etiam usque ad ipsum septimum gradum descendere non ei prohibetur, dummodo ibi concordantia apta poterit institui, ut hic patet:</p>
+      <p id="TINCPT10757">[CSM22/2:89; text: Contratenor, Tenor] 
+      <figure>
+        <graphic url="/images/TINCPT1_34GF.gif" />
+      </figure></p>
+      <p id="TINCPT10758">Explicit Liber Primus.</p>
+    </body>
+  </text>
+</TEI>

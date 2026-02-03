@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Lucidarium, tractatus quintus</title>
+        <title type="abbrev">MARLU5</title>
+        <author>Marchetus de Padua</author>
+        <date notBefore="1300" notAfter="1399">14th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Bradley Jon Tucker</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Angela Mariani</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1993</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>Scriptores ecclesiastici de musica sacra potissimum</emph>, 3 vols., ed. Martin Gerbert (St. Blaise: Typis San-Blasianis, 1784; reprint ed., Hildesheim: Olms, 1963), 3:80–83.
+</bibl>
+        <bibl type="work">
+          
+<title>Marchettus de Padua: Lucidarium in arte musicae planae</title>
+          
+<idno type="LML">MARCH. luc.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">A-SP Cod. 135/6 (29.4.4), 21v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Br II 785, 15-38v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Br II 4144, 1-41</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">CH-E 689, 1-44</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">E-Sc 5-2-25, 5-20v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">E-Sc 5-2-25, 76v-77v, 124-128 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-SDI 42, 1-33v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ob Canon. Misc. 42, 184-185 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-BREs D 21, 185v-186v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-CATc D 39, 157-189</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fl Conv. Soppr. 388, 34v-52v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fr 734, 74-101</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Ma D. 5 inf., 52-77v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Ma I. 20 inf., 36v-39 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-PEc 1013, 5-45v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-PIu 606 (IV.9), I/1-50</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat lat. 5322, 1-48</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat Reg. lat. 1146, 7-8 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Sc L.V.30, 91v-119</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-TRE without shelfmark, 15-32v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Vnm Lat. Cl. VIII.85 (3579), 1-10 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">US-Cn Case Ms. 54.1, 10v-33</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">US-Wc ML 171 J 6 Case, hv-47</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="MARLU50001">
+      <pb n="[80]" />Tractatus V. Incipit.</p>
+      <p id="MARLU50002">De consonantiis in generali.</p>
+      <p id="MARLU50003">Sequitur videre de consonantia, de qua primo videbimus in generali, et per consequens secundo de eius opposito, quod est dissonantia; tertio de speciebus consonantiarum videndo per ordinem procedemus.</p>
+      <p id="MARLU50004">Caput I.</p>
+      <p id="MARLU50005">Quid sit consonantia.</p>
+      <p id="MARLU50006">Consonantia est enim, teste Boetio, acuti soni gravisque mixtura suaviter uniformiterque auribus accidens: item ipsa consonantia est duarum vocum dissimilium in unum redacta concordia. Huic namque contraria est dissonantia. Dicitur enim consonantia a consequendo, quod consequentia dicitur esse in motu, dum organizatur. Boetius: Omnis paucitas ad pluralitatem ita sese habet, ut numerus ad numerum comparatus: eorum vero, quae secundum numerum conferuntur, partim sunt aequalia et partim inaequalia; quocirca soni quoque partim sunt aequales et partim inaequalitate distantes. Sed in his vocibus, quae nulla inaequalitate discordant, nulla omnino consonantia est. Est enim consonantia, ut supra, dissimilium vocum in unum redacta concordia. Est itaque amica similitudo, hoc est, consonantia; dissimilitudo vero odiosa atque contraria, hoc est, dissonantia.</p>
+      <p id="MARLU50007">Caput II.</p>
+      <p id="MARLU50008">De dissonantia.</p>
+      <p id="MARLU50009">Dissonantia secundum Isidorum est duorum sonorum sibimet permixtorum, ad aurem veniens aspera atque iniucunda permixtio. Boetius: dissonantia fit, cum duo soni similiter pulsi sibimet permisceri nolunt, sed seorsim quisque gliscit ire. Hoc est, quod uterque sonus ad locum ire cupit, ubi est permixtio iucunda amicabilis, et suavis; hoc est consonantia: dissonantia autem et diaphonia idem sunt; nam ut dicit Isidorus, diaphoniae sunt voces discrepantes sive dissonae, in quibus non est iocundus sed asperus sonus. Harum autem diaphoniarum seu dissonantiarum aliae compatiuntur secundum auditum et rationem, et aliae non. Quae vero compatiuntur, sunt tres principaliter, scilicet 3. 6. 10. Hae autem dissonantiae et his similes ideo compatiuntur ab auditu, quia sunt magis propinque consonantiis, cum moventur sursum et deorsum. 
+      <pb n="[81]" />Dicitur enim, quod quando duae voces sunt in dissonantia, quae compatitur ab auditu, quod ipsarum quaelibet requirens consonantiam, moveatur ita: videlicet ut si una in sursum tendit, reliqua in deorsum semper distando per minorem distantiam a consonantia ad quam tendit. Aliae vero dissonantiae sive diaphoniae ideo non compatiuntur ab auditu, quia etsi moveantur sursum et deorsum: non tamen ante consonantias per minorem distantiam sunt distantes.</p>
+      <p id="MARLU50010">Caput III.</p>
+      <p id="MARLU50011">De Euphonia.</p>
+      <p id="MARLU50012">Euphonia bona sonoritas dicitur: nam ut Isidorus dicit, euphonia bona sonoritas interpretatur; inde euphonia bona sonoritas.</p>
+      <p id="MARLU50013">Caput IV.</p>
+      <p id="MARLU50014">De Harmonia.</p>
+      <p id="MARLU50015">Harmonia, ut Ubaldus (Hugbaldus) refert, est diversarum vocum apta coadunatio; dicitur enim ab [harmos] graece, quod latine est adunatio; inde [harmonia] coadunatio vocum. Philosophus: harmonia est ratio numerorum in acuto et gravi.</p>
+      <p id="MARLU50016">Caput V.</p>
+      <p id="MARLU50017">De Symphonia.</p>
+      <p id="MARLU50018">Symphonia, ut dicit Augustinus, est concordia vocum, in quibus non est absurdus, vel dissonus sonus. Ex definitionibus supradictis colligere possumus, quod euphonia, harmonia, symphonia et consonantia unum quodammodo sint.</p>
+      <p id="MARLU50019">Caput VI.</p>
+      <p id="MARLU50020">Quaestio de dissonantiis.</p>
+      <p id="MARLU50021">Quoniam dictum est superius, quod quaedam dissonantiae non se compatiuntur, nec sunt compassibiles auditui, eo quod magis sunt remotae a consonantiis, quam oporteat; nam sunt distantes ab ipsis per maiorem distantiam: et quaedam se compatiuntur et auditui sunt compassibiles, eo quod magis propinquae consonantiis, et per minorem distantiam sunt distantes: ideo quaestio consurgit, quare scilicet oporteat dissonantiam compassibilem auditui per minorem distantiam a consonantia distare. Et respondemus, quod hoc ideo est, eo quod dissonantia sit quoddam imperfectum, requirens perfectum, quo perfici possit; consonantia autem est perfectio ipsius: quanto enim minus dissonantia distat a consonantia, tanto minus distat a sua perfectione, et magis assimilatur eidem; et ideo magis amicabilis est auditui, tamquam plus habens de natura consonantiae. Sed tunc dicet aliquis, quare oportet me distare a consonantia per tonum et diesim, quam dicis esse minorem distantiam ante consonantiam, ad quam tenditur; numquid essem in perfectiori dissonantia, et in magis amicabili auditui, quia in magis propinqua consonantiae, nullum motum faciendo in altero duorum cantuum aut supra aut infra, ut hic:</p>
+      <p id="MARLU50022">
+      <pb n="[82]" />[GSIII:82,1] 
+      <figure>
+        <graphic url="/images/MARLU5_01GF.gif" />
+      </figure></p>
+      <p id="MARLU50023">Responsio quaestioni antecedenti. Et respondemus, quod non; quia magis est delectabilis naturae proportio partium ad suum totum, quam proportio unius totius ad aliud totum: nam proportionando duo ad invicem, consurgit maior delectatio et conformitas, quam proportionando duo ad totum; et ideo oportet, quod ibi fiat motus in utrisque partibus, ut earum proportio et ad se invicem, et ad sua tota etiam cognoscatur, quod non esset, si ex parte unius non motus aliquis causaretur. Nam utraque duarum vocum in dissonantia est, et propter hoc utraque appetit perfici, nec potest, si non movetur de loco, sive de sono, in quo est: oportet ergo, quod moveantur ambae sursum et deorsum ad aliquam consonantiam intendentes. Debet autem dissonantia distare ante consonantiam per minorem distantiam, et per motum utriusque, rationibus superius allegatis, ut hic:</p>
+      <p id="MARLU50024">[GSIII:82,2]</p>
+      <p id="MARLU50025">Caput VII.</p>
+      <p id="MARLU50026">Alia quaestio de dissonantia.</p>
+      <p id="MARLU50027">Quaeritur, quare non est sic proprium dissonantiae, quae dicitur sexta, tendere ad consonantiam diapente, sicut ad consonantiam diapason, cum ipsa dissonantia a quacumque ipsarum consonantiarum distare per minorem distantiam videatur, ut hic:</p>
+      <p id="MARLU50028">[GSIII:82,3]</p>
+      <p id="MARLU50029">Nam videmus, quod in praesenti prima figura cantus superior a tenore incipit in diapason, et descendit unam diesim, pro quo descensu tenor ascendit unum tonum, qui continet quinque dieses; et sic sunt sex dieses, quae sunt minor distantia ante consonantiam, ad quam tendere dinoscuntur, quae est diapason. In secunda figura similiter distantia diapente per minorem distantiam, scilicet per sex dieses, quia cantus superior, qui est supra tenorem, per diapason descendit unam diesim, pro quo descensu tenor ascendit unum tonum, et sic sunt in dissonantia, quae dicitur sexta. Post hoc cantus superior descendit semitonium chromaticum, quod continet quatuor dieses; et tunc tenor ascendit semitonium enarmonicum, quod habet duas dieses: sic sunt sex, et ecce minor distantia facta ante diapente, et per motum utriusque.</p>
+      <p id="MARLU50030">
+      <pb n="[83]" />Respondemus, quod duplex ratio est, quare sexta, quae est dissonantia, non sic perfecte tendit ad diapente, sicut ad diapason. Prima ratio est, quod licet dissonantia illa ab utraque praedictarum dissonantiarum per minorem distantiam distare videatur, tamen in nullo praedictorum duorum cantuum secundae figurae est minor distantia, quia non est ibi minor pars toni, et per consequens non est ibi minor motus, cum transeunt de dissonantia in consonantiam, ut patet intuenti. Oportet enim, ut sit minor distantia ante consonantiam, quoad in aliquo duorum cantuum minor pars toni, quae est diesis, superius aut inferius proferatur. Secunda ratio est, quod licet dissonantia ab ipsius duabus consonantiis, scilicet diapente et diapason, aequaliter sit vicina ad illam, debet libentius tendere, quae est perfectior, et ad quam iucundius inclinatur: diapason autem est perfectior consonantia diapente, ut infra patebit, et ob hoc minus iucunde inclinatur ad diapente, quae minus perfecta est. Patet ergo, quod dissonantia, quae dicitur sexta, minus proprie tendit ad diapente quam ad diapason, licet saepius in cantibus talis color, qui dicitur fictitius, apponatur. Naturaliter autem iniucunde profertur quaelibet toni bipartitio per descensum, ut in praesentibus figuris probabiliter potest. Et hoc intelligere debemus de quolibet tono dissimili propter aliquam dissonantiam, scilicet tertiam, sextam et decimam, per descensum, ut in praesentibus figuris probabiliter potest sciri.</p>
+      <p id="MARLU50031">[GSIII:83]</p>
+      <p id="MARLU50032">Finit tractatus quintus.</p>
+    </body>
+  </text>
+</TEI>

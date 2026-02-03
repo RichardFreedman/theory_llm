@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>De contrapuncto</title>
+        <title type="abbrev">ANODCON</title>
+        <author>Anonymous</author>
+        <date notBefore="1400" notAfter="1499">15th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Katherine Clark</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Andreas Giger</persName>
+      </respStmt>
+      <date>1999</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>Anonymi Tractatus de cantu figurativo et de contrapuncto (c. 1430-1520)</emph>, ed. Christian Meyer, Corpus scriptorum de musica, vol. 41 (n.p.: American Institute of Musicology / Hänssler-Verlag, 1997), 54–55. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: Tractatus de contrapuncto</title>
+          
+<idno type="LML">CONTR. Nota quinque</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">D-Tu Mc 48, 62v-63</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANODCON0001">
+      <pb n="[54]" />D-Tübingen Mc 48, 62v-63</p>
+      <p id="ANODCON0002">De contrapuncto.</p>
+      <p id="ANODCON0003">Nota quinque sunt species eius, scilicet unisonus, tertia, quinta, sexta et octaua cum eorum reiterationibus, scilicet decima, duodecima, tertia decima, quinta decima et ceteris. Quarum specierum tres sunt perfectae et duae imperfectae. Unde perfectae species sunt unisonus, quinta et octava. Imperfectae vero sunt tertia et sexta. Et contrapunctus debet incipi et finiri per speciem perfectam.</p>
+      <p id="ANODCON0004">Ulterius dicendum quod duae species perfectae simul similes, ut octava et octava, quinta et quinta, non possunt sequi immediate sine mediatione specierum imperfectarum, scilicet sine tertia vel sexta. Et tres tertiae et tres sextae possunt fieri immediate, hoc est sine mediatione aliarum specierum si tenor ascendit vel descendit per vnum simpliecem gradum. Exemplum de tertia primo, et secundo de sexta.</p>
+      <p id="ANODCON0005">[CSM41:54,1] 
+      <figure>
+        <graphic url="/images/ANODCON_01GF.gif" />
+      </figure></p>
+      <p id="ANODCON0006">Et est una regula quod contrapunctus non debet ascendere nec descendere cum tenore per speciem perfectam nisi tenor ascendet vel descendet per quinque gradus, verbi gratia versus contrapunctus potest ascendere vel descendere per unum simplicem gradum.</p>
+      <p id="ANODCON0007">[CSM41:54,2]</p>
+      <p id="ANODCON0008">Item una sexta et plures sextae non possunt simul fieri nisi octava sequitur immediate. Nec quintam potest fieri post sextam.</p>
+      <p id="ANODCON0009">Item quando tenor habet [tres] aut quattuor notas in eodem spatio vel linea, talis sexta non debet fieri nisi in ultima nota, si saltem potest.</p>
+      <p id="ANODCON0010">Item duae quintae et duae octavae possunt bene fieri unum post alterum, scilicet simplex quinta et duplex et similiter duae octavae.</p>
+      <p id="ANODCON0011">
+      <pb n="[55]" />[CSM41:55]</p>
+      <p id="ANODCON0012">Item tertia et sexta possunt fieri perfectae species in tonis, scilicet tertia quando est contra ut vel contra fa, tunc est perfecta in tonis et similiter sexta et ceteris.</p>
+    </body>
+  </text>
+</TEI>

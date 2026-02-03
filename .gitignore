@@ -50,6 +50,9 @@ venv.bak/
 # Chroma database - COMMENTED OUT to include in git
 # chroma-db/
 
+# Local Chroma database files (exclude from git)
+theory_llm_chroma_files/
+
 # Environment variables
 .env
 .env.local

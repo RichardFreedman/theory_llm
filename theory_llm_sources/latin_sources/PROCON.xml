@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Contrapunctus</title>
+        <title type="abbrev">PROCON</title>
+        <author>Prosdocimo de' Beldomandi</author>
+        <date notBefore="1400" notAfter="1499">15th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Jan Herlinger</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>C. Matthew Balensuela</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1990</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Prosdocimo de' Beldomandi, 
+<emph>Contrapunctus</emph>, ed. and trans. by Jan Herlinger, Greek and Latin Music Theory, vol. 1 (Lincoln: University of Nebraska Press, 1984), 26–94. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Prosdocimus de Beldemandis: Contrapunctus</title>
+          
+<idno type="LML">PROSD. contr.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">CH-E 689, 51-56</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Bc A 56, 97-100</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-CR 252, 10-15v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Lg 359, 28-33v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat lat. 5321, 9v-11v</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="PROCON0001">
+      <pb n="[26]" />CONTRAPUNCTUS</p>
+      <p id="PROCON0002">1</p>
+      <p id="PROCON0003">1. Scribit Aristotiles secundo Elenchorum, capitulo ultimo, facile fore inventis addere, et ex hoc dignissimum esse de inventis infinitas inventoribus habere grates, quod etiam assero, qua de re in hoc meo opusculo, in quo intendo de contrapuncto determinare, non intendo in aliquo predecessoribus nostris, qui circa hanc artem laboraverunt, obviare, sed eadem tangere que et ipse tetigerunt, licet diversimode, aliqua tamen per modernos usitata reprobando.</p>
+      <p id="PROCON0004">
+      <pb n="[28]" />2</p>
+      <p id="PROCON0005">1. Quia igitur cantum contra cantum sumere duobus modis inveniri potest, scilicet quando plures note contra unicam solam notam sumuntur et supra vel infra ipsam scribi vel cantari habent, et quando unica sola nota contra aliam unicam solam sumitur et supra vel infra ipsam scribi vel cantari habet, est sciendum quod contrapunctus potest sumi dupliciter, scilicet comuniter sive large et proprie sive stricte. Contrapunctus largo modo sive comuniter sumptus est plurium notarum contra aliquam unicam solam notam in aliquo cantu positio, et de tali non intendo hic determinare, nec talis vere contrapunctus nominari habet; contrapunctus vero proprie sive stricte sumptus est unius solius note contra aliquam aliam unicam solam notam in aliquo cantu positio, et de tali hic bene intendo determinare, cum hic vere contrapunctus nominari habeat, eo quod in ipso est vera contrapositio, quia scilicet 
+      <pb n="[30]" />contrapositio note contra notam, que contrapositio vere est interpretatio istius termini contrapunctus, cum contrapunctus dicatur quasi contrapositio note scilicet contra notam, quando scilicet nota supra vel infra notam scribi vel cantari habet, et est huiusmodi contrapunctus proprie sumptus alterius comuniter sumpti fundamentum, eo quod habita noticia huius, statim haberi potest noticia alterius, saltim apud usitatos circa cantum fractibilem.</p>
+      <p id="PROCON0006">
+      <pb n="[32]" />2. Item sciendum quod huiusmodi contrapunctus, scilicet proprius, est duplex, scilicet vocalis et scriptus: vocalis qui profertur et scriptus qui scribitur, de quibus ambobus intelligenda sunt omnia que de contrapuncto inferius dicentur, ex quo sequitur contrapunctum comuniter acceptum, qui ex proprio accepto sequitur et super ipso fundatur, etiam esse duplicem, scilicet vocalem et scriptum, et vocalem esse illum qui profertur et scriptum qui scribitur.</p>
+      <p id="PROCON0007">3. Item sciendum quod hec ars contrapuncti artem pratice cantus plani presupponit, absque qua nichil huiusmodi scientie haberi poterit.</p>
+      <p id="PROCON0008">4. Item sciendum, ne admiratio aliqua tibi insurgat, quod in hoc meo tractatulo non intendo omnia tangere que ab aliis in hac arte tacta sunt, sed solum illa tangere intendo que huic arti michi neccessaria videbuntur.</p>
+      <p id="PROCON0009">
+      <pb n="[34]" />3</p>
+      <p id="PROCON0010">1. Hiis ergo sic declaratis, ad declarationem combinationum vocum accedamus, unde dico quod vocum combinatio est duarum vocum consonantiam vel dissonantiam auribus reddentium insimul agregatio, et intelligo per voces, voces musicales, que sunt sex, scilicet ut, re, mi, fa, sol, la.</p>
+      <p id="PROCON0011">2. Ulterius dico quod combinationes vocum in hac arte nominari solite ab omnibus nostris predecessoribus quamplures esse recitantur, scilicet unisonus, secunda, tercia, quarta, quinta, sexta, septima, et octava, que tantum valet quantum unisonus, quoniam omnis cantus inceptus in unisono inchoari potest in octava, et e contra; item una nona, que tantum valet quantum una secunda propter causam dictam; et una decima, que propter causam dictam 
+      <pb n="[36]" />uni tercie assimilatur; et undecima, quarte; et duodecima, quinte; et tercia decima, sexte; et quarta decima, septime; et quinta decima, unisono et octave; et decima sexta, secunde et none; et decima septima, tercie et decime; et decima octava, quarte et undecime; et decima nona, quinte et duodecime; et vigesima, sexte et tercie decime; et vigesima prima, septime et quarte decime; et vigesima secunda, unisono, octave, et quinte decime; et sic ulterius isto modo in infinitum procedendo, si in infinitum voces vel instrumenta elongari possent. Unisonus est quando ambe voces contrapunctum facientes in eadem parte manus musicalis et voce reperte sunt, et dicitur notanter in eadem parte manus musicalis et voce, quoniam possent esse due voces in eadem parte manus musicalis et tamen non unisone, sicut est de fa et mi que in bfa[sqb]mi reperiuntur, que, licet sint in eadem parte manus musicalis, ut apparet, non tamen sunt unisone, quia in eadem voce non sunt nec existere possunt. Secunda est quando una vox in secundo loco manus musicalis a loco alterius reperitur, tercia vero que in tercio, et sic ultra.</p>
+      <p id="PROCON0012">
+      <pb n="[38]" />3. Item de istis combinationibus scire debes quod quedam sunt combinationes consonantes sive concordantes sive bonas consonantias auribus humanis resonantes, sicut sunt unisonus, tercia, quinta, sexta, et sibi equivalentes, sicut octava, decima, duodecima, tercia decima, quinta decima, et huiusmodi, et quedam sunt dissonantes sive discordantes sive dissonantias auribus humanis resonantes, sicut sunt secunda, quarta, septima, et sibi equivalentes, uti sunt nona, undecima, quarta decima, et huiusmodi. 
+      <pb n="[40]" />Scias tamen quod quarta et sibi equivalentes minus dissonant quam alie combinationes dissonantes, ymo quodammodo medium tenent inter consonantias veras et dissonantias, in tantum quod secundum quod quidam dicere voluerunt ab antiquis inter consonantias numerabantur.</p>
+      <p id="PROCON0013">
+      <pb n="[42]" />4. Item sciendum quod combinationum consonantium quedam sunt perfecte et quedam imperfecte. Perfecte sunt sicut unisonus, quinta, et istis equivalentes, uti sunt octava, duodecima, et huiusmodi, et dicuntur perfecte quia perfectissimam consonantiam reddunt auribus humanis; imperfecte vero sunt sicut tercia, sexta, et istis equivalentes, uti sunt decima, tercia decima, et huiusmodi, et dicuntur imperfecte quia, licet consonantiam bonam reddant auribus humanis, non tamen perfectam sed imperfectam.</p>
+      <p id="PROCON0014">
+      <pb n="[44]" />5. Item sciendum quod duplex reperitur quelibet consonantia preter unisonum, et etiam omnis dissonantia, scilicet maior et minor, sed de dissonantia nullam faciam mentionem quantum ad suam maioritatem vel minoritatem, quoniam nulla dissonantia in contrapuncto proprie sumpto reperiri debet, licet bene in cantu fractibili reperiatur, sed tunc non est cura utrum talis tunc maior vel minor existat. Maior ergo tercia est illa que in se duos continet tonos; minor vero est illa que in se tonum cum semitonio continet. Quinta vero maior est illa que in se tres continet tonos cum uno semitonio, et est illa quinta que inter consonantias perfectas numerata est, et quam dicunt auctores musice in proportione sexquialtera consistere. Quinta vero minor est illa que in se duos continet tonos cum duobus semitoniis, et talis consonans combinatio non est, sed inter 
+      <pb n="[46]" />combinationes vere discordantes numeratur. Sexta vero maior est illa que in se quatuor continet tonos cum uno semitonio; minor vero sexta est illa que in se tres continet tonos cum duobus semitoniis. Octava maior est illa que in se quinque continet tonos et duo semitonia, et hec est illa octava que inter consonantias perfectas numerata est, et quam auctores musice, antiqui necnon et moderni, in proportione dupla consistere dixerunt. Octava vero minor est illa que in se quatuor continet tonos cum tribus semitoniis, et hec octava inter combinationes vere discordantes numeranda est. Reperitur etiam octava maxima, 
+      <pb n="[48]" />et est illa que in se sex continet tonos et unum semitonium, que octava maxima etiam inter combinationes vere discordantes numeranda est. Et ut brevius et utilius noticia harum vocum combinationum maiorum vel minorum habeatur, notande sunt infrascripte regule.</p>
+      <p id="PROCON0015">
+      <pb n="[50]" />6. Prima ergo regula est hec, quod quantitas discreta in se comprehendens tonos et semitonia in istis combinationibus vocum tam concordantibus quam discordantibus reperta in eodem numero consistit a quo denominata est combinatio illa, una unitate dempta, ut verbi gratia si de numero binario, a quo denominata est secunda, subripiatur unitas, remanet unitas alia, que est quantitas tonorum sive semitoniorum in secunda repertorum, quia secunda non habet nisi tonum aut semitonium unum. Similiter si de numero ternario, a quo denominata est tercia, removeatur unitas, remanet numerus binarius, qui est quantitas tonorum et semitoniorum in tercia repertorum, quia tercia non habet nisi duos tonos vel tonum cum semitonio. Similiter si de numero quaternario, a quo denominata est quarta, removeatur unitas, remanet numerus ternarius, qui est quantitas tonorum et semitoniorum in quarta repertorum, quoniam quarta non habet nisi tres tonos vel duos cum uno semitonio. Similiter si de numero quinario, a quo denominata est quinta, removeatur unitas, remanet numerus quaternarius, qui est quantitas tonorum et semitoniorum in quinta repertorum, quia quinta non habet nisi tres tonos cum uno semitonio vel duos tonos 
+      <pb n="[52]" />cum duobus semitoniis; et sic per simile de omnibus aliis vocum combinationibus, tam concordantibus quam discordantibus.</p>
+      <p id="PROCON0016">7. Secunda regula est hec, et, per simile, comunis ad omnes vocum combinationes tam concordantes quam discordantes, quod omnis vocum combinatio maior ab unisono exclusive usque ad quintam exclusive reperta in se nullum continet semitonium; minor vero unicum solum in se continere semitonium inventa est. Omnis vero maior vocum combinatio a quinta inclusive usque ad octavam exclusive reperta in se unicum solum continet semitonium; minor vero duo semitonia in se continere reperta est. Omnis vero maior vocum combinatio ab octava inclusive usque ad duodecimam exclusive reperta in se duo continet semitonia; minor vero tria. Omnis vero maior vocum combinatio a duodecima inclusive usque ad quintam decimam exclusive reperta tria in se continet semitonia; minor vero quatuor. Et sic deinceps, semper de combinatione perfecta in combinationem perfectam sibi immediatam unicum solum semitonium addendo; 
+      <pb n="[54]" />et dicitur maior combinatio quia per maiorem distantiam dilatatur, minor vero quia per minorem.</p>
+      <p id="PROCON0017">8. Tercia regula est hec, quod quelibet combinatio maior ipsammet combinationem minorem excedit per semitonium maius, ex quo sequitur quod in reducendo maiorem combinationem ad ipsammet minorem vel e contra non oportet nisi addere vel diminuere tale semitonium maius.</p>
+      <p id="PROCON0018">9. Quarta et ultima regula est hec, quod omnia semitonia in combinationibus reperta sunt semitonia minora, 
+      <pb n="[56]" />quorum semitoniorum, tam maiorum quam minorum, investigatio ad propositum non spectat, sed solius theorici musici est speculatio, cum simplex praticus propter quid rei inquirere non debet sed ad solum quia est rei debet contentus permanere.</p>
+      <p id="PROCON0019">
+      <pb n="[58]" />4</p>
+      <p id="PROCON0020">1. Pro ordinatione autem harum combinationum in contrapuncto proprie sumpto has nota regulas.</p>
+      <p id="PROCON0021">2. Prima ergo regula est hec, quod discordantie superius nominate, scilicet secunda, quarta, septima, quinta minor, octava minor et maxima, et sibi equivalentia, nullo modo in contrapuncto usitande sunt, eo quod propter ipsarum dissonantiam cordialiter armonie et nature inimicantur, que finis huius artis existere videtur; usitantur tamen in cantu fractibili, eo quod in ipso propter velocitatem vocum earum non sentiuntur dissonantie.</p>
+      <p id="PROCON0022">3. Secunda regula est hec, quod contrapunctus nunquam incipi vel finiri debet nisi in combinationibus perfectis, scilicet in unisono vel in quinta maiori vel octava maiori vel in hiis equivalentibus, et ratio huius est quoniam 
+      <pb n="[60]" />si auditor per armonias mulceri habet, oportet ipsum primitus admoveri per armonias dulciores et nature amicabiliores, que sunt consonantie perfecte superius nominate, et sic ipse preponende sunt. Demum etiam ipse auditor dimitti debet cum dulcore et armonia nature delectabili, ne ipsius auditoris anima dulci consonantia precedente mota duritie consonantie finalis ab eo quod per armoniam intenditur, scilicet gaudio et delectatione, amoveatur.</p>
+      <p id="PROCON0023">4. Tercia regula est hec, quod insimul cum cantu supra vel infra quem contrapunctamus nunquam ascendere vel descendere debemus cum eadem combinatione perfecte concordante, ut cum unisono vel quinta maiori vel octava maiori vel cum hiis equivalentibus, licet bene cum diversis vocum combinationibus perfecte concordantibus hoc agere 
+      <pb n="[62]" />possumus, et ratio huius est quoniam idem cantaret unus quod alter, dato quod in diversis vocibus insimul concordantiam habentibus, quod contrapuncti non est intentio, cum eius intentio sit quod illud quod ab uno cantatur diversum sit ab illo quod ab altero pronuntiatur, et hoc per concordantias bonas et debite ordinatas.</p>
+      <p id="PROCON0024">5. Quarta regula est hec, quod contrapunctare non debemus cum vocum combinationibus imperfecte concordantibus continue, nullam combinationem perfecte consonantem interponendo, quoniam tunc ita durum esset hoc cantare, quod in ipso nulla penitus reperiretur armonia, que armonia finis totalis musice existere videtur.</p>
+      <p id="PROCON0025">6. Quinta regula est hec, quod in combinationibus perfecte consonantibus nunquam ponere debemus mi contra fa, nec e contra, quoniam statim ipsas vocum combinationes 
+      <pb n="[64]" />perfecte consonantes minores vel maximas constitueremus, que discordantes sunt, ut supra dictum est.</p>
+      <p id="PROCON0026">7. Sexta et ultima regula est hec, quod cum combinationibus imperfecte consonantibus, maioribus sive minoribus, ascendere vel descendere possumus insimul cum cantu supra vel infra quem contrapunctamus, combinationes tamen perfecte concordantes aliquando interponendo, cuius ratio est quia ex hoc insurgit cantus diversus et non idem propter ineptitudinem quam habet natura ad has combinationes imperfecte 
+      <pb n="[66]" />consonantes, ac tamen cum armonia et delectabilis, unde scire debes quod inter quaslibet duas consonantias perfectas immediatas cadit una imperfecta, ut verbi gratia inter unisonum et quintam cadit tercia, inter vero quintam et octavam cadit sexta, inter vero octavam et duodecimam cadit decimam, et sic ulterius. Et quando fit accessus ab aliqua istarum consonantiarum imperfectarum ad aliquam perfectarum inter quas ipsa imperfecta combinatio ponitur fit dulcissimus modus cantandi. Reperiuntur etiam et 
+      <pb n="[68]" />alii modi dulcissimi cantandi, quos scribere foret valde difficile et forte impossibile, cum tales modi quodammodo infiniti sint, et diversis diversimode delectabiles, qua propter insurgit diversitas componentium, et ideo a scriptura relinquendi.</p>
+      <p id="PROCON0027">
+      <pb n="[70]" />5</p>
+      <p id="PROCON0028">1. Hiis visis, aliquid de ficta musica, que huic arti neccessaria est, est pertractandum, unde ficta musica est vocum fictio sive vocum positio in loco ubi esse non videntur, sicut ponere mi ubi non est mi, et fa ubi non est fa, et sic ultra, de qua ficta musica est primo sciendum 
+      <pb n="[72]" />quod ipsa nunquam ponenda est nisi loco neccessitatis, eo quod in arte nichil est ponendum sine neccessitate.</p>
+      <p id="PROCON0029">2. Item sciendum quod ficta musica inventa est solum propter consonantiam aliquam colorandam, que consonantia aliter colorari non posset quam per fictam musicam. Et ex istis duobus notabilibus apparere potest quomodo quasi omnes cantuum compositores circa hanc fictam musicam sepissime errant, quoniam ipsa multotiens utuntur in loco ubi 
+      <pb n="[74]" />non est neccessitas, sicut verbi gratia quando ad clavem de natura ponunt b rotundum sive molle, scilicet in Elami gravi, quia tunc illud b rotundum sive molle ponere possent ad clavem [sqb] quadri sive duri, scilicet in bfa[sqb]mi acuto, absque aliqua ficta musica, et idem in opere proveniret, scilicet in eorum discantibus, sicut apparere potest cuilibet subtiliter consideranti.</p>
+      <p id="PROCON0030">3. Item sciendum quod signa huius ficte musice sunt duo, scilicet b rotundum sive molle et [sqb] quadrum sive durum, que duo signa nobis demonstrant vocum fictionem in loco ubi tales voces esse non possunt, unde ubicumque ponitur b rotundum sive molle dicere debemus hanc vocem 
+      <pb n="[76]" />fa, et ubicumque ponitur [sqb] quadrum sive durum dicere debemus hanc vocem mi, sive tales voces ibidem sint sive non, cuius ratio est quia in hac dictione bfa[sqb]mi, in qua ponitur utrumque istorum b, immediate ante fa ponitur b rotundum sive molle, et tali voci fa famulatur, immediate vero ante mi ponitur [sqb] quadrum sive durum et tali voci mi famulatur, et ideo ad b rotundum sive molle dicimus fa, et ad [sqb] quadrum sive durum dicimus mi.</p>
+      <p id="PROCON0031">4. Item sciendum quod hec duo signa sunt signa totaliter opposita, eo quod modo opposito totaliter operantur, quoniam si sit in ascensu b rotundum sive molle ascensum diminuit, et [sqb] quadrum ipsum augmentat. Si vero sit in descensu fit e contrario, quoniam tunc b rotundum descensum augmentat et [sqb] quadrum ipsum diminuit; et non addunt vel diminuunt ista duo signa nisi semitonium maius, quod semitonium est excessus quo maior combinatio ipsammet minorem excedit, ut supra dictum est.</p>
+      <p id="PROCON0032">
+      <pb n="[78]" />5. Scias tamen quod quando hec signa ponuntur propter aliquam consonantiam colorandam, semper poni debent immediate ante notam que in voce propter talem consonantiam colorandam varianda est, sive talis nota sit in tenore sive in discantu, et sive ipsa sit in linea sive in spacio, cum quodlibet tale signum non deserviat nisi note immediate sequenti ipsum.</p>
+      <p id="PROCON0033">6. Item ultimo pro noticia collocationis istorum duorum signorum, scilicet b rotundi et [sqb] quadri, est sciendum quod octavis, quintis, et hiis similibus ponenda sunt hec signa secundum quod oportet addere vel diminuere ad ipsas reducendum ad bonas consonantias, si prius forent dissonantes, eo quod tales combinationes in contrapuncto 
+      <pb n="[80]" />semper maiores sive consonantes esse debent. Sed in vocum combinationibus imperfecte consonantibus, sicut sunt tercia, sexta, decima, et huiusmodi, ponenda sunt etiam hec signa secundum quod oportet addere vel diminuere in ipsas reducendo ad maioritatem vel minoritatem opportunas, eo quod tales combinationes in contrapuncto esse debent aliquando maiores et aliquando minores; et si hanc diversitatem scire cupis, quando, scilicet, ipse debent esse maiores et quando minores, considerare debes locum ad quem immediate accedere debes post tuum recessum a tali consonantia imperfecta, et tunc videre debes an locus a quo recedis magis distet a loco ad quem immediate accedere intendis, faciendo talem consonantiam imperfectam maiorem an in faciendo 
+      <pb n="[82]" />ipsam minorem, quoniam illam semper sumere debes que minus distat a loco ad quem immediate accedere intendis, sive illa sit maior sive minor, et debes tunc facere ipsam per signa superius posita, de maiori minorem vel e contra, scilicet de minori maiorem, secundum quod oportet, cuius ratio non est alia quam dulcior armonia. Sed quare hec dulcior armonia ex hoc proveniat potest talis assignari ratio satis persuasiva, quoniam si de ratione imperfecti sit sui appetere perfectionem, quod aliter esse non potest quam per approximationem sui ad rem perfectam. Hinc est quod quanto consonantia imperfecta magis appropinquat perfecte ad quam accedere intendit, tanto perfectior efficitur, 
+      <pb n="[84]" />et inde dulcior armonia causatur. Et ut melius supradicta intelligantur, pono hoc exemplum:</p>
+      <p id="PROCON0034">[Prosdocimus, Contrapunctus, 84; text: Cantus superior, Cantus inferior] 
+      <figure>
+        <graphic url="/images/PROCON_01GF.gif" />
+      </figure></p>
+      <p id="PROCON0035">
+      <pb n="[86]" />Unde si hec signa in hoc exemplo posita bene consideras, primum [sqb] quadrum in cantu superiori positum facit illam sextam minorem esse maiorem, eo quod in sua maioritate minus distat a loco ad quem accedere intendit, scilicet ab octava maiori immediate sequenti, quam in sua minoritate; b vero molle sive rotundum in cantu superiori repertum facit illam sextam maiorem esse minorem, eo quod in sua minoritate minus distat a loco ad quem accedere intendit, scilicet ab octava maiori immediate sequenti, quam in sua maioritate; et per simile ponitur primum [sqb] quadrum in cantu inferiori et propter eandem causam, quoniam talis sexta in sua minoritate minus distat a loco ad quem immediate accedere intendit, scilicet ab alia sexta immediate sequenti, quam in sua maioritate; [sqb] vero quadrum secundum in cantu superiori repertum positum est propter eandem causam propter quam positum est et primum ipsius cantus superioris; sed [sqb] quadrum secundum in cantu inferiori positum facit illam terciam maiorem esse minorem, eo quod in sua minoritate minus distat a loco ad quem accedere intendit, scilicet ab unisono immediate sequenti, quam in sua maioritate, et hec omnia comprehendere poterit quilibet boni ingenii si ipsa subtiliter speculabitur.</p>
+      <p id="PROCON0036">
+      <pb n="[94]" />7. Sufficiant ergo ista de contrapuncto per musicorum minimum Prosdocimum de Beldemandis patavum, anno Domini 1412 in castro Montagnane paduani districtus breviter compilata. Deo gratias. Amen.</p>
+      <p id="PROCON0037">8. Explicit Contrapunctus Magistri Prosdocimi de Beldemandis paduani in castro Montagnane paduani districtus anno domini 1412 compilatus. Deo gratias. Amen.</p>
+    </body>
+  </text>
+</TEI>

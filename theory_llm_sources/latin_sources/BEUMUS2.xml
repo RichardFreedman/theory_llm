@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Musicae rudimenta e pleniore eius descriptione itemque exempla quaedam facilia ad puerilem exercitationem e bonis auctoribus, Libellus secundus de cantu</title>
+        <title type="abbrev">BEUMUS2</title>
+        <author>Beurhusius, Fredericus</author>
+        <date notBefore="1500" notAfter="1599">16th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Jingfa Sun</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Charles Atkinson</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Elisabeth Honn</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1996</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>Musicae Rudimenta e pleniore eius descriptione itemque exempla quaedam facilia ad puerilem exercitationem e bonis auctoribus</emph> (Tremoniae, excudebat Albertus Sartorius, 1581); Beiträge zur rheinischen Musikgeschichte, vol. 38 (Köln: Arno Volk, 1960), 18–51.
+</bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="BEUMUS20001">
+      <pb n="[18]" />/p.21/</p>
+      <p id="BEUMUS20002">RUDIMENTORUM LIBELLUS SECUNDUS DE CANTU</p>
+      <p id="BEUMUS20003">Caput primum: DE HARMONIAE GENERIBUS</p>
+      <p id="BEUMUS20004">Quae pars harmonica?</p>
+      <p id="BEUMUS20005">Harmonica pars est de sonorum inflexione ad bene canendum, unde cantus exsistit.</p>
+      <p id="BEUMUS20006">Quotuplex cantus?</p>
+      <p id="BEUMUS20007">Duplex: par seu choralis et impar seu figuratus, a talibus notis et elementis.</p>
+      <p id="BEUMUS20008">Quotuplex est harmonia?</p>
+      <p id="BEUMUS20009">Duplex: melodia et symphonia.</p>
+      <p id="BEUMUS20010">Quid est melodia?</p>
+      <p id="BEUMUS20011">Melodia est harmonia certo genere et modo quemlibet cantum ad canentis affectum conformans.</p>
+      <p id="BEUMUS20012">Quid est genus cantus?</p>
+      <p id="BEUMUS20013">Genus est inflexio sonorum per certum vocum ordinem.</p>
+      <p id="BEUMUS20014">Quotuplex genus cantus?</p>
+      <p id="BEUMUS20015">Triplex ut et ordo vocum: molle, durum et naturale.</p>
+      <p id="BEUMUS20016">Quomodo distinguitur?</p>
+      <p id="BEUMUS20017">In primarium et ministrum, deinde utrumque separatum vel coniunctum.</p>
+      <p id="BEUMUS20018">Quod primarium?</p>
+      <p id="BEUMUS20019">Primarium per principem vocum ordinem inflectitur estque molle vel durum.</p>
+      <p id="BEUMUS20020">/p.22/</p>
+      <p id="BEUMUS20021">Caput secundum: DE MOLLI SEPARATO</p>
+      <p id="BEUMUS20022">Quis mollis separatus?</p>
+      <p id="BEUMUS20023">Mollis separatus per mollem tantum ordinem mollius inflectitur ex f per b in d.</p>
+      <p id="BEUMUS20024">
+      <pb n="[19]" />Da exemplum choricum!</p>
+      <p id="BEUMUS20025">[Beurhaus, 19,1; text: Dum transisset Dominus per medios fines Tyri, surdos fecit audire, et mutos loqui.] 
+      <figure>
+        <graphic url="/images/BEUMUS2_01GF.gif" />
+      </figure></p>
+      <p id="BEUMUS20026">Da exemplum figuratum!</p>
+      <p id="BEUMUS20027">[Beurhaus, 19,2; text: Sit laus, honos et gloria Deo patri, qui omnia sua creavit gratia, fovet regit que condita.]</p>
+      <p id="BEUMUS20028">/p.23/</p>
+      <p id="BEUMUS20029">Caput tertium: DE DURO SEPARATO</p>
+      <p id="BEUMUS20030">Quis durus separatus?</p>
+      <p id="BEUMUS20031">Durus separatus per durum tantum ordinem durius inflectitur ex g per [sqb] in e.</p>
+      <p id="BEUMUS20032">Da exemplum chorale!</p>
+      <p id="BEUMUS20033">
+      <pb n="[20]" />[Beurhaus, 20,1; text: Redemptionem misit Dominus populo suo: mandavit in aeternum testamentum suum.]</p>
+      <p id="BEUMUS20034">Da figuratum!</p>
+      <p id="BEUMUS20035">Fuga duorum in unisono.</p>
+      <p id="BEUMUS20036">[Beurhaus, 20,2]</p>
+      <p id="BEUMUS20037">Caput quartum: DE MINISTRO NATURALI SEPARATO</p>
+      <p id="BEUMUS20038">Quis naturalis separatus?</p>
+      <p id="BEUMUS20039">Naturalis separatus per naturalem tantum ordinem inflectitur ex c per f in a.</p>
+      <p id="BEUMUS20040">Da exemplum choricum!</p>
+      <p id="BEUMUS20041">[Beurhaus, 20,3; text: Christe, qui lux es et dies, noctis tenebras detegis, /p.24/, lucisque lumen crederis, lumen beatum praedicans.]</p>
+      <p id="BEUMUS20042">
+      <pb n="[21]" />Exemplum figuratum est fuga trium vocum</p>
+      <p id="BEUMUS20043">Basis post duo tempora in a, tenor post quatuor in e</p>
+      <p id="BEUMUS20044">[Beurhaus, 21; text: Laudate Dominum omnes gentes, laudate eum omnes populi, quoniam confirmata est super nos misericordia ejus, et veritas] 
+      <figure>
+        <graphic url="/images/BEUMUS2_02GF.gif" />
+      </figure></p>
+      <p id="BEUMUS20045">
+      <pb n="[22]" />[Beurhaus, 22; text: misericordia ejus et veritas Domini, manet in aeternum, /p.25/] 
+      <figure>
+        <graphic url="/images/BEUMUS2_03GF.gif" />
+      </figure></p>
+      <p id="BEUMUS20046">
+      <pb n="[23]" />Caput quintum: DE MOLLI CONIUNCTO</p>
+      <p id="BEUMUS20047">Quod coniunctum cantus genus?</p>
+      <p id="BEUMUS20048">Coniunctum est, cum melodia altius in duos vocum ordines excurrit, altero etiam eorum supra vel infra iterato. Itaque ad hoc exercendum mutatio vocum adhibenda, de qua supra.</p>
+      <p id="BEUMUS20049">Quot coniuncta genera?</p>
+      <p id="BEUMUS20050">Duo: molle et durum cum altero enim semper naturale quasi ministrum coniungitur. Attamen aliquando etiam anomalia quaedam incidit, qui fictus cantus dicitur.</p>
+      <p id="BEUMUS20051">1. Quis mollis coniunctus?</p>
+      <p id="BEUMUS20052">Mollis coniunctus est, qui cum naturali molliore tono decurrit. Itaque hic mutatio fit commode</p>
+      <p id="BEUMUS20053">In d et a [g sub lin.] sumendo La descendendo [Re ascendendo sub lin.]</p>
+      <p id="BEUMUS20054">Da exemplum chori!</p>
+      <p id="BEUMUS20055">[Beurhaus, 23; text: /p.26/, Adsunt festa jubilaea in Mariae gaudia tota psallat Ecclesia devote laudum dragmata.] 
+      <figure>
+        <graphic url="/images/BEUMUS2_04GF.gif" />
+      </figure></p>
+      <p id="BEUMUS20056">
+      <pb n="[24]" />Da figuratum!</p>
+      <p id="BEUMUS20057">Tendit ad ardua virtus. Fuga quatuor vocum ex una</p>
+      <p id="BEUMUS20058">[Beurhaus, 24]</p>
+      <p id="BEUMUS20059">Caput sextum: DE DURO CONIUNCTO</p>
+      <p id="BEUMUS20060">Quis durus coniunctus?</p>
+      <p id="BEUMUS20061">Durus est, qui cum naturali duriore tono decurrit. Itaque hic mutatio fit commode</p>
+      <p id="BEUMUS20062">
+      <pb n="[25]" />In d et e [d sub lin.] sumendo La descendendo [Re ascendendo sub lin.]</p>
+      <p id="BEUMUS20063">Da exemplum chorale!</p>
+      <p id="BEUMUS20064">[Beurhaus, 25,1; text: /p.27/, Sic deus dilexit mundum, ut filium suum unigenitum daret: ut omnis qui credit in ipsum, non pereat, sed habeat vitam aeternam, alleluja.] 
+      <figure>
+        <graphic url="/images/BEUMUS2_05GF.gif" />
+      </figure></p>
+      <p id="BEUMUS20065">Da figuratum!</p>
+      <p id="BEUMUS20066">Fuga duorum in unisono</p>
+      <p id="BEUMUS20067">[Beurhaus, 25,2]</p>
+      <p id="BEUMUS20068">
+      <pb n="[26]" />Caput septimum: DE FICTO CANTU</p>
+      <p id="BEUMUS20069">Quis fictus cantus?</p>
+      <p id="BEUMUS20070">Fictus est, cum alienus sonus in aliena clave suavitatis vel necessitatis causa fingitur atque is durus sic per [sqb] vel [signum] sic, mollis sic per b notatur.</p>
+      <p id="BEUMUS20071">Exemplum ficti mollis soni per b in e</p>
+      <p id="BEUMUS20072">[Beurhaus, 26,1; text: /p.28/, Ascendit Christus hodie, alleluia, super coelos rex gloriae]</p>
+      <p id="BEUMUS20073">Caput octavum: DE MODO</p>
+      <p id="BEUMUS20074">Quis modus, ad quem cantus formatur?</p>
+      <p id="BEUMUS20075">Modus est numerosa ratio melodiae intra certos fines ad affectum flectendae, dicuntur toni.</p>
+      <p id="BEUMUS20076">Quot sunt melodiarum modi seu toni?</p>
+      <p id="BEUMUS20077">Octo vulgo numerantur, quorum quatuor imparis numeri dicuntur autentici, reliqui plagii.</p>
+      <p id="BEUMUS20078">Describe primi melodiae ambitum ac phrasin cum chorico tropo!</p>
+      <p id="BEUMUS20079">[Beurhaus, 26,2; text: Ambitus primi toni, Tropus]</p>
+      <p id="BEUMUS20080">/p.29/</p>
+      <p id="BEUMUS20081">Describe secundi melodiam!</p>
+      <p id="BEUMUS20082">[Beurhaus, 26,3; text: Phrasis secundi, Tropus]</p>
+      <p id="BEUMUS20083">
+      <pb n="[27]" />Describe tertii!</p>
+      <p id="BEUMUS20084">[Beurhaus, 27,1; text: Melodia tertii, Tropus] 
+      <figure>
+        <graphic url="/images/BEUMUS2_06GF.gif" />
+      </figure></p>
+      <p id="BEUMUS20085">Cedo quarti phrasin!</p>
+      <p id="BEUMUS20086">[Beurhaus, 27,2; text: Quarti ambitus, Tropus]</p>
+      <p id="BEUMUS20087">/p.30/</p>
+      <p id="BEUMUS20088">Cedo quinti!</p>
+      <p id="BEUMUS20089">[Beurhaus, 27,3; text: Quinti melodiae character, Tropus]</p>
+      <p id="BEUMUS20090">Describe sexti phrasin!</p>
+      <p id="BEUMUS20091">[Beurhaus, 27,4: text: Sexti character, Tropus]</p>
+      <p id="BEUMUS20092">Da septimi adumbrationem!</p>
+      <p id="BEUMUS20093">[Beurhaus, 27,5; text: Septimi forma, Tropus]</p>
+      <p id="BEUMUS20094">
+      <pb n="[28]" />/p.31/</p>
+      <p id="BEUMUS20095">Da octavi formam!</p>
+      <p id="BEUMUS20096">[Beurhaus, 28; text: Octavi phrasis et ambitus, Tropus]</p>
+      <p id="BEUMUS20097">Caput nonum: DE SYMPHONIA</p>
+      <p id="BEUMUS20098">Quid est symphonia?</p>
+      <p id="BEUMUS20099">Symphonia est concors harmonia diversarum melodiarum suaviter concinentium.</p>
+      <p id="BEUMUS20100">Quot melodiae seu voces in symphonia coniunguntur?</p>
+      <p id="BEUMUS20101">Proprie quatuor pro sonorum divisione, scilicet bassus ex gravibus, tenor et altus ex acutis mediis, discantus ex acutis excellentibus. Sunt tamen etiam bicinia ex duabus, tricinia ex tribus vocibus itemque quinta vox vagans quatuor additur, immo singulae etiam geminantur, ut sit secundus discantus, tenor et caetera; atque etiam ex una melodia efficiuntur plures voces se certis spatiis consequentes, quae fugae dicuntur. Vide Musicae. Ad symphoniae compositionem constituendam et intelligendam claves et voces ter iteratae in ordinem diriguntur, quae scala dicitur.</p>
+      <p id="BEUMUS20102">
+      <pb n="[29]" />/p.32/</p>
+      <p id="BEUMUS20103">Scala clavium et vocum earumque ordinum omnium coniunctorum</p>
+      <p id="BEUMUS20104">[Beurhaus, 29; text: Peracuti per geminatas litteras, Acuti medii per minutas litteras indicati, Graves soni litteris capitalibus indicati, Mollis intelligitur, Durus, Naturalis, Naturalis supra ex c etiam intelligitur, 1, 2, 3, [Gamma], A, [sqb], C, D, E, F, G, a, b, c, d, e, f, g, aa, b, cc, dd, ee, et caetera, ut, re, mi, fa, sol, la, Hic discantus altus tenor bassus] 
+      <figure>
+        <graphic url="/images/BEUMUS2_07GF.gif" />
+      </figure></p>
+      <p id="BEUMUS20105">Scala sic constituta dicitur systema cantionum. Si mollis sit cantio, praetermittuntur voces duri ordinis et contra. Regulas compositionis vide in musica pleniore.</p>
+      <p id="BEUMUS20106">
+      <pb n="[30]" />/p.33/</p>
+      <p id="BEUMUS20107">EXEMPLA QUAEDAM FACILIA AD PUERILEM EXERCITATIONEM ACCOMMODATA</p>
+      <p id="BEUMUS20108">Fuga duorum in unisono</p>
+      <p id="BEUMUS20109">[Beurhaus, 30,1] 
+      <figure>
+        <graphic url="/images/BEUMUS2_08GF.gif" />
+      </figure></p>
+      <p id="BEUMUS20110">Fuga trium in unisono</p>
+      <p id="BEUMUS20111">[Beurhaus, 30,2; text: Netimueris cum dives factus fuerit homo]</p>
+      <p id="BEUMUS20112">
+      <pb n="[31]" />[Beurhaus, 31; text: /p.34/, et cum multiplicata fuerit gloria, domus ejus; Quoniam, cum interierit] 
+      <figure>
+        <graphic url="/images/BEUMUS2_09GF.gif" />
+      </figure></p>
+      <p id="BEUMUS20113">
+      <pb n="[32]" />[Beurhaus, 32; text: cum interierit, non sumet omnia, neque descendit cum eo gloria eius.] 
+      <figure>
+        <graphic url="/images/BEUMUS2_10GF.gif" />
+      </figure></p>
+      <p id="BEUMUS20114">
+      <pb n="[33]" />Fuga duorum in unisono</p>
+      <p id="BEUMUS20115">[Beurhaus, 33,1; text: /p.35/, Veni Creator Spiritus, Mentes tuorum visita: /p. 35/ Imple superna gratia. Quae tu creasti pectora] 
+      <figure>
+        <graphic url="/images/BEUMUS2_11GF.gif" />
+      </figure></p>
+      <p id="BEUMUS20116">Fuga in epidiapente post semibrevem</p>
+      <p id="BEUMUS20117">[Beurhaus, 33,2; text: Ad Dominum cum tribularer clamavi, et]</p>
+      <p id="BEUMUS20118">
+      <pb n="[34]" />[Beurhaus, 34; text: /p.36/, exaudivit me. O Domine, libera animam a labiis iniquis et a lingua dolosa, Quid detur tibi, ad linguam dolosam? Sagittae potentis acutae, cum carbonibus desolatoriis. Heu mihi, quia incolatus meus prolongatus est! Habitavi cum] 
+      <figure>
+        <graphic url="/images/BEUMUS2_12GF.gif" />
+      </figure></p>
+      <p id="BEUMUS20119">
+      <pb n="[35]" />[Beurhaus, 35,1; text: cum habitantibus Cedar; multum incola fuit anima mea. Cum his qui oderunt pacem eram pacificus.] 
+      <figure>
+        <graphic url="/images/BEUMUS2_13GF.gif" />
+      </figure></p>
+      <p id="BEUMUS20120">/p. 37/</p>
+      <p id="BEUMUS20121">Fuga in diapason post unum tempus</p>
+      <p id="BEUMUS20122">[Beurhaus, 35,2; text: Grates nunc omnes reddamus Domino Deo qui]</p>
+      <p id="BEUMUS20123">
+      <pb n="[36]" />[Beurhaus, 36,1: text: Deo, qui sua nativitate nos liberavit de diabolica potestate.] 
+      <figure>
+        <graphic url="/images/BEUMUS2_14GF.gif" />
+      </figure></p>
+      <p id="BEUMUS20124">Post unum tempus</p>
+      <p id="BEUMUS20125">[Beurhaus, 36,2; text: Huic oportet, ut canamus cum angelis semper gloria in excelsis]</p>
+      <p id="BEUMUS20126">
+      <pb n="[37]" />/p.38/</p>
+      <p id="BEUMUS20127">BICINIA</p>
+      <p id="BEUMUS20128">Benedicite</p>
+      <p id="BEUMUS20129">[Beurhaus, 37,1; text: prima, secunda, vox, Allmechtiger guetiger Gott / du ewiger Herr Zebaoth. Aller augen warten auff dich / vnd du speisest sie gewaltiglich.] 
+      <figure>
+        <graphic url="/images/BEUMUS2_15GF.gif" />
+      </figure></p>
+      <p id="BEUMUS20130">/p. 39/</p>
+      <p id="BEUMUS20131">Gratiarum actio</p>
+      <p id="BEUMUS20132">[Beurhaus, 37,2; text: prima, secunda, vox, Dankket dem Herren, dann er ist sehr freuntlich / vnd seyne guet vnd warheit bleibet ewiglich, seine, warheyt, bleybet]</p>
+      <p id="BEUMUS20133">
+      <pb n="[38]" />/p. 40/</p>
+      <p id="BEUMUS20134">Aliud</p>
+      <p id="BEUMUS20135">[Beurhaus, 38,1; text: prima, secunda, altera vox, Jesus Christus vnser Heyland / der den Tod ueberwand / ist vfferstanden / die Suend hat Er gefangen / Kyrieleyson, aufferstanden, hatt] 
+      <figure>
+        <graphic url="/images/BEUMUS2_16GF.gif" />
+      </figure></p>
+      <p id="BEUMUS20136">/p.41/</p>
+      <p id="BEUMUS20137">[Beurhaus, 38,2; text: prima, vox, altera]</p>
+      <p id="BEUMUS20138">
+      <pb n="[39]" />Aliud</p>
+      <p id="BEUMUS20139">[Beurhaus, 39,1; text: /p.43/, /p.44/, prima, secunda vox] 
+      <figure>
+        <graphic url="/images/BEUMUS2_17GF.gif" />
+      </figure></p>
+      <p id="BEUMUS20140">Aliud</p>
+      <p id="BEUMUS20141">[Beurhaus, 39,2; text: prima, vox, /p.45/, O lux beata Trinitas, Et principalis Unitas]</p>
+      <p id="BEUMUS20142">
+      <pb n="[40]" />[Beurhaus, 40,1; text: et principalis Unitas, Iam sol recedit igneus, Infunde lumen cordibus.] 
+      <figure>
+        <graphic url="/images/BEUMUS2_18GF.gif" />
+      </figure></p>
+      <p id="BEUMUS20143">TRICINIA</p>
+      <p id="BEUMUS20144">[Beurhaus, 40,2; text: prima, vox, Hodie Deus homo factus.]</p>
+      <p id="BEUMUS20145">/p.46/</p>
+      <p id="BEUMUS20146">Psalmus 23</p>
+      <p id="BEUMUS20147">Beurhaus, 40,3; text: prima, secunda, tertia, vox, Der Herr ist meyn hirt /, myr wirt nichts, mein hirtt, mangeln, (p.47), (p.48)]</p>
+      <p id="BEUMUS20148">
+      <pb n="[41]" />[Beurhaus, 41; text: myr wirt nichts mangeln /, mir, Er weidet mich vff einer gruenen auwen /, auff, / vnd fueret mich zum frischen] 
+      <figure>
+        <graphic url="/images/BEUMUS2_19GF.gif" />
+      </figure></p>
+      <p id="BEUMUS20149">
+      <pb n="[42]" />[Beurhaus, 42; text: zum frischen wasser. Er erquicket meyne seel /, meine, vnd fueret mich auff rechter strasse / vmb seines Namens willen. seyne, /p.47/, /p.48/] 
+      <figure>
+        <graphic url="/images/BEUMUS2_20GF.gif" />
+      </figure></p>
+      <p id="BEUMUS20150">
+      <pb n="[43]" />Secunda pars psalmi</p>
+      <p id="BEUMUS20151">[Beurhaus, 43; text: (p.49), /p.52/, /p.54/, prima, secunda pars psalmi 23, tertia, vox, p.50, Vnd ob ich gleich wandlet im finstern thall /, wandelt, thal, foercht ich kein vnglueck, denn du bist bey mir /, dein, deyn, keyn, bei] 
+      <figure>
+        <graphic url="/images/BEUMUS2_21GF.gif" />
+      </figure></p>
+      <p id="BEUMUS20152">
+      <pb n="[44]" />[Beurhaus, 44; text: stekken vnd dein stab troesten mich. Du bereytest fuer myr einen tisch gegen meinen feynden /, bereitest, mir, feinden / Du salbest mein haupt mitt oele, meyn] 
+      <figure>
+        <graphic url="/images/BEUMUS2_22GF.gif" />
+      </figure></p>
+      <p id="BEUMUS20153">
+      <pb n="[45]" />[Beurhaus, 45; text: p.55, p.51, p.53, haupt mit oele, vnd schenkkest mir vol ein / gutes vnd barmhertzigkeit werden myr folgen meyn leben lang/] 
+      <figure>
+        <graphic url="/images/BEUMUS2_23GF.gif" />
+      </figure></p>
+      <p id="BEUMUS20154">
+      <pb n="[46]" />[Beurhaus, 46; text: vnd werde bleyben im haus des Herren immerdar.] 
+      <figure>
+        <graphic url="/images/BEUMUS2_24GF.gif" />
+      </figure></p>
+      <p id="BEUMUS20155">
+      <pb n="[47]" />/p. 56/</p>
+      <p id="BEUMUS20156">QUADRICINIA</p>
+      <p id="BEUMUS20157">[Beurhaus, 47; text: Discantus, Altus, Tenor, Bassus, p.56, p.57, Nobis est natus hodie de pura virgine Christus rex gloriae] 
+      <figure>
+        <graphic url="/images/BEUMUS2_25GF.gif" />
+      </figure></p>
+      <p id="BEUMUS20158">
+      <pb n="[48]" />[Beurhaus, 48; text: Discantus, Altus, Tenor, Bassus, p.58, p.59, Surrexit Christus hodie, alleluia, Kyrie eleison, humano] 
+      <figure>
+        <graphic url="/images/BEUMUS2_26GF.gif" />
+      </figure></p>
+      <p id="BEUMUS20159">
+      <pb n="[49]" />[Beurhaus, 49; text: p.58, humano pro solamine, alleluia.]</p>
+      <p id="BEUMUS20160">
+      <pb n="[50]" />/p. 60/</p>
+      <p id="BEUMUS20161">Alia</p>
+      <p id="BEUMUS20162">[Beurhaus, 50; text: Discantus, Altus, Tenor, Bassus, (p.60), (p.61), Ascendit Christus hodie, alleluia, super caelos rex gloriae] 
+      <figure>
+        <graphic url="/images/BEUMUS2_27GF.gif" />
+      </figure></p>
+      <p id="BEUMUS20163">
+      <pb n="[51]" />[Beurhaus, 51; text: /p.62/, p.63, Discantus, Altus, Tenor, Bassus, Veni maxime spiritus, tuorum reple corda fidelium, tuique accendas in eis amoris ignem, qui gentes fidei sub unitatem</p>
+      <p id="BEUMUS20164">per discrimina multa linguarum, solator paraclete, congregasti.] 
+      <figure>
+        <graphic url="/images/BEUMUS2_28GF.gif" />
+      </figure></p>
+      <p id="BEUMUS20165">FINIS</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Tractatus de regulari valore notarum</title>
+        <title type="abbrev">TINTDR</title>
+        <author>Tinctoris, Johannes</author>
+        <date notBefore="1400" notAfter="1499">15th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Stephen E. Hayes</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Peter M. Lefferts</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Angela Mariani</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1992</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>Johannis Tinctoris Opera theoretica</emph>, ed. Albert Seay, 3 vols. in 2, Corpus scriptorum de musica, vol. 22 ([Rome]: American Institute of Musicology, 1975-78), 1:125–38. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Iohannes Tinctoris: Tractatus de regulari valore notarum</title>
+          
+<idno type="LML">IOH. TINCT. val.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">B-Br II 4147, 31v-35v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">E-VAu 835, 48-55</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Bu 2573, 52v-60v</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="TINTDR0001">
+      <pb n="[125]" />Tractatus de regulari valore notarum, editus a Magistro Johanne Tinctoris, in legibus licentiato Regisque Siciliae capellano.</p>
+      <p id="TINTDR0002">Cogitanti mihi, illustrissima domina, rationi maxime consentaneum laudem et gloriam studiorum ab his qui ea intelligunt diliguntque expetere, in mentem venit hoc opusculum de regulari valore notarum inscriptum tuae celsitudini dedicare, expetens si in eo aliquid studii laude gloriaque dignum inveniatur, id tua existimatione quom intellectu praestantissimo ac bonarum artium dilectione ferventissima viros nedum feminas omnes excedas mihi attributum fore. Precor igitur ingenti cordis affectu quamvis hoc innata quadam sciendi cupiditate facturam te non dubitem, ut quom opusculum ipsum in manibus habueris, accuratissime perlegas. Ac si in eo me libero homine digna praecepisse inveneris, apud te ipsam amore sanctissimo quo erga scientiarum ingenuarum studiosos affici consueveris, per quam gratiosum efficere digneris, namque tunc operam meam huic studiorum generi impensam digne censebo, dum ex eo gratiam tam celebris, tam illustris, tamque prudentis dominae regiae filiae consequutus fuero.</p>
+      <p id="TINTDR0003">Capitulum I--De quantitatibus in genere.</p>
+      <p id="TINTDR0004">Quamquam in plerisque opusculis nostris quot et quae notae sint explicaverimus, tamen hinc absurdum non mihi visum est, eo quod de regulari valore earum scripturi sumus, id ipsum resumere. Unde sciendum quod quinque tantum universales notae sunt, quae in hoco versu penthametro ordine recto positae facillime concipi retinerique possunt:</p>
+      <p id="TINTDR0005">Maxima [MXv], longa [Lv], brevis [Bv], semibrevis [Sv], minima [Mv].</p>
+      <p id="TINTDR0006">Et quoniam regularis valor istarum notarum ex quantitatibus attenditur, quid quantitas sit quotque quantitates et quae sint animadvertendum est. Unde quantitas est secundum quam quantus sit cantus intelligitur. Quatuor autem quantitates ab artis musicae praeceptoribus institutas accepimus, 
+      <pb n="[126]" />videlicet modum maiorem, modum minorem, tempus et prolationem. Ex quibusquidam quatuor quantitatibus omnis cantus componitur, non quod necessarium sit in quolibet cantu omnes concurrere. Namque si prolatio sola sit, cantus est ut hic:</p>
+      <p id="TINTDR0007">[ClefC2,Od,Mv,Mv,Mv on staff5]</p>
+      <p id="TINTDR0008">Exemplum</p>
+      <p id="TINTDR0009">Idem si tempus sine aliquo modo, ut hic:</p>
+      <p id="TINTDR0010">[ClefF3,O,Mv,Mv,Mv,Mv,Sv on staff5]</p>
+      <p id="TINTDR0011">Exemplum</p>
+      <p id="TINTDR0012">Similiter si modus minor absque maior, ut hic:</p>
+      <p id="TINTDR0013">[ClefC3,O,Mv,Mv,Sv,Sv,Bv on staff5]</p>
+      <p id="TINTDR0014">Exemplum</p>
+      <p id="TINTDR0015">Sed ubi modus maior ibi et minor, ubi modus minori ibi et tempus, ubi tempus ibi et prolatio, quoniam maiori semper quantitati minorem inesse necesse est, ut hic:</p>
+      <p id="TINTDR0016">[ClefC4,Od,3LP,3LP,3LP,MXv,Lv,Lv,Bv,Sv,Mv,Lv on staff5]</p>
+      <p id="TINTDR0017">Exemplum</p>
+      <p id="TINTDR0018">Hinc ut natura cuiuslibet istarum quatuor quantitatum valoresque notarum sibi subiectarum liquidius habeantur, specifice de omnibus tractare proposuimus.</p>
+      <p id="TINTDR0019">Capitulum II--De modo maiori.</p>
+      <p id="TINTDR0020">Modus maior est quantitas ex certis longis maximam respicientibus constituta, et hic duplex est, videlicet perfectus et imperfectus. Modus maior perfectus est quantitas qua tres longae pro una maxima numerantur. Itaque 
+      <pb n="[127]" />in hoc modo maxima quae ei subiicitur regulariter valet tres longas, ut hic:</p>
+      <p id="TINTDR0021">[ClefC4,O,2LP,2LP,2LP,MXv,Lv,Lv,Lv,MXv on staff5]</p>
+      <p id="TINTDR0022">Exemplum</p>
+      <p id="TINTDR0023">Modus maior imperfectus est quantitas qua duae longae pro una maxima numerantur, et sic in hoc modo maxima etiam ei subiecta regulariter valet duas longas, ut hic patet:</p>
+      <p id="TINTDR0024">[ClefC4,C,2LP,2LP,MXv,Lv,Lv,MXv,Lv,Lig2va,MXv,MXv on staff5]</p>
+      <p id="TINTDR0025">Exemplum</p>
+      <p id="TINTDR0026">Capitulum III--De modo minori.</p>
+      <p id="TINTDR0027">Modus minor est quantitas ex certis brevibus longam respicientibus constituta, quiquidem duplex est, nam alius est modus minor perfectus, alius minor imperfectus.</p>
+      <p id="TINTDR0028">Modus minor perfectus est quantitas qua tres breves pro una longa numerantur. Itaque hoc in modo longa quae ei subiicitur regulariter valet tres breves, ut hic patet:</p>
+      <p id="TINTDR0029">[ClefC4,O,3LP,Lv,Lig3vcdsndod,Lv on staff5]</p>
+      <p id="TINTDR0030">Exemplum</p>
+      <p id="TINTDR0031">Modus minor imperfectus est quantitas qua duae breves pro una longa numerantur, et sic in hoc modo longa etiam ei subiecta regulariter valet duas breves, ut hic:</p>
+      <p id="TINTDR0032">[ClefC4,O,2LP,Lv,Lig2vcdsnod,Sv,Lv,Lv,Lv,Bv,pt,Sv,Bv,Lv on staff5]</p>
+      <p id="TINTDR0033">Exemplum</p>
+      <p id="TINTDR0034">Capitulum IV--De tempore.</p>
+      <p id="TINTDR0035">Tempus est quantitas ex certis semibrevibus brevem respicientibus constituta, et hoc duplex est, videlicet perfectum et imperfectum. Tempus 
+      <pb n="[128]" />perfectum est quantitas qua tres semibreves pro una brevi numerantur. Itaque in hoc tempore brevis quae ei subiicitur regulariter valet tres semibreves, ut hic patet:</p>
+      <p id="TINTDR0036">[ClefC3,O,2LP,2LP,Bv,Lig2vcssnod,Sv,Lv,Bv,Lig2vcssna,pt,Mv,Lv on staff5]</p>
+      <p id="TINTDR0037">Exemplum</p>
+      <p id="TINTDR0038">Tempus imperfectum est quantitas qua duae semibreves pro una brevi numerantur. Et sic hoc in tempore brevis etiam ei subiecta regulariter valet duas semibreves, ut hic:</p>
+      <p id="TINTDR0039">[ClefC3,C,2LP,Bv,Lig2vcssnod,Bv,Sv,pt,M,M,Bv,Lig2vcssna,Bv,Mv,Mv,Sv,Lv on staff5]</p>
+      <p id="TINTDR0040">Exemplum</p>
+      <p id="TINTDR0041">Capitulum V--De prolatione.</p>
+      <p id="TINTDR0042">Prolatio est quantitas ex certis minimis semibrevem respicientibus constituta, quaequidem duplex est, namque alia est prolatio maior, alia minor.</p>
+      <p id="TINTDR0043">Prolatio maior est quantitas qua tres minimae pro una semibrevi numerantur. Itaque hac in prolatione semibrevis quae ei subiicitur regulariter valet tres minimae, ut hic patet:</p>
+      <p id="TINTDR0044">[ClefC4,O,Bv,Sv,Mv,Mv,Mv,Sv,Bv,Mv,Mv,Mv,Mv,Mv,Mv,Sv,Lv on staff5]</p>
+      <p id="TINTDR0045">Exemplum</p>
+      <p id="TINTDR0046">Prolatio minor est quantitas qua duae minimae pro una semibrevi numerantur, et sic in hac prolatione semibrevis etiam ei subiecta regulariter valet duas minimas, ut hic patet:</p>
+      <p id="TINTDR0047">[ClefC4,C,Bv,Lig2vcssna,Mv,Mv,Sv,Mv,Mv,Sv,pt,Sv,Mv,Lv,Sv,Mv,Sv,Mv,Sv,Lv on staff5]</p>
+      <p id="TINTDR0048">Exemplum</p>
+      <p id="TINTDR0049">Capitulum VI--De signis quantitatum in genere.</p>
+      <p id="TINTDR0050">Certis autem signis praedictae quantitates tam perfectae quam imperfectae, 
+      <pb n="[129]" />licet aliae positivae, aliae privativae, cognsocuntur. Quaequidem signa propter hoc exponere necessarium arbitramur.</p>
+      <p id="TINTDR0051">Capitulum VII--De signo modi maioris perfecti.</p>
+      <p id="TINTDR0052">Signum modi maioris perfecti est positio trium pausarum longalium simul immediate ante vel post signum temporale, ut hic:</p>
+      <p id="TINTDR0053">[ClefC5,3LP,3LP,3LP,O,MXv,Lv,Lv,Lv,MXv,Lig2vLacddx,Mxv; ClefC3,3LP,3LP,3LP,MXv,Lig2vd,Lv,MXv on staff5]</p>
+      <p id="TINTDR0054">Exemplum</p>
+      <p id="TINTDR0055">Capitulum VIII--De signo modo maioris imperfecti.</p>
+      <p id="TINTDR0056">Signum modi maioris imperfecti est positio duarum longalium pausarum immediate ante vel post signum temporale, vel unius tantum post ipsum temporale signum vel prorsus nullius, ut hic:</p>
+      <p id="TINTDR0057">[ClefC3,3LP,3LP,O,MXv,Lig3vaod,Lv,MXv; ClefC3,Cd,2LP,2LP,MXv,Lig2vd,MXv; ClefC4,O,3LP,Lv,MXv,Lig2vd,MXv; ClefC4,C,Lig3vLaa,MXv,Lig2vd,MXv on staff5]</p>
+      <p id="TINTDR0058">Exemplum</p>
+      <p id="TINTDR0059">Capitulum IX--De signo modi minoris perfecti.</p>
+      <p id="TINTDR0060">Signum modi minoris perfecti est longalis pausa tria occupans spatia ante vel post signum temporale immediate posita, neque refert si sint plures dum tamen quaelibet tria spatia occupet, ut hic:</p>
+      <p id="TINTDR0061">[ClefF4,3LP,O,Lv,Lig3vaa,Lig2vLacddx,Lig2vcdsnod,Lv; ClefC4,C,3LP,3LP,MXv,Lv,Bv,Lig3vcdsnda,Lv on staff5]</p>
+      <p id="TINTDR0062">Exemplum</p>
+      <p id="TINTDR0063">
+      <pb n="[130]" />Capitulum X--De signo modi minoris imperfecti.</p>
+      <p id="TINTDR0064">Signum modi minoris imperfecti est longalis pausa duo occupans spatai ante vel post signum temporale immediate posita, neque refert etiam si sint plures dum tamen quaelibet duo spatia occupet. Praeterea si nulla penitus longalis pausa signum temporale sequatur aut praecedat, modum hunc etiam privative designat, ut hic patet:</p>
+      <p id="TINTDR0065">[ClefC4,2LP,O,Lv,Bv,Bv,Sv,Lig2vcssnod,Lv; ClefC3,C,2LP,2LP,Lv,Lig2vcssnodpts,Sv,Mv,Lv,Lig2vcdsnod,Lv,Lv; ClefC4,O,Lv,Lig2vcdsnod,Lv,Lv on staff5]</p>
+      <p id="TINTDR0066">Exemplum</p>
+      <p id="TINTDR0067">Animadvertendum tamen est quod si huiusmodi pausae longales quovis in modo maiori atque minori, ut praemisimus, signo temporali anteponantur, non sunt de cantus essentia, secus vero si postponantur, quia tunc rite pausantur.</p>
+      <p id="TINTDR0068">Capitulum XI--De signo temporis perfecti.</p>
+      <p id="TINTDR0069">Signum temporis perfecti est circulus perfectus qui quom sit in modum fere unius [O] quae quarta vocalis est formatus, a plerisque O appellatur, ut hic patet:</p>
+      <p id="TINTDR0070">[ClefC4,O,Bv,Sv,Bv,Lig2vcssna,Sv,Bv,Mv,Mv,Bv,Sv,Bv,Sv,Sv,Mv,Mv,Sv,Mv,Mv,Lig2vcssna,Lv on staff5]</p>
+      <p id="TINTDR0071">Exemplum</p>
+      <p id="TINTDR0072">Capitulum XII--De signo temporis imperfecti.</p>
+      <p id="TINTDR0073">Signum temporis imperfecti est circulus imperfectus, quem propter similitudinem formae quam habet cum tertia littera alphabeti quae est [C], nonnulli C appellant, ut hic patet:</p>
+      <p id="TINTDR0074">[ClefC3,C,BP,Bv,Lig3vcssnaa,Mv,Sv,Mv,Lig2va,Lig2vcssnod,Bv,Sv,pt,M,M,Lv on staff5]</p>
+      <p id="TINTDR0075">Exemplum</p>
+      <p id="TINTDR0076">
+      <pb n="[131]" />Capitulum XIII--De signo prolationis maioris.</p>
+      <p id="TINTDR0077">Signum prolationis maioris est punctus in medio circuli perfecti vel imperfecti positus, ut hic:</p>
+      <p id="TINTDR0078">[ClefC3,CdOd,Bv,Sv,Mv,Mv,Mv,Sv,Mv,pt,Mv,Sv,Mv,Sv,Mv,Sv,Lv on staff5]</p>
+      <p id="TINTDR0079">Exemplum</p>
+      <p id="TINTDR0080">Capitulum XIV--De signo prolationis minoris.</p>
+      <p id="TINTDR0081">Signum prolationis minoris est absentia puncti de medio circuli perfecti vel imperfecti, ut hic:</p>
+      <p id="TINTDR0082">[ClefC4,CO,BP,Bv,Lig2vcssna,pt,Mv,Sv,Mv,Sv,Mv,Bv,Lig2vcssnod,Bv,Sv,Mv,Sv,Mv,Sv,Bvcsdx on staff5]</p>
+      <p id="TINTDR0083">Exemplum</p>
+      <p id="TINTDR0084">Capitulum XV--De speciebus compositionum in genere.</p>
+      <p id="TINTDR0085">Porro cantus alii ex omnibus quantitatibus perfectis componuntur, alii ex omnibus imperfectis, alii ex pluribus perfectis cum pluribus imperfectis, aut una tantum et alii ex pluribus imperfectis cum pluribus perfectis, aut una solum.</p>
+      <p id="TINTDR0086">Qua fit ut sexdecim compositionum species inveniantur per quas regularis valor notarum nunc maior, nunc minor esse perhibetur. Hinc de qualibet ut regularis valor notarum eis subiectarum clarius agnoscatur consequenter disseremus.</p>
+      <p id="TINTDR0087">Capitulum XVI--De prima specie compositionis et valore notarum in ea existentium.</p>
+      <p id="TINTDR0088">Prima species compositionis fit ex utroque modo perfecto, tempore perfecto et maiori prolatione. Itaque regulariter valet in ea maxima 3 longas, 
+      <pb n="[132]" />9 breves, 27 breves et 81 minimas; longa 3 breves, 9 semibreves et 27 minimas; brevis 3 semibreves et 9 minimas; ac semibrevis 3 minimas, ut hic:</p>
+      <p id="TINTDR0089">[ClefC3,Od,3LP,3LP,3LP,MXv,Lv,Lv,Lv,Lig3vcdsnda,Lig2vcssnod,Sv,Mv,Mv,Mv,Lig2vcssnod,Bv,Lv on staff5]</p>
+      <p id="TINTDR0090">Exemplum</p>
+      <p id="TINTDR0091">Capitulum XVII--De secunda specie compositionis et valore notarum in ea existentium.</p>
+      <p id="TINTDR0092">Secunda species compositionis fit ex modo maiori perfecto, modo minori imperfecto, tempore perfecto et prolatione maiori. Itaque in ea valet regulariter maxima 3 longas, 6 breves, 18 semibreves et 54 minimas; longa 2 breves, 6 semibreves et 18 minimas; brevis 3 semibreves et 9 minimas; ac semibrevis 3 minimas, ut hic patet:</p>
+      <p id="TINTDR0093">[ClefC3,rob,Od,2LP,2LP,2LP,MXv,Lv,Lv,Lv,Lig2va,Lig2vcssnod,Mv,Mv,Mv,Bv,Lv on staff5]</p>
+      <p id="TINTDR0094">Exemplum</p>
+      <p id="TINTDR0095">Capitulum XVIII--De tertia specie compositionis et valore notarum in ea existentium.</p>
+      <p id="TINTDR0096">Tertia species compositionis fit ex modo maiori imperfecto, modo minori perfecto, tempore perfecto et prolatione maiori. Itaque valet in ea regulariter maxima 2 longas, 6 breves, 18 semibreves et 54 minimas; longa 3 breves, 9 semibreves et 27 minimas; brevis 3 semibreves et 9 minimas; ac semibrevis 3 minimas, ut hic patet:</p>
+      <p id="TINTDR0097">[ClefC4,Od,3LP,3LP,MXv,Lv,Lig3vcdsndod,Bv,Lig2vcssna,Mv,Mv,Mv,Bv,Lv on staff5]</p>
+      <p id="TINTDR0098">Exemplum</p>
+      <p id="TINTDR0099">Capitulum XIX--De quarta specie compositionis et valore notarum in ea existentium.</p>
+      <p id="TINTDR0100">Quarta species compositionis fit ex utroque modo imperfecto, tempore 
+      <pb n="[133]" />perfecto et prolatione maiori. Itaque valet in ea regulariter maxima 2 longas, 4 breves, 12 semibreves et 36 minimas; longa 2 breves, 6 semibreves et 18 minimas; brevis 3 semibreves et 9 minimas; ac semibrevis 3 minimas, ut hic patet:</p>
+      <p id="TINTDR0101">[ClefC3,rob,Od,2LP,2LP,MXv,Lv,Lv,Bv,Sv,Mv,Mv,Mv,Mv,pt,SMv,Mv,Lv on staff5]</p>
+      <p id="TINTDR0102">Exemplum</p>
+      <p id="TINTDR0103">Capitulum XX--De quinta specie compositionis et valore notarum in ea existentium.</p>
+      <p id="TINTDR0104">Quinta compositionis species fit ex utroque modo perfecto, tempore imperfecto et prolatione maiori. Itaque in ea valet regulariter maxima 3 longas, 9 breves, 18 semibreves et 54 minimas; longa 3 breves, 6 semibreves et 18 minimas; brevis 2 semibreves et 6 minimas; ac semibrevis 3 minimas, ut hic patet:</p>
+      <p id="TINTDR0105">[ClefC3,rob,Cd,3LP,3LP,3LP,MXv,Lv,Lv,Lv,Lig3vaod,Sv,Mv,Mv,Mv,Bv,Lig2vcssnod,Lv on staff5]</p>
+      <p id="TINTDR0106">Exemplum</p>
+      <p id="TINTDR0107">Capitulum XXI--De sexta specie compositionis et valore notarum in ea existentium.</p>
+      <p id="TINTDR0108">Sexta compositionis species fit ex modo maiori perfecto, modo minori imperfecto, tempore imperfecto et prolatione maiori. Itaque in ea valet regulariter maxima 3 longas, 6 breves, 12 semibreves et 36 minimas; longa 2 breves, 4 semibreves et 12 minimas; brevis 2 semibreves et 6 minimas; ac semibrevis 3 minimas, ut hic patet:</p>
+      <p id="TINTDR0109">[ClefC3,rob,Cd,2LP,2LP,2LP,MXv,Lv,Lv,Lv,Lig2va,Mv,Mv,Mv,Sv,Lig2vcssnod,Lv on staff5]</p>
+      <p id="TINTDR0110">Exemplum</p>
+      <p id="TINTDR0111">
+      <pb n="[134]" />Capitulum XXII--De septima specie compositionis et valore notarum in ea existentium.</p>
+      <p id="TINTDR0112">Septima species compositionis fit ex modo maiori imperfecto, modo minori perfecto, tempore imperfecto et prolatione maiori. Itaque regulariter valet in ea maxima 2 longas, 6 breves, 12 semibreves et 36 minimas; longa 3 breves, 6 semibreves et 18 minimas; brevis 2 semibreves et 6 minimas; ac semibrevis 3 minimas, ut hic patet:</p>
+      <p id="TINTDR0113">[ClefC4,Cd,3LP,3LP,MXv,Lig2vd,Lig3vaa,Sv,Mv,Mv,Mv,Lig2vcdsnod,Lig3vcdsndod,Lv on staff5]</p>
+      <p id="TINTDR0114">Exemplum</p>
+      <p id="TINTDR0115">Capitulum XXIII--De octava specie compositionis et valore notarum in ea existentium.</p>
+      <p id="TINTDR0116">Octava species compositionis fit ex utroque modo imperfecto, tempore imperfecto et prolatione maiori. Itaque regulariter in ea valet maxima 2 longas, 4 breves, 8 semibreves et 24 minimas; longa 2 breves, 4 semibreves et 12 minimas; brevis 2 semibreves et 6 minimas; ac semibrevis 3 minimas, ut hic patet:</p>
+      <p id="TINTDR0117">[ClefC4,rob,Cd,2LP,2LP,MXv,Lv,Lv,Lig2vcdsnod,Sv,Mv,Mv,Mv,Bv,Lig2vcssna,Lig2vcssnod,Lv on staff5]</p>
+      <p id="TINTDR0118">Exemplum</p>
+      <p id="TINTDR0119">Capitulum XXIV--De nona specie compositionis et valore notarum in ea existentium.</p>
+      <p id="TINTDR0120">Nona species compositionis fit ex utroque modo perfecto, tempore perfecto et prolatione minori. Itaque regulariter in ea valet maxima 3 longas, 9 breves, 27 semibreves et 54 minimas; longa 3 breves, 9 semibreves et 18 minimas; brevis 3 semibreves et 6 minimas; ac semibrevis 2 minimas, ut hic patet:</p>
+      <p id="TINTDR0121">[ClefC3,rob,O,MXv,Lv,Lv,Lv,Lig3vcdsndod,Lig2vcssna,Sv,Bv,Mv,Mv,Sv,Lv on staff5]</p>
+      <p id="TINTDR0122">Exemplum</p>
+      <p id="TINTDR0123">
+      <pb n="[135]" />Capitulum XXV--De decima specie compositionis et valore notarum in ea existentium.</p>
+      <p id="TINTDR0124">Decima species compositionis fit ex modo maiori perfecto, modo minori imperfecto, tempore perfecto et prolatione minori. Itaque regulariter in ea valet maxima 3 longas, 6 breves, 18 semibreves et 36 minimas; longa 2 breves, 6 semibreves et 12 minimas; brevis 3 semibreves et 6 minimas; ac semibrevis 2 minimas, ut hic patet:</p>
+      <p id="TINTDR0125">[ClefC4,rob,O,2LP,2LP,MXv,Lv,Lv,Lv,Lig2va,Lig2vcssna,Sv,Mv,Mv,Sv,Lv on staff5]</p>
+      <p id="TINTDR0126">Exemplum</p>
+      <p id="TINTDR0127">Capitulum XXVI--De undecima specie compositionis et valore notarum in ea existentium.</p>
+      <p id="TINTDR0128">Undecima species compositionis fit ex modo maiori imperfecto, modo minori perfecto, tempore perfecto et prolatione minori. Itaque regulariter in ea valet maxima 2 longas, 6 breves, 18 semibreves et 36 minimas; longa 3 breves, 9 semibreves et 18 minimas; brevis 3 semibreves et 6 minimas; ac semibrevis 2 minimas, ut hic patet:</p>
+      <p id="TINTDR0129">[ClefC3,O,3LP,3LP,3LP,MXv,Lv,Lv,Lig2vcdsnod,Sv,Mv,Mv,Sv,Lv on staff5]</p>
+      <p id="TINTDR0130">Exemplum</p>
+      <p id="TINTDR0131">Capitulum XXVII--De duodecima specie compositionis et valore notarum in ea existentium.</p>
+      <p id="TINTDR0132">Duodecima compositionis species fit ex utroque modo imperfecto, tempore perfecto et prolatione minori. Itaque regulariter in ea valet maxima 2 longas, 4 breves, 12 semibreves et 24 minimas; longa 2 breves, 6 semibreves et 12 minimas; brevis 3 semibreves et 6 minimas; ac semibrevis 2 minimas, ut hic patet:</p>
+      <p id="TINTDR0133">
+      <pb n="[136]" />[ClefC4,rob,O,2LP,2LP,MXv,Lv,Lv,Lig2vcdsnod,Lig2vcssnod,Sv,Bv,Lig2vcssna,Sv,Mv,Mv,Sv,Lv on staff5]</p>
+      <p id="TINTDR0134">Exemplum</p>
+      <p id="TINTDR0135">Capitulum XXVIII--De tertiadecima specie compositionis et valore notarum in ea existentium.</p>
+      <p id="TINTDR0136">Tertiadecima species compositionis fit ex utroque modo perfecto, tempore imperfecto et prolatione minori. Itque regulariter in ea valet maxima 3 longas, 9 breves, 18 semibreves et 36 minimas; longa 3 breves, 6 semibreves et 12 minimas; brevis 2 semibreves et 4 minimas; ac semibrevis 2 minimas, ut hic patet:</p>
+      <p id="TINTDR0137">[ClefC3,C,3LP,3LP,3LP,MXv,Lv,Lv,Lv,Lig3vaa,Bv,Lig2vcssna,Mv,Mv,Sv,Lv on staff5]</p>
+      <p id="TINTDR0138">Exemplum</p>
+      <p id="TINTDR0139">Capitulum XXIX--De quartadecima specie compositionis et valore notarum in ea existentium.</p>
+      <p id="TINTDR0140">Quartadecima species compositionis fit ex modo maiori perfecto, modo minori imperfecto, tempore imperfecto, et prolatione minori. Itaque regulariter valet in ea maxima 3 longas, 6 breves, 12 semibreves et 24 minimas; longa 2 breves, 4 semibreves et 8 minimas; brevis 2 semibreves et 4 minimas; ac semibrevis 2 minimas, ut hic patet:</p>
+      <p id="TINTDR0141">[ClefC4,rob,C,2LP,2LP,2LP,MXv,Lv,Lv,Lv,Lig2va,Mv,Mv,Sv,Mv,Mv,Sv,Lv on staff5]</p>
+      <p id="TINTDR0142">Exemplum</p>
+      <p id="TINTDR0143">Capitulum XXX--De quintadecima specie compositionis et valore notarum in ea existentium.</p>
+      <p id="TINTDR0144">Quintadecima species compositionis fit ex modo maiori imperfecto, modo 
+      <pb n="[137]" />minori perfecto, tempore imperfecto et prolatione minori. Itaque regulariter valet in ea maxima 2 longas, 6 breves, 12 semibreves et 24 minimas; longa 3 breves, 6 semibreves et 12 minimas; brevis 2 semibreves et 4 minimas; ac semibrevis 2 minimas, ut hic patet:</p>
+      <p id="TINTDR0145">[ClefC4,rob,C,3LP,3LP,3LP,MXv,Lv,Bvcsdx,Lig3vaa,MP,Mv,pt,M,M,M,Bv,Lig2vcssnod,Lig3vaod,Lv on staff5]</p>
+      <p id="TINTDR0146">Exemplum</p>
+      <p id="TINTDR0147">Capitulum XXXI--De sextadecima specie compositionis et valore notarum in ea existentium.</p>
+      <p id="TINTDR0148">Sextadecima et ultima species compositionis fit ex utroque modo imperfecto, tempore imperfecto et prolatione minori. Itaque regulariter in ea valet maxima 2 longas, 4 breves, 6 semibreves et 16 minimas; longa 2 breves, 4 semibreves et 8 minimas; brevis 2 semibreves et 4 minimas; ac semibrevis 2 minimas, ut hic patet:</p>
+      <p id="TINTDR0149">[ClefC3,rob,C,2LP,2LP,MXv,Lv,Lv,Lig2vcdsnod,Mv,Mv,Sv,Bv,Lig2vcssna,Mv,Mv,Sv,Bvcsdx on staff5]</p>
+      <p id="TINTDR0150">Exemplum</p>
+      <p id="TINTDR0151">Capitulum XXXII--De valore minimae.</p>
+      <p id="TINTDR0152">Valor autem minimae in omnibus quantitatibus stabilis fixusque manet, nec incrementum nec decrementum umquam recipiens. Ipsa etenim nota est valoris individui, eo quod simplex sit ac penitus incomposita, et quamvis valor aliarum quatuor notarum, ut praeostendimus, propter varietatem quantitatum quibus subiicuntur sit varius, tamen regularis est respectu illius qui in quantitatibus perfectis exceptive per imperfectionem earum attenditur. Quiquidem valor quom etiam sit apprehensione difficillimus, super eo specialem tractatum edidimus quem propter ipsius subiectum de imperfectionibus notarum inscripsimus.</p>
+      <p id="TINTDR0153">
+      <pb n="[138]" />Capitulum XXXIII--Operis conclusio.</p>
+      <p id="TINTDR0154">Accipe iam precor, beatissima Beatrix, hoc tui Tinctoris opusculum quod, quia de regulari valore notarum sit inscriptum, quadam rationi consona proportione tuae celsitudini valore virtutum inestimabili quo nihil dignius est institutae non modo dedicandum, sed ut donandum censuit, firmissime sperans, quom ipsi proceres sapientes atque prudentes quorum ipsa princeps es, potius animum donantis quam donum spectare soleant, quod si magnitudinem amoris quo illae tuae ingenti gloriae afficiuntur, inspicias, parvitatem sui muneris profecto non contemnes.</p>
+      <p id="TINTDR0155">Explicit.</p>
+    </body>
+  </text>
+</TEI>

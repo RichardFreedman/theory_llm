@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>De tonis</title>
+        <title type="abbrev">MURTON</title>
+        <author>Johannes de Muris</author>
+        <date notBefore="1300" notAfter="1399">14th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Sergei Lebedev</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Angela Mariani</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1993</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>Scriptores ecclesiastici de musica sacra potissimum</emph>, 3 vols., ed. Martin Gerbert (St. Blaise: Typis San-Blasianis, 1784; reprint ed., Hildesheim: Olms, 1963), 3:308–12.
+</bibl>
+        <bibl type="work">
+          
+<title>Ps.-Iohannes de Muris: De tonis</title>
+          
+<idno type="LML">PS.-MUR. interv.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">A-SP Cod. 264/4 (27.2.25), 60-63</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="MURTON0001">
+      <pb n="[308]" />Sequuntur numeri proportionales secundum Macrobium, qui quidem numeri ad efficiendam musicam concurrunt. Hi autem sunt sex, videlicet epitritus, hemiolius, duplaris, triplaris, quadruplaris et epogdous.</p>
+      <p id="MURTON0002">Epitritus, qui alio nomine dicitur secundum Boetium sesquitertius, est, cum de duobus numeris maior habet totum minorem in se, et insuper eius tertiam partem, ut sunt quatuor ad tria, vel 8. ad 6. Et dicitur epitritus ab [epi], quod est supra, et [trite], quod est tertium, quasi numerus continens alium totum, et insuper tertiam partem eius. Ex hoc autem nascitur symphonia, quae appellatur diatessaron.</p>
+      <p id="MURTON0003">Hemiolius, qui alio nomine dicitur sesquialter, est, cum de duobus numeris maior continet totum minorem, et insuper eius medietatem, ut sunt tria ad duo. Et dicitur hemiolius ab hemi [hemi] graece, quod est dimidium latine, et [holon], quod est totum, quasi continens totum et dimidium sui totius. Et ex hoc nascitur symphonia, quae appellatur diapente.</p>
+      <p id="MURTON0004">Duplarius numerus, cum de duobus numeris minor bis in maiore mensuratur, ut sunt 4. ad 2. et dicitur a duo, et plico eas, ut patet, et ex hoc nascitur symphonia, quae appellatur diapason.</p>
+      <p id="MURTON0005">Triplaris numerus est, cum de duobus numeris minor ter in maiore mensuratur, ut sunt 3. ad 1. Patet unde dicatur. Et ex hoc nascitur symphonia, quae compositione dicitur diapason cum diapente.</p>
+      <p id="MURTON0006">Quadruplaris numerus est, cum de duobus numeris minor quater in maiore mensuratur, ut sunt 4. ad 1. Patet unde dicatur. Et ex hoc nascitur symphonia, quae appellatur bis diapason.</p>
+      <p id="MURTON0007">
+      <pb n="[309]" />Epogdous numerus est, qui intra se minorem et insuper eius octavam partem (continet), ut sunt 9. ad 8. Aliter vocatur iste numerus secundum Boetium sesquioctavus; et dicitur epogdous ab [epi] quod est supra, et [octo] quod est octo, quasi continens totum et insuper eius octavam partem. Ex hoc autem secundum musicos nascitur tonus. Sonum vero tono minorem veteres quidem semitonium vocitare voluerunt. Sed non ita accipiendum est, ut dimidius tonus putetur: quia nec semivocalem in litteris pro medietate vocalis accipimus. Denique tonus per naturam sui in duo dividi sibi aequalia non patitur; cum enim ex novenario numero constet; novem autem numquam aequaliter dividantur, tonus in duas dividi medietates recusat, id est, non habet aliquod medium, quod aequa proportione se habeat ad extrema, quia tonus dividitur in duo inaequalia, minus et maius. Sed semitonium vocaverunt sonum tono minorem, quem tam parum distare a tono deprehensum est, quantum hi duo numeri inter se distant, id est 243. et 256. id est 13. Qui numerus octies ductus medietatem 243. non videtur implere. Nam illa ex conciliatione 104. efficiunt, qui nequaquam medium 243. continebit. Hoc semitonium Pythagorici quidem veteres diesim nominabant. Sed sequens usus sonum semitonio minorem diesim constituit nominandum. Plato semitonium limma vocavit. Sed omnibus his consideratis patet in sequentibus palam, quid sit tonus et semitonium maius et minus, et partitio eiusdem.</p>
+      <p id="MURTON0008">De tono quid sit secundum diversas considerationes et de eius partitione et partibus.</p>
+      <p id="MURTON0009">Consequenter dicendum esset de semitonio; sed quia semitonium minus est quam tonus, et caetera.</p>
+      <p id="MURTON0010">Aliter definitur: tonus est spatium inter duos unisonos, continens in se duo semitonia, vel spatium duorum semitoniorum. Aliter: tonus est ascensio, vel descensio unius vocis ad alteram vocem propinquam, dividendo sic: ut re, re ut,</p>
+      <p id="MURTON0011">Aliter: tonus est regula, quae de omni cantu ecclesiastico in fine diiudicat, et non principio, hac ratione, quia vox finalis est excellentior aliis vocibus; et alia ratione, quia antiphonae et responsa, caeterique cantus ecclesiastici non tam veraciter seu perfecte cognoscuntur in principio sicut in fine, secundum quod dicit Ptolomaeus, quod a fine denominandum est unumquodque.</p>
+      <p id="MURTON0012">Sequitur adhuc, quid sit tonus secundum litteram, qui vocatur enchiridion Hubaldi. Tonus est, cum vox ab alia seu gravi seu acuto sono modico deflectitur, aut eregitur intervallo, veluti unius puncti direptione, ita ut omnino earum divisionem facile auditus advertat: estque tonus spatium ipsarum duarum vocum sibi taliter cohaerentium, non voces ipsae, videlicet quae non aliud sunt, quam soni, secundum quod inter eas est intervallum. In quolibet 
+      <pb n="[310]" />autem instrumento musico huius exemplum inter duas primas chordas bene dumtaxat dispositas, vel in hydraulia inter duas primas fistulas habes; similiter in hac probare poteris antiphona. Ite dicite Iohanni. Item tonus est quaedam percussio aeris indissoluta usque ad auditum, sicut de gravi ad acutum, videlicet de G. ad a. et e contra, et dicitur a tono tonas et caetera. Aliter: tonus est legitimum acuminis vel gravitatis spatium inter sonum a sonum, continens in se duo semitonia, et non semitonos. Aliter Boetius: Tonus dicitur ex duobus semitoniis minoribus et commate constare: nam si totus tonus ex apotome constat et semitonio, semitonium vero ab apotome distat commate, nihil est aliud apotome, nisi semitonium minus et comma. Si igitur duo semitonia minora de tono quis auferat, comma fit reliquum.</p>
+      <p id="MURTON0013">De partibus toni.</p>
+      <p id="MURTON0014">Sunt autem istae partes toni: diesis, limma, asma vel semitonium minus, quod idem est; comma, apotome, semitonium maius, et diaschisma. Diesis sive semitonium minus continet in se duo diaschismata. Comma continet in se duo schismata. Apotome continet in se diesim et unum comma. Item secundum dicta Hugonis in libri suo, qui vocatur Nepos, semitonium maius continet in se diesim et unum schisma, hoc est, medietatem commatis cum diesi. Philosophus igitur haec et his minora spatia talibus definitionibus includit.</p>
+      <p id="MURTON0015">Diesis, inquit, est spatium, quo maior est sesquioctava proportio duobus schismatibus et duobus diaschismatibus, vel uno apotome.</p>
+      <p id="MURTON0016">Comma vero est spatium, quo maior est sesquioctava proportio duabus diesibus, et duobus minoribus semitoniis. Schisma vero est dimidium spatium commatis.</p>
+      <p id="MURTON0017">Diaschisma est medietas dieseos, id est, minor semitonio. Ex quibus illud colligitur, quod totus tonus dividitur primitus in semitonium minus atque apotome: dividitur etiam in duo semitonia minora et unum comma, quo fit, ut dividatur in quatuor diaschismata et unum comma. Integrum vero dimidium toni, quod maius semitonium dicitur, constat ex quatuor diaschismatibus, vel ex duabus diesibus, quae faciunt unum semitonium minus, et uno schismate, quod est dimidium spatium commatis.</p>
+      <p id="MURTON0018">Item Hugo de partitione toni.</p>
+      <p id="MURTON0019">Quoniam totus tonus ex duobus semitoniis minoribus et commate est coniunctus, si quis id integrum dividere velit, faciat unum semitonium minus in duo diaschismata, dimidium vero commatis, id est, unum asma. Recte igitur dictum est, integrum dimidium toni in duo diaschismata atque unum schisma posse patiri: quo fit, ut integrum dimidium toni, id est, semitonium maius, a minore semitonio uno schismate differat, vel differe videatur. Apotome autem a minore semitonio duobus schismatibus differt; differt enim uno commate, si duo schismata unum comma perficiunt.</p>
+      <p id="MURTON0020">Item idem Hugo de partitione toni.</p>
+      <p id="MURTON0021">Nota, quod totus tonus dividitur in semitonium minus et apotome. Ad habendum intellectum huius divisionis notandum 
+      <pb n="[311]" />est, quod totus tonus potest dividi in octo diaschismata, ex quibus duo semitonia integra vel maiora constituuntur. Sed nota, quod aliud est semitonium maius, aliud semitonium minus. Et ad habendum hanc divisionem nota, quod duo diaschismata efficiunt unum schisma, et unum schisma diesim, quod idem est, quod semitonium minus. Et duo semitonia minora efficiunt unum semitonium maius, quia ex divisione diaschismatum semitonium maius efficitur ex quatuor diaschismatibus: et ita ex duobus semitoniis maioribus efficitur tonus integer.</p>
+      <p id="MURTON0022">Sed aliud est semitonus et aliud semitonium: semitonus dicitur imperfectus tonus, et dicitur a semus, sema, semum, quod idem est ac non plenus; et iterum semiditonus quasi imperfectus ditonus. Sed semitonium dicitur a semis indeclinabile, quod patet ex definitione toni. Definitur autem tonus sic, sicut supra patet, tonus est legitimum acuminis vel gravitatis spatium inter sonum in sonum, continens in se duo semitonia et non semitonos. Et hoc idem apparet per Boetium et etiam per Guidonem dicentem: tonus ab intonando nomen accepit, quia maiori voci, id est, tono novem, minori voci, id est, semitono octo passus constituit. Et ita sicut dicitur semitonium maius et minus, ita dicitur tonus maior et minor.</p>
+      <p id="MURTON0023">Item idem Hugo, et intendit dicere, quod in diatessaron et diapente sit semitonium maius.</p>
+      <p id="MURTON0024">Viso quid sit tonus, quot et quales partes eius, quid sit semitonium maius et minus, quid sit semitonium et semitonus, quid tonus maior et minor; apparet, quod vox sive sonus sive spatium, quod est inter maiorem tonum et minorem, hoc est, in sesquioctava proportione sive tono novenario, dicitur tonus: et istius toni semitonium maius recto intervallo tenet directe medietatem, ut patet per praedicta, et secundum dicta quorumdam posterius manifestabitur. Et licet veri doctores, quibus cedo, et meus dominus Thomas dicat: diapason constituitur ex duabus proportionibus, videlicet diatessaron et diapente, constat autem diatessaron ex duobus tonis et semitonio minore; diapente constat ex tribus tonis et semitonio minore; unde diapason constat ex quinque tonis et duobus semitoniis minoribus, qui non faciunt plenum tonum, et hi errant, qui aliter intelligunt. Ita dicto tanto viro sive dictis eius non contradico, nec est meae intentionis contradicere, ipsi veraciter cedendum est, et expertis; non enim valeo profunditatem suorum dictorum attingere; verba sunt Hugonis. Sed ut quaedam secundum quosdam doctores possunt concipi, sic possunt et proferri: unde hoc videtur posse probari per numerum relatum ad locum, ut in monochordo patet, quod ibi sit semitonium maius, vel integrum dimidium toni tale, quale dictum est. Et ut hoc clarius videatur, tonos, et semitonia, et horum partes voluimus explicare. Quidquid tamen hic dicatur, dictis peritorum assentio: et haec praedicta sunt dicta venerabilis Hugonis.</p>
+      <p id="MURTON0025">
+      <pb n="[312]" />Tonus formularis dicitur spatium unius vocis, continens in se duo semitonia.</p>
+      <p id="MURTON0026">Tonus novenarius est iste, quem facit nota novem partium.</p>
+      <p id="MURTON0027">Tonus meses est, qui neque authenticam elevationem habet, neque plagalem depositionem.</p>
+      <p id="MURTON0028">Tonus continuus dicitur, qui per B. rotundum G. cogit sonare protum, A. deuterum, seipsa tritum.</p>
+      <p id="MURTON0029">Hi sex formantur sex motus et variantur.</p>
+      <p id="MURTON0030">Ut cum re plene modulatur, mi quoque cum re.</p>
+      <p id="MURTON0031">Voce sonat plena fa cum sol, sol quoque cum la.</p>
+      <p id="MURTON0032">Dantque semi mi, fa, nec plenus tonus infra.</p>
+      <p id="MURTON0033">B. rotundum sive molle Graecis nunc dicitur synemmenon, id est, adiunctum.</p>
+    </body>
+  </text>
+</TEI>

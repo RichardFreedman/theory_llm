@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>[De discantu]</title>
+        <title type="abbrev">ANODIS_MOBB842</title>
+        <author>Anonymous</author>
+        <date notBefore="1300" notAfter="1399">14th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>T</resp>
+        <persName>Peter M. Lefferts</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Michael W. Lundell</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1995</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Oxford, Bodleian Library, MS Bodley 842 (S.C. 2575), f. 76r.
+</bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANODIS_MOBB8420001">
+      <pb n="[f.76r]" />quinta et descendat per unam vocem erit in octaua vel incipiat in tercia et ascendat per unam et erit in octaua.</p>
+      <p id="ANODIS_MOBB8420002">[staff3]</p>
+      <p id="ANODIS_MOBB8420003">Quando cantus descendit per quinque voces discantus in unisono incipiens ascendit per duas voces et erit in octaua vel. incipiat in quinta et ascendat per duas et erit in duodecima</p>
+    </body>
+  </text>
+</TEI>

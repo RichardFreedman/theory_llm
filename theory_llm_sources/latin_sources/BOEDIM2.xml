@@ -1,0 +1,774 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>De institutione musica, liber secundus</title>
+        <title type="abbrev">BOEDIM2</title>
+        <author>Boethius, Anicius Manlius Severinus</author>
+        <date notBefore="500" notAfter="799">6th-8th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Stephen E. Hayes</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Peter M. Lefferts</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Bradley Jon Tucker</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1994</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>Patrologia cursus completus, series latina</emph>, ed. J. P. Migne, 221 vols. (Paris: Garnier, 1844-1904), 63:1195–1224.
+</bibl>
+        <bibl type="work">
+          
+<title>Anicius Manlius Severinus Boethius: De institutione musica libri V</title>
+          
+<idno type="LML">BOETH. mus.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">A-LIs Cod. 597, 2 (Fragments)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">A-Wn Cod. 50, 49-135v (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">A-Wn Cod. 51, 4-34v (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">A-Wn Cod. 55, 93-167 (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">A-Wn Cod. 299, 1-86</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">A-Wn Cod. 2269, 153-172v (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">A-Wn Cod. 15470, 1-6v, 7-10v (Fragments)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">AUS-Msl Cod. 091/B 63 (Phillipps 3345), 1-49 (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Br 5444/6, 41v-98</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Br 10114/6, 2v-75 (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Br 18397, 47-59v (Fragments)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Br II 6188, 1-86v (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-BRgs Ms. 110/80, 1-59v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-BRs 528, 47v-50v, 51</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-BRs 531, 1-51v (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">CH-BEb A 94.11, 1-2 (Fragments)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">CH-CObodmer 111, 42-45v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">CH-E 298, 23-145 (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">CH-E 358, 145-270 (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">CH-SGv 296, 47-108</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">CH-SH 108 (olim 106), 4-131v (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">CZ-Pu IX. C. 6, 64-135v (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">CZ-Pu XIX. C. 26, 41-135v (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-BAps Rep. 29/2, 1, 2 (Fragments)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-BAs Class. 9, 49-150</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-BAs Varia 1, 41v-42, 42r-v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-BHFr without shelfmark, I-IIv (Fragments)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-DS 1988, 178v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-ERu 66, 35-84v (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-ERu 2112.18, 1-2v (Fragments)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-KA K 504, 32r-v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-KNa W 331, 1v-189 (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-KNd 187, 33-56v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 367, 63-123v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 6006, 167-170 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 6361, 1v-58 (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 13021, 97-150</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 14272, 1v-62 (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 14465, 1-67v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 14523, 52v-117</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 14601, 41-52v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 18478, 61-115 (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 18480, 157-217 (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 18914, 32r, 33-38 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Rp 98, 364-368, 382-383 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Sl HB XI 33, 2-77v (Fragments)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-St. Blasien without shelfmark, o</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-TRb Hs. Abt. 95, 6, 93 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-W 72 Gud. Lat. 2°, 1-50 (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">E-Bac Ripoll 42, 6v-38v, 42 (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">E-Mn 9088, 41-94v (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">E-SAu 525, 525</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-AL 2, 119v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-AL 15, 139v-140 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-AUT 46 (olim 40 B), 1-64 (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-AVR 236, 1-82bis</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-AVR 237, 1-76</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-CA 172, 16va-b (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-CHRm 48, 1-87v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-CHRm 498, 125-140 (Fragments)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-CSS 32, 1-52</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-CV 184, 154v-167r (Fragments)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-LA 38 bis, 53-84</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 7181, 82v-136v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 7185, 125, 126-177</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 7199, 1-82v (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 7200, 1-93v (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 7201, 1-63</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 7202, 1-50 (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 7203, 8-104</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 7204, 1-51</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 7206, 1-46v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 7297, 55-92 (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 7361, 57-103</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 8663, 51v-57 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 10275, 1v-77 (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 13020, 1-58v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 13955, 60-105v (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 14080, 1-64 (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 16201, 83-124v (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 16652, 43-95 (Fragments)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 18514, 1-85</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Nouv. acq. lat. 1618, 1-69 (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-SAU 3, 4-58v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-SOM 738, 738 (Fragments)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ccc 260, 1-2v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Cssc 31, 98-119 (Fragments)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ctc R.15.22, 5-101v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Cu Ii. 3. 12, 61v-134v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Lbl Add. 22315, 65v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Lbl Arundel 77, 6v-62 (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Lbl Burney 275, 359v-390</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Lbl Harley 957, 1-2, 32r-v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Lbl Harley 3595, 50-56v (Extraits+ Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Lbl Harley 5237, 1-42v (Fragments)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Lbl Lansdowne 842 A-B, 107-163v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Lbl Royal 15.B.IX, 3-49v (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Llp 67, 96-172 (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ob Ashmole 1524, 57-101</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ob Auct. F.3.13, 67-90 (Fragments)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ob Canon. Class. Lat. 273, 1-62v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ob Seld. supra 25, 45-92v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Obac 306, 46-88v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Obac 317, 4-66</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Occ 118, 3-55v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Occ 224, 69v-113, 142-188v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ojec 4, 59-77 (Fragments)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Omc Lat. 19, 1v-78</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Otc 1, 1-85</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Otc 47, 71v-100v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-CATc D 39, 44-115v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-CEc S. XXVI.1, 61v-132v (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fl Ashburnham 1051, 96-135v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fn II. I. 406, 6-39v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-IVc 52, 41-86</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Lg 361, 3-66v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Ma C. 128 inf., 47-94 (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Ma Q. 9 sup., 1-60v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Mt N.646, 48-157</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Nf 166.XV.IV, 1-41v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Nn V.A.14, 49-109</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Pca 414, 35-79v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rli Rossi 231, 1-83v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat lat. 5904, 1-115</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat Ottob. 1815, 1-76</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat Ottob. 2069, 82v-119</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat Pal. lat. 1342, 1-104</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat Reg. lat. 1005, 1-38 (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat Reg. lat. 1146, 65v-66 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat Reg. lat. 1283, 111r-v (Extraits+ Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat Reg. lat. 1638, 1-125 (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat Reg. lat. 1840, 1-55v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Tn G.IV.31, 41-95v (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-VEcap 208, 4-37 (Fragments)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Vnm Lat. Z. 271 (1642), 67-145v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Vnm Lat. Z. 333 (1648), 70v-151v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Vnm Lat. Z. 334 (1649), 61-104v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Vnm Lat. Z. 497 (1811), 155 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">L-Ln I:21, 1v-11v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">NZ-Wt MSR-05, 2v-81</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">PL-Kj 1861, 8-90v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">PL-WRu I.Q.43, 139 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">US-CAh Ms. Typ. 10, 1-61</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">US-Cn Case Ms. f. 9, 1-62v (Texte + Glossa maior)</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="BOEDIM20001">
+      <pb n="[1195]" />Liber secundus.</p>
+      <p id="BOEDIM20002">Caput primum.</p>
+      <p id="BOEDIM20003">Prooemium.</p>
+      <p id="BOEDIM20004">Superius volumen cunctas digessit, quae nunc diligentius explicanda esse proposui; itaque priusquam ad ea veniam quae propriis rationibus perdocenda, sunt, pauca praemittam, quibus elucubratior animus auditoris ad ea quae dicenda sunt accipienda perveniat.</p>
+      <p id="BOEDIM20005">Caput II.</p>
+      <p id="BOEDIM20006">Quid Pythagoras esse philosophiam constituerit.</p>
+      <p id="BOEDIM20007">Primus omnium Pythagoras sapientiae studium philosophiam nuncupavit, quam scilicet ejus rei notitiam ac disciplinam ponebat, quae proprie vereque esse diceretur. Esse autem illa putabat quae nec intentione crescerent, nec diminutione decrescerent, 
+      <pb n="[1196]" />nec ullis accidentibus mutarentur. Haec autem esse formas, magnitudines, qualitates, habitudines, caeteraque quae per se speculata immutabilia sunt, juncta vero corporibus permutantur, et multimodis variationibus mutabilis rei cognatione vertuntur.</p>
+      <p id="BOEDIM20008">Caput III.</p>
+      <p id="BOEDIM20009">De differentiis quantitatis, et quae cui disciplinae sit deputata.</p>
+      <p id="BOEDIM20010">Omnis vero quantitas secundum Pythagoram vel continua, vel discreta est. Sed quae continua est magnitudo appellatur, quae discreta est multitudo. Quorum haec est diversa et contraria pene proprietas. Multitudo enim a finita inchoans quantitate, crescens in infinita progreditur, ut nullus crescendi finis occurrat. Estque ad minimum terminata, interminabilis 
+      <pb n="[1197]" />ad majus, ejusque principium unitas est, qua minus nihil est. Crescit vero per numeros atque in infinita protenditur, nec ullus numerus, quo minus crescat, terminum facit. Sed magnitudo finitam rursus suae mensurae recipit quantitatem, sed in infinita decrescit. Nam si sit pedalis linea, vel cujuslibet alterius modi, potest in duo aequa dividi, ejusque medietas in medietatem secari, ejusque rursus medietatis in aliam medietatem, ut nunquam ullus secandi magnitudinem terminus fiat. Ita magnitudo quantum ad majorem modum terminata est, fit vero cum decrescere coeperit infinita. At contra numerus, quantum ad minorem modum finitus est, infinitus autem incipit esse cum crescit. Cum igitur haec ita sint infinita, tamen quasi de rebus finitis philosophia pertractat, inque rebus infinitis reperit aliquid terminatum, de quo possit jure acumen prpriae speculationis adhibere. Namque magnitudinis alia sunt immobilia, ut terra, ut quadratum, vel triangulum, vel circulus. Alia sunt mobilia, ut sphaera mundi, et quidquid in eo rata celeritate convertitur. Discretae vero quantitatis alia sunt per se, ut tres vel quatuor, vel caeteri numeri; alia vero ad aliud, ut duplum, triplum, aliaque quae ex comparatione nascuntur. Sed immobilis magnitudinis geometria speculationem tenet. Mobilis vero scientiam astronomia persequitur. Per se vero discretae quantitatis arithmetica auctor est. Ad aliquid vero relatae musica probatur obtinere peritiam.</p>
+      <p id="BOEDIM20011">Caput IV.</p>
+      <p id="BOEDIM20012">De relatae quantitatis differentiis.</p>
+      <p id="BOEDIM20013">Ac de ea quidem quantitate discreta quae per se est in arithmetica sufficienter diximus. Relatae vero ad aliquid quantitatis simplicia quidem genera tria sunt: unum quidem multiplex, aliud vero superparticulare, tertium superpartiens. Cum vero multiplex superparticulari superpartientique miscetur, fiunt duae aliae ex his, id est multiplex superparticularis, et multiplex superpartiens. Horum igitur omnium talis est regula, si unitatem cunctis in naturali numero volueris compare, ratus multiplicis ordo texetur. Duo enim ad unum duplus est, tres ad eumdem triplus, quatuor quadruplus, et in caeteris eodem modo, ut subjecta descriptio docet.</p>
+      <p id="BOEDIM20014">[PLLXIII:1197; text: Differentiae unius ab alio numero. Ordo naturalis. 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, duplus, Triplus, quadruplus, Quitiplus, Sextuplus, Septuplus, Octuplus, Noncuplus, Decuplus] 
+      <figure>
+        <graphic url="/images/BOEDIM2_01GF.gif" />
+      </figure></p>
+      <p id="BOEDIM20015">Si vero superparticularem proportionem quaeras, naturalem 
+      <pb n="[1198]" />sibi compara numerum, detracta scilicet unitate, ut tres duobus sesquialter est, quatuor tribus, qui sesquitertius est, quinarius quaternario sesquiquartus est, et in caeteris eodem modo, quod monstrat subjecta descriptio.</p>
+      <p id="BOEDIM20016">[PLLXIII:1198,1; text: Sesquialter, Sesquiquartus, Sesquisextus, 2, 3, 4, 5, 6, 7, Sesquitertius, Sesquiquintus]</p>
+      <p id="BOEDIM20017">Superpartienties autem tali modo reperies. Disponas naturalem numerum a ternario scilicet inchoantem. Si unum igitur intermiseris, superbipartientem effici pernotabis; quod si duo, supertripartientem; quod si tres, superquadripartientem, idemque in caeteris.</p>
+      <p id="BOEDIM20018">[PLLXIII:1198,2; text: Superbipartiens, Superquadriparties, 3, 4, 5, 6, 7, 8, 9, Supertripartions]</p>
+      <p id="BOEDIM20019">Ad hunc ordinem spectans et compositas ex multiplici et superparticulari, et ex multiplici et superpartienti proportiones, lector diligens speculabitur. Sed de his tamen omnibus in arithmeticis expeditius dictum est.</p>
+      <p id="BOEDIM20020">Caput V.</p>
+      <p id="BOEDIM20021">Cur multiplicitas antecellat.</p>
+      <p id="BOEDIM20022">Sed in his illud est considerandum quod multiplex inaequalitatis genus longe duobus reliquis videtur antiquius. Naturalis enim numeri dispositio, in multiplicibus unitati quae prima est, comparatur. Superparticularis vero non unitatis comparatione perficitur sed ipsorum, qui post unitatem sunt dispositi numerorum, ut ternarii ad binarium, quaternarii ad ternarium, et in caeteris ad hunc modum. Superpartientium vero longe retro formatio est, quae nec continuis numeris comparatur, sed intermissis, nec semper aequali 
+      <pb n="[1199]" />intermissione. Sed nunc quidem una, nunc vero duabus, nunc tribus, nunc quatuor, atque ita in infinita succrescit. Amplius multiplicitas ab unitate incipit, superparticularitas a binario, superpartiens proportio a ternario initium capit. Sed de his hactenus; nunc quaedam quae quasi axiomata Graeci vocant, praemittere oportebit, quae tum demum quo spectare videantur intelligemus, cum de uniuscujusque rei demonstratione tractabimus.</p>
+      <p id="BOEDIM20023">Caput VI.</p>
+      <p id="BOEDIM20024">Qui sint quadrati numeri deque his speculatio.</p>
+      <p id="BOEDIM20025">Quadratus numerus est qui gemina dimensione in aequa concreverit, ut bis duo, ter tres, quater quatuor, quinquies quinque, sexies sex, quorum est ista descriptio:</p>
+      <p class="textFig" id="BOEDIM20026">
+      <lb />2&#160;&#160;3&#160;&#160;&#160;4&#160;&#160;&#160;5&#160;&#160;&#160;6&#160;&#160;&#160;7&#160;&#160;&#160;8&#160;&#160;&#160;9&#160;&#160;&#160;10
+      <br />4&#160;&#160;9&#160;&#160;16&#160;&#160;25&#160;&#160;36&#160;&#160;49&#160;&#160;64&#160;&#160;81&#160;&#160;100
+      <lb /></p>
+      <p id="BOEDIM20027">Superius igitur dispositus numerus naturalis, latus est quadratorum inferius descriptorum. Continuum enim naturaliter sunt quadrati, qui sese in subjecto ordine consequuntur, ut 4, 9, 16, et caeteri.</p>
+      <p id="BOEDIM20028">[PLLXIII:1199,1; text: 4, 2, 9, 3, 16, 4, 25, 5, 36, 6, Bases quadratorum.] 
+      <figure>
+        <graphic url="/images/BOEDIM2_02GF.gif" />
+      </figure></p>
+      <p id="BOEDIM20029">Si igitur continuum quadratum minorem a continuo quadrato majore sustulero, quod relinquitur tantum erit quantum est quod ab utrorumque quadratorum lateribus jungitur; ut si quatuor auferam a novenario, quinque sunt reliqui, qui ex duobus et tribus, qui sunt utrorumque quadratorum latera, conjunguntur. Item si novenarium aufero de eo qui sedecim numeris ascriptus est, 7 sunt reliqui, qui scilicet ex ternario quaternarioque conjunctus est, qui praedictorum qnadratorum latera sunt. Idemque est in caeteris.</p>
+      <p id="BOEDIM20030">[PLLXIII:1199,2; text: 7, 2, 5, 25, 4, 21, senarius, tonus, 16, 12, tonus sedecimus, 9, tonus novenarius]</p>
+      <p id="BOEDIM20031">Quod si non sint continui quadrati, sed unus inter eos transmissus sit, fit ejus quod relinquitur medietas, id quod ex utriusque lateribus efficitur, ut si quaternarium de 16 quadrato auferamus, 12 relinquuntur, quorum 12 medietas est is numerus qui ex utrorumque lateribus conventi. Sunt autem utrorumque latera, duo et quatuor, quae senarium juncta perficiunt Atque in caeteris idem modus est. Sin vero duo irtermittantur, tertia pars erit ejus quod relinquitur, id quod utrorumque latera conjungunt, ut si quatuor de 25 auferam, intermissis duobus quadratis, relinqui 21 sunt. Eorum vero latera sunt 2 et 5 qui efficiunt 7, qui sunt pars tertia numeri 21. Atqne haec regula est, ut si tres intermissi sint, pars quarta sit, id quod ex utrorumque lateribus efficitur ejus 
+      <pb n="[1200]" />quod subtracto minore a majore relinquitur. Sin quatuor transmittantur, quinta, atque uno plus vocabulo numeri partes venient, quam sit intermissio numerorum.</p>
+      <p id="BOEDIM20032">Caput VII.</p>
+      <p id="BOEDIM20033">Ommem inaequalitatem ex aequalitate procedere, ejusque demonstratio.</p>
+      <p id="BOEDIM20034">Est autem quemadmodum unitas pluralitatis numerique principium, ita aequalitas proportionum. Tribus enim praeceptis (ut in arithmetica dictum est) multiplices proportiones ex aequalitate producimus, ex conversis vero multiplicibus superparticulares habitudines procreamus. Item ex conversis superparticularibus, superpartientes comparationes efficimus. Ponantur enim tres unitates, vel tres binarii, vel tres ternarii, vel quotlibet aequi termini, et sit primus primo aequus in sequenti scilicet ordine constitutus. Secundus vero primo ac secundo, tertius primo, duobus secundis ac tertio, ita enim numero progresso, fit duplex multiplicitatis prima proportio, ut haec subjecta descriptio monet.</p>
+      <p class="textFig" id="BOEDIM20035">
+      <br />1&#160;&#160;1&#160;&#160;1
+      <lb />1&#160;&#160;2&#160;&#160;4
+      <br /></p>
+      <p id="BOEDIM20036">Nam unitas in secundo ordine constituta, aequa est primae unitati in superiore loco dispositae. Item binarius aequus est unitati primae ac secundae. Item quaternarius aequus est unitati primae, ac duabus unitatibus secundis atque unitati tertiae et est 1, 2, 4, dupla proportio. Quod si de his idem feceris, tripla comparatio procreabitur, ac de tripla quadrupla, de quadrupla quincupla, ac deinceps talis currit habitudinum procreatio. Rursus hisdem tribus praeceptis superparticulares fiunt, ut uno probamus exemplo. Convertamus nunc, et priorem majorem numerum disponamus 4, 2, 1; ponatur igitur primus primo aequus, id est 4; secundus primo scilicet et secundo, id est 6; tertius primo, duobus secundi, et tertio, id est 9; quibus dispositis sesquialtera notatur esse proportio.</p>
+      <p id="BOEDIM20037">[PLLXIII:1200,1; text: 4, 2, 1, 6, 9, Sesquialtera]</p>
+      <p id="BOEDIM20038">Atque id si de triplis fiat, sesquitertia; se de quadruplis sesquiquarta, consimilibusque in alterutra parte vocabulis proportionalitas ex multiplicitate nascetur, ex superparticularitate vero conversa ducitur superpartiens habitudo. Disponatur enim conversim sesquialtera comparatio, 9, 6, 4. Ponatur enim primus primo aequus, id est 9; secundus primo et secundo, id est 15; tertius primo duobus secundis ac tertio, id est 25; ac disponantur in ordinem hoc modo:</p>
+      <p id="BOEDIM20039">[PLLXIII:1200,2; text: 9, 6, 4, 5, 25, Superbipartiens]</p>
+      <p id="BOEDIM20040">Superbipartiens igitur ex conversis sesquialteris habitudo 
+      <pb n="[1201]" />producta est; quod si quis ad hanc speculationem diligens scrutator accedat, ex sesquitertiis conversis supertripartientem producit, caeterisque similibus vocabulis adaequatis cunctas ex superparticularitate superpartientis species procreari mirabitur. Ex non conversis autem superparticularibus, sed ita ut ex multiplici procreati sunt, manentibus, necesse est multiplices superparticulares creari. Ex manentibus vero superpartientibus, ita ut ex superparticularibus prodierunt, non alii nisi multiplices superpartientes procreabuntur. Ac de his quidem hactenus, diligentius enim in Arithmeticae libris de hac comparatione est disputatum.</p>
+      <p id="BOEDIM20041">Caput VIII.</p>
+      <p id="BOEDIM20042">Regula quotlibet continuas proportiones superparticulares inveniendi.</p>
+      <p id="BOEDIM20043">Saepe autem accidit ut tres, vel quatuor, vel quotlibet aequas superparticularium proportiones de musica disputator inquirat. Sed ne in casu atque inscitia facientes, error ullus difficultatis impediat, hac regula quotlibet aequas proportiones ex multiplicitate ducemus. Unusquisque multiplex ab unitate scilicet computatus, tot superparticulares habitudines praecedit, suae scilicet in contrariam partem denominationis, quotus ipse ab unitate discesserit. Hoc modo ut duplex sesquialteras antecedat, triplex sesquitertias, quadruplex sesquiquartas, ac deinceps in hunc modum. Sit igitur duplorum subjecta descriptio.</p>
+      <p class="textFig" id="BOEDIM20044">
+      <lb />1&#160;&#160;&#160;2&#160;&#160;&#160;4&#160;&#160;&#160;8&#160;&#160;&#160;16&#160;&#160;&#160;&#160;32
+      <br />&#160;&#160;&#160;&#160;3&#160;&#160;&#160;6&#160;&#160;12&#160;&#160;&#160;24&#160;&#160;&#160;&#160;48
+      <lb />&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;9&#160;&#160;18&#160;&#160;&#160;36&#160;&#160;&#160;&#160;72
+      <br />&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;27&#160;&#160;&#160;54&#160;&#160;&#160;108
+      <lb />&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;81&#160;&#160;&#160;162
+      <br />&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;243
+      <lb /></p>
+      <p id="BOEDIM20045">In superiore igitur descriptione binarius primus multiplex, unum ad se ternarium habet, qui possit facere sesquialteram proportionem. Ternarius vero non habet talium qui ejus possit esse sesquialter, quoniam medietate deficit. Rursus quaternarius secundus est duplex, hic duos sesquialteros antecedit senarium et novenarium, qui medietate caret. Atque idcirco nullus ei habitudine sesquialtera comparatur, et in caeteris idem est. Tripli vero eodem modo sesquitertios creant; sit enim similis in triplo descriptio.</p>
+      <p id="BOEDIM20046">[PLLXIII:1201; text: Latitudo. In latitudine et unoquoque ordine tripli. 1, 3, 9, 27, 81, 4, 12, 36, 108, 16, 48, 144, 64, 192, 236, Superas ad proximos inferos sesquitertii. Quadruplares omnes et diagonii]</p>
+      <p id="BOEDIM20047">In superiore igitur descriptione sesquitertias proportiones ita natas videmus, ut primus triplex unum sesquitertium antecedat, secundus duos, tertius tres, 
+      <pb n="[1202]" />semperque pars tertia in ultimo numero naturali quodam fine claudatur. Quod si quadruplum statueris eodem modo, sesquiquartos invenies, si quincuplum sesquiquintos. Ac deinceps singuli denominationis multiplicis tot superparticulares praecedunt, quoto loco ipsi a se unitate discesserint. Unam vero tantum quadrupli dispositionem ponemus, ut in ea sicut in caeteris lector diligens acumen mentis exerceat.</p>
+      <p id="BOEDIM20048">[PLLXIII:1202; text: Latitudo, Quadrupli in latitudine. 1, 4, 16, 64, 236, 5, 20, 80, 320, 25, 100, 400, 125, 500, 625, Sesquiquarti superni ad inferos proximos. Quincupli omnes diagonii] 
+      <figure>
+        <graphic url="/images/BOEDIM2_03GF.gif" />
+      </figure></p>
+      <p id="BOEDIM20049">Haec igitur speculatio ad hanc utilitatem videtur inventa, ut quotienscunsque 4 vel 5, vel quotlibet sesquialteros, vel sesquitertios, vel sesquioctavos, vel quotlibet alias proportiones quis investigare voluerit, nullo errore labatur, utque non ei numero primo tales proportiones quaerat aptare, qui quanti sint propositi, tot praecedere, et post se habere non possit. Sed disponat potius multiplices, videatque quantos superparticulares requirit, eumque multiplicem respiciat, qui eo loco ab unitate recesserit, ut est in superioribus descriptionibus, si tres sesquialteros fortasse quaesierit, non a quaternario ingrediatur investigationem. Hic enim, quoniam secundus est duplus, duos tantum praecedit, tertiumque ei aptare non poterit, sed ut ab octonario medietates tentet apponere. Hic enim quoniam tertius est, tres quas quaerit sesquialteras proportiones efficiet, et in caeteris eodem modo. Est etiam alia augendi proportiones via hoc modo: Radices proportionum dicuntur in eisdem comparationibus minimae proportionis. Disponatur enim numerus naturalis, unitate multiplicatus.</p>
+      <p id="BOEDIM20050">2 3 4 5 6 7</p>
+      <p id="BOEDIM20051">Minimae igitur proportiones sunt, ut in sesqualtera 3 ad 2, in sesquitertia 4 ad 3, in sesquiquarta 5 ad 4, et deinceps in infinitum, et quaecunque se proportiones unitate praecesserint. Propositum igitur sit duas sesquialteras proportiones continua comparatione producere. Sumo radicem sesquialteram, eamque dispono, 2 et 3. Multiplico igitur binarium per binarium, fiunt 4. Item ternarius per binarium crescat, erunt 6. Rursus lernarium in semetipsum ducemns, fiunt 9, qui disponuntur hoc modo:</p>
+      <p id="BOEDIM20052">2 3 4 6 9</p>
+      <p id="BOEDIM20053">Invenimus igitur duas propositas sesquialteras proportiones 6 ad 4, et 9 ad 6. Sit nunc propositum tres invenire. Dispono eosdem numeros quos supra in exquirendis duabus sesquialteris habitudinibus proposueram, ipsasque sesquialteras proportiones 
+      <pb n="[1203]" />Multiplico binario quaternarium, fiunt octo. Rursus senarium binario, fiunt 12. Rursus novenarium binario, fiunt 18. Rursus novenarium ternario, fiunt 27. Disponantur igitur hoc modo:</p>
+      <p class="textFig" id="BOEDIM20054">
+      <br />2&#160;&#160;&#160;&#160;3
+      <lb />4&#160;&#160;&#160;&#160;6&#160;&#160;&#160;&#160;6
+      <br />8&#160;&#160;&#160;12&#160;&#160;&#160;18&#160;&#160;&#160;28
+      <lb /></p>
+      <p id="BOEDIM20055">Atque hic modus erit in caeteris, ut si sesquitertias proportiones velis extendere, ponas sesquitertiorum radices, quae sunt quaternarius atque ternarius ad se invicem comparati.</p>
+      <p class="textFig" id="BOEDIM20056">
+      <br />3&#160;&#160;&#160;&#160;4
+      <lb />9&#160;&#160;&#160;12&#160;&#160;&#160;16
+      <br />27&#160;&#160;&#160;&#160;&#160;&#160;&#160;27&#160;&#160;&#160;48&#160;&#160;&#160;64
+      <lb /></p>
+      <p id="BOEDIM20057">Atque ad hunc modum multiplices, quod si sesquiquartas sesquiquartorum dispones radices eademque multiplicatione sesquiquartos quotlibet extendes. Quantum autem nobis hae considerationes prosint, sequens ordo monstrabit.</p>
+      <p id="BOEDIM20058">Caput IX.</p>
+      <p id="BOEDIM20059">De proportione numerorum qui ab aliis metiuntur.</p>
+      <p id="BOEDIM20060">Si duos numeros eorum differentia integre fuerit permensa, in eadem sunt proportione numeri, quos sua differentia mensa est, in qua erunt proportione etiam hi numeri secundum quos eos sua mensa est differentia. Sint enim numeri 50, 55; hi ergo ad se invicem sesquidecima habitudine comparantur, et est eorum differentia quinarius, qui scilicet est pars decima numeri 50. Hic igitur metietur quidem 50 numerum decies, 55 vero undecies; secundum decem igitur atque 11 numeros 55 et 50 propria differentia, id est quinarius, permetietur, et sunt 11 ad 10 sesquidecima comparatione compositi. In eadem igitur sunt proportione numeri quos propria differentia integra permensa est, in qua sunt hi secundum quos eos propria differentia est permensa; quod si qua differentia numerorum ita eos numeros quorum est differentia metiatur, ut eamdem mensuram numerorum pluralitas excedat, idemque in utrisque sit excessus, et sit diminutior differentiae mensura, quam est pluralitas numerorum, majorem obtinebunt proportionem ad se invicem numeri, si ei illud quod relinquitur post mensionem, retractum sit, quam fuerunt integri, cum eos propria differentia metiebatur. Sint enim numeri duo 33, 58; hos igitur quinarius, qui est eorum differentia, metiatur. Metitur igitur 55 quinarius decies usque ad 50, relinquit vero ternarium. Rursus 58 numerum metitur idem undecies usque ad 55, atque in eo iterum ternarium derelinquit. Auferatur igitur ex utrisque ternarius, fiunt 50 et 55, qui disponatur hoc modo:</p>
+      <p id="BOEDIM20061">53 58 50 55</p>
+      <p id="BOEDIM20062">In hoc igitur manifestum est majoris esse proportionis inter se 50 et 55 quam 53 et 58. In minoribus enim numeris major semper proportio reperitur, 
+      <pb n="[1204]" />quod paulo posterius demonstrabimus. Sin vero illa differentiae permensio numerorum multitudinem supervadat, eademque utrosque numeri pluralitate praetereat, minores erunt proportiones nnmeri superius mensi cum additione ejus summae quae utrosque metiens differentia supervadit, quam fuerunt ante, cum eos propria differentia metiebatur. Sint enim numeri 48 et 53, horum quinarius differentia est. Metiatur igitur 48 numerum, quinarius decies fiunt 50. Supervadit igitur 50 numerus 48 numerum binario, idem quinarius 53 undecies metiatur fiunt 55, qui eisdem rursus duobus 53 numerum supervadit; addatur utrisque binarius et disponantur hoc modo:</p>
+      <p id="BOEDIM20063">48 53 50 55</p>
+      <p id="BOEDIM20064">Minores igitur sunt proportiones 50 ad 55 comparati, cum additione scilicet binarii quo differentia eos metiens supervadit, quam 48, et 53 numeri quos eadem, quae tamen in eis supercrevit, quinarii differentia permensa est. Majores vero et minores proportiones hoc modo intelliguntur. Dimidia pars major est quam tertia. Tertia pars est major quam quarta. Quarta pars major est quam quinta, ac deinceps eodem modo. Unde fit ut sesquialtera proportio major sit sesquitertia, et sesquitertia sesquiquartam vincat. Atque idem in caeteris. Hinc evenit ut in numeris majoribus minor, et minoribus major semper videatur proportio superparticularium numerorum. Quod apparet in numero naturali: disponatur enim numerus naturalis 1, 2, 3, 4. Binarius igitur ad unitatem duplus est. Ternarius ad binarium sesquialter est. Quaternarius vero ad ternarium sesquitertius. Majores vero sunt numeri tres et 4. Minores vero binarius et unitas: in majoribus igitur minor, et in minoribus major proportio continetur: hinc apparet quod si aliquid numeris proportionem continentibus superparticularem, aequa pluralitas addatur, majorem esse proportionem ante aequae pluralitatis augmentum, quam posteaquam eis aequa sit addita pluralitas.</p>
+      <p id="BOEDIM20065">Caput X.</p>
+      <p id="BOEDIM20066">Quae ex multiplicibus et superparticularibus multiplicitate fiunt.</p>
+      <p id="BOEDIM20067">Illud etiam praetermittendum non videtur, quod paulo post demonstrabitur, si multiplex intervallum binario fuerit multiplicatum, id etiam quod ex illa multiplicatione nascetur multiplex esse. Quod si id quod ex tali multiplicatione procreatum sit non fuerit multiplex, tunc illud non esse multiplex, quod binario fuerit multiplicatum. Item si superparticularis proportio binario multiplicetur, id quod fit neque superparticulare esse, neque multiplex. Quod si id quod ex tali multiplicatione nascetur, neque multiplex, neque superparticulare est, tunc illud quod binario multiplicatum est, vel superparticularis vel alterius generis est, non vero multiplicis.</p>
+      <p id="BOEDIM20068">
+      <pb n="[1205]" />Caput XI.</p>
+      <p id="BOEDIM20069">Qui superparticulares quos multiplices efficiant.</p>
+      <p id="BOEDIM20070">His illud est addendum duos primos superparticulares primam efficere multiplicem proportionem, ut sesquialter et sesquitertius si conjungantur duplicem creant. Sint enim numeri 2, 3, 4, 3 ad 2 sesquialter est, 4 ad 3 sesquitertius, quatuor ad duo duplus. Rursus primus multiplex primo additus superparticulari secundum multiplicem creat. Sint enim numeri 2, 4, 6; 4 namque ad 2 duplex est, primus scilicet multiplex. At 6 ad 4 sesquialter, qui est primus superparticularis; 6 ad duos triplus, qui secuudus est multiplex: quod si triplum sesquitertio addas, quadruplus efficitur; si quadruplum sesquiquarto, quincuplus. Atque in hunc modum junctis proportionibus multiplicium ac superparticularium, in infinitum multiplices procreantur.</p>
+      <p id="BOEDIM20071">Caput XII.</p>
+      <p id="BOEDIM20072">De arithmetica, geometrica, harmonica medietate.</p>
+      <p id="BOEDIM20073">Quoniam vero de proportionibus quae erant interim tractanda praediximus, nunc de medietatibus est dicendum. Proportio enim est duorum ad se terminorum quaedam comparatio, terminos autem voco nnmerorum summas. Proportionalitas est aequarum proportionum collectio. Proportionalitas vero in tribus terminis minimis constat. Constat autem plerumque in pluribus, ut in quatuor vel in sex terminis. Cum enim primus ad secundum terminum eamdem retinet proportionem quam secundus ad tertium, dicitur haec proportionalitas. Estque inter tres terminos medius, qui secundus est. Has igitur proportiones medii termini conjungentis, trina partitio est- Aut enim aequa est differentia minoris termini ad medium, et medii ad maximum, sed non aequa proportio, ut in his numeris 1, 2, 3; inter unum quippe ac duo et inter duo et tres tantum unitas differentiam tenet. Non est autem aequa proportio. Duo quippe ad unum dupli sunt, ternarius ad duo sesquialter. Aut est aequa proportio iu utrisque, non vero aequalibus differentiis constituta, ut in his numeris 1, 2, 4. Nam duo ad unum ita sunt dupli, quemadmodum quaternarius ad binarium. Sed inter quaternarium binariumque binarius, inter binarium atque unitatem unitas differentiam facit. Est vero tertium medietatis genus, quod neque eisdem proportionibus neque eisdem differentiis constat. Sed quemadmodum se habet maximus terminus ad minimum, ita sese habet majorum terminorum differentia ad minorum differentiam terminorum, ut in his numeris 3, 4, 6. Nam sex ad 3 duplus est, inter sex vero 4 binarius interest. Inter quaternarium vero ac ternarium unitas. Sed binarius comparatus ad unitatem rursus duplus est; ergo ut est maximus terminus in numeris ad minimum, ita majorum differentia ad minorum differentiam terminorum. Vocatur igitur illa medietas, in qua aequae sunt differentiae, arithmetica. Illa vero in qua aequae proportiones, geometrica. Illa autem quam 
+      <pb n="[1206]" />tertiam descripsimus, harmonica. Quarum haec subjiciamus exempla:</p>
+      <p id="BOEDIM20074">[PLLXIII:1206; text: Arithmetica, Geometrica, Harmonica, 1, 2, 3, 4, 6, aequae differentiae, aequae proportiones, diversae differentiae et proportiones]</p>
+      <p id="BOEDIM20075">Non vero ignoramus alias quoque esse proportionum medietates, quas quidem in arithmetica diximus; sed ad praesentem tractatum hae sunt interim necessariae. Sed inter has tres medietates proportionalitas quidem proprie, et maxime geometrica nuncupatur, idcirco quoniam aequis proportionibus tota contexitur. Sed tamen eodem utemur promiscue vocabulo, proportionalitates etiam caeteras nuncupantes.</p>
+      <p id="BOEDIM20076">Caput XIII.</p>
+      <p id="BOEDIM20077">De continuis medietatibus et disjunctis.</p>
+      <p id="BOEDIM20078">Sed in his alia continua est proportionalitas, alia disjuncta. Continua quidem, ut superius disposuimus. Unus enim idemque numerus medius, nunc quidem majori supponitur, nunc quidem minori praeponitur. Quotiens vero duo sunt medii, tunc disjuncta proportionalitas nuncupatur, ut in geometrica hoc modo, 1, 2, 3, 6. Nam ut est binarius ad unitatem, ita senarius ad ternarium, et vocatur haec disjuncta proportionalitas; unde intelligi potest continuam quidem proportionalitatem in tribus et minimis terminis inveniri, disjunctam vero in 4. Potest autem in 4 et in pluribus continua esse proportionalitas, siquidem hoc modo sit, 1, 2, 4, 8, 16. Sed hic non erunt duae proportiones, sed plures, semperque una minus quam sint termini constituti.</p>
+      <p id="BOEDIM20079">Caput XIV.</p>
+      <p id="BOEDIM20080">Cur ita appellatae sint digestae superius medietates.</p>
+      <p id="BOEDIM20081">Idcirco autem una eorum medietas arithmetica nuncupatur, quod inter terminos, secundum numerum aequa est differentia. Geometrica vero secunda dicitur, quod similis est qualitas proportionis. Harmonica autem vocatur, quoniam ita est coaptata, ut in differentiis ac terminis aequalitas proportionum consideretur. Et de his quidem diligentius in arithmeticis disputatum est, nunc vero ut commemoremus, tantum ista percurrimus.</p>
+      <p id="BOEDIM20082">Caput XV.</p>
+      <p id="BOEDIM20083">Quemadmodum ab aequalitate supradictae processerant medietates.</p>
+      <p id="BOEDIM20084">Sed paulisper quemadmodum istae proportionalitates ab aequalitate procreantur dicendum est. Praedictum est enim quod in numero valet unitas, idem in proportionibus aequalitatem valere, et sicut numeri caput est unitas, ita proportionum aequalitatem esse principium. Quocirca hoc modo arithmetica medietas ab aequalitate nascetur: positis enim tribus aequis terminis, hi duo modi sunt quibus haec proportionalitas producatur. Ponatur enim primus primo aequus. Secundus primo et secundo. Tertius primo secundo ac tertio, quod hoc monstratur exemplo: Sint unitates tres. Ponatur igitur primus primo aequus 
+      <pb n="[1207]" />id est unus. Secundus primo ac secundo, id est duo. Tertius primo secundo ac tertio, id est tres, eritque dispositio talis:</p>
+      <p class="textFig" id="BOEDIM20085">
+      <br />1&#160;&#160;1&#160;&#160;1
+      <lb />1&#160;&#160;2&#160;&#160;3
+      <br /></p>
+      <p id="BOEDIM20086">Rursus sint tres binarii inaequalitate constituti, 2, 2, 2: ponatur primus primo aequus, id est 2. Secundus primo et secundo, id est 4. Tertius primo secundo ac tertio, id est 6, et erit dispositio haec:</p>
+      <p class="textFig" id="BOEDIM20087">
+      <lb />2&#160;&#160;2&#160;&#160;2
+      <br />2&#160;&#160;4&#160;&#160;6
+      <lb /></p>
+      <p id="BOEDIM20088">Sed in his hoc speculandum est, quod si unitas fuerit ad aequalitatis principium constituta, unitas etiam erit in differentiis numerorum, ipsi vero numeri inter se nullum intermittunt. Si vero binarius teneat aequalitatem, binarius est differentia, et unus inter terminos semper numerus intermittitur. Sin vero ternarius idem differentia est, inter terminos vero duo naturaliter constituti intermittentur, ac deinceps in hunc modum.</p>
+      <p class="textFig" id="BOEDIM20089">
+      <br />3&#160;&#160;3&#160;&#160;3
+      <lb />3&#160;&#160;6&#160;&#160;9
+      <br /></p>
+      <p id="BOEDIM20090">Est etiam alia proportionalitatem arithmeticam procreandi via. Ponantur enim tres aequi termini, constituaturque primus primo ac secudo aequus, secundus primo ac duobus secundis, tertius primo et duobus secundis ac tertio, ut si sint tres unitates. Sit primo primo ac secundo aequus, id est secundo, Secundus vero primo, ac duobus secundis, id est tertio. Tertius autem primo, duobus secundis ac tertio, id est quatuor,</p>
+      <p class="textFig" id="BOEDIM20091">
+      <lb />1&#160;&#160;1&#160;&#160;1
+      <br />2&#160;&#160;3&#160;&#160;4
+      <lb /></p>
+      <p id="BOEDIM20092">Hic igitur terminorum differentiam unitas tenet; inter binarium enim et unitatem, atque inter ternarium ac binarium, unitas interest. Nullus vero naturalis numerus intermittitur. Post unitatem enim mox binarius est, ac post binarium ternarius naturaliter constitutus, idem rursus in binario fiat. Sintque tres binarii, et sit primus primo ac secundo aequus, id est quaternarius; secundus vero primo et duobus secundis, id est senarius; tertius autem primo, duobus secundis ac tertio, id est octonarius.</p>
+      <p class="textFig" id="BOEDIM20093">
+      <br />2&#160;&#160;2&#160;&#160;2
+      <lb />4&#160;&#160;6&#160;&#160;8
+      <br /></p>
+      <p id="BOEDIM20094">Hic quoque binarius tenet differentiam terminorum, uno inter eos naturaliter intermisso. Nam inter 4 et 6 quinarius naturaliter intermittitur, inter 6 atque 8 septenarius collocatur. Quod si ternarius aequalitatis principium sit, fiet ternarius differentia; verbi gratia: Sint termini tres ad regulas superiorum subtus.</p>
+      <p class="textFig" id="BOEDIM20095">
+      <lb />3&#160;&#160;3&#160;&#160;&#160;3
+      <br />6&#160;&#160;9&#160;&#160;12
+      <lb /></p>
+      <p id="BOEDIM20096">In his ergo ternarius est differentia, et duo numeri intermissi, id est uno minus quam sit differentia semper 
+      <pb n="[1208]" />numeris intermissis, atque idem et in quaternario, quinarioque perspicitur, et quae nos propter brevitatem tacemus, iisdem regulis ex semetipso diligens lector inveniet. Geometrica vero proportionalitas tunc quemadmodum inveniri ab aequalitate possit ostendimus, quando quemadmodum ab aequalitate omnis inaequalitas profluit monstrabamus, nisi tamen fastidium est, nunc quoque breviter repetendum est. Constitutis enim tribus aequis terminis, ponatur primus primo aequus. Secundus primo ac secundo. Tertio primo duobus secundis ac tertio. Idemque fiat continue atque ita ex aequalitate geometrica proportionalitas principium sumat. Sed de harum proportionum proprietatibus quam diligentissime in arithmeticis diximus; quod si ad haec illis instructus lector accedat, nullo dubitationis errore turbabitur. Harmonica vero medietas, de qua nunc paulo latius tractandum est, hac ratione procreatur. Constituatur enim, siquidem duplices curamus effingere, tribus aequis terminis positis, primus primo ac duobus secundis aequalis. Secundus duobus primis et duobus secundis. Tertius semel primo, bis secundo, et ter tertio. Atque hoc modo sint unitates.</p>
+      <p class="textFig" id="BOEDIM20097">
+      <br />1&#160;1&#160;1
+      <lb /></p>
+      <p id="BOEDIM20098">Constituatur igitur primus primo ac duobus secundis aequalis, id est ternarius. Secundus vero duobus primis et duobus secundis, id est quaternarius. Tertius vero primo ac duobus secundis et tribus tertiis, id est sex. Et si in binariis aequalitas construatur, vel in ternariis eadem ratio medietatis apparet, duplo a se terminis differentiisque distantibus, ut subjectae descriptiones monent.</p>
+      <p class="textFig" id="BOEDIM20099">
+      <br />1&#160;&#160;&#160;1&#160;&#160;&#160;1
+      <lb />3&#160;&#160;&#160;4&#160;&#160;&#160;6
+      <br />2&#160;&#160;&#160;2&#160;&#160;&#160;2
+      <lb />6&#160;&#160;&#160;8&#160;&#160;12
+      <br />3&#160;&#160;&#160;3&#160;&#160;&#160;3
+      <lb />8&#160;&#160;12&#160;&#160;18
+      <br /></p>
+      <p id="BOEDIM20100">Quod si facienda est in extremitatibus tripla proportio, tribus aequis terminis constitutis, primus quidem faciendus est ex primo ac secundo, secundus vero ex primo ac duabus secundis, tertius autem ex primo, duobus secundis ac tribus tertiis, ut est subjecta descriptio.</p>
+      <p class="textFig" id="BOEDIM20101">
+      <lb />1&#160;&#160;1&#160;&#160;&#160;1
+      <br />2&#160;&#160;3&#160;&#160;&#160;6
+      <lb />2&#160;&#160;2&#160;&#160;&#160;2
+      <br />4&#160;&#160;6&#160;&#160;12
+      <lb />3&#160;&#160;3&#160;&#160;&#160;3
+      <br />6&#160;&#160;9&#160;&#160;18
+      <lb /></p>
+      <p id="BOEDIM20102">Sed ingressi harmonicam disputationem, quae de ea diligentius dici possunt tacite praetereunda esse non arbitror. Collocetur igitur harmonica proportionalitas, inque ea descriptione superiore ordine terminorum inter se differentiae disponantur.</p>
+      <p id="BOEDIM20103">
+      <pb n="[1209]" />[PLLXIII:1209,1; text: Differentiae, 1, 2, Termini, 3, 6, Diatessarion, Sesquitertia, Sesquialtera, Diapente, Dupla Diapason]</p>
+      <p id="BOEDIM20104">Videsne igitur ut quatuor ad tres diatessaron consonantiam prodant, sex ad quatuor diapente concordent; sex vero ad tres diapason misceant symphoniam, ipsaeque earum differentiae rursus eamdem statuant consonantiam. Binarius enim ad unitatem duplus est in diapason consonantia constitutus; quod si se extremitates multiplicent, itemque medius sui multiplicitate succrescat, comparati numeri toni habitudinem concordiamque servabunt. Ter enim sex efficiunt 18, quater fient 16. Sed 18 numerus, 16 numerum minoris parte octava transcendit. Rursus minimus terminus si se ipse multiplicet, efficiet 9. Quod si major terminus sui multiplicatione concrescat, efficiet 36, qui sibimet comparati, quadruplam, id est bis diapason, concinentiam servant. Quod si haec diligentius inspiciamus, haec erit omnis rei differentiarum vel terminorum in se invicem multiplicatio. Minimus enim terminus, si medio multiplicetur, fient 12. Item minimus terminus, si maximo multiplicetur, fient 18. Medius vero terminus, si maximi numerositate augeatur, fiant 24. Rursus terminus minimus, si seipso concrescat, fient 9, Eodem modo si medius, fiant 16. Senarius vero, qui maximus est, si seipsum multiplicet, 36 reddet: haec igitur in ordinem disponantur, 36, 24, 18, 16 12, 9.</p>
+      <p id="BOEDIM20105">[PLLXIII:1209,2; text: 9, 16, 36, 3, 4, 6, 12, 24, 18]</p>
+      <p id="BOEDIM20106">Sunt igitur diatessaron consonantiam resonantes 24 ad 18, et 12 ad 9, diapente vero 18 ad 12, et 24 ad 16, et 36 ad 24. Tripla autem quae est diapason et diapente 36 ad 12. Quadrupla vero quae est bis diapason 36 ad 9. Epogdous vero qui tonus est 18 ad 16 comparatione servatur.</p>
+      <p id="BOEDIM20107">
+      <pb n="[1210]" />[PLLXIII:1210; text: Diapafon et Diapente, Diapason, Diateffaron, Tonus, Diatessaron, 36, 24, 18, 16, 12, 9, Diapente, Bis diapafon] 
+      <figure>
+        <graphic url="/images/BOEDIM2_04GF.gif" />
+      </figure></p>
+      <p id="BOEDIM20108">Caput XVI.</p>
+      <p id="BOEDIM20109">Quemadmodum inter duos terminos supradictae medietates vicissim collocentur.</p>
+      <p id="BOEDIM20110">Solent autem duo termini dari proponique, ut inter eos nunc quidem arithmeticam, nunc vero geometricam, nunc harmonicam medietatem ponamus; de quibus in arithmeticis quoque diximus, id tamen ipsum nunc etiam breviter explicemus. Si arithmetica medietas quaeritur, datorum terminorum videnda differentia est, eademque dividenda ac minori termino adjicienda. Sint enim decem et 40 altrinsecus termini constituti, horumque medietas secundum arithmeticam proportionalitatem quaeratur. Differentiam prius utrorumque respicio, quae est 30; hanc divido, fiunt 15; hanc minori termino, id est decem appono, fiunt 25. Si igitur hic inter 10 et 40 medius collocetur, fit arithmetica proportionalitas hoc modo, 10, 25, 40. Item inter eosdem terminos medietatem geometricam collocemus. Extremos propria numerositate multiplico, ut 10 in 40 fiunt 400; horum tetragonale latus assumo, fiunt viginti. Vicies enim viginti fiunt 400. Hos igitur 20 medios inter 10 ac 40 si collocem, fit geometrica medietas subjecta descriptione formata, 10, 20, 40. Si vero harmonicam medietatem quaeramus, sibimetipsos copulamus extremos, ut 10 et 40 fient 50. Eorum differentiam quae est 30 in minorem terminum multiplicemus, scilicet in 10, ut fiant decies 30, qui sunt 300; hos si secundum 50 partimur, fiunt 6. Quos cum minori termino addiderimus, fient 16. Hunc igitur numerum si inter 10 ac 40 medium collocemus, harmonica proportionalitas expedietur 10, 16, 40.</p>
+      <p id="BOEDIM20111">Caput XVII.</p>
+      <p id="BOEDIM20112">De consonantiarum modo secundum Nicomachum.</p>
+      <p id="BOEDIM20113">Sed his hactenus. Nunc illud addendum videtur quemadmodum Pythagorici probant consonantias musicas in praedictis proportionibus inveniri, in qua re scilicet eis Ptolemaeus non videtur assensus, de quo paulo posterius dicemus. Haec enim ponenda est maxime esse prima suavisque consonantia, cujus 
+      <pb n="[1211]" />proprietatem sensus apertior comprehendit. Quale enim est unumquodque per semetipsum, tale et deprehenditur sensu. Si igitur cunctis notior est ea consonantia quae in duplicitate consistit, non est dubium primam esse omnium diapason consonantiam, meritoque excellere, quoniam cognitione praecedat. Reliquae vero hunc necessario secundum Pythagorico, ordinem tenent, quem dederint multiplicitas augmenta et superparticularis habitudinis detrimenta. Monstratum quippe est quod multiplex inaequalitas superparticulares proportiones meriti antiquitate transcendat. Quocirca naturalis numerus ab unitate usque ad quaternarium disponatur, 1, 2, 3, 4. Igitur unibinarius comparatus proportionem duplicem facit, et reddit diapason consonantiam eam, quae est maxima, ei simplicitate notissima. Si vero unitati ternarius comparetur, diapason ac diapente concordiam personabit. Quaternarius vero unitati comparatus quadruplam tenet, scilicet bis diapason efficiens symphoniam; quod si ternarius binario comparetur, diapente. Si vero quaternarius ternario diatessaron consonantiam supplet, isque est horum ordo cunctis ad se invicem comparatis. Nam comparatio quae restat, si quaternarium binario comparemus, cadet in duplicem proportionem, quam tenebat ad unitatem binarius comparatus; itaque maxime distant soni in bis diapason cum a se quadrupla intervalli dimensione discedunt. Minimum vero, cum acutior graviorem tertia gravioris parte transcendit, ac stat deinceps concinentiarum modus, qui neque ultra quadruplam possit extendi, neque intra partem tertiam coarctari; et secundum Nicomachum quidem hic consonantiarum est ordo, ut sit prima diapason, secunda diapason et diapente, tertia bis diapason, quarta diapente, quinta diatessaron.</p>
+      <p id="BOEDIM20114">Caput XVIII.</p>
+      <p id="BOEDIM20115">De ordine consonantiarum sententia Eubulidis et Hippasi.</p>
+      <p id="BOEDIM20116">Sed Eubulides atque Hippasus alium consonantiarum ordinem ponunt: aiunt enim multiplicatis augmenta superparticularitatis diminutioni rato ordine respondere. Itaque non posse esse duplum nisi dimidium, nec triplum praeter tertiam partem. Quoniam igitur sit duplum, ex eo diapason consonantiam reddi. Quoniam vero sit dimidium, ex eo quasi contraria divisione sesquialteram, id est diapente, effici proportionem. Quibus mixtis, scilicet diapason ac diapente, triplicem procreari, quae utramque contineat symphoniam, sed rursus triplicis partem tertiam contraria divisione partiri. Ex que rursus diatessaron symphonia nascetur. Triplicem vero atque sesquitertium junctos quadruplam comparationem proportionis efficere; unde fit ut ex diapason et diapente quae est una consonantia, et diatessaron una continentia conjungatur, quae in quadruplo consistens bis diapason nomen accepit. Secundum hos quoque hic ordo est: Diapason, diapente, diapason ac diapente, diatessaron, bis diapason.</p>
+      <p id="BOEDIM20117">
+      <pb n="[1212]" />Caput XIX.</p>
+      <p id="BOEDIM20118">Sententia Nicomachi quae quibus consonantiis apponantur.</p>
+      <p id="BOEDIM20119">Sed Nicomachus non eamdem esse eis arbitratur contrariam positionem. Sed potius ut unitas in arithmeticis crementi erat diminutionisque principium, ita etiam diapason symphoniam reliquarum esse principium, illas vero sibi contraria divisione posse constitui; id vero facilius erit cognitu si prius praevideatur in numeris. Constituatur igitur unitas, duaeque partes ab ea fluant, una multiplicis, alia divisionis. Sitque haec formula:</p>
+      <p id="BOEDIM20120">[PLLXIII:1212; text: Dimidium, Pars 3, Pars 4, Pars 5, Pars 6, I, II, III, IV, V, VI]</p>
+      <p id="BOEDIM20121">Et ad hunc modum ad infinita progressio est. Binarius enim unitatis duplex est. Contraria vero ejus pars eisdem dimidium unitatis ostendit. Tres triplus et contraria pars tertia. Quatuor quadruplus, parsque et contraria quarta. Atque ita crescendi et decrescendi in simplici est unitate principium. Idem igitur nunc ad consonantias convertamus. Est igitur diapason quae dupla est supremi loco principii, quae vero reliquae sunt, in contraria divisione hoc modo. Sesquialter quidem triplo, sesquitertius vero quadruplo quod tali argumentatione probabitur. Idem enim primum est sesquialter, qui primus triplus principalis, scilicet unitatis. Nam ternarius idem primus triplus est, scilicet unitati. Idem primus sesquialter, si binario comparetur. Rursus idem ternarius ejusdem differentiae quam ad binarium facit, cujus naturaliter positus probatur esse sesquialter, triplus est. Cum igitur jure sesquialter triplici opponatur, diapente consonantia, diapente ac diapason consonantiae rationabiliter putatur opponi. Rursus quadruplus sesquitertii contrariam divisionem tenet. Nam qui est primus quadruplus, idem rursus primus sesquitertius invenitur hoc modo. Quaternarius quippe primus est quadruplus, si unitati primus sesquitertius, si ternario comparetur. Rursus ejus differentiae, quam inter se ac ternarium tenet, ipse fit quadruplus. Unde fit ut sesquitertia proportio, quae est diatessaron, quadruplae proportioni, quae est bis diapason, in contrarium dividatur. Dupla vero quoniam nullam habet oppositam proportionem, nec ullius ipsa sesquialtera est, aut exstat numerus cui possit binarius, qui primus est duplus, superparticulari proportione conjungi, talem formam contrariae proportionis excedit. Atque idcirco secundum Nicomachum diapason consonantiarum principium teneat hoc modo.</p>
+      <p id="BOEDIM20122">
+      <pb n="[1213]" />[PLLXIII:1213; text: Diapason. Diapente et diapason. Diapente. Bisdiapason. Diatessaron.]</p>
+      <p id="BOEDIM20123">Sed quamvis ita sese habeat, inquit tamen omnes melius multiplices proportiones consonantiarum praecedere, superparticulares sequi, sicut paulo ante descripsimus. Cum igitur consonantia sit duarum vocum rata permixtio, sonus vero modulatae vocis casus, una intentione productus, sitque idem minima particula modulationis, omnis vero sonus constet impulsu. Pulsus vero omnis ex motu fiat, cumque motuum aliqui sint aequales, alii vero inaequales, inaequalium vero alii sint multo inaequales, alii vero minus, alii vero mediocriter inaequales. Ex aequalitate quidem nascitur sonorum aequalitas. Ex inaequalitate vero ea quae secundum mediocritatem distantiae inaequales sunt, manifestae, primaeque ac simpliciores eveniunt proportiones, quae sunt scilicet multiplices aut superparticulares, dupli, tripli, quadrupli, sesquialteri, atque sesquitertii consonantiae. Ex his vero quae in reliquis proportionibus, vel multimodis, vel non ita claris, vel longe omnino a se distantibus inaequalitates fiunt, dissonantiae existunt. Nulla autem sonorum concordia procreatur.</p>
+      <p id="BOEDIM20124">Caput XX.</p>
+      <p id="BOEDIM20125">Qui oporteat praemitti ut diapason in multiplici genere demonstretur.</p>
+      <p id="BOEDIM20126">Hoc igitur ita distincto, demonstrabitur diapason consonantiam quae cunctarum optima est in multiplici inaequalitatis genere, et in duplicitalis habitudine reperiri. Ac primum quidem illus demonstrandum, quemadmodum in multiplicitatis genere diapason consonantia possit agnosci. Praecurrendum est igitur ad breve quiddam, quo prius cognito facilior demonstratio fiat: ab omni superparticulari, si continuam ei superparticularem quis auferat proportionem; quae est scilicet minor, id quod relinquitur minus est ejus medietate, quae detracta est proportionis, ut in sesquialtera ac sesquitertia. Quonirm sesquialtera major est, sesquitertiam de sesquialtera detrahamus, relinquitur sesquioctava proportio quae duplicata non efficit integram sesquitertiam proportionem sed ea distantia minor est quae in semitonio reperitur; quod si duplicata sesquioctava comparatio non est integra sesquitertiae, simplex sesquioctava non est sesquitertiae proportionis plena medietas; quod si sesquiquartum sesquitertio auferas, id quod relinquitur medietatem sesquiquarti non efficit, idemque in caeteris.</p>
+      <p id="BOEDIM20127">Caput XXI.</p>
+      <p id="BOEDIM20128">Demonstratio per impossibile diapason in multiplici genere esse.</p>
+      <p id="BOEDIM20129">Age nunc ad diapason consonantiam redeamus. 
+      <pb n="[1214]" />Quod si ea non est in multiplici genere inaequalitatis, cadet in superparticulare inaequalitatis genus. Sit igitur superparticularis proportio diapason consonantia. Auferatur ab ea continua consonantia, id est diapente, relinquitur diatessaron. Bis igitur diatessaron minus est uno diapente, et ipsum diatessaron non implet diapente consonantiae medietatem, quod est impossibile. Monstrabitur enim bisdiatessaron tono ac semitonio consonantiam diapente transcendere. Quocirca nec diapason quidem in superparticulari inaequalitatis genere poni potest.</p>
+      <p id="BOEDIM20130">[PLLXIII:1214; text: Tonus, Differentia 32, Semitonium, Differentia 13, Differentia 27, Differentia 24, 288, 256, 243, 216, 192, Diapente, 69, Diatessaron, 64] 
+      <figure>
+        <graphic url="/images/BOEDIM2_05GF.gif" />
+      </figure></p>
+      <p id="BOEDIM20131">Caput XXII.</p>
+      <p id="BOEDIM20132">Demonstratio per impossible diapente diatessaron et tonum in superparticulari esse.</p>
+      <p id="BOEDIM20133">Restat igitur ut diapente ac diatessaron, et tonum, in superparticularitate ponenda esse monstremus. Nam etsi id in prima quoque probatione ea qua diapason in superparticulari genere non esse ponenda monstravimus, id quoque quodam rationis modo perclaruit; sigillatim tamen de eo ac diligentius pertractemus. Nam si in superparticulari quis has habitudines ponendas esse non dixirit, in mutiplici genere fatebitur collocandas. Nam in superpartienti vel caeteris mixtis cur poni non possint, superius (ut arbitror) explanatum est. Ponantur igitur, si fieri potest, in multiplici genere. Et quoniam diatessaron consonantia minor est, diapente major, diatessaron duplici, diapente vero triplici proportioni multiplicitatis aptetur. Verisimile est enim ut est consonantia diatessaron consonantiae, diapente continua. ita si diatessaron in duplici statuitur, diapente incontinua duplicis poni, id est triplici. Tonus autem quoniam in habitudinis musicis post diatessaron locatur, nimirum in ea proportione ponatur, quae est minor duplici. Haec autem in multiplicitatis genere non potest inveniri. Restat igitur ut in superparticularitatis habitudinem cadat. Sit igitur prima, id est sesquialtera, toni proportio. Nam si duplicem auferamus, triplici, quod relinquitur, sesquialter est. Quod si diatessaron 
+      <pb n="[1215]" />quidem duplex est, diapente vero triplum, sublato diatessaron a diapente tonus reliquus fit, nullo modo dubitari potest quin tonus in sesquialtera debeat proportione constitui. Sed duae sesquialterae proportiones duplicem vincunt, quemadmodum ex arithmeticis instructus sibi potest quisque colligere. Duo igitur toni diatessaron superabunt, quod est inconveniens: diatessaron enim duos tonos semitonii spatio transcendit. Non igitur fieri potest ut non diapente ac diatessaron in superparticulari inaequalitatis genere collocetur. Quod si quis tonum quoque in multiplici genere esse perscribat, quoniam quidem tonus minor est quam diatessaron. Diatessaron vero minus est quam diapente, diapente quidem ponatur in quadrupla, diatessaron in tripla, tonus in duplici. Sed diapente constat ex diatessaron et tono. Quadruplum igitur secundum hanc rationem constabit ex triplo ac duplo, quod fieri nequit. Rursus statuatur diatessaron quidem in triplici, et diapente in quadruplo. Si igitur auferamus triplum a quadruplo, sesquitertius relinquetur. Rursus si diatessaron diapente consonantiae subtrahas, fit reliquus tonus. Tonus igitur secundum hanc rationem in sesquitertia proportione constabit. Sed tres sesquitertii uno triplici sunt minores. Tres igitur toni unum diatessaron nulla ratione supplebunt, quod est falsissimum. Duo enim toni ac semitonium minus diatessaron consonantiam supplent. Ex his igitur demonstratur diatessaron consonantiam non esse multiplicem. Dico autem quoniam nec diapente consonantia in multiplici genere poterit collocari. Nam si in eo statuatur, quoniam est ei minor continua, id est diatessaron, non locabitur diapente in minimo multiplici, id est duplici scilicet ut si locus quo diatessaron consonantia possit aptari. Sed diatessaron consonantia multiplicis generis non est. Quocirca nec diapente, in majore habitudine multiplicis quam est dupla quae minima est, aptari potest. Si igitur diapente in minima, scilicet dupla, diatessaron vero, quae minor est, in multiplici quidem aptari non potest. Non est enim quidquam minus a se duplici. Sit igitur sesquialtera, tonus vero sesquitertia, in continua enim proportione locabitur. Sed duo sesquitertii ampliores sunt uno sesquialtero. Duo igitur toni unam diatessaron consonantiam vincent, quod nulla ratione continget. Ex his igitur approbatur diapente ac diatessaron in multiplici genere collocari non posse: quocirca in superparticulari inaequalitatis genere jure ponentur.</p>
+      <p id="BOEDIM20134">Caput XXIII.</p>
+      <p id="BOEDIM20135">Demonstratio diapente et diatessaron in maximis superparticularibus collocari.</p>
+      <p id="BOEDIM20136">Illud quoque addendum necessario est, quoniam si diapente ac diatessaron superparticulares proportiones tenent, in maximis superparticularihus proportionibus collocantur. Sunt autem maxime sesquialtera et sesquitertia. Hoc vero approbabitur hoc modo. Nam si in minoribus proportionibus quam sesquialtera 
+      <pb n="[1216]" />vel sesquitertia diapente ac diatessaron consonantiae collocentur, non est dubium quin sicut aliae quaelibet proportiones superparticulares praeter sesquialteram et sesquitertiam junctae non efficiunt unum duplum, ita diapente ac diatessaron unum diapason nulla ratione concludunt. Quoniam enim diapason in duplici proportione esse monstratum est, duplex vero proportio ex sesquialtero sesquitertioque componitur; diapason vero ex diatessaron ac diapente copulatur, non est dubium quin, si totum diapason in duplici statuatur, diapente et diatessaron in sesquialtera sesquitertiaque proportione sint locandae. Aliter enim non poterunt diapason junctae perficere, quae consonantia in duplici proportione consistit, nisi in his duabus proportionibus steterint sesquialtera scilicet ac sesquitertia. Aliae enim proportiones superpartisulares hanc nulla ratione conjungent.</p>
+      <p id="BOEDIM20137">[PLLXIII:1216; text: Sesquitertius, Sesquioctavus, 6, 8, 9]</p>
+      <p id="BOEDIM20138">Caput XXIV.</p>
+      <p id="BOEDIM20139">Diapente in sesquialtera, diatessaron in sesquitertia esse, tonum in sesquioctava</p>
+      <p id="BOEDIM20140">Dico autem quoniam proprie diapente in sesquialtera, et diatessaron in sesquitertia proportione consistit. Quoniam enim inter utrasque proportiones, sesquialteram scilicet et sesquitertiam, sesquialtera est major et sesquitertia minor, quoniamque in consonantiis diapente major diatessaron minor, apparet majorem proportionem majori, et minorem minori esse consonantiae aptandum. Erit igitur diapente quidem in sesquialtera, diatessaron vero in proportione sesquitertia collocanda. Quod si diatessaron a diapente consonantiam subtrahamus, relinquitur spatium, quod dicitur tonus. Sesquitertium vero si proportioni sesquialterae minuamus, relinquitur sesquioctava proportio. Quo fit ut tonus in sesquioctava debeat ratione constitui.</p>
+      <p id="BOEDIM20141">Caput XXV.</p>
+      <p id="BOEDIM20142">Diapason ac diapente in tripla proportione esse, bis diapason in quadrupla.</p>
+      <p id="BOEDIM20143">Sed quoniam demonstratum est diapason quidem duplam, diapente vero sesquialteram, junctas vero duplam ac sesquialteram triplicem proportionem procreare, ex his etiam apparet diapente ac diapason in triplici proportione constitui. Sed si quis triplici proportioni sesquitertiam habitudinem jungat, quadruplam facit. Igitur si diapente ac diapason consonantiis diatessaron symphonia jungatur, fit quadruplum spatium vocum, quod bis diapason supra esse monstravimus,</p>
+      <p id="BOEDIM20144">
+      <pb n="[1217]" />Caput XXVI.</p>
+      <p id="BOEDIM20145">Diatessaron ac diapason non esse consonantiam secundum Pythagoricos.</p>
+      <p id="BOEDIM20146">Sed in his illud diligens lector agnoscat, quod consonantiae consonantiis suppositae alias quasdam consonantes efficiant. Nam diapente ac diatessaron junctae, diapason (ut dictum est) creant; huic vero, id est diapason rursus si diapente symphonia jungatur, fit consonantia, quae ex utrisque vocabulis nuncupatur, diapason scilicet ac diapente. Cui si diatessaron addatur, fit bis diapason, quae quadruplam proportionem tenet. Quid igitur si diatessaron ac diapason consonantias jungamus, ullamne secundum Pythagoricos efficient consonantiam? Minime. Mox enim in superpartiens inaequalitatis genus cadit, nec servat vel multiplicitatis ordinem, vel superparticularitatis simplicitatem. Age enim statuantur numeri quibus id facilius approbemus: sit enim ternarius, cujus sit senarius, duplus scilicet, in diapason proportione consistens. Huic aptetur sesquitertia quam diatessaron esse praediximus, ut octonarius. Is enim ad senarium diatessaron proportionem tenet, qui octonarius ad ternarium comparatus habet eum bis. Sed ne sit multiplex, habet etiam ejus aliquas partes, neque eas simplices. Duabus enim eum supervenit unitatibus, quae sunt quae tertiae partes ternarii, quem primum terminum minimumque locamus. Sint igitur termini hi, 3, 6, 8.</p>
+      <p id="BOEDIM20147">[PLLXIII:1217; text: Multiplex superbipartiens tertias. Diapason cum Diatessaron dissonantia. 3, 6, 8, Diapason, consonantia, Diatessaron, Dupla, Sesquitertia]</p>
+      <p id="BOEDIM20148">Illud quoque quod inter duas sibi continuas consonantias cadit, etenim neque duplum est integrum, ut diapason consonantiam prodat, neque triplum, ut diapason ac diapente efficiat symphoniam. Cui si tonus addatur, mox triplum modum proportionis efficiet. Quoniam enim diapason ac diapente sibi junctae efficiunt triplum, diatessaron vero et tonus diapente consonantiam jungunt, si diapason consonantia addatur diatessaron, inconsonum fit, quoniam inter duplicem ac triplicem nulla potest naturaliter proportio multiplicitatis intelligi. Quod si ei adjicio tonum, fit diapason, diatessaron, et tonus, quod nihil distabit utrum diapason ac diapente sit. Diatessaron enim et tonus diapente constituunt. Sit enim diapason quidem 3 et 6; diatessaron 6 et 8; tonus 8 et 6; diapente 6 et 6; diapason ac diapente 
+      <pb n="[1218]" />3 ac 9: erit igitur sic tripla proportio 3, 6, 8, 9. Sed quanquam de his multa Nicomachus, nos tamen qua potuimus brevitate partim ea ipsa quae Pythagorici affirmant promentes, partim ex eisdem quaedam consequentia argumentantes, probavimus, si diatessaron consonantiae diapason addatur, consonantiam ex his conjungi non posse. Quid vero sentiat de his Ptolemaeus, posterius apponam. Sed de his hac tenus nunc de semitoniis considerandum est,</p>
+      <p id="BOEDIM20149">[PLLXIII:1218,1; text: on cum Diapente, Diapente, 3, 6, 8, 9, Diapason, dupla, Diatessaron, Sesquitertia, Tonus, Sesquioctava, Diapason cum diatessaron] 
+      <figure>
+        <graphic url="/images/BOEDIM2_06GF.gif" />
+      </figure></p>
+      <p id="BOEDIM20150">Caput XXVII.</p>
+      <p id="BOEDIM20151">De semitanio in quibus minimis numeris constet.</p>
+      <p id="BOEDIM20152">Videntur enim semitonia nuncupata, non quod vere tonorum sint medietates, sed quod sint non integri toni. Hujusque spatii quod nunc quidem semitonium nuncupamus, apud antiquiores autem limma vel diesis vocabatur, hic modus est. Cum enim ex sesquitertia proportione quae diatessaron est, duae sesquioctavae habitudines, quae toni sunt, auferuntur, relinquitur spatium quod semitonium nuncupatur. Quaeramus igitur duos tonos continua dispositione descriptos. Sed, quoniam hi (ut dictum est) in sesquioctava proportione consistunt, duasque sesquioctavas proportiones continuas adhibere non possumus nisi multiplex ille, a quo hae derivari possint, reperiatur, sit unitas prima eique octonarius octuplus primus. Ad hoc igitur unum sesquioctavum potero derivare. Sed quia duos quaerimus, fient octies octo, atque ex eo 64 explicentur. Erit igitur secundus octuplus a quo possumus duas sesquioctavas proportiones educere. Namque octo quae est octava pars 64 unitatum eisdem additi totam summam 72 perficiunt; his vero si sua octava similiter opponatur, quae est novenarius, 81 reddunt. Eruntque duo toni continui principali dispositione conscripti 64, 72, 81.</p>
+      <p id="BOEDIM20153">[PLLXIII:1218,2; text: 64, 72, 81, tonus]</p>
+      <p id="BOEDIM20154">Nunc igitur 64 unitatum sesquitertium conquiramus. Sed quoniam 64 probantur partem tertiam non habere, si omnes hi numeri ternario multiplicentur, mox eis pars tertia contingit, et omnes in eadem proportione durabunt, in qua fuerunt antequam his ternarius multiplicator accederet; fiant igitur ter 64, id est 192, horum tertia 64 eisdem addita 256 reddet, Erit igitur haec sesquitertia proportio diatessaron 
+      <pb n="[1219]" />consonantiam tenens. Nunc igitur quas sesquioctavas proportiones ad 192 duobus numeris continentes rato ordine collocemus; fiant igitur ter 72, id est 216. Rursus ter 81, qui sunt 243, qui inter duos supra scriptos terminos collocentur hoc modo: 192, 216, 243, 256.</p>
+      <p id="BOEDIM20155">[PLLXIII:1219; text: tonus, semitonium, 192, 216, 243, 256, Diatessaron.]</p>
+      <p id="BOEDIM20156">In hac dispositione proportionum, primus numerus ad postremum diatessaron constituit consonantiam. Idem vero primus ad secundum, et secundus ad tertium geminos constituunt tonos. Constat igitur spatium quod relinquitur ex 243 ad 256, in quibus minimi semitonii forma consistit.</p>
+      <p id="BOEDIM20157">Caput XXVIII,</p>
+      <p id="BOEDIM20158">Demonstrationes non esse: 243 ad 256 toni medietatem.</p>
+      <p id="BOEDIM20159">Approbo igitur 253 ad 256 distantiam non esse integram toni medii dimensionem. Etenim ducentorum quadraginta trium et ducentorum 56, differentia 13 tantum unitatibus continetur. Qui tredecim minus quidem quam minoris octavam decimam, plus vero quam nonam decimam obtinent partem. Si enim octies decies tredecim ducas, efficies 234, qui 243 nullo modo aequabit; si decies novies multiplices, supervadent, cum oporteat omne semitonium, si tamen integrum toni dimidium tenet, inter sextam decimam partem ac septimam decimam collocari. Quod posterius demonstrabitur. Nunc illud liquebit talem semitonii distantiam sibimet geminatam, unum toni spatium non posse complere. Age enim ut sese 256 ad 243 habent, tales duas sibimet continuas proportiones, secundum superius descriptam regulam disponamus; 200 enim 50 et et 6 in semetipsos multiplicemus, et sit maximus terminus 65536. Item 243 propria numerositate concrescant, et sit minimus terminus 59049. Rursus igitur 256 ad ducentorum 43 multitudinem concrescant. Erit igitur numerus 62208; hic igitur medius collocetur hoc modo:</p>
+      <p id="BOEDIM20160">65536 62208 59849</p>
+      <p id="BOEDIM20161">In eadem igitur sunt proportione ducenti 56 et 243. In qua 65536 ad 62208; et item 62208 ad 59049. Sed maximus eorum terminus, qui est 65536, ad minimum qui est 59040, unum integrum non efficit tonum. Quod si primi ad secundum proportio, quae est aequa secundi ad tertium proportioni, integri esse semitonii probaretur, duo dimidia juncta unum necessario efficerent tonum. Nunc autem cum non sit extremorum terminorum sesquioctava proportio, manifestum est hae duo spatia proprie tonorum dimidia non videri. Quidquid enim cujuscunque est dimidium, id si duplicetur illud efficit, cujus dicitur esse dimidium. Si vero illud implere non possit geminata particula, minus est parte dimidia. Si vero 
+      <pb n="[1220]" />superfluat ac supervadat, plus est parte dimidia. Praeterea probabuntur 95536 non facere sesquioctavam proportionem. Si 56049 unitatibus comparentur, si octava pars 59049, eisdem secundum eas quae in arithmeticis dictae sunt regulas aggeratur. Quae quoniam integris numeris non consistit, idcirco eamdem octavam partem relinquimus lectorum diligentiae computandam. Liquet igitur eam proportionem quae in 256 et 243 est constituta, non esse integrum dimidium toni; quocirca id quod vere semitonium nuncupatur, pars toni minor est quam dimidia.</p>
+      <p id="BOEDIM20162">[PLLXIII:1220,1; text: Differentiae, 13196, 3328, 3159, 78732, 65536, 62208, 59049, Semiditonus cum comate, Semitonium minus. Diatessaron sesquitertia] 
+      <figure>
+        <graphic url="/images/BOEDIM2_07GF.gif" />
+      </figure></p>
+      <p id="BOEDIM20163">(Pinxissem totum spatium toni. At minimus terminus puta 59049 praecedentem sesquioctavam non habet, cum ipse sit quintus sesquioctavus, quinti octupli. Ut id in figurula ante picta comperies.)</p>
+      <p id="BOEDIM20164">Caput XXIX.</p>
+      <p id="BOEDIM20165">De majore parte toni in quibus minimis numeris constet.</p>
+      <p id="BOEDIM20166">Reliqua igitur pars, quae major est, apotome nuncupatur a Graecis, a nobis vero potest vocari decisio. Id enim natura fert, ut quotiens aliquid secatur, ita ut non aequis partibus dividatur, quanto minor pars dimidio minor est, tanto major pars eadem, quae auctior est, dimidium vincat. Quantum igitur semitonium minus integro dimidio toni minus est, tanto apotome toni integrum superat dimidium et vincit. Et quoniam docuimus semitonium in 256 et 243 principaliter stare, nunc ea quae apotome dicitur, in quibus possit minimis constare numeris approbemus. Si igitur 243 partem recipere octavam possent cum ad eum sesquioctavus numerus comparetur, tunc 256 habitudo ad sesquioctavam summam minimi numeri comparata, apotomen necessaria ratione monstraret. Nunc vero quoniam ei pars octava deesse monstratur, utrique numeri octies fiant. Et ex 243 quidem octies multiplicatis fit numerus 1944. Quibus si propria conferatur octava, qui sunt 243, fient 2187. Rursus 256 per octonarium crescant, fient igitur 2048. Atque hic suprascriptorum terminorum in medio collocetur.</p>
+      <p id="BOEDIM20167">[PLLXIII:1220,2; text: Semitonium minus, Apotome, 104, 139, 1944, 2048, 2187, primus secundus tertius, tonus sesquioctava]</p>
+      <p id="BOEDIM20168">
+      <pb n="[1221]" />Tertius igitur terminus ad primum toni retinet proportionem. Secundus ad primum semitonii minoris. Apotomes vero tertius ad secundum. Atque in bisdem primis apotomes videtur constare proportio, cum semitonii in 256 et 243, minimis numeris spatium contineatur. Idcirco autem 1944 et 2048 in eadem proportione sunt qua 243 ad ducentos 56, quoniam 256 et 243 octonario multiplicati sunt. Si enim unus numerus duos quoslibet numeros multiplicet, qui ex ea multiplicatione nascuntur, in eadem erunt proportione qua fuerunt hi numeri quos prior numerus multiplicavit.</p>
+      <p id="BOEDIM20169">Caput XXX.</p>
+      <p id="BOEDIM20170">Quibus proportionibus diapente, diapason constent. et quoniam diapason sex tonis non constet.</p>
+      <p id="BOEDIM20171">Sed quoniam de diatessaron consonantia latius diximus, brevius et pene puris numeris de diapason ac diapente consonantiis disseramus. Diapente enim constat ex tribus tonis ac semitonio, id est ex diatessaron et tono. Disponantur enim numeri quos superior descriptio comprehendit, 192, 216, 253, 256.</p>
+      <p id="BOEDIM20172">[PLLXIII:1221,1; text: Diatessaron ex duobus tonis et Hemitonio minore, 192, 216, 243, 256, Tonus, Hemitonius]</p>
+      <p id="BOEDIM20173">In hac igitur dispositione primus terminus ad secundum, et secundus ad tertium tonorum retinet proportiones. Sed tertius ad quartum semitonii minoris, ut supra monstratum est. Si igitur 256 octava eisdem quorum octava est apponatur, fient 288. Quibus 192 comparati, sesquialterum spatium proportionis efficiunt.</p>
+      <p id="BOEDIM20174">[PLLXIII:1221,2; text: 192, 288, diapente secupla]</p>
+      <p id="BOEDIM20175">Quocirca tres quidem toni sunt, si primus ad secundum, secundus ad tertium, quintus conferatur ad quartum. Semitonium vero minus tertii ad quartum terminum comparatio tenet; quod si diatessaron quidem duorum tonorum est ac semitonii minoris, diapente vero trium tonorum ac semitonii minoris, junctae vero diatessaron ac diapente unum diapason videntur efficere, erunt quinque toni et duo spatia semitoniorum minora, quae unum tonum non videantur implere. Non est igitur diapason consonantia constans sex tonis, ut Aristoxenus arbitratur, quod in numeris quoque dispositum evidenter apparet. 
+      <pb n="[1222]" />Sex enim toni in ordinem disponantur, scilicet in sesquioctavis proportionibus constituti, sex vero sesquioctavae proportiones a sexto octuplo procreantur. Disponantur igitur sexoctupli hoc modo:</p>
+      <p id="BOEDIM20176">[PLLXIII:1222,1; text: 1, 8, 64, 512, 4096, 32768, 262144] 
+      <figure>
+        <graphic url="/images/BOEDIM2_08GF.gif" />
+      </figure></p>
+      <p id="BOEDIM20177">Ab hoc igitur ultimo numero sex toni in sesquioctava proportione constituti locentur, hoc modo dispositis, primum octuplis terminis, ut octavae terminorum partes ipsorum terminorum, lateribus adjungantur; sit autem descriptio talis:</p>
+      <p id="BOEDIM20178">[PLLXIII:1222,2; text: Sexoctupli, 1, 8, 64, 512, 4096, 32768, 262144, Sesquioctavi, 294912, 331776, 373248, 419904, 472392, 531441, Partes octavae, 36864, 41472, 46656, 52488, 59039]</p>
+      <p id="BOEDIM20179">Hujus igitur dispositionis haec ratio est. Continuus enim versus, qui limes dicitur, octuplus numeros tenet. A sexto vero octuplo sesquioctavae proportiones ducuntur. Ubi vero octavas partes scripsimus, octavae sunt eorum numerorum partes, quibus adjacent. Quae si eisdem quibus adjacent apponantur, posteriores numeros creant, ut in primo, qui est 262144. Hujus octava 32768; hi sibimet si conjungantur posteriorem efficit numerum qui est 294912. Idemque in caeteris invenitur. Si igitur ultimus numerus qui est 531441 duplus esset prioris numeri qui est 262144, recte diapason sex tonis constare videretur. Nunc autem si minimi numeri, id est prioris, duplicem conquiramus, minor erit eo numero qui est maximus ac supremus. Nam 262144 numeri duplus est qui ad eum scilicet diapason consonantiam tenet 524288; hic igitur minor est eo numero qui sextum retinet tonum, eo scilicet qui est 541441. Minor est igitur diapason consonantia sex tonis. Atque id quod sex toni diapason consonantiam supervadunt, voco comma, quod constat in minimis numeris 524288 et 531441.</p>
+      <p id="BOEDIM20180">[PLLXIII:1222,3; text: Differentia. 7153, 5242888, 531441, comma seu spatium quo majores sunt sex toni diapason.]</p>
+      <p id="BOEDIM20181">Sed de his quid Aristoxenus sentiat, qui auribus dedit omne judicium, alias commemorabo. Nunc voluminis seriem fastidii vitator astringam.</p>
+      <p id="BOEDIM20182">
+      <pb n="[1223-24]" />[PLLXIII:1223-24; text: 1, 8, 64, 512, 4096, 32768, 262144, 9, 72, 576, 4808, 36864, 294912, 81, 648, 5184, 41472, 331776, 729, 5832, 46656, 373248, 6561, 52488, 419904, 59049, 472392, 531441, Omnes se quioctavi inferni supernorum qui sex tonos efficiunt. Novemcupli omnes Diaconii] 
+      <figure>
+        <graphic url="/images/BOEDIM2_09GF.gif" />
+      </figure></p>
+    </body>
+  </text>
+</TEI>

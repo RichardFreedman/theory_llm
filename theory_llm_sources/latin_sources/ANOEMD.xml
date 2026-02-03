@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>De enquiriadis monocordi divisione</title>
+        <title type="abbrev">ANOEMD</title>
+        <author>Anonymous</author>
+        <date notBefore="800" notAfter="1099">9th-11th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Andreas Giger</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Anna Shparberg</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1999</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Hans Schmid, ed., 
+<emph>Musica et scolica enchiriadis una cum aliquibus tractatulis adiunctis</emph>, Bayerische Akademie der Wissenschaften, Veröffentlichungen der Musikhistorischen Kommission, Band 3 (Munich: Bayerische Akademie der Wissenschaften / C. H. Beck, 1981), 239. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: Mensura monochordi</title>
+          
+<idno type="LML">MON. Enquiriadis</idno>
+        
+</bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANOEMD0001">
+      <pb n="[239]" />DE ENQUIRIADIS MONOCORDI DIVISIONE</p>
+      <p id="ANOEMD0002">Enquiriadis namque monocordi dimensionem si velis nosse, primum necesse est, dividas totum monocordum in quatuor equas partes. Deinde quarta superiori parte in novem divisa, designatur tonus in octava. A quo quidem tono novem similiter emensis spaciis, denotatur alter in octava tonus. Item ab isto loco novem superius similiter collectis, invenitur tercius in octava tonus. Tribus namque compertis tonis ad semitonium constituendum a secundo tono sive a secunda post primam corda versum superius spacium tripartiatur, terciaque pars superaddatur, et ita facillime semitonium pernotatur. A quo quidem semitonio usque ad terminum superius ultimum in octo partes fiat divisio, arumque octava huic semitonio superponatur, signeturque tonus de secundo tetracordo. Simili quoque modo cum sesquioctava, ut in Boetio proporcione, duos, qui restant, designabis de secundo tetracordo tonos, et cum sesquitercia proporcione semitonium, quod quidem semitonium in hoc monocordi genere a secundo semper, ut diximus, superius constituitur tono. Similis omnino est ratio et regula de ceteris duobus tetracordis; hoc vero necesse est retineas, quod in unoquoque tetracordo tres tonos et semitonium constituas remanente in ultimo tono.</p>
+    </body>
+  </text>
+</TEI>

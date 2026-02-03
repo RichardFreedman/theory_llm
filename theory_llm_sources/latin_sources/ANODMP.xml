@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>De plana musica breve compendium</title>
+        <title type="abbrev">ANODMP</title>
+        <author>Anonymous</author>
+        <date notBefore="1200" notAfter="1299">13th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Stephen E. Hayes</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Peter M. Lefferts</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Andreas Giger</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1996</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+André Gilles, "De musica plana breve compendium (Un témoignage de l'enseignement de Lambertus)," 
+<emph>Musica disciplina</emph> 43 (1989): 33-62, 39–51. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: De plana musica breve compendium</title>
+          
+<idno type="LML">TRAD. Lamb.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 15128, 124-127</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANODMP0001">
+      <pb n="[39]" />De plana musica breve compendium</p>
+      <p id="ANODMP0002">(Bibliothèque nationale lat. 15128 ffo 124rob-127roa)</p>
+      <p id="ANODMP0003">Prologus</p>
+      <p id="ANODMP0004">I. De diffinitionibus musicae artis</p>
+      <p id="ANODMP0005">Capitulum 1 Quae sit musica et ejus quae sit utilitas</p>
+      <p id="ANODMP0006">Capitulum 2 Quis sit musicus</p>
+      <p id="ANODMP0007">Capitulum 3 Unde dicatur musica et quare magis gammae proponatur littera graeca quam latina et etiam de inventione artis musicae.</p>
+      <p id="ANODMP0008">II. De partibus gammatis</p>
+      <p id="ANODMP0009">Capitulum 1 Prologus</p>
+      <p id="ANODMP0010">Capitulum 2a De figuris et nominibus vocum</p>
+      <p id="ANODMP0011">Capitulum 2b De lineis et spatiis</p>
+      <p id="ANODMP0012">Capitulum 3 De proprietatibus</p>
+      <p id="ANODMP0013">Capitulum 4 De mutationibus</p>
+      <p id="ANODMP0014">III. De speciebus musicae</p>
+      <p id="ANODMP0015">Capitulum 1 Prologus</p>
+      <p id="ANODMP0016">Capitulum 2 De unisono</p>
+      <p id="ANODMP0017">Capitulum 3 De tono</p>
+      <p id="ANODMP0018">Capitulum 4a De natura semitonii</p>
+      <p id="ANODMP0019">Capitulum 4b De falsa musica</p>
+      <p id="ANODMP0020">Capitulum 5 De ditono</p>
+      <p id="ANODMP0021">Capitulum 6 De semiditono</p>
+      <p id="ANODMP0022">Capitulum 7 De tritono</p>
+      <p id="ANODMP0023">Capitulum 8 De diatessaron</p>
+      <p id="ANODMP0024">Capitulum 9 De diapente</p>
+      <p id="ANODMP0025">Capitulum 10 De tono cum diapente</p>
+      <p id="ANODMP0026">Capitulum 11 De semitono cum diapente</p>
+      <p id="ANODMP0027">Capitulum 12 De ditono cum diapente</p>
+      <p id="ANODMP0028">Capitulum 13 De semiditono cum diapente</p>
+      <p id="ANODMP0029">Capitulum 14 De diapason</p>
+      <p id="ANODMP0030">Capitulum 15 De speciebus in discantu</p>
+      <p id="ANODMP0031">
+      <pb n="[40]" />De plana musica breve compendium</p>
+      <p id="ANODMP0032">Prologus</p>
+      <p id="ANODMP0033">[fo 124rob in marg.] Quoniam de plana musica sive de compositione gammatis breviter et sub brevi compendio tractare proponimus, ideo de plana musica debemus scire quid sit primo et principaliter, deinde quis sit musicus et unde dicatur musica, postea quid sit gamma et quare magis ei proponatur littera graeca quam latina, et quae et quot sint partes musicae sive gammatis, et ultimo quae et quot sint species ipsius, quibus omnis cantus contexitur et etiam ordinatur.</p>
+      <p id="ANODMP0034">I. De diffinitionibus musicae artis</p>
+      <p id="ANODMP0035">Quae sit musica et ejus quae sit utilitas</p>
+      <p id="ANODMP0036">Capitulum 1</p>
+      <p id="ANODMP0037">Musica est liberalis scientia perite cantandi copiam subministrans. Unde dicit Boetius "inter septem artes liberales obtinet musica principatum." Inter enim omnes liberales artes sive scientias ipsa est liberalior, jocundior, laetior, amabilior, curialior. Quare hoc esse probatur: nam reddit hominem liberalem, jocundum, curialem, laetum et amabilem; movet enim affectus, provocat sensus in diversum habitum.</p>
+      <p id="ANODMP0038">Vel sic describitur: musica est discretio modulationis, canendi scientia et facilis ad perfectionem canendi via pluriumque dissimilium vocum proportionalis consonantia, et scientia de numero relato ad sonos.</p>
+      <p id="ANODMP0039">
+      <pb n="[41]" />Quis sit musicus</p>
+      <p id="ANODMP0040">Capitulum 2</p>
+      <p id="ANODMP0041">[fo 124voa in marg.] Musicus est ille qui ratione propensa canendi scientiam manifestat, unde philosophus:</p>
+      <p id="ANODMP0042">"Musicorum | et cantorum | magna est distantia:</p>
+      <p id="ANODMP0043">Isti dicunt, | illi sciunt | quae componit musica;</p>
+      <p id="ANODMP0044">Nam qui canit | quod non sapit | appellatur bestia."</p>
+      <p id="ANODMP0045">unde versificator:</p>
+      <p id="ANODMP0046">"Bestia non cantor qui non canit arte sed usu,</p>
+      <p id="ANODMP0047">Non vox cantorem facit, artis sed documentum."</p>
+      <p id="ANODMP0048">Unde dicatur musica et quare magis gammae proponatur littera graeca quam latina et etiam de inventione artis musicae</p>
+      <p id="ANODMP0049">Capitulum 3</p>
+      <p id="ANODMP0050">Musica dicitur a Musis, quae secundum fabulas dicuntur filiae Jovis. Vel musica dicitur a moys quod est aqua et ycos quod est scientia, quia juxta aquam fuit inventa musica. Gammaut est compositio figurarum cum vocibus. Praeterea quia G graeca, quae talis est, id est [Gamma], proponitur ipsi et litterae latinae subsequuntur, per haec videtur quod a Graecis inventa fuit musica, a Latinis vero consummata. Moyses dicit inventorem musicae fuisse Tubal qui fuit de stirpe Cayn ante diluvium. Graeci vero dicunt hujus artis primordia invenisse Pythagoram.</p>
+      <p id="ANODMP0051">
+      <pb n="[42]" />II. De partibus gammatis</p>
+      <p id="ANODMP0052">Prologus</p>
+      <p id="ANODMP0053">Capitulum 1</p>
+      <p id="ANODMP0054">Sciendum est quod tres sunt partes musicae sive gammatis, quarum prima est de figuris et nominibus vocum et etiam de lineis et spatiis, secunda de proprietatibus, tertia et ultima de mutationibus.</p>
+      <p id="ANODMP0055">De figuris et nominibus vocum</p>
+      <p id="ANODMP0056">Capitulum 2a</p>
+      <p id="ANODMP0057">In parte prima sciendum est quod viginti sunt signa sive claves in numero cum b molli. Quarum octo praecedentes dicuntur graves et scribuntur sic: [Gamma] id est G,A,B,C,D,E,F,G. Sequentes acutae dicuntur et scribuntur sic: a,b,c,d,e,f,g. [fo 124vob in marg.] Reliquae vero, scilicet quinque ultimae, superacutae dicuntur, et scribuntur sic: a,b,c,d,e.</p>
+      <p id="ANODMP0058">Octo praecedentes claves dicuntur graves eo quod videntur aggravare hominem per cantum inferiorem, vel quia omnis cantus qui in eisdem versatur gravi sono profertur.</p>
+      <p id="ANODMP0059">Septem sequentes dicuntur acutae eo quod omnis cantus qui in eisdem versatur acuitur.</p>
+      <p id="ANODMP0060">Quinque ultimae dicuntur superacutae eo quod voce superacuta et subtili enuntiantur vel quia acutiorem sonum reddunt acutis et excellunt omnibus praedictis.</p>
+      <p id="ANODMP0061">Item sunt septem litterae latinae quibus omnes voces exprimuntur quae etiam signa sive claves vocantur, quia sicut per clavem reseratur sera, ita per has septem litteras reseratur musica melodia. Et sicut clavis in sera revolvitur, ita totius musicae cantus in istis septem litteris replicatur, quibus tamen Gamma, id est G graeca littera proponitur, ut A, prima littera nostra, a [Gamma] intrinsecus tonum habeat et G graeca ad G latinam diapason introducat, et sic distinguitur in tria alphabeta supina quae continentur in manu inferius.</p>
+      <p id="ANODMP0062">Notandum est quod per has septem litteras supradictas sex voces tantummodo designantur, scilicet ut,re,mi,fa,sol,la, quibus tota musica conformatur, unde versus:</p>
+      <p id="ANODMP0063">
+      <pb n="[43]" />"Hiis sex formantur sex motus et variantur:</p>
+      <p id="ANODMP0064">Ut re mi -- sol la cantemus voce plena,</p>
+      <p id="ANODMP0065">Dantque semi mi fa, sed fit plenus tonus infra."</p>
+      <p id="ANODMP0066">[fo 125ro in marg.] Item notandum est quod istae sex voces cursum suum perficiunt septies, sicut patet in figura quae claustrum musicae nuncupatur:</p>
+      <p id="ANODMP0067">[MD43:43; text: [Gamma], A, [sqb], C, D, E, F, G, B[sqb], aa, bb[sqb][sqb], cc, dd, ee, vt, re, mi, fa vt, sol re, la mi, sol re vt, la mi re, fa mi, sol fa vt, la sol re, sol fa, la sol, la, [sqb] durum, b molle, N, natura] 
+      <figure>
+        <graphic url="/images/ANODMP_01GF.gif" />
+      </figure></p>
+      <p id="ANODMP0068">
+      <pb n="[44]" />De lineis et spatiis</p>
+      <p id="ANODMP0069">Capitulum 2b</p>
+      <p id="ANODMP0070">Dicto de figuris et nominibus vocum, nunc dicendum est de lineis et spatiis. Unde linea et spatium nihil aliud est quam paritas et imparitas. Unde quod est in linea dicitur imparitas et illud quod est in spatio dicitur paritas. [fo 125rob in marg.] Unde quodlibet signum quod secundo situatur loco est in spatio. Unde sequitur per numerum naturalem quod si primum sit in linea, reliquum erit in spatio et e converso, et insuper omne quartum oppositum est et octavum. Sed in septimo loco sumitur simile signum primo. Ergo si primum sit in linea, reliquum erit in spatio et e converso, et hoc secundum quadraturam vel ipsius manus juncturas rectas quarta regula et prima tenent, et haec sufficiant.</p>
+      <p id="ANODMP0071">De proprietatibus</p>
+      <p id="ANODMP0072">Capitulum 3</p>
+      <p id="ANODMP0073">Ad majorem vocum expressionem perutilis est proprietatum cognitio. Unde proprietas, ut hic sumitur, nihil aliud est quam differentia, et sunt tres differentiarum species, scilicet [sqb] durum, b molle et natura. B durum dicitur esse tonus ante B quadratum, b molle dicitur esse semitonium ante b rotundum, natura dicitur esse cantus sumptus sine aliquo b, id est sine aliqua differentia, et hoc proprie, eo quod omnis cantus naturalis in ejus confinio principium habet et finem.</p>
+      <p id="ANODMP0074">Et notandum est quod b molle non est de origine aliarum clavium.</p>
+      <p id="ANODMP0075">Omne ut in C cantatur per naturam, et sequentes voces sunt sibi pertinentes; omne ut in F cantatur per b molle et caetera; omne ut in G cantatur per [sqb] quadratum et caetera. Unde versus:</p>
+      <p id="ANODMP0076">"C naturam dat, F b molle tibi signat,</p>
+      <p id="ANODMP0077">G quoque [sqb] durum tu semper quis reperire."</p>
+      <p id="ANODMP0078">
+      <pb n="[45]" />De mutationibus</p>
+      <p id="ANODMP0079">Capitulum 4</p>
+      <p id="ANODMP0080">Mutatio nihil aliud est, prout hic sumitur, quam dimissio unius vocis propter aliam sub eodem signo, id est eodem sono. Vel sic: mutatio est duarum vocum diversarum prolatio sub eodem signo et eodem sono.</p>
+      <p id="ANODMP0081">Unde sequitur quod ubicumque est mutatio, oportet quod ibi sint ad minus duae voces. Et quia in Gamma ut nec in A re nec in B mi nec in ee la non est nisi unica vox, ideo non est ibi mutatio. [fo 125voa in marg.] Praeterea licet in b fa mi sint duae voces diversae, tamen non est ibi mutatio, quia hoc esset contra diffinitionem mutationis: nam ibi sunt diversa signa, scilicet b molle et [sqb] quadratum, et sic clavis rotunda nec usu nec natura potest reserare seram, sed contraria dicuntur sicut album et nigrum ista. Istae duae voces fa et mi se invicem compati non possunt quia b fa est ab ordinatione b mollis, et [sqb] mi ab ordinatione [sqb] quadrati. Nam si illae duae voces essent sub uno et eodem signo, diceretur b fa mi, sed non dicitur, ideo non est ibi mutatio, quia istae duae voces non sunt in eodem sono, sed ibi habet semitonium majus. Non autem alibi invenitur, ideo et caetera.</p>
+      <p id="ANODMP0082">Sciendum quod ubicumque sunt duae voces, ibi sunt duae mutationes, una ascendendo et alia descendendo, exceptis excipiendis, ut dictum est, primo in C fa ut, dicendo fa ut, ut fa.</p>
+      <p id="ANODMP0083">Et ubicumque sunt tres voces, ibi sunt sex mutationes, ut patet in G sol re ut et in aliis similibus, quia prima vox mutatur in secundam et e converso, et secunda mutatur in ultimam et e converso, et in primam ultima et e converso.</p>
+      <p id="ANODMP0084">Et sic patet per rationem istam quod ubicumque sunt duae voces, ibi sunt duae mutationes, et ubi sunt tres voces, ibi sunt sex mutationes. Et ab hoc sequitur quod duae voces non duplicantur per quatuor sicut tres per sex.</p>
+      <p id="ANODMP0085">Unde regula est quod omnis mutatio desinens in ut re mi dicitur ascendens, [fo 125vob in marg.] et omnis mutatio desinens in fa sol la dicitur descendens, unde versus:</p>
+      <p id="ANODMP0086">"Ut re mi scandunt, descendunt fa quoque sol la"</p>
+      <p id="ANODMP0087">Causa mutationis dupliciter sumitur, scilicet causa ascensionis et causa descensionis, ut patet in F fa ut, quoniam si in illo sumeret aliquis fa, posset ascendere usque ad tertiam vocem. Qui si vellet sumere quartam vocem, 
+      <pb n="[46]" />necesse esset sumere ut improprie, ex quo esset mutatio de fa in ut. Et similiter descendendo suo modo, scilicet ut fa, et in hoc fit compositio gammatis.</p>
+      <p id="ANODMP0088">Et hoc in sequenti figura plenius patebit sive in manu.</p>
+      <p id="ANODMP0089">Sciendum est igitur quod omnis mutatio efficitur aut ratione vocis aut ratione signi aut ratione utriusque, scilicet vocis et signi. Ratione vocis efficitur mutatio quando per cantum inceptum vox non potest attingere -- sive descendendo sive ascendendo -- ad cantum determinatum, et tunc dimittenda est illa superior, et assumenda est illa inferior et e converso; ratione signi efficitur mutatio quando signum superveniens mutat cantum; ratione utriusque per exemplum praedictorum ut patet in sequenti figura.</p>
+      <p id="ANODMP0090">[MD43:46; text: per [sqb] quadratum, natura, tonus, semitonium, non est mutacio, b molle, [sqb] durum, B molle, [Gamma] vt, A re, [sqb] mi, C fa ut, D sol re, E la mi, F fa vt, G sol re vt, A la mi re, B fa [sqb] mi, C sol fa vt, D la sol re, bb fa [sqb][sqb] mi, cc sol fa, dd la sol, ee la] 
+      <figure>
+        <graphic url="/images/ANODMP_02GF.gif" />
+      </figure></p>
+      <p id="ANODMP0091">
+      <pb n="[47]" />III. De speciebus musicae</p>
+      <p id="ANODMP0092">Prologus</p>
+      <p id="ANODMP0093">Capitulum 1</p>
+      <p id="ANODMP0094">[fo 126roa in marg.] Sunt autem duodecim species musicae quibus omnis cantus contexitur et ordinatur, scilicet unisonus, tonus, semitonus, ditonus, semiditonus, dyatessaron, diapente, tonus cum dyapente, semitonus cum diapente, ditonus cum diapente, semiditonus cum dyapente et ultima dyapason.</p>
+      <p id="ANODMP0095">Praeterea sunt nonnulli qui tritonum inter dictas species emittunt. Ad quarum cognitionem discernendum et multorum etiam errorem destruendum eas iterum cum probatione et operatione reformamus.</p>
+      <p id="ANODMP0096">(Omnino desunt exempla in manuscripto)</p>
+      <p id="ANODMP0097">De unisono</p>
+      <p id="ANODMP0098">Capitulum 2</p>
+      <p id="ANODMP0099">Sciendum est quod unisonus est sonus qui unam et eandem vocem sine alterius progressione frequentius manifestat, ut hic patet inferius. Et dicitur unisonus quasi unius vocis sonus, et potest poni in qualibet clave.</p>
+      <p id="ANODMP0100">De tono</p>
+      <p id="ANODMP0101">Capitulum 3</p>
+      <p id="ANODMP0102">Tonus est progressio duarum vocum propinquarum a linea in spatio et e converso praeterquam in semitonio ut patet hic. Dicitur autem tonus a tono, -nas eo quod perfecte et discrete discernit et praetendit distantiam inter duas voces.</p>
+      <p id="ANODMP0103">
+      <pb n="[48]" />De natura semitonii</p>
+      <p id="ANODMP0104">Capitulum 4a</p>
+      <p id="ANODMP0105">Duplex est semitonus sive semitonium, scilicet semitonium minus et semitonium majus. Semitonium minus est imperfectum duarum vocum spatium ut si fit ascensus de mi ad fa de b fa [sqb] mi, ut patet per exemplum. Semitonium majus est spatium sive differentia quae est inter re mi et re fa de F fa ut, ut patet hic.</p>
+      <p id="ANODMP0106">Dicitur autem semitonium a semis graece quod est dimidium latine, vel dicitur a semus, -ma, -mum quod est imperfectus, imperfecta, imperfectum, et tonus, quasi imperfectus tonus. Nunquam autem fit de semitono majori semitonus minor et de semitono minori semitonus major nisi de mi ad fa et e converso. [fo 126rob in marg.] Tamen aliquando fit alibi per falsam musicam.</p>
+      <p id="ANODMP0107">De falsa musica</p>
+      <p id="ANODMP0108">Capitulum 4b</p>
+      <p id="ANODMP0109">Nunc autem quaeritur quae sit necessitas in musica regulari de falsa musica sive de falsa mutatione, cum nullum regulare debeat accipere falsum sed potius verum.</p>
+      <p id="ANODMP0110">Ad hoc dicendum est quod mutatio falsa sive falsa musica non est inutilis sed necessaria propter consonantiam bonam inveniendam, malam vero evitandam. Nam si velimus habere diapente, quae est media concordantia, de necessitate oportet quod nos habeamus tres tonos cum semitono ita quod si aliqua figura sit in b fa [sqb] mi sub [sqb] quadrato, et alia sit in f fa ut acuto per naturam, tunc non est ibi consonantia sed dissonantia cum semitono pessima. Verumtamen potest fieri consonantia, sed per falsam musicam: "per falsam musicam" appellamus fieri quando nos facimus de semitono tonum et e converso; non tamen est falsa, sed inusitata.</p>
+      <p id="ANODMP0111">Hoc autem cognoscitur per signum [sqb] quadrati vel b rotundi in loco inusitato locatum, ita quod dicamus mi durum in f fa ut acuto cum signo [sqb] quadrati vel si b rotundum ponimus in b fa [sqb] mi vel in similibus, ita quod sit proportione toni: tunc erit dyapente consonantia.</p>
+      <p id="ANODMP0112">
+      <pb n="[49]" />Et ideo falsa musica est necessaria quandoque, ut omnis consonantia seu melodia in quolibet signo perficiatur.</p>
+      <p id="ANODMP0113">De ditono</p>
+      <p id="ANODMP0114">Capitulum 5</p>
+      <p id="ANODMP0115">Ditonus est spatium inter duas voces continens duos tonos ut patet hic.</p>
+      <p id="ANODMP0116">De semiditono</p>
+      <p id="ANODMP0117">Capitulum 6</p>
+      <p id="ANODMP0118">[fo 126voa in marg.] Semiditonus est spatium in se continens tonum cum semitono minori vel e converso, et fit duobus modis, ascendendo et descendendo, ut hic.</p>
+      <p id="ANODMP0119">Et dicitur semiditonus a semis, quod est dimidium, et tonus, quasi dimidium et tonus. Et melius ...</p>
+      <p id="ANODMP0120">De tritono</p>
+      <p id="ANODMP0121">Capitulum 7</p>
+      <p id="ANODMP0122">Tritonus est spatium continens in se tres tonos. Et dicitur a tris quod est tres et tonus quasi continens tres tonos ut hic.</p>
+      <p id="ANODMP0123">De dyatessaron</p>
+      <p id="ANODMP0124">Capitulum 8</p>
+      <p id="ANODMP0125">Dyatessaron est spatium inter duas voces in se continens duos tonos cum semitono et fit duobus modis, scilicet ascendendo vel descendendo ut hic patet exemplum. Et dicitur diatessaron a dyas quod est de et tetras quod est quatuor, quasi de quatuor vocibus constituta.</p>
+      <p id="ANODMP0126">
+      <pb n="[50]" />A qualibet voce usque ad quartam fit diatessaron praeter ab F gravi ad [sqb] acutum quadratum, et a b rotundo in e acutum. Verumtamen potest fieri ibidem per falsam musicam supradictam.</p>
+      <p id="ANODMP0127">De diapente</p>
+      <p id="ANODMP0128">Capitulum 9</p>
+      <p id="ANODMP0129">Dyapente est spatium in se continens tres tonos et semitonum intermixtum, et fit duobus modis, ascendendo et descendendo ut patet hic. Et dicitur dyapente a dya quod est de et penta quod est quinque, quasi de quinque vocibus species constituta. A qualibet enim voce usque ad quintam fit dyapente nisi a B gravi ad F grave seu ab E gravi ad b acutum molle, vel a [sqb] acuto quadrato ad f acutum. [fo 126vob in marg.] Tamen ibi potest fieri per falsam musicam supradictam.</p>
+      <p id="ANODMP0130">De tono cum diapente</p>
+      <p id="ANODMP0131">Capitulum 10</p>
+      <p id="ANODMP0132">Tonus cum diapente transcendit inter duas voces per spatium quatuor tonorum cum semitono intermixto ut patet hic.</p>
+      <p id="ANODMP0133">De semitonio cum diapente</p>
+      <p id="ANODMP0134">Capitulum 11</p>
+      <p id="ANODMP0135">Semitonium cum dyapente transcendit inter duas voces per spatium trium tonorum cum duobus semitonis per medium intermixtis, sicut a B gravi ad G acutum ut hic. Notandum quod tonus cum dyapente et semitonus cum dyapente sunt in cantu rarissimi.</p>
+      <p id="ANODMP0136">
+      <pb n="[51]" />De ditono cum diapente</p>
+      <p id="ANODMP0137">Capitulum 12</p>
+      <p id="ANODMP0138">Ditonus cum dyapente transcendit inter duas voces per spatium quinque tonorum cum semitono intermixto ut patet hic.</p>
+      <p id="ANODMP0139">De semiditono cum diapente</p>
+      <p id="ANODMP0140">Capitulum 13</p>
+      <p id="ANODMP0141">Semiditonus cum dyapente transcendit inter duas voces per spatium quatuor tonorum cum duobus semitonis ut hic.</p>
+      <p id="ANODMP0142">De diapason</p>
+      <p id="ANODMP0143">Capitulum 14</p>
+      <p id="ANODMP0144">Dyapason est quaedam consonantia quae inter duos unisonos a qualibet littera usque ad consimilem elevatur et deponitur ut hic.</p>
+      <p id="ANODMP0145">Dyapason dicitur a dya quod est duo et pan quod est totum et son quod est vox eo quod continet omnes concordantias supradictas. Fit autem dyapason in proportione dupla ad sonos.</p>
+      <p id="ANODMP0146">De speciebus in discantu</p>
+      <p id="ANODMP0147">Capitulum 15</p>
+      <p id="ANODMP0148">Sciendum est quod unisonus, ditonus, semiditonus, diatessaron, dyapente, dyapason sunt magis necessariae quam aliae species. Nam omnis discantus se habet cum tenore suo in aliqua istarum concordantiarum.</p>
+      <p id="ANODMP0149">Item notandum est quod unisonus et dyapason sunt concordantiae perfectae; [fo 127roa in marg.] ditonus et semiditonus sunt imperfectae; dyatessaron et dyapente mediae, scilicet nec perfectae nec imperfectae.</p>
+      <p id="ANODMP0150">Explicit ars cantus plani.</p>
+    </body>
+  </text>
+</TEI>

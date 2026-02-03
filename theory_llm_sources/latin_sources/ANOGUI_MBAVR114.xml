@@ -1,0 +1,688 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>[Guidonis musica]</title>
+        <title type="abbrev">ANOGUI_MBAVR114</title>
+        <author>Anonymous</author>
+        <date notBefore="1100" notAfter="1199">12th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>T</resp>
+        <persName>Peter M. Lefferts</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Travis Yeager</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Peter M. Lefferts</persName>
+      </respStmt>
+      <date>2008</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Vatican City, Biblioteca Apostolica Vaticana, MS Reg. lat. 1146, ff. 9v–34v.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: Versus de musica</title>
+          
+<idno type="LML">VERS. Ars est</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">GB-Ob Rawl. C. 270, 1r-v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat Reg. lat. 1146, 9v-11</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">S-Uu C 55, 36-37</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ob Rawl. C. 270, 3-9v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat Reg. lat. 1146, 11-16v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">S-Uu C 55, 38v-41v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">A-M Cod. 950, 113-126v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">A-Wn Cod. 51, 49-52</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">A-Wn Cod. 2502, 37v-38</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">A-Wn Cod. 4774, 30 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Br 10162/6, 44-49 (56-61)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Br II 784, 37-42 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-BAs Class. 28, 29-32</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-DS 1988, 147-155</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-F Fragm. lat. I 94, 1-2v (Fragments)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-KA K 504, 1-14</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Kl 4° Ms. Math. 1, 40-43v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Kl 8° Ms. Math. 4, 1-11</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-LEu 1492, 50v-56v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-LEu 1493, 47-52v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 9921, 16v-17 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 14477, 57-67v (Fragments)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 14663, 29v-33v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 14965a, 27-29 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 18937, 261-278</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 27300, 1-11v (Fragments)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-TRs Ms. 8° 1897/18, 46v-81</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ctc R.15.22, 124v-126 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Lbl Arundel 77, 87v-98</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Obac 173A, 106-112v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Ma M. 17 sup., 27-32</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-MC 318, 92-111</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat Pal. lat. 1344, 1v-19</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat Reg. lat. 1146, 17-21 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-VEcap 236, 15-24v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Vnm Lat. Cl. VIII.20 (3574), 5-8v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">PL-Kj 1965, 41-47</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">US-CLm 52.88, 1 (Fragments)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">US-NYkraus Gutenzell, Törring 57, 2-23v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">US-R Ms. 92 1100, 143-173</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">US-R Ms. 92 1200, 76-79v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Br II 784, 42v-43v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-B Ms. lat. oct. 265, 9r-v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-LEu 1492, 107r-v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 3713, 30r-v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 7211, 105v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Lbl Add. 10335, 14v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Lbl Harley 281, 24v-25</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-PS 100, 39-40</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat Reg. lat. 1146, 24-25, 25</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">A-Iu Cod. 962, 135v-137v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">A-R Cod. 21, 47-60</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">A-Ssp Cod. a. V. 2, 145 (Fragments)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">A-Wn Cod. 51, 46-48v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">A-Wn Cod. 2503, 37-42 (Fragments)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">A-Wn Cod. 4774, 27-30 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Br 1485/1501, 273r-v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Br 10162/6, 28v-34 (40v-46)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Br II 784, 43v-56v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Gu 70 (71), 50v-55</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Gu 70 (71), 140v, 141v-143 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">CH-BEb 702, 46-51v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">CH-CObodmer 18845 (Ms. 77), 82-102</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-B Ms. lat. oct. 265, 9v-22</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-B Ms. theol. lat. qu. 261, 41-47v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-DS 1988, 101v-110</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-EF 8° 93, 68-74</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-EF 8° 94, 30-35v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Kl 8° Ms. Math. 10, 1-10v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-LEu 1492, 107v-113</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 14663, 21v-24v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 14965a, 33-37v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 19421, 1v-12v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mu 8° 375, 65-71v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-TRs Ms. 4° 1923/1434, 191v-194 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-W 334 Gud. Lat. 8°, 112-127</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-AUT 46 (olim 40 B), 66v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-MOf H 384, 116-121 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pc Rés. 359, 1-6</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 3713, 30v-37v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 7211, 105v-115</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 7369, 47-59v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 7461, 19-25</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-T 2142, 158v-166v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ctc O.9.29, 85v-95</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Lbl Add. 10335, 14v-22v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Lbl Harley 281, 25r-v, 25v-32 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Obac 173A, 100-106</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ojc 150, 17-22</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-PM Ms. 90, 1-7</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fl Plut. XXIX. 48, 33v-38v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fn Conv. Soppr. F. III. 565, 33v-43v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fn Magliab. XIX. 36, 98v-100v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fr 652, 36v-47v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Ma D. 455 inf., 21-29</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Ma M. 17 sup., 48-49v (Fragments)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-MC 318, 218-236</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Nn VIII.D.14, 1v-18v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-PS 100, 40-49v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rli 2067, 15v-20 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rv B 81, 71-75, 76-82v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat lat. 10645, 1-2v (Fragments)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat Reg. lat. 72, 60v-64v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat Reg. lat. 1146, 25-34v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat Reg. lat. 1196, 1-11</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Vnm Lat. Cl. VIII.24 (3434), 1-7v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">NL-Lu B.P.L. 194, 22v-39v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">US-R Ms. 92 1200, 1-11</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANOGUI_MBAVR1140001">
+      <pb n="[f.9v]" />[Guidonis Musica. m.sec. in marg.]</p>
+      <p id="ANOGUI_MBAVR1140002">Ars est iam vtillima.
+      <lb />a philosophis composita.
+      <br />ars est vocata musica.
+      <lb />cantus tocius domina.
+      <br />sine qua nulla differencia
+      <lb />est vocum vel concordia.
+      <br />nec vox voci coniungitur.
+      <lb />nec illius cantus canitur.
+      <br />cantum a cantu segregat.
+      <lb />tonum a tono discrepat.
+      <br />vocem a voce deuidit.
+      <lb />iter cantandi tribuit.
+      <br />hac qui caret et ignorat
+      <lb />cur se cantorem nominat.
+      <br />quare fronte audet dicere
+      <lb />sum sum canto scio canere.
+      <br />se putat scire canere
+      <lb />cum iam nescit decriuere
+      <br />utrum recte composita.
+      <lb />sit quam cantat armonia.
+      <br />si [.1. supra lin.] vocem proto [tono supra lin.] auferat.
+      <lb />nescit et trito [5 tonus supra lin.] conferat.
+      <br />si vocem tollat [.1. supra lin.] tetrardo [.7. supra lin.]
+      <lb />et tribuat deutero. [.3. supra lin.]
+      <br />Vel si voces plagalium.
+      <lb />det cantibus autentorum.
+      <br />vel propria repetentes.
+      <lb />autenti increpent plagales.
+      <br />vel si plagales inter se
+      <lb />duella velint gerere.
+      <br />minus increpet alium
+      <lb />cantum requirens proprium.
+      <br />Vocem quinque predicat.
+      <lb />vbi nulla vox inhabitat.
+      <br />cum vbi semitonium.
+      <lb />tonum componit integrum.
+      <br />ergo ut taceat
+      <lb />ne mesicam despiciat.
+      <br />qui misicam despicere
+      <lb />solebat et hec dicere.
+      <br />musica non est vtilis.
+      <lb />nec in cantu laudabilis
+      <br />nec quisquam probus clericus
+      <lb />deberet esse musicus.
+      <br />dixi rogo ut taceat.
+      <lb />quam cuius ne pereat.
+      <br />et distat quod sit optima
+      <lb />cuncta gubernas cantica.
+      <br />nam sicut ars gramatica
+      <lb />regit casus et tempora.
+      <br />regit modos et personas
+      <lb />linguas facte disertas.
+      <br />sic et ars musica
+      <lb />cantorum regit cantica
+      <br />tonos et consonancias.
+      <lb />tonorum voces dissonas.
+      <br />ergo fratres karissimi.
+      <lb />ne scitis nobis inuidi.
+      <br />nam cantum valet musica
+      <lb />ut mea probat carmina.
+      <br />Vnde rogo altitonum
+      <lb />dei vnigenitum
+      <br />virginis sacre filium
+      <lb />philosophie.
+      <br />ut me concedat bibere.
+      <lb />aquam fontis sciencie.
+      <br />ut sic describam 
+      <pb n="[f.10r]" />musicam.
+      <lb />ut ditem ignoranciam.
+      <br />quibus est necessarium.
+      <lb />ut distant cantum musicum.
+      <br />ut leuius intelligant.
+      <lb />et intellecta teneant.
+      <br />datur donante deo.
+      <lb />manus pro monacordo.
+      <br />notas per manum diuidat.
+      <lb />hunc quisquis artem inchoat
+      <br />Notas quidem notifico
+      <lb />Nominibus que nomino
+      <br />Notarum scribo nomina
+      <lb />Ne forte sint incognita
+      <br />[Gamma] grecum nomine.
+      <lb />non inuenitur .a.b.c.
+      <br />sed ne F deficiat.
+      <lb />plagalis proti postulat.
+      <br />cum usque ad hoc vocabulum.
+      <lb />quinque sumit principium
+      <br />[Gamma] diatesseron construit
+      <lb />cum se C graui coniungit.
+      <br />et cum facit tetracordum
+      <lb />non videtur superfluum.
+      <br />quam secuntur composite.
+      <lb />7 alplabeti littere.
+      <br />et quia graues notantur.
+      <lb />litteris maioribus terminantur.
+      <br />hoc modo sic A B C D E F G
+      <lb />graues quid non littere
+      <br />sed graues voces musice.
+      <lb />scilicet per signatas litteras.
+      <br />notauimus voces musicas
+      <lb />Post has eadem littere repetuntur
+      <br />voces acute dicuntur.
+      <lb />litteris minoribus describuntur
+      <br />hoc modo a b c d e f g
+      <lb />Prestat .4. littere
+      <br />voces superacute musice
+      <lb />et note sint omnibus
+      <br />dupliciter conscribimus
+      <lb />hoc modo aa bb cc dd
+      <br />Vides O lector inclite.
+      <lb />has duas quadratas bb [sqb][sqb]
+      <br />quid .b. quadrata significat.
+      <lb />noster sensus commemorat
+      <br />Inter a aa et [sqb] [sqb][sqb] quadratam
+      <lb />b componimus aliam.
+      <br />et quia mollis dicitur
+      <lb />rotundam sic describitur
+      <br />b bb mollis id est debilis
+      <lb />vox eius quasi flebilis
+      <br />vel vix perfecte noscitur
+      <lb />cum non sepe inscribitur.
+      <br />hec b cum a reddit semitonium
+      <lb />cum c tonum integrum.
+      <br />et in eadem spacio vel regula
+      <lb />diuersa est [sqb] quadrata.
+      <br />hec [sqb] vbi semitonium
+      <lb />illa b habet tonum integrum.
+      <br />hec bb vbi tonum integrum.
+      <lb />illa [sqb][sqb] semitonium.
+      <br />hec b quoque ne deficiat
+      <lb />tritus cum plagali postulat.
+      <br />nam quando recte canitur
+      <lb />.b. molli sepius vtitur.
+      <br />hiis non est ita propria
+      <lb />quin 
+      <pb n="[f.10v]" />aliis sit necessaria.
+      <br />omnibus quando conuenit
+      <lb />quando vox se ita deuidit.
+      <br />hec quando cum .F coniungitur
+      <lb />diatesseron inde efficitur.
+      <br />per hanc .b. quoque diuiditur
+      <lb />monacordum ut habeatur
+      <br />ergo est necessarium
+      <lb />Potest oriri questio
+      <br />plerisque non sine dubio
+      <lb />cum hec .b tamen acutis et superacutis ponitur.
+      <br />sed cum grauibus nuncquam scribitur.
+      <lb />hec talis dubitacio
+      <br />vnde oritur questio.
+      <lb />intelligendi satis panditur
+      <br />quando hac racione soluitur.
+      <lb />B grauis nullo modo sub se vel exspectat
+      <br />respectu cuius diatesseron componat.
+      <lb />diatesseron ibi nunquam
+      <br />ergo in grauibus .b mollis non ponitur.
+      <lb />[Sex sunt consonantiae m.sec. in marg.] Sex sunt consonancie.
+      <br />diuerse moderancie
+      <lb />per quas omne trascurrit quod canitur
+      <br />formatur siue regitur.
+      <lb />qui sit desernere
+      <br />scienter scit ipse canere
+      <lb />in musica
+      <br />vel ad cantum notandum facilius
+      <lb />as tales voces necesse est describere.
+      <br />in omnibus que ostendere.
+      <lb />ecce earum nomina
+      <br />conscripta fiunt cognita
+      <lb />ita vocantur Tonus Semitonus Ditonus Semiditonus Diatesseron Diapente.
+      <br />ecce vides earum nomina
+      <lb />ignoras que eis sint conueniencia
+      <br />sed proprietates talium
+      <lb />per figurarum subscribam circulum.
+      <br />[Tonus in marg.] tunc tonus plena voce canitur
+      <lb />quando vox cum proxima a se ita coniungitur
+      <br />ut de [Gamma] in A de A in B
+      <lb />et sic de seteris figuris
+      <br />Descripto tono integro.
+      <lb />scribendum est de semitonio.
+      <br />[Semitonus in marg.] quale sit semitonium
+      <lb />per hinc declaro figuram
+      <br />ut de B in C de E in F
+      <lb />et sic de ceteris figuris
+      <br />ecce accidit 
+      <pb n="[f.11r]" />[Ditonus in marg.] Ditonus
+      <lb />de duobus tonis conditus
+      <br />ut de [Gamma] in B de C in E
+      <lb />et sic de ceteris figuris
+      <br />[Semiditonus in marg.] Semiditonus est ingrediens
+      <lb />tonum et semitonium continens
+      <br />ut de A in C de B in D
+      <lb />et sic de ceteris figuris
+      <br />Diatesseron huc adesse properat
+      <lb />qui usque ad .4. vocem increpat
+      <br />ut de. tonos et semitonium continet
+      <lb />ut presens figura ostendit
+      <br />[Diapente in marg.] Diapente post diatesseron sequitur
+      <lb />qui vni tono maior esse dicitur
+      <br />ut de [Gamma] in D de A in E
+      <lb />tribus tonia et semitonio componitur
+      <br />ut in presenti figura describitur.</p>
+      <p id="ANOGUI_MBAVR1140003">Musica est pericia modulacionis sonitu cantu que consistens. musica est cantus tocius recta modulacio siue concordia. musica diriuatur a nouem musis. quas omnes poete ad componendos libros suos inuocabant. sicut enim musis ceteris deabus maior sciencia inesse dicitur. et sicut muse ceteris deabus pulcriores esse dicuntur. Ita et ars musica ceteris canendi artibus vtilior et pulcrior in omni cantu probatur. muse sunt numero. sic eciam muse [nouem sunt voces omnis cantus princeps m.sec. in marg.] voces recto canendi itinere nouem inueniuntur scilicet Tonus Semitonus Ditonus Semiditonus Diatessaron Diapente Semitonium cum diapente Quandoque namque et intendo et remittendo C grauis cum a acuto E grauis cum c acuto canitur et similes simili modo Diapason autem qui ceteras voces continet nona vox in musica est Guido igitur in primo sui tituli versu 
+      <pb n="[f.11v]" />hinc numerum ostendens. voces musicas musas appellat in sequenti tamen non omnia propter artis musice nouitatem et inperfectum studium ad memoriam reduxit. Ipse namque in libri sui fine dicit. Ars musica de die in diem paulatim crescendo magis et magis conualescit Moyses dicit Tubal quendam de genere Cain ante diliuium artis musice repertorem fuisse. Alii dicunt. Lineum. Tabeum. Zatum. Amphionem. et Orpheum in arte musica primos claruisse. sed de huiusmodi non est curandum Greci vero dicunt Pictagoram inuenisse primordia huius artis ex sonitu malleorum quod Guido in fine libri sui breuiter describit Post quos hec disciplina paulatim est aptata multisque modis est adaucta. Adeo quod Boicius vir clarissimus et omni sciencia pericissimus hanc musice artis periciam secundum Grecos Romanis tradidit. Deinde Guido preclare memorie [[.m.]] [musicus supra lin.] et omni beniuolencia honestus breuiter musicam descripsit. et quod Boicius et alii musici vel obliuioni tradiderunt vel nimia obscuritate descripserunt Guido docuit ad memoriam duxit leuiter pueris tradendum descripsit. Sed quid plura musica ecce valet. regit. imperat. multi enim probi musici in hac arte studii. causa cantando ve notando diucius moraci quibus vsuales cantus noti sunt. diu bene probati. quos eciam Guido ad autoritatem quandoque prouocat Dicit Guido de tropis quarta in parte non sufficienter dixisse. et maxime in autentis dubitanter precepta dedisse Dicit enim autenti a finali vix plus vna voce descendunt cum autentus protus multociens sub finali ad quartam remittitur Simili modo et ceteri quandoque sine reprehensione quia equalis dignitatis sunt Dicit quoque Guido in alio loco A finali itaque voce ad quintam in 
+      <pb n="[f.12r]" />quolibet cantu iusta deposicio est et usque ad octauam eleuacio liced contra hanc regulam sepe fiat cum ad nonam vel ad decimamue progrediamur. De plagis autem taceo quia autenti sunt obedientes et quo mittuntur incedunt Quatuor sunt finales voces que omnibus tropis secundum quod concessum est conueniunt D E F G et quatuor sunt naturales tropi .protus. deuterus. tritus. tetrardus. qui neque autenti neque plagales sed tantomodo naturales ante diuisionem eorum in duos vocabantur Alii namque non erant. respectu quorum vel maiores vel minores dicerentur. sed quia Guido testatur si circa inferiores graues scilicet [Gamma] A B vel si circa superiores acutas scilicet d e f morarentur voces siue intendo siue remittendo et quolibet modo distincciones vel saltim finis posset ad finalem coaptari silicet D protus semper dicentur simili modo et de aliis tribus. consilium fuit ut vnusquisque horum diuideretur in duos. et qui ab inicio fuerunt. autenti vocarentur id est autorales siue principales. Alii plagales dicerentur id est subiugales siue litterales vel omnibus modis minores. dicuntur eciam autenti acuti. plage vero graues quod est dicere autenti in eleuacione sunt mutati sed post finalem usque ad .10. vocem quandoque libere sunt eleuati. plagales autem in grauibus sunt humiliati. sed in deposicione usque ad quintam sub finali remittuntur In eleuacione vero de finali non ultra .6. progrediuntur Quando itaque cantus sub finali ad .3. vel .4. vel eciam .5. deponitur vocem et in eleuacione primo finalem non ultra .5. vel .6. vocem intenditur 
+      <pb n="[f.12v]" />sed circa finales voces humiliter moratur. huiusmodi plagalibus conueniunt et ab autentis conceduntur. sed si quilibet cantus post finalem in eleuacione usque ad .8. vel .9. vel eciam .10. vocem intensus fuerit et propter suauitatem et autoris delectacionem quandoque circa acutas. quandoque circa finales eiusdem cantus vox variatur. eciam si sub finali usque ad .3. vel .4. vel eciam .5. quod raro aut nunquam fit vox dimissa fuerit. autentis quia autorales et principales et ab inicio naturales sunt Huiusmodi neupma indubitanter et sine errore datur quod in cantibus proti quia sepe ad .4. sub finali vocem deponitur ita fieri probatur. Autenti ergo cum plagalibus quandoque deponuntur sed in simul ab eis diuiduntur Neupme autem quedam inuente sunt que huiusmodi errorem et dubitacionem auferant et vnumquemque modum ad propria reducant scilicet Primum querite regnum dei. et cetere huiusmodi versus quoque psalmorum et responsoriorum siue officiorum Dicit enim Guido huiusmodi neupme et regule coaptentur modis. alioquin plures cantus inuenies in quibus adeo confunditur [id est variatur supra lin.] grauitas [id est in grauibus supra lin.] et acumen. [id est in acutis supra lin.] ut non possit aduerti cui magis autento an plage conferantur quia cum vtroque se habent. sed ut dictum est huiusmodi principali dentur.</p>
+      <p id="ANOGUI_MBAVR1140004">[Nota in marg.] Vt dixi superius .4. modi vel tropi qui abusiue toni nominantur diuisi sunt in .8. [Qualiter quatuor modi diuisunt in octo. in marg.] Quando primus est. vocatur autentus protus id est autoritas prima Quando vero secundus vocatur plagalis proti id est subiugalis primi Tercius vocatur autentus deutrus id est autoritas secunda Quartus plagalis deutri id est subiugalis secundi Quintus vocatur autentus tritus id est autoritas tercia Sextus plagalis triti id est subiugalis tercii. Septimus vocatur autentus tetrardus id est autoritas quarta Octauus plagalis tetrardi id est subiugalis quarti Vide eciam quod autenti in numero non sunt alterati Protus enim grece 
+      <pb n="[f.13r]" />primus latine Deuterus grece secundus latine Tritus grece tercius latine Tetrardus grece quartus latine Plagales quandoque ut supra dictum est ab autentis in deposicione vim paciuntur. vsualium cantuum testimonio. sed in autentorum eleuacione nullo modo recipiuntur plus licito.</p>
+      <p id="ANOGUI_MBAVR1140005">[Nota in marg.] Omnes voces in musica sunt viginti. Ex eisdem vocibus sunt .14. regulares et naturales .6. addite et formales He sunt naturales A B C D E F G a [sqb] c d e f g He vero formales [Gamma] b aa [sqb][sqb] cc dd quia nihil operantur ad componendas. naturales consonancias octo modorum Ex supradictis naturalibus vocibus sunt quatuor naturales graues. quatuor finales. quatuor superiores. quatuor excellentes He sunt graues A B C D iste finales D E F G iste superiores a [sqb] c d iste vero excellentes d e f g in quibus vtraque D d biformis est D enim grauis cum sit vltima grauium prima est finalium d vero acuta cum sit vltima superiorum prima est excellencium hoc modo A B C D Tetracordum grauium D E F G Tetracordum finalium a [sqb] c d Tetracordum superiorum d e f g tetrachordum excellencium. [Tetrachordum grauium, Tetrachordum finalium, Tetrachordum superiorum, Tetrachordum excellencium in marg.] Iste quoque constituunt naturales consonantias .8. modorum. ex quibus in primis ostendo .4. diapason .4. plagalium post ostendam .4. autentorum.</p>
+      <p id="ANOGUI_MBAVR1140006">Secundus tonus quia primus est plagalium constat prima grauium A mediatur prima finalium D assendit legitime ad primam superiorum a cuius finis est medietas primi autenti quia primus est 
+      <pb n="[f.13v]" />plagalium.</p>
+      <p id="ANOGUI_MBAVR1140007">Quartus tonus quia secundus est plagalium constat secunda grauium B mediatur secunda finalium E terminatur secunda superiorum [sqb] cuius finis secundi autenti quia secundus est plagalium</p>
+      <p id="ANOGUI_MBAVR1140008">Sextus tonus quia tercius est plagalium constat tercia grauium C mediatur tercia finalium F terminatur tercia superiorum c cuius finis medietas est tercii autenti. quia tercius est plagalium.</p>
+      <p id="ANOGUI_MBAVR1140009">Octauus tonus quia quartus est plagalium constat quarta grauium D mediatur quarta finalium G terminatur quarta superiorum d cuius finis medietas est quarti autenti. quia quartus est plagalium.</p>
+      <p id="ANOGUI_MBAVR1140010">Primus tonus quia primus est autentorum constat prima finalium D mediatur prima superiorum a terminatur prima excellencium d cuius principium medietas est primi plagalium nam est primus autentorum.</p>
+      <p id="ANOGUI_MBAVR1140011">Tercius tonus quia secundus est autentorum constat secunda finalium E mediatur secunda superiorum [sqb] terminatur secunda excellencium e cuius principium medietas est secundi plagalium cum sit secundus autentorum.</p>
+      <p id="ANOGUI_MBAVR1140012">Quintus tonus quia tercius est autentorum constat tercia finalium F mediatur tercia superiorum c terminatur tercia excellencium f cuius principium medietas est tercii autentorum.</p>
+      <p id="ANOGUI_MBAVR1140013">Septimus tonus quia quartus est autentorum constat quarta finalium G mediatur quarta superiorum d terminatur quarta excellencium g cuius principium medietas est quarti plagalium quia quartus est autentorum.</p>
+      <p id="ANOGUI_MBAVR1140014">He sunt naturales diapason octo modorum. ut vnusquisque propriam habeat. alie si. forte inueniantur. non sunt naturales. sed formales Sicut signa et menses. Ita se habent autenti et plagales. 
+      <pb n="[f.14r]" />Sicut etenim quod libri signum in medio mensis sumit principium. sic quilibet autentus in sui plagalis medietate certissime scitur inchoare. plagales econtrario in medietate finiunt autentorum sicut menses medio signorum. mediatrices plagalium D E F G mediatrices autentorum a [sqb] c d autenti sunt in suo cursu inferius diapente superius diatesseron plagales econtrario inferius diatesseron superius diapente. principium autentorum. medietas plagalium. medietas autentorum finis plagalium</p>
+      <p id="ANOGUI_MBAVR1140015">[Nota in marg.] Vnusquisque modus sicuti propriam habet diapason. ita et propriam habet diatesseron siue diapente Diatesseron plagalium constant ex primis et mediis vocibus eorum. diatesseron vero autentorum constant ex mediis et terminalibus vocibus ipsorum Diapente plagalium constant ex mediis vocibus et terminalibus ipsorum Diapente autem autentorum constant ex primis et mediis vocibus ipsorum .4. sunt species diatesseron et .4. diapente. silicet species prima diatesseron constat ex prima grauium et prima finalium A et D species secunda constat ex secunda grauium et secunda finalium B et E species tercia constat ex tercia grauium et tercia finalium C et F species quarta constat ex quarta grauium et quarta finalium D et G hoc modo</p>
+      <p id="ANOGUI_MBAVR1140016">[Musica Guidonis, f.14r; text: Diatesseron, biformis, plagalium, A, B, C, D, E, F, G.] 
+      <figure>
+        <graphic url="/images/ANOGUI_01GF.gif" />
+      </figure></p>
+      <p id="ANOGUI_MBAVR1140017">Huiusmodi diatesseron sunt plagalium non communes cum autentis per proprietatem propter diuisionem eorum in duos He vero sunt 
+      <pb n="[f.14v]" />quatuor species diapente communes autentes et plagalibus. autenti enim habent inferius diapente superius diatesseron. plagales autem habent inferius diatesseron superius diapente. mediatrices namque plagalium prime sunt autentorum. terminales autem plagalium mediatrices sunt autentorum ex quibus conformantur .4. species diapente et plagalium autentorum. species prima diapente constat ex prima finalium et vnum superiorum D et a species secunda constat ex secunda finalium et secunda superiorum E et [sqb] species tercia constat ex .3. finalium et .3. superiorum F et c species quarta constat ex .4. finalium et .4. superiorum G et d hoc modo</p>
+      <p id="ANOGUI_MBAVR1140018">[Musica Guidonis, f.14v, 1; text: Diapente, plagalium, autentorum, D, E, F, G, a, [sqb], c, d, e.]</p>
+      <p id="ANOGUI_MBAVR1140019">Iste vero sunt .4. species diatesseron autentorum. non communes cum plagalibus. scilicet species prima ex primo superiorum et vnum excellencium a et d species .2. ex .2. superiorum et .2. excellencium [sqb] et e species .3. ex .3. superiorum et .3. excellencium c et f species .4. ex .4. superiorum et .4. excellencium d et g hoc modo quod sequitur</p>
+      <p id="ANOGUI_MBAVR1140020">[Musica Guidonis, f.14v, 2; text: Diatesseron, autentorum, a, [sqb], c, d, e, f, g.]</p>
+      <p id="ANOGUI_MBAVR1140021">Huiusmodi species consonantiarum trium silicet Diapason Diapente Diatesseron sunt naturales. et constituunt 
+      <pb n="[f.15r]" />.8. modos. alie vero si inueniantur non sunt naturales sed formales Sciendum est itaque de tribus supradictis consonanciis quod similibus vocibus componuntur diapason enim cum in se et diatesseron et diapente continet easdem litteras in vtroque latere quibus componitur habet A et a. B et [sqb] et sic simili modo que eedem sunt et easdem consonancias et in eleuacione et in deposicione continet Diapente que constituit modos eciam ex similibus vocibus componuntur. diapente enim prima est ex finalium D et prima superiorum a componitur que similes sunt. easdem consonancias in eleuacione continent. sed in deposicione D enim deponitur tono. a ditono. et sicut Guido testatur eiusdem sunt modi. Simili modo E et [sqb] eiusdem sunt modi et easdem consonancias et in eleuacione et deposicione continent eodem modo F et c. G et d in deposicione naturaliter similes sunt. in eleuacione non similes nisi b mollis supponatur Voces autem que constituunt diatesseron plagalium similes sunt eodem modo a et d in eleuacione et deposicione similes sunt. eodem modo [sqb] et e. c et f et in eleuacione et deposicione similes sunt d et g in deposicione regulariter similes sunt et quandoque b mollis frequentatur tunc d et g et in eleuacione et deposicione similes sunt. et propter hanc similitudinem quidam dicunt quod G finalis proti. potest esse quandoque similiter raro euenit aut nuncquam. sed tamen inuenitur aliquando. quando non potest finiri in propria finali D neque 
+      <pb n="[f.15v]" />in sociali eius a neque in diapason d quia post finalem vult habere et ditonum quod facit [sqb] et semiditonum quod facit b sicut in hac antiphona Collegerunt pontifices. et quod dicunt hac racione soluunt. non est mirum si cantus cuius finalis est D finem sumat in G que eadem similitudine per b mollis et eleuatur et deponitur. que G eciam cum D constituit naturalem diatesseron octaui toni silicet D cuius auxilio silicet G indiget auxilio. silicet G ad constituendam sui modi speciem eidem silicet D in cantu ne in fine finali errat reddat vicem non est mirum dico cum eciam cantus cuius finalis propria est E cum in ea non potest finiri neque in sociali [sqb] ad a que similiter alterius modi est et que nullam speciem regularem modorum cum f constituit distincciones omnes f eciam finem multociens coaptat propter similitudinem quam habet a cum e in deposicione et eleuacione si b mollis superponatur quod in .4. tono ita fieri sepe probatur non est eciam mirum si primus tonus finem capiat in G que est finalis .7. et .8. toni cum primus et .8. eandem habent diapason silicet de D in d ut supra dictum est. He .4. voces D E F G sunt finales regulariter .8. modorum in D enim finem coaptat regulariter Autentus protus. et Plagalis proti id est primus et secundus tonus. sed si protus vel plagalis eius sub finali ditonum velint quandoque habere quia effectus iste deest sub D in a acuta que socialis eius est que eiusdem modi est. et diapente primi et secundi toni regulariter cum D constituit finem coaptandi. vel omnes distinctiones finiendi tam autento quam plagali licencia datur et in omnibus vocibus suis. siue in eleuacione siue in deposicione. hanc scilicet A pro propria finali D habendi 
+      <pb n="[f.16r]" />licencia omnibus modis conceditur. Finitur eciam protus silicet A in diapason conceditur quoque ad hinc finalis proto et plagalis eius G videlicet tali racione qua supradictum est sed raro euenit E autem grauis finalis est. regulariter autenti deuteri et plagalis eius id est tercii et quarti toni. silicet si transuersus fuerit cantus ita ut non possit in propria finali F finiri in [sqb] finem capiat que eiusdem est modi et regularem diapente tercii et quarti toni cum E constituit. conceditur eciam huiusmodi et tercia finalis a acuta propter illam racionem et similitudinem que supra ostensa est F vero grauis finalis est autenti triti et plagalis eius id est quinti et sexti toni sed si sub finali plenum tonum velint habere quia iste effectus deesse sub F in sociali c acutum finem coaptet que eiusdem est modi et regularem diapente quinti et sexti toni cum F constituit. tercia finalis non conceditur G vero grauis finalis est regulariter autenti tetrardi et plagalis eius id est 7 et .8. toni sed sola est alia namque non inuenitur nec conceditur. Autenti sicut Guido testatur raro sub finali sumunt principia. sed si forte fit. irreprehensibiles manent quia autorales sunt. et omnes voces autoritate quasi proprias continet. de finali autem usque ad quintam vocem in eleuacione sumunt principia. ex quibus tamen duo diuersi sunt ab aliis. protus videlicet in deposicione principii. deuterus in eleuacione principii. protus namque sub finali multociens ad primam aliquando et ad quartam sumit principium. deutrus autem post finalem quandoque principium eciam ad sextam tendit. Plagales econtrario sub finali usque ad quintam vocem habent potestatem incipiendi. sed post finalem plagales proti et triti 
+      <pb n="[f.16v]" />non nisi ad terciam tendunt principia. plagales vero deutri et tetrardi. post finalem usque ad .4. vocem quandoque tendunt principia Sciendum est quod nullus modus suum seculorum amen. sub finali incipiat. sed post finalem secundum quod sumunt principia neumarum. sumunt et seculorum amen Et ut in pausis excludam huiusmodi. nullus modus supra suum seculorum amen sumit principium. Potest autem et vnusquisque modus in eadem neupma duabus finalibus cantum suum quandoque coaptare. proprie videlicet finali. et eius sociali ita silicet etiam ut circa propriam finalem secundam quod concessum est principium sumat et omnes priores distinctiones in ipsa finiat. sed postquam paulatim eleuando intenditur ita ut socialem quasi propriam finalem inuadat. et circa eam eleuando posteriores distinctiones in ipsa finiat. ita fit demum. ut eiusdem neupme cantus duabus finalibus obediat. inferiores namque sumit deposicionem superioris eleuacionem. Huiusmodi vero cantus transuersus cantus vocatur quia translatus est de propria finali ad socialem et in sociali confidens tantum ultra concessiuas voces eleuatur. ut ad propriam finalem rediundi licenciam non habeat. sed in sociali quasi ex ea exdium finem sumat. finem sumat.</p>
+      <p id="ANOGUI_MBAVR1140022">[Musica Guidonis, f.16v]</p>
+      <p id="ANOGUI_MBAVR1140023">
+      <pb n="[f.17r]" />[Prologus de subiunctis regulis m.sec. in marg.] Pro ut diuina gracia inspirauerit aperire conemur qualiter vnusquisque autentas vel suis plagalis a suo finali progrediens iterum ad eumdem redeat licet supra vel infra in varios se sonos protendat. ac primo dicendum quot sint species. diatesseron. ac diapente. nec non diapason. habet enim diatesseron species .3. diapente .4. diapason .7. hec quidem species vario modo a quibusdam musicis ordinantur. nos vero iuxta racionem tonorum ordinabiliter eas ponimus ut facile intelligere poterit. qui vel tenuiter noticiam huius artis habuerit</p>
+      <p id="ANOGUI_MBAVR1140024">[Musica Guidonis, f.17; text: Superacute, Acute, Graues, [Gamma], A, B, C, D, E, F, G, a, b, c, d, e, f, g, aa, bb, cc, dd, ut, re, mi, fa, sol, la, [sqb], pro, Plumbum, Stannum, Ferrum, Aurum, Es, Argentum viuum, Argentum, Netehyperbolyon, Peranetehyperbolyon, Trytehyperbolyon, Netesinnemmenon, Peranetesinnemenon, Tritesinnemenon, Netediezeugmenon, Peranetediezeugmenon, Tritediezeugmenon, Peramese, Mese, Lycanosmeson, Perhypatemeson, Hypatemeson, Lycanoshypaton, Perhypatehypaton, Hypatehypaton, Proslambamynos, Gamma] 
+      <figure>
+        <graphic url="/images/ANOGUI_02GF.gif" />
+      </figure></p>
+      <p id="ANOGUI_MBAVR1140025">
+      <pb n="[f.17v]" />[species diatesseron in marg.] Est ergo prima regula species diatesseron constat ex tono semitonio et tono. exordium sumens a lycanosmeson et finiens in lycanosypaton. cui si adieceris tonum superius oritur et prima species diapente</p>
+      <p id="ANOGUI_MBAVR1140026">[species diatesseron in marg.] Secunda species diatesseron fit ex duobus tonis et semitonio incipiens a mese et finiens in ypatemeson. cui si adieceris tonum tonum superius erit secunda species diapente</p>
+      <p id="ANOGUI_MBAVR1140027">[species diatesseron in marg.] Tercia vero species diatesseron fit ex semitonio et duobus tonis incipiens a tritediezeugmenon et finiens in lycanosmeson. cui adhibendus est tonus inferius ut fiat tercia species diapente</p>
+      <p id="ANOGUI_MBAVR1140028">[species diapente in marg.] Quarta species diapente constat ex prima specie diatesseron adiecto tono inferius non quidem per eiusdem nominis cordam sed altius id est a paranetediezeugmenon incipiens ac sic per tonum semitonium et tonum in meson descendit assumto que tono inferius quartam speciem diapente perficit</p>
+      <p id="ANOGUI_MBAVR1140029">[species diapason in marg.] Diapason vero species perfacile est videre. si enim a proslambaminos inceperis usque in mese prima species erit sic que semper semitonio vel tono alterius per ordinem repetendo septime speciei finis erit in paraneteyperbolyon sin autem exordium sumis ab ypateypaton et erit finis in netehyperbolyon.</p>
+      <p id="ANOGUI_MBAVR1140030">[Protus in marg.] Protus constat ex prima specie diapente et ex prima specie diatesseron superius id est quarta specie diapason subiugalis eius ex eadem specie diapente et ex eadem specie diatesseron inferius id est prima specie diapason. quod autem dico tale est. primus tonus a suo finali id est a lycanosypaton habet licenciam ascendendi 
+      <pb n="[f.18r]" />in diapente hoc est in mese a mese in peranetediezeugmenon qui est prima species diatesseron constans ex tono semitonio et tono Secundus vero tonus qui dicitur eius subiugalis in eamdem diapente ascendit et insuper tonum sed descendit per eamdem speciem diatesseron secundum Boicium secundum ceteros aut insuper tonum Et protus quidem aliquando vnum tonum licenter super diatesseron admittit sicut ceteri autentici preter deuterum qui semitonium tantomodo assumit et raro tono in semitonia id est protus infra finalem descendit in diatesseron aliquando in diapente. similiter et tres autentici iuxta ordinem suorum finalium</p>
+      <p id="ANOGUI_MBAVR1140031">[Deuterus in marg.] Deuterus constat ex secunda specie diapente et secunda specie diatesseron superius id est specie diapason subiugalis eius ex eadem specie diapente et ex eadem specie diatesseron inferius id est secunda specie diapason</p>
+      <p id="ANOGUI_MBAVR1140032">[Tritus in marg.] Tritus constat ex tercia specie diapente et tercia specie diatesseron superius id est sexta specie diapason subiugalis eius ex eadem specie diapente et tercia similiter specie diatesseron inferius</p>
+      <p id="ANOGUI_MBAVR1140033">[Tetrardus in marg.] Tetrardus constat ex quarta specie diapente et ex prima specie diatesseron superius id est ex sexta specie diapason subiugalis eius ex eisdem speciebus inferius id est quarta specie diapason Omnis tropus subiugalis eamdem habet diapente et diatesseron quam autenticus eius. differunt autem in hoc quod autentus diatesseron habet supra diapente subiugalis infra notandum est quoniam omnium autentico 
+      <pb n="[f.18v]" />unus supponitur tonus qui qui eminelis dicitur id est melo aptus et quoniam omnis tropus naturaliter in capite sui diapente incipit et in fine desinit et aliquando in fine diapente et incipit et desinit Verbi gracia primus tropus naturaliter incipit in A et desinit in D quod est suum diapente ut in hoc responsorium Peto domine Aliquando in D incipit et desinit in eadem ut hoc responsorium Solem iusticie. si vero sit simplex tropus suam predictam proprietatem id est suam diapason non excedit ut premissa Responsorium declarant. Sin autem compositus sit tropus vtramque proprietatem. sed autenti et subiugalis amplectitur ut hoc Responsorium Concede nobis. qui in finali incipiens ascendit ad D et descendit in A qua propter secundum quatuor species diapente. sunt quatuor incepciones voces vel corde a [sqb] c d et .4. finales D E F G autentus protus qui autoritate dicitur primus et autentus tetrardus qui autoritate dicitur quartus contrarii sunt eo quod diapente proti habet prius .2. tonos et post semitonium et in fine tonum. diapason vero tetrardi prius tonum et semitonium postea .2. tonos Concordant autem prima specie diatesseron exemplo quod tetrardi inferior est diateseron Autentus deutrus qui autoritate secundus dicitur et autentus tritus qui dicitur autoritate tercius contrarii sunt eo quod diapente deutri prius tres tonos et postea semitonium. habet diapente vero triti prius semitonium et postea tres tonos. diatesseron vero deutri est duorum tonorum et semitonii et diatesseron trito semitonii et duorum tonorum. Si conuerteris diapente proti. fit diapente tetrardi. et rursus tetrardi diapenti conuersa. fit diapenti proti. diatesseron eorum nullo 
+      <pb n="[f.19r]" />modo conuertitur. si conuerteris diapente deutri fit diapente triti rursus diapente triti conuersa. efficitur diapente deutri similiter potest conuerti eorum diatesseron</p>
+      <p id="ANOGUI_MBAVR1140034">Animauertendum quoque est cum omnis autenticus a suo finali incipiens licenter in nonum sonum ascendat aliquando modo decimum vel .11. quod tamen euenit in deutro sed raro et non nisi in quarto aliquando in quintum descendat subiugalis vero eius in quintum locum ascendat et insuper aliquando in tonum in quartum autem nec non quandoque in quintum descendat et ex hoc facile sit cognicio autentici vel sui plagalis. quid de hiis sit senciendum qui nec ad diapente pertingunt vel supra diapente diatesseron minime habent. sed nec inferius ad diatesseron pertingunt vel si inferius diatesseron habent et supra diapente aliquid non tamen usque ad diatesseron ascendunt. talis enim ordo super hiis nobis est seruandus. si quis cantus a finali suo ad diapente non pertingit nec diatesseron inferius habet pro sui breuitate vel imperfectione solemus eum subiugali designare. exempli causa. inter protum et eius subiugalem sicut in hac antiphona Benedicat Beata mater In omnem terram Iuste et pie viuamus. si vero ad diapente quidem peruenit et nec supra nec infra diatesseron habet quia diapente amborum [[habet]] amborum commune est. cantus quoque commune sit ita tamen ut altri eorum tribuatur cuius frequencior vsus habetur. ecce has antiphonas ad protum canimus Biduo viuens. Lux orta est. has vero que simili modo incipiunt et in eundem locum ascendunt et descendunt ut in hac antiphona O Domine 
+      <pb n="[f.19v]" />saluum me fac Oblatus est ad subiugalem eius canimus. si vero ultra diapente aliquid superius ascendit nec inferius diatesseron habet. cantus ille autentici erit quod frequencius quam ut exemplo indigeat euenire solet. sin autem inferius diatesseron habuerit. subiugalis erit ut in hac antiphona In spiritu humilitatis. vbi in eo loco sic fiat diapente tono supergreditur. sed quia diatesseron habet inferius in hoc loco. hodie. subiugalis ut supradiximus erit. vel certe si vtrumque et supra diapente et infra diatesseron inuenitur habere. Autentico magis debet aptari. quamquam hec regula partim cantorum inscita. partim longo vsu inueterata constet omnino in multis viciosa ut in cotidianis antiphanis que inueniuntur composite ex psalmis et aliis plurimis cantionibus Quod quidem ad regularem aliquatenus posset corrigi si in olita consuetudo ab ore cantantium potuisset vllo modo euelli ut ex pausis subter positis liquebit exemplis ut hic Petrus autem. que cum sit primi toni et per suum diastema vel sistema semper ad finalem primi toni recurrat ita canendo Petrus autem seruabatur in carcere Item anime ab ecclesia vbi in a sillaba apud quosdam incipit a recto deuiare et in tonum quartum declinare Quod tamen talibus neupmis si quis curat poterit emendare ut sic canat ab ecclesia ad Deum iterum Et respicientes Pastor bonus. cum sint magis tercii toni apud plerosque minus regulariter sorciuntur finem octaui. quod taliter potest corigi siue in fine harum antiphonarum vbi canendum est Alleluia a prima sillaba id est al que venit in mese per diatesseron in medio vocibus connumeratis in finem descendat ita</p>
+      <p id="ANOGUI_MBAVR1140035">[Musica Guidonis, f.19v; text: [sqb], b, e, f, g, a.]</p>
+      <p id="ANOGUI_MBAVR1140036">Interdum miro quodam euenit modo ut vnum idemque eque congruenter que cantari 
+      <pb n="[f.20r]" />possit hoc et illo tono veluti hee antiphone videlicet Gloriosi principes Nouit dominus. qui tam sexto quam eciam octauo tono reguntur et finiuntur. quas non nulli magis violenter quam vere ad tercium tonum conantur inflectere Item hoc responsorium Genti peccatriti. tam triti quam tetrardi sono regitur. vnde eiusdem responsorii. versus apud alios ad triti id est quinti toni modum ita canitur Esto placabilis Apud alios vero ad tetrardi Antiphone que vniformiter ab O incipiunt ut O sapiencia O rex gentium et hiis similes velut in quedammodo biuio inter protum et eius plagalium consistunt. eo quod tono diapente in omnibus superuadunt. diatesseron vero in quibusdam inferius habent. in quibusdam vero minime sed frequencior vsus in subiugali preualuit</p>
+      <p id="ANOGUI_MBAVR1140037">[Nota in marg.] [a finalibus m.sec. in marg.] Finales ergo sunt lycanosypaton. ypatemeson. perypatemeson. lycanosmeson. et hec est eorum regula ad quodlibet melum incoandi ut nec supra quintum superiorem nec infra quartum inferiorem locum aliquando incipiat sed inter eas octo voces aliquando nouem. inicia sua coibiant Notandum vero quod in quinto semper loco superioribus cum inferioribus finalibus quedam talis corda est ut aliquando mela in eis quasi regulariter inueniuntur finire velud hoc responsorium Terribilis est Cantabo domino. Hoc ergo fedus socialitatis obtinet. lycanosypaton cum mese. ypatemeson cum paramese. perypatemeson cum tritedyezeugmenon Omnis tropus siue ille autenticus sit. siue plagalis. si quarto a finali loco diligencius intuiatur. mira 
+      <pb n="[f.20v]" />ac diuina quedam concordia inuenietur. ita ut si quis cantus a finali in quartum locum transponatur legitime videatur sub eodem modo vel tono currere et in eodem velud in finali regulariter desinere. Adeo ut pleraque mela ab ipsis finalibus seu dextra leua que apte incepta minus conueniant propter semitonia que deest per loca. a superioribus vero inchoata. ab vllius soni diminucione decurrant modeste. finiantur que in socialibus ut enim hoc clarius elucescat. de quarto tono ponamus hec sub excemplo. Factus sum. antiphona O mors antiphona Sion renouaberis antiphona Sion noli timere antiphona tercio loco a recto finali Benedicta tu antiphona Vade iam antiphona Si has antiphonas tercio a finali loco id est a lycanosmeson incipere volueris in modulando deficis dum semitonium vbi esse debuit minime reperis Sin autem quartum locum id est mese attendas ac interposito primum semitonio in synemenon [symenon ante corr. supra lin.] deinde tono. sicque tercio loco hoc est paranete synemenon easdem inchoaueris totam cantilenam absque sui lesione videbis decurrere donec ad finalem sui comparem id est mese eam contingat in finem similiter eiusmodi antiphone Ad te Domine Ex egipto. si a finali ordiri contenditur minus apte in medio conuenire videbis. [vibis ante corr. supra lin.] si autem quarto loco id est mese incipiunt absque neumarum dispendio modulantur donec ibidem finem sorciantur quod quidam minus intuentes magis has et huiusmodi putant septimo quam quarto regi tono. quamquam regi easdem finem sortiri in quarto Non minimum eciam a plerisque erratur in communione communio De fructu operum. quam si a finali cantare seperis in medio cantilenam minus apte conuenire 
+      <pb n="[f.21r]" />per sua limata cognosces Si vero in quarto loco orditus fueris. totam cantilene huius seriem per ordinabilem progressionem sencies ad socialis sui finem pertingere. Hec pauca per exemplis sint posita. ceterum ut in huiusmodi defectionibus solet necessario synemenon in superioribus aliquando suffragari. ita non numquam videtur suffragari in hiis dumtaxat cantibus. qui inferioribus per synemenon decurrunt cuius vicem in superioribus supplere nequeunt. sed et hoc non semper hoc vero in talibus est obseruandum. ut si cantus a finali incipiat. quarto loco nihilominus incipere valeat. Si autem inferius vel superius quarto loco ibi a finali. hic ordinatur a quarto sociali Oportet illud eciam considerare ut cum in omnibus subiugalibus tonis. ascensus usque diapente et ultra suppetat Protus quousque in nonum sonum et ultra aliquando ascendere valeat et tres alii autentici in locum regulariter sibi ordinatur deficientibus neruis minus proueniant. quod doctus cantor quociens id racio exposcit inferius rediat ut per octaua loca voces resumat quas in superioribus non inuenerat. sed quanto [[loco]] [vocum supra lin.] interuallo singuli autentici vel laterales eorum supra vel infra a finalibus distent in differenciis suis vel quam ad vltimam seculorum Amen. sillabarum habitudinem seu spaciorum dimensionem habeant melius ostendamus. cum in ipso tonorum libello suis in locis id explicare curabimus. quia arcius memorie commendatur quidquid pre culicis habetur. Hoc tamen interim notandum est quod omnis principalis sonus siue ille sit autentici cuiuslibet siue plagalis eius. semper a finali suo in quem 
+      <pb n="[f.21v]" />regulariter desinit incipiat Differencie vero que ornatus causa peritorum cantorum placito sunt inuente. a nobis ita sint ordinate ut cuiusque toni differencia si qua in ipso finali incipiat primum locum optineat. secunda vero proximum inferius locum. sicque inferius quousque inuenitur progrediatur. deinde superius proximo quo occurrit loco iterum incipiat currere ordine suo usque ad quintum locum perueniat. vbi vnusquisque finalis socialem suum inueniat quatinus ipse finalis quasi dux et princeps moderator que in medio residens ex vtraque parte sui differenciis condat legem inchoandi. ipsas vero differencias. quidam diffiniciones vocantur In quo prouidendum nec dum quis verbum diffinicionis audierit eo sensu accipiat. quo sapientes diffinierut diffinicionem dictam esse oracionum. que id quod diffinit explicat quid sit. sed hic diffinicionem nihil aliud quam differenciam intelligat qua inicia cantus vel seculorum Amen a sono principalis toni. siue in extensione siue in remissione siue eciam eodem loco incipiendo suaui ac concordabili quadam differunt diuersitate quas nos rectius differencias quam diffiniciones dici debere arbitremur. maxime cum non aliquid ibi quid sit diffiniamus per orando sed varie seculorum amen. canendo aliter que melum ordiendo sonum discernamus a sono</p>
+      <p id="ANOGUI_MBAVR1140038">De octo tonis quo quisque eorum intendi vel remittendi et incipi et finiri regulariter debeat Cantus legitimus factus qui eciam dicitur accuratus hac debet mensuras tenere. incepcione. ascencione. et descencione</p>
+      <p id="ANOGUI_MBAVR1140039">[.1. tonus in marg.] Primus tonus orditur sua mela per senas cordas id est a C graui quod est perypateypaton usque ad .A. acutam quod dicitur mese. quocumque incipiatur in aliqua ex sex predictis. 
+      <pb n="[f.22r]" />finis tamen et distincciones cantus semper in D graui id est lycanosypaton erit. quia ipse est prima finalis. ascendit quoque in canendo regulariter usque ad suum diapason id est d. acutam quod est peranetedyezeugmenon et aliquando vna corda superius hoc est .e. quod dicitur netediezeugmenon et hoc raro nisi quando cantus euagatur propter longitudinem. descendit idem tonus regulariter ultra finalem vna voce. exipitur quoque quod aliquando causa dulcedinis vtitur descencione sui subiugalis scilicet A graui que dicitur prosolabaminos. et hoc licet sed regularem non est.</p>
+      <p id="ANOGUI_MBAVR1140040">[.2. tonus in marg.] Secundus tonus per .5. cordas incipit id est A graui usque ad F id est perhypatemeson non autem incipit in B quod est hypatehypaton quod est ignobilis ut Gregorius ait. Incipi potest in G quod dicitur lycanosmeson. quia est diatesseron eius sed hoc raro tamen diatesseron consideratur tamen inferioribus diapente vero in superioribus. et esiam hec vox scilicet G magis pertinet ad septimum et octauum tonum quam ad primum et secundum ascendit idem plagalis proti in canendo regulariter usque ad .[sqb]. quadratum id est peramese. descendit inferius a finali secundum Boicium per diatesseron secundum Guidonem per diapente Nota eciam de hoc tono quod vbicumque incipiat finis tamen cantus semper in D ut primus tonus terminat econuerso tamen .a. acuto quod est mese inceperit. tunc finis cantus in eodem terminabit et hoc ideo quia cromatico genere non vtimur quo antiqui vtebantur. et eciam hac de causa in suo diapason id est d acuto potest finiri dum in mese inceperit ut dixi 
+      <pb n="[f.22v]" />et hec omnia sunt licita non autem regularia vel accurata</p>
+      <p id="ANOGUI_MBAVR1140041">[3 tonus in marg.] Tercius tonus incipit cantum in c acuto quod est trytedyezeugmenon usque ad E graue id est ypatemeson non autem incipit in [sqb] quadrato vel b rotundo quod vocatur synomenon. et nota quod incipit hic tonus ultra diapente vna voce. quod nulli alii conceditur agere. quia nulla concordia est. sed concessus est soli. propter similitudo vocis rigorem Ascendit ad suum diapason. descendit ad C graue et ita vadit per decadordum. quod est regularem omnium tonorum cum discrecione consideratur. ut autorales accipiant supra. plagales vero infra per diatesseron et aliquando per dyapente ut secundus et octauus tonus. nuncquam hic autentus deutrus vel plagalis eius ad B graue regulariter descendunt. sed tamen qui vellet posset eos facere descendere usque ad A graue secundum regulam cuiusdam qui subiugales a finalibus volunt descendere per diapente. et autorales tamen licencia suorum subiugalium vti discrecione. subiugale quia suorum maiorum frui ascencione. sed hoc confusum videt esse. et non bene nec regulare</p>
+      <p id="ANOGUI_MBAVR1140042">[4 tonus in marg.] Quartus tonus orditur sua mela per .7. cordas id est a C graui usque ad c acutum secundum quosdam. quidam volunt tamen non sit suum sed sui autoralis quoniam ultra diatesseron non incipit superius. aliquis subiugalis finis autem istius et sui autoralis semper est in E graui quocumque incipiant exemplo quod incipit et finitur aliquando in diatesseron supra finalem suam. quod nulli tonorum regulariter preter ille liced nisi in diapente sed hec mese diapentica est ad primum et secundum tonum. et diatesserica est ad quartum. et ideo quod fieri debet in [sqb] quadrato fit in mese in illo tono Ascendit idem plagalis deutri usque ad [sqb] quadratum. descendit ut dixi ad C graue. sed et amplior descensio non posset esse</p>
+      <p id="ANOGUI_MBAVR1140043">
+      <pb n="[f.23r]" />[5 tonus in marg.] Quintus tonus incoat per .4. cordas id est ab F graui usque ad c acutum hoc est tritediezeugmenon non autem incipit in [sqb] quadrato. finis eius semper in F graui ascendit ad diapente et duas cordas superius ex necessitate vnam vero recto in re. ultra finalem vero nuncquam descendit propter inperfeccionum semitonii frequencius autem b rotundo vtitur. aliis tonis ipse eiusque plagalis. quia causa eorum inuentis per diatesseron iungitur eis. quoniam [sqb] quadrato a se differente tritoni non potuit concordari cum illo</p>
+      <p id="ANOGUI_MBAVR1140044">[6 tonus in marg.] Sextus tonus per easdem incipit per quas et autorialis finis. et ut quidem musici volunt ad diatesseron inferius in C graue quo eciam sepe in canendo vult descendere Ascendit regulariter ut suus autoralis. descendit ad perypaton ut dixi. finis eius est in F graui principaliter et in c acuto. quando incipit et finit secundaliter in diapente similiter. quando incoat in b rotundo tunc finem facit in eo quod eius est diatesseron vel in c supradicto causa euagacionis quoque in diapason licet finire. Sed vbi est euagacio non ibi est regule alicuius certitudo</p>
+      <p id="ANOGUI_MBAVR1140045">[7 tonus in marg.] Septimus tonus orditur aut in F aut in G aut in a acuto sed raro. sed in c acuto aut in d eius diapentico Ascendit autem quia virilis est in aa superacute id est netesinemmenon. descendit ultra finalem vna voce quod est decacordum. finis eius et sui plagalis in G graui semper nec rectius eo aliquis tonus incedit nullo modo. nec quicquam ut quidam alii mutuant a suo plagali quia quod habet proprium sufficit sibi</p>
+      <p id="ANOGUI_MBAVR1140046">[8 tonus in marg.] Octauus tonus incipit in lycanosypaton 
+      <pb n="[f.23v]" />id est D ad diatesseron inferius et ideo non incipit in diapente superius. et inchoat in F id est perypatemeson aut in G suo finali quod est lycanosmeson aut in c acuto id est tritediezeugmenon. rarissime vero in a acuto quod est mese. ascendit cantando regulariter ad diapente et vna voce superius id est netediezeugmenon. descendit ad diatesseron inferius et cui libuit vna voce plus Huc usque certas mensuras. incepcionis. ascencionis. descencionis. cantus in vnoquoque tono succincti digessi. regularia propria et licita per ordinem exposui. non generalia et communia eorundem tonorum prelibabo quo cantoribus et musicis nil sit dubium in canendi studio</p>
+      <p id="ANOGUI_MBAVR1140047">[Nota in marg.] Omnis tonus autenticus regulariter per suum diapason cantando currit et vna corda superius et vna inferius ut decacorda sit et infra suum totum diapente secundum quod moralitas erit pro ut vult incipit et vna corda inferius exemplo trito id est quinto tono quia finali inferius non incipit nec descendit ut superius dixi propter in perfeccioni semitonii. sed nec ipse nec aliquis tonorum in B graui vel quadrato hunc inicium</p>
+      <p id="ANOGUI_MBAVR1140048">Omnis vero subiugalis regulariter per finem diapente cantando incedit et vna corda superius. et diatesseron inferius. et eciam quidam diapente ut secundus et octauus et ita complent decacorda. necessario autem. secundus. quartus et septimus id est a finalibus acutis et incipiunt ac finiunt in confinio videlicet duorum diapason. Alias vero quo dat se moralitas nullus subiugalis superius. aut inferius. minus quam in duabus vocibus a finali inchoat. 
+      <pb n="[f.24r]" />et in tercia si fuerit raro id erit</p>
+      <p id="ANOGUI_MBAVR1140049">Sciendum quod de quibus ad antiphanis. vnde quidam contendunt cantores diuerse eas intonantes. quod quibusdam magistris musicis inde placuerit cum composicio earum recte modulata duorum tonorum sit quarundam primi et tercii toni ut est hic Cum audisset Iob Cum inducerent quarundam tercii et sexti toni ut est Gloriosi principes terre et alie. que ante appellantur. nothe. id est mixte eo quod partem habeant toni vnius parte alterius et hee in ecclesia tamen pronunciatur. intonari debet psalmus ad eas secundum tonum de quo principium orditur et hoc propter continuenciam. dum vero cantatur finis sit illius toni in quo habet clausulam. et ita nulla erit variacio quia non debet dici diuersa talis cantus posicio cum ipsi musici cantum facere volentes moralem. hanc secundum verba in hiis antiphonis posuere diuersitatem Aliter si hoc non obseruaretur nullus cantus accuratus haberetur Et quidem componere cantum non est ut quid iustii faciunt nemas agitare cum in hac operacione sancti spiritus vtendum sit in vocacione et eciam omnis musicalis simphonia celesti quadam compaginetur armonia ut quondam Pictagoras de malleis persepit. qui per eandem armoniam in racione numerorum musice versari scienciam cognouit. nec in eo sancti spiritus defuit.</p>
+      <p id="ANOGUI_MBAVR1140050">Petistis obnixe fratres karissimi quatinus paucas vobis de musica traderem regulas atque eas tantomodo quas pueri vel simplices sufficiant capere quibusque ad cantandi perfectam periciam velociter Deo adiuuante valeat peruenire. quod idio petistis. quia posse fieri ipsi audistis et vidistis certis que indiciis comprobastis Vobiscum quippe positus tantum cooperante deo 
+      <pb n="[f.24v]" />per hanc artem quosdam nostros pueros ac iuuenes docui ut alii [aliarum corr. supra lin.] ex eis triduo [[ex]] quidam quid vero vnius ebdomade spacio hac arte excercitati. quam plures antiphonas non audientes ab aliquo sed regulari tantomodo descripcione contenti per se discerent et post modicum indubitanter proferrent. non multis postea euolutis diebus primo intuitu et inprouiso quidquid per musicam descriptum erat. sine vicio decantabant. quod actinus communes cantores nuncquam facere potuerant dum plurium eorum quinquaginta iam annis in canendo vsu et studio inutiliter permanserunt. sollicite quoque ac curiosissime inuestigantibus quibusdam an per omnes cantus nostra valeret doctrina. assumpto quodam fratre qui ad comparacionem aliorum cantorum videbatur perfectus. antiphanorum sancti Grigorii diligentissime inuestigaui In quo pene omnia regulariter stare inueni. pauca vero que ab imperitis erant iniciata non minus aliquorum cantorum testimonio quam regule sunt autoritate correcta karissimi. tamen ex in prolixioribus cantibus voces ad altum cantum pertinentes id est superfluas eleuaciones vel deposiciones contra regulam inuenimus. sed quia illos cantus. omnium vsus vnanimiter defendat emendare non presumsimus Sane per singulos notauimus ne veritatem regule querentes dubios redderemus quo facto maiori desiderio accensi vehemensius precibus institistis quatinus ad honorem dei et sancte genitricis 
+      <pb n="[f.25r]" />Marie in cuius venerabili cenobio ista fiebant et regule fierent et tanquam vtilibus notis totum anphonarium cum tonorum formulis describeretur. de vestris erga precibus confidens et communis patris precepta suscipiens hoc opus intermittere nec volo nec vales. est autem aput sapientes huius seculi valde difficilis et ampla huius artis doctrina. cuicumque ita placuerit excolat et circuet campum. qui autem hoc paruum dei donum ab ipso perceperit. simplici cum pace saciabitur fructu. ut autem melius intelligatis hoc et necessaria per vtilitate accipiatis. vnus vestrum ad interrogandum vel colloquendum accedat pro ut deus donauerit respondere non negligam.</p>
+      <p id="ANOGUI_MBAVR1140051">[Monochordi diuisio. m.sec. in marg.] QVid est musica Dico quod musica est veraciter canendi sciencia et facilis ad canendi perfectionem via. quomodo. Sicut magister omnes tibi litteras in tabula ita et musicus omnes cantilene voces in monacordo insinuat [diffinitio monochordi m.sec. in marg.] Quale est illud monacordum. Lignum longum quadratum modo modis capse. et intus cauum in modum cithare super quod posita corda sonat cuius sonitu varie vocum facile comprehendas Quomodo ponitur ipsa chorda Per mediam capsam in longum linea recta ducitur et relicto ab vtroque capite vnius vncie spacio in eadem linea ab vtraque parte punctus ponitur. in relictis vero spaciis duo capitella collocantur. que ita cordam super lineam suspensam teneant ut tanta sit corda inter vtraque capitella. quanta et linea que sub chorda est Qualiter potest vna chorda multas et varias reddere voces. Littere vel note quibus musici vtuntur in linea que est sub corda posite sunt. dumque modulus inter li 
+      <pb n="[f.25v]" />lineam cordam que discurrit per easdem litteras curtando vel elogando cordam omnem cantum mirabiliter facit. et dum pueris per ipsas litteras notatur an facilius et melius a corda discunt. quam si ab homine illum audirent. et post paucorum mensium tempus excercitati. ablata corda solo vsu indubitanter proferunt et nuncquam audierunt. Mirabile est valde quod dicis. nostri quidem cantores ad tantam perfectionem nuncquam aspirare potuerunt et qualiter vel qua racione fieri potest ut melius quam homo doceat corda. Homo pro ut voluerit cantat. corda autem per supradictas litteras a sapientissimis hominibus tali est arte distincta ut mentiri non possit cum diligenter fuerit obseruata Que nam rogo est illa ars Mensura numeri. quod enim bene mensuratum est. nuncquam fallit Potero simpliciter in paucis verbis forsan ipsas mensuras addissere. Hodie annuente deo tantum diligenter asculta. in primo capite ad punctum quem diximus [[Gamma] in marg.] [Gamma] litteram id est G grecum. quare. quia raro est in vsu a multis non habetur. ab ipsa [Gamma] usque ad punctum quem in fine posuimus diuide in [.2. in marg.] duas partes equales. et ille punctus in medio erit G in grauibus. Item ab ipsa [Gamma] usque ad punctum quem in fine posuimus diuide in [.3. in marg.] tres partes equales. et primus punctus erit D in grauibus et secundus punctus erit .d. in acutis. Item ab ipsa [Gamma] usque ad punctus quem in fine posuimus. diuide in [.4. in marg.] quatuor partes equales. et primus punctus erit C in grauibus. secundus punctus erit G in grauibus. et tercius punctus erit .g. 
+      <pb n="[f.26r]" />in acutis. Item ab ipsa [Gamma] usque ad punctus in fine diuide in [.9. in marg.] nouem partes equales. et primus punctus erit [A in marg.] A in grauibus. Tunc ab ipsa A in grauibus usque ad punctum quem in fine posuimus. diuide in [.2. in marg.] duas partes equales. et ille punctus in medio erit .a. in acutis. Item ab ipsa A in grauibus usque ad punctus in fine. diuide in [.3. in marg.] .3. partes equales et primus punctus erit E in grauibus. et secundus punctus erit .e. in acutis. Item ab ipsa A in grauibus usque ad punctum in fine. diuide in [.4. in marg.] .4. partes. et primus punctus erit D in grauibus. secundus punctus erit .a. in acutis. et tercius punctus erit .aa. in superacutis. Item ab ipsa A in grauibus usque ad punctum in finem diuide in [.9. in marg.] .9. partes equales. et primus punctus erit [B in marg.] B in grauibus. Tunc ab ipsa B in grauibus usque ad punctum in fine. diuide in [.2. in marg.] .2. partes. et ille punctus in medio erit .[sqb]. in acutis. Item ab ipsa B diuide in [.3. in marg.] tres partes et primus punctus erit mi sita inter F et G in grauibus. et secundus punctus erit mi sita inter .f et g in acutis. Item ab ipsa B diuide in [.4. in marg.] .4. et primus punctus erit E in grauibus. et secundus punctus erit .[sqb]. in acutis. et tercius punctus erit .[sqb][sqb]. in superacutis. Tunc ab ipsa [C in marg.] C in grauibus usque ad punctum in fine. diuide in [.2. in marg.] duas partes equales et primus punctus erit .c. in acutis. Item ab ipsa C diuide in [.3 in marg.] tres partes et primus punctus erit G in grauibus et secundus punctus erit .g. in acutis. Item ab ipsa C diuide in [.4. in marg.] quatuor partes. et primus punctus erit F in grauibus secundus punctus erit .c. in acutis et tercius punctus erit .cc. in superacutis. Item ab ipsa C diuide in [.9. in marg.] nouem partes 
+      <pb n="[f.26v]" />equales et [primus supra lin.] punctus erit [D in marg.] D in grauibus. Tunc ab ipsa D in grauibus usque ad punctus in fine. diuide in [.2. in marg.] duas partes equales. et ille punctus in medio erit .d. in acutis. Item ab ipsa D diuide in [.3. in marg.] tres partes. et primus punctus erit .a. in acutis. et secundus punctus erit .aa. in superacutis. Item ab ipsa D diuide in [.4. in marg.] .4. partes. et primus punctus erit G in grauibus. secundus punctus erit .d. in acutis. et tercius punctus erit .dd. in superacutis. Item ab ipsa D diuide in [.9. in marg.] nouem partes et prima punctus erit [E in marg.] E in grauibus Tunc ab ipsa E in grauibus diuide in [.2. in marg.] duas partes equales et primus punctus erit .e. in acutis. Item ab ipsa E diuide in [.3. in marg.] tres partes. et primus punctus erit .[sqb]. in acutis. et secundus punctus erit .[sqb][sqb]. in superacutis. Item ab ipsa E diuide in [.4. in marg.] .4. partes. et primus punctus erit .a. in acutis. et secundus punctus erit .e. in acutis. et tercius punctus erit .ee. in superacutis. Tunc ab ipsa [F in marg.] F in grauibus diuide in [.2. in marg.] duas partes equales. et ille punctus in medio erit .f. in acutis Item ab ipsa F diuide in [.3. in marg.] tres partes et primus punctus erit .c. in acutis et secundus punctus erit .cc. in acutis. Item ab ipsa F diuide in [.4. in marg.] .4. partes et primus punctus erit mi sita inter .a. et .[sqb]. in acutis secundus punctus erit .ff. in superacutis et tercius punctus erit .fff. in superacutis acute. Item ab ipsa F diuide in [.9. in marg.] nouem partes et primus punctus erit [G in marg.] G in grauibus. Tunc ab ipsa G diuide in [.2. in marg.] duas partes equales et ille punctus in medio erit .g. in acutis Item ab ipsa G diuide in [.3. in marg.] tres partes et primus punctus erit .d. in acutis et secundus punctus 
+      <pb n="[f.27r]" />erit .dd. in superacutis Item ab ipsa G diuide in [.4. in marg.] .4. et primus punctus erit .c. in acutis et secundus punctus erit .g. in acutis et tercius punctus erit .gg. in superacutis acute Item ab ipsa G diuide in [.9. in marg.] nouem et primus punctus erit [.a. in marg.] .a. in acutis Tunc ab ipsa .a. in acutis diuide in [.2. in marg.] duas partes et punctus in medio erit .aa. in superacutis Item ab ipsa .a. diuide in [.3. in marg.] tres partes et primus punctus erit .e. in acutis secundus punctus erit .ee. in superacutis. Item ab ipsa .a. diuide in [.4. in marg.] .4. partes et primus punctus erit .d. in acutis. secundus punctus erit .aa. in superacutis et tercius punctus erit .aaa. in superacutis acute. et sic ascendendo ad placitum.</p>
+      <p id="ANOGUI_MBAVR1140052">[Nota m.sec. in marg.] Preterea notandum est quod iste littere scilicet CDFG tam in grauibus quam in acutis et superacutis. semper quarta pars retro posita erit musica. verbi gracia ab F in grauibus diuide in quatuor partes equales usque ad [[in]] finem. et tunc illa quarta pars retro posita .[sqb]. quadrata. erit .b. quam dicimus rotundum. et sic de aliis que pertinent monacordi. Deo gracias bene intelligo et quia monacordum amodo sciam facere confido Sed quid illud obsecro quod regulariter mensurato monacordo alibi minora spacia vel interualla inter voces aspicio Maius spacium tonus dicitur ut est a [Gamma] in prima A et a prima A in secundam B minus vero spacium sicut est a secunda voce in terciam semitonium vocatur faciens contractiorem eleuacionem vel deposicionem. nulla autem mensura vel numero spacium semitonii ad finem usque perueniet 
+      <pb n="[f.27v]" />sed cum per supradictam racionem diuisiones fiunt suis in locis toni et semitonia formantur. tonos autem omnes si ad extremum duxeris nouenaria in omnibus diuisione inuenta mirabiliter sicut prima A in secundam a primitus fecisti. prima nona b et secunda nona [sqb] ad se inuicem neque tonum neque semitonium faciunt sed A prima nona ad octauam semitonium ad .10. vero tonus a secunda autem nona ad octauam econtrario tonus est. ad .10. vero semitonium. Idoque narracio earum superflua est et in quocumque cantu vnam recipies. aliam contempnes ne in eodem loco quod penitus absurdum est et tonum et semitonium videaris. sed de tonis et semitoniis in hac figura nota bene</p>
+      <p id="ANOGUI_MBAVR1140053">[Musica Guidonis, f.27v; text: [Gamma], A, B, C, D, E, F, G, a, b, [sqb], c, d, e, f, g, aa, bb, [sqb][sqb], cc, dd, tonum, semitonium.]</p>
+      <p id="ANOGUI_MBAVR1140054">Maxime mirandum est quod a [Gamma] in primam A et a primam in secundam per nouem modo diuisi et omnes eque tonos nouenaria constare diuisione probaui sed rogo si alie sunt monacordi diuisiones et pluribus inueniantur locis ostende Tres sunt preter tonum diuisiones que naturalem vocum quam supra dixi posicionem custodiunt [prima in marg.] Prima per quaternaria est per quam in .4. diuisum est ut a prima in quartam habentur voces .4. interualla tria id est duos tonos et vnum semitonium vbicumque ergo in monacordo inter duas voces duos tonos et vnum semitonium inueneris ipsarum duarum vocum interuallum quaternaria diuisione currere ad finem usque probabis et ideo diatesseron dicitur quia de quatuor nomen accepit. [secunda in marg.] Secunda vero est ternaria ut a 
+      <pb n="[f.28r]" />prima voce in quintam in cuius spacio continentur voces .5. et interualla .4. id est toni tres et vnum semitonium vbicumque ergo inueneris inter duas voces tres tonos et vnum semitonium ipsarum vocum spacium ternis ad finem passibus curret vocatur autem diapente id est de quinque eo quod voces sunt in eius spacio .5. [tercia in marg.] tercia vero diuisio est que per duo vel medium diuidit id est de omnibus. Hanc ut supra monstratum est ex litterarum similitudine patenter agnoscis ut a prima in octauam constat autem vocibus octo interuallis septem [id est supra lin.] tonis quinque et semitoniis duobus. continet eciam vnum diatesseron nam cum a prima in quartam sit diatesseron et a quarta in octauam sit diapente. a prima in octauam inuenitur diapason hoc modo</p>
+      <p id="ANOGUI_MBAVR1140055">[Musica guidonis, f.28r; text: A, a, 4. 5. Diapason, Diatesseron, Diapente.]</p>
+      <p id="ANOGUI_MBAVR1140056">In pausis verbis de diuisionibus non pauca cognosco sed eadem littere in prima et secunda parte qualiter fiant audire desidero Hoc ideo fit quia cum secunde partis voces absque nona fiant adeo inter se pars vtraque concordat ut quecumque littere in prima parte tonum vel semitonium diatesseron vel diapente diapason faciunt. similiter et in secunda parte facere comprobentur verbi gracia in prima parte [Gamma] ad A est tonus ad B duo id est ditonus ad C diatesseron ad D diapente ad G diapason. similiter et in secunda parte de G ad a ad [sbq] ad c ad d ad g vnde fit ut omnis cantus ut in prima et in secunda parte cantetur sed prime partis vocis ad voces secunde partis quasi viriles cum puerilibus vocibus concorditer cantant. sapienter id factum [esse supra lin.] perpendo. Nunc autem qualiter cantum 
+      <pb n="[f.28v]" />notare ut ego illum sine magistro comprehendam. primum audire expecto ut cum exempla regularum dederis ea melius recognoscam. et si penitus mentem quid excesserat ad tales notas indubitanter recurram Litteras monacordi sicut per eas cantelena discurrit ante oculos pone. ut si non vim ipsarum litterarum plene cognoscis secundum easdem litteras cordam percucias et ab ignorante magistro mirifice audias et discas Vere inquam mirabilem magistrum dedisti mihi quia me factus me doceat cum ipse nihil sapiat Immo propter pacienciam et obedienciam suam. eum maxime amplector. cantabit enim mihi quando voluero. et nuncquam de mei sensus tarditate commotus verberibus vel iniuriis cruciabit Bonus magister est sed diligentem auditorem requirit. in quibus maxime diligencia est adhibenda In coniunccionibus vocum que consonancias faciunt diuersas ut sicut diuerse sunt et differentes ita dissimiliter et differenter vnamquamque earum oportune pronuntiare valeas Quot sunt precor hee differencie edissere et communibus exemplis ostende Sex sunt differencie siue coniuncciones vocum tam in deposicione quam in eleuacione. [prima coniunccio in marg.] prima vero coniunccio vocum est cum ille due voces iunguntur inter vnus semitonius ut a quinta in sextam. que consonancia omnibus contractior est ut prima eleuacio huius antiphone Exultate deo. alia. Stella ista. In deposicione vero per reciprocacionem 
+      <pb n="[f.29r]" />ita Te deum trinum. alia. Vidimus stellam. [secunda coniunccio in marg.] Secunda vero coniunccio vocum est cum inter duas voces vnus est tonus ut a tercia in quartam in eleuacione ita. Clamant. alia. Mittens. In deposicione vero sic Angelus domini [tercia coniunccio in marg.] tercia coniunccio vocum est cum inter duas voces tonus et semitonius differenciam faciunt ut a quarta in sextam hoc modo in eleuacione Iohannes autem. in deposicione ita. In lege domini. [quarta coniunccio in marg.] Quarta est coniunccio vocum cum inter vocem et vocem duo sunt toni ut a sextam in octauam in eleuacione ita Adhuc multa. in deposicione Ecce Maria. [quinta coniunccio in marg.] Quinta per diatesseron fit. ut a prima in quartam hoc modo in eleuacione Omnes patriarche. deposicio vero huiusmodi est Secundum autem. [sexta coniunccio in marg.] sextam autem per diapente. ut a quartam in octauam ut Primum querite. in deposicione vero ut a septimam in terciam hoc modo Canite tuba Alie vero regulares coniuncciones vocum nuncquam reperiuntur In maxime sepe errorem vulgares cantores laborantur quia vim toni et semitonii aliarumue consonancium minimo perpendunt. id enim vnusquisque eorum eligit quod primum auribus placuerit vel quod facilius ad discendum pronuntiandumue prouenerit fit que magnus error in multis cantibus cuius modi sint. modos autem dixi de octo tonis omnium cantuum qui in formulis per ordinem fiunt ne si tonos dixerim dubitacio fiat an de tonis formularum. an de tonis qui nouenaria facti sunt diuisione dicatur. Illos itaque cantores si de aliquo 
+      <pb n="[f.29v]" />cantu interrogaueris cuius modi sit. illico respondent quod nesciunt. ac si a perfecte cognoscerent. quod si ab eis argumentum vnde hoc sciant quesieris. titubantes dicunt. quod sit similis in principio et in fine aliis cantibus eiusdem modi cum de nullo omnino cantu cuius modi sit sapiunt nescientes quod sepe vnius vocis dissimilitudo vocum mutare compellit ut in hac antiphona. O beatum pontificem. cum in principio et in fine secundi modi sit propter illius tantum vocis eleuacionem vbi dicitur. O Martine. in primo tono a domine curiosissime emendatata. Itemque in alia antiphona. Domine quis operati sunt. hoc diligencius probare poteris. nam si eam incipias in .6. modo ut multi probant in F littera non non discrepabit ab eo tono usque in semitonium qui est in tabernaculo tuo in vna sillaba. sed quia ita in vsu est et bene sonat emendari non debet. sed qui inquiramus an si forsitan in alio tono incipiatur. tota in eo tono consona inueniatur et eam emendari opus non sit. Incipe itaque eam in G littera hoc est in octauo tono et regulariter in eo stare probabis. vnde quidam incipiunt. Domine qui operati sunt. sicut antiphona Amen dico vobis. ex quo comprehenditur quia imperitus musicus est qui facile ac presumptuose plures cantus emendat. nisi prius per omnes modos inuestigauerit si forsitan in aliquo stare possit. nec magno opere de similitudine aliorum cantuum sed de regule veritate curet. quod nulli tono placet secundum eum tonum emendandum est in quo minus dissonat atque hoc obseruari debet ut emendatus cantus aut desencius sonet aut a priori 
+      <pb n="[f.30r]" />similitudine parum discrepet Bene de inercium errore me cantum fecisti nec non eciam de regulare monacordi curiosa inuestigacione ac regularum cantuum approbacione. falsarum [[ve]] [ne supra lin.] emendacione vtiliter sencio pro ut oportet excercencibus licet paucis verbis non modicam dedisti periciam. Verumtamen quot vicibus cantus fieri debet adiunge. Alii asserunt .8. alii .9. alii .10. Quare octo Propter maiorem diuisionem id est diapason quia apud antiquos octo sonis sithare fiebant Quare .9. propter bis diapente que nouem vocibus terminantur. nam cum a [Gamma] in quartam fit diapente vnum atque [ab supra lin.] eadem quarta in octauam aliud diapente a [Gamma] in octauam nouem sunt voces Quare .10. propter dauitici autoritatem psalmi vel quia in .10. vocibus ter diatesseron inueniantur a gamma autem in terciam vnum diatesseron est. a tercia in sextam aliud inuenitur. a sexta in nonam primam terciam restat. et ideo in gamma in nonam primam .10. numerantur voces Possunt esse et pauciores voces in cantu Possunt vtique .5. vel .4. sed ita quidem ut et .5. diapente et .4. diatesseron reddant Prolata racio et pene omnium cantuum testimonium attestacio probat verum esse quod dicis Quid autem sit tonus quem sepius modum vocas expono Tonus vel modus est regula que de omni cantu in fine diuidi dat. nam nisi scieres finem non poteris cognoscere vbi debes incipi vel quantum eleuari vel deponi debet cantus Qui regulam simili principium a fine Omne principium secundum .6. consonancias suo fini concordari debet. et quecumque voces per easdem consonancias possunt conuenire fini 
+      <pb n="[f.30v]" />in eisdem quoque vocibus poterit incipi cantus illius finis excepto quod cum cantus finitur in voce quinta scilicet E que est primum semitonium in tercio modo sepe inuenitur incipi in voce .10. scilicet c que ab eadem vno diapente vnoque semitonio elongatur Distinctiones quoque id est loca in quibus repausamus in cantu et in quibus cantum diuidimus. in eisdem debet finiri vnoquoque modo in quibus possunt incipi cantus eiusdem modi manifestum est. et vbi melius et sepius vnusquisque modus conuenit. ibi melius et decensius suas distinctiones incipere vel finire consueuit. plures autem distinctiones in ea voce que modum terminant debere finiri. magistri tradunt ne si in alia aliqua voce plures distinctiones quam in ipsa fiunt in eadem quoque cantum finiri expectant et a modo in quo fuerant mutari compellant. Ad eumdem modum magis cantus pertinet ad quam sue distinctiones amplius currunt. Nam et principia sepius et decencius in eadem voce que cantum terminat inueniuntur. dicte recte exemplum in hac antiphona comprobabis Tribus miraculis. ecce vna distinctio. Ornatum diem sanctum colimus. ecce alia Hodie stella magos. ecce alia Hodie Iohanne. Christus se voluit baptisari Vides itaque quod in regulari cantu plures distinctiones in suo tono incipiant et finiant. et quod in eadem voce cantus incipiat et finiatur. Ita est ut asseris et magistrorum cantorum autoritate hoc vtique defenditur verum de eleuacione et deposicione quam a fine regulam cantus sumat prosequere. In acutis vel eleuatis 
+      <pb n="[f.31r]" />cantibus ut in primo tono .3. 5. et .7. nullus cantus plus a suo fine quam ab octauam vocem debet assendere in qua voce eadem littera est. qui et in fine propter diapason diuisionem que dicitur precipuam quantitatem habebunt. Idem cantus habebunt ante finem vocem vnam At vero in humilioribus vocibus ut in secundo tono .4. 6. et .8. nulla deposicio alicuius vocis ante finem incipere inuenietur que ad ipsum finem secundum sex predictas consonancias non iungatur. eleuacio autem eorum a fine secundum easdem consonancias ad .5. voces progreditur. aliquando ad .6. usque procedunt. In quibus autem vocibus omnium modorum cantus secundum presentem vsum sepius incipiat in eorum formulis preuidebis Quoniam probasti omnium modorum cantus a fine regulam sumere. quot sunt ipsi modi vel toni tempus est dicere .4. esse modos quidam putant quare quia omnis regularis cantus in .4. monacordi vocibus finiri potest. Que sunt ille voces. quarta D in quam terminant modus qui dicitur autentus. protus id est autor vel princeps primus. quinta E in qua terminant modus qui dicitur autentus deutrus id est autor vel princeps. secundus Sexta F in qua terminant autentus id est tercius Septima G in quam terminant autentus tetrardus id est quartus Hii autem .4. diuiduntur in .8. Quare quare propter humiles et eleuatos cantus. nam cum acutus et eleuatus cantus fuerit in eleuato proto dicitur modus autentus protus. si vero fuerit grauis et humilis in eodem autento dicitur plagalis proti Quare 
+      <pb n="[f.31v]" />dicitur plaga proti Plaga proti pars primi dicitur eo quod finiatur in eadem parte id est loco vel voce monacordi in qua finitur autentus protus. Similiter cum acutus fuerit in autento deutro dicitur autentus deutrus. si autem planus fuerit plaga deutri nominabitur. eodem modo dicetur de authento trito. plaga triti et de autento tetrardo. plaga tetrardi consuetudo autem tradidit dicere pro autento proto et plaga proti modum primum et secundum. et pro autento deutro et plaga deutri. modum tercium et quartum. et pro autento trito et plaga triti modum quintum et sextum et pro autento tetrardo et plaga eius modum septimum et octauum. Igitur octo sunt modi per quos omnis cantus discurrens .8. dissimilibus qualitatibus variatur Qualiter potero eorum differencias et communitas aduertere. per tonos et semitonos. vbi enim toni et semitonii fiunt ibi et relique consonancie similiter fiunt vbicumque enim duo toni et semitonius fuerit. ibi et diatesseron erit. et vbicumque tres toni semitonio adherebunt. ibi et diapente non deerit. similiter et reliquis consonanciis oportet intelligi. ergo age obsecro et de modis que secuntur edicito</p>
+      <p id="ANOGUI_MBAVR1140057">Primus tonus finitur in voce quarta silicet D proceditque in .8. in qua est eadem littera d per tonos et semitonios ita primo finem primo tonus occurrit. deinde semitonius et duo toni. deponitur vero a fine ad vocem terciam Qui autem decacordum volunt facere adiciunt secundam vocem. [.6. supra lin.] sed non est in vsu ut primus modus deponatur ad eam Incipit autem eiusdem modi cantus in C ut O beatum pontificem. sepius autem in D quando concordat principium cum fine ut Ecce nomen domini. in E quoque 
+      <pb n="[f.32r]" />sed raro ut Aue Maria in F ut Ipsi soli in G quoque ut Canite tuba in a eciam ut Veniet dominus</p>
+      <p id="ANOGUI_MBAVR1140058">Secundus tonus eciam similiter et finitur et ascendit cum usque ad nonam primam ad .10. vero et ad .11. non peruenit Deponitur a fine tono et semitonio et tono usque ad primam A aliquando autem ad [Gamma] sed raro et fiunt .10. corde habet itaque secundus tonus [Gamma] primam A secundam B quas non habet primus. primus habet decimam c et vndecimam d quas non habet secundus. sunt autem plurimi eorum cantus qui ad [Gamma] et primam A et secundam B non deponuntur. ad .10. c et ad .11. d non eleuantur de quibus dubium est an sint primi an secundi toni quorum ista discretio est. ad .8. et .9. si non ascendunt certissime do tono secundo sunt Erunt itaque .8. et .9. vtriusque communes. ad quas dum cantus ascendit si diu in eis permaneat siue tercio vel quarto repercutiat aut si in .8. incipiat. modi primi Sin autem inferioribus incipiat et secundum quantitatem antiphone rarissime ad illas secundi modi erit Alioquin iuxta formularum differencias vel varietates discernetur. Principia autem secundi toni ACDF in .a. ut Omnes patriarche. In .c. ut Nonne cor nostrum In .d. ut Ecce in nubibus celi In F ut Quem vidistis In [Gamma] B E G rarissima exempla inuenies De primi et secundi discretioni sufficit</p>
+      <p id="ANOGUI_MBAVR1140059">Tercius tonus in quinta finitur id est in E littera procedit vna diapason usque ad eandem .e. per tonos et semitonios. ita primum 
+      <pb n="[f.32v]" />semitonium deinde .3. tonos ac semitonium et duos tonos deponitur vero a fine ad quartam tono Sane ideo adamauit secundam nonam quia ad eius diapente est. maxime autem ideo quia ad acutissimam eius id est e diatesseron quia autem prope finem .3. tonos habet in descensione vel ascencione pocius salliendo quam gradiendo vadit vsitata autem eius principia sunt hec in E ut. Quando natus es In F ut Nunc scio vere In G ut. Multa quidem in C ut Tercia dies est</p>
+      <p id="ANOGUI_MBAVR1140060">Quartus tonus quia planus est non facit prope finem .3. tonos ideoque primam nonam .b. assumpsit ascendit que ad .10. habens post finem semitonium et duos tonos. deinde semitonium et tonum deponitur vero a fine duobus tonis ad terciam C plerumque ad secundam B et primam autento tono et semitonio. quia ad suum finem B secunda diatesseron et prima diapente consonanciam reddit. fiunt que voces per tonos et semitonios incedentes Principia eius inueniuntur in CDEFG In .c. ut Ego enim In .d. ut Prope esto In .e. ut Ostendit In .f. Iudea In .g. ut Nos scientes. discernitur quartus modus a tercio quia quartus habet primam. A secundam B terciam C quas tercius non habet Et tercius habet. vndesimam .c. et duodecimam .e. quas non habet quartus. quod si aliqua antiphona neque has terni neque illas habet quarti si in desimam incipiat vel si secundam nonam 
+      <pb n="[f.33r]" />amplius diligat tercii erit Alias in quarta ponitur si eius formule differencias imitetur. Volunt quidam quarto modo ad similitudinem tercii secundam B nonam tribuere eo quod [[da]] diapente sit ad finem eius. prima vero nona [sqb] ad eius finem nulla consonancia sit. sed magis nos communem vsum sicuti sumus Inuenimus preterea in difficilioribus cantibus ipsam [sqb] iungi tercio modo et iungi terciam vocem C ut sit decacordum. quod cum si fiat abusiuum esse non dubito. neque a tercia in duodesimam ter diatesseron inuenitur secundam predicti decacordam regulam. Non est mirum si inuenitur libri maxime dum sepe in eorum emendacione laborent et musici pauci inueniuntur et multa iam tempora antiphanaria emendata non sunt Non est ergo mirum si in multis locis falcitas inueniatur tantum precor regulam et communem vsum exequere que enim rarissime fiunt nullius artis solet regula approbari</p>
+      <p id="ANOGUI_MBAVR1140061">Quintus tonus in sextam terminat et cutissimam eius terciadecima eadem littera figuratur. et ipsam sexta iungitur. prime none per diatesseron et ipsa nona terciedecime F iungitur per diapente In quinto erga vel sexto primam nona valebit. habebit ergo F per ordinem duos tonos et semitonium. ac deinde tonos tres et vltimum semitonium octo vicibus Vsitata autem eius principia sunt hec F G 
+      <pb n="[f.33v]" />a c In .f. ut Haurietis aquas In .g. sed raro ut Rex noster adueniet In .a. ut Quinque prudentes In .c. ut Ecce dominus. nam quia tonum ante finem non habet nec in principio nec in incessu post se respexit.</p>
+      <p id="ANOGUI_MBAVR1140062">Sextus tonus graditur cum eo usque ad vndesimam sed deponitur a communi fine semitonio et duobus tonis ad terciam C sicut et quintus habet. decimam .c. terciamdecimam f quas non habet sextus. ita sextus habet terciam C quartam D quintam E quas non habet quintus Missetur sexto declinans in quartam fit que decacordum sed hoc inueniri maxime in antiphonis raro contingit. horum autem ista discretio erit cum nec deposicio sexti nec tanta eleuacio quinti. si in decima incipiet et eam vel vndecimam iuxta quantitatem suam sepe repercuciat. quintus erit modus. si autem non ascendit nisi ad nonam dicetur de sexto. siue per principia discernetur vix enim sextus nisi in suo fine incipiat ut Verbum caro factum est. aut in voce .4. ut Si ego verus Christi In .f. ut O admirabile. est quando inchoat in c acuto et tunc finem facit in eo ut Domine qui operati sunt. Inuenitur eciam in e acuto incipere quando fiunt secundaliter silicet c supradicto eius diapente ut est Nolite esse in tenebris et hoc propter semitonia que desunt per loca. vtilia immo et necessaria probatur 
+      <pb n="[f.34r]" />esse ad presentis erroris exprobracionem de modis que dicta sunt vnum sicut et ceperis de octauo et septimo tono me cupientem audire non differas</p>
+      <p id="ANOGUI_MBAVR1140063">Septimus tonus in voce septima terminatur cuius acutessima est quartadesima que cum fine et eodem carectere denotatur hic recipit nonam secundam [sqb] ut habeat duos post finem post quos semitonium et duos tonos ac iterum semitonium et vnum tonum deponitur vero a fine tono vno Quod si decacordum placeat facere vnum ei semitonium ad huc a fine adiunge ad quintam E [F ante corr.] non tamen frequenter hoc inuenies notandum autem est quod si ei prima nona concedatur nihil restat nisi ut a duodesima ad eam diatesseron fiat. et ad semitonium contrahatur. eritque per omnia primus quia habebit tonum et semitonium sicut in primo dictum est. et iam non erit septimus sed primus. non voces enim ut stultissimi cantores putant grauitate vel acumine vnum modum ab alio discrepare. nihil enim impedit quemcunque modum volueris si acute decantaueris id est primus in A tercius B quintus in C quia pauciores voces habent. sed tonorum et semitoniorum quibus et alie consonancie sunt diuersa posicio ab inuicem a se differentes modos constituit Iterum que si vnum tantum voce deprauatur finiatur in octaua russum fit omnia primus habebit in fine tonum et semitonium et duos tonos et reliqua que sunt primi. principia eius sunt hec in F vix exempla reperies. in G ut Assumta est Maria. in a raro inuenies ut Sub altare dei. in [sqb] ut Misit dominus. in c ut loquebatur. in d ut Si. 
+      <pb n="[f.34v]" />nomen domini</p>
+      <p id="ANOGUI_MBAVR1140064">Octauus tonus procedit cum septimo usque ad duodecimam e deponitur autem ad terciam C tono et semitonio et duobus tonis fit decacordum. supradiximus autem huiusmodi decacordum ter diatesseron non habere Ideoque non facile recipitur vtraque id est acutissima .e. et grauissima C eius in vno cantu ut quibusdam placet. perspicuum est quod octauus tonus est in deposicione a fine per omnia secundus. quod si ei prima nona in eleuacione daretur. ut haberet tonum et semitonium et duos tonos a fine eciam in eleuacione permaneret secundus. sed deridenda est inercium cantorum scurrilitas quia modorum discretione nil scencint id solum secuntur quod aliquo modo aures delinire videtur sicut qui gastrimargie inseruiunt et per falsam dulcedinem veram sobrietatis regulam fallunt inueni.</p>
+      <p id="ANOGUI_MBAVR1140065">Explicit musica Magistri Guidonis Amen</p>
+      <p id="ANOGUI_MBAVR1140066">Caueat quisque ne sanguinem minuat seu me decimam recipiat hiis tribus diebus silicet .8. Kalendis Augusti. [aprilis supra lin.] Kalendis Augusti. Kalendis Decembris. Si quis autem hiis tribus diebus inciderit infra .15. dies morietur.</p>
+    </body>
+  </text>
+</TEI>

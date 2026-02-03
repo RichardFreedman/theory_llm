@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Jesus. Libellus musicae adiscendae valde utilis et est dialogus. Discipulus et magister sunt locutores</title>
+        <title type="abbrev">ANOLIB</title>
+        <author>Anonymous</author>
+        <date notBefore="1400" notAfter="1499">15th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Stephen E. Hayes</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Peter M. Lefferts</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Bradley Jon Tucker</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1992</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>Anonymus. Ex codice Vaticano lat. 5129</emph>, ed. Albert Seay, Corpus scriptorum de musica, vol. 9 ([Rome]: American Institute of Musicology, 1964), 21–48. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: Tractatus de contrapuncto</title>
+          
+<idno type="LML">CONTR. Ut unisonus</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">I-Rvat lat. 5129, 157</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat lat. 5129, 145-157</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat lat. 5129, 156-157</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANOLIB0001">
+      <pb n="[21]" />[f. 145r] Jesus. Libellus musicae adiscendae valde utilis et est dialogus. Discipulus et magister sunt locutores.</p>
+      <p id="ANOLIB0002">Discipulus: Modo quaeritur quid est musica?</p>
+      <p id="ANOLIB0003">Magister: Est veraciter canendi scientia et facilis ad perfecte canendum via.</p>
+      <p id="ANOLIB0004">Discipulus: Unde dicitur musica?</p>
+      <p id="ANOLIB0005">Magister: Dicitur a mois quod est aqua et ychos Graece quod est scientia, quasi scientia inventa in aquis.</p>
+      <p id="ANOLIB0006">Discipulus: Quare fuit inventa musica?</p>
+      <p id="ANOLIB0007">Magister: Fuit inventa ut per eam haberetur perfecte et veraciter canendi notitia.</p>
+      <p id="ANOLIB0008">Discipulus: Ad quid prodest musica?</p>
+      <p id="ANOLIB0009">Magister: Prodest ad laudem Dei honorifice et devote cantare.</p>
+      <p id="ANOLIB0010">Et sciendum est quod beatus Gregorius incepit primo cantare cantum in ymno Sancti Johannis Baptistae, "Ut queant laxis", etc.</p>
+      <p id="ANOLIB0011">Primo igitur scire debes quod viginti sunt litterae in manu cantus, scilicet, G.A.B.C.D.E.F.G. Istae octo litterae dicuntur graves. Istae septem quae sequuntur, scilicet, A.B.C.D.E.F.G., dicuntur acutae. Istae quinque ultimae, 
+      <pb n="[22]" />scilicet, A.B.C.D.E., superacutae nominantur. Sex sunt nomina vocum, scilicet, ut, re, mi, fa, sol, la, et istae sex voces pinguntur in libro in modum quadratum ascendendo et descendendo. Decem sunt lineae et decem spatia; prima littera G ponitur in linea. Secunda A ponitur in spatio et sic de similibus. Exemplum sequitur in manu, ut hic:</p>
+      <p id="ANOLIB0012">[CSM9:22] 
+      <figure>
+        <graphic url="/images/ANOLIB_01GF.gif" />
+      </figure></p>
+      <p id="ANOLIB0013">De vocibus quomodo ordinantur in proprietatibus.</p>
+      <p id="ANOLIB0014">G ut vel [f. 145v] Gamma ut--Gamma est littera, ut est nota vel vox; A re--A littera est, [re vox est]; B mi--B est littera, mi vox est; C fa ut--C littera est, fa ut sunt voces; D sol re--D littera est, sol re voces sunt; E la mi--E littera est, la mi voces sunt; F fa ut--F littera est, fa ut voces sunt; G sol re ut--G littera est, sol re ut voces sunt; et istae supradictae vocantur graves.</p>
+      <p id="ANOLIB0015">Sequentes vero dicuntur acutae: primo, A la mi re--A littera est, la mi re voces sunt; B fa [sqb] mi--B littera est, fa mi voces sunt; C sol fa ut--C littera est, sol fa ut sunt voces; D la sol re--D littera est, la sol re sunt voces; E la mi--E littera [est], la mi sunt voces; F fa ut--F littera est, fa ut sunt voces; G sol re ut--G littera est, sol re ut voces sunt.</p>
+      <p id="ANOLIB0016">
+      <pb n="[23]" />Sequentes vero superacutae nominantur: secundo, A la mi re--A littera est, la mi re voces sunt; B fa [sqb] mi--B littera [est], fa mi voces sunt; C sol fa--C littera est, sol fa voces sunt; D la sol--D littera est, la sol voces sunt; E la--E littera est, la vox ultima est.</p>
+      <p id="ANOLIB0017">De proprietatibus.</p>
+      <p id="ANOLIB0018">Tres sunt proprietates cantus, scilicet, [sqb] quadratum, natura, B molle. [sqb] quadratum cognoscitur in omni loco ubi est ista littera G vel in isto signo [sqb], in quo incipit ut, re, mi, fa, sol, la, et ponitur tribus locis in manu, scilicet, in [sqb] gravi, in [sqb] acuta et in [sqb] superacuta. Exemplum in sequenti tabula signatum est:</p>
+      <p id="ANOLIB0019">[CSM9:23,1]</p>
+      <p id="ANOLIB0020">Secunda proprietas est natura, in littera cognoscitur et de se [f. 146r] ipsa clavem facit et in omni loco ubi est ista littera C, in qua incipit ut, re, mi, fa, sol, la, ibi cognoscitur natura et ponitur duobus locis in manu, scilicet, in C gravi et in C acuta, prout patet in exemplo sequenti:</p>
+      <p id="ANOLIB0021">[CSM9:23,2]</p>
+      <p id="ANOLIB0022">
+      <pb n="[24]" />Tertia proprietas est B molle, et cognoscitur in littera et clave et in signo; in littera quod in omni loco ubi est ista littera F cognoscitur et facit clavem de se ipsa. In isto signo sequenti B etiam cognoscitur et ponitur duobus locis in manu, in F gravi et in F acuta. Exemplum:</p>
+      <p id="ANOLIB0023">[CSM9:24,1]</p>
+      <p id="ANOLIB0024">Deductiones, id est, principia, sunt septem. Prima incipit in G gravi et finem facit in E gravi, cantando per [sqb] quadratum, ut docet exemplum signatum infra:</p>
+      <p id="ANOLIB0025">[CSM9:24,2]</p>
+      <p id="ANOLIB0026">Secunda deductio incipit in C gravi, finem facit in A acuta et cantatur per naturam. C fa ut est genitura. Exemplum:</p>
+      <p id="ANOLIB0027">[CSM9:24,3]</p>
+      <p id="ANOLIB0028">Tertia vero deductio incipit in F gravi et finit in D 
+      <pb n="[25]" />acuta et cantatur per B molle de F fa ut. Exemplum, vide hic ante in alia facie: [f. 146v]</p>
+      <p id="ANOLIB0029">[CSM9:25,1]</p>
+      <p id="ANOLIB0030">Quarta autem deductio incipit in G gravi et finit in E acuta et cantatur per [sqb] quadratum, quod est in G sol re ut in secunda iunctura parvi digiti. Exemplum:</p>
+      <p id="ANOLIB0031">[CSM9:25,2]</p>
+      <p id="ANOLIB0032">Quinta deductio incipit in C acuta et finit in A superacuta et cantatur per naturam, quod est in C sol fa ut supra quartum digitum. Exemplum:</p>
+      <p id="ANOLIB0033">[CSM9:25,3]</p>
+      <p id="ANOLIB0034">Sexta deductio incipit in F acuta et finit in D superacuta et cantatur per B molle, prout repperies in hoc exemplo in F fa ut acuta:</p>
+      <p id="ANOLIB0035">[CSM9:25,4]</p>
+      <p id="ANOLIB0036">
+      <pb n="[26]" />Septima et ultima deductio incipit in G acuta et finit in E superacuta et cantatur per [sqb] quadratum, incipiendo in G sol re ut acuta et finiendo in E la superacuta, ut in hoc exemplo:</p>
+      <p id="ANOLIB0037">[CSM9:26,1] 
+      <figure>
+        <graphic url="/images/ANOLIB_02GF.gif" />
+      </figure></p>
+      <p id="ANOLIB0038">Invenere locum per me modulamina vocum.</p>
+      <p id="ANOLIB0039">Finis cantus plani. Deo laus. [f. 147r]</p>
+      <p id="ANOLIB0040">Principia tonorum.</p>
+      <p id="ANOLIB0041">[CSM9:26,2; text: Primus tonus sic mediatur et sic finitur. Secundus tonus sic mediatur et sic finitur. Tertius tonus sic mediatur et sic finitur. Quartus tonus sic mediatur et sic finitur. Quintus tonus sic mediatur et sic finitur. Sextus tonus sic mediatur et sic finitur. [f. 147v] Septimus tonus sic mediatur et sic finitur. Octavus tonus sic mediatur et sic finitur.]</p>
+      <p id="ANOLIB0042">Per istos octo tonos intonantur omnes Antiphonae quae regulam habent.</p>
+      <p id="ANOLIB0043">Versus sequentes docent cognoscere seculorum, Amen.</p>
+      <p id="ANOLIB0044">Pri(mus), Re la; Se(cundus), Re fa; Ter[tius], Mi fa; 
+      <pb n="[27]" />Quar(tus), Mi la; Quin(tus), Fa fa; Sex(tus), Fa la; Sept(imus), Ut sol; Oc(tavus), Ut fa.</p>
+      <p id="ANOLIB0045">Sequitur de coniunctis.</p>
+      <p id="ANOLIB0046">Prima signatur per B molle in [sqb] gravi, sicut patet in Rx, "Sancta et immaculata", in loco qui dicitur, 'non poterant', et in Rx. "Emendemus in melius", in loco qui dicitur, 'miserere', et in Antiphona, "A timore", in loco qui dicitur, 'eripe Domine animam meam'.</p>
+      <p id="ANOLIB0047">[CSM9:27,1; text: Sancta et immaculata virginitas quibus te laudibus, Efferam nescio quia quam celi capere. [f. 148r] Adorate Deum omnes Angeli eius] 
+      <figure>
+        <graphic url="/images/ANOLIB_03GF.gif" />
+      </figure></p>
+      <p id="ANOLIB0048">Disiunctae sunt heae.</p>
+      <p id="ANOLIB0049">[CSM9:27,2]</p>
+      <p id="ANOLIB0050">
+      <pb n="[28]" />Ad cognoscendum tonos.</p>
+      <p id="ANOLIB0051">Primus et secundus tonus finitur in D gravi. Tertius et quartus finitur in E. Quintus et sextus finitur in F. Septimus et octavus finitur in G gravi.</p>
+      <p id="ANOLIB0052">Primus cum sexto fa sol la semper habeto; tertius octavus ut re fa sicque secundus la sol la quartus; ut mi sol sit tibi quintus; septimus fa mi fa sol; sic omnes esse recordor.</p>
+      <p id="ANOLIB0053">Nota quod toni sunt octo ex quibus quatuor sunt autentici et quatuor plagales. Autentici sunt isti primus et tertius, quintus et septimus. Plagales vero sunt isti secundus et quartus, sextus et octavus. Autentici habent potestatem ascendendi supra suum finale nonam vel decimam et non plus, et habent potestatem descendendi unam vel duas sub suum finale et non plus. Plagales autem habent potestatem ascendendi supra suum finale quartam vel quintam, aliquando sextam [f. 148v] et non plus, et habent potestatem descendendi quartam vel quintam, secundus nisi quartam, quartus quintam, sextus sextam, octavus septimam aliquando, ut plurimum vero quartam vel quintam sub suum finale.</p>
+      <p id="ANOLIB0054">[CSM9:28; text: Pneuma primi toni. Secundi toni, Tertii toni. Quarti toni. Quinti toni. Sexti toni. Septimi toni. Octavi toni.]</p>
+      <p id="ANOLIB0055">
+      <pb n="[29]" />[CSM9:29; text: Primum quaerite regnum Dei. Primus tonus sic incipit et sic mediatur et ita finitur, [f. 149r] Benedictus Dominus Deus Israel, quia visitavit et fecit redemptionem plebis suae. Euouae, Duae erant mulieres, Secundus tonus. Benedictus Dominus, Tertia die resurrexit a mortuis. Tertius tonus sic incipit et sic mediatur et sic finitur. [f. 149v] Quartus tonus sic incipit et sic mediatur et sic finitur. Quinque virgines prudentes. Quintus tonus sic incipit et sic mediatur et ita finitur. [f. 150r] Sexta tona lecidit supra puerum. Sextus tonus. Septem dona spiritus. Septimus tonus sic mediatur et sic finitur. Octo sunt beatitudinae. Octavus tonus sic mediatur et sic finitur.] 
+      <figure>
+        <graphic url="/images/ANOLIB_04GF.gif" />
+      </figure></p>
+      <p id="ANOLIB0056">
+      <pb n="[30]" />Ad habendum artem contrapuncti et organi et prolationis sunt attendendae tredecim regulae specierum, quae sequuntur.</p>
+      <p id="ANOLIB0057">Species musicae generales sunt tredecim, quae habent ostendere quomodo contrapunctus est ordinatus, videlicet, unisonus, tonus, semitonus, dictonus, semidictonus, tritonus, diatesseron, diapente, tonus cum diapente, semitonus cum diapente, dictonus cum diapente, semidictonus cum diapente, diapason, prout repperies inferius. [f. 150v]</p>
+      <p id="ANOLIB0058">Unisonus est quando duae voces sunt in uno et eodem sono et eadem consonantia, ut in hoc exemplo:</p>
+      <p id="ANOLIB0059">[CSM9:30,1] 
+      <figure>
+        <graphic url="/images/ANOLIB_05GF.gif" />
+      </figure></p>
+      <p id="ANOLIB0060">Tonus est sonus plenus et vocatur in discantu secunda, quae fit ex duabus vocibus facientibus unum tonum. Exemplum de ut in re, vel de re in mi, vel in fa, vel in sol, vel in la. Et ista secunda nullo modo fieri debet, quia semper dissonat. Exemplum de primus tribus vocibus ut hic:</p>
+      <p id="ANOLIB0061">[CSM9:30,2]</p>
+      <p id="ANOLIB0062">Exemplum de ultimis:</p>
+      <p id="ANOLIB0063">[CSM9:30,3]</p>
+      <p id="ANOLIB0064">
+      <pb n="[31]" />Semitonus dicitur quasi semi plenus sonus vel non plenus sonus, a semus a duo, quod est imperfectus, et non a semi, et est alia secunda quae fit ex duabus vocibus facientibus medium tonum. Exemplum de mi in fa ascendendo, vel de fa in mi descendendo. Ista secunda non debet fieri quia species dissonibilis, ut patet in hoc exemplo:</p>
+      <p id="ANOLIB0065">[CSM9:31,1]</p>
+      <p id="ANOLIB0066">Dictonus dicitur a dya Graece, quod est duo Latine, et tonus, quasi ex duobus tonis, et debet scribi cum y Graeco, et est tertia naturalis quia fit ex tribus vocibus facientibus duo tempora. Exemplum de ut in mi, ut hic:</p>
+      <p id="ANOLIB0067">[CSM9:31,2]</p>
+      <p id="ANOLIB0068">aut de fa in la, ut hic:</p>
+      <p id="ANOLIB0069">[CSM9:31,3]</p>
+      <p id="ANOLIB0070">Probatio de ut in mi: ut re ecce unus tonus; re mi ecce alius tonus. Probatio de fa in la: fa sol ecce unus tonus; sol la ecce alius tonus, et sic de uno in alium sunt tres voces facientes duo tempora et ista tertia est in usu nunc.</p>
+      <p id="ANOLIB0071">
+      <pb n="[32]" />Semidictonus dicitur a semis, quae est dimidius, et dia, quod est duo, et tonus, quasi constans ex semis et tono, id est, dimidio, et scribitur hic dictonus per nota, et est alia tertia quae [f. 151r] fit ex tribus vocibus facientibus unum tonum cum dimidio. Exemplum de re in fa, aut de mi in sol, ut in hic exemplo:</p>
+      <p id="ANOLIB0072">[CSM9:32]</p>
+      <p id="ANOLIB0073">Probatio de re in fa: re mi ecce unus tonus; mi fa ecce semitonus; probatio. Probatio de mi in sol: [mi fa ecce semitonus; fa sol] ecce unus tonus, et sic habes unus tonus cum dimidio, et in quaelibet tertia sunt tres voces facientes unum tonum cum semitono, et ista tertia non debet fieri nisi per coniunctam. Quid est coniuncta? Est facere de tono semitonum, aut de semitono tonum, aut de duobus tonis tonum et semitonum, aut de tono et semitono duos tonos. Ad faciendum istam tertiam est addendus unus semitonus, et ista fiet de semidictono dictonus et ista tertia est verax naturalis et consonabilis.</p>
+      <p id="ANOLIB0074">Tritonus dicitur a tris, quod est tres, et tonus, quasi constans ex tribus tonis et est quarta quasi fit duobus modis. Primo modo fit ex quatuor vocibus facientibus tres tonos. Secundo modo fit ex quinque vocibus facientibus 
+      <pb n="[33]" />duos tonos et duos semitonos. Primus modus potest probari de F fa ut in B fa [sqb] mi, cantando de A la mi re in B fa [sqb] mi per [sqb] quadratum. Probatio: fa sol ecce unum tonum; sol la ecce alium; [re mi ecce alium], et sunt quatuor voces et tres toni et ista non debet fieri nisi per coniunctam. Secundus modus sic cantando a B fa [sqb] mi in F fa ut. Attentam altim aut cantando de B fa [sqb] mi in C sol fa ut per [sqb] quadratum. Probatio: mi fa et ecce semitonus, fa sol ecce tonus, sol la ecce alius tonus, mi fa ecce semitonus, et sic sunt quinque voces, ex quibus fiunt duo toni et duo semitoni, et sic quoad voces est quinta et quo ad consonantes est quarta, et ista quarta non debet fieri nisi per coniunctam minui vel augeri et ita fiet de tritono diapente. [f. 151v]</p>
+      <p id="ANOLIB0075">Diatesseron dicitur a dya, quod est de, et texeron Graece, quod quatuor Latine dicitur, quia ex quatuor vocibus fit et scribitur per notam et est alia quarta quae fit ex quatuor vocibus facientibus duos tonos cum semitono. Exemplum de ut in fa, aut de re in sol, aut de mi in la. Probatio de ut in fa: ut re ecce unum tonum; re mi ecce alium; mi fa ecce semitonum. Probatio de re in sol: re mi ecce unum tonum; mi fa ecce semitonum; fa sol ecce alium tonum, et sunt duo toni et semitonus. Probatio de mi in la: mi fa ecce semitonus; fa sol ecce unus tonus; sol la ecce alius et sunt duo toni et semitonus et haec quarta non debet fieri.</p>
+      <p id="ANOLIB0076">Diapente dicitur a dya, quod est de, et penta, quod est quinque, quia ex quinque vocibus fit et scribitur per 
+      <pb n="[34]" />notam et est quinta naturalis quae fit ex quinque vocibus facientibus tres tonos et semitonum. Exemplum de ut in sol aut de re in la, de mi in mi, de fa in fa. Probatio de ut in sol: ut re ecce unus tonus; re mi ecce alius; mi fa ecce semitonus; fa sol ecce unus tonus et sic sunt tres toni et semitonus. Probatio de re in la: re mi ecce unus tonus; mi fa ecce semitonus; fa sol ecce alius tonus; sol la ecce unus tonus et sunt tres toni et semitonus. Probatio de mi in mi: mi fa ecce semitonus; fa sol ecce unus tonus; sol la ecce unus tonus; re mi ecce alius tonus et sic sunt tres toni et semitonus. Probatio de fa in fa: fa sol ecce unus tonus; sol la ecce unus tonus; re mi ecce alius; mi fa ecce semitonus et sic sunt quinque voces et tres toni et semitonus et ista quinta est in usu et est naturalis.</p>
+      <p id="ANOLIB0077">Tonus cum diapente est sexta quae fit ex sex vocibus facientibus quatuor tonos cum semitono. Exemplum de ut in la: ut re ecce unus tonus; re mi ecce unus tonus; mi fa ecce semitonus; fa sol ecce [f. 152r] unus tonus; sol la ecce alius et sunt quatuor [toni] cum semitono. Probatio de re in mi: re mi ecce unus tonus; mi fa ecce semitonus; fa sol ecce unus tonus; sol la ecce unus tonus; re mi ecce alius tonus; et sic sunt quatuor toni cum semitono. Probatio de fa in sol: fa sol ecce unus tonus; sol la ecce unus tonus; re mi ecce alius tonus; mi fa ecce semitonus; fa sol ecce unus tonus et ita sunt sex voces facientes quatuor tonos cum semitono et ista utitur saepe quando locus est.</p>
+      <p id="ANOLIB0078">
+      <pb n="[35]" />Semitonus cum diapente est alia sexta quae fit ex sex vocibus facientibus tres tonos et duos semitonos. Exemplum de mi in fa: mi fa semitonus, fa sol tonus, sol la alius tonus, re mi alius, mi fa semitonus et ita sunt sex voces facientes tres tonos et duos semitonos et ista sexta fieri non debet nisi coniunctam per quam adhibetur unus semitonus, ita quod fiet de semitono cum diapente tonus cum diapente.</p>
+      <p id="ANOLIB0079">Dictonus cum diapente est septima quae fit ex septem vocibus facientibus quinque tonos cum semitono. Exemplum de C fa ut in B fa [sqb] mi, cantando de A la mi re in B fa [sqb] mi per [sqb] quadratum. Probatio: ut re ecce unus tonus; re mi ecce alius; mi fa semitonus; fa sol ecce unus tonus; sol la alius, re mi ecce alius, et ita sunt septem voces facientes quinque tonos cum semitono et ista alio modo fieri debet, etc.</p>
+      <p id="ANOLIB0080">Semidictonus cum diapente est septima quae fit ex septem vocibus facientibus quatuor tonos cum duobus semitonis. Exemplum de C fa ut in B fa [sqb] mi, cantando de A la mi re in B fa [sqb] mi per B rotundum, quod est B molle. Probatio: ut re ecce unus tonus; [f. 152v] re mi ecce alius; mi fa semitonus; fa sol unus tonus; sol la alius; mi fa semitonus, et sic sunt septem voces facientes quatuor tonos cum duobus semitonis. Ergo non bene.</p>
+      <p id="ANOLIB0081">Diapason est octava verax et naturalis quae fit ex septem vocibus facientibus quinque tonos cum duobus 
+      <pb n="[36]" />semitonis et procedit aliam in litteram. Exemplum de A in A, de B in B, et sic de aliis, hoc quod ibi non interveniat mi re contra fa re, nec fa mi contra mi fa. Probatio: dico quod quando procedit de G in G, ut re ecce unus tonus; re mi alius, mi fa semitonus; fa sol alius tonus; [sol la alius tonus; mi fa semitonus; fa sol alius tonus,] et sic sunt septem voces facientes quinque tonos et duos semitonos. Ergo bene naturalis.</p>
+      <p id="ANOLIB0082">Regula datur quod mi contra fa, nec fa contra mi non conveniunt bene in unisono nec in quinta nec in octava nec in duodecima. Sed oportet dicere fa contra fa, vel mi contra mi, et si fit contra vim fiet dissonantia de uno semitono quod superflueret aut deficeret aliquid.</p>
+      <p id="ANOLIB0083">Regula quod ubicumque invenies fa contra mi vel mi contra fa, ita quod unisonus vel quinta vel octava semper superfluit vel deficit semitonus.</p>
+      <p id="ANOLIB0084">Item, ubicumque invenies mi contra fa vel fa contra mi, ita quod in medio sint sex voces semper deficiet semitonus ad faciendum sexta vera.</p>
+      <p id="ANOLIB0085">Item, ubicumque invenies mi sol vel re fa, deficit semitonus ad faciendum veram tertiam crede firmiter.</p>
+      <p id="ANOLIB0086">Sunt autem tredecim species musicae generales quae habent ostendere quomodo contrapunctus est ordinandus, unde sequitur primo unisonus, secunda, tertia, quarta, quinta, sexta, septima, octava, nona, decima, undecima, duodecima, tredecima, et istarum aliquae consonant et aliquae dissonant. Dissonae vero sunt quinque, videlicet, secunda, quarta, septima, nona et undecima, [f. 153r] et 
+      <pb n="[37]" />istas non debemus facere nec uti aliquo modo. Consonantes vero quibus utimur sunt octo, videlicet, unisonus, tertia, quinta, sexta, octava, decima et duodecima, tredecima, quarum sunt quatuor perfectae et quatuor imperfectae. Quatuor perfectae sunt istae, videlicet, unisonus, quinta, octava et duodecima, quia duae sunt perfectae omnino et duae sunt semiperfectae. Perfectae omnino sunt unisonus et octava. Semiperfectae sunt quinta et duodecima; dicuntur autem imperfectae quando eis aliquid deficit in consonantia. Quatuor autem, videlicet, tertia sexta, decima, tredecima, quarum duae sunt imperfectae in totum et duae sunt semiimperfectae. Imperfectae in totum sunt sexta et decima, semiimperfectae sunt tertia et tredecim. Semiimperfectae dicuntur quia non perfectae consonantur, imperfectae in totum dicuntur quia non omnino dissonant nec consonant.</p>
+      <p id="ANOLIB0087">Item, notandum est quod ex istis octo speciebus consonantes sunt quatuor quarum contrapunctus est incipiendus et finiendus, scilicet, unisonus, per quintam, per octavam, per duodecimam; tamen, de istis quatuor duae sunt eligendae, videlicet, unisonus et octava, quia illae melius consonant aliarum. Quando vero una illarum non potest haberi, incipiat cantor quinta vel duodecima.</p>
+      <p id="ANOLIB0088">Item, nota quod quando cantus planus ascendit contrapunctus debet descendere, et quando cantus planus descendit contrapunctus debet ascendere, et quando cantus 
+      <pb n="[38]" />planus stat in uno contrapunctus debet ascendere vel descendere et accipere illius quod est sibi propinquius. Et intellige propinquius quod quando est tertia, ut quod dicat re, qui non potest re dicere dicat mi, qui non mi dicat fa, qui non potest dicat sol, qui non potest dicat la, nisi forsitan aliae regulae illi aufferent prout inferius declarabitur.</p>
+      <p id="ANOLIB0089">Regulae autem per quas hoc posset impediri sunt istae: Prima est quod quilibet debet attendere ne faciat duas tertias, videlicet, unam desuper et altera de subtus, si tamen illud possit evitari. [f. 153v] Secunda est quando cantus planus facit magnum tractum gradatim seu magnam tarditatem ascendendo vel descendendo, debet contrapunctus recipere de remotiori parte quam poterit ad finem quod contrapunctus bene ordinetur, et quando venit ad finem in casu necessitatis debet venire contrapunctus de remotiori quam poterit ut publice fiat pausa.</p>
+      <p id="ANOLIB0090">Item, si occurrat quod contrapunctus non possit ascendere nec descendere prout dictum est, eo casu possit fieri una tertia vel duae vel tres aut una decima aut duo vel tres, sequendo cantum planum ascendendo vel descendendo et hoc in casu necessitatis, aliter non.</p>
+      <p id="ANOLIB0091">Item, una sexta aut duae vel tres possit fieri sequendo cantum planum descendendo et hoc in casu necessitatis, tamen ascendendo non debet fieri. Quae est ratio quare sexta et tredecima non ascendunt sicut tertia et decima? 
+      <pb n="[39]" />Dico quia sunt species in totum imperfectae et quando fiunt oportet quod incontinenti subsequatur species perfecta.</p>
+      <p id="ANOLIB0092">Item, post sexta debet fieri octava et post tredecima debet fieri quindecima, quae est octava supra octavam, aliter non.</p>
+      <p id="ANOLIB0093">Item, sexta non debet fieri quando cantus planus facit saltum de regula in regulam, vel de spatio in spatium, tamen bene potest de regula in spatium.</p>
+      <p id="ANOLIB0094">Item, aliquotiens continget quod non poterit ascendere, nec descendere, nec facere tertiam, nec decimam, nec sextam, nec tredecimam ascendendo nec descendendo. Vere in illo casu debet saltare de perfecto in imperfectum, vel de imperfecto in perfectum, et sciendum quod non possent fieri duo perfecti unus post alterum immediate, nisi fit pausa generalis aut simul, nec tunc fieri debet nisi in casu necessitatis, et est ratio quare non debeat fieri quia videretur cantus planus in uno eodem sono cum contrapunctus. Finis. [f. 154r]</p>
+      <p id="ANOLIB0095">Sequitur regula organi.</p>
+      <p id="ANOLIB0096">Sciendum est quod cantus vocatus organum duobus modis ordinatus, videlicet, modo perfecto et imperfecto, quia aut ille cantus est perfectus aut imperfectus. Et super istis duobus modis descendit quatuor modi et cum duobus possidentibus sunt sex.</p>
+      <p id="ANOLIB0097">Ad quid dicitur esse organi vel est cantus factus et 
+      <pb n="[40]" />ordinatur ad rectam mensuram, videlicet, quod unus punctus sit diversus ab alio.</p>
+      <p id="ANOLIB0098">Primo, igitur sciendum est quod omnis punctus quadratus figurae, [B], temporis perfecti valet tres [S,S,S]. Item, omnis punctus talis figurae, [B], temporis imperfecti absque aliqua proprietate valet [S,S]. Item, sciendum est quod omnis punctus quadratus talis figurae, [B], unum tempus valet, si sit perfectus aut imperfectus. Quando vero est quadratus et habet pilum in parte dextra prout patet in hanc figuram, [L], valet [B,B], et si est perfectus valet [B,B,B], nisi esset divisio.</p>
+      <p id="ANOLIB0099">Item, omnis punctus vocatus Alpha talis figurae, [Lig2cdsnod], in fine ligaturae non valet nisi unum tempus, talis figurae, [B], sit perfectus aut imperfectus vel divisio sibi datur, et oportet quod quando divisio sibi datur quod sit perfectus. Et est necesse quod post Alpha veniat [L] ascendendo et sit ligatus ut hic: [Lig2cdsnacddx], et tunc Alpha, id est, primus punctus, valet [B] et alter [B,B] et ultimus valet [B,B,B].</p>
+      <p id="ANOLIB0100">Item, omnis punctus ligatus cum alio habens pilum in parte sinistra descendendo et est talis figurae, [Lig4cdsnddod], est comparationis istius [MX], non habens vero pilum in aliqua parte valet istos [B,B].</p>
+      <p id="ANOLIB0101">Item, omnis punctus stans inter praedictos punctos superius nominatos et figuratos non valet nisi unum tempus talis figurae, [B].</p>
+      <p id="ANOLIB0102">
+      <pb n="[41]" />Item, dupla vocata longa talis figurae, [MX], valet duos punctos quadratos talis figurae, [B,B], habentes pilos in parte dextra talis figurae, [L,L], sit de tempore perfecto aut imperfecto valet quisque duo tempora. [f. 154v]</p>
+      <p id="ANOLIB0103">Item, est sciendum quod diversi sunt modi pausarum prout in exemplis, videlicet, quando pausa tenet unum spatium valet unum punctum quadratum talis figurae, [B], aliqua proprietate.</p>
+      <p id="ANOLIB0104">Item, quando tenet duo, videlicet, duos quadratos talis figurae, [B,B; L,L]. Et quando tres tenet, valet tres quadratos talis figurae, [B,B,B], sit perfectus aut imperfectus. Quando vero pausa est supra regulam et pendet cantus ab una parte quantum ab alia, ut patet in ista regula, valet una [S], et quando est dicta pausa supra regulam et tenet tertiam partem spatii desuper, valet dicta pausa sic formate [MP on staff2] unam minimam talis figurae, [M], et dicta pausa si est desuper est maioris prolationis, quando vero est de subtus est minoris prolationis, ut hic [SP,SP on staff2] datur.</p>
+      <p id="ANOLIB0105">Si vis cognoscere quando est perfectus, punctus quadratus valet tres semibreves talis figurae, [S,S,S], et invenies inter duos quadratos sicut hic, [B,S,S,B], aut valorem, sicut in hoc exemplo [B,S,S,S; S,M,S,M,S,M,M,M,M,M,M,M,M,M] signato.</p>
+      <p id="ANOLIB0106">Item, si vis scire vel cognoscere quando est imperfectae, punctus quadratus valet duas semibreves talis figurae, [S,S], et inter duos quadratos invenies tales [S,S], 
+      <pb n="[42]" />aut valorem dictarum, ut sequitur in hoc excemplo: [L,S,S,L,S,M,S,M,L,M,M,M,M,M,M,L].</p>
+      <p id="ANOLIB0107">Item, habemus maiorem prolationem et ad cognoscendum maiorem prolationem, ista semibrevis valet istas tres [M,M,M], sit perfectus aut imperfectus.</p>
+      <p id="ANOLIB0108">Item, quando est minoris prolationis istarum, [ista semibrevis] valet duas minimas tales, [M,M], sit perfectus aut imperfectus.</p>
+      <p id="ANOLIB0109">Item, quando est perfectus et est maioris prolationis, quadratus valet ix tales, [M,M,M,M,M,M,M,M,M], et quando est quadratus mi- [f. 155r] noris prolationis, valet sex tales, [M,M,M,M,M,M], ut supra.</p>
+      <p id="ANOLIB0110">Item, est sciendum quod quadratus maioris prolationis temporis imperfecti valet sex minimas, ut hic: [M,M,M,M,M,M], et quando est minoris prolationis temporis perfecti, valet totidem.</p>
+      <p id="ANOLIB0111">Item, sciendum est quod quando duo quadrati sunt inter duos quadratos habentes pilos in parte dextra, et primus habet pilum et quartus idem, primus quadratus existens in medio illorum duorum, primus valet unum tempus, et ultimus duo, tamen quod ordinentur per modum perfecti. Exemplum, ut hic: [L,B,B,L].</p>
+      <p id="ANOLIB0112">Item, quando inter duos quadratos absque aliqua proprietate sunt istae duae [S,S], prima valet istam [S], secunda valet istas [S,S], dum tamen ordinentur per modum perfecti. Exemplum: [B,S,S,B].</p>
+      <p id="ANOLIB0113">Haec est differentia quando quadratus temporis perfecti valet sex tales, [M,M,M,M,M,M], minoris prolationis dicti 
+      <pb n="[43]" />quadratus temporis imperfecti maioris prolationis tantumdem, quoad semibrevem, [S], est talis differentia quia quadratus temporis perfecti minoris prolationis valet tres [S,S,S], et quadratus temporis imperfecti maioris prolationis valet [S,S], quantum ad [S] non est differentia nisi compassando, videlicet, quod minimae maioris prolationis ordinantur tertiae et de minori prolatione ordinantur binae.</p>
+      <p id="ANOLIB0114">Item, est sciendum quod omnis nota habens talem proprietatem quod quotienscumque veniat post quadratum, [B], dum tamen sit maior illius aufert sibi tantum quantum ipsa valet, si sit maioris prolationis. Sed quando est minoris prolationis una nota tollit alteri, prout demonstratur in hoc exemplo: [B,M,M,M,M,L,M], etc.</p>
+      <p id="ANOLIB0115">Si vis cognoscere quando est maioris prolationis, respice quod minimae ordinentur ternae, vel una sola et quando est minoris prolationis, respice quod ordinentur binae sive si perfectus aut imperfectus prout dictum est. [f. 155v]</p>
+      <p id="ANOLIB0116">Item, debes scire quod nos habemus perfectum supra imperfectum, et habemus imperfectum supra perfectum [S]; ad cognoscendum perfectum supra imperfectum debes scire si pausa tenet tria spatia. Et si [S,S] ordinantur binae et si ordinantur, punctus quadratus non valet nisi duas [S,S], et tunc quoad valorem temporis est imperfectus, sed quoad ordinationem est perfectus.</p>
+      <p id="ANOLIB0117">Item, debes scire quod duo puncti quadrati ligati 
+      <pb n="[44]" />descendendo dum tamen quod primus quadratus habeat pilum in parte sinistra descendendo, primus quadratus valet unum tempus et ulterius duo tempora. Exemplum: [Lig2cdsnd], et quando sunt duo quadrati ligati non habentes pilum ab aliqua parte uterque eorum valet ut hic: [Lig2d]. Exemplum: Etiam incredo Lodovici.</p>
+      <p id="ANOLIB0118">Item, si sunt tres quadrati ligati prout superius dictum est, primus quadratus valet unum tempus, secundus duo tempora, tertius vero tria tempora, si ordinentur per modum perfecti, et si ordinentur per modum imperfecti, primus valet unum, secundus aliud tempus, tertius duo tempora. Exemplum: [Lig3cdsndd].</p>
+      <p id="ANOLIB0119">Item, si veniret casus quod essent quatuor quadrati ligati ad invicem prout superius dictum est, primus valet unum tempus, secundus aliud, tertius aliud tempus, quartus valet tria tempora, si ordinentur per modum perfecti; et si per modum imperfecti, duo primi valent unum tempus et tertius aliud tempus et quartus duo tempora, si libet quod pilus veniat desuper a parte sinistra primi quadrati ut hic: [Lig4cssnddd].</p>
+      <p id="ANOLIB0120">Item, in casu quod essent quinque a parte prout superius expressum est, et primus habeat pilum a parte superiori, duo primi valent unum tempus, tertius aliud, quartus aliud tempus, et quintus tria tempora, si ordinentur per modum perfecti. Exemplum ut hic: [Lig5cssndddd]. Et si ordinantur per modum imperfecti, duo primi valent unum 
+      <pb n="[45]" />tempus, tertius et quartus similiter, et ultimus unum tempus. Exemplum: [Lig2cssnd; Lig3cssndd]. [f. 156r]</p>
+      <p id="ANOLIB0121">Ad cognoscendum imperfectum supra perfectum, debes respicere quod inter duos quadratos sint istae tres aut earum valor: [S,S,S].</p>
+      <p id="ANOLIB0122">Item, si vis canere perfectum ad modum imperfecti, debes facere de quadrato talem [S] et de tribus semibrevis tres [M,M,M] maioris prolationis et de [S,S], et sic quadratus cum tribus [S,S,S] non valet nisi unum tempus imperfecti.</p>
+      <p id="ANOLIB0123">Item, nota quod in cantu organi numquam fieri debet mutatio sicut in cantu plano, quia cantus organi est factus ordinatus ad rectam mensuram et si fieret mutatio, dicordaret tenor cum quinta vel octava, aut cum aliis speciebus sequentibus. Finis. Laus Deo.</p>
+      <p id="ANOLIB0124">Iste cantus est vere perfectus et, si intelligere vis, da operam ut in eo studeas et cum exercitatione memoriae mandas et tene menti, quia magnae utilitatis est et apud musicos magni habetur honoris et apud homines ceteros laus et gloria acquiritur maxima.</p>
+      <p id="ANOLIB0125">Ista est quaedam regula contrapuncti ultra alias peroptima et ad cantores utilissima quae sic incipit.</p>
+      <p id="ANOLIB0126">Notandum est quod septem sunt species in contrapuncto, primo unisonus, tertia, quinta, sexta, octava, decima et duodecima, quarum quatuor sunt perfectae et tres 
+      <pb n="[46]" />imperfectae, quatuor perfectae sunt, videlicet, unisonus, quinta, octava et duodecima.</p>
+      <p id="ANOLIB0127">Item, vos debetis incipere contrapunctum vestrum per unam concordantiam perfectam et finiri. Etiam vos non debetis facere duas concordantias perfectas unam post aliam, sicut est unisonus, quinta, etc. Sed vos bene potestis facere duas concordantias imperfectas unam post aliam, dummodo habeant quae requiruntur.</p>
+      <p id="ANOLIB0128">Item, quando planus cantus ascendit, discantus debet [f. 156v] ascendere, et converso etiam quando planus cantus ascendit per unicam vocem, discantus potest descendere per plures, et converso.</p>
+      <p id="ANOLIB0129">Item, vos non debetis facere duas concordantias in eadem linea vel in eadem specie, sed vos potestis facere duas vel tres concordantias imperfectas unam post aliam, dum habeant quae requiruntur, ut dictum est, duae vel tres sextae descendendo requiruntur octavam post se. Istae duae vel tres tertiae ascendendo requiruntur quinta prius se, et descendendo requiruntur unisonum post se.</p>
+      <p id="ANOLIB0130">Item, vos potestis ascendere et descendere cum plano cantu cum concordantiis imperfectis et quod habeant semper quod requiruntur, ut dictum est.</p>
+      <p id="ANOLIB0131">Octo coniunctae sunt et duae primae quartaque 
+      <pb n="[47]" />sexta quamquam octava semper B molle vocantur tresque remanentes signantur [sqb] quadrato.</p>
+      <p id="ANOLIB0132">Dat B mi primam, in E gravi signa secundam,</p>
+      <p id="ANOLIB0133">F tertiam dabis, quartam in Aque vocabis,</p>
+      <p id="ANOLIB0134">Quintam in C signabis acuto,</p>
+      <p id="ANOLIB0135">Sextaque signetur in E acuto,</p>
+      <p id="ANOLIB0136">Septima in F signetur acuta, octava in A superacuto.</p>
+      <p id="ANOLIB0137">Modo quaeritur quid est coniuncta in musica? Coniuncta in musica est signum seu figura per quam in deductione secundum vocem hominis facere de tono semitonum et de semitono tonum.</p>
+      <p id="ANOLIB0138">Quare fuit inventa coniuncta? Fuit inventa duabus de causis; prima causa fuit causa necessitatis, secunda ad faciendum et e converso, vel secunda causa fuit ad habendum vocem pulchriorem seu semitonum dulciorem.</p>
+      <p id="ANOLIB0139">Tres gradus sunt speciales: Modus, [tempus], prolatio, scilicet, modus perfectus et modus imperfectus, tempus perfectum et tempus imperfectum, prolatio maior et prolatio minor. [f. 157r]</p>
+      <p id="ANOLIB0140">Primo, sciendum est quid sit modus perfectus et modus imperfectus, secundo, tempus perfectum et tempus imperfectum et quid est prolatio maior et quid est prolatio minor.</p>
+      <p id="ANOLIB0141">Ut unisonus dat fa, ut tibi octava praebet mi tertia, 
+      <pb n="[48]" />sed decima dat tibi mi la. Quinta dat ut sol atque duodecima insimul praebet re, sexta incomputetur iniuste.</p>
+      <p id="ANOLIB0142">Re unisonus dat re sol re, tibi octava praebet fa tertia, itaque decima formas, quinta dat re la atque duodecima simul praebet mi, sextus mi computetur iniuste.</p>
+      <p id="ANOLIB0143">Mi unisonus dat la mi tibi, octava dat ut sol, tredecima sibi societur, dat tibi mi quinta, duodecima vult sibi addidat fa vel ut, ut sextus, ut sonus bene sonetur.</p>
+      <p id="ANOLIB0144">Fa unisonus dat tibi fa, ut tibi octava praebet, la re tertia et decima simul praebet, sol sextus vel re finitur dubio quae sic est.</p>
+    </body>
+  </text>
+</TEI>

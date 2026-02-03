@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Lucidarium, tractatus primus</title>
+        <title type="abbrev">MARLUC1</title>
+        <author>Marchetus de Padua</author>
+        <date notBefore="1300" notAfter="1399">14th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Stephen E. Hayes</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Peter M. Lefferts</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1990</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>The Lucidarium of Marchetto of Padua: A Critical Edition, Translation, and Commentary</emph>, ed. and trans. by Jan W. Herlinger (Chicago and London: The University of Chicago Press, 1985), 68–106. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Marchettus de Padua: Lucidarium in arte musicae planae</title>
+          
+<idno type="LML">MARCH. luc.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">A-SP Cod. 135/6 (29.4.4), 21v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Br II 785, 15-38v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Br II 4144, 1-41</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">CH-E 689, 1-44</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">E-Sc 5-2-25, 5-20v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">E-Sc 5-2-25, 76v-77v, 124-128 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-SDI 42, 1-33v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ob Canon. Misc. 42, 184-185 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-BREs D 21, 185v-186v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-CATc D 39, 157-189</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fl Conv. Soppr. 388, 34v-52v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fr 734, 74-101</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Ma D. 5 inf., 52-77v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Ma I. 20 inf., 36v-39 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-PEc 1013, 5-45v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-PIu 606 (IV.9), I/1-50</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat lat. 5322, 1-48</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat Reg. lat. 1146, 7-8 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Sc L.V.30, 91v-119</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-TRE without shelfmark, 15-32v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Vnm Lat. Cl. VIII.85 (3579), 1-10 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">US-Cn Case Ms. 54.1, 10v-33</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">US-Wc ML 171 J 6 Case, hv-47</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="MARLUC10001">
+      <pb n="[68]" />1. EPISTOLA MARCHETI DE PADUA</p>
+      <p id="MARLUC10002">2. Magnifico militi et potenti, domino suo, Domino Raynerio Domini Zacharie de Urbeveteri, illustris principis Domini Iohannis, clare et excelse memorie Domini Karoli Regis Ierusalem et Sicilie gloriosi filii, Comitis Gravine et honoris Montis Sancti Angeli Domini, in provincia Romandiole Vicario Generali, Marchetus de Padua se ipsum paratum ad omnia genera mandatorum.</p>
+      <p id="MARLUC10003">3. Gloriosus, inter apostolos princeps, Petrus, pastor ovium, rector ecclesie sacrosancte, vicarius Yhesu Xpisti et celestis claviger paradisi, obedientiam tamquam virtutum omnium contentivam in sua Epistola imperat Xpisti fidelibus quoad omnes firmiter observare:</p>
+      <p id="MARLUC10004">4. Obedientes estote, Carissimi, inquit, omni humane creature propter Deum, sive regi tamquam preexcellenti, sive ducibus tamquam ab eo missis;</p>
+      <p id="MARLUC10005">5. cuius doctrinam humiliter imitando, cum michi inter musicos minimo mandaverit Vestra Nobilitas, 
+      <pb n="[70]" />quam ad regimen tante provincie Maiestas Regia destinavit, Lucidarium plane musice componere, seu opus quo universi musici et cantores scirent rationabiliter in plana musica quid cantarent, deberem iuxta meum modulum compilare.</p>
+      <p id="MARLUC10006">6. Infrascriptum opus composui adiuvante me Fratre Syphante de Ferraria Ordinis Predicatorum, tam circa libri ordinem quam etiam ipsi libro necessarias suas phylosophicas rationes,</p>
+      <p id="MARLUC10007">7. quod quidem Vestre duxi Magnificentie presentandum ad laudem et gloriam Conditoris, Cui in celestibus Sanctus, Sanctus, Sanctus cantant quotidie yerarchie angelice.</p>
+      <p id="MARLUC10008">8. EXPLICIT EPISTOLA</p>
+      <p id="MARLUC10009">
+      <pb n="[72]" />1. INCIPIT LUCIDARIUM MARCHETI DE PADUA IN ARTE MUSICE PLANE</p>
+      <p id="MARLUC10010">2. TRACTATUS PRIMUS ET CAPITULUM PRIMUM</p>
+      <p id="MARLUC10011">DE INVENTIONE MUSICE</p>
+      <p id="MARLUC10012">3. Qualiter Pytagoras adinvenit musicam memorat Macrobius libro secundo post principium.</p>
+      <p id="MARLUC10013">4. Cum, inquit, casu preteriret in publico, fabros ignitum ferrum ictibus maleantes audivit, atque in aures eius sonum sub certo reddentes ordine repente reciderunt, in quibus gravitati acumina consonabant, ut utrumque ad audientes sub statuta divisione remearet et ex variis impulsibus sibi consonantia nasceretur.</p>
+      <p id="MARLUC10014">5. Fecitque fabros mutare maleos, quibus mutatis diversitas sonorum ab hominibus recedens maleos sequebatur.</p>
+      <p id="MARLUC10015">
+      <pb n="[74]" />6. Cumque diversitates ponderis in singulis annotasset, maiores maleos fieri imperavit, et ex maleis ad fides evertit examen, et intestina ovium vel bovum nervos tam variis ponderibus illigatis tetendit qualia prius in maleis fuisse didicerat; talisque cantus evenit qualem prior observantia promiserat adiecta dulcedine, quam natura sonora prestabat fidium.</p>
+      <p id="MARLUC10016">7. Sicque Pytagoras tanti secreti compos deprehendit numeros quibus soni consoni nascerentur, et hiis proportionatis ut ibi tinnierat ad edificandam musicam profecit.</p>
+      <p id="MARLUC10017">8. Hec ibi.</p>
+      <p id="MARLUC10018">9. Verum ipse fidibus et cantu usus est, prout ait Tulius libro quarto Questionum Tusculanarum, ubi ait quod Pytagorici cum carminibus soliti esse dicuntur et precepta quedam tradere occultius et mentem suam 
+      <pb n="[76]" />a cogitationum intentione cantu fidibusque ad tranquillitatem transducere.</p>
+      <p id="MARLUC10019">1. CAPITULUM SECUNDUM</p>
+      <p id="MARLUC10020">DE PULCRITUDINE MUSICE</p>
+      <p id="MARLUC10021">2. Pulcrior in artibus musica est, de qua Remigius: Magnitudo musice capit omne quod vivit et quod non vivit; hanc concentus angelorum, archangelorum, sanctorumque omnium ante conspectum Dei Sanctus, Sanctus dicentes sine fine decantant.</p>
+      <p id="MARLUC10022">3. De hac Boetius in prologo suo: Nichil enim est tam proprium humanitati quam remitti dulcibus modis, astringi contrariis; et id non modo in singulis vel studiis vel etatibus tenet, verum per cuncta diffunditur studia, et infantes ac iuvenes necnon et senes ita naturaliter modis musicis affectu quidem spontaneo adiunguntur, ut nulla sit omnino etas, 
+      <pb n="[78]" />que a delectatione dulcis cantilene disiuncta sit.</p>
+      <p id="MARLUC10023">4. Inter ceteras arbores admirabilior musica est, cuius rami sunt pulcre proportionati per numeros, flores eius sunt species consonantiarum, fructus eius sunt armonie dulces per ipsas consonantias ad effectum producte.</p>
+      <p id="MARLUC10024">5. De ipsa Bernardus: Una est musica universalis, cuius magnitudo nutu divino capit, movet, et continet omnia, que in celi motu sunt, et que in terra et in mari et in voce hominum et animalium et per incrementa corporum et annos et dies et tempora consistunt.</p>
+      <p id="MARLUC10025">1. CAPITULUM TERCIUM</p>
+      <p id="MARLUC10026">DE UTILITATE MUSICE</p>
+      <p id="MARLUC10027">2. Isidorus: Sine musica nulla disciplina potest esse perfecta; nichil enim sine illa.</p>
+      <p id="MARLUC10028">
+      <pb n="[80]" />3. Legitur quod David citharam cum percutiebat, Saul minus vexabatur a spiritu, et hoc erat ob dulcedinem musicalis soni.</p>
+      <p id="MARLUC10029">4. Legitur etiam quod Helyseus propheta, cum esset interrogatus a rege, intellexit in se tunc non habere spiritum prophetie, et iussit sibi psalterium adduci; et cum psallere incepisset, cognovit spiritum prophetie in eum mox descendisse, et prophetavit.</p>
+      <p id="MARLUC10030">5. Videmus namque quotidie de utilitate musice,</p>
+      <p id="MARLUC10031">6. nam preliantes robustiores fiunt in preliis audientes sonum tubarum et aliorum instrumentorum; similiterque animalia letantur ob ipsum sonum.</p>
+      <p id="MARLUC10032">7. Medici quoque motum pulsus rarum et densum esse per ipsam diiudicant musicam.</p>
+      <p id="MARLUC10033">8. Unde dicebat Pytagoras hunc mundum per musicam conditum esse et gubernari posse, 
+      <pb n="[82]" />quia quicquid loquimur vel intrinsecus venarum pulsibus commovetur per musicos rithimos armonie virtutibus probatur associatum esse.</p>
+      <p id="MARLUC10034">9. Boetius: Nulla enim magis ad animum de disciplinis via quam auribus patet.</p>
+      <p id="MARLUC10035">1. CAPITULUM QUARTUM</p>
+      <p id="MARLUC10036">DE IUDICIO MUSICE</p>
+      <p id="MARLUC10037">2. Non est iudicium musice solum in sono, quia sensus auditus potest falli, ut et ceteri sensus corporis; nam fallitur sensus visus si rectum lignum in aqua ponatur, quia conspicitur oculis tortuosum.</p>
+      <p id="MARLUC10038">3. Fallitur etiam sensus auditus sepius cum delectatur in sono ab omni ratione et proportione remoto.</p>
+      <p id="MARLUC10039">4. Ob hoc dicebat Boetius: Sicut non sufficit in visu conspici colores 
+      <pb n="[84]" />et formas nisi etiam investigetur que sit eorum proprietas, sic non sufficit tantum cantilenis delectari nisi etiam investigetur qualiter proportiones vocum inter se disiuncte sint.</p>
+      <p id="MARLUC10040">5. Iudicium igitur et proprietas musice est ratio numerorum, que in ipsa cuncta dispensat et quasi domina imperat; nam Remigius: Veritas musice est in numeris proportionum.</p>
+      <p id="MARLUC10041">1. CAPITULUM QUINTUM</p>
+      <p id="MARLUC10042">QUID SIT MUSICA</p>
+      <p id="MARLUC10043">2. Musica est ars spectabilis et suavis, cuius sonus in celo et in terra modulatur.</p>
+      <p id="MARLUC10044">3. Item musica est scientia que in numeris, proportionibus, consonantiis, coniunctionibus, mensuris, et quantitatibus consistit.</p>
+      <p id="MARLUC10045">4. Guido: Musica est motus vocum per arsim et thesim, hoc est per elevationem et depositionem.</p>
+      <p id="MARLUC10046">
+      <pb n="[86]" />1. CAPITULUM SEXTUM</p>
+      <p id="MARLUC10047">UNDE DICATUR MUSICA</p>
+      <p id="MARLUC10048">2. Musica dicitur a moys, quod est aqua, eo quod iuxta aquas inventa fuerit, ut Remigius refert; quia sicut aqua non potest tangi quin moveatur, sic nec musica quin audiatur.</p>
+      <p id="MARLUC10049">3. Inquit enim ipse: Moys genus est quod aquam signat.</p>
+      <p id="MARLUC10050">4. Multum enim iuvat aqua sonum musicum, ut probabiliter apparet in fistulis organalibus, que implentur aqua ut sonum reddant.</p>
+      <p id="MARLUC10051">1. CAPITULUM SEPTIMUM</p>
+      <p id="MARLUC10052">DE DIVISIONE MUSICE</p>
+      <p id="MARLUC10053">2. Quamvis omnis modulatio vocis et soni ac etiam quicquid ab auditu percipitur musica sit, quia per ipsam de eis redditur ratio, tamen sciendum est quod musica nomen generis est, et diffinitio 
+      <pb n="[88]" />supra data de ipsa diffinitio generis est.</p>
+      <p id="MARLUC10054">3. Et quia genus est quod habet species, ideo est sciendum quod musicarum alia armonica, alia organica, et alia rithimica dicitur, de quibus omnibus est propositum breviter demonstrare.</p>
+      <p id="MARLUC10055">4. Sed quia armonica prima dicitur, eo quod in voce hominis seu ab ipso homine naturaliter sit formata, iccirco quid sit ipsa primo videndum est.</p>
+      <p id="MARLUC10056">1. CAPITULUM OCTAVUM</p>
+      <p id="MARLUC10057">DE MUSICA ARMONICA</p>
+      <p id="MARLUC10058">2. Musica armonica est illa que fit per sonum qui est vox, hoc est per voces hominum et animalium.</p>
+      <p id="MARLUC10059">3. Ut autem predicta diffinitio videatur, dicendum est quid sit sonus qui est vox, in quo constituitur musica armonica prelibata.</p>
+      <p id="MARLUC10060">
+      <pb n="[90]" />4. Quantum enim ad omnia alia convenit cum duabus aliis musicis, nam quecumque per ipsam cantari possunt per organicam musicam et rithimicam possunt etiam modulari, solum enim in hoc differt ab eis, quia ipsa sola per sonum fit qui est vox hominis seu animalis.</p>
+      <p id="MARLUC10061">1. CAPITULUM NONUM</p>
+      <p id="MARLUC10062">DE SONO QUI EST VOX</p>
+      <p id="MARLUC10063">2. Sonus qui est vox est sonus aeris spiritu verberati, sensibilis auditu, solum in naturalibus instrumentis animalis formatus.</p>
+      <p id="MARLUC10064">3. Instrumenta enim naturalia vocis dicimus quod ad plus sunt sex, scilicet pulmo, guttur, palatum, lingua, dentes anteriores, et labia, licet sine quibusdam ex istis quedam animalia possint formare vocem, scilicet aves, que non habent dentes, sed necessaria instrumenta omnino ad formandam vocem sunt pulmo, guttur, palatum, et labia; sine istis enim sonus qui est vox nullatenus esse potest.</p>
+      <p id="MARLUC10065">
+      <pb n="[92]" />4. Primo enim anhelitus a pulmone procedit; secundo per medium gutturis transit; tercio palatum ferit, quod ipsum retinet; quarto a lingua scinditur, ut diversificetur; quinto per tactum ipsius lingue contra dentes discernitur quid homo proferat; sexto a labiis moderatur.</p>
+      <p id="MARLUC10066">5. Post hec vox est.</p>
+      <p id="MARLUC10067">1. CAPITULUM DECIMUM</p>
+      <p id="MARLUC10068">UNDE DICATUR VOX</p>
+      <p id="MARLUC10069">2. Vox dicitur a vocando, sicut dux a ducendo.</p>
+      <p id="MARLUC10070">3. Item vox dicitur eo quod vota cordis promat;</p>
+      <p id="MARLUC10071">4. unde Phylosophus: Sunt enim, que sunt in voce, earum, que sunt in anima, passionum note.</p>
+      <p id="MARLUC10072">
+      <pb n="[94]" />5. Et ob hoc recte appellatur nota illa que figuratur et a voce profertur,</p>
+      <p id="MARLUC10073">6. nam ipsa est quoddam signum manifestans visui qualiter eam proferre debeamus.</p>
+      <p id="MARLUC10074">1. CAPITULUM UNDECIMUM</p>
+      <p id="MARLUC10075">DE DISTINCTIONE VOCUM</p>
+      <p id="MARLUC10076">2. Notandum est quod vocum alia articulata et litterata, alia inarticulata illiterata, alia articulata illiterata, et alia inarticulata et litterata dicitur.</p>
+      <p id="MARLUC10077">3. Vox articulata et litterata est que intelligi et scribi potest, ut Petrus et Martinus.</p>
+      <p id="MARLUC10078">4. Inarticulata illiterata vox est que nec intelligi nec scribi potest, ut rugitus leonis et mugitus bovis.</p>
+      <p id="MARLUC10079">5. Articulata illiterata vox est que intelligi potest et scribi non valet, ut sibili hominum et gemitus infirmorum.</p>
+      <p id="MARLUC10080">
+      <pb n="[96]" />6. Licet enim scribi non possint ista talia, tamen affectus eorum intelligi potest, nam per sibilum hominis mitigationem alicuius animalis vel eius vocationem intelligimus, per gemitum quoque infirmorum dolorem imaginamur.</p>
+      <p id="MARLUC10081">7. Inarticulata litterata vox est que intelligi non potest et tamen scribi, ut per voces avium proferentium cra cra, cuius prolationis effectum, licet scribi possit, penitus ignoramus.</p>
+      <p id="MARLUC10082">8. De quibus solum articulatam et litteratam vocem, que intelligi et scribi potest, dicimus ad musicam armonicam pertinere.</p>
+      <p id="MARLUC10083">1. CAPITULUM DUODECIMUM</p>
+      <p id="MARLUC10084">DE MUSICA ORGANICA</p>
+      <p id="MARLUC10085">2. Musica organica est, que fit per sonum qui non est vox, et tamen cum anhelitu hominis seu aeris fit, ut in tubis, cimellis, fistulis, organis, et hiis similibus;</p>
+      <p id="MARLUC10086">
+      <pb n="[98]" />3. ad quam diffinitionem intelligendam videamus quid sit sonus qui non est vox.</p>
+      <p id="MARLUC10087">1. CAPITULUM TERCIUM DECIMUM</p>
+      <p id="MARLUC10088">DE SONO QUI NON EST VOX</p>
+      <p id="MARLUC10089">2. Sonus qui non est vox formari potest etiam sine naturalibus instrumentis, solum enim cum anhelitu et impulsu aeris verberati, sicut patet in omnibus instrumentis artificialibus</p>
+      <p id="MARLUC10090">3. in quibusdam enim fit talis sonus cum quodam anhelitu, sicut in tuba et organo.</p>
+      <p id="MARLUC10091">4. Et quia sonus qui est vox plus continet de perfectione quam sonus qui non est vox, ideo potest etiam per talem sonum quoddam instrumentum pulsari, sicut tuba et cimella, et tunc in quantum in dictis instrumentis est dicitur esse sonus qui non est vox,</p>
+      <p id="MARLUC10092">5. et talis sonus qui non est vox, actus cum impulsu et anhelitu aeris in instrumentis predictis et similibus, dicitur solum ad organicam pertinere.</p>
+      <p id="MARLUC10093">
+      <pb n="[100]" />6. Sonus vero qui non fit cum anhelitu, sed ex reverberatione aeris propter percussionem, est quicquid auditur sensibile extra predicta, ut pulsus cordarum, tintinnabuli, strepitus pedum, et hiis similia, et talis sonus non vox dicitur ad rithimicam musicam pertinere.</p>
+      <p id="MARLUC10094">1. CAPITULUM QUARTUM DECIMUM</p>
+      <p id="MARLUC10095">DE MUSICA RITHIMICA</p>
+      <p id="MARLUC10096">2. Musica rithimica est que fit per sonum qui non est vox, et talis sonus fit sine anhelitu, ut supra monstratum est, ut in monacordo, psalterio, tintinnabulo, et hiis similibus.</p>
+      <p id="MARLUC10097">1. CAPITULUM QUINTUM DECIMUM</p>
+      <p id="MARLUC10098">DE DIVISIONE MUSICE</p>
+      <p id="MARLUC10099">2. Istarum autem trium musicarum alia plana et alia mensurata dicitur.</p>
+      <p id="MARLUC10100">3. Musica plana dicitur quilibet cantus qui absque temporis mensura et limitatione 
+      <pb n="[102]" />notularum figuratur et cantatur, sed ut libet cuicunque et signat et profert.</p>
+      <p id="MARLUC10101">4. Musica mensurata est quilibet cantus tempore mensuratus, cuius figure sunt omnes limitate nomine, figura, et quantitatis essentia, quibus mensurate artamur cantare cantus qui sunt talibus notulis situati, quam quidem quantitatem augere non possumus nec diminuere secundum formas et ipsarum nomina figurarum.</p>
+      <p id="MARLUC10102">5. De hac enim mensurata ad presens non intendimus, quia in quodam alio nostro opere de ipsa et de suis accidentibus proposuimus non semiplene tractare, Domino concedente.</p>
+      <p id="MARLUC10103">6. Dictum est superius quod musica est scientia que in numeris, proportionibus, consonantiis, coniunctionibus, mensuris, et quantitatibus consistit, de quibus omnibus est videndum.</p>
+      <p id="MARLUC10104">1. CAPITULUM SEXTUM DECIMUM</p>
+      <p id="MARLUC10105">DE GENERE GENERALISSIMO ET SPECIE SPECIALISSIMA IN MUSICA</p>
+      <p id="MARLUC10106">2. Genus generalissimum in musica est ratio cantandi generalis, non determinata 
+      <pb n="[104]" />ad aliquem specialem modum sed comprehendens omnem modum cantandi, sive sit illud quod cantatur armonicum, sive sit organicum, sive sit rithimicum, sive sit etiam planum sive mensuratum, que omnia sunt species generis supradicti,</p>
+      <p id="MARLUC10107">3. que etiam species in alias species dividuntur, scilicet in cromaticum, dyatonicum, et enarmonicum, que sunt species specialissime, eo quod in ultimiores species non dividuntur, sicut species hominis, que species specialissima est.</p>
+      <p id="MARLUC10108">4. Multipliciter tamen adducitur species hominis, licet specialissima, pro genere, cum fit mentio de toto humano genere, et sic hee species, scilicet cromatice, dyatonice, et enarmonice, licet species specialissime sint, tamen pro generibus universaliter ponuntur in musica.</p>
+      <p id="MARLUC10109">5. Et quia de dictis cromatico, dyatonico, et enarmonico non posset plene tractari nisi de tono prius videretur, cum ipsa sint semitonia, 
+      <pb n="[106]" />iccirco primo videndum est quid sit tonus et quomodo per numeros dividatur.</p>
+      <p id="MARLUC10110">6. EXPLICIT TRACTATUS PRIMUS</p>
+    </body>
+  </text>
+</TEI>

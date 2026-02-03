@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>[Mensura fistularum]</title>
+        <title type="abbrev">ANOPRIR</title>
+        <author>Anonymous</author>
+        <date notBefore="800" notAfter="1099">9th-11th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Peter Slemon</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Anastasia Arapova</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>2001</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+"Anonyme Mensur der Orgelpfeifen. (Cod. Paull. 1493. Fol. 61a.)," in 
+<emph>Studien zur Geschichte der Notenschrift</emph>, ed. Hugo Riemann (Leipzig: Breitkopf and Härtel, 1878), 301.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: Mensura fistularum</title>
+          
+<idno type="LML">FIST. Prima fist. III</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">D-LEu 1493, 61a</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 18937, 297r-v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-TRb Hs. Abt. 95, 6, 92v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 7377 C, 44</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">US-R Ms. 92 1100, 180-181</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">US-Wc ML 171 C 77, 31v</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANOPRIR0001">
+      <pb n="[301]" />Prima fistula in VIII (!) divisa octava (!) pars auferatur et erit B secunda. Secunda fistula in VIII divisa octava pars auferatur et erit C tertia. Tertia non potest dividi in VIII ut faciat quartam, sed sic temperatur quarta ut ter ducta (?) cum tertia parte implet primam; hoc est D quarta fistula. Quarta divisa in VIII octava pars auferatur et erit E quinta (Codex VI). Quinta in VIII divisa octava pars auferatur et erit F sexta. Sexta in VIII divisa octava pars auferatur et erit G septima. Septima in VIII dividi non potest ut faciat octavam, sed sic temperatur, ut ad eam dupla sit A prima.</p>
+      <p id="ANOPRIR0002">Tempera bone artifex organum corporis nostri ut enarmoniae mentis possit aptari nec sic roboretur ut superbiat nec sic languescat, ut deficiat.</p>
+    </body>
+  </text>
+</TEI>

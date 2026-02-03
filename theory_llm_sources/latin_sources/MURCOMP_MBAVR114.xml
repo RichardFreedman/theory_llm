@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Compendium musicae practicae</title>
+        <title type="abbrev">MURCOMP_MBAVR114</title>
+        <author>Johannes de Muris</author>
+        <date notBefore="1300" notAfter="1399">14th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>T</resp>
+        <persName>Peter M. Lefferts</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Travis Yeager</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Peter M. Lefferts</persName>
+      </respStmt>
+      <date>2009</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Vatican City, Biblioteca Apostolica Vaticana, MS Reg. lat. 1146, ff. 2r–5r.
+</bibl>
+        <bibl type="work">
+          
+<title>Iohannes de Muris: Compendium musicae practicae</title>
+          
+<idno type="LML">IOH. MUR. comp.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">A-SP Cod. 135/6 (29.4.4), 22v-24</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">A-SP Cod. 264/4 (27.2.25), 56v-59v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Gu 70 (71), 45rb-46va</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 14741, II-IV</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat Reg. lat. 1146, 2r-5r</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="MURCOMP_MBAVR1140001">
+      <pb n="[f.2r]" />[Compendium Ioannibus de Muribus m.sec. in marg.]</p>
+      <p id="MURCOMP_MBAVR1140002">[Capitulum primum in marg.] Partes prolacionis quot sunt. quinque. que. Maxima longa. breuis. semibreuis. et minima. Maxima que est. bipartita est. questio. Aut enim longissima vel longior appellatur Longissima que est. que sub vno accentu tribus longis temporibus mensuratur Longior que est. que sub accentu duobus longis temporibus profertur Quid est tempus in generale. mensura vocis prolate sub vno continuo Quid est tempus longum. quod in tres partes et parcium partes usque ad vocis minima separatur Quid est minimum in voce. quod est indiuisibile naturaliter Quot sunt minime in temporum perfeccione longorum .27. que per trinariam diuisionem ad indiuisibilem perueniunt vnitatem Numeri maximarum quot sunt .81. que omnes perfeccioni et inperfeccioni cuiuslibet vocis continere dicuntur [id quod m.sec. in marg.] Quid est perfeccio. secundum quod aliquid est perfectum Quid est inperfeccio. secundum quod aliquid est inperfectum Quid est perfectum quod in tres partes est diuisibile vel in duas inequales quarum minor a maiore se ipsa integra separatur Quid est inperfectum. quod in duas partes diuiditur equales Quid est neutrum. quod per remociorem inperficit [[inperficit]] perfectum et per addicionem perficit inperfectum</p>
+      <p id="MURCOMP_MBAVR1140003">[Capitulum secundum in marg.] De longa capitulum secundum Longa que est. bipartita est. questio. aut enim perfecta vel inperfecta proprie nominantur Cur dicit proprie. ad differenciam aliarum parcium quibus liced perfectum et inperfectum conueniant cum alia nominis sui vendicant et non ista. Longa perfecta que est. que sub uno accentu per tria breuia mensuratur. Inperfecta 
+      <pb n="[f.2v]" />que est. que sub vno accentu per duo tempora breuia mensuratur Quid est tempus breue. tercia pars temporis longe eadem diuisione diuisibile quia est totum Aliter sic que cum sit pars maximi totum quia minimi distat equaliter ab vtroque. Minima quot sunt in tempore breui .9. que accepta perfectam et inperfectam que constituunt bis assumpta Quid sit perfectum et inperfectum dictum est per prius</p>
+      <p id="MURCOMP_MBAVR1140004">[Capitulum tercium in marg.] De breue Capitulum tercium Breuis que est. bipartita est. questio aut enim recta. aut breuior appellatur alias nuncupatur Recta breuis que est. que sub vno tempore continuo integre prolata est Cur dicit integre. propter partes temporis que vnum tempus. eadem diffinicio temporis ut vnius temporis assignatur Quante duracionis est vnum tempus. questio voluntarie vel artificiale. Voluntarie que est. que prolixo vel velociter formatur secundum libitum proferentis Artificiale que est. que prolate per tria diuiditur equalia quorum quodlibet vnica diuisione simili diuiditur alias diuidatur. Aliter sic que diuisibilis est per .9. equalia minima dum profertur Breuior qui est breuis duas partes temporis apprehendens. in breuiori minima quot sunt .6. que quorum medietas addita super totum perficit rectam breuem.</p>
+      <p id="MURCOMP_MBAVR1140005">[Capitulum quartum in marg.] De semibreui Capitulum quartum Semibreuis que est. bipartita est aut enim parua vel minor potest consequenter appellari Parua que est. pars tercia recte breuis cuius diuisio ternaria minimo requiescit. Minor que est. que in duas partes parue continet semibreuis Unde dicitur semibreuis. a semis quo pars integre denominatur Quare dicitur semibreuis. a maiore vel minore parte breuis non autem ab equali ut semitonum</p>
+      <p id="MURCOMP_MBAVR1140006">[Capitulum quintum in marg.] Capitulum quintum Prima que est. impartita est. quare. quia non est dare minimo minus Quid est minimum. absolute Quid est neutrum. est mensura omnium que in eodem genere continetur Quid est mensura. que tociens repetita. quod 
+      <pb n="[f.3r]" />mensurato fuerit finaliter adequat Quid Vult dicere mensurato. mensuram adequari plures cantus sub multitudine voce in vna proporcione consonari [Nota bona in marg.] Quid est musica Ars arcium domina continens omnia principia methadorum in primo gradu certitudinis confirmata. in natura rerum omnimodo mirabili proporcionaliter interimata. dilectabilis intellectui. amabilis auditu. tristes letificans. audios amplificans confundens. innidos. confortantes languidos. insopiens vigilantem. euigilans dormientem. nutriens amorem. honorans possessorem. si finem debitum assecuta ad dei laudem finaliter instituta Aliter musica est docens [[et]] artem et modum recte cantandi per notulas recte figuratas Quid est notula. Figura quadrilatiua seminati tempore mensurati ad plurimum significatura Quid est figura quadrilatiua. que quatuor angulis continetur Quid est angulus. triplex est angulus. quo rectus obusus et acutus Quid est rectus. qui cantatur ex casu linee perpendicularis super rectam Quid est obusus. qui maior est recto Quid est acutus. qui minor est rector. Figure quot accidunt. Vnum. quid. significacio tantum Significaciones figurarum quot sunt. quinque. que. maxima. longa. breuis. semibreuis et minima Da de maximis .81. Da de longis .27. Da de breuibus .9. Da de semibreuibus .3. Da de minimis .1. Da de ultimis. nichil. Quot modis notule variantur. tot modis et figura Figure quot sunt. figurarum alia equilatiua. alia inequilatiua. recta angula ut obusu. angula caudata vel incaudata sursum vel deorsum punctuata vel ante vel retro dextrossum vel sinistrorsum sepius ordinata Maxime qualiter figuratur quadrilatiua. inequilatiua recta angula caudata dextroxsum 
+      <pb n="[f.3v]" />sursum vel deorsum figura maxime nominatur ut sic [MX,MXcsdx] Longa qualiter figuratur. ut maxima nisi quod equilatiua figuratur ut sic [L,Bcsdx]. Breuis qualiter figuratur ut longa nisi quod scribitur incaudate ut hic [B,B] Semibreuis qualiter. quadrilatiua obusu angula equilatiua non caudata ut hic [S,S] Minima qualiter figuratur ut semibreuis nisi quod sursum est caudata ut hic [M,M] Perfectum qualiter figuratur. sicut inperfectum Vbi possunt hec discerni. in situ et in ordine qui ponitur in figuris Quot modis cognoscitur perfectum. duobis modis. quibus quando figure sui tercia pars proponitur siue valor ut in hac figura patet in quatuor partibus gradibus manifestis</p>
+      <p id="MURCOMP_MBAVR1140007">[Muris, Compendium, f.3v; text: Figure, Maxima, Longa Breuis, Semibreuis, Minima.] 
+      <figure>
+        <graphic url="/images/MURCOMP_01GF.gif" />
+      </figure></p>
+      <p id="MURCOMP_MBAVR1140008">Distinccio pausarum in quatuor gradibus singillatim et distinccio sic Primus gradus fit de longarum sic [3LP,3LP,3LP,3LP,3LP,3LP,3LP,3LP,2LP,2LP,2LP,2LP,2LP,2LP,2LP,2LP,2LP,2LP]</p>
+      <p id="MURCOMP_MBAVR1140009">Secundus gradus fit de breuibus sic [BP,BP,BP,BP,BP,BP,BP,BP,BP,BP,BP,BP,BP,BP,BP,BP,BP,BP,BP,BP,BP,BP,BP,BP]</p>
+      <p id="MURCOMP_MBAVR1140010">Tercius gradus fit semibreuibus [SP,SP,SP,SP,SP,SP,SP,SP,SP]</p>
+      <p id="MURCOMP_MBAVR1140011">Quartus gradus fit de minimis [MP,MP,MP,MP,MP,MP,MP,MP]</p>
+      <p id="MURCOMP_MBAVR1140012">Et sciendum est quod pausa non potest aumentari neque minui qualitercumque inuenit</p>
+      <p id="MURCOMP_MBAVR1140013">[Capitulum sextum in marg.] Capitulum sextum supradicte notule cuius figure. simplicis. quare. quia adinuicem sunt discrete et nullo modo comparantur Da horum composita. Ligature. quid est ligatura. coniunccio debita notularum secundum sub 
+      <pb n="[f.4r]" />et supra. Ligature quot sunt. due. que. recta et obliqua Recta que est. bipartita est. quo aut enim est ascendens cum primus punctus inferiore vltimo descendens vel cum alcior illo Partes ligature quot sunt. due et aliquando tres. que medium et finis Quomodo cognoscitur principium. dupliciter Qualiter. cum proprietate et sine proprietate. Omnis vero ligatura descendens tractum habens a parte sinistra descendentem ut hic [Lig3cdsndd on staff4]</p>
+      <p id="MURCOMP_MBAVR1140014">Et omnes ascendentes carens omni tractu ut hic patet cum proprietate dicitur [Lig3aa on staff3]</p>
+      <p id="MURCOMP_MBAVR1140015">Omnis vero ligatura descendens carens omni tractu ut hic patet [Lig3dd on staff4]</p>
+      <p id="MURCOMP_MBAVR1140016">Et omnis ascendens tractum habens a parte dextra ascendens sine proprietate dicitur ut hic [Lig3Laa on staff4]</p>
+      <p id="MURCOMP_MBAVR1140017">Omnis autem ligatura tam ascendens quam descendens tractum habens in primo puncto in sinistra parte ascendentem ut hic [Lig3cssnaa on staff4]</p>
+      <p id="MURCOMP_MBAVR1140018">Cum opposita proprietate dicitur Qualiter cognoscitur finis. duobus modis Quibus. cum perfeccione et sine perfeccione. omnis vero punctus directe super penultimum vel sub penultimo situatus est ut hic [Lig2cdsna,Lig2cdsnd on staff4]</p>
+      <p id="MURCOMP_MBAVR1140019">Cum perfeccione dicitur. Si autem a latere et indirecte ut hic [Lig2a,Lig2a on staff4]</p>
+      <p id="MURCOMP_MBAVR1140020">quod solum euenit ascendendo sine perfeccione dicitur Obliqua ligatura que est. que ex obliquis corporibus figuratur ut hic patet [Lig2od,Lig2oa on staff4]</p>
+      <p id="MURCOMP_MBAVR1140021">cuiuslibet corporis obliqui vlterius punctus est breuis Omnis ligatura cum proprietate primam facit breuem. omnis vere sine proprietate longa. omnis opposita proprietas primam facit semibreuem. omnis perfeccio vltima facit longam. inperfeccio vero breuem. omnes medie sunt breues nisi cum opposita proprietate iungatur ut hic [Lig3cssndod on staff4]</p>
+      <p id="MURCOMP_MBAVR1140022">In corpore obliquo primus punctus sine tractu longa 
+      <pb n="[f.4v]" />dicitur ut hic [Lig3oda on staff4]</p>
+      <p id="MURCOMP_MBAVR1140023">Si cum tractu sinistrorsum descendentem breuis ut hic [Lig3cdsnoda on staff4]</p>
+      <p id="MURCOMP_MBAVR1140024">In ligaturis longe quodlibet modo perficiuntur ut in figuris simplicibus est ostensum</p>
+      <p id="MURCOMP_MBAVR1140025">[Capitulum septimum in marg.] Capitulum septimum Quid est modus. ordinacio figurarum varias affecciones animi in cantu demonstrans. Modi cantandi quot sunt. plures. qui. primus si alicui figure sui tercia pars preponatur. secundus econuerso. tercius si alicui figure sui due partes vel tres vel ipsa sibimet postponatur. quartus est extra. quintus omnes mixtura et vna comprehendit Quo modis inperficitur perfectum. tot modis quot contingit ipsum mediate vel inmediate diuisione ternaria separari Cur dicit mediate. propter partes propinquas Cur dicit inmediate propter partes remotas Quot sunt partes propinque. quinque quarum tres reddunt integre totum Que sunt remote. quarum plures .3. ad totum integrum requiruntur Totum integrum quot modis nominatur quatuor quibus. perfecte perfectum. perfecte perfectum. inperfecte inperfectum. inperfecte inperfectum Quomodo cognoscitur. per ea que supra Quomodo perficitur inperfectum. duplex est inperfectum. Inmediatum et mediatum. Inmediatum ut longa per breuem. breuis per semibreuem. et generaliter omne totum per terciam sui partem et eius signum perfeccionis est punctus additur dextrorsum. mediate ut longa per semibreuem. breuis per minimam. et generaliter omne totum per terciam sui partem cuius signum perfeccionis est punctus additus sursum et sic per angulos vel latera notula proporcionabiliter procedendo Punctus quot significata. hec plura. qui significat perfeccionem temporis. significacionem perfeccionis. separacionem modi. diuisionem conuenire. 
+      <pb n="[f.5r]" />Quot modis fit cantus in generale. duobus modis. quibus. est enim cantus regularis et irregularis Quid est cantus regularis. quando cantus sit de tempore perfecto contra perfectum. aut de inperfecto contra inperfectum. perfecciones que simul incipiunt et terminantur. Irregularis per oppositum appellatur. qualiter. quando fit cantus de perfecto contra inperfectum. aut econtra perfeccio. quia vnius in medio vel in fine alterius est incepta ut Thoma tibi obsequia. et si qua sint similia.</p>
+      <p id="MURCOMP_MBAVR1140026">Explicit compendium tractus Magistri Iohannis de Muris.</p>
+      <p id="MURCOMP_MBAVR1140027">[Capitulum octauum in marg.] Sciatur autem prenominatus magister quendam tracte artis musice compilauit. cuius libellus iste compendium appellatur ab ipso sub breuitate extractus. in quo tractu ille magister ponit .9. conclusiones ut ad eas determinant que sunt ille sequentes. Longa inperficitur per breuem ut sic [L,B,L,B] Breuis inperficitur per semibreuem ut sic [B,S,B,S] Semibreuis per minima ut sic [S,M,S,M] Longa inperficitur per semibreuem ut sic [L,S,L,S] Breuis inperficitur per minima ut sic [B,M,B,M] Minima non potest inperfici ut sic [M,M,M]</p>
+    </body>
+  </text>
+</TEI>

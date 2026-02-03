@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Quatuor Principalia I</title>
+        <title type="abbrev">QUAPRIA1_MLBL4909</title>
+        <author>Anonymous</author>
+        <date notBefore="1300" notAfter="1399">14th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>T</resp>
+        <persName>Stephen E. Hayes</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Bradley Jon Tucker</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Peter M. Lefferts</persName>
+      </respStmt>
+      <date>1991</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+London, British Library, MS Additional 4909, ff. 17v–20r.
+</bibl>
+        <bibl type="work">
+          
+<title>Ps.-Simon Tunstede: Quatuor principalia musicae</title>
+          
+<idno type="LML">QUAT. PRINC.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">B-Gu 70 (71), 77v-78v, 144vb-159v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ctc O.9.29, 1-53</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Lbl Add. 4909, 31-56 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Lbl Add. 8866, 4-64</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Lbl Cotton Tiberius B.IX, 205v-214 (Fragment)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ob Bodley 515, 4-77v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ob Digby 90, 1-63v</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="QUAPRIA1_MLBL49090001">
+      <pb n="[f.17v]" />Alius Tractatulus de Musica, Incerto Authore.</p>
+      <p id="QUAPRIA1_MLBL49090002">Pro aliquali notitia de Musica habenda. Primo, videndum est quid sit Musica, et unde dicatur. Secundo, quae ejus partes, et qualiter dividatur. Tertio, quid est Musicus et de Doctrina Musicorum et Cantorum. Quarto, quid genus ejus. Quinto, quae Materia. Sexto, quid Instrumentum. Septimo, quis Artifex. Octavo, quae utilitas. Nono, quae ejus virtus. Et haec in prima parte principaliter per tractanda sunt. Circa Primum, Sciendum, quod Musica est Liberalis Scientia, potestatem cantandi 
+      <pb n="[f.18r]" />subministrans. Dicitur enim Musica a Musis quae secundum fabulas fuit filia Jovis, vel dicitur a Moys Graece quod est Aqua Latine quasi Scientia juxta Aquam inventa, quia sine humoris beneficio nulla Cantilenae vel vocis delectatio subsistit. A Moys dicitur haec Musa est quae quandoque dicitur Cantilena, quandoque Sapientia. Vel Musae dicuntur a Muso, id est a Quaerendo, quia per eas sicut Antiqui voluerunt vis carminum et vocis modulatio quaerebantur.</p>
+      <p id="QUAPRIA1_MLBL49090003">Dicit Boicius, primo Musicae suae, quod Musica tripliciter dividitur, quia alia est Mundana, alia Humana, et alia Instrumentalis. Mundana est illa quae in conjunctionali effectu Elementorum et temporum atque superiorum corporum, videlicet Planetarum et Stellarum ingulalis efficitur. Humana est illa quae in conjunctione cordis et animae consistit ut patet in prohemio ubi supra. Instrumentalis est in discernendis et cognoscendis cantibus atributa et haec etiam dividitur quia alia est Armonica, alia Rithmica, alia Metrica. Rithmica est illa quae in scantione requiritur utrum bene vel male cohaereant dictiones quod cantando utendum est et legendo. Metrica est illa quae Mensuras diversorum Metrorum ostendit probabili ratione, ut patet in Corico, Iambico et Elegiaco Metro. Armonica vero est illa quae decernit sonos in gravem et acutum. Vel Armonica est modulationis discretio et veraciter canendi Scientia, et ad perfectionem facilis via plurumque vocum dissimilium proportionalis Scientia, vel Armonica est consonantia sive Scientia de numero relato ad Sonos. Vel sic Armonica est illa quae consistit in numeris et mensuris et hoc dupliciter una localis secundum proportionem sonorum et vocum in quantitate continentia, alia temporalis secundum proportionem Longarum Breviumque Figurarum 
+      <pb n="[f.18v]" />in quantitate discreta. Partes hujus sunt duae, videlicet Theorica id est Speculativa et Practica. Partes practicae sunt tres, videlicet Scientia de gravi sono, de medio et scientia de acuto, et de hiis tractant eorum Compositores utilitates eorum ostendendo quomodo ex hiis componitur omnis Melodia. Partes Theoricae sunt de dispositionibus hujus artis inveniendi pneumata et cognoscendi eorum numeros quot sunt et species eorum et declarandi proportiones quarumdam ad alias et detractiones de omnibus illis et docere species ordinum et eorum situum quibus preparantur ut accipiatur ex eis quod placet et conponatur ex eis Armonia.</p>
+      <p id="QUAPRIA1_MLBL49090004">Non enim sufficit Musicis tantum proportiones et quantitates Toni et Semitonii scire sive quantitatibus et principiis cantus mensuralis nec etiam sufficit Cantoribus propter habilitatem vocis in cantilenis et factionibus delectari nisi quae sit vis Musicae pleno studio adiscant. Ait enim Boicius libro primo, et capitulo ultimo. Musicus est ille qui ratione perpensa non solum operis Servitio sed etiam Speculationis imperio canendi Scientiam manifestat, quod in multis videmus contraria, eorum enim nominibus multa facta inscribuntur quorum imperio ac ratione sunt instituta non quorum operatione ac Servitio sunt perfecta Musicorum et Cantorum magna est distantia et doctrina quae patet per hos versus: Bestia non Cantor qui non canit arte sed usu Non vox Cantorem facit artis sed documentum unde qui canit quod non sapit dicitur bestia si enim a talibus quaeratur quae consonantiae sint in cantu et quae sit ejus mensura aut omnino se ignorare fatentur aut unam mensuram pro alia esse respondent potest autem illis dici id Evangelii. Domine ignosce eis quia nesciunt quod faciunt tales ergo addiscant ut sicut Cantores sunt usu possent Musici esse ratione.</p>
+      <p id="QUAPRIA1_MLBL49090005">
+      <pb n="[f.19r]" />Genus hujus Scientiae est peritia Armonicae modulationis quae ex pluriorum Sonorum consonantiis vel ex compositione Longarum Breviumque Figurarum percipitur. Materia hujus Scientiae est Sonus ordinatus sive vox ordinata. Sonus ut ait Boicius libro quinto, capitulo tertio, est doctrina gravitatis vel acuis ayere percusso. Sonorum aliae sunt unisonae alii non unisoni. Unisoni sunt quorum sonus unus est vel in gravi vel in acuto. Non unisoni sunt quorum unus gravior et alius acutior certa quantitate. Ex Sonis autem oriuntur voces quarum aliae sunt consonae et aliae dissonae. Consonae autem vocantur quae copulatae mixtaeque suaves efficiunt Sonos. Dissonae vero in contrarium quia copulatae aures offendunt et tedium generant Unde ait Boicius libro primo, capitulo sexto, quod consonantia est soni mixtura gravius et acuti uniformiter suaviterque auribus accedens. Dissonantia vero est duorum sonorum sibimet permixtorum ad aures veniens aspera atque injocunda percussio. Item, libro quarto capitulo primo Consonantiae [antiae supra lin.] quidem sunt quae similiter pulsae suavem permixtumque inter se conjungunt Sonum. Dissonae vero quae similiter pulsae non reddunt suavem neque permixtum sonum. Item, libro tertio capitulo primo consonantia est dissimilium inter se vocum in unum redacta concordia. Dissonancia [an supra lin.] ex opposito. Omnis autem vox aut est continua aut cum intervallo suspensa. Vox continua est in loquendo verba, in prosam legendo et orationem dividendo et sic vox continue operatur et est naturaliter insita tamen humanus spiritus vocem iterum facit ultra quem nullo modo valet excedere. Vox cum intervallo suspensa est quae a gravissima ad acutissimam per intervalla consistit et isti voci humanus Spiritus finem dat quia tantum unusquisque vel in acmen valet extollere vel in gravitate deprimere quam vox naturalis patitur et non ultra, ut ait Boicius libro primo capitulo undecimo.</p>
+      <p id="QUAPRIA1_MLBL49090006">Instrumentum vero aliud est pertinens Theoricae 
+      <pb n="[f.19v]" />et aliud practicae. Theoricae vero Instrumentum est inquisitio seu demonstratio proportionum sonorum et vocum. Practicae vero aliud est naturale, aliud artificiale. Naturale est vel pulmo guttur, Lingua, dentes, palatum et caetera membra sed principaliter forma vocis est epiglotus. Artificiale est vel Organa, Viella, Cithara, Cistolla et caetera unde ut ait Augustinus [nus supra lin.] primo de Doctrina Christiana, capitulo quinto Omnis Sonus qui materies Cantilenae est aut voce editur sicut eorum qui faucibus et ore canunt aut flatu sicut tubarum et tibiarum aut pulsu sed in citharis et timpanis, et secundum hoc triplex est Musicae practicae Instrumentum, videlicet unum per quod vox editur, aliud per quod flatus emittitur, et tertium per quod pulsus efficitur.</p>
+      <p id="QUAPRIA1_MLBL49090007">Artifex vero est ille qui quasi practice format Neupmata et Armonias et eorum accidentia, secundum quod sunt vel qui Theorice docet hoc omnia fieri secundum artem quae humanos possunt invenire affectus. Officium vero hujus Artis aliud est practice, scilicet Armonias componere secundum Artem, aliud theorice, scilicet in Summa comprehendere cognitione spetiarum armonicarum ex quo componuntur et qualiter et quam ad planam Musicam et etiam mensuralem prout in sequentibus ostendetur.</p>
+      <p id="QUAPRIA1_MLBL49090008">Utilitas hujus Scientiae magna est et mirabilis atque virtuosa valde, nam testante Boicio, quod inter Septem Artes Liberales, Musica continet principatum nichil enim sine illa manet etenim Mundus quadam Armonia Sonorum dicitur esse constitutus, et ipsum Coelum sub Armoniae modulatione revolvitur. Astrologi dicunt Novem esse Sonos qui Coelestem Armoniam faciunt septem Soni sunt [sunt supra lin.] septem planetarum, octavus est firmamenti nonus ut quidam dicunt est id totaliter qui ex illis 
+      <pb n="[f.20r]" />octo Sonis constat. Et dicunt quia terra non movetur nullum sonum in Coeli Armonia facit. Alii tamen dicunt, quod licet non moveatur per se movetur tamen in circuitione aliarum Spherarum circa eam, et adeo--raucum habet sonum ut vix etiam computetur inter alios Sonos.</p>
+      <p id="QUAPRIA1_MLBL49090009">Inter omnes Scientias ipsas, Liberalior, Curialior et jocundior, Laetior et Amabilior esse probatur, nam reddit hominem Liberalem, Curialem, Jocundum, Laetum et Amabilem, movet enim affectus hominum provocat in diversum habitum sensus per ipsam enim ut patet in clangore tubarum fit ad certamen animus velocior ipsa enim animos hortatur ad labores tolerandos et operum fatigationem vocis modulatio consolatur excitatosque animos Musica sedat, quandoque dolorem capitis et tristitiam tollit, humores pravos et languores depellit Inmundos Spiritus fugat. Item, utilis ad Salutem corporis et animae invenitur, eo quod quandocunque corpus infirmatur anima languente et ipsa anima cum sonis convenientibus recreata etiam corpus ad sanitatem perducitur. Ipsa quoque Reptilia, nec non et aquatica, verum etiam volatilia sua dulcedine Musica consolatur, et quicquid loquimur in venarum pulsibus conmovetur et armonice probatur esse virtutibus sociatum. Item, considera Citharam David vide Orphei et Amphionis modulationes, ac alias Musicae virtutes quas ponit Macrobius de sompno Scipionis, libro secundo. Ex hiis omnibus praecedentibus collige hanc divisionem sequentem.</p>
+      <p id="QUAPRIA1_MLBL49090010">[London, British Library, Add. 4909, f.20r; text: Instrumentum, Metrica, Rithmica, Armonica, una localis que est in quantitate continue, alia temporalis que est in quantitate discreta, cujus partes sunt, practica et ejus partes sunt, scientia de gravi sono, scientia de medio sono, scientia de continuo sono, theorica, cujus media est sonus, sive sonus aut voce editur et aut est continuus cum intervallo suspensa aut flatu aut pulsu sonorum unisone in gravi vel in acutu non unisone quedam sunt consone quedam sunt dissone cujus Instrumenta alia partis theorice alia practice unum naturale aliud instrumentale De hoc et aliis Terminis, vide Macrobium li. 2o. de Sompno.] 
+      <a>[QUAPRIA 01GF]</a></p>
+    </body>
+  </text>
+</TEI>

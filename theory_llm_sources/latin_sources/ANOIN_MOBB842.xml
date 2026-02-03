@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>[De intervallis]</title>
+        <title type="abbrev">ANOIN_MOBB842</title>
+        <author>Anonymous</author>
+        <date notBefore="1300" notAfter="1399">14th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>T</resp>
+        <persName>Peter M. Lefferts</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Michael W. Lundell</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1995</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Oxford, Bodleian Library, MS Bodley 842 (S.C. 2575), ff. 44v–45r.
+</bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANOIN_MOBB8420001">
+      <pb n="[f.44v]" />Tonus est regula quo de omni cantu in fine diiudicat</p>
+      <p id="ANOIN_MOBB8420002">Unisonus dicitur quasi unus sonus quod sit cum una uox continue reperitur</p>
+      <p id="ANOIN_MOBB8420003">De intencione et remissione modorum patet figura hic sequens</p>
+      <p id="ANOIN_MOBB8420004">
+      <pb n="[f.45r]" />[Oxford, Bodleian Library, Bodley 842, f.45r; text: ut, re, my, fa, sol, la, unisonus, semitonium, tonus, semiditonus, ditonus, diapente, semitonium cum diapente, tonus cum diapente, diapason, intencio, remissio] 
+      <figure>
+        <graphic url="/images/ANOIN_01GF.gif" />
+      </figure></p>
+    </body>
+  </text>
+</TEI>

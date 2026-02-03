@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>De cantu figurato</title>
+        <title type="abbrev">HOTDEC</title>
+        <author>Hothby, Johannes</author>
+        <date notBefore="1400" notAfter="1499">15th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Luminita Florea Aluas</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Benito V. Rivera</persName>
+      </respStmt>
+      <date>1991</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>Scriptorum de musica medii aevi nova series a Gerbertina altera</emph>, 4 vols., ed. Edmond de Coussemaker (Paris: Durand, 1864-76; reprint ed., Hildesheim: Olms, 1963), 3:330–32.
+</bibl>
+        <bibl type="work">
+          
+<title>Iohannes Hothby: De cantu figurato</title>
+          
+<idno type="LML">IOH. HOTH. fig.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">I-FZc 117, 25r-v</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="HOTDEC0001">
+      <pb n="[330]" />JOHANNIS HOTHBY</p>
+      <p id="HOTDEC0002">DE CANTU FIGURATO</p>
+      <p id="HOTDEC0003">De cantu figurato secundum eumdem fratrem Johannem Hothby carmelitam.</p>
+      <p id="HOTDEC0004">Octo sunt figure mensurabilis cantus, videlicet maxima, longa, brevis, semibrevis, minima, semiminima, croma et semicroma, ut hic:</p>
+      <p id="HOTDEC0005">[MXv,Lv,Bv,Sv,Mv,M,SM on staff4]</p>
+      <p id="HOTDEC0006">Duplex est maxima, scilicet perfecta et imperfecta. Maxima perfecta valet tres longas, et tunc est de modo maximarum perfectarum. Maxima imperfecta valet duas longas, et tunc est de modo maximarum imperfectarum. Dupla est longa, scilicet perfecta et imperfecta. Longa perfecta valet tres breves, et tunc est de modo longarum perfectarum. Longa imperfecta valet duas breves, et tunc est de modo longarum imperfectarum. Duplex est brevis, scilicet perfecta et imperfecta. Brevis perfecta valet tres semibreves, et tunc est de tempore perfecto. Brevis imperfecta valet duas semibreves, et tunc est de tempore imperfecto. Duplex est semibrevis, perfecta et imperfecta. Perfecta valet tres minimas, et tunc 
+      <pb n="[331]" />est de majori prolatione. Semibrevis imperfecta valet duas minimas, et tunc est de minori prolatione, ut hic patet:</p>
+      <p id="HOTDEC0007">[CSIII:331] 
+      <figure>
+        <graphic url="/images/HOTDEC_01GF.gif" />
+      </figure></p>
+      <p id="HOTDEC0008">vel hic: [SMcd,SMcd on staff5], de duo in duo.</p>
+      <p id="HOTDEC0009">Circulus denotat quod brevis valet tres semibreves, et plenitudo denotat quod semibrevis valet tres minimas.</p>
+      <p id="HOTDEC0010">Semicirculus denotat quod brevis valet duas semibreves, et vacuitas denotat quod semibrevis valet duas minimas, ut hic :</p>
+      <p id="HOTDEC0011">[Od,Bv,Sv,Sv,Sv; Sv,Mv,Mv,Mv; O,Bv,Sv,Sv,Sv; Bv,Sv,Sv; Cd,Bv,Sv,Sv; Sv,Mv,Mv,Mv; C,Bv,Sv,Sv; Sv,Mv,Mv on staff4]</p>
+      <p id="HOTDEC0012">Et si post circulum vel semicirculum sequitur signum ternarii vel binarii, circulus vel semicirculus denotat longam, et signum sequens denotat brevem, et si post circulum vel semicirculum sequuntur duo signa binarii vel ternarii, circulus vel semicirculus denotat maximam ternarii vel binarii sequens denotat longam et tertium signum binarii vel ternarii denotat brevem, ut hic:</p>
+      <p id="HOTDEC0013">[Od3,Cd3,O3,C3,Od33,Od32,Od23,Od22,Cd33,Cd32,Cd23,Cd22,O33,O32,O23,O22,C33,C32,C23,C22 on staff4]</p>
+      <p id="HOTDEC0014">Duo sunt puncta, videlicet punctus perfectionis, et punctus divisionis. Si punctus perfectionis stat juxta maximam, illa maxima valet tres longas, et si stat juxta longam, illa valet tres breves, et si stat juxta brevem, illa valet tres semibreves, et si stat juxta semibrevem, illa valet tres minimas:</p>
+      <p id="HOTDEC0015">[MXv,pt,Lv,pt,Bv,pt,Sv,pt,Mv,pt,M,pt,SM,pt,Mcdvx on staff5]</p>
+      <p id="HOTDEC0016">Punctus divisionis dividit longas imperficiendo maximas, semibreves imperficiendo breves, minimas imperficiendo semibreves</p>
+      <p id="HOTDEC0017">[MXv,Lv,pt,Lv,MXv; Lv,Bv,pt,Bv,Lv; Bv,Sv,pt,Sv,Bv; Sv,Mv,pt,Mv,Sv; Mv,SMv,SMv,M,M,SM,SM on staff4]</p>
+      <p id="HOTDEC0018">Duplex est ligatura, recta, et pendens. Ligatura recta est quando prima figura est inferior secunda, vel quando ultima quadrata est inferior penultima. Ligatura pendens est quando prima figura est altior secunda vel ultima quadrata immediate altior penultima. Omnis ligatura est recta in principio sine virgula dicitur cum proprietate, et in fine sine virgula dicitur cum perfectione. Item quando ligatura est pendens in principio sine virgula dicitur esse sine proprietate, et in fine dicitur sine perfectione. Et omnis ligatura habens virgulam ascendentem in parte sinistra dicitur cum opposita proprietate, ut hic:</p>
+      <p id="HOTDEC0019">[Lig3vad,Lig3vda,Lig3vLad,Lig3vcdsnda,Lig2vcssna,Lig2vcssnod on staff4]</p>
+      <p id="HOTDEC0020">
+      <pb n="[332]" />Omnis ligatura cum proprietate facit primam esse brevem, et sine proprietate facit primam esse longam, et cum opposita proprietate facit primas duas esse semibreves, et cum perfectione facit ultimam esse longam. et sine perfectione facit ultimam esse brevem, ut hic:</p>
+      <p id="HOTDEC0021">[Lig2vacddx,Lig2vcdsnd,Lig2vd,Lig2vLa,Lig2vcssna,Lig2vcssnod,Lig3vad,Lig2vart,Lig2vacddx,Lig2va,Lig3vaod on staff3]</p>
+      <p id="HOTDEC0022">Omnes figure prime et ultime, si essent mille, sunt omnes breves nisi ligatura esset cum opposita proprietate, que facit duas illas esse semibreves, ut supra dictum est. Maxima propter suam magnitudinem est cognita in omni loco, et longa nunquam vim suam perdit quam extra ligaturam habebat. Ligatura cum proprietate et perfectione secundum virtutem principalem convenit musice Gregoriane, quia omnis ligatura in musica Gregoriana vocatur in principio cum proprietate et in fine cum perfectione. Sed tantum isti quinque modi serviunt musice mensurali, que habuerunt fundamentum suum a musica Gregoriana que proprie musica appellata est. Si vis scire si ligatura ascendit vel descendit, debes respicere ad secundam figuram si est altior vel inferior prima; si est altior, illa ligatura ascendit, si inferior, illa ligatura descendit. Ligature in principio ascendenti convenit sola res convenit, scilicet quod prima figura sit mensura quadrata, ut hic :</p>
+      <p id="HOTDEC0023">[Lig2vacddx,Lig2vacddx on staff3]</p>
+      <p id="HOTDEC0024">Ligature in principio descendenti sola res convenit, scilicet quod prima figura habeat virgulam finitam in parte sinistra descendente, ut hic:</p>
+      <p id="HOTDEC0025">[Lig2vcdsnd on staff3]</p>
+      <p id="HOTDEC0026">Et hoc modo vocatur cum proprietate, et si alio modo inveniantur, vocatur sine proprietate, vel cum opposita proprietate, et hoc quando virgula ascendit:</p>
+      <p id="HOTDEC0027">[Lig2vd,Lig2vcdsnod,Lig2vcssna,Lig2vcssnod on staff3]</p>
+      <p id="HOTDEC0028">Ligature in fine ascendenti vel descendenti convenit quod ultima figura sit altior vel inferior penultima. Si est altior, penultima illa ligatura ascendit, si est inferior, illa ligatura descendit. Ligatura in fine ascendenti sola res convenit, scilicet quod ultima nota sit recta supra penultimam vel habeat unam virgulam finitam in parte dextera descendente, ut hic:</p>
+      <p id="HOTDEC0029">[Sv,Lig2vart,Lig2vacddx,Lig2vacddx on staff3]</p>
+      <p id="HOTDEC0030">Ligature in fine descendenti sola res convenit, scilicet quod ultima figura sit mera quadrata, ut hic:</p>
+      <p id="HOTDEC0031">[Lig2vcdsnd on staff3]</p>
+      <p id="HOTDEC0032">et hoc vocatur cum perfectione, et si alio modo inveniatur, vocatur sine perfectione, ut hic:</p>
+      <p id="HOTDEC0033">[Lig2va,Lig3vcdsndod,Lig4vcdsnddod,Lig2va on staff3]</p>
+      <p id="HOTDEC0034">et sic in omnibus modis reperiuntur ligature cum proprietate et cum opposita proprietate et cum perfectione. Amen.</p>
+      <p id="HOTDEC0035">Et sic est finis per me fratrem Jo. Bonadies in conventu Regij hora prima noctis 1474, die 10 septembris.</p>
+    </body>
+  </text>
+</TEI>

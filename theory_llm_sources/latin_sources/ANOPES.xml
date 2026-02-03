@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>[Rhythmica]</title>
+        <title type="abbrev">ANOPES</title>
+        <author>Anonymous</author>
+        <date notBefore="1200" notAfter="1299">13th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Andreas Giger</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Elisabeth Honn</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1997</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Max Haas, "Studien zur mittelalterlichen Musiklehre I: Eine Übersicht über die Musiklehre im Kontext der Philosophie des 13. und frühen 14. Jahrhunderts," in 
+<emph>Aktuelle Fragen der musikbezogenen Mittelalterforschung: Texte zu einem Basler Kolloquium des Jahres 1975</emph>, Forum Musicologicum: Basler Beiträge zur Musikgeschichte, vol. 3, ed. Hans Oesch and Wulf Arlt (Winterthur: Amadeus Verlag, 1982), 425.
+</bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANOPES0001">
+      <pb n="[425]" />Pes est syllabarum et temporum certa dinumeratio ... pedes disyallabi sunt quattuor, trisyllabi octo, duplices sedecim. ergo disyllaba quattuor hi sunt, pyrrichius ex duabus brevibus temporum duum, ut fuga [Lig2cdsnod] huic contrarius est spondeus ex duabus longis temporum quattuor, ut aestas [Lig2d]: iambus ex brevi et longa temporum trium, ut parens [Lig2cdsnd]; huic contrarius est trochaeus ex longa et brevi temporum trium, ut meta [Lig2od]. trisyllabi octo sunt, tribrachys ex tribus brevibus temporum trium, ut macula [Lig3cdsndod]; huic contrarius est molossus ex tribus longis temporum sex, ut Aeneas [signum]: anapestus ex duabus brevibus et longa temporum quattuor, ut Erato [Lig3cdsndd]; huic contrarius est dactylus ex ionga et duabus brevibus temporum quattuor, ut Maenalus [Lig3Lcudd]: amphibrachys ex brevi et longa et brevi temporum quattuor, ut carina [Lig3arta]; huic contrarius est amphimacrus ex longa et brevi et longa temporum quinque, ut insulae [Lig3dd]: bacchius ex brevi et duabus longis temporum quinque, ut Achates</p>
+      <p id="ANOPES0002">[Haas, 425,1] 
+      <figure>
+        <graphic url="/images/ANOPES_01GF.gif" />
+      </figure></p>
+      <p id="ANOPES0003">huic contrarius est antibacchius ex duabus longis et brevi temporum quinque, ut natura [Lig3Larta]. duplices sedecim hi sunt, proceleumaticus ex quattuor brevibus temporum quattuor, ut avicula [Lig4cdsndaod]; huic contrarius est dispondeus ex quattuor longis temporum octo, ut oratores</p>
+      <p id="ANOPES0004">[Haas, 425,2]</p>
+      <p id="ANOPES0005">diiambus ex duobus iambis temporum sex, ut propinquitas</p>
+      <p id="ANOPES0006">[Haas, 425,3]</p>
+      <p id="ANOPES0007">huic contrarius est ditrocheus ex duobus trochaeis temporum sex, ut cantilena [Lig4odaLa]; antispastus ex brevi et duabus longis et brevi temporum sex, ut ligatura (Donat: Saloninus)</p>
+      <p id="ANOPES0008">[Haas, 425,4]</p>
+      <p id="ANOPES0009">huic contrarius est choriambus ex longa et duabus brevibus et longa temporum sex, ut armipotens [Lig4ddacddx]. ionicus minor ex duabus brevibus et duabus longis temporum sex, ut Diomedes</p>
+      <p id="ANOPES0010">[Haas, 425,5]</p>
+      <p id="ANOPES0011">huic contrarius est ionicus maior ex duabus longis et duabus brevibus temporum sex, ut Iunonius [Lig4Lartaod]: paeon primus ex prima longa et tribus brevibus temporum quinque, ut legitimus [Lig4dda], paeon secundus ex secunda longa et tribus brevibus temporum quinque, ut colonia [Lig4artaod] ...</p>
+    </body>
+  </text>
+</TEI>

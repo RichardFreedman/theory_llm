@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>[Tractatus de solmisatione]</title>
+        <title type="abbrev">COSTRA</title>
+        <author>Cosil, Nicolaus de</author>
+        <date notBefore="1400" notAfter="1499">15th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Jessica Sisk</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Peter Slemon</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>2005</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Ruzena Muzíková, "Hudebne teoreticky traktat Mikuláse z Kozlí," 
+<emph>Miscellanea musicologica</emph> 13 (1960): 7-26, 12–24.
+</bibl>
+        <bibl type="work">
+          
+<title>Nicolaus de Cosil*: Tractatus de solmisatione*</title>
+          
+<idno type="LML">NICOL. COS.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">PL-WRu I.Q.466, 144v-147</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="COSTRA0001">
+      <pb n="[12]" />[144b] Tres sunt cantus in manu scilicet beduralis, naturalis et bemollis, et isti tres dividuntur in septem partes: beduralis in tres, naturalis in duas et bemollis in duas.</p>
+      <p id="COSTRA0002">[145a] In dsolre manet primus tonus atque secundus terciusque et quartus elami sede locantur, est faut meta quinto sextoque repleta, septimus et octavus gsolreut comitantur.</p>
+      <p id="COSTRA0003">[Cosil, Tractatus, 12; text: [I.], gamaut, [II.], cefaut, [III.], efaut] 
+      <figure>
+        <graphic url="/images/COSTRA_01GF.gif" />
+      </figure></p>
+      <p id="COSTRA0004">[Sancte Nicolae doce me cantare.]</p>
+      <p id="COSTRA0005">Primus cantus beduralis incipitur in gamaut in linia et finitur in elami in spacio et probatur sic: ut-re-mi-fa-sol-la/La-sol-fa-mi-re-ut, ut super. [I.]</p>
+      <p id="COSTRA0006">Primus cantus naturalis incipitur in cefaut in spacio et finitur in alamire in linia et probatur sic, ut super. [II.]</p>
+      <p id="COSTRA0007">Primus cantus bemollis incipitur in efaut in linia et finitur in delasolre in 
+      <pb n="[14]" />spacio et probatur sic, ut super. [III.]</p>
+      <p id="COSTRA0008">Sic et alii quatuor cum nota scilicet secundus cantus beduralis incipitur in gesolreut in spacio et finitur elami in linia et probatur sicut primi.</p>
+      <p id="COSTRA0009">Secundus cantus naturalis incipitur in Cesolfaut in linia et finitur in alamire in spacio et probatur sic ut primus. Secundus cantus bemollis incipitur in efaut in spacio et finitur in delasol in linia et probatur sic, ut super.</p>
+      <p id="COSTRA0010">Tercius cantus beduralis incipitur in gesolreut in linia et finitur extra manum. Gamaut habet unam vocem scilicet ut et nullam mutacionem, are et bemi similiter nullam.</p>
+      <p id="COSTRA0011">Cefaut habet duas voces scilicet fa et ut, et duas mutaciones scilicet fa ut-ut fa. [IV.]</p>
+      <p id="COSTRA0012">[IV.] [Cosil, Tractatus, 14; text: fa, ut]</p>
+      <p id="COSTRA0013">fa mutatur in ut ascendendo de primo cantu bedurali in primum cantum naturalem et e converso ut mutatur in fa descendendo de primo cantu naturali in primum beduralem et probatur sic: ut re et cetera.</p>
+      <p id="COSTRA0014">
+      <pb n="[16]" />[145b] Desolre habet duas voces scilicet sol et re, et duas mutaciones scilicet sol re - re sol. [V.]</p>
+      <p id="COSTRA0015">[V.] [Cosil, Tractatus, 16,1; text: sol, re]</p>
+      <p id="COSTRA0016">Sol mutatur in re ascendendo de primo cantu bedurali in primum cantum naturalem et e converso re mutatur in sol descendendo de primo cantu neturali in primum beduralem et probatur sic: ut re mi fa sol - re mi fa sol la, e converso la sol fa mi re - sol fa mi re ut.</p>
+      <p id="COSTRA0017">Elami habet duas voces scilicet la et mi, et duas mutaciones scilicet la mi - mi la. [VI.]</p>
+      <p id="COSTRA0018">[VI.] [Cosil, Tractatus, 16,2; text: la, mi]</p>
+      <p id="COSTRA0019">La mutatur in mi ascendendo de primo cantu bedurali in primum cantum naturalem et e converso mi mutatur in la descendendo de primo cantu naturali in primum beduralem et probatur sic: ut re mi fa sol la - mi, e converso la sol fa mi - la sol fa mi re ut.</p>
+      <p id="COSTRA0020">Efaut habet duas voces scilicet fa et ut, et duas mutaciones scilicet fa ut - ut fa. [VII.]</p>
+      <p id="COSTRA0021">[VII.] [Cosil, Tractatus, 16,3; text: fa, ut]</p>
+      <p id="COSTRA0022">
+      <pb n="[18]" />Fa mutatur in ut ascendendo de primo cantu naturali in primum cantum bemollem et e converso ut mutatur in fa descendendo de primo cantu bemolli in primum cantum naturalem et probatur sic: ut re mi fa - ut re mi fa sol la, e converso la sol fa re ut - fa mi re ut.</p>
+      <p id="COSTRA0023">Gesolreut habet tres voces scilicet sol, re et ut, et sex mutaciones scilicet sol-re, re-sol, re-ut, [146a] ut-re, sol-ut, ut-sol, [VIII.-X.]</p>
+      <p id="COSTRA0024">[VIII.] [Cosil, Tractatus, 18,1; text: sol, re]</p>
+      <p id="COSTRA0025">Sol mutatur in re ascendendo de primo cantu naturali in secundum cantum beduralem et e converso re mutatur in sol descendendo de secundo cantu bedurali in primum naturalem et probatur sic: ut re mi fa sol - re mi fa sol la, e converso la sol fa mi re - sol fa mi re ut. [VIII.]</p>
+      <p id="COSTRA0026">IX. [Cosil, Tractatus, 18,2; text: re, ut]</p>
+      <p id="COSTRA0027">Re mutatur in ut ascendendo de primo cantu bemolli in secundum cantum beduralem et e converso ut mutatur in re descendendo de secundo cantu bedurali in primum cantum bemollem et probatur sic: ut re - ut re mi fa sol la, e converso la sol fa mi re ut - re ut. [IX.]</p>
+      <p id="COSTRA0028">
+      <pb n="[20]" />[X.] [Cosil, Tractatus, 20,1; text: sol ut] 
+      <figure>
+        <graphic url="/images/COSTRA_02GF.gif" />
+      </figure></p>
+      <p id="COSTRA0029">Sol mutatur in ut ascendendo de primo cantu naturali in secundum cantum beduralem et e converso ut mutatur in sol descendendo de secundo cantu bedurali in primum cantum naturalem et probatur sic: ut re mi fa sol - ut re mi fa sol la, e converso la sol fa mi re ut - sol fa mi re ut. [X.]</p>
+      <p id="COSTRA0030">Alamire habet tres voces scilicet la, mi et re, et sex mutaciones scilicet la-mi, mi-la, mi-re, re-mi, la-re, re-la. [X.-XII.]</p>
+      <p id="COSTRA0031">[XI.] [Cosil, Tractactus, 20,2; text: la, mi]</p>
+      <p id="COSTRA0032">La mutatur [146b] in mi ascendendo de primo cantu naturali in secundum cantum beduralem et e converso mi mutatur in la descendendo de secundo cantu bedurali in primum cantum naturalem et probatur sic: ut re mi fa sol la - mi fa sol la, e converso la sol fa mi - la sol fa mi re ut. [XI.]</p>
+      <p id="COSTRA0033">[XII.] [Cosil, Tractatus, 20,3; text: re, mi]</p>
+      <p id="COSTRA0034">Mi mutatur in re ascendendo de primo cantu bemolli in secundum cantum beduralem et e converso re mutatur in mi descendendo de secundo cantu bedurali 
+      <pb n="[22]" />in primum bemollem et probatur sic: ut re mi - re mi fa sol la, e converso la sol fa mi re - mi re ut. [XII.]</p>
+      <p id="COSTRA0035">[XIII.] [Cosil, Tractatus, 22,1; text: la, re]</p>
+      <p id="COSTRA0036">La mutatur in re ascendendo de primo cantu naturali in secundum cantum beduralem et e converso re mutatur in la descendendo de secundo cantu bedurali in primum naturalem et probatur sic: ut re mi fa sol la - re mi fa sol la - la sol fa mi re - la sol fa mi re ut. [XIII.]</p>
+      <p id="COSTRA0037">Befabemi habet duas voces scilicet fa et mi, et duas mutaciones scilicet fa-mi, mi-fa [XIV.]</p>
+      <p id="COSTRA0038">[XIV.] [Cosil, Tractatus, 22,2; text: mi, fa]</p>
+      <p id="COSTRA0039">Fa mutatur in mi ascendendo de primo cantu bemolli in secundum cantum beduralem et [147a] e converso mi mutatur in fa descendendo de secundo cantu bedurali in primum bemollem et probatur sic ut super.</p>
+      <p id="COSTRA0040">Cesolfaut habet tres voces scilicet sol, fa et ut, et sex mutaciones scilicet sol-fa, fa-sol, fa-ut, ut-fa, sol-ut, ut-sol. [XV.-XVII.]</p>
+      <p id="COSTRA0041">[XV.] [Cosil, Tractatus, 22,3; text: [sol], [fa]]</p>
+      <p id="COSTRA0042">
+      <pb n="[24]" />Sol mutatur in fa ascendendo de primo cantu bemolli in secundum cantum naturalem et e converso fa mutatur in sol descendendo de secundo cantu naturali in primum bemollem et probatur sic: ut re mi fa sol - fa sol la, e converso la sol fa - sol fa mi re ut. [XV.]</p>
+      <p id="COSTRA0043">[XVI.] [Cosil, Tractatus, 24,1; text: [fa], [ut]]</p>
+      <p id="COSTRA0044">Fa mutatur in ut ascendendo de secundo cantu bedurali in secundum cantum naturalem et e converso ut mutatur in fa descendendo de secundo cantu naturali in secundum cantum beduralem et probatur sic: ut re mi fa - ut re mi fa sol la, e converso la sol fa mi re ut - fa mi re ut. [XVI.]</p>
+      <p id="COSTRA0045">[XVII.] [Cosil, Tractatus, 24,2; text: [sol], [ut]]</p>
+      <p id="COSTRA0046">Sol mutatur in ut ascendendo de primo cantu bemolli in secundum cantum naturalem et e converso ut mutatur in sol descendendo de secundo cantu naturali in primum bemollem et probatur sic: ut re mi fa sol - ut re mi fa sol la, e converso la sol fa mi re ut - sol fa mi re ut. [XVII.]</p>
+    </body>
+  </text>
+</TEI>

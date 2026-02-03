@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>[Tractatulus de notis]</title>
+        <title type="abbrev">ANO2OMN</title>
+        <author>Anonymous</author>
+        <date notBefore="1300" notAfter="1399">14th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Peter Slemon</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Jessica Sisk</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>2003</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+F. Alberto Gallo, "Due trattatelli sulla notazione del primo trecento," 
+<emph>Quadrivium</emph> 12 (1971): 119-30, 127–30. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: Tractatus de musica mensurabili</title>
+          
+<idno type="LML">MENS. Omnis nota sic</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">I-PAVu 361, 58r-v</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANO2OMN0001">
+      <pb n="[127]" />[ANONIMUS II]</p>
+      <p id="ANO2OMN0002">1 [O]mnis nota sic formata: [L] dicitur longa. Et sic formata: [MX] valet sex tempora. Et perfecta longa valet tria tempora brevia; nisi brevis sequatur vel precedat, et tunc valet duo tempora et facit perfectionem cum brevi sequenti vel precedenti, ut hic:</p>
+      <p id="ANO2OMN0003">[L,B; B,L]</p>
+      <p id="ANO2OMN0004">Si vero ponantur due breves inter duas longas, ille due breves faciunt perfectionem, sic quod prima illarum valet unum tempus, secunda vero duo tempora et dicitur altera brevis, et si[c] precedens longa non ammictit vim suam, quia perfectio sequitur, ut hic:</p>
+      <p id="ANO2OMN0005">[L,B,B,L]</p>
+      <p id="ANO2OMN0006">Et si eciam ponantur tres breves inter duas longas, eciam faciunt perfectionem, sic quod quelibet valeat unum tempus per se, et sic precedens longa non ammitit vim suam, ut hic:</p>
+      <p id="ANO2OMN0007">[L,B,B,B,L]</p>
+      <p id="ANO2OMN0008">Si vero ponantur inter duas longas plures breves quam tres, tante quod non possit computari perfectio de illis brevibus absque precedenti longa, precedens non valet nisi duo tempora et ponitur cum brevibus sequentibus, ut hic:</p>
+      <p id="ANO2OMN0009">[L,B,pt,B,B,B,pt,B,L]</p>
+      <p id="ANO2OMN0010">Si vero poneretur pontellus retro notam longam, ut hic: [L,pt], nullo modo ammitit sua tria tempora. Omnis nota sic formata: [B] 
+      <pb n="[128]" />dicitur brevis, et valet unum tempus. Omnes note sic formate dicuntur semibreves:</p>
+      <p id="ANO2OMN0011">[S,S,pt,S,S,S,S on staff1]</p>
+      <p id="ANO2OMN0012">et ponuntur due vel tres vel plures pro una brevi secundum quod invenitur in[ter] duas longas vel breves vel quod postponitur pontellus, ut supra. Quandocumque invenirentur multe semibreves insimul et poneretur pontellus inter ipsas, ut supra, ille pontellus ponitur ad divisionem illarum semibrevium que currunt pro una brevi.</p>
+      <p id="ANO2OMN0013">2a Dicto de simplicibus, incipit de licaturis.</p>
+      <p id="ANO2OMN0014">Omnis nota in principio sine proprietate descendendo dicitur longa, ut hic:</p>
+      <p id="ANO2OMN0015">[Lig3dod,Lig2od,Lig3dd on staff3]</p>
+      <p id="ANO2OMN0016">Cum proprietate ex parte ante descendendo dicitur brevis, ut hic:</p>
+      <p id="ANO2OMN0017">[Lig3cdsndod,Lig2cdsnod,Lig3cdsndd on staff3]</p>
+      <p id="ANO2OMN0018">Cum opposita proprietate vero semibrevis, sed cum sequenti, licet ascendat vel descendat (nulla semibrevis sola invenitur) et sic faciunt unum tempus, ut hic:</p>
+      <p id="ANO2OMN0019">[Lig2cssnod,Lig2cssnoa,Lig2cssna,Lig2cssnd on staff1]</p>
+      <p id="ANO2OMN0020">Omnis nota in principio ligature ascendendo dicitur brevis, ut hic:</p>
+      <p id="ANO2OMN0021">[Lig5aadd on staff2]</p>
+      <p id="ANO2OMN0022">2b Dicto de primis, incipit de medijs.</p>
+      <p id="ANO2OMN0023">Omnes note in medio ligaturarum dicuntur breves, ut hic:</p>
+      <p id="ANO2OMN0024">[Lig5cdsndodad on staff2]</p>
+      <p id="ANO2OMN0025">Quandocumque invenitur in licatura vel extra habens pontellum retro, ut hic:</p>
+      <p id="ANO2OMN0026">[Lig3cdsnoda,pt,Lig3cdsndd,L,pt,Lig3ad,pt,Lig3ad,pt on staff2]</p>
+      <p id="ANO2OMN0027">
+      <pb n="[129]" />illa nota pontillum habens retro valet duo tempora et facit perfectionem cum precedenti brevi, ut supra.</p>
+      <p id="ANO2OMN0028">2c Dicto de medijs, incipit de ultimis.</p>
+      <p id="ANO2OMN0029">Omnis nota in fine ligature descendendo iacens in quadro, est longa, ut hic:</p>
+      <p id="ANO2OMN0030">[Lig3cdsndd on staff3]</p>
+      <p id="ANO2OMN0031">Iacens vero in bastione dicitur brevis, ut hic:</p>
+      <p id="ANO2OMN0032">[Lig6adodaod,Lig4cdsndoda,Lig3cdsndod on staff2]</p>
+      <p id="ANO2OMN0033">Ultime vero ascendendo que respiciunt peneultimum suum puntum, id est que recte stant supra penultimam suam, sunt longe, ut hic:</p>
+      <p id="ANO2OMN0034">[Lig3aart,Lig3aart,Lig4aoda,Lig4cdsndoda on staff2]</p>
+      <p id="ANO2OMN0035">Que respiciunt ex parte contraria, sunt breves, ut hic:</p>
+      <p id="ANO2OMN0036">[Lig2a,Lig3aa,Lig11aodaadoadodaa on staff3]</p>
+      <p id="ANO2OMN0037">3 Omnis nota plicata ex utraque parte, cuius plica dextra superat sinistram ascendendo vel descendendo, dicitur longa, ut hic:</p>
+      <p id="ANO2OMN0038">[Lig2cdsndcddx,Lig2acsdx,Bpdsncddx,Bpssncsdx on staff2]</p>
+      <p id="ANO2OMN0039">Brevis plica est cui dester tractus brevior est sinistro [vel que] solum habet tractum a latere destro, ut hic:</p>
+      <p id="ANO2OMN0040">[Bpssncsdx,Bpdsncddx,S,S,S on staff2]</p>
+      <p id="ANO2OMN0041">Omnis cantus moctectorum computatur per tria tempora, licet faciat longas vel breves vel semibreves.</p>
+      <p id="ANO2OMN0042">4 Sequitur de pausis.</p>
+      <p id="ANO2OMN0043">Omnis pausa continens unum spatium valet unum tempus vel duo 
+      <pb n="[130]" />semis. Continens vero duo, valet duo tempora. Continens vero tria, valet tria tempora. Continens vero omnia spacia et lineas, est pausa communis. Ut hic:</p>
+      <p id="ANO2OMN0044">[Anonymous, [Tractatulus], 130] 
+      <figure>
+        <graphic url="/images/ANO2OMN_01GF.gif" />
+      </figure></p>
+    </body>
+  </text>
+</TEI>

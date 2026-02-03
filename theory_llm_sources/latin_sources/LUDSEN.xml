@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Sentencia in musica sonora subiecti</title>
+        <title type="abbrev">LUDSEN</title>
+        <author>Ludovicus Sanctus</author>
+        <date notBefore="1300" notAfter="1399">14th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Andreas Giger</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Andreas Giger</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1996</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Ambrogio Abbate Amelli, O.S.B., "Di uno scritto inedito di S. Lodovico vescovo di Tolosa intorno alla musica," 
+<emph>Archivum franciscanum historicum</emph> 2 (1909): 379-80, 379–80.
+</bibl>
+        <bibl type="work">
+          
+<title>Ludovicus Sanctus (Heyliger?) de Beeringhen: Sentencia in musica sonora subiecti</title>
+          
+<idno type="LML">LUD. SANCT.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">I-Fl Ashburnham 1051, 170</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="LUDSEN0001">
+      <pb n="[379]" />F. 17Ov. Incipit sententia in musica sonora subiecti (sic) Ludovici sancti.</p>
+      <p id="LUDSEN0002">Omnes homines, sicut dicit philosophus, naturaliter scire desiderant. Humana igitur curiositas, que non tam solum circa scientiarum racionabiliter vertitur essencias, quin etiam earundem naturaliter delectatur 
+      <pb n="[380]" />principiis cum suis quibusdam velud incolis in musica sonora precipue ignorantibus indagare frequenter consuevit, quidnam esset subiectum in ipsa musica sonora, que inter ceteras scientias tam Deo amabilis quam etiam et hominibus utilis est atque delectabilis, quod in eo libro quem de ipsius commendacione scripsimus plene probavimus, quibus pro posse in hac parte satisfacere intendimus, et breviter dicendo sic.</p>
+      <p id="LUDSEN0003">Subiectum in musica sonora est ens discretum ad aliud relatum, sive numerus ad sonum relatus. Et arguimus sic. Illud debet esse subiectum in scientia de quo determinatur per totam scientiam sive artem. Sed de tali ente relato ad sonum determinatur per totam musicam. Ergo ens tale discretum relatum ad sonum est subiectum in ipsa musica.</p>
+      <p id="LUDSEN0004">In contrarium arguitur sic. Ens ad aliud relatum, vel numerus ad sonum relatus, nihil aliud est quam dualitas et cetera. Set dualitates et hiis similia sunt quidem numeri, qui habent considerari ab aritmetico. Ergo non a musico, cum diversarum scientiarum sive arcium diversa debeant esse subiecta. Ad istam questionem dicendum est, quod ens ad aliud relatum in quorum relatione causatur quidam sonus, est subiectum in musica. Tale autem ens dicitur punctum esse ad aliud punctum relatum, in relatione quorum causatur quedam eufonia sive quedam soni concordia.</p>
+      <p id="LUDSEN0005">Preterea. Illud dicitur esse subiectum in scientia, de quo proprietates et passiones et modulamina determinantur in eadem et probantur. Set omnia ista probantur de tali ente, videlicet de puncto ad aliud relato, sive de numero ad sonum relato. Ergo ens tale est subiectum in musica.</p>
+      <p id="LUDSEN0006">Ad argumentum in contrarium factum respondemus: quando dicitur quod ens ad aliud relatum est dualitas, dualitas autem consideratur ab aritmetico, dico quod talis dualitas potest considerari absolute, non considerando eufoniam inter se sive soni concordiam, et sic consideratur ab aritmetico. Vel potest considerari ens tale in quantum ex relatione unius ad alterum causatur quidam sonus, sive quedam soni proporcio, et consideratur a musico. Unde per huiusmodi rationes patet quod ens discretum ad aliud relatum, sive numerus ad sonum relatus est subiectum in musica. Et ideo dicit Ysidorus in Ethimologia, quod musica est disciplina que de numeris loquitur, qui ad aliquid sunt, hiis qui inveniuntur in sonis. Et hec dicta sufficiant de subiecto musice sonore.</p>
+      <p id="LUDSEN0007">Explicit subiectum in musica sonora quod Lodovicus sanctus per predictas suis (sic) assignat rationes.</p>
+    </body>
+  </text>
+</TEI>

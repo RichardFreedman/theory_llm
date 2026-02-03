@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>[De musica]</title>
+        <title type="abbrev">NOTDEMU</title>
+        <author>Notker</author>
+        <date notBefore="800" notAfter="1099">9th-11th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>John Gray</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Oliver B. Ellsworth</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Andreas Giger</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1995</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>Patrologia cursus completus, series latina</emph>, ed. J. P. Migne, 221 vols. (Paris: Garnier, 1844-1904), 131:1171–78.
+</bibl>
+        <bibl type="work">
+          
+<title>Notker Balbulus: Epistula ad Lantbertum</title>
+          
+<idno type="LML">NOTK. BALB.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">B-Br II 4141, 32r-v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">CH-SGs 381, 6-9</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-B Phillipps 1651, 212v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-DS 1988, 126v-127, 184</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-KA K 504, 44r-v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-LEu Ms. Thomas 391, 6</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fl Plut. LXV. 35, 1v</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="NOTDEMU0001">
+      <pb n="[1171]" />B. NOTKERI BALBULI S. GALLI MONACHI</p>
+      <p id="NOTDEMU0002">QUOD SINGULAE LITTERAE IN SUPERSCRIPTIONE SIGNIFICENT CANTILENAE.</p>
+      <p id="NOTDEMU0003">Notker Lamberto fratri salutem.</p>
+      <p id="NOTDEMU0004">Quid singulae litterae in superscriptione significent cantilenae, prout potui juxta tuam petitionem explanare curavi.</p>
+      <p id="NOTDEMU0005">A, ut altius elevetur, admonet.</p>
+      <p id="NOTDEMU0006">B, secundum litteras, quibus adjungitur, ut bene, multum extollatur, vel gravetur, sive teneatur, belgicat.</p>
+      <p id="NOTDEMU0007">C, ut cito, vel celeriter dicatur, certificat.</p>
+      <p id="NOTDEMU0008">D, ut deprimatur, demonstrat.</p>
+      <p id="NOTDEMU0009">E, ut aequaliter sonetur, eloquitur.</p>
+      <p id="NOTDEMU0010">F, ut cum fragore seu frendore feriatur, flagitat.</p>
+      <p id="NOTDEMU0011">G, ut in gutture gradatim garruletur, genuine gratulatur.</p>
+      <p id="NOTDEMU0012">H, ut tantum in scriptura aspirat, ita et in nota idipsum habitat.</p>
+      <p id="NOTDEMU0013">I. jusum vel inferius insinuat, gratitudinemque pro g. interdum indicat.</p>
+      <p id="NOTDEMU0014">K, licet apud Latinos nihil valeat, apud nos tamen Alemannos pro [chi] Graeca positum chlenige, id est, clange, clamitat.</p>
+      <p id="NOTDEMU0015">L, levare laetatur.</p>
+      <p id="NOTDEMU0016">M, mediocriter, melodiam, moderari, mendicando, memorat.</p>
+      <p id="NOTDEMU0017">N, notare, hoc est, noscitare, notificat.</p>
+      <p id="NOTDEMU0018">
+      <pb n="[1172]" />O, figuram sui in ore cantantis ordinat.</p>
+      <p id="NOTDEMU0019">P, pressionem, vel prensionem praedicat.</p>
+      <p id="NOTDEMU0020">Q, in significationibus notarum cur quaeratur? cum etiam in verbis ad nihil aliud scribatur, nisi ut sequens V vim suam amittere quaeritur.</p>
+      <p id="NOTDEMU0021">R, rectitudinem vel rasuram non abolitionis, sed crispationis rogitat.</p>
+      <p id="NOTDEMU0022">S, susum vel sursum scandere, sibilat.</p>
+      <p id="NOTDEMU0023">T, trahere vel tenere debere, testatur.</p>
+      <p id="NOTDEMU0024">V, licet amissa in sua, veluti valde Vau Graeca, vel Hebraea, velificat.</p>
+      <p id="NOTDEMU0025">X, quamvis Latina verba per se inchoet, tamen exspectare expetit.</p>
+      <p id="NOTDEMU0026">Y, apud Latinos nihil hymnizat.</p>
+      <p id="NOTDEMU0027">Z, vero licet et ipsa mere Graeca, et ob id haud necessaria Romanis, propter predictam tamen. R litterae occupationem ad alia requirere. In sua lingua, zitise require.</p>
+      <p id="NOTDEMU0028">Ubicunque autem duae, vel tres, aut plures litterae ponuntur in uno loco, ex superiore interpretatione, maximeque illa, quam de B dixi, quid sibi velint, facile poterit adverti. Salutant te Ellinici fratres; monentes te fieri de ratione embolismi triennis, ut absque errore gnarus esse valeas biennis contempto pretio divitiarum Xerxis.</p>
+      <p id="NOTDEMU0029">DE OCTO TONIS.</p>
+      <p id="NOTDEMU0030">INTERPRETATIO LATINA.</p>
+      <p id="NOTDEMU0031">Sciendum itaque, quod in cantu tonorum septem duntaxat mutationes sint, quas Virgilius dicit: Septem discrimina vocum; et octava in qualitate eadem est, quae prima. Propterea in lyra et in psalterio septem semper chordae sunt, caeque aequaliter factae. In his aliisque instrumentis alphabetum ulterius haud procedit, quam ad primas septem litteras A B C D E F G. Ex septem his quatuor sunt, nempe B C D E, in quas omnis cantus desinit: qui primi et secundi toni est, desinit in B; qui tertii et quarti, in C; qui quinti et sexti, in D; qui septimi et octavi, in E. Quod si cantus descendere velit a sua conclusione deorsum usque ad quintam litteram, vel sursum ascendere usque ad nonam, ita ut tredecim superet, sicut fit in antiphona Cum fabricator mundi in primo tono: tunc superius apponendae sunt dicti alphabeti sex primae litterae A B C D E F et inferius tres ultimae E F G, tunc sexdecim sunt: quemadmodum 
+      <pb n="[1174]" />veteribus musicis quindecim litterae, te quindecim chordae sufficere videbantur: et volebant, ut cithara totidem chordas haberet, usque dum suprema infimae corresponderet in qnadruplo. Haec est maxima proportio, et maxima symphonia, quae bis diapason dicitur, atque ex aliis symphoniis constat. Diatessaron siquidem et Diapente efficiunt Diapason: sicut autem Diatessaron et Diapente Diapason faciunt, ita duae Diapason bis Diapason constituunt: propterea quatuor symphoniae in una reperiuntur.</p>
+      <p id="NOTDEMU0032">DE TETRACHORDIS.</p>
+      <p id="NOTDEMU0033">INTERPRETATIO LATINA.</p>
+      <p id="NOTDEMU0034">In quindecim chordis numerabant quatuor tetrachorda, in octo chordis duo disjuncta, in septem duo conjuncta, haec dicuntur duo discreta, duo indiscreta. Si autem unum tantum addatur, tunc sunt omnia quatuor discreta, et ultimum dicitur gravium, alterum propter omnium cantuum terminationes finale, tertium superiorum, et quartum excellentium. Quod autem pro sexdecim chordis in lyra ter septem, eodemque modo in quibusdam instrumentis tria alphabeta sint; id propter majorem facilitatem factum est, ut sine difficultate ambarum manuum ascendendo plenus cantus formari possit, et superius omnino necesse non sit mutare manus a supremo alphabeto ad infimum. Hinc tria alphabeta necessario ideo similia sunt, ut in quolibet sit Diapason, tum Diatessaron et Diapente. Et in Diatessaron sunt tria cola, tonus, tonus, semitonium; et in Diapente quatuor, tonus, tonus, semitonium, tonus.</p>
+      <p id="NOTDEMU0035">DE OCTO MODIS.</p>
+      <p id="NOTDEMU0036">INTERPRETATIO LATINA.</p>
+      <p id="NOTDEMU0037">Qui autem lyram facit, eam ita mensuretur, ne propter majorem extensionem nimis sonora, nec ob minorem extensionem minus sonora sit; chordae enim nimis altae et nimis depressae propter mensurae defectum omnium sunt ingratissimae. Hinc Phryges Doresque laudabant medium, quod inter duo illa extrema est. Itaque Dores mallebant aliquantulum propinquare tomo infimo quam supremo; Phryges vero aliquantidum proximiores esse volebant supremo quam infino. Duos hos modos Musica ex his ipsis, gentihus dicit modum Dorium et Phrygium. Inter hos est tonus, qui est discrimen inter duos illos. Super Phrygium est Lydius, quorum discrimen tonus est. Super Lydium uno semitonio altior est mixolydius, et hoc altier uno tono hypermixolydius. Deinde tres sunt inferiores Dorio: inferior uno semitonio hypolydius est: hoc inferior uno tono hypophrygius; et adhuc uno tono hypodorius. Hic est infimus, a quo ascendendo octavus et supremus est hypermixolydius. Ex his octo modis, puta hypodorio, hypophrygio, hypolydio, Dorio, Phryhio, Lydio, mixolydio hypermixolidio demonstratae nobis sunt octo species diapason symphoniae. In quibus reperimus 
+      <pb n="[1176]" />ascendendo ab infino ad supremum haec septem discrimina: tonum, tonum, semitonium, tonum, tonum, semitonium, tonum. Ad haec sonat supremus modus duplum respectu infimi. Porro ubi hypodorius modus est, tunc profundissime cantare incipimus; et ubi hypophrygius, tunc uno tono altius incipimus; et ubi hypolidius, duobus; et ubi Dorius, tunc uno diatessaron; et ubi Phrygius, tunc uno diapente altius; et ubi hypermixolydius, tunc plenum cantamus diapason, nempe duplo altius, ut altius deinceps incipere non possimus. Quod si etiam cantus ipse ascendere deberet a loco, ubi inchoatur quam altissime potest, quia nempe ad octavam litteram, quae duplum sonat ejus litterae, a qua inceperat, hominum vox per quadruplum passim pertingere non potest: ideo quadruplum ita accipiendum est, sicut nunc dixi, ut a primo initio in hypodorio, quod B. est vel C. duplum sit sursum usque ad B. vel C. in hypermixolydio, hinc vero duplum sursum ad octavam suam litteram, quae huic duplum, et illi quadruplum sonat: tunc eligere potes, an cantus altius debeat ascendere ab initio quam ad octavam litteram, quemadmodum fit in praedicta antiphona. Ut adeo in hypermixolydio incipiendum non sit, cum in eo modo nemo supra octavam litteram ascendere possit: sed in quacunque littera altius ascendi non potest, ab illa littera necessario ad eamdem litteram alphabeti inferioris descendendum est. Sic quoque mox inde, ubi nimis descendit, iterum ad superius alphabetum ascendere potest. In incipiendo potestatem habet intonandi tam profunde vel alte quam velit: ubi vero inceperit et perrexerit, cantans haud amplius sive profundius sive altius progredi potest, quam a duplo in simplum, vel a simplo in duplum, uti cognosci potest in monochordo vel in organo. Qui fistulam metitur, in ea evitet quod in lyra vitandum est: quia ubi primae [f chordae] nimis longae fiunt, haud sonorae sunt, tonumque raucum efficiunt, etiamsi alterae sint sonorae: si vero nimium breves fiant, infimae tonum nimis exilem faciunt, etsi primae satis sint sonorae. De his dicitur, quod fistula longitudine unius ulnae a labio ejus sursum in primam litteram nimis brevis sit, et duarum ulnarum nimis longa, sed inter binas has, quae longitudine unius et dimidiae sunt, congruae sint. Sic habet octava pro dimidia diametro unius ulnae dodrantem in longitudine, et quintadecima plusquam trientem, quod facit tertiam partem unius ulnae.</p>
+      <p id="NOTDEMU0038">DE MENSURA FISTULARUM ORGANICARUM.</p>
+      <p id="NOTDEMU0039">INTERPRETATIO LATINA.</p>
+      <p id="NOTDEMU0040">Postquam cognovisti quomodo omnes fistulae invicem sibi respondeant, jam mensuram earum etiam discere ne graveris. Fac primam tam, longam, uti ante dictum est, quam velis, tamque amplam, quam 
+      <pb n="[1178]" />placuerit: ejusdem amplitudinis omnes esse debent Metire reliquas ad mensuram primae. Vide primo quam ampla sit; amplitudo dicitur diameter. Dein relinque pro primae fistulae longitudine octavam partem ejusdem amplitudinis, et divide illam ab hinc deorsum usque ad labium, quod plectrum, dicitur in novem partes aequalis magnitudinis. Harum novem partium ocio paries da secundae. et haec est longitudo ejus a labio sursum. Relinque dein pro secundae fistulae longitudine bis octo partes diametri, et divide reliquum denuo sic in novem, harumque novem octo partes da tertiae; haec est longitudo ejus, a labio sursum. Sume dein primam, et relinque pro ejus longitudine tertiam partem dimetri, et divide eam abhinc deorsum usque ad labium in quatuor partes et harum tres da quartae: haec est longitudo ejus, et huc convenit diatessaron cum tono, tono, semitonio; et perge ita aequali modo a labio ejus sursum. Sume denuo primam, et relinque pro eius longitudine dimidiam partem ejus amplitudinis et divide eam in tres partes, et da harum duas quintae: haec est longitudo ejus. Sume dein eamdem quintam et relinque pro ejus longitudine octavam partem diametri reliquumque divide in quatuor et tribue ex his tria septimae. Tunc metire octavam per primam: relinque in prima quantum diameter est, id est, relinque omnem amplitudinem et divide reliquum in duas ejusdem magnitudinis partes et da unam octavae; haec est longitudo ejus a plectro sursum. Usque huc it diapente cum tono tono, semitonio, tono. Tunc tribue eamdem mensuram reliquis septem quam post primam prioribus septem tribuisti. Habet itaque prima duas longitudines octavae, cum una diametro supra; et similiter habet octava duas longitudines decimae quintae, et unam diametrum supra. Prima vero quatuor longitudines habet decimae quintae, et insuper tres diametros. Si miraris, cur tres sint et non duo, ejus rationem accipe. Nam si in prima relinquatur una diameter, et ea tamen dupla est respectu oc:avae, quae ejus simpla est, ejus autem longitudo ante protensionem diametri dimidium fit decimae quintae; tunc ejus octava necessario dupla est puta decima quinta. et una diameter, ejusque primu necessario quadrupla, et duae diametri absque prima diametro Quod si velit organicus pro quindecim vel sexdecim chordarum litteris plena tria alphabeta facere, tunc metiatur tertium juxta duo priora, sicut secundum juxta primum metiebatur.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Liber imperfectionum notarum musicalium</title>
+        <title type="abbrev">TINLIB</title>
+        <author>Tinctoris, Johannes</author>
+        <date notBefore="1400" notAfter="1499">15th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Stephen E. Hayes</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Peter M. Lefferts</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Luminita Florea Aluas</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1992</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>Scriptorum de musica medii aevi nova series a Gerbertina altera</emph>, 4 vols., ed. Edmond de Coussemaker (Paris: Durand, 1864-76; reprint ed., Hildesheim: Olms, 1963), 4:54–66.
+</bibl>
+        <bibl type="work">
+          
+<title>Iohannes Tinctoris: Liber imperfectionum notarum musicalium</title>
+          
+<idno type="LML">IOH. TINCT. imp.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">B-Br II 4147, 36-44</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Gu 70 (71), 177v-186v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">E-VAu 835, 55-66v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Bu 2573, 61-75</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="TINLIB0001">
+      <pb n="[54]" />Liber imperfectionum notarum musicalium editus a Magistro Johanni Tinctoris in legibus licentiato Regisque Magnae Siciliae Capellano.</p>
+      <p id="TINLIB0002">Prologus.</p>
+      <p id="TINLIB0003">Artis musicae studiosissimo Juveni Jacobo Frontin, Joannes Tinctoris ejusdem artis professor minimus immortalem amicitiam.</p>
+      <p id="TINLIB0004">Laudabili plurimum affectu (inclite Juvenis), expetisti ut tibi de imperfectionibus notarum musicalium aliquid scripto traderem, cui profecto justa petenti mox assentire volui, quippe non modo tuae indoli clarissimae, verum et ceteris bonarum artium amatoribus a Deo sum affectus, quod si quid a me exigant eorumque de illis sentiam id exibere non differam; neque (precor) credas hanc mihi materiam levis esse speculationis, quoniam nostros majores super ea parum, coevos vero minus dissertasse legerim audiverimque; gratis igitur accipe minusculum hoc egregio nomine tuo cum ingenti benevolentia dicatum, traditionique perutili exhortor vehementissime studeas ne (quod absit) tanta virtutis imperfectione polluaris ut quod laudabiliter exoptasti, impudenter ipse contemnas.</p>
+      <p id="TINLIB0005">Liber primus.</p>
+      <p id="TINLIB0006">Capitulum I.</p>
+      <p id="TINLIB0007">De imperfectionis diffinitione et notarum qualitate.</p>
+      <p id="TINLIB0008">Tractaturus autem de ipsis notarum musicalium imperfectionibus, prius imperfectionem diffiniendum existimativi. Unde imperfectio est tertie partis proprii valoris totius notae aut suarum partium abstractio; et ut ipsa haec materia clarius eluscescat preponendum est quod quinque universales notae certi valoris in musica tantummodo reperiuntur quae sub hoc uno versu penthametro artificiose ordinanantur.</p>
+      <p id="TINLIB0009">Maxima: [MXv]; longa: [Lv]; brevis: [Bv]; semibrevis: [Sv]; minima: [Svcd].</p>
+      <p id="TINLIB0010">Quarum quinque notarum aliae sunt majores, aliae minores. Majores notae sunt illae que supra inferiores sunt. Minores notae sunt illae quae infra superiores sunt.</p>
+      <p id="TINLIB0011">Preterea quaedam diversis respectibus et majores et minores sunt, quoniam supra et infra aliquas sunt, hinc est quod maxima nota major est solum quia coeterae infra eam sunt. Longa respectu maxime nota minor est, quoniam illa infra istam est; respectu vero caeterarum, scilicet: brevis, semibrevis et minima, nota major est, quia illa supra istas est. Brevis respectu maxime et longe nota minor est quoniam illa infra istas est. Respectu vero semibrevis et minimae nota major est quia illa supra ista est. Semibrevis respectu maximae, longae et brevis nota minor est, quoniam illa infra istas est. Respectu vero minimae nota major est quia illa supra istam est. Minima nota minor est solum quoniam caeterae supra eam sunt.</p>
+      <p id="TINLIB0012">Itaque concludendum est quod maxima est nota major longae, brevis, semibrevis et minimae; longa est nota minor maximae major brevis, semibrevis et minimae; brevis est nota minor maximae et longae major semibrevis et minimae; semibrevis est nota minor maximae, longae et brevis, major minimae; minima est nota minor maximae, longae, brevis et semibrevis et hinc note minores majorum sunt partes quarum quidem partium. Aliae sunt propinquae, aliae remotae, aliae remotiores, aliae remotissimae; partes propinquae sunt illae inter quas et notas quarum hujus modi partes sunt, nulla major habetur. Sic longae sunt propinquae partes maximae, breves longae, semibreves brevis, et minimae semibrevis; partes remotae 
+      <pb n="[55]" />sunt illae inter quas et notas quarum hujusmodi partes sunt sola major invenitur. Sic breves sunt partes remotae maximae, semibreves longae et minimae semibrevis. Partes remotiores sunt illae inter quas et notas quarum hujusmodi partes sunt, due majores reperiuntur. Sic semibreves sunt partes remotiores maximae et minimae longae; partes remotissimae sunt illae inter quas et notas cujus partes hujus modi sunt, caeterae majores inveniuntur. Sic minimae solum sunt remotissimae, partes maximae.</p>
+      <p id="TINLIB0013">Ex quibus colligendum est quod partes propinquae maximae sunt longae, remotae breves, remotiores semibreves et remotissimae minimae; partes propinquae longae sunt breves, remotae semibreves et remotiores minimae; partes propinquae brevis sunt semibreves et remotae minimae; partes autem propinquae semibrevis sunt minime.</p>
+      <p id="TINLIB0014">Itaque unica nota totalis est tantum, scilicet maxima; tres totales et partiales, scilicet longa, brevis et semibrevis; et unica partialis tantum, scilicet minima. Harum autem quinque notarum, pro qualitate prolationis, temporis et utriusque modi, tres imperficiunt et imperficiuntur, scilicet longa, brevis et semibrevis; unica imperficitur, et non imperficit, scilicet maxima; et unica imperficit et non imperficitur, scilicet minima; namque minores notae majores imperficiunt, quo fit ut notae majores a minoribus imperficiantur. Hinc est quod longa maximam imperficit et imperficitur a brevi, semibrevi et minima; brevis maximam ac longam imperficit, a semibrevi et minima imperficitur; semibrevis maximam, longam et brevem imperficit et imperficitur a minima; maxima a longa, brevi et semibrevi et minima imperficitur, et quia majorem non habet, nullam imperficit. Minima vero maximam, longam, brevem et semibrevem imperficit, et quia minorem non habet a nulla imperficitur, ut hic:</p>
+      <p id="TINLIB0015">[ClefC4,Od,MXP,MXP,MXP,MXv,Lv,MXv,Bv,MXv,Sv,MXvcsdx,Mv,Lv,Bv,Lv; ClefC5,Sv,Lv,Bv,Lv,Mv,Bv,Sv,Bv,Mv,Lig2vd,Lig2vcssnod,Mv,Mv,Sv,Lv on staff5]</p>
+      <p id="TINLIB0016">Exemplum.</p>
+      <p id="TINLIB0017">Capitulum II.</p>
+      <p id="TINLIB0018">De pausarum imperfectione.</p>
+      <p id="TINLIB0019">Et quoniam quatuor sunt istarum quinque notarum quarum cuilibet una singularis pausa est appropriata ejusdem valoris cujus et sua nota, scilicet: longa, [2LP on staff3]; brevis, [BP on staff3]; semibrevis, [SP on staff3], et minima, [MP on staff3], sciendum est quod omnis pausa imperficere potest, imperfici vera non, ut hic:</p>
+      <p id="TINLIB0020">[ClefC4,Od,MXP,MXP,MXP,Bv,MXP,MXv,pt,Sv,BP,Lv,Bv,Sv,Bv,SP,MP,Sv,Svcd,Svcd,Svcd,Sv,Svcd,Lv on staff5]</p>
+      <p id="TINLIB0021">Exemplum.</p>
+      <p id="TINLIB0022">Hinc quot et quales notas possunt longa, brevis, semibrevis et minima imperficere, tot et tales possunt earum pausae; sicque pausa longe maximam; pausa brevis maximam et longam; pausa semibrevis maximae, longam et brevem; pausa minimae, maximam, longam, brevem et semibrevem, imperficere poterit, ut hic:</p>
+      <p id="TINLIB0023">[ClefC4,Od,MXP,MXP,MXP,MXv,MXP,MXv,BP,MXv,SP,MXv,SP,Lv,BP,Lv,SP,Lv,MP,Bv,SP,Bv,MP,Sv,SP,Bv,Lig2vLacddx on staff5]</p>
+      <p id="TINLIB0024">Exemplum.</p>
+      <p id="TINLIB0025">Capitulum III.</p>
+      <p id="TINLIB0026">De tredecim generalibus imperpectionum regulis.</p>
+      <p id="TINLIB0027">Primum igitur circa ipsarum notarum musicalium imperfectiones generaliter versando tredecim regulas generales tradere proposui.</p>
+      <p id="TINLIB0028">
+      <pb n="[56]" />Prima regula generalis.</p>
+      <p id="TINLIB0029">Prima regula generalis est quod imperfectio quatuor modis fieri potest: primo, quantum ad totum tantum; secundo, quantum ad omnes vel aliquas partes vel aliquam partem tantum; tertio, quantum ad totum et aliquas partes vel aliquam partem tantum; quarto, quantum ad totum et omnes partes simul, ut hic:</p>
+      <p id="TINLIB0030">[ClefC4,Od,MXP,MXP,MXP,MXv,Lv,LP,LP,Lig2vcssnod,Lv,Mv,Mv,Mv,Mv,Lig2va,MXP,MXP,MXP,Lv,Bv,Sv,Sv,Lv,Sv,Lv,Lig2vd,Mv,Bv,Lig2vcssna,Sv,Lv on staff5]</p>
+      <p id="TINLIB0031">Exemplum.</p>
+      <p id="TINLIB0032">Secunda regula generalis.</p>
+      <p id="TINLIB0033">Secunda regula generalis est quod quando nota imperficitur quantum ad totum, hoc est a parte ejus propinqua et quando imperficitur quantum ad partes, vel est quantum ad partes propinquas et tunc est hoc a partibus remotis, vel quantum ad remotas et tunc a remotioribus, vel quantum ad remotiores et tunc a remotissimis; ut hic:</p>
+      <p id="TINLIB0034">[ClefC4,Od,MXP,MXP,MXP,MXv,Lv,MXv,Lig2va,MXv,Mv,Mv,Lv,Mv,Lv,Lv,MXv,Mv,Mv,MXv on staff5]</p>
+      <p id="TINLIB0035">Exemplum.</p>
+      <p id="TINLIB0036">Tertia regula generalis.</p>
+      <p id="TINLIB0037">Tertia regula generalis est quod non differt si nota imperficiatur a parte unita vel dispersa a partibus unitis vel dispersis, ut hic patet:</p>
+      <p id="TINLIB0038">[ClefC4,O,MXP,MXP,MXP,MXv,Lv,MXv,Lig3vaa,MXv,Cd,LP,LP,Lv,Sv on staff5; ClefC3,Lv,Mv,pt,M,Mv,Bv,Mv,Sv,Sv,Mv,Lv on staff4]</p>
+      <p id="TINLIB0039">Exemplum.</p>
+      <p id="TINLIB0040">Quod ut melius intelligatur notandum est quod quaedam nota imperficit ut pars unita, sicut:</p>
+      <p id="TINLIB0041">[ClefC3,Od,MXP,MXP,MXP,Lig2vMXcddxacddx,Lv,Bv,Bv,Sv,pt,Sv,Mv,Lig2vcssna,Bv,Lv on staff4]</p>
+      <p id="TINLIB0042">Exemplum.</p>
+      <p id="TINLIB0043">Quaedam notae imperficiunt ut pars dispersa, sicut hic:</p>
+      <p id="TINLIB0044">[ClefC2,Od,MXP,MXP,MXP,MXv,Lig3vaa,Lv,Lig2vcssnod,Sv,Bv,Mv,Mv,Mv,Lig2vcssna,Sv,Bv,Lv on staff4]</p>
+      <p id="TINLIB0045">Exemplum.</p>
+      <p id="TINLIB0046">Quaedam notae imperficiunt ut partes unitae, sicut hic:</p>
+      <p id="TINLIB0047">[ClefC3,O,LP,LP,MXv,Bv,Lig2vd,Cd,Lv,Sv,Bv,Bv,MXv on staff4]</p>
+      <p id="TINLIB0048">Exemplum.</p>
+      <p id="TINLIB0049">Et quaedam notae imperficiunt ut partes dispersae, sicut hic:</p>
+      <p id="TINLIB0050">[ClefC2,O,LP,LP,MXv,Lig2vcssna,Sv,pt,M,M,Lig2vLacddx,Cd,Lv,Mv,Mv,pt,M,Mv,Lv on staff4]</p>
+      <p id="TINLIB0051">Exemplum.</p>
+      <p id="TINLIB0052">Quarta regula generalis.</p>
+      <p id="TINLIB0053">Quarta regula generalis est quod imperficere proprium est notae minoris, imperfici vero majoris; quoniam nec major nota minorem nec similis similem imperficere potest; unde sequitur quod nec nota minor a majori, nec similis a simili poterit imperfici, ut hic patet:</p>
+      <p id="TINLIB0054">[ClefC2,Od,MXP,MXP,MXP,MXv,Lv,Lv,Bv,pt,Bv,Sv,Sv,Mv,Sv,Mv,Mv,Sv,Mv,Mv,Mv,Mv,Mv,Mv,Mv,Sv,MXv on staff4]</p>
+      <p id="TINLIB0055">Exemplum.</p>
+      <p id="TINLIB0056">
+      <pb n="[57]" />Quinta regula generalis.</p>
+      <p id="TINLIB0057">Quinta regula generalis est quod omnis nota quae imperficitur a parte ante necessario ante majorem vel minorem imperficitur, quia similis ante similem imperfici non potest, ut hic:</p>
+      <p id="TINLIB0058">[ClefC4,O,MXP,MXP,MXP,Lv,MXv,MXv,Lig2va,pt,Sv,Bv,Lv,Bv,Sv,Mv,pt,Mv,Sv,Bv,Sv,Bv,Lv,Bv,pt,Bv,Bv,Lv on staff5]</p>
+      <p id="TINLIB0059">Exemplum.</p>
+      <p id="TINLIB0060">Ex quaquidem regula notandum est quod nulla nota etiam ante suam pausam tanquam ante similem poterit imperfici, ut hic:</p>
+      <p id="TINLIB0061">[ClefC4,Od,MXP,MXP,Lv,pt,Bv,Lv,MXP,Lv,Bv,pt,Sv,Bv,BP,Bv,Lig2vcssnod,pt,Sv,Sv,SP,Sv,Mv,Sv,Lv on staff5]</p>
+      <p id="TINLIB0062">Exemplum.</p>
+      <p id="TINLIB0063">Sexta regula generalis.</p>
+      <p id="TINLIB0064">Sexta regula generalis est quod nulla nota quantum ad totum imperfici potest, nisi de se perfecta sit. Similiter quantum ad partes imperfici non poterit nisi et illae de se sint perfectae, quoniam aliter tertia pars non inveniretur, quia per imperfectionem a toto vel a parte subtrahitur, ut hic:</p>
+      <p id="TINLIB0065">[ClefC4,Od,LP,LP,MXv,Lv,Mv,Bv,Sv,Sv,Mv,Mv,Mv,pt,M,Mv,Sv,Lig2vd on staff5]</p>
+      <p id="TINLIB0066">[ClefC4,C,MXP,MXP,MXP,MXv,Lig2va,Lv,Bv,Bv,Sv,pt,M,M,Bv,Lv,Bv,Lv on staff5]</p>
+      <p id="TINLIB0067">Exempla.</p>
+      <p id="TINLIB0068">Septima regula generalis.</p>
+      <p id="TINLIB0069">Septima regula generalis est quod quoties nota in tres partes aequales dividi poterit, toties et imperfici; itaque ad minimum ejus valorem deveniet, verbi gratia longa in modo minori perfecto, tempore perfecto et prolatione majori valet vigenti septem minimas, quae vigenti septem in tres partes aequales divisibilem numerum efficiunt, scilicet in ter novem auferatur ei tertia pars scilicet novem, remanebunt octodecim. Octodecim autem in tres partes aequales rursus dividi possunt, scilicet in ter sex; cui si tertia pars auferatur scilicet sex, duodecim remanebunt; quae quidem duodecim etiam in tres partes aequales divisibilem numerum faciunt scilicet in ter quatuor; auferatur ei tertia pars, scilicet quatuor, octo remanebunt; octo vero in tres partes aequales dividi non possunt. Hinc in isto valore qui minimus est ejus, scilicet octo minimarum, ipsa longa persistet, ut hic:</p>
+      <p id="TINLIB0070">[ClefC4,Od,MXP,MXP,Lv,Bv,Lv,Bv,Lig2vcssna,Lv,Mv,Bv,pt,Lig2vcssna,pt,Mv,Sv,Lv on staff5]</p>
+      <p id="TINLIB0071">Exemplum.</p>
+      <p id="TINLIB0072">Octava regula generalis.</p>
+      <p id="TINLIB0073">Octava regula generalis est quod nota quae imperficit praemitti et postponi potest secundum voluntatem componentis; quae si praemittitur nota quae imperficitur, a parte ante imperficitur, et si postponitur, a parte post imperfici dicitur, ut hic:</p>
+      <p id="TINLIB0074">[ClefC4,O,MXP,MXP,MXP,Bv,MXv,Lig2vLa,Sv,Lv,Od,Sv,Svcd,Mv,Sv,Mv,Sv,Mv,Sv,Bv,Lig2vcssnod,pt,Mv,Sv,MXv on staff5]</p>
+      <p id="TINLIB0075">Exemplum.</p>
+      <p id="TINLIB0076">Nona regula generalis.</p>
+      <p id="TINLIB0077">Nona regula generalis est quod si completo numero aut nullis praecedentibus notis aliis, nota minor sola ante majorem ab ea imperfectibilem inveniatur, ipsam imperficit, ut hic:</p>
+      <p id="TINLIB0078">
+      <pb n="[58]" />[ClefC4,O,MXP,MXP,MXP,Bv,Lv,Lig3vaa,Bv,Lv,Bv,pt,Sv,Bv,Lig2vcssnod,Sv,Lig2vcssnod,Bv,Bvcsdx on staff5]</p>
+      <p id="TINLIB0079">Exemplum.</p>
+      <p id="TINLIB0080">Si vero sola minor nota post majorem ab ea imperfectibilem inveniatur sive sequatur, alia major etiam ab ea imperfectibilis sive non ipsam imperficit, ut hic patet:</p>
+      <p id="TINLIB0081">[ClefC4,O,MXP,MXP,MXP,MXv,Lv,MXv,Lv,Bv,ClefC3,Lv,Bv,Sv,Bv,Lig2vcssnod,Sv,Lig2vd,Sv,Lig2vcdsnod,Sv,Bv,Sv on staff5]</p>
+      <p id="TINLIB0082">Exemplum.</p>
+      <p id="TINLIB0083">Pariformiter si plures notae minores completo numero aut nullis aliis praecedentibus notis ante majorem ab eis imperfectibilem in imperfecto numero constitutae inveniantur, tot quot sunt aut possunt, ipsam imperficiunt; et si aliquae supersint etiam imperfectae numero transibunt ad proximiorem locum quem habere poterunt, ut hic:</p>
+      <p id="TINLIB0084">[ClefC4,O,MXP,MXP,MXP,Lv,pt,Bv,Sv,Bv,Sv,pt,Sv,pt,Mv,Lig2vcssna,Lig2va,MXv,Lv,Lig4vcdsnddd,Bv,pt,Sv,pt,Mv,Lig3vcssnaacddx,Lig2va,pt,Sv,Bv,Lv on staff5]</p>
+      <p id="TINLIB0085">Exemplum.</p>
+      <p id="TINLIB0086">Si vero plures notae minores in imperfecto numero constitutae post majorem ab eis imperfectibilem inveniantur, sive sequatur alia major etiam ab eis imperfectibilis sive non, tot quot sunt aut possunt aut imperfectionem numeri tollunt, ipsam imperficiunt; et si aliquae etiam imperfectae numero superfuerint, transibunt ad proximiorem locum quem habere poterunt, ut hic patet:</p>
+      <p id="TINLIB0087">[ClefC4,O,MXP,MXP,Lig2vLa,pt,Lig2vcssnod,Lig2vLa,Sv,pt,Lig2vcssna,Lig3vcssnad,Bv,Sv,pt,Mv,Mv,Mv,Sv,Bv,pt,Lig6vLaaddd,Lig2vcssna,Lig2vcssna on staff5]</p>
+      <p id="TINLIB0088">Exemplum.</p>
+      <p id="TINLIB0089">Ipsa autem praemissa generalis regula tribus signis exceptionem patitur, scilicet puncto divisionis, impletione et ligatura, namque si notis minoribus quae aliter juxta praemissam regulam majorem aliquam imperficerent, punctus divisionis apponatur, non illam imperficient, immo transibunt ad proximorem locum quem habere poterunt, ut hic:</p>
+      <p id="TINLIB0090">[ClefC4,O,MXP,MXP,MXP,Lig2vcssna,Sv,pt,Lv,Lig2vcdsnod,Lv,Bv,pt,Lv,Lig2vcdsnod,Lv,pt,Lig2vcssna,Lig2vLd,Sv,pt,Mv,Sv,Sv,Mv,Mv,Sv,Lv on staff5]</p>
+      <p id="TINLIB0091">Exemplum.</p>
+      <p id="TINLIB0092">Et si notae minores quae aliter juxta praemissam regulam imperficerent aliquam majorem impletae sunt, non ipsam imperficient, imo ad alias similiter impletas reducentur, ut hic:</p>
+      <p id="TINLIB0093">[ClefC4,C,MXP,B,Bvcsdx,B,Lv,B,Lv,Lv,Lig2cssnod,Lv,L,Lv on staff5]</p>
+      <p id="TINLIB0094">Exemplum.</p>
+      <p id="TINLIB0095">Si vero notae minores quae aliter secundum eamdem regulam imperficerent aliquam majorem precedentem ligatae sint cum alia majori sequente aut simili quae cum eis majorem ipsam praecedentem imperficere non possit, non illam imperficient, immo cum istis numerabuntur, ut hic patet:</p>
+      <p id="TINLIB0096">[ClefC4,O,MXP,MXP,MXP,MXv,Lig2vLaMXcddx,Lv,Lig2va,Lig2vcssna,pt,Mv,Sv,Bv,Lv,Lig2va,Lv,Lig2vcssnod,Lv,Lig3vcssnaacddx,Lig3vaod,Lv on staff5]</p>
+      <p id="TINLIB0097">Exemplum.</p>
+      <p id="TINLIB0098">
+      <pb n="[59]" />Decima regula generalis.</p>
+      <p id="TINLIB0099">Decima regula generalis est quod si sola minor nota seu plures in imperfecto numero constitutae inveniantur, ante vel post majorem quae ab eis imperfici non potest, puta si major ipsa sit ante similem suam aut pausam, vel punctum perfectionis habeat, vel ab aliis tam imperfecta sit quam possit, transeunt ad proximiorem locum quem habere possunt, ut hic:</p>
+      <p id="TINLIB0100">[ClefC4,Od,MXP,MXP,MXP,Lv,MXv,MXv,Lig2vLacddx,pt,Bv,Lv,MXP,Sv,Mv,Mv,Bv,Sv,Mv,Bv,Lv,MXv on staff5]</p>
+      <p id="TINLIB0101">Exemplum.</p>
+      <p id="TINLIB0102">Undecima regula generalis.</p>
+      <p id="TINLIB0103">Undecima regula generalis est quod si alicui notae pro se tantum ante suam similem, aut minorem punctus divisionis appositus sit, primam majorem quam poterit imperficiet, nisi ante eam socias habeat, ut hic patet:</p>
+      <p id="TINLIB0104">[ClefF4,O,MXP,Bv,pt,Lig2va,Lv,Lig3vaa,Bv,pt,Lig2vcssna,Sv,Bv,Lv,MXv,MXP,pt,Sv,pt,Lig2vcssnod,Bv,Lig2vcssna,Lv,Mv,Mv,Mv,Mv,Sv,Lv on staff5]</p>
+      <p id="TINLIB0105">Exemplum.</p>
+      <p id="TINLIB0106">Si vero punctus divisionis alicui notae ante suam similem aut minorem non solum pro se, sed pro aliis apponatur, illa cum istis etiam primam majorem quam poterunt, imperficient, dummodo similiter ante eam socias non habeant, ut hic patet:</p>
+      <p id="TINLIB0107">[ClefF2,O,MXP,MXP,Bv,Lig2vcssnod,pt,Lig4vcssnaoda,Lv,Bv,Lig2vcssna,pt,Lig2vd,Lig2vod,Sv,Bv,Bv,Lig3vcdsndd on staff5]</p>
+      <p id="TINLIB0108">Exemplum.</p>
+      <p id="TINLIB0109">Duodecima regula generalis.</p>
+      <p id="TINLIB0110">Duodecima regula generalis est quod nota cui punctus divisionis appositus est, imperfici potest, ut hic patet:</p>
+      <p id="TINLIB0111">[ClefF4,Od,MXP,MXP,MXP,Bv,Lv,pt,Lig2vcdsnod,Bv,Lv,MXv,MXP,pt,Sv,Bv,pt,Lv,Lig2vcdsnod,Sv,Lv,Sv,Mv,Lv,Lig2vacddx,MXv on staff5]</p>
+      <p id="TINLIB0112">Exemplum.</p>
+      <p id="TINLIB0113">Nota vero cui punctus perfectionis vel augmentationis apponitur, nunquam imperficitur; et ratio est haec: perfectio et imperfectio contraria sunt; contraria vero non possunt esse simul in eodem subjecto; igitur est impossibile unam et eamdem notam esse perfectam simul et imperfectam, ut hic:</p>
+      <p id="TINLIB0114">[ClefF4,O,MXP,MXP,Bv,Lv,pt,Lig2vcdsnod,Lv,Bv,pt,Sv,Bv,Lig2vcssna,Sv,Lig2vd,pt,Sv,Bv,pt,Mv,Mv,Sv,Mv,Mv,Mv,Mv,Sv,Bvcsdx on staff5]</p>
+      <p id="TINLIB0115">Exemplum.</p>
+      <p id="TINLIB0116">Eadem ratione quoniam secundum arithmeticam et musicam quae sub alternatur ei, additio et abstractio sint contraria, augmentatio autem sit quaedam additio, et imperfectio quaedam abstractio impossibile est unam et eamdem notam augmentari simul et imperfici, ut hic patet:</p>
+      <p id="TINLIB0117">[ClefF3,O,LP,LP,MXv,pt,Sv,Bv,Lv,Lv,pt,Sv,Bv,Lig2vcssnod,pt,Mv,Sv,ClefF4,MXv,pt,Sv,Lv,pt,Sv,Lig2vcssna,Mv,Mv,Sv,Mv,Mv,Sv,Lv on staff5]</p>
+      <p id="TINLIB0118">Exemplum.</p>
+      <p id="TINLIB0119">
+      <pb n="[60]" />Forte dicent aliqui: Tinctoris nimium presumit asserendo notam augmentatam imperfici non posse, quoniam de Domarto in Tenore Patrem quinti toni irregularis, et Barbingant in tenore cantilena Lomme Bany contrarium fecerint, ut hic patet:</p>
+      <p id="TINLIB0120">[CSIV: 60; text: Supremum. Patrem omnipotentem factorem coeli et terrae, etc. Tenor. Patrem. Lomme bany de sa plaisance. Lomme bany.] 
+      <figure>
+        <graphic url="/images/TINLIB_01GF.gif" />
+      </figure></p>
+      <p id="TINLIB0121">Quibus respondeo licet Busnois aliique cumplures illos imitati fuerint, quod nullos tanquam nomini alicujus individens reprehendere presumo; sed amicam veritatem quoad possum sustinens errasse demonstro. Errantes quoque nomino ne falsa opinione decepti propter famam immortalem quam sibi dulcissime componendo pepereunt, in hoc juvenes eos imitentur, omnia facta eorum perfecta existimantes, quod longe aliter se habent, namque (ut sapientes asserunt) nihil est ab omni parte perfectum.</p>
+      <p id="TINLIB0122">Tertia decima regula generalis.</p>
+      <p id="TINLIB0123">Tertia decima regula generalis est quod omnis nota quae potest imperfici et alterari, velut longa, brevis et semibrevis, si alteretur, solum imperfici poterit, quantum ad aliquas partes, scilicet tantas quod notae minores ipsam majorem imperficientes valorem ejus non attingant, ut hic:</p>
+      <p id="TINLIB0124">[ClefC4,Od,MXP,MXP,MXP,Lv,pt,Lig2vcssna,Sv,Lv,MXv,pt,Lv,Mv,Mv,Bv,Lv,pt,Sv,Mv,pt,Mv,Sv,Lig2vcdsnod,MXv on staff5]</p>
+      <p id="TINLIB0125">Exemplum.</p>
+      <p id="TINLIB0126">Liber secundus.</p>
+      <p id="TINLIB0127">Capitulum I.</p>
+      <p id="TINLIB0128">De imperfectionibus notarum musicalium in particulari.</p>
+      <p id="TINLIB0129">Tractato generaliter de imperfectionibus notarum musicalium ordini debito congruit de imperfectione cujuslibet particulariter tractare. Hinc primum a maxima quae caeterarum notarum caput et princeps est, incipiamus ut sic a majore usque ad minorem procedamus.</p>
+      <p id="TINLIB0130">Capitulum II.</p>
+      <p id="TINLIB0131">De imperfectione maximae in modo majori perfecto.</p>
+      <p id="TINLIB0132">Maxima in modo majori perfecto, quantum ad totum, imperfici potest, namque tunc valet tres longas quarum una tanquam tertia pars ipsius maximae abstrahi poterit, ut hic patet:</p>
+      <p id="TINLIB0133">[ClefC4,C,MXP,MXP,MXP,MXv,Lv,pt,Lv,MXv,Lig2vLacddx,Lv,MXv on staff5]</p>
+      <p id="TINLIB0134">Exemplum.</p>
+      <p id="TINLIB0135">De imperfectione maximae in modo minori perfecto.</p>
+      <p id="TINLIB0136">Praeterea maxima in modo minori perfecto potest 
+      <pb n="[61]" />imperfici, quantum ad duas partes propinquas, aut unam tantum, quia tunc longa quae pars ejus propinqua est valet tres breves; hinc pro qualibet longa poterit una brevis tanquam tertia pars ipsius abstrahi, ut hic patet:</p>
+      <p id="TINLIB0137">[ClefC4,Od,MXP,MXP,MXv,Lig2va,MXv,Bv,MXv,Lig3vcdsnddMX,Bv,MXv,Lig2vLacddx,MXv on staff5]</p>
+      <p id="TINLIB0138">Exemplum.</p>
+      <p id="TINLIB0139">De imperfectione maximae in tempore perfecto.</p>
+      <p id="TINLIB0140">Praeterea maxima in tempore perfecto potest imperfici, quantum ad quinque, quatuor, tres aut duas partes remotas aut unam tantum, namque tunc brevis, quae pars ejus remota est, valet tres semibreves; hinc pro qualibet brevi poterit una semibrevis tanquam tertia pars ipsius abstrahi, ut hic:</p>
+      <p id="TINLIB0141">[ClefC3,O,LP,LP,LP,MXv,Bv,Lig2vcssnod,MXv,Lig2vcssna,Lig2vcssna,pt,Lig2vcssna,pt,M,M; ClefC4,MXv,Lig2vcssnod,MXv,Lig2vLacddx,MXv,Sv,Lv,Lig3vcdsndod,Lv on staff4]</p>
+      <p id="TINLIB0142">Exemplum.</p>
+      <p id="TINLIB0143">De imperfectione maximae in majori prolatione.</p>
+      <p id="TINLIB0144">Praeterea maxima in prolatione majori potest imperfici, quantum ad undecim, decem, novem, octo, septem, sex, quinque, quatuor, tres aut duas partes remotiores aut unam tantum, quia tunc semibrevis quae pars ejus remotior est, valet tres minimas. Hinc pro qualibet semibrevi poterit una minima tanquam tertia pars ipsius abstrahi, ut hic:</p>
+      <p id="TINLIB0145">[ClefC4,Cd,LP,LP,LP,MXv,Mv,Mv,Bv,Sv,MXv,Mv,Bv,Sv,Mv,MXv,Lig2vcssnod,Sv,MXv,Mv,Mv,Bv,MXv,Mv,Lig2vcssnod,MXv,Sv,MXv,Mv,pt,M,MV,Mv,pt,M,MXv,Svcd,Svcd,Sv,MXv,Sv,MXv,Mv,Mv,MXv,Sv,MXv on staff5]</p>
+      <p id="TINLIB0146">Exemplum.</p>
+      <p id="TINLIB0147">Capitulum III.</p>
+      <p id="TINLIB0148">De quindecim modis imperfectionis maximae.</p>
+      <p id="TINLIB0149">Et quoniam plerisque cantibus omnes quantitates perfectae sunt, et in aliis passim commiscentur plures perfectae, aut una tantum cum pluribus imperfectis aut una solum, fit quod maxima quindecim modis potest imperfici.</p>
+      <p id="TINLIB0150">Primus modus imperfectionis maximae.</p>
+      <p id="TINLIB0151">Primo quantum ad totum tantum et hoc in modo majori perfecto, modo minori imperfecto, tempori imperfecto et prolatione minori:</p>
+      <p id="TINLIB0152">[ClefC4,[rob],C,LP,LP,LP,MXv,Lv,pt,Lv,MXv,Lig2vd,Lv,MXv on staff5]</p>
+      <p id="TINLIB0153">Exemplum.</p>
+      <p id="TINLIB0154">Secundus modus imperfectionis maximae.</p>
+      <p id="TINLIB0155">Secundo modo quantum ad partes propinquas tantum et hoc in modo majori imperfecto, modo minori perfecto, tempore imperfecto et prolatione minori, ut hic:</p>
+      <p id="TINLIB0156">[ClefC2,[rob],C,MXP,MXP,MXv,Bv,pt,Bv,pt,Sv,MXv,Sv,Bv,Sv,Bv,Lv on staff4]</p>
+      <p id="TINLIB0157">Exemplum.</p>
+      <p id="TINLIB0158">Tertius modus imperfectionis maximae.</p>
+      <p id="TINLIB0159">Tertio modo quantum ad partes remotas tantum, et hoc in utroque modo imperfecto, tempore perfecto et prolatione minori, ut hic:</p>
+      <p id="TINLIB0160">
+      <pb n="[62]" />[ClefC3,O,LP,LP,MXv,Mv,pt,M,Mv,Mv,pt,M,Sv,Sv,MXv on staff4]</p>
+      <p id="TINLIB0161">Exemplum.</p>
+      <p id="TINLIB0162">Quartus modus imperfectionis maximae.</p>
+      <p id="TINLIB0163">Quarto modo quantum ad partes remotiores tantum et hoc in utroque modo imperfecto, tempore imperfecto, et prolatione majori, ut hic:</p>
+      <p id="TINLIB0164">[ClefC2,[rob],Cd,LP,LP,MXv,Mv,Mv,Mv,Mv,pt,M,Sv,Mv,MXv on staff4]</p>
+      <p id="TINLIB0165">Exemplum.</p>
+      <p id="TINLIB0166">Quintus modus imperfectionis maximae.</p>
+      <p id="TINLIB0167">Quinto modo quantum ad totum et partes propinquas tantum, et hoc in utroque modo perfecto, tempore imperfecto, et prolatione minori:</p>
+      <p id="TINLIB0168">[ClefC3,[rob],MXP,MXP,MXP,Lv,pt,Bv,MXv,Bv,MXv on staff4]</p>
+      <p id="TINLIB0169">Exemplum.</p>
+      <p id="TINLIB0170">Sextus modus imperfectionis maximae.</p>
+      <p id="TINLIB0171">Sexto modo quantum ad totum et partes remotas tantum, et hoc in modo majori perfecto, modo minori imperfecto, tempore perfecto et prolatione minori, ut hic:</p>
+      <p id="TINLIB0172">[ClefC3,[rob],C,LP,LP,LP,Lv,MXv,Sv,Mv,Mv,pt,M,Sv,Mv,MXv on staff4]</p>
+      <p id="TINLIB0173">Exemplum.</p>
+      <p id="TINLIB0174">Septimus modus imperfectionis maximae.</p>
+      <p id="TINLIB0175">Septimo modo quantum ad totum et partes remotiores tantum et hoc in modo majori perfecto, modo minori imperfecto, tempore perfecto et prolatione majori, ut hic patet:</p>
+      <p id="TINLIB0176">[ClefC4,[rob],Cd,LP,LP,LP,Lv,MXv,Mv,Mv,Mv,pt,M,Mv,Mv,Sv,MXv on staff5]</p>
+      <p id="TINLIB0177">Exemplum.</p>
+      <p id="TINLIB0178">Octavus modus imperfectionis maximae.</p>
+      <p id="TINLIB0179">Octavo modo quantum ad totum, partes propinquas et remotas tantum, et hoc in utroque modo perfecto, tempore perfecto et prolatione minori, ut hic:</p>
+      <p id="TINLIB0180">[ClefC2,O,MXP,MXP,MXP,MXv,Lv,pt,Bv,Lig2vcssnod,pt,Mv,Sv,pt,Mv,pt,M,Mv,Sv,MXv on staff4]</p>
+      <p id="TINLIB0181">Exemplum.</p>
+      <p id="TINLIB0182">Nonus modus imperfectionis maximae.</p>
+      <p id="TINLIB0183">Nono modo quantum ad totum, partes propinquas et remotiores tantum, et hoc in utroque modo perfecto, tempore imperfecto et prolatione majori, ut hic patet:</p>
+      <p id="TINLIB0184">[ClefC3,[rob],Cd,MXP,MXP,MXP,Lv,MXv,Mv,Mv,Lig2va,Sv,pt,Mv,Sv,MXv on staff4]</p>
+      <p id="TINLIB0185">Exemplum.</p>
+      <p id="TINLIB0186">Decimus modus imperfectionis maximae.</p>
+      <p id="TINLIB0187">Decimo modo quantum ad totum partes remotas, et remotiores tantum, et hoc in modo majori perfecto, modo minori imperfecto, tempore perfecto et prolatione majori, ut hic:</p>
+      <p id="TINLIB0188">[ClefC4,[rob],Od,LP,LP,LP,Lv,MXv,Mv,Mv,Bv,Lig2vcssnod,Mv,pt,Mv,Sv,MXv on staff5]</p>
+      <p id="TINLIB0189">Exemplum.</p>
+      <p id="TINLIB0190">Undecimus modus imperfectionis maximae.</p>
+      <p id="TINLIB0191">Undecimo modo quantum ad partes propinquas et remotas tantum, et hoc in modo majori imperfecto, modo minori perfecto, tempore perfecto et prolatione minori, ut hic:</p>
+      <p id="TINLIB0192">[ClefC3,[rob],O,MXP,MXP,MXv,Lig2vcdsnod,Mv,Mv,pt,M,Mv,Sv,Mv,Sv,MXv on staff4]</p>
+      <p id="TINLIB0193">Exemplum.</p>
+      <p id="TINLIB0194">Duodecimus modus imperfectionis maximae.</p>
+      <p id="TINLIB0195">Duodecimo modo quantum ad partes propinquas et remotiores tantum, et hoc in modo majori imperfecto, modo minori perfecto, tempore imperfecto et prolatione majori, ut hic patet:</p>
+      <p id="TINLIB0196">
+      <pb n="[63]" />[ClefC2,[rob],Cd,MXP,MXP,Lig2vcdsnod,MXv,Mv,Mv,pt,M,Mv,Mv,Mv,pt,M,Sv,MXv on staff5]</p>
+      <p id="TINLIB0197">Exemplum.</p>
+      <p id="TINLIB0198">Tertius decimus modus imperfectionis maximae.</p>
+      <p id="TINLIB0199">Tertio decimo modo quantum ad partes remotas et remotiores tantum, et hoc in utroque modo imperfecto, tempore perfecto et prolatione majori, ut hic patet:</p>
+      <p id="TINLIB0200">[ClefC4,[rob],Od,LP,LP,Bv,pt,Sv,MXv,Mv,Mv,Mv,Mv,pt,M,Mv,Sv,MXv on staff5]</p>
+      <p id="TINLIB0201">Exemplum.</p>
+      <p id="TINLIB0202">Quartus decimus modus imperfectionis maximae.</p>
+      <p id="TINLIB0203">Quarto decimo modo quantum ad partes propinquas remotas et remotiores tantum, et hoc in modo majori imperfecto, modo minori perfecto, tempore perfecto et majori prolatione:</p>
+      <p id="TINLIB0204">[ClefC3,[rob],Od,MXP,MXP,Bv,Bv,MXv,Mv,Mv,Bv,pt,Mv,pt,M,Mv,Mv,Mv,pt,M,Sv,Sv,MXv on staff4]</p>
+      <p id="TINLIB0205">Exemplum.</p>
+      <p id="TINLIB0206">Quintus decimus modus imperfectionis maximae.</p>
+      <p id="TINLIB0207">Quinto decimo modo quantum ad totum, partes propinquas, partes remotas et remotiores simul, et hoc in utroque modo perfecto, tempore perfecto et prolatione majori, ut hic patet:</p>
+      <p id="TINLIB0208">[ClefC4,[rob],Od,MXP,MXP,MXP,MXv,Mv,Mv,Lv,pt,Lig2va,Lig2vcssna,Sv,Lig2vcssnod,pt,Mv,Sv,MXv on staff5]</p>
+      <p id="TINLIB0209">Exemplum.</p>
+      <p id="TINLIB0210">Capitulum IV.</p>
+      <p id="TINLIB0211">De imperfectione longae in modo minori perfecto.</p>
+      <p id="TINLIB0212">Longa in modo minori perfecto potest imperfici quantum ad totum, namque tunc valet tres breves quarum una tanquam tertia pars ipsius longae poterit abstrahi, ut hic patet:</p>
+      <p id="TINLIB0213">[ClefC4,O,MXP,Lv,Bv,pt,Bv,Lv,MXv on staff4]</p>
+      <p id="TINLIB0214">Exemplum.</p>
+      <p id="TINLIB0215">De imperfectione longae in tempore perfecto.</p>
+      <p id="TINLIB0216">Praeterea longa in tempore perfecto potest imperfici quantum ad duas partes propinquas aut unam tantum, quia tunc brevis quae pars ejus propinqua est valet tres semibreves; hinc pro qualibet brevi poterit una semibrevis tanquam tertia pars ipsius abstrahi, ut hic patet:</p>
+      <p id="TINLIB0217">[ClefC4,O,Lv,Lig2vcssnod,Lv,pt,Bv,pt,Sv,Lv,Lig3vad on staff4]</p>
+      <p id="TINLIB0218">Exemplum.</p>
+      <p id="TINLIB0219">De imperfectione longae in prolatione majori.</p>
+      <p id="TINLIB0220">Praeterea longa in prolatione majori potest imperfici quantum ad quinque, quatuor, tres aut duas partes remotas aut unam tantum, namque tunc semibrevis, quae pars ejus remota est, valet tres minimas; hinc pro qualibet semibrevi poterit una minima tanquam tertia pars ipsius abstrahi, ut hic:</p>
+      <p id="TINLIB0221">[ClefC4,Cd,MXP,Lv,Mv,Mv,Mv,pt,M,Mv,Lv,Mv,Sv,Lv,Sv,Lv,Mv,Lv,Mv,Mv,Lv on staff5]</p>
+      <p id="TINLIB0222">Exemplum.</p>
+      <p id="TINLIB0223">Capitulum V.</p>
+      <p id="TINLIB0224">De septem modis imperfectionis longae.</p>
+      <p id="TINLIB0225">At quoniam in plerisque cantibus sub quolibet modo majori quantitates, modi minoris, temporis, et prolationis perfectae consistunt et in aliis plures perfectae aut una tantum passim commiscentur cum pluribus imperfectis aut una solum, fit quod longa septem modis imperfici potest.</p>
+      <p id="TINLIB0226">Primus modus imperfectionis longae.</p>
+      <p id="TINLIB0227">Primo modo quantum ad totum tantum et hoc in quolibet modo majori, modo minori perfecto, tempore imperfecto et prolatione minori, ut hic:</p>
+      <p id="TINLIB0228">
+      <pb n="[64]" />[ClefC3,[rob],C,MXP,MXP,MXP,Lv,Bv,Sv,pt,Mv,Lv,Lig2vMXcddxaMXcddx on staff5]</p>
+      <p id="TINLIB0229">Exemplum.</p>
+      <p id="TINLIB0230">Secundus modus imperfectionis longae.</p>
+      <p id="TINLIB0231">Secundo modo quantum ad partes propinquas tantum et hoc in quolibet modo majori, modo minori imperfecto, tempore perfecto et prolatione minori, ut hic:</p>
+      <p id="TINLIB0232">[ClefC4,[rob],O,LP,Lv,Sv,Lv,Lig2vcssnod,Lv on staff5]</p>
+      <p id="TINLIB0233">Exemplum.</p>
+      <p id="TINLIB0234">Tertius modus imperfectionis longae.</p>
+      <p id="TINLIB0235">Tertio modo quantum ad partes remotas tantum, et hoc in quolibet modo majori, modo minori imperfecto, tempore imperfecto et prolatione majori, ut hic:</p>
+      <p id="TINLIB0236">[ClefC3,[rob],Cd,LP,Lv,Mv,Mv,Mv,pt,M,Lig2vcdsnod,Lv on staff5]</p>
+      <p id="TINLIB0237">Exemplum.</p>
+      <p id="TINLIB0238">Quartus modus imperfectionis longae.</p>
+      <p id="TINLIB0239">Quarto modo quantum ad totum et partes propinquas tantum, et hoc in quolibet modo majori, modo minori perfecto, tempore perfecto et prolatione minori, ut hic:</p>
+      <p id="TINLIB0240">[ClefC4,[rob],O,MXP,Lv,Bv,Lig2vcssnod,Lv on staff5]</p>
+      <p id="TINLIB0241">Exemplum.</p>
+      <p id="TINLIB0242">Quintus modus imperfectionis longae.</p>
+      <p id="TINLIB0243">Quinto modo quantum ad totum et partes remotas tantum, et hoc in quolibet modo majori, modo minori perfecto tempore imperfecto et prolatione majori, ut hic:</p>
+      <p id="TINLIB0244">[ClefC4,[rob],Cd,MXP,MXP,Lv,Sv,Lig2vcssnod,pt,Mv,Sv,Lv on staff5]</p>
+      <p id="TINLIB0245">Exemplum.</p>
+      <p id="TINLIB0246">Sextus modus imperfectionis longae.</p>
+      <p id="TINLIB0247">Sexto modo quantum ad partes propinquas et partes remotas tantum, et hoc in quolibet modo majori, modo minori imperfecto, tempore perfecto et prolatione majori, ut hic:</p>
+      <p id="TINLIB0248">[ClefC4,[rob],Od,LP,Lv,Mv,Mv,Mv,Mv,Sv,Mv,Sv,Sv,Lv on staff5]</p>
+      <p id="TINLIB0249">Exemplum.</p>
+      <p id="TINLIB0250">Septimus modus imperfectionis longae.</p>
+      <p id="TINLIB0251">Septimo modo quantum ad totum partes propinquas ac partes remotas simul, et hoc in quolibet modo majori, modo minori perfecto, tempore perfecto et prolatione majori, ut hic patet:</p>
+      <p id="TINLIB0252">[ClefC4,[rob],Od,MXP,Bv,Lv,Sv,Lig2vcssna,Mv,pt,Mv,Sv,Lv on staff5]</p>
+      <p id="TINLIB0253">Exemplum.</p>
+      <p id="TINLIB0254">Capitulum VI.</p>
+      <p id="TINLIB0255">De imperfectione brevis in tempore perfecto.</p>
+      <p id="TINLIB0256">Brevis in tempore perfecto potest imperfici quantum ad totum, quia tunc valet tres semibreves quarum una tanquam tertia pars ipsius brevis abstrahi poterit, ut hic:</p>
+      <p id="TINLIB0257">[ClefC4,O,Bv,Sv,pt,Sv,Bv,Lv on staff4]</p>
+      <p id="TINLIB0258">Exemplum.</p>
+      <p id="TINLIB0259">De imperfectione brevis in prolatione majori.</p>
+      <p id="TINLIB0260">Praeterea brevis in prolatione majori potest imperfici quantum ad duas partes propinquas aut una tantum, namque tunc semibrevis quae pars ejus propinqua est, valet tres minimas; hinc pro qualibet semibrevi poterit una minima tanquam tertia pars ipsius abstrahi, ut hic:</p>
+      <p id="TINLIB0261">[ClefC3,Od,Bv,Mv,Mv,Bv,pt,Mv,Bv,Lig2vcssnod,Sv,Lv on staff4]</p>
+      <p id="TINLIB0262">Exemplum.</p>
+      <p id="TINLIB0263">
+      <pb n="[65]" />De tribus modis imperfectionis brevis.</p>
+      <p id="TINLIB0264">Et quoniam in plerisque cantibus sub quolibet modo majori sive minori, tempus perfectum ac prolatio major concurrunt et in aliis tempus imperfectum cum prolatione majori vel e converso perfectum tempus cum prolatione minori commiscetur, fit quod brevis tribus modis imperfici potest.</p>
+      <p id="TINLIB0265">Primus modus imperfectionis brevis.</p>
+      <p id="TINLIB0266">Primo modo quantum ad totum et hoc in quolibet modo majori sive minori, tempore perfecto et prolatione minori, ut hic:</p>
+      <p id="TINLIB0267">[ClefC3,[rob],O,Bv,Sv,pt,Sv,Bv,Mv,Lig2vcssna,Mv,Lv on staff4]</p>
+      <p id="TINLIB0268">Exemplum.</p>
+      <p id="TINLIB0269">Secundus modus imperfectionis brevis.</p>
+      <p id="TINLIB0270">Secundo modo quantum ad partes propinquas tantum, et hoc in quolibet modo majori sive minori, tempore imperfecto et prolatione majori, ut hic patet:</p>
+      <p id="TINLIB0271">[ClefC2,[rob],Cd,Bv,Mv,Mv,Sv,Mv,pt,M,Mv,Bv,Mv,Lv on staff4]</p>
+      <p id="TINLIB0272">Exemplum.</p>
+      <p id="TINLIB0273">Tertius modus imperfectionis brevis.</p>
+      <p id="TINLIB0274">Tertio modo quantum ad totum et partes propinquas simul, et hoc in quolibet modo majori sive minori tempore perfecto et prolatione majori, ut hic:</p>
+      <p id="TINLIB0275">[ClefC2,[rob],Od,Bv,Bv,Mv,Mv,Mv,pt,M,Mv,Lv on staff4]</p>
+      <p id="TINLIB0276">Exemplum.</p>
+      <p id="TINLIB0277">Capitulum X.</p>
+      <p id="TINLIB0278">De unico modo imperfectionis semibrevis.</p>
+      <p id="TINLIB0279">Semibrevis unico modo potest imperfici scilicet quantum ad totum tantum, et hoc in prolatione majori, sub quolibet modo et tempore, quia tunc palet tres minimas quarum una tanquam tertia pars ipsius semibrevis abstrahi poterit, ut hic:</p>
+      <p id="TINLIB0280">[ClefC2,[rob],Od,Sv,Mv,pt,...,Mv,pt,M,Mv,Mv,pt,M,Sv,Mv,pt,Mv,Sv,Mv,Mv,Mv,Lv on staff4]</p>
+      <p id="TINLIB0281">Exemplum.</p>
+      <p id="TINLIB0282">Capitulum XI.</p>
+      <p id="TINLIB0283">De tribus imperfectionum signis.</p>
+      <p id="TINLIB0284">Finaliter eo quod certa quaedam signa sunt quibus notae cognoscuntur imperfici de his aliqua dicere necessarium arbitramur. Unde sciendum est quod tria sunt signa notam imperfectibilem imperfici demonstrantia, videlicet: numeralis imperfectio, notalis impletio et punctualis divisio.</p>
+      <p id="TINLIB0285">De primo signo imperfectionis.</p>
+      <p id="TINLIB0286">Quo ad primum quotienscumque notae minores ante vel post majorem in imperfecto numero constitutae inveniuntur, signum est quod prima major ab eis imperfectibilis imperficiatur, nisi ad socias prius reducantur, ut hic:</p>
+      <p id="TINLIB0287">[ClefC4,O,LP,Lig2vcssnod,Lv,Sv,Bv,pt,Sv,Lv,pt,Lig2vcssnod,Lv,Bv,Sv,pt,Mv,Mv,Mv,Bv,Sv,pt,Mv,pt,M,Mv,Sv,MXv on staff5]</p>
+      <p id="TINLIB0288">Exemplum.</p>
+      <p id="TINLIB0289">De secundo signo imperfectionis.</p>
+      <p id="TINLIB0290">Quo ad secundum quotienscumque nota tota impletur; signum est quod tertia parte totius sui valoris imperficitur, et si dimidia pars notae tantum impleta sit, signum est quod tertia parte dimidii valoris sui imperfecta sit; debentque notae minores, quae taliter imperficiunt majores, impleri sicut e ipsae, nec refert si illae precedant aut sequantur istas mediate vel immediate, ut hic:</p>
+      <p id="TINLIB0291">[ClefC3,Cd,LP,Lv,L,Bv,M,M,M,Bv,MXP,Lv,Lv,Lig2va; ClefC2,M,M,M,Lig2vd,O on staff4]</p>
+      <p id="TINLIB0292">Exemplum.</p>
+      <p id="TINLIB0293">
+      <pb n="[66]" />[ClefC4,Lig2od,Lig2vd,LP,LP,Lig2vd,S,Lv,Lv; ClefC4,Lv,pt,L,Bv,B,Lv,Bv,S,Sv,Mv,Mv,Sv,Lv on staff5]</p>
+      <p id="TINLIB0294">Si vero tres notae similes in signum imperfectionis impletae sint, sive ponantur immediate una post aliam sive non, media ut partes propinquae unita primam imperficit a parte post et ultimam a parte ante, ut hic patet.</p>
+      <p id="TINLIB0295">[ClefC4,O,MXP,Lv,L,L,L,Bv,B,Bv,B,Bv,B,Bv,Lig3vcdsndod,Bvcsdx on staff5]</p>
+      <p id="TINLIB0296">Exemplum.</p>
+      <p id="TINLIB0297">Et quoniam notarum impletio non solum imperfectionem, sed reductionem sesquialteram et duplam significat, qualiter in promptu scitur dum in aliquo cantu hujusmodi notarum impletio invenitur, quod istorum quatuor signorum accipiendum sit in nostro proportionali musices amplissime declaravimus, quapropter super hoc in isto tractatu nihil dicimus.</p>
+      <p id="TINLIB0298">De tertio signo imperfectionis.</p>
+      <p id="TINLIB0299">Quo ad tertium quotienscumque punctus divisionis alicui notae sive pro se tantum sive pro se et aliis adjicitur, signum est quod prima major ab eis imperfectibilis imperficiatur nisi ad socias prius reducantur, ut hic:</p>
+      <p id="TINLIB0300">[ClefC4,O,MXP,Bv,pt,Lig2va,Lv,MXv,pt,Bv,Lig2vcdsnod,Lv,pt,Bv,Sv,pt,Mv,Sv,MXv,Lv,pt,Lig2vcssna,Sv,Lig3vad,MXv,pt,Sv,pt,Mv,pt,Lig5vcssnaaaacddx,pt,Sv,Lig2va,Lv,Lig3vcdsndd on staff5]</p>
+      <p id="TINLIB0301">Exemplum.</p>
+      <p id="TINLIB0302">Capitulum XII.</p>
+      <p id="TINLIB0303">Operis conclusio.</p>
+      <p id="TINLIB0304">Et haec de notarum musicalium imperfectionibus dicta sufficiant, in quibus si aliquid imperfecte positum inveniatur, omnes, precor, in hac arte divina perfectos, ut amore perfectiori velint id perficere quo Deus, ille scientiarum dominus, qui opus imperfectionis non novit, eos beatitudine perfectissima remunerare dignetur.</p>
+      <p id="TINLIB0305">Explicit.</p>
+    </body>
+  </text>
+</TEI>

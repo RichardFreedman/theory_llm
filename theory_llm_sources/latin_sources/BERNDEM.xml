@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>De mensurando monochordo</title>
+        <title type="abbrev">BERNDEM</title>
+        <author>Berno Augiensis</author>
+        <date notBefore="800" notAfter="1099">9th-11th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Andreas Giger</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Elisabeth Honn</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1995</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>Bernonis Augiensis Abbatis De arte musica disputationes traditae: De mensurando monochordo</emph>, ed. Joseph Smits van Waesberghe, Divitiae musicae artis A/VIa (Buren: Knuf, 1978), 27, 42–55, 59, 61, 65, 67, 71, 73, 75, 77, 84–85, 91–92, 95, 103–4,111–14, and 116–19. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Ps.-Berno Augiensis: De mensurando monochordo</title>
+          
+<idno type="LML">PS.-BERNO mon.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">A-Wn Cod. 51, 52vb-55a</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">A-Wn Cod. 51, 52vb-55a</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-KA L 100, plat sup. (Fragment)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-St. Blasien without shelfmark, d</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="BERNDEM0001">
+      <pb n="[27]" />[f. 52v a in marg. ] EXPLICIT LIBER PRIMUS REGULARUM VENERABILIS BERN ABBATIS IN ARTEM MUSICAM</p>
+      <p id="BERNDEM0002">INCIPIT SECUNDUS EIUSDEM DE MENSURANDO MONOCHORDO</p>
+      <p id="BERNDEM0003">[PROOEMIUM I]</p>
+      <p id="BERNDEM0004">[f. 52v b in marg.] Quicumque</p>
+      <p id="BERNDEM0005">aliquod sibi artificium inchoat:</p>
+      <p id="BERNDEM0006">semper ad eventum festinat.</p>
+      <p id="BERNDEM0007">Sed, ubi est festinatio:</p>
+      <p id="BERNDEM0008">laboris quaeritur abbreviatio.</p>
+      <p id="BERNDEM0009">Igitur ars,</p>
+      <p id="BERNDEM0010">quam celerius res quaelibet ad unguem ex(s)equitur:</p>
+      <p id="BERNDEM0011">iure ab omnibus eligitur.</p>
+      <p id="BERNDEM0012">Nam labor lassitudinem parit:</p>
+      <p id="BERNDEM0013">haec autem negligentiam nutrit.</p>
+      <p id="BERNDEM0014">Ad haec stultum est pro certo laborare:</p>
+      <p id="BERNDEM0015">ubi laborem sine dispendio possis evitare.</p>
+      <p id="BERNDEM0016">Qua re, ne longum faciam,</p>
+      <p id="BERNDEM0017">quo facilius et perfecte exarari valeat:</p>
+      <p id="BERNDEM0018">monochordum expediam.</p>
+      <p id="BERNDEM0019">Nam,</p>
+      <p id="BERNDEM0020">citius cuiuslibet rei medietas invenitur:</p>
+      <p id="BERNDEM0021">quam pars tertia; tertia quam octava.</p>
+      <p id="BERNDEM0022">Quodsi per sesqualteram et sesquitertiam</p>
+      <p id="BERNDEM0023">mensurandi regulam dedero:</p>
+      <p id="BERNDEM0024">promissum implebo.</p>
+      <p id="BERNDEM0025">Sed haec hactenus.</p>
+      <p id="BERNDEM0026">
+      <pb n="[42]" />[PROOEMIUM II]</p>
+      <p id="BERNDEM0027">Duo semisphaeria, quas magadas vocant,</p>
+      <p id="BERNDEM0028">concavo instrumento, hinc et hinc, superponuntur;</p>
+      <p id="BERNDEM0029">inter quas, porrecta epiphania,</p>
+      <p id="BERNDEM0030">lineae, quasi chordae supra tensae divisiones exarantur.</p>
+      <p id="BERNDEM0031">Sed,</p>
+      <p id="BERNDEM0032">si tria monochordorum genera mensurare disponas,</p>
+      <p id="BERNDEM0033">superficiem a magada ad magadam</p>
+      <p id="BERNDEM0034">--lineis protensis--in tria dividas;</p>
+      <p id="BERNDEM0035">et (-),</p>
+      <p id="BERNDEM0036">in subteriori diatonicum,</p>
+      <p id="BERNDEM0037">in medio chromaticum,</p>
+      <p id="BERNDEM0038">in superiori enharmonium,</p>
+      <p id="BERNDEM0039">secundum regulam subscriptam componas.</p>
+      <p id="BERNDEM0040">Sed,</p>
+      <p id="BERNDEM0041">priusquam eorum dimensionem incipiam,</p>
+      <p id="BERNDEM0042">rationem vocabulorum paucis absolvam.</p>
+      <p id="BERNDEM0043">Diatonicum igitur dicitur,</p>
+      <p id="BERNDEM0044">quod tonorum dimensione(m) et compositione(m) ex(s)equitur;</p>
+      <p id="BERNDEM0045">quod reliqua non obtinent,</p>
+      <p id="BERNDEM0046">dum hoc per semitonia, illud per dieses,</p>
+      <p id="BERNDEM0047">--quod in sequentibus patefiet--exaratur.</p>
+      <p id="BERNDEM0048">Hoc genus fortius et durius comprobatur,</p>
+      <p id="BERNDEM0049">et, ne animi audientium vel canentium</p>
+      <p id="BERNDEM0050">dulcedine cantus emolliantur,</p>
+      <p id="BERNDEM0051">ecclesiastico usui eligitur.</p>
+      <p id="BERNDEM0052">
+      <pb n="[43]" />Musica enim</p>
+      <p id="BERNDEM0053">suavitate vel morositate animos commutari,</p>
+      <p id="BERNDEM0054">et quilibet in se ipso potest experiri,</p>
+      <p id="BERNDEM0055">et sapientium novimus attestatione approbari.</p>
+      <p id="BERNDEM0056">Chromaticum vero,</p>
+      <p id="BERNDEM0057">quasi coloratum dicitur,</p>
+      <p id="BERNDEM0058">quod a diatonico primum discedens,</p>
+      <p id="BERNDEM0059">alterius sit quasi coloris:</p>
+      <p id="BERNDEM0060">chroma enim color dicitur.</p>
+      <p id="BERNDEM0061">Hoc genus mollissimum comprobatur,</p>
+      <p id="BERNDEM0062">quocirca ecclesiastico usui non applicatur.</p>
+      <p id="BERNDEM0063">Enharmonium autem</p>
+      <p id="BERNDEM0064">--quod ex utrisque his modeste || [f. 53r a in marg.] compactum temperatumque sit--</p>
+      <p id="BERNDEM0065">nomen accepit ab harmonia,</p>
+      <p id="BERNDEM0066">quae est: diversarum rerum concordabilis convenientia.</p>
+      <p id="BERNDEM0067">Hoc genus</p>
+      <p id="BERNDEM0068">quasi medietatis locum possidet,</p>
+      <p id="BERNDEM0069">ut nec durum, nec molle sit,</p>
+      <p id="BERNDEM0070">sed, ex utrisque compositum, dulcescit.</p>
+      <p id="BERNDEM0071">Nunc diatonici mensuram ordiamur.</p>
+      <p id="BERNDEM0072">
+      <pb n="[45]" />INCIPIUNT CAPITULA DE MENSURA MONOCHORDI</p>
+      <p id="BERNDEM0073">I. De mensura monochordi</p>
+      <p id="BERNDEM0074">II. De lineis monochordi in chromatico</p>
+      <p id="BERNDEM0075">III. De lineis in enharmonio</p>
+      <p id="BERNDEM0076">IV. De nominibus chordarum</p>
+      <p id="BERNDEM0077">V. De quinque tetrachordis monochordi</p>
+      <p id="BERNDEM0078">VI. De diversis concentibus symphoniarum atque vocum</p>
+      <p id="BERNDEM0079">VII. De speciebus diatessaron, diapente, diapason</p>
+      <p id="BERNDEM0080">VIII. De octo tonis et eorum interpretationibus</p>
+      <p id="BERNDEM0081">IX. De finalibus eorum</p>
+      <p id="BERNDEM0082">X. De ascensione vel remissione eorum</p>
+      <p id="BERNDEM0083">XI. De eadem re secundum modernorum inventiones</p>
+      <p id="BERNDEM0084">XII. Recapitulatio operum</p>
+      <p id="BERNDEM0085">Expliciunt capitula</p>
+      <p id="BERNDEM0086">
+      <pb n="[49]" />I DE MENSURA MONOCHORDI</p>
+      <p id="BERNDEM0087">A dextro semisphaerio, quod est T., usque ad sinistrum, quod est A., protenta epiphania quadripartiatur;</p>
+      <p id="BERNDEM0088">et lineae ductae his litteris annotentur:</p>
+      <p id="BERNDEM0089">S. prima in dexteram partem, H. media, D. tertia.</p>
+      <p id="BERNDEM0090">Dehinc a T. usque ad S., tripartito spatio,</p>
+      <p id="BERNDEM0091">quarta superaddatur, et linea ducta P. notetur.</p>
+      <p id="BERNDEM0092">Rursus a T. usque ad S., bipartita superficie,</p>
+      <p id="BERNDEM0093">tertia superapponatur, quae linea O. signetur.</p>
+      <p id="BERNDEM0094">Item a T. usque ad O. epiphania quadripartiatur,</p>
+      <p id="BERNDEM0095">et ubi tertia ceciderit, linea ducta R. apponatur.</p>
+      <p id="BERNDEM0096">Quo facto, ab H. usque ad O. latitudinem spatii, in quo diatonicum metitur, linea aequaliter dividens ducatur; et bipartitae O. lineae partem superiorem L. teneat, praedictum O. inferiorem possideat.</p>
+      <p id="BERNDEM0097">Post a T. usque ad R. spatium in duo diducatur, et tertia superaddita linea transversa bipartita ducatur; cuius superior K., inferior vero pars N. notetur.</p>
+      <p id="BERNDEM0098">
+      <pb n="[51]" />Rursus a T. usque ad N. vel K., interstitio quadripartito, ubi tertia evenerit, linea Q. signetur.</p>
+      <p id="BERNDEM0099">Hinc a T. usque ad P., intervallo tripartito, quarta superapponatur, quae lineam transversam non transibit,</p>
+      <p id="BERNDEM0100">sed subtraducta M. notetur.</p>
+      <p id="BERNDEM0101">Dehinc a T. usque ad Q. superficie bipartita, et tertia superiuncta linea transversam non transiens,</p>
+      <p id="BERNDEM0102">sed superiorem partem tenens, I. notetur.</p>
+      <p id="BERNDEM0103">Rursus a T. usque ad H., interstitio tripartito,</p>
+      <p id="BERNDEM0104">et quarta addita linea ducta E. signetur.</p>
+      <p id="BERNDEM0105">Item a T. usque ad E., epiphania in tria disparata,</p>
+      <p id="BERNDEM0106">et quarta superapposita linea B. notetur.</p>
+      <p id="BERNDEM0107">Exinde a T. usque ad D., intervallo in quattuor disposito,</p>
+      <p id="BERNDEM0108">ubi tertia ceciderit, linea G. inscribatur.</p>
+      <p id="BERNDEM0109">Iterum a T. usque ad G., bipartita superficie,</p>
+      <p id="BERNDEM0110">tertia adiungatur, ubi C. imprimatur.</p>
+      <p id="BERNDEM0111">Postremo a T. usque ad C. intervallum quadripartiatur, || [f. 53r b in marg.]</p>
+      <p id="BERNDEM0112">et tertia signata F. apponatur.</p>
+      <p id="BERNDEM0113">Sic diatonicum exaratur.</p>
+      <p id="BERNDEM0114">
+      <pb n="[55]" />II DE LINEIS MONOCHORDI IN CHROMATICO</p>
+      <p id="BERNDEM0115">Post haec vero lineae, quae B. et C. notantur, in chromaticum ducantur, et spatium inter D. et E. bipartiatur: et retro inter D. et C. medietate posita linea ducatur. Pari modo E. et F. ducantur, et spatii, quod est inter G. et H., medietate retro inter G. et F. data linea trahatur. Post H. et I. et L. ut in diatonico, sic et in isto ducantur: et ab H. usque L. linea divisionis ducatur, et subtus M. et N. trahantur. Tunc interstitium, quod est inter K. et L., dividatur, et retro inter K. et L. medietate posita lineam transversam transiens notetur. Hinc spatii inter P. et L. medietas inter L. et K. ponatur, et linea subtus transversam ducatur. Eodem modo P. et Q. ducantur, et medio interstitii, quod (est) inter R. et S., retro inter R. et Q. data linea ducatur, et, ultima S. tracta, chromaticum compleatur.</p>
+      <p id="BERNDEM0116">III DE LINEIS IN ENHARMONIO</p>
+      <p id="BERNDEM0117">Deinde lineae B. et C. ut in diatonico et chromatico, sic et in enharmonio ducantur, et earum interstitium linea media dividatur. Rursus E. et F. ducantur, et in duas dieses semitonium diducatur. Post H. ducta et I. et L. linea divisionis, ut in aliis, ab H. ad L. ducatur, et inter H. et I. media ponatur. Sic sub transversa M. et N. ductis media inseratur. Pari modo P., Q., S. tractis et inter P. et Q. media posita enharmonium finiatur. Sic diatonicum per duos tonos et semitonium; chromaticum per semitonium, semitonium et trihemitonium incompositum; enharmonium vero per diesin, diesin--id est dimidium semitonium--et ditonum incompositum exaratur.</p>
+      <p id="BERNDEM0118">
+      <pb n="[59]" />IV DE NOMINIBUS CHORDARUM</p>
+      <p id="BERNDEM0119">Sed, quoniam mensurandi regulam dedimus,</p>
+      <p id="BERNDEM0120">nomina chordarum apponere supervacuum non iudicamus.</p>
+      <p id="BERNDEM0121">Prima igitur,</p>
+      <p id="BERNDEM0122">quae A. titulatur,</p>
+      <p id="BERNDEM0123">proslambanomenos dicitur;</p>
+      <p id="BERNDEM0124">B. hypate hypaton;</p>
+      <p id="BERNDEM0125">C. parhypate hypaton;</p>
+      <p id="BERNDEM0126">D. lichanos hypaton;</p>
+      <p id="BERNDEM0127">E. hypate meson;</p>
+      <p id="BERNDEM0128">F. parhypate meson;</p>
+      <p id="BERNDEM0129">G. lichanos meson;</p>
+      <p id="BERNDEM0130">H. mese;</p>
+      <p id="BERNDEM0131">I. trite synemmenon;</p>
+      <p id="BERNDEM0132">K. paranete synemmenon;</p>
+      <p id="BERNDEM0133">L. nete synemmenon;</p>
+      <p id="BERNDEM0134">M. paramese;</p>
+      <p id="BERNDEM0135">N. trite diezeugmenon;</p>
+      <p id="BERNDEM0136">O. paranete diezeugmenon;</p>
+      <p id="BERNDEM0137">P. nete diezeugmenon;</p>
+      <p id="BERNDEM0138">Q. trite hyperboleon;</p>
+      <p id="BERNDEM0139">R. paranete hyperboleon;</p>
+      <p id="BERNDEM0140">S. nete hyperboleon.</p>
+      <p id="BERNDEM0141">
+      <pb n="[61]" />Et haec sunt earum nomina,</p>
+      <p id="BERNDEM0142">quarum inventionis ordinem (.)</p>
+      <p id="BERNDEM0143">et vocabulorum rationem:</p>
+      <p id="BERNDEM0144">Boethius in Musica sua plenissime ex(s)equitur.</p>
+      <p id="BERNDEM0145">Quae nobis, quoniam brevitati studemus,</p>
+      <p id="BERNDEM0146">et parum aut nihil utilitatis afferunt:</p>
+      <p id="BERNDEM0147">praetermittenda || [f. 53v a in marg.] videntur,</p>
+      <p id="BERNDEM0148">ut (.) eorum loco utiliora dicantur.</p>
+      <p id="BERNDEM0149">Quantum enim ad utilitatem attinet,</p>
+      <p id="BERNDEM0150">si primum nervum proslambanomenos dixeris:</p>
+      <p id="BERNDEM0151">tantum valet, si eum A. nominaveris.</p>
+      <p id="BERNDEM0152">Quare his omissis alia videamus.</p>
+      <p id="BERNDEM0153">
+      <pb n="[65]" />V DE QUINQUE TETRACHORDIS MONOCHORDI</p>
+      <p id="BERNDEM0154">Quinque tetrachorda in monochordi dimensione inveniuntur, quae pari modo semitonio</p>
+      <p id="BERNDEM0155">--id est non dimidio, sed imperfecto tono;</p>
+      <p id="BERNDEM0156">semum enim Graeci imperfectum dicunt--</p>
+      <p id="BERNDEM0157">et duobus tonis complentur.</p>
+      <p id="BERNDEM0158">Tonum vero dicimus: sesquioctavam proportionem,</p>
+      <p id="BERNDEM0159">quem etiam epogdoum vocant.</p>
+      <p id="BERNDEM0160">Nam si a T. usque ad S. in octo partiaris, et nonam superadieceris,</p>
+      <p id="BERNDEM0161">tonum inter S. et R. te invenisse videbis,</p>
+      <p id="BERNDEM0162">et sic spatium a T. usque ad R. intervallum a T. usque ad S.</p>
+      <p id="BERNDEM0163">totum et insuper eius octavam continebit:</p>
+      <p id="BERNDEM0164">ut si novem octonario contuleris, eum totum et eius continet octavam,</p>
+      <p id="BERNDEM0165">videlicet unitatem.</p>
+      <p id="BERNDEM0166">Sic tonus, ut simpliciter et breviter describatur,</p>
+      <p id="BERNDEM0167">in sesquioctava proportione invenitur.</p>
+      <p id="BERNDEM0168">Tetrachorda ergo duobus tonis et semitonio complentur,</p>
+      <p id="BERNDEM0169">et inde vocabulum trahunt,</p>
+      <p id="BERNDEM0170">quod sub quattuor chordis vel voculis continentur.</p>
+      <p id="BERNDEM0171">
+      <pb n="[67]" />Quorum primum est B. C. D. E.,</p>
+      <p id="BERNDEM0172">quod hypaton, id est principale, dicitur,</p>
+      <p id="BERNDEM0173">quod primum locum in hypatis occupet,</p>
+      <p id="BERNDEM0174">et ceteris gravius et morosius sonet.</p>
+      <p id="BERNDEM0175">Secundum vero est E. F. G. H.,</p>
+      <p id="BERNDEM0176">quod meson, id est medium, nuncupatur.</p>
+      <p id="BERNDEM0177">Nam hinc illi, quod hypaton diximus, coniungitur;</p>
+      <p id="BERNDEM0178">hinc vero illi, quod synemmenon dicitur, copulatur.</p>
+      <p id="BERNDEM0179">Synemmenon enim, id est coniunctum, sub H.I.K.L. continetur:</p>
+      <p id="BERNDEM0180">idcirco sic vocatur, quod medio coniungatur;</p>
+      <p id="BERNDEM0181">ad differentiam scilicet quarti M. N. O. P.,</p>
+      <p id="BERNDEM0182">quod diezeugmenon, id est disiunctum, appellatur,</p>
+      <p id="BERNDEM0183">quia tono interiecto a medio disparatur.</p>
+      <p id="BERNDEM0184">Quintum autem, quod est P. Q. R. S.,</p>
+      <p id="BERNDEM0185">hyperboleon, id est excellens, dicitur,</p>
+      <p id="BERNDEM0186">quod in acutioribus et idcirco excellentioribus vocibus inveniatur.</p>
+      <p id="BERNDEM0187">Et haec quinque tetrachorda</p>
+      <p id="BERNDEM0188">pari modo semitonio et duobus tonis adimplentur.</p>
+      <p id="BERNDEM0189">Sed his breviter libatis ad consonantias veniamus.</p>
+      <p id="BERNDEM0190">
+      <pb n="[71]" />VI DE DIVERSIS CONCENTIBUS SYMPHONIARUM ATQUE VOCUM</p>
+      <p id="BERNDEM0191">Consonantia est diversarum vocum concentus</p>
+      <p id="BERNDEM0192">suaviter et uniformiter accidens auribus,</p>
+      <p id="BERNDEM0193">ut si in lyra vel alio aliquo musico instrumento,</p>
+      <p id="BERNDEM0194">diligenter tensis et remissis nervis,</p>
+      <p id="BERNDEM0195">primam et quartam, seu primam et quintam,</p>
+      <p id="BERNDEM0196">vel primam et octavam simul ferias vocem:</p>
+      <p id="BERNDEM0197">quarum prima--quae et minima--diatessaron dicitur;</p>
+      <p id="BERNDEM0198">secunda diapente, tono maior;</p>
+      <p id="BERNDEM0199">tertia ex his duabus compacta diapason;</p>
+      <p id="BERNDEM0200">quarta diapason et diapente;</p>
+      <p id="BERNDEM0201">quinta bisdiapason, vel disdiapason.</p>
+      <p id="BERNDEM0202">Quibus si,</p>
+      <p id="BERNDEM0203">secundum Ptolemaei rationabile iudicium.</p>
+      <p id="BERNDEM0204">diapason et || [f. 53v b in marg.] diatessaron adiicias,</p>
+      <p id="BERNDEM0205">sex habebis consonantias.</p>
+      <p id="BERNDEM0206">Sed,</p>
+      <p id="BERNDEM0207">cum haec et nomen et diffinitionem sui generis recipiat,</p>
+      <p id="BERNDEM0208">cur excludatur, ratio non apportat.</p>
+      <p id="BERNDEM0209">Nam, si equus est substantia animata sensibilis,</p>
+      <p id="BERNDEM0210">pro certo speciebus intererit animalis;</p>
+      <p id="BERNDEM0211">quodsi diapason et diatessaron</p>
+      <p id="BERNDEM0212">est diversarum vocum concentus</p>
+      <p id="BERNDEM0213">suaviter et uniformiter accidens auribus,</p>
+      <p id="BERNDEM0214">iure interponetur consonantiae speciebus.</p>
+      <p id="BERNDEM0215">Sed hoc esse ita nemo negare poterit:</p>
+      <p id="BERNDEM0216">igitur consonantiis intererit.</p>
+      <p id="BERNDEM0217">
+      <pb n="[73]" />Prima ergo--quam diatessaron diximus--</p>
+      <p id="BERNDEM0218">in sesquitertia proportione consistit:</p>
+      <p id="BERNDEM0219">ut si ternario conferatur quaternarius.</p>
+      <p id="BERNDEM0220">Diapente vero in sesqualtera:</p>
+      <p id="BERNDEM0221">ut si quaternario conferatur senarius.</p>
+      <p id="BERNDEM0222">Diapason in dupla:</p>
+      <p id="BERNDEM0223">ut si praedicto ternario idem senarius.</p>
+      <p id="BERNDEM0224">Diapason et diatessaron in duplici et sesquitertia:</p>
+      <p id="BERNDEM0225">ut si eidem senario quattuordecim.</p>
+      <p id="BERNDEM0226">Diapason et diapente in tripla:</p>
+      <p id="BERNDEM0227">ut si saepedicto senario octodenarius.</p>
+      <p id="BERNDEM0228">Bisdiapason in quadrupla:</p>
+      <p id="BERNDEM0229">ut si eidem senario contuleris .XXIIII.</p>
+      <p id="BERNDEM0230">Sed,</p>
+      <p id="BERNDEM0231">nos earum alium non quaerimus ordinem,</p>
+      <p id="BERNDEM0232">nisi secundum monochordi exarationem,</p>
+      <p id="BERNDEM0233">et simplicium numerorum, verbi gratia collationem.</p>
+      <p id="BERNDEM0234">Cuius rei talem habeas subscriptionem.</p>
+      <p id="BERNDEM0235">
+      <pb n="[75]" />[DMA A/VIa:75; text: QUADRUPLA PROPORTIO, DUPLA PROPORTIO, DIAPASON, SESQUALTERA PROPORTIO, DIAPENTE, SESQUITERCIA PROPORTIO, DIATESSERON, DUPLA SUPERBIPARTIENS, DIAPASON CUM DIATESSERON, DIAPASON CUM DIAPENTE, BISDIAPASON, VI, IV, III, XVI, XVIII, XXIIII] 
+      <figure>
+        <graphic url="/images/BERNDEM_01GF.gif" />
+      </figure></p>
+      <p id="BERNDEM0236">
+      <pb n="[77]" />Nemo autem existimet</p>
+      <p id="BERNDEM0237">idem esse diatessaron quod sesquitertium,</p>
+      <p id="BERNDEM0238">diapente quod sesqualterum, diapason quod duplum.</p>
+      <p id="BERNDEM0239">Nam quod arithmetici sesquitertium dicunt,</p>
+      <p id="BERNDEM0240">musici diatessaron, quod sonat de quattuor,</p>
+      <p id="BERNDEM0241">quod sub quaternis voculis talis proportio contineatur;</p>
+      <p id="BERNDEM0242">diapente de quinque, quod sub totidem constituatur;</p>
+      <p id="BERNDEM0243">diapason de omnibus, vel quod earum duarum omnes voces contineat,</p>
+      <p id="BERNDEM0244">vel, quod melius puto, omnium vocum discrimina in se concludat.</p>
+      <p id="BERNDEM0245">Nam septem dumtaxat sunt vocum distantiae,</p>
+      <p id="BERNDEM0246">videlicet A. B. C. D. E. F. G.</p>
+      <p id="BERNDEM0247">Quodsi octavam quae est H. tetigeris,</p>
+      <p id="BERNDEM0248">eandem vocem invenies quae est primae.</p>
+      <p id="BERNDEM0249">Unde nullius scientiae ignarus inquit Virgilius:</p>
+      <p id="BERNDEM0250">Obloquitur numeris septem discrimina vocum.</p>
+      <p id="BERNDEM0251">Aliarum autem nomina haec scienti sunt manifesta.</p>
+      <p id="BERNDEM0252">Nunc his praetaxatis species earum ostendamus.</p>
+      <p id="BERNDEM0253">
+      <pb n="[84]" />VII DE SPECIEBUS DIATESSARON, DIAPENTE ET DIAPASON</p>
+      <p id="BERNDEM0254">Diatessaron, quae minima est,</p>
+      <p id="BERNDEM0255">tres tantum habet species,</p>
+      <p id="BERNDEM0256">unam minus quam voces.</p>
+      <p id="BERNDEM0257">Quarum (:)</p>
+      <p id="BERNDEM0258">|| [f. 54r a in marg.] prima constat: tono, semitonio et tono, quae est A. B. C. D.</p>
+      <p id="BERNDEM0259">Secunda forma est B. C. D. E., quod est semitonium et ditonus.</p>
+      <p id="BERNDEM0260">Tertia C. D. E. F., quod est ditonus et semitonium.</p>
+      <p id="BERNDEM0261">Et sic per quaternas,</p>
+      <p id="BERNDEM0262">per omnem chordarum seriem computando:</p>
+      <p id="BERNDEM0263">--excepto inter F. et M., et I. et P.--</p>
+      <p id="BERNDEM0264">has alternatim tres formas (:) te scias inventurum.</p>
+      <p id="BERNDEM0265">Diapente vero, quae unam plus vocem:</p>
+      <p id="BERNDEM0266">unam plus habet et speciem.</p>
+      <p id="BERNDEM0267">Quarum prima est D. E. F. G. H.; secunda E. F. G. H. M.; tertia F. G. H. M. N.; quarta G. H. M. N. O.</p>
+      <p id="BERNDEM0268">Has si diligenter inspicias,</p>
+      <p id="BERNDEM0269">tonorum et semitoniorum positiones invenies diversas,</p>
+      <p id="BERNDEM0270">et per seriem vocum alternatim dispositas,</p>
+      <p id="BERNDEM0271">exceptis tribus locis:</p>
+      <p id="BERNDEM0272">videlicet inter B. et F., et E. et I., et M. et Q.</p>
+      <p id="BERNDEM0273">Diapason autem,</p>
+      <p id="BERNDEM0274">quoniam his duabus consonantiis completur,</p>
+      <p id="BERNDEM0275">tot habet formas, quot sub his amplectuntur.</p>
+      <p id="BERNDEM0276">
+      <pb n="[85]" />Septem igitur continet species:</p>
+      <p id="BERNDEM0277">pro diapente quattuor, pro diatessaron tres.</p>
+      <p id="BERNDEM0278">Quarum:</p>
+      <p id="BERNDEM0279">prima inter A. et H. continetur;</p>
+      <p id="BERNDEM0280">secunda a B. ad M. porrigitur;</p>
+      <p id="BERNDEM0281">tertia a C. ad N. terminatur;</p>
+      <p id="BERNDEM0282">quarta a D. ad O. protenditur;</p>
+      <p id="BERNDEM0283">quinta E. et P. limitatur;</p>
+      <p id="BERNDEM0284">sexta ab F. ad Q. intenditur;</p>
+      <p id="BERNDEM0285">septima ab R. ad G. remittitur.</p>
+      <p id="BERNDEM0286">Quas omnes,</p>
+      <p id="BERNDEM0287">si tonorum et semitoniorum situm inspexeris:</p>
+      <p id="BERNDEM0288">a se invicem distantes videbis.</p>
+      <p id="BERNDEM0289">Quodsi octavam ab H. per M. et N. intendendo ad S. adieceris:</p>
+      <p id="BERNDEM0290">a prima non dissentire videbis.</p>
+      <p id="BERNDEM0291">Quodsi ab H. per I. et K. ad S. ascenderis:</p>
+      <p id="BERNDEM0292">eandem quintae annotabis.</p>
+      <p id="BERNDEM0293">Sic ergo diapason</p>
+      <p id="BERNDEM0294">septem habet species:</p>
+      <p id="BERNDEM0295">unam minus quam voces.</p>
+      <p id="BERNDEM0296">In quibus (:)</p>
+      <p id="BERNDEM0297">septem modorum diversa sit positio:</p>
+      <p id="BERNDEM0298">quod sequens expediet oratio.</p>
+      <p id="BERNDEM0299">
+      <pb n="[91]" />VIII DE OCTO TONIS ET EORUM INTERPRETATIONIBUS</p>
+      <p id="BERNDEM0300">Septem tantum--secundum diapason species--modos primum fuisse,</p>
+      <p id="BERNDEM0301">sed Ptolemaeum octavum superaddidisse,</p>
+      <p id="BERNDEM0302">Boethium in Musicis suis tradidisse novimus.</p>
+      <p id="BERNDEM0303">Quorum nomina diversitatemque</p>
+      <p id="BERNDEM0304">--quoniam brevitatem et simplicitatem promisimus--</p>
+      <p id="BERNDEM0305">secundum ecclesiasticum usum expediamus.</p>
+      <p id="BERNDEM0306">Octo cantionum modis</p>
+      <p id="BERNDEM0307">--quos abusive tonos vocant--</p>
+      <p id="BERNDEM0308">ecclesiasticus ordo utitur,</p>
+      <p id="BERNDEM0309">quorum quattuor excelsiores, voces monochordi sortiti, sic vocantur:</p>
+      <p id="BERNDEM0310">Authenticus protus id est primus magister;</p>
+      <p id="BERNDEM0311">authenticus deuterus id est secundus magister;</p>
+      <p id="BERNDEM0312">authenticus tritus id est tertius magister;</p>
+      <p id="BERNDEM0313">authenticus tetrardus id est quartus magister.</p>
+      <p id="BERNDEM0314">Authenticos enim Graeci magistros dicunt,</p>
+      <p id="BERNDEM0315">quasi auctoratos, id est auctoritate praeditos,</p>
+      <p id="BERNDEM0316">videlicet quorum auctoritas praecellit.</p>
+      <p id="BERNDEM0317">Unde a comparatione altioris gradus,</p>
+      <p id="BERNDEM0318">hos modos ita vocari obtinuit usus.</p>
+      <p id="BERNDEM0319">
+      <pb n="[92]" />Alii vero quattuor inferiora loca possidentes,</p>
+      <p id="BERNDEM0320">sic vocantur:</p>
+      <p id="BERNDEM0321">Plagis proti, id est lateralis primi, subauditur authentici,</p>
+      <p id="BERNDEM0322">quasi sub latere eius contineatur, et inferior sit.</p>
+      <p id="BERNDEM0323">Simili ratione: plagis deuteri, triti, tetrardi.</p>
+      <p id="BERNDEM0324">Sed nos eorum regulas dantes, latinis || [f. 54r b in marg.] utamur nominibus,</p>
+      <p id="BERNDEM0325">et excelsiores magistros, inferiores vero discipulos appellamus.</p>
+      <p id="BERNDEM0326">Sed antequam eorum intensionem vel remissionem incipiamus,</p>
+      <p id="BERNDEM0327">finales omnium nervos ostendamus.</p>
+      <p id="BERNDEM0328">
+      <pb n="[95]" />IX DE FINALIBUS TONORUM</p>
+      <p id="BERNDEM0329">Quattuor sunt voces, quae vocantur finales,</p>
+      <p id="BERNDEM0330">eo, quod in unaqualibet regulares finiantur cantiones: D. E. F. G.,</p>
+      <p id="BERNDEM0331">id est lichanos hypaton, hypate meson, parhypate meson, lichanos meson.</p>
+      <p id="BERNDEM0332">Quae idcirco ex omnibus electae sunt finales,</p>
+      <p id="BERNDEM0333">quod inter septem discrimina vocum inveniantur sonoriores.</p>
+      <p id="BERNDEM0334">Extra quas,</p>
+      <p id="BERNDEM0335">si vel vetus vel nova cantio finiatur,</p>
+      <p id="BERNDEM0336">irregularis sine dubio iudicetur.</p>
+      <p id="BERNDEM0337">Cantus ergo primi magistri eiusque discipuli in D. finitur;</p>
+      <p id="BERNDEM0338">secundi eiusque discipuli in E.;</p>
+      <p id="BERNDEM0339">tertii eiusque discipuli in F.;</p>
+      <p id="BERNDEM0340">quarti eiusque discipuli in G.</p>
+      <p id="BERNDEM0341">Primum magistrum primum modum appellamus</p>
+      <p id="BERNDEM0342">eiusque discipulum secundum;</p>
+      <p id="BERNDEM0343">secundum magistrum tertium,</p>
+      <p id="BERNDEM0344">eiusque discipulum quartum;</p>
+      <p id="BERNDEM0345">tertium magistrum quintum,</p>
+      <p id="BERNDEM0346">eiusque discipulum sextum;</p>
+      <p id="BERNDEM0347">quartum magistrum septimum,</p>
+      <p id="BERNDEM0348">eiusque discipulum octavum.</p>
+      <p id="BERNDEM0349">Sed quoniam nomina et finales eorum diximus,</p>
+      <p id="BERNDEM0350">intensionis et remissionis limites aperiamus.</p>
+      <p id="BERNDEM0351">
+      <pb n="[103]" />X DE ASCENSIONE VEL REMISSIONE TONORUM</p>
+      <p id="BERNDEM0352">Primus magister ascendit ad P. et descendit ad A.;</p>
+      <p id="BERNDEM0353">eius vero discipulus intenditur ad H. et remittitur ad idem A.</p>
+      <p id="BERNDEM0354">Secundus magister ascendit ad Q. et remittitur ad B.;</p>
+      <p id="BERNDEM0355">eius discipulus intenditur ad N. et remittitur ad idem B.</p>
+      <p id="BERNDEM0356">Tertius magister ascendit ad R. et remittitur ad C.;</p>
+      <p id="BERNDEM0357">eius discipulus intenditur ad O. et descendit ad idem C.</p>
+      <p id="BERNDEM0358">Quartus magister intenditur ad S. et descendit ad D.;</p>
+      <p id="BERNDEM0359">eius discipulus ascendit ad P. et remittitur ad idem D.</p>
+      <p id="BERNDEM0360">Haec est enim intensionis eorum antiqua regula et remissionis,</p>
+      <p id="BERNDEM0361">quod probari potest in multis cantilenis.</p>
+      <p id="BERNDEM0362">Si autem susum vel iusum hos limites excedant,</p>
+      <p id="BERNDEM0363">nemo contendat, quod emendari non debeant.</p>
+      <p id="BERNDEM0364">
+      <pb n="[104]" />Sed iuniores subtilius et acutius diiudicantes,</p>
+      <p id="BERNDEM0365">et certius legaliusque discriminantes:</p>
+      <p id="BERNDEM0366">non ex toto consentiunt (:) nec ex toto dissentiunt.</p>
+      <p id="BERNDEM0367">Aiunt enim:</p>
+      <p id="BERNDEM0368">inter modos esse certas oportere differentias,</p>
+      <p id="BERNDEM0369">ut, cuiuscumque sint, cognoscere possimus cantilenas.</p>
+      <p id="BERNDEM0370">Sed si primus a P. remittatur ad A.,</p>
+      <p id="BERNDEM0371">secundus vero ab M. ad idem descendat A.:</p>
+      <p id="BERNDEM0372">si inter H. et A. cantus non excedens componatur,</p>
+      <p id="BERNDEM0373">et in D. finali utriusque regulariter terminetur,</p>
+      <p id="BERNDEM0374">incertum est, cui potius deputetur.</p>
+      <p id="BERNDEM0375">Pari modo, si tertius a Q. deponatur ad B.,</p>
+      <p id="BERNDEM0376">quartus ab N. ad idem remittatur B.,</p>
+      <p id="BERNDEM0377">cantus, qui intra M. et B. compositus, in E. finitur:</p>
+      <p id="BERNDEM0378">cuius potius duorum sit, incertum habetur.</p>
+      <p id="BERNDEM0379">Idem in ceteris contingit.</p>
+      <p id="BERNDEM0380">Ad quam incertitudinem propulsandam:</p>
+      <p id="BERNDEM0381">iuniorum comprobamus regulam;</p>
+      <p id="BERNDEM0382">|| [f. 54v a in marg.] cuius quoniam est probabilior:</p>
+      <p id="BERNDEM0383">tractatus fiat diligentior.</p>
+      <p id="BERNDEM0384">
+      <pb n="[111]" />XI ITEM DE INTENSIONE VEL REMISSIONE TONORUM SECUNDUM MODERNORUM INVENTIONES</p>
+      <p id="BERNDEM0385">Finales--uti praediximus--serventur,</p>
+      <p id="BERNDEM0386">intensiones vero et remissiones aliquantulum varientur.</p>
+      <p id="BERNDEM0387">Primus modus intenditur ad O.,</p>
+      <p id="BERNDEM0388">raro autem ad P.;</p>
+      <p id="BERNDEM0389">descendit ad C.;</p>
+      <p id="BERNDEM0390">continens (:) quartam inter D. et O. diapason formam,</p>
+      <p id="BERNDEM0391">supra vero et infra chordam.</p>
+      <p id="BERNDEM0392">Secundus modus ascendit ad H.,</p>
+      <p id="BERNDEM0393">raro autem ad M. vel I.;</p>
+      <p id="BERNDEM0394">remittitur ad A.;</p>
+      <p id="BERNDEM0395">possidens (:) primam inter A. et H. diapason speciem,</p>
+      <p id="BERNDEM0396">supra vero rarenter vocem.</p>
+      <p id="BERNDEM0397">Et hi sunt primus magister eiusque discipulus.</p>
+      <p id="BERNDEM0398">Magistri autem cantus incipitur sex nervis, scilicet C. D. E. F. G. H.;</p>
+      <p id="BERNDEM0399">habet vero cola et commata, id est membra et incisiones,</p>
+      <p id="BERNDEM0400">quas distinctiones cantus appellamus, in eisdem.</p>
+      <p id="BERNDEM0401">Cantus discipuli habet principia legalia quattuor: A. B. C. D.,</p>
+      <p id="BERNDEM0402">a multis vero usitata sex,</p>
+      <p id="BERNDEM0403">in quibus etiam cola et commata: A. B. C. D. E. F.</p>
+      <p id="BERNDEM0404">Quod, si primi cantum</p>
+      <p id="BERNDEM0405">C. vel D. vel E. vel F. inceperis,</p>
+      <p id="BERNDEM0406">non minus quam ad N. intendas,</p>
+      <p id="BERNDEM0407">ut, cuius modi sit, ascendendo discernas.</p>
+      <p id="BERNDEM0408">
+      <pb n="[112]" />Si vero secundi cantum in eisdem inceperis,</p>
+      <p id="BERNDEM0409">non minus quam ad B. deponas,</p>
+      <p id="BERNDEM0410">ut, cuius modi sit, demittendo ostendas.</p>
+      <p id="BERNDEM0411">Sed meo quidem iudicio:</p>
+      <p id="BERNDEM0412">quattuor tantum principia (.)</p>
+      <p id="BERNDEM0413">unicuique dabuntur discipulo.</p>
+      <p id="BERNDEM0414">Tertius modus intenditur ad P.,</p>
+      <p id="BERNDEM0415">raro autem ad Q.;</p>
+      <p id="BERNDEM0416">et descendit ad D.</p>
+      <p id="BERNDEM0417">Habet principia cantus et distinctiones sex: D. E. F. G. H. M.;</p>
+      <p id="BERNDEM0418">possidens (:) quintam inter E. et P. diapason speciem,</p>
+      <p id="BERNDEM0419">supra vero et infra vocem.</p>
+      <p id="BERNDEM0420">Quartus modus ascendit ad M.,</p>
+      <p id="BERNDEM0421">raro autem ad N.;</p>
+      <p id="BERNDEM0422">demittitur ad B.;</p>
+      <p id="BERNDEM0423">continens (:) secundam inter B. et M. diapason formam,</p>
+      <p id="BERNDEM0424">supra vero chordam.</p>
+      <p id="BERNDEM0425">Cuius cantus secundum multos sex nervis incipitur,</p>
+      <p id="BERNDEM0426">legaliter vero quattuor: B. C. D. E.,</p>
+      <p id="BERNDEM0427">et sex distinguitur: B. C. D. E. F. G.</p>
+      <p id="BERNDEM0428">Et hi sunt secundus magister eiusque discipulus.</p>
+      <p id="BERNDEM0429">Quod, si magistri cantum D. vel E. inceperis,</p>
+      <p id="BERNDEM0430">non minor quam ad O. sit modus intensionis.</p>
+      <p id="BERNDEM0431">
+      <pb n="[113]" />Si discipuli, non minor quam ad C. depositionis,</p>
+      <p id="BERNDEM0432">ut, cuius modi sit, intendendo vel remittendo discernas.</p>
+      <p id="BERNDEM0433">Quintus modus intenditur ab F. ad Q.,</p>
+      <p id="BERNDEM0434">raro autem ad R.;</p>
+      <p id="BERNDEM0435">continens (:) sextam inter F. et Q. diapason speciem,</p>
+      <p id="BERNDEM0436">supra vero et infra vocem.</p>
+      <p id="BERNDEM0437">Cuius cantus principia et distinctiones sunt sex:</p>
+      <p id="BERNDEM0438">E. F. G. H. M. N.</p>
+      <p id="BERNDEM0439">Sextus modus ascendit a C. ad N.,</p>
+      <p id="BERNDEM0440">rarenter vero ad O.;</p>
+      <p id="BERNDEM0441">possidens (:) tertiam inter C. et N. diapason formam,</p>
+      <p id="BERNDEM0442">supra vero chordam.</p>
+      <p id="BERNDEM0443">Cuius cantus legalia principia sunt quattuor: C. D. E. F.,</p>
+      <p id="BERNDEM0444">distinctiones sex: C. D. E. F. G. H.</p>
+      <p id="BERNDEM0445">Et hi sunt tertius magister eiusque discipulus.</p>
+      <p id="BERNDEM0446">Si magistri cantum E. vel F. inchoaveris,</p>
+      <p id="BERNDEM0447">ad P. sit minimus modus intensionis,</p>
+      <p id="BERNDEM0448">discipuli vero ad D. remissionis,</p>
+      <p id="BERNDEM0449">ut, cui imputari debeat, tali differentia patescat.</p>
+      <p id="BERNDEM0450">Septimus modus intenditur || [f. 54v b in marg.] ab F. ad R.,</p>
+      <p id="BERNDEM0451">raro autem ad S.;</p>
+      <p id="BERNDEM0452">continens (:) septimam inter G. et R. diapason speciem,</p>
+      <p id="BERNDEM0453">supra vero et infra vocem.</p>
+      <p id="BERNDEM0454">
+      <pb n="[114]" />Huius cantus principia et distinctiones sunt sex:</p>
+      <p id="BERNDEM0455">F. G. H. M. N. O.</p>
+      <p id="BERNDEM0456">Octavus modus ascendit a D. ad O.,</p>
+      <p id="BERNDEM0457">raro autem ad P.;</p>
+      <p id="BERNDEM0458">possidens (:) quartam a D. ad O.--secundum primum magistrum--diapason formam,</p>
+      <p id="BERNDEM0459">supra vero chordam.</p>
+      <p id="BERNDEM0460">Hunc enim Ptolemaeus annexuit:</p>
+      <p id="BERNDEM0461">Et quia diapason octava specie caret,</p>
+      <p id="BERNDEM0462">quartam ut primus obtinuit:</p>
+      <p id="BERNDEM0463">qui quamvis eandem teneat speciem,</p>
+      <p id="BERNDEM0464">diversam tamen habet finalem,</p>
+      <p id="BERNDEM0465">et non eandem ad C. remissionem.</p>
+      <p id="BERNDEM0466">Huius cantus initia, ut aliorum discipulorum, legalia sunt quattuor: D. E. F. G.,</p>
+      <p id="BERNDEM0467">distinctiones sex: D. E. F. G. H. M. vel I.</p>
+      <p id="BERNDEM0468">Et hi sunt quartus magister eiusque discipulus.</p>
+      <p id="BERNDEM0469">Si magistri cantum F. vel G. inchoaveris,</p>
+      <p id="BERNDEM0470">ad Q. sit minimus modus intensionis,</p>
+      <p id="BERNDEM0471">discipuli vero--causa supradictae differentiae--ad E. remissionis.</p>
+      <p id="BERNDEM0472">
+      <pb n="[116]" />[EPILOGUS]</p>
+      <p id="BERNDEM0473">Ecce igitur, brevius et simplicius:</p>
+      <p id="BERNDEM0474">et monochordi dimensionem,</p>
+      <p id="BERNDEM0475">et chordarum seu tetrachordorum nomina et positionem;</p>
+      <p id="BERNDEM0476">et consonantiarum vocabula et rationem,</p>
+      <p id="BERNDEM0477">et in his octo modorum disparem ordinationem;</p>
+      <p id="BERNDEM0478">et cantus eorum initia et finem,</p>
+      <p id="BERNDEM0479">et distinctionum claram diffinitionem;</p>
+      <p id="BERNDEM0480">et intensionis progressionem,</p>
+      <p id="BERNDEM0481">et remissionis aperui dispositionem.</p>
+      <p id="BERNDEM0482">[FINIS OPERIS]</p>
+      <p id="BERNDEM0483">
+      <pb n="[118]" />XII RECAPITULATIO OPERUM</p>
+      <p id="BERNDEM0484">Regulare monochordum secundum Musicam Boethii .XV. vel potius .XVI. divisionibus, quasi totidem chordis distinguitur. Quarum videlicet chordarum prius, si placet, nomina singulis per ordinem alphabeti litteris annotentur, ut postmodum mensura compendiosius dicatur ad hunc modum:</p>
+      <p class="textFig" id="BERNDEM0485">
+      <lb />A.&#160;proslambanomenos,&#160;acquisitus
+      <br />&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;tonus
+      <lb />B.&#160;hypate&#160;hypaton,&#160;princeps&#160;principalium
+      <br />&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;semitonium
+      <lb />C.&#160;parhypate&#160;hypaton,&#160;prope&#160;principem&#160;principalium
+      <br />&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;tonus
+      <lb />D.&#160;lichanos&#160;hypaton,&#160;index&#160;principalium
+      <br />&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;tonus
+      <lb />E.&#160;hypate&#160;meson,&#160;princeps&#160;mediorum
+      <br />&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;semitonium
+      <lb />F.&#160;parhypate&#160;meson,&#160;prope&#160;principem&#160;mediorum
+      <br />&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;tonus
+      <lb />G.&#160;lichanos&#160;meson,&#160;index&#160;mediorum
+      <br />&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;tonus
+      <lb />H.&#160;mese,&#160;medium
+      <br />&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;tonus&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;semitonium
+      <lb />I.&#160;paramese,&#160;prope&#160;medium&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;SM.&#160;trite&#160;synemmenon,&#160;tertia&#160;coniunctorum
+      <br />&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;semitonium
+      <lb />K.&#160;trite&#160;diezeugmenon,&#160;tertia&#160;disiunctorum,
+      <br />vel&#160;paranete&#160;synemmenon,&#160;prope&#160;ultimam&#160;coniunctorum
+      <lb />&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;tonus
+      <br />L.&#160;paranete&#160;diezeugmenon,&#160;prope&#160;ultimam&#160;disiunctorum,
+      <lb />vel&#160;nete&#160;synemmenon,&#160;id&#160;est&#160;(ultima)&#160;coniunctorum
+      <br />&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;tonus
+      <lb />M.&#160;nete&#160;diezeugmenon,&#160;ultima&#160;disiunctorum
+      <br />&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;semitonium
+      <lb />N.&#160;trite&#160;hyperboleon,&#160;tertia&#160;excellentium
+      <br />&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;tonus
+      <lb />O.&#160;paranete&#160;hyperboleon,&#160;prope&#160;ultimam&#160;excellentium
+      <br />&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;tonus
+      <lb />P.&#160;nete&#160;hyperboleon,&#160;ultima&#160;excellentium
+      <br />&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;semitonium
+      <lb /></p>
+      <p id="BERNDEM0486">
+      <pb n="[119]" />Harum autem chordarum commensurationem hoc modo discernimus: Si totius monochordi inter finales magadas longitudo A.-Z., hanc in quattuor aequa divido, et haec quinque puncta, ubi circinus metiens steterit, praescriptis his litteris signo: A.D.H.P.Z.</p>
+      <p id="BERNDEM0487">Deinde quartam illam partem, quae || [f. 55r a in marg.] ad dexteram dividenti occurrit, id est P.-Z., in octo aequa divido, et nonam partem adiciens tonum habeo, ibique O. pono. Ad quem rursus locum, id est a Z. ad O., in octo dividens et nonam adiciens secundum tonum invenio, quem locum N. littera signo. Exin priorem quartam partem, id est P.-Z., in tria divido, et quarta parte adiecta M. locum invenio, sicque inter M. et N. semitonium habeo. Huc usque, id est a P. ad M., erit diatessaron consonantia et tetrachordum hyperboleon constans tono, tono et semitonio.</p>
+      <p id="BERNDEM0488">Quod deinde sequitur, L. sive per octavam partem M.-Z. adiecta nona, sive per tertiam O.-Z. adiecta quarta, seu per duo P.-Z. adiecta tertia invenio; et huc usque, a P. scilicet ad L., diapente erit symphonia constans duobus tonis, semitonio et tono. Rursum, quod sequitur, K. sive per octavam L.-Z., sive per tertiam N.-Z., seu per duo O.-Z. invenietur. Sequens autem I. per tertiam M.-Z. adiecta quarta erit metiendum. Huc usque, ab M. scilicet ad I., diezeugmenon tetrachordum pertingit constans item, ut et hyperboleon, tono, tono et semitonio. Restat tonus usque ad medietatem totius monochordi, quam dudum H. littera signavi. Et huc usque diapason pertingit consonantia constans ex diatessaron et diapente, id est quinque tonis et duobus semitoniis. Sed hoc in loco, id est ab I. ad H., synemmenon tetrachordum erit innectendum, cuius prima chorda ipsa est I., secunda ipsa est K.; tertia(m) vero--id est S., quae intermisso I. a K. tono et a H. semitonio distare debet--sive per octavam K.-Z. addita nona, sive per duo N.-Z. addita tertia metibor (!). Mox G., quod post H. metiendum erit, vel per octavam H.-Z., vel per tertiam K.-Z., vel per duo I.-Z., vel per duplicationem O.-Z. assignabor (!). Item sequens F. per octavam G.-Z., vel per tertiam S.-Z., vel per duo K.-Z., vel per duplicationem N.-Z. Post vero E. vel per tertiam N.-Z., vel per duo I.-Z., vel per duplicationem M.-Z. colloco. Et huc usque tetrachordum meson a H. ad E. pertinet constans item tono, tono et semitonio.</p>
+      <p id="BERNDEM0489">Sequitur exinde D., quod in quarta portione totius monochordi in primis notavi. Post hinc autem C. vel per octavam D.-Z., vel per tertiam F.-Z., vel per duo G.-Z., vel per duplicationem K.-Z. mensurandum est. B. autem, quod ad signandum restat, sive per tertiam E.-Z., sive per duplicationem I.-Z. colloco; et hoc loco quintum tetrachordum hypaton terminatur ab E. ad B. constans, ut priora, tono, tono et semitono. Restat adhuc tonus a B. ad A. totius monochordi mensuram in bisdiapason rite consummans. Et haec est mensura diatonici generis, in quo omnis legitimus nostri temporis cantus absque omni dissonantia discurrit.</p>
+      <p id="BERNDEM0490">EXPLICIT MUSICA DOMNI ABBATIS BERN</p>
+    </body>
+  </text>
+</TEI>

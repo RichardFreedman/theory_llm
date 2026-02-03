@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>De proportionibus</title>
+        <title type="abbrev">ANODEP_MBAVB307</title>
+        <author>Anonymous</author>
+        <date notBefore="1300" notAfter="1399">14th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>T</resp>
+        <persName>Oliver B. Ellsworth</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Andreas Giger</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1999</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Vatican City, Biblioteca Apostolica Vaticana, MS Barb. lat. 307, f. 31r–v.
+</bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANODEP_MBAVB3070001">
+      <pb n="[f.31r]" />INcipiunt Capitula de proporcionibus in primis uidendum est de tono et quare dicitur tonus et in quo proporcione consistit et quare dicitur sexquioctaua.</p>
+      <p id="ANODEP_MBAVB3070002">SExquioctaua proporcio est quando maior numerus continet totum minorem numerum in se et eius octauam partem ut sunt .9. ad .8. per arsim .8. ad .9. per tesim et sic in infinitum numerum. Et in hac quidem proporcio ponitur tonus. Nam hic tonus diastema. throchea. Emelis. Cola. Epogdous et sexquioctaua uocatur. Tonus uero a tonando. Diastema duo soni simul stantes. Emelis actus melo. Cola id est membrum. Epogdous. superoctonarium. Sexquioctauus autem dimidium. Est autem octonarius dimidium 16 numeri. Cui si aditur eius octaua pars dicitur sexquioctaua proporcio. Boecius.</p>
+      <p id="ANODEP_MBAVB3070003">De diatessaron.</p>
+      <p id="ANODEP_MBAVB3070004">SExquitercia proporcio est quando maior numerus continet totum minorem numerum in se et eius terciam partem. habet enim quaternarius ternarium in se et eius terciam partem ut .4. ad .3. et sic in infinitum numerum. Et in hac proporcione ponitur ea consonancia que uocatur diatessaron et Epitrita. et Sostema et Sexquitercia. Remigius.</p>
+      <p id="ANODEP_MBAVB3070005">DIatessaron id est ex 4. Quia si duos tonos diuiseris cum semitono habebis quatuor addis sonos quatuor id est quatuor cordas et spatia tria id est interualla que inter cordas fiunt et producciones duas et dimidiam id est duos tonos et semitonum. Nam produccio et incepcio unum est semitonus uero medium produccionis est. Remigius.</p>
+      <p id="ANODEP_MBAVB3070006">ESt autem diatessaron decem deseon id est quatuor partium id est si quinque emitonia habet decem quartarum partium est. hec autem simphonia in epitrita racione est id est in sexquitercia sicut 4 ad 3 id est inter primam et ultimam. Vltima enim habet totam primam in se et eius tertiam partem que est unus. Boecius.</p>
+      <p id="ANODEP_MBAVB3070007">SExquialtera proporcio est quando maior numerus continet totum minorem numerum in se et eius medietatem ut sunt .3. ad .2. et sic in infinitum numerum. Et in hac quidem proporcione ponitur ea consonantia que uocatur diapente Emiolia sescupla sexquialtera et sostema.</p>
+      <p id="ANODEP_MBAVB3070008">De diapason.</p>
+      <p id="ANODEP_MBAVB3070009">DVpla proporcio est quando maior numerus continebit minorem numerum in se ut .2. ad .1. habet enim binarius bis .1. in se ut .2. ad .1. et sic in infinitum numerum. Et in hac quidem proporcione ponitur ea consonantia que dicitur diapason. Remigius.</p>
+      <p id="ANODEP_MBAVB3070010">PLenitudo musice in diapason continetur quia ex diatessaron et diapente componitur que sunt elementa tocius armonie et est plenus uniuerse forme sonorum.</p>
+      <p id="ANODEP_MBAVB3070011">DVpla superbipartiens proporcio est quando maior numerus bis continet minorem numerum in se insuper et duas eius partes ut .8. ad .3. habent enim .8. bis ternarium in se. duasque eius partes id est duas unitates. Et in hac quidem proporcione ponitur ea consonancia que nuncupatur diapason diatessaron Quamquam enim Phictagorici negent hanc consonanciam esse tamen ex uno doctore Boecio Ptolomei sentenciam super hoc approbante fatemur consonanciam esse. Maxime quoniam diapason consonancia talis est quod aliam quam susceperit consonanciam seruat nec immutat nec ex consona dissonam reddit.</p>
+      <p id="ANODEP_MBAVB3070012">TRipla proporcio est quando maior numerus ter continet minorem numerum in se ut .3. ad .1. et sic in infinitum numerum. Et in [hac quidem in marg.] proporcione ponitur ea consonancia que nuncupatur diapason diapente</p>
+      <p id="ANODEP_MBAVB3070013">De bis diapason</p>
+      <p id="ANODEP_MBAVB3070014">QVadrupla proporcio est quando maior numerus quater continet minorem numerum in se ut .4. ad .1. et sic in infinitum numerum et in hac quidem proporcione ponitur ea consonantia que cui uocabulum est bis diapason</p>
+      <p id="ANODEP_MBAVB3070015">Omnis tonus et semitonus et diesin in musica in gramatica nuncupatur cola et coma et diesin.</p>
+      <p id="ANODEP_MBAVB3070016">Omnis tonus et semitonus in arithmetrica epogdous et sexquioctauus uocatur. Semitonus uero sexquisextusdecimus. diesin autem sexquiseptimusdecimus dicuntur.</p>
+      <p id="ANODEP_MBAVB3070017">Omnis ditonus in uno interuallo positus siue per arsim seu per thesim dialecticum genus est diuisus uero in tono et tono rectoricum genus est.</p>
+      <p id="ANODEP_MBAVB3070018">De astronomia</p>
+      <p id="ANODEP_MBAVB3070019">SIcud enim sunt septem uoces in musica de quibus omnis cantus componitur. ita eciam sunt in celo septem circuli celorum qui omnis dant dulcissimum cantum armonie ut auctores referunt Sic itaque plena descripcio de omnibus circulis celorum cum musica artificiali hoc modo. Ysidorus.</p>
+      <p id="ANODEP_MBAVB3070020">Septem enim sunt sciencie septem planeta et septem circuli celorum</p>
+      <p id="ANODEP_MBAVB3070021">SEptem enim liberales artes sunt in genio et studio philosophorum inuente. quarum prima musica est Nam ideo quod antequam lictere uel artes inuenta 
+      <pb n="[f.31v]" />essent suum cepit habere exordium sicut in Genesi libro legitur de Tubal qui fuit pater canentium cithara et organo quia nichil enim sine illa.</p>
+      <p id="ANODEP_MBAVB3070022">SEcunda gramatica est Nam gramatica grece latine lictera inde gramatica dicta est a licteris id est ars lictera et sciencia recte loquendi et scribendi.</p>
+      <p id="ANODEP_MBAVB3070023">Tercia dialetica que est sciencia recte disputandi inter uerum et falsum.</p>
+      <p id="ANODEP_MBAVB3070024">QVarta est recthorica que est sciencia recte iudicandi quod disputatum est Isidorus dixit et recte hoc constat</p>
+      <p id="ANODEP_MBAVB3070025">QVinta arithmetrica que est disciplina numerorum. Greci enim numerus Ricthmon uocant</p>
+      <p id="ANODEP_MBAVB3070026">SExta est geometria que loquitur de mensuris. Septima est astronomia que loquitur de celo et planetis celi et cursu stellarum. Ieronimus Circuli celorum nomina hec sunt. Luna. Mercurius Venus Sol Mars. Iouis Saturnus Terra spera celestis.</p>
+    </body>
+  </text>
+</TEI>

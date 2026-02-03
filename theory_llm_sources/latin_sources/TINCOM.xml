@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Complexus effectuum musices</title>
+        <title type="abbrev">TINCOM</title>
+        <author>Tinctoris, Johannes</author>
+        <date notBefore="1400" notAfter="1499">15th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Stephen E. Hayes</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Peter M. Lefferts</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Jan Herlinger</persName>
+      </respStmt>
+      <date>1992</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>Johannis Tinctoris Opera theoretica</emph>, ed. Albert Seay, 3 vols. in 2, Corpus scriptorum de musica, vol. 22 ([Rome]: American Institute of Musicology, 1975-78), 2:165–77. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Iohannes Tinctoris: Complexus effectuum musices</title>
+          
+<idno type="LML">IOH. TINCT. eff.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">B-Br II 4147, 125-126v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Gu 70 (71), 74-77v</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="TINCOM0001">
+      <pb n="[165]" />Complexus effectuum musices</p>
+      <p id="TINCOM0002">Editus a Magistro Johanne Tinctoris in legibus licientato Regisque Siciliae Capellano</p>
+      <p id="TINCOM0003">Prologus</p>
+      <p id="TINCOM0004">Illustrissimae dominae Beatrici de Aragonia, Regis Siciliae, Jherusalem et Ungariae probissimae filiae, Johannes Tinctoris inter legum artiumque mathematicarum professores minimus immortalem servitutem. Scienti mihi, beatissima Beatrix, quam ardenti quamque vehementi studio ingenue arti musices operam impendas occurrit quosdam ingentes effectus ipsius compendiose tuae celsitudini exponere. Quibus licet animum tuum instar illius a quo caelestem duxit originem, arbitror constantissimum exciteris numquam abs tam insigni opera desistere. Quodquidem agressus ego sum non minus amore tui quam artis inductus. Enim vero ut quam gratissimum mihi est musicen cui me ab ineunte aetate dedidi studio tum illustris tam prudentis tamque formosae dominae, regis filiae gloriossimam fore, sic et beneficio ipsius artis quam caeterarum potentissimam Plato, pulcherrimam Quintilianus, divinamque scientiam Augustinus asserit, tuum semper animum ab omni dolore purificatissimum expeto. Neque me credas velim omnes effectus ipsius liberalis ac honestae musices, sic eam Aristoteles vocat hoc in opusculo, complecti verum tantummodo viginti, ut sunt:</p>
+      <p id="TINCOM0005">Deum delectare,</p>
+      <p id="TINCOM0006">Dei laudes decorare,</p>
+      <p id="TINCOM0007">Gaudia beatorum amplificare,</p>
+      <p id="TINCOM0008">Ecclesiam militantem triumphanti assimilare,</p>
+      <p id="TINCOM0009">Ad susceptionem benedictionis divinae praeparare,</p>
+      <p id="TINCOM0010">Animus ad pietatem excitare,</p>
+      <p id="TINCOM0011">Tristitiam depellere,</p>
+      <p id="TINCOM0012">Duritiam cordis resolvere,</p>
+      <p id="TINCOM0013">
+      <pb n="[166]" />Diabolum fugare,</p>
+      <p id="TINCOM0014">Extasim causare,</p>
+      <p id="TINCOM0015">Terrenam mentem elevare,</p>
+      <p id="TINCOM0016">Voluntatem malam revocare,</p>
+      <p id="TINCOM0017">Homines laetificare,</p>
+      <p id="TINCOM0018">Aegrotos sanare,</p>
+      <p id="TINCOM0019">Labores temperare,</p>
+      <p id="TINCOM0020">Animos ad praelium incitare,</p>
+      <p id="TINCOM0021">Amorem allicere,</p>
+      <p id="TINCOM0022">Iocunditatem convivii augmentare,</p>
+      <p id="TINCOM0023">Peritos in ea glorificare,</p>
+      <p id="TINCOM0024">Animas beatificare.</p>
+      <p id="TINCOM0025">Quosquidem admirabiles et ut dicam divinos effectus tum rationibus, tum auctoritatibus sacris, tum philosophorum, historicorum ac poetarum dictis quae, Cicerone teste, peti solent ad faciendam fidem, comprobare decrevi ac ordine debito de quolibet ut liquidius pateant disserere institui.</p>
+      <p id="TINCOM0026">Et huic licet editioni, eo quod ardua sit, tum theologiam, tum philosophiam, tum poesim concernens ingenuum cantoris impar agnoscas. Haud me vitii praesumptionis profecto accusabis si non ignores in ardua tendere proprium esse virtutis.</p>
+      <p id="TINCOM0027">Capitulum I--De primo effectu musicae</p>
+      <p id="TINCOM0028">Effectus primus est iste: Musica Deum delectat.</p>
+      <p id="TINCOM0029">Proprium etenim est cuiuslibet artificis suo delectari artificio maxime cum id perfectum fuerit. Unde cum Deus qui opus imperfectionis non novit, ut habetur in capitulo Maiores de baptismo, et eius effectu extra in antiquis hanc artem perfectissimam operatus fuerit, tenendum est quod ab ea prae caeteris delectatur. Hinc a dilectissima sua sponsa quam fideles ecclesiam credunt, optat dulcedinem vocis audire quam sola musica efficere potest. Quippe per Salomonem, Canticorum secundo capitulo, sic illam alloquitur: "Sonet vox tua dulcis in auribus meis." Et sequitur: "Vox" enim "tua dulcis," quasi dicat 
+      <pb n="[167]" />eo quod "vox tua dulcis," id est, melodiosa sit, opto "ut sonet in auribus meis." Neque vocis dulcedinem audire Deus optaret, si eum quovis modo non delectaret.</p>
+      <p id="TINCOM0030">Capitulum II--De secundo effectu</p>
+      <p id="TINCOM0031">Sequitur secundus effectus: Musica laudes Dei decorat.</p>
+      <p id="TINCOM0032">Hinc in ecclesia triumphanti perpetuis Dei laudibus insistentes eas quo magis decorentur cantare dicuntur. Unde Johannes in Apocalypso, capitulo [18o], refert vocem cantantium, quasi canticum novum ante sedem Dei fuisse sicut cytharoedorum cytharisantium in cytharis suis. Hinc Vergilius fingit eos qui erant in campo Heliseo laudes Apollonis sapientiae dei canere, nam in sexto libro Aeneidos, de Aenea, qui cum sibilla in illum locum devenerat, ita dicit:</p>
+      <p id="TINCOM0033">"Conspicit, ecce, alios dextra laevaque per herbam</p>
+      <p id="TINCOM0034">[Vescentis] laetumque choro paeana [canentis]."</p>
+      <p id="TINCOM0035">Sacerdotes etiam sub Evandro more Archadico deo Herculi laudes in decorem canebant. De quo idem Vergilius in octavo sic inquit:</p>
+      <p id="TINCOM0036">"[Tum] Salii ad cantus incensa altaria circum</p>
+      <p id="TINCOM0037">Populeis adsunt evincti tempora ramis,</p>
+      <p id="TINCOM0038">Hic iuvenum chorus, ille senum, qui carmine laudes</p>
+      <p id="TINCOM0039">Herculeas et facta ferunt."</p>
+      <p id="TINCOM0040">Numa Pompilius sacrorum Romanorum piissimus institutor voluit Salios laudes deorum musicis decorare versibus. Unde Quintilianus, libro primo Institutionum oratoriarum: "Versus quoque Saliorum carmen habent." Sed haec ad falsam religionem pertinent. Rex autem David verae religionis cultor Dei laudes decorari cupiens, cantores instituit qui coram archa foederis illas decantarent. De quo Ecclesiastici, capitulo 47o: "Stare fecit cantores iuxta altare et in sono eorum dulces fecit modulos." Hinc ille ab omnibus variis instrumentis musicis Dei laudes decorari expetens. Postquam dixit in Psalmo 
+      <pb n="[168]" />CXLVIo: "Deo nostro sit iocunda decoraque laudatio." Subiungit in ultimo: "Laudate eum in sono tubae; laudate eum in psalterio et cythara; laudate eum in tympano et choro; laudate eum in cordis et organo; laudate eum in cymbalis bene sonantibus; laudate eum in cymbalis iubilationis; omnis spiritus laudet Dominum."</p>
+      <p id="TINCOM0041">Instar cuius regiae institutionis Ambrosius primum in ecclesia militanti laudes Dei musica decorari ordinavit. Quo effectum est ut hac tempestate praestantissimi inveniantur cantores Dei laudibus accuratissime vacantes. Quorumquidem cantorum tanto praestantius est officium, quantum Deus cui cantando devote serviunt rebus caeteris praestat.</p>
+      <p id="TINCOM0042">Capitulum III--De tertio effectu</p>
+      <p id="TINCOM0043">Tertius effectus est: Musica gaudia beatorum amplificat.</p>
+      <p id="TINCOM0044">Credimus enim beatitudinem esse statum omnium bonorum aggregatione perfectum quam si beati sint assequuti, delectabilissima quae bona sunt eis deesse non possunt. Unde cum, ut inquit philosophus in octavo Politicorum: "Musica sit delectabilissimorum quod musicalium concordiarum dulcedo gaudia eorum amplificet ratione concludimus." Hinc quoniam felicitatem animorum beatorum instrumenta musica significant, ut patet per Ovidium in quarto Metamorphoseos ita dicentem:</p>
+      <p id="TINCOM0045">"... lyraeque</p>
+      <p id="TINCOM0046">tibiaeque et cantus, animi felicia laeti</p>
+      <p id="TINCOM0047">argumenta, sonant ..."</p>
+      <p id="TINCOM0048">Pictores etiam quando beatorum gaudia designare volunt, angelos diversa instrumenta musica concrepantes depingunt, quodquidem ecclesia non permitteret nisi gaudia beatorum musica amplificari crederet. Nec extra propositum Vergilius gaudiis camporum Heliseorum quae amoena vireta locos laetos fortunata nemora sedesque beatas appellat; musicam interesse finxit. Unde 
+      <pb n="[169]" />in sexto libro Aeneidos, de hiis qui in illis campis congaudebant, haec ait:</p>
+      <p id="TINCOM0049">"Pars pedibus plaudunt choreas et carmina dicunt.</p>
+      <p id="TINCOM0050">Nec non Threicius [longa cum] veste sacerdos</p>
+      <p id="TINCOM0051">Obloquitur numeris septem discrimina vocum,</p>
+      <p id="TINCOM0052">Iamque eadem digitis, iam pectine pulsat eburno."</p>
+      <p id="TINCOM0053">Capitulum IV--De quarto effectu</p>
+      <p id="TINCOM0054">Quartus effectus est: Musica ecclesiam militantem triumphati assimilat.</p>
+      <p id="TINCOM0055">Unde Bernardus Super cantica: "Nihil in terris ita repraesentat quendam caelestis habitationis statum, sicut alacritas laudantium Deum." Pro quo facit Augustinus ita dicens in capitulo 14o decimiseptimi libri De civitate Dei: "Diversorum [enim] sonorum rationabilis moderatusque concentus concordi varietate compactam bene ordinatae civitatis Dei insinuat unitatem."</p>
+      <p id="TINCOM0056">Capitulum V--De quinto effectu</p>
+      <p id="TINCOM0057">Quintus effectus est: Musica ad susceptionem benedictionis Domini praeparat.</p>
+      <p id="TINCOM0058">Unde quarti Regum, tertio capitulo: "Dum caneret psaltes, facta est super Heliseum manus Domini."</p>
+      <p id="TINCOM0059">Capitulum VI--De sexto effectu</p>
+      <p id="TINCOM0060">Sextus effectus est: Musica animos ad pietatem excitat.</p>
+      <p id="TINCOM0061">Unde Augustinus in libro 10o Confessionum: "Adducor ... cantandi consuetudinem 
+      <pb n="[170]" />approbare in ecclesia, ut per oblectamenta aurium animus infirmior ad effectum pietatis adsurgat."</p>
+      <p id="TINCOM0062">Capitulum VII--De septimo effectu</p>
+      <p id="TINCOM0063">Septimus effectus est: Musica tristitiam depellit.</p>
+      <p id="TINCOM0064">Unde Jacobi capitulo quinto: "Tristatur aliquis vestrum? oret. Aequo animo [est]? psallat." Hinc de Polyphemo Vergilius in tertio libro Aeneidos ait</p>
+      <p id="TINCOM0065">"Solamenque mali de collo fistula pendet."</p>
+      <p id="TINCOM0066">Et quoniam in amore plurimum tristitiae accidit, hanc musica quodam innato solamen depellere solet. Unde idem Vergilius de Orpheo tristi propter absentiam Euridicis quam flagranter amabat, proprio instrumento se consolante in quarto libro Georgicorum sic inquit:</p>
+      <p id="TINCOM0067">"Ipse cava solans aegrum testudine amorem</p>
+      <p id="TINCOM0068">Te, dulcis coniunx, te solo in litore secum,</p>
+      <p id="TINCOM0069">Te veniente die, te decendente canebat."</p>
+      <p id="TINCOM0070">Capitulum VIII--De octavo effectu</p>
+      <p id="TINCOM0071">Octavus effectus est: Musica duritiam cordis resolvit.</p>
+      <p id="TINCOM0072">Unde Augustinus in libro nono Confessionum: "Flevi in hymnis et canticis tuis, suave sonantis ecclesiae tuae vocibus commotus acriter." Hinc eo quod populus Iudaicus durae cervicis erat Domino, teste Exodi XXXIIo capitulo, multorum instrumentorum musicorum usus erat ei necessarius quibus cordium suorum duritia resolveretur, ut patet per Sanctum Thomam in secunda secundae, questione 91a, articulo secundo. Et Orpheum eo quod musica modulatione duritiam rudium et agrestium animorum resolveret: "Non feras modo 
+      <pb n="[171]" />sed saxa etiam silvasque duxisse posteritatis memoria traditum est." Haec Quintilianus in libro primo Institutionum oratoriarum. Simile cuius Amphyon fecisse dicitur, de quo Horatius in suis Odis:</p>
+      <p id="TINCOM0073">"Movit Amphyon lapides canendo."</p>
+      <p id="TINCOM0074">Et Statius, libro primo Theobaidos:</p>
+      <p id="TINCOM0075">"... quo carmine maris</p>
+      <p id="TINCOM0076">Iusserit Amphyon Tyrios accedere [montis]."</p>
+      <p id="TINCOM0077">Immo poetae ad ostendendum maiorem efficaciam musicae circa duritiam cordis resolvendam fingunt ipsum Orpheum et manes et iudices et monstra inferorum suo cantu movisse. De quo Vergilius in quarto Georgicorum haec dicit:</p>
+      <p id="TINCOM0078">"Taenarias etiam fauces, alto ostia Ditis,</p>
+      <p id="TINCOM0079">Et caligantem nigra formidine lucum</p>
+      <p id="TINCOM0080">Ingressus, [manisque] adiit regemque tremendum</p>
+      <p id="TINCOM0081">Nesciaque humanis precibus mansuescere corda.</p>
+      <p id="TINCOM0082">[At] cantu commotae Erebi de sedibus imis</p>
+      <p id="TINCOM0083">Umbrae ibant tenues simulacraque luce carentum."</p>
+      <p id="TINCOM0084">Et paulo post sequitur:</p>
+      <p id="TINCOM0085">"Quin ipsae stupuere domus atque intima Leti</p>
+      <p id="TINCOM0086">Tartara caeruleosque [implexae] crinibus [anguis]</p>
+      <p id="TINCOM0087">Eumenides, tenuitque inhians tria Cerberus ora,</p>
+      <p id="TINCOM0088">Atque Ixionii vento rota constitit orbis."</p>
+      <p id="TINCOM0089">Capitulum IX--De nono effectu</p>
+      <p id="TINCOM0090">Nonus effectus est: Musica diabolum fugat.</p>
+      <p id="TINCOM0091">Unde primi Regum, capitulo 16o: "David tollebat cytharam et psallebat manu sua; refocillabaturque Saul et levius habebat, recedebatque ab eo spiritus malus." Super quod Rhetor quidam hos versus edidit:</p>
+      <p id="TINCOM0092">"Rex David in Saule sedavit demonis iram</p>
+      <p id="TINCOM0093">Ostendens cytharae virtutem carmine miram."</p>
+      <p id="TINCOM0094">
+      <pb n="[172]" />[Capitulum X--De decimo effectu]</p>
+      <p id="TINCOM0095">Decimus effectus est: Musica extasim causat.</p>
+      <p id="TINCOM0096">Unde postquam David in Psalmo LXVIIo cecinit: "Praevenerunt principes coniuncti psallentibus, in medio iuvencularum tympanistriarum." Et paulo post subdidit: "Ibi Beniamin adolescentulus in mentis excessu." [Profecit] illud philosophus in octavo Politicorum: "Melodiae Olympi faciunt animas raptas." Ad cuius confirmationem referente Quintiliano in primo Institutionum oratoriarum ponitur: "Tibicen, qui sacrificanti Phrygium cecinerat, acto illo in insaniam et per praecipicia delato accusari, quod causa mortis extiterunt."</p>
+      <p id="TINCOM0097">[Capitulum XI--De undecimo effectu]</p>
+      <p id="TINCOM0098">Undecimus effectus est: Musica terrenam mentem elevat.</p>
+      <p id="TINCOM0099">Unde Bernardus Super cantica: "Oculos cordis attollit iubilus laudis." Armoniae quidem dulcedine movet mens ad contemplationem gaudiorum supernorum quae septima pars est vitae melioris. Et hinc deficit a cogitatione terrenorum quae ad actionem vitae pertinens sollicitudinem ac turbationem inducit.</p>
+      <p id="TINCOM0100">[Capitulum XII--De duodecimo effectu]</p>
+      <p id="TINCOM0101">Duodecimus effectus est: Musica voluntatem malam revocat.</p>
+      <p id="TINCOM0102">Nam ut Cicero dicit in libro De conciliis refertque Quintilianus in libro primo Institutionum oratoriarum: "Concitatos ad vim pudicae [domui afferendam] iuvenes, mutare iussa in spondeum modos tibicina Pictagoras composuit."</p>
+      <p id="TINCOM0103">[Capitulum XIII--De tertio decimo effectu]</p>
+      <p id="TINCOM0104">Tertius decimus effectus: Musica homines laetificat.</p>
+      <p id="TINCOM0105">Namque prout refert Aristoteles in octavo Politicorum: "Museus ait esse 
+      <pb n="[173]" />hominibus delectabilissimum cantare," propter quod in conventus et deductiones rationabiliter assumunt ipsum tamquam potentem laetificare, et laetificat alios quidem plus et alios minus. Namque quanto plus in hac arte perfectus est, tanto plus ab ea delectatur, eo quod naturam ipsius et interius et exterius apprehendat. Interius quidem virtute intellectiva, qua intelligit debitam compositionem ac pronuntiationem, et exterius potentia auditiva, qua percipit concordantiarum dulcedinem.</p>
+      <p id="TINCOM0106">Tales autem sunt solum qui de musicae vere iudicare delectarique possunt, propter quod philosophus in octavo Politicorum consulit iuvenibus operam dare musicae, ut non tantum sono per se sive per alium delectentur. Sed senes etiam effecti dimissis operibus de ea recte possint iudicare. Musica vero minus illos laetificat qui nihil ex ea penitus quam sonum percipiunt, extrinseco etenim sensu tantummodo delectantur. Afficiuntur adeo tamen tali sono, quod iuxta Iuvenalem "currentes ad vocem iocundam," eos qui voce delectabili sicut opinantur canunt, licet rudissime pronuntient, tamquam optimos musicos praedicant et extollunt.</p>
+      <p id="TINCOM0107">Neque miror cum Vergilium cecinisse Bucolicorum, egloga secunda, legerim: "Trahit sua quemque voluptas." Perfectio igitur delectationis musicae consistit in eius perfecta conditione. Unde Aristoteles in octavo Politicorum ponit ad propositum quod imperfecto, supple in apprehensione, ipsius artis musicae non convenit finis, id est, perfectio eius delectationis.</p>
+      <p id="TINCOM0108">[Capitulum XIV--De quarto decimo effectu]</p>
+      <p id="TINCOM0109">Quartus decimus effectus: Musica aegrotos sanat.</p>
+      <p id="TINCOM0110">Unde refert Isidorus quarto libro Etymologiarum quod Asclepiades medicus quendam freneticum arte modulationis pristine restituit sanitati. Hinc dicit idem auctor eminentissimus musicam fore medico necessariam. Quod satis probabile videtur ex dictis Avicennae et Galieni, quorum primus ait: "Debes autem scire quod in pulsu reperitur natura musicae." Et alter: "Cum natura proportionum musicalium mihi nota fuit, tunc ianuae pulsus mihi apertae fuerunt."</p>
+      <p id="TINCOM0111">
+      <pb n="[174]" />[Capitulum XV--De quinto decimo effectu]</p>
+      <p id="TINCOM0112">Quintus decimus effectus: Musica labores temperat.</p>
+      <p id="TINCOM0113">Nam ut habet Quintilianus in primo libro Institutionum oratoriarum: "Natura ipsa videtur nobis musicam ad tolerandos facilius labores dedisse." Siquidem remiges cantus hortantur, pro quo facit illud Vergilii Bucolicorum, egloga nona: "Cantantes licet usque (minus via laedit) eamus." Et in primo libro Georgicorum:</p>
+      <p id="TINCOM0114">"Interea longum cantu solata laborem</p>
+      <p id="TINCOM0115">Arguto coniunx percurrit pectine telas."</p>
+      <p id="TINCOM0116">[Capitulum XVI--De sexto decimo effectu]</p>
+      <p id="TINCOM0117">Sextus decimus effectus: Musica animos ad praelium incitat.</p>
+      <p id="TINCOM0118">Hinc habetur de Miseno quod in obsidione Troiana cum Hectore praestantissime lituo praelium accendebat. Quod cum ipse Misenus Hectore mortuo sequutus Aeneam per aequora facere niteretur a Tritone Neptuni tubicine per invidiam fuit submersus. De quo Vergilius Aeneidos, libro sexto, sic ait:</p>
+      <p id="TINCOM0119">"... Atque illi Misenum in litore sicco,</p>
+      <p id="TINCOM0120">Ut venere, vident indigna morte peremptum,</p>
+      <p id="TINCOM0121">Misenum Aeoliden, quo non praestantior alter</p>
+      <p id="TINCOM0122">Aere ciere viros Martemque accendere cantu."</p>
+      <p id="TINCOM0123">Et caetera qui ibi sequuntur.</p>
+      <p id="TINCOM0124">Hinc Timotheus tubicen Alexandri Magni illum ab epulis in bellum saepenumero provocasse legitur. Cui concordat Quintilianus in libro primo Institutionum oratoriarum: "Duces maximos et fidibus et tibiis [concinisse] traditum est et exercitus Laecedemoniorum musicis accensos modis."</p>
+      <p id="TINCOM0125">Tales autem melodiae sunt irae provocativae, ut vult philosophus in octavo Politicorum. "Quae quanto sunt vehementiores tanto certantium animos efficiunt fortiores." Haec Isidorus Etymologiarum, libro tertio, quo finaliter gloriam victoriae consequuntur. Unde Quintilianus in libro primo Institutionum 
+      <pb n="[175]" />oratoriarum: "Quod autem aliud in nostris legionibus cornua ac tubae faciunt; quorum concentus quanto est vehementior, tanto Romana in bellis gloria caeteris praestat?"</p>
+      <p id="TINCOM0126">[Capitulum XVII--De septimo decimo effectu]</p>
+      <p id="TINCOM0127">Septimus decimus effectus: Musica amorem allicit.</p>
+      <p id="TINCOM0128">Unde Ovidius puellis amorem virorum allicere cupientibus praecipit ut cantare discant. Enimvero in tertio libro De arte amandi sic inquit:</p>
+      <p id="TINCOM0129">"Res est blanda canor: discant cantare puellae</p>
+      <p id="TINCOM0130">(pro facie multis vox sua leva fuit)"</p>
+      <p id="TINCOM0131">Hinc est quod cum Orpheus lyram dulcissime pulsaret, multas mulieres eius amorem incensas a poetis traditum est. De quo Ovidius Metamorphoseos, libro decimo:</p>
+      <p id="TINCOM0132">"... Multas tamen ardor habebat</p>
+      <p id="TINCOM0133">Iungere se vati: multi doluere repulsae."</p>
+      <p id="TINCOM0134">Immo melodia cantus ipsius Orphei tantae certa amorem alliciendum erat efficaciae ut et impuberes ad amandum cogeret. Dum ibidem sequitur:</p>
+      <p id="TINCOM0135">"Ille etiam Thracum populis fuit auctor amorem</p>
+      <p id="TINCOM0136">In teneres transferre mares citraque iuventam</p>
+      <p id="TINCOM0137">Aetatis breve ver et primos carpere flores."</p>
+      <p id="TINCOM0138">[Capitulum XVIII--De octavo decimo effectu]</p>
+      <p id="TINCOM0139">Octavus decimus effectus: Musica iocunditatem convivii augmentat.</p>
+      <p id="TINCOM0140">Unde Ecclesiastici, capitulo XXXIIo: "Gemmae carbunculi in ornamento auri et comparatio musicorum in convivio vini." Glosa carbunculum comparat auro, et musicum melos convivio, sicut enim carbunculus duplicat splendorem auri, ita melodia iocunditatem convivii.</p>
+      <p id="TINCOM0141">Hinc tradunt poetae deorum epulis musicam esse acceptam. Unde Horatius in suis Odis scribit:</p>
+      <p id="TINCOM0142">"O decus Phoebi et dapibus supremis</p>
+      <p id="TINCOM0143">Grata testudo Jovis. O laborum</p>
+      <p id="TINCOM0144">
+      <pb n="[176]" />Dulce lenimen mihicumque salve rite vocanti."</p>
+      <p id="TINCOM0145">Verum ab antiquo claros homines epulantes assumere musicam non insolitum est. Unde Vergilius recitans ea quae in opiparo convivio, ab Elissa Aeneaeque suis sociis preparato, gesta fuerunt. Adducit Iopam citharedum peritissimum quo iucundius esset cytharam increpuisse, de quo Aeneidos, libro primo:</p>
+      <p id="TINCOM0146">"Cythara crinitas Iopas personat aurata," etc.</p>
+      <p id="TINCOM0147">"Veterum quoque Romanorum epulis fides et tibias [adhibere] moris fuit." Haec Quintilianus in libro primo Institutionum oratoriarum. Et Isaiae quinto capitulo legitur: "Cythara et lyra et tympanum et tibia et vinum in conviviis vestris." Hanc quoque consuetudinem hac tempestate plurimum vigere videmus, magnatibus splendide ac solenniter epulantibus, quod genus musicorum adesse sentimus, illic cantores, illic tibicines, illic tympanistae, illic organistae, illic cytharedi, illic fistulae, illic tubae, adeo melodiose concinentes, ut vera quaedam imago supernorum gaudiorum esse videatur.</p>
+      <p id="TINCOM0148">[Capitulum XIX--De nono decimo effectu]</p>
+      <p id="TINCOM0149">Nonus decimus effectus est: Musica peritos in ea glorificat.</p>
+      <p id="TINCOM0150">Unde Ecclesiastici xliiiio: Homines "in peritia sua requirentes modos musicos ... in generationibus gentis suae gloriam adepti sunt et in diebus suis habentur in laudibus." Et quoniam olim in Graecia summa musici afficiebantur gloria propter summam eruditionem quam ipsi Graeci sitam censebant in nervorum vocumque cantantibus, non modo praestantissimi viri philosophi operam illi impenderunt, ut Socrates, Pictagoras, Plato, Aristoteles, sed et bellicosissimi principles, ut Epaminondas et Achilles, Themistocles, qui cum epulis recusaret lyram, habitus est indoctor. Immo ut et cum hoc Cicero ponit in prologo Quaestionum Tusculaniarum: "Discebant id omnes nec qui nesciebat satis excultus doctrina putabatur."</p>
+      <p id="TINCOM0151">Nostro autem tempore experti sumus quanti plerique musici gloria sint affecti. Quis enim Johannem Dunstaple, Guillelmum Dufay, Egidium Binchois, Johannem Okeghem, Anthonium Busnois, Johannem Regis, Firminum Caron, Jacobum Carlerii, Robertum Morton, Jacobum Obrecht non novit? Quis eos 
+      <pb n="[177]" />summis laudibus non prosequitur, quorum compositiones per universum orbem divulgatae, Dei templa, regum palatia, privatorum domos summa dulcedine replent? Taceo plurimos musicos eximiis opibus dignitatibusque donatos, quoniam etsi honores ex hiis adepti sunt, famae immortali quam primi compositores sibi extenderunt minime sunt conferendi. Illud enim fortunae, istud autem virtutis opus est. Unde Vergilius Aeneidos, libro decimo:</p>
+      <p id="TINCOM0152">"Stat sua cuique: dies breve et irreparabile tempus</p>
+      <p id="TINCOM0153">Omnibus est vitae, sed famam extendere factis,</p>
+      <p id="TINCOM0154">Hoc virtutis opus ..."</p>
+      <p id="TINCOM0155">[Capitulum XX--De vicesimo effectu]</p>
+      <p id="TINCOM0156">Vicesimus effectus musicae: Musica animas beatificat.</p>
+      <p id="TINCOM0157">Nulli namque dubium est homines ad compunctionem audiendo cantum induci. Propter hoc enim ecclesia Dei laudes cantari instituit, ut patet per capitulum Cleros 21 dis, et per Doctorem Sanctum secunda secundae, quaestione XCIa, articulo secundo. Unde cum per compunctionem animae salutem attingant, sequitur musicam huiusmodi salutis esse causam. Quaequidem salus summa beatitudo est quam non modo, ut praediximus, qui musicam audiunt, sed et qui sciunt assequuntur. Unde propheta Psalmo LXXXVIIIo: "Beatus populus qui scit iubilationes."</p>
+      <p id="TINCOM0158">Sequitur Conclusio</p>
+      <p id="TINCOM0159">Hos igitur effectus, siquis advertat numquam ei pigebit ingenium suum huic parti disciplinae applicuisse. Immo in dies affectu flagrantissimo melodiae studebit, qua reges, qua ceteros principes, quaque liberos homines usos fuisse et uti, gloriosum et commendabile est. Haec enim est quae a Lycurgo, Platone, Quintiliano approbatur praecipiturque, quorum praecepta qui sequitur et ars illi et ille arti decori in sempeternum erit. Et haec de commendatione nobilis artis musices.</p>
+      <p id="TINCOM0160">Haec Magister Johannes Tinctoris in legibus licentiatus Serenissimi Principis Fernandi, Siciliae, Jherusalem et Ungariae Regis Capellanus.</p>
+    </body>
+  </text>
+</TEI>

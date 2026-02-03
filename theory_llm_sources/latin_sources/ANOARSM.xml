@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Ars musicae mensurabilis secundum Franconem</title>
+        <title type="abbrev">ANOARSM</title>
+        <author>Anonymous</author>
+        <date notBefore="1200" notAfter="1299">13th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Stephen E. Hayes</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Peter M. Lefferts</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Bradley Jon Tucker</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1992</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Petrus Picardus, 
+<emph>Ars motettorum compilata breviter</emph>, ed. F. Alberto Gallo; Anonymus, 
+<emph>Ars musicae mensurabilis secundum Franconem (Mss. Paris, Bibl. Nat., lat. 15129; Uppsala, Universiteitsbibl., C 55)</emph>, ed. Gilbert Reaney and André Gilles; Anonymus, 
+<emph>Compendium musicae mensurabilis artis antiquae (Ms. Faenza, Biblioteca Comunale 117)</emph>, ed. F. Alberto Gallo, Corpus scriptorum de musica, vol. 15 ([Rome]: American Institute of Musicology, 1971), 39–53 (odd). As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANOARSM0001">
+      <pb n="[39]" />Mensurabilis musica est cantus longis brevibusque temporibus mensuratus. Gratia huius diffinitionis, videndum est quid sit mensura et quid tempus. Mensura est habitudo quantitativa longitudinem et brevitudinem cuiuslibet cantus mensurabilis manifestans. Tempus est mensura tam vocis prolatae quam ei contrariae, scilicet pausae, quae tempore mensuratur, quia aliter discantus non posset proportionaliter adinvicem coaequari. Sed quia sine cognitione figurarum non potest haberi mensurabilis musicae perfecta cognitio, ideo de ipsis breviter videamus.</p>
+      <p id="ANOARSM0002">De figuris</p>
+      <p id="ANOARSM0003">Figura est repraesentatio vocis in aliquo modorum ordinatae. Figurarum aliae longae, aliae breves, aliae semibreves. Item figurarum aliae simplices, aliae compositae, quarum omnium valor et differentia per subsequentia declarantur. Longa sic formata [L,L] ante longam valet tria tempora. Praedicta longa ante solam brevem, vel ante plures quam tres, valet duo tempora [L,B,L,B,B,B,B,L], nisi modi divisio postponatur: tunc valet tria tempora.</p>
+      <p id="ANOARSM0004">[L,pt,B,L; Lig5Laptdda,L]</p>
+      <p id="ANOARSM0005">
+      <pb n="[41]" />Unum tempus appellatur minimum in plenitudine vocis. Praedicta longa ante duas breves vel tres valet tria tempora,</p>
+      <p id="ANOARSM0006">[L,Bcdsncddx,B,L; L,B,pt,B,B,L,B,B,B,L]</p>
+      <p id="ANOARSM0007">nisi brevis ad ipsam relata computando perfectiones praecedat,</p>
+      <p id="ANOARSM0008">[B,L,B,B,L; B,L,B,B,B,L]</p>
+      <p id="ANOARSM0009">et nisi modi divisio ponatur post primam brevem: tunc longa valet 2 tempora [L,B,pt,B,L; L,B,pt,B,B,L].</p>
+      <p id="ANOARSM0010">Longa valens tria tempora perfecta dicitur, valens autem duo imperfecta dicitur. Duplex longa sic formata [2L] valet sex tempora. Nota: idem est iudicium de pausis et de figuris et de brevibus et semibrevibus in regulis prius dictis.</p>
+      <p id="ANOARSM0011">[L,LP,L,B,B,L,B,B,B,L,LP,L,LP,B,L,S,S,S,B,L]</p>
+      <p id="ANOARSM0012">
+      <pb n="[43]" />Brevis sic formata [B] valet unum tempus, nisi computandis perfectionibus ponantur duae breves, vel valor unius brevis et brevis, ante longam: tunc secunda brevis valet duo tempora: [L,B,B,L,S,S,B,L].</p>
+      <p id="ANOARSM0013">Brevis valens unum tempus dicitur recta, valens autem duo dicitur altera. Semibrevium sic factarum [S,S] alia minor, alia maior in valore, sed non in fractione, quarum secundum artem plures quam tres nec minus quam duae pro tempore non ponuntur. Sed nimis frangentes et nimis in prolatione unius temporis spectantes verum modum proferendi, id est tempus pervertentes, ponuntur pro uno tempore 4, 5, 6, 7, modi divisione taliter intermixta.</p>
+      <p id="ANOARSM0014">[S,S,pt,S,S,S; S,S,S,S; S,S,S,S,S; [S,S,S,S,S,S; S,S,S,S,S,S,S]]</p>
+      <p id="ANOARSM0015">
+      <pb n="[45]" />De plicis in figuris simplicibus</p>
+      <p id="ANOARSM0016">Plica est nota divisionis eiusdem soni in gravem vel in acutum, et debet formari in gutture cum epygloto. Plica longa est cuius tractus dexter longior est sinistro [Lpdsn,Bpssncsdx], brevis vero cuius tractus dexter brevior est sinistro: [Bcdsnpddx,Bcssnpsdx]. Semibrevis sic plicatur: [S,S,Scsodx]. Nec mirum cum diffinitio plicae sibi contradicat. Valor plicarum in temporibus cognoscitur ex praedictis, ibi longa sic formata, etc.</p>
+      <p id="ANOARSM0017">De ligaturis et earum proprietatibus</p>
+      <p id="ANOARSM0018">Ligatura est coniunctio figurarum simplicium per tractos debitos ordinata. Ligaturarum alia ascendens, alia descendens. Ascendens est cuius secundus punctus altior est primo.</p>
+      <p id="ANOARSM0019">[Lig2art,Lig3ad,Lig4cssnaodart,Lig2La]</p>
+      <p id="ANOARSM0020">Descendens vero dicitur cuius secundus punctus inferior est primo: [Lig2od,Lig2d,Lig3odart].</p>
+      <p id="ANOARSM0021">
+      <pb n="[47]" />Ascendens carens omni tractu, cum proprietate dicitur.</p>
+      <p id="ANOARSM0022">[Lig2art,Lig3aod,Lig3aodart,Lig2oa]</p>
+      <p id="ANOARSM0023">Omnis ligatura ascendens habens vero tractum descendentem a parte sinistra vel a parte dextra, quod est magis proprium, sine proprietate dicitur: [Lig2cdsnoacddx,Lig2La,Lig3Lad,Lig3cdsnaart,Lig4cdsnaodart].</p>
+      <p id="ANOARSM0024">Istae tres differentiae, scilicet proprietas et inproprietas et opposita proprietas, acceduntur in principio ligaturae. Istae vero duae differentiae, scilicet perfectio et inperfectio, acceduntur in fine. Proprietas est nota primariae inventionis ligaturae a plana musica data, et inproprietas dicit privationem huius; perfectio et inperfectio idem dicunt, sed in fine differunt. Ligatura descendens, habens tractum descendentem a parte sinistra, cum proprietate dicitur: [Lig2cdsnd,Lig2cdsnod,Lig3cdsndod,Lig3cdsnodart]; carens vero sine: [Lig2d,Lig2od,Lig3dod,Lig3odart].</p>
+      <p id="ANOARSM0025">Ascendens autem ligatura et descendens, habentes tractus desuper venientes, cum opposita proprietate dicuntur.</p>
+      <p id="ANOARSM0026">[Lig3cssnaart,Lig2cssna,Lig4cssnaodart,Lig2cssnod,Lig3cssndod]</p>
+      <p id="ANOARSM0027">
+      <pb n="[49]" />Nota: omnis ligatura cum proprietate est prima brevis, secunda longa; cum opposita proprietate semibreves tamen prima et secunda. Omnis media brevis, nisi per oppositam proprietatem semibrevis fiat, quia nulla sola semibrevis invenitur. Ultima omnis ligaturae recte stans supra primum et penultimum, vel sub primo et penultimo, est longa et dicitur cum perfectione.</p>
+      <p id="ANOARSM0028">[Lig2art,Lig3aart,Lig4aodart,Lig2cdsnd]</p>
+      <p id="ANOARSM0029">Ultima omnis ligaturae oblique stans supra primum vel penultimum, vel sub primo vel penultimo, est brevis et dicitur sine perfectione: [Lig2a,Lig5aadoacddx; Lig2cdsnodcddx,Lig4cdsnoddodcddx].</p>
+      <p id="ANOARSM0030">Opposita tamen proprietas est signum semibrevitatis duarum.</p>
+      <p id="ANOARSM0031">[Lig3cssnaart,Lig2cssna; Lig2cssnod,Lig3cssndod]</p>
+      <p id="ANOARSM0032">De plicis in figuris ligatis</p>
+      <p id="ANOARSM0033">Dupliciter fit obliquitas: ascendendo scilicet averso capite, cuius ultima, si plicatur a parte dextra, longa est [Lig2apddx]; si vero plicetur a parte sinistra ascendendo, brevis est. Alia vero fit obliquitas descendendo, in uno corpore. Nec est necessarium, nisi quando debet plica brevis fieri descendendo [Lig2oapddx,Lig4cssnddoapddx].</p>
+      <p id="ANOARSM0034">Sunt enim omnes ligaturae plicabiles in fine tam ascendendo quam descendendo [Lig3cssnddpsdx; Lig2odpsdx,Lig4cssnaaodpsdx].</p>
+      <p id="ANOARSM0035">
+      <pb n="[51]" />Valor plicarum in temporibus cognoscitur ex praedictis, et etiam ligaturarum. Ligaturarum primae et ultimae taliter possent duplicari [Lig3ad,Lig3dd,Lig4cssnaaapsdx,Lig2art,Lig2d,Lig3ddrt,Lig2MXart].</p>
+      <p id="ANOARSM0036">De modis</p>
+      <p id="ANOARSM0037">Modus est variatio soni ex longitudine et brevitate ordinata. Sex sunt modi. Primus procedit ex longa et brevi et longa, etc., [L,B,L,B,L,B,L,B,L], secundus e converso [B,L,B,L,B,B; L,B], tertius ex longa et 2 brevibus et longa, etc. [L,B,B,L,B,B,L], quartus e converso [B,B,L,B,B,L,B], quintus ex omnibus longis [L,L,L,L,L,L], 
+      <pb n="[53]" />sextus e converso, scilicet ex omnibus brevibus et semibrevibus.</p>
+      <p id="ANOARSM0038">[B,B,B,S,S,B; B,B,B,S,S,S,B]</p>
+      <p id="ANOARSM0039">De pausis</p>
+      <p id="ANOARSM0040">Pausa est obmissio rectae vocis facta in aliquo modorum recta quantitate. Pausae valent tot tempora quot spatia comprehendunt, excepta illa quae omnes lineas et spatia comprehendit, quae immensurabilis appellatur. Pausae semibrevis minoris et maioris habetur differentia quoad situm. Unde si ponatur ante semibrevem notam, tunc est minor; si vero postponatur, tunc est maior. [CSM15:53] 
+      <figure>
+        <graphic url="/images/ANOARSM_01GF.gif" />
+      </figure></p>
+      <p id="ANOARSM0041">Modi divisio sic formata nihil valet de se, sed dat aliis significare. Suspirium sic formatum / est signum breviter hanelitum retrahendi. Acceptio syllabarum sic formata \ est signum accipiendi syllabam.</p>
+    </body>
+  </text>
+</TEI>

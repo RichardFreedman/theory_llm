@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>[Mensura monochordi]</title>
+        <title type="abbrev">ANOEIN</title>
+        <author>Anonymous</author>
+        <date notBefore="1400" notAfter="1499">15th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Peter Slemon</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Jessica Sisk</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>2003</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Prosdocimo de' Beldomandi, 
+<emph>Brevis summula proportionum quantum ad musicam pertinet and Parvus tractatulus de modo monacordum dividendi</emph>, ed. and trans. by Jan Herlinger, Greek and Latin Music Theory, vol. 4 (Lincoln: University of Nebraska Press, 1987), 150–52. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: Mensura monochordi</title>
+          
+<idno type="LML">MON. Mon. tuum</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">CH-E 689, 81-82v</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANOEIN0001">
+      <pb n="[150]" />1. Monacordum tuum sic dividas. Primo totum spatium interceptum inter primum C et punctum scabelli in novem partes equales dividas, et in fine prime partis pone primum D.</p>
+      <p id="ANOEIN0002">2. Deinde totum spatium interceptum inter primum D et punctum scabelli iterum in novem partes dividas, et in fine prime partis pone primum E.</p>
+      <p id="ANOEIN0003">3. Postea totum spatium quod est inter primum C et punctum scabelli in quatuor partes equales dividas, et in fine prime partis pone primum F.</p>
+      <p id="ANOEIN0004">4. Deinde totum spatium quod est inter primum C et punctum scabelli dividas in tres portiones equales, et in fine prime partis pone primum G.</p>
+      <p id="ANOEIN0005">5. Deinde totum spatium quod est inter primum D et punctum scabelli iterum dividas in tres partes equales, et in fine prime partis pone primum A.</p>
+      <p id="ANOEIN0006">6. Deinde totum spatium quod est inter primum E et punctum scabelli iterum dividas in tres partes equales, et in fine prime partis pone secundum [sqb] quadrum.</p>
+      <p id="ANOEIN0007">7. Et si assumas versus primum C ab ipso secundo [sqb] quadro unam partem equalem spatio intercepto inter ipsum secundum [sqb] quadrum et punctum scabelli, habebis in puncto terminante talem partem versus primum C locum primi [sqb] quadri infallanter.</p>
+      <p id="ANOEIN0008">8. Deinde totum spatium interceptum inter primum C et punctum scabelli dividas in duas partes equales, et in fine prime pone secundum C.</p>
+      <p id="ANOEIN0009">9. Deinde totum spatium interceptum inter primum D et punctum scabelli iterum dividas in duas partes equales, et in fine prime partis pone secundum D.</p>
+      <p id="ANOEIN0010">
+      <pb n="[152]" />10. Nec ulterius desinas a tali divisione in duas partes equales, et apponi similes littere in fine cuiuslibet prime partis donec ad finem tui monacordi pervenias, et habebis omnes voces monacordi principales, que numero esse debent xviij, dimissis intermediis.</p>
+      <p id="ANOEIN0011">11. Sed ut voces intermedias diligenter habeas, sumas totum spatium interceptum inter secundum [sqb] quadrum et punctum scabelli, et ipsum dividas in tres partes equales, quibus addes unam quartam partem versus primum [sqb] quadrum equalem cuilibet trium predictarum, et in puncto terminante hanc quartam partem versus ipsum primum [sqb] quadrum pone signum quod comuniter taliter figuratur sub modo crucis, [signum], et habebis vocem mediam interceptam inter primum F et primum G.</p>
+      <p id="ANOEIN0012">12. Deinde totum spatium interceptum inter hanc vocem mediam ultimo inventam et punctum scabelli iterum dividas in tres partes equales, ipsis addendo versus ipsum [sqb] quadrum unam quartam partem cuilibet predictarum trium equalem, et in puncto terminante hanc quartam partem versus primum [sqb] pone unum signum simile priori, et habebis vocem mediam interceptam inter primum C et primum D.</p>
+      <p id="ANOEIN0013">13. Postea totum spatium inter hanc vocem mediam ultimo inventam et punctum scabelli dividas in novem partes equales, et in fine prime partis pone unum signum de dictis, scilicet crucem superius ostensam, et habebis vocem mediam interceptam inter primum D et primum E.</p>
+      <p id="ANOEIN0014">14. Deinde totum spacium interceptum inter vocem mediam que est in medio primi C et primi D et punctum scabelli dividas in tres partes equales, et in fine prime partis pone unum de signis dictis, et habebis vocem mediam interceptam inter primum G et primum A.</p>
+      <p id="ANOEIN0015">15. Deinde totum spatium inter primum F et punctum scabelli dividas in quatuor partes equales, et in fine prime partis pone primum b rotundum, quod cadit in medio primi A et secundi [sqb] quadri.</p>
+      <p id="ANOEIN0016">16. Deinde sumas totum spatium interceptum inter vocem mediam que est in medio primi C et primi D et punctum scabelli, et ipsum dividas in duas partes equales, et in fine prime partis pone unum de signis dictis et ...</p>
+    </body>
+  </text>
+</TEI>

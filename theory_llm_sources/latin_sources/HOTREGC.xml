@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Regulae supra contrapunctum</title>
+        <title type="abbrev">HOTREGC</title>
+        <author>Hothby, Johannes</author>
+        <date notBefore="1400" notAfter="1499">15th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Luminita Florea Aluas</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Benito V. Rivera</persName>
+      </respStmt>
+      <date>1991</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>Scriptorum de musica medii aevi nova series a Gerbertina altera</emph>, 4 vols., ed. Edmond de Coussemaker (Paris: Durand, 1864-76; reprint ed., Hildesheim: Olms, 1963), 3:333–34.
+</bibl>
+        <bibl type="work">
+          
+<title>Iohannes Hothby: Regulae supra contrapunctum</title>
+          
+<idno type="LML">IOH. HOTH. contr. I</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">I-FZc 117, 33</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="HOTREGC0001">
+      <pb n="[333]" />Johannis Hothby</p>
+      <p id="HOTREGC0002">Regulae supra contrapunctum</p>
+      <p id="HOTREGC0003">Quamvis species sive consonantie discantus infinite sint, tamen in presentiarum communiter novem utende reperiuntur, videlicet unisonus, tertia, quinta, sexta, octava, decima, duodecima, tertia-decima, et quinta-decima. Quarum quinque dicuntur esse perfecte, et quatuor imperfecte alternatim procedendo, id est unisonus, quinta, octava , duo-decima, et quinta-decima sunt perfecte. Imperfecte vero sunt tertia, sexta, decima, et tertia-decima. Quibus dantur octo regule, quarum quatuor dicuntur essentiales, et quatuor accidentales, ante quarum declarationem duo vicia sunt intelligenda, et deinde removenda, quorum primus est [sqb] quadrum contra b rotundum, et f ac b rotundum contra e cantare; et e contrario. Secundum vitium est redictiones specierum nimis cantare, istis retro explicatis, declarande sunt octo regule supradicte.</p>
+      <p id="HOTREGC0004">Quarum prima est discantum incipere et finire per consonantias perfectas.</p>
+      <p id="HOTREGC0005">Secunda est, quando cantus planus sive tenor est gravis, contrapunctus sive discantus cantare debet acutum, et e contrario; et si tenor sit mediocris, contrapunctus sit etiam mediocris.</p>
+      <p id="HOTREGC0006">Tertia est, quando tenor in eodem loco firmiter manet, discantum move, et e contrario.</p>
+      <p id="HOTREGC0007">Quarta regula, unam notam discantus juxta precedentem ponere, et absque intervallo, si fuerit possibile; et iste dicuntur regule essentiales.</p>
+      <p id="HOTREGC0008">Regularum vero accidentalium prima est: cantare duas vel plures consonantias perfectas dissimiles tam ascendendo quam descendendo.</p>
+      <p id="HOTREGC0009">Secunda est: duas vel tres vel plures consonantias tam similes quam dissimiles cantare tam ascendendo quam descendendo.</p>
+      <p id="HOTREGC0010">Tertia regula est: cantare discantum per gradum tam ascendendo quam descendendo, quando tenor movetur per saltum per consonantias perfectas.</p>
+      <p id="HOTREGC0011">Quarta regula est: quando tenor movetur per gradum tam ascendendo quam descendendo, similiter post se movere discantum; et iste regule dicuntur accidentales.</p>
+      <p id="HOTREGC0012">Sunt et due regule appellate placabiles, que dantur gradibus. Quarum prima datur gradibus descendentibus, secunda vero ascendentibus.</p>
+      <p id="HOTREGC0013">Prima est quod si volumus in fine alicujus gradus ascendentis facere unam quintam, ante eam debemus facere unam tertiam, vel plures secundum quantitatem gradus. Si volumus facere octavam, ante eam debemus ponere sextam vel plures secundum quantitatem gradus. Si duodecimam, ante eam debemus facere decimam vel plures. Si quinta-decimam, ante eam debemus facere tertia-decimam vel plures.</p>
+      <p id="HOTREGC0014">
+      <pb n="[334]" />Secunda regula est quod si volumus in fine alicujus gradus ascendentis facere unisonum, ante eum debemus facere tertiam vel plures secundum quantitatem gradus ascendentis. Si volumus facere quintam, ante eam debemus facere unam octavam. Si octavam, ante eam debemus facere decimam.</p>
+      <p id="HOTREGC0015">Secundum quosdam anglicos iste modus canendi vocatur discantus visibilis; modum infra quatuor lineas illum videre docebo, cui modo dantur novem regule.</p>
+      <p id="HOTREGC0016">Prima regula: est octavam ponere equalem tenori.</p>
+      <p id="HOTREGC0017">Secunda est: ponere sextam sub tenore per tertiam.</p>
+      <p id="HOTREGC0018">Tertia est: ponere quintam sub tenore per quartam.</p>
+      <p id="HOTREGC0019">Quarta est: ponere tertiam sub tenore per sextam.</p>
+      <p id="HOTREGC0020">Quinta est: ponere unisonum sub tenore per octavam; et iste regule sunt de octava inclusive subtus.</p>
+      <p id="HOTREGC0021">Sexta est: ponere decimam per tertiam sub tenore.</p>
+      <p id="HOTREGC0022">Septima est: ponere duodecimam per quintam supra tenorem.</p>
+      <p id="HOTREGC0023">Octava est: ponere tertia-decimam per sextam supra tenor.</p>
+      <p id="HOTREGC0024">Nona est: ponere quintam-decimam per octavam supra tenorem. Et iste regule sunt de octava supra exclusive.</p>
+      <p id="HOTREGC0025">Unde octava dicitur consonantia media in qua incipiendo et sursum ascendendo per rectam lineam consonantias inveniemus. Si consonantias infra octavam volumus, retro numerando consonantias inveniemus. Et sic finis.</p>
+    </body>
+  </text>
+</TEI>

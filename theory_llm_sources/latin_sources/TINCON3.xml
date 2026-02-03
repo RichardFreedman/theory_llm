@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Liber de arte contrapuncti, Liber tertius</title>
+        <title type="abbrev">TINCON3</title>
+        <author>Tinctoris, Johannes</author>
+        <date notBefore="1400" notAfter="1499">15th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Stephen E. Hayes</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Peter M. Lefferts</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Luminita Florea Aluas</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1992</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>Scriptorum de musica medii aevi nova series a Gerbertina altera</emph>, 4 vols., ed. Edmond de Coussemaker (Paris: Durand, 1864-76; reprint ed., Hildesheim: Olms, 1963), 4:147–53.
+</bibl>
+        <bibl type="work">
+          
+<title>Iohannes Tinctoris: Liber de arte contrapuncti</title>
+          
+<idno type="LML">IOH. TINCT. contr.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">B-Br II 4147, 52-101</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">E-VAu 835, 77v-144</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Bu 2573, 88-166</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="TINCON30001">
+      <pb n="[147]" />Incipit tertius.</p>
+      <p id="TINCON30002">Capitulum primum.</p>
+      <p id="TINCON30003">De octo generalibus regulis circa omnem contrapunctum observandis, quarum prima est, quod omnis contrapunctus per concordantiam perfectam incipere finireque debet.</p>
+      <p id="TINCON30004">Quoniam autem hucusque de usu concordantiarum praemissuque discordantiarum ac utrarumque ordinatione in quovis contrapuncto satis supraque disseruimus, finem huic operi nostro daremus, nisi octo generalium regularum circa omnem contrapunctum observandarum relatio nos aliquantisper eum differre compelleret. Unde ut a prima incipiamus, omnis contrapunctus per concordantiam perfectam et incipere et finire debet. Quemadmodum omnia hujus libri exempla superius posita manifestissime ostendunt. Si tamen aliqua pausa cantum antecesserit cantus ipse imperfectam concordantiam incipere poterit, ut hic:</p>
+      <p id="TINCON30005">[CSIV:147,2; text: J'aime qui m'aime. Tenor.] 
+      <figure>
+        <graphic url="/images/TINCON3_01GF.gif" />
+      </figure></p>
+      <p id="TINCON30006">Praeterea nonnulli, quibus assentior, dicunt non esse vitiosum, si, multis super librum canentibus aliqui eorum in concordantiam desinant imperfectam. Quod tamen intelligendum censeo ubi plures fuerint concinentes quam concordantiae perfectae vocibus eorum contentae, ita etiam quod a sexta, tertiadecima, vicesimaque, supra notam inferiorem abstineant. Sic enim nulla earum propter ejus duritiem et praecipue cum quinta duodecima et decima nona perfectioni congruit, ut hic:</p>
+      <p id="TINCON30007">
+      <pb n="[148]" />[CSIV:148,1; text: Exempla.]</p>
+      <p id="TINCON30008">Capitulum II.</p>
+      <p id="TINCON30009">De secunda generali regula secundum quam licitum est per imperfectas concordantias, non autem perfectas cum tenore ascendere ac descendere.</p>
+      <p id="TINCON30010">Secunda regula est quod per concordantias imperfectas, non autem perfectas ejusdem speciei cum tenore ascendere descendereque debemus ut in exemplo praeposito omnibusque aliis antecedentibus patet.</p>
+      <p id="TINCON30011">Verum tamen ubi compositio trium aut plurium fit, nonnulli unam partem cum alia inferiori duntaxat excepta per easdem species concordantiarum etiam perfectarum ascendere descendereque permittunt; immo si duarum partium ascensus aut descensus per concordantias perfectas ejus speciei fiat, dummodo aliqua intervenerit pausa compositor a pluribus excusatur, ut hic:</p>
+      <p id="TINCON30012">[CSIV:148,2; text: O Mater Dei memento mei. Tenor. Contratenor.]</p>
+      <p id="TINCON30013">Hujus modi tamen ascensus vel descensus per concordantias perfectas ejusdem speciei, multis quos imitari studeo displicet. Et profecto nisi in compositione quatuor aut quinque aut plurimum partium necessitate alicujus venustae perfectionis aut ordinatae progressionis eos minime censeo permittendos. Utque clarius regula haec cum sequenti proxima intelligatur, sciendum est concordantias sive perfectas sive imperfectas ejusdem speciei dictas, quae speciei non differunt, sicut duo unisoni, duae tertiae, duae quintae, et sic de aliis.</p>
+      <p id="TINCON30014">Capitulum III.</p>
+      <p id="TINCON30015">De tertia regula generali quae tenore in eodem loco permanente plures concordantias non solum imperfectas verum etiam perfectas unam post aliam continuo assumi permittit.</p>
+      <p id="TINCON30016">Tertia regula est quod tenore in eodem loco permanente licet plures concordantias non solum imperfectas verum etiam perfectas ejusdem speciei unam post aliam continuo assumere:</p>
+      <p id="TINCON30017">[CSIV:148,3; text: Exempla.]</p>
+      <p id="TINCON30018">Attamen ubi aliae concordantiae possunt intermitti hujus modi contrapunctus super cantum planum canendo diligenter est evitandus.</p>
+      <p id="TINCON30019">In refacta vero, praecipue si imperfectae fuerint 
+      <pb n="[149]" />concordantiae aliquando propter verba convenientissime admittitur, ut hic:</p>
+      <p id="TINCON30020">[CSIV:149,1; text: Vrai Dieu d'amer conforte l'amoureux qui nuit et jour. Tenor. Barbara Virgo pulcherrima.] 
+      <figure>
+        <graphic url="/images/TINCON3_02GF.gif" />
+      </figure></p>
+      <p id="TINCON30021">Capitulum IV.</p>
+      <p id="TINCON30022">De quarta generali regula per quam praecipitur ut quam proximus et quam ordinatissimus poterit contrapunctus fiat.</p>
+      <p id="TINCON30023">Quarta regula est quod quam proximus et quam ordinatissimus poterit contrapunctus fieri debebit etiam licet conjunctionibus longorum intervallorum tenor sic converso formatus, ut hic patet:</p>
+      <p id="TINCON30024">[CSIV:149,2; text: Exempla.]</p>
+      <p id="TINCON30025">Sed ab hac regula eximuntur qui magis contrapuncto dulciori ac venustiori student quam propinquiori. Quique pluribus super librum canentibus ut contrapunctum diversificent cum moderatione instar quodam modo compositorum longinquum efficiunt, ut patet in sequentibus:</p>
+      <p id="TINCON30026">[CSIV:149,3; text: Tenor. Contrapunctus.]</p>
+      <p id="TINCON30027">Capitulum V.</p>
+      <p id="TINCON30028">De quinta regula generali quae precipit ut supra nullam prorsus notam perfectio constituatur per quam cantus distonari possit.</p>
+      <p id="TINCON30029">Quinta regula est quod supra nullum prorsus notam sive media, sive superior, sive inferior fuerit perfectio constitui debet per quam cantus distonatio contingere possit. Quod quidem penitus aurium judicio relinquendum censeo, ut hic:</p>
+      <p id="TINCON30030">[CSIV:149,4; text: Tenor.]</p>
+      <p id="TINCON30031">
+      <pb n="[150]" />[CSIV:150,1; text: Contrapunctus.] 
+      <figure>
+        <graphic url="/images/TINCON3_03GF.gif" />
+      </figure></p>
+      <p id="TINCON30032">Sumitur autem hic perfectio pro cujusque cantus media seu finali clausula per concordantiam perfectam regulariter efficienda, quamvis et interdum loco ejus assumatur imperfectam, ut hoc:</p>
+      <p id="TINCON30033">[CSIV:150,2; text: O Georgi regnans feliciter ora deum pro nobis Jugiter. Tenor. Contratenor.]</p>
+      <p id="TINCON30034">Capitulum VI.</p>
+      <p id="TINCON30035">De sexta generali regula quae redictas fieri prohibet.</p>
+      <p id="TINCON30036">Sexta regula est, quod super cantum planum canentes in quantum possumus redictas evitare debemus maxime si aliquae fuerint in tenore, ut hic patet:</p>
+      <p id="TINCON30037">
+      <pb n="[151]" />[CSIV:151,1; text: Exemplum.] 
+      <figure>
+        <graphic url="/images/TINCON3_04GF.gif" />
+      </figure></p>
+      <p id="TINCON30038">Et quamvis ex omni parte in refacta regulariter etiam prohibeantur aliquando tamen sonum campanarum aut tubarum imitando, ubique tollerantur, ut hic probatur scilicet in sequenti:</p>
+      <p id="TINCON30039">[CSIV:151,2; text: Qui regnas in coelestibus sedes conterens infimas da gaudiis felicibus perfrui nostras animas. Tenor. Contratenor.]</p>
+      <p id="TINCON30040">Ut patet in his exemplis redicta nihil aliud est quam unius aut plurium conjunctionum continua repetitio.</p>
+      <p id="TINCON30041">
+      <pb n="[152]" />Capitulum VII.</p>
+      <p id="TINCON30042">De septima regula generali qua duas perfectiones in eodem loco fieri continue vetatur.</p>
+      <p id="TINCON30043">Septima regula est quod super planum cantum etiam canendo duae aut plures perfectiones in eodem loco continue fieri non debent, licet ad hoc quodammodo cantus ipse planus videatur esse coaptatus, ut hic:</p>
+      <p id="TINCON30044">[CSIV:152; text: Tenor. Contrapunctus.] 
+      <figure>
+        <graphic url="/images/TINCON3_05GF.gif" />
+      </figure></p>
+      <p id="TINCON30045">Quae quidem regula tam exacte a compositoribus est observanda ut nec etiam hujus modi tenorem conficere debent, qui bis in eodem loco duarum aut plurium continuarum perfectionum dispositionem habeat. Talis enim compositio cum redictis evidentissimam contrahit affinitatem, unde tamquam varietati contraria omnino est evitanda.</p>
+      <p id="TINCON30046">Capitulum VIII.</p>
+      <p id="TINCON30047">De octava, et ultima generali regula quae varietatem in omni contrapuncto exquirendam accuratissime precipit.</p>
+      <p id="TINCON30048">Octava si quidem et ultima regula haec est quod in omni contrapuncto varietas accuratissime exquirenda est, nam ut Horatius in sua poetica dicit: Cytharedus ridetur corda si semper oberrat eadem. Quemadmodum enim in arte dicendi varietas secundum Tullii sententiam, auditorem maxime delectat, ita et in musica concentuum diversitas animam auditorum vehementer in oblectamentum provocat, hinc et philosophus, in Ethicis, varietatem jocundissimam rem esse naturamque humanam ejus indigentem asserere non dubitavit.</p>
+      <p id="TINCON30049">Hanc autem diversitatem optimi quisque ingenii compositor aut concentor efficit, si nunc per unam quantitatem, nunc per aliam, nunc per unam perfectionem, nunc per aliam, nunc per unam proportionem, nunc per aliam, nunc per unam conjunctionem, nunc per aliam, nunc cum syncopis, nunc sine syncopis, nunc cum fugis, nunc sine fugis, nunc cum pausis, nunc sine pausis, nunc diminutive, nunc plane, aut componat aut concinnat. Verumtamen in his omnibus summa est adhibenda ratio, quippe ut de concentu super librum taceam qui pro voluntatem concinentium diversificari potest, nec tot nec tales varietates uni cantilenae congruunt quot et quales uni moteto, nec tot et quales uni moteto quot et quales uni missae.</p>
+      <p id="TINCON30050">Omnis itaque resfacta pro qualitate et quantitate ejus diversificanda est prout infinita docent opera non solum a me, verum etiam ab innumeris compositoribus aevo praesenti florentibus edita. Plures enim ac aliae varietates existunt tam in missis "Lomme armé" Guillermi Dufay, "Et vivus" G. Faugues, quam in motetis "Clangat" Joannis Regis, et "Congaudebant" Anthonii Busnois, et plures ac aliae tam in his motetis quam in cantilenis "Ma maistresse" Jo. Okeghem, et "La Tridaine, à deux" Firmini Caron. Quos quidem cantus pro conformatione hujus nostrae regulae meis quidem praetermissis in exempla non ab re produxi. Enim vero et eos summis laudibus extollendos et penitus imitandos censeo, ne contra officium boni viri me solum probare, alios autem, ubi recte fecerint, contemnere videar.</p>
+      <p id="TINCON30051">
+      <pb n="[153]" />Capitulum IX.</p>
+      <p id="TINCON30052">Operis conclusio in qua assiduitas tam componendi quam super librum canendi ad artem in utroque consequendum plurimum commendatur.</p>
+      <p id="TINCON30053">Haec sunt, prudentissime Rex, quae de arte contrapuncti, ratione ac scientia quam optime potui hoc in opusculo collegi. Sed profecto frustra, nisi quisquis in ipsa arte praeclarius evadere nitetur, diligenti cum assuetudine componat aut super librum canat. Nam, ut Cicero ad Herenium ait, in omni disciplina infirma est artis praeceptio sine summa assiduitate exercitationis. Siquidem assiduitas sola et unica est quae post vocum, notarum, quantitatum atque concordantiarum generalem quamdam cognitionem, arithmetica potius quam musica disciplina Boetii postergata numerosos cantores, et eos praecipue quos superius expressi compositores praestantissimos ac celeberrimos efficit. Neque putandum est hos aut illos hujus modi compositionis aut super librum cantationis assiduitati, a provecta aetate velut Socratem fidium tractandarum immo a pueritia se penitus tradidisse. Quemadmodum enim Socratem ipsum, tarde nimium sonare incipientem, licet omnis sapientissimus Appollonis oraculo sit judicatus, a nullo tamen auctore musicum divinum, ut Demodocum ab Homero, aut praeclarum, ut Epaminundam a Tullio dictum fuisse comperi, sic et nostra tempestate neminem prorsus cognovi qui si a vicesimo anno aetatis ejus aut supra, sive componere sive super librum canere inceperit, eminentem aut clarum inter musicos locum sibi vendicaverit. Sed de his hactenus. Caeterum, inclyte Princeps, quoniam tuis ingentibus beneficiis mihi tamen otii conceditur ut eum animi tranquillitate hoc in tuo almae pacis unico regno, dulcique parthenope, qua se vatum lumen splendissimum Virgilius olim poetice studentem nutritum fuisse gloriatur, ingenuae artis musicae operam dare valeo tuae sacratissimae majestati una cum ipso opusculo, et animo meo hos versus Ovidii humiliter offero:</p>
+      <p id="TINCON30054">O referant grates, quoniam non possumus ipsi,</p>
+      <p id="TINCON30055">Dii tibi, qui referunt si pia facta vident.</p>
+      <p id="TINCON30056">Liber tertius et ultimus de arte contrapuncti feliciter explicit. Quem totum integrum Johannes Tinctoris (ut praefertur) jurisconsultus atque musicus illustrissimi regis Siciliae capellanus, Neapoli incipit arsolvitque anno domini 1477o mensis Octobris die undecima.</p>
+      <p id="TINCON30057">Deum orate pro eo.</p>
+    </body>
+  </text>
+</TEI>

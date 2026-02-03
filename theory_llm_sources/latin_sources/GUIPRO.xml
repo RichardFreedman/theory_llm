@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Prologus in antiphonarium</title>
+        <title type="abbrev">GUIPRO</title>
+        <author>Guido d'Arezzo</author>
+        <date notBefore="800" notAfter="1099">9th-11th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Sergei Lebedev</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Elisabeth Honn</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1995</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>Tres tractatuli Guidonis Aretini: Guidonis "Prologus in Antiphonarium,"</emph> ed. Joseph Smits van Waesberghe, Divitiae musicae artis, A/III (Buren: Knuf, 1975), 58–81. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Guido Aretinus: Prologus in antiphonarium</title>
+          
+<idno type="LML">GUIDO prol.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">A-Wn Cod. 51, 43-44</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">A-Wn Cod. 2503, 23-25v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Br 10159, 85v-96</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Br 10162/6, 23v-24v (35v-36v)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Br II 784, 27-29</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Br II 4141, 59-61</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">CH-CObodmer 18845 (Ms. 77), 28v-33</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-B Mus. ms. theor. 325, 1-2</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-DS 1988, 93-95</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-EF 8° 93, 62-63v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Gs Ms. Philos. 84, 16-17v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-KA K 504, 72-73v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Kl 4° Ms. Math. 1, 12-13v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-LEu 431, 150v-152v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 5539, 175v-178</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 13021, 159vb-160v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 14523, 127r-v, 128v-129</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 14663, 17-18</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 14965a, 21-22</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 30057, 36-39</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mu 8° 375, 57v-59</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-PO 2915, 20v-22v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-W 4. 11. Aug. 4°, 98v-99v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-W 334 Gud. Lat. 8°, 41v-45</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 7211, 95-97v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 7461, 9v-11</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 10508, 145-146v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 10509, 93-95</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ctc O.9.29, 72-73</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ctc R.15.22, 121v-123</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Lbl Add. 17808, 11v-16v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Lbl Arundel 339, 106-107</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Lbl Harley 281, 21-22v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Lbl Harley 3199, 56v-58</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Obac 173A, 94v-96</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ojc 150, 14-15</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ojc 188, 77-78v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fl Plut. XXIX. 48, 45v-46v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fn Conv. Soppr. F. III. 565, 58-60v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fr 652, 64-65v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Ma D. 5 inf., 12v-13vb</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Ma D. 455 inf., 15-17</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Ma M. 17 sup., 16-17</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-MC 318, 185-190</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-PESo 1336, 66-67v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-PS 100, 26-29</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rv B 81, 116-118v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">NZ-Wt MSR-05, 97-98v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">US-MAL Ms. Ludwig XII 5, 41v-42</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">US-R Ms. 92 1200, 66-68</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">US-Wc ML 171 J 6 Case, 155v-157v</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="GUIPRO0001">
+      <pb n="[58]" />[PROLOGUS IN ANTIPHONARIUM]</p>
+      <p id="GUIPRO0002">
+      <pb n="[59]" />Temporibus nostris . super omnes homines (:)</p>
+      <p id="GUIPRO0003">fatui sunt cantores!</p>
+      <p id="GUIPRO0004">In omni enim arte . valde plura sunt,</p>
+      <p id="GUIPRO0005">quae nostro sensu cognoscimus :</p>
+      <p id="GUIPRO0006">quam ea, quae a magistro didicimus.</p>
+      <p id="GUIPRO0007">Perlecto enim . solo psalterio (:)</p>
+      <p id="GUIPRO0008">omnium librorum lectiones cognoscunt pueruli.</p>
+      <p id="GUIPRO0009">
+      <pb n="[60]" />Et agriculturae scientiam: subito intelligunt rustici.</p>
+      <p id="GUIPRO0010">Qui enim (.)</p>
+      <p id="GUIPRO0011">unam vineam putare,</p>
+      <p id="GUIPRO0012">unam arbusculam inserere,</p>
+      <p id="GUIPRO0013">unum asinum onerare . cognoverit:</p>
+      <p id="GUIPRO0014">-- sicut in uno facit (:) -- in omnibus similiter,</p>
+      <p id="GUIPRO0015">-- aut etiam melius facere (:) --</p>
+      <p id="GUIPRO0016">non dubitabit.</p>
+      <p id="GUIPRO0017">
+      <pb n="[61]" />Miserabiles autem cantores . cantorumque discipuli!...</p>
+      <p id="GUIPRO0018">Etiamsi per centum annos . cotidie cantent,</p>
+      <p id="GUIPRO0019">numquam per se -- sine magistro -- unam,</p>
+      <p id="GUIPRO0020">vel saltem parvulam -- cantabunt antiphonam!</p>
+      <p id="GUIPRO0021">Tantum tempus . in cantando perdentes, in quanto /</p>
+      <p id="GUIPRO0022">et divinam, et saecularem scripturam /</p>
+      <p id="GUIPRO0023">potuissent plene cognoscere.</p>
+      <p id="GUIPRO0024">
+      <pb n="[62]" />Et quod super omnia mala magis est periculosum, multi religiosi ordinis clerici et monachi psalmos et sacras lectiones et nocturnas cum puritate vigilias et reliqua pietatis opera, per quae ad sempiternam gloriam provocamur et ducimur, negligunt, dum cantandi scientiam, quam consequi numquam possunt, labore assiduo et stultissimo persequuntur.</p>
+      <p id="GUIPRO0025">Illud quoque quis non defleat, quod tam gravis est in sancta ecclesia error, tamque periculosa discordia, ut quando divinum celebramus officium saepe non deum laudare, sed inter nos certare videamur.</p>
+      <p id="GUIPRO0026">
+      <pb n="[63]" />Vix denique unus concordat alteri, non magistro discipulus, nec discipulus condiscipulo. Unde factum est, ut non iam unum aut saltem pauca, sed tam multa sint antiphonaria, quam multi sunt per singulas ecclesias magistri. Vulgoque iam dicitur antiphonarium non Gregorii, sed Leonis aut Alberti, aut cuiuscumque alterius. Cumque unum discere sit valde difficile, de multis non est dubium, quin sit impossible.</p>
+      <p id="GUIPRO0027">
+      <pb n="[64]" />Qua in re cum pro sua ipsi voluntate multa commutent, aut parum aut nihil mihi indignari debent, si a communi usu vix in paucis abscedo, ut ad communem artis regulam uniformiter omnis cantilena recurrat. Quoniam vero haec omnia mala et multa alia eorum culpa eveniunt, qui antiphonaria faciunt, valde moneo et contestor, ne aliquis amplius praesumat antiphonarium neumare, nisi qui secundum subiectas regulas bene potest et sapit ipsam artem perficere. Alioquin certissime erit magister erroris, quicumque non prius fuerit discipulus veritatis.</p>
+      <p id="GUIPRO0028">
+      <pb n="[65]" />Taliter etenim Deo auxiliante hoc antiphonarium notare disposui, ut per eum leviter aliquis sensatus et studiosus cantum discat, et postquam partem eius bene per magistrum cognoverit, reliqua per se sine magistro indubitanter agnoscat. De quo si quis me mentiri putat, veniat, experiatur et videat, quia tales hoc apud nos pueruli faciunt, qui pro psalmorum et vulgarium litterarum ignorantia saeva adhuc flagella suscipiunt, qui saepe et ipsius antiphonae, quam per se sine magistro recte possunt cantare, verba et syllabas nesciunt pronuntiare.</p>
+      <p id="GUIPRO0029">
+      <pb n="[66]" />Quod cum Dei adiutorio leviter sensatus et studiosus aliquis poterit facere, si cum quanto studio neumae disponantur curet agnoscere.</p>
+      <p id="GUIPRO0030">Ita igitur disponuntur voces, ut unusquisque sonus, quantumlibet in cantu repetatur, in uno semper et suo ordine inveniatur. Quos ordines ut melius possis discernere, spissae ducuntur lineae, et quidam ordines vocum in ipsis fiunt lineis, quidam vero inter lineas in medio intervallo et spatio linearum.</p>
+      <p id="GUIPRO0031">
+      <pb n="[67]" />Quanticumque ergo soni in una linea vel in uno sunt spatio, omnes similiter sonant. Ut autem et illud intelligas, quantae lineae vel spatia unum habent sonum, quibusdam lineis vel spatiis quaedam litterae de monochordo praefiguntur atque etiam colores superducuntur. Unde datur intelligi, quia in toto antiphonario et in omni cantu 
+      <pb n="[68]" />quantaecumque lineae vel spatia unam eandemque habent litteram vel eundem colorem, ita per omnia similiter sonant, tamquam si omnes in una linea fuissent, quia sicut linea unitatem sonorum, ita per omnia littera vel color unitatem significat linearum, ac per hoc etiam sonorum.</p>
+      <p id="GUIPRO0032">Quodsi secundum ordinem sonorum ab ipsa litterata vel colorata linea ubique inspicias, et illud aperte cognosces, quia in omnibus secundis ordinibus eadem vocum et neumarum est unitas. Similiter et de tertio vel quarto ordine et reliquis intellige, sive superiores, sive inferiores ordines cernas.</p>
+      <p id="GUIPRO0033">
+      <pb n="[69]" />Igitur certissime constat, quia omnes neumae vel soni in eiusdem litterae vel coloris lineis similiter positi, vel absimiliter litterata aut colorata linea pariter elongati, per omnia similiter sonant. In diversis autem lineis vel spatiis etiam similiter factae neumae nequaquam similiter sonant. Ideoque quamvis perfecta sit positura neumarum, caeca omnino est, et nihil valet sine adiunctione litterarum vel colorum.</p>
+      <p id="GUIPRO0034">
+      <pb n="[70]" />Duos enim colores ponimus, croceum scilicet et rubeum, per quos colores valde utilem tibi regulam trado, per quam apertissime cognosces de omni neuma et unaquaque voce, de quali tono sit, et de quali littera monochordi, si tamen, ut valde est opportunum, monochordum et tonorum formulas in frequenti habeas usu.</p>
+      <p id="GUIPRO0035">
+      <pb n="[71]" />Septem vero sunt litterae monochordi, sicut plenius postea demonstrabo. Ubicumque ergo videris crocum, ipsa est littera tertia et ubicumque videris minium, ipsa est littera sexta sive in lineis, sive inter lineas ipsi ducantur colores. Igitur tertio ordine sub croco prima est littera et tonus primus vel secundus. Super hanc iuxta crocum secunda littera, in qua est tonus tertius vel quartus. 
+      <pb n="[72]" />Deinde in ipso croco est vox vel littera tertia, in qua est tonus quintus et sextus. Vicina super crocum et tertia sub minio est littera quarta in qua est tonus primus vel secundus. Proxima subest minio quinta in qua tonus tertius vel quartus. In ipso est minio sexta in qua tonus quintus vel sextus. Iuxta super minium septima est in qua 
+      <pb n="[73]" />tonus septimus vel octavus. Deinde prima repetitur tertio ordine super minium et tertio subter crocum in qua tonus primus vel secundus, ut dictum est. Postquam omnes aliae reiterantur prioribus in nullo dissimiles. Quae omnia plenius haec te figura docebit:</p>
+      <p id="GUIPRO0036">
+      <pb n="[74]" />[DMA A/III:74; text: .C., .G., .d., .aa., .B., .F., .c., .g., .A., .E., .h., .f., .Gamma., .D., .a., .e., I, II, III, IIII, V, VI, VII, VIII] 
+      <figure>
+        <graphic url="/images/GUIPRO_01GF.gif" />
+      </figure></p>
+      <p id="GUIPRO0037">
+      <pb n="[79]" />Quamvis autem duo semper toni in una sint littera vel voce, tamen multo melius et frequentius conveniunt singulis neumis ac sonis formulae toni secundi, quarti, sexti et octavi. Nam formulae primi, tertii, quinti et septimi non conveniunt, nisi cum cantus ab alto descendens in gravem devenerit finem.</p>
+      <p id="GUIPRO0038">
+      <pb n="[80]" />Illud tandem cognosce, quia, si vis in his notis proficere, necesse est, ut aliquantos cantos ita memoriter discas ut per singulas neumas modos vel sonos omnes, qui vel quales sint, memoriter sentias. Quoniam quidem longe aliud est memoriter sapere, quam memoriter canere, cum illud soli habeant sapientes, hoc vero saepe faciunt imprudentes. 
+      <pb n="[81]" />Et simplicibus quidem ad cognoscendas simpliciter neumas ista sufficiant. Quomodo autem liquescant voces, et an adhaerentes vel discretae sonent, quaeve sint morosae vel tremulae, vel subitaneae, vel quomodo cantilena distinctionibus dividatur, et an vox sequens ad praecedentem gravior, vel acutior, vel aequisona sit, facili colloquio in ipsa neumarum figura monstratur, si ut debent, ex industria componantur.</p>
+    </body>
+  </text>
+</TEI>

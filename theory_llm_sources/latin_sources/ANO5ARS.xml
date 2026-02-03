@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Ars cantus mensurabilis</title>
+        <title type="abbrev">ANO5ARS</title>
+        <author>Anonymous V</author>
+        <date notBefore="1400" notAfter="1499">15th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>C. Matthew Balensuela</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Sandra Pinegar</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1990</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>Scriptorum de musica medii aevi nova series a Gerbertina altera</emph>, 4 vols., ed. Edmond de Coussemaker (Paris: Durand, 1864-76; reprint ed., Hildesheim: Olms, 1963), 3:379–98.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: Ars cantus mensurabilis mensurata per modos iuris</title>
+          
+<idno type="LML">ANON. Couss. V</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 7369, 9-25</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fl Plut. XXIX. 48, 73-82v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fr 734, 107-122</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-NORan 1260, b, g (Fragment)</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANO5ARS0001">
+      <pb n="[379]" />Anonymi V</p>
+      <p id="ANO5ARS0002">Ars cantus mensurabilis</p>
+      <p id="ANO5ARS0003">Ad honorem et gloriam Sanctissime Trinitatis et Sancte Virginis Marie et omnium sanctorum; incipit ars cantus mensurabilis mensurata per modos juris et cum allegationibus ad hoc sufficienter inclusis.</p>
+      <p id="ANO5ARS0004">Cum multi antiqui modernique cantores peritiores artium fuerunt, nec aliquis illorum suam probaverit artem, indignum videtur et inhonestum quod ego presumam excitare quod alii neglexerunt, cum sim inter cantores minimus. Sed considerato 
+      <pb n="[380]" />quod inter cetera opera caritatis non minimum est errantes ab erroribus suis scientia revocare, ut jus dicit in rubrica "de Sponsalicis" Capitulo: Inter cetera; videns varias multorum opiniones atque diversas fallacias, dicta mei magistri nolens improbare, confusis aliquibus dictis aliquorum magistrorum Italicorum que dictis Gallorum videntur obviare; considerato quod cythara cum psalterio se male concordat, rogatuque meorum amicabilium fratrum confisus gratia dei dicentis in Isaia Propheta, capitulo: Aperi os tuum; et ego adimplebo illud, unum de pluribus eligo, de ejus pennis me adornabo aliqualiter, non quod sua probaverit dicta, sed quia sub ejus magisterio alitus sum atque nutritus, atque inter alios me melius discisse prohibeo. Quedam namque humilia per modum conclusionis, quamvis minus sufficienter, pertractabo, submittendo illa magistrorum meorum nec non et secundum artem Gallicorum peritorum correctioni, ut que sunt corrigenda corrigant, que resecanda resecentur, et que commendanda commendentur.</p>
+      <p id="ANO5ARS0005">Attendat ergo volens hanc in praticam ponere ne suo ducatur proprio sensu, ut cum remittitur esse discipulus veritatis, fiat magister erroris; sed sepe interroget, interrogata retineat et retenta doceat, quia hec tria discipulum faciunt superare magistrum.</p>
+      <p id="ANO5ARS0006">Dividitur autem hic tractatus in duobus tractatibus. Sequitur tractatus in quo agitur de musica mensurabili; in secundo de contrapuncto; secundus ibi: Cum notum divisio, etc.</p>
+      <p id="ANO5ARS0007">I.</p>
+      <p id="ANO5ARS0008">De musica mensurabili.</p>
+      <p id="ANO5ARS0009">Cum ergo bene noscatur quelibet scientia sua presupponere principia, quibus ipsa tota probatur, hoc primo faciam; secundo ponam conclusiones de figurationibus: tertio de puncto; quarto de imperfectionibus; quinto de perfectionibus; sexto de alterationibus; septimo de syncopationibus; octavo de quadrangulis et circulis et semicirculis; nono de evacuationibus seu figuris rubeis; decimo de pausationibus; undecimo de tallis et coloribus; duodecimo de diminutionibus.</p>
+      <p id="ANO5ARS0010">Primum principium.</p>
+      <p id="ANO5ARS0011">Quod modus, tempus et prolatio sunt duplicia in musica, scilicet perfecta et imperfecta; nec aliud illorum habet aliud perficere vel imperficere. Unde Boetius "de consolatione", libro tertio capitulo undevicesimo: "Omnia namque perfecta minus integris priora esse claruerunt."</p>
+      <p id="ANO5ARS0012">Secundum principium.</p>
+      <p id="ANO5ARS0013">Quod perfectum ad imperfectum reducitur; imperfectum vero ad perfectum quandoque comminatur.</p>
+      <p id="ANO5ARS0014">Tertium principium.</p>
+      <p id="ANO5ARS0015">Quod simile positum ante suum simile in modo, tempore et prolatione perfecta numquam erit dissimile. Et tunc fit prima conclusio.</p>
+      <p id="ANO5ARS0016">Prima conclusio.</p>
+      <p id="ANO5ARS0017">Quod ultra perfectum nihil datur, probatur per diffinitionem ipsius perfecti, quod perfectum est id cui nihil deest; ergo conclusio vera; et Boetius "de consolatione" libro tertio captulo undevicesimo "Quod perfectum non sit, id summum non esse manifestum est"; 
+      <pb n="[381]" />ergo per locum a contrario sensu, quod perfectum dicitur id quod summum esse dignoscitur, et quod ultra summum nihil datur; ergo, etc.</p>
+      <p id="ANO5ARS0018">Secunda conclusio.</p>
+      <p id="ANO5ARS0019">Quod perfectum dividitur in trinario numero, probatur per philosophum in primo "De celo" quod omnis perfectio in trinitate consistit.</p>
+      <p id="ANO5ARS0020">Tertia conclusio.</p>
+      <p id="ANO5ARS0021">Quod quinque sunt partes prolationis, scilicet maxima, longa, brevis, semibrevis et minima, probatur in naturalibus, datur maximum et minimum; ergo in artificialibus tenent genera. Ars autem imitatur naturam in quantum potest assummi, probatur, quia dicitur minimum quod non est maximum; quod si sit, tunc sic, cum jam presupposita sint esse in musica modus et tempus et prolatio, et hoc in primo principio, et quod non approprientur conjunctim neque disjunctim, maxime nec minime; ergo opportet quod alia tria attingantur quibus approprientur ista tria que sunt minora maxime et majora minime, quia ultra ista nihil datur; probatur quid nominis istorum. Et cum Magister Johannes de Muris dicat ipsam esse longam, brevem et semibrevem, ergo sibi est standum. Probatur consequentia quia cuilibet experto in arte sua est credendum per locum ab anteriore; ob hoc dicit quod modus accipitur a longa, tempus a brevi, et prolatio a semibrevi figurationes autem sunt hec:</p>
+      <p id="ANO5ARS0022">[MX,L,B,S,M on staff3]</p>
+      <p id="ANO5ARS0023">Quarta conclusio.</p>
+      <p id="ANO5ARS0024">Quod quandocumque est longa perfecta vel reducibilis ad perfectionem, modus est perfectus; et e converso. Quando brevis est perfecta, tempus est perfectum; et quando semibrevis est perfecta, prolatio dicitur perfecta, et contra. Probatur quia modus accipitur a longa, et e converso, ut supradictum est in prolatione secunde conclusionis. Unde ista conclusio non est simplex vera, nisi intelligatur ipsam substantialiter in modo perfecto longarum, et sic de aliis, quia accidentaliter longa extante perfecta, modus erit imperfectus et e converso.</p>
+      <p id="ANO5ARS0025">Quinta conclusio.</p>
+      <p id="ANO5ARS0026">Quod quamvis maxima sit pars prolationis, respectu tamen aliarum partium quatuor ad totum, probatur quia continet in se omnes alias partes, videlicet longam, brevem, semibrevem et minimam, et hoc declarabitur in sequenti exemplo.</p>
+      <p id="ANO5ARS0027">Sexta conclusio.</p>
+      <p id="ANO5ARS0028">Quod longe dicantur partes propinque ipsius maxime, breves remote, semibreves remotiores, minime remotissime. Ratio est satis clara, quia longe sunt propinquiores brevibus ipsius maxime et ideo propinque nominantur, et sic de singulis; sicut dictum est de maxima respectu suarum partium, sic de longa et de omnibus aliis respectu aliarum partium, id est de brevi et de semibrevi.</p>
+      <p id="ANO5ARS0029">Septima conclusio.</p>
+      <p id="ANO5ARS0030">Quod minima taliter est pars quod non potest esse totum, ideo quia non habet partes sub se; ergo conclusio vera. Assumptum probatur per quod modis ipsius minimum. Et hic ultra patet:</p>
+      <p id="ANO5ARS0031">Quomodo maxima continet longas:</p>
+      <p id="ANO5ARS0032">[MX,L,L,L on staff3]</p>
+      <p id="ANO5ARS0033">
+      <pb n="[382]" />Quomodo continet breves:</p>
+      <p id="ANO5ARS0034">[MX,B,B,B,B,B,B,B,B,B on staff3]</p>
+      <p id="ANO5ARS0035">Quomodo semibreves:</p>
+      <p id="ANO5ARS0036">[MX,S,S,S,S,S,S on staff3]</p>
+      <p id="ANO5ARS0037">et debent esse numero 27.</p>
+      <p id="ANO5ARS0038">Quomodo minima:</p>
+      <p id="ANO5ARS0039">[MX,M,M,M on staff3]</p>
+      <p id="ANO5ARS0040">et debent esse numero 81.</p>
+      <p id="ANO5ARS0041">Quomodo longa continet breves:</p>
+      <p id="ANO5ARS0042">[L,B,B,B on staff3]</p>
+      <p id="ANO5ARS0043">Quomodo semibreves:</p>
+      <p id="ANO5ARS0044">[L,S,S,S,S,S,S,S,S,S on staff3]</p>
+      <p id="ANO5ARS0045">Quomodo minimas:</p>
+      <p id="ANO5ARS0046">[L,M,M,M on staff3]</p>
+      <p id="ANO5ARS0047">et debent esse numero 27.</p>
+      <p id="ANO5ARS0048">Quomodo brevis continet semibreves:</p>
+      <p id="ANO5ARS0049">[B,S,S,S on staff3]</p>
+      <p id="ANO5ARS0050">Quomodo minimas:</p>
+      <p id="ANO5ARS0051">[B,M,M,M,M,M,M,M,M,M on staff3]</p>
+      <p id="ANO5ARS0052">Quomodo semibrevis continet minimas:</p>
+      <p id="ANO5ARS0053">[S,M,M,M on staff3]</p>
+      <p id="ANO5ARS0054">De puncto.</p>
+      <p id="ANO5ARS0055">Prima conclusio.</p>
+      <p id="ANO5ARS0056">Punctus est cujus pars non est. Sic diffinitur in principio Grammatice, quod punctus in musica quandoque est ut signum in taberna, et hoc maxime quando ponitur in circulo vel semicirculo proprio, quia signum in taberna designat ibi vendere vinum tantum, sic punctus taliter positus designat esse cantus realis prolationis majoris scilicet vel minoris, et hoc ibi ubi tractabitur de circulo et semicirculo.</p>
+      <p id="ANO5ARS0057">Secunda conclusio.</p>
+      <p id="ANO5ARS0058">Quod idem facit punctus positus post maximam in modo perfecto maximarum, vel post longam in modo perfecto longarum, vel in tempore perfecto post brevem, vel post semibrevem in majori prolatione, quia tantum designat ipsas esse perfectas; melius videbitur hoc inferius in processu:</p>
+      <p id="ANO5ARS0059">[MX,pt,L,pt,B,pt,S,pt,MX,pt on staff3]</p>
+      <p id="ANO5ARS0060">Tertia conclusio.</p>
+      <p id="ANO5ARS0061">Quod punctus in musica quandoque dividit, et tunc dicitur divisionis, et hoc habet locum in modo, tempore et prolatione perfecta, ut hic:</p>
+      <p id="ANO5ARS0062">[MX,L,pt,Lig2d,L; L,L,pt,L,L; L,B,pt,Lig3cdsnodacddx; L,B,pt,Lig2art; B,S,pt,Lig3cssnodart; B,S,pt,S,B; S,M,pt,M,M,S; S,M,pt,M,S,L on staff3]</p>
+      <p id="ANO5ARS0063">Quarta conclusio.</p>
+      <p id="ANO5ARS0064">Punctus in musica quandoque perficit, et tunc dicitur perfectionis, et hoc habet locum in modo, tempore, prolatione imperfecta; et nota, quod punctus semper addit partem propinquam quando perficit, scilicet notam cui postponitur, ut hic:</p>
+      <p id="ANO5ARS0065">[MX,pt; L,pt; B,pt; S,pt; Lig2cdsnod,L,L,pt,Lig3ddcddx,Lig2cdsnod,S,L,S,pt,S,M,S,Bcdsn,pt,Lig2d,S,Lig2cdsnd on staff4]</p>
+      <p id="ANO5ARS0066">
+      <pb n="[383]" />Sequitur de imperfectionibus.</p>
+      <p id="ANO5ARS0067">Prima conclusio.</p>
+      <p id="ANO5ARS0068">Quod maxima in modo perfecto maximarum valet tres longas:</p>
+      <p id="ANO5ARS0069">[MX,L,L,L on staff3]</p>
+      <p id="ANO5ARS0070">probatur per secundam conclusionem, quod omne perfectum est divisibile in tres partes equales et sibi propinquas; cum autem maxima sit perfecta et longe sint partes propinque sue; ergo, etc.</p>
+      <p id="ANO5ARS0071">Secunda conclusio.</p>
+      <p id="ANO5ARS0072">Quod in modo perfecto maximarum maxima stat esse perfecta, suis propinquis partibus exstantibus imperfectis; probatur istud per primum principium ubi dicitur quod unum illorum non habet perficere reliquum, ergo est conclusio vera, cum sit alius modus maximarum et alius longarum; sed non aliud, ut hic:</p>
+      <p id="ANO5ARS0073">[MX; L,L,L; B,B; B,B on staff3]</p>
+      <p id="ANO5ARS0074">Tertia conclusio.</p>
+      <p id="ANO5ARS0075">Quod quandocumque inter duas maximas in modo perfecto maximarum vel inter pausas ipsius valorem continentes et maximam, vel inter punctum et maximam, inveniuntur due longe perfecte numerate, ultima alteratur, ut hic:</p>
+      <p id="ANO5ARS0076">[MX,Lig2d,MX; LP,L,L,MX,L,pt,Lig2d,MX,LP; Lig2d,MX,Lig2a,MX,L,pt,Lig2Lacddx,MX on staff4]</p>
+      <p id="ANO5ARS0077">Probatur talis conclusio sic: cum modus perfectus sit divisibilis in tres partes equales per secundam conclusionem, et ibi sint tantum due partes, oportet ergo quod addatur in tertia ibi ad hoc ut modus perficiatur, et talis additio non potest fieri ut cantus remaneat in suo esse divisum et distinctum. Ergo oportet quod una illarum habeat vim duarum longarum, et non prima, quia jam numerata est; et quod semel dictum est amplius, recitari non debet. Regula juris est ergo secunda; nec illa secunda ex se substantialiter valet duas, sed accidentaliter. Considerare ergo debet cantor vel cantans quod ibi sint due note, ita et taliter signate quemamodum illa una.</p>
+      <p id="ANO5ARS0078">Item si inter duas maximas erit pausa unius longe et una longa, vel si inter pausas continentes valorem, ut dictum est, vel si inter punctum et maximam, ut hic:</p>
+      <p id="ANO5ARS0079">[MX,LP,L,MX,LP,LP,LP; L,MX,L,pt,LP,L,MX on staff4]</p>
+      <p id="ANO5ARS0080">Quarta conclusio.</p>
+      <p id="ANO5ARS0081">Quod quandocumque inter duas maximas in modo perfecto maximarum remaneat sola longa, perfectione numerata, imperficit primam se precedentem, nisi per punctum impediatur, et tunc imperficit secundam.</p>
+      <p id="ANO5ARS0082">Item si longa ponitur ante maximam et non maximas, imperficit ipsam sequentem, ut hic:</p>
+      <p id="ANO5ARS0083">[CSIII:383; text: 1, 2, 3] 
+      <figure>
+        <graphic url="/images/ANO5ARS_01GF.gif" />
+      </figure></p>
+      <p id="ANO5ARS0084">Idem judicium de pausa valorem ipsius longe importante. Probo conclusionem per secundum principium, scilicet quod perfectum ad imperfectum, etc. Queratur autem quare potius imperficitur secunda quam prima? Regula universalis est quod qui prior est tempore, potior est jure. Cum ergo prima maxima sit prior secunda, ergo, etc.</p>
+      <p id="ANO5ARS0085">In gramaticalibus etiam masculinum concipit femininum, non alia ratione, nisi quia ipsum fuit prius feminino et per consequens dignius. Restat ergo conclusio vera.</p>
+      <p id="ANO5ARS0086">Posset dicere quis quare illa est dignior et 
+      <pb n="[384]" />potior quod non potest fieri? Quia sint duo patres familias quorum quilibet habeat triginta, et unus eorum dare possit ad suum velle decem alicui, reliquus nihil. Quis ergo istorum dignior erit et potior, nonne qui magis gaudet libertate? Sic est, et hec illa est dignior que potest suum valorem dividere.</p>
+      <p id="ANO5ARS0087">Quinta conclusio.</p>
+      <p id="ANO5ARS0088">Quod maxima ante maximam in modo perfecto maximarum semper est perfecta, nec potest imperfici in propria figura stante, probatur per tertium principium, quod simile positum ante suum simile numquam erit imperfectum, verbi gratia: si maxima in modo perfecto maximarum sequitur maximam, prima semper erit perfecta; et si centum essent perfecte, nec possent imperfici preter ultimam que potest imperfici, nisi punctus impediat, ut hic:</p>
+      <p id="ANO5ARS0089">[L,MX,MX; L,MX,MX,MX,MX,MX,MX; L,MX,MX,MX,MX,pt,MX,pt,L,pt,L,MX on staff4]</p>
+      <p id="ANO5ARS0090">Hec ultima figuratio dicitur syncopa de qua dicetur suo loco.</p>
+      <p id="ANO5ARS0091">Sequitur de imperfectione maxime perfecte cujus omnes partes sunt perfecte.</p>
+      <p id="ANO5ARS0092">Prima conclusio.</p>
+      <p id="ANO5ARS0093">Qualiter ergo imperficiatur videndum est, et ad hoc, ut clarius pateat, recipiatur maxima perfecta cujus partes tam propinque quam remote atque remotiores sint perfecte; et sic ista prima conclusio.</p>
+      <p id="ANO5ARS0094">Secunda conclusio.</p>
+      <p id="ANO5ARS0095">Quod maxima perfecta, cujus omnes partes sunt perfecte, potest imperfici dupliciter, videlicet quo ad totum et quo ad partes tam propinquas quam remotas, probatur per secundam conclusionem in principio, videlicet quod omne perfectum in trinario numero dividitur, et per secundum principium potest imperfici a ternario parte, quia perfectum ad imperfectum reducitur, cum ergo maxima sit perfecta et quelibet ejus pars; ergo, etc.</p>
+      <p id="ANO5ARS0096">Tertia conclusio.</p>
+      <p id="ANO5ARS0097">Quod maxima perfecta ut supra potest imperfici quo ad totum ab una longa precedente vel sequente, probatur per secundum principium, scilicet quod omnes perfectum ad imperfectum reducitur. Cum ergo ipsa sit perfecta, potest imperfici a tertia parte sui valoris, et cum sit valoris trium longarum, potest imperfici ab una, ut hic patet:</p>
+      <p id="ANO5ARS0098">[CSIII:384; text: 1, 2, 3]</p>
+      <p id="ANO5ARS0099">Item de pausis longarum dicendum est.</p>
+      <p id="ANO5ARS0100">Tertia conclusio.</p>
+      <p id="ANO5ARS0101">Quod maxima perfecta, ut supra, potest imperfici quo ad partem unam propinquam ab una brevi, probatur per secundum principium, quia ipsa est perfecta; ergo potest imperfici a tertia parte, ut hic:</p>
+      <p id="ANO5ARS0102">[L,MX,L; B,MX,L on staff3]</p>
+      <p id="ANO5ARS0103">Item de pausis brevis.</p>
+      <p id="ANO5ARS0104">Quarta conclusio.</p>
+      <p id="ANO5ARS0105">Quod maxima sic dicta potest imperfici ab una alia brevi quo ad secundam partem propinquam ipsius, probatur per rationes supradictas, ut hic:</p>
+      <p id="ANO5ARS0106">[L,B,MX,B; B,MX,B,L on staff3]</p>
+      <p id="ANO5ARS0107">Item de pausis semibrevis.</p>
+      <p id="ANO5ARS0108">Quinta conclusio.</p>
+      <p id="ANO5ARS0109">Quod maxima sic dicta potest imperfici ab una semibrevi quo ad primam partem sibi remotam, ut hic:</p>
+      <p id="ANO5ARS0110">
+      <pb n="[385]" />[L,B,S,MX,B; B,S,MX,B,L on staff3]</p>
+      <p id="ANO5ARS0111">ratio hec est, quia quelibet ejus pars remota est perfecta; ergo potest reduci ad imperfectionem, ut dicit secundum principium.</p>
+      <p id="ANO5ARS0112">Item de pausis.</p>
+      <p id="ANO5ARS0113">Sexta conclusio.</p>
+      <p id="ANO5ARS0114">Quod maxima sic dicta potest imperfici ab una alia semibrevi, et hoc quo ad secundam partem ejus remotam propter rationem ejus positam, ut hic:</p>
+      <p id="ANO5ARS0115">[L,B,S,MX,S,B; B,S,MX,S,B,L on staff3]</p>
+      <p id="ANO5ARS0116">Item de pausis.</p>
+      <p id="ANO5ARS0117">Septima conclusio.</p>
+      <p id="ANO5ARS0118">Quod maxima sic dicta potest imperfici ab una alia semibrevi, et hoc quoad tertiam partem ejus remotam propter rationes supradictas, ut hic:</p>
+      <p id="ANO5ARS0119">[L,B,S,S,MX,S,B; B,S,MX,S,S,B,L; B,S,S,MX,S,B,L on staff3]</p>
+      <p id="ANO5ARS0120">Octava conclusio.</p>
+      <p id="ANO5ARS0121">Quod maxima sic dicta potest imperfici ab una alia semibrevi, et hoc quoad quartam partem remotam sibi propter rationes suprapositas, ut hic:</p>
+      <p id="ANO5ARS0122">[L,B,S,S,MX,S,S,B; B,S,S,MX,S,S,B,L on staff3]</p>
+      <p id="ANO5ARS0123">Nona conclusio.</p>
+      <p id="ANO5ARS0124">Quod maxima sic dicta potest imperfici ab una minima et hoc quo ad unam ejus partem remotiorem, ratio est quia quelibet ejus pars remotior est perfecta; ergo per secundum principium potest reduci ad imperfectam, ut hic:</p>
+      <p id="ANO5ARS0125">[L,B,S,S,M,MX,S,S,B; B,S,M,MX,S,S,B,L; B,S,S,MX,M,S,S,B,L on staff3]</p>
+      <p id="ANO5ARS0126">Decima conclusio.</p>
+      <p id="ANO5ARS0127">Quod maxima sic dicta potest imperfici ab una alia minima et hoc quo ad secundam partem ejus remotiorem per rationem supra positam, ut hic:</p>
+      <p id="ANO5ARS0128">[L,B,S,S,M,MX,M,S,S,B; B,S,S,M,MX,M,S,S,B,L on staff3]</p>
+      <p id="ANO5ARS0129">Undecima conclusio.</p>
+      <p id="ANO5ARS0130">Quod maxima sic dicta potest imperfici ab una alia minima et hoc quo ad tertiam partem remotiorem propter rationes suprapositas, ut hic:</p>
+      <p id="ANO5ARS0131">[L,B,S,S,M,M,MX,M,S,S,B; L,B,S,S,M,MX,M,M,S,S,B; B,S,S,M,MX,M,M,S,S,B,L on staff3]</p>
+      <p id="ANO5ARS0132">Duodecima conclusio.</p>
+      <p id="ANO5ARS0133">Quod maxima sic dicta potest imperfici ab una alia minima et hoc quo ad ejus quartam partem remotiorem, ratione supraposita, ut hic patet per exemplum:</p>
+      <p id="ANO5ARS0134">[L,pt,B,pt,S,pt,S,pt,M,pt,M,pt,MX,M,pt,M,pt,S,pt,S,pt,B,pt; B,pt,S,pt,S,pt,M,pt,M,pt,MX,M,pt,M,pt,S,pt,S,pt,B,pt,L on staff3]</p>
+      <p id="ANO5ARS0135">Quod plus non potest imperfici, quia imperfecta est ipsa et omnes ejus partes remanent; ergo si valor maxime imperfecte, que quidem valet duas longas imperfectas, que sunt valore quatuor brevium imperfectarum, que continent in se octo semibreves minoris prolationis, que valent sexdecim minimas; valebat prius tres longas perfectas que erant valoris novem brevium perfectarum; que continebant in se XXVII semibreves prolationis majoris; que valebant LXXXI minimas. Et hoc de 
+      <pb n="[386]" />modo maximarum et de imperfectione ipsius maxime perfecte, cujus omnes partes sunt perfecte sufficiant.</p>
+      <p id="ANO5ARS0136">Sequitur de modo longarum.</p>
+      <p id="ANO5ARS0137">Et primo presupponuntur prolationes conclusionum maxime perfecte cujus omnes partes sunt perfecte verificari de conclusionibus ponendis in modo longarum, mutato tamen vocabulo ubi scilicet dicitur de maxima, dicatur longa, et tunc ergo sit prima conclusio.</p>
+      <p id="ANO5ARS0138">Prima conclusio.</p>
+      <p id="ANO5ARS0139">Quod longa, in modo perfecto longarum, valet tres breves, hoc probatur sicut fuit probata prima conclusio de modo maximarum:</p>
+      <p id="ANO5ARS0140">[L; B,B,B on staff3]</p>
+      <p id="ANO5ARS0141">Secunda conclusio.</p>
+      <p id="ANO5ARS0142">Quod in modo perfecto longarum stat longam esse perfectam suis partibus propinquis existentibus imperfectis, probatur sicut probata fuit secunda conclusio de modo maximarum, ut hic:</p>
+      <p id="ANO5ARS0143">Tertia conclusio.</p>
+      <p id="ANO5ARS0144">Quod quandocumque inter duas longas de modo perfecto longarum vel inter pausam et longam vel inter punctum et longam inveniuntur due breves perfecte numerate, ultima alteratur, probatur sicut fuit probata tertia conclusio de modo maximarum. Item si ante longam, idem judicium est,vel ante longas, etc.:</p>
+      <p id="ANO5ARS0145">[ClefC3,L,Lig2cdsnod,L; Lig2cdsnod,L; L,B,pt,Lig2cdsnod,L on staff4]</p>
+      <p id="ANO5ARS0146">Quarta conclusio.</p>
+      <p id="ANO5ARS0147">Quod quaudocumque inter duas longas de modo perfecto longarum remanet sola brevis perfectione numerata, imperficit primam longam se precedentem, nisi per punctum impediatur; et tunc imperficit secundam sequentem. Probatur ista sicut fuit probata quarta conclusio de modo maximarum, ut sic; si ante longam idem judicium est; non autem ante longas:</p>
+      <p id="ANO5ARS0148">[ClefC3,L,B,L,B,L; L,pt,B,L,L,pt,Lig2cdsnd; L,B,pt,B,L on staff4]]</p>
+      <p id="ANO5ARS0149">Quinta conclusio.</p>
+      <p id="ANO5ARS0150">Quod longa ante longam semper est perfecta in modo perfecto longarum, et si figuratur in propria figura, probatur per quintam conclusionem de modo perfecto maximarum, ut hic:</p>
+      <p id="ANO5ARS0151">[L,L,L; L,L,L; B,L,L,L,L; B,L,L,L on staff3]</p>
+      <p id="ANO5ARS0152">Ultima imperficiatur nisi punctus ponatur, et tunc erit perfecta, ut hic; et hec figura dicitur syncopa de qua in suo loco dicetur:</p>
+      <p id="ANO5ARS0153">[B,L,L,L,L,Lig2d,pt,B,pt,B on staff3]</p>
+      <p id="ANO5ARS0154">Sequitur de imperfectione ipsius longe perfecte cujus omnes partes erunt perfecte.</p>
+      <p id="ANO5ARS0155">Prima conclusio.</p>
+      <p id="ANO5ARS0156">Quod longa perfecta cujus omnes partes sunt perfecte potest imperfici dupliciter quo ad totum et quo ad partes, probatur sicut probata fuit in prima conclusione de imperfectione maxime perfecte cujus omnes partes sunt perfecte; et sic secunda sicut secunda probatur et tertia et quarta; et sic de singulis usque ad finem.</p>
+      <p id="ANO5ARS0157">Quod longa sic dicta potest imperfici quo ad totum ab una brevi precedente vel sequente, ut hic:</p>
+      <p id="ANO5ARS0158">[L,B; B,L]</p>
+      <p id="ANO5ARS0159">Quod longa sic dicta potest imperfici quo ad unam ejus partem propinquam ab una semibrevi, ut hic:</p>
+      <p id="ANO5ARS0160">
+      <pb n="[387]" />[B,pt,S,L; B,L,S; S,L,B; L,S,pt,B on staff3]</p>
+      <p id="ANO5ARS0161">Quod longa sic dicta potest imperfici ab una alia semibrevi, et hoc quo ad secundam ejus partem propinquam, ut hic:</p>
+      <p id="ANO5ARS0162">[B,pt,S,L,S; S,L,S,L on staff3]</p>
+      <p id="ANO5ARS0163">Quod longa sic dicta potest imperfici ab una minima, et hoc quo ad primam partem sibi remotam, ut hic:</p>
+      <p id="ANO5ARS0164">[B,pt,S,pt,M,L,pt,S; S,pt,M,L,S,pt,B; S,L,M,pt,S,B on staff3]</p>
+      <p id="ANO5ARS0165">Quod longa sic dicta potest imperfici ab una alia minima, et hoc quo ad secundam partem ejus sibi remotam, ut hic:</p>
+      <p id="ANO5ARS0166">[B,S,M,L,M,B; S,M,L,M,S,L on staff3]</p>
+      <p id="ANO5ARS0167">Quod longa sic dicta potest imperfici ab una alia minima et hoc quo ad tertiam ejus partem sibi remotam, ut hic:</p>
+      <p id="ANO5ARS0168">[B,pt,S,pt,M,pt,M,L,M,S; B,S,pt,M,L,M,pt,M,S,B on staff3]</p>
+      <p id="ANO5ARS0169">Quod longa sic dicta potest imperfici ab una alia minima et hoc quo ad quartam ejus partem remotam, ut hic:</p>
+      <p id="ANO5ARS0170">[B,pt,S,pt,Mcd,pt,Mcd,L,M,pt,M,S; S,pt,M,pt,M,L,M,pt,M,S,B on staff3]</p>
+      <p id="ANO5ARS0171">Et plus non potest imperfici. Ratio est quia est imperfecta ipsa et omnes ejus partes. Valet ergo duas breves imperfectas que valent quatuor semibreves, que continent in se valorem octo minimarum; valebant prius tres perfectas breves que erant valoris novem semibrevium, que continebant in se XXVII minimas. Et hec de imperfectione ipsius sufficiat, etc.</p>
+      <p id="ANO5ARS0172">Sequitur de tempore perfecto.</p>
+      <p id="ANO5ARS0173">Prima conclusio.</p>
+      <p id="ANO5ARS0174">Quod brevis in tempore perfecto valet tres semibreves, probationes ponuntur hic sicut, posite fuerunt in modo perfecto maximarum, mutato enim vocabulo, scilicet de maxima dicitur brevis, ut hic ponitur exemplum:</p>
+      <p id="ANO5ARS0175">[B,S,S,S; S,S,S; B; S,S,S on staff3]</p>
+      <p id="ANO5ARS0176">Quod in tempore perfecto stat brevis fore perfecta suis propinquis partibus existentibus imperfectis.</p>
+      <p id="ANO5ARS0177">Quod quandocumque inter duas breves in tempore perfecto vel inter pausam et brevem vel inter punctum et brevem inveniuntur due semibreves perfecte, ultima alteratur, ut hic in alia parte monstratur. Idem ante brevem vel breves:</p>
+      <p id="ANO5ARS0178">[B,S,S,B; BP,S,S,B; S,S,S,pt,S,S,B; S,S,B on staff3]</p>
+      <p id="ANO5ARS0179">Quod quandocunque inter duas breves in tempore perfecto remanet sola semibrevis, perfectione numerata, imperficit primam se precedentem, nisi punctus ponatur; et tunc imperficit secundam se sequentem immediate. Idem si ante brevem ponatur et non breves, ut hic:</p>
+      <p id="ANO5ARS0180">[B,S,B; B,pt,S,B; S,B on staff3]</p>
+      <p id="ANO5ARS0181">Quod in tempore perfecta brevis ante brevem numquam erit imperfecta, si in propria figura figuratur, ut hic:</p>
+      <p id="ANO5ARS0182">[S,B,B; S,B,B,B,B,B,B on staff3]</p>
+      <p id="ANO5ARS0183">et tunc ultima imperficitur, nisi punctus ponatur, ut hic:</p>
+      <p id="ANO5ARS0184">[S,B,B,B,S,pt,L on staff3]</p>
+      <p id="ANO5ARS0185">Qualiter autem imperficiatur, videndum est, et 
+      <pb n="[388]" />ut magis sit clarum, recipiatur brevis perfecta cujus partes sunt perfecte.</p>
+      <p id="ANO5ARS0186">Prima conclusio.</p>
+      <p id="ANO5ARS0187">Quod brevis perfecta cujus partes sunt perfecte potest imperfici dupliciter quo ad totum et quo ad partes tantum propinquas, probationes ponuntur hic quemadmodum in imperfectione maxime perfecte cujus omnes partes sunt perfecte.</p>
+      <p id="ANO5ARS0188">Quod brevis perfecta potest imperfici quo ad totum ab una semibrevi precedente vel sequente, ut hic:</p>
+      <p id="ANO5ARS0189">[S,B; B,S on staff3]</p>
+      <p id="ANO5ARS0190">Quod brevis sic dicta potest imperfici ab una minima quo ad unam partem propinquam, ut hic:</p>
+      <p id="ANO5ARS0191">[S,B,M; M,B,S,B on staff3]</p>
+      <p id="ANO5ARS0192">Quod brevis sic dicta potest imperfici ab una alia minima et hoc quo ad aliam partem propinquam, ut hic exemplum:</p>
+      <p id="ANO5ARS0193">[S,pt,M,B,M; M,B,M,pt,S on staff3]</p>
+      <p id="ANO5ARS0194">Et pluribus modis non potest imperfici, quia remanet imperfecta ipsa et ejus partes. Est enim valoris duarum semibrevium imperfectarum que valent quatuor minimas; valebat prius tres semibreves perfectas que erant valoris novem minimarum.</p>
+      <p id="ANO5ARS0195">Sequitur de prolatione perfecta sive majori.</p>
+      <p id="ANO5ARS0196">Prima conclusio.</p>
+      <p id="ANO5ARS0197">Quod semibrevis valet tres minimas prolationis majoris, probationes erunt hic sicut posite fuerunt in modo perfecto maximarum, mutato tamem vocabulo maxime in vocabulo semibrevis, et sic de aliis respective.</p>
+      <p id="ANO5ARS0198">Quod numquam semibrevis potest esse perfecta, suis partibus existentibus imperfectis, probatur hoc tamen quia non habet nisi partes propinquas tantum, et cum ille partes sint minime, et cum minima taliter sit pars quod non potest esse totum, ut supra demonstratum est. Ergo conclusio vera, quia partes remanent indivisibiles.</p>
+      <p id="ANO5ARS0199">Secunda conclusio.</p>
+      <p id="ANO5ARS0200">Quod quandocumque inter duas semibreves majoris prolationis inveniuntur due minime perfectione numerata, vel inter pausam semibrevem, vel inter punctum et semibrevem, ultima alteratur, ut hic:</p>
+      <p id="ANO5ARS0201">[S,M,M,S; S,M,M,S; SP,M,Scd,S; S,pt,M,M,M,S,L on staff3]</p>
+      <p id="ANO5ARS0202">Tertia conclusio.</p>
+      <p id="ANO5ARS0203">Quod quandocumque inter duas semibreves majoris prolationis remanet sola minima, perfectione numerata, imperficit primam se precedentem nisi punctus ponatur et tunc imperficit secundam sequentem; et si ante semibrevem reperitur, idem est judicium, ut hic:</p>
+      <p id="ANO5ARS0204">[S,M,S; S,pt,M,S; pt,S,M,S; M,S on staff3]</p>
+      <p id="ANO5ARS0205">Quarto conclusio.</p>
+      <p id="ANO5ARS0206">Quod semibrevis in majori prolatione posita ante semibrevem semper erit perfecta, dummodo in propria figura figuretur, ut hic:</p>
+      <p id="ANO5ARS0207">[S,S,S,S,Mcd; S,S,S; S,S,S on staff3]</p>
+      <p id="ANO5ARS0208">Tunc imperficitur nisi punctus ponatur, ut hic:</p>
+      <p id="ANO5ARS0209">[CSIII:388]</p>
+      <p id="ANO5ARS0210">Et hec figuracio dicitur syncopa.</p>
+      <p id="ANO5ARS0211">De imperfectione ipsius.</p>
+      <p id="ANO5ARS0212">Prima conclusio.</p>
+      <p id="ANO5ARS0213">Quod semibrevis majoris prolationis potest imperfici quo ad totum ab una minima, ut hic:</p>
+      <p id="ANO5ARS0214">
+      <pb n="[389]" />Secunda conclusio.</p>
+      <p id="ANO5ARS0215">Quod semibrevis majoris prolationis quo ad partes non potest imperfici. Ratio, quia non sunt divisibiles, ergo etc., et hec de imperfectione sufficiant.</p>
+      <p id="ANO5ARS0216">De modo imperfecto maximarum.</p>
+      <p id="ANO5ARS0217">Prima conclusio.</p>
+      <p id="ANO5ARS0218">Quod maxima imperfecta de modo imperfecto maximarum cujus omnes partes sunt perfecte non potest imperfici quo ad totum. Ratio quia non est disivibilis in tres partes equales, et probatur cum in jure sit cantus, quod nihil debeat duplici contritione contineri unico respectu; ergo cum ipsa sit imperfecta, amplius imperfici non potest; non debet per consequens quo ad totum.</p>
+      <p id="ANO5ARS0219">Quod maxima imperfecta cujus omnes partes sunt perfecte potest perfici quo ad totum, et dicitur illa perfectione accidentali, non autem substantiali perfici, probo ista per secundum principium ubi dicitur quod imperfectum ad perfectum quandoque cominatur, et hoc non potest fieri nisi per punctum, ut hic patet exemplum:</p>
+      <p id="ANO5ARS0220">[MX,pt; MX,pt; MX,pt on staff3]</p>
+      <p id="ANO5ARS0221">Quod omnes partes sue possunt imperfici sicut jam superius imperfecte sunt, probatur, quia sunt perfecte; ergo, etc.</p>
+      <p id="ANO5ARS0222">De longa imperfecta cujus omnes partes sunt perfecte.</p>
+      <p id="ANO5ARS0223">Quod longa imperfecta de modo imperfecto longarum quo ad totum non potest imperfici, probatur sicut probatum est supra de maxima imperfecta.</p>
+      <p id="ANO5ARS0224">Quod longa sic dicta potest per punctum perfici, ut hic:</p>
+      <p id="ANO5ARS0225">[L,pt; L,pt,L,pt; L,pt on staff3]</p>
+      <p id="ANO5ARS0226">probatur sicut fuit supraprobatum de maxima imperfecta. Quod omnes partes ejus possunt imperfici, cum sint perfecte, hoc patet per rationes suprapositas.</p>
+      <p id="ANO5ARS0227">De brevi in tempore imperfecto majoris prolationis.</p>
+      <p id="ANO5ARS0228">Quod brevis imperfecta majoris prolationis quo ad totum non potest imperfici hoc patet.</p>
+      <p id="ANO5ARS0229">Quod brevis sic dicta potest per punctum sic perfici, ut hic:</p>
+      <p id="ANO5ARS0230">[B,pt; B,pt; B,pt; B,pt on staff]</p>
+      <p id="ANO5ARS0231">Quod partes ejus possunt imperfici, cum sint divisibiles in tres partes.</p>
+      <p id="ANO5ARS0232">De semibrevibus minoris prolationis.</p>
+      <p id="ANO5ARS0233">Quod semibrevis minoris prolationis nullo modo potest imperfici cum nec ipsa nec partes ejus sint divisibiles in tres partes, ergo etc.</p>
+      <p id="ANO5ARS0234">Quod semibrevis minoris prolationis potest per punctum perfici, hoc patet ut hic per exemplum:</p>
+      <p id="ANO5ARS0235">[S,pt; S,pt; S,pt; S,pt on staff3]</p>
+      <p id="ANO5ARS0236">Si vero partes ipsius maxime vel longe vel brevis sint imperfecte, nullo modo possunt imperfici, quia nullum imperfectum potest imperfici. Et hec de imperfectione et perfectione sufficiant.</p>
+      <p id="ANO5ARS0237">De Alteratione.</p>
+      <p id="ANO5ARS0238">Ubi notandum est quod alteratio nihil aliud est quam forme alterius note reduplicatio. Et hoc potest fieri in modo perfecto, tempore et prolatione perfecta.</p>
+      <p id="ANO5ARS0239">Quod alteratio fit in modo perfecto, tempore et prolatione perfecta, hoc patet ex supradictis.</p>
+      <p id="ANO5ARS0240">Quod numquam aliqua nota ante minorem se vel equalem alteratur, sed semper ante majorem vel pausam majoris prolationis, quia in jure est, quod par impar nullum habet dimidium; ergo nec minor alteratur, ergo conclusio vera.</p>
+      <p id="ANO5ARS0241">
+      <pb n="[390]" />Quod nota alterata potest imperfici, probatur quia, posito quod alteratio fiat in modo perfecto maximarum et longarum, tunc quelibet longa erit perfecta; et tamen illa longa altera habet vim duarum longarum perfectarum, et tunc dicitur perfectum posse reduci ad imperfectum per imperfectionem; ergo etc.</p>
+      <p id="ANO5ARS0242">Quod longa sic alterata potest imperfici ab una brevi, et hoc quo ad unam longam propter rationem supradictam, ut hic:</p>
+      <p id="ANO5ARS0243">[B,pt,L,L,MX on staff3]</p>
+      <p id="ANO5ARS0244">Et hoc quo ad totum.</p>
+      <p id="ANO5ARS0245">Quod longa sic alterata potest imperfici ab una alia brevi, et hoc quo ad secundam longam, cum habet vim duarum longarum perfectarum, ut supra est expressum:</p>
+      <p id="ANO5ARS0246">[B,pt,B,pt,L,L,MX on staff3]</p>
+      <p id="ANO5ARS0247">Et hoc quo ad totum.</p>
+      <p id="ANO5ARS0248">Quod quelibet longa divisibilis in tres partes potest imperfici altera parte quo ad totum. Si autem pars earum sit perfecta, tam propinque quam remote poterunt imperfici, ut supra ostensum est. Sed imperfectio debet sibi semper preponi. Ratio, quia si preponeretur, tunc ille due longe non remanerent inter duas maximas et per consequens ultima non esset altera.</p>
+      <p id="ANO5ARS0249">Posset tamen quidam dicere quod etiam posito quod preponatur, non remanet inter duas maximas cum inter longam et primam maximam sit imperfectio illa. Verum est quod non remaneat inter duas maximas, sed bene inter punctum et maximam, quod idem est, ut supra ostensum est. Adhuc quis posset dicere quod tunc, scilicet quando postponitur imperfectio, punctabo ipsam. Et sic ille due longe remanebunt inter punctum et maximam et tunc pono conclusionem.</p>
+      <p id="ANO5ARS0250">Quod inter maximam de modo perfecto maximarum et punctum nulla nota alteratur. Et sic inter longam de modo perfecto longarum; similiter de brevi in tempore perfecto vel inter semibrevem in majori prolatione et punctum, nulla nota alteratur. Ratio est quia contradicetur secunde conclusioni que dicit quod nulla nota alteratur ante minorem; sed tunc bene posset poni post punctum minorem notam vel equalem, sicut ponitur quando alteratur inter punctum et maximam bene ponitur ante punctum minor vel equalis nota; et sic esset minus incongruum, ut hic inferius:</p>
+      <p id="ANO5ARS0251">[MX,L,L,pt,Lig2d,MX; MX,Lig3cdsnoda,pt,L,L,MX; MX,Lig2d,Lig3aod,MX; MX,pt,B,L,B,B,pt,MX; MX,L,L,B,pt,B,pt,MX; L,B,B,S,pt,S,L; L,pt,S,B,B,S,pt,L; B,pt,M,S,S,M,pt,B; S,M,M,pt,SM,SM,SM; S,M,M,pt,M,M,M,S; S,pt,M,S,M,M,M,S on staff4]</p>
+      <p id="ANO5ARS0252">Quod inter punctum et punctum nulla nota alteratur, ut hic:</p>
+      <p id="ANO5ARS0253">[MX,L,pt,L,L,pt,L,MX on staff3]</p>
+      <p id="ANO5ARS0254">Propter rationes positas in precedente conclusione, ut hic:</p>
+      <p id="ANO5ARS0255">[MX,Lig2d,pt,Lig2a,MX on staff3]</p>
+      <p id="ANO5ARS0256">Prima figuratio vel primum exemplum non bene stat, quia ultima illarum duarum longarum non potest alterari ante suam equalem, sed debet sic figurari:</p>
+      <p id="ANO5ARS0257">[MX,pt,L,MX,Lig2d,MX on staff3]</p>
+      <p id="ANO5ARS0258">Si dicis mihi quod taliter debet figurari, quando due longe postponuntur in duas maximas, dico quod salva gratia, ut hic:</p>
+      <p id="ANO5ARS0259">
+      <pb n="[391]" />[MX,pt,L,MX,MX,pt on staff3]</p>
+      <p id="ANO5ARS0260">dico quod ista est mala figuratio, quia illa maxima, que stat in loco longe alterate non potest esse aliquo modo imperfecta propter tertium principium quod simile ante similem positum nullo modo potest esse imperfectum; ergo debet sic figurari:</p>
+      <p id="ANO5ARS0261">[MX,Lig2d,MX on staff3]</p>
+      <p id="ANO5ARS0262">Secundum exemplum bene stat et secundum regulam regulatum:</p>
+      <p id="ANO5ARS0263">[MX,Lig3cdsnoda,pt,L,B,MX on staff3]</p>
+      <p id="ANO5ARS0264">Tertium exemplum est pessime, sed dicitur figurari sicut primum, ad hoc ut non alteretur nota ante minorem se, ut hic:</p>
+      <p id="ANO5ARS0265">[MX,Lig2dMX,Lig3cdsnoda,MX on staff3]</p>
+      <p id="ANO5ARS0266">Quartum eodem modo et sic de quinto et de omnibus aliis, ut dictum est de his.</p>
+      <p id="ANO5ARS0267">Sicut dictum est de alteratione in modo maximarum respectu longarum, ita intelligendum est de ipsa in modo longarum respectu brevium, et in tempore perfecto respectu semibrevium, et in majori prolatione respectu minimarum; et hoc de alteratione sufficiat.</p>
+      <p id="ANO5ARS0268">De syncopa.</p>
+      <p id="ANO5ARS0269">Unde syncopa est quo ad totum alicujus note mediante perfecto, vel divisio facta in modo tempore vel prolatione. Dixi imperfectio quo ad modum tempus vel prolationem perfectam; dixi divisio et hoc quo ad modum tempus vel prolationem imperfectam.</p>
+      <p id="ANO5ARS0270">Prima conclusio.</p>
+      <p id="ANO5ARS0271">Quod syncopa fiat in modo perfecto maximarum. Est ibi reperire tres longas quarum una preponatur maxime vel maximis que per connumerationem reducitur ad alias duas postpositas, ut hic quemadmodum pars in suo toto videlicet exemplum:</p>
+      <p id="ANO5ARS0272">[L,MX,MX,MX,pt,L,pt,L on staff3]</p>
+      <p id="ANO5ARS0273">Et tunc quod maxima ultima punctatatur; quod si non punctaretur, tunc ad ipsam reduceretur, ut hic:</p>
+      <p id="ANO5ARS0274">[L,MX,MX,MX on staff3]</p>
+      <p id="ANO5ARS0275">Secunda conclusio.</p>
+      <p id="ANO5ARS0276">Quod si ille due longe preponerentur et una postponeretur, idem est judicium, ut hic:</p>
+      <p id="ANO5ARS0277">[L,pt,L,MX,MX,MX,pt,L on staff3]</p>
+      <p id="ANO5ARS0278">Quoniam? Probatur conclusio cum modus sit perfectus nec ultima longa possit alterari per punctum et cum illa prima nullum alium locum possit habere, quia omnes maxime sunt perfecte per tertium principium, quia simile ante similem positum semper erit perfectum, et cum ultima sit similiter punctata, et per consequens non possit imperfici, ergo etc.; sic probatur secunda.</p>
+      <p id="ANO5ARS0279">Tertia conclusio.</p>
+      <p id="ANO5ARS0280">Quod nota per syncopam reductam dicitur habere priorem locum quem potest habere per regulam juris, quia prior est tempore, potior est in jure, ergo ipsa prius debet colorari quam aliqua alia.</p>
+      <p id="ANO5ARS0281">Quarta conclusio.</p>
+      <p id="ANO5ARS0282">Quod idem est si fiat syncopa in modo perfecto longarum respectu brevium, et si fiat in tempore perfecto semibrevium, vel in majori prolatione respectu minimarum. Ratio, quod de similibus idem judicium est.</p>
+      <p id="ANO5ARS0283">In majori prolatione multe syncope inveniuntur et varie, quamvis sint idem in substantia, et primo invenio in motetto "Ida capillorum" talem syncopam, ut hic:</p>
+      <p id="ANO5ARS0284">
+      <pb n="[392]" />[S,pt,M,Lig2cssnod,Lig2cssna,pt,MP,pt,M,L; S,pt,M,S,S,pt,M,pt,MP,L on staff3]</p>
+      <p id="ANO5ARS0285">Illa prima minima reducitur cum illis duabus posterioribus, scilicet cum pausa minime et minima.</p>
+      <p id="ANO5ARS0286">In "Gloria" ejusdem Fratris Minoris, invenio istam, ut hic:</p>
+      <p id="ANO5ARS0287">Que Gloria incipit:</p>
+      <p id="ANO5ARS0288">[S,pt,M,Lig2cssnod,S,S,S,S,MX on staff3]</p>
+      <p id="ANO5ARS0289">Et reperitur ibidem ista alia:</p>
+      <p id="ANO5ARS0290">[S,pt,M,pt,M,M,M,MX on staff3]</p>
+      <p id="ANO5ARS0291">In prima syncopatione illa minima reducitur ad semibrevem vacuam. In secunda vero ille due minime punctate reducuntur cum illis duabus imperfectis semibrevibus, et prima cum prima et secunda cum secunda; et prima debet habere priorem locum.</p>
+      <p id="ANO5ARS0292">In "Credo" Fratris Nicolai de Aversa, Ordinis Celestinorum, invenio duas syncopas, sed non videntur varie, ut hic:</p>
+      <p id="ANO5ARS0293">[S,M,pt,M,pt,M,S,M,pt,M,pt,S,SP; S,M,pt,S,M,pt,M,pt,M,S,M,S,M,pt,M,S,SP on staff3]</p>
+      <p id="ANO5ARS0294">In tali syncopatione illa prima minima sic punctata ex utraque parte reducitur cum illis duabus ultimis in medio punctatis.</p>
+      <p id="ANO5ARS0295">In uno alio "Credo", et "Iterum venturus est" et "Cujus regni non erit finis", de notis rubeis, ignoro tamen cujus Magistri est opus, invenio talem syncopationem, ut hic:</p>
+      <p id="ANO5ARS0296">[S,pt,MP,pt,M,Lig2cssnod,pt,M,S,SP; S,pt,MP,pt,MP,S,S,S,S,M,S,SP on staff3]</p>
+      <p id="ANO5ARS0297">In talibus figurationibus illa ultima minima reducitur cum illis duabus ochetis sic punctatis; vel cum illo ocheto et illa minima sic punctata.</p>
+      <p id="ANO5ARS0298">Vidi in uno Madrigale quod incipit Apresso di un fiume, etc., quod sit minoris prolationis, et sit congruum dicti Magistri nostri talis syncopatio, ut hic:</p>
+      <p id="ANO5ARS0299">[S,M,SP,M,M,M,M,M,L; S,M,S,S,S,M,M,M,L on staff3]</p>
+      <p id="ANO5ARS0300">Et hoc dico propter pausam que non dicitur poni in syncopa, sed credo quod est secundum artem Italicorum.</p>
+      <p id="ANO5ARS0301">Quod si fiat syncopa in modo perfecto maximarum, est ibi reperire duas longas quarum una preponitur maxime vel maximis, et altera postponitur, ut hic:</p>
+      <p id="ANO5ARS0302">[L,MX,MX,L; L,MX,MX,MX,MX,MX,MX,L on staff3]</p>
+      <p id="ANO5ARS0303">Sic etiam fit tempore respectu semibrevium et in minori prolatione respectu minimarum. Quod syncopa non datur ultra pausam, non video quomodo Magister meus hoc posuit, cum pausa habeat vim sue note, et sicut longa alteratur ante maximam, sic et ante pausas maxime; et sicut longa imperficit maximam, ita et pausa longe; et sic de singulis et de omnibus aliis. Ergo dicamus cum Donato nulla ratione, sed sola auctoritate veterum, nisi esset quod syncopa est fortior actus qui sit in musica; et ideo causa brevitatis et melioris euphonie hoc fit, quia propter aspirationes pause cantandas, ibi deciperetur; non video aliam rationem; et hoc de syncopa sufficiat.</p>
+      <p id="ANO5ARS0304">De signis.</p>
+      <p id="ANO5ARS0305">Prima conclusio.</p>
+      <p id="ANO5ARS0306">Quod quadrangulus cum tribus tractulis ponitur pro modo perfecto non ratione quadranguli, sed ratione illarum trium linearum que perpendiculariter ibi cadunt, quibus designatur modus perfectus, quia modus perfectus dividitur in tres partes, ut supra ostensum est, ut hic: [R3rvd].</p>
+      <p id="ANO5ARS0307">Secunda conclusio.</p>
+      <p id="ANO5ARS0308">Quod quadrangulus cum duobus lineis ibi perpendiculariter cadentibus ponuntur pro modo 
+      <pb n="[393]" />imperfecto propter rationem supradictam, ut hic: [R2rvd].</p>
+      <p id="ANO5ARS0309">Tertia conclusio.</p>
+      <p id="ANO5ARS0310">Quod circulus ponitur pro tempore perfecto ratione sue perfectionis, et non ratione sue figure, ut hic:</p>
+      <p id="ANO5ARS0311">[O,O on staff3]</p>
+      <p id="ANO5ARS0312">Quarta conclusio.</p>
+      <p id="ANO5ARS0313">Quod semicirculus ponitur pro tempore imperfecto ratione sue imperfectionis et non ratione sue figure, ut hic:</p>
+      <p id="ANO5ARS0314">[C,C on staff3]</p>
+      <p id="ANO5ARS0315">Quinta conclusio.</p>
+      <p id="ANO5ARS0316">Quod si in circulo ponantur tres puncti, majorem prolationem designant ratione perfectionis, ut hic:</p>
+      <p id="ANO5ARS0317">[O3d,O3d on staff3]</p>
+      <p id="ANO5ARS0318">Sexta conclusio.</p>
+      <p id="ANO5ARS0319">Quod si in circulo ponuntur duo puncti, designant minorem prolationem ratione imperfectionis . ut hic:</p>
+      <p id="ANO5ARS0320">[O2d,O2d on staff3]</p>
+      <p id="ANO5ARS0321">Septima conclusio.</p>
+      <p id="ANO5ARS0322">Quod si in semicirculo ponuntur tres puncti, majorem prolationem designant ratione perfectionis, ut hic:</p>
+      <p id="ANO5ARS0323">[C3d,C3d on staff3]</p>
+      <p id="ANO5ARS0324">Octava conclusio.</p>
+      <p id="ANO5ARS0325">Quod si in semicirculo ponuntur duo puncti, minorem prolationem significant ut hic:</p>
+      <p id="ANO5ARS0326">[C2d,C2d on staff3]</p>
+      <p id="ANO5ARS0327">Et hoc signis sufficiat.</p>
+      <p id="ANO5ARS0328">De rubeis figuris et vacuis.</p>
+      <p id="ANO5ARS0329">Quod quandocumque nigre sunt perfecte, rubee vel vacue semper erunt imperfecte, probatur, cum talis variatio non fiat sine causa, et omne quod est in musica aut est perfectum aut imperfectum. Cum ille rubee vel vacue non sint perfecte, ergo, erunt imperfecte. Tenet consequentia a sufficienti divisione, ut hoc per exemplum demonstratur videlicet:</p>
+      <p id="ANO5ARS0330">[CSIII:393,1]</p>
+      <p id="ANO5ARS0331">Quod quandocumque nigre sunt imperfecte, rubee vel vacue sunt perfecte per eamdem rationem, ut hic. Et nota quod tales figurationes non fiunt, nisi in modo, tempore et prolatione perfecta:</p>
+      <p id="ANO5ARS0332">[CSIII:393,2]</p>
+      <p id="ANO5ARS0333">
+      <pb n="[394]" />Quod inveniuntur quinque semibreves vacue vel rubee quarum tres ponuntur pro tempore imperfecta majoris prolationis, ut hic: [Sv,Sv,Sv,Sv,Sv], vel sic: [S,S,S,S,S] vel sic: [F,F,F,F,F on staff4]</p>
+      <p id="ANO5ARS0334">Quando quatuor ex istis rubeis vel vacuis ponuntur quatuor per tempus in tempore imperfecto majoris, ut hic: [Sv,Sv,Sv,Sv], vel sic: [S,S,S,S], vel sic: [F,F,F,F on staff4]</p>
+      <p id="ANO5ARS0335">Consideret ergo unusquisque vestrum quod hoc non est bene positum. Ratio, quia tunc quelibet illarum valeret duas minimas perfectas, loquor de primis, et quelibet istarum secundarum valeret duas minimas imperfectas, ergo diffinitio debet esse inter eas cum sint diverse qualitatis; huc usque dicamus ergo primas esse bene figuratas, secundas autem minime. Sed oportet quod sint rubee vel vacue, cum sint minoris valoris, vel plene habeant caudas ex utraque parte, ut hic: [Fv,Fv,Fv on staff4] , vel sic: [F,F,F on staff4]</p>
+      <p id="ANO5ARS0336">Quod inveniuntur etiam minime imperfecte quarum quatuor ponuntur pro tribus, et hoc in majori prolatione, ut hic:</p>
+      <p id="ANO5ARS0337">[CSIII:394,1]</p>
+      <p id="ANO5ARS0338">Ergo si nigre erunt minoris prolationis, rubee dicuntur esse majoris. Probatur per tertiam conclusionem, ut hic patebit per exemplum:</p>
+      <p id="ANO5ARS0339">[CSIII:394,2]</p>
+      <p id="ANO5ARS0340">In hoc cantu ponuntur ideo minime tres pro quatuor; et hoc minus bene dicamus, quia in tempore perfecto minori ponimus minimas rubeas vel vacuas; quarum dantur tres pro duabus, et minus bene, quia sicut in tempore perfecto majoris dantur quatuor rubee vel vacue pro tribus nigris, sic hic debet esse, et e converso. Et si consideramus conclusiones prius positas, debentur poni prout posite sunt; sic fiat in modo et tempore, quia non debet servari in prolatione.</p>
+      <p id="ANO5ARS0341">Quod quandoque ponuntur sex pro sex minimis, sed tamen mutatur qualitas et cantus; verbi gratia recipiuntur sex minime temporis perfecti minoris ac si essent temporis imperfecti majoris, et hoc maxime Gallici servant in illo Rondello: "Rose sans per", ipso exstante tempore perfecto minoris, sed suus tenor est imperfectus major et contratenor imperfectus minor.</p>
+      <p id="ANO5ARS0342">[CSIII:394,3; text: Rose sans per. Contratenor.]</p>
+      <p id="ANO5ARS0343">
+      <pb n="[395]" />[CSIII:395,1]</p>
+      <p id="ANO5ARS0344">Nec quod Magister Johannes de Muris videtur consentire, cum dicit quod nonnulli cantores imperficiunt brevem imperfectam majoris, ut esset brevis perfecta minoris, ut puta Guillielmus de Mastodio dicit ibi mutare qualitatem, ut hic:</p>
+      <p id="ANO5ARS0345">[CSIII:395,2] 
+      <figure>
+        <graphic url="/images/ANO5ARS_02GF.gif" />
+      </figure></p>
+      <p id="ANO5ARS0346">Et e contra, ut hic:</p>
+      <p id="ANO5ARS0347">[CSIII:395,3]</p>
+      <p id="ANO5ARS0348">Sic etiam et nos possumus facere in nostro discantu probatur; non gaudent tempore majori privilegio quam nos, quamvis dicat rex quod auctor legis non tenetur ad ipsius observantiam. Ego volo preligare capitulum cum omnibus constet patere legem quam tu ipse tuleris; ergo etc.:</p>
+      <p id="ANO5ARS0349">[CSIII:395,4]</p>
+      <p id="ANO5ARS0350">Sic etiam si cantus est perfectus minoris, possumus discantare supra talem tenorem, scilicet perfectum minoris, imperfectum majoris, ut hic:</p>
+      <p id="ANO5ARS0351">[CSIII:395,5]</p>
+      <p id="ANO5ARS0352">Et sic de aliis facimus totum contrarium quandoque, quia cantando per perfectum majus, et bene potest esse; sed non in figuris rubeis vel vacuis. Nonnulla dico ad exercitationem illorum, ut habeant materiam aliquid dicendi.</p>
+      <p id="ANO5ARS0353">Pro conclusione tenendum est ergo quod minime, tam in majori prolatione posite quam in minori, dum proprie figurentur, scilicet nigre, semper sunt perfecte, ut demonstratur in Rondello illo: "Rose sans per", si quis bene considerat. Et Nicolaus de Aversa, Ordinis Celestinorum, cum dixit Cechus de Florentia in discantu illo sue ballade posuit semibreves rubeas 
+      <pb n="[396]" />imperfectas et male, salva pace, quod in hoc non peccavit; sed peccavit in tenore ponendo semibreves rubeas, cum sit minoris prolationis tenor ille.</p>
+      <p id="ANO5ARS0354">Parcat ergo mihi reverentia utriusque quod male intellexeruut regulas Magistri Johannis de Muris, cum dixit: si nigre sunt perfecte, et rubee erunt imperfecte, et e converso. Quia illud et e converso non notat varietatem temporis, modi vel prolationis, sed identitatem. Itaque e converso, scilicet in modo et tempore vel prolatione perfecte erunt nigre, imperfecte rubee vel vacue; et si eedem nigre erunt imperfecte, rubee vel vacue erunt perfecte. Et sicut ponuntur tres semibreves in majori prolatione rubee pro duabus nigris, ita versa vice in eadem ponuntur tres nigre pro duabus rubeis vel vacuis. Sed debent ponere semibrevem in prolatione imperfecta, in modo, tempore et prolatione perfecta; punctus non exercet ibi tale officium nec contrarium; sed bene evacuatio, ut patet in quampluribus rondellis et motetis.</p>
+      <p id="ANO5ARS0355">Sic utuntur Galli in eorum rondellis; loco minoris ponunt semibrevem punctatam. Sic Perinetus in sua "Gloria" et "Credo"; sic in illo magno moteto: "Rex Karole" invenitur expressum. Sic et Frater Nicolaus de Aversa in suis cantilenis, quamvis in arte teneat contrarium; sic et omnes generaliter artem Gallorum imitantes. Figuratio autem Cechi de Florentia hec est, ut hic:</p>
+      <p id="ANO5ARS0356">[CSIII:396,1; text: Tenor.]</p>
+      <p id="ANO5ARS0357">Sic ergo patet quomodo tenor, extante de minori perfecto, discantus potest esse de majori prolatione. Et tenor extante de minori imperfecto, discantus potest esse majori prolatione, ut hic:</p>
+      <p id="ANO5ARS0358">[CSIII:396,2] 
+      <figure>
+        <graphic url="/images/ANO5ARS_03GF.gif" />
+      </figure></p>
+      <p id="ANO5ARS0359">Vidi a Fratre Nicolao de Aversa ponere tales figuras pro minimis imperfectis, quatuor pro tribus; sed tunc nescio unde extraxerit; hoc potius voluntariam positionem judico. Ponit etiam dictus frater Nicolaus de Aversa Ordinis Celestinorum semiminimas quarum quatuor ponit pro duabus, ut hic:</p>
+      <p id="ANO5ARS0360">[CSIII:396,3]</p>
+      <p id="ANO5ARS0361">Hic dicitur imperfectum minoris et reduplicatum.</p>
+      <p id="ANO5ARS0362">Queritur ergo quare semibreves rubee caudantur ex utraque parte? Dico quod sunt semibreves minoris imperfecti; quando ponuntur quatuor minime pro tribus, sunt composite ex minimis imperfectis, sic et iste sunt composite ex 
+      <pb n="[397]" />minimis imperfectis; ergo nulla differentia in valore, quia sicut ille minime in minoris imperfecto reduplicato ponuntur quatuor pro tribus, sic et iste ponuntur tres pro duabus. Solum varietas attenditur circa prolationem, quia alius et alius modus pronunciandi.</p>
+      <p id="ANO5ARS0363">Preterea sicut nigre tam imperfecti minoris quam imperfecti majoris dicuntur imperfecte et e contra, ut supra ostensum est; semiminime vero, quando in cantu ponuntur, sic debent figurari sicut supra jacent, ad differenciam minimarum imperfectarum, vel debent figurari nigre vacue vel cum caudis sic et retortis.</p>
+      <p id="ANO5ARS0364">Sed vere secundum artem non solum semiminima non est danda, verum et minima imperfecta. Videamus primitus, si minima imperfecta non est danda; ergo nec semiminimarum tenet consequentia, quia de majori ad minus distributive arguendo non est bona consequentia assumptum probatur, quia ultra minimum non datur quod patet per quid nominis minime.</p>
+      <p id="ANO5ARS0365">Ponunt etiam Galli aliam figuram que vocatur quietantia, et hec quidem a proprietate sua sumpsit sibi nomen, quia in ipsa cantores quiescunt, velut hic.</p>
+      <p id="ANO5ARS0366">Et sciendum quod in omnibus partibus prolationis talis figuratio potest fieri preter in minima; ratio potest esse quia numquam cantus finitur in minima, nec in minima cantor potest pausare, quia remanet tempus incompletum, ergo etc.</p>
+      <p id="ANO5ARS0367">Sequitur de pausis.</p>
+      <p id="ANO5ARS0368">Prima conclusio.</p>
+      <p id="ANO5ARS0369">Quod ultra pausam trium temporum non est dare, probatur cum ipsa sit perfecta et ultra perfectum nihil debet dari, ergo etc.</p>
+      <p id="ANO5ARS0370">Secunda conclusio.</p>
+      <p id="ANO5ARS0371">Quod pausa trium temporum numquam ponenda est, nisi modo perfecto, probatur, omne simile appetit suum simile; ergo pausa ipsa perfecta requirit id quod perfectum est, non prolationem, non tempus, ergo modum. Et cum modus sit duplex perfectus et imperfectus, non requirit modum imperfectum, quia non est sibi similis; ergo requirit modum perfectum.</p>
+      <p id="ANO5ARS0372">Tertia conclusio.</p>
+      <p id="ANO5ARS0373">Quod pausa non imperficitur nec alteratur, probo cum tantum partes prolationis imperfecte perficiantur vel alterentur, ergo non pausa tenet consequentia, quia pausa non est pars prolationis. Probo assumptum; cum alteratio vel imperfectio in modo, tempore et prolatione, et modus, tempus et prolatio approprientur ipsis partibus prolationis tantum; ergo alteratio vel perfectio attenditur circa partes prolationis tantum.</p>
+      <p id="ANO5ARS0374">Ad cognoscendum autem pausas et quot tempora valent, est sciendum quod quot spatia occupant, tot tempora valent. De pausis autem que medium spatium occupant, est tenendum quod si pausa illa ponitur sub virgula, est pausa semibrevis; si autem ponitur supra virgulam, dicitur pausa minime, ut hic apparet per exempla:</p>
+      <p id="ANO5ARS0375">[CSIII:397]</p>
+      <p id="ANO5ARS0376">Ille pause que tangunt quatuor spatia dicuntur finales vel terminales; et hec de pausis dicta sufficiant.</p>
+      <p id="ANO5ARS0377">Sequitur de talla et colore.</p>
+      <p id="ANO5ARS0378">Prima conclusio.</p>
+      <p id="ANO5ARS0379">Quod talla dicitur, quando repetuntur eedem note sub eisdem figuris, sub diversis tamen vocibus, ut apparet in tenore illius moteti: "Rex Johannes".</p>
+      <p id="ANO5ARS0380">Secunda conclusio.</p>
+      <p id="ANO5ARS0381">Quod color est quando repetuntur eedem voces sub diversis tamen figuris, ut habetur in tenore: "Portio nature" vel "Ida capillorum", ut hic per exemplum:</p>
+      <p id="ANO5ARS0382">
+      <pb n="[398]" />[CSIII:398,1]</p>
+      <p id="ANO5ARS0383">Sic enim est color in musica, et possunt hec fieri in modo, tempore et prolatione perfecta vel imperfecta, etc.</p>
+      <p id="ANO5ARS0384">Sequitur de diminutione.</p>
+      <p id="ANO5ARS0385">Prima conclusio.</p>
+      <p id="ANO5ARS0386">Quod quandocumque fit diminutio in modo, tempore vel prolatione perfecta, diminutio fit per tertiam partem. Ratio est, quia si fieret in prolatione perfecta cum semibrevi debeat poni minima et cum semibrevis valeat tres minimas, ergo deberet poni minima; et cum semibrevis dimidia sic fieret, diceretur per medium; et sic sequeretur quod minima esset divisibilis, quod est falsum; ergo debet fieri per tertiam partem.</p>
+      <p id="ANO5ARS0387">Secunda conclusio.</p>
+      <p id="ANO5ARS0388">Quod quandocumque diminutio fit in modo et tempore et prolatione imperfecta, diminutio fit directe per medium; probatur cum pro longa ponatur brevis, et sic de singulis, ut cum longa imperfecta sit divisibilis in duas partes et cum una illarum partium sit brevis, ergo etc., ut patet in tenore supradicto illius moteti "Rex Johannes" ibi est duplex diminutio, scilicet quo ad modum et quo ad tempus. Quo ad modum fit per tertium, quia modus est perfectus et pro longa valente tres breves ponitur una brevis; quo ad tempus fit directe per modum, scilicet pro brevibus tribus, scilicet valentibus sex semibreves ponitur una valens tres semibreves:</p>
+      <p id="ANO5ARS0389">[CSIII:398,2]</p>
+      <p id="ANO5ARS0390">Et hec de musica mensurabili dicta sufficiant.</p>
+      <p id="ANO5ARS0391">De modo autem tempore et prolatione, et de imperfectione maxime perfecte, longe, brevis et semibrevis, de figuratione et alteratione, etc., clarius patet et patuit in anterioribus figuris, in principio vel ante principium hujus operis.</p>
+      <p id="ANO5ARS0392">II.</p>
+      <p id="ANO5ARS0393">De contrapuncto.</p>
+      <p id="ANO5ARS0394">Cum notum sit omnibus ...</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Trianguli et scuti declaratio de proportionibus musicae mensurabilis</title>
+        <title type="abbrev">TORTRI</title>
+        <author>Torkesey, Johannes</author>
+        <date notBefore="1300" notAfter="1399">14th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Stephen E. Hayes</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Peter M. Lefferts</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Bradley Jon Tucker</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1991</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>Ms. Oxford, Bodley 842 (Willelmus), Breviarium regulare musicae</emph>; 
+<emph>Ms. British Museum, Royal 12. C. VI., Tractatus de figuris sive de notis</emph>; 
+<emph>Johannes Torkesey, Declaratio trianguli et scuti</emph>, ed. Gilbert Reaney and André Gilles, Corpus scriptorum de musica, vol. 12 ([Rome]: American Institute of Musicology, 1966), 58–61. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Iohannes Torkesey: Declaratio trianguli et scuti</title>
+          
+<idno type="LML">IOH. TORK. decl.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">GB-Ctc O.9.29, 53v-54v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Lbl Add. 21455, 7-8v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Lbl Lansdowne 763, 90-91</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat Reg. lat. 1146, 55v-57 (Extrait)</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="TORTRI0001">
+      <pb n="[58]" />1. Trianguli et Scuti Declaratio de Proportionibus musicae mensurabilis.</p>
+      <p id="TORTRI0002">Cap. I De primis figuris quadratis et sex speciebus notarum ab eisdem compositis</p>
+      <p id="TORTRI0003">2. Ad habendam notitiam perfectam artis musicae mensurabilis, sciendum est quod ad laudandum trinum Deum et unicum tres sunt species figurarum quadratarum, ex quibus sex species notarum simplicium formantur. 3. Ex maxima quadrata solum una species constat quae larga vocatur. 4. Ex media quadrata duae species fiunt, scilicet brevis et longa. 5. Ex suprema quadrata tres species fiunt, scilicet semibrevis, minima et simpla.</p>
+      <p id="TORTRI0004">6. Ex praedictis apparet quod plures non poterint convenienter assignari species notarum. 7. Haec omnia in parva figura trium notarum quadratarum et in scuto subsequente sex notarum simplicium patent.</p>
+      <p id="TORTRI0005">8. Tres primae species, quae prima figura vocatur.</p>
+      <p id="TORTRI0006">Sex species simplices, quae secunda figura vocatur.</p>
+      <p id="TORTRI0007">1. Cap. II De variatione sex specierum notabilium et modo perfectionis et imperfectionis earundem in figura trianguli</p>
+      <p id="TORTRI0008">2. Cum sex sunt species notarum simplicium prout ostensum est in scuto, sciendum est quod praeter simplam quam impartibilem dico quia solam unitatem significat, quinque aliae species variantur secundum diversam appositionem punctorum et puncti carentiam.</p>
+      <p id="TORTRI0009">3. Prima regula est talis: omnis nota praeter simplam in praedicta figura triangulare puncto carens omnino imperfecta est.</p>
+      <p id="TORTRI0010">4. Secunda regula est: omnis nota quae supra se punctum habet semel perfecta dicitur quia ipsa perfecta est ex propinqua nota oblique ascendente, id est, tres tales valet; vel quia minima perfecta, quae est prima perfecta species, in compositionem ejus cadit.</p>
+      <p id="TORTRI0011">5. Tertia regula est: omnis nota quae sub se punctum habet bis perfecta dicitur quia et ipsa et proxima oblique ascendens perfectae sunt, sicut prius, aut quia tam semibrevis quam minima perfecta in compositionem ejus cadunt.</p>
+      <p id="TORTRI0012">6. Quarta regula est: omnis nota quae supra se et sub se simul punctum habet ter perfecta dicitur quia ipsa cum duabus proximis speciebus oblique ascendentibus perfecta est; vel quia brevis, semibrevis et minima omnino perfectae in compositionem ejus cadunt.</p>
+      <p id="TORTRI0013">7. Quinta regula est: omnis nota quae sub se duo puncta simul habet quater perfecta vocatur quia ipsa et tres proximae species oblique 
+      <pb n="[59]" />ascendentes perfectae sunt; aut quia longa, brevis, semibrevis et minima omnino perfectae in compositionem ejus cadunt.</p>
+      <p id="TORTRI0014">8. Sexta regula talis est: omnis nota quae post se punctum habet omnino perfecta dicitur quia ipsa et omnes notulae oblique ab ea ascendentes omnino perfectae sunt, praeter simplam impartibilem.</p>
+      <p id="TORTRI0015">9. Haec omnia in trianguli figura patent quae tertia figura vocatur.</p>
+      <p id="TORTRI0016">1. Cap. III De proportione notarum ad invicem in figura trianguli praedicta.</p>
+      <p id="TORTRI0017">2. Praeterea sciendum est quod per modum numeri, id est arithmetice procedendo, descendimus a simpla usque ad largas, sed per modum musicae mensurabilis ascendimus a largis dividendo usque ad simplam impartibilem.</p>
+      <p id="TORTRI0018">3. Si igitur a qualibet larga in figura trianguli directe sursum ascendamus usque ad notam supremam sui gradus in linea superiori obliqua, duplares facimus, id est, quaelibet nota dupla est respectu notae superioris sibi proximae.</p>
+      <p id="TORTRI0019">4. Si vero a basi trianguli, id est a qualibet larga, usque ad quamlibet notam sibi correspondentem in linea sinistra trianguli oblique ascendamus, triplares facimus, id est, quaelibet nota inferior tripla est respectu notae superioris sibi proximae.</p>
+      <p id="TORTRI0020">5. Si autem a qualibet perfecta in linea dextera trianguli usque ad quamlibet imperfectam in linea sinistra ejusdem directe recurramus, sexquealteras facimus, id est, quaelibet nota valet sibi proximam et ejus medietatem.</p>
+      <p id="TORTRI0021">6. Si etiam a latere trianguli sinistro et ab ejus basi similiter oblique ascendamus usque ad notas et spatia lineae trianguli dexterae, sexquetertias facimus, id est, quaelibet nota inferior valet sibi proximam et ejus tertiam partem.</p>
+      <p id="TORTRI0022">7. Ex praedictis apparet quod in latere dextero trianguli sunt quinque notae omnino perfectae. 8. In latere sinistro sunt quinque notae omnino imperfectae. 9. Decem vero mediae inter latera praedicta ac etiam in basi similiter sunt perfectae et imperfectae respectu notarum diversarum.</p>
+      <p id="TORTRI0023">10. Haec omnia per numeros in figura trianguli descriptos apparent.</p>
+      <p id="TORTRI0024">11. In angulo superiori hujus trianguli ponitur simpla quae nec perfecta nec imperfecta dicitur, quia impartibilis est. 12. In angulo dextero ponitur nota omnino perfecta. 13. In angulo sinistro ponitur nota omnino imperfecta.</p>
+      <p id="TORTRI0025">14. Sed notandum quod simplae solis vocalibus sunt aptandae, quia indivisibles sunt. 15. Et nullo modo syllabae apponantur, nisi plures super eandem syllabam concurrant, quia syllabae divisibiles sunt, et ideo non sunt minimis simpliciter proportionales.</p>
+      <p id="TORTRI0026">
+      <pb n="[60]" />1. Cap. IV. De varietate pausarum et earum diffinitione</p>
+      <p id="TORTRI0027">2. Circa pausationes sciendum est quod singulae pausae singulis notis in figura trianguli suprapositis correspondent in valore. 3. Unde et pausae non punctuatae notis non punctuatis correspondent in valore. 4. Pausae vero punctuatae similiter suis notis correspondent in valore. 5. Ideo notulae suprapositae sunt in figura pausarum ut cuilibet pateat evidenter quae sint pausae hujusmodi notarum et etiam diversitas pausarum per appositionem punctorum; et ideo quot sunt notae in circulis trianguli, tot sunt pausae eis correspondentes et non plures, ut patet in figura ex altera parte scripta.</p>
+      <p id="TORTRI0028">6. Explicit trianguli et scuti declaratio de proportionibus musicae mensurabilis</p>
+      <p id="TORTRI0029">[CSM12:60; text: Tres primae species quae prima figura vocatur, Sex species simpliciter quae secunda figura vocatur] 
+      <figure>
+        <graphic url="/images/TORTRI_01GF.gif" />
+      </figure></p>
+      <p id="TORTRI0030">
+      <pb n="[61]" />[CSM12:61; text: Duplares, Triplares, Proportio sexquealtera, omnino imperfectae, semel perfectae, bis perfectae, ter perfectae, quater perfectae, omnino perfectae, 1, 2, 3, 4, 6, 9, 8, 12, 18, 27, 16, 24, 36, 54, 81, 32, 48, 72, 108, 162, 243] 
+      <figure>
+        <graphic url="/images/TORTRI_02GF.gif" />
+      </figure></p>
+    </body>
+  </text>
+</TEI>

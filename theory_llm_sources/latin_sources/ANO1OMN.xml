@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>[Tractatulus de notis]</title>
+        <title type="abbrev">ANO1OMN</title>
+        <author>Anonymous</author>
+        <date notBefore="1300" notAfter="1399">14th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Peter Slemon</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Jessica Sisk</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>2003</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+F. Alberto Gallo, "Due trattatelli sulla notazione del primo trecento," 
+<emph>Quadrivium</emph> 12 (1971): 119-30, 124–26. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: Tractatus de musica mensurabili</title>
+          
+<idno type="LML">MENS. Omnis nota in</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">I-Vnm Lat. Cl. VIII.82 (3047), 75-76</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">US-Wc ML 171 J 6 Case, 102v-109r</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANO1OMN0001">
+      <pb n="[124]" />[ANONIMUS I]</p>
+      <p id="ANO1OMN0002">1 Omnis nota in cantu mensurato vel est longa vel est brevis vel semibrevis. Longa formatur cum filo a parte dextra, sic: [L], vel sic: [Lpdsn], vel sic: [Bpssncsdx]. Brevis formatur sine filo, sic: [B], vel sic cum longiori filo a parte sinistra: [Bcdsnpddx], vel sic: [Bcssnpsdx]. Semibrevis, sic: [S,S,S].</p>
+      <p id="ANO1OMN0003">2 Quandocumque prima nota ligature descendit et non habet filum, est longa, ut hic: [Lig2d,Lig3odart,Lig3odart,Lig3ddcsdx]</p>
+      <p id="ANO1OMN0004">Item si ultima nota descendit sicut quadrata, est longa, ut hic patet in exemplis: [Lig3cdsndd,Lig5cdsndodad]</p>
+      <p id="ANO1OMN0005">Item quandocumque filum ascendens est in principio cuiuscumque ligature, semper sunt due semibreves, ut hic: [Lig2cssnod,Lig2cssnod,Lig2cssnod,Lig3cssndod,Lig3cssnaacddx]</p>
+      <p id="ANO1OMN0006">Item quandocumque ultima nota ligature ascendit, si est adversus sinistram, longa est, ut hic: [Lig4dodart,Lig2art]</p>
+      <p id="ANO1OMN0007">Omnes alie note, de quibus non fit mentio hic quarumcumque ligaturarum, sunt breves, ut hic: [Lig3cdsndod,Lig3aa,Lig3cdsnoda,Lig5cdsnddoda]</p>
+      <p id="ANO1OMN0008">3 Longa ante longam valet tria tempora, ut hic: [L,L; L,L,L,Bpssncsdx,Bpssncsdx,Bpssncsdx,Bpssncsdx]</p>
+      <p id="ANO1OMN0009">
+      <pb n="[125]" />Item longa ante duas breves solas vel ante tres solas valet tria tempora, ut hic: [L,B,B; L,B,B,B]</p>
+      <p id="ANO1OMN0010">Item quandocumque punctus ponitur post longam, valet tria tempora, ut hic: [L,pt].</p>
+      <p id="ANO1OMN0011">Quando autem longa nota est ante unam solam brevem vel plures semibreves, tunc longa valet duo tempora, ut hic patet: [L,B,L,S,S,S,L; L,S,S,S,L]</p>
+      <p id="ANO1OMN0012">Nota quod longa valet semper duo vel tria tempora nec plus nec minus; brevis unum tempus; sed quando sunt solum due breves, secunda valet duo tempora, ut hic: [B,B,L,Lig3cdsnodart,B,Lig3ad]</p>
+      <p id="ANO1OMN0013">Semibreves aliquando due vel tres, aliquando quatuor ponuntur pro uno tempore, et distinguntur per punctum, ut hic: [S,S,pt,S,S,S,pt,S,S,S,S,pt]</p>
+      <p id="ANO1OMN0014">4 Pausa que tenet tria spatia, valet tria tempora. Que tenet duo, valet duo tempora. Que tenet unum, valet unum tempus. Ut hic: [LP,BP,SP,MXP,LP,BP,SP on staff5]</p>
+      <p id="ANO1OMN0015">5 Modi sunt quinque. Primus modus procedit ex longa et brevi, sic: [L,B,Lig3Lad]</p>
+      <p id="ANO1OMN0016">
+      <pb n="[126]" />etiam [ex omnibus] longis, ut hic patet: [L,L,Lig2cdsndcsdx]</p>
+      <p id="ANO1OMN0017">Secundus modus est ex brevi et longa, sic: [B,L,Lig2cdsnd]</p>
+      <p id="ANO1OMN0018">Tertius modus est ex longa et duabus brevibus, sic: [L,B,B,L]</p>
+      <p id="ANO1OMN0019">Quartus modus est ex duabus brevibus et longa, sic: [[B,B,L,B,B]]</p>
+      <p id="ANO1OMN0020">Quintus modus est ex brevibus et semibrevibus, sic: [B,B,S,S,S,S,B]</p>
+      <p id="ANO1OMN0021">6 Item penultima nota semper est longa. Item nota duplex longa valet sex tempora, ut hic: [2L].</p>
+      <p id="ANO1OMN0022">[Anonymous, [Tractatulus], 126; text: longa, brevis, semibrevis] 
+      <figure>
+        <graphic url="/images/ANO1OMN_01GF.gif" />
+      </figure></p>
+    </body>
+  </text>
+</TEI>

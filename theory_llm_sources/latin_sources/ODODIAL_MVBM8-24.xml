@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Dialogus</title>
+        <title type="abbrev">ODODIAL_MVBM8-24</title>
+        <author>Odo</author>
+        <date notBefore="800" notAfter="1099">9th-11th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>T</resp>
+        <persName>Peter M. Lefferts</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Peter Slemon</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Travis Yeager</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Peter M. Lefferts</persName>
+      </respStmt>
+      <date>2008</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Venice, Biblioteca Nazionale Marciana, MS lat. VIII.24 (3434), ff. 1r–7v.
+</bibl>
+        <bibl type="work">
+          
+<title>Ps.-Odo: Dialogus de musica</title>
+          
+<idno type="LML">PS.-ODO dial.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">A-Iu Cod. 962, 135v-137v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">A-R Cod. 21, 47-60</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">A-Ssp Cod. a. V. 2, 145 (Fragments)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">A-Wn Cod. 51, 46-48v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">A-Wn Cod. 2503, 37-42 (Fragments)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">A-Wn Cod. 4774, 27-30 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Br 1485/1501, 273r-v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Br 10162/6, 28v-34 (40v-46)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Br II 784, 43v-56v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Gu 70 (71), 50v-55</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Gu 70 (71), 140v, 141v-143 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">CH-BEb 702, 46-51v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">CH-CObodmer 18845 (Ms. 77), 82-102</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-B Ms. lat. oct. 265, 9v-22</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-B Ms. theol. lat. qu. 261, 41-47v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-DS 1988, 101v-110</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-EF 8° 93, 68-74</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-EF 8° 94, 30-35v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Kl 8° Ms. Math. 10, 1-10v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-LEu 1492, 107v-113</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 14663, 21v-24v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 14965a, 33-37v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 19421, 1v-12v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mu 8° 375, 65-71v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-TRs Ms. 4° 1923/1434, 191v-194 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-W 334 Gud. Lat. 8°, 112-127</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-AUT 46 (olim 40 B), 66v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-MOf H 384, 116-121 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pc Rés. 359, 1-6</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 3713, 30v-37v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 7211, 105v-115</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 7369, 47-59v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 7461, 19-25</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-T 2142, 158v-166v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ctc O.9.29, 85v-95</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Lbl Add. 10335, 14v-22v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Lbl Harley 281, 25r-v, 25v-32 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Obac 173A, 100-106</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ojc 150, 17-22</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-PM Ms. 90, 1-7</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fl Plut. XXIX. 48, 33v-38v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fn Conv. Soppr. F. III. 565, 33v-43v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fn Magliab. XIX. 36, 98v-100v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fr 652, 36v-47v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Ma D. 455 inf., 21-29</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Ma M. 17 sup., 48-49v (Fragments)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-MC 318, 218-236</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Nn VIII.D.14, 1v-18v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-PS 100, 40-49v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rli 2067, 15v-20 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rv B 81, 71-75, 76-82v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat lat. 10645, 1-2v (Fragments)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat Reg. lat. 72, 60v-64v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat Reg. lat. 1146, 25-34v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat Reg. lat. 1196, 1-11</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Vnm Lat. Cl. VIII.24 (3434), 1-7v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">NL-Lu B.P.L. 194, 22v-39v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">US-R Ms. 92 1200, 1-11</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ODODIAL_MVBM8-240001">
+      <pb n="[f.1r]" />Incipit dyalogus Venerabilis obdonis</p>
+      <p id="ODODIAL_MVBM8-240002">DIalogus dicitur a dya quod est duo et logos sermo quasi sermo Duorum Et dicitur sermo qui scribitur inter duos Et est dialogus liber sermonum artis musice inter duos collatorum et Dicitur a moys quod est aqua et ycos sciencia quasi sciencia Inuenta super aquam</p>
+      <p id="ODODIAL_MVBM8-240003">Enchiridion Venerabilis obdonis</p>
+      <p id="ODODIAL_MVBM8-240004">Discipulus querit</p>
+      <p id="ODODIAL_MVBM8-240005">QVid est musica</p>
+      <p id="ODODIAL_MVBM8-240006">Magister Musica est sciencia veraciter cantandi et facilis via ad perfectionem armonizandi</p>
+      <p id="ODODIAL_MVBM8-240007">discipulus Quomodo</p>
+      <p id="ODODIAL_MVBM8-240008">M[agister] Sicut magister primo ostendit tibi litteras in tabula Ita et musicus Insinuat omnes voces cantilene in monocordo</p>
+      <p id="ODODIAL_MVBM8-240009">D[iscipulus] Quale est illud monocordum</p>
+      <p id="ODODIAL_MVBM8-240010">M[agister] Lignum longum quadratum in modum capse et intus est cauum ad modum cythare super quod posita corda sonat sonum eius facile comprehendens et varietates vocum</p>
+      <p id="ODODIAL_MVBM8-240011">D[iscipulus] Quomodo ponitur ipsa corda</p>
+      <p id="ODODIAL_MVBM8-240012">M[agister] In longum per mediam capsam recta linea ducitur et relicto spacio vnius vncie ab utraque capite punctus ponitur in eadem linea ab vtraque parte Sed in relictis spacijs locantur duo capitella que ita teneant suspensam cordam super lineam ut tanta sit corda inter vtraque capitella quanta et linea que est sub corda</p>
+      <p id="ODODIAL_MVBM8-240013">Discipulus Quomodo vna corda reddit multas et varias voces</p>
+      <p id="ODODIAL_MVBM8-240014">Magister Littere vel note quibus musici utuntur sunt posite per ordinem in lineam que est sub corda et dum modulus decurrit inter lineam et cordam per easdem litteras Corda mirabiliter facit omnes sonos et omnes cantum curtando et elongando Et dum aliqua autem notatur pueris per ipsas litteras facilius et melius discunt a corda quam si audiret illam ab homine Et exercitati post tempus paucorum mensium ablata 
+      <pb n="[f.1v]" />corda solo visu indubitanter proferent quod nunquam audierunt</p>
+      <p id="ODODIAL_MVBM8-240015">Discipulus Valde Est mirabile quod dicis nostri quidem cantores nunquam potuerunt aspirare ad tantam perfectionem</p>
+      <p id="ODODIAL_MVBM8-240016">Magister Amice potius errauerunt et dum non quesierunt viam In uanum laborauerunt tempore toto vite sue</p>
+      <p id="ODODIAL_MVBM8-240017">Discipulus Qua ratione potest fieri ut melius docet corda quam homo</p>
+      <p id="ODODIAL_MVBM8-240018">Magister Homo prout voluerit vel potuerit sed corda est distincta tali arte per supra dictas litteras a sapientissimis magistris ut non possit mentiri cum diligenter fuerit obseruata</p>
+      <p id="ODODIAL_MVBM8-240019">Discipulus Nam rogo que est illa ars</p>
+      <p id="ODODIAL_MVBM8-240020">Magister Mensura numeri nam quod est bene numeratum nunquam fallit</p>
+      <p id="ODODIAL_MVBM8-240021">Discipulus Forsitan potero addiscere ipsas mensuras simpliciter et paucis verbis</p>
+      <p id="ODODIAL_MVBM8-240022">Magister Hodie adiuuante Deo tantum diligenter ausculta et vide</p>
+      <p id="ODODIAL_MVBM8-240023">Hic docet fieri monocordum</p>
+      <p id="ODODIAL_MVBM8-240024">IN primo capite monocordi ad punctum quem diximus pone Gut littera ab ipsa g usque ad punctum quem posuimus in finem diligenter diuide per nouem et ubi prima nona pars finierit prope Gut pone litteram a id est are et dicetur prima uox are Ab eadem prima a usque ad finem diuide per nouem ut supra et in fine prime none partis pone secundam litteram [sqb] id est [sqb]mi Et sic ulterius diuidendo qualiter cumque semper in termino prime partis scribetur littera et ponetur punctus notem existens Deinde reuertere ad caput et diuide a Gut usque ad finem per quatuor Et in termino prime partis scribe C id est cfaut pro voce tercia Sic eciam partire a prima a ad finem per quatuor et in fine prime partis pone d id est dsolre Eadem modo diuide a [sqb]mi per quatuor usque ad finem et inuenies E id est elami Vlterius diuides a cfaut per quatuor usque ad finem et scribes litteram f id est ffaut Post hoc reuertere ad Gut et diuide totam cordam in duas partes equales et sic ultra Donec habeas quatuordecim voces vel quindecim absque Gut et dum diuiseris dissimiles voces per medium tunc scribes 
+      <pb n="[f.2r]" />Eandem litteram illis in duplam id est in octauam verbi gracia Dum Diuidis lineam vel cordam per medium a Gut Tunc in fine prime medie partis scribes g id est gsolreut Et sic alijs omnibus facies Donec habueris aalamire Et quando ueneris ad octauam uocem super are tunc diuides ab alamire circa secundam medietatem sicut fecisti ab are in prima parte Sed a uoce sexta diuide per quatuor ad finem Et sic regulariter et ueraciter diuidendo luculenter apparebunt omnes uoces per quas cantus ordinatur</p>
+      <p id="ODODIAL_MVBM8-240025">Discipulus Deo gracias bene intelligo et confido facere monacordum quodamodo.</p>
+      <p id="ODODIAL_MVBM8-240026">[Venice, Marciana VIII.24, f.2r; text: bis diapason proportio quadrupla, diatesseron, diapenthe, diapason, tetracordum, penthacordum, octocordum, [Gamma], A, B, C, D, E, F, G, a, b, c, d, e, f, g, aa, tonus, semitonus] 
+      <figure>
+        <graphic url="/images/ODODIAL_01GF.gif" />
+      </figure></p>
+      <p id="ODODIAL_MVBM8-240027">SEd obsecro quod est illud interuallum quod ego aspicio inter uoces et spacia Alibi maiora et alibi minora In monocordo regulariter mensurato</p>
+      <p id="ODODIAL_MVBM8-240028">Magister Maius spacium dicitur tonus ut est a Gut in primam a id est are et ab are in [sqb]mi Sed minus spacium vocatur semitonium sicut est a [sbq]mi in cfaut faciens contractiorem eleuationem vel deposicionem Nec spacium semitonij perveniet usque in finem ulla mensura vel numero sed cum diuisiones fiunt per supradictam racionem thoni et semitonij formantur in suis locis Sed si duxeris omnes tonos ad extremum punctum nouenaria diuisione inuenta In omnibus miraberis sicut primitus fecisti a Gut 
+      <pb n="[f.2v]" />ad are et ab are in [sqb]mi Sed prima nona b et secunda nona [sqb] faciunt semitonium maius et nullui invenitur in manu quam ibi Sed aliud semitonium quod habetur de elami in ffaut et ubique ubi ascensus fit vel descensus de fa ad mi vel econuerso vocatur minus semitonium Quia prima nona b distat a csolfaut per integrum tonum et secunda nona [sqb] distat per semitonium minus a csolfaut Modo omnis tonus constituitur ex semitonio maiore et semitonio minore Sequitur ergo abstracto numerare a csolfaut quod remanet maius a nona seconda [sqb] ad nonam primam .b. vt clarius exponit Johannes Boen in dictis suis Ideoque vna nota sub istis signis simul et semel non regitur Sed quando vnam recipis aliam contemnis Sed alternatim dominantur in ista claue</p>
+      <p id="ODODIAL_MVBM8-240029">Discipulus Rogo si alie sint diuisiones monocordi et ut in pluribus inveniantur</p>
+      <p id="ODODIAL_MVBM8-240030">Magister Tres sunt diuisiones preter tonum que custodiunt naturalem posicionem vocum quam supra dixi</p>
+      <p id="ODODIAL_MVBM8-240031">Prima diuisio est quaternaria per quam diuisa est per quatuor ut ab are ad dsolre Hec habet quatuor voces et tria interualla id est duos tonus et unum semitonium minus Et dicitur dyatesseron quia accepit nomine a quatuor</p>
+      <p id="ODODIAL_MVBM8-240032">Secunda diuisio est ternaria ut ab are ad elami ad finem tribus passibus diuisa et vocatur dianpente quia continet quinque voces scilicet tres tonos et unum semitonium et sunt quatuor interualla</p>
+      <p id="ODODIAL_MVBM8-240033">Tercia diuisio est que diuidit per duo vel per medium equaliter ut ab are ad alamire et dicitur diapason de duobus passibus Vnde quidam composuit duo metra de diuisione ista ternaria in hunc modum</p>
+      <p id="ODODIAL_MVBM8-240034">Ter tonus ic ternis:</p>
+      <p id="ODODIAL_MVBM8-240035">ic bis diatessera binis</p>
+      <p id="ODODIAL_MVBM8-240036">Ic diapente tripes</p>
+      <p id="ODODIAL_MVBM8-240037">ic diapasa bipes</p>
+      <p id="ODODIAL_MVBM8-240038">Vt in hoc exemplo sequenti</p>
+      <p id="ODODIAL_MVBM8-240039">
+      <pb n="[f.3r]" />[Venice, Marciana VIII.24, f.3r; text: A, d, e, a, diatesseron, diapenthe, diapason]</p>
+      <p id="ODODIAL_MVBM8-240040">Discipulus In paucis verbis non agnosco multa de diuisionibus sed eedem littere qualiter fiant in prima et secunda parte</p>
+      <p id="ODODIAL_MVBM8-240041">Magister Hoc ita fit vt vna queque littera corrrespondentem sue littere in dupla posite Cum tonis et semitonijs videlicet quod ubi in prima parte sit tonus sic et in secunda parte et ubi in prima parte sit semitonium sit et in secunda parte excepto in [sqb]mi et prima nona b que nullo modo concordant propter defectum semitonij maioris ut supra et sic omnis cantus potest simul cantare in prima parte et eciam secunda Sed prime uoces cantantur ad secundas tamquam viriles ad matronales</p>
+      <p id="ODODIAL_MVBM8-240042">Discipulus Perpendo subtiliter esse factum illud sed nunc experto primum audire qualiter possum nominare cantum ut ego comprehendam illum absque magistro ut Cum dederis exempla regulariter cognoscam eas et si penitus excessit quidquam mente indubitanter recurram ad tales notas</p>
+      <p id="ODODIAL_MVBM8-240043">Magister Pone ante oculos tuos litteras monocordi sicut discurrunt per eas cantilene et si non dum plene cognostis vim ipsarum litterarum percuciens cordam secundum easdem litteras mirifice audias et cognoscas ab ignorante magistro</p>
+      <p id="ODODIAL_MVBM8-240044">Discipulus Vere inquam dedisti mihi mirabilem magistrum qui a me factus me doceat Et docens me nil ipse sapiat ymo maxime amplector eum propter sapienciam eius pacienciam et sui obedienciam Nam cantabit mihi quando voluero et commotus det tarditate mei sensus nunquam cruciabit me verberibus vel iniurijs</p>
+      <p id="ODODIAL_MVBM8-240045">Magister Bonus magister est sed requirit diligentem auditorem</p>
+      <p id="ODODIAL_MVBM8-240046">Discipulus In quibus est maxima diligencia 
+      <pb n="[f.3v]" />adhibenda in arte ista</p>
+      <p id="ODODIAL_MVBM8-240047">Magister In coniunccionibus vocum que faciunt diuersas consonancias ut sicut sunt diuerse et differentes Ita dissimilis et differentis oportune prevaleas pronunciare vnamquamque earum</p>
+      <p id="ODODIAL_MVBM8-240048">Discipulus Precor edissere et ostende communibus exemplis quot sunt coniunctos</p>
+      <p id="ODODIAL_MVBM8-240049">Magister Sex sunt tam in eleuacione quam in deposicione</p>
+      <p id="ODODIAL_MVBM8-240050">Sequitur de coniunccionibus</p>
+      <p id="ODODIAL_MVBM8-240051">PRima coniunccio vocum est Cum iunguntur due voces inter quas est unum semitonium ut ab elami in ffaut qui consonancia alijs contraccior est ut in principio huius anthyphone Exultate deo et cetera eleuando Et in deposicione ut Vidimus stellam</p>
+      <p id="ODODIAL_MVBM8-240052">Secunda coniunccio Est cum inter duas voces est vnus tonus ut de cfaut ad dsolre exemplum eleuando ut hic Clamant clamant remittendo ut Angelus domini</p>
+      <p id="ODODIAL_MVBM8-240053">Tercia coniunccio vocum est cum tonus et semitonium faciunt differenciam ut de dsolre ad ffaut eleuando ut Iohannes autem deponendo autem ut In lege</p>
+      <p id="ODODIAL_MVBM8-240054">Quarta Coniunccio vocum est Cum Inter vocem et vocem sint duo toni ut ab ffaut ad alamire In eleuacione vt hic Ad huc multa In deposicione ut Ad veniente</p>
+      <p id="ODODIAL_MVBM8-240055">Quinta coniunccio vocum est per Diatessaron ut ab are in dsolre Intendendo ut Omnis patriarche remittendo ut hic Secundum autem</p>
+      <p id="ODODIAL_MVBM8-240056">Sexta et ultima coniunccio est qui fit per diapente ut a dsolre in alamire ut Primum querite eleuando In deponendo ut Canite tuba</p>
+      <p id="ODODIAL_MVBM8-240057">Alie regulares coniuncciones non Inueniuntur Et propterea vulgares cantores sepe in maximam laborem labuntur quia minime perpendunt vim toni et semitonij et aliarum consonanciarum [Nota in marg.] Nam vnusquisque eorum eligit id quod primum auribus placuerit 
+      <pb n="[f.4r]" />Vel quod facilius prouenerit ad distendum vel pronunctiandum Et sic magnus error in multis cantibus eiusmodi sint Et dico modos De octo tonis qui fiunt per ordinem in formulis ne si dixerim tonos Dubitacio fieret an dicatur de tonis formularijs An de tonis nouenarijs Ita quod si interrogaueris illos cantores De aliquo cantu Cuius modi sit statim respondent quod nesciunt ac si a parte cognoscerent quod si quesieris ab eis Vnde hoc sciant Istud argumentum Dicent titubantes Quia sit similis in principio et in fine alijs cantibus eiusdem modi Cum omnino non sapiant De vllo cantu cuiusmodi sit Ipsi ignorantes dicunt quod dissimilitudo vnius vocis sepe compellat mutare modum ut anthyphona O beatum virum pontificem Cum esset secundi modi in principio et fine tantum propter eleuacionem illius vocis O Martine Curiosissime est emendata in primo tono Vnde ista anthyphona Domine quit pati sunt Hoc poteris probare diligencius nam si incipias eam in sexto tono vel modo vt multi probant non discrepabit in ffaut ab eo modo usque ad semitonium quod est ibi In tabernaculo tuo In vna sillaba Sed quia ita est in vsu et bene sonat non debet emendari Sed inquiramus an si forsitan incipiatur In alio tono vtrum inueniatur tota consonancia in illo tono et erit opus emendare illam Sed incipe illam in csolfaut hoc est tritediezegmenon qui omnino est a fine parhipatemeson id est ffaut et regulariter probabis constare in eo tono Ex quo comprehenditur quia ipse est imperitus musicus qui faciliter ac presumptuose emendat plures cantus nisi prius inuestigauerit per omnes modos forte posset stare in aliquo tono nec magnopere curet 
+      <pb n="[f.4v]" />de similitudine aliorum cantuum sed de veritate regule Quot si non placet vllo tono Emendanda est secundum eundem tonum in quo minus dissonat Atque hoc debet obseruari ut emendatus cantus aut sonet decencius aut parim discrepet priori similitudine</p>
+      <p id="ODODIAL_MVBM8-240058">Discipulus Bene michi fecisti cantum de errore mercium Hec non eciam de curiosa Inuestigacione regularis mon[o]cordi ac regularium cantuum approbacione falsorum aut emendacione licet exercentibus vtiliter sensum prout oportet No dedisti michi modicam periciam paucis verbis Verumtamen adiunge quot modis vocum debet fieri cantus</p>
+      <p id="ODODIAL_MVBM8-240059">Magister Alij asserunt octo alij nouem alij decem</p>
+      <p id="ODODIAL_MVBM8-240060">Discipulus Quare octo</p>
+      <p id="ODODIAL_MVBM8-240061">Magister Propter maiorem diuisionem id est diapason Siue quia fiebant aput antiquos in cytaris octo sonis</p>
+      <p id="ODODIAL_MVBM8-240062">Discipulus Quare nouem</p>
+      <p id="ODODIAL_MVBM8-240063">Magister Propter bis diapente que terminatur in nouem vocibus</p>
+      <p id="ODODIAL_MVBM8-240064">Discipulus Quare decem</p>
+      <p id="ODODIAL_MVBM8-240065">Magister Propter psalterij Davitici auctoritatem quia inuenitur ter diatessaron in decem vocibus</p>
+      <p id="ODODIAL_MVBM8-240066">Discipulus Possunt eciam esse pauciores voces in cantu</p>
+      <p id="ODODIAL_MVBM8-240067">Magister Vtique possunt esse qui[n]que vel quatuor sed ita ut diapente reddat quinque et diatessaron quatuor</p>
+      <p id="ODODIAL_MVBM8-240068">Discipulus Prolata racione et pene testimonia omnium cantuum probant fore verum quod dicis Sed rogo expone quid sit tonus quem sepius vocas modum</p>
+      <p id="ODODIAL_MVBM8-240069">Magister Tonus vel modus est regula qui diiudicat in fine de omni cantu Nam si scieris finem non poteris ubi incipit cantus vel quantum debeat intendi vel remitti</p>
+      <p id="ODODIAL_MVBM8-240070">Discipulus Principium Quam regulam sumit a fine</p>
+      <p id="ODODIAL_MVBM8-240071">Magister Omne principium debet concordare suo fini secundum sex predictas consonancias coniunccionum Et quecumque voces possunt concordare suo fini per easdem consonancias eciam cantus illius finis poterit incipi in eisdem vocibus Excepto 
+      <pb n="[f.5r]" />quod quando cantus finitur in claue elami que est prima de semitonijs in tercio modo sepe inuenitur incipi in csolfaut qui elongatur ab elami in diapenthe et vno semitonio minore Eciam distinctos id est loca in quibus repausamus et in quibus diuidimus cantum debent finiri In eisdem vocibus Manifestum est vnoquoque modo in quibus cantus potest incipi Et ubi vnus quisque modus sepius et melius incipit Ibi consueuit incipere vel finire Decencius suas distincciones Quia magistri tradunt plures distincciones debere finiri in eam vocem in qua terminat cantum ne in aliqua alia voce plures distincciones fiant quam in ipsa Eciam et cantus expectat finiri in eadem voce et compellant mutari a modi in quo fuerant iniciati Denique cantus pertinet magis ad illum modum ad quem sepe distincciones sepe currunt Nam et principia sepius et decencius inueniuntur In eandem vocem que terminant cantum exemplum ut hic Tribus miraculus ecce vna Ornatam diem colius ecce secunda hodie stella magos duxit presepium ecce tercia Hodie vinum ex aqua factum est ad nupcias ecce quarta Hodie Christus a Johanne baptizari voluit ecce quintam et vltimam Ita sic vides quod plures distincciones in regulari cantu finiuntur et incipiuntur in suo tono Et vt incipiatur et finiatur in suo tono et eadem voce</p>
+      <p id="ODODIAL_MVBM8-240072">Discipulus Ita ut asseris ubique defenditur auctoritate magistrorum cantorum Et prosequitur de eleuacione et deposicione quam regule sumant a fine</p>
+      <p id="ODODIAL_MVBM8-240073">Magister In acutis vel eleuatis cantibus nullus cantus plus debet ascendere quam ad octauam vocem et in primo tercio quinto et septimo modo In qua voce est eadem littera que est in fine Inde cantus habebunt precipuam quantitatem propter diuisiones que dicuntur diapason 
+      <pb n="[f.5v]" />diapente et diatessaron et sub fine habebunt vnam vocem Sed in humilioribus cantibus Nulla deposicio inuenitur alicuius vocis ante finem Que non iungatur ad ipsum finem secundum sex predictas consonancias ut in secundo qua[r]to sexto et octauo modo Sed eleuacio eorum progreditur a fine ad quintam vocem secundum consonancias easdem Sed aliquando procedunt ad sextam vocem Sed in quibus vocibus cantus omnium modorum sepius incipiant secundum vsum presentem in breuibus peruidebis formulis eorum</p>
+      <p id="ODODIAL_MVBM8-240074">Discipulus Quoniam probasti cantum omnium modorum sumere regulam a fine tempus/temporibus et dicere Quot sunt ipsi modi et quot sunt ipsi toni</p>
+      <p id="ODODIAL_MVBM8-240075">Magister Quidam putant esse quatuor modos</p>
+      <p id="ODODIAL_MVBM8-240076">Discipulus Quare bone magister</p>
+      <p id="ODODIAL_MVBM8-240077">magister Quia omnis regularis cantus potest finiri in quatuor vocibus monocordi</p>
+      <p id="ODODIAL_MVBM8-240078">Discipulus Que sunt ille voces</p>
+      <p id="ODODIAL_MVBM8-240079">Magister Dsolre in quam terminatur modus qui dicitur autentus prothus id est auctor vel primus princeps Plaga id est pars prothi vel primi Elami in qua terminatur modus qui dicitus autentus deuterus id est auctor vel secundus princeps Plaga deuteri id est secundi Ffaut in qua terminatur autentus tritus id est tercius princeps Plaga triti id est tercij G solreut in qua terminatur autentus tetrardus id est quartus princeps Plaga tetrardi id est quarta Et hij quatuor diuiduntur in octo</p>
+      <p id="ODODIAL_MVBM8-240080">Discipulus Quare</p>
+      <p id="ODODIAL_MVBM8-240081">Magister Propter eleuatos et humiles cantus verbi gracia Nam cum cantus fuerit acutus et eleuatur in autento protho Dicitur modi autenti prothi Et si fuerit grauis vel humilis in eodm autento protho dicetur plaga prothi id est pars primi thoni</p>
+      <p id="ODODIAL_MVBM8-240082">Discipulus Quare dicitur plaga prothi</p>
+      <p id="ODODIAL_MVBM8-240083">Magister Eo quod finitur in eodem loco in quo finitur autentus prothus scilicet in dsolre Et sic de alijs tribus modis consimiliter quelibet in suo 
+      <pb n="[f.6r]" />fine</p>
+      <p id="ODODIAL_MVBM8-240084">Igitur octo sunt modi per quos discurrens omnis cantilena variatur octo dissimilibus qualitatibus</p>
+      <p id="ODODIAL_MVBM8-240085">Discipulus Quemadmodum potero animaduertere differenciam et communitatem eorum</p>
+      <p id="ODODIAL_MVBM8-240086">Magister Per tonos et semitonia</p>
+      <p id="ODODIAL_MVBM8-240087">Discipulus Quomodo</p>
+      <p id="ODODIAL_MVBM8-240088">Magister Nam ubi toni et semitonia fiunt simul ibi et relique consonancie fiunt et ubicumque duo toni adherebunt semitonio ibi non deerit dyatessaron Similiter oportet intelligi de reliquis consonancijs</p>
+      <p id="ODODIAL_MVBM8-240089">Discipulus Ergo obsecro ate et edicito que secuntur de modis</p>
+      <p id="ODODIAL_MVBM8-240090">Hic magister narrat discipulo naturam primi toni</p>
+      <p id="ODODIAL_MVBM8-240091">[Magister] Primus modus finitur in dsolre et procedit ad vndecimam .d. scilicet dlasolre ut diapason ascendendo per tonos et semitonia et deponitur a finali scilicet dsolre in cfaut vno tono et potest incipi per omnes voces coniuncciones supradictas Vnde quidam super hoc quod primus modus tantum ascendit et descendit loquitur in hunc modum semper subintelligendo quod Gut non numeratur cum alijs clauibus et quando alterat aliquem clauem quod tunc notet clauem eius duplam</p>
+      <p id="ODODIAL_MVBM8-240092">Ad quintam vocem statuit primus sibi sedem</p>
+      <p id="ODODIAL_MVBM8-240093">Tercia vox subsit vox altera quarta supersit</p>
+      <p id="ODODIAL_MVBM8-240094">Vt sonat intense diatessaron ac diapente</p>
+      <p id="ODODIAL_MVBM8-240095">Quot autem differencias primus habet modus hoc patebit in figura quamuis habet sex incepciones non habet nisi quinque differencias</p>
+      <p id="ODODIAL_MVBM8-240096">Secundus tonus finitur in eadem voce scilicet dsolre et ascendit ad nonam prima b Et deponitur a fine per diatessaron ad are vt patet per ista metra</p>
+      <p id="ODODIAL_MVBM8-240097">Accipiet sedem residendo secundus ibidem</p>
+      <p id="ODODIAL_MVBM8-240098">Qui sonat intensum diapente sonatque remissum</p>
+      <p id="ODODIAL_MVBM8-240099">Adde super primam si vis procedere nonam</p>
+      <p id="ODODIAL_MVBM8-240100">Sed finit plurimi cantus non autentam eleuacionem nec plagalem deposicionem 
+      <pb n="[f.6v]" />Sed vtentes vocibus vtrisque de illis dicitur quod si ascenderint ad alamire et tetigerint eam ter vel quater autenti erunt vel si incepti fuerint in alamire vt Rectos decet collaudacio aut in suo finali vt In paciencia vestra Semper autentus sunt attribuenda Sed si remanserint circa finem Infra diatessaron sine dubio secundi modi attribuntur Eciam de illis habentibus eleuacionem autentam et deposicionem plagalem est sciendum quod omnis cantus qui supra finalem tetigerit ter vel quater diapente et vltra semidytonum vel dytonum quamuis bene haberent bis plagalem remissionem adhuc essent autentis tribuende Vt Ecce tripulchra Fidelis sermo et cetera de alijs Incipitur secundus modus secundum coniuncciones vocum excepto quod raro in [sqb]mi vel in elami incipit et nullam habet differenciam</p>
+      <p id="ODODIAL_MVBM8-240101">Hic loquitur de natura tercij toni</p>
+      <p id="ODODIAL_MVBM8-240102">TErcius modus finitur in elami et ascendit per octo voces ad elami minutum et subsit sub fine per vnam vocem in dsolre et multum diligit nonam secundam [sqb] quia distat a finali suo per diapente et distat a dupla finalis per diatessaron que due species iuncte finali elami dulcissimam reddit armoniam Vnde de ascensu et descensu huius tercij modi aut metrista</p>
+      <p id="ODODIAL_MVBM8-240103">Tercius in quintam vocem statuit sibi sedem</p>
+      <p id="ODODIAL_MVBM8-240104">Quarta vox subsit vox altera quinta supersit</p>
+      <p id="ODODIAL_MVBM8-240105">Hinc sonat intense dyatessaron et diapenthe</p>
+      <p id="ODODIAL_MVBM8-240106">Tercius modus habet quatuor incepciones scilicet elami ffaut gsolreut et csolfaut et habet tres differencias vt patet in figura</p>
+      <p id="ODODIAL_MVBM8-240107">Hic loquitur de quarto tono vel modo</p>
+      <p id="ODODIAL_MVBM8-240108">QVartus modus finitur cum tercio in Elami et ascendit 
+      <pb n="[f.7r]" />ad nonam primam b Et descendit sub finali per diatessaron sicut cetere plagales In eleuacione licencialiter potest tangere csolfaut ex quo descensus eius non est ita communis sicut aliarum plagalium et propterea illa anthyphona Iste cognouit iusticiam Est quarti modi qui alias esset tercij per regulas superius narratas Vnde quid[am]</p>
+      <p id="ODODIAL_MVBM8-240109">Accipiet sedem residet quoque quartus ibidem</p>
+      <p id="ODODIAL_MVBM8-240110">Huic datur intensum diapentheque datur remissum</p>
+      <p id="ODODIAL_MVBM8-240111">Quamlibet ex nonis decimamque super sociabis</p>
+      <p id="ODODIAL_MVBM8-240112">Principia eius inveniantur secundum coniuncciones vocum superius datas Et habet vnum principale et sex differencias vt patet in figura</p>
+      <p id="ODODIAL_MVBM8-240113">Hic docet naturam quinti toni vel modi</p>
+      <p id="ODODIAL_MVBM8-240114">QVintus modus finitur in ffaut et ascendit ad ffaut secundam et raro descendit sub finali Iste modus multum diligit bmolle propter speciem diatessaron quam habet ad finalem et propter diapente quam habet ad finalis duplam Videlicet ffaut secundam Vnde quidam</p>
+      <p id="ODODIAL_MVBM8-240115">Ad sextam vocem statuit quintus sibi sedem</p>
+      <p id="ODODIAL_MVBM8-240116">Raroque vox subsit vox altera sexta supersit</p>
+      <p id="ODODIAL_MVBM8-240117">Additur intente diatessaron et diapente</p>
+      <p id="ODODIAL_MVBM8-240118">Principia eius sunt in ffaut in g raro in alamire et in csolfaut Et habet vnam differenciam</p>
+      <p id="ODODIAL_MVBM8-240119">Hic docet naturam sexti modi vel toni</p>
+      <p id="ODODIAL_MVBM8-240120">SExtus modus finitur in ffaut et ascendit in csolfaut et descendit sub fine per diatessaron Vnde quidam metrista de sexto modo loquitur</p>
+      <p id="ODODIAL_MVBM8-240121">Sextus intrat eadem sexta se voce reponit</p>
+      <p id="ODODIAL_MVBM8-240122">Effertur supra diatessaron huius et infra</p>
+      <p id="ODODIAL_MVBM8-240123">Hinc superadde tonum si vis procedere cursum</p>
+      <p id="ODODIAL_MVBM8-240124">Principia eius sunt elami in ffaut alamire et csolfaut secundum coniuncciones predictas et habet vnam differenciam ut patebit in figura</p>
+      <p id="ODODIAL_MVBM8-240125">Hic docet naturam septimi toni vel modi</p>
+      <p id="ODODIAL_MVBM8-240126">
+      <pb n="[f.7v]" />Septimus modus finitur in gsolreut et ascendit ad eius duplam scilicet gg et descendit ad ffaut et iste modus non habet terminos affinales nec eciam octauus sicut ceteri modi precedentes de quibus in figura satis luculenter demonstrabitur Vnde quidam de ascensu et descensu istius modi</p>
+      <p id="ODODIAL_MVBM8-240127">Septimus septeno numero statuit sibi sedem</p>
+      <p id="ODODIAL_MVBM8-240128">Sextaque vox subsit vox septima summa supersit</p>
+      <p id="ODODIAL_MVBM8-240129">Intensum tribue diatessaron et diapente</p>
+      <p id="ODODIAL_MVBM8-240130">Principia eius vix invenies in ffaut Sed in gsolreut alamire bfa[sqb]mi nona secunda csolfaut et dlasolre et habet quatuor differencias vt demonstrabitur in figura sequenti</p>
+      <p id="ODODIAL_MVBM8-240131">Hic loquitur de natura octaui modi</p>
+      <p id="ODODIAL_MVBM8-240132">OCtauus modus terminatur in gsolreut et ascendit ad elami secundam et descendit sub finali per diapenthe Non quod semper requiritur ut habeant transitus prescriptos sub et supra finalem finaliter Sed quod tamen significatur per ambitus cuiuslibet modi ad placitum componentis Vnde quidam metrista loquitur de isto modo octauo</p>
+      <p id="ODODIAL_MVBM8-240133">Octauus sedem pro fine receptat eandem</p>
+      <p id="ODODIAL_MVBM8-240134">Istius intente prius et diapenthe remitte</p>
+      <p id="ODODIAL_MVBM8-240135">His superadde tonum vult septimus inde sequendum</p>
+      <p id="ODODIAL_MVBM8-240136">Principia huius modi sunt Cfaut dsolre ffaut gsolreut alamire csolfaut Et habet quatuor differencias</p>
+      <p id="ODODIAL_MVBM8-240137">Assiduus perscrutator intelligere et comprehendere potest ex istis predictis quamplurima tam de tonis quam de reliquis regulis huius operis Iuuante diuina gracia Quod siciunt egerit negligenter aut presumserit posse capere hoc non per diuinam illustracionem Sed acumine sui sensus aut nequaquam intelliget aut non refert gracias donatori efficietur Inseruiens elacioni quod absit Iam minus subditurus creatori Qui est benedictus in seculorum secula</p>
+    </body>
+  </text>
+</TEI>

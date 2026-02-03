@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Tonale Sancti Bernardi</title>
+        <title type="abbrev">BERTON</title>
+        <author>Anonymous</author>
+        <date notBefore="1100" notAfter="1199">12th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Stephen E. Hayes</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Peter M. Lefferts</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Angela Mariani</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1993</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>Scriptores ecclesiastici de musica sacra potissimum</emph>, 3 vols., ed. Martin Gerbert (St. Blaise: Typis San-Blasianis, 1784; reprint ed., Hildesheim: Olms, 1963), 2:265–77.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: Tonale Cisterciense (Tonale s. Bernardi)</title>
+          
+<idno type="LML">TON. Cist.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">A-Gu Cod. 509, 133rb-136rb</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">A-HE Cod. 20, 220v-223v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">A-SP Cod. 134/6 (29.4.3), 2-5</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-HEu Salem XI, 11, 91-93 (Fragment)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-HEu Salem XI, 14, 133-135</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-MZs Hs. II 375, 70-72</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">E-Bbc M. 883, 15v-19</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 16662, 78-81v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Nouv. acq. lat. 1411, 145-146v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Nouv. acq. lat. 1412, 186-189</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Cjec Q.B.17, 116r-v (Fragment)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Lbl Harley 281, 34-38v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fn II. I. 406, 4-5</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Vnm Lat. Cl. VIII.85 (3579), 43v-47v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">US-BAw W. 62, 180r-v (Abbrégé)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">US-BAw W. 63, 130v-132 (Abbrégé)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">US-KAL Cisterc. antiph., 141v-143v (Abbrégé)</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="BERTON0001">
+      <pb n="[265]" />TONALE SANCTI BERNARDI.</p>
+      <p id="BERTON0002">Incipit Tonale.</p>
+      <p id="BERTON0003">Discipulus. Quid est tonus?</p>
+      <p id="BERTON0004">Magister. Regula, naturam et formam cantuum regularium determinans.</p>
+      <p id="BERTON0005">D. In quo natura, in quo forma cognoscitur?</p>
+      <p id="BERTON0006">M. Natura consistit in dispositione: forma in compositone et progressione.</p>
+      <p id="BERTON0007">D. Quid dispositionem, quid progressionem, quid vero vocas compositionem?</p>
+      <p id="BERTON0008">M. Dispositio est tonorum et semitoniorum directa ordinatio secundum naturalem 
+      <pb n="[266]" />litterarum positionem. Progressio vero est elevatio et depositio. Compositio autem consistit in levitate et gravitate, in extensione et reflexione, in variis anfractibus multisque diverticulorum varietatibus. Cognoscis ergo naturam cantus, si cognoveris, cuius dispositionis sit, vel cuius maneriae: Cognoscis formam, cognito utrum authentice vel plagaliter progrediatur sive componatur.</p>
+      <p id="BERTON0009">D. Quot sunt maneriae?</p>
+      <p id="BERTON0010">M. Quatuor.</p>
+      <p id="BERTON0011">D. Quomodo inter se differunt?</p>
+      <p id="BERTON0012">M. Prima est, quae a finali ascendit per tonum et semitonium, et descendit per tonum. Secunda, quae a finali ascendit per semitonium et tonum, et descendit per tonum. Tertia, quae a finali ascendit per duos tonos, et descendit per semitonium. Quarta, quae a finali ascendit per duos tonos, et descendit per tonum.</p>
+      <p id="BERTON0013">D. Quid vocas finalem?</p>
+      <p id="BERTON0014">M. Finales sunt litterae terminativae cantuum.</p>
+      <p id="BERTON0015">D. Quot finales singulae habent maneriae?</p>
+      <p id="BERTON0016">M. Prima duas: D. et a. Secunda duas: E. et [sqb]. quadrum. Tertia duas: F. et c. Quarta unam tantum, scilicet G.</p>
+      <p id="BERTON0017">D. Utrum tot toni sunt, quot maneriae?</p>
+      <p id="BERTON0018">M. Quatuor sunt maneriae, sed octo sunt toni, qui sub maneriis continentur. Quorum impares, videlicet primus, tertius, quintus et septimus authentici vocantur, utpote qui maioris sunt dignitatis. Pares vero, videlicet secundus, quartus, sextus, et octavus tonus, quia indigniores sunt, plagales vocantur. Continet autem unaquaeque maneria unum authentum, et plagalem eius. Prima primum et secundum, secunda tertium et quartum, tertia quintum et sextum, quarta septimum et octavum.</p>
+      <p id="BERTON0019">D. Quae differentia est inter authentos et plagales?</p>
+      <p id="BERTON0020">M. Authentus potest ascendere ultra litteram, quae sexta est a finali: plagalis non. Plagalis potest descendere plusquam una voce sub finali, authentus non.</p>
+      <p id="BERTON0021">D. Quot vocibus superat authentus plagalem in elevatione, et superatur ab ipso in depositione?</p>
+      <p id="BERTON0022">M. Tribus.</p>
+      <p id="BERTON0023">D. Quot ergo vocum est cantus?</p>
+      <p id="BERTON0024">M. Decem.</p>
+      <p id="BERTON0025">D. Quare?</p>
+      <p id="BERTON0026">M. Quia secundum dispositonem tonorum et semitoniorum, quam habent musici, nullus cantus fieri potest in decem vocibus vel citra, qui notari non possit, sed undecim vocum cantus fieri potest, qui notari non potest. Ideo non est necesse, ut usque ad incertitudinem illam infra vel supra cantus exeat.</p>
+      <p id="BERTON0027">D. Cuiusmodi est dispositio quam habent musici?</p>
+      <p id="BERTON0028">M. Primae et quartae et septimae litterae altrinsecus tonum attribuunt, secundae et quintae inferius tonum, et supra semitonium, tertiae et sextae econverso, videlicet supra tonum, et inferius semitonium, non praetermittentes quandoque b. rotundum pro asperitate tritoni.</p>
+      <p id="BERTON0029">D. De illis cantibus quaero, qui non ascendunt ultra sextam, nec descendunt subter primam sub finali, utrum authenti sint, an plagales?</p>
+      <p id="BERTON0030">M. Quidam eorum sunt authenti, quidam plagales.</p>
+      <p id="BERTON0031">
+      <pb n="[267]" />D. Quae inter illos est distinctio?</p>
+      <p id="BERTON0032">M. Hi non per progressionem, sed per compositionis distinguuntur considerationem. Quilibet enim cantus huius diminutae et contractae progressionis, si in quinta inceperit, aut eam frequentans in ea pausaverit, vel incipiens in finali ad eam saltum fecerit, authentus est; excipe in tertio tono sextam pro quinta. Quicumque autem cantus quartam non excesserit, sine dubio plagalis est. Quodsi eam quandoque excesserit, sed se infra statim retraxerit, moras et circumflexiones suas sub ea faciens, iterum plagalis est; nisi constet, alicuius authenti propriam inesse compositionem.</p>
+      <p id="BERTON0033">D. Quae sunt illae propriae compositiones?</p>
+      <p id="BERTON0034">M. Inspice neugma primi toni, et propriam ipsius compositionem in neugmate reperies, quam nisi haec antiphona Lex per Moysen, et multae consimiles haberent, omnino plagales essent. Similiter est in caeteris authentis. Iterum quilibet cantus huius diminutae progressionis, si in principio sui a finali ad quartam ascenderit per diatessaron plenarie formatum, et inde cito ad finalem rediens in ea pausaverit, plagalis est. Hoc determino propter quaedam principia septimi toni, quae licet per diatessaron ascendant, ipsum tamen reflectunt, et mox ad quintam prosiliunt. Per hanc regulam haec antiphona: Petrus apostolus. plagalis est; licet authenti sui propriam videatur habere compositionem.</p>
+      <p id="BERTON0035">D. Restat ut insinues, quis cantus sit regularis.</p>
+      <p id="BERTON0036">M. Ut eum tibi propria et convertibili descriptione comprehendam: cantus regularis est, qui sibi perfecte consonans suam in se maneriam certificat.</p>
+      <p id="BERTON0037">D. Expositione indiget brevis quidem, sed obscura definitio.</p>
+      <p id="BERTON0038">M. Ille cantus perfecte sibi consonat, in quo nec inconveniens est progressio, nec progressioni sive dispositioni dissimilis est compositio, nec compositionem dissolvit oppositio.</p>
+      <p id="BERTON0039">D. Da exemplum de singulis.</p>
+      <p id="BERTON0040">M. In illo cantu est inconveniens progressio, in quo authenticae elevationi plagalis subiungitur depositio. Qui nimirum inconsulte progrediens, metasque debitas utrobique transgrediens, humano capiti caudam subiungit equinam. Huius naevo vitii decolorata sunt haec responsoria; Sancte Paule. Cornelius. et plures alii cantus, circa quos ut ingrediamur sine macula, operati sumus iustitiam. Inconvenienter etiam cantus ille progrediditur, qui nimis contractam habet elevationem; sicut enim sunt metae, ultra quas non debet ascendere, ita sunt litterae, ad quas eum necesse est ascendere. De omni namque authento certum est, quod necesse est eum ascendere ad quintam. Plagalis autem elevari debet usque ad quartam, vel ad minus usque ad litteram illam, in qua incipit suum Seculorum. Assume enim hanc antiphonam: Clamavi. secundum quod canitur in quarto tono; qua finita, si eius Seculorum inceperis, ridiculosum et dissonantem saltum facies. Illa siquidem antiphona non ascendit ultra. F. grave, Seculorum autem incipit in a. acuto. Propter hoc prolixiorem dedimus ascensum quibusdam antiphonis in hoc vitiosis, scilicet: Dele Domine. 
+      <pb n="[268]" />Omnis terra. Si iniquitates, et consimilibus.</p>
+      <p id="BERTON0041">D. Procede, ut ea quae sequuntur, similis illuminet evidentia.</p>
+      <p id="BERTON0042">M. In illo cantu progressioni reclamat compositio, qui ubique authenticam habens compositionem, plagalem alicubi descensum interserit; sicut erat: Deus omnium. Sint lumbi. et multa alia, tam antiphonae quam responsoria. Sunt alii cantus, in quibus progressioni compositio consentit, sed dissentit a dispositione, quia secundum naturalem dispositionem litterarum unius sunt maneriae, sed secundum compositionis similitudinem sub alia videntur et dicuntur contineri maneria, sicut Benedicta tu. et multae consimiles antiphonae, quae apud fere omnes hoc laborant vitio, quia secundum naturalem dispositonem primae sunt maneriae, et tamen propter similitudinem compositionis dicuntur et creduntur esse secundae. Illius vero cantus compositio oppositione dissolvitur, qui in partibus suis dissimiliter compositus est, ita ut in una parte sui cuiusdam toni, in altera alterius toni esse videatur, sicut erat: Beata Caecilia. Videntes Ioseph. et Dedisti Domine.</p>
+      <p id="BERTON0043">D. Qui sunt, qui suam in se maneriam non certificant?</p>
+      <p id="BERTON0044">M. Qui ita cuiuslibet maneriae carent proprietate, ut in diversarum finalibus maneriarum pariter terminari possint, et diversorum esse tonorum. De numero quorum erant: Ecce sacerdos magnus, et multi alii cantus septimi toni: Visita nos, et multi octavi toni: Nazaraeus vocabitur, et plures quinti toni: Miserere mei Deus, et plures sexti toni.</p>
+      <p id="BERTON0045">D. Illas maneriarum proprietates mihi vellem exprimi, quibus cantus innixi, diversis non possunt fluctuare finalibus.</p>
+      <p id="BERTON0046">M. Qui cantus vitiose composuerunt, vel bene compositas male notando vel cantando postmodum depravaverunt, si has, quas requiris, cognovissent proprietates, non tot cantuum emersissent improprietates. Ut ergo ad interrogata breviter respondeam, in nullo prima vel secunda maneria debet praetermittere semitonium, quod finali vicinius est, quin alicubi vel semel inveniatur: et sic finales illarum maneriarum alternari non possunt. Similiter omnes cantus quinti toni debent habere sub finali vel sub quinta semitonium, vel supra sextam tonum: omnes vero cantus sexti toni exigunt sub finali vel sub quinta semitonium. Omnes autem cantus septimi toni debent habere sub quarta semitonium, et praeter hoc vel sub finali tonum, vel supra sextam semitonium: cuius plagalis semitonium sub quarta et tonum exigit sub finali.</p>
+      <p id="BERTON0047">D. Praemissis quae ad notitiam tonorum videntur necessaria, ad faciendam doctrinam de singulis potes commodius accedere.</p>
+      <p id="BERTON0048">M. Tuis quaestionibus prout potui compendiose responsi: caeteris, si quas habes, eadem responsurus diligentia.</p>
+      <p id="BERTON0049">Disciplus. Quid est primus tonus?</p>
+      <p id="BERTON0050">M. Regula authentum primae maneriae determinans.</p>
+      <p id="BERTON0051">D. Quae est illa?</p>
+      <p id="BERTON0052">M. Quilibet cantus regularis authentice elevatus vel compositus, terminatus in D. vel in a. authentus est primae maneriae. 
+      <pb n="[269]" />Quae sit autem authentica elevatio vel compositio, superius dictum est.</p>
+      <p id="BERTON0053">D. Quid si cantus aliquis authentice elevetur, non tamen authenticam sed plagalem habeat compositionem?</p>
+      <p id="BERTON0054">M. Hunc sibi vetusta vendicat irregularitas, sicut a novitate usus nostri, ita et a praesenti disputatione penitus alienum.</p>
+      <p id="BERTON0055">D. Quot differentias habet?</p>
+      <p id="BERTON0056">M. Exclusis multiplicium, quae ab aliis canuntur superfluitatibus, differentiae tres quibusdam videntur necessariae. Prima, quae maturis et gravibus; secunda, quae levibus et acutis; tertia, quae mediocribus habeat subservire principiis. Quorumdam tamen importunitate minus discrete brevitatem aemulantium, relicta ea quae gravibus principiis proprie convenit, et in primo tono canitur; scilicet</p>
+      <p id="BERTON0057">[GSII:269,1; text: amen] 
+      <figure>
+        <graphic url="/images/BERTON_01GF.gif" />
+      </figure></p>
+      <p id="BERTON0058">reliquis duabus in hoc tono utimur, quas subiecta docet formula. Nam tertiam differentiam, quae illi antiphonae, scilicet Nos qui vivimus adaptatur, magis voluntas quam ratio retinuit: Cum enim illam abiecerint, quae non solum adeo propria sed et levior et usitatior est, qua ratione hanc in uno tantum psalmo retinuerunt? Utinam tamen vel hac sola in primo tono contenti fuissent, cum primi toni proprietatem exprimat, et alii tono servire non possit. Nam de reliquis duabus differentiis neutrum verum est.</p>
+      <p id="BERTON0059">[GSII:269,2; text: Gloria seculorum amen. Antiphona Primum quaerite regnum Dei. Antiphona Ave Maria. Antiphona Mulieres. Antiphona Ecce nomen. Antiphona Angeli Domini. Antiphona Venit lumen. Antiphona Adiutorium. Antiphona Speciosus. Antiphona Christi virgo. Antiphona Isti sunt. Antiphona Biduo vivens. Antiphona O quantus luctus.]</p>
+      <p id="BERTON0060">
+      <pb n="[270]" />[GSII:270,1; text: Antiphona Euge serve. Antiphona In medio. Antiphona Cum sublevasset. Gloria seculorum amen. Antiphona Vidi Dominum. Antiphona Ecce vere. Antiphona Apertis. Gloria Patri et Filio et Spiritui sancto. Antiphona Nos qui vivimus.] 
+      <figure>
+        <graphic url="/images/BERTON_02GF.gif" />
+      </figure></p>
+      <p id="BERTON0061">Discipulus. Quid est secundus tonus?</p>
+      <p id="BERTON0062">M. Regula plagalem primae maneriae determinans.</p>
+      <p id="BERTON0063">D. Quae est illa?</p>
+      <p id="BERTON0064">M. Quilibet cantus regularis plagaliter depositus vel compositus, finem faciens in D. vel in a. plagalis, est primae maneriae. Quae autem sit plagalis depositio vel compositio, superius dictum est.</p>
+      <p id="BERTON0065">D. Quot differentias habet?</p>
+      <p id="BERTON0066">M. Unam tantum, omnibus ipsius principiis satis commode servientem: ut patet in sequentibus.</p>
+      <p id="BERTON0067">[GSII:270,2; text: Gloria. seculorum amen. Antiphona Secundum autem simile est huic. Antiphona Isti sunt sancti. Antiphona O]</p>
+      <p id="BERTON0068">
+      <pb n="[271]" />[GSII:271,1; text: sapientia. Antiphona In universa terra. Antiphona In omnem terram. Gloria Patri et filio et Spiritui sancto.] 
+      <figure>
+        <graphic url="/images/BERTON_03GF.gif" />
+      </figure></p>
+      <p id="BERTON0069">Disciplus. Quid est tertius tonus?</p>
+      <p id="BERTON0070">M. Regula authentum secundae maneriae determinans.</p>
+      <p id="BERTON0071">D. Quae est illa?</p>
+      <p id="BERTON0072">M. Quilibet cantus regularis authentice elevatus vel compositus terminatus in E. vel in [sqb]. authentus est secundae maneriae.</p>
+      <p id="BERTON0073">D. Quot differentias habet?</p>
+      <p id="BERTON0074">M. Duas, alteram inferioribus, alteram superioribus principiis satis commode deputatas: ut docet subiecta formula.</p>
+      <p id="BERTON0075">[GSII:271,2; text: Gloria. seculorum amen. Antiphona Tertia dies est quo haec facta sunt. Antiphona Cum fortis armatus. Antiphona Nigra sum. Antiphona Malos male. Antiphona Quoniam. Antiphona Domine. Antiphona Quid de terra est.]</p>
+      <p id="BERTON0076">
+      <pb n="[272]" />[GSII:272,1; text: Gloria a Patri et Filio et Spiritui sancto.] 
+      <figure>
+        <graphic url="/images/BERTON_04GF.gif" />
+      </figure></p>
+      <p id="BERTON0077">Discipulus. Quid est quartus tonus?</p>
+      <p id="BERTON0078">M. Regula plagalem secundae maneriae determinans.</p>
+      <p id="BERTON0079">D. Quae est illa?</p>
+      <p id="BERTON0080">M. Quilibet cantus regularis plagaliter depositus vel compositus, finem faciens in E. vel in [sqb]. plagalis est secundae maneriae.</p>
+      <p id="BERTON0081">D. Quot differentias habet?</p>
+      <p id="BERTON0082">M. Duas, unam principiis cantuum mature incedentium, alteram reliquis omnibus congruentem: ut subiecta docet descriptio.</p>
+      <p id="BERTON0083">[GSII:272,2; text: Gloria. seculorum amen. Antiphona Quarta vigilia venit ad eos. Antiphona Laudabo. Antiphona Nos scientes. Antiphona Rubum quem viderat. Antiphona Stetit Angelus. Antiphona Iste cognovit. Antiphona Oculi mei. Antiphona In prole matris. Antiphona Nisi diligenter. Antiphona In domum. Gloria]</p>
+      <p id="BERTON0084">
+      <pb n="[273]" />[GSII:273,1; text: Patri et Filio et Spiritui sancto.] 
+      <figure>
+        <graphic url="/images/BERTON_05GF.gif" />
+      </figure></p>
+      <p id="BERTON0085">Discipulus. Quid est quintus tonus?</p>
+      <p id="BERTON0086">M. Regula authentum tertiae maneriae determinans.</p>
+      <p id="BERTON0087">D. Quae est illa?</p>
+      <p id="BERTON0088">M. Quilibet cantus regularis authentice elevatus vel compositus, terminatus in F. vel in C. authentus est tertiae maneriae.</p>
+      <p id="BERTON0089">D. Quot differentias habet?</p>
+      <p id="BERTON0090">M. Unam solummodo, omnibus ipsius principiis congruentem: ut inferius ostenditur.</p>
+      <p id="BERTON0091">[GSII:273,2; text: Gloria. seculorum amen. Antiphona Quinque prudentes intraverunt ad nuptias. Antiphona Confitebor Domino. Antiphona In conspectu angelorum. Antiphona In sole posuit. Gloria Patri et Filio et Spiritui sancto.]</p>
+      <p id="BERTON0092">Discipulus. Quid est sextus tonus?</p>
+      <p id="BERTON0093">M. Regula plagalem tertiae maneriae determinans.</p>
+      <p id="BERTON0094">D. Quae est illa?</p>
+      <p id="BERTON0095">M. Quilibet cantus regularis plagaliter depositus vel compositus, finem faciens in F. vel in C. plagalis est tertiae maneriae.</p>
+      <p id="BERTON0096">D. Quot differentias habet?</p>
+      <p id="BERTON0097">M. Unam, universis eius principiis arridentem, ut subiecta formula declarat.</p>
+      <p id="BERTON0098">
+      <pb n="[274]" />[GSII:274,1; text: Gloria. seculorum amen. Antiphona Sexta hora sedit super puteum. Antiphona O admirabile commercium. Antiphona Benedictus Dominus. Gloria Patri et Filio et Spiritui sancto.] 
+      <figure>
+        <graphic url="/images/BERTON_06GF.gif" />
+      </figure></p>
+      <p id="BERTON0099">Discipulus. Quid est septimus tonus?</p>
+      <p id="BERTON0100">M. Regula authentum quartae maneriae deteminans.</p>
+      <p id="BERTON0101">D. Quae est illa?</p>
+      <p id="BERTON0102">M. Quilibet cantus regularis authentice elevatus vel compositus, terminatus in G. authentus est quartae maneriae.</p>
+      <p id="BERTON0103">D. Quot differentias habet?</p>
+      <p id="BERTON0104">M. Duas, alteram servientem principiis, quae in quinta fiunt, vel ad ipsam saliunt: alteram congruentem principiis, quae a finali per quosdam gradus ad quintam ascendunt: ut patet inferius.</p>
+      <p id="BERTON0105">[GSII:274,2; text: Gloria seculorum amen. Antiphona Septem sunt spiritus ante thronum Dei. Antiphona Omnes sitientes.]</p>
+      <p id="BERTON0106">
+      <pb n="[275]" />[GSII:275,1; text: Antiphona Veterem hominem. Antiphona Argentum. Antiphona Vivit Dominus. Gloria seculorum amen. Antiphona Dixerunt discipuli. Antiphona Ierusalem. Antiphona Benedicta tu. Gloria Patri et Filio et Spiritui sancto.] 
+      <figure>
+        <graphic url="/images/BERTON_07GF.gif" />
+      </figure></p>
+      <p id="BERTON0107">Discipulus. Quid est octavus tonus?</p>
+      <p id="BERTON0108">M. Regula plagalem quartae maneriae determinans.</p>
+      <p id="BERTON0109">D. Quae est illa?</p>
+      <p id="BERTON0110">M. Quilibet cantus regularis plagaliter depositus vel compositus, terminatus in G. plagalis est quartae maneriae.</p>
+      <p id="BERTON0111">D. Quot differentias habet?</p>
+      <p id="BERTON0112">M. Duas, alteram servientem principiis cantuum in quarta a finali incipientium: alteram caeteris ipsius omnibus principiis deputatam: ut subiecta docent.</p>
+      <p id="BERTON0113">[GSII:275,2; text: Gloria. seculorum amen. Antiphona Octo sunt beatudines. Antiphona Scriptum est. Antiphona Nuptiae. Antiphona Adorate Dominum. Antiphona Dum medium. Gloria seculorum amen.]</p>
+      <p id="BERTON0114">
+      <pb n="[276]" />[GSII:276; text: Antiphona Ecce ancilla. Antiphona Dominus dixit. Antiphona De profundis. Antiphona In aeternum. Gloria Patri et Filio et Spiritui sancto.] 
+      <figure>
+        <graphic url="/images/BERTON_08GF.gif" />
+      </figure></p>
+      <p id="BERTON0115">D. Memini te dixisse superius de duabus differentiis primi toni, quod proprietatem sui modi non exprimunt, et alii tono possunt aptari. Supra positae differentiae reliquorum modorum suntne obsecro propriae?</p>
+      <p id="BERTON0116">M. Quaedam illarum sunt propriae et competenter inventae, sicut differentia secundi toni, et prima differentia quarti, quae eiusdem toni sunt cum suis antiphonis. Sed differentiae tertii toni in secundo tono canuntur, et longe competentius cantibus secundi toni possunt aptari, quam cantibus tertii, cum in eisdem finalibus habeant terminari. Differentia vero quinti in quarto tono canitur, et differentia septimi itidem in secundo. Differentiae autem sexti et octavi toni suorum modorum proprietates non exprimunt. Unde a peripateticis musicorum omnes hae vitiosae reputantur; debet enim differentia illius modi esse, cui attribuitur, ut eiusdem modi sit differentia et antiphona, et in eodem modo psalmus canatur. Intellexisti haec omnia?</p>
+      <p id="BERTON0117">D. Intellexi utique, et verissimum esse videtur, quod dicis. Est enim mysterium absconditum a seculis, et est mirabile sacramentum, quod non licet homini loqui, quod differentiae tertii toni et septimi canuntur in secundo tono, et differentia quinti in quarto.</p>
+      <p id="BERTON0118">M. In hoc profecto peccavit inventio, vel inventionem corrupit oblivio.</p>
+      <p id="BERTON0119">D. Miror similiter de versibus responsoriorum, quod in eisdem finalibus cum suis responsoriis terminari non habeant, et alterius toni esse convincantur, praeter versus sexti et octavi toni.</p>
+      <p id="BERTON0120">M. Ad hoc solet dici, quia si de cantu versiculi per se iudicetur, vere alterius modi est: sed de ipso non debet iudicari sine illa parte responsorii, quae resumitur, ut sit unus cantus versiculi et repetitionis, sicut in responsoriis multae sunt clausulae, quae si per se iudicarentur, et male compositae et alterius modi invenirentur. Proinde sicut unus cantus est totum responsorium, licet ex diversis clausulis constet, quae diversorum sunt modorum: ita unus cantus est versiculi et repetitionis, ex hoc et illo compositus. Propter hoc repetitio responsorii 
+      <pb n="[277]" />debet concordare versiculo, et secundum litteraturam et secundum modulationem.</p>
+      <p id="BERTON0121">D. Lubrica ni fallor est haec sententia, quoddamque videtur subterfugium, solido carens veritatis. Caeterum iam de tuo sensu loquens, de metris, de differentiis, et versiculis quid sentias, profer in medium.</p>
+      <p id="BERTON0122">M. Quod quaeris, non est praesentis negotii, cum prohibente sancto Cisterciensi capitulo, nec in Guidonis antiphonario quidquam mutari iam liceat. Quaere tamen musicam Guidonis Augensis, quam scribit ad sanctissimum magistrum suum domnum Guillelmum primum Rievallis abbatem. Ibi de talibus sufficienter doceri poteris.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>[Glossae in Micrologum]</title>
+        <title type="abbrev">ANOOXP</title>
+        <author>Anonymous</author>
+        <date notBefore="1200" notAfter="1299">13th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Peter Slemon</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Phil Kurasz</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>2004</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Wolfgang Hirschmann, "Accessus und Glosse: Die Micrologus-Version der Handschrift Oxford, St John's College 188," in 
+<emph>Quellen und Studien zur Musiktheorie des Mittelalters</emph>, vol. 3, ed. Michael Bernhard, Bayerische Akademie der Wissenschaften, Veröffentlichungen der Musikhistorischen Kommission, Band 15 (München: Bayerische Akademie der Wissenschaften; C. H. Beck, 2001), 170–71. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANOOXP0001">
+      <pb n="[170]" />Oxford, St John's College, 188, fol. 57r, Prolog zum Micrologus:</p>
+      <p id="ANOOXP0002">Ratio musice uel prologus.</p>
+      <p id="ANOOXP0003">Musica dicitur a potu myson id est a querendo. quia primitus querebatur uis carminum et uocis modulatio. cum antiqui omnia carmina diuersis modularentur modulationibus. uel diuersis uersuum speciebus. ut tragredi. [lege tragoedi.] comici. satyrici. |</p>
+      <p id="ANOOXP0004">Uel est. dicta musica a potumoys. hoc est. ab aqua. eo quod antiqui maxime hac arte in aqua uel iuxta aquam uterentur. ut ydraulium genus quod fiebat in aqua. uel quod sonorius ipsa instrumenta musice iuxta aquam et propter aquam resonant. | Nec mirum. Sunt enim duo uicina elementa: aqua et aer. et ubicumque uox efficitur: in pulsu aeris efficitur. |</p>
+      <p id="ANOOXP0005">Dicuntur quoque nouem muse a musica. que filie iouis et memorie 
+      <pb n="[171]" />fuerunt | idest. que reperit hystorias. clio. euterpe: que preest tibiis: que ad musicam pertinent. Que euterpe: interpretatur delectans. | Naturalis enim delectatio inest musice. insuper et dulcedo. et hoc ideo: quia quicquid ex ea procedit: naturali disposicione uiget.</p>
+      <p id="ANOOXP0006">Subiacet ergo matri philosophie: phisica interueniente. Multi autem inuentores eius fuerunt. quidam malleis. alii tibiis. quidam fistulis. alii corda uel sono diuerso.</p>
+    </body>
+  </text>
+</TEI>

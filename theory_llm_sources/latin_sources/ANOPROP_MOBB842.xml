@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>[De proportione]</title>
+        <title type="abbrev">ANOPROP_MOBB842</title>
+        <author>Anonymous</author>
+        <date notBefore="1300" notAfter="1399">14th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>T</resp>
+        <persName>Peter M. Lefferts</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Michael W. Lundell</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1995</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Oxford, Bodleian Library, MS Bodley 842 (S.C. 2575), f. 46v.
+</bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANOPROP_MOBB8420001">
+      <pb n="[f.46v]" />Primus habet m .ne. sic sextus tercius atque septimus octauus fieri dicit quartus. quod secundus</p>
+      <p id="ANOPROP_MOBB8420002">Proporcio autem semitonij ad totum est superbiparciens ut 256 ad 243 uerbi gracia sit quod monacordi diuidatur in 3344 ille numerus iam est tonus illius tonus est .288. semitonus est 256 proporcio autem diatessaron est sicut 4. ad 3. diapente est sicut proporcio 3. ad 2. proporcio diapason est sicut 2 ad 1.</p>
+    </body>
+  </text>
+</TEI>

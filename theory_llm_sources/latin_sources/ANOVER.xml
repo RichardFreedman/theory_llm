@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>[Versus de musica]</title>
+        <title type="abbrev">ANOVER</title>
+        <author>Anonymous</author>
+        <date notBefore="1100" notAfter="1199">12th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Andreas Giger</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Andreas Giger</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>2003</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+S. A. van Dijk, "Saint Bernard and the Instituta Patrum of Saint Gall," 
+<emph>Musica disciplina</emph> 4 (1950): 99-109, 109. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: Versus de musica</title>
+          
+<idno type="LML">ANON. Cist. IV</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">GB-Occ D 44, 194ra</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANOVER0001">
+      <pb n="[109]" />Dum Domino psalles. psallendo tu tria serves.</p>
+      <p id="ANOVER0002">Dirige cor sursum. bene profer. respice sensum.</p>
+      <p id="ANOVER0003">Ascultando cane. simul incipe. desine plane.</p>
+      <p id="ANOVER0004">Psalmus dicatur. ut silleba non sileatur.</p>
+      <p id="ANOVER0005">Tu pausam lauda. medio versu sine cauda.</p>
+      <p id="ANOVER0006">Metro pausemus. post finem non properemus.</p>
+      <p id="ANOVER0007">Numquam posterior versus prius incipiatur.</p>
+      <p id="ANOVER0008">Quam suus anterior perfecto fine fruatur.</p>
+      <p id="ANOVER0009">Qui psalmos resecat. vel laudis verba rescindit.</p>
+      <p id="ANOVER0010">Non magis inde feret. quam si sua lingua taceret.</p>
+      <p id="ANOVER0011">Fragmina verborum Titivillus colligit horum.</p>
+      <p id="ANOVER0012">Sicque die mille vicibus resarcinat ille.</p>
+      <p id="ANOVER0013">Cantemus Domino. socii. cantemus honore.</p>
+      <p id="ANOVER0014">Dulcis amor et personat ore pio.</p>
+    </body>
+  </text>
+</TEI>

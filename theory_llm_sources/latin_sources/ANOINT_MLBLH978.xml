@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>[De intervallis]</title>
+        <title type="abbrev">ANOINT_MLBLH978</title>
+        <author>Anonymous</author>
+        <date notBefore="1200" notAfter="1299">13th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>T</resp>
+        <persName>Peter M. Lefferts</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Michael W. Lundell</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1995</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+London, British Library, MS Harley 978, ff. 14r–15r.
+</bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANOINT_MLBLH9780001">
+      <pb n="[f.14r]" />[London, British Library, Harley 978, f.14r; text: ut, re, mi, fa, sol, la, per [sqb]. quadratum, per proprium cantum, per b. rotundum, [Gamma], A, B, C, D, E, F, G] 
+      <figure>
+        <graphic url="/images/ANOINT_01GF.gif" />
+      </figure></p>
+      <p id="ANOINT_MLBLH9780002">
+      <pb n="[f.14v]" />[London, British Library, Harley 978, f.14v; text: Est tonus sic ut.re.ut. aut re.mi.re. uel fa.sol.fa. sol.la.sol. solet hic sonare. Personat semitonum usquequaque sic mi.fa. fa.mi. ut.mi. uel fa.la. resonare cernis. Ditonum semper canit atque semiditonus uoces re.fa. siue mi.sol. dulciter istas uoce concordi. Diatessaronque intonat uoces cithara sacratas. ut.fa. uel re.sol. pariterque mi.la. personat iste. Quinque per cordas diapente. currens ut.sol. uel. re.la. sonat atque transit in mi. de mi. uel salit in fa. de fa. sepe cadendo.] 
+      <figure>
+        <graphic url="/images/ANOINT_02GF.gif" />
+      </figure></p>
+      <p id="ANOINT_MLBLH9780003">
+      <pb n="[f.15r]" />[London, British Library, Harley 978, f.15r,1; text: Possidet uoces dyapason octo in c. de c. uel in d. de. d. Sicque decantans elementa cuncta scandit ad ipsum.] 
+      <figure>
+        <graphic url="/images/ANOINT_03GF.gif" />
+      </figure></p>
+      <p id="ANOINT_MLBLH9780004">Tonus dicitur a tonando quia prima uox est qui naturaliter tonat.</p>
+      <p id="ANOINT_MLBLH9780005">[London, British Library, Harley 978, f. 15r,2; text: Tonus.]</p>
+      <p id="ANOINT_MLBLH9780006">Semitonus dicitur a scemus ma. mum. quod est inperfectum inde semitonus quasi inperfectus tonus.</p>
+      <p id="ANOINT_MLBLH9780007">[London, British Library, Harley 978, f. 15r,3; text: Semitonus.]</p>
+      <p id="ANOINT_MLBLH9780008">Ditonus dicitur a dia quod est duo et tonus in eo quod duos tonos contineat.</p>
+      <p id="ANOINT_MLBLH9780009">[London, British Library, Harley 978, f. 15r,4; text: Ditonus.]</p>
+      <p id="ANOINT_MLBLH9780010">Semiditonus dicitur a semus. ma. mum. que est inperfectus et ditonus inde semiditonus quod est inperfectus tonus.</p>
+      <p id="ANOINT_MLBLH9780011">[London, British Library, Harley 978, f. 15r,5; text: Semiditonus.]</p>
+      <p id="ANOINT_MLBLH9780012">Diatessaron dicitur a dia qui est de et tessaron quod est quatuor unde diatessaron. quasi de quatuor uocibus constat.</p>
+      <p id="ANOINT_MLBLH9780013">[London, British Library, Harley 978, f. 15r,6; text: Diatessaron.]</p>
+      <p id="ANOINT_MLBLH9780014">Diapente dicitur a dia quod est de et penta quod est quinque inde diapente quasi de quinque enim uoces continet.</p>
+      <p id="ANOINT_MLBLH9780015">[London, British Library, Harley 978, f. 15r,7; text: Diapente.]</p>
+    </body>
+  </text>
+</TEI>

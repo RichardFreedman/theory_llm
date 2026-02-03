@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>[Dialogus de organo et tractatulus de cantu]</title>
+        <title type="abbrev">ANODIA</title>
+        <author>Anonymous</author>
+        <date notBefore="800" notAfter="1099">9th-11th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Andreas Giger</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Dawn Reindl</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Andreas Giger</persName>
+      </respStmt>
+      <date>1998</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Hans Schmid, ed., 
+<emph>Musica et scolica enchiriadis una cum aliquibus tractatulis adiunctis</emph>, Bayerische Akademie der Wissenschaften, Veröffentlichungen der Musikhistorischen Kommission, Band 3 (Munich: Bayerische Akademie der Wissenschaften / C. H. Beck, 1981), 214–21. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: De cantu</title>
+          
+<idno type="LML">CANT. Observandum</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">D-BAs Varia 1, 65-66</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-BAs Varia 1, 59v-61</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-BAs Varia 1, 63r-v</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANODIA0001">
+      <pb n="[214]" />I</p>
+      <p id="ANODIA0002">ITEM DE DIATESSARON ET DIAPENTE AC DIAPASON ET DE SYMPHONIIS</p>
+      <p id="ANODIA0003">Discipulus: Quare non in diatessaron symphonia sicut in diapason et diapente diversae voces eodem tropi modo sibi assentiunt vel in unum canendo vel altera post alteram consequendo? Magister: Sicut dictum est, diapason symphonia vi virtutis suae eundem tropi modum non suo licet loco per eandem sibi tonorum positionem ponit, sive in unum canatur sive singillatim. Diapente quoque eundem tropi modum concinit non in alieno loco suam positionem ponendo, sed suam loco proprio naturali ordine sortiendo. Diatessaron vero cum sit proportionis minimae, id est sesquiterciae, nec ea, qua diapason, vigeat, idcirco id ei non accidit, quod vel diapente ex simili tonorum positione vel diapason evenit ex virtute. Cum sint enim quartis locis diversae tonorum positiones, idcirco tonis contra semitonia dissentientibus voces diversae absolute simul ire nequeunt. Quapropter quoddam cantionis genus sui cuiusdam iuris et 
+      <pb n="[215]" />decentissimae dulcedinis creatrix potentia et symphonia ista progenuit, in qua tamdiu vox cum voce suaviter assentit, quamdiu fit tonorum e regione concordia. Ubi vero contra semitonia tonus offenderit, ibi vox organalis certis quibusdam retenta terminis stat nec inferius in ea particula procedit. [Delta]: Ubi aut quomodo tonus contra semitonium offendit? [Mu]: Cum trito sono deuterus subiungatur per semitonii intervallum, rursum tetrardus, qui trito est subquartus, et tritus, qui subquartus est deutero, tono integro differunt. Et idcirco solus tritus inter sonos ceteros eo sono fit inconsonus, cui extat subquartus. Excedens enim diatessaron spacium tribus tonis integris a deutero separatur ad hanc descriptionem. [Delta]: Quo termino prohibetur vox organalis, ne inferius possit descendere? [Mu]: Utique veluti quodam predicti soni obice prohibetur vocis organalis positio ultra sonum tetrardum descendere, tetrardum scilicet, in quem aut particulae finalitas devenerit aut qui proximus ipsi finalitati subierit; infra hunc enim sonum non nisi raro levat arsin aut declinat thesin. Qui et interdum vocem organalem responderit, veluti si canatur: [descriptio 1 in marg.]</p>
+      <p id="ANODIA0004">[VMKIII:215; text: Scande celi templa virgo digna tanto foedere] 
+      <figure>
+        <graphic url="/images/ANODIA_01GF.gif" />
+      </figure></p>
+      <p id="ANODIA0005">[Mu]: Vides ergo, ut sub tetrardo, quem particulae finis attingit, vox organalis deponi non possit. [Delta]: Equidem video. [Mu]: Quod, si sit alia particula, quae inferiorem quandam positionem petat, profecto et illuc eadem lege vocem organalem videbis hoc modo "Scande celi templa". [Delta]: Et hic video, quomodo similiter in subsequente particula, gravioris quae est positionis, etiam ultra hunc tetrardum sonum vocis organalis positio non descendat. [Mu]: Dum vagantes particulae nunc in altiora 
+      <pb n="[216]" />cantilenam efferant nunc ab altioribus in inferiora deponant, ubicumque principalis vocis positio fuerit, semper hanc positionem vox organalis eo iure subsequitur, ut impedientibus prefatis inconsonantibus sonis nec levatione subtus tetrardum, quem diximus, inchoetur nec positione descendat, nisi forte in tritum sonum positio ipsa deveniat; aliter enim obstat limite inconsonantiae suae. Coeptum carmen exempli gratia prosequamur [descriptio 2 in marg.]</p>
+      <p id="ANODIA0006">[VMKIII:216; text: Te sacer subire celsa poscit astra Iupiter, ORGANALIS]</p>
+      <p id="ANODIA0007">[Mu]: Sive ergo celsioris sive summissioris sint positionis quaelibet cola vel commata, quas nos particulas dicimus et quae vix ultra quintum sonum ab arsi in thesin diastematis habent spacium, quamque semper positionem organalis vox ea comitatur lege, qua dictum est. [Delta]: Patet ita esse, ut dicis. [Mu]: Est tamen interdum, ubi quasi figurate sub prefato sono organum possimus ponere, veluti si canatur "Caput artibus" et reliqua. [Mu]: Cernis in duabus primis particulis, quod ad superiorem partem soni tetrardi, qui particulas fingit, spacium organali voci defuerit, ideo veluti figurate a parte inferiori ponatur, sed ob hoc particularum finalitates in unum non conveniant. Porro in reliquis particulis, ubi spacium voci organali occurrit, legitimum potius locum petit. [Delta]: Cerno spaciorum angustias organali voci ad variationem fieri, variationem autem fieri ornamento et hoc genus cantionis merito divinis laudibus adplicandum.</p>
+      <p id="ANODIA0008">
+      <pb n="[217]" />II</p>
+      <p id="ANODIA0009">[Delta]: Adhuc redde rationem, rogo, organalium causarum. [Mu]: Sufficienter omnia superius exposita putavi. Sed dubitata profer a me rationem accepturus. [Delta]: Posco, si Deus facultatem dederit, ut, quis sonus alio organizet, mihi edisseras. [Mu]: Recta queris; etenim hac prolata ratione decentius modulamur laudis Dei gloriam. Ponamus ergo sub aspectu exemplum, ut facilius eluceat, qualiter debeat intellegi, quis sonus debeat alteri organizare. Cantemus hoc modo: [descriptio 1 in marg.]</p>
+      <p id="ANODIA0010">[VMKIII:217,1; text: Gratuletur omnis caro nato Christo Domino, PRINCIPALIS, ORGANALIS] 
+      <figure>
+        <graphic url="/images/ANODIA_02GF.gif" />
+      </figure></p>
+      <p id="ANODIA0011">[Mu]: Intellegisne, quis hic alteri organum prebeat? [Delta]: Plane; namque [signum] tetrardus gravis organizat [signum] trito finali, [signum] archoos finalis organizat [signum] tetrardo finali, [signum] deuteros finalis [signum] archoo superiori. [Mu]: Si vero cantus inchoat a tetrardo [signum] finali ex eo statim progreditur organum in usque [signum] tritum superiorem. Canamus itaque: [descriptio 2 in marg.]</p>
+      <p id="ANODIA0012">[VMKIII:217,2; text: Tu patris sempiternus es filius, PRINCIPALIS]</p>
+      <p id="ANODIA0013">[Mu]: Sentisne istud? [Delta]: Sentio hoc carmen tetrardi organo decoratum. Vellem autem scire, si tetrardus finalis absolutius ceteris organum prestet. [Mu]: Dico; si cantus eo potissimum constat, vagantibus aliis ipse semper organum tenet ex utroque latere, nisi raro finalem [signum] tritum organum tangat; hoc habet nullus sonorum proprium. Si deutero [signum] cantus consistit, non rite suscipit organale decus.</p>
+      <p id="ANODIA0014">
+      <pb n="[218]" />III</p>
+      <p id="ANODIA0015">[VMKIII:218; text: Rex caeli, Domine, squalidique soli, Tytanis nitidi, maris undisoni. Te humiles famuli modulis venerando piis, Se iubeas flagitant variis liberare malis. Cythara sapientis melodia est, Tibimet, genitor, fore placita. Cuncta captus devotorum laudum munia, Nostri quoque sume votis armoniam. Placare, Domine, nostris obsequiis, Quae nocte ferimus quoque meridie. Criminum purga maculas, Quibus corda nostra hebetant. Nobis et, bone senior, Pro reatu dona veniam. Nullus dignus tuis potest optutibus, Presentari sine labe flagicii, Ut laudem tuo sancto canant nomini, Et tu gesta non scrutaris, piissime, Sed cor hominum.] 
+      <figure>
+        <graphic url="/images/ANODIA_03GF.gif" />
+      </figure></p>
+      <p id="ANODIA0016">
+      <pb n="[219]" />[VMKIII:219; text: Mortalis oculus videt in facie; Tu autem latebras animi peragras. Sonoris fidibus famuli tibimet devoti, Davidis sequimur humilem regis precum hostiam. Hoc Saul ludicro mitigaverat, Spiritum cum sibi forte debilem, Spiritalem abolebat iustitiam, Ipso ioco tua cantans preconia. Haec sibi caelitus munera venerant, Ut iram dulcibus premeret modulis. Sic et haec nostra placita, Tibi fiant, Deus, cantica, Et, quod mala vetant merita, Hoc fidelis mens optineat. Illum dignum faciebat religio, Ac mandata legis et observatio; Nos dignos tuus amor et devotio, Faciat favorque tuus nos prosequens, Iuvet dextera, Caelorum sedibus collocans animas. Quibus hic luteas dedit inducias, Carnis nostrae.] 
+      <figure>
+        <graphic url="/images/ANODIA_04GF.gif" />
+      </figure></p>
+      <p id="ANODIA0017">
+      <pb n="[220]" />IV DE CANTU</p>
+      <p id="ANODIA0018">Observandum est, ut aequaliter cantetur rata scilicet correptionis mensura et distinctiones membrorum vel cesorum in eo observentur.</p>
+      <p id="ANODIA0019">Ut antiphona introitus et gradalis non multum tractim, sed moderate canantur, offertorius morose et modeste ad suae gravitatis proprietatem.</p>
+      <p id="ANODIA0020">Ut dominicis diebus versus offertorii omnes canantur, similiter ubi speciale officium evenit. Porro secunda feria similiter offertorius, feria tercia prior versus, feria quarta secundus, item feria quinta offertorius, feria sexta unus versus, feria septima secundus versus.</p>
+      <p id="ANODIA0021">Si in feria qualibet propter sanctorum natalicia versus suus non canitur, non tamen feria sequente alius quam suus versus canatur. Alleluia: qui precinit, percurrat in primo. tunc chorus repetat. Ad postremum autem similiter perducat, aut si congrua elevatione inposuerit, mox eum chorus adiuvet.</p>
+      <p id="ANODIA0022">Epistulae et evangelia, quae in feria quarta aut sexta eveniunt, non neglegantur. Si in eisdem feriis pro sanctorum nataliciis lecta non fuerint, aliis diebus legantur.</p>
+      <p id="ANODIA0023">In aestate, id est a pentecoste et deinceps usque ad Kalendas novembres non nisi in sabbato ad vesperam de historia, quae noctu legitur, antiphona dicatur. Nocte vero dominica aut de evangelio, quod nocte legitur, seu de cantico evangelii dicatur. Ad vesperam in dominico die antiphona de evangelio, quod eo die lectum est, cantetur, reliquis diebus aut de eodem evangelio seu de cantico sanctae Mariae. Feria prima, si sanctorum nataliciis evenerit, ad vesperam dominici non cantetur aliquid de eo natali propter honorem diei dominici, sed sequenti nocte incipiatur, excepto, si specialis honor sanctorum existit, quorum vel reliquiae habentur illic aut alia huiusmodi sit causa seu natalis apostolorum sit aut ubiubi plenum officium agi debeat.</p>
+      <p id="ANODIA0024">Ut "Gloria in excelsis Deo" non cantetur nisi dominico die et ubi plenum officium agitur.</p>
+      <p id="ANODIA0025">Ut in ieiunio quatuor temporum "Flectamus genua" dicatur ad missas.</p>
+      <p id="ANODIA0026">
+      <pb n="[221]" />Ut quinta dominica ante natalem Domini incipiatur "Dicit Dominus: ego cogito" et ex eo "Gloria in excelsis" non cantetur usque ad natalem Domini.</p>
+      <p id="ANODIA0027">Ut ex eo, quo de adventu incipit, de oratione crucis antiphonae non dicantur nec ad vesperam nec ad matutinam usque ad octavam epiphaniae. Deinde dicantur usque in caput ieiunei. Rursus cessetur de his usque ad resurrectionem Domini.</p>
+      <p id="ANODIA0028">Ut idem evangelium, cuius expositio ad tercias nocturnas in festivitatibus legitur, etiam ad missas legatur, non aliud.</p>
+      <p id="ANODIA0029">Ut evangelia, de quibus duo aut tres seu quatuor evangelistae dixerint, postquam id, quod constitutum est, dominica lectum fuerit, alia legantur in feriis. Similiter, si in alio evangelista habetur, praeter id, cuius expositionem ad nocturnas legunt; id legi convenit a presbytero post "Te Deum laudamus".</p>
+      <p id="ANODIA0030">Ut hoc evangelio finito non eadem oratio, quae dicenda est matutinis finitis, dicatur.</p>
+      <p id="ANODIA0031">Ut cantores duo sint magistri in choro, unus in dextero et alter in sinistro.</p>
+      <p id="ANODIA0032">In palmis ad missam rami, quamdiu passio legitur, habeantur in manibus.</p>
+    </body>
+  </text>
+</TEI>

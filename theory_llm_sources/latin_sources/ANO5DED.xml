@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>De discantu</title>
+        <title type="abbrev">ANO5DED</title>
+        <author>Anonymous 5</author>
+        <date notBefore="1300" notAfter="1399">14th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Luminita Florea Aluas</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Margaret Bent</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Albert C. Rotola</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>S.J.</persName>
+      </respStmt>
+      <date>1992</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>Scriptorum de musica medii aevi nova series a Gerbertina altera</emph>, 4 vols., ed. Edmond de Coussemaker (Paris: Durand, 1864-76; reprint ed., Hildesheim: Olms, 1963), 1:366–68.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: Tractatus de contrapuncto: De discantu</title>
+          
+<idno type="LML">CONTR. Est autem</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">GB-Lbl Add. 4909, 94v-96v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Lbl Royal 12.C.VI, 50-51v</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANO5DED0001">
+      <pb n="[366]" />Anonymi 5</p>
+      <p id="ANO5DED0002">De discantu.</p>
+      <p id="ANO5DED0003">De consonantiis.</p>
+      <p id="ANO5DED0004">Est autem unisonus quando due voces manent in uno et eodem loco, id est in uno et eodem sono.</p>
+      <p id="ANO5DED0005">In tertio autem loco est quedam consonantia que dicitur ditonus et continet duos tonos et habet species duas, scilicet: ut mi et fa la. Similiter in tertio est quedam consonantia que dicitur semiditonus, et continet unum tonum et unum semitonium, et habet similiter species duas, scilicet: re fa et mi sol.</p>
+      <p id="ANO5DED0006">Item in quarto est quedam consonantia que dicitur diatessaron, et continet duos tonos et unum semitonium, et habet species tres, scilicet: ut fa; re sol; et mi la.</p>
+      <p id="ANO5DED0007">Item in quinto est quedam consonantia que dicitur diapente, et continet tonos tres et unum semitonium, et habet species quatuor, scilicet: ut sol; re la; mi mi; fa fa.</p>
+      <p id="ANO5DED0008">Item in sexto est quedam consonantia que constat ex diapente cum tono et alia que constant ex diapente cum semitonio; quantum autem utraque continet, patet per predicta.</p>
+      <p id="ANO5DED0009">Item in octavo est quedam consonantia que dicitur diapason, et constat ex diapente et diatessaron; quantum autem continet, patet per predicta.</p>
+      <p id="ANO5DED0010">Item in decimo est quedam consonantia que constat ex diapason cum ditono, et alia que constat ex diapason cum semiditono; quantum autem utraque continet, patet per predicta.</p>
+      <p id="ANO5DED0011">Item in duodecimo est quedam consonantia que constat ex diapason et diapente; quantum continet, patet per predicta.</p>
+      <p id="ANO5DED0012">Item in quintodecimo est quedam consonantia que dicitur duplex diapason, et continet bis diapason simplicem. Consonantiarum alia clara, alia minus clara, alia clarasissima. Clara, ut in quinto et duodecimo; minus clara, ut in tertio et in sexto et in decimo; clarasissima, ut in unisono et in octavo et in quintodecimo.</p>
+      <p id="ANO5DED0013">Nota quod totus generalis modus cantandi consistat aut in octavo aut in sexto. Similiter est notandum quod in illo modo cantandi generaliter incipiendum est in octavo; tamen quandoque potest fieri inceptio in sexto; et semper est in octavo pausandum, nisi planus cantus pauset in mi descendente, et semper est in octavo terminandum.</p>
+      <p id="ANO5DED0014">Nota quod ab unisono vel ab octavo vel quintodecimo, nunquam ascendendo vel descendendo cum plano cantu per consimilem quantitatem, 
+      <pb n="[367]" />nisi planus cantus ascendat vel descendat ultra tertium gradum, vel facta fuerit aliqua pausatio aut ex parte unius aut amborum.</p>
+      <p id="ANO5DED0015">De generali modo cantandi.</p>
+      <p id="ANO5DED0016">Est notandum quod si planus cantus stet in eodem per duas notas, vel tres, vel quatuor, vel plures, eligere potes utrum vis stare in eodem, sicut ipse facit, vel ascendere ad tertium frangendo vel plane, et hoc aliquando per ditonum et aliquando per semiditonum.</p>
+      <p id="ANO5DED0017">Si autem ascendat ad secundum gradum pausando, ibi ascendere debes ad tertium frangendo, et postea ab illo tertio descendere debes ad secundum.</p>
+      <p id="ANO5DED0018">Si autem non pauset, ibi operari potes si vis consimiliter, vel ascendere per diatessaron.</p>
+      <p id="ANO5DED0019">Si autem ascendat ad tertium gradum pausando, ascendere debes ad quartum gradatim frangendo, et postea ab illo quarto descendere ad secundum.</p>
+      <p id="ANO5DED0020">Si autem non pauset, ibi ascendere potes per diapente.</p>
+      <p id="ANO5DED0021">Si autem ascendat ad quartum gradum pausando ibi, que raro accedit, ascendere debes ad quintum frangendo, et postea ab illo quinto descendere ad secundum, ut patet hic:</p>
+      <p id="ANO5DED0022">[CSI:367,1] 
+      <figure>
+        <graphic url="/images/ANO5DED_01GF.gif" />
+      </figure></p>
+      <p id="ANO5DED0023">Si autem non pauset ibi, operari potes si vis consimiliter, vel ascendere cum ipso ad consimilem quantitatem.</p>
+      <p id="ANO5DED0024">Item si ascenderit ad quintum pausando ibi, quod raro accidit, descendere debes ad quartum gradatim frangendo, et postea ab illo quarto descendere ad secundum.</p>
+      <p id="ANO5DED0025">Si autem non pauset ibi, operari potes si vis consimiliter, vel ascendere cum ipso per consimilem quantitatem. Si autem ascendat ulterius, ascendendum est cum ipso per consimilem quantitatem.</p>
+      <p id="ANO5DED0026">De descensu.</p>
+      <p id="ANO5DED0027">Si autem planus cantus descendat ad secundum pausando ibi, ascendendum est per diatessaron; et si non pauset, ascendendum est ad tertium frangendo, et postea ab illo descendendum est per diatessaron, et si non pauset, ascendendum est ad secundum. Et nota quod quandoque ascendendum est ad tertium, et postea per diatessaron ascendendum est ad illum tertium per semiditonum, excepto unico casu, videlicet quando incipis per fa ascendere ad tertium fa, sol, la; et postea ad mi et tunc per ditonum. Et nota etiam quod nunquam ascendendum est vel descendendum ad quartum, nisi per diatessaron.</p>
+      <p id="ANO5DED0028">Item se descendat ad tertium pausando ibi, ascendendum est ad tertium frangendo, et postea ab illo tertio descendendum est per diapente, et si non pauset ibi, stare potes in eodem.</p>
+      <p id="ANO5DED0029">Item si descendat ad quartum pausando ibi, descendere debes ad secundum plane, et postea in illo secundo incipies frangere ad tertium descendendo, ut patet hic:</p>
+      <p id="ANO5DED0030">[CSI:367,2]</p>
+      <p id="ANO5DED0031">Si autem non pauset ibi, descendendum est ad secundum, non ulterius frangendo.</p>
+      <p id="ANO5DED0032">Item si descendat ad quintum pausando ibi, descendere debes ad tertium descendendo, ut patet hic:</p>
+      <p id="ANO5DED0033">
+      <pb n="[368]" />[CSI:368]</p>
+      <p id="ANO5DED0034">Si autem non pauset ibi, descendendum est ad tertium non ulteris frangendo, et si descendat ulterius, descendendum est per consimilem quantitatem cum ipso.</p>
+      <p id="ANO5DED0035">Nota quod in his tribus generaliter est pausandum, scilicet in octavo et in quinto et in duodecimo, maxime tamen in octavo. Tamen in aliis consonantiis potest fieri quandoque pausatio, sicut in decimo, scilicet in diapason cum ditono. Et illa pausatio non fiet, nisi quando planus cantus pausat in mi ascendente. Et quandoque in sexto; et illa pausatio non fiet, nisi quando planus cantus pausat in mi descendente; et tunc pausabit in diapente cum tono. Et quandoque in unisono, sed raro, et illa pausatio non fiet, nisi quando planus cantus descendit ad secundum. Quando autem pausatio fiet in octavo, ejus penultima generaliter erit in sexto. Potest tamen quandoque esse in quinto, et hoc maxime quando planus cantus ascendit ad tertium, et quandoque in decimo, velut quando planus cantus descendit ad secundum. Quando autem pausatio fiet in quinto, ejus penultima generaliter erit in octavo, et hoc erit quando planus cantus descendit.</p>
+      <p id="ANO5DED0036">Potest tamen quandoque esse in tertio, sicut quando planus cantus ascendit ad secundum.</p>
+      <p id="ANO5DED0037">Quando pausatio fiet in duodecimo, ejus penultima generaliter erit in decimo. Potest quandoque esse in octavo, ut quando planus cantus ascendit ad secundum per plenum tonum. Et quandoque in quinto vel in sexto, sicut quando planus cantus ascendit ad tertium vel ad quartum vel ad quintum.</p>
+      <p id="ANO5DED0038">Quando pausatio fiet in decimo, quod non fiat nisi planus cantus ascendit ad secundum per plenum tonum, vel ad tertium per ditonum, ejus penultima erit in quinto vel in sexto; et potest quandoque esse in octavo, quod non fiat nisi planus cantus ascendat ad secundum per plenum tonum.</p>
+      <p id="ANO5DED0039">Quando pausatio fiet in sexto, quod non fiat nisi planus cantus descendat ad secundum per semitonium, ejus penultima erit in octavo. Quando pausatio fiet in unisono, id quod non fiat nisi planus cantus descendat ad secundum per semitonum, ejus penultima erit in tertio.</p>
+      <p id="ANO5DED0040">Nota quod quatuor sunt descensus convenientes, descendente plano cantu, scilicet: a tertia ad quintam, a quinta ad octavam, a sexta ad octavam, et a decima ad duodecimam.</p>
+      <p id="ANO5DED0041">Et etiam quatuor descensus convenientes, stente plano cantu vel pausante, scilicet: ab unisono ad quintam, et a quinta ad octavam, ab octava ad duodecimam, et a duodecima ad quindecimam. Sed iste ultimus non est multum in usu.</p>
+      <p id="ANO5DED0042">Nota quod quatuor sunt loca in consonantiis quibus nunquam ponenda est mi contra fa, vel e converso, scilicet: in quinto, in octavo, in duodecimo, in quindecimo. Ad quod penitus evitandum que scripta sunt inferius stude plene, non omittas.</p>
+      <p id="ANO5DED0043">Si descendat in aliquo istorum locorum per semitonium, sic: fa mi, ascendas tu per ditonum sicut ut mi, vel fa, la. Item si descendat per tonum, sic dicendo; la, sol, vel mi, re, ascendas tu per semiditonum, sicut mi, sol; si sic dicendo: sol, fa, vel re, ut, ascendas tu sic dicendo: re, fa. Item si descendat per semiditonum sic dicendo: sol, mi, ascendas per tonum sic discendo: sol, la, vel re, mi; sic dicendo: fa, re, ascendas per tonum sic dicendo: fa, sol, vel ut, re. Item si descendat per ditonum sic dicendo: la, fa, vel mi, ut, ascendas per semitonum mi, fa. Item si descendat per diatessaron, ista in eodem.</p>
+    </body>
+  </text>
+</TEI>

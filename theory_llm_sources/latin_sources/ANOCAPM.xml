@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Capitulum de modo accipiendo</title>
+        <title type="abbrev">ANOCAPM</title>
+        <author>Anonymous</author>
+        <date notBefore="1300" notAfter="1399">14th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>David Schneider</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Peter Slemon</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>2002</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+F. Alberto Gallo, 
+<emph>Mensurabilis musicae tractatuli</emph>, Antiquae musicae italicae scriptores, vol. 1 (Bologna: Università degli Studi di Bologna, Istituto di Studi Musicali e Teatrali - Sez. Musicologia, 1966), 59. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: Tractatus de proportionibus musicae mensuralis: De modo accipiendo</title>
+          
+<idno type="LML">PROP. MENS. Nota quod I</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">I-CATc D 39, 121v-122</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANOCAPM0001">
+      <pb n="[59]" />DE MODO ACCIPIENDO</p>
+      <p id="ANOCAPM0002">Nota quod modus accipitur a longa, tempus a brevi et prolacio a semibrevi. Quando brevis est perfecta tempus est perfectum, quando semibrevis est perfecta prolacio est perfecta. Perfectum vero accipitur quando longa sive brevis habet tres partes equales sive indivisibiles et inequales; inperfectum autem quando habet duas partes per omnia equales.</p>
+      <p id="ANOCAPM0003">Sciendum est quod triplex et quadruplex est modus biscantandi. Et nota quod duplex est proporcio juxta galliginam artem, videlicet: maior perfecta prolacio ex qua habetur modus nonarius, et prolacio maior inperfecta ex qua habetur modus senarius, prolacio minor perfecta ex qua habetur modus binarius seu ternarius qui idem sunt in actu et figura, prolacio minor inperfecta ex qua habetur modus quaternarius.</p>
+      <p id="ANOCAPM0004">Et quia prolaciones non sunt plures neque pauciores, igitur neque modi. Modus autem duodenarius sive octonarius per se modi secundum istas figuras et prolaciones quia non sunt alique ipsarum est modus quod dictum est; sed in cantu reducuntur ad modum quaternarium, dicitur de prolacione minori inperfecta, hoc modo quia maior qui ponitur in modo duodenario et per talem reductionem perficitur longa, et eodem modo videmus de octonario.</p>
+    </body>
+  </text>
+</TEI>

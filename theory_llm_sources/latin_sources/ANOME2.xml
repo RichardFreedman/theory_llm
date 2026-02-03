@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Monocordum Domni Encheriadis</title>
+        <title type="abbrev">ANOME2</title>
+        <author>Anonymous</author>
+        <date notBefore="800" notAfter="1099">9th-11th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Andreas Giger</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Anna Shparberg</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1999</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Hans Schmid, ed., 
+<emph>Musica et scolica enchiriadis una cum aliquibus tractatulis adiunctis</emph>, Bayerische Akademie der Wissenschaften, Veröffentlichungen der Musikhistorischen Kommission, Band 3 (Munich: Bayerische Akademie der Wissenschaften / C. H. Beck, 1981), 236–37. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: Mensura monochordi</title>
+          
+<idno type="LML">MON. Mon. ench.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">E-Mn 91, 113v-114</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-AL 2, 118r-v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-AL 15, 138v-139</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-DRdc B.II.11, 107rb-108</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">US-MAL Ms. Ludwig XII 5, 40r-v</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANOME20001">
+      <pb n="[236]" />MONOCORDUM DOMNI ENCHERIADIS</p>
+      <p id="ANOME20002">Monocordum Encheriadis constat ex decem et octo cordis, ex quattuor videlicet gravibus et quattuor finalibus, quattuorque mediis ac totidem excellentibus adiunctis duabus superexcellentibus. Componuntur ex tono et semitonio duobusque tonis. Huius autem monocordi particio sic disponitur: Primum totam tabulam per quattuor divide sectiones, quarum prima in sinistra magoda primae gravis nomine titulatur, secunda quarta gravis nominatur, tercia autem quarta finalis dicitur et quarta terciae excellentis vocabulo pollet. Iterum eandem tabulam in novem divide, nonamque partem in sinistra pro tono constitue, atque ipsa corda secunda gravis vocatur. Deinde a dextra magoda usque quartam gravem in octo divide, nonamque in ante porrectam pro tercia gravi accipe. Item usque ad eandem quartam gravem per novem metieris, et nona pars erit prima corda finalis. Usque ipsam primam finalem per novem metiendo, faciendo faciet nona pars secundam finalem in semitonio. Inde usque supradictam quartam finalem octo partes disponens, nona in ante protensa ostendit terciam finalem. Mox etiam usque ad ipsam quartam finalem per novem partiens, nonaque pars primam mediam demonstrabit. Hinc usque primam mediam per novem divide, et nona pars pandet secundam mediam in semitonio. Retro a quarta finali usque terciam iam dictam excellentem per medium divide, in ipsoque meditullio terciam mediam constitue. Dehinc usque ad ipsam terciam mediam per novem metire, nonamque partem pro quarta media pone, et usque quartam mediam per novem dividendo in nona parte primam excellentem constituito. Insuper ipsam primam excellentem per novem partieris, in parte nona fiet secunda excellens. Usque terciam vero supradictam per novem metiens, nona pars monstrabit quartam excellentem. Per novem bis multiplica, et in fine ultimos excellentes multiplica. Prima gravis, secunda gravis, tercia gravis, quarta 
+      <pb n="[237]" />gravis. Prima finalis, secunda finalis, tercia finalis, quarta finalis. Prima media, secunda media, tercia media, quarta media. Prima excellens, secunda excellens, tercia excellens, quarta excellens. Superexcellentes duae. Prima finalis inclinum s ad caput ita [signum]. Secunda finalis c versum ad caput ita [signum]. Tercia finalis i iota simplex et inclinum ita [signum]. Quarta finalis c dimidium ad caput ita [signum]. Graves retroversi finales ita</p>
+      <p id="ANOME20003">[VMKIII:237,1; text: tonus, semitonium] 
+      <figure>
+        <graphic url="/images/ANOME2_01GF.gif" />
+      </figure></p>
+      <p id="ANOME20004">Superiores demissi capita finales ita</p>
+      <p id="ANOME20005">[VMKIII:237,2; text: tonus, semitonium]</p>
+      <p id="ANOME20006">Excellentes demissi capita graves ita</p>
+      <p id="ANOME20007">[VMKIII:237,3; text: tonus, semitonium]</p>
+      <p id="ANOME20008">Excepto trito, qui in gravibus notam habet N inclinum [signum] in superioribus N versum et inclinum [signum]. In excellentibus iota perfixum [signum]. Duo residui signa habent [signa] iacentis proti et deuteri. Sunt omnes duodeviginti, quo videlicet singuli extremam suam symphoniam attingant, id est quintum decimum sonum.</p>
+    </body>
+  </text>
+</TEI>

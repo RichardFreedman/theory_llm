@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Species plani cantus sunt terdecim</title>
+        <title type="abbrev">ANOSPE</title>
+        <author>Anonymous</author>
+        <date notBefore="1400" notAfter="1499">15th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Andreas Giger</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Michael W. Lundell</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1997</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Karl-Werner Gümpel and Klaus-Jürgen Sachs, "Das Manuskript Girona 91 und sein Contrapunctus-Traktat," 
+<emph>Archiv für Musikwissenschaft</emph> 45 (1988): 186-205, 193–96. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: Tractatus de contrapuncto</title>
+          
+<idno type="LML">CONTR. Species plani</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">E-G 91, 118-119v</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANOSPE0001">
+      <pb n="[193]" />[118r in marg.] Species plani cantus sunt terdecim:</p>
+      <p id="ANOSPE0002">Vnisonus. Semitonus. Tonus. Semiditonus. Ditonus. Diateseron. Tritonus. Diapente. Diapente cum semitono. Diapente cum tono. Diapente cum semiditono. Diapente cum ditono. Diapason.</p>
+      <p id="ANOSPE0003">Vnisonus est collectio figurarum siue notularum jn linea pariter vel jn spacio, sicut vt vt, fa fa.</p>
+      <p id="ANOSPE0004">Semitonus est collectio duarum vocum jmperfectum sonum habens, sicut mi fa vel fa mi.</p>
+      <p id="ANOSPE0005">Tonus est collectio duarum vocum plenum sonum habens, et dicitur de 'tono, -as', et capitur ubicumque est jnteruallum vocum duarum coniunctarum, exceptis mi fa.</p>
+      <p id="ANOSPE0006">Semiditonus est collectio trium vocum, et capitur ubicumque fieri potest tonus cum semitono.</p>
+      <p id="ANOSPE0007">Ditonus est collectio trium vocum, et componitur ex duobus tonis, et capitur ubicumque sint duo toni sine semitono.</p>
+      <p id="ANOSPE0008">Diateseron est collectio quatuor vocum, et componitur ex duobus tonis cum semitono, et capitur ubicumque sint duo toni cum semitono.</p>
+      <p id="ANOSPE0009">Tritonus est collectio quatuor vocum, et componitur ex tribus tonis, et capitur ubicumque sint tres toni sine semitono.</p>
+      <p id="ANOSPE0010">Diapente est collectio quinque vocum, et componitur ex tribus tonis cum semitono, et capitur ubicumque sint tres toni cum semitono.</p>
+      <p id="ANOSPE0011">Diapente cum semitono est collectio sex vocum, et componitur ex tribus tonis cum duobus semitonis, et capitur ubicumque sint tres toni cum duobus semitonis.</p>
+      <p id="ANOSPE0012">Diapente cum tono est collectio sex vocum, et componitur ex quatuor tonis cum semitono, et capitur ubicumque sint quatuor toni cum semitono.</p>
+      <p id="ANOSPE0013">
+      <pb n="[194]" />Diapente cum semiditono est collectio septem vocum, et componitur ex quatuor tonis cum duobus semitonis, et capitur ubicumque sint quatuor toni cum duobus semitonis.</p>
+      <p id="ANOSPE0014">[118v in marg.] Diapente cum ditono est collectio septem vocum, et componitur ex quinque tonis cum semitono, et accipitur ubicumque sint quinque toni cum semitono.</p>
+      <p id="ANOSPE0015">Diapason est collectio octo vocum, et componitur ex quinque tonis cum duobus semitonis, et accipitur de c ad c, vel de d ad d, vel de e ad e.</p>
+      <p id="ANOSPE0016">Similes ut due, tres aut quatuor tercie, sexte, decime aut terciedecime.</p>
+      <p id="ANOSPE0017">Dissimiles ut vna vel due tercie cum sexta uel duabus sextis, aut vna decima vel due cum vna vel duabus terciisdecimis.</p>
+      <p id="ANOSPE0018">Tercia ascendendo requirit quintam, cantu plano gradatim descendente. Et requirit vnisonum descendendo, cantu plano ascendente.</p>
+      <p id="ANOSPE0019">Sexta appetit contiguum ascensum pariter et descensum, si ad consonantiam declinare contingat perfectam, puta duplam vel quintam et non aliam (secus si ad consonantiam declinet jmperfectam): ascensum ad duplam, cantu plano descendente per vnicam, e contrario contrapunto per aliam ascendente; descenum ad quintam, cantu remanente jn linea vel spacio per duas vel tres notulas.</p>
+      <p id="ANOSPE0020">Nos debemus scire, quid sit contrapuntus. Distinguendum est aut per primam diffinitionem aut per secundam. Si per primam, est congregatio duorum sonorum grauium et acutorum, vel grauis et acuti. Et dicitur a 'con', quod est 'contra', id est a contrario punto. Si per secundam, est ornamentum sui rei et tenoris. Et dicitur a 'sin', quod est 'simul', et 'puntus', quod est 'mensura'. Et hoc per secundam diffinitionem.</p>
+      <p id="ANOSPE0021">Questio: Vtrum vnisonus sit species contrapuncti aut non? Distingo aut per primam diffinitionem aut per secundam. Si per primam, dico quod non, 
+      <pb n="[195]" />quia contrapunctus dicitur a 'con', quod est 'contra', id est [119r in marg.] a contrario puncto, et vnisonus non habet contrarium. Ergo non est species contrapuncti. Ergo quid est species soni? Ergo quare est perfecta? Quia est principium aliarum specierum et omne principium debet esse perfectum et non jmperfectum. Si per secundam, dicitur esse species contrapuncti, quia contrapunctus dicitur a 'sin', quod est 'simul', et 'punctus', quod est 'mensura', quia simul mensuratur.</p>
+      <p id="ANOSPE0022">Contrapunctantes uolentes cantare contrapunctum semper debent jncipere per vnam consonantiam uel consonantiarum perfectarum atque finire. Et non debent fieri due similes ascendendo neque descendendo cum cantu plano. Ratio est ista, quia cantus ille tabernicus apellatur et non ecclesiasticus. De jmperfectis uero possunt facere duas vel tres uel quator similes vel dissimiles. Similes ut due, tres aut quatuor tercie, sexte, decime aut terciedecime. Dissimiles autem ut vna vel due tercie cum sexta uel duabus sextis, aut vna decima aut due cum vna vel duabus terciisdecimis et econtra, dum tamen post ultimam consonantiam jmperfectam perfecta consonantia sequatur tam ascendendo quam descendendo.</p>
+      <p id="ANOSPE0023">Jtem tercia ascendendo requirit quintam, dummodo cantus planus descendat. Jtem tercia descendendo requirit vnisonum, dummodo cantus planus ascendat. Et etiam requirit semper vnisonum ante vel post, si sit possibile quod cantor faciat.</p>
+      <p id="ANOSPE0024">Jtem fiat idem de decima, que composita existit, ad duodecimam ascendendo, et descendendo ad duplam, que octaua nuncupatur.</p>
+      <p id="ANOSPE0025">Sexta uero appetit semper contiguum ascensum uel descensum: ascensum ad duplam, plano cantu descendente per vnicam vocem, descensum ad quintam, existente procul dubio cantu plano jn vno et eodem loco, quia jnter sextam et quintam non est dare medium sicuti jn aliis consonantiis tam perfectis quam jmperfectis.</p>
+      <p id="ANOSPE0026">Jtem debemus semper accipere propinquiores species tam ascendendo quam descendendo, sicuti post vnisonum capitur tercia, deinde quinta, hinc sexta, deinde octaua, et sic de singulis.</p>
+      <p id="ANOSPE0027">[119v in marg.] Jtem ubicumque sexta fieri oporteat super mi vel la de elami graui, que fieri habet jn csolfaut, hoc est super fa, illud fa debet altificari per semitonium 
+      <pb n="[196]" />maius, quod apotome nuncupatur, et debet signari per signum de # aut nomen fa, dum tamen per ipsum fa sol, quod est jn dlasolre, sequatur jmmediate, et erit octaua. Hoc idem fiat ubicumque cantus planus proferat mi re vel la sol.</p>
+      <p id="ANOSPE0028">Jtem caueas, ne facias sextam cum dupla per ascensum mediatim, quod plures ydiote faciunt, sicuti mi sol (pro sexta mi, et sol pro dupla super re de dsolre uel de gsolreut et aliis similibus), sed bene econtra, videlicet sol mi, ut post mi, quod est sexta, fa ascendendo jmmediate dupla sequatur, et sic de aliis.</p>
+      <p id="ANOSPE0029">Jtem debemus facere contrapunctum propinquiorem quam possumus. Et ad faciendum contrapunctum pulchrum debemus facere duas aut tres species jmperfectas et reuertere jn fine jn speciem perfectam.</p>
+      <p id="ANOSPE0030">Jtem non debemus facere sextam nisi sequatur octaua descendendo.</p>
+      <p id="ANOSPE0031">Jtem non debemus facere fa contra mi, nec econtra, per species perfectas, sed bene per species jmperfectas. Ratio est ista, quia fa non concordat cum mi, nec mi cum fa. Ergo quare melius concordat per species jmperfectas quam per perfectas? Causa est, quia species perfecta perficeretur propter illud semitonium mi fa, et quia semper debemus accipere perfectionem et dimittere jmperfectionem, et quia species jmperfecte non possunt imperfici, quia jam sunt jmperfecte de se ipsis. Et melius concordat mi fa per species jmperfectas quam per species perfectas.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Septem sunt species</title>
+        <title type="abbrev">TORKSEP</title>
+        <author>Torkesey, Johannes</author>
+        <date notBefore="1300" notAfter="1399">14th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Peter M. Lefferts</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Elisabeth Honn</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1997</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Manfred Bukofzer, 
+<emph>Geschichte des englischen Diskants und des Fauxbourdons nach den theoretischen Quellen</emph>, Sammlung musikwissenschaftlicher Abhandlungen, Band 21 (Strassbourg: Heitz, 1936), 136–37.
+</bibl>
+        <bibl type="work">
+          
+<title>Iohannes Torkesey: "Septem sunt species discantus"</title>
+          
+<idno type="LML">IOH. TORK. disc.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">GB-Lbl Lansdowne 763, 94</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="TORKSEP0001">
+      <pb n="[136]" />(Magister Johannes Torkesey.)</p>
+      <p id="TORKSEP0002">Br. Mus. Lansdowne Ms. 763, No. 12 (fol. 94.)</p>
+      <p id="TORKSEP0003">Septem sunt species discantus secundum modernos, videlicet unisonus, tercia, quinta, sexta, octava, decima et duodecima. Quarum istarum septem tres sunt inperfecte et quattuor perfecte. Imperfecte sunt hec: tercia, sexta et decima. Perfecte sunt hec: Unisonus, quinta, octava et duodecima.</p>
+      <p id="TORKSEP0004">Sciendum est eciam quod nullus debet facere duas concordancias perfectas unam post aliam sine aliquo medio. Item nullus debet ascendere vel descendere cum cantu nisi per tercias, sextas vel decimas. Hoc tamen addito quod post terciam insequatur quinta, post sextam octava, post decimam duodecima. De quibuscum(que) terciis, sextis, decimis possunt fieri due ascendendo vel descendendo, observata regula predicta. Item quando cantus incipit base et alte ascendit, discantor debet incipere discantum suum per alciorem concordanciam, ut ad hoc possit venire cum alciori 
+      <pb n="[137]" />nota cantus in unisono cum illo qui tenebit et e converso. Si cantus incipiat alte et base descendit, discantor debet incipere cum illo qui tenebit in unisono vel in quinta ad hoc quod possit devenire in alciori concordancia super tenorem cum illo qui tenebit in duodecima. Item sciendum est quod omnis discantus debet incipi quattuor modis, scilicet per unisonum, quintam, per octavam vel per duodecimam et finiri.</p>
+    </body>
+  </text>
+</TEI>

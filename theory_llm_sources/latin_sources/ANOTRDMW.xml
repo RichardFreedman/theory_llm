@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>[Tractatulus de musica]</title>
+        <title type="abbrev">ANOTRDMW</title>
+        <author>Anonymous</author>
+        <date notBefore="1300" notAfter="1399">14th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Peter Slemon</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Anastasia Arapova</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>2001</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Peter Wagner, "Aus dem St. Thomas-Archiv zu Leipzig," 
+<emph>Zeitschrift für Musikwissenschaft</emph> 12 (1929), 129–37.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: Compilatio cod. Lipsiensis 391</title>
+          
+<idno type="LML">COMPIL. Lips.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">D-LEu Ms. Thomas 391, 5-7</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANOTRDMW0001">
+      <pb n="[130]" />Viginti et una littera sunt in monocordo. Quarum VIII priores dicuntur graves et maioribus figuris a sequentibus discernuntur. Octo medie vocantur acute, et minoribus litteribus describuntur. Quinque novissime dicuntur superacute, sed diversis figuris disponuntur hoc modo:</p>
+      <p id="ANOTRDMW0002">[ZFM12:130; text: [Gamma], A, B, C, D, E, F, G, a, [rob], [sqb], c, d, e, f, g] 
+      <figure>
+        <graphic url="/images/ANOTRDMW_01GF.gif" />
+      </figure></p>
+      <p id="ANOTRDMW0003">Septem modis cantamus per musicam. Primo per artem a Gamma-ut usque E la mi. Secundo per naturam a C fa ut usque ad a la mi re. Tertio per [rob] molle ab C fa ut usque ad d la sol re. Quarto per [sqb] durum a G sol re ut usque ad e la mi. Quinto item per naturam a c sol fa ut usque ad aa la mi re. Sexto item per [rob][rob] molle ab F fa ut usque ad aa la sol. Septimo item per [sqb][sqb] durum a g sol re ut usque ad aa la sol, et e converso.</p>
+      <p id="ANOTRDMW0004">Item breviter: Gamma per artem. C c per naturam. F f per b[rob][rob] molle. G g per b[sqb][sqb] durum.</p>
+      <p id="ANOTRDMW0005">Item breviter: Gamma ut habet unam vocem ut, et cantatur per artem. Gamma est greca littera, scilicet g, ut est vox. A re habet unam vocem re, et cantatur per artem. A est littera, re est vox. B mi habet unam vocem mi, et cantatur per artem. B est littera, mi est vox. Hoc modo dicatur pueris de singulis, ut eo melius intelligant. Omnes enim claves a litteris incipiunt et in voce desinunt, sed in auctoribus musice littere tantum ponuntur, que sunt signa ipsarum vocum. C fa ut habet duas voces, fa et ut, et duas mutaciones, fa ut per ascensum, ut fa per descensum. Cantatur autem fa per artem, ut per naturam. C est littera, fa et ut voces, et sic de singulis. D sol re habet duas voces, sol et re, et duas mutaciones, sol re per ascensum, re sol per descensum. Cantatur autem sol per artem, re per naturam. E la mi habet duas voces, la et mi, et duas mutaciones, la mi per assensum, mi la per descensum. Cantatur autem la per artem, mi per naturam. F fa ut habet duas voces, fa et ut, et duas mutaciones, fa ut per ascensum, ut fa per descensum. Cantatur autem fa per naturam, ut per [rob] molle. G sol re ut habet tres voces, sol, re et ut, et sex mutaciones, sol ut per ascensum, ut sol per descensum; 
+      <pb n="[131]" />sol re per ascensum, re sol per descensum; re ut et ut re ambas per ascen-sum. Cantatur autem sol per naturam, re per [rob] molle, ut per [sqb] durum. A la mi re habet tres voces, la et mi et re, et sex mutaciones; la re per ascensum, re la descensum; la mi per ascensum, mi la per descensum, mi re et re mi ambas per ascensum. Cantat urautem la per naturam, mi per [rob] molle, re per [sqb] durum. B fa [sqb] mi habet duas voces, fa et mi, et non mutatur, sed per mutaciones inferiorum vocum et superiorum, quandoque habetur ibi fa, et hoc vocatur [rob] molle, quandoque mi et hoc vocatur [sqb] durum. C sol fa ut habet tres voces, sol et fa et ut, et sex mutaciones, fa ut per ascensum, ut fa per descensum; sol ut per ascensum, ut sol per descensum; sol fa et fa sol ambas per descensum. Cantatur autem sol per [rob] molle, fa per [sqb] durum. D la sol re habet tres voces, la et sol et re, et sex mutaciones, sol re per ascensum, re sol per descensum, la re per ascensum, re la per descensum, la sol et sol la ambas per descensum. Cantatur autem la per [rob] molle, sol per [sqb] durum, re per naturam. e la mi, f fa ut, g sol re ut, aa la mi re, bb fa [sqb][sqb] mi easdem habent voces et mutaciones, quas et quinque claves superiores eisdem vocabulis nuncupate. Sed littere tantum mutantur. cc sol fa habet duas voces, sol et fa, et duas mutaciones, sol fa et fa sol, ambas per descensum. Cantatur autem sol per [rob][rob] molle, fa per [sqb][sqb] durum. dd la sol habet duas voces, la et sol, et duas mutaciones, la sol et sol la, ambas per descensum. Cantatur autem la per [rob][rob] molle, sol per [sqb][sqb] durum.</p>
+      <p id="ANOTRDMW0006">De tonorum qualitatibus sive proprietatibus et cur diversi diversis delectentur, Johannes in XVI capitulo Q littera designato sic ait:</p>
+      <p id="ANOTRDMW0007">Ex ipsa hominis natura est indicium, ut non omnes sensus eundem habeant appetitum. Unde accidit ut quod canitur, isti videatur dulcissimum, ab alio dissonum iudicetur atque incompositum, et quod unus summopere extollit, alii penitus displiceat, sicut enim non omnium ora eodem cibo sitiuntur, sed ille quidem acrioribus, iste vero lenioribus escis utatur: ita profecto non omnium aures eiusdem toni sono oblectantur. Alios namque morosa et curialis vagacio primi toni delectat, alios rauca secundi gravitas capit, alios severa et et quasi indignans tertii persaltatio iuvat, alios adulatorius cantus quarti attrahit, alii modesta quinti petulancia ac subitaneo ad finalem casu moventur, alii lacrimosa voce sexti mulcentur, alii mimicos saltus septimi libenter audiunt, alii decentem quasi maternalem octavi canorem diligunt.</p>
+      <p id="ANOTRDMW0008">Habent itaque predicto octo modi sive toni speciales et inter se diversas sono-rum proprietates, adeo ut diligenter musico seu etiam exercitato cantari ultro cognicionem sui ingerant. Et quemadmodum aliquis mores habitusque diversarum gencium perscrutatus, cuiuscunque nacionis hominem viderit, docte internoscit, hunc 
+      <pb n="[132]" />grecum, hunc germanum esse, illum vero hyspanum, istum gallum iudicans, ita nimirum musicus. Non autem solo nomine audita qualibet armonia, statim cuius sit toni agnoscit quia alii cantus non tantum in inicio, sed etiam in medio alicuius toni cursu utitur, cui tamen in fine contradicit.</p>
+      <p id="ANOTRDMW0009">Quid significent littere in margine cantibus apposite seu vocale cum consonantibus.</p>
+      <p id="ANOTRDMW0010">Sciendum quod octo toni signantur per octo vocales. Primus tonus signatur a vocali, secundus e, tertius i, quartus o, quintus u, sextus [Eta] greca, septimus y, octavus [Omega]. Littere vero eisdem vocalibus adiuncte modum cantandi exprimunt. Quia sicut in sillabis alie producuntur, alie corripiuntur, ita et in melodiis alie cursim, alie morose, alie perfecte sursum, alie retractim, alie graviter, alie mansuete, et vario modo, prout se habet cantilene dignitas, promende sunt. Unde et in cancionum libris tam nocturnis quam diurnis inveniuntur notule ex alfabeto neumis apposite, que idipsum presignificent. Verbi gratia A c g l m s t.</p>
+      <p id="ANOTRDMW0011">Qualiter omnes fere alfabeti littere modum cantandi exprimant et veluti quadam sui etymologia studiosum cantorem erudiant.</p>
+      <p id="ANOTRDMW0012">A prima alfabeti littera cantorem admonet, ut cantus alcius elevetur. B ut bene gravetur sive teneatur. C ut cito dicatur. D ut deprimatur. E ut equaliter sonetur. F ut cum fragore feriatur. G ut in gutture garruletur gradatim. H ut sicut in ipsa scriptura aspirat, ita et in nota idipsum faciat. I inferius insinuat. K licet apud latines parum vel nichil valeat, apud nos tamen alemannos Klenke id est clange significat. L levare neumam. M mediocriter moderari melodiam. N notare notificat. O figuram sui in ore cantantis ordinat. P pressionem vel perfectionem significat. Q in significacionibus notarum non invenitur. R rectitudi (sic) vel cripacionem significat. S sursum scandere. T trahere. Q V X Y Z, que relique sunt littere, in significacionibus notarum nichil valent.</p>
+      <p id="ANOTRDMW0013">Que sit differencia inter musicum et cantorem.</p>
+      <p id="ANOTRDMW0014">Cantores proprie vocantur usuales, musici vero ab ipsa arte congrue nuncu-pantur. Unde dominus Guido, quem post boecium nos in arte musica plurimum valuisse fatemur, in principio secundi libri sui rithmici pulchre sic ait: Musicorum et cantorum magna est distancia. Isti dicunt, illi sciunt, que componit musica. 
+      <pb n="[133]" />Nam qui facit quod non sapit, diffinitur bestia. Ceterum tonantis vocis si laudent acumina, superabit phylomena vel vocalis asina. Quare eis esse suum tollit dyalectica etcetera.</p>
+      <p id="ANOTRDMW0015">De imperfectione cantorum usualium Guydo sic ait.</p>
+      <p id="ANOTRDMW0016">Mirabiles autem cantores cantorumque discipuli, etiam si per centum annos cotidie cantent, nunquam per se sine magistro vel parvulam saltem cantabunt antiphonam, semper discentes ut ait apostolus, et nunquam ad scienciam veritatis pervenientes, tantum tempus in cantando perdentes, in quanto et divinam et secularem scripturam potuissent plene cognoscere. Et quod super omnia mala magis est periculosum, multi religiosi ordinis clerici et monachi, psalmos et sacras lecciones et nocturnales cum puritate vigilias et reliqua pietatis opera, per que ad sempiternam gloriam provocamur et ducimur, negligunt, dum cantandi scienciam, quam nunquam consequi possunt, labore assiduo et stultissimo persequuntur. Illud quoque quis non defleat, quod tam gravi est in sancta ecclesia error, tamque periculosa discordia, ut quando diurnum celebramus officium, non deum laudare, sed inter nos certare videamur. Vix denique unus concordat alteri, non magistro discipulus, nec discipulus condiscipulis.</p>
+      <p id="ANOTRDMW0017">[ZfM12:133; text: Tua gracia me adiuva de celis, rex ingenite, fili deus unigenite, amborumque paraclite, ut congrue possim canere in monocordo. Sex vocum intervalla largiente domino, ut plenius potero explanare satago.]</p>
+      <p id="ANOTRDMW0018">
+      <pb n="[134]" />[ZfM12:134; text: In presenti negocio diligentes quaerito, musas pigras excito, meoque pio modulo decem modos explico. Qui sunt unisonus, semitonium, tonus, semidytonus, dytonus, dyatessaron, diapente, semitonium cum diapente, tonus cum diapente, atque diapason. Vacat tritonus et cetere que sunt infra diapason ultra quam progredi nequaquam audeo.] 
+      <figure>
+        <graphic url="/images/ANOTRDMW_02GF.gif" />
+      </figure></p>
+      <p id="ANOTRDMW0019">Decem sunt modi, quibus omnis cantus sibi invicem iungitur, sive Unisonus, Semitonium, Tonus, Semidytonus, Dytonus, Dyatessaron, Diapente, Semitonium cum diapente, Tonus cum diapente, Diapason. Unisonus est unius vocis reiteracio sive continua repercussio, verbi gratia, ut, ut, re, re, et sic de singulis vocibus. Semitonium est intensio de mi ad fa vel remissio de fa ad mi immediate. Tonus est 
+      <pb n="[135]" />intensio vel remissio unius vocis ad aliam immediate, praeter mi fa vel fa mi. Sciendum autem, quod ceteri modi omnes iunguntur sibi mediate per tonum et semitonium, ab hiis eciam duobus modis reliqui componuntur. Sunt enim duo modi simplices, quattuor ex hiis compositi, tres reliqui decompositi. Semidytonus constat vel componitur ex tono et semitonio, et habet duas formaciones id est fa mi sol et e converso. Dytonus constat ex duobus tonus, et habet duas formaciones, ut mi, fa la et e converso. Diatessaron constat ex duobus tonis et uno semitonio, et habet tres formaciones, ut fa, re sol, mi la et e converso. Diapente constat ex tribus tonis et uno semitonio, et habet quattuor formaciones, ut sol, re la, mi mi,fa fa et e converso. Semitonium cum diapente constat ex tribus tonis et duobus semitoniis, superans diapente uno semitonio, que habet duas formaciones, mi fa, re fa et e converso. Quarum prima est usitata, quando videlicet duo semitonia ambiunt tres tonos, ut ab E gravi ad c acutum. Secunda minus usitata, quando tres toni et duo semitonia quocunque ordine ponuntur, ut ab A capitali ad F gravem vel a D gravi usque ad [rob] molle, ut patet in hoc Responsorio Jerusalem tibi a deo. Tonus cum diapente constat ex quattuor tonis et uno semitonia, superans diapente uno tono et habet tres formaciones, ut la, re mi, fa sol. Quarum prima, ut la, est usitata, ubi semitonium consistit in medio tonorum, alie due minus usitate, quando quattuor toni et semitonium quocunque ordine ponuntur. Secunda re mi est a D gravi ad [sqb] durum, ut in hac Antiphona Immutemur in cinere et. Tertia fa sol ab E gravi ad d acutam, ut in hoc Responsorio Tenebre magna deus, vel a [rob] molli ad g acutam. Diapason constat ex diatessaron et diapente et e converso, quae habet decem formaciones vel paulo plus. Bis diapason est, eandem litteram utroque habere latere, sed hoc fallit in B bb molli, que non concordant cum [sqb][sqb][sqb] dura; concordant tamen sibi invicem B[sqb][sqb][sqb] et preterea alie due B[rob][rob] molles sibi ipsi, tamen conveniunt per diapason. Extra hos decem modos qui numerantur in illo canta Ter terni sunt modi, undecimus est modus, qui vocatur tritonus, quia constat ex tribus tonis, et habet unam tantum formacionem, fa mi et e converso, sive a F gravi ad [sqb] durum, ut in hoc Responsorio Isti sunt dies, usque temporibus, altissimo et in finali Alleluia Versus Ostende vel a [rob] molli ad e acutam.</p>
+      <p id="ANOTRDMW0020">[ZfM12:135; text: Ter terni sunt modi, quibus omnis cantilena contexitur, scilicet unisonus, semitonium, tonus, semidytonus, dytonus, diatessaron]</p>
+      <p id="ANOTRDMW0021">
+      <pb n="[136]" />[ZfM12:136; text: diapente, semitonium cum diapente, tonus cum diapente, ad hec sonus diapason, si quem delectat eius hunc modum esse agnoscat. Cumque tam paucis clausulis tota armonia formetur, utilissimum est eas alte memorie commendare nec prius ab huiusmodi studio quiescere, donec vocum intervallis agnitis armonie totius facilime queas comprehendere notitiam. Cognita gradatim omnium intensione vocum et remissione, nec non et multiplici varietate earum per intervalla, que sunt scilicet unisonus, semitonium, tonus, semidytonus, dytonus, diatessaron, diapente, semitonium cum diapente, tonus cum diapente atque diapason. Tum cantori restat studium, quo] 
+      <figure>
+        <graphic url="/images/ANOTRDMW_03GF.gif" />
+      </figure></p>
+      <p id="ANOTRDMW0022">
+      <pb n="[137]" />[ZfM12:137; text: mutationes sex sillabarum, per quas omne melos varium currit, diligenter discat, quatenus per eas omnis armonie ascensiones atque descensiones recte continuare assuescat.] 
+      <figure>
+        <graphic url="/images/ANOTRDMW_04GF.gif" />
+      </figure></p>
+    </body>
+  </text>
+</TEI>

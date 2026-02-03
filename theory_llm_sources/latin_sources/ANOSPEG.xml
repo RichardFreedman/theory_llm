@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Liber specierum</title>
+        <title type="abbrev">ANOSPEG</title>
+        <author>Anonymous</author>
+        <date notBefore="800" notAfter="1099">9th-11th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Peter Slemon</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Jessica Sisk</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>2003</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>Expositiones in Micrologum Guidonis Aretini</emph>, ed. Joseph Smits van Waesberghe, Musicologica medii aevi, vol. 1 (Amsterdam: North-Holland Publishing Company, 1957), 31–58.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: Liber specierum</title>
+          
+<idno type="LML">LIB. SPEC.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 7211, 125v-127</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ctc O.9.29, 83v-85</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat lat. 9496, 20-22</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANOSPEG0001">
+      <pb n="[31]" />INCIPIT LIBER SPECIERUM</p>
+      <p id="ANOSPEG0002">I. De musica quod in motus vocum species sit</p>
+      <p id="ANOSPEG0003">Quid est musica? Musica est species in motus vocum.</p>
+      <p id="ANOSPEG0004">II. De prima voce ex quibus speciebus constat</p>
+      <p id="ANOSPEG0005">Prima vox ex quibus speciebus constat? Ex specie toni inferius et interius et ex prima specie semiditoni, et ex prima diatessaron et diapente et diapason inferius.</p>
+      <p id="ANOSPEG0006">III. De secunda voce ex quibus speciebus constat</p>
+      <p id="ANOSPEG0007">Secunda vox ex quibus speciebus constat? Ex specie toni superius, et ex specie semitonii inferius, et ex prima et secunda semiditoni interius et inferius, et ex prima diatessaron et diapente interius, et ex secunda diatessaron et diapason inferius.</p>
+      <p id="ANOSPEG0008">IV. De tertia voce</p>
+      <p id="ANOSPEG0009">Tertia vox unde constat? Ex specie semitonii superius, et ex specie toni et ditoni inferius, et ex prima semiditoni superius et ex secunda interius, et ex prima diatessaron et diapente et ex secunda diatessaron interius; item et ex tertia diatessaron et diapente et diapason inferius.</p>
+      <p id="ANOSPEG0010">
+      <pb n="[32]" />V. De quarta voce</p>
+      <p id="ANOSPEG0011">Quarta vox unde constat? Ex specie toni superius et inferius et in ditoni interius, et ex secunda semiditoni superius, et ex prima inferius. Item constat ex prima diatessaron superius et inferius, et ex prima diapente et ex secunda diatessaron inferius. Item constat ex tertia diatessaron et diapente interius et diapason inferius.</p>
+      <p id="ANOSPEG0012">VI. De quinta voce</p>
+      <p id="ANOSPEG0013">Quinta vox unde constat? Ex specie toni et ditoni superius et semitonii inferius. Item constat ex prima specie semiditoni interius et ex secunda inferius. Item constat ex prima diapente et ex secunda diatessaron superius. Item constat ex tertia diatessaron et diapente interius et diapason inferius.</p>
+      <p id="ANOSPEG0014">VII. De sexta voce</p>
+      <p id="ANOSPEG0015">Sexta vox unde constat? Ex specie semitonii superius et ditoni inferius, et ex prima semiditoni superius et ex secunda interius. Item constat ex prima specie diatessaron interius, et ex tertia diatessaron superius et diapente interius, et diapason inferius.</p>
+      <p id="ANOSPEG0016">VIII. De septima voce</p>
+      <p id="ANOSPEG0017">Septima vox unde constat? Ex specie toni superius et inferius, et ditoni interius et inferius, et ex secunda semiditoni superius, et ex prima diatessaron et ex tertia diapente superius, et diapason inferius.</p>
+      <p id="ANOSPEG0018">
+      <pb n="[33]" />IX. De speciebus quid est</p>
+      <p id="ANOSPEG0019">Quid est species? Species autem in musica dicimus esse consonantiarum varietates.</p>
+      <p id="ANOSPEG0020">X. De specie toni</p>
+      <p id="ANOSPEG0021">Tonus est species quia pars speciei est. Sive aliter: Tonus est species pro eo quod voces iunguntur hoc modo: .[Gamma]. tonus .A. tonus .B.</p>
+      <p id="ANOSPEG0022">XI. Item de specie toni denegativa</p>
+      <p id="ANOSPEG0023">Igitur quia consonantiarum varietates species dictae sunt, tonus habet species? Minime.</p>
+      <p id="ANOSPEG0024">Quare? Quia tonus uno modo semper est et non habet varietates, igitur non habet species.</p>
+      <p id="ANOSPEG0025">
+      <pb n="[34]" />De specie semitonii affirmativa</p>
+      <p id="ANOSPEG0026">Semitonius est species? Est.</p>
+      <p id="ANOSPEG0027">Quare? Quia pars speciei est.</p>
+      <p id="ANOSPEG0028">Igitur quia semitonius species est, species semitonii unde constat? Ex duabus coniunctis vocibus hoc modo:</p>
+      <p id="ANOSPEG0029">[Anonymous, Liber specierum, 34,1; text: species semtonii] 
+      <figure>
+        <graphic url="/images/ANOSPEG_01GF.gif" />
+      </figure></p>
+      <p id="ANOSPEG0030">Sic et de reliquis.</p>
+      <p id="ANOSPEG0031">XII. Item de specie semitonii denegativa</p>
+      <p id="ANOSPEG0032">Semitonius habet species? Non. Quare? Quia non habet varietates, idcirco non habet species.</p>
+      <p id="ANOSPEG0033">XIII. De specii ditoni</p>
+      <p id="ANOSPEG0034">Ditonus est species quia pars speciei diatessaron et diapente est. Pars vero aliquando ponitur pro toto, ut ditonus, pro tono et semitonio. Igitur quia ditonus species est, species ditoni unde constat? Ex tono et semitonio.</p>
+      <p id="ANOSPEG0035">[Anonymous, Liber specierum, 34,2; text: tonus, species ditoni]</p>
+      <p id="ANOSPEG0036">Sic et de reliquis.</p>
+      <p id="ANOSPEG0037">XIV. Item de specie ditoni denegativa</p>
+      <p id="ANOSPEG0038">Ditonus habet species? Non. Quare? Quia ditonus constat ex tono et tono. Tonus vero non differt a tono nisi per numerum, ideoque non habet species, quia non habet varietates.</p>
+      <p id="ANOSPEG0039">
+      <pb n="[35]" />De prima specie semiditoni</p>
+      <p id="ANOSPEG0040">Semiditonus habet species? Utique. Quot? Duas. Quas? Prima species semiditoni est ex tono et semitonio; hoc est exemplum:</p>
+      <p id="ANOSPEG0041">[Anonymous, Liber specierum, 35,1; text: tonus, semitonium, prima species semiditoni]</p>
+      <p id="ANOSPEG0042">De secunda specie semiditoni</p>
+      <p id="ANOSPEG0043">Secunda species semiditoni constat ex semitonio et tono hoc modo:</p>
+      <p id="ANOSPEG0044">[Anonymous, Liber specierum, 35,2; text: semitonium, tonus, secunda species semiditoni]</p>
+      <p id="ANOSPEG0045">De speciebus diatessaron</p>
+      <p id="ANOSPEG0046">Quot species habet diatessaron? Tres. Et unde componuntur? De tono, semitonio, et tono; vel de semitonio, tono et tono, vel de tono et tono et semitonio.</p>
+      <p id="ANOSPEG0047">
+      <pb n="[36]" />De speciebus diapente</p>
+      <p id="ANOSPEG0048">Quot species habet diapente? Quattuor. Et unde componuntur? De tono, semitonio, tono et tono, vel semitonio, tono, tono, et iterum tono, vel tono et tono, semitonio et tono, vel ex tribus tonis et uno semitonio.</p>
+      <p id="ANOSPEG0049">De speciebus diapason</p>
+      <p id="ANOSPEG0050">Quot species habet diapason? Septem. Quas? Tres habet species ex diatessaron et quattuor ex diapente, simul iunctae fiunt septem.</p>
+      <p id="ANOSPEG0051">XV. Item de speciebus diatessaron et diapente quae sunt in diapason primae vocis</p>
+      <p id="ANOSPEG0052">In diapason primae vocis prima species diatessaron constat ex tono, 
+      <pb n="[37]" />semitonio et tono, ut proslambanomenos ad lichanos hypaton.</p>
+      <p id="ANOSPEG0053">Secunda species diatessaron constat ex semitonio, tono et tono, ut hypate hypaton ad hypate meson.</p>
+      <p id="ANOSPEG0054">Tertia species constat ex tono et tono semitonioque, ut parhypate hypaton ad parhypate meson.</p>
+      <p id="ANOSPEG0055">In diapason primae vocis prima species diapente constat ex tono, semitonio, tono et tono, ut proslambanomenos ad hypate meson.</p>
+      <p id="ANOSPEG0056">Secunda species diapente in hoc diapason vacat, quia ab hypate hypaton ad parhypate meson nulla consonantia est, et ideo nulla species esse potest.</p>
+      <p id="ANOSPEG0057">Tertia species diapente constat ex tono et tono, semitonio et tono, ut parhypate hypaton ad lichanos meson.</p>
+      <p id="ANOSPEG0058">Quarta species vacat.</p>
+      <p id="ANOSPEG0059">
+      <pb n="[38]" />[Anonymous, Liber specierum, 38; text: prima species diatessaron, secunda, tertia, quarta, diapente, species diapason primae vocis in elevatione, in depositione, A, B, C, D, E, F, G, a]</p>
+      <p id="ANOSPEG0060">XVI. Item de speciebus diatessaron et diapente quae sunt in diapason secundae vocis</p>
+      <p id="ANOSPEG0061">In diapason secundae vocis prima species diatessaron constat ex semitonio, tono et tono, ut hypate hypaton ad hypate meson.</p>
+      <p id="ANOSPEG0062">
+      <pb n="[39]" />Secunda species diatessaron constat ex tono, tono et semitonio, ut parhypate hypaton ad parhypate meson.</p>
+      <p id="ANOSPEG0063">Tertia species diatessaron constat ex tono, semitonio, et tono, ut lichanos hypaton ad lichanos meson.</p>
+      <p id="ANOSPEG0064">Item in hoc diapason prima species diapente vacat.</p>
+      <p id="ANOSPEG0065">Secunda species diapente constat ex tono et tono, semitonio et tono, ut parhypate hypaton ad lichanos meson.</p>
+      <p id="ANOSPEG0066">Tertia species diapente constat ex tono, semitonio, tono et tono, ut lichanos hypaton ad mese.</p>
+      <p id="ANOSPEG0067">Quarta species diapente constat ex semitonio et tono, tono et tono ut hypate meson ad paramese.</p>
+      <p id="ANOSPEG0068">
+      <pb n="[40]" />[Anonymous, Liber specierum, 40; text: diatessaron prima species, secunda, tertia, quarta, diapente, prima species vacat, species secundae vocis diapason in elevatione, in depositione, B, C, D, E, F, G, a, [sqb]] 
+      <figure>
+        <graphic url="/images/ANOSPEG_02GF.gif" />
+      </figure></p>
+      <p id="ANOSPEG0069">XVII. Item de speciebus diatessaron et diapente quae sunt in diapason tertiae vocis</p>
+      <p id="ANOSPEG0070">In diapason tertiae vocis prima species diatessaron constat ex duobus tonis et semitonio, ut parhypate hypaton ad parhypate meson. Secunda species diatessaron constat ex tono, semitonio et tono, ut lichanos hypaton ad lichanos meson. Tertia species diatessaron constat ex semitonio 
+      <pb n="[41]" />et duobus tonis, ut hypate meson ad mese. Item in hoc diapason prima species diapente constat ex duobus tonis et semitonio et tono, ut parhypate hypaton ad lichanos meson. Secunda species diapente constat ex tono, semitonio et duobus tonis, ut lichanos hypaton ad mese. Tertia species diapente constat ex semitonio et tribus tonis, ut hypate meson ad paramese. Quarta species diapente constat ex tribus tonis et semitonio, ut parhypate meson ad trite diezeugmenon.</p>
+      <p id="ANOSPEG0071">[Anonymous, Liber specierum, 41; text: diatessaron prima species, secunda, tertia, quarta, diapente, diapason in elevatione, in depositione, C, D, E, F, G, a, [sqb], c]</p>
+      <p id="ANOSPEG0072">
+      <pb n="[42]" />XVIII. Item de speciebus diatessaron et diapente quae sunt in diapason quartae vocis</p>
+      <p id="ANOSPEG0073">In diapason quartae vocis prima species diatessaron constat ex tono, semitonio et tono, ut lichanos hypaton ad lichanos meson.</p>
+      <p id="ANOSPEG0074">Secunda species diatessaron constat ex semitonio, tono et tono, ut hypate meson ad mese.</p>
+      <p id="ANOSPEG0075">Tertia species vacat ad paramese, sed non vacat ad trite synemmenon. Igitur tertia species diatessaron constat ex duobus tonis et semitonio, ut parhypate meson ad trite synemmenon.</p>
+      <p id="ANOSPEG0076">Item in hoc diapason prima species diapente constat ex tono, semitonio, tono et tono, ut lichanos hypaton ad mese.</p>
+      <p id="ANOSPEG0077">Secunda species diapente constat ex semitonio et tribus tonis, ut hypate meson ad paramese.</p>
+      <p id="ANOSPEG0078">Tertia species diapente constat ex tribus tonis et semitonio, ut parhypate meson ad trite diezeugmenon.</p>
+      <p id="ANOSPEG0079">Quarta species diapente constat ex duobus tonis, semitonio et tono, ut lichanos meson ad paranete diezeugmenon.</p>
+      <p id="ANOSPEG0080">
+      <pb n="[43]" />[Anonymous, Liber specierum, 43; text: prima species diatessaron, secunda, tertia, quarta, diapente, diapason in elevatione, in depositione, D, E, F, G, a, [sqb], c, d] 
+      <figure>
+        <graphic url="/images/ANOSPEG_03GF.gif" />
+      </figure></p>
+      <p id="ANOSPEG0081">XIX. Item de speciebus diatessaron et diapente quae sunt in diapason quintae vocis</p>
+      <p id="ANOSPEG0082">In diapason quintae vocis prima species diatessaron constat ex semitonio et tono et tono, ut hypate meson ad mese. Secunda vacat ad paramese, sed non vacat ad trite synemmenon, ut parhypate meson ad trite synemmenon. Tertia species diatessaron constat ex duobus tonis et semitonio, ut lichanos meson ad trite diezeugmenon. Item in hoc diapason 
+      <pb n="[44]" />prima species diapente constat ex semitonio et tribus tonis, ut hypate meson ad paramese. Secunda species diapente constat ex tribus tonis et semitonio, ut parhypate meson ad trite diezeugmenon.</p>
+      <p id="ANOSPEG0083">Tertia species diapente constat ex duobus tonis et semitonio et tono, ut lichanos meson ad paranete diezeugmenon. Quarta species diapente constat ex tono et semitonio et duobus tonis, ut mese ad nete diezeugmenon.</p>
+      <p id="ANOSPEG0084">[Anonymous, Liber specierum, 44; text: prima species diatessaron, secunda, tertia, quarta, diapente, diapason in elevatione, in depositione, E, F, G, a, [rob], [sqb], c, d, e]</p>
+      <p id="ANOSPEG0085">
+      <pb n="[45]" />XX. Item de speciebus diatessaron et diapente quae sunt in diapason sextae vocis</p>
+      <p id="ANOSPEG0086">In diapason sextae vocis prima species diatessaron vacat ad paramese, sed non vacat ad trite synemmenon. Igitur prima species constat ex duobus tonis et semitonio, ut parhypate meson ad trite synemmenon.</p>
+      <p id="ANOSPEG0087">Secunda species diatessaron constat ex tono, semitonio et tono, ut lichanos meson ad trite diezeugmenon.</p>
+      <p id="ANOSPEG0088">Tertia species diatessaron constat ex semitonio, tono et tono, ut mese ad paranete diezeugmenon.</p>
+      <p id="ANOSPEG0089">Item in hoc diapason prima species diapente constat ex duobus tonis, semitonio et tono, ut parhypate meson ad trite diezeugmenon.</p>
+      <p id="ANOSPEG0090">Secunda species diapente constat ex tono, semitonio et duobus tonis, ut lichanos meson ad paranete diezeugmenon.</p>
+      <p id="ANOSPEG0091">Tertia species diapente constat ex semitonio et tribus tonis, ut mese ad nete diezeugmenon. Quarta vacat.</p>
+      <p id="ANOSPEG0092">
+      <pb n="[46]" />[Anonymous, Liber specierum, 46; text: prima haec species vacat, haec prima species non vacat, secunda species diatessaron, tertia, quarta species diapente (vacat), diapason in elevatione, in depositione, F, G, a, [rob], [sqb], c, d, e, f] 
+      <figure>
+        <graphic url="/images/ANOSPEG_04GF.gif" />
+      </figure></p>
+      <p id="ANOSPEG0093">XXI. Item de speciebus diatessaron et diapente quae sunt in diapason septimae vocis</p>
+      <p id="ANOSPEG0094">In diapason septimae vocis prima species diatessaron constat ex duobus tonis et semitonio, ut lichanos meson ad trite diezeugmenon. Secunda species diatessaron constat ex tono, semitonio et tono, ut mese ad paranete diezeugmenon. Tertia species diatessaron constat ex semitonio et duobus tonis, ut paramese ad nete diezeugmenon. Item in hoc diapason prima species diapente constat ex duobus tonis et semitonio et 
+      <pb n="[47]" />tono, ut lichanos meson ad paranete diezeugmenon. Secunda species diapente constat ex tono et semitonio et duobus tonis, ut mese ad nete diezeugmenon. Tertia vacat et quarta vacat.</p>
+      <p id="ANOSPEG0095">[Anonymous, Liber specierum, 47; text: prima species diatessaron, secunda, tertia, quarta, diapente, (vacat), diapason in elevatione septimae vocis, in depositione, a, [sqb], c, d, e, f, G, g]</p>
+      <p id="ANOSPEG0096">
+      <pb n="[48]" />XXII. De numeris modorum</p>
+      <p id="ANOSPEG0097">De similitudine vel speciebus vocum in paucis multa perstrinximus; nunc de modis et tropis et plagis vel distinctionibus eorum deo auxiliante scribamus. Octo igitur sunt modi, ut octo partes orationis et octo formae beatitudinis, per quos omnis cantilena discurrit. Ex quibus quattuor sunt auctorales et quattuor plagales; et auctorales graeci autentos nominant, plagales vero minores vel subiugales appellantur.</p>
+      <p id="ANOSPEG0098">XXIII. De nominibus modorum vel troporum</p>
+      <p id="ANOSPEG0099">Hos autem modos vel tropos graece nominamus protum, deuterum, tritum, tetrardum.</p>
+      <p id="ANOSPEG0100">XXIV. Item de modis vel tropis</p>
+      <p id="ANOSPEG0101">Hi sunt modi vel tropi quos abusive tonos nominant, qui sic sunt ab invicem naturali diversitate disiuncti, ut alter alteri in sua sede locum non tribuat.</p>
+      <p id="ANOSPEG0102">Item de tropo</p>
+      <p id="ANOSPEG0103">Quid est tropus? Est autem tropus species cantionis, qui et modus dictus est.</p>
+      <p id="ANOSPEG0104">XXV. De autento proto ex quibus speciebus constat</p>
+      <p id="ANOSPEG0105">Autentus protus et plaga eius constat in prima species diatessaron et diapente; in diatessaron inferius et superius, in diapente inferius, ut proslambanomenos in lichanos hypaton.</p>
+      <p id="ANOSPEG0106">
+      <pb n="[49]" />XXVI. De autento deutero ex quibus speciebus constat</p>
+      <p id="ANOSPEG0107">Autentus deuterus et plaga eius constat in secunda specie diatessaron inferius et superius. Item constat in prima diapente superius et interius, ut hypate hypaton et hypate meson.</p>
+      <p id="ANOSPEG0108">XXVII. De autento trito ex quibus speciebus constat</p>
+      <p id="ANOSPEG0109">Autentus tritus et plaga eius constat in tertia specie diatessaron et diapente; in diatessaron inferius et superius, in diapente inferius et interius, ut parhypate hypaton in parhypate meson.</p>
+      <p id="ANOSPEG0110">XXVIII. De autento tetrardo ex quibus speciebus constat</p>
+      <p id="ANOSPEG0111">Autentus tetrardus constat in tertia specie diapente superius et in prima diatessaron superius. Item constat in specie diapason septimae vocis inferius et superius, ut lichanos meson et in paranete hyperboleon.</p>
+      <p id="ANOSPEG0112">XXIX. Autentus protus et plaga eius</p>
+      <p id="ANOSPEG0113">Autentus protus graece latine auctor primus dicitur; plaga eius id est pars eiusdem modi.</p>
+      <p id="ANOSPEG0114">XXX. Autentus deuterus et plaga eius</p>
+      <p id="ANOSPEG0115">Autentus deuterus graece latine auctor secundus dicitur; plaga eius id est pars eiusdem modi.</p>
+      <p id="ANOSPEG0116">XXXI. Autentus tritus et plaga eius</p>
+      <p id="ANOSPEG0117">Autentus tritus graece latine auctor tertius dicitur; plaga eius id est pars eiusdem modi.</p>
+      <p id="ANOSPEG0118">
+      <pb n="[50]" />XXXII. Autentus tetrardus et plaga eius</p>
+      <p id="ANOSPEG0119">Autentus tetrardus graece latine auctor quartus dicitur; plaga eius id est pars eiusdem modi.</p>
+      <p id="ANOSPEG0120">XXXIII. De finalibus vocibus</p>
+      <p id="ANOSPEG0121">Propter autenticas elevationes et plagales depositiones finales voces modorum et plagalium statutae sunt in .D.E.F.G. Sed aliquando plagae proti vel triti, deuteri vel tetrardi propter necessitatem in acutas finiuntur.</p>
+      <p id="ANOSPEG0122">XXXIV. De autenticis elevationibus et depositionibus</p>
+      <p id="ANOSPEG0123">Ascendunt autentici ad octavam et nonam et decimam vocem; a finali vero tantum uno tono deponuntur, excepto trito qui aliquando non deponitur in semiditono propter subiectam semitonii imperfectionem.</p>
+      <p id="ANOSPEG0124">XXXV. De plagali elevatione vel depositione</p>
+      <p id="ANOSPEG0125">Plagae vero ad quintas intenduntur et remittuntur; sed intensioni et sexta et septima auctoritate tribuitur, sicut in autenis nona et decima.</p>
+      <p id="ANOSPEG0126">XXXVI. De distinctionibus</p>
+      <p id="ANOSPEG0127">Quod sunt distinctiones? Distinctiones autem dico eas quae a plerisque differentiae vocantur.</p>
+      <p id="ANOSPEG0128">XXXVII. De differentia</p>
+      <p id="ANOSPEG0129">Quid est differentia? Differentia autem idcirco dicitur eo quod discernat seu separet plagas ab autentis; ceterum abusive dicitur.</p>
+      <p id="ANOSPEG0130">
+      <pb n="[51]" />XXXVIII. Item de autentis vel plagalibus distinctionibus</p>
+      <p id="ANOSPEG0131">Autenti praeter deuterum distinctiones supra se ad quintas voces faciunt, deuterus autem ad sextas intendit. Plagae namque proti vel triti ad tertias elevantur, et plagae siquidem deuteri vel tetrardi ad quartas intendunt. Quae omnes inveniuntur hoc modo:</p>
+      <p class="textFig" id="ANOSPEG0132">
+      <lb />&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;F&#160;&#160;&#160;Ga&#160;&#160;&#160;&#160;a&#160;&#160;a&#160;&#160;&#160;&#160;&#160;a&#160;&#160;&#160;&#160;G&#160;&#160;&#160;&#160;F&#160;&#160;Ga&#160;&#160;&#160;&#160;GF
+      <br />1&#160;&#160;&#160;Glo&#160;-&#160;ri&#160;--&#160;a&#160;sae&#160;-&#160;cu&#160;-&#160;lo&#160;-&#160;rum&#160;a&#160;--&#160;men
+      <lb />&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;C&#160;&#160;&#160;DF&#160;&#160;&#160;&#160;F&#160;&#160;F&#160;&#160;&#160;&#160;&#160;F&#160;&#160;&#160;&#160;F&#160;&#160;&#160;&#160;FE&#160;CD&#160;&#160;&#160;&#160;D
+      <br />2&#160;&#160;&#160;Glo&#160;-&#160;ri&#160;--&#160;a&#160;sae&#160;-&#160;cu&#160;-&#160;lo&#160;-&#160;rum&#160;a&#160;--&#160;men
+      <lb />&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;G&#160;&#160;&#160;ac&#160;&#160;&#160;&#160;c&#160;&#160;c&#160;&#160;&#160;&#160;&#160;c&#160;&#160;&#160;&#160;c&#160;&#160;&#160;&#160;a&#160;&#160;c&#160;&#160;&#160;&#160;[sqb]a
+      <br />3&#160;&#160;&#160;Glo&#160;-&#160;ri&#160;--&#160;a&#160;sae&#160;-&#160;cu&#160;-&#160;lo&#160;-&#160;rum&#160;a&#160;--&#160;men
+      <lb />&#160;&#160;&#160;&#160;&#160;&#160;&#160;aG&#160;&#160;&#160;Ga&#160;&#160;&#160;&#160;a&#160;&#160;a&#160;&#160;&#160;&#160;&#160;G&#160;&#160;&#160;&#160;a&#160;&#160;&#160;[sqb]a&#160;GF&#160;&#160;&#160;&#160;E
+      <br />4&#160;&#160;&#160;Glo&#160;-&#160;ri&#160;--&#160;a&#160;sae&#160;-&#160;cu&#160;-&#160;lo&#160;-&#160;rum&#160;&#160;&#160;&#160;a&#160;--&#160;men
+      <lb />&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;F&#160;&#160;&#160;&#160;a&#160;&#160;&#160;&#160;c&#160;&#160;c&#160;&#160;&#160;&#160;&#160;c&#160;&#160;&#160;&#160;d&#160;&#160;&#160;[sqb]&#160;c&#160;&#160;&#160;&#160;&#160;a
+      <br />5&#160;&#160;&#160;Glo&#160;-&#160;ri&#160;--&#160;a&#160;sae&#160;-&#160;cu&#160;-&#160;lo&#160;-&#160;rum&#160;&#160;&#160;a&#160;--&#160;men
+      <lb />&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;F&#160;&#160;&#160;Ga&#160;&#160;&#160;&#160;a&#160;&#160;a&#160;&#160;&#160;&#160;&#160;a&#160;&#160;&#160;&#160;F&#160;&#160;&#160;&#160;Ga&#160;GG&#160;&#160;&#160;&#160;F
+      <br />6&#160;&#160;&#160;Glo&#160;-&#160;ri&#160;--&#160;a&#160;sae&#160;-&#160;cu&#160;-&#160;lo&#160;-&#160;rum&#160;a&#160;--&#160;men
+      <lb />&#160;&#160;&#160;&#160;&#160;&#160;&#160;c[sqb]&#160;cd&#160;&#160;&#160;&#160;d&#160;&#160;d&#160;&#160;&#160;&#160;&#160;d&#160;&#160;&#160;&#160;e&#160;&#160;&#160;&#160;d&#160;&#160;c&#160;&#160;&#160;&#160;[sqb]a
+      <br />7&#160;&#160;&#160;Glo&#160;-&#160;&#160;&#160;ri&#160;--&#160;a&#160;sae&#160;-&#160;cu&#160;-&#160;lo&#160;-&#160;rum&#160;a&#160;--&#160;men
+      <lb />&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;G&#160;&#160;&#160;&#160;a&#160;&#160;&#160;&#160;c&#160;&#160;c&#160;&#160;&#160;&#160;&#160;c&#160;&#160;&#160;[sqb]&#160;c&#160;&#160;a&#160;&#160;&#160;&#160;&#160;G
+      <br />8&#160;&#160;&#160;Glo&#160;-&#160;ri&#160;--&#160;a&#160;sae&#160;-&#160;cu&#160;-&#160;lo&#160;-&#160;rum&#160;a&#160;--&#160;men
+      <lb /></p>
+      <p id="ANOSPEG0133">XXXIX. De generibus distinctionum</p>
+      <p id="ANOSPEG0134">Quot sunt genera distinctitonum? Quinque, videlicet appositivae, 
+      <pb n="[52]" />subpositivae, praepositivae, mixtae et abusivae. Appositivae sunt in finalibus vocibus, subpositivae sunt sub finalibus, praepositivae sunt super finalibus. Mixtae sunt plagales distincttiones quae in autenticis cantibus inveniuntur; similiter autentici in plagalibus cantibus saepe inveniuntur. Abusivae vero sunt quae nec autenticae nec plagales esse videntur. Patet iam modos distinctitonum tot fieri in cantibus quot sunt distinctionum principia. Nam aliquando binas habent voces, aliquando ternas, aliquando quaternas, aliquando quinas, aliquando senas, ut deuterus ab hypate meson in trite diezeugmenon. Varietates tamen earum ita semper sint, ut sicut neumae neumis, ita distinctiones distinctionibus sibi mutue consonanter respondeant.</p>
+      <p id="ANOSPEG0135">XL. De falsi meli agnitione et correctione</p>
+      <p id="ANOSPEG0136">De falsi vero meli agnitione et correctione hanc regulam invenimus, ut ubi nascitur vitium ibi corrigatur. Exemplum autem patet in Communione Diffusa est gratia. Multi vero propterea vitiose dicebant ita:</p>
+      <p class="textFig" id="ANOSPEG0137">
+      <br />&#160;&#160;EF&#160;Gbb&#160;&#160;GbFEF&#160;FE
+      <lb />prop-ter--e-----a,
+      <br /></p>
+      <p id="ANOSPEG0138">ita ut tonum faciebant, cum ante .F. tonus non sit. Sicque fit ut finis Communionis huius ibi veniat, ubi vox nulla est.</p>
+      <p id="ANOSPEG0139">Sed multo melius sic:</p>
+      <p class="textFig" id="ANOSPEG0140">
+      <lb />&#160;&#160;FG&#160;Gcc&#160;&#160;acGGFG&#160;&#160;&#160;GF
+      <br />Prop-ter--e--------a.
+      <lb /></p>
+      <p id="ANOSPEG0141">
+      <pb n="[53]" />Cantoris itaque peritia esse debet, ut ad huius exemplum omnis vitiosus cantus corrigatur.</p>
+      <p id="ANOSPEG0142">XLI. Quod ad cantum redigitur omne quod scribitur</p>
+      <p id="ANOSPEG0143">Dicit Guido: Sicut enim scribitur omne quod dicitur, ita ad cantum redigitur omne quod scribitur. Patet autem haec regula in uno subsono Guidonis hoc modo.</p>
+      <p id="ANOSPEG0144">XLII. De uno subsono Guidonis</p>
+      <p class="textFig" id="ANOSPEG0145">
+      <br />&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;a
+      <lb />[Gamma]&#160;A&#160;B&#160;C&#160;D&#160;E&#160;F&#160;G&#160;a&#160;[sqb]&#160;c&#160;d&#160;e&#160;f&#160;g&#160;a
+      <br />&#160;&#160;&#160;a&#160;&#160;&#160;&#160;e&#160;i&#160;o&#160;u&#160;a&#160;e&#160;i&#160;o&#160;&#160;&#160;u&#160;&#160;&#160;a&#160;e&#160;i&#160;o&#160;u&#160;a
+      <lb /></p>
+      <p id="ANOSPEG0146">XLIII. De duobus subsonis Guidonis</p>
+      <p id="ANOSPEG0147">Item melius patet ipsa regula vocalium in duobus subsonis, ut liberior liceat in cantu producere vocem, ut Guido demonstrat hoc modo:</p>
+      <p class="textFig" id="ANOSPEG0148">
+      <br />&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;a
+      <lb />[Gamma]&#160;A&#160;B&#160;C&#160;D&#160;E&#160;F&#160;G&#160;a&#160;[sqb]&#160;c&#160;d&#160;e&#160;f&#160;g&#160;a
+      <br />&#160;&#160;&#160;a&#160;&#160;&#160;&#160;e&#160;i&#160;o&#160;u&#160;a&#160;e&#160;i&#160;o&#160;&#160;&#160;u&#160;&#160;&#160;a&#160;e&#160;i&#160;o&#160;u&#160;a
+      <lb />&#160;&#160;&#160;e&#160;&#160;&#160;&#160;i&#160;o&#160;u&#160;a&#160;e&#160;i&#160;o&#160;u&#160;&#160;&#160;a&#160;&#160;&#160;e&#160;i&#160;o&#160;u&#160;a&#160;e
+      <br /></p>
+      <p id="ANOSPEG0149">XLIV. De tribus adiunctis</p>
+      <p id="ANOSPEG0150">Descriptis et ostensis duobus subsonis Guidonis, aliis tribus nuper nobis a deo datis adiungimus hoc modo.</p>
+      <p id="ANOSPEG0151">XLV. De quinque subsonis</p>
+      <p id="ANOSPEG0152">
+        <pb n="[54]" />
+      </p>
+      <p class="textFig" id="ANOSPEG0153">
+      <lb />&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;a
+      <br />[Gamma]&#160;A&#160;B&#160;C&#160;D&#160;E&#160;F&#160;G&#160;a&#160;[sqb]&#160;c&#160;d&#160;e&#160;f&#160;g&#160;a
+      <lb />&#160;&#160;&#160;a&#160;&#160;&#160;&#160;e&#160;i&#160;o&#160;u&#160;a&#160;e&#160;i&#160;o&#160;&#160;&#160;u&#160;&#160;&#160;a&#160;e&#160;i&#160;o&#160;u&#160;a
+      <br />&#160;&#160;&#160;e&#160;&#160;&#160;&#160;i&#160;o&#160;u&#160;a&#160;e&#160;i&#160;o&#160;u&#160;&#160;&#160;a&#160;&#160;&#160;e&#160;i&#160;o&#160;u&#160;a&#160;e
+      <lb />&#160;&#160;&#160;i&#160;&#160;&#160;&#160;o&#160;u&#160;a&#160;e&#160;i&#160;o&#160;u&#160;a&#160;&#160;&#160;e&#160;&#160;&#160;i&#160;o&#160;u&#160;a&#160;e&#160;i
+      <br />&#160;&#160;&#160;o&#160;&#160;&#160;&#160;u&#160;a&#160;e&#160;i&#160;o&#160;u&#160;a&#160;e&#160;&#160;&#160;i&#160;&#160;&#160;o&#160;u&#160;a&#160;e&#160;i&#160;o
+      <lb />&#160;&#160;&#160;u&#160;&#160;&#160;&#160;a&#160;e&#160;i&#160;o&#160;u&#160;a&#160;e&#160;i&#160;&#160;&#160;o&#160;&#160;&#160;u&#160;a&#160;e&#160;i&#160;o&#160;u
+      <br /></p>
+      <p id="ANOSPEG0154">XLVI. De quinque supersonis</p>
+      <p id="ANOSPEG0155">Sed ut melius eos ostendamus, per ordinem superponantur litteris monochordi, ut sint quinque supersoni et quinque subsoni. Et statim auxiliante deo in quinque vocalium litteris neumare antiphonaria cum omni fiducia poteris, ut tibi haec figura docebit.</p>
+      <p class="textFig" id="ANOSPEG0156">
+      <lb />&#160;&#160;&#160;a&#160;&#160;&#160;&#160;e&#160;i&#160;o&#160;u&#160;a&#160;e&#160;i&#160;o&#160;&#160;&#160;u&#160;&#160;&#160;a&#160;e&#160;i&#160;o&#160;u&#160;a
+      <br />&#160;&#160;&#160;e&#160;&#160;&#160;&#160;i&#160;o&#160;u&#160;a&#160;e&#160;i&#160;o&#160;u&#160;&#160;&#160;a&#160;&#160;&#160;e&#160;i&#160;o&#160;u&#160;a&#160;e
+      <lb />&#160;&#160;&#160;i&#160;&#160;&#160;&#160;o&#160;u&#160;a&#160;e&#160;i&#160;o&#160;u&#160;a&#160;&#160;&#160;e&#160;&#160;&#160;i&#160;o&#160;u&#160;a&#160;e&#160;i
+      <br />&#160;&#160;&#160;o&#160;&#160;&#160;&#160;u&#160;a&#160;e&#160;i&#160;o&#160;u&#160;a&#160;e&#160;&#160;&#160;i&#160;&#160;&#160;o&#160;u&#160;a&#160;e&#160;i&#160;o
+      <lb />&#160;&#160;&#160;u&#160;&#160;&#160;&#160;a&#160;e&#160;i&#160;o&#160;u&#160;a&#160;e&#160;i&#160;&#160;&#160;o&#160;&#160;&#160;u&#160;a&#160;e&#160;i&#160;o&#160;u
+      <br />&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;a
+      <lb />[Gamma]&#160;A&#160;B&#160;C&#160;D&#160;E&#160;F&#160;G&#160;a&#160;[sqb]&#160;c&#160;d&#160;e&#160;f&#160;g&#160;a
+      <br />&#160;&#160;&#160;a&#160;&#160;&#160;&#160;e&#160;i&#160;o&#160;u&#160;a&#160;e&#160;i&#160;o&#160;&#160;&#160;u&#160;&#160;&#160;a&#160;e&#160;i&#160;o&#160;u&#160;a
+      <lb />&#160;&#160;&#160;e&#160;&#160;&#160;&#160;i&#160;o&#160;u&#160;a&#160;e&#160;i&#160;o&#160;u&#160;&#160;&#160;a&#160;&#160;&#160;e&#160;i&#160;o&#160;u&#160;a&#160;e
+      <br />&#160;&#160;&#160;i&#160;&#160;&#160;&#160;o&#160;u&#160;a&#160;e&#160;i&#160;o&#160;u&#160;a&#160;&#160;&#160;e&#160;&#160;&#160;i&#160;o&#160;u&#160;a&#160;e&#160;i
+      <lb />&#160;&#160;&#160;o&#160;&#160;&#160;&#160;u&#160;a&#160;e&#160;i&#160;o&#160;u&#160;a&#160;e&#160;&#160;&#160;i&#160;&#160;&#160;o&#160;u&#160;a&#160;e&#160;i&#160;o
+      <br />&#160;&#160;&#160;u&#160;&#160;&#160;&#160;a&#160;e&#160;i&#160;o&#160;u&#160;a&#160;e&#160;i&#160;&#160;&#160;o&#160;&#160;&#160;u&#160;a&#160;e&#160;i&#160;o&#160;u
+      <lb /></p>
+      <p id="ANOSPEG0157">
+      <pb n="[55]" />XLVII. Quod per quinque subsonos vel quinque supersonos sicut omne quod dicitur scribitur, sic ad laudem dei quicquid scribitur cani possit</p>
+      <p id="ANOSPEG0158">Si quis autem hos subsonos vel supersonos studiose requisierit, cognoscet pro certo, quia omne quod canitur vel quod scribitur citius ad laudem dei cantare poterit hoc modo:</p>
+      <p id="ANOSPEG0159">[Anonymous, Liber specierum, 55; text: F, c, a, e, i, o, u, Gloria in excelsis Deo, Sit nomen Domini benedictum in saecula] 
+      <figure>
+        <graphic url="/images/ANOSPEG_05GF.gif" />
+      </figure></p>
+      <p id="ANOSPEG0160">Quod itaque de hac laude factum est, sic et de omni cantu posse fieri nulli dubium est. Illud praeterea scire te volo quod in more puri argenti cunctus cantus, quo magis utitur, coloratur; et quod prius displicet, per usum quasi lima politum postea collaudatur.</p>
+      <p id="ANOSPEG0161">XLVIII. De diaphonia</p>
+      <p id="ANOSPEG0162">Diaphoniae vocum disiunctio sonat, quam nos organum vocamus, cum disiunctae ab invicem voces et concorditer dissonant et dissonanter 
+      <pb n="[56]" />concordant. Qua quidam ita utuntur, ut canenti semper quarta corda succedat. Potes etiam et cantum cum organo et organum quantum libuerit duplicare per diapason. A trito vero non deponimus organum, sive in eo sive in sequentibus finiatur hoc modo:</p>
+      <p id="ANOSPEG0163">[Anonymous, Liber specierum, 56; text: a, c, d, e, f, C, D, E, F, G, Miserere mei Deus]</p>
+      <p id="ANOSPEG0164">
+      <pb n="[57]" />[Anonymous, Liber specierum, 57; text: A, B, C, D, E, F, G, a, Tu Patris sempiternus es filius]</p>
+      <p id="ANOSPEG0165">[De distinctionibus]</p>
+      <p id="ANOSPEG0166">Distinctiones vero proti sunt de proto in protum et in tritum sub proto, id est de lichanos hypaton in mese, et in parhypate hypaton, quae est sub lichanos hypaton. Distinctiones plagae proti sunt de proto in tritum et in protum sub proto, id est de lichanos hypaton in parhypate meson et in proslambanomenos, quae est quarta sub lichanos hypaton. Distinctiones deuteri sunt de deutero in tritum et in protum sub deutero, 
+      <pb n="[58]" />id est de hypate meson in trite diezeugmenon et in lichanos hypaton, quae est sub hypate meson. Distinctiones plagae deuteri sunt de deutero in protum et in tritum sub proto, id est de hypate meson in mese et in parhypate hypaton, quae est sub lichanos hypaton. Distinctiones triti sunt de trito in tritum, id est de parhypate meson in trite diezeugmenon, et aliquando in protum et in tritum, id est in lichanos hypaton et in parhypate hypaton, sed raro propter imperfectionem semitonii. Distinctiones plagae triti sunt de trito in protum et in tritum sub trito, id est de parhypate meson in mese et in parhypate hypaton, quae est quarta sub parhypate meson. Distinctiones tetrardi sunt de tetrardo in protum et in tritum sub tetrardo, id est de lichanos meson in paranete diezeugmenon et in parhypate meson, quae est sub lichanos meson. Distinctiones plagae tetrardi sunt de tetrardo in tritum et in protum sub tetrardo, id est lichanos meson in trite diezeugmenon et in lichanos hypaton, quae est quarta sub lichanos meson.</p>
+    </body>
+  </text>
+</TEI>

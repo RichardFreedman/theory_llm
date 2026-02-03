@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Musica, liber tercius</title>
+        <title type="abbrev">TDMUS3_MOBB842</title>
+        <author>Theinredus Doverensis</author>
+        <date notBefore="1100" notAfter="1199">12th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>T</resp>
+        <persName>John Snyder</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Peter M. Lefferts</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1996</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Oxford, Bodleian Library, MS Bodley 842 (S.C. 2575), ff. 21r–44v.
+</bibl>
+        <bibl type="work">
+          
+<title>Theinredus Doverensis: De legitimis ordinibus pentachordorum et tetrachordorum</title>
+          
+<idno type="LML">THEINR. DOV.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">GB-Ob Bodley 842, 1-44v</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="TDMUS3_MOBB8420001">
+      <pb n="[f.21r]" />Incipit liber tercius de speciebus consonanciarum.</p>
+      <p id="TDMUS3_MOBB8420002">Consonanciarum igitur racionibus perspectis; ad species earum perspiciendas transitum faciamus. Conuenienciarum; 
+      <pb n="[f.21v]" />alia est unius interualli; ut tonus semitonium. Alia multorum; ut ditonus. semiditonus. Que autem multorum; alia est equalium ut ditonus. alia inequalium; ut semiditonus Que vero inequalium alia est simplex. alia composita. Simplex quidem est. que unum tantum habet interuallum inequaleum. ut semiditonus aut pluribus ut diatessaron. semiditonus. cum semitonio. Semiditonus namque unum tam uni habet inequale. scilicet semitonium tono. Diatessaron autem semitonium tonis Semiditonus vero cum semitonio; tonum semitonus.</p>
+      <p id="TDMUS3_MOBB8420003">[Oxford, Bodleian Library, Bodley 842, f.21v; text: b, a, g, f] 
+      <figure>
+        <graphic url="/images/TDMUS3_01GF.gif" />
+      </figure></p>
+      <p id="TDMUS3_MOBB8420004">Composita vero est. que plura habet inequalia pluribus. ut diapente cum semiditono. diapason. utrumque enim plures habet tonos et semitonia. Est autem alia. ex equalibus composita. ut bis diatessaron. bis diapason. Alia ex inequalibus. ut diapason bis diapason. Bis namque diatessaron ex diatessaron et diatessaron; et bis diapason [secundum equalem constitucionem in marg.] ex diapason et diapason constituntur Diapason vero ex diapente et diatessaron. et bis diapason [secundum inequalem. in marg.]. ex diapente et diatessaron.</p>
+      <p id="TDMUS3_MOBB8420005">Que conueneniencie diuidantur in species et que non diuidantur capitulum secundum</p>
+      <p id="TDMUS3_MOBB8420006">Quarum alie diuiduntur in species. alie non diuiduntur. he quidem diuiduntur que inequalium interuallorum sunt. Que vero unius tam sunt. aut equalium non diuiduntur Species cuiuslibet conueniencie sunt; conueniencia ipsa diuersificata a se secundum generalem diuisionem. Earum que diuersitas est specierum simplicium quidem uni vel pluribus inequalis interualli 
+      <pb n="[f.22r]" />diuersa locacio. Compositarum vero ex inequalibus quidem principaliter componencium secundum locum mutacio Earum autem que ex equalibus componuntur quoniam principaliter componencia obequalitatem sui mutacionem locorum non variant. non in principaliter componentibus. set in primis in diuisione in equalibus habetur diueritas Ut si ex simplicibus est composicio; in uni vel pluribus inequalis interualli diuersa locacione Si vero ex compositis. in primorum in diuisione inequalium secundum locum mutacione. Principaliter componentibus semper eodem ordine iteratis secundum sue componencie numerum. ut si bis diatessaron ex diatessaron et diatessaron constituitur sola semitonij specierum unius diatessaron diuersa locacione species quidem eius diuersificantur eodem vero ordinis iteratis perficiuntur. Si autem bis diapason ex diapason et diapason constitui consideratur sola diapente et diatessaron specierum unius diapason secundum locum mutacione species quidem eius diuersificantur eodem vero iteratis; perficiuntur. Si enim in discrete composueris ut bine diapente binas diatessaron. eedentote easdentotas precedant vel subsequantur. dum consideres conueniencie quantitatem non composicionis equalitatem ipsam perire equalitatem neccesse est. Si autem ut prius diapente bine binas precedant diatessaron. deinde bine diatessaron. binas diapente destruitur. simplicitas ordinis Qua destructa confunditur ordo. Hec autem in tabulis specierum ordinandarum patebunt.</p>
+      <p id="TDMUS3_MOBB8420007">Qualiter species sunt ordinande.</p>
+      <p id="TDMUS3_MOBB8420008">Ordo quippe specierum est; simplicium quidem. uni vel pluribus inequale interuallum toto loco speciei positum. quota species ipsa est 
+      <pb n="[f.22v]" />in ordine. Compositarum vero; principaliter componentes conueniencie. eedentote easdentotas alternatim societatemque sesemodo precedentes. modo interposite. Si tanta est composicio. Cum vero species aliquando in societate alij superhabundauerit adiungenda est ei minoris societatis. sue condiuidentis species; ea quam simplicitas ordinis patitur. uno semper interuallo sequentis vel precedentis. hinc quidem subtracto; hinc vero adiecto. quemadmodum videbis in tabulis ordinum. Sociatatim aliam precedere dico aliam vel subsequi; cum omnes species alius quotquot possunt alius precedunt vel subsequitur. salua simplicitate ordinis. ut prima; primam. secunda; secundam. tercia; terciam Simplicitas ordinis est; equalitas communum interuallorum in ordine. Confuso autem ordine perit eius consummacio. Est namque ordinis consummacio; ordinata specierum progressio; donec ultima concordi simplicitate precedat primam. secundum eandem ordinacionem. Pereunte autem consummacione incertus est numerus specierum. Quoniam autem omnis conueniencia certum numerum habet specierum simplicitatem ordinis esse seruandam dubium non est.</p>
+      <p id="TDMUS3_MOBB8420009">Unde specierum diuersitas et numerus.</p>
+      <p id="TDMUS3_MOBB8420010">Nec quia conueniencia unde constitui consideretur eiusdem quantitatis est. eundum numerum habet specierum. Quoniam ex inequalitate quidem diuersitas. Ex diuersitate. vero numerus. Cessante autem inequalitate; cessat diuersitas. Cessante vero diuersitate; terminatur numerus.</p>
+      <p id="TDMUS3_MOBB8420011">De numeris specierum.</p>
+      <p id="TDMUS3_MOBB8420012">Unde cum omnis conueniencia simplex. vel composita ex inequalibus. tot habet species. quot et interualla composita ex equalibus non plures habet species quam quodlibet equalium sicut conueniencia licet ex multis tonis composita semitonio cacarens non magis diuiditur in species quam unus tonus.</p>
+      <p id="TDMUS3_MOBB8420013">
+      <pb n="[f.23r]" />[Oxford, Bodleian Library, Bodley 842, f.23r; text: :ut. re. mi. fa. sol. la. [Gamma]. A. B. C. D. E. F. G. a. b. [sqb]. c. d. e. f. g. A. B. H. C. R. S. .[lgs]. [sts]. t. tri pro de nos te a, a, x, b, c, d, e, f, r, g, h, i, k, l, m, n, o, p, .R. signat regulam. .S. vero spacium, [lgs] semitonium minus. [sts] semitonium maius. t. tonum.] 
+      <figure>
+        <graphic url="/images/TDMUS3_02GF.gif" />
+      </figure></p>
+      <p id="TDMUS3_MOBB8420014">
+      <pb n="[f.23v]" />Note sonorum.</p>
+      <p id="TDMUS3_MOBB8420015">Quoque facilius earum contempletur {contempletur} diuersitas specierum. iuxta proporciones suas soni notulis assignentur. Set quem pentachordorum [et tetrachordorum in marg.] ordinatorem in notulis distribuendis imitabor potissimum; an Gwydonem cuius auctoritas in musicis scolis apud nos maxime effulget Set cum variacione figurarum superuacua; unum octochordum sine semitonij transposicione consummauit. Preterea malens [.numero. in marg.] habundare quam deficere; inter modicum et minimum; non nouit metam ponere. Est et alius ordo moderate quidem quantitatis et plures Guydonico cantus recipiens earundem figurarum notulis equisonancias terminans. in utroque octochordo semitonij habens transposicionem. Set unam. Preterea circa illas transposiciones dichordum trichordi optinet spacium Cum enim b. cum .g. item .[sqb]. ille interposita cum a. toni sese proporcione respiciant. vel tum et .g. vicinas lineas .[sqb]. vero et .a. vicina optinent spacia. Inde si illud semitonium quod est inter .c. et .d. notulas .B. et .c. vel .d. et .e. notule ut racio expetet interponens. in acutum vel in graue vellem transponere. aut notularum loca lineas videlicet et spacia necesse foret mutare aut transposicionum obtinencias indecenter variare. In utroque enim octochordo consimilis locorum abstinencia est notule Est eciam alius ordo legitimorum quidem cantuum capacissimus trium in uno octochordo transposicionum semitonialium Guydonico similior 
+      <pb n="[f.24r]" />ordini et quamquam in locis variatus ab eo tam ut videtur natus. At namque incipiens usque ad .g. Guydonicas interuallorum distincciones cum notulis. Set non capitalibus prosequitur. Et quamuis indifferenter notulis lineas et spacia distribuens eandem tamen in distribuendis ubique obseruat alternanciam. Set nimis confuse secundum nullo respectu ordinis abecedarij semitonia transponit .a. enim et .b. notulis interponit .[y metron]. .a. notulam semitonio respicientem. Sic et notulis .d. .e. .s. notulam interponit .f. vero et .g. interponit .y. .g. notulam semitonio suspicientem. Preterea post .g. ordinem abecedarij tenens eciam circa sequentem transposicionem set solabus que inter .h. et .l. .h. et .k. notulis. .i. notula interposita. nulla idemparticate notularum equisonancias terminat. Quem si imitari vellem; difficillime equisonanciarum species per suos ordines dinoscerentur Guydonicum igitur ordinem nobis cognitissimum assumam. Superflua excidens superuacua omittens rotundarumque quadratura figurarum deficiencia supplens Sit itaque sonus .a. Illinc in acutam partem ad .b. quidem rotundam semitonium. ad .[sqb]. vero quadratam tonus. Et a .b. rotunda ad .c. tonus Et a .c. ad .d. tonus et a .d. ad .e. quidem rotundam semitonium. ad .f. vero quadratam tonus. et ab .f. rotunda ad .g. tonus. A .g. quoque ad .a. tonus.</p>
+      <p id="TDMUS3_MOBB8420016">Species conuenienciarum.</p>
+      <p id="TDMUS3_MOBB8420017">Semiditonus igitur duas species habet unam que priore interuallo semitonium habet. aliam que secundo. Diatessaron autem .3. primam que 
+      <pb n="[f.24v]" />primo interuallo habet semitonium secundam que secundo terciam que tercio.</p>
+      <p id="TDMUS3_MOBB8420018">Semiditonus</p>
+      <p id="TDMUS3_MOBB8420019">[Oxford, Bodleian Library, Bodley 842, f.24v,1; text: a. b. c. g. t. s.] 
+      <figure>
+        <graphic url="/images/TDMUS3_03GF.gif" />
+      </figure></p>
+      <p id="TDMUS3_MOBB8420020">Diatessaron.</p>
+      <p id="TDMUS3_MOBB8420021">[Oxford, Bodleian Library, Bodley 842, f.24v,2; text: a. b. c. d. f. g. t. s.]</p>
+      <p id="TDMUS3_MOBB8420022">Diapente vero .4. primam. que primo interuallo habet semitonium secundam que secundo. terciam que tercio. quartam que quarto</p>
+      <p id="TDMUS3_MOBB8420023">Diapente.</p>
+      <p id="TDMUS3_MOBB8420024">[Oxford, Bodleian Library, Bodley 842, f.24v,3; text: e, f. g. a. [sqb]. d. c, b. s. t.]</p>
+      <p id="TDMUS3_MOBB8420025">Et diatessaron cum semitonio secundum quidem quod disiungitur in semiditonos; .2. duabus semiditoni specibus iteratis secundum eundem ordinem. Secundum vero quod in diatessaron. et semitonium. disiungi consideratur nullas. Quoniam diatessaron. semitonio speciebus carenti; in distinccione specierum non iungitur. Et diapente cum semitonio secundum quidem quod diuiditur in diatessaron. et semiditonum .5. primam ex prima diatessaron et prima et semiditoni. Secundam. ex secunda et .2. semitoni terciam. ex prima semiditoni et .2. diatessaron. Quartam ex tercia diatessaron et secunda semiditoni. Secundum vero quod diuiditur in diapente et semitonium non diuiditur in species. Quoniam diapente semitonium nullas habens species quas cum speciebus suis secundum locum mutet in distinccione specierum sibi commisceri non patitur.</p>
+      <p id="TDMUS3_MOBB8420026">[Oxford, Bodleian Library, Bodley 842, f.24v,4; text: f#, .g. .a. .b. .c. e .s. t.]</p>
+      <p id="TDMUS3_MOBB8420027">Bis semiditonus.</p>
+      <p id="TDMUS3_MOBB8420028">
+      <pb n="[f.25r]" />[Oxford, Bodleian Library, Bodley 842, f.25r,1; text: s. t. .i.d.i.s. .ij.d.ijs. .i.s.i.d. ijsijd. iji.d.ij.s]</p>
+      <p id="TDMUS3_MOBB8420029">Et diapente cum tono; totidem primam que primo interuallo habet semitonium. secundam que secundo. terciam que tercio. Quartam que quarto. Quintam que quinto.</p>
+      <p id="TDMUS3_MOBB8420030">Diapente cum tono.</p>
+      <p id="TDMUS3_MOBB8420031">[Oxford, Bodleian Library, Bodley 842, f.25r,2; text: t. s. f. g. a. [sqb]. b. c. d. e. i. .ij. .iji. ijij .v.]</p>
+      <p id="TDMUS3_MOBB8420032">Quia notularum ordo tetracordalis non recipit ordinem composicionis cum dissonancia sit. sit recta disposicione sine notulis. alia. secundum in ordinabili; cum notulis.</p>
+      <p id="TDMUS3_MOBB8420033">[Oxford, Bodleian Library, Bodley 842, f.25r,3; text: s. t. .i. ij. iji. .ijij. .v.]</p>
+      <p id="TDMUS3_MOBB8420034">Diapente autem cum semiditono secundum quidem quod ex diapente et semiditono componitur .6. Primam; ex prima diapente et prima semiditoni compositam. Secundam; ex secunda diapente et secunda semiditoni. Terciam ex prima semiditoni 
+      <pb n="[f.25v]" />et prima diapente. Quartam; ex secunda semiditoni et .2. diapente. Quintam; ex .3. diapente et prima semiditoni. Sextam; ex .4. diapente et .2. semiditoni. Secundum vero quod ex diatessaron et diatessaron componi consideratur .3. tam tribus speciebus diatessaron iteratis. secundum eundem ordinem.</p>
+      <p id="TDMUS3_MOBB8420035">[Oxford, Bodleian Library, Bodley 842, f.25v,1; text: s, t, .1.s.1.d. .2.s.2.d. .3.d.s.1.s. .4.d.2.s.] 
+      <figure>
+        <graphic url="/images/TDMUS3_04GF.gif" />
+      </figure></p>
+      <p id="TDMUS3_MOBB8420036">Diapente cum semiditono.</p>
+      <p id="TDMUS3_MOBB8420037">[Oxford, Bodleian Library, Bodley 842, f.25v,2; text: s. t. e, f, g, a, b, c, d]</p>
+      <p id="TDMUS3_MOBB8420038">Diapente cum semiditono. que est bis diatessaron.</p>
+      <p id="TDMUS3_MOBB8420039">Et diapente cum ditono totidem. Primam; que primo interuallo habet semitonium. Secundam; que secundo. Terciam; que tercio. Quartam; que quarto Quintam; que quinto Sextam; que sexto.</p>
+      <p id="TDMUS3_MOBB8420040">Diapente cum ditono.</p>
+      <p id="TDMUS3_MOBB8420041">[Oxford, Bodleian Library, Bodley 842, f.25v,3; text: s, t]</p>
+      <p id="TDMUS3_MOBB8420042">Diapason vero .7. Primam que constat ex prima diapente. et prima diatessaron. Secundam; ex .2. diapente. et .2. diatessaron. Terciam que ex tercia diapente. et tercia diatessaron. 
+      <pb n="[f.26r]" />Quartam; que ex prima diatessaron. et prima diapente. Quintam; que ex .2. diatessaron. et secunda diapente. Sextam; que ex .3. diatessaron. et .3. diapente. Septimam; que ex .4. diapente. et .3. diatessaron.</p>
+      <p id="TDMUS3_MOBB8420043">Diapason</p>
+      <p id="TDMUS3_MOBB8420044">[Oxford, Bodleian Library, Bodley 842, f.26r,1; text: s, t, e, f, g, a, [sqb], c, d, .[der][ddem]. .1. .2. .3. .4. .5. .6. .7.] 
+      <figure>
+        <graphic url="/images/TDMUS3_05GF.gif" />
+      </figure></p>
+      <p id="TDMUS3_MOBB8420045">At diapason cum diatessaron .10. Primam; ex prima diapente. et duabus primis diatessaron. Secundam; ex .2. diapente. et duabus secundis diatessaron Terciam ex .3. diapente. et duabus tercijs diatessaron. Quartam ex prima diatessaron. et prima diapente. et prima diatessaron. Quintam; ex secunda diatessaron. secunda diapente. et secunda diatessaron. Sextam; ex tercia diatessaron. tercia diapente. et tercia diatessaron Septimam; ex duabus primis diatessaron. et prima diapente. Octauam; ex duabus secundis diatessaron. et .2. diapente. Nonam; ex duabus tercijs diatessaron. et tercia diapente. Decimam; ex quarta diapente et duabus tercijs diatessaron.</p>
+      <p id="TDMUS3_MOBB8420046">Diapason cum diatessaron.</p>
+      <p id="TDMUS3_MOBB8420047">[Oxford, Bodleian Library, Bodley 842, f.26r,2; text: s, t .[der], [ddem], [ddup]. a, b, c, d, e, f, g, .1. .2. .3. .4. .5. .6. .7. .8. .9. .10.]</p>
+      <p id="TDMUS3_MOBB8420048">
+      <pb n="[f.26v]" />Diapason autem cum diapente .11. Secundum quidem quod ex diapason et diapente constituitur. Primam; que ex prima diapente. prima diatessaron. et prima diapente. constat. Secundam; que ex .2. diapente .2. diatessaron. et diapente. Terciam; que ex .3. diapente .3. diatessaron et .3. diapente. Quartam; que ex duabus quartis diapente. et .3. diatessaron. Quintam; que ex duabus primis diapente. et prima diatessaron. Sextam; que ex duabus secundis diapente. et .3. diatessaron. Septimam; que ex duabus tercijs diapente. et .3. diatessaron. Octauam; que est ex prima diatessaron; et duabus primis diapente. Nonam; que ex secunda diatessaron et duabus secundis diapente. Decimam; que ex tercia diatessaron. et duabus tercijs diapente. Undecimam; que ex quarta diapente. tercia diatessaron. et quarta diapente.</p>
+      <p id="TDMUS3_MOBB8420049">Secundum constitucionem ex diapente. et diatessaron.</p>
+      <p id="TDMUS3_MOBB8420050">[Oxford, Bodleian Library, Bodley 842, f.26v; text: s, t, [der][ddem]. .1. a, b, c, d, e, f, g, a, 2, 3, [ddup], 4, 5, 6, 7, 8, 9. 10, 11.] 
+      <figure>
+        <graphic url="/images/TDMUS3_06GF.gif" />
+      </figure></p>
+      <p id="TDMUS3_MOBB8420051">Idem enim ordo earundemque specierum est secundum composicionem ex diapente. et duabus diatessaron. 
+      <pb n="[f.27r]" />et ex diapason; et diatessaron. Et idem. secundum composicionem ex diatessaron. et duabus diapente. Et ex diapason et diapente Eadem namque species constituitur. ex prima diapente. et duabus primis diatessaron. et ex prima diapason et prima diatessaron. Eadem que ex prima diapente. prima diatessaron. et prima diapente. et ex prima diapason et prima diapente.</p>
+      <p id="TDMUS3_MOBB8420052">Diapason cum diapente.</p>
+      <p id="TDMUS3_MOBB8420053">Ordo posterior.</p>
+      <p id="TDMUS3_MOBB8420054">[Oxford, Bodleian Library, Bodley 842, f.27r; text: t, s, [dt], [ddem]. f, g, a, b, [sqb], c, d, e, f, 4, .2. 10, .5. .3. .11. .1. 6. 7. 8, 9.]</p>
+      <p id="TDMUS3_MOBB8420055">Secundum vero quod ex diatessaron diatessaron. et diapente cum tono constitui consideratur. Prima ex prima diapente cum tono et duabus primis diatessaron compositam. Secundam; ex secunda diapente cum tono et duabus secundis diatessaron. Terciam; ex tercia diapente cum tono et duabus tercijs diatessaron. Quartam; ex prima diatessaron. prima diapente cum tono et prima diatessaron. Quintam ex secunda diatessaron et secunda diapente cum tono et secunda diatessaron. Ordo prior.</p>
+      <p id="TDMUS3_MOBB8420056">
+      <pb n="[f.27v]" />[Oxford, Bodleian Library, Bodley 842, f.27v,1; text: s, t, .[der], [ddem], [dt] .1. .2. .3. .4. .5. .6. .7. .8. .9. .10. .11.] 
+      <figure>
+        <graphic url="/images/TDMUS3_07GF.gif" />
+      </figure></p>
+      <p id="TDMUS3_MOBB8420057">Sextam; ex tercia diatessaron et tercia diapente cum tono et tercia diatessaron. Septimam; ex duabus primis diatessaron et prima diapente cum tono Octauam: ex duabus secundis diatessaron et secunda diapente cum tono.</p>
+      <p id="TDMUS3_MOBB8420058">Bis diapason secundum inequalem constitucionem</p>
+      <p id="TDMUS3_MOBB8420059">[Oxford, Bodleian Library, Bodley 842, f.27v,2; text: s, t, [dt], [ddem], [der], e, f, g, a, b, [sqb], c, d, .1. 2. .3. 4. .5. 6. .7. .8. .9. 10. 11. 12. 13. .14.]</p>
+      <p id="TDMUS3_MOBB8420060">
+      <pb n="[f.28r]" />Nonam; ex duabus tercijs diatessaron et tercia diapente cum tono. Decimam; ex .4. diapente cum tono et duabus secundis diatessaron. Undecimam; ex quinta diapente cum tono et duabus secundis diatessaron.</p>
+      <p id="TDMUS3_MOBB8420061">Bis diapason secundum equalem constitucionem.</p>
+      <p id="TDMUS3_MOBB8420062">[Oxford, Bodleian Library, Bodley 842, f.28r,1 text: s, t, .[der][ddem]. e, f, g, a, [sqb], c, d, 1. 2. 3. 4. 5. 6. 7.] 
+      <figure>
+        <graphic url="/images/TDMUS3_08GF.gif" />
+      </figure></p>
+      <p id="TDMUS3_MOBB8420063">Et bis diapason secundum quidem quod ex diapason coniungitur. et diapason .7. speciebus diapason. iteratis. secundum eundem ordinem. Secundum vero quod ex diapente et diatessaron .14. Quarum prima constat ex prima diapente. duabus primis diatessaron. et prima diapente. Secunda; ex secunda diapente. duabus secundis diatessaron. et tercia diapente. Tercia; ex tercia diapente. duabus tercijs diatessaron. et tercia diapente.</p>
+      <p id="TDMUS3_MOBB8420064">Diapason cum diapente secundum binas iniquisonancias. scilicet .e [roe]. et .b[sqb].</p>
+      <p id="TDMUS3_MOBB8420065">[Oxford, Bodleian Library, Bodley 842, f.28r,2; text: s, t, e, f, g, a, b, [sqb], c, d, [ddem], [der]. .8. .9. 10. 11. 1. 2. 3. 4. 5. 6. 7.]</p>
+      <p id="TDMUS3_MOBB8420066">
+      <pb n="[f.28v]" />Quarta; ex duabus quartis diapente. et duabus tercijs diatessaron. Quinta; ex duabus primis diapente. et duabus primis diatessaron. Sexta; ex duabus secundis diatessaron.</p>
+      <p id="TDMUS3_MOBB8420067">Semiditonus conuersus.</p>
+      <p id="TDMUS3_MOBB8420068">[Oxford, Bodleian Library, Bodley 842, f.28v,1; text: s, t, c, b, a, g] 
+      <figure>
+        <graphic url="/images/TDMUS3_09GF.gif" />
+      </figure></p>
+      <p id="TDMUS3_MOBB8420069">diapente conuersa</p>
+      <p id="TDMUS3_MOBB8420070">[Oxford, Bodleian Library, Bodley 842, f.28v,2; text: s, t, e, d, c, b, a, g, f]</p>
+      <p id="TDMUS3_MOBB8420071">Septima; ex duabus tercijs diapente. et duabus tercijs diatessaron. Octaua; ex prima diatessaron. duabus primis diapente. et prima diatessaron. Nona; ex dupla diatessaron. duabus secundis diapente. et secunda diatessaron. Decima; ex tercia diatessaron. duabus tercijs diapente. et tercia diatessaron.</p>
+      <p id="TDMUS3_MOBB8420072">Diatessaron conuersa.</p>
+      <p id="TDMUS3_MOBB8420073">[Oxford, Bodleian Library, Bodley 842, f.28v,3; text: s, t, d, c, b, a, g, f]</p>
+      <p id="TDMUS3_MOBB8420074">Undecima; ex duabus primis diatessaron. et duabus primis diapente.</p>
+      <p id="TDMUS3_MOBB8420075">Diapason conuersa</p>
+      <p id="TDMUS3_MOBB8420076">[Oxford, Bodleian Library, Bodley 842, f.28v,4; text: s, t, c, [sqb], a, g, f, e, d, [der], [ddem]. 3. .2. .1. 7 6. .5. .4.]</p>
+      <p id="TDMUS3_MOBB8420077">Duodecima; ex duabus secundis diatessaron. et duabus secundis diapente. Tercia decima; ex duabus tercijs diatessaron. et duabus tercijs diapente Quartadecima; ex quarta diapente. duabus tercijs diatessaron. et quarta diapente.</p>
+      <p id="TDMUS3_MOBB8420078">Diapason cum diatessaron conuersa.</p>
+      <p id="TDMUS3_MOBB8420079">
+      <pb n="[f.29r]" />[Oxford, Bodleian Library, Bodley 842, f.29r; text: s, t, f, e, d, c, b, a, g, .[der][ddem]. .6. .5. .4. .3. .2. .1. 10 .9. .8. .7.]</p>
+      <p id="TDMUS3_MOBB8420080">De transposicionibus semitoniorum.</p>
+      <p id="TDMUS3_MOBB8420081">Species igitur diapason et bis diapason secundum equalem composicionem in octonis notulis nichil variantes; omni sono equisonum faciunt diapason vero cum diatessaron. et diapason cum diapente. nec non et bis diapason. secundum inequalem composicionem. in octonis notulis unam variacionem facientes; non omni sono faciunt equisonum. Omnis autem ordo simplex est; Unde ergo semitoniorum transposiciones; An ut in speciebus notulas variantibus ad similitudinem numerorum omni sibi duplos prospiciencium unicuique notule equisonam demus</p>
+      <p id="TDMUS3_MOBB8420082">
+      <pb n="[f.29v]" />Diapason cum diapente conuersa.</p>
+      <p id="TDMUS3_MOBB8420083">[Oxford, Bodleian Library, Bodley 842, f.29v,1; text: s, t, f, e, d, c, [sqb], b, a, g, .[der][ddem]. 11. 10. .9. .8. .7. .6. .5. .4. .3. .2.] 
+      <figure>
+        <graphic url="/images/TDMUS3_10GF.gif" />
+      </figure></p>
+      <p id="TDMUS3_MOBB8420084">Sicque cum inmoderata sonorum multitudine .28. notulas habente. a speciebus bis diapason sumpta in singulis octochordis singulas semitoniorum transposiciones faciamus</p>
+      <p id="TDMUS3_MOBB8420085">Diapason secundum equalem composicionem</p>
+      <p id="TDMUS3_MOBB8420086">[Oxford, Bodleian Library, Bodley 842, f.29v,2; text: s, t, f, e, d, c, [sqb], b, a, g, .[ddem][der]. .14. .13. .12. .11. .10. .9. .8. .7. .6. .5. .4. .3. .2. 1]</p>
+      <p id="TDMUS3_MOBB8420087">
+      <pb n="[f.30r]" />Cantus vero plures habentes. hac racione a consonancilium consorcio excludamus; cum omni sono equisonum sibi respiciente. non omnis numerus sibi subduplum habeat. cumque ordinem specierum diapason cum diapente in ea que ex prima diatessaron et duabus primis diapente constituitur incipientem. ut queque notularum aliam sibi equisonam habeat. sine bina notularum in octochordo una variacione perfici impossibile sit.</p>
+      <p id="TDMUS3_MOBB8420088">[Oxford, Bodleian Library, Bodley 842, f.30r; text: t, s, [sqb], b, a, g, f, e, d, c, .[ddem][der]. .8. .7. .6. .5. .4. 3. .2. .1. .11. .10. .9.] 
+      <figure>
+        <graphic url="/images/TDMUS3_11GF.gif" />
+      </figure></p>
+      <p id="TDMUS3_MOBB8420089">Species eiusdem conueniencie coequeuas esse.</p>
+      <p id="TDMUS3_MOBB8420090">Nulla enim species eiusdem conueniencie natura prior alia vel posterior est. Si enim transposiciones specifice. videlicet interuallorum [in ordinibus simplicium vel conuenienciarum in marg.] in ordinibus compositarum quomodo facte sunt in acutum. eodem rursum conuertantur in graue. eas species quas in ascensinis ordinibus simplicium vel in societatibus compositarum vidisti primas in descensinis videbis fieri postremas. sola superhabundantiua</p>
+      <p id="TDMUS3_MOBB8420091">
+      <pb n="[f.30v]" />[Oxford, Bodleian Library, Bodley 842, f.30v,1; text: diatessaron, a, b, c, d, g, f, g]</p>
+      <p id="TDMUS3_MOBB8420092">societatem mutante et aliquam parilem in lo locum vocante. Parilem speciem dico eam que constat ex utriusque vel omnibus primis vel secundis vel tercijs. Superhabundantiuam eam que post utriusque vel omnis primas vel secundas vel tercias; ex a diuersis numeris denominatis componitur. Ut illa que ex quarta diapente et tercia diatessaron constat. Illas autem contingit societatem mutare et alias in loca sua vocare que in ascensinis in prima diapente finiunt. Quoniam in descensinis quarto interuallo semitonium sumunt Ea. igitur que in ordine specierum diapason ascensino est .7. et superhabundantiua et prioris societatis. in descensino fit quarta et parilis posterioris societatis. Vocat autem inuicem</p>
+      <p id="TDMUS3_MOBB8420093">[Oxford, Bodleian Library, Bodley 842, f.30v,2; text: Diapente. a, b, c, d, e, g, f, e]</p>
+      <p id="TDMUS3_MOBB8420094">
+      <pb n="[f.31r]" />suam eam que in priori fuit quarta et parilis et posterioris societatis. et sit superhabundantiua et septima et prioris societatis. Sic et in ordine specierum diapason cum diatessaron. ea que fuit .10. superhabundantiua et prime societatis. fit septima parilis et societatis tercie. Vocat quoque eam inuicem suam que fuit septima parilis et societatis tercie et fit .10. superhabundantiua et societatis prime.</p>
+      <p id="TDMUS3_MOBB8420095">[Oxford, Bodleian Library, Bodley 842, f.31r,1; text: septima, quarta, decima] 
+      <figure>
+        <graphic url="/images/TDMUS3_12GF.gif" />
+      </figure></p>
+      <p id="TDMUS3_MOBB8420096">In ordine autem specierum diapason cum diapente. ea que fuit prima fit in ordine conuerso undecima superhabundantiua. quidem set prime societatis. Vocat autem in locum suum eam que fuit undecima superhabundantiua et prime societatis.</p>
+      <p id="TDMUS3_MOBB8420097">[Oxford, Bodleian Library, Bodley 842, f.31r,2; text: prima, undecima]</p>
+      <p id="TDMUS3_MOBB8420098">Item octaua que parilis fuit et tercie societatis fit quarta superhabundantiua et secunde societatis Vocat autem quartam inuicem suam que fuit superhabundantiua et secunde societatis</p>
+      <p id="TDMUS3_MOBB8420099">[Oxford, Bodleian Library, Bodley 842, f.31r,3; text: diapason, [roe], e, f, g, a, b, [sqb], c, d]</p>
+      <p id="TDMUS3_MOBB8420100">
+      <pb n="[f.31v]" />et fit octaua parilis et tercie societatis.</p>
+      <p id="TDMUS3_MOBB8420101">[Oxford, Bodleian Library, Bodley 842, f.31v,1; text: quarta, octaua, Diapason cum diatessaron, a, b, [sqb], c, d, [roe], e, f, g] 
+      <figure>
+        <graphic url="/images/TDMUS3_13GF.gif" />
+      </figure></p>
+      <p id="TDMUS3_MOBB8420102">In ordine quoque bis diapason. ea que fuit prima in conuerso fit quarta decima superhabundantiua et prime societatis. Vocat autem in locum suum eam que fuit quarta decima superhabundantiua et prime societatis.</p>
+      <p id="TDMUS3_MOBB8420103">[Oxford, Bodleian Library, Bodley 842, f.31v,2; text: 1, 14]</p>
+      <p id="TDMUS3_MOBB8420104">Ea eciam que fuit undecima parilis et quarte societatis; fit 4 superhabundantiua et secunde societatis. Vocat autem in locum suum eam que fuit quarta superhabundantiua et .2. societatis et fit undecima parilis [et quarte societatis. infra lin.]</p>
+      <p id="TDMUS3_MOBB8420105">[Oxford, Bodleian Library, Bodley 842, f.31v,3; text: 11, 4]</p>
+      <p id="TDMUS3_MOBB8420106">
+      <pb n="[f.32r]" />[Oxford, Bodleian Library, Bodley 842, f.32r; text: Diapason cum diapente, a, b, c, d, [roe], e, f, g] 
+      <figure>
+        <graphic url="/images/TDMUS3_14GF.gif" />
+      </figure></p>
+      <p id="TDMUS3_MOBB8420107">In ordinibus itaque specierum diapason et diapason cum diatessaron singulis habentur singule superhabundantiue quia in utriusque composicione semel est diapente. que superhabundantiuarum genitiua est. In ordinibus vero diapason cum diapente et bis diapason. singulis bine sunt superhabundantiue quia utriusque constitucio bis habet diapente.</p>
+      <p id="TDMUS3_MOBB8420108">
+      <pb n="[f.32v]" />In ordinibus autem diapason primo et conuerso commutant se inuicem septime et quarte. In ordinibus vero diapason cum diatessaron decime et septime. In ordinibus quoque diapason cum diapente. prime cum decimis et octaue cum quartis. Sic et in ordinibus bis diapason. prime cum quartis decimis et undecime cum quartis.</p>
+      <p id="TDMUS3_MOBB8420109">[Oxford, Bodleian Library, Bodley 842, f.32v; text: Bis diapason, f, g, a, b, [sqb], c, d, [roe]] 
+      <figure>
+        <graphic url="/images/TDMUS3_15GF.gif" />
+      </figure></p>
+      <p id="TDMUS3_MOBB8420110">Que vero superhabundantiue quarum societatum sint notant societatum conclusiones et patencie in tabulis 
+      <pb n="[f.33r]" />simul cum notis componencium secundum [dd]. dupla .d. erecta. et .d. dependente quarum prima [dd]iapason. secunda diapente. tercia indicat diatessaron que non solum significant conuenienciarum composicionem. Set et specificam componencium transposicionem. Cum igitur videris primum locum et ultimum in conclusum; scias ultimam speciem prime esse societatis. Quod si queris cur illam non preposuerim. ut simul esset tota societas causam esse noueris quod in primis locis semitonia erant locanda que transposicione sui prime specificencie sunt. Sicut enim simplices principaliter sui transposicione specificant ita et compositas secundario. Dicimus namque quia prima diapason constat ex prima diapente et prima diatessaron que ob hoc dicuntur prime. quia in primis locis semitonia habent. Hec in conueniencius in graue quam in acutum consonancie specificantur. asscensio quippe et descensio; pari potestate dominantur in musica. pari [numero in marg.] potencia procedunt. pari impotencia procedendo deficiunt.</p>
+      <p id="TDMUS3_MOBB8420111">Prima societas et secunda diapason cum diatessaron.</p>
+      <p id="TDMUS3_MOBB8420112">[Oxford, Bodleian Library, Bodley 842, f.33r; text: f, g, a, b, [sqb], c, d, e, .10. .1. .4. 2. 5. 3. 6.] 
+      <figure>
+        <graphic url="/images/TDMUS3_16GF.gif" />
+      </figure></p>
+      <p id="TDMUS3_MOBB8420113">
+      <pb n="[f.33v]" />Diapason</p>
+      <p id="TDMUS3_MOBB8420114">[Oxford, Bodleian Library, Bodley 842, f.33v,1; text: e, f, g, a, b, [sqb], c, d, .1. .4. .2. .5. .3. .6. .7.]</p>
+      <p id="TDMUS3_MOBB8420115">Tercia et secunda.</p>
+      <p id="TDMUS3_MOBB8420116">[Oxford, Bodleian Library, Bodley 842, f.33v,2; text: b, [sqb], c, d, e, f, g, a, .7. .4. .8. .5. .9. .6.]</p>
+      <p id="TDMUS3_MOBB8420117">Prima et tercia.</p>
+      <p id="TDMUS3_MOBB8420118">[Oxford, Bodleian Library, Bodley 842, f.33v,3; text: e, f, g, a, b, [sqb], c, d, e, 1. .7. .2. .8. .3. .9.]</p>
+      <p id="TDMUS3_MOBB8420119">Diapason cum diapente.</p>
+      <p id="TDMUS3_MOBB8420120">
+      <pb n="[f.34r]" />[Oxford, Bodleian Library, Bodley 842, f.34r,1; text: b, [sqb], c, d, e, f, g, a, .4. .1. .5. .2. .6. .3. .7.] 
+      <figure>
+        <graphic url="/images/TDMUS3_17GF.gif" />
+      </figure></p>
+      <p id="TDMUS3_MOBB8420121">Prima et tercia.</p>
+      <p id="TDMUS3_MOBB8420122">[Oxford, Bodleian Library, Bodley 842, f.34r,2; text: f, g, a, b, [sqb], c, d, e, .9. .2. .10. .3.]</p>
+      <p id="TDMUS3_MOBB8420123">Secunda et tercia.</p>
+      <p id="TDMUS3_MOBB8420124">[Oxford, Bodleian Library, Bodley 842, f.34r,3; text: a, b, [sqb], c, d, e, f, g, .5. .8. .6. .9. .7. .10.]</p>
+      <p id="TDMUS3_MOBB8420125">Omni enim sonisico tam in acutum quam in graue tendenti; defectus occurrit. Hec magis augmento vel minucioni ascencio quam descencio conuenit. Ascenditur namque cum corda. decrescit vel intensio crescit. Descenditur cum 
+      <pb n="[f.34v]" />corda augetur vel intensio minuitur. Ea quoque que ultima est. lege ordinis precedit primam. Que autem prima est. sequitur ultimam. Adunatis enim ordinacionis racione superioribus et inferioribus ordinum lateribus velut in linea circulari. cuius nulla pars natura prior alia vel posterior est. nulla interuallorum consutura parebit Idem namque interuallorum terminant .g.a. a [sqb]. b c. d.[sqd]. e e. f f. g Idem autem a.b; [sqb] c. [sqd] e. e f.</p>
+      <p id="TDMUS3_MOBB8420126">Unde transposiciones semitoniorum in ordinibus pentachordorum et tetrachordorum.</p>
+      <p id="TDMUS3_MOBB8420127">Set cum species consonanciarum recte dispositas ordinum pentachordorum et tetrachordorum primam constet esse originem. Preterquas ille faciunt distincciones. nullam extra sumamus. a coequitate sociali. transposiciones ducentes. Non enim inconsonius quartam {quartam} speciem diapason ab eodem sono producto quam primam. quintam quam secundam. sextam quam quam terciam.</p>
+      <p id="TDMUS3_MOBB8420128">De ordinibus simplicium.</p>
+      <p id="TDMUS3_MOBB8420129">Simplicibus igitur cantibus a simplicibus specierum ordinibus equisonis quidem ab equisonis. iniquisonis vero ab iniquisonis ordinum distincciones excipio Equisoni sunt specierum ordines; quorum omnis sonus.</p>
+      <p id="TDMUS3_MOBB8420130">Prima societas et tercia.</p>
+      <p id="TDMUS3_MOBB8420131">
+      <pb n="[f.35r]" />[Oxford, Bodleian Library, Bodley 842, f.35r,1; text: f, g, a, b, [sqb], c, d, e, .14. .1. .8. .2. .9. .3. 10 .4.] 
+      <figure>
+        <graphic url="/images/TDMUS3_18GF.gif" />
+      </figure></p>
+      <p id="TDMUS3_MOBB8420132">equisonum iniquisoni; quorum non omnis sibi habet equisonum. Ita et cantus; ut sunt hij. Miserere mihi domine quoniam ad te. Alleluya. Letamini. Corde patris genitus. Bethleem ciuitas.</p>
+      <p id="TDMUS3_MOBB8420133">Secunda et tercia.</p>
+      <p id="TDMUS3_MOBB8420134">[Oxford, Bodleian Library, Bodley 842, f.35r,2; text: a, b, [sqb], c, d, e, f, g, .5. .8. .6. .9. .7. .10.]</p>
+      <p id="TDMUS3_MOBB8420135">Unius transposicionis.</p>
+      <p id="TDMUS3_MOBB8420136">Societates autem sibi localiter associate bine quidem ordinum quidem specierum diapason. diapason cum diatessaron. Prima et secunda. secunda et tercia diapason vero cum diapente; prima et secunda. prima et tercia unam tam transposicionem procreauit. Unde eiusmodi cantibus quadritonio tamen carentibus ordinis distincciones deduco; ut hijs. Hodie nobis Alleluya. Rex omnipotens.</p>
+      <p id="TDMUS3_MOBB8420137">Quarta et tercia.</p>
+      <p id="TDMUS3_MOBB8420138">[Oxford, Bodleian Library, Bodley 842, f.35r,3; text: e, f, g, a, b, [sqb], c, d, .11. .8. .12. .9. .13. .10.]</p>
+      <p id="TDMUS3_MOBB8420139">
+      <pb n="[f.35v]" />[Oxford, Bodleian Library, Bodley 842, f.35v,1; text: a, b, [sqb], c, d, e, f, g, .1. .5. .2. .6. .3. .7.] 
+      <figure>
+        <graphic url="/images/TDMUS3_19GF.gif" />
+      </figure></p>
+      <p id="TDMUS3_MOBB8420140">Prima et secunda.</p>
+      <p id="TDMUS3_MOBB8420141">Bis vero diapason; prima quidem et tercia singulas in octochordis sibi equisonas transposiciones faciunt. Unde eiusmodi cantibus distincciones efficio. ut hijs; Ibo mihi. Alleluya. letabundus.</p>
+      <p id="TDMUS3_MOBB8420142">Prima et quarta.</p>
+      <p id="TDMUS3_MOBB8420143">[Oxford, Bodleian Library, Bodley 842, f.35v,2; text: e, f, g, a, [sqb], b, c, d, 1. .11. .2. .12. .3. .13.]</p>
+      <p id="TDMUS3_MOBB8420144">Duarum.</p>
+      <p id="TDMUS3_MOBB8420145">Prima vero et tercia vel communiter. omnes diapason cum diatessaron; prima et secunda. vel prima et quarta bis diapason; duas in uno octochordo varietates solo tono distantes generant. reliquis interuallis non mutatis. Unde eiusmodi cantibus ordinem distinguo ut hijs. Post passionem suam. Redime me deus Israel. Deus exaudi. Adorate deum. Immutemur. Conclusit vias meas.</p>
+      <p id="TDMUS3_MOBB8420146">Item duarum secunda et quarta.</p>
+      <p id="TDMUS3_MOBB8420147">
+      <pb n="[f.36r]" />[Oxford, Bodleian Library, Bodley 842, f.36r,1; text: e, f, g, a, b, [sqb], c, d, e, .5. .11. .6. .12. .7. .13.]</p>
+      <p id="TDMUS3_MOBB8420148">Diapason cum diapente communiter.</p>
+      <p id="TDMUS3_MOBB8420149">[Oxford, Bodleian Library, Bodley 842, f.36r,2; text: b, [sqb], c, d, e, f, g, a, .4. .11. .1. .5. .8. .2. .6. .9. .3. .7. .10.]</p>
+      <p id="TDMUS3_MOBB8420150">Secunda autem et tercia. vel communiter diapason cum diapente. secunda et tercia. vel tercia et quarta bis diapason; duas in uno octochordo varietates semitoniorum duobis tonis distantes producunt reliquis interuallis nil variatis Unde eiusmodi cantibus ordinem distinccionum compono ut hijs. Ecce radix Iesse. Vere. felicem. Priusquam te formarem. Saluum fac seruum tuum domine. Unam pecij. Propter veritatem. Cum appropinquaret dominus. Et illis qui cum unius tam variacionis 
+      <pb n="[f.36v]" />sint; absque tamen thetratonio notari nequeunt. ut hijs. Constitues eos. Epithalamia</p>
+      <p id="TDMUS3_MOBB8420151">Diapason cum diatessaron communiter.</p>
+      <p id="TDMUS3_MOBB8420152">[Oxford, Bodleian Library, Bodley 842, f.36v,1; text: f, g, a, b, [sqb], c, d, e, .10. .1. .4. .7. .2. .5. .8. 3. .6. .9.] 
+      <figure>
+        <graphic url="/images/TDMUS3_20GF.gif" />
+      </figure></p>
+      <p id="TDMUS3_MOBB8420153">Trium</p>
+      <p id="TDMUS3_MOBB8420154">Secunda vero et quarta vel communiter omnes bis diapason. duas in uno octochordo vel eciam tres transposiciones faciunt. Unde talibus cantibus distinccionem competentem perficio ut hijs. Sanctificauit Moyses Precatus est Moyses. Et sicut licet duarum in uno octochordo variacionum. iste ordo necessarius est. ut hinc scilicet</p>
+      <p id="TDMUS3_MOBB8420155">[Oxford, Bodleian Library, Bodley 842, f.36v,2; text: Collegerunt pontifices et pharisei.]</p>
+      <p id="TDMUS3_MOBB8420156">Bis diapason communiter.</p>
+      <p id="TDMUS3_MOBB8420157">
+      <pb n="[f.37r]" />[Oxford, Bodleian Library, Bodley 842, f.37r,1; text: .14. f, g, a, b, [sqb], c, d, e, .1. .5. .8. .11. .2. .6. .9. .12. .3. .7. .10. .8. .4.] 
+      <figure>
+        <graphic url="/images/TDMUS3_21GF.gif" />
+      </figure></p>
+      <p id="TDMUS3_MOBB8420158">A consummacione; vero ordinis specierum bis diapason ceteras continentis consonancias modum assumens; bis septenis interuallis ordines consummabo inicio et fine naturali carentens secundum naturam specierum lege ordinacionis sue in se conuertencium. Adunatis enim dextris. sinistrisque ordinum lateribus; omnis specie inicium et finis idem est. Idem namque interuallum ut supra dictum est; a diuersis conterminantibus notulis terminantur. Cantuum quoque eleuaciones</p>
+      <p id="TDMUS3_MOBB8420159">[Oxford, Bodleian Library, Bodley 842, f.37r,2; text: a, d, b, f, g, c]</p>
+      <p id="TDMUS3_MOBB8420160">[Oxford, Bodleian Library, Bodley 842, f.37r,3; text: a, e, b, f, c, g, d]</p>
+      <p id="TDMUS3_MOBB8420161">[Oxford, Bodleian Library, Bodley 842, f.37r,4; text: [roe], f, g, a, [sqb], c, d, s, t]</p>
+      <p id="TDMUS3_MOBB8420162">
+      <pb n="[f.37v]" />et deposiciones esse interminas; probant repeticiones diapenticorum vel diatessaronicorum diapasonicorum. cantuum Quales sunt hij. Alleluya. Iudicabunt sancti. Factum est dum tolleret Aue senior Stephane Filie Ierusalem. Corde patris.</p>
+      <p id="TDMUS3_MOBB8420163">[Oxford, Bodleian Library, Bodley 842, f.37v,1; text: s, t, a, b, [sqb], c, d, [roe], f, g] 
+      <figure>
+        <graphic url="/images/TDMUS3_22GF.gif" />
+      </figure></p>
+      <p id="TDMUS3_MOBB8420164">[Oxford, Bodleian Library, Bodley 842, f.37v,2; text: s, t, a, b, c, d, [roe], f, g]</p>
+      <p id="TDMUS3_MOBB8420165">
+      <pb n="[f.38r]" />[Oxford, Bodleian Library, Bodley 842, f.38r; text: s, t, [roe], f, g, a, [sqb], c, d] 
+      <figure>
+        <graphic url="/images/TDMUS3_23GF.gif" />
+      </figure></p>
+      <p id="TDMUS3_MOBB8420166">De locis notularum.</p>
+      <p id="TDMUS3_MOBB8420167">Sonorum que notule lineas et linearum interualla que regulas vocamus et spacia. alternatim ordinatimque et secundum interuallarem consequenciam sibi disperciant; ut si .g. lineam a. spaciam. .b[sqb]. utraque proximam obtineant lineam. Cetere quoque eandem alternacionem prosequantur.</p>
+      <p id="TDMUS3_MOBB8420168">De clauibus prefigendis.</p>
+      <p id="TDMUS3_MOBB8420169">
+      <pb n="[f.38v]" />Ad regularum autem et spaciorum noticiam; quantitatum interuallorum demonstratiuas in cantuum notacione; prefigo notulas. set illas maxime que semitoniorum loca et transposiciones eorum notant . . tamen quadrata propter condensam vicini transposicionem et quoniam rarissime reperitur necessaria; numquam apponatur. nisi quando semitonium .e. et .f. in acutum transponitur. Set neutra apposita .f. rotunda intelligatur.</p>
+      <p id="TDMUS3_MOBB8420170">De consequencijs interuallorum.</p>
+      <p id="TDMUS3_MOBB8420171">Quia vero sicut alij ordines tritonia ita et isti tetratonia producunt. qui cantuum itenera per interualla. quid vero per transposiciones semitoniorum regat; considerandum est. Quicquid igitur sub prima equisonancia. consonancia vel consonancie proximum est cum suis condiuisiuis ipsius equisonancie cumque omni consonanciarum per minima interualleriter. distinctiuis interuallari aptum est consequencie Diapason igitur termini diapente cum diatessaron ditoni cum diapente cum semitonio semiditoni cum diapente. cum tono. toni quoque et semitonij; apte et sine discordancia sese consequuntur. Quod autem ultra diapason consequencia interuallaris fieri non solet. non ex natura earum que supra sunt secundum diapason cum diatessaron. vel diapason cum diapente. vel bis diapason; set ex potestate equisonancie qua humane voci duratur contingit que eam translire facile nescit. nisi aut eam tangat. aut per illam metam transaltur moderetur. Tetrachordorum vero coniuncciones et disiuncciones; per semitoniorum transposiciones cantuum regunt itenera</p>
+      <p id="TDMUS3_MOBB8420172">De coniunccione et disiunccione tetrachordorum.</p>
+      <p id="TDMUS3_MOBB8420173">Tetrachorda coniunguntur. quando idem sonus. eiusdem speciei diatessaron finis est et inicium. Disiunguntur. quando tetrachordi et pentachordi differencia tonus interseretur; per .e. igitur et .b. tetrachorda coniungunt .f. .g. .a. disiungunt .b c. .c.d. .d e. per .e. et .[sqb]. coniungunt. .c.d.e. disiungunt .f.g. .g.a. .a [sqb]. per .e. et .b. coniungunt .b.c.d. disiungunt. 
+      <pb n="[f.39r]" />.ef. fg. ga. per .[sqb]. et .F. coniungunt .g.a.[sqb]. disiungunt .cd .de. eF. per .[sqb]. vero et [roe]. vel .b. et .F. nulla fit tetrachordorum coniunccio vel disiunccio. Unde soni illi quidem bini sibi relati per quos tetrachorda coniunguntur et disiunguntur in itineribus cantuum sese consequuntur. sine discordancia isti vero nequaquam nisi hijs qui cum precedente tetrachordorum coniunccionem et disiunccionem vel semitoniorum transposicionem facit intercedat. vel usque ad terminum qui sibi in suo contransposicio consequencialis sit transiliatur. Ut si cantus per .e. rotundam ducitur non consequenter.</p>
+      <p id="TDMUS3_MOBB8420174">[Oxford, Bodleian Library, Bodley 842, f.39r,1; text: ut, re, mi, fa, sol, la, c, d, e, f, g, a, [sqb], [roe], tonus. semitonium. semitonium minus.] 
+      <figure>
+        <graphic url="/images/TDMUS3_24GF.gif" />
+      </figure></p>
+      <p id="TDMUS3_MOBB8420175">[Oxford, Bodleian Library, Bodley 842, f.39r,2; text: ut, re, mi, fa, sol, la, c, d, e, f, g, a, b, [roe], [sqb], semitonium minus, tonus]</p>
+      <p id="TDMUS3_MOBB8420176">
+      <pb n="[f.39v]" />[Oxford, Bodleian Library, Bodley 842, f.39v; text: ut, re, mi, fa, sol, la, b, [sqb], [roe], semitonium minus. tonus. semitonium maius.] 
+      <figure>
+        <graphic url="/images/TDMUS3_25GF.gif" />
+      </figure></p>
+      <p id="TDMUS3_MOBB8420177">per .[sqb]. quadratam ducere nisi prius per .b. rotundam. que cum .e. rotunda tetrachordorum coniunccionem et disiunccionem facit vel per .e. quadratam. que cum eadem semitoniorum transposicionem variat ducatur. vel .[sqb]. quadrata. usque ad .c. que et .[sqb]. quadrate et .b. rotunde consequencia interuallari concordat vel ad aliam huiusmodi transiliatur. Quod patet in versu. Pro patribus. Unde eciam. Adorate deum. post terminacionem suam dissonanter recutitur.</p>
+      <p id="TDMUS3_MOBB8420178">De efficacia consideracionis disiungencium et coniungencium.</p>
+      <p id="TDMUS3_MOBB8420179">Nec te conturbet tanta ordinis cuius quam varietatum frequencia 
+      <pb n="[f.40r]" />cum quelibet species diapente vel diatessaron consonanciarum in ordine octochordali ducta donec recipiat consimilem notam inicij; quociens diapason semel transgressa semitonium incipit; tociens tonum et semitonium loca inter se a premissis variare faciat. Species enim diapente in .d. incipiens et per .e. et .[sqb]. quadratas progrediens; post duas ducciones primas quarum semitonia infra primam diapason continentur. Primo semitonium .E f. et. tonum .f g. deinde semitonium .[sqb] c. et tonum .c d. deinde semitonium F g et tonum .g a.; deinde semitonium .c d. et tonum .d e. deinde semitonium .g a. et tonum .a [sqb]. loca inuicem mutare facit Species vero diatessaron ibidem incipiens et per .e. quadratam. et .b. rotundam progrediens post duas ducciones primas quarum semitonia infra primam diapason continentur primo tonum .d e. et semitonium .e f. deinde tonum .g a. et semitonium .a b. deinde tonum .c d. et semitonium .d e. deinde tonum .f g. et semitonium .g a. deinde tonum .b c. et semitonium .c d. loca inuicem mutare facit Quarum progressiones tetrachordorum coniuncciones et disiuncciones tuentur a discordancia. unde eciam diapentici cantus et diatessaronici qui concordantissime repetiti se a se prioribus diapente vel diatessaron in omni sono distare respiciunt discordancia carent ut hij Alleluya. Iudicabunt. Factum est dum tolleret. Aue senior Stephane.</p>
+      <p id="TDMUS3_MOBB8420180">De ordinibus pentachordorum et tetrachordorum species cromatici generis et enarmonici.</p>
+      <p id="TDMUS3_MOBB8420181">Cromatice vero distinccionis et enharmonice consonanciarum species in eo 
+      <pb n="[f.40v]" />diatonice speciebus differunt. quod ubi in tetrachordo diatonice distinccionis. tonus in cromatice semitonium minus et in enarmonice diesis ponitur. Ubi vero in diatonice. semitonium minus in cromatice; trisemitonium et in enarmonice ditonus locatur In pentachordo vero; tonus diapente. et diatessaron. differencia in speciebus omni generum manet.</p>
+      <p id="TDMUS3_MOBB8420182">[Oxford, Bodleian Library, Bodley 842, f.40v,1; text: ut, re, mi, fa, sol, la, c, d, [roe], f, g, a, b, [sqb], semitonium minus, tonus. semitonium maius.] 
+      <figure>
+        <graphic url="/images/TDMUS3_26GF.gif" />
+      </figure></p>
+      <p id="TDMUS3_MOBB8420183">Diapenticorum.</p>
+      <p id="TDMUS3_MOBB8420184">[Oxford, Bodleian Library, Bodley 842, f.40v,2; text: d, e, f, g, a, b, [sqb], c]</p>
+      <p id="TDMUS3_MOBB8420185">Diatessaronicorum.</p>
+      <p id="TDMUS3_MOBB8420186">[tabula deest]</p>
+      <p id="TDMUS3_MOBB8420187">
+      <pb n="[f.41r]" />inuestigaturum. Quod quia animaduertendum esset a speciebus consonanciarum. decreui de ordinibus earum et ordinum racionibus tractare. Quod ultimum feci educens ab illis eos ordines pentachordorum et tetrachordorum quos gammas vocamus. Quoniam autem consonancie a dissonancijs erant dinoscende. raciones consonanciarum preposui. Quia vero sine noticia proporcionum musicorum sonorum racionis consonanciarum erraret noticia. De proporcionibus premisi alijs agendis. Si autem utpote diligenti inspectore per loca egens aliquanto obscurius fuerit; cum vobis facultas fuerit nouatote mihi per scripta loca dubiora. et ego ea elucidabo. Quod nunc facerem; si mihi certa fuissent. Videntur tamen mihi quedam demonstracione egere.</p>
+      <p id="TDMUS3_MOBB8420188">In magna tabula in qua consonanciarum raciones discernuntur; et ordinate sunt proporciones conuenienciarum in numeris a prima usque ad ultimam que est in diatonico genere id est a diapason usque ad semitonium maius et in primis locis numerorum. quidam numeri proxime coniuncti notant suam distanciam. Quidam non notant. Hij autem notant .1.2.3.4.a. quatuor autem et 8 non habentur nota quia superius est secundum diapason inter .1. et .2. Item intra .32. et .64. et inter .256. et .512. itidem diapason et sic est de ceteris.</p>
+      <p id="TDMUS3_MOBB8420189">Tabule rotunde; alie notant coniunccionem laterum superior et inferior que sunt plana capitibus prioribus et posterioribus in equalitate quadam ordinatis quorum priora infra sunt in circulis posteriora; extra 
+      <pb n="[f.41v]" />alie notant coniunccionem capitum priorum et posteriorum lateribus circuemitibus foris et extra. unde ille extra et intra plane sunt. Inequalitates autem capitum incluse sunt et in equalitatem conuertuntur fine prime speciei se complanante secunde cum se vertendo in circulum; ultimam notulam facit primam. et primam; ultimam. hoc exemplo. Notetur ordo specierum diapason. ponamus ultimam in primam secundum .[roe]. in .f. Ecce primam incipiet in .f. et finiet in .d. In specie secunda ponamus primam .d. in ultima. In tercia. ponamus priores .c. et .d. in posteriores. In quarta ponamus .[sqb].c.d. priores in posteriores. et sic de ceteris fiat. et sic planabitur totus ordo. ut non sit differencia inter speciem et speciem. nisi in diuersi secundum inicijs et finibus. cum unaqueque incipiat in .e. et finiat in .d.</p>
+      <p id="TDMUS3_MOBB8420190">[Oxford, Bodleian Library, Bodley 842, f.41v; text: e, f, g, a, [sqb], c, d, [roe], 1. .2. .3. .4. .5. .6. .7.] 
+      <figure>
+        <graphic url="/images/TDMUS3_27GF.gif" />
+      </figure></p>
+      <p id="TDMUS3_MOBB8420191">Huiusmodi autem coniuncciones laterum vel capitum que competenter sit. tam hinc quam illinc; notat coequeuitatem specierum. Coequeuitas autem specierum; ostendit transposiciones semitoniorum sic secundum cum prima species diapason constare possit ex utrislibet. vel ex prima diapente cum ille coequeue sint; nonne unum possunt inicium. Igitur ille simul incipientes; transposicionem 
+      <pb n="[f.42r]" />unam faciunt semitonij sic.</p>
+      <p id="TDMUS3_MOBB8420192">[Oxford, Bodleian Library, Bodley 842, f.42r; text: e, f, g, a, [sqb], c, d, [roe], b]</p>
+      <p id="TDMUS3_MOBB8420193">In tabulis directis consonanciarum compositarum distinguntur societates que sunt trinarum specierum vel ex prima diapente et prima diatessaron vel ex secunda diapente et secunda diatessaron vel ex tercia diapente vel ex tercia diatessaron vel pluraliter ex primis vel ex secundis vel ex tercijs. quarta quinque in societatem adiecta que ex diuerse numeratis constat. ut ex quarta diapente et tercia diatessaron. Cui autem societati illa ahereat. notatur per literas que composiciones distingunt [der] namque erecta notat diapente. [ddem] demissa diatessaron. [ddup]. dupla. diapason .d. simplex et erecta et transuerse in summo linee; diapente cum tono. Numeri sequentes. rectum ordinem ordinem notant quota unaquaque est in prima ordinacione. Numeri conuersi. notant quota quoque est in primis ordinibus in quibus .t. significat tonum .s. semitonium. Consideremus nunc quidem illi cantus quos gamma Guydonis non recipit cuiusmodi sint et cur eos non recipiat; hij sunt qui in uno octochordo duos semitoniorum transposiciones habent. quorum alij habent duos tonos inter duas transposiciones. ut Propter veritatem cum versu. Audi filia. Vere felicem. quorum altera transposicio est inter .e. quadratam. et .e. rotundam. altera inter .[sqb]. quadratam. et .b. rotundam. in acutam partem. Alij duo autem toni illi sunt inter .f. et .g. et .g. et .a. Alij habent unum qui est inter c. et .d. secundum cum transposicio .[roe]. et .e. est in 
+      <pb n="[f.42v]" />acutam partem ut. Adorate dominum. et. Post passionem suam. Alij habent. tres ut. Sanctificauit Moyses. et Precatus est Moyses qui sunt .E. quadrati et e. rotundi .F. quadrati et f. rotundi .[sqb]. quadrati et .b. rotundi. Alij unius tam in uno octochordo. et tamen Guydonica gamma non recipit eos. quoniam quadritonium habent continuum cum Guydonica nusquam habet plusquam tritonum. ut. Constitues eos cum versu Pro patribus Qui licet non transponat circa .[roe].e. tamen habent rotundum a quo est tonus ad .f. a quo alius ad .g. A quo tercius ad .a. a quo quartus ad .[sqb]. nisi transposicionem facit Talis est et prosa Epithalamia. Que cum semel tam transponat a Guydonica tamem gamma non recipitur. quoniam supra transposicionem .3. tonos habet continuos. quod Guydonica gamma non habet. quia in medio habet transposicionem .[sqb]. et .b. Supra quam duos tonos habet tam continuos. qui sunt. a .c; ad .d. et a .d. ad .e. In superiore vero transposicione suspicum unum tam. qui est inter .cc et dd. Itaque Constitues eos. sub sua transposicione .3. habet tonos continuos. et Epithalamia supra. Gamma vero Guydonis neutrum habet. Prosa et Rex omnipotens vel .Sancti spiritus. vel Celsa pueri; non recipitur. Quia subterior notula transposicionis que est .b. rotunda habet subduplam. scilicet. in grauiore octochordo. et supra transposicionem duos tonos. unde si in gamma Guydonis Sancti spiritus volumus incipere in .f. ut possit in ascendendo sufficere. deficit in transposicione quam haberet inter .e. et .e. que in Guydonica non est. Neque 
+      <pb n="[f.43r]" />perit equalitas. Si autem. Item si composicionem augengendo prius bine diapente precedant binas diatessaron. Deinde statim bine diatessaron binas diapente. sine interposicione earumque simplicitatem ordinis tenere debent; perit simplicitas. Hec sunt de equalibus composicionibus. Ea vero que sequutur descripcio discrete ordinacionis est. toto loco a tot. Eedemptote easdemptotas. scilicet. prime; primas. secunde secundas. tercie tercias. Modo interposite cum trine componis est consonancia. ut diapason cum diapente. vel diapason cum diatessaron. vel quadrine ut bis diapason. Unde si illud in secundo ordine transpono. que in Guydonico optinet trichordum. scilicet regulam. spacium. et regulam. tenet duas regulas et duo spacia. unde si adiciens aliam transposicionem vellem hunc mutando illam extende in .4. loca. mutarem loca aliarum notularum. vel si non mutarem indecenter alia transposicio optineret .4. loca et alia tria tam quod non deceret. Superflua; id est litterarum multitudinem nimiamque ultra bis diapason extenditur. Superuacua; variaciones figurarum. Quia vero sicut alij; quoniam tantam variacionem figurarum. et tantam transposicionum multitudinem a speciebus eduximus. quod facile in cantibus sine regula temperatiua posset inueniri discordia ut in repeticione officij. Adorate dominum. Ostendit regnum cantuum per consequencias transposicionum haberi a coniunccione a coniunccione et disiunccione tetrachordorum.</p>
+      <p id="TDMUS3_MOBB8420194">
+      <pb n="[f.43v]" />[Oxford, Bodleian Library, Bodley 842, f.43v; text: diapente intensa. diapente remissa. diatessaron remissa. diatessaron intensa. tonus. semitonium, apothome .g. .k. .n. .a. .f. .h. .d. .l. b. .m. .e. .c.] 
+      <figure>
+        <graphic url="/images/TDMUS3_28GF.gif" />
+      </figure></p>
+      <p id="TDMUS3_MOBB8420195">Sit diatessaron .a.b. oportet igitur circa .a.b. consonanciam minus semitonio ad grauiorem partem acucioremque deducere intendo igitur .B.c. diatessaron. remitto rursus diapente .c.d. erit igitur tonus .B.d. diatessaron enim consonancia a. diapente consonancia tono superatur et .c.b. spacium .a.d.c. spacio .d.k. spacio transcenditur. Rursus intendo diatessaron .d.e. remitto autem diapente e.f. tonus est igitur .d.f. set et .B.d. tonus erat. Semitonium minus est .a.f. qui subtractis duobus tonis .f.d.d.b. ab .aB. diatessaron spacio relinquitur Rursus remitto diatessaron .ag. intendo diapente .g.h. erit igitur ah. tonus set erat .a.f. semitonium. Erit igitur .fh. apothome Rursus remitto diatessaron .h.k. intendo diapente .kl. tonus igitur est .hl. Erat autem tonus .ha Semitonium minus igitur est .lB. set erat tonus .dB. erit igitur .ld. apothome. Rursus intendo diatessaron .fm. semitonium igitur est .Bm. Remitto diatessaron .lN. semitonium igitur est .ha. per consonanciam igitur 
+      <pb n="[f.44r]" />sunt sumpta circa .aB. diatessaron duo semitonia .Bm. quidem ad acutam .Na. vero ad grauem partem totimus .MN. minus est quam diapente. constat enim ex .5. semitonijs et apothome geminata. Ex duabus igitur tonis et tribus semitonijs minoribus Et quoniam duo semitonia unum tonum implere nequeunt; Set relinquitur coma .MN. spacium minus spacio diapente consonancie uno comate quod facile diligens lector intelliget.</p>
+      <p id="TDMUS3_MOBB8420196">Consonancia fistularum secundum diuersam proporcionem.</p>
+      <p id="TDMUS3_MOBB8420197">Si fistule equalis grossitudinis fuerint et maior minorem in sua longitudine bis habuerit. et insuper concauitatis eius diametrum. diapason consonanciam ad se inuicem resonabunt. Item si fistula maior fistule minoris longitudinem quater in se habeat et insuper diametri. quod in concauo est ter mensuram contineat. bis diapason resonabunt. Item si fistula maior minorem in se totam contineat et insuper longitudinis eius terciam partem necnon et terciam diametri quod in concauo est; diatessaron consonanciam resonabunt. Item si fistula maior minorem in se totam habeat. et insuper longitudinis eiusdem medietatem simile cum medietate diametri quod in concauo est; diapente consonanciam resonabunt. Item si fistula maior habeat in se totam minorem. et insuper longitudinis eius octauam partem; tonum resonabunt. Item si fistula maior habeat fistulam minorem in se totam et insuper longitudinis partem sextadecimam; hec consonancia semitonium erit. Fidicule siue fistule si equalis grossitudinis fuerint et maior 
+      <pb n="[f.44v]" />minorem bis in sua longitudine habuerit diapason ut supradictum est adinuicem consonabunt. Si ter habuerit diapason et diapente respondent. Si quater habuerit bis diapason concordiam faciunt. Si maior dimidia minoris parte superhabuerit. diapente fit consonancia. Si tercia minoris partem precelluerit. diatessaron erit Si octaua minoris parte supergreditur tono concordant.</p>
+      <p id="TDMUS3_MOBB8420198">[Qui socios speruit summum cum se fore ceruit / Pauci dampna plangunt ipsum cum tritcia tangunt man. rec.]</p>
+      <p id="TDMUS3_MOBB8420199">[explicit informacio juuenum man. alt.]</p>
+    </body>
+  </text>
+</TEI>

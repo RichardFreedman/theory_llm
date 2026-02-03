@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Tractatus de notis et pausis</title>
+        <title type="abbrev">TINTRAN</title>
+        <author>Tinctoris, Johannes</author>
+        <date notBefore="1400" notAfter="1499">15th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Stephen E. Hayes</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Peter M. Lefferts</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Luminita Florea Aluas</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1992</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>Scriptorum de musica medii aevi nova series a Gerbertina altera</emph>, 4 vols., ed. Edmond de Coussemaker (Paris: Durand, 1864-76; reprint ed., Hildesheim: Olms, 1963), 4:41–46.
+</bibl>
+        <bibl type="work">
+          
+<title>Iohannes Tinctoris: Tractatus de notis et pausis</title>
+          
+<idno type="LML">IOH. TINCT. not.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">B-Br II 4147, 28-31v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Gu 70 (71), 161-168v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">E-VAu 835, 43v-47v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Bu 2573, 47-52</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="TINTRAN0001">
+      <pb n="[41]" />Tractatus de notis et pausis editus a Magistro Johanne Tinctoris, in legibus licentiato Regisque Siciliae Capellano.</p>
+      <p id="TINTRAN0002">Prologus.</p>
+      <p id="TINTRAN0003">Egregio viro domino Martino Hanard canonico Cameracensi ac apostolico cantori Johannes Tinctoris inter cantores Regis Siciliae minimus, immortalem benevolentiam. Considerans (celeberrime cantorum) quod necessarium sit opera artificiose canendi daturo, notas et pausas cognoscere, de his tractare, non laudis aviditate, sed vera qua afficior erga musices studiosos caritate, ut brevius potero, institui. Sicut enim tuae perspicientiae sublimitas novit nominem in arte dicendi peritum evadere sine litterarum cognitione contingit, pariformiter nullus unquam recte cantabit, si notas et pausas ignoraverit. Ex litteris namque sillabae, dictiones tandem orationes conficiuntur, sic ex notis et pausis omnes cantus componuntur; et quamvis plurimi inveniantur melodiosissimi cantores notarum pausarumque prorsus expertes sicut infiniti oratores distinctissime orantes litteras tamen ignorantes, nostra traditio supervacanea ob hoc non erit censenda, quippe per eam quisquis melodiose cecinerit si id recte facere quod laudabile admodum est, intelligit secus non bene cantabit. Nam ut sapientes asserunt, nemo bene facit quod non intelligit.</p>
+      <p id="TINTRAN0004">Liber primus.</p>
+      <p id="TINTRAN0005">Capitulum primum.</p>
+      <p id="TINTRAN0006">De notae diffinitione notarumque divisione.</p>
+      <p id="TINTRAN0007">Primum igitur de notis, postmodum de pausis tractemus. Nota est signum vocis certi vel incerti valoris. Hinc duas esse species notarum est animadvertendum, nam aliae sunt certo valore ac regulari limitate secundum quantitates quibus supponuntur, ut in libro quem de regulari valore notarum inscripsimus competenter tradidimus, et talibus in cantu figurato solum utimur; aliae pro voluntate canentium, nunc majoris nunc minoris valoris efficiuntur quarum quidem in cantu plano est usus; itaque de illis prius, demum de istis aliaqua dicamus.</p>
+      <p id="TINTRAN0008">Capitulum II.</p>
+      <p id="TINTRAN0009">De notis certi valoris.</p>
+      <p id="TINTRAN0010">Quinque notas certi valoris a nostris majoribus institutas tantum accepimus quae sicut quinque sensus a natura humanis corporibus regendis accommodati, cunctis cantibus componendis sufficiunt, et eas sub uno versu penthametro sic artificiose ordinaverunt versus:</p>
+      <p id="TINTRAN0011">Maxima, longa, brevis, semibrevis, minima.</p>
+      <p id="TINTRAN0012">Dupliciter autem quaelibet istarum notarum, minima duntaxat excepta, formatur videlicet simpliciter et composite; simpliter quando non colligantur; 
+      <pb n="[42]" />composite quando colligantur. Hinc de qualibet quae sit et qualiter simpliciter formetur videamus; postea de earum forma composita quae fit per ligaturam, disseremus.</p>
+      <p id="TINTRAN0013">Capitulum III.</p>
+      <p id="TINTRAN0014">De maxima.</p>
+      <p id="TINTRAN0015">Maxima est nota in modo majori perfecto valoris trium longarum, et in imperfecto duarum. Diciturque maxima eo quod caeterae notae et forma et valore minores sunt. Forma ejus est quadrangula, non tamen quadrata, sed habens latitudinem duarum quadratarum et caudam a parte dextra deorsum aut sursum protactam, ut hic: [MXv,MXvcsdx]</p>
+      <p id="TINTRAN0016">Capitulum IV.</p>
+      <p id="TINTRAN0017">De longa.</p>
+      <p id="TINTRAN0018">Longa est nota in modo minori perfecto valoris trium brevium et in imperfecto duarum, diciturque longa eo quod respectu brevis, a qua solum cauda differt, longa sit; forma namque ejus quadrata est ut brevis, sed caudam a parte dextra deorsum aut sursum protractam recipit, ut hic: [Lv,Lv,Bvcsdx]</p>
+      <p id="TINTRAN0019">Capitulum V.</p>
+      <p id="TINTRAN0020">De brevi.</p>
+      <p id="TINTRAN0021">Brevis est nota in tempore perfecto valoris trium semibrevium et in imperfecto duarum. Diciturque brevis eo quod respectu longae brevis sit, forma etenim ipsius quadrata est nullam penitus recipiens caudam, ut hic: [Bv,Bv,Bv]</p>
+      <p id="TINTRAN0022">Capitulum VI.</p>
+      <p id="TINTRAN0023">De semibrevi.</p>
+      <p id="TINTRAN0024">Semibrevis est nota in prolatione majori valoris trium minimarum et in imperfecto duarum. Diciturque semibrevis, quasi imperfecta brevis eo quod respectu brevis imperfecta sit. Forma namque ejus non perfecte quadrata est, quia figuratur cum quatuor angulis quorum primus a parte superiori, secundus ab inferiori, tertius a dextra, et quartus a sinistra protrahitur, ut hic: [Sv,Sv,Sv,Sv]</p>
+      <p id="TINTRAN0025">Capitulum VII.</p>
+      <p id="TINTRAN0026">De minima.</p>
+      <p id="TINTRAN0027">Minima est nota valoris individui, diciturque minima eo quod caeterae notae valore majores sunt; forma ejus, ut semibrevis, est cum cauda sursum aut deorsum directe protracta, ut hic: [Mv,Svcd]</p>
+      <p id="TINTRAN0028">Verum tamen aliquando minima tractulum a sua summitate oblique protractum recipit aut aliquo colore impletur quamvis illud in prolatione majori frequentius et solum in signum proportionis duplicis; istud autem in prolatione minori, et non solum in signum duplae, sed etiam sesquialterae fiat, quam quidem minimam tunc imperiti seminimam dicunt sed admodum errant ut in libro quem proportionale musices inscripsimus, manifeste probamus.</p>
+      <p id="TINTRAN0029">Capitulum VIII.</p>
+      <p id="TINTRAN0030">De ligaturis.</p>
+      <p id="TINTRAN0031">Quatuor autem istarum notarum videlicet, maxima, longa, brevis et semibrevis, aliter formantur per ligaturam. Et est ligatura duarum aut plurium notarum ad invicem continua junctura, omnis vero ligatura vel est ascendens vel descendens: ligatura ascendens est quando ultima duarum notarum altior est prima seu plurium penultima, ut hic: [ClefC3,O,Lig2vcssna,Lig4vcssnaaa,Lig4vcssnaodacddx on staff4]</p>
+      <p id="TINTRAN0032">Exemplum.</p>
+      <p id="TINTRAN0033">Ligatura autem descendens est quando ultima duarum notarum colligatarum inferior est prima seu plurium penultima, ut hic:</p>
+      <p id="TINTRAN0034">
+      <pb n="[43]" />[ClefC3,O,Lig2vcssnod,Lig3vcssndod,Lig3vcssnaod,Lig3vad on staff4]</p>
+      <p id="TINTRAN0035">Exemplum.</p>
+      <p id="TINTRAN0036">Praeterea omnis ligatura aut est recta aut obliqua. Ligatura recta est quando notae colligatae recte sunt protractae, ut hic patet: [ClefC3,Lig4vada,Lig3vcssnaa,Lig7vcssnaaadad on staff4]</p>
+      <p id="TINTRAN0037">Exemplum.</p>
+      <p id="TINTRAN0038">Ligatura obliqua est quando notae colligatae oblique sunt protractae, ut hic: [ClefC4,Lig2vcdsnod,Lig2vcssnoa,Lig2vcdsnod,Lig2vcssnoa,Lig2vcssnod,Lig3vcssnaod,Lv on staff4]</p>
+      <p id="TINTRAN0039">Exemplum.</p>
+      <p id="TINTRAN0040">Capitulum IX.</p>
+      <p id="TINTRAN0041">De differentia notarum in ligaturis concurrentium.</p>
+      <p id="TINTRAN0042">Ac quoniam in ligaturis hujusmodi aliquae notae sunt primae aliquae mediae, et aliquae ultimae. Ad sciendum quae sint notae in quamvis ligatura primo de primis, secunda de mediis, tertio de ultimis tractabimus.</p>
+      <p id="TINTRAN0043">Capitulum X.</p>
+      <p id="TINTRAN0044">De regulis generalibus circa primas notas, ligaturarum cognoscendas.</p>
+      <p id="TINTRAN0045">Igitur primo circa primas notas in ligaturis cognoscendas septem regulae generales assignantur.</p>
+      <p id="TINTRAN0046">De prima generali regula.</p>
+      <p id="TINTRAN0047">Prima regula generalis est quod in omni ligatura ascendente prima nota habens caudam sursum a parte sinistra protractam semibrevis est, ut hic patet: [ClefC3,C,Lig3vcssnaa,Lig3vcssnaoa,Lig2vcssna,Lig2vcssnoa,Lv on staff4]</p>
+      <p id="TINTRAN0048">Exemplum.</p>
+      <p id="TINTRAN0049">De secunda generali regula.</p>
+      <p id="TINTRAN0050">Secunda regula generalis est quod in ligatura ascendente et recta prima nota sine cauda brevis est, ut hic: [ClefC3,O,Lig3vaa,Lig2va,Lig2va,Lig4vaaoa on staff4]</p>
+      <p id="TINTRAN0051">Exemplum.</p>
+      <p id="TINTRAN0052">De tertia generali regula.</p>
+      <p id="TINTRAN0053">Tertia regula generalis est quod in ligatura ascendente et obliqua prima nota habens caudam a parte sinistra deorsum protractam brevis est, ut hic: [ClefC4,O,Lig2vcdsnoa,Lig2vcdsnoa,Lig2vcdsnoa on staff4]</p>
+      <p id="TINTRAN0054">Exemplum.</p>
+      <p id="TINTRAN0055">De quarta generali regula.</p>
+      <p id="TINTRAN0056">Quarta regula generalis est quod in ligatura ascendente et obliqua prima nota sine cauda longa est, ut hic: [ClefC3,C,Lig2voa,Lig2voa on staff4]</p>
+      <p id="TINTRAN0057">Exemplum.</p>
+      <p id="TINTRAN0058">De quinta generali regula.</p>
+      <p id="TINTRAN0059">Quinta regula generalis est quod in omni ligatura descendente, prima nota habens caudam sursum a parte sinistra protracta semibrevis est, ut hic patet: [ClefC4,Lig2vcssnod,Lig2vcssnod,Lig2vcssnd on staff4]</p>
+      <p id="TINTRAN0060">Exemplum.</p>
+      <p id="TINTRAN0061">De sexta regula generali.</p>
+      <p id="TINTRAN0062">Sexta regula generalis est quod in omni ligatura descendente, prima nota habens caudam a 
+      <pb n="[44]" />parte sinistra deorsum protractam brevis est, ut hic patet: [ClefC3,Lig2vcdsnd,Lig3vcdsndod,Lig3vcdsndd,Lig6vcdsnodaodaod on staff4]</p>
+      <p id="TINTRAN0063">Exemplum.</p>
+      <p id="TINTRAN0064">De septima regula generali.</p>
+      <p id="TINTRAN0065">Septima regula generalis est quod in omni ligatura descendente sine cauda, prima nota longa est, ut hic patet: [ClefC3,Lig2vd,Lig2vod,Lig2vd,Bv,Lig5vddoda,Lv on staff4]</p>
+      <p id="TINTRAN0066">Exemplum.</p>
+      <p id="TINTRAN0067">Capitulum XI.</p>
+      <p id="TINTRAN0068">De mediis notis ligaturarum cognoscendis.</p>
+      <p id="TINTRAN0069">Secundo quod notae mediae ligaturarum ut sunt omnes illae quae inter primam et ultimam sunt, in quibus ligaturae colligatae cognoscantur. Unica datur generalis regula, quae est, quod omnes notae mediae in omni ligatura sunt breves, nisi prima caudam habuerit sursum a parte sinistra protractam, quia tunc secunda sicut prima semibrevis est, ut hic: [ClefC3,[rob],O,Lig4vaaa,Lig3vcdsnoda,Lig3vdod,Lig4vcdsnddd,Lig4vcssnada; ClefC4,[rob],Lig3vcssnaoa,Lig6vdaaaod,Bv,Lv on staff4]</p>
+      <p id="TINTRAN0070">Exemplum.</p>
+      <p id="TINTRAN0071">Capitulum XII.</p>
+      <p id="TINTRAN0072">De regulis generalibus circa ultimas notas ligaturarum cognoscendas.</p>
+      <p id="TINTRAN0073">Tertio ad ultimas notas in ligaturis cognoscendas duae regulae generales assignantur:</p>
+      <p id="TINTRAN0074">De prima regula generali.</p>
+      <p id="TINTRAN0075">Prima regula generalis est quod in omni ligatura ascendente omnes notae ultimae breves sunt, nisi duae tantum sint colligatae, quarum prima caudam habeat a parte sinistra sursum protractam, quia tunc ultima sicut prima semibrevis est: [ClefC3,C,Lig2va,Lig3vaa,Lig4voaoaoa,Lig3vcdsnoaoa,Lig4vcssnaaa,Lig2vcssna,Lig2vcssna,Lig2vcssna,Lig2vcssnoa,Bv,Lig3vcssnaoa,Lv on staff4]</p>
+      <p id="TINTRAN0076">Exemplum.</p>
+      <p id="TINTRAN0077">De secunda regula generali.</p>
+      <p id="TINTRAN0078">Secunda regula generalis est quod in omni ligatura descendente et recta ultima nota longa est, et in obliqua brevis nisi duae notae tantum colligentur quarum prima habeat caudam a parte sinistra sursum protractam quia tunc ultima sicut prima semibrevis est, ut hic: [ClefC3,O,Lig2vd,Lig3vcssnodod,Lig2vd,Lig7vaaadaod,Lig2vcdsnd,Lig2vcssnd,Lig2vod,Lig2vcssnd,Lv on staff4]</p>
+      <p id="TINTRAN0079">Exemplum.</p>
+      <p id="TINTRAN0080">Capitulum XIII.</p>
+      <p id="TINTRAN0081">Notabile quoddam de ligatura maximae.</p>
+      <p id="TINTRAN0082">Advertendum autem est quod in omni ligatura in qua nota secundum quartam regulam generalem de primis et de ultimis longa est si ipsa in formam maximae dilatetur maxima efficitur, ut hic: [ClefF4,Lig4vMXdMXadMX,Lig2vMXdMX on staff4]</p>
+      <p id="TINTRAN0083">Exemplum.</p>
+      <p id="TINTRAN0084">Capitulum XIV.</p>
+      <p id="TINTRAN0085">Quot modis maxima ac longa aliis cum propria forma colligentur.</p>
+      <p id="TINTRAN0086">Finaliter advertendum, quod maxima cum maxima, longa, brevi et semibrevi, longaque cum maxima, longa, brevi etiam et semibrevi, dupliciter ligantur. Primo, quando una illarum super aliquam istarum directe; secundo quando a latere 
+      <pb n="[45]" />cum propria simplici forma colligando ponitur, ut hic: [ClefC4,Lig2vMXaMXrt,Lig2vaMXrt,Lig3vcssnaaMXrt,Lig2vLaMXrt,Lig2vart,Lig3vcssnaart,Lig2vMXcddxaMX,Lig2vLaMXcddx,Lig2vaMXcddx,Lig3vcssnaaMXcddx,Lig2vLaMXcddx,Lig2vacddx,Lig3vcssnaaMXcddx on staff5]</p>
+      <p id="TINTRAN0087">Exemplum.</p>
+      <p id="TINTRAN0088">Hinc si in quavis ligatura notae propriam retinent formam cum proprietate, si vero aliam recipiant, sine proprietate fieri dicitur: [ClefC4,Lig2vacddx,Lig3vcssnaaMXcddx,MXP,MXP; ClefC4,Lig2vacddx,Lig2vacddx,Lig3vcssnaa on staff4]</p>
+      <p id="TINTRAN0089">Capitulum XV.</p>
+      <p id="TINTRAN0090">De notis incerti valoris.</p>
+      <p id="TINTRAN0091">Notae vero incerti valoris sunt illae quae nullo regulari valore sunt limitatae; cujusmodi sunt quibus in plano cantu utimur quarum quidem forma interdum est similis formae longae, brevis et semibrevis, et interdum dissimilis, ita quod pedes musicarum propter earum parvitatem a plerisque nominantur, ut hic:</p>
+      <p id="TINTRAN0092">[CSIV:45; text: Gaudeamus omnes in Domino. Salve sancta parens, enixa.] 
+      <figure>
+        <graphic url="/images/TINTRAN_01GF.gif" />
+      </figure></p>
+      <p id="TINTRAN0093">Et hujusmodi notae nunc cum mensura, nunc sine mensura, nunc sub una quantitate perfecta, nunc sub alia imperfecta canuntur secundum ritum ecclesiarum aut voluntatem canentium.</p>
+      <p id="TINTRAN0094">Liber II.</p>
+      <p id="TINTRAN0095">Capitulum.</p>
+      <p id="TINTRAN0096">De pausis.</p>
+      <p id="TINTRAN0097">Nunc superest ut de pausis pro modulo ingenii dispiciamus. Pausa est taciturnitatis signum, secundum quantitatem notae cui appropriatur fiendae. Quantum igitur valet nota regulariter, tantum valet pausa ei appropriata Sunt autem quatuor notae quibus pausae sunt appropriatae, videlicet longa, brevis, semibrevis et minima. Hinc de qualibet sigillatim, quo clarius intelligantur tractandum est.</p>
+      <p id="TINTRAN0098">Capitulum II.</p>
+      <p id="TINTRAN0099">De pausa longae.</p>
+      <p id="TINTRAN0100">Pausa longae est tractus quidam quovis colore formatus in modo minori perfecto tria et in imperfecto duo occupans spatia; valet igitur hujusmodi pausa sicut et longa in modo minori perfecto tres breves et in imperfecto duas, ut hic patet: [ClefC3,O,3LP,3LP,Lv,Lig3vaa,3LP,Lig2vd,MXv on staff5]</p>
+      <p id="TINTRAN0101">Exemplum.</p>
+      <p id="TINTRAN0102">[ClefC4,C,3LP,3LP,Lv,Lig2vcdsnod,2LP,Lig2va,Lv,Lv on staff5]</p>
+      <p id="TINTRAN0103">Exemplum.</p>
+      <p id="TINTRAN0104">Capitulum III.</p>
+      <p id="TINTRAN0105">De pausa brevis.</p>
+      <p id="TINTRAN0106">Pausa brevis est tractus quidam quovis colore formatus in quolibet tempore solum occupans spacium. Valet autem hujusmodi pausa in tempore perfecto tres semibreves et in imperfecto duas, ut hic patet: [ClefC4,O,BP,Lv,Lig3vcssnaod,BP,Lig2vcssna,Sv,Sv,Bv,Lv on staff4]</p>
+      <p id="TINTRAN0107">Exemplum.</p>
+      <p id="TINTRAN0108">
+      <pb n="[46]" />[ClefC3,C,BP,Bv,Lig2vcssna,Lig2vod,BP,Bv,Lig2vcssna,Svcd,Sv,Mv,Lv on staff4]</p>
+      <p id="TINTRAN0109">Exemplum.</p>
+      <p id="TINTRAN0110">Capitulum IV.</p>
+      <p id="TINTRAN0111">De pausa semibrevis.</p>
+      <p id="TINTRAN0112">Pausa semibrevis est tractulus quidam quovis colore formatus dimidietatem spatii occupans et de linea deorsum protractus. Valet autem hujusmodi pausa in prolatione majori tres minimas et in minori duas, ut hic patet: [ClefC4,Od,Sv,Sv,Sv,MXv,SP,Sv,Mv,Mv,Sv,Bv,pt,Bvcssn,Bv,Sv,Bvcsdx on staff4]</p>
+      <p id="TINTRAN0113">Exemplum.</p>
+      <p id="TINTRAN0114">[ClefC3,C,SP,Sv,Mv,Mv,Sv,Bv,Lig2vcssna,SP,Sv,Mv,Mv,Sv,Lv on staff4]</p>
+      <p id="TINTRAN0115">Capitulum V.</p>
+      <p id="TINTRAN0116">De pausa minimae.</p>
+      <p id="TINTRAN0117">Pausa minimae est tractulus quidam quovis colore formatus dimidietatem spatii occupans et a linea sursum protractus. Valor autem hujusmodi pausae sicut et minima indivisus est eo quod ipsa sit simplex et incomposita, ut hic: [ClefC3,O,Bv,Sv,MP,Sv,Sv,Sv,Bv,MP,Sv,Mv,Mv,pt,M,Mv,Sv,Lv on staff4]</p>
+      <p id="TINTRAN0118">Exemplum.</p>
+      <p id="TINTRAN0119">Vocaturque haec pausa vulgariter suspirium quoniam suspirando aptissime mensuratur; recipit et interdum tractulum quemdam obliquum a parte dextra deorsum protractum, nec tamen aliud accipit nomen, sed commensuratur uni minimae quia cum ea proportionem duplam efficit, ut hic: [ClefC4,Od,Sv,Mv,Mv,SMP,SMv,Mv,Mv,pt,SMv,SMv,SMv,Svcd,SMP,Mv,SMv,Sv,Mv,Mv,Mv on staff5]</p>
+      <p id="TINTRAN0120">Exemplum.</p>
+      <p id="TINTRAN0121">[ClefC4,C,Sv,Mv,Mv,SMP,M,M,M,Mv,pt,M,Mv,Mv,Sv,MXv on staff4]</p>
+      <p id="TINTRAN0122">Exemplum.</p>
+      <p id="TINTRAN0123">Operis conclusio.</p>
+      <p id="TINTRAN0124">Et haec de notis et pausis dicta sufficiant quae tibi, vir praestantissime, dirigenda sensui non ut te doceam ne juxta graecum proverbium tanquam susvidear docere Minervam, sed ut monumenta studiorum meorum quod gratissimo animo, velut amicus, talem enim te sum expertus, accipias, neque munusculum hoc dubito tuae dominationi pergratum fore, quoniam videamus viros doctissimos munera parva acceptare, peritissimosque doctrina facili gaudere.</p>
+      <p id="TINTRAN0125">Finit tractatibus de notis et pausis musicalibus.</p>
+    </body>
+  </text>
+</TEI>

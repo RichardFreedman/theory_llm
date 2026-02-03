@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Fragmenta</title>
+        <title type="abbrev">CENFRA</title>
+        <author>Censorinus</author>
+        <date notBefore="200" notAfter="499">3rd-5th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Peter Slemon</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Mark Butler</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>2001</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>Censorini de die natali liber ad Q. Caerellium accedit anonymi cuiusdam epitoma disciplinarum</emph>, ed. Nicolaus Sallmann (Leipzig: B. G. Teubner, 1983), 61–86.
+</bibl>
+        <bibl type="work">
+          
+<title>Ps.-Censorini: Epitoma disciplinarum</title>
+          
+<idno type="LML">FRAGM. CENS.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">D-KNd CLXVI, 232-262v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat lat. 4929, 22-34v</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="CENFRA0001">
+      <pb n="[61]" />ANONYMI CVIVSDAM EPITOMA DISCIPLINARVM</p>
+      <p id="CENFRA0002">(Fragmentum Censorini quod aiunt)</p>
+      <p id="CENFRA0003">I. DE NATVRALI INSTITVTIONE</p>
+      <p id="CENFRA0004">Initia rerum eadem elementa et principia dicuntur. ea stoici credunt tenorem adque materiam; tenorem, qui rarescente materia a medio tendat ad summum, eadem concrescente rursus a summo referatur ad medium. Thales Milesius aquam principium omnium dixit, et alias opiniones supra rettuli. stoicorum opinio probanda, qui, cum arte conpositum opus mundi considerarent, introduxerunt naturam providam ac sapientem, quam ordo inpermutabilis ostenderet, et industria factum pronuntiaverunt. sive perpetuus sive longaevus est mundus, et in flammas abit, et vicissim ex flammis renovatur ac restituitur, durantibus tamen principiis; nec reccidere ad nihilum videri potest, quod in se deficit et in se regignitur. et constat quidem quattuor elementis, terra, aqua, igne, aere. cuius principalem solem quidam putant, ut Cleanthes, et Chrysippus aethera, cuius motu perenni subiecta tenentur et administrantur, et ipse 
+      <pb n="[62]" />quidem aether nihil patitur. aer aethera supra, infra aquam; aera supra aquam, infra terram. terra omnia ex se omnium permixtione progignit, et temperantia fovetur, intemperantia laeditur. invicem porro elementa succedere et interitu singulorum universa fieri sempiterna manifestum est.</p>
+      <p id="CENFRA0005">II. DE CAELI POSITIONE</p>
+      <p id="CENFRA0006">Caelum circulis quinque distinguitur. quorum duo extremi maxime frigidi, australis humillimus et aquilonius excelsissimus. his utrimque proximi duo paralleloe vocantur, ut ita dixerim, aeque distantes, idem tropici, idem solistitiales: alter hibernus, per quem sol transmittens octava parte capricorni solistitium hibernum facit; alter aestivus, per quem sol octava parte cancri solistitium aestivum facit. medius est aequinoctialis, qui octava parte arietis aequinoctium vernum, octava librae autumnale constituit.</p>
+      <p id="CENFRA0007">Vt circuli in caelo, ita in terra zonae vocantur. inhabitabilis infra frigidos circulos ob rigorem, quod ab his longissime sol abest, item intra medium aequinoctialem, quod sub vertice solis est. sub quo quidam habitari 
+      <pb n="[63]" />putant Gedrosiae et Aethiopiae maximam partem, item plurimas insulas maris rubri aliosque vertices eminentiasque terrarum nostris ampliores. sub tropicis habitari nihil dubium est. noster solistitialis aestivus est excelsus adque arduus. divisi a nobis circulo aequinoctiali antichthones nominantur. videntur humiles adque depressi [quibusque antipodes infra sunt], quod ut posse videatur, efficiunt flexus obliquitatesque terrarum. antichthones idem et antistoechoe et antiscioe nominantur.</p>
+      <p id="CENFRA0008">Incipit signifer non ab extremo circulo nec ad extremum pertenditur, sed ab infimo tropico australi brumalique eodem per aequinoctialem ad summum solistitialem eundemque aestivalem per medium longitudinis latitudinisque porrectus oblique. circuli signiferi partes CCCLX, signa duodecim, partium singula tricenarum, quorum quaedam minora, quaedam ampliora et [polon anaphora] dicuntur: sed conpensatio in quinque partes creditur adplicari, ut sint omnes signiferi partes CCCLXV. horum incipientia ab ariete altera sunt [masculinis femininis] masculorum 
+      <pb n="[64]" />natalibus, alia feminarum convenientia. item quartum quodque eorum aut tropicum aut solidum aut biforme. incipiet dinumeratio ab ariete, quod signum tropicum est. tropicorum duo sunt aequinoctialia, aries et libra, duo solistitialia, capricornus et cancer, tropicis proxima solida, anteposita his biformia.</p>
+      <p id="CENFRA0009">III. DE STELLIS FIXIS ET VAGANTIBVS</p>
+      <p id="CENFRA0010">Stellarum aliae cum caelo feruntur, ideoque quod non excedunt suos locos fixae nominantur, aliae contra caelum et in ortus caeli eunt, sed mundi celeritate victae occidere videntur cum eo, quamvis cursum suum peragant. sol maximum sidus aetheris medii limite ignescit, singulis diebus et noctibus peragit singulas partes, signiferum pervadit anno. luna de sole flammatur, ambit circuitu brevissimo terram triginta diebus, adeo vicina vertici terrae iunctaque, ut in umbram eius incidere soleat et videri deficere. eadem cum subiit solem et substitit radiis, facit obscurationem, quae defectio solis videtur. interim tamen cava paucioribus quam 
+      <pb n="[65]" />triginta diebus circulum suum transit. Saturni stella per maximum ambitum fertur, ideoque tricenis mensibus singulis signis resistit, per triginta annos signiferum pertransit, frigida et sterilis, infecunda terris, nascentibus non salutaris, facit adversa diuturna nec subita. Iovis stella in singulis signis anno manet, signiferum duodecim annis evadit, salutaris et temperata et universis eventibus prospera. Martis stella non eodem spatio signis singulis haeret, sed signiferum novem fere annis pervagatur, ignea intemperans et in adversis et in mortibus subita, vel ferit repentinis morbis vel ferro perimit. stellae Mercuri et Veneris solem sequuntur eademque spatia custodiunt. Mercuri stella fit similis illi quam videt, Veneris genitalis et roscida et prospera et salutaris. luna globum suum creditur habere, sed ignem a sole concipere et quantum percutitur ardescere. quantum igitur a sole descendit, augetur; cum vero contra stetit, toto feritur adverso et velut speculum non vim, sed imaginem reddit. hac universa gignentia crescente pubescunt, tenuescente tenuantur. umor etiam et spiritus omnis augescit, tumescit oceanus, deinde cum ipsius fulgore considit. diversi ergo caeli et vagantium stellarum concursu quod temperatum utrimque deteritur et infra fluit, id excipit luna et soli tradit, 
+      <pb n="[66]" />quo et animalia vigescunt et humus quodam modo animatur genitali calore, ut ita dixerim [vivo].</p>
+      <p id="CENFRA0011">Plurimum in originibus valent, quae in ortu sunt, languent in occasu. ortum facit stella, quam sol praeterit, deinde stationem matutinam, cum a quinto loco solis stetit. in eodem manet signo, donec ab eodem sole moveatur. quae contraria est soli, mane occidit, oritur simul nocte et vocatur [akronuchos], deinde rursus altero latere a quinto signo deprehensa postmeridianam stationem facit, donec ingresso sole idem signum sub radiis eius delitescat et in totum occidat.</p>
+      <p id="CENFRA0012">Aspiciunt inter se stellae ex quinto signo, quod dicitur [trigonon], et habent maximam consensionem. item a quarto, quod dicitur [tetragonon] [et centron vocatur] et in alterutrum maximum praestat effectum. item ex contrario, quod est septimum signum et [diametron] vocatur estque maxime adversum. cetera dissident vel leviter aspiciuntur, ut tertium quodque, quod dicitur [hexagonon].</p>
+      <p id="CENFRA0013">Signa tropica peregrinationibus praesunt et omnino mobilibus, et in consiliis subinde variant adque permutant. biformia geminatione rerum 
+      <pb n="[67]" />omnium repetitionem significant et interim dilationem. solida vehementer et instanter efficiunt et ad exitum vel prospera vel adversa perducunt, sicut aspiciuntur a stellis vel faventibus vel repugnantibus.</p>
+      <p id="CENFRA0014">Multum tamen refert, cuius quaeque stellae domus, aliena an ipsius sit. domus solis leo, lunae cancer, Mercuri virgo et gemini, Veneris libra et taurus, Martis scorpio et aries, Iovis sagittarius et piscis, Saturni capricornus et aquarius. nocturnis originibus favent luna Mars Venus, plus die possunt sol Saturnus Iuppiter, Mercurius varie et quomodo consensit aut visus est.</p>
+      <p id="CENFRA0015">IV. DE TERRA</p>
+      <p id="CENFRA0016">Terra media omnium rerum est, forma globosa. aquis cingitur, in aera prominet, excipit caelum. aquae omni vel aeris temperie quantum adficitur, ita quaecumque sustinet afficit et movet.</p>
+      <p id="CENFRA0017">Poterat finem liber plenus omnibus necessariis iam videri consecutus: sed cum et mundi dimensiones et plurima praeterea in universis rebus ratio geometrica inpleverit, pauca de numeris mensurisque dicemus.</p>
+      <p id="CENFRA0018">V. DE GEOMETRICA</p>
+      <p id="CENFRA0019">Geometrica est scientia digerendi figuras earumque numeros emetiendi cum suis resolutionibus. numerus est congregatio singulorum finita semper et infinita natura.</p>
+      <p id="CENFRA0020">
+      <pb n="[68]" />VI. DE FORMIS</p>
+      <p id="CENFRA0021">Nota est cuius pars nulla est, linea longitudo sine latitudine, lineae fines notae. recta linea est quae super se positis notis aequaliter posita est. summitas est quod longitudinem et latitudinem tantum habet. summitatis fines lineae sunt. plana, quae dicitur epipedos, summitas est quae super se positis rectis lineis aequaliter posita est, vel quae suis finibus aequaliter posita est. planus angulus est in planitie duarum linearum non e regione positarum adque unum signum contingentium curvatio. haec lineae quae angulum continent cum rectae sunt, is angulus rectis lineis contineri dicitur. si recta linea supra rectam lineam stans continuos angulos inter se pares facit, tum uterque ex paribus angulis rectus dicitur, et ea linea Graece [kathetos], Latine normalis dicitur. rectus angulus est modicus et sibi congruens, hebes maior recto, acutus minor recto.</p>
+      <p id="CENFRA0022">
+      <pb n="[69]" />VII. DE FIGVRIS</p>
+      <p id="CENFRA0023">Figura est quae aliquo fine aut aliquibus finibus continetur. circulus est figura plana una linea conprehensa, quae circuitus vocatur, in quem e medio omnes lineae inter se pares sunt. centron est nota circuli medii. diametron est recta linea per centron inmissa et in utramque partem secans circulum, hemicyclium circuli dimidium. euthygrammoe formae sunt quae rectis lineis continentur. trigonum trilaterum, tetragonum quod quattuor, multilaterum quod pluribus. triangulum aequilaterum quod paribus trinis lateribus, isosceles quod duo tantum latera paria habet, scalenon quod tria latera inaequalia habet, orthogonium 
+      <pb n="[70]" />quod habet rectum angulum, amblygonium quod habet [idem] angulum hebetem, oxygonium quod omnes tres acutos angulos habet. quadrilaterarum formarum quadratum est quod omnia quatttuor latera paria habet et angulos rectos, heteromeces quod angulos rectos nec latera paria habet, scutula, id est rombos, quod latera paria habet nec angulos rectos; simile scutulae, cuius contraria latera et contrarii anguli inter se pares sunt, sed neque aequilaterum neque rectis angulis est; trapezia cetera nominantur. paralleloe lineae sunt quae in eadem planitie positae numquam inter se contingunt.</p>
+      <p id="CENFRA0024">VIII. DE POSTVLATIS</p>
+      <p id="CENFRA0025">Postulata geometrarum sunt quinque: ut liceat ab omni signo ad omne signum rectam lineam ducere, et omnem finitam rectam lineam e regione 
+      <pb n="[71]" />eicere, et omni medio et intervallo circulum scribere, et omnes rectos angulos inter se pares esse, et si in lineas duas rectas recta linea inmissa interiores angulos minores duobus rectis [pares] fecerit, eiectas lineas concurrere.</p>
+      <p id="CENFRA0026">Si paribus paria adiecta fuerint, omnia paria erunt, et si paribus paria dempta. et quae isdem paria sunt, et inter se paria sunt.</p>
+      <p id="CENFRA0027">IX. DE MVSICA</p>
+      <p id="CENFRA0028">Prior est musica inventione metrica. cum sint enim antiquissimi poetarum Homerus Hesiodus Pisander, hos secuti elegiarii Callinus Mimnermus Euenus, mox Archilochus et Simonides trimetrum iambicum, tum 
+      <pb n="[72]" />chorium catalecticum tetrametron conposuerint, Archilochus etiam commata versibus adplicando variavit ea et potius per plurimas species secuit, Alcman numeros etiam minuit in carmen. hinc poetice melice. at Telesilla etiam Argiva minutiores edidit numeros. quae species cum iam displiceret et integra brevior videretur, magnitudine Pindari adserta est, qui liberos etiam numeros modis edidit. hos secuti musici Timotheus et Polyidos et Hyperides et Phyllis et clarissimus cum peritia tum eloquentia Aristoxenus. modulati protinus cantus. nec tamen [an] non putes 
+      <pb n="[73]" />antiquiores cantus esse numeris, sed rusticos et inconditos, postque hos poetica valuit veluti legitima. musica licentior magisque modulata.</p>
+      <p id="CENFRA0029">X. DE NOMINE RHYTHMI</p>
+      <p id="CENFRA0030">Rhythmus creditur dictus a Rhythmonio Orphei filio et Idomenae nymphae Ismaricae, ut tradit Nicocrates libro quem conposuit de Musio. fratrem Rhythmoni tradit Hymenem; ac Rhythmoni autem et Chloridis Tirisiae filiae filium Periclymenum [et Peridemem], qui primus cecinerit res gestas heroum musicis cantibus.</p>
+      <p id="CENFRA0031">XI. DE MVSICA</p>
+      <p id="CENFRA0032">Musica est peritia faciendorum et canendorum modorum. eius partes harmonica, organica, rhythmica, crusmatica. crusmata pulsus decori sine 
+      <pb n="[74]" />carmine vocantur; harmonia est consonantia; organica * * *; rhythmos Graece [modus dicitur Latine] nominatus [versus] ab eo, quod fluat seque ipse circumeat. modus autem est lex quaedam et ordo vocalium intervallorum et differentia, vel, ut Aristoxenus finit, non utcumque conpositum vocalium temporum intervallum. carmen est modus vocibus iunctus, cuius discrimina cantus, modus, motus. * * * tempus est syllabae spatium, huius elementum brevis syllaba. divisione [brevi] alia alogum a logio, ut utrius ratio est.</p>
+      <p id="CENFRA0033">XII. DE MODVLATIONE</p>
+      <p id="CENFRA0034">Modulatio est modorum prudens dispositio; eius tres species, [diatonos], [chroma], [harmonia]. species carminum tredecim, ex quibus primi dorius, phrygius, lydius. his accesserunt gravissimus hypodorius, mox duo 
+      <pb n="[75]" />hypophrygii, gravior et acutior, deinde hypolydii totidem et perinde gravior et acutior, deinde dorius medius, tum phrygius gravis et alter excelsus, totidem lydii, gravis et acutus, tum mixolydii pari diversitate, postremus hypermixolydius acutissimus.</p>
+      <p id="CENFRA0035">Organum quondam habuit tres intentiones, gravem, mediam et acutam. inde Musae quoque tres olim existimatae, hypate, mese, nete. nunc in ampliore numero soni considerantur, ut sit proslambanomenos, hypate hypaton, deinde parypate hypaton, deinde lichanos hypaton, deinde hypate meson, deinde parypate meson, deinde lichanos meson, mese, deinde trite synemmenon, paramese, trite diezeugmenon, nete synemmenon, paranete diezeugmenon, nete diezeugmenon, trite hyperbolaeon. * * *.</p>
+      <p id="CENFRA0036">
+      <pb n="[76]" />Animadvertisse chordae sonantis suavitatem in arcu [soro] Apollinem tradunt et intendisse protinus citharam, tum notasse quod adstrictiora fila nervorum in acumen excitarentur, gravibus responderent remissa, inde fecisse tres primos de quibus supra dictum est: hanc excepisse intentionem Lycorum, quem quidam Apollinis filium tradunt et nymphae Parnasiae, et Chrysothemidi reliquisse. ab eo adiunctum modum qui synemmenos dicitur. hunc numerum auxisse Terpandrum adiectione diezeugmenu, qui primus a gravibus in acumen avertitur. deinde Timotheus addidit duos, paramesen et hyperbolaeon.</p>
+      <p id="CENFRA0037">Initium modi dicitur diesis, dimidium semitonium, totum tonos. toni duo et dimidius diatessaron nominantur, tres et dimidius diapente, sex diapason.</p>
+      <p id="CENFRA0038">Haec musicae summa sunt.</p>
+      <p id="CENFRA0039">
+      <pb n="[77]" />XIII. DE METRIS ID EST NVMERIS</p>
+      <p id="CENFRA0040">Metra Graece, Latine numeri vocantur. numerus est aequalium pedum legitima ordinatio. huius pars integra pes. partes sunt pedum syllabae. elementa numerorum. modorum elementa spatia syllabarum ac tempora. pedes conponuntur ex syllabis minimum binis, plurimum ternis; incipiunt temporibus binis, ad sena perveniunt. bisyllabi quattuor, trisyllabi octo; plures quam duodecim esse non possunt.</p>
+      <p id="CENFRA0041">Pyrrichius ex duabus brevibus, cuius exemplum Cato; iambus ex brevi et longa, cuius exemplum salus; chorius ex longa et brevi, ut Roma; spondius ex duabus longis, cuius exemplum vates. duo igitur quantitate contrarii, spondius et pyrrichius, duorum alter, alter quattuor temporum; duo ordine, quorum uterque trinorum temporum, iambus et chorius. ita non plures quam quattuor pedes sunt nec esse possunt.</p>
+      <p id="CENFRA0042">Trinarum syllabarum primus est dactylus, qui constat ex longa et 
+      <pb n="[78]" />duabus brevibus, cuius exemplum Annibal; anapaestus contra ex duabus brevibus et longa, cuius exemplum Capaneus; amphibrachys ex brevi et longa et brevi, cuius exemplum avarus; brachysyllabus ex tribus brevibus, cuius exemplum Cicero; ei contrarius molossus ex tribus longis, cuius exemplum Maecenas. item tres quinum temporum, bacchius ex duabus longis et brevi, cuius exemplum Latona; huic ordine adversus palinbacchius ex brevi et duabus longis, ut Aquinas; creticus [et amphimacrus] ex longa et brevi et longa, ut sanitas. duos habent quantitate contrarios, brachysyllabon et molosson, quorum alter trium temporum est, alter sex; ordine tres in quaternis, tres in quinis temporibus.</p>
+      <p id="CENFRA0043">XIV. DE LEGITIMIS NVMERIS</p>
+      <p id="CENFRA0044">Primus est et legitimus maxime numerus hexameter heroicus. huius pedes aut dactyli sunt aut spondii: raro et in extremo versu reperietur trochaeus. eius exemplum:</p>
+      <p id="CENFRA0045">
+      <pb n="[79]" />Avia Pieridum peragro loca nullius ante.</p>
+      <p id="CENFRA0046">totus iste dactylicus fuit et habuit summum trochaeum. sed mixtus [ex] spondiis hic erit:</p>
+      <p id="CENFRA0047">Italiam fato profugus Laviniaque venit;</p>
+      <p id="CENFRA0048">totus ex spondiis:</p>
+      <p id="CENFRA0049">Cives Romani tunc facti sunt Campani.</p>
+      <p id="CENFRA0050">hoc genus numeri paucissimarum duodecim syllabarum, plurimarum decem et octo. tempora recipit viginti quattuor, interim viginti [tres pedibus] tribus tantum conficitur. formas excipit triginta duas, quas enumerare festinantibus longum est.</p>
+      <p id="CENFRA0051">Pentameter elegiacus habet exemplum:</p>
+      <p id="CENFRA0052">Dum meus adsiduo luceat igne focus.</p>
+      <p id="CENFRA0053">recipit dactylum, spondium, anapaestos duos, in fine versus aliquando brachysyllabum. fit syllabarum paucissimarum duodecim, plurimarum quattuordecim. tertium pedem spondium semper habet, quartum et quintum anapaestos, quintum aliquando brachysyllabum.</p>
+      <p id="CENFRA0054">Trimetros iambicus Latine senarius dicitur, cuius exemplum:</p>
+      <p id="CENFRA0055">Phaselus iste, quem videtis, hospites.</p>
+      <p id="CENFRA0056">
+      <pb n="[80]" />duodecim syllabarum est. recipit aliquando praeter ceteros iambos in extremo pyrrichion.</p>
+      <p id="CENFRA0057">Trimetros tragicus:</p>
+      <p id="CENFRA0058">Pro veste pinnis membra textis contegit,</p>
+      <p id="CENFRA0059">et:</p>
+      <p id="CENFRA0060">Aquilonis stridor gelidas molitur nives.</p>
+      <p id="CENFRA0061">recipit in parte prima gressionis spondium, et eius loco dactylon et anapaestum, et pro iambo chorium et tribrachyn. fit syllabarum paucissimarum duodecim, plurimarum septendecim. recipit tempora plurima viginti tria, paucissima decem et octo. comicus trimetros solet magis in breves minui.</p>
+      <p id="CENFRA0062">Trimetros Hipponactius pedem novissimum adsumens spondium vel chorium talis est:</p>
+      <p id="CENFRA0063">Calentibusque lympha fontibus semper.</p>
+      <p id="CENFRA0064">eosdem pedes quos reliqui trimetri praeter novissimum recipit. [et]</p>
+      <p id="CENFRA0065">Tetrametros, qui Latine quadratus vocatur, choriacus talis est:</p>
+      <p id="CENFRA0066">Tela famuli, tela propere, tela; sequitur me Thoas.</p>
+      <p id="CENFRA0067">recipit eosdem pedes, pervenit ad septem et semipedem. summum pedem patitur aut creticum aut dactylum.</p>
+      <p id="CENFRA0068">Octonarius iambus:</p>
+      <p id="CENFRA0069">
+      <pb n="[81]" />Proin demet abs te regimen Argos, dum est potestas consili.</p>
+      <p id="CENFRA0070">Septenarius:</p>
+      <p id="CENFRA0071">Haec, bellicosus cui pater, mater cluet Minerva.</p>
+      <p id="CENFRA0072">constat ex pedibus isdem.</p>
+      <p id="CENFRA0073">Ionicus septenarius:</p>
+      <p id="CENFRA0074">Ibant malaci viere Veneriam coronam.</p>
+      <p id="CENFRA0075">Ionicus a maiore:</p>
+      <p id="CENFRA0076">Ille ictus retro reccidit in natem supinus.</p>
+      <p id="CENFRA0077">habet vitium in tertia syllaba. a minore:</p>
+      <p id="CENFRA0078">Metuentis patruae verbera linguae.</p>
+      <p id="CENFRA0079">recipiunt pedes maxime pyrrichios et spondios et solent divisis syllabis longis plurium syllabarum pedes admittere.</p>
+      <p id="CENFRA0080">
+      <pb n="[82]" />Aristophanius anapaestus:</p>
+      <p id="CENFRA0081">Axena Ponti per freta Colchos denique delatus adhaesi.</p>
+      <p id="CENFRA0082">recipit pedes quaternorum temporum omnis, inplet pedes septem et semipedem.</p>
+      <p id="CENFRA0083">Anapaestus octonarius:</p>
+      <p id="CENFRA0084">Orte beato lumine, volitans qui per caelum candidus equitas.</p>
+      <p id="CENFRA0085">recipit eosdem pedes praeter semipedem.</p>
+      <p id="CENFRA0086">Aristobolius:</p>
+      <p id="CENFRA0087">Quae tam terribilis tua pectora turbat, terrifico sonitu inpulit?</p>
+      <p id="CENFRA0088">is circuitus magis quam versus est. dactylum crebrum habet, rarum spondium.</p>
+      <p id="CENFRA0089">Paeon duodenarius:</p>
+      <p id="CENFRA0090">Quis meum nominans nomen aede exciet? quis tumultu invocans incolarum fidem?</p>
+      <p id="CENFRA0091">et hic circuitus magis quam versus est. huic suberit denarius:</p>
+      <p id="CENFRA0092">*Qui repens semipulsas onere gravi fores crepitu terrent.*</p>
+      <p id="CENFRA0093">recipiunt pedes creticos, chorios, spondios, brachysyllabos, iambos, anapaestos.</p>
+      <p id="CENFRA0094">
+      <pb n="[83]" />Undecim syllabarum Phalaecius:</p>
+      <p id="CENFRA0095">Passer deliciae meae puellae.</p>
+      <p id="CENFRA0096">recipit pedes spondium, dactylum, creticum, palinbacchium.</p>
+      <p id="CENFRA0097">Angelicus numerus syllabam coartat hexametro, ut</p>
+      <p id="CENFRA0098">Hectoris Andromacha, Pyrrin conubia servas?</p>
+      <p id="CENFRA0099">Anacreontius:</p>
+      <p id="CENFRA0100">Miseri invidi [vivimus] scientes.</p>
+      <p id="CENFRA0101">recipit pyrrichium, chorium, spondium, brachysyllabum, anapaestum. primus est semper pyrrichius.</p>
+      <p id="CENFRA0102">Numerus Saturnius:</p>
+      <p id="CENFRA0103">Magnum numerum triumphat hostibus devictis.</p>
+      <p id="CENFRA0104">sunt qui hunc Aristobolion vocant. recipit pedem spondium, iambum, pyrrichium, chorium, dactylum, brachysyllabum, anapaestum.</p>
+      <p id="CENFRA0105">
+      <pb n="[84]" />Priapeus:</p>
+      <p id="CENFRA0106">Hunc lucum tibi dedico consecroque Priape.</p>
+      <p id="CENFRA0107">tertium pedem pro dactylo creticum habet, alioqui hexametros esset.</p>
+      <p id="CENFRA0108">XV. DE NVMERIS SIMPLICIBVS</p>
+      <p id="CENFRA0109">Pyrrichius:</p>
+      <p id="CENFRA0110">Rapite, agite, ruite celeripedes.</p>
+      <p id="CENFRA0111">contrarius est huic et dodecasyllabus spondiazon:</p>
+      <p id="CENFRA0112">Olli crateris ex auratis hauserunt.</p>
+      <p id="CENFRA0113">Dactylus:</p>
+      <p id="CENFRA0114">Pulverulenta putrem sonitu quatit ungula campum.</p>
+      <p id="CENFRA0115">Amphibrachys non facit numerum.</p>
+      <p id="CENFRA0116">Anapaestus:</p>
+      <p id="CENFRA0117">Agilis sonipes rapitur celeri sonitu trepidans.</p>
+      <p id="CENFRA0118">Creticus:</p>
+      <p id="CENFRA0119">Horridi transeunt ad pedes ex equis.</p>
+      <p id="CENFRA0120">Palinbacchius:</p>
+      <p id="CENFRA0121">
+      <pb n="[85]" />Amicos ad hanc rem, si voles, advoca.</p>
+      <p id="CENFRA0122">Bacchius non facit numerum.</p>
+      <p id="CENFRA0123">Molossus idem est qui spondiazon.</p>
+      <p id="CENFRA0124">Nunc quemadmodum a principali heroico plures numeri transfigurentur ostendam. ac primus trimetros sit heroicus spondiazon:</p>
+      <p id="CENFRA0125">Cives Romani tunc facti sunt Campani.</p>
+      <p id="CENFRA0126">syllabam unam, quae est ante extremam, ex longa contraho, ut sit:</p>
+      <p id="CENFRA0127">Cives Romani tunc facti sunt Apuli,</p>
+      <p id="CENFRA0128">et esse coepit trimetros.</p>
+      <p id="CENFRA0129">Heroicus, si partem priorem tantum sumo bis positam, in pentametrum elegiacum transibit:</p>
+      <p id="CENFRA0130">Bella per Emathios bella per Emathios.</p>
+      <p id="CENFRA0131">rursus a pentametro ut conponam heroicos, sumo partem posteriorem:</p>
+      <p id="CENFRA0132">Dum meus adsiduo luceat igne focus,</p>
+      <p id="CENFRA0133">et conpono:</p>
+      <p id="CENFRA0134">Luceat igne focus Troiae qui primus ab oris.</p>
+      <p id="CENFRA0135">Phalaecium numerum, qui est:</p>
+      <p id="CENFRA0136">Altis flumina vallibus tumescunt,</p>
+      <p id="CENFRA0137">
+      <pb n="[86]" />insertis verbis facio heroicum:</p>
+      <p id="CENFRA0138">Altis flumina prodita vallibus inde tumescunt.</p>
+      <p id="CENFRA0139">Ionicus est:</p>
+      <p id="CENFRA0140">Metuentis patruae verbera linguae.</p>
+      <p id="CENFRA0141">adiciam trinis verbis singulas syllabas:</p>
+      <p id="CENFRA0142">Nunc metuentis nunc patruae nunc verbera linguae.</p>
+      <p id="CENFRA0143">retro:</p>
+      <p id="CENFRA0144">Italiam fato profugus Laviniaque venit.</p>
+      <p id="CENFRA0145">cui est simile:</p>
+      <p id="CENFRA0146">Patriam tum profugus [La]vinaque cepit.</p>
+      <p id="CENFRA0147">Aristophanius fit heroico:</p>
+      <p id="CENFRA0148">Arma virumque cano Troiae qui primus ab oris:</p>
+      <p id="CENFRA0149">Nunc arma virumque cano nunc Troiae qui primus ab oris nunc.</p>
+      <p id="CENFRA0150">Angelicum syllaba breviata heroicum esse monstravi, item Priapeum, si syllabam subripias, fieri heroicum.</p>
+    </body>
+  </text>
+</TEI>

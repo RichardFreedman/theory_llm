@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>[Cantor vero vocatur]</title>
+        <title type="abbrev">ANOCNTR_MSAVI44</title>
+        <author>Anonymous</author>
+        <date notBefore="1400" notAfter="1499">15th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>T</resp>
+        <persName>Oliver B. Ellsworth</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Peter Slemon</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>2002</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Salzburg, Stiftsbibliothek St. Peter, MS a.VI.44, f. 22v.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: Tonarius Sublacensis-Mellicensis</title>
+          
+<idno type="LML">TON. Subl.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">A-KR Cod. 246a, 317-335</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">A-M Cod. 866, 126v-136</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">A-M Cod. 950, 183-188v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">A-M Cod. 1099, 99-102, 140-148</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">A-MB Man. cart. 1, 19-20</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">A-MB Man. cart. 86, 170-182</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">A-Ssp Cod. a. II. 10, 188-195v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">A-Ssp Cod. a. VI. 44, 22v, 1-14r</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">A-Ssp Cod. a. XI. 6, 5v-12r</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">A-Ssp Cod. b. I. 33, 10v-23r</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 19558, 1v-87v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 19693, 1-23v</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANOCNTR_MSAVI440001">
+      <pb n="[f.22v]" />Cantor vero vocatur qui vocem modulatur in cantu. Huius sunt duo genera: precentor et succentor. Precentor: qui vocem premittat in cantu: succentor qui subsequenter canendo respondet. Concentor autem dicitur quia consonat. Qui autem non consonat nec concinit: concentor non erit.</p>
+      <p id="ANOCNTR_MSAVI440002">[13 lineae vacuae]</p>
+      <p id="ANOCNTR_MSAVI440003">Nota quod sunt quatuor modi principales cantandi omnem cantum ex quibus octo tropi deriuantur regulatim specaliter psalmorum decantandorum. Quorum quatuor sunt qui tropi dicuntur principales. ideo quia regulant cantum quo ad ascensum suum. et est tropus primus. tercius. quintus. et septimus. De alys quatuor quilibet est plagalis sui principalis quem sequitur pro quod placet id est iniciorem reddit melodiam sui principalis scilicet secundus primi quartus tercy et cetera. quorum sedes cognosce per hec metra In dsolre primus. sunt tonus atque secundus. Tercium wlt elami quartumque sibi sociari. Ffaut est meta. quinto sextaque repleta. Finit septenum gsolreut atque supremum. Primus modus cantandi non incipit regulariter ultra .a. acutum neque infra .c. graue</p>
+    </body>
+  </text>
+</TEI>

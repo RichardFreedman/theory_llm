@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Musica mensurabilis</title>
+        <title type="abbrev">PETMUS</title>
+        <author>Petrus Picardus</author>
+        <date notBefore="1200" notAfter="1299">13th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Bradley Jon Tucker</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Albert C. Rotola</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>S.J.</persName>
+      </respStmt>
+      <date>1991</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>Scriptorum de musica medii aevi nova series a Gerbertina altera</emph>, 4 vols., ed. Edmond de Coussemaker (Paris: Durand, 1864-76; reprint ed., Hildesheim: Olms, 1963), 1:136–39.
+</bibl>
+        <bibl type="work">
+          
+<title>Petrus Picardus: Ars motettorum compilata breviter</title>
+          
+<idno type="LML">PETR. PIC.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 16663, 83rb-84vb</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Nn XVI.A.15, 1v-3</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">S-Uu C 453, 172-173v</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="PETMUS0001">
+      <pb n="[136]" />Petri Picardi</p>
+      <p id="PETMUS0002">Musica mensurabilis</p>
+      <p id="PETMUS0003">Quoniam nonnulli maxime novi auditores compendiosa brevitate letantur, quatuor tantum capitula mensurabilis musice, que quidem sunt ipsis novis auditoribus necessaria, breviter enodabo; dictaque mea arti magistri Franconis de Colonia necnon et arbori magistri Johannis de 
+      <pb n="[137]" />Burgundia, quantumcunque potero, confortabo. Primum vero capitulum erit de simplicibus figuris; secundum de ligaturis; tertium de pausationibus; quartum et ultimum fit de modis.</p>
+      <p id="PETMUS0004">Figurarum simplicium tres sunt species, que tres ramos perficiunt in Johannis arbore supradicti; longa, ut hic: [L]; brevis, ut hic: [B]; semibrevis, ut hic: [S].</p>
+      <p id="PETMUS0005">Longa quidem in tres dividitur, scilicet in longam perfectam, et in duplicem longam, sic formatam: [MX].</p>
+      <p id="PETMUS0006">Longa perfecta valet tria tempora; et hoc potest fieri multis modis: primo, si longam longa sequitur; tunc prima longa semper est perfecta, ut hic:</p>
+      <p id="PETMUS0007">Pater omnium.</p>
+      <p id="PETMUS0008">Secundo fit longa perfecta, si longa tractulus, qui signum perfectionis dicitur, immediate sequatur, ut hic apparet:</p>
+      <p id="PETMUS0009">Ja n'amerai.</p>
+      <p id="PETMUS0010">Tertio, si longam sequantur due breves, nulla brevi subsequente, ut hic:</p>
+      <p id="PETMUS0011">Maria.</p>
+      <p id="PETMUS0012">Quarto fit longa perfecta, si longam immediate tres breves sequantur, sola brevi etiam non sequente, ut hic:</p>
+      <p id="PETMUS0013">Prebeas auxilium.</p>
+      <p id="PETMUS0014">Sic patet quot modis potest fieri longa perfecta.</p>
+      <p id="PETMUS0015">Longa imperfecta duobus tantum temporibus mensuratur; et potest fieri multis modis. Primo nota; si longam sola brevis antecedit, licet ipsam longam sola brevis sequatur, vel due, vel tres, vel plures, ut hic patet:</p>
+      <p id="PETMUS0016">Gaude chorus.</p>
+      <p id="PETMUS0017">Secundo fit longa imperfecta, si longam sola brevis sequatur, ut hic:</p>
+      <p id="PETMUS0018">A ma dame.</p>
+      <p id="PETMUS0019">Sed si tres pro uno tempore posite, tres sequantur, ut hic:</p>
+      <p id="PETMUS0020">Pro nobis exorans.</p>
+      <p id="PETMUS0021">Vel due sequantur tres, ut hic:</p>
+      <p id="PETMUS0022">Et que de nulle.</p>
+      <p id="PETMUS0023">Vel etiam sequantur duas, ut hic:</p>
+      <p id="PETMUS0024">Ne una.</p>
+      <p id="PETMUS0025">tunc superponendus est tractulus qui divisionem significat intra tres et tres, vel inter tres et duas, vel inter duas et tres, ut visum est in exemplis prius dictis.</p>
+      <p id="PETMUS0026">Preterea omnes simplices figure plicari possunt, excepta semibrevi, cui repugnat plica, propter ejus figurationem. Longa plicabilis est dupliciter, ascendendo et descendendo. Ascendendo vero sic:....</p>
+      <p id="PETMUS0027">Sed descendendo sic:....</p>
+      <p id="PETMUS0028">
+      <pb n="[138]" />Item brevis dupliciter plicatur: ascendendo et descendendo. Ascendendo sic:....</p>
+      <p id="PETMUS0029">Sed descendendo sic:....</p>
+      <p id="PETMUS0030">Et in hoc apparent plice simplicium figurarum et per consequens totum capitulum earumdem. Figurarum alia est ascendens, alia descendens. Ascendens dicitur ligatura, quando secundus punctus altior est primo, ut hic: descendens vero e contrario dicitur scilicet, quando primus punctus inferior est secundo, ut hic patet:....</p>
+      <p id="PETMUS0031">Item ligaturarum tam ascendentium quam descendentium, alia cum proprietate, alia sine proprietate, alia cum opposita proprietate. His tribus differentiis differunt essentialiter ab invicem omnia principia ligaturarum, ut in magna arte magistri Franconis prius dicti latius declaratur. Sed a fine duabus tantum differentiis differunt ab invicem ligature, scilicet perfectione et imperfectione. Media vero ligaturarum nullas habent differentias essentiales, quare omnia media idem dicuntur significare, ut postea apparebit.</p>
+      <p id="PETMUS0032">Et sequuntur regule omnium ligaturarum:</p>
+      <p id="PETMUS0033">Omnis ligatura ascendens cum proprietate dicitur, si careat omni tractu, ut hic in exemplo declaratur:....</p>
+      <p id="PETMUS0034">Que si tractum habeat a primo puncto descendentem a parte sinistra, ut hic:....</p>
+      <p id="PETMUS0035">Vel dextra quod magis proprium est, ut hic:.... tunc sine proprietate dicitur.</p>
+      <p id="PETMUS0036">Item omnis ligatura descendens tractum gerens a primo puncto descendentem, cum proprietate dicitur, ut hic patet:....</p>
+      <p id="PETMUS0037">Quod si careat, sine proprietate dicetur, ut hic patet:....</p>
+      <p id="PETMUS0038">Item omnis ligatura tam ascendens, quam descendens, tractum gerens a primo puncto ascendentem, cum opposita proprietate dicitur, ut hic:....</p>
+      <p id="PETMUS0039">A parte autem finis tales dantur regule:</p>
+      <p id="PETMUS0040">Omnis ligatura, cujus ultimus punctus recte stat supra penultimum, est perfecta, ut hic:....</p>
+      <p id="PETMUS0041">Vel averso capite et cum plica, ut hic:....</p>
+      <p id="PETMUS0042">Item omnis ligatura, cujus ultimus punctus averso capite stat supra penultimum sine plica, est imperfecta, ut hic patet:....</p>
+      <p id="PETMUS0043">Similiter, omnis ligatura, cujus duo ultima puncta in uno corpore obliquo, tam ascendente, quam descendente commiscentur, ut hic:.... est imperfecta.</p>
+      <p id="PETMUS0044">Sequitur de plicis ligaturarum:</p>
+      <p id="PETMUS0045">Omnis ligatura plicabilis est dupliciter: scilicet ascendendo et descendendo. Plicatur enim ligatura perfecta, ut hic ascendendo:....</p>
+      <p id="PETMUS0046">Sed eadem descendendo, sic plicatur:....</p>
+      <p id="PETMUS0047">Similiter vero ligatura imperfecta plicari potest dupliciter: ascendendo sic:....</p>
+      <p id="PETMUS0048">Sed eadem descendendo sic plicatur:....</p>
+      <p id="PETMUS0049">Sequitur valor omnium quinque differentiarum predictarum. Omnis proprietas est brevis; omnis opposita proprietas est semibrevis; omnis perfectio, longa; omnis imperfectio, brevis. Omnis media est brevis, nisi per oppositam proprietatem per accidens semibrevietur. Et hec quinque differentie in arbore dicti Johannis subtiliter declaratur.</p>
+      <p id="PETMUS0050">Et nota in ligaturis, longa, brevis et semibrevis, quantum est de valore, subjacent regulis simplicium predictarum. Et in hoc secundum capitulum terminatur.</p>
+      <p id="PETMUS0051">Pausationum sex sunt species: prima est pausatio trium temporum; secunda duo; et tertia unius temporis; quarta duarum partium unius; quinta tertie partis unius temporis; sed potius immensurabilis appellatur. Causa inventionis ejus fuit ut ubicunque inveniretur, penultimam significaret esse longam.</p>
+      <p id="PETMUS0052">Pausa trium temporum tria spatia vel valorem trium tegit, scilicet cum duobus integris, duo semis. Pausa duorum temporum duo tegit spatia vel unum integrum, et duo semis. Pausa vero unius temporis 
+      <pb n="[139]" />unum spatium tegit, vel etiam duo semis. Pausa duarum partium unius temporis, duas partes unius spatii tantum tegit. Pausa vero tertie partis temporis, tertiam partem spatii tegit. Pausa, que immensurabilis dicitur, finis punctorum appellatur; hec enim plus quam tria spatia tegit. Et apparent forme earum in exemplo:....</p>
+      <p id="PETMUS0053">Modi, secundum magistrum Franconem, sunt quinque; licet sed secundum antiquos plures essent.</p>
+      <p id="PETMUS0054">Primus enim procedit ex duabus longis, ut hic patet:</p>
+      <p id="PETMUS0055">Bethleem.</p>
+      <p id="PETMUS0056">Vel ex longa et brevi, ut hic apparet in exemplo:</p>
+      <p id="PETMUS0057">O Maria!</p>
+      <p id="PETMUS0058">Secundus procedit ex brevi et longa, ut hic:</p>
+      <p id="PETMUS0059">Marie.</p>
+      <p id="PETMUS0060">Tertius procedit ex longa et duabus brevibus:</p>
+      <p id="PETMUS0061">Marie.</p>
+      <p id="PETMUS0062">Quartus procedit ex duabus brevibus et longa, ut hic:</p>
+      <p id="PETMUS0063">Bone sint.</p>
+      <p id="PETMUS0064">Quintus et ultimus fit ex omnibus brevibus et semibrevibus, ut hic:</p>
+      <p id="PETMUS0065">Honores.</p>
+      <p id="PETMUS0066">Hec omnia patent leviter in arbore qui sequitur:</p>
+    </body>
+  </text>
+</TEI>

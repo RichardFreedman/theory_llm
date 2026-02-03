@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Lilium musicae planae</title>
+        <title type="abbrev">KEINLIL</title>
+        <author>Keinspeck, Michael</author>
+        <date notBefore="1400" notAfter="1499">15th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Peter Slemon</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Beth Garfinkel</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>2003</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>Michael Keinspeck und sein Musiktraktat "Lilium musicae planae" Basel 1496</emph>, ed. Winfried Ammel, Marburger Beiträge zur Musikforschung, vol. 5 (Marburg: Görich und Weierhäuser, 1970), 111–29. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Michael Keinspeck: Lilium musicae planae</title>
+          
+<idno type="LML">MICH. KEINSP.</idno>
+        
+</bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="KEINLIL0001">
+      <pb n="[111]" />LILIUM MUSICAE PLANAE</p>
+      <p id="KEINLIL0002">Michealis Keinspeck musici Alexandrini</p>
+      <p id="KEINLIL0003">
+      <pb n="[112]" />/p.2/ Prologus</p>
+      <p id="KEINLIL0004">Musica ars modulativa, in qua animorum placiditas, delinimentum et solatio maxima est constituta. Huius tanta utilitas, commoditas, voluptas atque ornamentum exsistit, ut partem eius repetendo magnam voluminis occupare necesse sit. Quid enim gratius quidve acceptabilius deo cunctorum regnatori imbuere possumus? ut nostra est opinio: nihil. Delectatur enim cantico deus non solum laudari, sed etiam reconciliari, quod prophetarum carminibus lucide asseritur. Quid opus est verbis? Linguam nullam huiusce virtutes atque ornamenta exquirere satis posse arbitror.</p>
+      <p id="KEINLIL0005">Quo factum, ut per dura ac densa pericula proficisci non taedu(er)it. Profecti enim sumus et commigravimus non quod per virentia prata perque Tempe voluptuosa, o amici, immo per scabrosas saepes ac semitas diversas aspera conscendimus montium iuga, transcendimus colles, per tot hiemes, per tot imbres, per quicquid acerbum, heus, grave, horridum, omnes Alsatiae Rhenique insulas. Postremo in Frantiam pervenimus Gallicam, cui confinis Lothringia, utrorumque reges invictissimi altissimo capellas imbuere perpessi sumus. Illo viros egregios optimis ingeniis praeditos convenimus. Ibique huius prae divinae artis perfectione habitum nanciscentes et nostras lucubratiunculas succintius, evidentius exquisitiusque decrevimus. Non ut quidam aliquorum vulgarium maxime capitulorum particulas proloquemur neque infantium more, qui pauculis mutorum characterum inpressiunculis multa prendisse se putant, servabimus, sed, quanto commodius poterimus, omnium dicta et characteres arguendo, quod nobis vitio non dabitis, nostra adinventa sedulo coniugabimus ut christianismi religionis est. Eum, qui cuncta regit et moderatur, de-/p. 3/-vote atque suppliciter extensis ad caelum manibus oramus, suam in auxilium ut conferat opem, ut ea dicantur a nobis, quae illi placeant, et quatenus nos quidem omnia recte assequamur condecensque immineat operi finis.</p>
+      <p id="KEINLIL0006">Capitulum primum</p>
+      <p id="KEINLIL0007">Musica est divisio sonorum et vocum et modulatio canendi. Dicta autem a moys graece, quod latini aquam appellavere, et icos scientia, quandoquidem fertur secus decursus fontium sive fluentium esse adinventa. Nam moys graecum 
+      <pb n="[113]" />aquam latine significare nemo negat atque sine humoris beneficio nullum musices delinimentum neque affabilitatem subsistere posse palam est. Recte igitur, - ut principio dixi - musica a moys ortum capit, quasi moysica id est aquatica scientia. Isidori amici nostri sententia a musis musicam inquiens promanasse nobis non est inimica. Dicit enim derivatum, assentior sane derivatam. Nam et musae a moys nomen habent, aquarum cognomento per derivationem (itidem ut de composita grammatices) placide suborditur musica. Omittam igitur musas Euterpe, Calliope, Jovis et Memoriae, quibus musica consistit.</p>
+      <p id="KEINLIL0008">Capitulum secundum</p>
+      <p id="KEINLIL0009">Dividitur in choralem et mensuralem. Choralis vel plana est, quae uno accentu prolationeque consistit, de qua in opusculo praesenti tractatur. Mensuralis, quae vario modo variaque vocum harmonia modulatur, de qua nihil ad propositum.</p>
+      <p id="KEINLIL0010">Est namque musices natura quaedam harmonica, quae ex vocum quadam germanitate consistit. Ea musica aliud nihil est quam vox in homine, eadem utimur voce pro prima modulantes. Alia est organica, quae ex flatu temperata in vocis habitum roboratur; huic conveniunt fistulae, organa, tubae, tibiae, musae. Tertia est rhythmica, quae impulsu ritum modulationis agit; huic ascribuntur cimbalum, variae cithararum species, sistrum, timpanum.</p>
+      <p id="KEINLIL0011">/p. 4/ Capitulum Tertium</p>
+      <p id="KEINLIL0012">Ut clarius clareant dicta, scalam hic depingemus lepidam. Nam alii obscure longo usu in manu quaeritant, clare hic ad oculos obiciemus, sique etiam minus teneatis dicta, denuo percipiatis planius, ut in speculo speculemini.</p>
+      <p id="KEINLIL0013">Non enim facile dixerim, quantis virtutibus praedita sit.</p>
+      <p id="KEINLIL0014">Canon</p>
+      <p id="KEINLIL0015">Nete synemmenon</p>
+      <p id="KEINLIL0016">Paranete synemmenon</p>
+      <p id="KEINLIL0017">Trite synemmenon</p>
+      <p id="KEINLIL0018">Nete hyperbolaion</p>
+      <p id="KEINLIL0019">
+      <pb n="[114]" />Paranete hyperbolaion</p>
+      <p id="KEINLIL0020">Trite hyperbolaion</p>
+      <p id="KEINLIL0021">Nete diezeugmenon</p>
+      <p id="KEINLIL0022">Paranete diezeugmenon</p>
+      <p id="KEINLIL0023">Trite diezeugmenon</p>
+      <p id="KEINLIL0024">Paramese</p>
+      <p id="KEINLIL0025">Mese</p>
+      <p id="KEINLIL0026">Lichanos meson</p>
+      <p id="KEINLIL0027">Pahypate meson</p>
+      <p id="KEINLIL0028">Hypate meson</p>
+      <p id="KEINLIL0029">Lichanos hypaton</p>
+      <p id="KEINLIL0030">Parhypate hypaton</p>
+      <p id="KEINLIL0031">Hypate hypaton</p>
+      <p id="KEINLIL0032">Proslambanomenos</p>
+      <p id="KEINLIL0033">amma ut</p>
+      <p id="KEINLIL0034">Apud latinos</p>
+      <p id="KEINLIL0035">Scala graeca</p>
+      <p id="KEINLIL0036">Haec scala per Pythagoram tradita atque inventa est, quam venerabilis Boethius propter discordiam in latinum transfiguravit, ut Latini eo melius subtilissimam hanc scientiam acquirere valeant.</p>
+      <p id="KEINLIL0037">/p. 5/ Haec est scala vera et recta per venerabilem Boethium ex graeco in latinum tradita omnem obscurationem debite demonstrans per tonos et semitonia.</p>
+      <p id="KEINLIL0038">[Keinspeck, Lilium musicae planae, 114; text: Excellentes dicuntur, quia tonorum metam excellunt. Hosce quattuor superacutas appellamus, quippe sonum citissim et clariorem sonum exigunt. Acutae nuncupari volunt, siquidem soni vehementius percusso aere excitentur. Finales dicuntur, omnis namque tonus solito more suum terminum in his desinens. Graves dicuntur, gravem enim et asperum habent sonum. [Gamma], A, [sqb], C, D, E, F, G, a, b, c, d, e, f, g, aa, bb, cc, dd, ee, ut, re, mi, fa, sol, la] 
+      <figure>
+        <graphic url="/images/KEINLIL_01GF.gif" />
+      </figure></p>
+      <p id="KEINLIL0039">Considerandum est primam syllabam clavem vocitari reliquas voces non obstante b-fa [sqb] mi, quod licet sit tetrasyllabon, non tamen gignit ex se ternas voces sed binarum clavium gratia duas tantum contribuit voces.</p>
+      <p id="KEINLIL0040">[Gamma]-ut cum graecisset, non excedit metam, nam gamma graece, 
+      <pb n="[115]" />nos g dicimus latine; erit igitur nostraptim g-ut.</p>
+      <p id="KEINLIL0041">/p.6/ Scala divitur in vocem et clavem.</p>
+      <p id="KEINLIL0042">Vox est aer spiritu verberatus.</p>
+      <p id="KEINLIL0043">Voces musicales nostro usui aptabiles sex constat esse: ut, re, mi, fa, sol, la, quae quidem septies iteratas in scala nostra constituimus. His itaque vocibus iam dictis pleraque cantica cuiuscumque generis depromuntur per crebram continuamque harum variationem.</p>
+      <p id="KEINLIL0044">Clavis est signum, quo mediante addiscimus et exprimimus quemlibet cantum communem de his praebendo orationem. Tot constat esse claves, quot in manu dictiones. Pergam igitur atque quod reliquum est in pauca conferam. Nam claves quaedam signantur, has quidem potissime: [Gamma]-ut, F-faut, c-solfaut, g-solreut, dd-lasol, quae quidem omnes in linea accumbent. Harum quaedam sunt magis familiares sicut F-faut, g-solreut et c-solfaut. [Gamma]-graecum vel gamma-ut rariuscule utimur, dd-lasol rarissime. Et per has omnis cantus regulariter vel irregulariter positus regitur et modulatur, et dicuntur signatae sive regentes ut supra; reliquae non-signatae, id est quae non regunt cantum, numquam in libris signantur ut sunt A-re, E-lami, D-solre et aliae omnes. Et quid de b-fa [sqb] mi disseremus, cuius prima figura talis est b, alia est huiusmodi [sqb], quae quidem non signatur, nisi cantuum mutatione mollis in [sqb] duralem et id evestigio.</p>
+      <p id="KEINLIL0045">Unum in mentem venit, quod referam, ne recidat, C primum cantus primi [sqb] duralis nonnumquam signari oportere; quamquam id raro fiat, volui te tamen scire, ne mihi id vitio vertas postea; regulariter tamen numquam fieri debet. Agat enim quisque secundum ut sibi expedire videbitur. Neumas facit, de qua confusio evitetur, sigillatim tractare intendimus ea cum quibusdam suis speciebus diffiniendo temporariarumque specierum per exempla, quo, prout philosopho placet, magis scimus practicam, adiungendo.</p>
+      <p id="KEINLIL0046">/p.7/ Capitulum Quartum</p>
+      <p id="KEINLIL0047">Cantus est modulaminis secundum arsim et thesim congrua coaptatio. Tres sunt cantus secundum Guidonem: durus, mollis, naturalis. Idcirco praedico: primus duriori saeviorique modula profertur; belle enim et commode nuncupamus [sqb] duralem, quoniam [sqb], id est mi, duriter modulatur; 
+      <pb n="[116]" />quae vox est rigidissima. Mollis est secundus, neque id immerito: blanditie enim expalpat. Huius rei causa est maxime, cum in b-fa [sqb] mi fa occinit vocem dulcissimam. Naturalis id quod mediocris, nam neque durae causa neque mollis gratia concinitur.</p>
+      <p id="KEINLIL0048">Reliquum est scire tres esse cantus [sqb] durales, geminos molles, totidem naturales. [sqb] duralis primus in [Gamma] graeco ortum capit, orexim in e finali, secundus in eius octava g-solreut ducens arsim in e superacuto, alter in g superacuto, praedictorum quam voce una deficere praedicant pusillanimi eo autumantes, quia in scala locum non habet.</p>
+      <p id="KEINLIL0049">Mollis primus cantus in F finali gignitur, suum terminum efficit in d-lasolre. Huius gnatus occipitur in sua octava suam sistens terminationem in dd-lasol.</p>
+      <p id="KEINLIL0050">Naturalis primus nascitur in c-faut, graditur in a-lamire usque. Secundus in c acuto durat, totis viribus usque in a geminato.</p>
+      <p id="KEINLIL0051">Ratiocinamur ex praedictis ternas tantummodo claves consistere cantus: g causat durum, f mollem, c mediocrem; id plane monstratum est satis.</p>
+      <p id="KEINLIL0052">Sicut sex sunt voces, ita tres sunt cantus, et voces in cantus, cantus in voces dividuntur. Nam in quacumque positione</p>
+      <p class="textFig" id="KEINLIL0053">
+      <lb />ut&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;re&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;mi
+      <br />&#160;&#160;&#160;b&#160;molles&#160;&#160;&#160;&#160;&#160;naturales&#160;&#160;&#160;&#160;&#160;[sqb]&#160;durales&#160;consistunt.
+      <lb />fa&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;sol&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;la
+      <br /></p>
+      <p id="KEINLIL0054">/p.8/ Capitulum quintum</p>
+      <p id="KEINLIL0055">Nunc cuiusvis clavis naturam ab stirpe est exquirendum et primo de univocis et cetera.</p>
+      <p id="KEINLIL0056">[Gamma]-ut est constructum ex gamma graeco et ut; porro, ut vox [sqb] duri primi exstat cantus.</p>
+      <p id="KEINLIL0057">A-re secunda dictio penes nos; antiqui, quoniam [Gamma]-ut carebant, suam musicam in A-re occipiebant, Graeci vero profundius inquirentes [Gamma]-ut reperierunt nostrae musicae principium, quam subsequitur A-re. Secunda vox incepti cantus [sqb] duralis unam vocem scilicet re habet.</p>
+      <p id="KEINLIL0058">[sqb]-mi [sqb] clavis est insignitiva, mi vox est tertia asperi primi. C-faut c clavis est, quae interdum maioris certitudinis gratia consignatur; fa quarta vox est [sqb] duri primi cantus, ut vero prima vox est naturalis primi.</p>
+      <p id="KEINLIL0059">
+      <pb n="[117]" />D-solre prodit binas voces, sol quinta vox exstat [sqb] duri primi cantus, altera est naturalis.</p>
+      <p id="KEINLIL0060">E-lami prodit voces duas, la vox est postrema primatis</p>
+      <p id="KEINLIL0061">[sqb] duralis, mi tertia primitialis naturalis.</p>
+      <p id="KEINLIL0062">F-faut dehinc duas habet voces, fa a primo naturali, ut vero caput est b mollis primique ut paulo prius dixi, non usucapitur nisi b obsignato.</p>
+      <p id="KEINLIL0063">G-solreut tres depromit voces, (ob) hanc potissimam rationem, quoniam cantus tres exorsi sumus: sol descensum capit, re blanditiae, ut [sqb] duri exstat cantus.</p>
+      <p id="KEINLIL0064">a-lamire ut vicina confert ternas voces: la mi re, la vocum est primi naturalis extrema, mi processus est primitialis mollis, re altera est secundi duralis.</p>
+      <p id="KEINLIL0065">b-fa [sqb] mi duas habet claves atque vocum totidem clavis tamen altera, ut dixi perraro inseritur; cum mollis constabit cantus, semper notabitur. Erit igitur fa b mollis occepti, mi vero asperi.</p>
+      <p id="KEINLIL0066">c-solfaut insuper tres habet voces: sol. fa et ut, sol /p.9/ b mollis, fa [sqb] duralis erit persecutio, ut alteri naturalis primum principium.</p>
+      <p id="KEINLIL0067">d-lasolre itidem voces procreat ternas, la a molli momento prodiit, sol duro, re naturali secundo.</p>
+      <p id="KEINLIL0068">e-lami duas ut sua suboctava possidet voces, la exstat [sqb] duralis, mi de numero naturalis.</p>
+      <p id="KEINLIL0069">f-faut duplices gerit notas ut suboctava sua, fa a secundo naturali, ut initium initiatur blanditiae secundus.</p>
+      <p id="KEINLIL0070">g-solreut triplices patrat voces, sol enim naturalis secundi qui est extremus, re altera alterius b mollis, ut tertii, qui et ultimus, est principatum et principium.</p>
+      <p id="KEINLIL0071">aa-lamire trium pariter vocum necnon totidem cantuum habet, la finitima naturalis postremi, mi ortum a b molli, re secunda [sqb] duralis novissimi.</p>
+      <p id="KEINLIL0072">bb-fa [sqb] mi diiudicandum prorsus ut sua octava affinis fa b mollis, mi [sqb] duralis.</p>
+      <p id="KEINLIL0073">cc-solfa constructa ex sol naturali a b molli vero prosignata, siquidem fa [sqb] duri novissimi.</p>
+      <p id="KEINLIL0074">dd-lasol: la cantui secundo b mollari finem imponit, sol tamen est processus [sqb] duralis.</p>
+      <p id="KEINLIL0075">ee-la ultima nostraptae scalae clavis est et univoca quidem cantum terminans tertium [sqb] duralem.</p>
+      <p id="KEINLIL0076">Bene expediteque clavium naturam sumus rimati. Nunc quattuor regulas plane eructari decretum est, tam facille, tam commode, tam plane omnem modulandi modum monstrantes, ut repente pellectis continere miro modo occipias, non quidem per longa extorsaque obducere, sed brevi sine mora ulla materiam prorse reserantes.</p>
+      <p id="KEINLIL0077">
+      <pb n="[118]" />Regula.</p>
+      <p id="KEINLIL0078">In d-solre sublimius procedendo re concipiens, redeundo la comitem capiens.</p>
+      <p id="KEINLIL0079">/p. 10/ Regula.</p>
+      <p id="KEINLIL0080">In a-lamire sursum commeando re usucapi convenit, deorsum la surripiens.</p>
+      <p id="KEINLIL0081">Regula.</p>
+      <p id="KEINLIL0082">In d-lasolre proficiscendo in altum re sane licebit, ad ima iter recipiendo la in e acuto recte rapiemus.</p>
+      <p id="KEINLIL0083">Regula.</p>
+      <p id="KEINLIL0084">In aa-lamire ultro citroque commeando ut sua suboctava mutare expedit re sursum, la deorsum cursitando.</p>
+      <p id="KEINLIL0085">Capitulum sextum</p>
+      <p id="KEINLIL0086">Investigandum erit praeterea modos musicales, qui dicti sunt: Unisonus, semitonium, tonus, semiditonus et cetera.</p>
+      <p id="KEINLIL0087">[Keinspeck, Lilium musicae planae, 118; text: Unisonus, Semitonium, Tonus, Semiditonus, Ditonus, Dyatesseron]</p>
+      <p id="KEINLIL0088">Unisonus est eiusdem vocis crebra statim repetitio.</p>
+      <p id="KEINLIL0089">Secundus modus est aggressus in confinem notam duplici in exemplo; vel mussitat parvo murmure, sic est semitonium, dictum a semis, quod est imperfectum, et tonus, quod mi et da praebet; vel iste gradus est durior, sic est tonus, a tonando ducens originem quandoquidem potentius tonat.</p>
+      <p id="KEINLIL0090">Modus tertius est aggressus in tertiam notam duplici exemplo. Vel debiliori sono, sic est semiditonus reserans in se semitonium a semis quod imperfectum et tonus quasi imperfectus tonus, eo quod non duobus tonis, quinimmo ex tono et uno semitonio conficitur. Neque hunc errorem sectari nos licebit dicendo semiditonus a semis, id est dimidium, et tonus, cum tonus in aequales partes dividi non valeat.</p>
+      <p id="KEINLIL0091">/p.11/ Saltus secundus in tertiam notam soni potentior est, quem ditonum appellamus, a dia valens duo et tonus, construitur enim ex duobus tonis.</p>
+      <p id="KEINLIL0092">Quartus insuper modus est gradus in 
+      <pb n="[119]" />quartum locum, dupliciter ut dudum de aliis iudicamus. Vel mollius hoc pacto erit diatesseron, a dia id est de et tesseres quattuor, quasi ex quattuor vocibus confectum, et deprehendit in se duos tonos iuncto semitonio, vel praedictus saltus verius tonat, sic est tritonus, a tris pro tres et tonus, quia ex tribus tonis coniungitur absque semitonio.</p>
+      <p id="KEINLIL0093">[Keinspeck, Lilium musicae planae, 119,1; text: Tritonus]</p>
+      <p id="KEINLIL0094">Ab quo cavendum est nobis, non enim mediocriter aures offendit audientium, sed stridorem dentium mirum in modum confert.</p>
+      <p id="KEINLIL0095">[Keinspeck, Lilium musicae planae, 119,2; text: Semidiapenthe, Dyapenthe, Semitonium cum diapenthe, Tonus cum diapenthe, Semiditonus cum diapenthe, Ditonus cum diapenthe]</p>
+      <p id="KEINLIL0096">Modus quintus est gressus in locum quintum. Antedictorum more dupliciter. Fragilius sic est semidiapente a semis, quod imperfectum signat, duas habens species: mi mi, fa fa; potentius quod diapente nuncupatur a dia, quod est de, et pente quinque, quia qinque vocum virtutem gestat, tonos tres et unum semitonium in se claudit.</p>
+      <p id="KEINLIL0097">Sextus modus ad sextam scandit aut descendit, contentis tribus tonis et semitonia duo sic appellamus semitonium cum diapente, /p.12/ dure sic est tonus cum diapente concipiens quattuor tonos cum semitonio.</p>
+      <p id="KEINLIL0098">Animadvertendum erit magno studio speciem prius dictam licite posse usurpari in quocumque cantu, postremam vero nequaquam.</p>
+      <p id="KEINLIL0099">Septimus modus septimam nuncupamus et, quamquam rariuscule hoc modo utamur, silentio praeterire haud decet, sed pauca de hoc conferamus. Nam veterum more dupliciter profertur: Tremule, sic est semiditonus cum diapente confectus quattuor tonis semitoniisque duobus ut hic.</p>
+      <p id="KEINLIL0100">Gravius sonans, sic est ditonus cum diapente, contextos enim habet tonos quinque cum uno semitonio.</p>
+      <p id="KEINLIL0101">
+      <pb n="[120]" />[Keinspeck, Lilium musicae planae, 120,1; text: Diapason, Diapason imperfecta] 
+      <figure>
+        <graphic url="/images/KEINLIL_02GF.gif" />
+      </figure></p>
+      <p id="KEINLIL0102">Octavus modus ac postremus est diapason id est octava composita ex quinque tonis et duobus semitoniis. Et iste modus naturalis est, nam iuvenes in choro semper depromunt octavam supra mutatos.</p>
+      <p id="KEINLIL0103">Notandum, si aliquis volens componere antiphonam, octavam imperfectam recipiet nequaquam, nam contra omnes esset musicos, ut hic.</p>
+      <p id="KEINLIL0104">Quamvis saepius ac saepe dici audivi in novis historiis multotiens diapason imperfectum reperire profecto usualem, incertum eundem compositorem iudicamus.</p>
+      <p id="KEINLIL0105">/p.13/</p>
+      <p id="KEINLIL0106">Quare b rotundum, id est b mollaris cantus scilicet fa inventum est, propter:</p>
+      <p id="KEINLIL0107">[Keinspeck, Lilium musicae planae, 120,2; text: Tritonum, Si b in b-fa [sqb] mi poneretur, non esset tritonus, sed diatesseron. Suavitatem, Absque b non esset melodia suavitatis, sed [sqb] duralis. Mutationem, Cum b non esset, mutatio fieri debet. Mobilitatem, Ibi b mobilitatem designat alterius cantus scilicet fa in e-lami.]</p>
+      <p id="KEINLIL0108">Capitulum septimum</p>
+      <p id="KEINLIL0109">Expedit nunc in modo solmisandi latius dilatare fimbrias. Dicta enim capitula idcirco praemisimus, quandoquidem huic subserviunt pleraque; omnis dabitur opera igitur, ut in hoc quemadmodum in praemissis palmarium obtineamus.</p>
+      <p id="KEINLIL0110">Mutatio est consona vocis in vocem perversio.</p>
+      <p id="KEINLIL0111">Ut igitur rem teneatis rectius, communia praemittemus cognomenta, quibus memoriter memoratis exiguo labore comprehendimus sequentia.</p>
+      <p id="KEINLIL0112">Regula</p>
+      <p id="KEINLIL0113">Providendum erit, ne adversum tempori fiat, ne aut otius aut tardius quam necesse fuerit constet, sed omnia recte fiant ut clare vulgabimus postea.</p>
+      <p id="KEINLIL0114">
+      <pb n="[121]" />Regula</p>
+      <p id="KEINLIL0115">/p. 14/ Clavis unica voce contenta eandem mutare non quivit.</p>
+      <p id="KEINLIL0116">Regula</p>
+      <p id="KEINLIL0117">Clavis siquidem variabilis duarum vocum duabus egebit mutationibus, et, ut dixi, infimam rapiemus scandendo, superiorem ab alto redeundo. Iam isto dicto octo clavium mutationem tenes: C-faut, D-solre, E-lami, F-faut, e-lami, f-faut, cc-solfa, dd-lasol. Largius tamen de his immemorabimus.</p>
+      <p id="KEINLIL0118">Regula</p>
+      <p id="KEINLIL0119">Iter capiendo in altum vocem infimam accipiemus, redeundo supremam, ubi mutare opus erit.</p>
+      <p id="KEINLIL0120">Regula</p>
+      <p id="KEINLIL0121">Clavis mutabilis tribus vocibus praedita itidem habebit mutationes nempe tres in ascensu, totidem in descensu.</p>
+      <p id="KEINLIL0122">Regula</p>
+      <p id="KEINLIL0123">Plerumque grandaevo saltu saliendum extra mutationem ut mi-mi, fa-fa.</p>
+      <p id="KEINLIL0124">Regula</p>
+      <p id="KEINLIL0125">In f-faut ut numquam fore utendum, nisi in b-fa [sqb] mi hoc signum b comperiatur, quo posito ut in f-faut, re in g-solreut recte modulabimus. Ex dicto elucescit facile in b-fa [sqb] mi non oportere [sqb] obsignari, cum illo esse semper mi, nisi huius b interventu inseratur.</p>
+      <p id="KEINLIL0126">Regula</p>
+      <p id="KEINLIL0127">Si post la condescenderit sola nota, non mutandum erit, sed ibi fa leviter iubilandum et cetera.</p>
+      <p id="KEINLIL0128">Capitulum octavum</p>
+      <p id="KEINLIL0129">Expediti circa solmisandi artem nunc ex ordine de tonis dicere necesse est, quod, ut dilucidius pateat, in ternas dividendum perspexi: Primo de divisione et diffinitione dicturus, secundo de quorumvis fine tonorum, tertio de intonatione psalmorum.</p>
+      <p id="KEINLIL0130">Tonus est regula ascensum descensumque cuiusvis cantus evidentius demonstrans.</p>
+      <p id="KEINLIL0131">Iam vos internosse reor octo esse tonos in /p.15/ duas partes partitos. Uni enim de numero pari constantes authenti sive capitanei nuncupantur; quorum Graeci primi fuere inventores atque suapte ideomate protum, deuterum, tritum, tetrardum appellavere. Alteri de numero impari constantes plagales, minores 
+      <pb n="[122]" />aut vernae nuncupantur; a Latinis primordia ceperunt. Quoniam satisfactum videtur primo articulo, nunc progrediar quidem longius de horum agnitione, ubi illud erit animadvertendum.</p>
+      <p id="KEINLIL0132">Regula</p>
+      <p id="KEINLIL0133">Toni in fine discernuntur, differentiae vero non, nisi in principio valent diiudicari.</p>
+      <p id="KEINLIL0134">Regula</p>
+      <p id="KEINLIL0135">Omnis tonus (ut multa paucis plane proloquar) potest condecenter supra regularem terminum exigere suum quintam aut quartam.</p>
+      <p id="KEINLIL0136">Regula</p>
+      <p id="KEINLIL0137">Cantus oriens in quinta supra reductionis notam toni exsistit plagalis, oppositum coniecturabere facile.</p>
+      <p id="KEINLIL0138">Regula</p>
+      <p id="KEINLIL0139">Primus et secundus toni in D-solre vesperum locant, perraro in a-lamire.</p>
+      <p id="KEINLIL0140">Regula</p>
+      <p id="KEINLIL0141">Tertius et quartus in E-lami extremam loquuntur notam, nonnumquam (ut prius commemini) in quintam, vel in a-lamire b molliter modulando, quod hic non habet locum.</p>
+      <p id="KEINLIL0142">Regula</p>
+      <p id="KEINLIL0143">Quintus et sextus in F-faut desinunt, perraro in c-solfaut.</p>
+      <p id="KEINLIL0144">Regula</p>
+      <p id="KEINLIL0145">Septimus et octavus in G-solreut terminantur. Omitto, quod saepe dixi. Diceret quis, tenemus sane binos semper tonos uno in loco concludi. Atqui necesse est, authentos a plagalibus dinosci, sic fieri potest: Si cantus in alto mage moram ducit et alta magis repetit, profecto authentum esse nemo dubitat. /p. 16/ Unum tamen exemplum referam, ut capiatis rectius. Si enim tonus in re produxit terminum, scies iam sedulo proti, id est primi, aut secundi praesse toni. Spectare oportet, scandatne in quintam supra principium ibique versetur aliquamdiu aut saepiuscule remigretur. Certum est de arrogantum sive superborum esse numero, ut gaudeamus. Si itaque praefatam re in basso mussitet, sub finali plus perseveret, et si saltum in quintam aut sextam audeat, diu ne se maneat, sed exemplo praeceps occidat ut "O crux benedicta", secundi est toni. Et itidem dico, si basso vel infimo magis se oblectet neque quintam vel octavam re visat sursum, revera plagalem sive humilem iudicamus.</p>
+      <p id="KEINLIL0146">
+      <pb n="[123]" />De psalmorum intonatione et tonorum differentiis.</p>
+      <p id="KEINLIL0147">Omnis tonus (ne me captes postea) in quinta supra publicitum suum initium lepide potest inchoari.</p>
+      <p id="KEINLIL0148">Primus tonus initium sumit in A-re, D-solre, C-faut aut interdum F-faut cuius capitale est.</p>
+      <p id="KEINLIL0149">[Keinspeck, Lilium musicae planae, 123,1; text: Euovae primi toni, Sacerdos in aeternum]</p>
+      <p id="KEINLIL0150">Differentia prima</p>
+      <p id="KEINLIL0151">In alto arripit notam postremam; huius vero carmina in ut inchoantur moxque in a-lamire prosiliunt.</p>
+      <p id="KEINLIL0152">[Keinspeck, Lilium musicae planae, 123,2; text: Differentia prima primi, Sapientia aedificavit]</p>
+      <p id="KEINLIL0153">/p. 17/ Differentia secunda</p>
+      <p id="KEINLIL0154">Quae proclive descendit; huius carmina sunt occepta in C-faut gradatim gradientia.</p>
+      <p id="KEINLIL0155">[Keinspeck, Lilium musicae planae, 123,3; text: Tertia differentia primi, Exsurgens] 
+      <figure>
+        <graphic url="/images/KEINLIL_03GF.gif" />
+      </figure></p>
+      <p id="KEINLIL0156">Tertia differentia</p>
+      <p id="KEINLIL0157">Cuius initium est f-faut repente in la aut ab a-lamire descensiva. Hoc modo modulatur.</p>
+      <p id="KEINLIL0158">[Keinspeck, Lilium musicae planae, 123,4; text: Quarta differentia primi, Apertis thesauris]</p>
+      <p id="KEINLIL0159">Quinta differentia</p>
+      <p id="KEINLIL0160">Praedictae adiicit sol; sua carmina circumflexi per fa, sol, la principio modulantur.</p>
+      <p id="KEINLIL0161">[Keinspeck, Lilium musicae planae, 123,5; text: Ultima differentia primi, Nisi tu domine]</p>
+      <p id="KEINLIL0162">De secundo tono</p>
+      <p id="KEINLIL0163">
+      <pb n="[124]" />Secundus tonus eadem habet originis loca quae et primus re scilicet et fa, neque ullam praebet differentiam. Ideo paucis ab hoc nos absolvemus.</p>
+      <p id="KEINLIL0164">[Keinspeck, Lilium musicae planae, 124,1; text: Capitale secundi toni, Simile]</p>
+      <p id="KEINLIL0165">/p. 18/ De tertio tono</p>
+      <p id="KEINLIL0166">Tertius dehinc tonus terna possidet loca: E-lami, G-solreut, c-solfaut, totidem quippe litteras, quas sigillatim dicemus. Huic est capitale.</p>
+      <p id="KEINLIL0167">[Keinspeck, Lilium musicae planae, 124,2; text: Capitale tertii toni, O gloriosum]</p>
+      <p id="KEINLIL0168">Differentia prima</p>
+      <p id="KEINLIL0169">Usurpat re cum reliquo capitque initium in G finali illico ab a-lamire procedens in c-solfaut.</p>
+      <p id="KEINLIL0170">[Keinspeck, Lilium musicae planae, 124,3; text: Differentia prima tertii, Salva nos]</p>
+      <p id="KEINLIL0171">Secunda differentia</p>
+      <p id="KEINLIL0172">Huiusce carmina in a-lamire remorantur parumper aut nihil descendunt et ascendunt post a acutum continuo redeundo in a acutum. In hunc modum cantatur melodia.</p>
+      <p id="KEINLIL0173">[Keinspeck, Lilium musicae planae, 124,4; text: Secunda differentia tertii, Gloria Laudis] 
+      <figure>
+        <graphic url="/images/KEINLIL_04GF.gif" />
+      </figure></p>
+      <p id="KEINLIL0174">Tertia differentia</p>
+      <p id="KEINLIL0175">Abiicit notam postremam; huius carmina ab G-solreut in c acutum perstrepantes se ibidem oblectant aliquantum vel in c acuto orta illinc descendentia repente redeunt.</p>
+      <p id="KEINLIL0176">/p. 19/ [Keinspeck, Lilium musicae planae, 124,5; text: Tertia differentia tertii, Orietur]</p>
+      <p id="KEINLIL0177">De quarto tono</p>
+      <p id="KEINLIL0178">
+      <pb n="[125]" />Quartus tonus initii claves continet quinque: E-lami, C-faut, G-solreut, F-faut, plerumque a acutum; differentiis tribus fungitur atque hoc capitale.</p>
+      <p id="KEINLIL0179">[Keinspeck, Lilium musicae planae, 125,1; text: Capitale toni quarti, Laurentius bonum]</p>
+      <p id="KEINLIL0180">Differentia prima</p>
+      <p id="KEINLIL0181">Huius exaugetur subitque sine mora saltim aut gradatim in sol la.</p>
+      <p id="KEINLIL0182">[Keinspeck, Lilium musicae planae, 125,2; text: Differentia prima quarti, Benedicta tu]</p>
+      <p id="KEINLIL0183">Differentia secunda</p>
+      <p id="KEINLIL0184">In hunc modum modulatur; huius equidem antiphonae in g-solreut vel e-lami inceptantur seque porro occupantes in re.</p>
+      <p id="KEINLIL0185">[Keinspeck, Lilium musicae planae, 125,3; text: Secunda differentia quarti, Fidelia]</p>
+      <p id="KEINLIL0186">Tertia differentia</p>
+      <p id="KEINLIL0187">Solum fa modo usui in penultima concipit; huius carmina ab C-faut leniter pedetentim scandunt.</p>
+      <p id="KEINLIL0188">/p. 20/ [Keinspeck, Lilium musicae planae, 125,4; text: Differentia tertia quarti, Iste cognovit]</p>
+      <p id="KEINLIL0189">De quinto tono</p>
+      <p id="KEINLIL0190">Quintus tonus nostrapte disciplina laetus initium occipit in f-faut, plerisque modis in c-solfaut. Huius capitale est.</p>
+      <p id="KEINLIL0191">[Keinspeck, Lilium musicae planae, 125,5; text: Capitale quinti toni, Ecce dominus veniet] 
+      <figure>
+        <graphic url="/images/KEINLIL_05GF.gif" />
+      </figure></p>
+      <p id="KEINLIL0192">Differentia</p>
+      <p id="KEINLIL0193">Ortum capit in f-faut subitoque petit astra.</p>
+      <p id="KEINLIL0194">
+      <pb n="[126]" />[Keinspeck, Lilium musicae planae, 126,1; text: Differentia quinti, Ecce concipies]</p>
+      <p id="KEINLIL0195">De sexto tono</p>
+      <p id="KEINLIL0196">Sextus deinde tonus est madidus: quae una falsa lacrimula misere vix expresserint, adolescentum animos mulcent. Huic conveniunt loca quattuor: E, D, F et c acutum. Libertas est ei data ad d acutum usque, deorsum ad B grave, sed de his supra disputatum est.</p>
+      <p id="KEINLIL0197">[Keinspeck, Lilium musicae planae, 126,2; text: Capitale sexti, O admirabile]</p>
+      <p id="KEINLIL0198">/p. 21/ Differentia</p>
+      <p id="KEINLIL0199">nullam praeter istam invenimus, concordat frequenter cum capitali suo tono, ortum in F finali capit, terminum in g-solreut sumit.</p>
+      <p id="KEINLIL0200">[Keinspeck, Lilium musicae planae, 126,3; text: Differentia sexti, Benedixit]</p>
+      <p id="KEINLIL0201">De septimo tono</p>
+      <p id="KEINLIL0202">Septimus consequenter tonus litteras inceptivas G gravem, a, b, c et d acutus habet; data ei ut aliis principibus octavam iungendi supra est potestas, infra non plus secunda aut tertia; tale obtinet signum.</p>
+      <p id="KEINLIL0203">[Keinspeck, Lilium musicae planae, 126,4; text: Capitale septimi, Egregie]</p>
+      <p id="KEINLIL0204">Differentia prima</p>
+      <p id="KEINLIL0205">Sol in fa sibi aptat; huius antiphonae in c acuto initium exquirunt.</p>
+      <p id="KEINLIL0206">[Keinspeck, Lilium musicae planae, 126,5; text: Differentia prima septimi, benedicta] 
+      <figure>
+        <graphic url="/images/KEINLIL_06GF.gif" />
+      </figure></p>
+      <p id="KEINLIL0207">
+      <pb n="[127]" />Differentia secunda</p>
+      <p id="KEINLIL0208">Adiungitur primitio capitali ad d acutum, per parvos itaque gressus invisit ad c acutum ibique se detinet aliquamdiu.</p>
+      <p id="KEINLIL0209">[Keinspeck, Lilium musicae planae, 127,1; text: Secunda differentia septimi, Sit nomen]</p>
+      <p id="KEINLIL0210">/p. 22/ Tertia differentia</p>
+      <p id="KEINLIL0211">In G finali nata est moxque in d acuto saltantia vel in c acuto principium fingunt continuo scandendo.</p>
+      <p id="KEINLIL0212">[Keinspeck, Lilium musicae planae, 127,2; text: Tertia differentia septimi, Michael]</p>
+      <p id="KEINLIL0213">Quarta differentia</p>
+      <p id="KEINLIL0214">In [sqb] acuto initium captat subitoque antrorsum procedit.</p>
+      <p id="KEINLIL0215">[Keinspeck, Lilium musicae planae, 127,3; text: Differentia quarta septimi, Redemptionem]</p>
+      <p id="KEINLIL0216">De octavo tono</p>
+      <p id="KEINLIL0217">Octavus tandem tonus accessit, cuius usuram fruimur maxime, moderatus est enim et sane utilis. Propterea suo principio condecet litteras septem: g-solreut, ubi tandem occidit, c, d, e, f, nonnumquam etiam a, c acutas, et accidunt tres differentiae. Suum capitale sic modulatur.</p>
+      <p id="KEINLIL0218">[Keinspeck, Lilium musicae planae, 127,4; text: Capitale octavi, Judea et Jerusalem]</p>
+      <p id="KEINLIL0219">Differentia prima</p>
+      <p id="KEINLIL0220">In c acuto gignitur capitque iter deorsum, isto modo efficitur.</p>
+      <p id="KEINLIL0221">[Keinspeck, Lilium musicae planae, 127,5; text: Prima differentia octavi, In aeternum] 
+      <figure>
+        <graphic url="/images/KEINLIL_07GF.gif" />
+      </figure></p>
+      <p id="KEINLIL0222">/p. 23/ Differentia secunda</p>
+      <p id="KEINLIL0223">Eodem oritur loco quo prior es tamen ratione quod ista differentia aliquamdiu ibi versetur ut monstrat "Euntes".</p>
+      <p id="KEINLIL0224">
+      <pb n="[128]" />[Keinspeck, Lilium musicae planae, 128,1; text: Differentia secunda octavi, Euntes ibant]</p>
+      <p id="KEINLIL0225">Differentia tertia</p>
+      <p id="KEINLIL0226">Priori est consimilis bisque repetit re ut; huius cantica in mi aut fa inceptantur tendentes se in altum.</p>
+      <p id="KEINLIL0227">[Keinspeck, Lilium musicae planae, 128,2; text: Tertia differentia octavi, Animae impiorum]</p>
+      <p id="KEINLIL0228">Differentia quarta</p>
+      <p id="KEINLIL0229">Posset et annecti differentia quarta, quam tonum peregrinum appellamus idcirco, quia hunc praefati toni repellunt longius stare a se; huius melodia est.</p>
+      <p id="KEINLIL0230">[Keinspeck, Lilium musicae planae, 128,3; text: Quarta differentia octavi, Nos qui vivimus]</p>
+      <p id="KEINLIL0231">Forma intonandi est duplex: Quaedam fit in pausis productis, scilicet ubi non ponitur dictio monasillaba scilicet meo, quaedam in pausis correptis, ubi ponuntur dictiones monasillabae ut me, te, se, sion, edon, fac et propria David, Israel, Jerusalem et cetera.</p>
+      <p id="KEINLIL0232">/p. 24/ [Keinspeck, Lilium musicae planae, 128,4; text: Dixit dominus domino meo, Deus in nomine tuo salvum me fac]</p>
+      <p id="KEINLIL0233">Conclusio</p>
+      <p id="KEINLIL0234">Jure igitur musicam capit omne quod vivit, ut antiqui praemonstrarunt nobis. De quibus exempla pauca subnectam: Socrates qui dicitur in senectute sua hanc didicit existimans, si ei musica deforet, sibi cumulum scientiae defuturum. Adde mirabile dictum, quod Diodorus Stoicus caecus, cum in philosophia antea versatus fuisset, fidibus quoque mirum in modum assidue operam dare coepit, quibus in studiis nec oculis nec auribus egebat. Idem et alii quamplures suis temporibus fecisse traduntur, quos percensere non datur in praesentia 
+      <pb n="[129]" />locus. Sed cum sacerdotes scolares nimis rudes in eorum canticis audivi, quorum exempla nec crediderim digna, qui confusiones ac errores permaxime in sancta ecclesia depromunt, has subtilissimas tradidi regulas, ut unusquisque diligens auditor arte, usu et imitatione multum excellens in cantu evadere possit. Sed parcant pii correctores magis intelligentes, quorum correctionibus parere non dedignabor.</p>
+      <p id="KEINLIL0235">Explicit Lilium musicae planae Michaelis Keinspeck de Nurnberga, musici Alexandrini bene meriti, in inclita universitate Basiliensi per eundem resumpta, atque per Michaelem Furter civem Basiliensem impressum anno et cetera nonagesimo sexto.</p>
+      <p id="KEINLIL0236">
+      <pb n="[130]" />Die Zusaetze von J. A. A. in der Ausgabe von 1506</p>
+      <p id="KEINLIL0237">/p. 1/ Lilium musicae planae</p>
+      <p id="KEINLIL0238">Michaelis Künspeck musici Alexandrini. Novis quibusdam additamentis per J. A. A. eius discipulum pridem illustratum.</p>
+      <p id="KEINLIL0239">Hexasticon in commendationem fragrantis lilii.</p>
+      <p id="KEINLIL0240">Discite nunc iuvenes Musas celebrare canoras</p>
+      <p id="KEINLIL0241">Atque animum corpusque simul relevare periclis.</p>
+      <p id="KEINLIL0242">Candidulum florem spirantem germine laeto,</p>
+      <p id="KEINLIL0243">Ingenium curamque dico, coniunge loquenti.</p>
+      <p id="KEINLIL0244">Hic etenim medicam possis haurire salutem</p>
+      <p id="KEINLIL0245">Corporis ac animae, melioris munera vitae.</p>
+      <p id="KEINLIL0246">/p.2/ Joannes Hugonis Argentinensis N. Carthsiensi salutem.</p>
+      <p id="KEINLIL0247">Quoniam in sacris Hebraeorum litteris accipimus Deum omnia in numero, pondere et mensura disposuisse, atque a pythagoricis Platonicis tam animam quam corpus mundi et animalium singulorum musicis rationibus constare didicimus, unde neque mirabimur harmonia animalia pene omnia rapi neque Pythagoram, Empedoclem vel Socratem etiam in senectute pulsantes cytharam accusabimus, sed parum eruditum Themistoclem illum, qui lyram sibi oblatam in convivio recusavit, fuisse fatebimur. Pertinere enim musicam ad doctos, qui Musarem cultores sunt, in dialogo Alcibiade Plato noster ostendit dicens Musas esse musicae duces atque ab eius musicam appellari. Harum igitur contubernio cupientes interesse hoc sibi familiare assumant lilium naribusque suis applicare studeant quam primum, ut animam simul corpusque reficiant, quemadmodum de Davide propheta legimus, qui animam corpusque Saulis delirantis musica traditur curavisse. Quod item ostendit Timotheus, quando Alexandrum regem sonis excitavit in furorem, deinde repressit. Mitto quae de Orpheo, Arione, Amphione narrantur, cum quibus te bene valere exopto.</p>
+      <p id="KEINLIL0248">Ex Argentina Idus Martias anno huius saeculi sexto.</p>
+      <p id="KEINLIL0249">Marsilius Ficinus:</p>
+      <p id="KEINLIL0250">Officium musici est in sono gratiam cantus, in cantu sermonis elegantiam imitari. Meminisse etiam motus animi multo 
+      <pb n="[131]" />magis oportere consonantes esse quam voces. Inconcinnus enim alienusque a Musis est musicus, cui, dum consonant vox lyraque, mens dissonat. Jubent David Mercuriusque, quandoquidem deo monente canimus, canamus et deum.</p>
+      <p id="KEINLIL0251">/p. 26/ Notandum quod in arte musicali octo sunt toni videlicet primus, secundus, tertius et cetera. Et secundum illos octo tonos moderatur omnis cantus, nam primus tonus dicitur realis, secundus humilis, tertius clamorosus, quartus lamentabilis, quintus superbus, sextus dulcis, septimus excellens, octavus moderatus.</p>
+      <p id="KEINLIL0252">Praedicti vero toni cognoscuntur in fine uniuscuiuscumque cantus, sed differentiae tonorum cognoscuntur in principio cantus.</p>
+      <p id="KEINLIL0253">/p. 27/ Primus tonus principalis cum suis differentiis semper finitur in re, et primus tonus principalis habet duas inceptiones; unam in re videlicet in d-solre utque "Ecce nomen domini", "Sede a dextris", O pastor aeterne"; item secunda inceptio est in fa videlicet in f-faut utque in "Lux orta est", "Tecum principium".</p>
+      <p id="KEINLIL0254">Differentiae primi toni sunt qinque scilicet prima, secunda, tertia, quarta, quinta.</p>
+      <p id="KEINLIL0255">Prima differentia primi toni habet duas inceptiones in ut et in re, harum dictionum C-faut et d-solre. Exemplum primae: "Quae est ista", exemplum secundae: "Leva eius" et cetera.</p>
+      <p id="KEINLIL0256">Secunda differentia etiam primi toni habet unam inceptionem videlicet in C-faut et in ut incipitur ut in "Domus mea".</p>
+      <p id="KEINLIL0257">Tertia differentia habet duas inceptiones in fa et la, harum dictionum f-faut et a-lamire. Item de fa exemplum: "Diffusa est", exemplum de la: "Veniet dominus".</p>
+      <p id="KEINLIL0258">Quarta differentia habet unam inceptionem in fa videlicet in f-faut; exemplum: "Dicite pusillanimes".</p>
+      <p id="KEINLIL0259">Quinta differentia habet etiam unam inceptionem in ut, in F-faut. Exemplum: "Redde mihi".</p>
+      <p id="KEINLIL0260">Secundus tonus similiter finitur in re et nullam habet differentiam et habet quinque inceptiones: In ut, re, fa, la, harum dictionum A-re, C-faut, D-solre, F-faut et a-lamire. Exemplum primae inceptionis: "In qua civitate", secundae: "Virgo verbo", tertiae: "O virgo virginum", quartae: "Consolamini", quintae: "Magnum heriditatis".</p>
+      <p id="KEINLIL0261">Tertius tonus principalis cum suis differentiis semper finitur in mi, et idem tertius tonus principalis habet unam inceptionem in mi, videlicet in e-lami utque in "O gloriose tactor", et habet tres differentias.</p>
+      <p id="KEINLIL0262">
+      <pb n="[132]" />Prima differentia tertii toni unam habet inceptionem in ut, in g-solreut utque in "Tu bethlehem".</p>
+      <p id="KEINLIL0263">/p. 28/ Secunda differentia tertii toni similiter habet unam inceptionem in g-solreut utque in "Dum fortis".</p>
+      <p id="KEINLIL0264">Tertia differentia tertii toni habet duas inceptiones in ut et in fa, videlicet g-solreut et c-solfaut, ut in "Ecce dominus" et "Vivo ego".</p>
+      <p id="KEINLIL0265">Quartus tonus semper finitur in mi cum suis differentiis, et hic quartus tonus principalis habet tres inceptiones, videlicet in mi, fa, sol harum dictionum E-lami, f-faut et g-solreut, exinde "Qui venturus est", "Omnis terra", "Exivi a patre".</p>
+      <p id="KEINLIL0266">Incipiunt differentiae quarti toni, quae tres sunt, numero scilicet prima, secunda, tertia.</p>
+      <p id="KEINLIL0267">Prima differentia quarti toni habet unam inceptionem in re, videlicet in D-solre ut hic "Ante thronum".</p>
+      <p id="KEINLIL0268">Secunda differentia quarti toni habet unam inceptionem in sol, videlicet in g-solreut, exemplum ut in antiphona "Sub tuam protectionem".</p>
+      <p id="KEINLIL0269">Tertia differentia quarti toni habet unam inceptionem, videlicet in C-faut; exemplum: "Bethlehem non es".</p>
+      <p id="KEINLIL0270">Quintus tonus principalis cum sua differentia finitur in fa, et hic quintus tonus principalis habet duas inceptiones, videlicet fa et la, harum dictionum f-faut et a-lamire, ut patet in exemplo de prima inceptione: "Sanctus, sanctus"; exemplum de secunda inceptione: "O sacrum". Differentia quinti toni principalis patet in antiphona "Voce cordis", "Alma redemptoris".</p>
+      <p id="KEINLIL0271">Sextus tonus semper finitur in fa et nullam habet differentiam, sed habet tres inceptiones, videlicet re, mi fa, harum dictionum D-solre, E-lami, f-faut ut hic in antiphona "Si ego", "O quam metuendus", "Notum fecit dominus".</p>
+      <p id="KEINLIL0272">Septimus tonus item principalis cum suis differentiis finitur in sol et habet duas inceptiones, scilicet mi et fa, harum dictionum b-fa[sqb]mi et c-solfaut; exemplum de prima inceptione "Constitues eos principes", exemplum secundae inceptionis est antiphonam "Loquebantur".</p>
+      <p id="KEINLIL0273">/p. 29/ Differentiae septimi toni sunt quattuor, prima differentia, secunda, tertia, quarta.</p>
+      <p id="KEINLIL0274">Prima differentia septimi toni unam habet inceptionem in sol, videlicet in d-lasolre; exemplum ut hic: "Specie tua" et cetera.</p>
+      <p id="KEINLIL0275">Secunda differentia septimi toni habet unam inceptionem in ut, 
+      <pb n="[133]" />videlicet in g-solreut; exemplum "Orante sancto".</p>
+      <p id="KEINLIL0276">Tertia differentia septimi toni duas habet inceptiones in ut et in fa, videlicet g-solreut et c-solfaut; exemplum "Veterem hominem", exemplum secundae: "Scio quod Jesum".</p>
+      <p id="KEINLIL0277">Quarta differentia septimi toni habet duas inceptiones in</p>
+      <p id="KEINLIL0278">mi et in fa, harum dictionum b-fa[sqb]mi et c-solfaut; exemplum primae: "Misit dominus", exemplum de secunda: "Confortatus est".</p>
+      <p id="KEINLIL0279">Octavus tonus cum suis differentiis semper finitur in sol et octavus tonus principalis quattuor habet inceptiones, scilicet ut, re, sol, la, harum dictionum C-faut, D-solre, G-solreut, A-lamire; exemplum primae: "Iustorum animae", exemplum secundae: "Infantia", exemplum tertiae: "Spiritus sanctus", exemplum quartae: "Scitote".</p>
+      <p id="KEINLIL0280">Incipiunt differentiae octavi toni scilicet prima differentia secunda, tertia.</p>
+      <p id="KEINLIL0281">Prima differentia octavi toni habet unam inceptionem in fa, videlicet in c-solfaut; exemplum: "Hodie scietis".</p>
+      <p id="KEINLIL0282">Secunda differentia octavi toni etiam incipitur in fa, in c-solfaut; exemplum: "Euntes ibant".</p>
+      <p id="KEINLIL0283">Tertia differentia octavi toni duas habet inceptiones, videlicet in mi et in fa, in E-lami et F-faut; exemplum primae: "Hodie caelesti sponso", exemplum secundae: "Virgam virtutis tuae".</p>
+      <p id="KEINLIL0284">Sciendum quod usus dat quartam differentiam octavi toni sub qua una tantum antiphona cantatur, videlicet "Nos qui vivimus" et dicitur tonus peregrinus ut patet.</p>
+      <p id="KEINLIL0285">Incipit de psalmorum impositione secundum praedictos octo tonos.</p>
+      <p id="KEINLIL0286">/p. 30/ Notandum quod primus tonus et sextus in principio et in medio similantur, sed in fine variantur. Item quartus et quintus et septimus in principio et in medio variantur et aliter terminantur. Secundus et octavus in principio et in medio similantur, sed in fine variantur. Item tertius in medio ascendit ut patet.</p>
+      <p id="KEINLIL0287">Primus tonus.</p>
+      <p id="KEINLIL0288">Primus in medio tenet la sol fa sub tali melodia.</p>
+      <p id="KEINLIL0289">Secundus tonus.</p>
+      <p id="KEINLIL0290">Secundus in medio tenet sol fa sub tali melodia.</p>
+      <p id="KEINLIL0291">Tertius tonus.</p>
+      <p id="KEINLIL0292">Tertium tolle ante medium et sic da finem suum.</p>
+      <p id="KEINLIL0293">Quartus tonus.</p>
+      <p id="KEINLIL0294">Quartus in medio ascendit et sic ab alto cadit.</p>
+      <p id="KEINLIL0295">
+      <pb n="[134]" />Quintus tonus.</p>
+      <p id="KEINLIL0296">Ut mi sol quintus tenet et est superbus.</p>
+      <p id="KEINLIL0297">Sextus tonus.</p>
+      <p id="KEINLIL0298">Sextus ut primus imponitur, sed aliter terminatur.</p>
+      <p id="KEINLIL0299">Septimus tonus.</p>
+      <p id="KEINLIL0300">Septimus quintum in medio respicit, sed in fine despicit.</p>
+      <p id="KEINLIL0301">Octavus tonus.</p>
+      <p id="KEINLIL0302">Octavus secundo in medio similatur, sed sic terminatur.</p>
+      <p id="KEINLIL0303">Litterae initiales antiphonarum:</p>
+      <p id="KEINLIL0304">Primi toni C-faut, D, F, a-lamire.</p>
+      <p id="KEINLIL0305">Secundi toni [Gamma] A, C, D, F-faut.</p>
+      <p id="KEINLIL0306">Tertii toni E-lami, G, [sqb], c-solfaut.</p>
+      <p id="KEINLIL0307">Quarti toni C-faut, D. E, F, a-lamire.</p>
+      <p id="KEINLIL0308">Quinti toni F-faut, a, c-solfaut.</p>
+      <p id="KEINLIL0309">Sexti toni C-faut, F, a-lamire.</p>
+      <p id="KEINLIL0310">Septimi toni G-solreut, [sqb], c, d-lasolre.</p>
+      <p id="KEINLIL0311">Octavi toni C-faut, d. e. f, g, a, c-solfaut.</p>
+      <p id="KEINLIL0312">Tonus est regula quae finem cantus diiudicat omnem.</p>
+      <p id="KEINLIL0313">/p. 31/ Unica si fuerit vox, invariata manebit.</p>
+      <p id="KEINLIL0314">Si duplex fuerit, decet, ut bis sic varietur.</p>
+      <p id="KEINLIL0315">Sub b fa[sqb]mi binas voces volo demi,</p>
+      <p id="KEINLIL0316">Quas non mutabis, quia duplex est ibi clavis.</p>
+      <p id="KEINLIL0317">Sed dum sit trina, tunc fit mutatio sena.</p>
+      <p id="KEINLIL0318">Vox musicalis est sonus discretus naturalibus instrumentis formatus.</p>
+      <p id="KEINLIL0319">Clavis musicalis est decens cantus reseratio et vocum musicalium demonstratio.</p>
+      <p id="KEINLIL0320">Cantus est debita modulatio sex vel quinque vocum.</p>
+      <p id="KEINLIL0321">Mutatio est vocis in vocem sub eodem sono variatio.</p>
+    </body>
+  </text>
+</TEI>

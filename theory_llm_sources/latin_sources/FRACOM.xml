@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Compendium discantus</title>
+        <title type="abbrev">FRACOM</title>
+        <author>Franco</author>
+        <date notBefore="1200" notAfter="1299">13th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Bradley Jon Tucker</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Albert C. Rotola</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>S.J.</persName>
+      </respStmt>
+      <date>1991</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>Scriptorum de musica medii aevi nova series a Gerbertina altera</emph>, 4 vols., ed. Edmond de Coussemaker (Paris: Durand, 1864-76; reprint ed., Hildesheim: Olms, 1963), 1:154–56.
+</bibl>
+        <bibl type="work">
+          
+<title>Ps.-Franco de Colonia: Compendium discantus</title>
+          
+<idno type="LML">PS.-FRANCO comp.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">GB-Ob Bodley 842, 60-62v</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="FRACOM0001">
+      <pb n="[154]" />Compendium Discantus</p>
+      <p id="FRACOM0002">Magistri Franconis</p>
+      <p id="FRACOM0003">Capitulum primum.</p>
+      <p id="FRACOM0004">Premissis consonantiis et dissonantiis, continet quinque regulas ascendendi in discantu.</p>
+      <p id="FRACOM0005">Ego Franco de Colonia utililati juvenam cupiens deservire, compendiosum tractatum de discantu, ut subsequeretur, composui.</p>
+      <p id="FRACOM0006">Primo vero notandum XIII esse species consonantiarum et dissonantiarum musice in genere diatonico, videlicet: unisonus, tonus, semitonium, ditonus, semiditonus, tritonus, diatesseron, diapente, tonus cum diapente, semitonium cum diapente, ditonus cum diapente, semiditonus cum diapente et diapason.</p>
+      <p id="FRACOM0007">Dissonantie pure sunt sex, scilicet: semitonium, tonus, tritonus, semitonium cum diapente, ditonus cum diapente, semiditonus cum diapente.</p>
+      <p id="FRACOM0008">Consonantiarum tres sunt per se, et perfecte, scilicet: unisonus, diapason, et diapente.</p>
+      <p id="FRACOM0009">Tres sunt per accidens, scilicet: semiditonus, ditonus in ordine ad diapente vel unisonum, (tonus) cum diapente in ordine ad diapason; una est perfecta, et non per accidens.</p>
+      <p id="FRACOM0010">Regula prima.--Ad unisonum igitur existens in diapason supra, descende tres et fac diapente; et existens in diapente, ascende tres et fac diapason, vel descende quatuor, et fac unisonum cum tenore; et existens in unisono cum tenore, ascende quatuor, et fac diapente supra, vel descende quatuor, et fac diapente infra; ut hic:</p>
+      <p id="FRACOM0011">[staff5]</p>
+      <p id="FRACOM0012">Quadruplum.</p>
+      <p id="FRACOM0013">[staff5]</p>
+      <p id="FRACOM0014">Triplum, discantes.</p>
+      <p id="FRACOM0015">[staff5]</p>
+      <p id="FRACOM0016">Medius.</p>
+      <p id="FRACOM0017">[staff5]</p>
+      <p id="FRACOM0018">
+      <pb n="[155]" />Regula secunda.--Ad ascensum unius, existens in diapason, descende duo et fac diapente, et existens in diapente, descende tres et fac unisonum cum tenore; et existens cum tenore, descende tres, et fac diapente infra, ut hic patet:</p>
+      <p id="FRACOM0019">[staff5]</p>
+      <p id="FRACOM0020">Triplum, discantus,</p>
+      <p id="FRACOM0021">[staff5]</p>
+      <p id="FRACOM0022">Medius.</p>
+      <p id="FRACOM0023">[staff5]</p>
+      <p id="FRACOM0024">Regula tertia.--Ad ascensum duarum, existens in diapason, descende unam, et fac diapente; et existens in diapente, descende tertiam, et fac unisonum cum tenore; descende duo, et fac diapente infra, ut hic:</p>
+      <p id="FRACOM0025">[staff5]</p>
+      <p id="FRACOM0026">[staff4]</p>
+      <p id="FRACOM0027">[staff4]</p>
+      <p id="FRACOM0028">Regula quarta.--Ad ascensum tertium, existens in diapason, stes ibi et fac diapente, et existens in diapente, descende unam et fac unisonum cum tenore; et existens cum tenore, descende unam, et fac diapente infra, ut hic patet:</p>
+      <p id="FRACOM0029">[staff5]</p>
+      <p id="FRACOM0030">[staff5]</p>
+      <p id="FRACOM0031">[staff4]</p>
+      <p id="FRACOM0032">Regula quinta.--Ad ascensum quatuor, existens in diapason, ascende unam, et fac diapente, vel descende tres et fac unisonum.</p>
+      <p id="FRACOM0033">[staff5]</p>
+      <p id="FRACOM0034">[staff5]</p>
+      <p id="FRACOM0035">[staff5]</p>
+      <p id="FRACOM0036">Capitulum secundum.</p>
+      <p id="FRACOM0037">Continet quatuor regulas descendendi pro discantu.</p>
+      <p id="FRACOM0038">Regula prima.--Ad descensum unius, existens in diapente infra, ascende quatuor, et fac unisonum cum tenore; et existens cum tenore, ascende quatuor, et fac diapente; et existens in diapente, ascende duo, et fac diapason, ut hic patet:</p>
+      <p id="FRACOM0039">[staff5]</p>
+      <p id="FRACOM0040">[staff5]</p>
+      <p id="FRACOM0041">[staff5]</p>
+      <p id="FRACOM0042">
+      <pb n="[156]" />Regula secunda.--Ad descensum duarum, existens in diapente infra, ascende duo ad faciendum unisonum cum tenore; et existens cum tenore, ascende duo, et fac diapente; et existens in diapente, ascende unum, et fac diapason, ut hic patet:</p>
+      <p id="FRACOM0043">[staff5]</p>
+      <p id="FRACOM0044">[staff5]</p>
+      <p id="FRACOM0045">[staff5]</p>
+      <p id="FRACOM0046">Regula tertia.--Ad descensum trium, existens in diapente infra, ascende unam, et fac unisonum cum tenore; et existens cum tenore, ascende unam, et fac diapente; et existens in diapente, fac unisonum, ut hic patet:</p>
+      <p id="FRACOM0047">[staff5]</p>
+      <p id="FRACOM0048">[staff5]</p>
+      <p id="FRACOM0049">[staff4]</p>
+      <p id="FRACOM0050">Regula quarta.--Ad descensum quatuor, existens in diapason infra, ascende quinque, et fac unisonum cum tenore; et existens in diapente infra, fac unisonum, vel ascende quinque, et fac diapente; et existens in unisono cum tenore, fac unisonum, vel ascende quinque, et fac diapason; et existens in diapente supra, ascende unam, et fac diapason, ut:</p>
+      <p id="FRACOM0051">[staff4]</p>
+      <p id="FRACOM0052">[staff4]</p>
+      <p id="FRACOM0053">Capitulum tertium.</p>
+      <p id="FRACOM0054">Introducit quasdam regulas generales quibus discantor continue se dirigat.</p>
+      <p id="FRACOM0055">Patet ergo ex predictis omnem bene discantare volentem in aliqua consonantiarum perfectarum existere; apertus debet tum semiditonum atque ditonum commiscere, quando unisonus vel diapente convenientissime possit subsequi, nec tono cum diapente utendum est, nisi quando diapason cum aperta decentia comitatur.</p>
+      <p id="FRACOM0056">Hic ergo discernendum est, quod, quando tenor ascendit, discantus descendere debet, et e converso; semper meliores et convenientores concordantias capiendo; longas, breves, semibreves inserendo.</p>
+      <p id="FRACOM0057">Potest tamen quandoque simul ascendere et descendere cum tenore, propter cantus pulcritudinem et ornatum, quinque discordantias in locis debitis commiscendo; semper tamen in principio perfectionis bonam concordantiam obtinendo.</p>
+      <p id="FRACOM0058">Debet etiam discantor firmiter in mente tenere claves tam tenoris quam discantus, ut infallibiter discantare valeat sub et supra. Et quando per rectam musicam consonantias utiles habere non poterit, falsam fingat, sicut placeat.</p>
+      <p id="FRACOM0059">Et nota, quando volueris ascendere supra diapason, imaginabis te esse cum tenore in unisono, et eodem modo discantare, sicut supra tenorem inferius discantari, quia non differt, nisi secundum magis acutum. Et talis ascensus multiplex est in infinitum.</p>
+      <p id="FRACOM0060">Explicit compendium magistri Franconis.</p>
+    </body>
+  </text>
+</TEI>

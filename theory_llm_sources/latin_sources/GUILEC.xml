@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>[Lectio Guidonis]</title>
+        <title type="abbrev">GUILEC</title>
+        <author>Anonymous</author>
+        <date notBefore="800" notAfter="1099">9th-11th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Peter Slemon</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Anastasia Arapova</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>2001</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Joseph Smits van Waesberghe, "Relazione inedita di una lezione di Guido d'Arezzo sulla teoria della musica," 
+<emph>Note d'Archivio per la storia musicale</emph> 13 (1936): 38-51, 42–45.
+</bibl>
+        <bibl type="work">
+          
+<title>Guidonis Aretini: Lectio</title>
+          
+<idno type="LML">LECT. GUID.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">B-Br 10162/6, 93r-v (105r-v)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-DS 1988, 169v-170v</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="GUILEC0001">
+      <pb n="[42]" />Cum sint quattuor disciplinae mathematicae, tres laborant in investigatione veritatis. Musica vero non solum investigationi veritatis et speculationi (D. 170r) sed et moralitati coniuncta est. Nichil est enim tam 
+      <pb n="[43]" />proprium humanitati tamque morale quam remitti dulcibus modis, astringi contrariis; idque non singulare est aliquibus vel studiis vel aetatibus sed generale omnibus.</p>
+      <p id="GUILEC0002">Ita enim habet naturalis affectio musicae et senes penetrat et iuvenes et infantes ut nulla omnino sit aetas quae a cantilenae dulcis delectatione seiuncta sit.</p>
+      <p id="GUILEC0003">Nec inmerito quippe cum ipsa anima musicis consonantiis per philosophos dicatur coniuncta et nos quoque delectamur in sonis quod coaptatum recognoscimus in nobis. Amica est enim similitudo, dissimilitudo odiosa.</p>
+      <p id="GUILEC0004">Huius itaque tam uaturalis, tam delectantis musicae tria sunt genera et est prima mundana illa convenientia quae est cum elementis in variatione temporum;</p>
+      <p id="GUILEC0005">secunda humana illa videlicet concordia corporis et animae velut graves et acutae voces distributa qua etiam ipsa ad invicem copulantur membra;</p>
+      <p id="GUILEC0006">tercia musica in quibusdam instrumentis est constituta quae amministratur aut intensione ut nervis aut spiritu ut tibiis aut aqua aut percussione aliqua ut in nolis unde diversi efficiuntur soni sine quibus sonis nulla potest formari consonantia.</p>
+      <p id="GUILEC0007">Sed sonus praeter pulsum quendam percussionemque non redditur; pulsus vero atque percussio nullo modo esse potest nisi praecesserit motus.</p>
+      <p id="GUILEC0008">Cunctis enim immobiliter stantibus, nullus erit sonus quia non impellitur alterum ab altero.</p>
+      <p id="GUILEC0009">Idcirco diffinitur sonus percussio aeris usqne ad auditum indissoluta.</p>
+      <p id="GUILEC0010">Sed quia varii sunt motus, varii etiam soni ex eis procreantur; variatio autem sonorum ad invicem relata aut consona erit aut dissona; sed ars repellit dissonam quae solam amplectitur consonantiam.</p>
+      <p id="GUILEC0011">
+      <pb n="[44]" />Quae sic diffinitur: Consonantia est dissimilium vocum inter se in unum redacta concordia.</p>
+      <p id="GUILEC0012">Dissimiles autem voces in unum concorditer rediguntur aut per tonum aut per semitonium aut ditonum aut semiditonum aut diatessaron aut diapente aut diapason; praeter has, simphonia nulla reperitur et est tonus secundum Boetium vocis casus emmeles idest aptus melo in unam intensionem vel remissionem.</p>
+      <p id="GUILEC0013">Secundum Martianum, tonus est spatium cum legitima quantitate quae divisis inter se conficitur sonis.</p>
+      <p id="GUILEC0014">Semitonium dicitur non perfectus tonus, semum enim imperfectum dicitur. Quod si velit aliquis estimare dici semitonium quasi dimidium tonum, huic contradicit Boetius qui ostendit semitonium in duo aeque dividi non posse.</p>
+      <p id="GUILEC0015">Ditonus est duorum tonorum connexio, a c in e.</p>
+      <p id="GUILEC0016">Semiditonus toni et semitonii coniunctio, a d in f.</p>
+      <p id="GUILEC0017">Sed notandum has duas consonantias proportionales non esse sicut reliquae sunt.</p>
+      <p id="GUILEC0018">Diatessaron est consonantia vocum quidem quattuor, intervallorum trium, a D in G unde et diatessaron interpretatur de quattor, intervallorum trium, a D in G unde et diatessaron interpretatur de quattor vocibus.</p>
+      <p id="GUILEC0019">Diapente interpretatur de quinque; constat enim de quinque vocibus et quattuor intervallis ita dispositis ut contineat tres tonos et unum semitonium.</p>
+      <p id="GUILEC0020">Diapason interpretatur quoque de omnibus; constat enim quinque tonis et duobus semitoniis in utroque latere eandem habens litteram 
+      <pb n="[45]" />quia prima et octava semper est eadem, septem vero tantum discretae, unde et Virgilius septem discrimina vocum quia et si plures numerentur in alfabeto non sunt aliae sed eaedem repetitae.</p>
+      <p id="GUILEC0021">De earum vocum proportionali inventione egit Boetius ostendens qualiter inventae sint a Pytagora, qualiter distributae in diversis instrumentis.</p>
+      <p id="GUILEC0022">Wido autem videns tantam profunditatem operis non posse comprehendi ab omnibus statuit epilogum quendam inde excerpere inserens quamlibet utiliora et faciliora.</p>
+      <p id="GUILEC0023">Itaque materia eius sunt septem discrimina enim quae distribuuntur ad informandas has quinque consonantias proportionales.</p>
+      <p id="GUILEC0024">Modum astruit enarmonicum quia sicut karacteres vel qualitates sunt cum metris, ita colores vel species sunt in cantibus videlicet tres idest diatonicum, cromaticum, enarmonicum.</p>
+      <p id="GUILEC0025">Ex quibus speciebus una propter nimiam austeritatem displicuit.</p>
+      <p id="GUILEC0026">Secunda vero iocularem mollitiem descendit.</p>
+      <p id="GUILEC0027">Tercia ex utraque temperata communi usui placuit..</p>
+      <p id="GUILEC0028">Dicitur autem diatonicum eo quod per tonum et tonum progrediatur; chroma autem quod dicitur color quasi ab hac prima intentione coloratum et immutatum; enarmonicum unice servans harmoniam idest concinentiam.</p>
+      <p id="GUILEC0029">Intentio vero eius est rudes informare auditores ad peritiam et facilitatem canendi quod facit ostendendo has consonantias quasi claves huius scientiae de quibus omnis cantus constat, diversificatus quidem per arsin et thesin.</p>
+    </body>
+  </text>
+</TEI>

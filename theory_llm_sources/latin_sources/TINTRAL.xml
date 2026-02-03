@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Tractatus alterationum</title>
+        <title type="abbrev">TINTRAL</title>
+        <author>Tinctoris, Johannes</author>
+        <date notBefore="1400" notAfter="1499">15th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Stephen E. Hayes</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Peter M. Lefferts</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Angela Mariani</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1992</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>Johannis Tinctoris Opera theoretica</emph>, ed. Albert Seay, 3 vols. in 2, Corpus scriptorum de musica, vol. 22 ([Rome]: American Institute of Musicology, 1975-78), 1:173–79. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Iohannes Tinctoris: Tractatus alterationum</title>
+          
+<idno type="LML">IOH. TINCT. alt.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">B-Br II 4147, 44v-47</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Gu 70 (71), 169-171v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">E-VAu 835, 67-70</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Bu 2573, 75-79</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="TINTRAL0001">
+      <pb n="[173]" />Tractatus alterationum editus a Magistro Johanne Tinctoris, in legibus licentiato Regisque Magnae Siciliae capellano.</p>
+      <p id="TINTRAL0002">Prologus</p>
+      <p id="TINTRAL0003">Sanctissimo legum interpreti suavissimoque musarum cultori, Guillelmo Guingnandi, prothocapellano serenissimi Ducis Mediolani, Johannes Tinctoris inter legum ac artium mathematicarum studiosos minimus, honorem perpetuumque decus.</p>
+      <p id="TINTRAL0004">Nuper, egregie vir, meas usque ad aures rumor subvolavit quemdam cantorem tuo subiectum imperio me palam asseruisse circa quandam alterationem musicam errasse, eo quod quom in manibus suis habuisset officium nostrum, iam olim super "Nos amis" editum, in ipso sub tempore perfecto inter duas breves, duas semibreves, quarum ultima non alteratur, hoc in modo reperisset:</p>
+      <p id="TINTRAL0005">[ClefF4,O,SP,SP,Bv,Mv,Mv,Sv,Bv on staff5]</p>
+      <p id="TINTRAL0006">Exemplum</p>
+      <p id="TINTRAL0007">In quo se admodum esse rusticum ostendit, non advertens alterationem aliquam non debere fieri ubi nullus est defectum numerus, eius, licet rusticitati hoc etenim iura praecipiunt. Sit parcendum non tamen obiectum errorem ne tacendo huic consentire videar impurgatum censui reliquendum. Quamobrem hoc opusculum edidi et quidquid de notarum alterationibus sentiam in eo posui, ut, quom id perlegere dignatus fueris, me reprehensum inique percipias et adversus calumniatorem pro veritate certando, quod proprium est viri fortis, tuearis et protegas.</p>
+      <p id="TINTRAL0008">Capitulum I--Quid sit alteratio.</p>
+      <p id="TINTRAL0009">Alteratio est proprii valoris alicuius notae duplicatio. Notam etenim 
+      <pb n="[174]" />alterari nihil aliud est quam cum suo proprio valoris alterius similis effici. Hinc circa notarum alterationem primo generaliter versando octo generales regulas tradere proposui.</p>
+      <p id="TINTRAL0010">Prima generalis regula</p>
+      <p id="TINTRAL0011">Prima generalis regula est quod ubicumque duae notae eiusdem speciei ternario numero subiectae inveniuntur, sola ultima earum alteratur. Duae autem notae huiusmodi solae inveniri dicuntur quando non habent aliquam similem continuam aut syncopatam praecedentem quae cum illis numerari possit. Namque si aliqua similis quae cum illis numerari possit continue vel per syncopam praecedat, tunc omnes tres connumerabuntur, et eo quod cessante causa cesset effectus, cessante numeri imperfectione cessabit alteratio, ut hic patet:</p>
+      <p id="TINTRAL0012">[ClefC4,Od,3LP,3LP,3LP,MXv,Lig2vLacddx,MXv,Lv,Lig2va,Lv,Bv,Lig2vcssna,Sv,Bv,Sv,Mv,pt,Mv,Mv,Sv,Lv,Lig2vcdsnod,Sv,pt,Mv,Sv,pt,Mv,Mv,Sv,Lv,MXv on staff5]</p>
+      <p id="TINTRAL0013">Exemplum</p>
+      <p id="TINTRAL0014">Dupliciter autem contingere potest quod duae notae ternario numero subiectae similem non habeant praecedentem quae cum illis numerari possit. Primo, quando realiter nulla praecedit; secundo, quando aliqua praecedit, sed impletione ad alium locum reduci ostenditur, vel ab illis puncto dividitur, ut hic:</p>
+      <p id="TINTRAL0015">[ClefC3,Od,3LP,3LP,3LP,Lig2vcdsnod,MXv,Lv,B,Lig2vcdsnod,L,Bv,pt,Sv,pt,Lig3vcssnaa,pt,Sv,Mv,Mv,Mv,Lv,Lig3vcdsnoda,MXv on staff5]</p>
+      <p id="TINTRAL0016">Exemplum</p>
+      <p id="TINTRAL0017">Secunda generalis regula</p>
+      <p id="TINTRAL0018">Secunda generalis regula est quod non refert si duae notae solae inventae 
+      <pb n="[175]" />quarum ultima venit alteranda sint continuae aut syncopatae, quia dum in istis sicut in aliis requiritur perfectio, consequenter accidit alteratio, sicut hic:</p>
+      <p id="TINTRAL0019">[ClefC3,Od,3LP,3LP,3LP,MXv,Lig2vLacddx,MXv,pt,Lv,MXv,pt,Lv,MXv,Lv,Lig2va,Lv,pt,Sv,Bv,pt,Sv,Bv,MXv on staff5]</p>
+      <p id="TINTRAL0020">Exemplum</p>
+      <p id="TINTRAL0021">Tertia generalis regula</p>
+      <p id="TINTRAL0022">Tertia generalis regula est quod omnis nota quae alteratur, necessario ante suam maiorem propinquam alteratur, ut longa ante maximam, brevis ante longam, semibrevis ante brevem et minimam ante semibrevem. Cuius ratio duplex est, prima, quoniam loco notae alterandae maior propinqua poni non potest, eo quod similis ante similem non imperficitur. Unde quod per alterationem valet tantummodo duas, necesse valeret tres. Ad quod evitandum secunda primae similis est alterabilis.</p>
+      <p id="TINTRAL0023">Secunda ratio est, quoniam duae notae minores eiusdem speciei ante maiorem remotam aut remotiorem aut remotissimam positae, ut duae breves ante maximam, duae semibreves ante longam, duae minimae ante brevem aut duae semibreves ante maximam, duae minimae ante longam, aut duae minimae ante maximam possunt eam imperfecere, et sic absque alteratione numerus est in perfectione, ut hic patet:</p>
+      <p id="TINTRAL0024">[ClefC4,Od,3LP,MXv,Lig2vd,MXv,pt,Bv,Lig2vLacddx,Lig2va,Lv,Bv,Lig3vcssnoda,Lv,Lv,Lig2va,Sv,Mv,Mv,Sv,Lv,pt,Lig3vcdsnodaMXcddx,Lv,pt,Lig3vcssndd,Bv,pt,Mv,Mv,Bv,Lig2vcssna,Sv,Lig2vcssnod,MXv,Lv,pt,Mv,Mv,Lv,Lig3vaa,pt,Mv,Mv,MXv,Lig2vLacddx,Lv,MXv on staff5]</p>
+      <p id="TINTRAL0025">Exemplum</p>
+      <p id="TINTRAL0026">Quarta generalis regula</p>
+      <p id="TINTRAL0027">Quarta generalis regula est quod licet duas notas minores ante maiorem propinquam solas inventas, alia maior remota vel remotior vel remotissima 
+      <pb n="[176]" />ab illis duabus imperfectibilis praecedat, tamen, eo quod imperfectio tamquam odiosa magis quam alteratio sit evitanda, non haec ab illis imperficietur. Immo ultima illarum alterabitur, nisi puncto ab invicem vel ambae ab ipsa maiore propinqua dividantur, ut hic patet:</p>
+      <p id="TINTRAL0028">[ClefC3,Od,3LP,3LP,3LP,MXv,Lig3vad,MXv,Lig4vcssnaaod,MXv,Mv,Mv,Lig2vcssnod,Lv,Sv,pt,Sv,Bv,Mv,Mv,pt,Lig3vcssnaa,Lv,Lig4vadacddx,Lv on staff5]</p>
+      <p id="TINTRAL0029">Exemplum</p>
+      <p id="TINTRAL0030">Quinta generalis regula</p>
+      <p id="TINTRAL0031">Quinta generalis regula est quod omnis nota veniens alteranda quoad formam, necessario est integra. Eius vero socia per partes potest esse divisa, ut hic patet:</p>
+      <p id="TINTRAL0032">[ClefC4,Od,3LP,MXv,Lig2vcdsnod,Sv,Mv,Mv,Mv,Lig2vcssnod,Lv,MXv,Lig2vd,Bv,pt,Lig2vcssnd,Sv,Bv,Lv,Bv,pt,Mv,Mv,Sv,Bv,Sv,Sv,pt,SMv,SMv,Mv,Sv,pt,Mv,Sv,MXv on staff5]</p>
+      <p id="TINTRAL0033">Exemplum</p>
+      <p id="TINTRAL0034">Sexta generalis regula</p>
+      <p id="TINTRAL0035">Sexta generalis regula est quod licet pausae loco notarum sociarum alterandarum aut partium suarum habeant vim inducendi alterationem, nulla tamen alterari potest, ut hic patet:</p>
+      <p id="TINTRAL0036">[ClefC4,Od,3LP,3LP,3LP,3LP,Lv,MXv,Lv,BP,Bv,Lv,MXv,pt,Bv,SP,Sv,Bv,Lv,Sv,MP,Mv,Sv,Lig2va,Lig2vLacddx,Lv,C,3LP,3LP,3LP,Lv,3LP,MXv,Bv,Lv,BP,Bv,O,MXv,Bv,Sv,SP,Bv,Lig2vcssna,Sv,Lig2vd,Od,Lig2va,Lig2vcssna,Mv,MP,Sv,Lig2va,Sv,pt,Sv,Bv,Lv on staff5]</p>
+      <p id="TINTRAL0037">Exemplum</p>
+      <p id="TINTRAL0038">
+      <pb n="[177]" />Praeterea talis ante pausas perfectas fit alteratio, qualis ante notas quibus sunt appropriatae. Hinc fit ut ante pausam longae in modo minori perfecto alteretur brevis, ante pausam brevis in tempore perfecto semibrevis, et ante pausam semibrevis in maiori prolatione minima, ut hic patet:</p>
+      <p id="TINTRAL0039">[ClefC4,Od,3LP,3LP,3LP,Lig2vLacddx,Lv,Lig2va,3LP,3LP,Lv,Bv,Bv,Lig2vcssnod,BP,Lv,Lig2vcssna,Mv,Mv,SP,Lig2vcssnod,Sv,Bv,MXv on staff5]</p>
+      <p id="TINTRAL0040">Exemplum</p>
+      <p id="TINTRAL0041">Septima generalis regula</p>
+      <p id="TINTRAL0042">Septima generalis regula est quod ligatura non facit alterationem. Unde si tres notae inveniantur ante maiorem propinquam quarum duae ultimae sunt colligatae ac etiam ipsi maiori colligatae, licet aliqua maior propinqua vel remota vel remotior, eas praecedat quae a prima earum posset imperfici, tamen, eo quod imperfectionem atque alterationem quantum possumus propter improprietatem utriusque fugere debemus, ultima non alteratur. Immo cum duabus primis numeratur nisi puncto a duabus ultimis prima dividatur, ut hic patet:</p>
+      <p id="TINTRAL0043">[ClefC4,O,3LP,3LP,3LP,MXv,Lig2vLacddx,Lv,Lig2vLacddx,Bv,Lig3vad,Lv,MXv,Sv,Lig2vcssna,Lig2va,Bv,Sv,pt,Lig3vcssnda,Lv on staff5]</p>
+      <p id="TINTRAL0044">Exemplum</p>
+      <p id="TINTRAL0045">Talis attamen colligationis modus, nisi fiat propter dicta supposita, plurimum est fugiendus. Multo nempe convenientius aut nulla talium trium notarum aut omnes, aut prima et secunda colligantur, ut hic patet:</p>
+      <p id="TINTRAL0046">[ClefC4,O,3LP,3LP,3LP,MXv,Lv,Lv,Lv,Lig2vMXcddxacddx,Lig3vcdsnoda,Lv,Lv,MXv,Lig2vcssna,Sv,Bv,Bv,Bv,Sv,pt,Lig3vcssnoda,Lv on staff5]</p>
+      <p id="TINTRAL0047">Exemplum</p>
+      <p id="TINTRAL0048">Octava generalis regula</p>
+      <p id="TINTRAL0049">Octava generalis regula est quod omnis nota ternario numero subiecta 
+      <pb n="[178]" />est alterabilis. Unde quom longa in modo maiori perfecto, brevis in modo minori perfecto, semibrevis in tempore perfecto et minima in prolatione maiori numero ternario sint subiectae in ipsis quantitatibus veniunt alterandae. De quarumquidem alterationibus, ut clarius intelligatur, nunc particulariter tractare proposuimus.</p>
+      <p id="TINTRAL0050">Capitulum II--De alteratione longae.</p>
+      <p id="TINTRAL0051">Si duae longae solae in modo maiori perfecto ante maximam inveniantur, ultima illarum alteratur, ut hic patet:</p>
+      <p id="TINTRAL0052">[ClefC4,O,3LP,3LP,3LP,MXv,Lig2vLacddx,MXv,pt,Lv,MXv,pt,Lv,MXv,Lig3vLaLacddx,Lig2vd,MXv on staff5]</p>
+      <p id="TINTRAL0053">Exemplum</p>
+      <p id="TINTRAL0054">De alteratione brevis</p>
+      <p id="TINTRAL0055">Si duae breves solae in modo minori perfecto ante longam aut eius pausam inveniantur, ultima illarum alteratur, ut hic patet:</p>
+      <p id="TINTRAL0056">[ClefC4,C,3LP,3LP,Lig2vcdsnod,Lv,Lig2va,Lv,Bv,pt,Lig2vcdsnod,Bv,Lig2va,Lig2vLa,pt,Lig5vadaa,3LP,Lv,Lig3vaod,MXv on staff5]</p>
+      <p id="TINTRAL0057">Exemplum</p>
+      <p id="TINTRAL0058">De alteratione semibrevis</p>
+      <p id="TINTRAL0059">Si duae semibreves solae in tempore perfecto ante brevem aut eius pausam inveniantur, ultima illarum alteratur, ut hic patet:</p>
+      <p id="TINTRAL0060">[ClefC4,Od,2LP,Bv,Lig2vcssnod,Bv,Lig2vcssna,BP,Bv,pt,Sv,Bv,pt,Sv,Lig2va,Lig2vcssna,Sv,Lig2vcssnod,Bv,Lig2vcssna,Sv,Lig2vcssna,BP,Lig2va,MXv on staff5]</p>
+      <p id="TINTRAL0061">Exemplum</p>
+      <p id="TINTRAL0062">
+      <pb n="[179]" />De alteratione minimae</p>
+      <p id="TINTRAL0063">Si duae minimae solae in maiori prolatione ante semibrevem aut eius pausam inveniantur, ultima illarum alteratur, ut hic:</p>
+      <p id="TINTRAL0064">[ClefC4,Cd,2LP,Sv,Mv,Mv,Lig2vcssna,Mv,Mv,SP,Sv,Mv,pt,Mv,Mv,Mv,Mv,Mv,Sv,Mv,Mv,Mv,Mv,Mv,SP,Sv,Lig2vcssna,Sv,Mv,pt,Mv,Mv,Sv,Mv,pt,Mv,Sv,Lv on staff5]</p>
+      <p id="TINTRAL0065">Exemplum</p>
+      <p id="TINTRAL0066">Itaque sufficienter de ipsis notarum alterationibus tam generaliter quam particulariter tractatum mihi profecto visum est. Si tamen aliqua necessaria circa eas praetermiserim, aut falsa praeceperim, calumniatorem precor ut illa subiungere aut ista corrigere dignetur. Namque tunc reprehensione dignum meme existimabo ac eum praeceptorem autentissimum hic et ubique praedicabo.</p>
+    </body>
+  </text>
+</TEI>

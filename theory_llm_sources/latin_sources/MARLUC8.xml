@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Lucidarium, tractatus octavus</title>
+        <title type="abbrev">MARLUC8</title>
+        <author>Marchetus de Padua</author>
+        <date notBefore="1300" notAfter="1399">14th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Stephen E. Hayes</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Peter M. Lefferts</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1990</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>The Lucidarium of Marchetto of Padua: A Critical Edition, Translation, and Commentary</emph>, ed. and trans. by Jan W. Herlinger (Chicago and London: The University of Chicago Press, 1985), 268–306. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Marchettus de Padua: Lucidarium in arte musicae planae</title>
+          
+<idno type="LML">MARCH. luc.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">A-SP Cod. 135/6 (29.4.4), 21v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Br II 785, 15-38v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Br II 4144, 1-41</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">CH-E 689, 1-44</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">E-Sc 5-2-25, 5-20v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">E-Sc 5-2-25, 76v-77v, 124-128 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-SDI 42, 1-33v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ob Canon. Misc. 42, 184-185 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-BREs D 21, 185v-186v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-CATc D 39, 157-189</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fl Conv. Soppr. 388, 34v-52v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fr 734, 74-101</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Ma D. 5 inf., 52-77v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Ma I. 20 inf., 36v-39 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-PEc 1013, 5-45v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-PIu 606 (IV.9), I/1-50</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat lat. 5322, 1-48</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat Reg. lat. 1146, 7-8 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Sc L.V.30, 91v-119</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-TRE without shelfmark, 15-32v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Vnm Lat. Cl. VIII.85 (3579), 1-10 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">US-Cn Case Ms. 54.1, 10v-33</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">US-Wc ML 171 J 6 Case, hv-47</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="MARLUC80001">
+      <pb n="[268]" />1. INCIPIT TRACTATUS OCTAVUS</p>
+      <p id="MARLUC80002">DE NECESSARIIS AD COGNOSCENDUM NATURAM TONORUM ET SEMITONIORUM</p>
+      <p id="MARLUC80003">2. Quoniam omnis tonus et semitonium in voce consistit et etiam notis ex quibus formatur,</p>
+      <p id="MARLUC80004">3. igitur ad cognitionem perfectam ipsorum videndum est de permutationibus, mutationibus, et coniunctionibus vocum,</p>
+      <p id="MARLUC80005">4. ex quibus diversificatis tonorum diversitas generatur,</p>
+      <p id="MARLUC80006">5. ad que videnda hoc ordine procedemus:</p>
+      <p id="MARLUC80007">6. primo enim de permutatione dicemus, per quam propter consonantiam in dyatonicum et enarmonicum aut in cromaticum et dyesim est divisibilis quisque tonus;</p>
+      <p id="MARLUC80008">7. secundo de ipsa mutatione dicemus, que fit in quolibet loco manus ubi due vel tres voces sub una littera includuntur;</p>
+      <p id="MARLUC80009">
+      <pb n="[270]" />8. tercio de ipsis coniunctionibus tractabimus, per quas in musica est dispositio sive ordinatio sonorum sive vocum ad invicem in sillabis et dictionibus;</p>
+      <p id="MARLUC80010">9. et ex hiis omnibus tonorum et semitoniorum musice naturalitas apparebit.</p>
+      <p id="MARLUC80011">1. CAPITULUM PRIMUM</p>
+      <p id="MARLUC80012">DE PERMUTATIONE QUID SIT ET UBI FIAT</p>
+      <p id="MARLUC80013">2. Permutatio est variatio nominis vocis seu note in eodem spacio seu linea in diverso sono.</p>
+      <p id="MARLUC80014">3. Fit enim permutatio ubi tonus dividitur propter consonantiam in dyatonicum et enarmonicum aut in cromaticum et dyesim vel e converso, ut hic:</p>
+      <p id="MARLUC80015">
+      <pb n="[272]" />[Marchetus, 272] 
+      <figure>
+        <graphic url="/images/MARLUC8_01GF.gif" />
+      </figure></p>
+      <p id="MARLUC80016">4. Signa autem quibus nobis innuitur permutationem facere sunt tria, scilicet [sqb] quadrum, b rotundum, et aliud signum quod a vulgo falsa musica nominatur,</p>
+      <p id="MARLUC80017">
+      <pb n="[274]" />5. de quibus videre oportet.</p>
+      <p id="MARLUC80018">6. Prima namque duo signa, scilicet [sqb] et b, sunt, vel esse possunt, in quolibet cantu, plano ac etiam mensurato;</p>
+      <p id="MARLUC80019">7. tercium vero signum solum in cantu ponitur mensurato, vel in plano qui aut colorate cantatur aut in mensuratum transit, puta in tenoribus motettorum seu aliorum cantuum mensuratorum.</p>
+      <p id="MARLUC80020">8. De primis duobus signis ait Riccardus Normandus:</p>
+      <p id="MARLUC80021">9. Ubicunque ponitur [sqb] quadrum dicimus voce mi;</p>
+      <p id="MARLUC80022">10. ubicunque vero b rotundum dicimus voce fa.</p>
+      <p id="MARLUC80023">11. Hec enim duo [sqb] b sic per lineas et spacia figurantur:</p>
+      <p id="MARLUC80024">
+      <pb n="[276]" />[ClefC2,rob,L,L,L,L; rob,L,rob,L,L,L on staff5]</p>
+      <p id="MARLUC80025">12. nam b rotundum, si debet notis in spacio sitis servire, tunc album quod est in eius rotunditate per medium spacii fiat;</p>
+      <p id="MARLUC80026">13. si autem notis que sunt in linea servire debet, tunc eodem modo per lineas protrahatur, ut immediate superius demonstratur.</p>
+      <p id="MARLUC80027">14. [sqb] similiter quadrum eodem modo per lineas et spacia protrahatur,</p>
+      <p id="MARLUC80028">15. ita tamen quod linea que est in parte sinistra ipsius [sqb] in sursum tendat;</p>
+      <p id="MARLUC80029">
+      <pb n="[278]" />16. que autem in parte dextra, que pro decore eidem additur, inferius protrahatur hoc modo:</p>
+      <p id="MARLUC80030">[ClefC3,rob,L,L,L,sqb,L,L,L,L; sqb,sqb on staff5]</p>
+      <p id="MARLUC80031">17. Sunt enim nonnulli qui ipsum [sqb] et tercium signum, quod, ut predicitur, a vulgo falsa musica nominatur, eodem modo figurant, propriam proprietatem et diversam eorum penitus ignorantes;</p>
+      <p id="MARLUC80032">18. nam propria proprietas [sqb] est semper dividere tonum per enarmonicum et dyatonicum semitonia, vel e converso, ut superius est ostensum;</p>
+      <p id="MARLUC80033">
+      <pb n="[280]" />19. alterius vero signi propria proprietas est tonum dividere per cromaticum et dyesim, et semitonium enarmonicum per medietatem,</p>
+      <p id="MARLUC80034">20. pro quibusdam, ut supra dictum est, consonantiis post dissonantias assumendis.</p>
+      <p id="MARLUC80035">1. CAPITULUM SECUNDUM</p>
+      <p id="MARLUC80036">DE MUTATIONE QUID SIT ET UBI FIAT</p>
+      <p id="MARLUC80037">2. Mutatio est variatio nominis vocis seu note in eodem spacio, linea, et sono.</p>
+      <p id="MARLUC80038">3. Fit namque mutatio, vel fieri potest, in quolibet loco ubi due vel tres voces sive note nomine sunt diverse, que quidem sub sola una littera includuntur.</p>
+      <p id="MARLUC80039">4. Sed quia in [Gamma] ut, in A re, et in [sqb] mi singulariter non est nisi una sola vox 
+      <pb n="[282]" />sub una littera, ideo in ipsarum aliqua mutatio non existit.</p>
+      <p id="MARLUC80040">5. In C fa ut enim sunt due voces et due mutationes,</p>
+      <p id="MARLUC80041">6. prima cum mutatur fa in ut propter ascensum [sqb] quadri in naturam,</p>
+      <p id="MARLUC80042">7. secunda e converso, ut hic:</p>
+      <p id="MARLUC80043">[ClefF4,Lig4cdsnodaart,Lig3cdsnodart,Lig4cdsndodart; L,S,S,S,L,S,S,Lig3aart,Lig3cdsnodart on staff5]</p>
+      <p id="MARLUC80044">
+      <pb n="[284]" />8. In D sol re et in E la mi sunt similiter due voces et due mutationes, eo modo quo et in C fa ut per omnia se habentes.</p>
+      <p id="MARLUC80045">9. In F fa ut sunt due voces et due mutationes.</p>
+      <p id="MARLUC80046">10. Prima est cum convertitur fa in ut propter ascensum nature in b rotundum;</p>
+      <p id="MARLUC80047">11. secunda e converso, ut hic:</p>
+      <p id="MARLUC80048">[ClefC5,rob,Lig4cdsnodaart,L,S,S,Lig2art,S,S; L,S,S,L,S,S,S,Lig4aad on staff5]</p>
+      <p id="MARLUC80049">
+      <pb n="[286]" />12. In G sol re ut sunt tres voces et sex mutationes.</p>
+      <p id="MARLUC80050">13. Prima est cum convertitur sol in re propter ascensum nature in b rotundum;</p>
+      <p id="MARLUC80051">14. secunda e converso, ut hic:</p>
+      <p id="MARLUC80052">[ClefF3,Lig3cdsnodart,Lig2art,S,S,Lig3cdsnodart; L,S,S,S,Lig2art,Lig5cdsnodaad on staff5]</p>
+      <p id="MARLUC80053">15. tercia est cum sol convertitur in ut propter ascensum nature in [sqb] quadrum;</p>
+      <p id="MARLUC80054">16. quarta e converso,</p>
+      <p id="MARLUC80055">
+      <pb n="[288]" />ut hic:</p>
+      <p id="MARLUC80056">[ClefC4,Lig3aa,Lig2cdsnd,Lig3aart,S,S,L; L,S,S,L,S,S,S,S,L,S,S,L on staff5]</p>
+      <p id="MARLUC80057">17. quinta cum re convertitur in ut propter ascensum b rotundi in [sqb] quadrum;</p>
+      <p id="MARLUC80058">18. sexta e converso, ut hic:</p>
+      <p id="MARLUC80059">[ClefC4,rob,Lig3aa,S,S,S,sqb,Lig2art,Lig2art,Lig3cdsnodart; L,S,S,S,L,S,S,S,rob,L,S,S,S,L on staff5]</p>
+      <p id="MARLUC80060">
+      <pb n="[290]" />19. In a la mi re similiter sunt tres voces et sex mutationes per omnia sic se habentes prout in G sol re ut est predictum.</p>
+      <p id="MARLUC80061">20. In b fa [sqb] mi non est mutatio, cuius ratio est quia licet ibi sint due voces diverse non tamen sunt sub una sola littera sed sub diversis;</p>
+      <p id="MARLUC80062">21. preterea ille due voces non sunt in eodem sono, ut supra de permutatione ostensum est.</p>
+      <p id="MARLUC80063">22. Sed dicetur: Immo videntur esse sub una littera, quia b et [sqb] utraque dicitur.</p>
+      <p id="MARLUC80064">23. Tunc dicemus quod ipsarum quelibet diffinitum habet nomen,</p>
+      <p id="MARLUC80065">24. nam una dicitur b rotundum et figuratur sic;</p>
+      <p id="MARLUC80066">
+      <pb n="[292]" />25. alia autem [sqb] quadrum et figuratur sic;</p>
+      <p id="MARLUC80067">26. itaque sunt diverse natura, nomine, et figura.</p>
+      <p id="MARLUC80068">27. In c sol fa ut sunt tres voces et sex mutationes.</p>
+      <p id="MARLUC80069">28. Prima est cum sol mutatur in fa propter ascensum b rotundi in [sqb] quadrum;</p>
+      <p id="MARLUC80070">29. secunda e converso, ut hic:</p>
+      <p id="MARLUC80071">[ClefC4,rob,Lig2art,S,S,Lig2art,sqb,L,S,S,S,L; Lig3aart,S,S,rob,Lig4cdsnodaart,S,S,S on staff4]</p>
+      <p id="MARLUC80072">
+      <pb n="[294]" />30. tercia est cum sol convertitur in ut propter ascensum b rotundi in naturam;</p>
+      <p id="MARLUC80073">31. quarta e converso, ut hic:</p>
+      <p id="MARLUC80074">[ClefC3,rob,L,S,S,Lig2art,L,S,S,L; Lig2art,S,S,S,Lig2art,S,S,L,S,S on staff5]</p>
+      <p id="MARLUC80075">32. quinta est cum fa convertitur in ut propter ascensum [sqb] quadri in naturam;</p>
+      <p id="MARLUC80076">33. sexta e converso, ut hic:</p>
+      <p id="MARLUC80077">[ClefC3,L,S,S,Lig4aad,L,S,S,S,Lig2cdsnd; L,S,S,L,S,S,Lig3ad on staff5]</p>
+      <p id="MARLUC80078">
+      <pb n="[296]" />34. In d la sol re similiter sunt tres voces and sex mutationes, eodem modo per omnia se habentes ut in c sol fa ut est monstratum.</p>
+      <p id="MARLUC80079">35. De omnibus enim sequentibus est tale iudicium quale de ipsis similibus precedentibus est ostensum.</p>
+      <p id="MARLUC80080">36. Sed quia hee mutationes fiunt in [sqb] quadro, in b rotundo, et in natura, ideo</p>
+      <p id="MARLUC80081">
+      <pb n="[298]" />de ipsis quid sit videre necesse est.</p>
+      <p id="MARLUC80082">1. CAPITULUM TERCIUM</p>
+      <p id="MARLUC80083">DE NATURA ET PROPRIETATE [sqb] QUADRI, b ROTUNDI, ET NATURE</p>
+      <p id="MARLUC80084">2. Sed sciendum est quod ista tria sunt tres proprietates totius cantus.</p>
+      <p id="MARLUC80085">3. Est enim proprietas in cantu derivatio plurium vocum ab uno et eodem principio, que variantur cum variatur ipsum.</p>
+      <p id="MARLUC80086">4. Ipsius autem principii variatio sumitur tribus modis, hoc est sub tribus litteris, scilicet sub G, C, et F.</p>
+      <p id="MARLUC80087">5. Quando enim sumitur principium in G, tunc, cum suis determinatis vocibus sive notis, cantari dicitur per [sqb] quadrum.</p>
+      <p id="MARLUC80088">6. Est enim huiusmodi principium vox illa que dicitur ut, ad quam respiciunt cetere 
+      <pb n="[300]" />subsequentes, scilicet re, mi, fa, sol, la.</p>
+      <p id="MARLUC80089">7. Quando vero ut est in C cum suis determinatis vocibus, cantari dicitur per naturam.</p>
+      <p id="MARLUC80090">8. Quando autem in F, per b rotundum.</p>
+      <p id="MARLUC80091">9. Est namque naturalis cantus ille qui in omni quarta coniunctione sonorum semper dyatessaron habet, nec unquam potest aliter naturaliter reperiri.</p>
+      <p id="MARLUC80092">10. Naturalis ob hoc dicitur, eo quod naturaliter vox humana in omni quarta voce sive inter quatuor voces semper proferre semitonium delectatur.</p>
+      <p id="MARLUC80093">11. Cantus [sqb] quadri dicitur ille qui propter mutationem proprietatis nature in ipsum vel e converso duriciam producit tritoni, ascendendo vel etiam descendendo.</p>
+      <p id="MARLUC80094">12. Hec enim figura tritoni, sive coniunctio, quatuor sonos durissime amplectitur, et ob hoc [sqb] quadrum [sqb] durum meruit nominari,</p>
+      <p id="MARLUC80095">
+      <pb n="[302]" />13. et quia quatuor sonos comprehendit in sui duricia, ideo a doctoribus ordinatum est ipsum quadre debere figurari.</p>
+      <p id="MARLUC80096">14. b rotundi cantus dicitur ille qui propter mutationem nature in ipsum vel e converso nil durum resonat, sed molle et delectabile, et ob hoc b rotundum b molle merito nuncupatur,</p>
+      <p id="MARLUC80097">15. et quia in eo nulla duricia reperitur, ideo ad differentiam [sqb] quadri ipsum rotundum predicti doctores figurare curaverunt.</p>
+      <p id="MARLUC80098">16. NOTABILE</p>
+      <p id="MARLUC80099">17. Sed est notandum quoniam dictum est supra quod ubicunque ponitur [sqb] quadrum dicimus voce mi,</p>
+      <p id="MARLUC80100">18. ubicunque autem b rotundum dicimus voce fa.</p>
+      <p id="MARLUC80101">19. Hee enim note, quibus predicta duo signa, scilicet duo b [sqb] deserviunt, semper habent secum naturam semitonii,</p>
+      <p id="MARLUC80102">
+      <pb n="[304]" />20. que natura, si incipiat per deservientem notam a fa, ibi ponitur b rotundum;</p>
+      <p id="MARLUC80103">21. si vero a mi, ponitur [sqb] quadrum;.</p>
+      <p id="MARLUC80104">22. et hee sunt proprietates proprie b rotundi et [sqb] quadri,</p>
+      <p id="MARLUC80105">23. et hec est ratio quare ibidem in cantu scribuntur et ea sequuntur solum predicte due, scilicet fa et mi, et non alie.</p>
+      <p id="MARLUC80106">24. Dicendum est ergo: sicut de avibus et animalibus, quorum si propria nomina ignoremus, dicimus et denominamus ea nominibus suorum generum, dicendo animalia sunt vel aves,</p>
+      <p id="MARLUC80107">25. ita recte est in proposito,</p>
+      <p id="MARLUC80108">26. nam si non oportet poni aliquod signum in cantu deserviens mutationi alicuius
+      <pb n="[306]" />note, tunc dicitur quod talis cantus cantabitur per proprietatem que est natura;</p>
+      <p id="MARLUC80109">27. si autem ponantur predicta signa propria et deservientia specialiter quibusdam notis ut dictum est, tunc dicimus quod talis cantus cantatur per specialem proprietatem, scilicet b rotundi vel quadri,</p>
+      <p id="MARLUC80110">28. licet tales proprietates sint etiam naturales.</p>
+      <p id="MARLUC80111">29. Et hec de proprietatibus dicta sufficiant.</p>
+      <p id="MARLUC80112">30. FINIT TRACTATUS OCTAVUS</p>
+    </body>
+  </text>
+</TEI>

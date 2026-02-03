@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Ars organi</title>
+        <title type="abbrev">ARSORG</title>
+        <author>Anonymous</author>
+        <date notBefore="1100" notAfter="1199">12th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Angela Mariani</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Benito V. Rivera</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1994</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Irving Godt and Benito V. Rivera, "The Vatican Organum Treatise: A Color Reproduction, Transcription, and Translation," in 
+<emph>Gordon Athol Anderson (1929-1981) in memoriam von seinen Studenten, Freunden und Kollegen</emph>, 2 vols. (Henryville, PA: Institute of Mediaeval Music, 1984), 2:293–345/11. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: Tractatus de organo cod. Vaticani</title>
+          
+<idno type="LML">ORG. Vatic.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">I-Rvat Ottob. 3025, 46-48</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">IRL-CAbl Ms. 1, 68-69</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ARSORG0001">
+      <pb n="[293]" />Incipit ars organi</p>
+      <p id="ARSORG0002">Organum est cantus subsequens precedentem, quia cantor debet precedere organizator uero sequi, et cantor debet primitus finire. Quia nihil ualet organum per se nisi aliquis cantus sit cum organo. Vnde omne organum debet esse cum cum cantu, uel ad diatessaron uel ad diapente, uel ad diapason, uel ultra per diatessaron uel diapente. Videndum igitur que uoces reddant diapente uel diatessaron, uel diapason, et que non. Non enim omnes 4 uoces uel omnes 5 uel omnes 8, que in manu possunt assignari possunt reddere diatessaron, uel diapente, uel diapason, quia non quelibet 4 uoces reddunt diatessaron nisi per b rotundum, similiter 
+      <pb n="[294]" />nec quelibet 5 diapente nisi per b rotundum, nec quelibet 8 diapason nisi per b rotundum. Diatessaron enim semper debet constare ex duobus tonis et semitonio. Diapente ex tribus tonis et semitonio. Diapason ex 5 tonis et duobus semitoniis. Diatessaron dicitur a dia de, et tessaron 4. Diapente a dia de, et penta 5. Diapason a dia de et pan totum, uel pason 8. Quia soluerunt habere citaras ex 8 cordis. Vnde sciendum quod nulla vox supra perfecte sonat nisi in diapason. Vnde diapente et diatessaron concordant, quia faciunt melodiam aliquam, et discordant, quia non sunt in perfecta proportione.</p>
+      <p id="ARSORG0003">
+      <pb n="[295]" />Vis in organo est, quod si aliquis cantus grauat nos in summitate manus uel organum, possumus descendere ad inferiorem partem manus, vt melius et perfectius fiat uel cantus uel organum. Et quandocumque addemus aliquid quod non debet addi, uel subtraemus, quod non debet subtrai, figura est, que vocatur sinemenon. 
+      <pb n="[296]" />Qualecumque autem organum cantus exigit in superiore parte manus, tale requirit in inferiori, licet quandoque fiat figuratum, vt hic admittendum et in hac alleluya Justus germinabit super hanc partem 
+      <pb n="[297]" />germinabit est figura, et super hanc admittendum et hoc sepe inuenitur in cantibus, et est maxima difficultas in organo. Tum nullus organizator debet hoc ignorare. Multa enim perturbatio uenit in superiore parte manus per b quadratum, vbi multi errant, quia semper oportet, quod, quando mi canitur in be fa b mi, quod aliud mi cantetur in f ut altum, et fa in g sol re ut, et re in e la mi, et alia non potest fieri, et ideo ponitur in b rotundum. Vnde oportet quod b rotundum habeat 
+      <pb n="[298]" />suas facturas per se et b quadratum suas.</p>
+      <p id="ARSORG0004">De regulis organi.</p>
+      <p id="ARSORG0005">Modo uideamus de regulis quibus ars ista regulatur. Si quis igitur ad dulcem organizandi modulationem animum applicare uoluerit, hanc regularum seriem sequatur. In primis de ascensu ordo progressionis seruandus est.</p>
+      <p id="ARSORG0006">
+      <pb n="[299]" />I. Regula. Si cantus ascenderit duas uoces et organum incipiat in dupla, descendat organum 3 uoces et erit in quinta, vt:</p>
+      <p id="ARSORG0007">[Vatican, 299; text: Fa re. Sol mi. La fa.] 
+      <figure>
+        <graphic url="/images/ARSORG_01GF.gif" />
+      </figure></p>
+      <p id="ARSORG0008">
+      <pb n="[300]" />II. Regula. Si cantus ascenderit 3 uoces et organum incipiat in dupla, descendat 2 uoces et erit in quinta:</p>
+      <p id="ARSORG0009">[Vatican, 300; text: fa mi. Sol fa. La sol.] 
+      <figure>
+        <graphic url="/images/ARSORG_02GF.gif" />
+      </figure></p>
+      <p id="ARSORG0010">
+      <pb n="[301]" />III. Regula. Si cantus ascenderit 4 uoces et organum incipiat in dupla, descendat organum 5 uoces et cum cantu concordabit:</p>
+      <p id="ARSORG0011">[Vatican, 301; text: Fa Sol ut. La re.] 
+      <figure>
+        <graphic url="/images/ARSORG_03GF.gif" />
+      </figure></p>
+      <p id="ARSORG0012">
+      <pb n="[302]" />IV. [Regula]. Si cantus ascenderit 5 uoces et organum incipiat in dupla, descendat organum 4 uoces et cum cantu concordabit, ut in exemplo sequenti:</p>
+      <p id="ARSORG0013">[Vatican, 302; text: Fa ut. Sol re. La mi.] 
+      <figure>
+        <graphic url="/images/ARSORG_04GF.gif" />
+      </figure></p>
+      <p id="ARSORG0014">
+      <pb n="[303]" />[Vatican, 303; text: la mi.]</p>
+      <p id="ARSORG0015">
+      <pb n="[304]" />V. [Regula]. Nunc de descensu. Si cantus descenderit duas uoces et organum incipiat cum cantu, ascendat organum 4 uoces et erit in quinta, ut hic:</p>
+      <p id="ARSORG0016">[Vatican, 304; text: Ut fa. Fa mi. Mi la.] 
+      <figure>
+        <graphic url="/images/ARSORG_05GF.gif" />
+      </figure></p>
+      <p id="ARSORG0017">
+      <pb n="[305]" />[Vatican, 305; text: Re sol.]</p>
+      <p id="ARSORG0018">
+      <pb n="[306]" />VI. [Regula]. Si cantus descenderit 3 uoces et organum incipiat cum cantu, ascendat organum similiter 3 uoces et erit in quinta, ut hic:</p>
+      <p id="ARSORG0019">[Vatican, 306; text: Re fa. Ut mi. Fa la.] 
+      <figure>
+        <graphic url="/images/ARSORG_06GF.gif" />
+      </figure></p>
+      <p id="ARSORG0020">
+      <pb n="[307]" />[Vatican, 307; text: fa la. Mi sol.]</p>
+      <p id="ARSORG0021">
+      <pb n="[308]" />VII. [Regula]. Si cantus descenderit 3 uoces et organum incipiat cum cantu, ascendat organum 6 uoces et erit in diapason:</p>
+      <p id="ARSORG0022">[Vatican, 308; text: Re fa. Ut la. Fa sol. Mi fa.] 
+      <figure>
+        <graphic url="/images/ARSORG_07GF.gif" />
+      </figure></p>
+      <p id="ARSORG0023">
+      <pb n="[309]" />VIII. [Regula]. Si cantus descenderit 4 uoces et organum incipiat cum cantu, ascendat organum duas uoces et erit in quinta et hec regula debet esse ad re mi hoc signo *</p>
+      <p id="ARSORG0024">[Vatican, 309; text: *Re mi. Ut re. Fa sol.] 
+      <figure>
+        <graphic url="/images/ARSORG_08GF.gif" />
+      </figure></p>
+      <p id="ARSORG0025">
+      <pb n="[310]" />IX. [Regula]. Si cantus descenderit 5 uoces et organum incipiat cum cantu, ascendat organum 4 uoces et erit in dupla, ut exemplo sequenti:</p>
+      <p id="ARSORG0026">[Vatican, 310; text: Mi la. Re sol. Ut fa.] 
+      <figure>
+        <graphic url="/images/ARSORG_09GF.gif" />
+      </figure></p>
+      <p id="ARSORG0027">
+      <pb n="[311]" />X. [Regula]. Si cantus ascenderit duas uoces et organum incipiat in 5-ta, descendat organum 4 et erit cum cantu:</p>
+      <p id="ARSORG0028">[Vatican, 311; text: Sol re. La mi. Mi fa. Fa ut.] 
+      <figure>
+        <graphic url="/images/ARSORG_10GF.gif" />
+      </figure></p>
+      <p id="ARSORG0029">
+      <pb n="[312]" />XI. [Regula]. Si cantus ascenderit 3 uoces et organum incipiat in quinta, descendat organum 3 uoces et erit simile:</p>
+      <p id="ARSORG0030">[Vatican, 312; text: Sol mi. La fa. Mi ut. Fa re.] 
+      <figure>
+        <graphic url="/images/ARSORG_11GF.gif" />
+      </figure></p>
+      <p id="ARSORG0031">
+      <pb n="[313]" />XII. [Regula]. Si cantus ascenderit 4 uoces et organum incipiat in quinta, descendat organum in duas uoces et concordabit cum cantu:</p>
+      <p id="ARSORG0032">[Vatican, 313; text: Sol fa. La sol. Mi re.] 
+      <figure>
+        <graphic url="/images/ARSORG_12GF.gif" />
+      </figure></p>
+      <p id="ARSORG0033">
+      <pb n="[314]" />XIII. [Regula]. Si cantus ascenderit 5 uoces et organum incipiat in 5, descendat organum 5 uoces et erit in 5 sub cantu:</p>
+      <p id="ARSORG0034">[Vatican, 314; text: Sol ut. La re.] 
+      <figure>
+        <graphic url="/images/ARSORG_13GF.gif" />
+      </figure></p>
+      <p id="ARSORG0035">
+      <pb n="[315]" />XIV. [Regula]. Si cantus descenderit 2 uoces et organum incipiat in 5, ascendat organum in quinta et erit in dupla, ut hic:</p>
+      <p id="ARSORG0036">[Vatican, 315; text: Re fa. Fa la. Mi sol. Re fa.] 
+      <figure>
+        <graphic url="/images/ARSORG_14GF.gif" />
+      </figure></p>
+      <p id="ARSORG0037">
+      <pb n="[316]" />XV. [Regula]. Si cantus descenderit 3 uoces et organum incipiat in 5, organum ascendat duas uoces et erit in dupla:</p>
+      <p id="ARSORG0038">[Vatican, 316; text: Mi fa. Sol la. Fa sol.] 
+      <figure>
+        <graphic url="/images/ARSORG_15GF.gif" />
+      </figure></p>
+      <p id="ARSORG0039">
+      <pb n="[317]" />XVI. [Regula]. Si cantus descenderit 4 uoces et organum incipiat in 5, descendat organum similiter 4 uoces et erit in 5-ta:</p>
+      <p id="ARSORG0040">[Vatican, 317; text: La mi. Sol re. Fa ut.] 
+      <figure>
+        <graphic url="/images/ARSORG_16GF.gif" />
+      </figure></p>
+      <p id="ARSORG0041">
+      <pb n="[318]" />XVII. [Regula]. Si cantus descenderit 5 uoces et organum incipiat in 5-ta, descendat organum 5 uoces et erit in quinta:</p>
+      <p id="ARSORG0042">[Vatican, 318; text: La re. Sol ut.] 
+      <figure>
+        <graphic url="/images/ARSORG_17GF.gif" />
+      </figure></p>
+      <p id="ARSORG0043">
+      <pb n="[319]" />XVIII. [Regula]. Si cantus ascenderit duas uoces et organum incipiat in dupla, descendat organum 7 uoces et erit cum cantu, ut post:</p>
+      <p id="ARSORG0044">[Vatican, 319; text: Fa re.] 
+      <figure>
+        <graphic url="/images/ARSORG_18GF.gif" />
+      </figure></p>
+      <p id="ARSORG0045">
+      <pb n="[320]" />[Vatican, 320; text: Sol mi. La fa.] 
+      <figure>
+        <graphic url="/images/ARSORG_19GF.gif" />
+      </figure></p>
+      <p id="ARSORG0046">
+      <pb n="[321]" />XIX. [Regula]. Si cantus ascenderit 3 uoces et organum incipiat in dupla, descendat organum 6 uoces et erit cum cantu:</p>
+      <p id="ARSORG0047">[Vatican, 321; text: Fa mi. Sol fa. La ut.] 
+      <figure>
+        <graphic url="/images/ARSORG_20GF.gif" />
+      </figure></p>
+      <p id="ARSORG0048">
+      <pb n="[322]" />XX. [Regula]. Si cantus ascenderit 4 uoces et organum incipiat in dupla, descendat organum 5 uoces et erit cum cantu, ut hic:</p>
+      <p id="ARSORG0049">[Vatican, 322; text: Sol ut. La re.] 
+      <figure>
+        <graphic url="/images/ARSORG_21GF.gif" />
+      </figure></p>
+      <p id="ARSORG0050">
+      <pb n="[323]" />XXI. [Regula]. Si cantus ascenderit 5 uoces et organum incipiat in dupla, descendat organum 4 uoces et cum cantu concordabit:</p>
+      <p id="ARSORG0051">[Vatican, 323; text: Fa ut. Sol re. La mi.]</p>
+      <p id="ARSORG0052">
+      <pb n="[324]" />XXII. [Regula]. Si cantus descenderit duas uoces et organum incipiat in dupla, descendat organum 5 uoces et erit in quinta, ut hic:</p>
+      <p id="ARSORG0053">[Vatican, 324; text: Sol ut. Fa mi. La re.] 
+      <figure>
+        <graphic url="/images/ARSORG_22GF.gif" />
+      </figure></p>
+      <p id="ARSORG0054">
+      <pb n="[325]" />XXIII. [Regula]. Si cantus descenderit 3 uoces et organum incipiat in dupla, descendat organum 6 uoces et erit in quinta:</p>
+      <p id="ARSORG0055">[Vatican, 325; text: La ut. Sol mi. Fa re. La ut.] 
+      <figure>
+        <graphic url="/images/ARSORG_23GF.gif" />
+      </figure></p>
+      <p id="ARSORG0056">
+      <pb n="[326]" />XXIV. [Regula]. Si cantus descenderit 4 uoces et organum incipiat in dupla, descendat organum 7 et erit in quinta:</p>
+      <p id="ARSORG0057">[Vatican, 326; text: La mi. Sol re. Fa ut.] 
+      <figure>
+        <graphic url="/images/ARSORG_24GF.gif" />
+      </figure></p>
+      <p id="ARSORG0058">
+      <pb n="[327]" />XXV. [Regula]. Si cantus descenderit 5 uoces et organum incipiat in dupla, descendat organum 8 uoces et erit in quinta:</p>
+      <p id="ARSORG0059">[Vatican, 327; text: La re. Sol ut.] 
+      <figure>
+        <graphic url="/images/ARSORG_25GF.gif" />
+      </figure></p>
+      <p id="ARSORG0060">
+      <pb n="[328]" />XXVI. [Regula]. [Si duo puncta fuerint equalia et organum incipiat cum cantu, ascendat organum 5 uoces, erit in 5-ta:</p>
+      <p id="ARSORG0061">[Vatican, 328; text: Re la. Mi mi. Ut sol.] 
+      <figure>
+        <graphic url="/images/ARSORG_26GF.gif" />
+      </figure></p>
+      <p id="ARSORG0062">
+      <pb n="[329]" />XXVII. [Regula]. Si duo puncta erint equalia et organum incipiat in 5-ta, ascendat organum 4 uoces et erit in dupla:</p>
+      <p id="ARSORG0063">[Vatican, 329; text: Re sol. Mi la. Ut fa.] 
+      <figure>
+        <graphic url="/images/ARSORG_27GF.gif" />
+      </figure></p>
+      <p id="ARSORG0064">
+      <pb n="[330]" />XXVIII. [Regula]. Si duo puncta equalia erint et organum incipiat in dupla, organum descendat 4 uoces et erit in quinta, ut hic:</p>
+      <p id="ARSORG0065">[Vatican, 330; text: Fa ut. Sol re. La mi.]</p>
+      <p id="ARSORG0066">
+      <pb n="[331]" />XXIX. [Regula]. Si duo puncta erint equalia et organum incipiat in 5-ta, descendat organum 5 uoces et concordabunt:</p>
+      <p id="ARSORG0067">[Vatican, 331; text: La re. Sol ut.] 
+      <figure>
+        <graphic url="/images/ARSORG_28GF.gif" />
+      </figure></p>
+      <p id="ARSORG0068">
+      <pb n="[332]" />XXX. [Regula]. Si duo puncta erint equalia et organum incipiat cum cantu, ascendat organum 8 uoces et erit in dupla, ut post:</p>
+      <p id="ARSORG0069">[Vatican, 332; text: Ut fa. Re sol.] 
+      <figure>
+        <graphic url="/images/ARSORG_29GF.gif" />
+      </figure></p>
+      <p id="ARSORG0070">
+      <pb n="[333]" />XXXI. [Regula]. Si duo puncta fuerint equalia et organum incipiat in dupla, descendat [organum] 8 [uoces] et erit simile:</p>
+      <p id="ARSORG0071">[Vatican, 333; text: Sol re.] 
+      <figure>
+        <graphic url="/images/ARSORG_30GF.gif" />
+      </figure></p>
+      <p id="ARSORG0072">
+      <pb n="[334]" />[Vatican, 334; text: Fa ut.]</p>
+      <p id="ARSORG0073">
+      <pb n="[335]" />[Supplement I]</p>
+      <p id="ARSORG0074">[Vatican, 335; text: Re re. Re la. Sol sol. Mi sol. Sol mi.] 
+      <figure>
+        <graphic url="/images/ARSORG_31GF.gif" />
+      </figure></p>
+      <p id="ARSORG0075">
+      <pb n="[336]" />[Vatican, 336; text: Ut ut. Mi ut. Fa fa. Sol sol. La mi.] 
+      <figure>
+        <graphic url="/images/ARSORG_32GF.gif" />
+      </figure></p>
+      <p id="ARSORG0076">
+      <pb n="[337]" />[Vatican, 337; text: La la. Sol ut. Fa ut.] 
+      <figure>
+        <graphic url="/images/ARSORG_33GF.gif" />
+      </figure></p>
+      <p id="ARSORG0077">
+      <pb n="[338]" />[Supplement II]</p>
+      <p id="ARSORG0078">[Vatican, 338; text: Ut re. Re mi. Mi fa. Fa sol. Sol la. La sol. Sol fa. Fa mi. Mi re. Re ut. Ut mi. Re fa. Mi sol. Fa la.] 
+      <figure>
+        <graphic url="/images/ARSORG_34GF.gif" />
+      </figure></p>
+      <p id="ARSORG0079">
+      <pb n="[339]" />[Supplement II, continued]</p>
+      <p id="ARSORG0080">[Vatican, 339; text: fa la. La fa. Sol mi. Fa re. Mi ut. Ut fa. Re sol. Mi la. La mi. Sol re. Fa ut. Ut sol.] 
+      <figure>
+        <graphic url="/images/ARSORG_35GF.gif" />
+      </figure></p>
+      <p id="ARSORG0081">
+      <pb n="[340]" />[Vatican, 340; text: Re la. La re. Fa mi. Mi fa. Fa sol. Sol fa. Mi sol. sol mi. Re fa. Fa re. Re sol. Sol re.] 
+      <figure>
+        <graphic url="/images/ARSORG_36GF.gif" />
+      </figure></p>
+      <p id="ARSORG0082">
+      <pb n="[341]" />Alleluia. Hic Martinus (A)</p>
+      <p id="ARSORG0083">[Vatican, 341; text: Alleluya. Hic] 
+      <figure>
+        <graphic url="/images/ARSORG_37GF.gif" />
+      </figure></p>
+      <p id="ARSORG0084">
+      <pb n="[342]" />[Vatican, 342; text: Mar
+      <pb n="[ti]" />nus pauper et modi-] 
+      <figure>
+        <graphic url="/images/ARSORG_38GF.gif" />
+      </figure></p>
+      <p id="ARSORG0085">
+      <pb n="[343]" />[Vatican, 343; text: cus celum dives ingreditur him-] 
+      <figure>
+        <graphic url="/images/ARSORG_39GF.gif" />
+      </figure></p>
+      <p id="ARSORG0086">
+      <pb n="[344]" />[Vatican, 344; text: nis celestibus] 
+      <figure>
+        <graphic url="/images/ARSORG_40GF.gif" />
+      </figure></p>
+      <p id="ARSORG0087">
+      <pb n="[345/1]" />Operibus sanctis (O)</p>
+      <p id="ARSORG0088">[Vatican, 345/1; text: Operibus san[c]tis Voce] 
+      <figure>
+        <graphic url="/images/ARSORG_41GF.gif" />
+      </figure></p>
+      <p id="ARSORG0089">[Vatican, 345/2; text: quippe de celo lapsa cuidam in-] 
+      <figure>
+        <graphic url="/images/ARSORG_42GF.gif" />
+      </figure></p>
+      <p id="ARSORG0090">[Vatican, 345/3; text: sinuatur presuli dig-] 
+      <figure>
+        <graphic url="/images/ARSORG_43GF.gif" />
+      </figure></p>
+      <p id="ARSORG0091">[Vatican, 345/4; text: num episcopatu nicolaum. Glori-] 
+      <figure>
+        <graphic url="/images/ARSORG_44GF.gif" />
+      </figure></p>
+      <p id="ARSORG0092">[Vatican, 345/5; text: a patri et filio et spiritui san-] 
+      <figure>
+        <graphic url="/images/ARSORG_45GF.gif" />
+      </figure></p>
+      <p id="ARSORG0093">[Vatican, 345/6; text: cto]</p>
+      <p id="ARSORG0094">
+      <pb n="[345/7]" />Petre amas me (P)</p>
+      <p id="ARSORG0095">[Vatican, 345/7; text: Petre amas me Sy-] 
+      <figure>
+        <graphic url="/images/ARSORG_46GF.gif" />
+      </figure></p>
+      <p id="ARSORG0096">[Vatican, 345/8; text: mon Iohannis dili-] 
+      <figure>
+        <graphic url="/images/ARSORG_47GF.gif" />
+      </figure></p>
+      <p id="ARSORG0097">[Vatican, 345/9; text: gis me plus his tu scis Do-] 
+      <figure>
+        <graphic url="/images/ARSORG_48GF.gif" />
+      </figure></p>
+      <p id="ARSORG0098">[Vatican, 345/10; text: mine quia amo te] 
+      <figure>
+        <graphic url="/images/ARSORG_49GF.gif" />
+      </figure></p>
+      <p id="ARSORG0099">[Vatican, 345/11; text: Gloria patri et filio et] 
+      <figure>
+        <graphic url="/images/ARSORG_50GF.gif" />
+      </figure></p>
+    </body>
+  </text>
+</TEI>

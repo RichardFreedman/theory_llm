@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Ars et modus pulsandi organa secundum modum novissimum inventum per magistros musicos modernos</title>
+        <title type="abbrev">ANOAMP</title>
+        <author>Anonymous</author>
+        <date notBefore="1300" notAfter="1399">14th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>John Gray</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Andreas Giger</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Oliver B. Ellsworth</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1995</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Raffaello Casimiri, "Un trattatello per organisti di anonimo del sec. XIV," 
+<emph>Note d'archivio per la storia musicale</emph> 19 (1942): 99-101, 100–101.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: Ars et modus pulsandi organa</title>
+          
+<idno type="LML">ARS ORG.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">I-Rvat Barb. lat. 307, 29v-30</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANOAMP0001">
+      <pb n="[100]" />ARS ET MODUS PULSANDI ORGANA SECUNDUM MODUM NOVISSIMUM INVENTUM PER MAGISTROS MUSICOS MODERNOS.</p>
+      <p id="ANOAMP0002">C.D.E.F.G.Abh.C.+D.+E.F.+G.+A.bh.C.+D.+E.F.+G.+A.bh.C.+D.</p>
+      <p id="ANOAMP0003">Nota quod omnes uoces totius organi tam toni quam semitoni possunt esse fa et mi ubi sunt semitoni iuxta tonum et non alibi, nisi ubi cadit proprium. Sequitur ergo quod in diuersis locis potest poni unus cantus uel plures. Quomodo autem debeat procedi ad sonum circa tonos et tonos, Videndum est ne sit error in sono. Quandocumque tangitur aliquis tonus cum semitono qui est iuxta eum uel ascendendo uel descendendo, numquam debet tangi alius tonus qui est iusta (sic = iuxta) semitonium predictum, verbi gratia: si tango G 
+      <pb n="[101]" />et semitonium qui est iusta (sic) eum inferius non debet tangi F. Similiter si tango G et semitonum qui est iusta (sic) eum ascendendo non debeo tangere A, et sic de similibus.</p>
+      <p id="ANOAMP0004">Circa illum autem dictum quod dicitur quod uoces possunt esse fa et mi, uidendum est etiam quomodo cadat re - ut et sol - la.</p>
+      <p id="ANOAMP0005">Dico ergo si uis quod b quadratum sit fa, debes tangere b molle et semitonum qui est iusta (sic) inter A et G, et illum semitonum qui est inter G et F, et sic habebis fa-mi-re-ut. Et si uis quod b molle sit fa, ordinate procedas ad omnes tonos sequentes et sic habebis fa-mi-re-ut.</p>
+      <p id="ANOAMP0006">Si autem uis quod A sit fa, tange semitonium qui est iusta (sic) inter A et G, et alium semitonum qui est inter G et F, et postea E, et sic habebis fa-mi-re-ut.</p>
+      <p id="ANOAMP0007">Si autem uis quod G sit fa, tange semitonium qui est inter G et F et postea E, postea D, et sic habebis fa-mi-re-ut.</p>
+      <p id="ANOAMP0008">Si autem uis quod semitonus qui est inter A et G sit fa, tange G et F et semitonium qui est inter E et D et sic habebis propositum ut supra.</p>
+      <p id="ANOAMP0009">Si autem uis quod semitonus qui est inter G et F sit fa, tange F et semitonium qui est inter E et D et alium semitonium qui est inter D et C.</p>
+      <p id="ANOAMP0010">Si autem uis quod E sit fa, tange ambos tonos sequentes et b quadrum et sic habebis propositum.</p>
+      <p id="ANOAMP0011">Et si uis quod semitonus qui est inter E et D sit fa, tange D et C et b molle et habebis propositum.</p>
+      <p id="ANOAMP0012">Et si uis quod D sit fa, tange semitonium qui est inter D et C, postea b quadrum et A.</p>
+      <p id="ANOAMP0013">Si autem uis quod semitonus qui est inter D et C sit fa, tange C, b molle et semitonium qui est inter A et G, et sic habes omnes uoces totius organi que possunt esse Fa-mi-re-ut.</p>
+      <p id="ANOAMP0014">Iste uoces stant in bona quinta: C-G, D-A. E-b, F-C, G-D, A-E, b molle - F, b - semitonium qui est inter F et G, et sic de alijs.</p>
+      <p id="ANOAMP0015">Iste sunt bone seste [sic = sextae]: C-A, D-b, E semitonum qui est inter C et D, F et D, G-E, A - semitonum qui est inter F et G, b - semitonum qui est inter G et A.</p>
+    </body>
+  </text>
+</TEI>

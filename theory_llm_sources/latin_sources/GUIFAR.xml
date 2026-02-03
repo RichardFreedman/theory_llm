@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Ars musice mensurate</title>
+        <title type="abbrev">GUIFAR</title>
+        <author>Guido Frater</author>
+        <date notBefore="1300" notAfter="1399">14th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Mark Butler</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>David Schneider</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>2003</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+F. Alberto Gallo, 
+<emph>Mensurabilis musicae tractatuli</emph>, Antiquae musicae italicae scriptores, vol. 1 (Bologna: Università degli Studi di Bologna, Istituto di Studi Musicali e Teatrali - Sez. Musicologia, 1966), 19–39. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Guido frater: Ars musice mensurate secundum Guidonem</title>
+          
+<idno type="LML">GUIDO FR.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">E-Sc 5-2-25, 1-5</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="GUIFAR0001">
+      <pb n="[19]" />ARS MUSICE MENSURATE SECUNDUM GUIDONEM</p>
+      <p id="GUIFAR0002">Ad habendam aliqualem noticiam figurarum sinplicium et conpositarum seu ligaturarum artis musice mensurate, ut rudibus citius patefiat modus proferendi ac etiam valor figurarum [... ...] [... ...] quandam conpendiosam doctrinam inpendere proposui in hunc modum. Primo de sinplicibus figuris tractabitur, quia sinplex ante conpositum. Secundo de conpositis seu ligatis ac etiam de plicis ligatis. Tertio de pausis et pontello ac etiam [sqb] quadro. Quarto de modis perfectis et inperfectis. Quinto de tempore perfecto secundum divisionem nonariam. Ultimo de tempore inperfecto.</p>
+      <p id="GUIFAR0003">[I]</p>
+      <p id="GUIFAR0004">Videamus primo quid sit tempus.</p>
+      <p id="GUIFAR0005">Tempus enim dicitur id quod est minimum in plenitudine vocis, ex quo habet fieri brevis perfecta. Brevis enim comunis habetur tam longis quam semibrevibus. Ex replicatione enim brevis constituitur longa quelibet, ex divisione vero creantur semibreves.</p>
+      <p id="GUIFAR0006">Ex brevi enim bis replicata fit longa inperfecta duorum temporum, si ter replicetur fit longa trium temporum; et hoc modo ex 
+      <pb n="[20]" />brevi constituitur longa, ut in exemplis patet. Exempla figurarum sinplicium [... ...]</p>
+      <p id="GUIFAR0007">[Guido Frater, Ars musice mensurate, 20; text: brevis, plica brevis, longa duorum temporum]</p>
+      <p id="GUIFAR0008">Modus enim creationis semibrevium fit ex divisione brevis. Dividatur brevis primaria divisione et perfectiori in tres semibreves equales naturaliter sine aliquo filo, ut hic:</p>
+      <p id="GUIFAR0009">[S,S,S]</p>
+      <p id="GUIFAR0010">Et quelibet illarum trium in duas equales dividatur et sic erunt sex naturales, ut hic:</p>
+      <p id="GUIFAR0011">[S,S,S,S,S,S]</p>
+      <p id="GUIFAR0012">Dividatur enim quelibet illarum in duas equales et sic erunt duodecim:</p>
+      <p id="GUIFAR0013">[S,S,S,S,S,S,S,S,S,S,S,S]</p>
+      <p id="GUIFAR0014">Si autem recta brevis dividatur in duas semibreves naturales, prima tertiam partem temporis continebit, ultima duas in eo quod finis, ut in sequenti exemplo patet:</p>
+      <p id="GUIFAR0015">[S,S,pt,Lig2cssnod,Lig2cssna]</p>
+      <p id="GUIFAR0016">Si filum in deorsum addatur prime semibrevi, duas partes ipsa continebit, ultima vero in tertia remanebit, ut hic:</p>
+      <p id="GUIFAR0017">[Scd,S]</p>
+      <p id="GUIFAR0018">Si filum addatur in deorsum alicui trium semibrevium prime divisionis, transitur ad secundam divisionem temporis que est in sex, et tunc cui additur filum medietatem temporis continebit, alia sextam partem, ultima in tertia remanebit, ut hic:</p>
+      <p id="GUIFAR0019">[Scd,S,S,pt,S,Scd,S,pt,S,S,Scd]</p>
+      <p id="GUIFAR0020">
+      <pb n="[21]" />Si fuerint quatuor naturales, prime due tertiam partem continebunt, et quelibet sequentium in tertia parte temporis remanebit, ut hic:</p>
+      <p id="GUIFAR0021">[S,S,S,S]</p>
+      <p id="GUIFAR0022">Si de quatuor una caudabitur in deorsum, quomodocumque</p>
+      <p id="GUIFAR0023">varietur medietatem temporis vel tres de sex partibus temporis continebit, et tres remanent quelibet ipsarum sextam partem temporis mensurans, ut hic:</p>
+      <p id="GUIFAR0024">[Scd,S,S,S,pt,S,Scd,S,S,pt,S,S,S,Scd]</p>
+      <p id="GUIFAR0025">Si autem de quatuor due in deorsum caudabuntur, quelibet</p>
+      <p id="GUIFAR0026">illarum tertiam partem temporis continebit vel duas de sex partibus temporis continebit, ut hic:</p>
+      <p id="GUIFAR0027">[Scd,Scd,S,S,pt,Scd,S,S,Scd,pt,S,Scd,Scd,S,pt,S,Scd,S,Scd,pt,Scd,S,Scd,S]</p>
+      <p id="GUIFAR0028">Si fuerint quinque naturales, prime due tertiam partem, et due alie que sequntur aliam tertiam, et ultima in eo quod finis in alia tertia parte temporis remanebit, ut hic:</p>
+      <p id="GUIFAR0029">[S,S,S,S,S]</p>
+      <p id="GUIFAR0030">Si una de quinque, quecumque sit ipsa, caudabitur in deorsum, quomodocumque varietur semper tertiam partem temporis vel duas de sex partibus continebit, et quatuor que remanent duas partes temporis vel quatuor de sex partibus continebunt, ut hic:</p>
+      <p id="GUIFAR0031">[Scd,S,S,S,S,pt,S,Scd,S,S,S,pt,S,S,Scd,S,S,pt,S,S,S,Scd,S]</p>
+      <p id="GUIFAR0032">Est notandum, quod de quatuor non caudantur in deorsum in secunda divisione temporis nisi due ad plus, de quinque semibrevibus solum una caudatur in secunda divisione temporis et non plus. Et ratio est: cum ars semper addat aliquid supra naturam, si plures caudarentur semper excederetur tempus in sexta parte temporis, quod 
+      <pb n="[22]" />est inconveniens, quia semper partes debent equivaleri toto, ut supra patet.</p>
+      <p id="GUIFAR0033">Si vero fuerint sex naturales, habetur perfecta divisio temporis que est in sex, et bine vadunt pro tertia parte temporis, ut hic:</p>
+      <p id="GUIFAR0034">[S,S,S,S,S,S,]</p>
+      <p id="GUIFAR0035">Si vero fuerint septem, transitur ad tertiam divisionem temporis que est in duodecim, tres prime tertiam partem temporis vel quatuor de duodecim continebunt, et ultima de ipsis tribus duas de duodecim continebit, et quatuor que sequntur in secunda divisione temporis remanebunt, ut hic:</p>
+      <p id="GUIFAR0036">[S,S,S,S,S,S,S]</p>
+      <p id="GUIFAR0037">Sed si octo extiterint, prime quatuor procedunt pro tertia parte temporis, et que remanent bine tertiam partem temporis mensurabunt, ut hic:</p>
+      <p id="GUIFAR0038">[S,S,S,S,S,S,S,S]</p>
+      <p id="GUIFAR0039">Si fuerint novem pro recta brevi naturales, prime quatuor tertiam partem temporis mensurabunt, tres sequentes aliam, et due ultime in alia tertia permanebunt, ut hic:</p>
+      <p id="GUIFAR0040">[S,S,S,S,S,S,S,S,S]</p>
+      <p id="GUIFAR0041">Sed si decem extiterint naturales, prime quatuor tertiam partem temporis mensurabunt, quatuor sequentes aliam, et due ultime in alia tertia permanebunt, ut hic:</p>
+      <p id="GUIFAR0042">[S,S,S,S,S,S,S,S,S,S]</p>
+      <p id="GUIFAR0043">Si autem undecim fuerint naturales, prime quatuor pro tertia parte temporis, et quatuor sequentes pro alia tertia poni debent, et tres ultime pro alia tertia permanebunt, ut hic:</p>
+      <p id="GUIFAR0044">[S,S,S,S,S,S,S,S,S,S,S]</p>
+      <p id="GUIFAR0045">
+      <pb n="[23]" />Si vero duodecim extiterint naturales, habetur perfecta divisio temporis que est in duodecim, ut hic:</p>
+      <p id="GUIFAR0046">[S,S,S,S,S,S,S,S,S,S,S,S]</p>
+      <p id="GUIFAR0047">et minime nuncupantur.</p>
+      <p id="GUIFAR0048">Sciendum est, quod in tertia divisione perfecti temporis caudari possunt semibreves in sursum et in deorsum: que in sursum caudantur minime semper erunt, que vero in deorsum semper in qualibet divisione ad minus tertiam partem temporis mensurabunt.</p>
+      <p id="GUIFAR0049">Si due de tribus in deorsum caudentur et alia que remanet caudetur in sursum, illa que in sursum si precedat cum illa que inmediate sequitur connumeratur in perfectione, si vero ultima ponatur cum precedenti connumerari debet, et semper illa cui adiungitur septem partes de duodecim continet, et alia que remanet quatuor mensurabit, ut hic:</p>
+      <p id="GUIFAR0050">[Scd,Scd,M,pt,M,Scd,Scd,pt,Scd,M,Scd]</p>
+      <p id="GUIFAR0051">Si de quatuor una in deorsum et due in sursum caudentur, que in deorsum octo de duodecim habet, et non caudata duas partes de duodecim continet, ut hic:</p>
+      <p id="GUIFAR0052">[Scd,M,M,S,pt,M,M,S,Scd]</p>
+      <p id="GUIFAR0053">Si de quinque due caudentur in deorsum, quelibet caudatarum quatuor de duodecim continebit, ut hic:</p>
+      <p id="GUIFAR0054">[Scd,M,M,S,Scd,pt,Scd,Scd,S,M,M,pt,M,M,S,Scd,Scd]</p>
+      <p id="GUIFAR0055">Si vero de sex alique caudentur in sursum, semper cum non caudatis connumerari debent in perfectione, ut hic:</p>
+      <p id="GUIFAR0056">[S,M,S,M,S,M,pt,M,S,M,S,M,S,pt,M,M,S,S,M,S]</p>
+      <p id="GUIFAR0057">
+      <pb n="[24]" />sed que in deorsum caudantur quatuor de duodecim continebunt, ut hic:</p>
+      <p id="GUIFAR0058">[Scd,S,S,S,S,Scd,pt,Scd,Scd,S,S,S,S,pt,S,M,M,Scd,S,S,pt,Scd,S,S,S,M,M]</p>
+      <p id="GUIFAR0059">que vero non caudantur nec in sursum nec in deorsum quandoque tres de duodecim continent, ut hic:</p>
+      <p id="GUIFAR0060">[S,M,Scd,M,S]</p>
+      <p id="GUIFAR0061">quandoque duas, ut hic:</p>
+      <p id="GUIFAR0062">[S,M,M,Scd,M,M,S]</p>
+      <p id="GUIFAR0063">Et iste modus connumerandi sive proportionandi semibreves adinvicem servari debet usque ad duodecim qualitercumque jam variari posset, ut in exemplis manifeste apparet:</p>
+      <p id="GUIFAR0064">[Guido Frater, Ars musice mensurate, 24; text: sex, septem, octo, novem, decem, undecim] 
+      <figure>
+        <graphic url="/images/GUIFAR_01GF.gif" />
+      </figure></p>
+      <p id="GUIFAR0065">
+      <pb n="[25]" />[Guido Frater, Ars musice mensurate, 25; text: duodecim]</p>
+      <p id="GUIFAR0066">Ac notandum quomodo semibreves propriis nominibus nominentur. Semibreves quedam sunt maiores et quedam minores et quedam minime. Maiores naturales dicuntur semibreves in prima divisione temporis, minores que existunt in secunda divisione, minime que in tertia. Maiores per artem que continent medietatem vel duas partes temporis et figurantur cum filo in deorsum; minores per artem continent tres de duodecim ipsis sistentibus non caudatis; minime naturales sine filo aliquo, artificiales cum filo in sursum. De hiis habuimus exempla superius.</p>
+      <p id="GUIFAR0067">[II]</p>
+      <p id="GUIFAR0068">Viso de sinplicibus, sequitur de conpositis seu ligatis.</p>
+      <p id="GUIFAR0069">Ligaturarum alia cum proprietate, alia sine proprietate, alia cum opposita proprietate.</p>
+      <p id="GUIFAR0070">Ligatura cum proprietate est quando [prima] nota ligature ascendentis caret omni filo, ut hic:</p>
+      <p id="GUIFAR0071">[Lig2a,Lig2art,Lig3aa,Lig5aaaart,Lig3ad,Lig3aod]</p>
+      <p id="GUIFAR0072">Descendens autem ligatura cum proprietate dicitur quando prima nota descendens filum habet a sinistris in deorsum, ut hic apparet:</p>
+      <p id="GUIFAR0073">[Lig2cdsnd,Lig2cdsnod,Lig3cdsndd,Lig3cdsndod,Lig3cdsndd,Lig4cdsnddod,Lig3cdsnodart,Lig5cdsnddodacddx]</p>
+      <p id="GUIFAR0074">Ligatura sine proprietate dicitur quando prima nota ligature</p>
+      <p id="GUIFAR0075">ascendentis filum a sinistris seu magis proprie a dextris habet in deorsum, ut hic:</p>
+      <p id="GUIFAR0076">[Lig2La,Lig2Lart,Lig3Laod,Lig5Laddod]</p>
+      <p id="GUIFAR0077">Ligatura descendens sine proprietate est quando prima nota ligature caret omni filo, ut hic:</p>
+      <p id="GUIFAR0078">[Lig2d,Lig3dd,Lig4dodart,Lig3oda,Lig3odart]</p>
+      <p id="GUIFAR0079">
+      <pb n="[26]" />Opposita proprietas est quando prima nota ligature ascendentis et descendentis in principio ligature filum trahit in sursum, ut hic:</p>
+      <p id="GUIFAR0080">[Lig3cssnaa,Lig2cssnoa,Lig2cssnod,Lig3cssndd,Lig5cssndodad]</p>
+      <p id="GUIFAR0081">Notandum est, quod omnis ligature ascendentis vel descendentis cum proprietate prima est brevis et sine proprietate longa, omnes note medie breves, nisi per oppositam proprietatem semibrevientur, ut hic:</p>
+      <p id="GUIFAR0082">[Lig4cssnaaacddx,Lig6cssnddodaod,Lig3cssnad,Lig4cssndodart]</p>
+      <p id="GUIFAR0083">Notandum est super ultima ligature ascendentis et descendentis: si nota ligature ascendentis directe stat supra penultimam, semper longa dicetur, si autem sub penultimam nota quadrata sequitur, semper longa dicetur, ut hic:</p>
+      <p id="GUIFAR0084">[Lig3aart,Lig3odart,Lig2cdsnd,Lig3cdsndd,Lig3ad]</p>
+      <p id="GUIFAR0085">Si autem nota quadrata stat indirecte supra penultimam sine filo in sursum vel in deorsum, semper dicetur brevis, ut hic:</p>
+      <p id="GUIFAR0086">[Lig2a,Lig3aa]</p>
+      <p id="GUIFAR0087">Si due note in corpore obliquo ascendendo vel descendendo conmiscentur, semper ultima dicetur brevis, ut hic:</p>
+      <p id="GUIFAR0088">[Lig2cdsnod,Lig2od,Lig2oa]</p>
+      <p id="GUIFAR0089">Notandum quod ligatura propria et inpropria plicabilis est ascendendo vel descendendo et semper a parte finis plica discernitur, sed in ligatura obliqua que sub uno corpore duas notas continet plica nichil addit vel minuit de tempore, ut hic:</p>
+      <p id="GUIFAR0090">[Lig2cdsnodcsdx,Lig2cdsnodcddx,Lig2cssnoacddx,Lig2cssnoacsdx]</p>
+      <p id="GUIFAR0091">
+      <pb n="[27]" />In recta vero ligatura semper illa nota cui additur plica erit longa ut hic:</p>
+      <p id="GUIFAR0092">[Lig2acddx,Lig2acsdx,Lig3adcddx,Lig3adcsdx,Lig3odacsdx]</p>
+      <p id="GUIFAR0093">nisi fuerit in ligatura opposita, ut hic:</p>
+      <p id="GUIFAR0094">[Lig2cssndcsdx,Lig2cssndcddx,Lig2cssndcsdx,Lig2cssnodcsdx,Lig2cssnodcddx]</p>
+      <p id="GUIFAR0095">[III]</p>
+      <p id="GUIFAR0096">Tertio videndum de pausis.</p>
+      <p id="GUIFAR0097">Sex enim pausis utimur in cantu mensurabili.</p>
+      <p id="GUIFAR0098">Prima quartam partem temporis continet, secunda tertiam, tertia unum tempus, quarta duo tempora, quinta tria tempora continet, sexta et ultima finis punctorum comuniter appellatur.</p>
+      <p id="GUIFAR0099">Prima pausa quartam partem spatii tangit, secunda tertiam, tertia totum spatium conplectit, quarta duo spatia, quinta tria spatia conplectit, sexta enim inmensurabilis est, ut hic in exemplis manifeste apparet de omnibus:</p>
+      <p id="GUIFAR0100">[Guido Frater, Ars musice mensurate, 27]</p>
+      <p id="GUIFAR0101">Pontellus apponitur in cantu mensurabili principaliter propter tria: primo ad denotandum longam esse perfectam trium temporum quando ei apponitur, secundo ad distinguendum unum modum ab alio, tertio ad notandum quod per pontellum semibreves distinguntur abinvicem, ut hic apparet:</p>
+      <p id="GUIFAR0102">[L,pt,L,pt,Bcsdx,pt]</p>
+      <p id="GUIFAR0103">[L,B,pt,B,L] [L,B,pt,B,B,L]</p>
+      <p id="GUIFAR0104">
+      <pb n="[28]" />[S,S,pt,S,S,S,S,pt,S,S,S,S,S,pt,S,S,S,pt,M,M,S,S,S,S,pt,S,S]</p>
+      <p id="GUIFAR0105">[sqb] quadrum in cantu mensurato dupliciter figuratur et ponitur quandoque in spatio quandoque in linea propter decorem et pulcritudinem mediarum consonantiarum, videlicet decime, sexte et tertie.</p>
+      <p id="GUIFAR0106">Quando autem tractum sive filum in sursum a sinistris trahitur excedens filum quod stat a dextris, signum semitonii enarmonici est, quo utimur in cantu plano et quandoque in mensurato.</p>
+      <p id="GUIFAR0107">Quando vero filum in sursum trahitur a dextris excedens quod est a sinistris, signum semitonii cromatici est, quo utimur in cantu mensurato tantum et inproprie in cantu plano signatur.</p>
+      <p id="GUIFAR0108">Exempla predictorum, ut hic in spatio et in linea:</p>
+      <p id="GUIFAR0109">[Guido Frater, Ars musice mensurate, 28]</p>
+      <p id="GUIFAR0110">[IV]</p>
+      <p id="GUIFAR0111">Quarto de modis perfectis et inperfectis in sinplicibus et</p>
+      <p id="GUIFAR0112">ligaturis est videndum.</p>
+      <p id="GUIFAR0113">Notandum est, quod quinque sunt perfecti ad quos omnes alii</p>
+      <p id="GUIFAR0114">reducuntur.</p>
+      <p id="GUIFAR0115">Nam primus modus procedit ex omnibus longis perfectis vel ex longa et brevi et longa, ut hic in sinplicibus et ligatis apparet:</p>
+      <p id="GUIFAR0116">[L,L,L; L,B,L,S,S,S,L; Lig2d,Lig2Lart; Lig3dd,Lig3Laart; L,Lig3cssnodacddx]</p>
+      <p id="GUIFAR0117">Secundus procedit ex brevi et longa et brevi, ut hic in sinplicibus et ligatis apparet:</p>
+      <p id="GUIFAR0118">[B,L,Lig2cssnd,L,B,L,B; S,S,S,L,B; Lig2art,Lig2cdsnd,Lig3cssnaa,Lig3cssnodart]</p>
+      <p id="GUIFAR0119">
+      <pb n="[29]" />Tertius procedit ex longa et duabus brevibus et longa, ut apparet in sinplicibus et ligatis:</p>
+      <p id="GUIFAR0120">[L,B,B,L; L,S,S,S,B,L; Lig4Ladd,Lig4odad,Lig4ddd]</p>
+      <p id="GUIFAR0121">Quartus procedit ex duabus brevibus et longa et duabus brevibus, ut hic:</p>
+      <p id="GUIFAR0122">[B,B,L,B,B; Lig2cssna,B,L,B,B; Lig3aacddx,Lig3aart,Lig3cdsndd,Lig2cdsnod,L]</p>
+      <p id="GUIFAR0123">Quintus procedit ex brevibus et semibrevibus, ut hic:</p>
+      <p id="GUIFAR0124">[B,B,S,S,S,Lig2cssnod,Lig2cssna,S,S,S,S,S,S,S,pt,S,S,B,Lig6cdsnddddod,Lig6aaaaa,Lig5cdsnodadod,Lig4cssnaaod,Lig6cssndodaodart]</p>
+      <p id="GUIFAR0125">Viso de modis perfectis secundum numerationem ternariam, nunc est videndum de modis inperfectis quantum ad numerationem binariam.</p>
+      <p id="GUIFAR0126">Sciendum est, quod modi inperfecti sunt quatuor.</p>
+      <p id="GUIFAR0127">Primus procedit ex omnibus longis inperfectis et solum in sinplicibus figuratur, ut hic:</p>
+      <p id="GUIFAR0128">[Bcssncddx,Bcssncddx; Bcssncddx,MXcssncddx]</p>
+      <p id="GUIFAR0129">Secundus procedit ex longa inperfecta et duabus brevibus equalibus, ut hic patet:</p>
+      <p id="GUIFAR0130">[Bcssncddx,B,B,Bcssncddx,B,B,MXcssncddx,B,B]</p>
+      <p id="GUIFAR0131">Tertius procedit ex duabus brevibus equalibus et longa inperfecta, ut hic patet:</p>
+      <p id="GUIFAR0132">[B,B,Bcssncddx,S,S,S,B,Bcssncddx,Lig2cdsnod,Bcssncddx,Lig2a,Bcssncddx,Lig3cdsndd,Lig3aart,Lig4cssnodad,S,S,S,Lig2art]</p>
+      <p id="GUIFAR0133">
+      <pb n="[30]" />Quartus procedit ex brevibus et semibrevibus proportionem binariam mensurantibus, ut hic:</p>
+      <p id="GUIFAR0134">[B,B,B,B,S,S,S,S,Lig2cssnod,Lig4cdsnddod,Lig5aadod,Lig3cssnaod]</p>
+      <p id="GUIFAR0135">Notandum est, quod nota quadrata filum in sursum vel in deorsum habens a parte dextra, longa perfecta vocabitur et tribus temporibus mensurabitur si altera longa vel valor longe ipsam sequatur, ut hic in exemplis manifeste apparet:</p>
+      <p id="GUIFAR0136">[L,L,Bcsdx,L,Bcsdx; Lig2d,Lig2Lart; L,B,B,L,Lig4ddd,Lig5Laaaart,Lig4cdsnodad]</p>
+      <p id="GUIFAR0137">Si vero dictam longam sequatur sola recta brevis vel eam precedat, subtrahet longe unum tempus et connumerabitur in perfectione cum ipsa, ut hic patet:</p>
+      <p id="GUIFAR0138">[L,B,L,Lig2cssna; B,L,Lig2cssnod,L]</p>
+      <p id="GUIFAR0139">et tunc longa inperfecta duorum temporum vocabitur et cum ea a qua inperficitur faciet perfectionem et ambe tria tempora continebunt.</p>
+      <p id="GUIFAR0140">Sed si pontellus addatur longe inmediate a parte dextra, tunc longa remanet perfecta et brevis vel valor brevis inperficit subsequentem, ut hic in exemplis patet:</p>
+      <p id="GUIFAR0141">[L,pt,B,L; L,pt,S,S,S,L; L,pt,Lig3cssnaod; Lig5ptodadod,L]</p>
+      <p id="GUIFAR0142">Si fuerint due breves inter duas longas et non apponatur pontellus inter breves, tunc prima recta brevis vocabitur, secunda altera brevis valoris duorum temporum et simul perfectionem facient et quelibet longa erit perfecta trium temporum, et sic si due breves precedant et sequantur longam nisi per appositionem pontelli varientur simul perfectionem facient, ut hic in exemplis patet de omnibus:</p>
+      <p id="GUIFAR0143">[L,B,B,L; L,Lig3cssnaod,L; L,S,S,S,S,S,B,L; Lig4ddd,Lig4Laaart,B,B,L; B,B,L,B,B; S,S,S,S,B,L; Lig3cdsndd,Lig3aart,Lig3cdsnodacddx,Lig5cssnptaaodart; S,S,S,pt,S,S,S,Lig2art; B,B,B,B,L; L,S,S,S,pt,Lig3cssnaod,L]</p>
+      <p id="GUIFAR0144">
+      <pb n="[31]" />Si enim tres breves ponantur inter duas longas vel valor earum, ipse breves equales sunt et faciunt perfectionem, et longe perfecte remanent nisi per pontellum aliter varientur. Quando due breves inter duas longas ponuntur apposito pontello inter breves, tunc ambe erunt recte breves et prima inperficit precedentem et alia subsequentem, ut hic de tribus et duabus brevibus exempla patent:</p>
+      <p id="GUIFAR0145">[L,B,pt,B,L; L,Lig2cssna,pt,B,L; L,S,S,S,S,S,S,pt,Lig2cssna,L; L,B,pt,B,B,L; L,S,S,S,B,pt,B,L; L,B,pt,Lig4cssnadd]</p>
+      <p id="GUIFAR0146">Si vero fuerint quatuor breves vel plures quatuor inter duas</p>
+      <p id="GUIFAR0147">longas, semper prima inperficit longam et alie que remanent computentur et numerentur si sunt in ternario modo, et isto modo fiet perfectio usque in infinitum, ut hic patent exempla:</p>
+      <p id="GUIFAR0148">[L,B,B,B,B,L; L,pt,B,B,B,pt,B,L; L,S,S,S,pt,B,B,Lig5aodad; L,pt,Lig7cssnaodaodad; Lig7ddaodad,Lig9Laaaaodaodart]</p>
+      <p id="GUIFAR0149">[V] De tempore perfecto secundum divisionem nonariam.</p>
+      <p id="GUIFAR0150">Quinto de tempore perfecto quantum ad divisionem nonariam est tractandum.</p>
+      <p id="GUIFAR0151">Dividitur enim tempus perfectum sive nota brevis, primaria et perfectiori divisione quam possit dividi, in tres semibreves equales, eo modo quo supra fuit divisum, ut hic:</p>
+      <p id="GUIFAR0152">[S,S,S]</p>
+      <p id="GUIFAR0153">
+      <pb n="[32]" />Et illarum trium quelibet in tres equales dividitur, et sic erunt novem totam naturam perfecti temporis mensurantes, ut hic apparet:</p>
+      <p id="GUIFAR0154">[S,S,S,S,S,S,S,S,S]</p>
+      <p id="GUIFAR0155">Qualiter autem tempus ex ipsis mensuretur, per ordinem est videndum; sed necessario aliqua premictenda occurrunt, videlicet quod alique semibreves in hac divisione temporis in deorsum caudari debent aliquibus sistentibus non caudatis, ut in processu monstrabitur.</p>
+      <p id="GUIFAR0156">Si due semibreves ponantur pro tempore naturales, prima tertiam partem, ultima duas partes temporis mensurabit in eo quod finis, quia semper perfectio est a parte finis, ut hic:</p>
+      <p id="GUIFAR0157">[S,S]</p>
+      <p id="GUIFAR0158">Sed si addatur filum artificialiter in deorsum prime semibrevi, duas partes temporis continebit, ultima in tertia parte temporis permanente, quia ars semper addit aliquid supra naturam, ut hic:</p>
+      <p id="GUIFAR0159">[Scd,S]</p>
+      <p id="GUIFAR0160">Si tres ponantur pro tempore et una in deorsum caudetur et alia in sursum, altera non caudata sistente, que in deorsum duas partes temporis vel sex de novem partibus continebit, que in sursum unam de novem, et non caudata duas de novem partibus temporis mensurabit et proportionari vel connumerari debet in perfectione cum caudata in sursum, ut hic:</p>
+      <p id="GUIFAR0161">[Scd,S,M,pt,Scd,M,S,pt,M,S,Scd,pt,S,Scd,M,pt,M,Scd,S]</p>
+      <p id="GUIFAR0162">et sic transitur ad secundam divisionem temporis que est in novem.</p>
+      <p id="GUIFAR0163">Si vero quatuor ponantur pro tempore naturales, quia a gallicis hanc divisionem temporis usque ad novem protrahitur, modum eorum servabimus in proportionando semibreves adinvicem: prime due de quatuor tertiam partem temporis vel tres de novem partibus mensurabunt hoc modo, quod prima duas de novem et que inmediate 
+      <pb n="[33]" />sequitur unam de novem partibus continebit, reliquis in prima divisione temporis sistentibus, ut hic:</p>
+      <p id="GUIFAR0164">[S,S,S,S]</p>
+      <p id="GUIFAR0165">ponunt enim inperfectiorem notam a parte finis et perfectiorem a parte principii, ut in modo proferendi eorum apparet.</p>
+      <p id="GUIFAR0166">Si una ex ipsis in deorsum caudetur, duas partes temporis vel sex de novem continebit, reliquis in secunda divisione sistentibus, ut hic:</p>
+      <p id="GUIFAR0167">[Scd,S,S,S,pt,S,S,S,Scd,pt,S,Scd,S,S]</p>
+      <p id="GUIFAR0168">Sed si inmediate antecedat vel sequatur ipsam aliqua in sursum caudata, tunc que in deorsum quinque de novem partibus continebit et cum illa que in sursum proportionari debet, et que remanent proportionantur adinvicem, ut hic:</p>
+      <p id="GUIFAR0169">[Scd,M,S,M,pt,M,Scd,M,S]</p>
+      <p id="GUIFAR0170">Si addatur filum in deorsum duabus de quatuor, quomodocumque varientur illarum quelibet tertiam partem temporis continebit, aliis sistentibus in tertia parte temporis, ut hic:</p>
+      <p id="GUIFAR0171">[Scd,Scd,S,S,pt,S,Scd,Scd,S,pt,Scd,S,S,Scd]</p>
+      <p id="GUIFAR0172">Si quinque extiterint uniformiter figurate, bine procedunt modo gallico pro tertia parte temporis, et ultima in eo quod finis remanet in tertia parte temporis, ut hic:</p>
+      <p id="GUIFAR0173">[S,S,S,S,S]</p>
+      <p id="GUIFAR0174">Si alicui de quinque addatur filum in sursum vel in deorsum, quomodocumque varientur illa que in deorsum tertiam partem temporis vel tres de novem partibus continebit, et que in sursum unam, et non caudata duas de novem et cum in sursum caudata proportionari et connumerari debet in perfectione, ut hic:</p>
+      <p id="GUIFAR0175">[Scd,S,M,S,M,pt,S,Scd,M,S,M,pt,M,S,Scd,M,S,pt,Scd,Scd,S,S,S,pt,M,M,M,Scd,S,pt,Scd,S,S,S,S,pt,Scd,S,Scd,S,S]</p>
+      <p id="GUIFAR0176">
+      <pb n="[34]" />Si sex fuerint uniformiter figurate, modo gallico proferuntur, ut hic:</p>
+      <p id="GUIFAR0177">[S,S,S,S,S,S]</p>
+      <p id="GUIFAR0178">Sed si alique ex ipsis caudentur in sursum vel in deorsum, modo quo supra de quinque proportionari debent, ut hic:</p>
+      <p id="GUIFAR0179">[S,M,S,M,S,M,pt,M,S,M,S,M,S,pt,Scd,S,M,S,S,S,pt,Scd,M,M,M,S,M,pt,M,S,M,M,M,Scd,pt,S,M,Scd,M,M,M]</p>
+      <p id="GUIFAR0180">Si septem fuerint uniformiter figurate, tres prime tertiam partem temporis mensurabunt, et quatuor que sequntur bine procedunt pro tertia parte temporis et modo gallico proferuntur, ut hic:</p>
+      <p id="GUIFAR0181">[S,S,S,S,S,S,S]</p>
+      <p id="GUIFAR0182">Sed si caudentur ex ipsis alique in sursum vel in deorsum, modo quo supra de sex proportionari et connumerari debent, ut hic:</p>
+      <p id="GUIFAR0183">[M,M,M,S,M,M,S,pt,S,M,S,M,M,M,M,pt,Scd,M,M,M,M,M,M,pt,S,S,S,Scd,S,S,S,pt,S,S,S,S,S,S,Scd]</p>
+      <p id="GUIFAR0184">Si octo extiterint naturales, sex prime duas partes temporis vel sex de novem partibus temporis mensurabunt, septima duas de novem, ultima unam de novem partibus mensurabit, ut hic:</p>
+      <p id="GUIFAR0185">[S,S,S,S,S,S,S,S]</p>
+      <p id="GUIFAR0186">Sed si alique in sursum caudentur, cum non caudatis eo modo quo supra in septem connumerari debent, ut hic:</p>
+      <p id="GUIFAR0187">[S,M,M,M,M,S,S,S,pt,M,M,M,S,S,S,S,M,pt,M,S,S,S,S,M,M,M,pt,S,S,S,S,M,S,S,S]</p>
+      <p id="GUIFAR0188">Si vero fuerint novem pro tempore uniformiter figurate, habetur perfecta divisio temporis que est in novem, et equaliter proferuntur tam naturales quam artificiales, ut hic:</p>
+      <p id="GUIFAR0189">[S,S,S,S,S,S,S,S,S,pt,M,M,M,M,M,M,M,M,M]</p>
+      <p id="GUIFAR0190">et adequabunt tempus divisione novenaria jam divisum.</p>
+      <p id="GUIFAR0191">
+      <pb n="[35]" />Nota, quod in hac divisione temporis semibreves propriis nominibus nominantur, ut supra in duodenaria.</p>
+      <p id="GUIFAR0192">Et nuncupantur maior, minor, minima.</p>
+      <p id="GUIFAR0193">Maior naturalis tertiam partem temporis continet ad plus, minor duas de novem, minima unam.</p>
+      <p id="GUIFAR0194">Maior per artem duas partes temporis continet ad plus, ut hic per naturam:</p>
+      <p id="GUIFAR0195">[S,S,S]</p>
+      <p id="GUIFAR0196">et hic per artem:</p>
+      <p id="GUIFAR0197">[Scd,S,pt,Scd,S,S]</p>
+      <p id="GUIFAR0198">Minor per artem hic:</p>
+      <p id="GUIFAR0199">[S,M,pt,M,S]</p>
+      <p id="GUIFAR0200">quando proportionatur cum minima.</p>
+      <p id="GUIFAR0201">Minime sunt que connumerantur cum minoribus per artem et per naturam, et caudantur in sursum, ut hic:</p>
+      <p id="GUIFAR0202">[M,S,pt,M,S]</p>
+      <p id="GUIFAR0203">minoribus non caudatis.</p>
+      <p id="GUIFAR0204">[VI]</p>
+      <p id="GUIFAR0205">Viso de tempore perfecto secundum divisionem duodenariam et nonariam, nunc est videndum de tempore inperfecto, quoniam oppositorum est eadem disciplina.</p>
+      <p id="GUIFAR0206">Tempus enim inperfectum deficit a perfecto ad minus in tertia parte sui, et dividitur primaria divisione in duas semibreves equales que in valore equivalent duabus de tribus primarie divisionis perfecti temporis, et ideo similem figurationem in tota natura temporis inperfecti servabimus quemadmodum supra in tempore perfecto, ut hic de duabus:</p>
+      <p id="GUIFAR0207">[S,S]</p>
+      <p id="GUIFAR0208">et equaliter proferuntur secundum ytalicos et secundum gallicos.</p>
+      <p id="GUIFAR0209">
+      <pb n="[36]" />Sed si per artem una in deorsum caudetur, transitur ad secundam divisionem temporis que est in quatuor, et tunc caudata tres de quatuor secunde divisionis continet, non caudata in una parte de quatuor permanente, ut hic:</p>
+      <p id="GUIFAR0210">[Scd,S,pt,S,Scd]</p>
+      <p id="GUIFAR0211">secundum ytalicos; sed secundum gallicos caudata quinque partes de sex continet via artis, non caudata in sexta parte temporis permanente.</p>
+      <p id="GUIFAR0212">Si vero tres ponantur pro tempore inperfecto, tunc ytalice cantando ultima in eo quod finis medietatem temporis continet, aliis sistentibus pro alia medietate, ut hic:</p>
+      <p id="GUIFAR0213">[S,S,S]</p>
+      <p id="GUIFAR0214">modo autem gallico, quia ponunt perfectionem a parte principii et inperfectionem a parte finis, prima medietatem temporis vel tres de sex partibus temporis mensurabit, secunda duas, tertia vero unam.</p>
+      <p id="GUIFAR0215">Si vero fuerint quatuor naturales, ytalice cantando equaliter proferuntur, ut hic:</p>
+      <p id="GUIFAR0216">[S,S,S,S]</p>
+      <p id="GUIFAR0217">modo autem gallico inequaliter eo quod non excedunt senarium numerum, prima enim duas de sex, secunda vero unam et sic ambe medietatem temporis continent, tertia iterum duas, quarta vero unam, que faciunt aliam medietatem temporis, et istum modum proferendi habemus a gallicis.</p>
+      <p id="GUIFAR0218">Sed si alique ex tribus vel ex quatuor caudentur in sursum vel in deorsum: si ex tribus una in deorsum caudetur, ytalice et gallice medietatem temporis mensurabit, aliis sistentibus in alia temporis medietate, ut hic:</p>
+      <p id="GUIFAR0219">[Scd,S,S,pt,S,Scd,S,pt,S,S,Scd]</p>
+      <p id="GUIFAR0220">Si ex quatuor una caudabitur in deorsum, transitur ad tertiam divisionem temporis inperfecti que est in octo semibreves equales secundum modum ytalicum, et tunc caudata medietatem temporis vel 
+      <pb n="[37]" />quatuor continet de octo partibus temporis, aliis sistentibus secundum earum quantitatem in secunda et tertia divisione temporis, ut hic:</p>
+      <p id="GUIFAR0221">[Scd,S,S,S,pt,S,S,S,Scd,pt,S,Scd,S,S,pt,S,S,Scd,S]</p>
+      <p id="GUIFAR0222">sed secundum gallicos caudata medietatem temporis continet vel tres de sex, aliis remanentibus minimis.</p>
+      <p id="GUIFAR0223">Sed si in sursum alique caudentur, non caudata cum illa que in sursum proportionari debet secundum modum gallicum et ytalicum, ut hic:</p>
+      <p id="GUIFAR0224">[S,M,S,M,pt,M,S,M,S]</p>
+      <p id="GUIFAR0225">et tunc non caudata modo gallico duas de sex continet, sed modo ytalico tres de octo, reliquis sistentibus minimis in sua divisione.</p>
+      <p id="GUIFAR0226">Si quinque ponantur naturales, due prime dicuntur minime in</p>
+      <p id="GUIFAR0227">tertia divisione continentes duas de octo, reliquis in secunda divisione sistentibus, ut hic ytalice cantando:</p>
+      <p id="GUIFAR0228">[S,S,S,S,S]</p>
+      <p id="GUIFAR0229">sed gallice tres prime equaliter minime proferuntur, quarta duas, quinta unam de sex continet; et possunt per artem aliter variari, ut hic ytalice:</p>
+      <p id="GUIFAR0230">[S,M,S,M,M,pt,M,M,S,S,S,pt,S,M,M,S,M,pt,Scd,M,S,M,M,pt,S,M,M,M,Scd,pt,M,M,Scd,M,M,pt,Scd,M,M,M,M,pt,M,M,M,M,Scd]</p>
+      <p id="GUIFAR0231">et hic gallice:</p>
+      <p id="GUIFAR0232">[S,M,S,S,S,pt,S,S,S,M,S,pt,Scd,S,S,S,S,pt,S,S,S,M,Scd]</p>
+      <p id="GUIFAR0233">Si sex ponantur pro tempore uniformiter figurate, prime quatuor medietatem temporis mensurabunt, aliis duabus sistentibus pro alia medietate temporis, ut hic secundum ytalicos:</p>
+      <p id="GUIFAR0234">[S,S,S,S,S,S]</p>
+      <p id="GUIFAR0235">
+      <pb n="[38]" />et possunt per artem aliter variari:</p>
+      <p id="GUIFAR0236">[S,S,M,M,M,M,pt,S,M,M,S,M,M,pt,M,M,S,M,M,S]</p>
+      <p id="GUIFAR0237">sed secundum gallicos ille sex equaliter proferuntur et minime nuncupantur, et habetur perfecta divisio que est in sex.</p>
+      <p id="GUIFAR0238">Si vero septem extiterint naturales sex prime sex de octo partibus temporis continebunt, ultima vero duas, ut hic:</p>
+      <p id="GUIFAR0239">[S,S,S,S,S,S,S]</p>
+      <p id="GUIFAR0240">sed possunt per artem aliter variari, ut hic:</p>
+      <p id="GUIFAR0241">[S,M,M,S,S,S,S,pt,M,M,M,M,S,M,M]</p>
+      <p id="GUIFAR0242">Si autem fuerint octo uniformiter figurate, minime nominantur et equaliter proferuntur, ut hic:</p>
+      <p id="GUIFAR0243">[S,S,S,S,S,S,S,S]</p>
+      <p id="GUIFAR0244">et sic habetur eorum perfecta divisio ytalicorum que est in octo.</p>
+      <p id="GUIFAR0245">Nomina semibrevium harum divisionum temporis inperfecti</p>
+      <p id="GUIFAR0246">sunt hec: maior, minor et minima.</p>
+      <p id="GUIFAR0247">Maior naturalis est semibrevis sistens in prima divisione temporis, ut hic secundum gallicos et ytalicos:</p>
+      <p id="GUIFAR0248">[S,S]</p>
+      <p id="GUIFAR0249">Minor naturalis est semibrevis sistens in secunda divisione, ut hic:</p>
+      <p id="GUIFAR0250">[S,S,S,S]</p>
+      <p id="GUIFAR0251">minima que in tertia, ut hic:</p>
+      <p id="GUIFAR0252">[S,S,S,S,S,S,S,S]</p>
+      <p id="GUIFAR0253">secundum modum ytalicum; secundum modum gallicum minor duas de sex continet et minima unam:</p>
+      <p id="GUIFAR0254">[S,M,S,M]</p>
+      <p id="GUIFAR0255">minor non caudata, sed minima caudatur in sursum.</p>
+      <p id="GUIFAR0256">
+      <pb n="[39]" />Maior per artem tres de quatuor vel sex de octo continet, ut hic secundum ytalicos:</p>
+      <p id="GUIFAR0257">[Scd,S,pt,S,Scd]</p>
+      <p id="GUIFAR0258">et caudatur in deorsum; sed secundum gallicos caudata quinque de sex continet, ultima in sua natura sistente; quandoque duas de quatuor mensurabit vel quatuor de octo, ut hic ytalice:</p>
+      <p id="GUIFAR0259">[Scd,S,S,pt,S,S,Scd]</p>
+      <p id="GUIFAR0260">et hic gallice:</p>
+      <p id="GUIFAR0261">[Scd,S,M,pt,M,S,Scd,pt,S,Scd,M]</p>
+      <p id="GUIFAR0262">caudata in deorsum maior, non caudata minor, caudata in sursum minima.</p>
+      <p id="GUIFAR0263">Minor per artem secundum ytalicos tres de octo continet et non est necesse caudari, ut hic:</p>
+      <p id="GUIFAR0264">[S,M,S,M,pt,M,S,M,S]</p>
+      <p id="GUIFAR0265">et secundum naturam unam de quatuor vel duas de octo continet, ut hic:</p>
+      <p id="GUIFAR0266">[S,M,M,S,S,pt,M,M,S,Scd]</p>
+      <p id="GUIFAR0267">Et quia in conpendiosa doctrina solet delectari animus auditoris, ideo resecatis superfluis et obmissis rationibus que hinc [et] inde possent fieri causa brevitatis, presens opusculum ad laudem Dei et amore aliquorum fratrum mei ordinis volentium in arte musice delectationem cantus habere, a me indigno cantore extitit conpilatum.</p>
+      <p id="GUIFAR0268">Deo reddatur laus et gloria per cuncta secula. Amen.</p>
+    </body>
+  </text>
+</TEI>

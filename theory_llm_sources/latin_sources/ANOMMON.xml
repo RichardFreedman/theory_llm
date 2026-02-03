@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Mensura monocordi</title>
+        <title type="abbrev">ANOMMON</title>
+        <author>Anonymous</author>
+        <date notBefore="800" notAfter="1099">9th-11th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Andreas Giger</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Elisabeth Honn</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1997</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Hans Schmid, ed., 
+<emph>Musica et scolica enchiriadis una cum aliquibus tractatulis adiunctis</emph>, Bayerische Akademie der Wissenschaften, Veröffentlichungen der Musikhistorischen Kommission, Band 3 (Munich: Bayerische Akademie der Wissenschaften / C. H. Beck, 1981), 238. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: Mensura monochordi</title>
+          
+<idno type="LML">MON. In mon.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">D-KA K 504, 43v</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANOMMON0001">
+      <pb n="[238]" />MENSURA MONOCORDI</p>
+      <p id="ANOMMON0002">In monocordo, quod dicitur Fortunatiani, illa mensura tenenda est, ut in principio totius spatii ponatur protus gravis cum hac nota [signum]. Deinde tota regula in novem dividatur, et illa parte nona detracta ibidem ponatur deuterus gravis cum hac nota [signum]. Ab eodem loco usque in finem sumatur tercia pars, in quo loco ponatur deuterus finalis ad hunc modum [signum]. Quo spatio in octo diviso et octava adiecta parte fit tonus ibique signatur protus finalis ita [signum]. Eodem iterum spatio in octo diviso erit alter tonus, qui dicitur tetrardus gravis ita [signum]. Nihilominus exinde octava parte sumpta priorique loco addita, cadit continuus tercius tonus, qui dicitur tritus gravis ita [signum]. Inter quem et illum deuterum, qui primus est factus, ultro se fert semitonium non propria qualibet regula factum, sed communi aliarum dimensionum ratione inventum. Incipiatur iterum a deutero finali, et quod residuum est monocordi inmensurati dividatur in tria. Tertia parte reperta signetur deuterus superiorum cum tali figura [signum] proportione toni effectus. Hoc per octo diviso et octava per epogdoum adiuncta erit protus superiorum tali caractere formatus [signum]. Iterumque ab hoc octo partibus sumptis et octava parte addita tetrardus finalis hic [signum]. Illi quoque octava sua parte superposita tritus erit finalis iste [signum]. Inter quem et deuterum finalium denuo se ingerit sua sponte semitonium. Expensis igitur duobus tetracordis . . .</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Lucidarium, tractatus tercius decimus</title>
+        <title type="abbrev">MARLUC13</title>
+        <author>Marchetus de Padua</author>
+        <date notBefore="1300" notAfter="1399">14th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Stephen E. Hayes</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Peter M. Lefferts</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1990</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>The Lucidarium of Marchetto of Padua: A Critical Edition, Translation, and Commentary</emph>, ed. and trans. by Jan W. Herlinger (Chicago and London: The University of Chicago Press, 1985), 534–38. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Marchettus de Padua: Lucidarium in arte musicae planae</title>
+          
+<idno type="LML">MARCH. luc.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">A-SP Cod. 135/6 (29.4.4), 21v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Br II 785, 15-38v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Br II 4144, 1-41</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">CH-E 689, 1-44</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">E-Sc 5-2-25, 5-20v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">E-Sc 5-2-25, 76v-77v, 124-128 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-SDI 42, 1-33v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ob Canon. Misc. 42, 184-185 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-BREs D 21, 185v-186v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-CATc D 39, 157-189</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fl Conv. Soppr. 388, 34v-52v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fr 734, 74-101</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Ma D. 5 inf., 52-77v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Ma I. 20 inf., 36v-39 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-PEc 1013, 5-45v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-PIu 606 (IV.9), I/1-50</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat lat. 5322, 1-48</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat Reg. lat. 1146, 7-8 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Sc L.V.30, 91v-119</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-TRE without shelfmark, 15-32v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Vnm Lat. Cl. VIII.85 (3579), 1-10 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">US-Cn Case Ms. 54.1, 10v-33</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">US-Wc ML 171 J 6 Case, hv-47</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="MARLUC130001">
+      <pb n="[534]" />1. INCIPIT TRACTATUS TERCIUS DECIMUS CAPITULUM PRIMUM DE PAUSIS QUOMODO DEBEANT FIGURARI IN CANTU PLANO.</p>
+      <p id="MARLUC130002">2. Sequitur videre de pausis, scilicet quomodo in cantu plano debeant figurari,</p>
+      <p id="MARLUC130003">3. nam sunt aliqui, qui pro suo libito voluntatis, absque lege et distinctionum specierum ratione, ipsas in cantibus figurant,</p>
+      <p id="MARLUC130004">4. non advertentes quod sicut sunt diversi modi sive toni, sic sunt diversa principia, distinctiones, species, pneume, et finales,</p>
+      <p id="MARLUC130005">5. nam modos per species iudicamus, et species per distinctiones cognoscere nos oportet.</p>
+      <p id="MARLUC130006">6. Signa enim que habent distinguere species inter se sunt linee protracte infra per spacia et lineas, que pause dicuntur.</p>
+      <p id="MARLUC130007">
+      <pb n="[536]" />7. Ubicunque enim pausa fit innuitur nobis desistere a cantare,</p>
+      <p id="MARLUC130008">8. et hee pause debent distinguere species et ipsas diversificare secundum quod in diversis tonorum cantibus ordinatur.</p>
+      <p id="MARLUC130009">9. Pneume dicuntur ille que in unoquoque modorum diverse existunt,</p>
+      <p id="MARLUC130010">10. que quidem ponuntur tam circa principium quam circa medium, quam etiam circa finem.</p>
+      <p id="MARLUC130011">11. Verum quod semper terminantur in finali ubi terminare debet cantus in quo posite sunt.</p>
+      <p id="MARLUC130012">12. Per ipsas quoque satis secundum auditum possunt toni cognosci,</p>
+      <p id="MARLUC130013">13. nam secundum Ysidorum pneuma est coniunctio notularum in quolibet modorum que cantum format, distinguit, copulat, et concludit.</p>
+      <p id="MARLUC130014">14. Sed quia species et pneume supradicte sunt ex diversis notarum nominibus constitute,</p>
+      <p id="MARLUC130015">
+      <pb n="[538]" />15. ideo videre necesse est de signis per que notarum figuratarum in cantibus nomina cognoscamus,</p>
+      <p id="MARLUC130016">16. que quidem claves universaliter nuncupantur.</p>
+      <p id="MARLUC130017">17. FINIT TRACTATUS TERCIUS DECIMUS</p>
+    </body>
+  </text>
+</TEI>

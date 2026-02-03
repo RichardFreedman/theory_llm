@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>[Musica mensurabilis]</title>
+        <title type="abbrev">PETMUSUP</title>
+        <author>Petrus Picardus</author>
+        <date notBefore="1200" notAfter="1299">13th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Peter Slemon</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Anastasia Arapova</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Mark Butler</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>2001</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Carl Allan Moberg, "Om flerstämmig musik i Sverige under medeltiden," 
+<emph>Svensk Tidskrift för Musikforskning</emph> 10 (1928): 62-67, 62–67.
+</bibl>
+        <bibl type="work">
+          
+<title>Petrus Picardus: Ars motettorum compilata breviter</title>
+          
+<idno type="LML">PETR. PIC.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 16663, 83rb-84vb</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Nn XVI.A.15, 1v-3</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">S-Uu C 453, 172-173v</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="PETMUSUP0001">
+      <pb n="[62]" />[TRACTATVS DE MVSICA SECVNDVM PETRVM PICARDVM ALIOSQUE SCRIPTORES.]</p>
+      <p id="PETMUSUP0002">(E CODICE VPSAL. C 453.)</p>
+      <p id="PETMUSUP0003">[f.172ro] Quoniam nonnulli et maxime auditores noui compendiosa breuitate laetantur, quattuor tantum capitula mensurabilis musicae, quae quidem sunt ipsis nouis auditoribus necessaria, breuiter enodabo; dictaque mea arti [= a-e] magistri Franconis de Colonia necnon et arbore Ioannis de Burgundia, quantumcunque potero, confortabo. Primum capitulum erit de simplicibus figuris, secundum de ligaturis, tertium de pausationibus, quartum et ultimum fit de modis.</p>
+      <p id="PETMUSUP0004">Figurarum simplicium tres sunt species, quae tres ramos perficiunt in Ioannis arbore supradicti; longa, ut hic (fig. Nr 1);</p>
+      <p id="PETMUSUP0005">[STM10:63] 
+      <figure>
+        <graphic url="/images/PETMUSUP_01GF.gif" />
+      </figure></p>
+      <p id="PETMUSUP0006">breuis, ut hic patet (fig. Nr 2);</p>
+      <p id="PETMUSUP0007">[STM10:63]</p>
+      <p id="PETMUSUP0008">semibreuis, ut hic (fig. Nr 3).</p>
+      <p id="PETMUSUP0009">[STM10:63]</p>
+      <p id="PETMUSUP0010">Longa quidem in tres diuiditur, scilicet in longam perfectam et in imperfectam et in duplicem longam, sic formatam (fig. Nr 4).</p>
+      <p id="PETMUSUP0011">[STM10:63]</p>
+      <p id="PETMUSUP0012">Longa perfecta ualet tria tempora, et hoc potest fieri multis modis: primo, si longam longa sequitur, tunc prima longa semper est perfecta, ut hic (fig. Nr 5);</p>
+      <p id="PETMUSUP0013">[STM10:63; text: Pater omnium]</p>
+      <p id="PETMUSUP0014">secundo fit longa perfecta, si longam tractulus, qui signum perfectionis dicitur, immediate sequitur (fig. Nr 6).</p>
+      <p id="PETMUSUP0015">[STM10:63; text: Ja n'amerai]</p>
+      <p id="PETMUSUP0016">Tertio, si longam sequantur duae breues, sola breui non praecedente, ut hic (fig. Nr 7).</p>
+      <p id="PETMUSUP0017">[STM10:63; text: O Maria]</p>
+      <p id="PETMUSUP0018">Quarto 
+      <pb n="[63]" />fit longa perfecta, si longam immediate tres breues sequantur, sola [breui] etiam non praecedente, ut hic patet (fig. Nr 8).</p>
+      <p id="PETMUSUP0019">[STM10:63; text: Praebeas auxilium]</p>
+      <p id="PETMUSUP0020">Sic patet, quot modis potest fieri longa perfecta. -- Longa uero 
+      <pb n="[64]" />imperfecta duobus temporibus tantum mensuratur; et potest fieri multis modis. Primo, si longam sola breuis praecedat, licet ipsam [notam] sequantur duae, uel tres, uel plures, ut hic (fig. Nr 9).</p>
+      <p id="PETMUSUP0021">[STM10:63; text: Gaude chorus]</p>
+      <p id="PETMUSUP0022">Secundo fit longa imperfecta, si longam sola breuis sequitur, ut hic patet (fig. Nr 10).</p>
+      <p id="PETMUSUP0023">[STM10:63; text: Mellis stilla]</p>
+      <p id="PETMUSUP0024">Tertio fit longa imperfecta, si duae breues longam sequantur, signum diuisionis in medio earum habentes, ut hic (fig. Nr 11).</p>
+      <p id="PETMUSUP0025">[STM10:63; text: Dari, tradi]</p>
+      <p id="PETMUSUP0026">Quarto fit [f. 172vo] longa imperfecta, si longam tres breues sequantur, habentes tractulus, (= tr--os) qui est signum diuisionis, inter primam breuem et duas sequentes, ut hic (fig. Nr 12).</p>
+      <p id="PETMUSUP0027">[STM10:63; text: Manus pedes]</p>
+      <p id="PETMUSUP0028">Quinto modo potest longa imperfecta [fieri], si plures breues quam tres sequuntur, ut hic patet (fig. Nr 13).</p>
+      <p id="PETMUSUP0029">[STM10:63; text: Mamel eteri asi]</p>
+      <p id="PETMUSUP0030">Et tot modis potest fieri longa imperfecta.</p>
+      <p id="PETMUSUP0031">Breuis in duas diuiditur, scilicet in breuem rectam et alteram breuem. Recta quidem breuis tantum ualet unum tempus et fit, ubicumque est sola breuis uel plures quam duae, ubi uisum est in exemplis prius dictis. Altera breuis est, quae ualet duo tempora, et hoc fit, ubicumque sunt tantummodo duae breues, et hoc fit, quando sunt inter duas [longas] uel inter breues et longam, dum tamen per signum diuisionis ab illis distinguantur; et tunc ultima illarum altera dicitur breuis, sed prima recta breuis appellatur. Et hoc prius patuit et per aliud exemplum declaratur, ut hic patet (fig. Nr 14).</p>
+      <p id="PETMUSUP0032">[STM10:63; text: Praesentis mentis est inopia]</p>
+      <p id="PETMUSUP0033">Et sic patet de breui et altera breui. Notandum est, quod idem est iudicium de breuibus et semibreuibus, sed intelligendum est, semibreues plures quam tres pro recta breui non posse accipi, quantum est de arte, et tunc sunt aequales omnes et dicitur quaelibet minor semibreuis, ut hic (fig. Nr 15).</p>
+      <p id="PETMUSUP0034">[STM10:63; text: Doy sillones]</p>
+      <p id="PETMUSUP0035">Nec minus quam duae, quarum prima minor, secunda uero maior semibreuis dicitur, pro una recta poneri potest, ut hic (fig. Nr 16).</p>
+      <p id="PETMUSUP0036">[STM10:63; text: In ueritate]</p>
+      <p id="PETMUSUP0037">Et sic patet de semibreuibus, quantum ad ualorem earum.</p>
+      <p id="PETMUSUP0038">Sed sciendum est, quod quacumque plures semibreues inueniuntur alicubi, quam duae, tunc duae et duae pro uno tempore debent accipi, ut hic patet (fig. Nr 17);</p>
+      <p id="PETMUSUP0039">[STM10:63; text: A ma dame]</p>
+      <p id="PETMUSUP0040">sed si tres pro uno tempore positae sunt, et (= etiam) tres sequantur, ut hic (fig. Nr 18),</p>
+      <p id="PETMUSUP0041">[STM10:63; text: Pro nobis exorans]</p>
+      <p id="PETMUSUP0042">uel duae sequantur tres, ut hic (fig. Nr 19),</p>
+      <p id="PETMUSUP0043">[STM10:63; text: Et que deruliens]</p>
+      <p id="PETMUSUP0044">uel etiam tres sequantur, ut hic (fig. Nr 20);</p>
+      <p id="PETMUSUP0045">[STM10:63; text: En cantant liperquele]</p>
+      <p id="PETMUSUP0046">[f. 173ro] tunc semper ponendus est tractulus qui diuisionem signat (= significat) inter tres et tres, 
+      <pb n="[65]" />uel inter tres et duas, uel inter duas et tres, ubicumque uisum est prius in exemplis dictis. [* * *]</p>
+      <p id="PETMUSUP0047">Praeterea omnes simplices figurae plicari possunt, excepta semibreui, cui repugnat plica propter figurationem eius. Longa plicabilis est [dupliciter:] ascendendo et descendendo, et similiter breuis ita, quod quodlibet tempus cuiuslibet notae plicetur in duas semibreues, et sic patet primum capitulum (fig. Nr 21).</p>
+      <p id="PETMUSUP0048">[STM10:65] 
+      <figure>
+        <graphic url="/images/PETMUSUP_02GF.gif" />
+      </figure></p>
+      <p id="PETMUSUP0049">Ligaturarum alia est ascendens [hs: adcendens!], alia descendens. Ascendens erit ligatura, quando secundus punctus est altior primo, ut hic (fig. Nr 22);</p>
+      <p id="PETMUSUP0050">[STM10:65]</p>
+      <p id="PETMUSUP0051">descendens uero e contrario dicitur, scilicet quando primus punctus altior (Coussemaker: inferior!!) est secundo, ut hic (fig. Nr 23).</p>
+      <p id="PETMUSUP0052">[STM10:65]</p>
+      <p id="PETMUSUP0053">Item ligaturarum, tam ascendentium quam descendentium, alia cum proprietate, alia sine proprietate, alia cum opposita proprietate. His tribus differentiis differunt essentialiter ab inuicem omnia principia ligaturarum, 
+      <pb n="[66]" />ut in magna arte Magistri Franconis, prius dicti, latius declaratur. Sed a fine duabus tantum differentiis differunt ab inuicem ligaturae, scilicet perfectione et imperfectione. Media uero ligaturarum pullas habent differentias essentiales, quare omnia media idem (= item) dicuntur figurae, ut postea apparebit.</p>
+      <p id="PETMUSUP0054">Et sequuntur regulae omnium ligaturarum.</p>
+      <p id="PETMUSUP0055">Omnis ligatura ascendens cum proprietate dicitur, si careat omni tractu, ut hic (fig. Nr 24).</p>
+      <p id="PETMUSUP0056">[STM10:65]</p>
+      <p id="PETMUSUP0057">Quae si tractum habeat a primo puncto descendentem a parte sinistra, ut hic (fig. Nr 25) [nr 1]</p>
+      <p id="PETMUSUP0058">[STM10:65]</p>
+      <p id="PETMUSUP0059">uel dextra, quod magis proprium est, (fig. nr 26) [Nr 3]</p>
+      <p id="PETMUSUP0060">[STM10:65]</p>
+      <p id="PETMUSUP0061">tunc sine [hs: cum!!] proprietate dicetur. Item omnis ligatura descendens [, tractum gerens] a primo puncto descendente[m] sinistro(rsum?), cum proprietate dicitur, ut hic patet (fig. Nr 27) [nr 4];</p>
+      <p id="PETMUSUP0062">[STM10:65]</p>
+      <p id="PETMUSUP0063">quae si careat sine proprietate dicetur, ut hic patet (fig. Nr 28) [nr 5].</p>
+      <p id="PETMUSUP0064">[STM10:65]</p>
+      <p id="PETMUSUP0065">Item omnis ligatura, tam ascendens quam descendens, tractum gerens a primo puncto ascendente[m], cum opposita proprietate dicetur, ut hic patet (fig. Nr 29) [nr 2], [* * *]</p>
+      <p id="PETMUSUP0066">[STM10:65]</p>
+      <p id="PETMUSUP0067">(f. 173vo). A parte autem finis tales dantur regulae:</p>
+      <p id="PETMUSUP0068">Omnis ligatura, cuius ultimus punctus recte stat supra penultimam, est perfecta, ut hic (fig. Nr 30),</p>
+      <p id="PETMUSUP0069">[STM10:65]</p>
+      <p id="PETMUSUP0070">uel sub penultimo, ut hic (fig. Nr 31),</p>
+      <p id="PETMUSUP0071">[STM10:65]</p>
+      <p id="PETMUSUP0072">uel auerso capite cum plica, ut hic patet: (fig. Nr 32).</p>
+      <p id="PETMUSUP0073">[STM10:65]</p>
+      <p id="PETMUSUP0074">Item omnis ligatura, cuius ultimus punctus auerso capite stat supra penultimam sine plica, est imperfecta, ut hic patet (fig. Nr 33);</p>
+      <p id="PETMUSUP0075">[STM10:65]</p>
+      <p id="PETMUSUP0076">similiter omnis ligatura, cuius duo ultima puncta in uno corpore obliquo, tam ascendente quam descendente, commiscentur, est imperfecta, ut hic (fig. Nr 34).</p>
+      <p id="PETMUSUP0077">[STM10:65]</p>
+      <p id="PETMUSUP0078">-- Sequitur de plicis ligaturarum:</p>
+      <p id="PETMUSUP0079">Omnis ligatura plicabilis est [dupliciter,] scilicet ascendendo [hs. adcendendo] et descendendo. Plicatur enim ligatura perfecta, ut hic [staff3], et etiam descendendo, ut hic [staff3] Similiter uero ligatura imperfecta plicari potest dupliciter, scilicet ascendendo el descendendo, ut hic patet [staff3]. Sequitur ualor omnium quinque differentiarum praedictarum: Omnis proprietas [est] breuis; omnis sine proprietate longa; omnis 
+      <pb n="[67]" />opposita proprietas duae primae semibreues; omnis perfecta longa; omnis imperfecta breuis; omnis media breuis, nisi per oppositam proprietatem per accidens semibreuietur. Et haec quinque differentiae in arbore dicti Ioannis subtiliter declarantur. Et nota in ligaturis, longam, breuem et semibreuem: quantum est de ualore, subiacent regulis simplicium figurarum (Coussemaker: praedictarum) et in hoc secundum capitulum terminatur.</p>
+      <p id="PETMUSUP0080">Pausationum sex sunt species: prima pausatio est trium temporum, secunda duorum, tertia unius temporis, quarta duarum partium unius temporis, quinta tertiae partis unius temporis, sexta et ultima nullius temporis sed potius immensurabilis dicitur. Causa [hs. Cum] inuentionis eius fuit, ut, ubicumque inueniretur, penultimam signaret [= significaret] esse longam.</p>
+    </body>
+  </text>
+</TEI>

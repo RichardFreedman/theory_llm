@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Ars cantus figurati</title>
+        <title type="abbrev">LUCARSC</title>
+        <author>Antonius de Luca</author>
+        <date notBefore="1400" notAfter="1499">15th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Katherine Clark</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Andreas Giger</persName>
+      </respStmt>
+      <date>1999</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Antonius de Luca, 
+<emph>Ars cantus figurati</emph>; 
+<emph>Capitulum de quattuor mensuris</emph>; 
+<emph>Tractatulus mensurationum</emph>; 
+<emph>Compendium breve de proportionibus</emph>; 
+<emph>Tractatulus prolationum cum tabulis</emph>, ed. Heinz Ristory, Corpus scriptorum de musica, vol. 38 (n.p.: American Institute of Musicology / Hänssler-Verlag, 1997), 24–59. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Antonius de Lucca: Ars cantus figurati</title>
+          
+<idno type="LML">ANT. LUCC.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">B-Br II 785, 1v-8v</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="LUCARSC0001">
+      <pb n="[24]" />Antonius de Luca</p>
+      <p id="LUCARSC0002">ARS CANTUS FIGURATI</p>
+      <p id="LUCARSC0003">Prooemium</p>
+      <p id="LUCARSC0004">Br1 1v</p>
+      <p id="LUCARSC0005">Incipit ars cantus figurati. Qualiter in arte pratica mensurabilis cantus erudiri mediocriter affectans, ea scribat diligenter quae sequuntur sumarie compilata secundum magistrum Ioannem de Muris, quam mihi fratri Antonio de Luca ordinis servorum declaravit, legit perfecteque aperuit magister meus dominus Laurentius de urbe veteri, ac etiam in arte peritissimus, nec non etiam in omnibus aliis et per maxime cantus cuiuscumque conditionis et canonicus ecclesiae sanctae Mariae maioris diligenter attendens cui dominus benedicat in secula seculorum. Amen.</p>
+      <p id="LUCARSC0006">Prima pars Libelli cantus mensurabilis secundum Ioannem de Muris.</p>
+      <p id="LUCARSC0007">De quinque partibus prolationis</p>
+      <p id="LUCARSC0008">Capitulum 1</p>
+      <p id="LUCARSC0009">Br1 1v</p>
+      <p id="LUCARSC0010">Quinque enim sunt partes prolationis, videlicet: Maxima, Longa, Brevis, Semibrevis et Minima ut hic patet:</p>
+      <p id="LUCARSC0011">[MXv,Lv,Bv,Sv,Mv on staff1] scilicet prolationis.</p>
+      <p id="LUCARSC0012">Et omnes istae notae possunt invenire in una quaque mensura.</p>
+      <p id="LUCARSC0013">Maxima perfecta valet tres longas, sive de modo perfecto sive de modo imperfecto. Si longae sunt de modo perfecto, maxima perfecta valet novem tempora; modo imperfecto valet sex ut hic:</p>
+      <p id="LUCARSC0014">
+      <pb n="[25]" />[R3rvd,MXv,Lv,Lv,Lv; MXv,Bv,Bv,Bv,Bv,Bv,Bv,Bv,Bv,Bv; R2rvd,MXv,Lv,Lv,Lv,Bv,Bv,Bv,Bv,Bv,Bv,Lv on staff1]</p>
+      <p id="LUCARSC0015">Maxima imperfecta valet duas longas, sive de modo perfecto sive imperfecto. Si de modo perfecto, valet sex tempora. Si de modo imperfecto, valet quattuor ut hic:</p>
+      <p id="LUCARSC0016">[R3rvd,MXv,Lv,Lv,MXv,Bv,Bv,Bv,Bv,Bv,Bv; R2rvd,MXv,Bv,Bv,Bv,Bv,MXv on staff1]</p>
+      <p id="LUCARSC0017">Correlarium sequens ex ista regula superius data. Et ex hiis infertur quod maxima potest esse perfecta longis existentibus imperfectis et e converso. Maxima potest esse imperfecta longis existentibus perfectis. Longa in modo perfecto, scilicet maiori, valet tres breves, in modo scilicet imperfecto minori duas ut hic patet per exemplum:</p>
+      <p id="LUCARSC0018">[R3rvd,Lv,Bv,Bv,Bv,Lv; R2rvd,Lv,Bv,Bv,Lv on staff2]</p>
+      <p id="LUCARSC0019">Brevis in tempore perfecto valet tres semibreves. In tempore imperfecto valet duas ut hic: Tempus perfectum et imperfectum:</p>
+      <p id="LUCARSC0020">[O,Bv,Sv,Sv,Sv,Bv; C,Bv,Sv,Sv,Bv on staff1]</p>
+      <p id="LUCARSC0021">Semibrevis in maiori prolatione valet tres minimas, in minori vero duas ut hic:</p>
+      <p id="LUCARSC0022">[Cd,Sv,Mv,Mv,Mv,Sv; C,Sv,Mv,Mv,Sv on staff2]</p>
+      <p id="LUCARSC0023">
+      <pb n="[26]" />De modo</p>
+      <p id="LUCARSC0024">Capitulum 2</p>
+      <p id="LUCARSC0025">Br1 2r</p>
+      <p id="LUCARSC0026">Nota quod duplex est modus, scilicet modus perfectus et modus imperfectus. Modus perfectus est quando longa valet tres breves. Modus imperfectus est quando longa valet duas.</p>
+      <p id="LUCARSC0027">De tempore</p>
+      <p id="LUCARSC0028">Capitulum 3</p>
+      <p id="LUCARSC0029">Br1 2r</p>
+      <p id="LUCARSC0030">Item duplex est tempus, scilicet perfectum et imperfectum. Tempus perfectum est quando brevis valet tres semibreves; tempus autem imperfectum est quando valet duas.</p>
+      <p id="LUCARSC0031">De prolatione</p>
+      <p id="LUCARSC0032">Capitulum 4</p>
+      <p id="LUCARSC0033">Br1 2r</p>
+      <p id="LUCARSC0034">Item duplex est prolatio, scilicet perfecta quae vocatur maior, et imperfecta quae vocatur minor. Perfecta sive maior prolatio est quando semibrevis valet tres minimas. Imperfecta sive minor prolatio est quando semibrevis valet duas minimas. Exempla patent ex praedictis.</p>
+      <p id="LUCARSC0035">
+      <pb n="[27]" />De imperfectione</p>
+      <p id="LUCARSC0036">Capitulum 5</p>
+      <p id="LUCARSC0037">Br1 2r</p>
+      <p id="LUCARSC0038">Insuper notandum est quod nota perfecta potest imperfici, et imperfecta potest perfici. Imperfici per abstractionem tertiae partis sui valoris. Perfici vero per additionem mediae partis sui valoris. Nam perfectio consistit in numero ternario. Imperfectio vero in numero binario.</p>
+      <p id="LUCARSC0039">Unde maxima perfecta in toto, id est quoad se, et quoad partes propinquas eius potest imperfici dupliciter; videlicet quoad totum et quoad partes. Quoad totum dupliciter, scilicet a parte ante et ex parte post. A parte ante quando eam praecedit sola longa. A parte post quando eam sequitur sola longa, vel quattuor, vel septem, vel decem longae et cetera, vel earum valor. Tunc prima longa vel eius valor imperficit maximam praecedentem, nisi per punctum impediatur. Exemplum patet:</p>
+      <p id="LUCARSC0040">[MXv,Lv,pt,Lv,MXv; MXv,Lv,Lv,Lv,Lv,MXv,Lv,Lv,Lv,Lv,MXv on staff1]</p>
+      <p id="LUCARSC0041">Quoad partes etiam dupliciter, scilicet quoad partes propinquas et quoad partes remotas. Pro quo notandum est quod pars propinqua alicuius totius, scilicet alicuius notis est illa in qua ipsum, id est nota, totum immediate dividitur. Sic maximarum partes propinquae sunt longae. Longarum scilicet partes propinquae sunt breves. Brevium partes propinquae sunt semibreves. Semibrevium partes et cetera. Partes remotae sunt partes partium propinquarum. Remotiores sunt partes partium remotarum.</p>
+      <p id="LUCARSC0042">Maxima igitur quoad partes propinquas potest imperfici dupliciter, scilicet a parte ante et ex parte post, scilicet per abstractionem tertiae partis valoris cuiuslibet partis propinquae vel alterius earundem. Et sic similiter quoad partes remotas per abstractionem tertiae partis 
+      <pb n="[28]" />valoris cuiuslibet partis remotae, vel alterius earundem et cetera. Et ita suo modo intelligi potest de longis, brevibus et semibrevibus. Exempla patebunt inferius ex praedictis. Et inferius nota has regulas. Vide (in eam arborem) ad cartas.</p>
+      <p id="LUCARSC0043">[MXv,Lv,MXv,Bv,MXv,Sv; MXv,Mv; Lv,Bv,Lv,Sv,Lv,Mv on staff1]</p>
+      <p id="LUCARSC0044">Et hiis similia intelligitur hic secunda principia de primis notis et intelligitur de perfectione modi, temporis et prolationis.</p>
+      <p id="LUCARSC0045">Prima regula haec est quod longa ante longam in modo perfecto semper est perfecta, et brevis ante brevem in tempore perfecto similiter est perfecta, et semibrevis ante semibrevem in maiori prolatione est perfecta: Modus, Tempus, Prolatio:</p>
+      <p id="LUCARSC0046">[Bv,Lv,Lv; Sv,Bv,Bv; Mv,Sv,Sv; Lv,MXv,MXv; Bv,Lv,Lv,Lv,Lv; Sv,Bv,Bv,Bv; Mv,Sv,Sv,Sv,Sv on staff1]</p>
+      <p id="LUCARSC0047">Secunda regula est quod quandocumque aliqua nota debet imperfici, oportet quod eam immediate sequatur nota maior vel minor in forma vel in pausa maioris vel minoris, quia similis ante similem non potest imperfici, ut hic patebit:</p>
+      <p id="LUCARSC0048">[CSM38:28] 
+      <figure>
+        <graphic url="/images/LUCARSC_01GF.gif" />
+      </figure></p>
+      <p id="LUCARSC0049">Tertia regula est quando post longam de modo perfecto sequuntur duae breves vel tres, (tamen) nulla sola brevi praecedente a qua possit imperfici perfecta est, nisi punctus divisionis ponatur inter primam brevem et aliam vel alias sequentes, scilicet quando est punctus, 
+      <pb n="[29]" />nam tunc prima brevis imperficit longam praecedentem. Et idem intelligendum est de brevibus temporis perfecti respectu semibrevium et de semibrevibus maioris prolationis respectu minimarum.</p>
+      <p id="LUCARSC0050">[R3rvd,Lv,Bv,Bv,Lv; Lv,Bv,Bv,Bv,Lv; Lv,Bv,pt,Bv,Lv; Lv,Bv,pt,Bv,Bv,Lv; Bv,Sv,Sv,Bv; Bv,Sv,Sv,Sv,Bv; Bv,Sv,pt,Sv,Bv on staff1]</p>
+      <p id="LUCARSC0051">Quarta regula est quod quando inter duas longas remanet sola brevis perfectione computata, tunc illa brevis imperficit primam longam, scilicet praecedentem, nisi per punctum aut aliter impediatur. Et idem est de semibrevi inter breves et de minima inter semibreves, ut hic patet:</p>
+      <p id="LUCARSC0052">[R3rvd,Lv,Bv,Lv; Bv,Sv,Bv; Sv,Mv,Sv; Lv,pt,Bv,Lv; Bv,pt,Sv,Bv; Sv,pt,Mv,Sv; Bv,Sv,pt,Sv,Sv,Bv; Sv,Mv,[pt],Mv,Mv,Sv on staff1]</p>
+      <p id="LUCARSC0053">Quinta regula est quando aliqua nota est reducibilis, id est ad propinquiorem et ad propriorem locum quem potest habere, ut hic:</p>
+      <p id="LUCARSC0054">[R3rvd,Bv,pt,Bv,Bv,Lv,pt,Bv,pt,Bv,Lv,Lv,Bv,pt,Bv,Lv,Lv,MXv; Sv,pt,Sv,Sv,Bv,pt,Sv,pt,Sv,Bv,Bv,Sv,pt,Sv,Bv,Bv,Lv; Mv,pt,Mv,Mv,Sv,pt,Mv,pt,Mv,Sv,Sv,Mv,pt,Mv,Sv,Sv,Bv on staff1]</p>
+      <p id="LUCARSC0055">Sexta regula est quod quando aliqua nota imperficitur, imperficitur a propinquiori. Exempla patent in exemplis regularum praecedentium, et hic etiam:</p>
+      <p id="LUCARSC0056">[R3rvd,Bv,pt,Bv,Bv,Lv,Bv,pt,Bv,Bv,Lv; Sv,[pt],Sv,Sv,Bv,Sv,pt,Sv,Sv,Bv; Mv,pt,Mv,Mv,Sv,Mv,pt,Mv,Mv,Sv on staff1]</p>
+      <p id="LUCARSC0057">
+      <pb n="[30]" />Septima regula est quod quando inveniuntur duae notae simul solae, illae non debent partiri sed simul computari, ut hic intelligitur haec secunda:</p>
+      <p id="LUCARSC0058">[CSM38:30]</p>
+      <p id="LUCARSC0059">Intelligitur haec secunda de notis similibus inter notas immediate maiores.</p>
+      <p id="LUCARSC0060">Ulterius notandum est quod quando aliqua nota imperficitur a parte propinqua vel eius valore, hoc fit ratione totius sive quoad totum; si a parte remota vel a partibus remotis, scilicet a duabus notis non tamen valentibus unam partem propinquam, hoc est quoad partem vel quoad partes.</p>
+      <p id="LUCARSC0061">Item notandum est quod quidquid imperficitur, a tertia parte imperficitur. Ex quo sequitur quod quidquid est divisibile in tres partes aequales potest imperfici a tertia parte; et quotiens potest dividi in tres partes aequales, totiens potest imperfici ab illa tertia parte. Et imperficiens potest preponi vel postponi illi quod imperficitur iuxta libitum ponentis, servata tamen hac regula: quod nulla nota potest imperfici ante sibi similem; potest bene ante maiorem vel minorem ut superius dictum est.</p>
+      <p id="LUCARSC0062">Sequitur etiam ex praemissis quod semibrevis maioris prolationis potest imperfici ab una minima praecedente vel subsequente ut hic patet:</p>
+      <p id="LUCARSC0063">[Mv,Sv,Mv,Sv,Sv,Mv; Sv,Mv; Sv,Mv,pt,Sv,Mv,pt,Mv,Mv,Mv,Mv,Sv; Sv,Mv,Lv; Sv,Mv,pt,Mv,Sv,Mv,Sv,Lv on staff3]</p>
+      <p id="LUCARSC0064">
+      <pb n="[31]" />Brevis imperfecta minoris prolationis non potest imperfici aliquo modo quia non est in tres partes aequales divisibilis. Brevis imperfecta maioris prolationis potest imperfici ab una minima praecedente vel subsequente quoad partem unam et a duabus minimis quoad duas partes ut patet:</p>
+      <p id="LUCARSC0065">[Mv,Bv; Bv,Mv; Mv,Bv,Mv; Mv,Bv,Mv on staff3]</p>
+      <p id="LUCARSC0066">Brevis perfecta minoris prolationis potest imperfici ab una semibreve vel a duabus minimis et hoc quoad totum ut hic patet:</p>
+      <p id="LUCARSC0067">[Sv,Bv; Mv,Mv,Bv; Bv,Mv,Mv on staff1]</p>
+      <p id="LUCARSC0068">Et nota quod quidam cantores, scilicet Gulielmus de Mascandio et nonnulli alii, imperficiunt brevem perfectam minoris prolationis ab una sola minima, et brevem imperfectam maioris prolationis a duabus minimis simul sequentibus vel praecedentibus, ut hic patet:</p>
+      <p id="LUCARSC0069">[Bv,Mv; Mv,Bv; Mv,Mv,Bv; Bv,Mv,Mv on staff1]</p>
+      <p id="LUCARSC0070">Et debent ibi mutari mensurae qualitatem. Capiunt enim ibi brevem perfectam minoris prolationis ac si esset brevis imperfecta maioris prolationis, et e converso brevem imperfectam maioris prolationis ac si esset brevis perfecta minoris prolationis.</p>
+      <p id="LUCARSC0071">Brevis perfecta maioris prolationis potest imperfici ab una sola minima praecedente vel subsequente. Et hoc quoad unam eius partem 
+      <pb n="[32]" />et a duabus minimis, una praecedente et alia subsequente ut hic patet:</p>
+      <p id="LUCARSC0072">[Mv,Bv; Bv,Mv; Mv,Bv,Mv on staff1]</p>
+      <p id="LUCARSC0073">Vel ambabus simul praecedentibus vel subsequentibus quoad duas partes ut hic:</p>
+      <p id="LUCARSC0074">[Mv,Mv,Bv; Bv,Mv,Mv on staff1]</p>
+      <p id="LUCARSC0075">Item a tribus minimis vel earum valore quoad totum ut hic patet:</p>
+      <p id="LUCARSC0076">[Mv,Mv,Mv,Bv; Bv,Mv,Mv,Mv; Sv,Bv; Bv,Sv; Mv,Sv,Bv; Bv,Sv,Mv on staff1]</p>
+      <p id="LUCARSC0077">Et a quattuor minimis vel earum valore quoad totum ut hic:</p>
+      <p id="LUCARSC0078">[Mv,Mv,Mv,Mv,Bv; Bv,Mv,Mv,Mv,Mv; Mv,Bv,Mv,Mv,Mv; Mv,Mv,Bv,Mv,Mv; Mv,Mv,Mv,Bv,Mv; Sv,Bv,Mv; Mv,Bv,Sv on staff1]</p>
+      <p id="LUCARSC0079">Et quandoque a quinque minimis vel earum valore quoad totum et ad ambas partes (remanentes) ut hic:</p>
+      <p id="LUCARSC0080">[Mv,Mv,Mv,Mv,Mv,Bv; Bv,Mv,Mv,Mv,Mv,Mv; Mv,Bv,Mv,Mv,Mv,Mv; Mv,Mv,Mv,Mv,Bv,Mv; Sv,Mv,Mv,Bv; Sv,Bv,Mv,Mv; Mv,Mv,Bv,Sv,Mv on staff1]</p>
+      <p id="LUCARSC0081">
+      <pb n="[33]" />Et non plus potest imperfici, quia non remanet ei nisi valor brevis imperfectae minoris prolationis quae non potest imperfici, ut dictum est.</p>
+      <p id="LUCARSC0082">Et quidquid circa imperfectionem est dictum de minimis respectu brevium quoad perfectionem, intelligatur de semibrevibus respectu longarum, scilicet quoad perfectionem, et de brevibus respectu maximarum, scilicet quoad perfectionem. Et quod praedictum est de semibrevibus respectu brevium, scilicet quoad totum, intelligatur de brevibus, scilicet quoad totum, respectu longarum, et de longis respectu maximarum, scilicet quoad totum.</p>
+      <p id="LUCARSC0083">Unde sicut est dare brevem imperfectam valentem duas semibreves valentes quattuor minimas, sic est dare longam imperfectam valentem duas breves valentes quattuor semibreves, et maximam imperfectam valentem duas longas valentes quattuor breves. Et sicut est dare brevem imperfectam valentem duas semibreves valentes sex minimas, sic est dare longam imperfectam valentem duas breves valentes sex semibreves, et maximam imperfectam valentem duas longas valentes sex breves. Et sicut est dare brevem perfectam valentem tres semibreves valentes sex minimas, sic est dare longam perfectam valentem tres breves valentes sex semibreves. Et sicut est dare brevem perfectam valentem tres semibreves valentes novem minimas, sic est dare longam perfectam valentem tres breves valentes novem semibreves, et maximam perfectam valentem tres longas valentes novem breves.</p>
+      <p id="LUCARSC0084">Ex quibus supradictis sufficienter habetur quomodo maximae et longae possunt imperfici; tamen videantur exempla quae sequuntur. Et primo de longis imperfectis modo et tempore, sed de minori prolatione ut hic patet:</p>
+      <p id="LUCARSC0085">
+      <pb n="[34]" />[Bv,Sv,Sv; Mv,Mv,Mv,Mv; Bv,Bv,Bv,Sv,Sv,Sv,Sv; Mv,Mv,Mv,Mv,Mv,Mv,Mv,Mv; MXv,Lv,Lv,Bv,Bv,Bv,Bv,Sv,Sv,Sv,Sv,Sv,Sv,Sv,Sv on staff1]</p>
+      <p id="LUCARSC0086">Tabula explicationis addita Antonii de Luca</p>
+      <p id="LUCARSC0087">Br1 4r</p>
+      <p id="LUCARSC0088">Et quidquid imperficitur quoad partem ut hic:</p>
+      <p id="LUCARSC0089">[Mv,Bv,Sv,Lv,Bv,MXv on staff1]</p>
+      <p id="LUCARSC0090">Et quid praedictum est quoad totum:</p>
+      <p id="LUCARSC0091">[Sv,Bv,Bv,Lv,Bv,MXv on staff1]</p>
+      <p id="LUCARSC0092">Dum sic est dare tempus imperfectum minoris prolationis:</p>
+      <p id="LUCARSC0093">[Bv,Sv,Sv,Mv,Mv,Mv,Mv on staff1]</p>
+      <p id="LUCARSC0094">Modus minor imperfectus, tempus imperfectum:</p>
+      <p id="LUCARSC0095">[Lv,Bv,Bv,Sv,Sv,Sv,Sv on staff1]</p>
+      <p id="LUCARSC0096">
+      <pb n="[35]" />Modus maior imperfectus modi minoris prolationis:</p>
+      <p id="LUCARSC0097">[MXv,Lv,Lv,Bv,Bv,Bv,Bv on staff1]</p>
+      <p id="LUCARSC0098">Dum sic est dare tempus imperfectum et maior prolatio:</p>
+      <p id="LUCARSC0099">[Bv,Sv,Sv,Mv,Mv,Mv,Mv,Mv,Mv on staff1]</p>
+      <p id="LUCARSC0100">Modus imperfectus et tempus perfectum:</p>
+      <p id="LUCARSC0101">[Lv,Bv,Bv,Sv,Sv,Sv,Sv,Sv,Sv on staff1]</p>
+      <p id="LUCARSC0102">Modus imperfectus maior et modus minor perfectus:</p>
+      <p id="LUCARSC0103">[MXv,Lv,Lv,Bv,Bv,Bv,Bv,Bv,Bv on staff1]</p>
+      <p id="LUCARSC0104">Modus maior perfectus modi minoris perfectionis:</p>
+      <p id="LUCARSC0105">[MXv,Lv,Lv,Lv,Bv,Bv,Bv,Bv,Bv,Bv,Bv,Bv,Bv on staff1]</p>
+      <p id="LUCARSC0106">Tempus perfectum minoris prolationis:</p>
+      <p id="LUCARSC0107">[Bv,Sv,Sv,Sv,Mv,Mv,Mv,Mv,Mv,Mv on staff1]</p>
+      <p id="LUCARSC0108">
+      <pb n="[36]" />Modus minor perfectus temporis imperfecti:</p>
+      <p id="LUCARSC0109">[Lv,Bv,Bv,Bv,Sv,Sv,Sv,Sv,Sv,Sv on staff1]</p>
+      <p id="LUCARSC0110">Modus maior perfectus modi minoris imperfectionis:</p>
+      <p id="LUCARSC0111">[MXv,Lv,Lv,Lv,Bv,Bv,Bv,Bv,Bv,Bv on staff1]</p>
+      <p id="LUCARSC0112">Tempus perfectum maioris prolationis:</p>
+      <p id="LUCARSC0113">[Bv,Sv,Sv,Sv,Mv,Mv,Mv,Mv,Mv,Mv,Mv,Mv,Mv on staff1]</p>
+      <p id="LUCARSC0114">Modus perfectus minor temporis perfecti:</p>
+      <p id="LUCARSC0115">[Lv,Bv,Bv,Bv,Sv,Sv,Sv,Sv,Sv,Sv,Sv,Sv,Sv on staff1]</p>
+      <p id="LUCARSC0116">Textus Libelli cantus mensurabilis persequitur</p>
+      <p id="LUCARSC0117">Br1 4r</p>
+      <p id="LUCARSC0118">Item de longis perfectis modo minori, sed perfectionis tempore, ut hic patet:</p>
+      <p id="LUCARSC0119">[Bv,Sv,Sv; Mv,Mv,Mv,Mv,Mv,Mv; Lv,Bv,Bv; Sv,Sv,Sv,Sv,Sv,Sv; MXv,Lv,Lv; Bv,Bv,Bv,Bv,Bv,Bv on staff1]</p>
+      <p id="LUCARSC0120">
+      <pb n="[37]" />Item de longis perfectis modo, sed imperfecto tempore, ut hic patet:</p>
+      <p id="LUCARSC0121">[Bv,Sv,Sv,Sv; Mv,Mv,Mv,Mv,Mv,Mv; Lv,Bv,Bv,Bv,Sv,Sv,Sv,Sv,Sv,Sv; MXv,Lv,Lv,Lv,Bv,Bv,Bv,Bv,Bv,Bv,Bv,Bv,Bv on staff1]</p>
+      <p id="LUCARSC0122">Item de longis perfectis modo et tempore, ut hic patet:</p>
+      <p id="LUCARSC0123">[Bv,Sv,Sv,Sv; Mv,Mv,Mv,Mv,Mv,Mv,Mv,Mv,Mv; Lv,Bv,Bv,Bv,Sv,Sv,Sv,Sv,Sv,Sv,Sv,Sv,Sv; MXv,Lv,Lv,Lv,Bv,Bv,Bv,Bv,Bv,Bv,Bv,Bv,Bv on staff1]</p>
+      <p id="LUCARSC0124">Sequuntur exempla quomodo maximae possunt imperfici. Et primo de maximis imperfectis quarum longae sunt perfectae:</p>
+      <p id="LUCARSC0125">[MXv,Lv,Lv,Lv,Lv,MXv; MXv,Lv,Bv,Bv,Bv,pt,Lv,Lv,MXv,Lv on staff1]</p>
+      <p id="LUCARSC0126">Item de maximis perfectis quarum tamen longae sunt imperfectae, ut hic patet:</p>
+      <p id="LUCARSC0127">[MXv,Bv,Bv,Bv,Lv,Bv,MXv; MXv,Bv,Bv,Bv,Bv,Bv,Bv,MXv on staff1]</p>
+      <p id="LUCARSC0128">
+      <pb n="[38]" />De maximis perfectis quarum longae etiam sunt perfectae, ut hic patet:</p>
+      <p id="LUCARSC0129">[Od,MXv,Lv,Bv,Bv,Bv,Lv,Lv,Lv,MXv on staff1]</p>
+      <p id="LUCARSC0130">Maxima perfecta quoad totum et omnes partes:</p>
+      <p id="LUCARSC0131">[MXv,Lv; Bv,MXv,Lv; Bv,Bv,MXv,Lv; Bv,Bv,MXv,Lv,Sv,Sv,Sv,Sv; Bv,Bv,MXv,Lv,Sv,Sv,Sv,Sv,Mv,Mv,Mv,Mv,Mv,Mv,Mv,Mv on staff1]</p>
+      <p id="LUCARSC0132">Et praedicta de imperfectione sufficiant.</p>
+      <p id="LUCARSC0133">De alteratione</p>
+      <p id="LUCARSC0134">Capitulum 6</p>
+      <p id="LUCARSC0135">Br1 4v</p>
+      <p id="LUCARSC0136">Sequitur de alteratione. Unde alteratio in musica est proprii valoris secundum notae formam duplicatio, de qua tales dantur regulae:</p>
+      <p id="LUCARSC0137">Prima regula est quod nulla nota potest alterari ante sibi similem, nec ante maiorem se. Ista non potest alterari:</p>
+      <p id="LUCARSC0138">[Mv,Mv,Mv,Sv,Mv,Mv,Mv,BP,Mv,Mv,Mv on staff2]</p>
+      <p id="LUCARSC0139">Bene ista:</p>
+      <p id="LUCARSC0140">[Sv,Sv,Bv,Sv,Sv on staff2]</p>
+      <p id="LUCARSC0141">
+      <pb n="[39]" />Secunda regula est quod omnis nota potest alterari ante proximam maiorem se, sicut minima ante semibrevem vel ante pausam semibrevis, semibrevis ante brevem vel ante pausam brevis, brevis ante longam vel ante pausam longae, et longa ante maximam et non aliter.</p>
+      <p id="LUCARSC0142">Tertia regula est quod quandocumque inter duas longas de modo perfecto, vel pausas longarum vel inter punctum et longam, inveniuntur duae breves sine puncto in medio, secunda alteratur, id est valet duas breves. Similiter quando inveniuntur duae semibreves inter duas breves de tempore perfecto, vel inter punctum et brevem, secunda alteratur, id est valet duas semibreves. Idem est de duabus minimis inter duas semibreves de maiori prolatione. Nam quandocumque remanent duae sine puncto in medio, secunda est, id est alteratur, altera.</p>
+      <p id="LUCARSC0143">Et notandum quod nota alterata potest imperfici a parte ante. Exempla de omnibus supradictis patebunt:</p>
+      <p id="LUCARSC0144">[Lv,Bv,Bv,Bv,Bv,Bv,Bv,Bv,Bv,Lv,Bv,Bv,Bv,Bv,Bv,Lv,Bv,Bv,Lv,Bv,Bv,Bv,Bv,Bv,Bv,Bv,Bv,Bv,Bv,Bv,Lv on staff1]</p>
+      <p id="LUCARSC0145">[Bv,Sv,Sv,Bv,Sv,Sv,Sv,Sv,Sv,Bv,Sv,Sv,Sv,Sv,Sv,Sv,Sv,Sv,Bv on staff1]</p>
+      <p id="LUCARSC0146">[Sv,Mv,Mv,Sv,Mv,Mv,Mv,Mv,Mv,Sv,Mv,Mv,Mv,Mv,Mv,Mv,Mv,Mv,Sv on staff1]</p>
+      <p id="LUCARSC0147">[MXv,Lv,Bv,MXv,Lv,Lv,Lv,Lv,Lv,MXv,Lv,Lv,MXv on staff1]</p>
+      <p id="LUCARSC0148">
+      <pb n="[40]" />[Od,R3rvd,Lv,Bv,Bv,Lv; Bv,Bv; Lv,Bv,pt,Bv,Bv,Lv; MXv,Lv,Lv,MXv on staff3]</p>
+      <p id="LUCARSC0149">[Mv,Mv,Sv,Bv,Lv,MXv; Bv,Sv,Sv,Bv; BP,Sv,Sv,BP,Bv,Sv,pt,Sv,[Sv],Bv; Sv,Mv,Mv,Sv; SP,Mv,Mv,SP; Sv,Mv,pt,Mv,Mv,Sv; Bv,pt,Sv,pt,Mv,pt,Mv,Mv,Sv,Bv,Lv,MXv on staff3]</p>
+      <p id="LUCARSC0150">Item notandum est quod duplex est minima, semibrevis, brevis et longa, scilicet recta et altera. Recta quando simpliciter ponitur pro valore suae formae, altera quando ponitur pro duplici valore.</p>
+      <p id="LUCARSC0151">Ulterius nota quod quando aliqua nota alteratur, hoc fit, scilicet</p>
+      <p id="LUCARSC0152">minorem perfectam, causa perfectionis, scilicet ut perfectio compleatur. Unde brevis alteratur ad perficiendum modum, semibrevis ad perficiendum--brevem [Bv]--tempus, et minima ad perficiendum--semibrevem [Sv]--prolationem. Et haec de alteratione dicta sufficiant.</p>
+      <p id="LUCARSC0153">De puncto</p>
+      <p id="LUCARSC0154">Capitulum 7</p>
+      <p id="LUCARSC0155">Br1 4v</p>
+      <p id="LUCARSC0156">Sequitur dicere de puncto. Nota quod duplex est punctus, scilicet perfectionis et divisionis. Punctus perfectionis perficit longam in utroque modo, brevem in utroque tempore et semibrevem in utraque prolatione. Punctus divisionis imperficit longam dividendo breves, et imperficit breves dividendo semibreves, et imperficit semibreves dividendo minimas. Unde videndum est per quae vel quomodo cognoscitur punctus perfectionis a puncto divisionis, cum unus habeat 
+      <pb n="[41]" />perficere figuras, id est notas, et alius imperficere, ut dictum est. Quando punctus ponitur post longam, punctus perfectionis esse dicitur. Quando vero post minimam, divisionis appellatur.</p>
+      <p id="LUCARSC0157">Et nota quod triplex est divisio, scilicet punctus divisionis, scilicet modi, temporis et prolationis. Item nota quod si punctus ponatur inter duas breves, dividit modum, nisi forte breves illae forent de tempore imperfecto post quas vel ante quas reperitur aliqua semibrevis sola, quae per sincopam reduceretur ad dictam brevem puncto perfectionis punctatam. Si autem punctus ponatur inter duas semibreves, per divisionem temporis assignatur, nisi forte illae semibreves essent de minori prolatione post quas vel ante quas inveniretur aliqua minima sola, quae per sincopam reduceretur ad dictam semibrevem puncto perfectionis punctatam. Et haec de punctis dicta sufficiant studere volentibus. Exempla de praedictis punctis patebunt:</p>
+      <p id="LUCARSC0158">[CSM38:41; text: Punctus perfectionis: Punctus divisionis: modi, temporis et prolationis, Exceptiones]</p>
+      <p id="LUCARSC0159">
+      <pb n="[42]" />De signis modum, tempus et prolationem distinguentibus</p>
+      <p id="LUCARSC0160">Capitulum 8</p>
+      <p id="LUCARSC0161">Br1 5r</p>
+      <p id="LUCARSC0162">Cum duplex sit modus, tempus et prolatio, ut superius dictum est, videndum est per quae distinguuntur. Unde quadrangulus cum tribus tractulis ponitur pro modo perfecto, cum duobus vero pro imperfecto: modi perfecti quadrangulus: [R3rvd] modi imperfecti quadrangulus: [R2rvd].</p>
+      <p id="LUCARSC0163">Item circulus ponitur pro tempore perfecto, semicirculus pro tempore imperfecto; circulus temporis perfecti: [O], semicirculus temporis imperfecti: [C]. Item si in circulo vel semicirculo inveniantur tres puncti, maioris prolationis est; si duo, minoris.</p>
+      <p id="LUCARSC0164">Tabula explicationis addita Antonii de Luca persequitur</p>
+      <p id="LUCARSC0165">Br1 5r</p>
+      <p id="LUCARSC0166">Quamvis in circulo ponatur unus tantum, et in semicirculo etiam unus tantum, designatur tempus perfectum et maiorem prolationem. [O3d] Designatur maior prolatio [C3d], secundum modernos [Od]; sic designatur [Cd] tempus imperfectum et maiorem prolationem, perfectionem temporis et minorem prolationem: [O2d]. Designatur minor prolatio [C2d], minor prolatio [O] secundum modernos, [C] imperfectionem temporis et prolationis.</p>
+      <p id="LUCARSC0167">Textus Libelli cantus mensurabilis persequitur</p>
+      <p id="LUCARSC0168">Brl 5r</p>
+      <p id="LUCARSC0169">Item modus, tempus et prolatio distinguuntur etiam per notas rubeas vel vacuas et per nigras, quando in aliquo cantu variantur. 
+      <pb n="[43]" />Unde si in aliquo cantu reperiantur longae nigrae, sunt modi perfecti, et rubeae vel vacuae sunt modi imperfecti, ut hic:</p>
+      <p id="LUCARSC0170">[L,L,L,Lv,Lv,Lv,Lv,L,L,L,Lv,Lv,L,L,L on staff1]</p>
+      <p id="LUCARSC0171">Item si breves inveniantur, nigrae sunt temporis perfecti, et rubeae vel vacuae sunt temporis imperfecti ut hic patet:</p>
+      <p id="LUCARSC0172">[B,B,B,Bv,Bv,Bv,Bv,B,B,B,Bv,Bv,B,B,B on staff1]</p>
+      <p id="LUCARSC0173">Et si semibreves, nigrae sunt maioris prolationis, rubeae vel vacuae sunt minoris ut hic patet:</p>
+      <p id="LUCARSC0174">[S,S,S,Sv,Sv,S,S,S,Sv,Sv,Sv,Sv,S,M,pt,M,S,Sv,Mv,Mv,Sv,Mv,Mv,S,S on staff1]</p>
+      <p id="LUCARSC0175">Canon, id est regula. Item de coloribus, id est de canonibus subscriptionibus, pausis et signis perfectum distinguitur ab imperfecto et etiam cognoscitur.</p>
+      <p id="LUCARSC0176">De modis</p>
+      <p id="LUCARSC0177">Capitulum 9</p>
+      <p id="LUCARSC0178">Br1 5v</p>
+      <p id="LUCARSC0179">Item sex sunt modi, videlicet ordines modorum vel gradus aut regulae. Primus modus, id est ordo, procedit ex una longa et altera brevi ut hic:</p>
+      <p id="LUCARSC0180">
+      <pb n="[44]" />[Lv,Bv,Lv,Bv,Lig2vod,Lig2vod]</p>
+      <p id="LUCARSC0181">Secundus modus e converso ex una brevi et altera longa ut hic patet:</p>
+      <p id="LUCARSC0182">[Bv,Lv,Bv,Lv,Bv,Lv]</p>
+      <p id="LUCARSC0183">Tertius modus procedit ex una longa et duabus vel tribus brevibus ut hic:</p>
+      <p id="LUCARSC0184">[Lv,Bv,Bv,Lv; Lv,Bv,Bv,Bv,Lv]</p>
+      <p id="LUCARSC0185">Quartus modus e converso ex duabus brevibus vel tribus brevibus et una longa:</p>
+      <p id="LUCARSC0186">[Bv,Bv,Lv; Bv,Bv,Bv,Lv; Bv,Bv,Lv]</p>
+      <p id="LUCARSC0187">Quintus modus ex omnibus longis ut hic:</p>
+      <p id="LUCARSC0188">[Lv,Lv,Lv,Lv,Lv,Lv,Lv,Lv,Lv,Lv]</p>
+      <p id="LUCARSC0189">Sextus modus ex omnibus longis, brevibus et semibrevibus ut hic patet:</p>
+      <p id="LUCARSC0190">[Bv,Bv,Bv,Bv,Bv,Bv,Lv,Lv; Bv,Sv,Bv,Sv,Bv,Sv,Bv,Lv,Lv; Sv,Sv,Bv,Lv; Sv,Sv,Sv,Sv,Sv,Bv,Bv,Bv,Lv,Lv on staff1]</p>
+      <p id="LUCARSC0191">
+      <pb n="[45]" />Dicunt tamen aliqui solum esse quinque modos, et illi ponunt quintum cum primo, sextum loco quinti.</p>
+      <p id="LUCARSC0192">De ligaturis</p>
+      <p id="LUCARSC0193">Capitulum 10a</p>
+      <p id="LUCARSC0194">Br1 5v</p>
+      <p id="LUCARSC0195">Sequitur de ligaturis. Unde ligaturarum alia ascendens et alia descendens. Ascendens quando secunda nota est altior altera seu prima, descendens et e converso quando prima nota est altior secunda; de quibus tales dantur regulae inferius.</p>
+      <p id="LUCARSC0196">Prima regula est quod quandocumque prima nota est altior secunda, habens caudam sive tractum a parte sinistra descendentem, sive fuerit in quadro sive in obliquo corpore signata, cum proprietate dicitur et est prima brevis ut hic:</p>
+      <p id="LUCARSC0197">[Lig2vcdsnd,Lig2vcdsnod; Lig2vcdsnd,Lig2vcdsnod on staff3]</p>
+      <p id="LUCARSC0198">Secunda regula est quod quandocumque secunda nota est altior prima, et prima habuerit tractum a parte dextra descendentem, sine proprietate est et sine perfectione dicitur, et est prima nota longa ut hic patet:</p>
+      <p id="LUCARSC0199">[Lig2vLa; Lig2vLa on staff3]</p>
+      <p id="LUCARSC0200">Et si prima non habuerit tractum, sine perfectione dicitur; secunda et prima brevis ut hic:</p>
+      <p id="LUCARSC0201">
+      <pb n="[46]" />[Lig2va; Lig2va; Lig2va on staff3]</p>
+      <p id="LUCARSC0202">Tertia regula est quod quandocumque prima nota, sive fuerit quadrata sive obliqua, est altior secunda carens omni tractu, sine proprietate dicitur et est longa. Exemplum patet:</p>
+      <p id="LUCARSC0203">[Lig2vd; Lig2vod; Lig2vd; Lig2vd; Lig2vd; Lig2vod; Lig2vod on staff3]</p>
+      <p id="LUCARSC0204">Quarta regula est quod in omni ligatura, prima nota habens tractum a parte sinistra ascendentem, cum opposita proprietate dicitur et facit duas primas esse semibreves ut hic:</p>
+      <p id="LUCARSC0205">[Lig3vcssndod; Lig4vcssnddod; Lig3vcssndod; Lig3vcssndd on staff3]</p>
+      <p id="LUCARSC0206">Quinta regula est quod in omni ligatura, ultima descendens sub penultima in quadro posita, cum perfectione dicitur et est longa, ut hic patet in praesenti figura:</p>
+      <p id="LUCARSC0207">[Lig3vcssndd,Lig3vdd; Lig3vcdsndd,Lig4vcdsnddd; Lig5vcdsndddd; Lig5vcssnaddd; Lig3vad,Lig5vaddd; Lig5vcssnaadd; Lig4vcssnodad on staff3]</p>
+      <p id="LUCARSC0208">
+      <pb n="[47]" />Et in obliquo corpore figurata, sine perfectione dicitur, et est brevis, ut hic patet:</p>
+      <p id="LUCARSC0209">[Lig3vcssndod,Lig3vcssndod; Lig3vcssnaod; Lig3vcssnaod on staff3]</p>
+      <p id="LUCARSC0210">Sexta regula est quod omnis ultima stans directe supra penultimam vel a latere habens tractum a parte dextra, cum perfectione dicitur et est longa; et secundum aliquos vocatur longa per oppositam proprietatem ut hic patet:</p>
+      <p id="LUCARSC0211">[Lig3vaart,Lig3vaacddx; Lig4vaaart,Lig4vcdsnodaacddx on staff3]</p>
+      <p id="LUCARSC0212">Septima regula est quod omnis ultima stans a latere supra penultimam sine tractu, sive fuerit quadrata sive obliqua, sine perfectione dicitur et est brevis ut hic:</p>
+      <p id="LUCARSC0213">[Lig2va; Lig2va,Lig2va; Lig2voa; Lig2voa on staff3]</p>
+      <p id="LUCARSC0214">Octava regula est quod in omni ligatura mediae sunt breves ut hic patet:</p>
+      <p id="LUCARSC0215">[Lig5vdddd; Lig6vcdsnddddd,Lig9vcdsndddadddd; Lig5vcdsnaadd,Lig5vcdsndddod on staff3]</p>
+      <p id="LUCARSC0216">nisi prima esset cum opposita proprietate, quia tunc secunda remanet cum prima pro una brevi per dictam legem. Et haec de ligaturis dicta sufficiant quo ad hanc regulam.</p>
+      <p id="LUCARSC0217">
+      <pb n="[48]" />Commentarius Antonii de Luca</p>
+      <p id="LUCARSC0218">Capitulum 10 b</p>
+      <p id="LUCARSC0219">Br1 6r</p>
+      <p id="LUCARSC0220">Item alius modus de ligaturis secundum aliquos. Nota quidam tractatus de ligaturis et valore earum in prolatione perfecta minori et quomodo in eisdem ligaturis discernantur semibreves et breves et longae:</p>
+      <p id="LUCARSC0221">[CSM38:48; text: 1, 2, 3, 4, 6, 9] 
+      <figure>
+        <graphic url="/images/LUCARSC_02GF.gif" />
+      </figure></p>
+      <p id="LUCARSC0222">
+      <pb n="[49]" />[CSM38:49,1; text: 1, 2, 3, 4, 5, 6] 
+      <figure>
+        <graphic url="/images/LUCARSC_03GF.gif" />
+      </figure></p>
+      <p id="LUCARSC0223">Sequitur de simplicibus et valore earum in prolationibus imperfectis:</p>
+      <p id="LUCARSC0224">[CSM38:49,2; text: 2, 3, 4, 6, 12, x]</p>
+      <p id="LUCARSC0225">
+      <pb n="[50]" />Sequitur de ligaturis et valore earum in prolatione imperfecta minori, et quomodo in eisdem ligaturis discernantur notae ad invicem ut supra.</p>
+      <p id="LUCARSC0226">[CSM38:50; text: 1, 2, 4, 6, 12, x] 
+      <figure>
+        <graphic url="/images/LUCARSC_04GF.gif" />
+      </figure></p>
+      <p id="LUCARSC0227">
+      <pb n="[51]" />Nunc breviter videndum est de simplicibus et ligaturis earum in prolatione imperfecta per medium, et quomodo in eisdem ligaturis discernantur notae ad invicem ut supra. In hac prolatione mediata paucae sufficiunt figurae, quia illae quae hic superius sunt positae in prolatione minori perfecta possunt servire etiam huic prolationi. Sufficeret enim quod dictum est superius, videlicet quod notae minuunt seu dimittunt medietatem valoris quam habent in prolatione minori imperfecta, ut supra dictum est. Tamen ad declarationem seu ad clariorem intelligentiam aliquas modicas figuras representabimus:</p>
+      <p id="LUCARSC0228">[CSM38:51; text: 1, 2, 4, De ligaturis]</p>
+      <p id="LUCARSC0229">De ligatura binaria in prolatione perfecta et imperfecta minori:</p>
+      <p id="LUCARSC0230">Nota quod aut prima nota habet tractum aut non. Si sic, aut habet sursum aut deorsum. Si sursum, tunc utraque valet unam semibrevem pro singula; et hoc tam in ligaturis obliquis quam in rectis, et in omnibus prolationibus.</p>
+      <p id="LUCARSC0231">Quando vero prima nota habet tractum deorsum, tunc aut prima nota sub est sequenti aut super est. Si sub est, tunc tam in rectis quam in obliquis utraque est brevis. Si super est, tunc in rectis prima est brevis, secunda est longa. In obliquis autem utraque est brevis; frustra tamen fit tractus inferius quando prima nota substat cum nihil augeat vel minuat eidem notae.</p>
+      <p id="LUCARSC0232">Quando autem prima nota nullum penitus habet tractum sursum vel deorsum, tunc aut prima sub est aut super est sequenti ut supra. Si sub est, tunc tam in rectis quam in obliquis utraque est brevis. Si super est, tunc in rectis utraque est longa. Primo ratione praeminentiae; secundo ratione dependentiae.</p>
+      <p id="LUCARSC0233">
+      <pb n="[52]" />In obliquis autem prima est longa, secunda vero brevis. Cum autem proponitur tractus vel asta, intellige de asta seu tractu a parte ante notae sive ascendente sive descendente. Quae autem fiunt a parte post, non astae vel tractus sed caudae potius nuncupantur.</p>
+      <p id="LUCARSC0234">Hodie tamen interdum a modernis cantoribus etiam fit tractus ascendens a parte ante loco caudae contra naturam, et haec in longis et maximis quia solae sunt. In ligaturis autem tantummodo fieri solet cauda descendens; nam caudae ascendentes non caudae, sed ligaturae dicuntur. Excipitur ultima in qua fit cauda descendens vel ascendens ad libitum, sed tantum a parte post. Si quadra cum tractu seu proprietate a parte anteriori, hoc interdum ponitur pro semibrevi.</p>
+      <p id="LUCARSC0235">Et generaliter nota quod ubicumque quadram seu brevem sub distinctione praefata caudatam inveneris, semper illa nota efficitur longa sive dependit a praecedente sive super sit eidem, sive sit ligata sive sola. Possunt tamen istae longae in ligatura etiam absque cauda fieri, sed tunc cognoscuntur per dependentiam earum in ultima et per supereminentiam in prima, ut supra dictum est et dicetur inferius. Quando autem sunt solae, tunc semper caudantur modo praefato ut supra.</p>
+      <p id="LUCARSC0236">Si vero tales quadrae non sunt caudatae sed tractae inferius, erunt breves. Si superius, erunt semibreves ut supra. Hic tamen tractus tam superior quam inferior non consuevit fieri praeterquam in ligaturis. Maximae etiam possunt caudari vel non ad libitum, etiam si solae sint. Haec subiacent distinctioni praefatae longarum; quia, sive dependant in ultima sive non, sive supereminant in prima sive non, sive in ligatura sive non, semper sunt maximae et eiusdem valoris.</p>
+      <p id="LUCARSC0237">Semibreves autem, quando sunt caudatae sive protractae, non semibreves sed minimae vocantur.</p>
+      <p id="LUCARSC0238">
+      <pb n="[53]" />Et istae minimae, quia non possunt caudari seu protrahi ante et retro sicut praedictae maximae et longae sed in medio earum tantum, propterea illa cauda, tractus seu asta potest ascendere et descendere ad libitum. Communiter tamen omnes caudae in maxima et longa potius descendunt et potius communis. In minima et inferioribus ea ascendunt, nisi alias per scripturam vel per notas superiores vel inferiores impediantur.</p>
+      <p id="LUCARSC0239">De ligatura ternaria in praefatis duabus prolationibus:</p>
+      <p id="LUCARSC0240">Nota quod aut prima habet tractum aut non. Si sic, aut habet sursum aut deorsum; si sursum, tunc in perfecto minori prima valet unam semibrevem, secunda duas, tertia tres. In imperfecto autem minori, prima valet unam, secunda similiter unam, tertia duas. Et vocatur ista tertia in utraque prolatione esse brevis.</p>
+      <p id="LUCARSC0241">Si tamen ista tertia quae est ultima sit caudata, vel etiam si non sit caudata sed dependet a sua immediate praecedente et sit quadra, tunc non est brevis sed longa. Si autem habet tractum deorsum, tunc omnes tres sunt breves in utraque prolatione, nisi aliqua earum sit caudata, vel nisi ultima dependeat a sua immediate praecedente et sit quadra; quia tunc tales notae sunt longae, ut supra etiam dictum est in ligatura binaria.</p>
+      <p id="LUCARSC0242">Notae autem quae non sunt quadrae, sicut in baculis obliquis seu transversalibus licet dependeant, non possunt esse longae ratione eius dependentiae, nec ratione caudae quia nunquam caudantur cellulae in fine, sed tantummodo ipsa ultima erit brevis. Dico in ligatura ternaria et ulteriori, secus in binaria, ut supra dictum est. In reliquis vero notis excepta hac ultima non est distinctio inter quadras et non quadras.</p>
+      <p id="LUCARSC0243">Quando vero prima nota nullum penitus tractum habet, tunc si secunda supergradiatur primam et tertia secundam gradatim, omnes 
+      <pb n="[54]" />tres sunt breves in utraque prolatione. Si autem secunda supergradiatur primam et tertiam, tunc prima et secunda sunt breves, tertia vero longa propter eius dependentiam et hoc in utraque prolatione praefata. Si vero omnes descendunt gradatim, tunc in utraque prolatione prima est longa dignitate praeeminentiae, secunda brevis, tertia longa ratione dependentiae.</p>
+      <p id="LUCARSC0244">Quotienscumque tamen aliqua vel aliquae earum trium sint caudatae modo praefato, tunc semper tales notae sunt longae ratione caudarum et haec licet aliae non dependeant vel superemineant ut supra diversimode; tamen valebunt praefatae breves et longae iuxta diversitatem prolationum suarum ut supra.</p>
+      <p id="LUCARSC0245">De ligatura quaternaria et ulteriori in praefatis prolationibus</p>
+      <p id="LUCARSC0246">Ligaturae quaternariae et ulterioris eadem est distinctio de ipsis in omnibus et per omnia sicut de ternariis, nisi quoad ultimam; quae ultima etiam in hac quaternaria et ulteriori, utrum sit brevis vel longa cognoscetur per eandem distinctionem quae habetur supra in ternaria. Ceterae vero intermediae ab ultima usque ad tertiam inclusive omnes pro brevibus computantur, etiam si non sint quadrae ut supra. Et haec de ligaturis satis dictum est.</p>
+      <p id="LUCARSC0247">Secunda pars Libelli cantus mensurabilis secundum Ioannem de Muris. De sincopa</p>
+      <p id="LUCARSC0248">Capitulum 11</p>
+      <p id="LUCARSC0249">Br1 7v</p>
+      <p id="LUCARSC0250">Sequitur de sincopa. Unde sincopa est divisio circumquaque figurae, id est notae, per partes, scilicet a puncto separatas, quae numerando 
+      <pb n="[55]" />perfectiones ad invicem reducuntur. Et potest fieri in modo, tempore et prolatione. Si fiat in modo, aut perfecto aut imperfecto. Si in perfecto, tunc est reperire tres breves separatas, vel valorem earum pro longa, quae numerando perfectiones ad invicem reducuntur. Si in modo imperfecto, tunc est reperire duas separatas breves, vel longam puncto perfectionis punctatam, cuius tertia pars ad aliquam solam brevem reducitur separatam:</p>
+      <p id="LUCARSC0251">[R3rvd,Lv,pt,Bv,pt,Bv,Bv,Lv,pt,Bv,Lv,pt,Bv,Lv,pt,Bv,Bv,Bv,Lv; R2rvd,Lv,Bv,Lv,Lv,Bv,Bv,Bv,Bv,Lv,Lv,pt,Lv,Bv,Bv,Lv on staff1]</p>
+      <p id="LUCARSC0252">Sincopa si fiat in tempore, aut in tempore perfecto aut in imperfecto. Si in tempore perfecto, tunc est reperire tres semibreves separatas, vel valorem pro brevi perfecta, quae ad invicem reducuntur perfectiones numerando. Si in imperfecto duas vel unam brevem puncto perfectionis punctatam, cuius tertia pars ad aliquam semibrevem solam reducitur separatam, ut hic patet:</p>
+      <p id="LUCARSC0253">[O,Bv,pt,Sv,pt,Sv,Sv,Bv,pt,Sv,Bv,pt,Sv,Bv,pt,Sv,Sv,Sv,Bv; C,Bv,Sv,Bv,Bv,Sv,Sv,Sv,Sv,Bv,Bv,pt,Bv,Sv,Sv,Lv on staff1]</p>
+      <p id="LUCARSC0254">Similiter si in prolatione, aut fiet in maiori vel minori. Si in maiori, tunc est reperire tres minimas separatas vel valorem pro semibrevi maioris prolationis, quae ad invicem reducuntur perfectiones 
+      <pb n="[56]" />numerando. Si in minori, duas vel unam semibrevem puncto perfectionis punctatam, cuius tertia pars ad aliquam minimam solam reducitur separatam, ut hic patet:</p>
+      <p id="LUCARSC0255">[Cd,Sv,pt,Mv,pt,Mv,Mv,Sv,pt,Mv,Sv,pt,Mv,Sv,pt,Mv,Mv,Mv,Sv; C,Sv,Mv,Sv,Sv,Mv,Mv,Mv,Mv,Sv,Sv,pt,Sv,Mv,Mv,Sv on staff1]</p>
+      <p id="LUCARSC0256">Et nota quod numquam nota per sincopam debet reduci ultra pausam maiorem se, scilicet minima ultra pausam semibrevis vel maiorem non debet reduci, nec semibrevis ultra pausam brevis vel maiorem, et sic de aliis; licet aliqui dicant contrarium.</p>
+      <p id="LUCARSC0257">[Cd,Mv,Mv,Mv,Sv,Sv,SP,C,Sv,Sv,Sv,Sv,Bv,BP on staff2]</p>
+      <p id="LUCARSC0258">Tabula addita Antonii de Luca</p>
+      <p id="LUCARSC0259">Quae autem sit sincopa in modo perfecto et imperfecto, et in tempore perfecto et imperfecto, et in prolatione maiori et minori exempla patent:</p>
+      <p id="LUCARSC0260">De modo perfecto: [Bv,Lv,pt,Bv,pt,Bv on staff2]</p>
+      <p id="LUCARSC0261">De modo imperfecto: [Bv,Lv,Bv on staff2]</p>
+      <p id="LUCARSC0262">De tempore perfecto: [Sv,Bv,pt,Sv,pt,Sv on staff2]</p>
+      <p id="LUCARSC0263">
+      <pb n="[57]" />De tempore imperfecto: [Sv,Bv,Sv on staff2]</p>
+      <p id="LUCARSC0264">De prolatione maiori: [Mv,pt,Sv,pt,Mv,pt,Mv on staff2]</p>
+      <p id="LUCARSC0265">De prolatione minori: [Mv,Sv,Mv,BP,Mv,Sv,Bv,Sv,Mv on staff2]</p>
+      <p id="LUCARSC0266">Et haec de sincopa dicta sufficiant advertenti.</p>
+      <p id="LUCARSC0267">De pausis</p>
+      <p id="LUCARSC0268">Capitulum 12</p>
+      <p id="LUCARSC0269">Br1 8r</p>
+      <p id="LUCARSC0270">Sequitur de pausis. Unde pausa dicitur vocum amissio seu aspiratio mensurata pro tot temporibus quot fuerit spatiis signata, quoniam pausa valet tot tempora quot occupat spatia. Si sunt tria spatia, tria tempora valet. Si duo tenet spatia, duo valet tempora. Et si spatium unum, unum tempus valet.</p>
+      <p id="LUCARSC0271">Et nota quod maior pausa trium temporum non est ponenda, nam aliter reduplicari deberent pausae secundum exigentiam modi, quae tales dicuntur rationabiles et mensurabiles. Ulterius nota quod pausa semibrevis debet incipere in linea et descendere ad medium spatii. Et pausa minimae incipere debet in linea tendens supra et ascendere ad medium spatii. Et pausae semiminimarum fiunt ut pausae minimarum, sed cum semicirculo vel semicirculatione. Exempla de omnibus patent hic:</p>
+      <p id="LUCARSC0272">[CSM38:57]</p>
+      <p id="LUCARSC0273">
+      <pb n="[58]" />Non debet poni pausa semibrevis, neque maior, nisi completa prolatione; nec debet poni pausa brevis, nec maior, nisi completo tempore; nec pausa longae, scilicet trium temporum, nisi completo modo. Item nota quod pausae non possunt imperfici neque alterari. Et haec de pausis dicta sufficiant.</p>
+      <p id="LUCARSC0274">De diminutionibus</p>
+      <p id="LUCARSC0275">Capitulum 13</p>
+      <p id="LUCARSC0276">Br1 8r</p>
+      <p id="LUCARSC0277">Sequitur de diminutionibus quae saepe fiunt in tenoribus motettorum, circa quam notandum est primo quod maxima in diminutione ponitur pro longa, longa pro brevi, brevis pro semibrevi et semibrevis pro minima. Idem de pausis dicendum est. Secundo notandum est quod quando tenor sive superior est de modo imperfecto, sive fuerit de tempore perfecto sive de imperfecto, diminutio fit directe per medietatem notarum et pausarum. Tertio nota quod quando tenor est de modo perfecto et tempore imperfecto, diminutio fit etiam directe per medium, sicuti pro longa valente tres breves ponitur brevis valens tres semibreves. Quarto nota quod quando tenor est de modo perfecto et tempore perfecto, diminutio fit per tertium et non per medium; et haec de diminutione sufficiunt. Exempla patent in motettis.</p>
+      <p id="LUCARSC0278">
+      <pb n="[59]" />De colore</p>
+      <p id="LUCARSC0279">Capitulum 14</p>
+      <p id="LUCARSC0280">Br1 8v</p>
+      <p id="LUCARSC0281">Sequitur de colore. Unde color in musica vocatur similitudo figurarum unius processus pluries repetita positio in eodem cantu. Pro quo nota quod nonnulli cantores ponunt differentiam inter colorem et taleam. Nam vocant colorem quando reperiuntur eaedem voces; taleam vero quando reperiuntur similes figurae; et sic fiunt figurae diversarum vocum. Quae differentia servetur in quam pluribus tenoribus motettorum, non tamen in ipsis motettis. Exempla patent in motettis.</p>
+      <p id="LUCARSC0282">Et praedicta quamvis rudia, sufficiant in arte pratica mensurabilis cantus anelantibus introduci.</p>
+      <p id="LUCARSC0283">Explicit Ars cantus figurati</p>
+    </body>
+  </text>
+</TEI>

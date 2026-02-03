@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Tractatus de discantu</title>
+        <title type="abbrev">FRACOMP</title>
+        <author>Franco [Ps.]</author>
+        <date notBefore="1200" notAfter="1299">13th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Anna Gercas</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Andreas Giger</persName>
+      </respStmt>
+      <date>1999</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>De musica libellus (Ms. Paris, Bibl. Nat., lat. 6286)</emph>; 
+<emph>Tractatus de discantu (Ms. Saint-Dié, Bibl. Municipale, 42)</emph>; 
+<emph>Compendium discantus (Ms. Oxford, Bodl. Libr., Bodley 842)</emph>; 
+<emph>Traitié de deschant (Ms. Paris, Bibl. Nat., lat. 15139)</emph>; 
+<emph>Traitié de deschant (Ms. Paris, Bibl. Nat., lat. 14741)</emph>, ed. Gilbert Reaney, Corpus scriptorum de musica, vol. 36 (n.p.: American Institute of Musicology / Hänssler-Verlag, 1996), 50–56. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Ps.-Franco de Colonia: Compendium discantus</title>
+          
+<idno type="LML">PS.-FRANCO comp.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">GB-Ob Bodley 842, 60-62v</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="FRACOMP0001">
+      <pb n="[50]" />PSEUDO-FRANCONIS DE COLONIA COMPENDIUM DISCANTUS</p>
+      <p id="FRACOMP0002">Index capitulorum</p>
+      <p id="FRACOMP0003">Ox 60</p>
+      <p id="FRACOMP0004">Capitulum primum, praemissis consonantiis et dissonantiis, continet quinque regulas ascendendi in discantu.</p>
+      <p id="FRACOMP0005">Capitulum secundum continet quatuor regulas descendendi pro discantu.</p>
+      <p id="FRACOMP0006">Capitulum tertium introducit quasdam regulas generales quibus discantor continue se dirigat.</p>
+      <p id="FRACOMP0007">Capitulum primum, praemissis consonantiis et dissonantiis, continet quinque regulas ascendendi in discantu</p>
+      <p id="FRACOMP0008">Ox 60</p>
+      <p id="FRACOMP0009">Ego Franco de Colonia, utilitati iuvenum cupiens deservire, compendiosum tractatum de discantu, ut subsequitur, composui.</p>
+      <p id="FRACOMP0010">Primo enim notandum tredecim esse species consonantiarum et dissonantiarum musicae in genere diatonico, videlicet: unisonus, tonus, semitonus, ditonus, semiditonus, tritonus, diatesseron, diapente, tonus cum diapente, semitonus cum diapente, ditonus cum diapente, semiditonus cum diapente, et diapason. Dissonantiae pure sunt sex, scilicet: semitonium, tonus, tritonus, semitonus cum diapente, ditonus cum diapente, semiditonus cum diapente.</p>
+      <p id="FRACOMP0011">Consonantiarum tres sunt per se et perfectae, scilicet: unisonus, diapason et diapente. Tres sunt per accidens, scilicet: semiditonus, ditonus in ordine ad diapente vel unisonum, vel tonus cum diapente in 
+      <pb n="[51]" />ordine ad diapason; una est perfecta, et non perfecta per accidens, scilicet diatesseron.</p>
+      <p id="FRACOMP0012">Regula prima. Ad unisonum igitur existens in diapason supra, descende tria et fac diapente; et existens in diapente, ascende tria et fac diapason, vel descende quatuor et fac unisonum cum tenore; et existens in unisono cum tenore, ascende quatuor et fac diapente supra, vel descende quatuor et fac diapente infra, ut hic:</p>
+      <p id="FRACOMP0013">[CSM36:51,1] 
+      <figure>
+        <graphic url="/images/FRACOMP_01GF.gif" />
+      </figure></p>
+      <p id="FRACOMP0014">Regula secunda. Ad ascensum unius, existens in diapason, descende duas et fac diapente; et existens in diapente, descende tria et fac unisonum cum tenore; et existens cum tenore, descende tria et fac diapente infra, ut hic patet:</p>
+      <p id="FRACOMP0015">[CSM36:51,2]</p>
+      <p id="FRACOMP0016">
+      <pb n="[52]" />Regula tertia. Ad ascensum duarum, existens in diapason, descende unam et fac diapente; et existens in diapente, descende duas et fac unisonum cum tenore; et existens cum tenore, descende duas et fac diapente infra, ut hic:</p>
+      <p id="FRACOMP0017">[CSM36:52,1]</p>
+      <p id="FRACOMP0018">Regula quarta. Ad ascensum trium, existens in diapason, stes ibi et fac diapente; et existens in diapente, descende unam et fac unisonum cum tenore; et existens cum tenore, descende unam et fac diapente infra, ut hic patet:</p>
+      <p id="FRACOMP0019">[CSM36:52,2]</p>
+      <p id="FRACOMP0020">
+      <pb n="[53]" />Regula quinta. Ad ascensum quatuor, existens in diapason, ascende unam et fac diapente, vel descende tria et fac unisonum:</p>
+      <p id="FRACOMP0021">[CSM36:53,1]</p>
+      <p id="FRACOMP0022">Capitulum secundum continet quatuor regulas descendendi pro discantu</p>
+      <p id="FRACOMP0023">Ox 61v</p>
+      <p id="FRACOMP0024">Regula prima. Ad descensum unius, existens in diapente infra, ascende tria et fac unisonum cum tenore; et existens cum tenore, ascende tria et fac diapente; et existens in diapente, ascende duas et fac diapason, ut hic patet:</p>
+      <p id="FRACOMP0025">[CSM36:53,2]</p>
+      <p id="FRACOMP0026">
+      <pb n="[54]" />Regula secunda. Ad descensum duarum, existens in diapente infra, ascende duas ad faciendum unisonum cum tenore; et existens cum tenore, ascende duas et fac diapente; et existens in diapente, ascende unam et fac diapason, ut hic patet:</p>
+      <p id="FRACOMP0027">[CSM36:54,1] 
+      <figure>
+        <graphic url="/images/FRACOMP_02GF.gif" />
+      </figure></p>
+      <p id="FRACOMP0028">Regula tertia. Ad descensum trium, existens in diapente infra, ascende unam et fac unisonum cum tenore; et existens cum tenore, ascende unam et fac diapente; et existens in diapente, stes ibi et fac diapason, ut hic patet:</p>
+      <p id="FRACOMP0029">[CSM36:54,2]</p>
+      <p id="FRACOMP0030">
+      <pb n="[55]" />Regula quarta. Ad descensum quatuor, existens in diapason infra, ascende tria et fac unisonum cum tenore; et existens in diapente infra, stes ibi et fac unisonum, vel ascende quatuor et fac diapente; et existens in unisono cum tenore, stes ibi et fac diapente, vel ascende tria et fac diapason; et existens in diapente supra, descende unam et fac diapason, ut:</p>
+      <p id="FRACOMP0031">[CSM36:55; text: seu]</p>
+      <p id="FRACOMP0032">Capitulum tertium introducit quasdam regulas generales quibus discantor continue se dirigat</p>
+      <p id="FRACOMP0033">Ox 62</p>
+      <p id="FRACOMP0034">Patet ergo ex praedictis omnem bene discantare volentem in aliqua consonantiarum perfectarum existere; apertum debet tamen semiditonum atque ditonum commiscere quando unisonus vel diapente convenientissime possit subsequi (nec tono cum diapente utendum est, nisi quando diapason cum aperta decentia comitatur).</p>
+      <p id="FRACOMP0035">Hic ergo discernendum est quod, quando tenor ascendit, discantus descendere debet, et e converso, semper meliores et convenientiores concordantias capiendo; longas, breves, semibreves inserendo.</p>
+      <p id="FRACOMP0036">
+      <pb n="[56]" />Potest tamen quandoque simul ascendere et descendere cum tenore propter cantus pulcritudinem et ornatum, quandoque discordantias in locis debitis commiscendo, semper tamen in principio perfectionis bonam concordantiam optinendo.</p>
+      <p id="FRACOMP0037">Debet etiam discantor firmiter in mente tenere claves tam tenoris quam discantus, ut infallibiliter discantare valeat sub et supra.</p>
+      <p id="FRACOMP0038">Et quando per rectam musicam consonantias utiles habere non poterit, falsam fingat sicut placet.</p>
+      <p id="FRACOMP0039">Et nota, quando volueris ascendere supra diapason, ymaginabis te esse cum tenore in unisono, et eodem modo discantare sicut supra tenorem inferius discantari, quia non differt nisi secundum magis acutum. Et talis ascensus multiplex est in infinitum.</p>
+      <p id="FRACOMP0040">Explicit Compendium Magistri Franconis.</p>
+    </body>
+  </text>
+</TEI>

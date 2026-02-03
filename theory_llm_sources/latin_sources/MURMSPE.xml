@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Musica speculativa</title>
+        <title type="abbrev">MURMSPE</title>
+        <author>Johannes de Muris</author>
+        <date notBefore="1300" notAfter="1399">14th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Andreas Giger</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Katherine Clark</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1999</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Christoph Falkenroth, 
+<emph>Die Musica speculativa des Johannes de Muris</emph>, Beihefte zum Archiv für Musikwissenschaft, vol. 34 (Stuttgart: Steiner, 1992), 77–289 (odd only). As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Iohannes de Muris: Musica speculativa</title>
+          
+<idno type="LML">IOH. MUR. spec.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">A-M Cod. 1916, 44-50 (Abrégés)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">A-SP Cod. 264/4 (27.2.25), 37-49 (Versio A)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">A-Wn Cod. 2433, 43-46v (Versio B)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">A-Wn Cod. 5203, 128v-131 (Abrégés)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">A-Wn Cod. 5274, 124-136 (Versio B)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">A-Wn Cod. 5274, 138-154 (Versio A)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Br 14579/85, 48-54 (Versio A)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">CH-BEb A 50, 205-213v (Versio B)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">CH-E 689, 91-104v (Versio B)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">CZ-Pak L. XXIX (1272), 77v-83 (Versio A)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">CZ-Pu adlig. 44. E. 8 (2815), 58-65v (Versio A)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">CZ-Pu V. F. 6 (928), 28-58v (Versio A)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-B Ms. lat. fol. 600, 2v-11 (Versio A/B)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-B Ms. lat. qu. 175, 157-192v (Versio A)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-B Ms. lat. qu. 515, 1-13 (Versio B)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Dl C 99a, 58-69 (Versio A)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-EF 2° 395, 207-214 (Versio A)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Halberstadt_ 217, 55-69? (Version not identified)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-LEu 1469, 365-371v (Versio A)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 6006, 170-175 (Abrégés)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 24108, 1-27 (Versio A)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mu 4° 743, 103-124v, 132-142v (Versio A)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mu 4° 752, 43-84 (Versio A)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-TRs Ms. 8° 1893/1481, 58v-68v (Versio A)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">E-Sc 5-3-25, 91-101v (Versio A/B)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 7207, 294-300 (Versio B)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 7295, 100v-110 (Versio A/B)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 7369, 29-45 (Versio B)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 7378 A, 41v-45v (Versio B)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-SDI 42, 107-117 (Versio B)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Cfm Ms. 295, 10v-24v (Versio A)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Eo Cr. 2.119, 1-12 (Version not identified)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Gu 461, 42v-65 (Versio A/B)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ob Bodley 77, 95-99v (Versio A)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ob Bodley 300, 110ra-115ra (Versio B)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ob Canon. Misc. 339, 15-29v (Versio B)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fr 734, 62-70v (Versio B)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Ma C. 241 inf., 126-132v (Versio A/B)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Ma H. 165 inf., 2-16 (Versio B)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Ma I. 232 inf., 67-73 (Versio B)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-PIu 606 (IV.9), II/1-18 (Versio B)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat lat. 5321, 12-20 (Versio B)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat Pal. lat. 1377, 60-81 (Versio B)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat Pal. lat. 1420, 68v-94v (Versio B)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat Reg. lat. 1571, 1v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat Reg. lat. 1728, 1v-8 (Version not identified)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Sc L.V.30, 1-12v (Versio B)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Tn G.VI.3, 63-73v (Versio B)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Vnm Lat. Cl. VIII.24 (3434), 90-108 (Versio A)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">PL-Kj 546, 99-108 (Versio A)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">PL-Kj 568, 81v-85 (Versio A)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">PL-Kj 1865, 18v-37v (Versio A)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">PL-Kj 1927, 113-132v (Versio A)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">PL-Kj 1970, 104-115v (Versio A)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">PL-Kj 3295, 110-161v (Versio A)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">PL-Kj lat. qu. 23, 215v-222 (Versio B)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">US-NYcub Ms. X 510 H 74, 158-177 (Versio A)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">US-PRu Ms. Garrett 95, 179-204 (Versio B)</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="MURMSPE0001">
+      <pb n="[77]" />Musica speculativa magistri Johannis de Muris</p>
+      <p id="MURMSPE0002">Quoniam musica est de sono relato ad numeros aut econtra, necessarium est musicam, utrumque numerum scilicet et sonum considerare. Antequam enim aliquid numeretur, oportet ipsum esse.</p>
+      <p id="MURMSPE0003">
+      <pb n="[79]" />Ideo sonum prius generari quam numerari necesse est.</p>
+      <p id="MURMSPE0004">Ad generationem soni necessario tria requiruntur: percutiens, percussum, medium percutiendi. Primum frangens aerem celeriter, secundum corpus sonabile naturaliter, tertium aer fractus violenter. Ictus non fit sine motu, igitur neque sonus absque motu est. Est igitur sonus fractio aeris ex impulsu percutientis ad percussum. Nam impossibile est, cum sit unum solum, fieri sonum.</p>
+      <p id="MURMSPE0005">Sonorum alius gravis, alius acutus. Gravis est, qui ex tardioribus et rarioribus motibus generatur. Acutus vero, qui ex velocioribus et spissioribus generatur. Licet in utroque sint plures motus discreti plures sonos numero facientes, ut patet in chordis nervorum 
+      <pb n="[81]" />impulsis, tamen sine interruptione sensibili audiuntur quasi unus sonus continuus propter velocitatem motuum anexorum, velut color existens in superficie summitatis trochi moti videtur esse linea circularis, licet non fuerit nisi punctus.</p>
+      <p id="MURMSPE0006">Acutus vero sonus fit ex gravi per additionem motuum, ex acuto quoque gravis per subtractionem. In acutis vero sonis plures sunt motus, in gravibus pauciores.</p>
+      <p id="MURMSPE0007">Omnis autem paucitas ad pluralitatem sub quodam numero refertur. Ergo sonum gravem ad acutum comparando necessarium est referri, sicut numerus motuum unius ad numerum motuum alterius proportionaliter comparatur.</p>
+      <p id="MURMSPE0008">
+      <pb n="[83]" />Cum ostensum sit, musicam constare ex sonis, qui proportionales sunt ad invicem quodammodo secundum numeros motuum in eis repertos, non est inutile percurrere proportiones generaliter numerorum.</p>
+      <p id="MURMSPE0009">Omnis autem numerus ad alterum comparatus aut est ei aequalis aut inaequalis, nam haec competunt cuilibet quantitati. Si aequalis, idem sunt et unum sunt in quantitate. Ideo non variatur nec ex sonis aequalibus fit consonantia aut maior aut minor. Si autem inaequalis, aut maior aut minor. Dicitur autem maius alterum altero 5 modis, ut multiplex, superparticularis, superpartiens, inde superparticularis, multiplex superpartiens. Appositaque dictione sub dicitur totidem modis minus.</p>
+      <p id="MURMSPE0010">
+      <pb n="[85]" />Multiplex est, quando maior numerus habet in se totum minorem bis vel ter vel quater, cuius species sunt proportio dupla, tripla, usque infinitum.</p>
+      <p id="MURMSPE0011">Superparticularis est, quando maior continet minorem et aliquam eius partem, cuius species sunt sesquialtera, sesquitertia et sic deinceps.</p>
+      <p id="MURMSPE0012">Superpartiens est, cum maior continet minorem et eius aliquas partes, cuius species sunt superbipartiens, supertripartiens et sic semper.</p>
+      <p id="MURMSPE0013">
+      <pb n="[87]" />Multiplex superparticularis est, quando maior habet minorem bis vel ter vel aliquam eius partem, cuius species sunt duplex sesquialtera, duplex sesquitertia, triplex sesquialtera et sic ex parte utriusque in infinitum.</p>
+      <p id="MURMSPE0014">Multiplex superpartiens est, quando maior habet minorem bis vel ter et aliquas eius partes, cuius species sunt duplex superbipartiens, duplex supertripartiens et addendo quamlibet speciem multiplicis cuilibet superpartientis.</p>
+      <p id="MURMSPE0015">
+      <pb n="[89]" />Exempla cuiuslibet speciei sic in numeris ordinantur.</p>
+      <p class="textFig" id="MURMSPE0016">
+      <lb />&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;tripla&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;36&#160;72&#160;108&#160;144
+      <br />Multiplex
+      <lb />&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;dupla&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;24&#160;48&#160;&#160;72&#160;&#160;96
+      <br />&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;sesquitertia&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;16&#160;32&#160;&#160;48&#160;&#160;64
+      <lb />Superparticularis
+      <br />&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;sesquialtera&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;18&#160;36&#160;&#160;54&#160;&#160;72
+      <lb />&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;supertripartiens&#160;&#160;&#160;&#160;&#160;&#160;&#160;21&#160;42&#160;&#160;63&#160;&#160;84
+      <br />Superpartiens
+      <lb />&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;superbipartiens&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;20&#160;40&#160;&#160;60&#160;&#160;80
+      <br />&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;dupla&#160;sesquialtera&#160;&#160;&#160;&#160;&#160;30&#160;60&#160;&#160;90&#160;120
+      <lb />Multiplex
+      <br />superparticularis
+      <lb />&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;tripla&#160;sesquitertia&#160;&#160;&#160;&#160;40&#160;80&#160;120&#160;160
+      <br />&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;dupla&#160;superbipartiens&#160;&#160;32&#160;64&#160;&#160;96&#160;128
+      <lb />Multiplex
+      <br />superpartiens
+      <lb />&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;tripla&#160;superbipartiens&#160;45&#160;90&#160;135&#160;180
+      <br />Fundamentum&#160;relationis&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;12&#160;24&#160;&#160;36&#160;&#160;48
+      <lb /></p>
+      <p id="MURMSPE0017">
+      <pb n="[91]" />Omnem doctrinam et omnem disciplinam ex praeexistente cognitione fieri.</p>
+      <p id="MURMSPE0018">Ante cognitionem sensitivam non aliam inveniri.</p>
+      <p id="MURMSPE0019">Experientiae multiplici, ut in termino quiescere.</p>
+      <p id="MURMSPE0020">Experientiam circa res sensibiles artem facere.</p>
+      <p id="MURMSPE0021">
+      <pb n="[93]" />Pictagoram nobis artem monstrasse sonorum.</p>
+      <p id="MURMSPE0022">Antiquus Pictagoras subtilissima numeralium proportionum investigatione praecellens, nolens quippe aurium iudicio fidem de consonantiis adhibere tum, quia non omnis auris propter complexionis naturalis aetatis mutabilis dispositionisque varietatem aeque bene 
+      <pb n="[95]" />iudicat de auditis, cum, quia, et si auris bene disposita quantum ad ea, quae contingunt circa sonum, non fallatur, tamen de numerorum proportione discernere non est suum, sed est rationis opus.</p>
+      <p id="MURMSPE0023">"Nullis etiam deditus instrumentis" eo, quod omnia inconstantia et inconsulta modicaeque fidei propter causas multiplices aestimabat, ut propter nervorum, aeris, spiritus irregularitatem, neque tamen penitus privare volens auditum consonantiarum iudicio eo, quod si non fuisset "auditus, nulla omnino de vocibus" ratio constitisset, imo quasi viam mediam 
+      <pb n="[97]" />quandam tenens, tamquam de consonantiis et harmoniarum officio famulus sit auditus, iudex autem intellectus sit, ut sensuit auditus diminute id, de quo scientiam universalem et completam ordinat intellectus per primam ipsam auditus in nullam aliam resolvendo per secundam.</p>
+      <p id="MURMSPE0024">Ipse namque Pictagoras studiose perquirens, quomodo artem de melodiis rationaliter inveniret, quadam vice iuxta fabrorum officinas praeteriens, hanc 
+      <pb n="[99]" />inquisitionem mentaliter intendens, quosdam malleos super incudem ferientes mirabilem producentes harmoniam deprehendit. Et statim conversus ad malleos dubitans, ne ex viribus hominum proveniret melodia, iussit 
+      <pb n="[101]" />inter se singulos malleos permixtim permutari, quibus alternatis et ad incudem percussis redigit consimilis consonantia praecedenti, ex quo conclusit, non in viribus hominum, qui malleis utebantur, sed in conditionibus malleorum huius melodiam immediatius contineri. Hoc autem ei innotuit tam numeri quam mensurae quam ponderis ratione.</p>
+      <p id="MURMSPE0025">Numerus quidem malleorum erat quinque, sed quintus eiectus fuit eo, quod sicut inutilis comparatio cuilibet dissonabat. Dedit tamen ecce res grandis occasionem per sui dissonantiam consonantias iudicandi. Nam appositis iuxta se contrariis maiora et minora, peiora et meliora videntur hominibus.</p>
+      <p id="MURMSPE0026">
+      <pb n="[103]" />Consideratis autem ponderibus reliquorum in dupla, sesquialtera, sesquitertia, sesquioctava proportione reperta sunt, quibus proportionibus in instrumentis nervorum, ventorum, foraminum, aquarum, vasorum, in nolis, acetabulis, tympanis, tintinnabulis consonantias consimiles gignere sine instantia comprobavit. 
+      <pb n="[105]" />In hac experientia quiescere debuit per tertiam et ex hac ulterius universale recepit, quod ei fuit artis musicae principium iuxta quartam.</p>
+      <p id="MURMSPE0027">Propter symphonias subiungere vim numerorum.</p>
+      <p id="MURMSPE0028">Quoniam ergo Pictagoras consonantias sonorum per proportiones ponderum expertus est, haec proportio in numeris ostendatur, quibus proportio primo debetur. Sint ergo 12 9 8 6 
+      <pb n="[107]" />pondera malleorum ita, quod qui 12 ponderabat ad illum, qui sex erat ponderum, duplus erat. Qui fuit duodecim ad eum, qui 9, proportionem sesquitertiam servabat et qui 8 ad 6 eandem habuit habitudinem. Sed qui duodecim ad 8 sesquialteram proportionem comparabatur, qui etiam 9 ad 6 similiter referebatur. Qui vero 9 ad 8 sesquioctavam proportionem tenebat. Haec sunt principia huius artis.</p>
+      <p id="MURMSPE0029">
+      <pb n="[109]" />Iam tres harmonias perfectas esse sonantes.</p>
+      <p id="MURMSPE0030">Harmonias non esse pauciores tribus, experientia docuit. Sed an plures sint, Deus agnovit: perfectiores tamen his tribus nemo videtur expertus fuisse. 
+      <pb n="[111]" />Et sunt: Diapason, cuius est proportio dupla, ut 12 ad 6, diapente, cuius est proportio sesquialtera, ut 12 ad 8 et 9 ad 6, diatesseron, cuius est proportio sesquitertia, ut 12 ad 9 et 8 ad 6. Tonus vero, qui est in sesquioctava, ut 9 ad 8, non est consonantia, sed pars eius. Haec omnia firmari possunt per rationem consonantiae, quam assignat Boethius: "Consonantia est dissimilium inter se vocum in unum redacta concordia", vel sic: "Consonantia est acuti soni gravisque mixtura suaviter uniformiterque auribus accedens." Hae autem definitiones tribus praedictis 
+      <pb n="[113]" />consonantiis competunt et non tono, in quo sit auditus cuiuslibet sibi iudex. Igitur tres praedictae harmoniae dicuntur consonantiae perfectae et non tonus.</p>
+      <p id="MURMSPE0031">
+      <pb n="[115]" />Subiecta quidem figura declarat, quae dicta sunt, si diligenter inspiciatur.</p>
+      <p id="MURMSPE0032">[Musica speculativa B, 115; text: Diapason in proportione dupla, Diapente in sesquialtera, Diatesseron in sesquitertia, Diatesseron in sesquialtera, 12, 9, 8, 6] 
+      <figure>
+        <graphic url="/images/MURMSPE_01GF.gif" />
+      </figure></p>
+      <p id="MURMSPE0033">Prima conclusio</p>
+      <p id="MURMSPE0034">Has tres melodias numeros dare clarificantes.</p>
+      <p id="MURMSPE0035">Hac figura consonantiarum in musica perfectarum omnia principia et omnes 
+      <pb n="[117]" />conclusiones musicae quodammodo continet in virtute. Volumus itaque, quod praesens figura claudit, extrahere sigillatim favente deo.</p>
+      <p id="MURMSPE0036">
+      <pb n="[119]" />Quae diapente sonat, diapason habet superare.</p>
+      <p id="MURMSPE0037">Omnis proportio superparticularis minor est proportione multiplici, quoniam multiplex numerus continet minorem integre vel bis vel ter vel quater et sic deinceps. Sed superparticularis numerus numquam continet bis minorem, sed semel cum aliqua eius parte, ut media, 
+      <pb n="[121]" />tertia, quarta et sic semper augendo partes et minuendo totum. Modo consonantia diapente notatur in superparticulari proportione, diapason in multiplici per figuram circulorum. Ergo diapente separatur a diapason. Quomodo autem species multiplicis augentur numerorum in ordine naturali, species autem superparticularis ordine contrario minuuntur, ac si modum et naturam continuae et discretae servarent, patet in figura subiecta.</p>
+      <p id="MURMSPE0038">
+      <pb n="[123]" />[Musica speculativa B, 123; text: Multiplices, Superparticulares, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]</p>
+      <p id="MURMSPE0039">In huius figurae summitate unitas tamquam principium augmentationis et diminutionis usque in infinitum merito situatur. Nam multiplices secundum additionem naturalem sine termino crescunt, superparticulares vero naturaliter 
+      <pb n="[125]" />minuuntur. Et si primam speciem multiplicis, scilicet duplam, quae per duo numeratur, primae speciei superparticularis, scilicet sesquialterae, quae similiter per binarium figuratur, addideris, secundam speciem multiplicis scilicet triplam generabis. Sique secundam secundae, tertiam et sic semper procedendo. Et haec est mirabilis ordinatio numerorum. Continet insuper figura supra posita excessum cuiuslibet speciei multiplicis super quamlibet superparticularis et differentias utrarumque.</p>
+      <p id="MURMSPE0040">
+      <pb n="[127]" />Secunda conclusio</p>
+      <p id="MURMSPE0041">Ac in plus diapente quam diatessera stare.</p>
+      <p id="MURMSPE0042">Quanto denominatio alicuius partis maior est, tanto pars est minor et econtra, sicut una tertia denominatur a tribus et una secunda a duobus. Et maior est denominatio 3 quam 2, quare una tertia minor pars est quam una secunda. Nunc autem tam diatesseron quam diapente sunt in speciebus superparticularis, scilicet in sesquialtera et 
+      <pb n="[129]" />sesquitertia per figuram circulorum. Et denominatio proportionis sesquitertiae, in qua sit diatesseron, maior est denominatione proportionis sesquialterae, in qua est diapente, scilicet duo, ergo maior est diapente quam diatesseron, quod quaerebam.</p>
+      <p id="MURMSPE0043">Tertia conclusio</p>
+      <p id="MURMSPE0044">Et diatessera tunc veluti minimam resonare.</p>
+      <p id="MURMSPE0045">Cum non sunt nobis notae plures his tribus consonantiis, diapente, quae est minor quam diapason per primam et maior quam diatesseron per praecedentem. Ergo diatesseron minor est inter omnes. 
+      <pb n="[131]" />Nam quidquid est minus minore est minus maiore, et quidquid est maius maiore, et minore. Ex quo concludo diapason esse maiorem aliis diatesseronque minorem.</p>
+      <p id="MURMSPE0046">Quarta conclusio</p>
+      <p id="MURMSPE0047">Et diapason habent pente tessara iuncta creare.</p>
+      <p id="MURMSPE0048">Omnis proportio dupla ex sesquialtera et sesquitertia procreatur. Nam si unius numeri, qui sesquialter est ad alterum, sumatur tertia pars et eidem 
+      <pb n="[133]" />addatur, exibit numerus ad illum duplus, ut si 9, qui est sesquialter ad 6, addatur sua tertia, scilicet tria, provenient duodecim, qui est duplus ad 6.</p>
+      <p id="MURMSPE0049">Sed nunc est ita, quod diapente est in sesquialtera, diatesseron vero in sesquitertia. Ergo simul iunctae constituunt diapason, quae in dupla proportione formatur.</p>
+      <p id="MURMSPE0050">
+      <pb n="[135]" />Quinta conclusio</p>
+      <p id="MURMSPE0051">Et diatesseron a diapente tono superari.</p>
+      <p id="MURMSPE0052">Diatesseron sit in proportione sesquitertia, diapente vero in sesquialtera. Sed sesquitertia demta a sesquialtera, quoniam potest, non econtra eo, quod sesquialtera est maior sesquitertia, sicut una secunda una tertia, remanet proportio sesquioctava. Probatio: inter 8 et 12 est proportio sesquialtera interque 9 et 12 
+      <pb n="[137]" />sesquitertia, qua sublata a sesquialtera remanet proportio inter 8 et 9 et illa est sesquioctava et haec facit tonum per figuram circulorum. Ergo propositum et, ut clarius appareat de additione et subtractione harum proportionum ad invicem tam in generatione multiplici quam in superparticulari, in quibus solis hae consonantiae formantur, unam satis notabilem de huius speciebus subiungo figuram.</p>
+      <p id="MURMSPE0053">
+      <pb n="[139]" />[Musica speculativa B, 139; text: dupla, tripla, quadrupla, quintupla, sescupla, septupla, octupla, sesquidupla, sesquitertia, sesquiquarta, sesquiquinta, sesquisexta, sesquiseptima, 2, 4, 6, 8, 10, 12, 14, 16] 
+      <figure>
+        <graphic url="/images/MURMSPE_02GF.gif" />
+      </figure></p>
+      <p id="MURMSPE0054">Ex hac figura patet evidenter diatesseron, id est proportionem sesquitertiam, superari tono, id est proportione sesquioctava, a diapente, id est sesquialtera, ut patet in numeris 12, 16, 8.</p>
+      <p id="MURMSPE0055">
+      <pb n="[141]" />Sexta conclusio</p>
+      <p id="MURMSPE0056">Aeque pares partes non posse tonum mediari.</p>
+      <p id="MURMSPE0057">Tonus est in proportione sesquioctava per figuram circulorum, quare primo reperitur tonus in his numeris 8 et 9. Sed cum inter eos non sit medius numerus integer, ergo augeantur.</p>
+      <p id="MURMSPE0058">Primum augmentum cuiuslibet a binario sumit ortum, ut patet in figura primae. 
+      <pb n="[143]" />Exibunt ergo per multiplicationem 16 et 18, inter quos similiter manet tonus. Nam ratio arithmeticae generalis est, quodsi duo numeri in aliqua proportione se habentes per numerum augeantur eundem procreati, ex eisdem in eadem proportione manebunt. Cum autem inter 16 et 18, qui tonum faciunt, cadat numerus integer 17, videamus, utrum iste comparatus ad extrema faciat vere semitonium. Comparatus quidem 17 ad 16 proportionem habet sesquisextidecimam, comparatus vero ad 18 
+      <pb n="[145]" />non habet eandem proportionem, sed sesquidecimamseptimam. Sed si esset vere semitonium, reddere proportionem deberet eandem. Item, quod in proportione sesquidecimasexta nec decimaseptima possit esse vere semitonium sic ostendo: Si per te 17 ad 16 comparatus facit tonum medium, scilicet in proportione sesquidecimasexta, numerus, qui continet 17 in eadem proportione similiter medium toni reddet et ille est 18 cum una 16. Si igitur a 16 in 17 sit toni materies vera et a 17 in 18 cum una 16 alia medietas per hypothesim 
+      <pb n="[147]" />tuam. Ergo a primo ad ultimum a 16 in 18 cum una 16 tonus erit, quod est falsum et contra figuram circulorum. Nam solus 18 ad 16 facit tonum fuit itaque proportio sesquidecimasexta semitonio vero maior.</p>
+      <p id="MURMSPE0059">Sed quod proportio sesquidecimaseptima non sit vera toni materies, sic apparet: si per te 17 ad 18 reddat verum semitonium, inter quos est proportio sesquidecimaseptima, numerus continens eadem proportione 18 semitonium verum dabit et ille est 19 cum una 17.</p>
+      <p id="MURMSPE0060">Ergo de primo ad tertium, scilicet de 17 ad 19 cum una decimaseptima tonus erit, quod est impossibile sicut prius. Nam 17 ad 19 cum una octava facit tonum. Cum ergo 
+      <pb n="[149]" />maior sit una octava quam una decimaseptima, sequitur, quod proportio sesquidecimaseptima vero toni medio minor fuit.</p>
+      <p id="MURMSPE0061">Non ergo est toni medietas nec 16 nec 17, sed inter has.</p>
+      <p id="MURMSPE0062">
+      <pb n="[151]" />Amplius nulla habitudo superparticularis potest dividi per medium, id est habet medium proportionale, sicut enim in proportione geometrica, quod patet in singulis inducendo. Nam inter 12 et 8 est proportio superparticularis sesquialtera, quae prima est omnium illius generis. Sed inter has nullum est medium. Nam si sumatur decem, sesquiquartus est ad 8, sed ad 10 non est 12 sesquiquartus, imo sesquiquintus, ut vides in figura quintae; quare 10 non est medius inter eos.</p>
+      <p id="MURMSPE0063">Et patet aliter: nam omne medium proportionale est radix extremorum in se ductorum, sed modo nulla habitudo superparticularis habet radicem, quia nulla 
+      <pb n="[153]" />habitudo superparticularis habet medium. Tonus autem est in habitudine superparticularis sesquioctavae quare et caetera. Rursum, qui quaerit tonum per aequalia mediari, quaerit diametrum costae commensurari, quod est impossibile.</p>
+      <p id="MURMSPE0064">Et quod hoc sit simile, declaratur: Nam sicut diameter est maior costa et minor duabus, nulla tamen proportione communi, quae posset excessum mensurare. Sic proportio toni maior est proportione sesquidecimasexta et minor duabus, et si minor est duabus sesquidecimissextis, 
+      <pb n="[155]" />minor est duabus sesquidecimisseptimis, nulla proportione communi mensurante eius excessum, quod patet per numeros inducendo. In figura sequenti omnia declarentur.</p>
+      <p id="MURMSPE0065">[Musica speculativa B, 155; text: A primo ad ultimum est plus quam proportio sesquioctava, sesquidecimasexta, differentia 1/16, minor sesquioctava, sesquidecimaseptima, 1/17, 1/8, 2/8, 16, 17, 18, 19, 256, 272, 288, 289, 306, 324, 325]</p>
+      <p id="MURMSPE0066">Septima conclusio</p>
+      <p id="MURMSPE0067">Est semis et duplex tonus in diatessera vere.</p>
+      <p id="MURMSPE0068">In omni proportione sesquitertia duae sesquioctavae proportiones integrae continentur, 
+      <pb n="[157]" />sed et tertia, quae non perfecta est, ut ostendam: modo diatesseron sit in proportione sesquitertia per figuram circulorum. Ergo in diatesseron sunt duae sesquioctavae proportiones perfectae et tertia non completa. Igitur et duo toni cum uno imperfecto, qui a musicis semitonium unanimiter appellatur, non quia semis, quod est dimidium, sed semis, quod est imperfectum.</p>
+      <p id="MURMSPE0069">Quod autem in proportione sesquitertia, quam sibi vendicat diatesseron, sint duae sesquioctavae proportiones continuae et tertia incompleta, sic ostendo: Sint in proportione sesquitertia isti duo numeri, ut extremi 192 256, dico, quod inter hos sint duae sesquioctavae proportiones cum una imperfecta. Nam si super 192 sua octava pars 
+      <pb n="[159]" />addatur, exibit 216 faciens proportionem primam sesquioctavam; cui iterum pars octava illius adiungatur, exibit 243 secundam sesquioctavam reddens proportionem. Sed si super 243 eius octava pars tertio copularetur, non exibit 256, sed plus, scilicet 273 et una octava, quare relinquitur pro iam noto, quod inter 243 et 256 non fuit proportio integra sesquioctava. Quare concludo ex his in diatesseron duos tonos integros et unum imperfectum, scilicet semitonium, contineri.</p>
+      <p id="MURMSPE0070">Isti praedicti sunt primi numeri, in quibus hoc possit ostendi. Et est ars inveniendi talis: quot tonos continuos aut quot continuas proportiones sesquioctavas 
+      <pb n="[161]" />vis habere, tot octuplas distantes a primo octuplo, qui est 8 ab eo loco spatii, quo distant ab unitate continuae proportiones sesquioctavae, quas inquiris, ut, si duos continuos quaeris, a secundo octuplo, qui est 64, si tres, a tertio incipias.</p>
+      <p id="MURMSPE0071">Sint igitur duo toni continui, primo 64, scilicet 27, 91. Si ergo super 64 sua tertia pars addatur, exibit diatesseron, sed tertiam non habet. Ergo si multiplicetur per tertio, proveniunt 
+      <pb n="[163]" />192 tertiam partem habens, post quam sunt similiter duo toni continui, sicut prius. Haec patent in figura.</p>
+      <p id="MURMSPE0072">[Musica speculativa B, 163; text: diatesseron sesquitertia, ditonus, tonus cum semitonium, tonus, semitonium, 192, 216, 243, 256] 
+      <figure>
+        <graphic url="/images/MURMSPE_03GF.gif" />
+      </figure></p>
+      <p id="MURMSPE0073">Octava conclusio</p>
+      <p id="MURMSPE0074">Sed diapente sonos tres et semis dico tenere.</p>
+      <p id="MURMSPE0075">Iam notum est per praecedentem diatesseron ex duobus tonis et semitonio pariter integrari. Sed diapente continet diatesseron atque tonum per quintam. Ergo 
+      <pb n="[165]" />et diapente consonantia ex tribus tonis et semitonio completa est, quod est propositum.</p>
+      <p id="MURMSPE0076">Nona conclusio</p>
+      <p id="MURMSPE0077">Bina semitonia cum quinque tonis pasodia.</p>
+      <p id="MURMSPE0078">Diatesseron constat ex duobus tonis cum uno semitonio per septimam, diapente vero ex tribus tonis cum uno similiter semitonio per praecedentem. Sed diapason ex diapente et diatesseron conficitur, per quartam. Igitur diapason ex quinque tonis et duobus semitoniis integratur, nec ex hoc infertur, ergo est ex sex tonis per aequipollentiam, in quo tamen plures antiqui et plures moderni falluntur, quoniam tonus non potest dividi in 
+      <pb n="[167]" />duo semitonia aequalia, ut visum est per sextam.</p>
+      <p id="MURMSPE0079">Decima conclusio</p>
+      <p id="MURMSPE0080">Quaero toni tales sunt partes sunt inaequales.</p>
+      <p id="MURMSPE0081">Tonum esse aliquem imperfectum, scilicet semitonium, visum est per septimam. Ergo semitonium est aliqua pars toni, aut ergo est vera pars media aut non media per contradictionem. Sed non est vera pars media per sextam. Ergo non media, aut ergo maior pars toni aut minor. Et cum una sola pars tonum non constituat integrale, ergo in tono sunt duae partes, quarum altera maior et altera minor necessario comprobatur.</p>
+      <p id="MURMSPE0082">Ergo tonus, cum dividitur, in duo semitonia, secundum maius et minus semitonium, divisus 
+      <pb n="[169]" />est, quod est propositum.</p>
+      <p id="MURMSPE0083">Undecima conclusio</p>
+      <p id="MURMSPE0084">Ergo semitonium minus in numeris reperire.</p>
+      <p id="MURMSPE0085">A diatesseron demtis tonis duobus, quod remanet, semitonium vocatur per septimam. Sed quod illud sit minor pars toni, probatur, ut visum fuit in septima. Primi numeri, inter quos apparet semitonium in diatesseron, sunt 243 et 256, quorum differentia est 13. Si 13 faciens semitonium sit duplicatus et tonum perfectum non attingat, notum erit ipsum esse minorem vera media parte toni. Sed sic est, quoniam si dupletur 
+      <pb n="[171]" />13 exit 26, qui additus super 243 reddit 269, qui ad 243 comparatus tonum non implet, addita octava parte 243 sibi ipsi, existit numerus 273 et tres octavae, qui maior est primo faciens plene tonum, quare ex his minor pars semitonii reperta est.</p>
+      <p id="MURMSPE0086">Amplius et per sextam visum est, quod semitonium est inter decimam sextam et decimam septimam partem sic, quod est minor decima sexta et maior decima septima, sed 13, comparatus ad 243, minor pars eius est quam 16 et quam 17, 
+      <pb n="[173]" />quoniam 13 ductus in se sedecies aut septiesdecies non reddit 243, imo minus, et ductus in se octies decies minus est 243. Quidquid autem est minus minore, est minus maiore; cum igitur 13 ad 243 sit minor pars eius quam 17 et ipsa 17 non facit toni medium, sed minus, ergo multo minus 13 ad 243 comparatus facit minus medietate toni, quare minus semitonium inventum est.</p>
+      <p id="MURMSPE0087">Duodecima conclusio</p>
+      <p id="MURMSPE0088">Inde semitonium maius demonstro venire.</p>
+      <p id="MURMSPE0089">Ostensum est per immediatam et per septimam, quod primi numeri sunt 243 et 256, 
+      <pb n="[175]" />inter quos semitonium prima per integra fiat notum, quare numquam in musica minutiae receptae sunt. Sicut geometrica linea quantalibet uti contingit, sic et musicum numeris quantislibet licet uti. Modo si super 243 sui octava pars adiungatur, numerus tonum reddens exibit, cuius differentia ad 256 pars semitonii maior erit, cum iam sit ostensum a 256 in 243 semitonii partem fore minorem.</p>
+      <p id="MURMSPE0090">Sed quoniam 243 octavam non habet, igitur per regulam arithmeticae per octo extenditur, 
+      <pb n="[177]" />numerus exibit partem habens octavam et erit 1944. Augeatur etiam 256 per octo 2048 producitur, inter quos, scilicet 1944 2048, erit minus semitonium sicut prius. Tunc ergo super 1944 sui octava iungatur, veniet 2187 faciens verum tonum, cuius differentia ad 2048 est 139, quae maior semitonii pars est; nam alia pars est differentia inter 2048 et 1944. Ergo maius semitonium non amplius est ignotum. Quae autem nunc dicta sunt praesens figura declarat.</p>
+      <p id="MURMSPE0091">
+      <pb n="[179]" />[Musica speculativa B, 179; text: tonus, minus semitonium, maius semitonium, 1944, 2048, 2187, 104, 139, 35, differentiarum differentia]</p>
+      <p id="MURMSPE0092">Decimatertia conlusio</p>
+      <p id="MURMSPE0093">Sex ostendo tonos diapason non dare plenos.</p>
+      <p id="MURMSPE0094">Sunt sex toni continue proportionales inventi secundum regulam datam in septima; incipiendo a sexto octuplo, sicut in subscripta figura videtur: supra 
+      <pb n="[181]" />quem sui octava pars addatur, exibit secundus. Cui iterum sua pars octava iungatur et producetur tertius et ita de aliis usque ad sextum et erunt sex toni continue successive. Modo si supra primum addatur sua materies, exibit numerus faciens diapason per figuram circulorum et est iste 524288, qui minor est 
+      <pb n="[183]" />eo numero, qui sextum faciebat tonum, scilicet 531441, quorum differentia est 7153, in qua sex toni sunt maiores diapason, quod quaerebam.</p>
+      <p id="MURMSPE0095">Et ex hoc infertur, quod, cum diapason constat ex quinque tonis et duobus semitoniis per 9, illa duo semitonia fore minora, quoniam, si esset maiora, transiret diapason sex tonos, si unum minus, reliquum vero maius sex complete redderent tonos, cuius contrarium visum est; ergo sunt minora; ac ulterius cum diapason, diapente et diatesseron amplectatur.</p>
+      <p id="MURMSPE0096">Illa semitonia, quae sunt in his duobus, de minoribus esse probantur.</p>
+      <p id="MURMSPE0097">
+      <pb n="[185]" />[Musica speculativa B, 185; text: 262144, 294912, 331776, 373248, 419904, 472392, 51441, 32768, 36964, 41472, 46656, 52448, 59049, 4096, 4608, 5184, 5832, 6561, 512, 476, 648, 729, 64, 72, 81, 8, 9, primus, secundus, tertius, quartus, quintus, sextus, toni continui] 
+      <figure>
+        <graphic url="/images/MURMSPE_04GF.gif" />
+      </figure></p>
+      <p id="MURMSPE0098">Decimaquarta conclusio</p>
+      <p id="MURMSPE0099">Non ex quinque tonis duplex diatesseron esse.</p>
+      <p id="MURMSPE0100">Per septimam probatum est, quod diatesseron includit duos tonos cum semitonio. Quod 
+      <pb n="[187]" />autem illud sit minus semitonium et sic non reddet tonum, si dupletur, quod est propositum, sic ostendo: Diapason ex 9 continet in se diatesseron et diapente, sed diapente non continet aliud semitonium quam diatesseron, quoniam non differt ab eo nisi tono per quintam. Modo diapason amplectitur quinque tonos et duo semitonia per 9, quae sunt minora. Quoniam diapason non complet sex tonos per immediatam, ergo illa duo semitonia, quae sunt in diatesseron et diapente, sunt minora et illud, quod est in diapente, est illud, quod est in diatesseron, ut dictum est in quinta. Ergo illud semitonium, quod est in diatesseron, minus est semitonium 
+      <pb n="[189]" />et minor pars toni merito nuncupatur. Sed nulla minor pars toni tonum reddet integrum duplicata, quare semitonium, quod est in diatesseron duplicatum aut bis sumptum, nullum integrum reddit sonum. Sed aliter poni non potest bis diatesseron quinos tonos habere, ergo non habet quinque tonos, sed quatuor tonos cum duobus semitoniis minoribus.</p>
+      <p id="MURMSPE0101">Per numeros, qui neminem fallunt, hoc idem aliter declaratur: Sint quinque toni continui, sicut dicitur in praecedente, tunc super numerum, qui est fundamentum 
+      <pb n="[191]" />relationis, sui tertia pars addatur, exibit semel diatesseron per figuram circulorum. Super quam iterum productam sui tertia pars iungatur ad eam, similiter alia diatesseron producetur, quare de primo ad ultimum erit bis diatesseron. Comparetur ergo iste ultimus numerus, faciens ad primum bis diatesseron ad ultimum numerum facientem quintum tonum, et est minor numerus, qui bis diatesseron complet, quam numerus faciens 5 tonum.</p>
+      <p id="MURMSPE0102">Ergo bis diatesseron non continet 5 tonos. Propter hanc sequentem vide figuram.</p>
+      <p id="MURMSPE0103">
+      <pb n="[193]" />[Musica speculativa B, 193; text: Bis Diatesseron, quinque toni, 43690 2/3, 32768, 58254 6/9, 36864, 41472, 46656, 52458, 59049]</p>
+      <p id="MURMSPE0104">Amplius hoc potest declarari intendendo diatesseron et remittendo. Sumtis enim quinque tonis continuis, si super primum numerum iungatur sui tertia pars, 
+      <pb n="[195]" />diatesseron est intensa, et si ab ultimo numerorum quintum tonum complens sui quarta pars rescindatur, diatesseron exibit remissa. Si ergo diatesseron duplex sit aequalis quinque tonis, ex his quinque tonis diatesseron intensa et remissa concurrent in eodem numero et aequali nulla differentia mediante. Sed non erit ita; imo manifesta patebit differentia, ut videre per te potes in hac figura, quare diatesseron bis sumpta non est aequalis quinque tonis, quod est propositum.</p>
+      <p id="MURMSPE0105">
+      <pb n="[197]" />[Musica speculativa B, 197; text: quinque toni, 32768, 43690, 44286 2/3, 59049] 
+      <figure>
+        <graphic url="/images/MURMSPE_05GF.gif" />
+      </figure></p>
+      <p id="MURMSPE0106">Decimaquinta conclusio</p>
+      <p id="MURMSPE0107">Est ex praemissis comma reperire necesse.</p>
+      <p id="MURMSPE0108">Comma a musicis appellatur illud, in quo tonus superat duo semitonia sui. Illud autem taliter invenitur: a sex tonis continuis secundum modum 13 
+      <pb n="[199]" />diapason subtrahatur, quod relinquitur erit comma. Nam tanta erit differentia inter tonos 5 et 2 semitonia minora, quae sunt in diapason per immediatas, et inter 6 tonos. Quod provenit ex eo, quod ista duo semitonia tonum perficere nequiverunt, verbi gratia: hi duo numeri 262144, 531441 sex tonos continuos amplectuntur, sed hi duo 262144, 524288 reddunt diapason, quod patet, si primus numerus dupletur. Modo differentia inter numerum sex tonorum et numerum diapason adimplentem est differentia in 7153 et haec differentia est duorum minorum semitoniorum ad tonum. Nam si fuissent integra semitonia, differentia nulla fuisset; et haec differentia inter duo semitonia minora et tonum comma vocatur. 
+      <pb n="[201]" />Ex praemissis demonstrationibus inferi possunt corollaria, quae sequuntur, quae quasi sunt manifesta ex assertis, ut de his non sit necessarium nova theoremata formare.</p>
+      <p id="MURMSPE0109">Duo minora semitonia tonum integrum non complere.</p>
+      <p id="MURMSPE0110">Duo maiora semitonia simul iuncta tonum integrum superare.</p>
+      <p id="MURMSPE0111">Maius semitonium super minus semitonium commate abundare.</p>
+      <p id="MURMSPE0112">Maius semitonium et minus simul iuncta tonum perficere.</p>
+      <p id="MURMSPE0113">
+      <pb n="[203]" />Duo semitonia minora cum commate tonum reddere.</p>
+      <p id="MURMSPE0114">Verum semitonium in nulla proportione manere.</p>
+      <p id="MURMSPE0115">Verum semitonium in rerum natura non existere.</p>
+      <p id="MURMSPE0116">Comma in numero proportione non esse, sed maius 75 minus 74. Hoc potest inveniri per dicta immediata et 13.</p>
+      <p id="MURMSPE0117">Semitonium minus maius quam 20 ad 19 minus quam 19 1/2 ad 18 1/2.</p>
+      <p id="MURMSPE0118">
+      <pb n="[205]" />Semitonium minus maius 3 commatibus, minus vero 4.</p>
+      <p id="MURMSPE0119">Semitonium maius maius 4 commatibus, minus vero quinque.</p>
+      <p id="MURMSPE0120">Tonum maiorem esse 8 commatibus, minorem vero novem.</p>
+      <p id="MURMSPE0121">
+      <pb n="[207]" />Decimasexta conclusio</p>
+      <p id="MURMSPE0122">Componit quadrupla proportio bis diapason.</p>
+      <p id="MURMSPE0123">Consonantia diapason fit ex proportione dupla per figuram circulorum, ergo bis diapason in bis dupla proportione fiet; sed bis dupla est quadrupla, quare propositum. Etiam patet in numeris: unum et duo causant diapason, duplentur 2 venient 4 facientes diapason ad 2. Sed 4 sunt quadruplum unius, quare bis diapason in quadrupla fit proportione. 
+      <pb n="[209]" />Quis enim dubitat, si b. sit duplum ad a. et c. duplum ad b., quin c. sit quadruplum ad a.? Et sicut formatur bis diapason, ita ter diapason et quater, quantum ex natura proportionum, quae sibi terminum nullum ponunt.</p>
+      <p id="MURMSPE0124">Sed auditus ad iudicandum de sonis intensis et remissis terminos sibi constituit, extra quos terminos nihil audiret, sicut et in aliis sensibus contingit suo modo.</p>
+      <p id="MURMSPE0125">Decimaseptima conclusio</p>
+      <p id="MURMSPE0126">Sed manet in tripla diapason cum diapente.</p>
+      <p id="MURMSPE0127">In quibus proportionibus simplices consonantiae ponantur, iam multoties est ostensum. 
+      <pb n="[211]" />Nam diapason in dupla, diapente in sesquialtera conformatur, sicut proportio dupla et sesquialtera pariter iungantur creabitur proportio tripla per figuram 5, et patet in numeris: unum et duo duplam reddunt proportionem, scilicet diapason, 2 et 3 sesquialteram et diapente, sed 3 ad 1 triplam, quare diapason cum diapente iuncta triplam facit proportionem.</p>
+      <p id="MURMSPE0128">Ex hoc potest leviter inveniri bis diapason cum diapente. Nam breviter omnis consonantia supra diapason non est, nisi receptio eorum, quae infra diapason contenta sunt, et 
+      <pb n="[213]" />formantur ibi toni et semitonia similiter, sicut prius, sicut videbitur, cum omnes consonantias tam simplices quam compositas ac partes earum et partium partes in monochordo posterius ordinabo.</p>
+      <p id="MURMSPE0129">Decimaoctava conclusio</p>
+      <p id="MURMSPE0130">Nulla fit harmonia diatesseron et diapason.</p>
+      <p id="MURMSPE0131">Pictagorici noluerunt diapason cum diatesseron sonare bonam harmoniam eo, quod non dulciter venit nec suaviter ad auditum, causam inquirentes invenerunt ipsam esse extra genus multiplicis et superparticularis, cum tamen omnis perfecta consonantia 
+      <pb n="[215]" />in his generibus inventa sit, patuit per figuram circulorum. Quod autem ipsa sit extra genus multiplicis et superparticularis, patet ex aliis. Nam proportione dupla, in qua diapason quiescit, iuncta cum proportione sesquitertia, quae diatesseron format, producitur proportio superpartiens, scilicet dupla superbipartiens, ut patet in figura numerorum 5, verbi gratia: 3 et 6 reddunt diapason, 6 et 8 diatesseron. Iungantur extrema 3 et 8, in qua est diapason cum diatesseron, exit proportio dupla superbipartiens uno solum tono distans a consonantia perfecta, scilicet a diapason cum diapente.</p>
+      <p id="MURMSPE0132">
+      <pb n="[217]" />In hoc autem tamquam inconvenienti Pictagorici quieverunt. Ex quo videtur fuisse intentio eorum, quod diatesseron intensa, super quam intendatur diapente, non sit consonantia, sicut, cum diapente est intensa, similiter diatesseron intendatur, licet utrobique sit diapason in extremis.</p>
+      <p id="MURMSPE0133">Ptolemaeus autem non assentit, sed eos reprehendit affirmans diapason cum diatesseron consonantiam esse bonam dicens, quod secundum eos et secundum veritatem, omnis perfecta consonantia simplex infra diapason includitur, sicque quidquid est supra diapason, est reiteratio repetitioque eorum, quae in diapason continentur, imo quasi unus nervus sonus videtur diapason, licet sit in duobus. Ergo cum diatesseron possit 
+      <pb n="[219]" />intendi infra diapason, igitur et supra; nec est inconveniens, quod fiat genere superparticulari secundum ptolemaeum in prima eius specie, scilicet dupla superpartienti, ut in numeris prius dictis. Nec Boethius autem in sua musica nec alii musici, quos viderim, hanc quaestionem determinant. Scio tamen, quod est similis illi quaestioni, utrum diatesseron sub diapente, id est ante diapente, sit consonantia, quia non est dubium, quin supra diapente optima sit et dulcis.</p>
+      <p id="MURMSPE0134">Ego autem dico, si conceditur diapente priorem esse diatesseron, sicut proportio sesquialtera ante sesquitertiam, concessum erit diatesseron sub diapente, id est ante 
+      <pb n="[221]" />diapente, non consonare, quare neque diatesseron supra diapason, cum ibi similiter diatesseron sub diapente poneretur. Item de natura consonantiarum, ex quo fiunt ad modum numerorum et proportionum, est magis fieri per intentionem quam per remissionem, quare magis consonat diatesseron post diapente quam ante. Item prior est comparatio diapason ad diapente quam ad diatesseron, sicut prius comparatur 12 ad 8 quam ad 9, quoniam 8 est ante 9. Quare diatesseron post diapente venit, unde, si non esset diapente, non esset diatesseron. Et si obiiciatur, quod dictum est in 5, diapente sequi diatesseron uno tono, verum est, in quantum est diatesseron sonantia, non in quantum consonantia. Item tonus praecedit et tamen 
+      <pb n="[223]" />non est consonantia, sed pars eius, sic dico diatesseron ante diapente non esse consonantiam, ut Pictagorici voluerunt, sed partem eius. Post autem diapente consonantia debet dici et sic diapason non est ex se, sed ex duobus consonantiis acta, diatesseron scilicet et diapente, quibus duobus positis impossibile est illam non poni, imo forte non nisi secundum quid differt ab ambabus propter praedicta. Vide figuram sequentem.</p>
+      <p id="MURMSPE0135">
+      <pb n="[225]" />[Musica speculativa B, 225; text: Bis Diapason, Diapason toni, Diapason cum Diatesseron, Diapente, Diatesseron, Tonus]</p>
+      <p id="MURMSPE0136">In hac figura sunt consonantiae simplices et compositae appositis apponendis, dum oportet, et subtractis subtrahendis, quod patet titulos intuenti.</p>
+      <p id="MURMSPE0137">In hoc autem finita sit prima pars huius operis, quae de consonantiarum speculatione animam considerantis informat et disponit faciliter ad maiora, secundum quod ego ex sollemnis doctoris Boethii doctrina potui congregare.</p>
+      <p id="MURMSPE0138">
+      <pb n="[227]" />Ad secundam vero partem, quae de divisione monochordi, in quo omnes consonantiae et earum partes et partes partium connotantur, ac inde per consequens de compositione variorum instrumentorum ac eorum cognitione ignotorum inventioneque novorum maximam praestat fidem.</p>
+      <p id="MURMSPE0139">Explicit primus liber musicae. Incipit secundus.</p>
+      <p id="MURMSPE0140">Quod prius est scriptum, distinctio prima vocetur, circa symphonias postquam secunda sequetur.</p>
+      <p id="MURMSPE0141">
+      <pb n="[229]" />Prima conclusio</p>
+      <p id="MURMSPE0142">Primas harmonias in plano scribere vere.</p>
+      <p id="MURMSPE0143">Harmoniae primae perfectae atque simplices dicuntur: diapason, diapente, diatesseron. Modo restat eas super datam lineam et super datum spatium figurare.</p>
+      <p id="MURMSPE0144">Sit a.b. data linea tamquam proportionis fundamentum, ea secta per medium in puncto c., diapason dulcissime resonabit; nam a.b. dupla est ad a.c.. Scindatur iterum a.b. in partes tres, quae sint a.d., d.e., e.b. 
+      <pb n="[231]" />sesquialteram faciet proportionem. Sique a.b. in partes quatuor dividatur in punctis a.f., f.c., c.g., g.b., a.g., a.g. comparatum ad a.b. diatesseron adimplebit idemque faciet b.f. ad b.a. sive e.g. ad a.c. eritque inventus e.g. tonus. Sed quoniam eadem chorda nunc ad sui partes relata est, fiant plures secundum divisionem dictam et erunt quatuor chordae sic dispositae, sicut sunt hic:</p>
+      <p id="MURMSPE0145">
+      <pb n="[233]" />Et debent percuti, ut sonent nunc duae, nunc tres, nunc quatuor, si tu velis, ut aures habeant consonantiam iudicare, quam prius ignorabas, et informatione intellectus et sensus miraberis tunc sonorum consonantias apparentes.</p>
+      <p id="MURMSPE0146">
+      <pb n="[235]" />Hoc quidem est primum instrumentum, quod hominibus antiquitus fuit notum, et fuit instrumentum Mercurii et duravit usque tempus Orphei, tetrachordum nominatum. De situatione chordarum secundum prius et posterius non est ad praesens, nam prius et posterius non sunt differentiae consonantiarum. Debitus situs nervorum videbitur in monochordo et chordarum pluralitas, quae modo est.</p>
+      <p id="MURMSPE0147">Secunda conclusio</p>
+      <p id="MURMSPE0148">In gravitate tonum vel acuta parte docere.</p>
+      <p id="MURMSPE0149">Primo volo tonum formare in parte acuta: Sit sonus b. Ab hoc intendo alium sonum, 
+      <pb n="[237]" />qui sit diapente in c., a quo remoto diatesseron in d. Cum igitur inter diapente et diatesseron sit differentia sonus, repertus est d.b. in acuta parte tonus; ac in parte gravi sic: super b. diatesseron intendo ad f., a quo diapente remitto ad e., erit igitur e.b. tonus, verbi gratia in figura.</p>
+      <p id="MURMSPE0150">Consonantiam intendere est de sono gravi acutiorem facere et remittere est de acuto facere graviorem, modo utrobique potest inveniri tonus, ut dictum est. Breviter, 
+      <pb n="[239]" />si diatesseron et diapente seorsum intendantur, ut 68, 69, inventus est tonus in acuta parte. Sique ambo ab eodem termino remittantur, inventus est in gravi, ut 12 8, 12 9. Et hoc est intelligendum quantum ad quantitatem discretam, non autem continuam. Et iste modus contrarius est praecedenti, sed in idem rediit; nam cum chorda plus habet de quantitate continua, gravior est, cum vero minus, acutior, ita et cum plus habet de quantitate discreta, id est plures motus, acutior est, cum pauciores, gravior, et sic eadem manet proportio, quocumque modo dicatur.</p>
+      <p id="MURMSPE0151">
+      <pb n="[241]" />[Musica speculativa B, 241; text: Diapente intensa, Diapente remissa, Diatesseron remissa, Diatesseron intensa, tonus, c, d, b, e, f, 288, 216, 192, 96, 128]</p>
+      <p id="MURMSPE0152">Tertia conclusio</p>
+      <p id="MURMSPE0153">Atque semitonium parvum sive maius habere.</p>
+      <p id="MURMSPE0154">Primo ad acutam partem sic potest minus semitonium inveniri: Sit a. sonus, a quo ad b. diatesseron intendatur. A b. rursus ad c. diatesseron sit intensa, et a c. usque ad d. 
+      <pb n="[243]" />remittatur diapente, est ergo tonus b.d. Item a d. intendatur diatesseron usque ad e., a quo ad f. diapente remissa sit, tonus ergo erit d.f. Cum igitur a.b. sit integra diatesseron et b.d. et d.f. sunt duo toni, sequitur, quod f.a. sit residuum, et illud minus semitonium nuncupatur. Ad partem vero gravem sic fiat: Sit sonus datus a., a quo intendantur duo toni continui ad g., et a g. diatesseron remittatur ad k., erit k.a. minus semitonium, quod volebas. Haec duo in eadem figura notantur.</p>
+      <p id="MURMSPE0155">
+      <pb n="[245]" />[Musica speculativa B, 245; text: Diapente remissa, Diatesseron intensa, Tonus acutus, Semitonium minus, Tonus intensus, c, e, b, d, f, a, k, g, Diatesseron remissa] 
+      <figure>
+        <graphic url="/images/MURMSPE_06GF.gif" />
+      </figure></p>
+      <p id="MURMSPE0156">Invento minori semitonio in parte gravi et acuta, restat utrobique maius semitonium invenire. Ad partem acutam sic: Tres tonos continuos acutos intendo, qui sint a.b., b.c., c.d., deinde super a acutam formo diatesseron et sit a.f., sequitur per ea, quae prius in prima parte dicta sunt, quod c.f. est minus semitonium, 
+      <pb n="[247]" />quod est propositum.</p>
+      <p id="MURMSPE0157">Ad gravem partem sic: Sit semitonium intensum minus a.d. et a d. remittatur tonus ad e., erit a.e. maius semitonium inventum in gravi parte, cuius utriusque modi sunt istae figurae:</p>
+      <p id="MURMSPE0158">[Musica speculativa B, 247; text: Diatesseron intensa, Tonus acutus, Semitonium minus, Semitonium maius in acuta parte, a, b, c, f, d, Tonus remissus, Maius semitonium in gravi parte, Minus semitonium, e]</p>
+      <p id="MURMSPE0159">
+      <pb n="[249]" />Quarta conclusio</p>
+      <p id="MURMSPE0160">Hic propono grave vel acutum comma tenere.</p>
+      <p id="MURMSPE0161">In acuta parte comma sic habetur: Ab a. sono maius semitonium intendatur per praecedentem ad b., a quo minus semitonium remittatur in c., erit tunc c.a. comma per 15.</p>
+      <p id="MURMSPE0162">Sed ad gravem sic: Ab a. sono minus semitonium sit intensum, quod sit a.d., a quo maius semitonium remissum sit in e., erit a.e. comma in gravi parte repertum, ut patet hic.</p>
+      <p id="MURMSPE0163">
+      <pb n="[251]" />[Musica speculativa B, 251; text: Maius semitonium intensum, Minus semitonium intensum, Minus semitonium remissum, Acutum comma, Comma in parte gravi, Maius semitonium intensum, b, c, a, e, d] 
+      <figure>
+        <graphic url="/images/MURMSPE_07GF.gif" />
+      </figure></p>
+      <p id="MURMSPE0164">Quinta conclusio</p>
+      <p id="MURMSPE0165">His expeditis monochordum scire velitis.</p>
+      <p id="MURMSPE0166">Quoniam in praecedentibus expeditum est de speculatione consonantiarum et de his, quae accidunt circa eas, cumque omnis 
+      <pb n="[253]" />consonantia composita sit ex tonis vel semitoniis maioribus vel minoribus aut eorum partibus, ut visum est, iam conveniens est, ad monochordi divisionem accedere, in quo sunt omnes consonantiae perfectae simplices, compositae, toni, semitonia et reliqua. Ante cuius divisionem aliqua praeambula praeferuntur.</p>
+      <p id="MURMSPE0167">Primum est: Omnis divisio monochordi, quod in se continet implicite et virtute omnia genera instrumentorum, vadit per tetrachorda. Omne autem tetrachordum vocant musici spatium duorum tonorum cum minori semitonio et hoc est diatesseron et rationabiliter moventur. Nam, ut in praecedentibus est ostensum, bis diapason ad semel diapason reducitur, diapason autem ad diapente cum diatesseron, diapente autem diatesseron praesupponit et haec omnia sunt prius manifesta. Diatesseron autem nullam aliam consonantiam praesupponit, sed tonum et semitonium. Hinc est, quod unanimiter omnes 
+      <pb n="[255]" />musici tam antiqui quam novi primum tetrachordum esse diatesseron concesserunt, quoniam quilibet tonus duas chordas requirit et semitonium similiter duas; modo cum in diatesseron sint duo toni cum semitonio, manifestum est 4 chordas diatesseron continere. Quaelibet enim chorda servit pro fine unius toni et initio alterius praeter primam et ultimam.</p>
+      <p id="MURMSPE0168">Secundum praeambulum est, quod, cum istud tetrachordum possit iterari, ut altius ascendat per diapente ad diapason, sicut reiteratur diatesseron. Hoc potest contingere per tetrachordum coniunctum vel disiunctum. Coniunctum est, quando ultima primi tetrachordi est initium secundi. Et sic in his duobus tetrachordis erunt in primo duo toni scilicet cum semitonio et in secundo totidem, in summa ergo 4 toni cum 
+      <pb n="[257]" />duobus semitoniis et sunt minora, ut visum est prius. Et iterum supra finem secundi tetrachordi possit iterari tertium et sic semper.</p>
+      <p id="MURMSPE0169">Disiunctum tetrachordum est, cum post ultimam chordam primi tetrachordi additur chorda distans ab ea per spatium toni et super eam invenitur iterum tetrachordum et sic ut prius; et notandum, quod in duobus tetrachordis coniunctis sunt 7 chordae, sed in disiunctis 8. Item notandum, quod in diapason sunt duo tetrachordi coniuncti cum uno tono, sed duo tantum disiuncta. Ista possunt augmentari duplicando, triplicando, quotiens placuerit augmentari.</p>
+      <p id="MURMSPE0170">[Musica speculativa B, 257; text: Tetrachordum coniunctum, Tetrachordum disiunctum, Tonus, Semitonium]</p>
+      <p id="MURMSPE0171">
+      <pb n="[259]" />Tertium praeambulum est, quod de divisione tetrachordi, quod est diatesseron. Antiqui tripliciter locuti diviserunt enim quidam per tonum et tonum cum semitonio, ut dictum est, nunc quatuor chordas apponentes, quarum ultima ad primam diatesseron sonabat, et appellaverunt hoc genus canendi igitur 'diatonicus'. Alii diviserunt ipsam diatesseron et suum tetrachordum in semitonio minori primo et semitonio minori secundo et tribus semitoniis, 4 chordas similiter apponentes, quarum prima ad ultimam diatesseron resonabat, et hunc modum dixerunt 'genus chromaticum'.</p>
+      <p id="MURMSPE0172">Alii diatesseron diviserunt in medietatem unius semitonii et aliam in duos tonos, ut prius cum 4 chordis, et hoc vocaverunt 
+      <pb n="[261]" />'genus enarmonicus' et medietatem semitonii appellaverunt 'diesim', et sic illud genus erat ex 'diesi' et 'diesi' et duobus tonis. Et exempla huius triplicis generis melodiarum triplici figura signabo.</p>
+      <p id="MURMSPE0173">[Musica speculativa B, 261; text: Tetrachordum diatonicum, Tetrachordum chromaticum, Tetrachordum enarmonicum, Tonus, Semitonium, tria Semitonia, Diesis, Ditonus, 3072, 2916, 2592, 2304, 2736, 2994] 
+      <figure>
+        <graphic url="/images/MURMSPE_08GF.gif" />
+      </figure></p>
+      <p id="MURMSPE0174">
+      <pb n="[263]" />Sed miror non parum super hoc, quod apud nos christianos nusquam in usu venerunt illa duo genera melodiarum 'chromaticus' et 'enarmonicus', sed in genere diatonico omnis cantus ecclesiasticus omnisque cantus per certa tempora mensuratus, ut in conductis, motulis, organis, cantilenis ceterisque modis necnon et omnis sonus cunctorum nostrorum instrumentorum et laicorum virorum et mulierum 
+      <pb n="[265]" />incidere conspiciuntur. Ubi ergo in mundo latent duo praedicta genera nihil plus opinor, nisi quod quasi contra naturalem inclinationem vocum humanarum ad cantus divisa fuerunt. Scio enim, quod numquam aut vix vox humaria in his duobus generibus concordaret nec umquam de seipsa certa esset, sed in instrumento possibile est multum. Tamen non dubito, quin dura, aspera iniocundaque esset illa musica illorum duorum modorum omnibus imbutis in 
+      <pb n="[267]" />tertio genere, scilicet diatonico, ut nos sumus; hoc insuper non ignoro, quin possit etiam diatesseron dividi in 5 semitonia per maiora, per minora, per commata. Sed hoc esset excedere tetrachordum in figuris, verbi gratia de praedictis.</p>
+      <p id="MURMSPE0175">Sexta conclusio</p>
+      <p id="MURMSPE0176">Sic ego concordo cum Boethii monochordo.</p>
+      <p id="MURMSPE0177">Cum haec genera in diatesseron semper concurrunt, sed in modis variantur, nulli debet esse dubium, quin diviso monochordo secundum diatonicum genus 
+      <pb n="[269]" />secundum etiam alia genera divisum sit. Quare de divisione monochordi in diatonico genere agendum est. In eius autem tota divisione non ponitur, nisi aut tonus aut semitonium minus. Divisiones autem lineae monochordi per litteras signabo et in eius descriptione in plano nomina chordarum, quae priores imposuerunt, et numeros, ad quos proportio consonantiarum refertur. Et quoniam vult Boethius, quod longior chorda plures partes et maius spatium obtinet breviore, ergo sibi maiorem attribuit et sonum gravem, breviori chordae minorem numerum et acutum. Licet fieri posset aeque bene 
+      <pb n="[271]" />e contra longiori eo, quod pauciores motus continet breviore, sibi minorem numerum dare, breviori vero plures numeros eo, quod plures motus habet, ut ipse innuit, quocumque modo fiat, numquam proportio variatur.</p>
+      <p id="MURMSPE0178">Sed primo ponam divisionem monochordi diatonici secundum Boethium, in quo non est nisi bis diapason. Quantum ad proportionem numerorum licet non repugnet ei ter vel quater diapason. Et quoniam ex praemissis habetur, quomodo bis diapason et semel et ceterae consonantiae sunt inventae, igitur non restat, nisi figuram describere supra planum, et statim in ea videbitur clarissime monochordum in diatonico genere, ut hic patet:</p>
+      <p id="MURMSPE0179">
+      <pb n="[273]" />Septima conclusio</p>
+      <p id="MURMSPE0180">Sed monochordalem plane volo scribere talem.</p>
+      <p id="MURMSPE0181">Iuxta illam divisionem, quam dat Boethius de monochordi sui divisione, volo similiter meum dividere monochordum, mutando solum situm chordarum et numerum earundem, quoniam illa maneries concinendi, quae suo tempore viguit super numeros, tempore nostro 
+      <pb n="[275]" />sic est solum accidentaliter variata, qua nostra placentior est auditui quam antiqua. Subtiliataque multum est musica per exercitium modernorum non solum litteratorum hominum in hac arte studentium auxilio aut inventione. Sed et vulgus omnis et specialiter iuvenes ac etiam mulieres ad hoc moventur. Nescio qua sorte, nisi industria naturali, nunc a superiori circulo regulata mutantur enim continue haec et illa sorte circulo aliquo redibunt et caetera, sicut prius.</p>
+      <p id="MURMSPE0182">Hoc meum monochordum divido tali modo: Sit a.b. chorda posita supra planum, secta 
+      <pb n="[277]" />per medium in puncto i., igitur a b.i. ad b.a. diapason consonantiarum melior inventa est. Item a.i. per aequalia divisa in q., a q. ad b.a. bis diapason de genere meliorum sonabit. Sique rursus a.q. per media aequalia partiretur, surgeret tunc diapason de eodem genere multiplici, et sic ultra quamdiu libuerit dividenti, et auris consonantiam poterit iudicare. In hoc virtus intellectiva superat sensitivam. Sic ergo meliores consonantiae notae fuerunt et sint in alio gradu certitudinis.</p>
+      <p id="MURMSPE0183">
+      <pb n="[279]" />Aliae autem assequuntur eas sic: Dividatur a.b. chorda iterum in tres partes, quarum una tertiarum sit b.f., f.a. vero duas alias continebit. Igitur a.f. ad a.b. extra genus multiplicis resonat diapente, ergo iam necessario diatesseron inventa est, cum diapason a diapente non differt nisi per mediam diatesseron per 4 primae et est in chordis a.i. a.f.. Sed sic invenies hanc in a.b.: Abscissa sit iterato ab per 4 aequalia, quarum una quartarum sit b.e., alias tres contineat in se a.e. Nam a.e. ad a.b. diatesseron sonum facit. 
+      <pb n="[281]" />Consonantiis igitur figuratis restat tonos et semitonia reperire, per quae fit ascensus et descensus ad consonantias supradictas: A.b. chorda sit octava pars b.c., tunc a.c. ad a.b. per tonum unicum elevatur. A.c., quae chordae sit, adhuc pars nona c.d. erit a.d. ad a.b. ditonus manifestus. Iamque d.e. minus semitonium notum venit in chordis a.d. a.e. et per consequens a.e. ad a.b. ditonus cum semitonio minori, quod unico nomine diatesseron appellatur. Consequentius iam habes tritonum cum semitonio in a.f. a.b., videlicet diapente. Praeterea a.f. partis chordae a.b.: sit nona pars f.g., erit a.g. ad a.b. tonus cum diapente aut ditonus cum diatesseron. Rursus chordae a.e.: sit quarta pars e.h., 
+      <pb n="[283]" />erit a.h. ad a.e. diatesseron et per consequens a.h. ad a.b. bis diatesseron manifesta, igitur et a.h. ad a.g. minus semitonium inventum est. Itemque a.h.: h.i. sit nona pars, reddit a.i. ad a.b. diapason nota prius, in omni divisione sunt 5 toni cum duobus semitoniis minoribus, ut visum est. Cum ergo semitonium diapason, quantum ad sui intrinseca divisa sit, eodem modo per reiterationem bis diapason dividere necesse est. Continet autem hoc instrumentum 19 chordas, scilicet bis diapason cum diapente. Licet sit possibile ulterius augmentare et est in figura trianguli orthogoni quantum ad duo sui latera. Sed tertium non sub una linea cadere potest, sed maxime accedit ad circumferentiam super tria puncta descripta. Potest tamen in aliis figuris describi tam quadratis equilateris vel oblongis circularibus concavis sive planis.</p>
+      <p id="MURMSPE0184">
+      <pb n="[285]" />Et sic in virtute hoc monochordum omnia in se continet instrumenta. Diversas tamen figuras, ad quas potest hoc monochordum transferri, exempli causa describere tibi volo. Quorum figurae sunt in hoc ordine consequentes. Explicit secundus liber musicae.</p>
+      <p id="MURMSPE0185">Hic liber expletur, sic quid nimis est, resecetur,</p>
+      <p id="MURMSPE0186">si minus addatur, et sic ars vera paratur.</p>
+      <p id="MURMSPE0187">Sume decem cubice, duplate terque quadrate</p>
+      <p id="MURMSPE0188">et semis; harmoniae sunt haec sic abbreviate.</p>
+      <p id="MURMSPE0189">
+      <pb n="[287]" />[Musica speculativa B, 287; text: Bis Diapason, Monochordum Boethii, Diapason, Diapente, Diatesseron, Netehyperboleon, 2304, Paranetehyperboleon, 2592, Tritehyperboleon, 2916, Netediezeugmenon, 3072, Paranetediezeugmenon, 3456, Tritediezeugmenon, 3888, Paramese, 4096, Mese, 4608, Lychanosmeson, 5184, Parhypatemeson, 5832, Hypatemeson, 6144, Lychanoshypaton, 6912, Parhypatehypaton, 7776, Hypatehypaton, 8192, Proslambanomenos, 9216, Tonus, Semitonium] 
+      <figure>
+        <graphic url="/images/MURMSPE_09GF.gif" />
+      </figure></p>
+      <p id="MURMSPE0190">
+      <pb n="[289]" />[Musica speculativa B, 289; text: diapente superat bis diapason, diapason cum diapente, diatesseron cum diapente, tetrachordum disiunctum, tetrachordum coniunctum, tonus, semitonium, b, c, d, e, f, g, h, i, k, l, m, n, o, p, q, r, s, t, u] 
+      <figure>
+        <graphic url="/images/MURMSPE_10GF.gif" />
+      </figure></p>
+    </body>
+  </text>
+</TEI>

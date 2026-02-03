@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Lucidarium, tractatus tercius</title>
+        <title type="abbrev">MARLUC3</title>
+        <author>Marchetus de Padua</author>
+        <date notBefore="1300" notAfter="1399">14th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Stephen E. Hayes</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Peter M. Lefferts</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1990</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>The Lucidarium of Marchetto of Padua: A Critical Edition, Translation, and Commentary</emph>, ed. and trans. by Jan W. Herlinger (Chicago and London: The University of Chicago Press, 1985), 168–80. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Marchettus de Padua: Lucidarium in arte musicae planae</title>
+          
+<idno type="LML">MARCH. luc.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">A-SP Cod. 135/6 (29.4.4), 21v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Br II 785, 15-38v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Br II 4144, 1-41</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">CH-E 689, 1-44</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">E-Sc 5-2-25, 5-20v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">E-Sc 5-2-25, 76v-77v, 124-128 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-SDI 42, 1-33v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ob Canon. Misc. 42, 184-185 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-BREs D 21, 185v-186v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-CATc D 39, 157-189</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fl Conv. Soppr. 388, 34v-52v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fr 734, 74-101</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Ma D. 5 inf., 52-77v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Ma I. 20 inf., 36v-39 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-PEc 1013, 5-45v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-PIu 606 (IV.9), I/1-50</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat lat. 5322, 1-48</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat Reg. lat. 1146, 7-8 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Sc L.V.30, 91v-119</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-TRE without shelfmark, 15-32v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Vnm Lat. Cl. VIII.85 (3579), 1-10 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">US-Cn Case Ms. 54.1, 10v-33</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">US-Wc ML 171 J 6 Case, hv-47</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="MARLUC30001">
+      <pb n="[168]" />1. INCIPIT TRACTATUS TERCIUS</p>
+      <p id="MARLUC30002">CAPITULUM PRIMUM</p>
+      <p id="MARLUC30003">DE NUMERIS MUSICALIBUS ET DE CONSONANTIIS IN SPECIALI</p>
+      <p id="MARLUC30004">2. Ad videndum autem de numeris musicalibus prout scilicet in consonantiis reperiuntur, seu ex quibus consonantie sunt formate, presciri oportet quod species consonantiarum sunt sex, scilicet dyatessaron, dyapente, dyapason, dyapason dyatessaron, dyapason dyapente, et bisdyapason,</p>
+      <p id="MARLUC30005">3. de quarum unaquaque tractabitur inferius suo loco.</p>
+      <p id="MARLUC30006">4. Sed quedam de eis presciri oportet si scire volumus earum numeros musicales,</p>
+      <p id="MARLUC30007">5. unde sciendum est quod dyatessaron est illa que componitur ex duobus tonis et uno semitonio scilicet minore, ut Boetius refert.</p>
+      <p id="MARLUC30008">6. Et dicitur dyatessaron a dya, quod est de, et tessaron, quatuor, eo quod quatuor 
+      <pb n="[170]" />sonis vel distantia quatuor sonorum fit.</p>
+      <p id="MARLUC30009">7. Hec enim consonantia in numeris epitrita nuncupatur, eo quod sit in epitrito numero constituta,</p>
+      <p id="MARLUC30010">8. nam epitritus numerus est quaternarius ternario comparatus et hiis similes.</p>
+      <p id="MARLUC30011">9. Diciturque epitritus ab epi, quod est supra, et tres, eo quod quaternarius numerus est supra ternarium, continens ipsum totum et eius terciam partem.</p>
+      <p id="MARLUC30012">10. Hii et hiis similes sunt numeri dyatessaron.</p>
+      <p id="MARLUC30013">1. CAPITULUM SECUNDUM</p>
+      <p id="MARLUC30014">DE DYAPENTE CONSONANTIA</p>
+      <p id="MARLUC30015">2. Dyapente consonantia est que componitur ex tribus tonis et uno semitonio, scilicet minore, teste Boetio.</p>
+      <p id="MARLUC30016">3. Et dicitur dyapente a dya, quod est de, et pentha, quinque, eo quod componitur 
+      <pb n="[172]" />de quinque sonis vel de distantia quinque sonorum.</p>
+      <p id="MARLUC30017">4. Hec igitur consonantia in numeris emiolia vocatur, eo quod sit in emiolio numero constituta.</p>
+      <p id="MARLUC30018">5. Estque emiolius numerus ternarius binario comparatus et hiis similes.</p>
+      <p id="MARLUC30019">6. Dicitur enim emiolius ab emi, quod est dimidium, et olon, quod est totum, eo quod ternarius numerus continet totum binarium et eius medietatem.</p>
+      <p id="MARLUC30020">7. In hiis numeris et similibus ponitur dyapente.</p>
+      <p id="MARLUC30021">1. CAPITULUM TERCIUM</p>
+      <p id="MARLUC30022">DE DYAPASON CONSONANTIA</p>
+      <p id="MARLUC30023">2. Dyapason consonantia est que componitur ex quinque tonis et duobus semitoniis minoribus, ut dicit Boetius.</p>
+      <p id="MARLUC30024">
+      <pb n="[174]" />3. Et dicitur dyapason a dya, quod est de, et pason, quod est totum vel omne, eo quod de omnibus simphoniis domina sit, et eas omnes includat.</p>
+      <p id="MARLUC30025">4. Hec autem consonantia in numeris dupla dicitur, eo quod sit in duplo numero constituta.</p>
+      <p id="MARLUC30026">5. Est enim duplex numerus cum maior numerus comprehendit totum minorem bis, ut duo comparati ad unum.</p>
+      <p id="MARLUC30027">6. In hiis quidem numeris et similibus ponitur dyapason.</p>
+      <p id="MARLUC30028">1. CAPITULUM QUARTUM</p>
+      <p id="MARLUC30029">DE DYAPASON DYATESSARON CONSONANTIA</p>
+      <p id="MARLUC30030">2. Dyapason dyatessaron consonantia est que componitur ex septem tonis et tribus semitoniis minoribus, teste Boetio.</p>
+      <p id="MARLUC30031">
+      <pb n="[176]" />3. Hec consonantia in numeris dupla superbipartiens nuncupatur, eo quod sit in duplo superbipartienti numero constituta.</p>
+      <p id="MARLUC30032">4. Est enim duplex superbipartiens numerus quando maior numerus continet totum minorem in se dupliciter et insuper eius duas partes, ut octo comparati ad tres.</p>
+      <p id="MARLUC30033">5. In hiis numeris et similibus ponitur hec consonantia dyapason dyatessaron.</p>
+      <p id="MARLUC30034">1. CAPITULUM QUINTUM</p>
+      <p id="MARLUC30035">DE DYAPASON DYAPENTE CONSONANTIA</p>
+      <p id="MARLUC30036">2. Dyapason dyapente consonantia est que componitur ex octo tonis et tribus semitoniis minoribus, ut Boetius refert.</p>
+      <p id="MARLUC30037">3. Hec autem consonantia in numeris tripla dicitur, eo quod sit in triplo numero constituta.</p>
+      <p id="MARLUC30038">
+      <pb n="[178]" />4. Est namque triplex numerus cum maior numerus continet totum minorem in se tripliciter, ut tres ad unum comparati.</p>
+      <p id="MARLUC30039">5. In hiis quidem numeris et similibus ponitur consonantia dyapason dyapente.</p>
+      <p id="MARLUC30040">1. CAPITULUM SEXTUM</p>
+      <p id="MARLUC30041">DE BISDYAPASON CONSONANTIA</p>
+      <p id="MARLUC30042">2. Bisdyapason consonantia est que componitur ex decem tonis et quatuor semitoniis minoribus, teste Boetio.</p>
+      <p id="MARLUC30043">3. Hec consonantia in numeris quadrupla dicitur, eo quod est in quadruplo numero constituta.</p>
+      <p id="MARLUC30044">4. Est namque quadruplex numerus quando maior numerus continet totum minorem in se quadrupliciter, ut quatuor ad unum comparati.</p>
+      <p id="MARLUC30045">5. In hiis igitur numeris et similibus ponitur hec consonantia bisdyapason.</p>
+      <p id="MARLUC30046">
+      <pb n="[180]" />6. Est namque et alius numerus, qui sesquioctavus dicitur, in quo ponitur tonus, ut superius dictum est.</p>
+      <p id="MARLUC30047">7. Numerus autem sesquioctavus est quando maior numerus continet totum minorem in se et eius octavam partem, ut novem comparati ad octo.</p>
+      <p id="MARLUC30048">8. Habet namque novenarius numerus totum octonarium et eius octavam partem; et dicitur sesquioctavus a sesqui, quod est totum, et octava pars.</p>
+      <p id="MARLUC30049">9. In hiis numeris et similibus ponitur tonus.</p>
+      <p id="MARLUC30050">10. Et de numeris musicalibus dicta sufficiant.</p>
+      <p id="MARLUC30051">11. EXPLICIT TRACTATUS TERCIUS</p>
+    </body>
+  </text>
+</TEI>

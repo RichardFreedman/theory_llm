@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Compendium musicae mensurabilis artis antiquae</title>
+        <title type="abbrev">ANOCOM</title>
+        <author>Anonymous</author>
+        <date notBefore="1200" notAfter="1299">13th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Stephen E. Hayes</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Peter M. Lefferts</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Bradley Jon Tucker</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1992</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Petrus Picardus, 
+<emph>Ars motettorum compilata breviter</emph>, ed. F. Alberto Gallo; Anonymus, 
+<emph>Ars musicae mensurabilis secundum Franconem (Mss. Paris, Bibl. Nat., lat. 15129; Uppsala, Universiteitsbibl., C 55)</emph>, ed. Gilbert Reaney and André Gilles; Anonymus, 
+<emph>Compendium musicae mensurabilis artis antiquae (Ms. Faenza, Biblioteca Comunale 117)</emph>, ed. F. Alberto Gallo, Corpus scriptorum de musica, vol. 15 ([Rome]: American Institute of Musicology, 1971), 66–72. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: "Quandocumque punctus quadratus vel nota quadrata invenitur"</title>
+          
+<idno type="LML">TRAD. Franc. III</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">I-FZc 117, 23-24</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANOCOM0001">
+      <pb n="[66]" />Gaudent brevitate moderni</p>
+      <p id="ANOCOM0002">Quandocumque punctus quadratus vel nota quadrata invenitur habens tractum descendentem vel ascendentem ad partem dexteram, longus dicitur, ut hic: [L,L,L,Bcsdx,Bcsdx,Bcsdx,L,L].</p>
+      <p id="ANOCOM0003">Longarum autem quedam plicate sunt et quedam non, et quedam plice longe dicuntur et quedam breves. Longa plicata ascendendo et descendendo sic plicari debet, ut hic: [Bcdsnpddx,Bcssnpsdx,Bcdsnpddx,Bcssnpsdx,Bcdsnpddx].</p>
+      <p id="ANOCOM0004">Et debetis scire quod plica est representatio vocis in aliam sub eodem signo et in eadem specie.</p>
+      <p id="ANOCOM0005">Longarum autem quedam sunt perfecte et quedam imperfecte. Perfecta est que de recta mensura valet tria tempora. Imperfecta est illa que similiter de recta mensura duo tempora valet, sed oportet quod habeat solam brevem precedentem aut solam brevem sequentem que imperficiat eam, ut postea habebitis in exemplis. Et ideo longa trium temporum nominari debet longa perfecta et longa similiter duorum temporum nominari debet longa imperfecta. Ratio quia cantus mensurabilis semper procedit insimul per tria tempora. His omissis, videamus de aliis.</p>
+      <p id="ANOCOM0006">Quandocumque punctus quadratus sive nota quadrata invenitur carens omni tractu, brevis dicitur, ut hic: [B,B,B,B].</p>
+      <p id="ANOCOM0007">Brevis vero ascendendo et descendendo sic plicari debet, ut hic:</p>
+      <p id="ANOCOM0008">[Lpdsn,Lpdsn,Lpdsn,Bpssncsdx,Bpssncsdx,Lpdsn,Bpssncsdx]</p>
+      <p id="ANOCOM0009">Semibrevis vero dicitur que ad modum losenge formatur et plicari non potest, ut hic: [S,S,S].</p>
+      <p id="ANOCOM0010">Longa ante longam, ubicumque invenitur, tria tempora valet, ut hic: [L,L,L].</p>
+      <p id="ANOCOM0011">Duplex longa valet sex tempora, ut hic:</p>
+      <p id="ANOCOM0012">[MX,MX,MX]</p>
+      <p id="ANOCOM0013">
+      <pb n="[67]" />Sequitur de brevibus.</p>
+      <p id="ANOCOM0014">Sciendum est quod omnes breves sunt equales, nisi duobus modis. Quando due breves inveniuntur inter duas longas, ut hic:</p>
+      <p id="ANOCOM0015">[L,B,B,L,B,B,B,B,B,L],</p>
+      <p id="ANOCOM0016">tunc prima longa habebit tria tempora et brevis sequens unum solum tempus et secunda brevis habebit duo tempora et erit altera brevis. Sive due semibreves et brevis sive tres semibreves et brevis [inveniantur], ut hic: [L,B,B,L,S,S,B,B,L,S,S,S,B,L], semper illa penultima brevis habebit duo tempora et vocabitur altera brevis nec propter illas semibreves precedentes brevem predictam, brevis predicta vim suam amittere potest, ad hoc quod altera brevis duorum temporum semper non remaneat; nisi per divisionem modi aliter distinguatur, ut hic:</p>
+      <p id="ANOCOM0017">[L,B,pt,B,L; L,B,pt,B,L; L,B,pt,B,L; L,S,S,pt,B,L,L,Lig2cssnod,pt,B,L; L,S,S,S,pt,B,L]</p>
+      <p id="ANOCOM0018">tunc prima brevis imperficiet primam longam, secunda vero secundam; et sciendum quod ille predicte semibreves semper pro prima recta brevi computantur et alia brevis semper altera brevis dicitur, nisi per divisionem modi aliter distinguatur, sicut dictum est.</p>
+      <p id="ANOCOM0019">Postea sciendum est quod quandocumque sola brevis precedit solam [longam], imperficit eam, ut hic: [B,L,B,L,B,L].</p>
+      <p id="ANOCOM0020">Similiter quandocumque sola brevis sequitur [solam] longam, imperficit eam, ut hic: [L,B,L,B],</p>
+      <p id="ANOCOM0021">nisi per divisionem modi aliter distinguatur, ut hic:</p>
+      <p id="ANOCOM0022">[L,pt,B,L,L,pt,B,L,L,pt,B,L,L,pt,S,S,L],</p>
+      <p id="ANOCOM0023">tunc prima longa habet tria tempora et brevis sequens longam sequentem imperficiet. Et debetis scire quod imperficere est longam imperfectam duorum temporum facere.</p>
+      <p id="ANOCOM0024">Postea sciendum est quod ille parvulus punctus, qui divisio modi vocatur, semper ubicumque post longam invenitur, ipsa perfecta trium temporum debet esse. Item sciendum est quod quandocumque plures breves inter duas longas inveniuntur, semper debent accipi tres insimul pro perfectione, ut hic:</p>
+      <p id="ANOCOM0025">[L,B,B,B,pt,B,B,B,pt,B,B,B,L].</p>
+      <p id="ANOCOM0026">
+      <pb n="[68]" />Sed si due in fine remaneant, ultima habebit duo tempora et erit altera brevis, ut hic: [L,B,B,B,pt,B,B,L].</p>
+      <p id="ANOCOM0027">Similiter si plures breves insimul reperiuntur, ad hoc quod in fine ultima longa remaneat, semper tres insimul pro perfectione computentur, et si in fine due remaneant, secunda illarum duarum habebit duo tempora et erit altera brevis, ut hic:</p>
+      <p id="ANOCOM0028">[S,S,B,S,S,B,B,B,B,B,L].</p>
+      <p id="ANOCOM0029">Nota quod brevibus et semibrevibus idem est iudicium.</p>
+      <p id="ANOCOM0030">Sequitur de semibrevibus.</p>
+      <p id="ANOCOM0031">Semibrevium quedam sunt maiores, quedam minores. Maior semibrevis est illa que habet duas partes unius temporis brevis. Minor semibrevis est que habet tertiam partem unius temporis brevis.</p>
+      <p id="ANOCOM0032">Semibrevium quedam sunt equales, quedam inequales. Equales sunt quando tres inter duas longas vel breves inveniuntur, ut hic: [L,S,S,S,L,B,S,S,S,B; L,S,S,S,L].</p>
+      <p id="ANOCOM0033">Inequales sunt quando plures semibreves inter duas longas vel breves inveniuntur, ut hic: [L,S,S,S,S,S,S,S,S,L; B,S,S,S,S,S,S,B].</p>
+      <p id="ANOCOM0034">quia semper due et due pro recta brevi computantur; nisi per divisionem modi aliter distinguantur, ut hic: [L,S,S,pt,S,S,S,pt,S,S,S,S,S,S,pt,S,S,S]; tunc quandoque erunt equales et secundum quod divisio modi inter ipsas invenitur, secundum hoc debent fieri equales et inequales.</p>
+      <p id="ANOCOM0035">Et sciendum est quod quando plures semibreves insimul inveniuntur, si in numero pari inveniuntur, due et due pro recta brevi computentur et [si] in numero impari inveniuntur, tres ultime pro recta brevi computari debent; nisi per divisionem modi aliter distinguantur, tunc quandoque sunt due insimul pro recta brevi vel tres vel quatuor vel quinque vel sex vel septem et sic de aliis usque ad novem, quia in aliquibus triplis inveniuntur novem semibreves pro recta brevi, et secundum quod divisio modi invenitur inter ipsas secundum hoc debent accipi pro recta brevi, ut hic:</p>
+      <p id="ANOCOM0036">
+      <pb n="[69]" />[CSM15:69; text: Aucun ont troue chant etc.] 
+      <figure>
+        <graphic url="/images/ANOCOM_01GF.gif" />
+      </figure></p>
+      <p id="ANOCOM0037">De semibrevibus que equales et inequales, maiores et minores dicuntur, patent exempla in ipsis triplis: Aucun ont troue etc., tunc secundum magistrum Petrum de Cruce pro recta brevi non possunt de iure poni preter septem semibreves, quamvis aliter sit apud alios. Item quandocumque due semibreves pro recta brevi inveniuntur in unisono, id est in eadem linea vel in eodem spatio, ad voluntatem cantantis possunt fieri prima vel secunda maior; sed quando in diversis tonis inveniuntur, secundum maiorem concordantiam debet prima vel secunda semibrevis maior pronuntiari. Et hic de equalitate et inequalitate et valore semibrevium et brevium vobis sufficiat.</p>
+      <p id="ANOCOM0038">Sequitur de ligaturis ascendentibus et descendentibus.</p>
+      <p id="ANOCOM0039">Ligatura ascendens est quando secundus punctus est altior primo, ut hic: [Lig2a,Lig3cssnoaart,Lig2art,Lig2oa,Lig2cssna]</p>
+      <p id="ANOCOM0040">Ligatura descendens est quando primus punctus est altior secundo, ut hic: [Lig2cdsnd,Lig2d,Lig2od,Lig4cdsnddod].</p>
+      <p id="ANOCOM0041">In omni ligatura ascendente quando primus punctus caret omni tractu, brevis dicitur, ut hic: [Lig2art,Lig3aa,Lig2oa]</p>
+      <p id="ANOCOM0042">In omni ligatura descendente quando primus punctus tractum habet descendentem ad sinistram partem, brevis dicitur, ut hic: [Lig2cdsnd,Lig2cdsnod,Lig4cdsnddod,Lig3cdsndod,Lig4cdsndoda]</p>
+      <p id="ANOCOM0043">In omni ligatura ascendente quando primus punctus invenitur habens tractum descendentem ad dexteram partem, longus dicitur, ut hic: [Lig2La,Lig3Lad,Lig4Laoda,Lig4Laoda].</p>
+      <p id="ANOCOM0044">
+      <pb n="[70]" />In omni ligatura descendente quando primus punctus caret omni tractu, longus dicitur, ut hic: [Lig3dod,Lig4ddod]</p>
+      <p id="ANOCOM0045">Quandocumque ultimus punctus ligature ascendentis recte stat supra primam vel penultimam notam, longus dicitur, ut hic: [Lig2art,Lig3aart,Lig4cssnaoaart,Lig3cssnodart,Lig4cdsndodart]</p>
+      <p id="ANOCOM0046">In omni ligatura descendente quando ultimus punctus totus quadratus invenitur, longus dicitur, ut hic: [Lig2d,Lig2cdsnd,Lig4dodd,Lig5odadd]</p>
+      <p id="ANOCOM0047">In omni ligatura ascendente quando ultimus punctus stat supra secundam vel penultimam notam ab obliquo capite adverso circa dexteram, brevis dicitur, ut hic: [Lig3oaa,Lig2a,Lig3cssnaa,Lig3aa,Lig4cssnodaa,Lig4cssnaoaa,Lig5cssnoadaa]</p>
+      <p id="ANOCOM0048">In omni ligatura descendente quando ultimus punctus in corpore obliquo invenitur, semper brevis dicitur, ut hic: [Lig3cssndod,Lig3cdsndod,Lig2cdsnod,Lig5cssnaoadod,Lig4cssnadod]</p>
+      <p id="ANOCOM0049">Sequitur de opposita proprietate.</p>
+      <p id="ANOCOM0050">Et est opposita proprietas quidam tractus ascendens qui ubicumque in primo puncto ligature ascendentis vel descendentis invenitur, [est] signum semibrevitatis figure, ad hoc quod primi duo puncti ligature propter illum tractum ascendentem semibreviari debent, ut hic: [Lig2cssnod,Lig2cssna,Lig4cssnddod,Lig4cssndodart,Lig3cssnoda]</p>
+      <p id="ANOCOM0051">Omnes medie sunt breves, nisi per oppositam proprietatem semibrevientur, ut hic: [Lig5cdsndddod,Lig5cssndddod,Lig5cssnaaaoa,Lig3cdsndod,Lig4cdsndoda]</p>
+      <p id="ANOCOM0052">Ratio quia nulla semibrevis sola inveniri potest.</p>
+      <p id="ANOCOM0053">Ligaturarum ascendentium et descendentium quedam inveniuntur habentes plicas longas in ultimis punctis ligaturarum 
+      <pb n="[71]" />ascendentium et descendentium, quedam vero breves. Plica longa ascendendo et descendendo sic figurari debet, ut hic:</p>
+      <p id="ANOCOM0054">[Lig2cdsndpsdx,Lig2cdsndpddx,Lig4cssndddpddx,Lig5cdsndodadpsdx,Lig3cssnodapsdx]</p>
+      <p id="ANOCOM0055">Nota solummodo ultimos punctos ligaturarum tam ascendentes quam descendentes potuisse plicari.</p>
+      <p id="ANOCOM0056">Postea sciendum est quandocumque plica tantum ascendens quantum descendens invenitur in ultimo puncto toto quadrato ligature tam ascendentis quam descendentis, quod longus dicitur, sicut patet prius in exemplo; et sic plica invenitur in ultimo puncto figurato in corpore obliquo tam ligature ascendentis quam descendentis, quod semper brevis dicitur, ut hic:</p>
+      <p id="ANOCOM0057">[Lig2cdsnodpddx,Lig4cssnoddd,Lig4cdsnoddd,Lig2cssnoapddx,Lig2cdsnod,Lig2cdsnodpddx,Lig3cdsnodd,Lig3cssnoaapddx,Lig2cdsnodpsdx,Lig2cdsnodpsdx,Lig2cssnodpsdx]</p>
+      <p id="ANOCOM0058">Omnibus his omissis videndum de pausationibus.</p>
+      <p id="ANOCOM0059">Pausationum sex sunt species: prima vocatur minor, secunda maior, tertia brevis recta, quarta imperfecta, quinta perfecta, sexta finis punctorum que inmensurabilis dicitur. Minor pausatio minorem semibrevem valet et tertiam partem unius spatii continet. Maior pausatio valorem semibrevis maioris valet et duas partes unius spatii continet. Brevis recta pausatio rectam brevem valet et unum spatium continet. Imperfecta pausatio longam imperfectam duorum temporum valet et duo spatia continet. Perfecta pausatio longam perfectam trium temporum valet et tria spatia continet. Inmensurabilis pausatio est finis punctorum. Sed quando [inveniuntur] tres cantus insimul concordantes, facientes insimul suas pausas, tunc debent in tenore et in moteto et in triplo fieri duo tractus ad significandum quod penultime note inmensurabiles fieri debent, sicut patet in hoc moteto O stupor o mirum in modum:</p>
+      <p id="ANOCOM0060">[CSM15:71; text: Quomodo fiet o virgo virginum, O stupor o mirum in modum]</p>
+      <p id="ANOCOM0061">
+      <pb n="[72]" />Et sciendum est quod [pause] ad modum notularum fieri debent, [ad hoc] quod eandem vim habeat pausa quam notula: [MP,MP,BP,2LP,3LP,MXP,MXP,3LP,2LP,BP,MP,MP on staff5]</p>
+      <p id="ANOCOM0062">Sequitur de modis.</p>
+      <p id="ANOCOM0063">Modi secundum magistrum Franconem sunt quinque, licet sint plures apud alios.</p>
+      <p id="ANOCOM0064">Primus modus constat ex omnibus longis et ex una longa et alia brevi, ut hic:</p>
+      <p id="ANOCOM0065">[CSM15:72,1; text: In Bethleem Herodes iratus]</p>
+      <p id="ANOCOM0066">[CSM15:72,2; text: Christe tibi conqueror]</p>
+      <p id="ANOCOM0067">Secundus modus ex una brevi et alia longa, ut hic:</p>
+      <p id="ANOCOM0068">[CSM15:72,3; text: Amor qui cor vulnerat humanum]</p>
+      <p id="ANOCOM0069">Tertius modus constat ex una longa et duabus brevibus, ut hic:</p>
+      <p id="ANOCOM0070">[CSM15:72,4; text: Eximium decus virginum reorumque consolatio]</p>
+      <p id="ANOCOM0071">Quartus modus constat ex duabus brevibus [et una longa], sed parum est in usu, ut hic:</p>
+      <p id="ANOCOM0072">[CSM15:72,5; text: Reis ite sed dampnosum his venite gloriosum]</p>
+      <p id="ANOCOM0073">Quintus modus constat ex omnibus brevibus et semibrevibus, ut hic:</p>
+      <p id="ANOCOM0074">[CSM15:72,6; text: O Maria virgo davitica]</p>
+    </body>
+  </text>
+</TEI>

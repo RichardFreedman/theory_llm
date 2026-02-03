@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Musica</title>
+        <title type="abbrev">HEIMUS</title>
+        <author>Heinricus Augustensis</author>
+        <date notBefore="800" notAfter="1099">9th-11th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Andreas Giger</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Elisabeth Honn</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1995</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>Musica Domni Heinrici Augustensis magistri</emph>, ed. Joseph Smits van Waesberghe, Divitiae musicae artis, A/VII (Buren: Knuf, 1977), 35–53. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Heinricus Augustensis: Musica</title>
+          
+<idno type="LML">HEINR. AUG.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">A-Wn Cod. 51, 90-91ra</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-W 86. 6. Aug. 2°, 1 (Extrait)</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="HEIMUS0001">
+      <pb n="[35]" />[f. 90r in marg.] INCIPIT MUSICA DOMNI HEINRICI AUGUSTENSIS MAGISTRI</p>
+      <p id="HEIMUS0002">[f. 90v in marg.] Discipulus: Estne musica genus an species?</p>
+      <p id="HEIMUS0003">Magister: Species est et subalternum genus.</p>
+      <p id="HEIMUS0004">D Quomodo?</p>
+      <p id="HEIMUS0005">M Scientia artificialis, cum in multa, etiam in musicam [speciem] dividitur. Est autem subalternum genus, quia in tres species subdividitur, quarum prima est mundana, secunda humana, tertia artificiosa.</p>
+      <p id="HEIMUS0006">D Quae est mundana?</p>
+      <p id="HEIMUS0007">M Quam .VII. planetae, mundi videlicet partes, sua volubi(li)tate efficiunt.</p>
+      <p id="HEIMUS0008">D Quae est humana?</p>
+      <p id="HEIMUS0009">M Quam vivae voces hominum efficiunt.</p>
+      <p id="HEIMUS0010">D Quae est artificiosa?</p>
+      <p id="HEIMUS0011">M Quae arte hominum composita, aut tactu, ut in fidibus, aut flatu, ut in organis, aut percussione, ut in cymbalis et tibiis perficitur.</p>
+      <p id="HEIMUS0012">
+      <pb n="[36]" />D Sive quis voce, sive artificiis musicam exerceat: quot cantilenae generibus uti poterit?</p>
+      <p id="HEIMUS0013">M Uno tantum.</p>
+      <p id="HEIMUS0014">D Quo?</p>
+      <p id="HEIMUS0015">M Diatonico. Nam teste Macrobio chromaticum genus propter infamem mollitiem, enharmonicum vero propter nimiam sui difficultatem ab usu recessit.</p>
+      <p id="HEIMUS0016">D Qui sunt, qui abusive musici vocantur?</p>
+      <p id="HEIMUS0017">M Metrici, qui certo syllabarum et temporum numero modulandis versibus inserviunt. Post hos vulgares symphoniaci, qui diversa musicorum vasa ferentes, usu tantum, non ratione artem explicant.</p>
+      <p id="HEIMUS0018">D Quis proprie dicitur musicus?</p>
+      <p id="HEIMUS0019">M Qui numerorum, proportionum, consonantiarum, troporum omniumque his accidentium vim et naturam ratione novit et instrumentis perfecte explicare.</p>
+      <p id="HEIMUS0020">D Qui sunt minus pleni musici?</p>
+      <p id="HEIMUS0021">M Qui mei sunt similes: Hoc est, qui aliquam tam artis quam instrumentorum rationem sed non pleniter ex(s)equuntur.</p>
+      <p id="HEIMUS0022">D Quid igitur ego faciam, qui de arte te interrogare disposui?</p>
+      <p id="HEIMUS0023">M Quod esurientes faciunt, qui hoc, quod minus sufficit, avidius sumunt.</p>
+      <p id="HEIMUS0024">
+      <pb n="[37]" />D Utrum est musica per se, an ad aliquid?</p>
+      <p id="HEIMUS0025">M Ad aliquid.</p>
+      <p id="HEIMUS0026">D Quare?</p>
+      <p id="HEIMUS0027">M Quia prima eius genitura in ratione numerorum et proportionum consistit. Sicut enim quaeque proportio per unum quemlibet numerum fieri non potest, sed [numerus] collatus aliis aliquam in quovis inaequalitatis genere proportionem creat, sic una quaelibet vox per se, nisi ad aliam collata fuerit, pro nihilo erit.</p>
+      <p id="HEIMUS0028">D Quot vel quae sunt vocum qualitates, quibus conferri vox poterit?</p>
+      <p id="HEIMUS0029">M Novem sunt numero et hae sunt nomine: Semitonium, tonus, semiditonus, ditonus, diatessaron, diapente, semitonium cum diapente, tonus cum diapente, diapason.</p>
+      <p id="HEIMUS0030">D Quid feci, fortassis haec praeoccupando?</p>
+      <p id="HEIMUS0031">M Quod ille facit, qui, quod nondum re habet, spe devorat.</p>
+      <p id="HEIMUS0032">D An tantum tibi displicet?</p>
+      <p id="HEIMUS0033">M Quia haec tibi ignorantur, nondum radice cognita putabas esse sciendum: multus sum ad ignoscendum.</p>
+      <p id="HEIMUS0034">D Quid inaequalitatis esse genera dicis?</p>
+      <p id="HEIMUS0035">M Inaequalitatis sunt genera, quorum aliud alii in comparatione numerorum vel sonorum inaequalibus proportionibus repugnat.</p>
+      <p id="HEIMUS0036">D Quare aequalitatis non admisces genera?</p>
+      <p id="HEIMUS0037">M Quia, si sola sibi aequalitas conferretur, ut .IIIIor. et .IIIIor. vel .V. et .V., nulla omnino proportio ac per hoc nec musica nasceretur.</p>
+      <p id="HEIMUS0038">
+      <pb n="[38]" />D Quot ergo inaequalitatis sunt genera, vel quae habent vocabula?</p>
+      <p id="HEIMUS0039">M Quinque sunt numero. Appellantur autem hoc modo: Multiplex, superparticulare, superpartiens, multiplex superparticulare, multiplex superpartiens.</p>
+      <p id="HEIMUS0040">D Suntne omnia musicae necessaria?</p>
+      <p id="HEIMUS0041">M Minime. Sed tria postreme respuens, duo sola, id est multiplex et superparticulare, admittit. De multiplici tamen superbipartiente, an diapason compositum cum diatessaron efficere valeat, inter philosophos est contentio, ubi tamen Ptolemaeus vincere videtur.</p>
+      <p id="HEIMUS0042">D Debeone modo de hoc plenius inquirere?</p>
+      <p id="HEIMUS0043">M Minime, sed aptiori quem ordo dederit loco.</p>
+      <p id="HEIMUS0044">D Quot modis inaequalitatis operantur genera?</p>
+      <p id="HEIMUS0045">M Dupliciter.</p>
+      <p id="HEIMUS0046">D Quomodo?</p>
+      <p id="HEIMUS0047">M In arithmetica simpliciter proportiones, in musica vero per ipsas proportiones operantur consonantias.</p>
+      <p id="HEIMUS0048">D Quas?</p>
+      <p id="HEIMUS0049">M Diapason, diapente, diatessaron, tonum.</p>
+      <p id="HEIMUS0050">D Quomodo haec interpretantur?</p>
+      <p id="HEIMUS0051">M De omnibus, de .V., de .IIII., quia prima omnes, sequens .V., postrema .IIII. voces concludit.</p>
+      <p id="HEIMUS0052">
+      <pb n="[39]" />D Quid necesse est haec sola et non alia quoque inaequalitatis admitti genera?</p>
+      <p id="HEIMUS0053">M Quia necesse aliquid certum constitit, quod non aliter fieri potest, nisi voces continua sibi, quousque possint, varietate succedant, et sic tandem unaquaeque in se ipsam redeat, quod fit in diapason; sed hoc reliqua inaequalitatis non efficiunt genera.</p>
+      <p id="HEIMUS0054">D Quare?</p>
+      <p id="HEIMUS0055">M Quia cum, ut dictum est, nil certi constet, nisi voces post naturalem diversitatem in se ipsas redeant et hoc nonnisi duplum idem diapason efficiat, dupli spatium non aliud inaequalitatis competenter supplere poterit genus, nisi illud quod maiore numero toto assumpto unam quamlibet eius insuper partem sibi vendicet, quod superparticulare facit genus.</p>
+      <p id="HEIMUS0056">D Qua naturali illa duo pollent felicitate, ut tanta praedita sint dignitate?</p>
+      <p id="HEIMUS0057">M Quia multiplex ab unitate semel, vel duplum, vel triplum, vel quadruplum ex(s)istens non recedit, et quia perfectam operatur aequisonantiam, verbi gratia: pone .XII. et .VI.; sicut duodenarius bis sumpto senario semel duplus est, sic et vox per eum mensurata acutiorem bis retinens vocem semel dupla est. Sic et in reliquis eiusdem generis. Similiter particularis generis qualitas, unitatis amatrix est. Sumpto namque a maiore numero minore semel, non aliam quoque insuper nisi unam quamlibet, verbi gratia, vel dimidiam partem minoris quo diapason, vel .III. quo diatessaron, vel .VIII., quia tonus efficitur, assumit.</p>
+      <p id="HEIMUS0058">
+      <pb n="[40]" />D Quomodo hoc exemplificatur?</p>
+      <p id="HEIMUS0059">M Pone in ordine competentes ad hoc numeros .XII., .VIII., .VIIII., .VI. Igitur .XII. ad .VI. duplus, ad .VIII. || [f. 91r in marg.] sesqualter, ad .VIIII. sesquitertius; .VIIII. vero et .VI. inter se sesqualtera, .VIII. et .VI. sesquitertius, .VIIII. et .VIII. sesquioctava sociantur habitudine.</p>
+      <p id="HEIMUS0060">D Quid de aliorum generum dicis infortunio?</p>
+      <p id="HEIMUS0061">M Quod e contrario, dum a maiore numero interdum non semel assumpto minore insuper se pluribus minoris numeri partibus non elongans confundit, eadem quoque voces per has dimensas confusione dehonestaret.</p>
+      <p id="HEIMUS0062">D Satisne de inaequalitatis generibus interrogavi?</p>
+      <p id="HEIMUS0063">M Minime. Audisti ea tantum esse, sed nondum scis, quid sint, unde dicantur, cui quantitati deputentur, quae ex quo consonantiae prodeant.</p>
+      <p id="HEIMUS0064">D Quid ergo est multiplex?</p>
+      <p id="HEIMUS0065">M Ubi maior numerus minorem in se vel bis vel ter et deinceps habet, nihilque deest, et nihil exuberat.</p>
+      <p id="HEIMUS0066">D Unde dicitur?</p>
+      <p id="HEIMUS0067">M A multitudine.</p>
+      <p id="HEIMUS0068">
+      <pb n="[41]" />D Quare?</p>
+      <p id="HEIMUS0069">M Quia numerali quantitati, quae proprie multitudo dicitur, deputatur.</p>
+      <p id="HEIMUS0070">D Quomodo hoc scire potero?</p>
+      <p id="HEIMUS0071">M Attende quod, sicut, dum quis simpliciter numerat, multitudinem ex unitatibus procreat, sic et hoc genus, dum numerus numerum vel duplo vel triplo [vel] quadruplo vel quinduplo et deinceps sumit, facere videtur.</p>
+      <p id="HEIMUS0072">D Quae consonantiae ex hoc prodeunt?</p>
+      <p id="HEIMUS0073">M Diapason simplex, diapason composita cum diapente, bisdiapason.</p>
+      <p id="HEIMUS0074">D Quibus proportionibus?</p>
+      <p id="HEIMUS0075">M Diapason simplex dupla, ut sunt duo ad unum. Diapason composita cum diapente tripla, ut sunt .VIIII. ad tres. Bisdiapason quadrupla, ut sunt .XVI. ad .IIII.</p>
+      <p id="HEIMUS0076">D Quid est superparticulare?</p>
+      <p id="HEIMUS0077">M Ubi maior numerus minorem totum in se, et insuper eius vel dimidiam, vel .IIIam., et deinde unam quamlibet eius partem habet.</p>
+      <p id="HEIMUS0078">D Quare sic vocatur?</p>
+      <p id="HEIMUS0079">M Quia unam tantum minoris numeri partem assumit, dignitatis gratia ex nomine, quod est pars, derivatum sibi nomen vendicat.</p>
+      <p id="HEIMUS0080">D An et hoc genus quantitati iam dictae deputatur?</p>
+      <p id="HEIMUS0081">M Minime, sed potius quantitati continuae, quae est in qualibet mole.</p>
+      <p id="HEIMUS0082">D Quomodo haec proprie dicitur?</p>
+      <p id="HEIMUS0083">M Magnitudo.</p>
+      <p id="HEIMUS0084">
+      <pb n="[42]" />D Quomodo hae inter se differunt quantitates?</p>
+      <p id="HEIMUS0085">M Quod multitudo adiecta frequentius unitate unitati infinita pluralitate succrescere, magnitudo vero econtra infinita poterit minui partitione. In quo quantitatis genere quo maior est partium numerus, eo minores sunt ipsae partes. Verbi gratia: dimidia pars est maior quam .IIIa., .IIIa. quam .IIIIa., et sic in infinitum.</p>
+      <p id="HEIMUS0086">D Potestne hoc totum in dimensione chordae exemplificari?</p>
+      <p id="HEIMUS0087">M Optime quidem. Nam propter monochordi rationes haec omnia maxime considerantur.</p>
+      <p id="HEIMUS0088">D Quomodo ergo faciam?</p>
+      <p id="HEIMUS0089">M Duc a dextera ad sinistram .IIIIor. productam punctis lineam, quod te multiplicis generis ductu faciente. Nonne tibi bisdiapason, ac per hoc tota chorda in ea quantitate, quae multitudo dicitur, succrevit? Redi rursum de sinistra ad dexteram, et tolle de tota chorda sesquitertium, deinde sesqualterum; iterumque sesquitertium, ac sesqualterum. Nonne tibi hoc superparticularis generis ductu faciente tota chorda in ea quantitate, quae magnitudo dicitur, concisa consumpta est? Quod autem quo maior est numerus partium, eo minores sint partes. In his ipsis poteris probare consonantiis. Diapente namque, quae dimidio minoris numeri efficitur, .V. voces; diatessaron, quae tertia numeri minoris, .IIIIor. voces; tonus, qui octava minoris numeri parte fit, duas continet voces.</p>
+      <p id="HEIMUS0090">D Quae consonantiae ex hoc genere prodeunt?</p>
+      <p id="HEIMUS0091">M Diapente simplex, diatessaron simplex, tonus.</p>
+      <p id="HEIMUS0092">(D) Ceterorum inaequalitatis generum quomodo se habet natura?</p>
+      <p id="HEIMUS0093">
+      <pb n="[43]" />(M) Primi id est superpartientis est a maiori minorem numerum totum et insuper duas eius aut tres, aut quotlibet particulas contineri, ut .V. ad .III. et deinceps.</p>
+      <p id="HEIMUS0094">D Quare superpartiens vocatur?</p>
+      <p id="HEIMUS0095">M Quia plurimarum partium assumptione confunditur; non a nomine, ut superparticulare, sed a participio, quod est inferius, meruit appellari.</p>
+      <p id="HEIMUS0096">D Quid de ceteris dicis?</p>
+      <p id="HEIMUS0097">M Secundi id est multiplicis superparticularis est a maiori numero minorem plus quam semel et insuper unam aliquam eius partem haberi, ut .V. ad .II.</p>
+      <p id="HEIMUS0098">D Quare sic vocatur?</p>
+      <p id="HEIMUS0099">M Quia eius ex multiplici et superparticulari mixta est natura.</p>
+      <p id="HEIMUS0100">D Quid deinde?</p>
+      <p id="HEIMUS0101">M Tertii id est multiplicis superpartientis est a maiori numero minorem plus quam semel, et insuper .IIas. eius vel .III. vel quotlibet particulas contineri, ut .VIII. ad .III.</p>
+      <p id="HEIMUS0102">D Quare sic vocatur?</p>
+      <p id="HEIMUS0103">M Quia eius ex multiplici et superpartienti mixta est natura.</p>
+      <p id="HEIMUS0104">D Quid dudum dixisti de hoc ipso genere philosophos contendere, et Ptolemaeum vincere?</p>
+      <p id="HEIMUS0105">M Pythagorici dicunt diapason compositam cum diatessaron non esse consonantiam, quia nec in multiplex, nec in superparticulare, sed in multiplex superpartiens genus cadit, sed manifesta eos Ptolemaeus revincens ratione. Sicut, inquit, numerus denario iunctus, sic quaelibet consonantia diapason iuncta integra servatur, quod sicut ratione, ita etiam auditu probatur.</p>
+      <p id="HEIMUS0106">
+      <pb n="[44]" />D Et ubi est, quod illa postrema inaequalitatis genera dixisti secerni a musica?</p>
+      <p id="HEIMUS0107">M Memoresto me ita, ut hoc exciperem locutum fuisse. Si enim inter tortuosos montium et vallium anfractus aliquando planities invenitur, non mirum est inter horum generum tortuosas qualitates aliquid plani et hoc in uno tantum et semel reperiri.</p>
+      <p id="HEIMUS0108">D Quae igitur ex eodem genere prodit consonantia?</p>
+      <p id="HEIMUS0109">M Ut nuper dictum est, diapason composita cum diatessaron.</p>
+      <p id="HEIMUS0110">D Qua proportione?</p>
+      <p id="HEIMUS0111">M Duplici superpartiente, ut .VIIIo. ad .III. in quaproportione maior numerus minorem bis, et insuper duas eius partes continet.</p>
+      <p id="HEIMUS0112">D Quot simplices sunt consonantiae?</p>
+      <p id="HEIMUS0113">M Licet sparsim, tamen iam dictum est, sed hic iterum replicare non est mihi onerosum. Diapason, diapente, diatessaron sunt simplices, compositae vero sunt diapason cum diapente, bisdiapason, diapason cum diatessaron.</p>
+      <p id="HEIMUS0114">D Quot tonis vel semitoniis constat diapason?</p>
+      <p id="HEIMUS0115">M Quinque tonis et duobus semitoniis.</p>
+      <p id="HEIMUS0116">D Quot diapente?</p>
+      <p id="HEIMUS0117">M Tribus tonis et uno semitonio.</p>
+      <p id="HEIMUS0118">D Quare dicitur tonus?</p>
+      <p id="HEIMUS0119">M Quia consonantiarum spatia implendo frequentius sonat.</p>
+      <p id="HEIMUS0120">
+      <pb n="[45]" />D Potestne tonus in duo aequalia dividi?</p>
+      <p id="HEIMUS0121">M Minime.</p>
+      <p id="HEIMUS0122">D Quomodo probatur?</p>
+      <p id="HEIMUS0123">M Sit sesquioctava proportio .VIIII. et .VIIIo.; hos nullus naturaliter medius numerus incidit. Qui binario multiplicati iterum sesquioctavam generant proportionem, id est .XVIII. et .XVI. Hos unus numerus naturaliter medius incidit, id est .XVII., qui sesquioctavam proportionem non in aequalia partitur, ad .XVI. enim maior, ad .XVIII. minor est.</p>
+      <p id="HEIMUS0124">D Quibus spatiis constat tonus?</p>
+      <p id="HEIMUS0125">M Tonus constat ex duobus semitoniis minoribus et commate, vel si maius dicere [velis], ex semitonio minore et maiore, quod Graeci vocant apotome; nihilque est apotome nisi minoris semitonii et commatis copulatio.</p>
+      <p id="HEIMUS0126">D Quid interpretatur apotome?</p>
+      <p id="HEIMUS0127">M Decisio, quia in duabus partibus inaequalibus, qua parte maior augmentatur, minor minoratur.</p>
+      <p id="HEIMUS0128">D Quomodo invenitur apotome?</p>
+      <p id="HEIMUS0129">M Tolle de tribus tonis continuis diatessaron et relinquitur apotome, quod est semitonium maius.</p>
+      <p id="HEIMUS0130">
+      <pb n="[46]" />D Potestne apotome esse in melodiis?</p>
+      <p id="HEIMUS0131">M Minime.</p>
+      <p id="HEIMUS0132">D Quare?</p>
+      <p id="HEIMUS0133">M Quia cum || [f. 91v in marg.] tono minus et semitonio fit maius, nec tonus est, nec semitonium.</p>
+      <p id="HEIMUS0134">D In quo minimo numero potest esse apotome?</p>
+      <p id="HEIMUS0135">M Disponantur tres, numeri, .MDCCCCXLIIIIor., .MMXLVIII., .MMCLXXXVII. Primus ad tertium tonus, idem ad secundum semitonium minus, secundus ad tertium apotome.</p>
+      <p id="HEIMUS0136">D Quid interpretatur comma?</p>
+      <p id="HEIMUS0137">M Incisio, quia tota toni integritas una particula minoratur, si .II. paria semitonia in ea quaeruntur.</p>
+      <p id="HEIMUS0138">D Quid, si comma restituitur?</p>
+      <p id="HEIMUS0139">M Erunt duo imparia, ut dictum est, semitonia.</p>
+      <p id="HEIMUS0140">D In quo minimo numero potest esse comma?</p>
+      <p id="HEIMUS0141">M In unitate.</p>
+      <p id="HEIMUS0142">D Quid interpretatur semitonium?</p>
+      <p id="HEIMUS0143">M Ut semihomo, id est non plenus homo, sic semitonium non plenus tonus dicitur. Non enim hoc in loco semi pro dimidio accipitur, quia, ut dictum est, semitonium non integre est toni medietas.</p>
+      <p id="HEIMUS0144">D Licetne mihi adhuc, quae me movent de consonantiis interrogare?</p>
+      <p id="HEIMUS0145">M Licet, nam quae scire potero, non celabo.</p>
+      <p id="HEIMUS0146">D Quid necesse est sic appellari consonantias?</p>
+      <p id="HEIMUS0147">M Quia ipsa compellit natura.</p>
+      <p id="HEIMUS0148">
+      <pb n="[47]" />D Quomodo?</p>
+      <p id="HEIMUS0149">M Cum enim in metiendo unus passus processerit, quia necdum ad quid comparetur habet, necessario vacuus erit.</p>
+      <p id="HEIMUS0150">Cum duo facta fuerint, iam .II. erunt contra .I. et duplum: diapason constituit.</p>
+      <p id="HEIMUS0151">Deinde cum .III. emerserint, .IIIbus. .IIbus. collatis, sesqualterum: diapente reddit.</p>
+      <p id="HEIMUS0152">Postremo cum .IIIIor. apparuerint, .IIIIor. .IIIbus. comparatis, sesquitertium: diatessaron exhibebit.</p>
+      <p id="HEIMUS0153">D Quot modis constant vocabula consonantiarum?</p>
+      <p id="HEIMUS0154">M Duobus.</p>
+      <p id="HEIMUS0155">D Quibus?</p>
+      <p id="HEIMUS0156">M Prior modus est proportionalium vocabulorum, ut est duplum vel diplasium; sesqualterum vel (h)emiolium, vel sescuplum; sesquitertium vel epitritum; sesquioctavum vel epogdous.</p>
+      <p id="HEIMUS0157">Secundus modus est, cum ex numero vocum, quae in eorum spatiis sunt, nuncupantur, ut diapason, quod dicitur de omnibus vel diogda, quod in eius spatio semper sunt .VIIIo. voces; diapente quod dicitur de .V., quia tot voces eius spatium complectitur; diatessaron quod sonat de .IIIIor., quia tot phthongos suo colligit spatio.</p>
+      <p id="HEIMUS0158">D Cur in nominandis spatiis magis graecis quam latinis utimur verbis?</p>
+      <p id="HEIMUS0159">M Quia magis euphonice sonant, et quia accommodatiora sunt ad similitudinem vocabuli.</p>
+      <p id="HEIMUS0160">
+      <pb n="[48]" />D Quare dicis ad similitudinem vocabuli?</p>
+      <p id="HEIMUS0161">M Quia non sunt pura vocabula, sed semper, cum dicitur verbi gratia: canta mihi diapason, vel diapente, sive diatessaron, subauditur consonantiam, quae dicitur vel diapason, vel diapente, vel diatessaron.</p>
+      <p id="HEIMUS0162">D Quae consonantia ceteris est antiquior?</p>
+      <p id="HEIMUS0163">M Diapason.</p>
+      <p id="HEIMUS0164">D Quare?</p>
+      <p id="HEIMUS0165">M Quia in ipsis primis numerorum radicibus formatur: id est uni duobus collatis; deinde diapente .IIIbus. scilicet .IIbus. comparatis; postea diatessaron .IIIIor. .IIIbus. proportionatis.</p>
+      <p id="HEIMUS0166">D Estne haec firma sententia, cum et alii sint proportionales in infinitum numeri?</p>
+      <p id="HEIMUS0167">M Firma plane. Nam sicut in arbore cortex, rami, folia, fructus ad unam radicem, sic quicumque sequentes numeri ad principia spectant numerorum, nec in eo, quod possunt, praeiudicant radicibus, quae ad hoc, ut aliquid possent, praecesserunt.</p>
+      <p id="HEIMUS0168">D Quae consonantia ceteris est perfectior?</p>
+      <p id="HEIMUS0169">M Item diapason.</p>
+      <p id="HEIMUS0170">
+      <pb n="[49]" />D Quare?</p>
+      <p id="HEIMUS0171">M Quia in ea duae voces unum idemque sonant. Diapente autem et diatessaron alio modo. Nam et consonanter dissonant, et dissonanter consonant.</p>
+      <p id="HEIMUS0172">D Quae consonantia ceteris est utilior?</p>
+      <p id="HEIMUS0173">M Diatessaron.</p>
+      <p id="HEIMUS0174">D Quare?</p>
+      <p id="HEIMUS0175">M Quia cum ea, quae iam dicta sunt et postea dicentur, causa troporum idem effectus melodiae fiant, nulla in secundo, qui diapason, nulla in tertio, qui diapente includit passu troporum, discretio apparet; in solo quarto passu diatessaron, instar paradysi .IIIIor. troporum fontes eructuans, ipsi diapason, quid in se lateat, demonstrat.</p>
+      <p id="HEIMUS0176">D Habentne hi, quos commemorasti, troporum fontes aliquos fontium more rivos?</p>
+      <p id="HEIMUS0177">M Habent utique, sed de his aptior erit disserendi locus; tu tantum, ne te de his inquisitio praetereat, in memoria habeto.</p>
+      <p id="HEIMUS0178">D Quid est, quod consonantiae nec extensiores sunt bisdiapason, nec contractiores diatessaron?</p>
+      <p id="HEIMUS0179">M Aperta est causa. Nam, cum sint duae diapason atque utramque una diapente cum diatessaron compleat, cumque diapente tres tonos et unum semitonium, diatessaron vero duos tonos et unum capiat semitonium, non sunt deinceps spatia unius toni ac semitonii capacia.</p>
+      <p id="HEIMUS0180">D Quae invicem, vel in quo concordant consonantiae?</p>
+      <p id="HEIMUS0181">M Diapente et diatessaron in eo concordant, quod propriis et non per similes litteras circumscribuntur tropis quodque in medio alienis utuntur tropis; discordantiam autem eorum facile est videre.</p>
+      <p id="HEIMUS0182">
+      <pb n="[50]" />D Cur propriis licet dissimili caractere circumscribuntur tropis?</p>
+      <p id="HEIMUS0183">M Ut generositas earum, quae a proprio non discordant tropo, designetur caracteris, autem dissimilitudo, quod in debitam sibi non vendicant, aequisonantiam significat.</p>
+      <p id="HEIMUS0184">D Quomodo ab illis discordat diapason?</p>
+      <p id="HEIMUS0185">M Quia et propriis et simili caractere circumscribitur tropis, in medio quoque proprium sed dissimili littera possidet tropum.</p>
+      <p id="HEIMUS0186">D Quare diapente et diatessaron in medio cognatas non habent litteras?</p>
+      <p id="HEIMUS0187">M Quia neutra per se plenum exhibet tropum. Omnis namque plena cuiusque tropi dispositio propriis et similibus in extremitatibus circumscribitur tropis et litteris; in medio autem propriam quidem, sed extremis dissimilem habet, ut in extremis distinctam ascensionem vel descensionem, in medio autem vel initium sortiatur vel finem.</p>
+      <p id="HEIMUS0188">D In qua consonantia completur hoc?</p>
+      <p id="HEIMUS0189">M In diapason.</p>
+      <p id="HEIMUS0190">D Quare?</p>
+      <p id="HEIMUS0191">M Quia ibi coadunatae diapente et diatessaron pariter implebunt, quod separatim nequeunt.</p>
+      <p id="HEIMUS0192">D Quare in medietate diapason semper quidem propria propter proprium tropum, sed dissimilis extremis invenitur littera?</p>
+      <p id="HEIMUS0193">M Quia in extremis perfecta vocum est concordia, media vero, quia nondum aequisonantiam, ideo nec eandem exhibit litteram.</p>
+      <p id="HEIMUS0194">D Si non similis, si non aequisonantia, quare est propria?</p>
+      <p id="HEIMUS0195">
+      <pb n="[51]" />M Cum omnis copulatio legitima diapente et diatessaron quaelibet sit diapason, necesse est, ut propriam diapente et diatessaron per propriam in medio tam tropi quam litterae conglutinet naturam, ut impleatur illud Flacci: Primo ne medium, medio ne discrepet unum.</p>
+      <p id="HEIMUS0196">D Suntne uniformes consonantiae?</p>
+      <p id="HEIMUS0197">M Si uniformes essent, nullam troporum diversitatem, ac per hoc nullam procreassent melodiam.</p>
+      <p id="HEIMUS0198">D Quot species sunt consonantiarum?</p>
+      <p id="HEIMUS0199">M Diapason .VIII., diapente .IIIIor., diatessaron similiter.</p>
+      <p id="HEIMUS0200">D Estne mea de his omnibus vitiosa interrogatio?</p>
+      <p id="HEIMUS0201">M Minime. Nam discusso diligentius semine, fructus melius patebit.</p>
+      <p id="HEIMUS0202">D Quid semen, quid fructum esse dicis?</p>
+      <p id="HEIMUS0203">M Semen dico numeros, proportiones, consonantias; fructum vero legitimam et ratam specierum troporumque dispositionem, perfectam melodiae totius cognitionem et compositionem.</p>
+      <p id="HEIMUS0204">D Quomodo haec semina iaciam, ut tales fructus metam?</p>
+      <p id="HEIMUS0205">M Sic numeros in proportiones, proportiones in consonantias, sic consonantias in septenas resolve chordas suis litteris notatas.</p>
+      <p id="HEIMUS0206">D Quare dicis septenas, cum plures sint?</p>
+      <p id="HEIMUS0207">M Non sunt plures, sed sicut .VII. septimanae dies repetuntur.</p>
+      <p id="HEIMUS0208">D Quare?</p>
+      <p id="HEIMUS0209">M Ut quaelibet gravis suam possit || [f. 91ar in marg.] acutam habere vel contra.</p>
+      <p id="HEIMUS0210">
+      <pb n="[52]" />D Quare sunt .VII.?</p>
+      <p id="HEIMUS0211">M Quia, cum maxima consonantia, diapason scilicet, nonnisi in qualibet .VIIIa. perfectam concordiam habeat, ablata ipsa, .VII. prorsus diversas necesse est remanere.</p>
+      <p id="HEIMUS0212">D Quibus litteris chordae notantur?</p>
+      <p id="HEIMUS0213">(M) .A.B.C.D.E.F.G.a.b.c.d.e.f.g.a.</p>
+      <p id="HEIMUS0214">D Quare secundo easdem quidem, sed aliis figuris fecisti litteras?</p>
+      <p id="HEIMUS0215">M Ut graves gravibus, acutae voces acutis designentur formulis. Quod autem eaedem sunt, aequisonantiam diapason denotat.</p>
+      <p id="HEIMUS0216">D Quare quidam in quartis et quintis eadem signa ponunt?</p>
+      <p id="HEIMUS0217">M Error est, declinari debet.</p>
+      <p id="HEIMUS0218">D Quare?</p>
+      <p id="HEIMUS0219">M Quia, ut iam satis patuit, diapente et diatessaron aequisonantiam non exhibent, et ideo proprio tropo, non tamen eadem circumscribuntur littera.</p>
+      <p id="HEIMUS0220">D Quare quidam in primis [Gamma]. Gamma graecum et post .a. .b. molle, quod synem(m)en(on) vocant, ponunt?</p>
+      <p id="HEIMUS0221">M Eo more, quo quaedam in omnibus artibus usurpantur, quae tamen auctoritate non donantur, moderni Gamma graecum licentiae tantum, non naturae vel institutionis causa ponunt, et quia ex libitu musicorum saepe infra finales diapente inveniunt.</p>
+      <p id="HEIMUS0222">
+      <pb n="[53]" />Synem(m)en(on) vero antiqui non melodiae causa posuerunt, sed ut ablato de tribus tonis continuis diatessaron apotome demonstrarent. Processu vero temporis et ipsa musici uti coeperunt; nil tamen illis .VII. authenticis augmenti vel detrimenti importat. Sicut enim quis ignotus ad chorum accedit, cantando adiuvans recedit, ita et synem(m)enon cantat, cum opus fuerit, nihil vel de specierum vel troporum institutione requirit. Quo circa quiescant, qui frustra tantopere, ut ipsum auferant, elaborant.</p>
+      <p id="HEIMUS0223">D Quae voces sunt in vice planetarum?</p>
+      <p id="HEIMUS0224">M .E. Lunae, .F. Mercurii, .G. Veneris, .a. id est mese Solis, .b. Martis, .c. Iovis, .d. Saturni.</p>
+      <p id="HEIMUS0225">D Quare .VII. voces cum ipsis consonantiis secundum inventionem deorsum, id est de dextera ad sinistram, currunt?</p>
+      <p id="HEIMUS0226">M Quia sunt semina. Semen quoque, quod deorsum iacitur, sursum autem crescit, imitantur.</p>
+      <p id="HEIMUS0227">D In hoc iactu quod est attendendum?</p>
+      <p id="HEIMUS0228">M Quod simpliciter seminis more iacta multipliciter surgunt.</p>
+    </body>
+  </text>
+</TEI>

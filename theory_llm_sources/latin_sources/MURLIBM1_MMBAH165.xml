@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Libellus cantus mensurabilis</title>
+        <title type="abbrev">MURLIBM1_MMBAH165</title>
+        <author>Johannes de Muris</author>
+        <date notBefore="1300" notAfter="1399">14th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>T</resp>
+        <persName>Oliver B. Ellsworth</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Travis Yeager</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>2008</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Milan, Biblioteca Ambrosiana, MS H.165.inf, ff. 18v–22v.
+</bibl>
+        <bibl type="work">
+          
+<title>Iohannes de Muris: Ars practica mensurabilis cantus (= Libellus cantus mensurabilis)</title>
+          
+<idno type="LML">IOH. MUR. Lib.</idno>
+        
+</bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="MURLIBM1_MMBAH1650001">
+      <pb n="[f.18v]" />Sequitur practica musicae Ioannis de Muris doctoris Parisiensis.</p>
+      <p id="MURLIBM1_MMBAH1650002">QVilibet in arte practica mensurabilis cantus erudiri mediocriter affectans scribat diligenter quae sequuntur summarie conpilata.</p>
+      <p id="MURLIBM1_MMBAH1650003">Primo notandum est quod quinque sunt partes prolationis. scilicet. Maxima Longa Breuis Semibreuis et Minima et sunt heae [MX,L,B,S,M]</p>
+      <p id="MURLIBM1_MMBAH1650004">Maxima perfecta ualet tres longas siue de modo perfecto siue imperfecto.</p>
+      <p id="MURLIBM1_MMBAH1650005">Si longae sunt de modo perfecto Maxima ualet nouem tempora. si de imperfecto ualet sex ut hic. exempla perfecta [MX,L,L,L,MX,B,B,B,B,B,B,B,B,B] Exempla imperfecta [MX,B,B,B,B,B,B].</p>
+      <p id="MURLIBM1_MMBAH1650006">Maxima uero imperfecta ualet duas longas siue de modo perfecto siue de imperfecto. Si de modo perfecto valet sex tempora ut hic [MX,L,L,MX,B,B,B,B,B,B]. si de modo imperfecto ualet quattuor tempora ut hic [MX,L,L,MX,B,B,B,B]</p>
+      <p id="MURLIBM1_MMBAH1650007">Ex his infertur quod Maxima potest esse perfecta longis existentibus imperfectis. et e conuerso Maxima potest esse imperfecta longis existentibus perfectis.</p>
+      <p id="MURLIBM1_MMBAH1650008">Longa de modo perfecto ualet tres breves ut hic [L,B,B,B] In modo imperfecto ualet duas ut hic: [L,B,B].</p>
+      <p id="MURLIBM1_MMBAH1650009">Breuis in tempore perfecto ualet tres semibreues ut hic [B,S,S,S] sed in tempore imperfecto ualet duas ut hic [B,S,S]</p>
+      <p id="MURLIBM1_MMBAH1650010">Semibreuis in maiori prolatione ualet tres minimas ut hic [S,M,M,M] In minori uero duas ut hic [S,M,M]</p>
+      <p id="MURLIBM1_MMBAH1650011">Pro quibus notandum est quod duplex est modus. scilicet. perfectus et imperfectus. Modus perfectus est quando longa ualet tres breves ut hic [L,B,B,B] Imperfectus quando ualet duas ut hic [L,B,B]</p>
+      <p id="MURLIBM1_MMBAH1650012">Item duplex est tempus. scilicet. perfectum et imperfectum. Perfectum tempus est quando breuis ualet tres semibreves ut hic [B,S,S,S] Imperfectum quando ualet duas ut hic [B,S,S]</p>
+      <p id="MURLIBM1_MMBAH1650013">Nota item quod duplex est prolatio. scilicet. perfecta et imperfecta. Perfecta que uocatur maior. Imperfecta uero minor.</p>
+      <p id="MURLIBM1_MMBAH1650014">Perfecta siue maior prolatio est quando semibreuis ualet tres minimas ut hic [S,M,M,M]</p>
+      <p id="MURLIBM1_MMBAH1650015">Imperfecta uero siue minor prolatio est quando semibreuis valet duas minimas tantum ut hic [S,M,M]</p>
+      <p id="MURLIBM1_MMBAH1650016">De imperfectione notarum.</p>
+      <p id="MURLIBM1_MMBAH1650017">
+      <pb n="[f.19r]" />INsuper notandum est quod omnis nota perfecta potest imperfici a tertia parte sui ualoris. Et potest perfici per additionem tertiae partis sui ualoris. Itaque perfectio consistit in numero ternario. Imperfectio uero in binario.</p>
+      <p id="MURLIBM1_MMBAH1650018">Maxima perfecta in toto et in partibus potest imperfici quo ad totum: uel quo ad partes.</p>
+      <p id="MURLIBM1_MMBAH1650019">Quo ad totam uel a parte ante uel a parte post. A parte ante quando sola longa precedit ut hic [L,MX] A parte post quando eam sequitur sola longa uel quattuor uel sex uel septem longe ut hic: [MX,L,MX,L,L,L,L,MX,L,L,L,L,L,L,MX,L,L,L,L,L,L,L]</p>
+      <p id="MURLIBM1_MMBAH1650020">Quo ad partes dupliciter. scilicet. quo ad partes propinquas et quo ad partes remotas.</p>
+      <p id="MURLIBM1_MMBAH1650021">Pro quo notandum est quod partes propinquae alicuius totius sunt illae in quibus ipsum totum immediate diuiditur: sicut maximarum partes propinquae sunt longae. Longarum breues. Breuium semibreues. Semibreuium minimae.</p>
+      <p id="MURLIBM1_MMBAH1650022">Partes remote sunt partes partium propinquarum.</p>
+      <p id="MURLIBM1_MMBAH1650023">Maxima igitur quo ad partes propinquas potest imperfici. scilicet. a parte ante et a parte post per abstractionem tertiae partis ualoris cuiuslibet partium propinquarum uel alterius earumdem. Et similiter quo ad partes remotas per abstractionem tertiae partis de ualore cuiuslibet partis remotae uel alterius earumdem.</p>
+      <p id="MURLIBM1_MMBAH1650024">Et ita suo modo intelligi potest de longis breuibus et semibreuibus. quorum exempla patebunt inferius. Sed de predictis tales sunt regulae.</p>
+      <p id="MURLIBM1_MMBAH1650025">Septem regulae de imperfectione figurarum.</p>
+      <p id="MURLIBM1_MMBAH1650026">PRima regula est quod Longa ante longam de modo perfecto semper est pefecta.</p>
+      <p id="MURLIBM1_MMBAH1650027">Et Breuis ante breuem in tempore perfecto semper est perfecta.</p>
+      <p id="MURLIBM1_MMBAH1650028">Et Semibreuis ante semibreuem in maiori prolatione semper est perfecta.</p>
+      <p id="MURLIBM1_MMBAH1650029">Secunda regula est. Quandocumque aliqua nota debet imperfici oportet quod eam sequatur nota maior uel minor in forma uel pausa maioris aut minoris formae quia similis ante similem non potest imperfici.</p>
+      <p id="MURLIBM1_MMBAH1650030">Tertia regula est quod Quando post longam de modo perfecto sequuntur duae uel tres breues nulla tamen breui sola precedente a qua possit imperfici perfecta est: nisi punctus diuisionis ponatur inter primam breuem et aliam uel alias consequentes: nam tunc prima breuis imperficit istam longam precedentem. Idem quoque intelligendum est de breuibus temporis perfecti respectu semibreuium. et de semibreuibus maioris prolationis respectu 
+      <pb n="[f.19v]" />minimarum.</p>
+      <p id="MURLIBM1_MMBAH1650031">Quarta regula est quod quando inter duas longas remanet sola breuis perfectione numerata tunc illa imperficit primam longam. scilicet. precedentem nisi per punctum aut aliter impediatur. Idem est de semibreuibus inter breues et de minimis inter semibreues.</p>
+      <p id="MURLIBM1_MMBAH1650032">Quinta regula est quod quando aliqua nota est sola debet reduci ad priorem locum quem potest habere.</p>
+      <p id="MURLIBM1_MMBAH1650033">Sexta regula est quod omnis nota que imperficitur imperficitur a propinquiori nota a qua possit imperfici et similiter reducitur.</p>
+      <p id="MURLIBM1_MMBAH1650034">Septima regula est quod quando inueniuntur duae notae similes solae non debent illae partiri sed simul computari.</p>
+      <p id="MURLIBM1_MMBAH1650035">Vlterius notandum est quod quum aliqua nota imperficitur a parte propinqua uel eius ualore hoc fit ratione totius siue quo ad totum.</p>
+      <p id="MURLIBM1_MMBAH1650036">Si a parte remota uel a partibus remotis non tamen ualentibus unam partem propinquam hoc fit quo ad partem uel quo ad partes.</p>
+      <p id="MURLIBM1_MMBAH1650037">Item nota quod quicquid imperficitur imperficitur a tertia parte. Ex quo sequitur quod quicquid est diuisibile in tres partes aequales potest imperfici a tertia parte: et imperficiens potest preponi vel postponi illi quod imperficitur iuxta libitum ponentis. Servuata tamen hac regula quod nulla nota potest imperfici ante sibi similem: sed bene ante maiorem uel minorem ut supradictum est.</p>
+      <p id="MURLIBM1_MMBAH1650038">Sequitur etiam ex premissis quod semibreuis maioris prolationis potest imperfici ab una minima precedente uel sequente.</p>
+      <p id="MURLIBM1_MMBAH1650039">Breuis imperfecta maioris prolationis non potest imperfici aliquo modo quia non est diuisibilis in tres partes aequales.</p>
+      <p id="MURLIBM1_MMBAH1650040">Breuis imperfecta maioris prolationis potest imperfici ab una minima precedente uel subsequente quo ad unam partem. et a duabus minimis quo ad ambas partes.</p>
+      <p id="MURLIBM1_MMBAH1650041">Breuis perfecta minoris prolationis potest imperfici ab una semibreui uel a duabus minimis et hoc quo ad totum.</p>
+      <p id="MURLIBM1_MMBAH1650042">Et nota quod quidam cantores ut Guliermus de Maschandio imperficiunt breuem perfectam minoris prolationis ab una sola minima. [Guliermus de Mascandio in marg.] Et breuem imperfectam maioris prolationis a duabus minimis simul sequentibus uel precedentibus.</p>
+      <p id="MURLIBM1_MMBAH1650043">Et dicunt ibi mutare qualitatem. Capiunt. enim. breuem perfectam minoris prolationis ac si esset breuis imperfecta maioris prolationis. et e conuerso Breuem imperfectam maioris prolationis ac si esset breuis perfecta minoris prolationis.</p>
+      <p id="MURLIBM1_MMBAH1650044">Breuis perfecta maioris prolationis potest imperfici 
+      <pb n="[f.20r]" />ab una sola minima precedente uel sequente et hoc quo ad unam partem. Et a duabus minimis una. scilicet. precedente et alia sequente et hoc quo ad duas partes. Vel a duabus sequentibus. Et etiam a tribus minimis uel ab earum ualore. Et a quattuor minimis uel ualore earum et hoc quo ad totum et ad unam eius partem. Et a quinque minimis uel earum ualore et hoc quo ad totum et ambas partes remanentes. Et non potest plus imperfici quia non remanet ei nisi ualor brevis imperfectae minoris prolationis quae non potest imperfici sicut dictum est.</p>
+      <p id="MURLIBM1_MMBAH1650045">Et quicquid circa imperfectionem dictum est de minimis respectu breuium intelligatur de semibreuibus respectu longarum: et de breuibus respectu maximarum.</p>
+      <p id="MURLIBM1_MMBAH1650046">Et quicquid dictum est de semibreuibus respectu breuium: intelligatur de breuibus respectu longarum: et de longis respectu maximarum</p>
+      <p id="MURLIBM1_MMBAH1650047">Et sicut est dare breuem imperfectam ualentem duas semibreues ualentes quattuor minimas: sic est dare longam ualentem duas breues ualentes quattuor semibreues. Et ita etiam est dare maximam ualentem duas longas ualentes quattuor breues.</p>
+      <p id="MURLIBM1_MMBAH1650048">Et sicut est dare breuem imperfectam ualentem duas semibreues ualentes sex minimas sic est dare longam imperfectam ualentem duas breues ualentes sex semibreues.</p>
+      <p id="MURLIBM1_MMBAH1650049">Et sicut est dare maximam imperfectam ualentem duas longas ualentes sex [[se]] breues: sicut est dare breuem imperfectam ualentem duas semibrevues ualentes sex minimas.</p>
+      <p id="MURLIBM1_MMBAH1650050">Et sicut est dare longam perfectam ualentem tres breues ualentes sex semibreues: Et maximam perfectam ualentem tres longas ualentes sex breues: sic est dare breuem perfectam ualentem tres semibreues ualentes sex minimas.</p>
+      <p id="MURLIBM1_MMBAH1650051">Et sicut est dare longam ualentem tres breues ualentes nouem semibreves Et maximam perfectam ualentem tres longas ualentes nouem breues sic est dare breuem perfectam ualentem tres semibreues ualentes nouem minimas Et ex predictis sufficienter habetur quomodo longae et maximae atque breues possunt imperfici.</p>
+      <p id="MURLIBM1_MMBAH1650052">De Alteratione.</p>
+      <p id="MURLIBM1_MMBAH1650053">ALteratio in musica est proprij ualoris secundum notae formam duplicatio. de qua tales sunt regulae.</p>
+      <p id="MURLIBM1_MMBAH1650054">Prima regula est quod nulla nota potest alterari ante sibi similem nec ante minorem se.</p>
+      <p id="MURLIBM1_MMBAH1650055">Secunda 
+      <pb n="[f.20v]" />regula est quod omnis nota potest alterari ante proximam maiorem se sicut minima ante semibreuem uel ante pausam semibreuis. et semibreuis ante breuem uel ante pausam breuis. et breuis ante longam uel ante pausam longae et longa ante maximam.</p>
+      <p id="MURLIBM1_MMBAH1650056">Tertia regula est quod quandocumque inter duas longas de modo perfecto uel pausas longarum uel inter punctum et longam inueniuntur duae breues sine puncto in medio secunda alteratur. id est. ualet duas breues.</p>
+      <p id="MURLIBM1_MMBAH1650057">Similiter quando inueniuntur duae semibreues inter duas breues de tempore perfecto. uel inter punctum et breuem uel inter pausas duarum breuium secunda alteratur. id est. ualet duas semibreues.</p>
+      <p id="MURLIBM1_MMBAH1650058">Idem est de duabus minimis inter duas semibreues de prolatione maiori nam quandocumque remanent duae sine puncto in medio secunda est alterata.</p>
+      <p id="MURLIBM1_MMBAH1650059">Et notandam quod nota alterata potest imperfici a parte ante. [hoc falsum est quia similis similem imperficere non potest. nec potest ipsa imperfici quia non est diuisibilis in tres aequas partes. in marg.]</p>
+      <p id="MURLIBM1_MMBAH1650060">De Puncto</p>
+      <p id="MURLIBM1_MMBAH1650061">PVnctus est duplex. scilicet. perfectionis et diuisionis.</p>
+      <p id="MURLIBM1_MMBAH1650062">Punctus perfectionis perficit longam in utroque modo. et breuem in utroque tempore. ac Semibreuem in utraque prolatione.</p>
+      <p id="MURLIBM1_MMBAH1650063">Punctus diuisionis imperficit longam diuidendo breues. et Breuem divuidendo semibreues. ac semibreuem diuidendo minimas.</p>
+      <p id="MURLIBM1_MMBAH1650064">Quo autem modo. Punctus perfectionis a puncto diuisionis cognoscitur cum unus habeat perficere figuras et Alius imperficere notandum est quod quando punctus ponitur post dicitur esse perfectionis. quando uero post minimam diuisionis dicitur esse.</p>
+      <p id="MURLIBM1_MMBAH1650065">Et nota quod triplex est diuisio. scilicet. Modi Temporis et Prolationis..</p>
+      <p id="MURLIBM1_MMBAH1650066">Vnde nota quod si punctus ponatur inter duas breues diuidit modum nisi forte breues ille fuerint de tempore imperfecto post quas uel ante quas reperiretur aliqua semibreuis sola quae per sincopam reduceretur ad illam dictam breuem puncto perfectionis punctatam.</p>
+      <p id="MURLIBM1_MMBAH1650067">Si autem punctus ponatur inter duas semibreues pro diuisione temporis assignatur: nisi forte illae semibreues essent de minori prolatione post quas uel ante quas aliqua minima sola reperiretur quae per sincopam reduceretur ad dictam semibreuem puncto perfectionis punctatam.</p>
+      <p id="MURLIBM1_MMBAH1650068">De Modo.</p>
+      <p id="MURLIBM1_MMBAH1650069">CVm duplex sit modus tempus et prolatio ut dictum est uidendum est per quae distinguntur.</p>
+      <p id="MURLIBM1_MMBAH1650070">Vnde quadrangulus cum triplici tractu 
+      <pb n="[f.21r]" />ponitur pro modo perfecto: ut hic [R3rvs]. Et cum duobus tractis pro modo imperfecto ut [R2rvs] Circulus ponitur pro tempore perfecto ut hic [O]</p>
+      <p id="MURLIBM1_MMBAH1650071">Semicirculus ponitur pro tempore imperfecto ut hic [C]</p>
+      <p id="MURLIBM1_MMBAH1650072">Item si in circulo uel in semicirculo inueniuntur tres puncti maioris est prolationis ut hic [O3d] [C3d]</p>
+      <p id="MURLIBM1_MMBAH1650073">Si duo minoris prolationis est ut hic [O2d] [C2d]</p>
+      <p id="MURLIBM1_MMBAH1650074">Item Modus Tempus et Prolatio distinguntur per notas rubeas uel uacuas et per nigras quando in aliquo cantu uariantur. Videlicet si in aliquo cantu reperiantur longae nigrae et rubeae uel uacuae: Nigrae sunt modi perfecti: Et rubeae uel uacuae sunt modi imperfecti.</p>
+      <p id="MURLIBM1_MMBAH1650075">Item si breues inueniantur nigrae et rubeae uel uacuae: nigrae sunt temporis perfecti. et rubeae uel uacuae sunt temporis imperfecti.</p>
+      <p id="MURLIBM1_MMBAH1650076">Item semibreues nigrae sunt maioris prolationis: rubeae uel uacuae sunt minoris prolationis.</p>
+      <p id="MURLIBM1_MMBAH1650077">Item in subscriptionibus coloribus pausis et figuris distinguuntur imperfectam.</p>
+      <p id="MURLIBM1_MMBAH1650078">De numeris modorum.</p>
+      <p id="MURLIBM1_MMBAH1650079">ITem sex sunt modi.</p>
+      <p id="MURLIBM1_MMBAH1650080">Primus procedit ex una longa et altera breui ut hic [Lig2La,Lig2od,L,B,L,B]</p>
+      <p id="MURLIBM1_MMBAH1650081">Secundus e conuerso ex una breui et altera longa ut hic constat procesu [Lig2acddx,Lig2cdsnd,B,L,B,L]</p>
+      <p id="MURLIBM1_MMBAH1650082">Tertius modus procedit ex una longa et duabus uel tribus breuibus ut hic [Lig3Laod,L,Lig3aacddx,Lig3cdsndd,Lig4cdsnodad,Lig3aa,L]</p>
+      <p id="MURLIBM1_MMBAH1650083">Quartus modus constat e conuerso ex duabus uel tribus breuibus et una longa ut hic [Lig3aacddx,Lig3cdsndd,Lig4aad,Lig4cdsnodad,B,Lig2a,L,B,Lig2cdsnd]</p>
+      <p id="MURLIBM1_MMBAH1650084">Quintus modus consistit ex omnibus longis ut hic [L,L,L,Lig2Lacddx,L,Lig2Lacddx,Lig2d]</p>
+      <p id="MURLIBM1_MMBAH1650085">Sextus modus constat ex omnibus breuibus et semibreuibus ut hoc patet exemplo [Lig2a,Lig2cdsnod,Lig2cssna,Lig2cssnod,Lig4cssnadod,L]</p>
+      <p id="MURLIBM1_MMBAH1650086">Dicunt aliqui quod non sunt nisi quinque modi quia ponunt quintum cum primo et sextum cum quinto uel loco quinti.</p>
+      <p id="MURLIBM1_MMBAH1650087">De ligaturis notarum.</p>
+      <p id="MURLIBM1_MMBAH1650088">LIgaturarum alia ascendens Alia descendens</p>
+      <p id="MURLIBM1_MMBAH1650089">Ligatura ascendens est quando secunda nota est altior quam prima.</p>
+      <p id="MURLIBM1_MMBAH1650090">Descendens ligatura est e conuerso quando prima nota est altior secunda. Ex quibus tales dantur regulae. Prima regula est quod quando prima nota est altior secunda habens caudam siue tractum in parte sinistra descendentem siue fuerit in quadro siue in obliquo corpore figurata cum proprietate dicitur et est prima breuis ut hic [Lig3cdsndod,Lig3cdsnodacddx,Lig2cdsnod,Lig2cdsnd,Lig6cdsnddaodacddx].</p>
+      <p id="MURLIBM1_MMBAH1650091">Secunda regula est. Quando secunda nota est altior prima habens tractum descendentem 
+      <pb n="[f.21v]" />a parte dextra sine proprietate dicitur et est prima nota longa ut hic [Lig3Laa,Lig3Laod,Lig3Lad]</p>
+      <p id="MURLIBM1_MMBAH1650092">Et si prima non habuerit tractum cum proprietate dicitur et est prima breuis ut hic [Lig2acddx,Lig3ad,Lig4aaod]</p>
+      <p id="MURLIBM1_MMBAH1650093">Tertia regula est. Quando prima nota siue sit quadra siue obliqua est altior secunda carens tractu sine proprietate dicitur et est prima longa ut hic [Lig2d,Lig2od,Lig3odacddx,Lig4doda]</p>
+      <p id="MURLIBM1_MMBAH1650094">Quarta regula est in omni ligatura prima nota habens tractum a parte sinistra ascendentem cum opposita proprietate dicitur et facit duas primas esse semibreues ut hic [Lig2cssnd,Lig2cssnod,Lig2cssna,Lig2cssnoa,Lig3cssndd,Lig4cssnaad]</p>
+      <p id="MURLIBM1_MMBAH1650095">Quinta regula est In omni ligatura ultima nota descendens in quadro posita cum perfectione dicitur et est longa, ut hic [Lig3cssndd,Lig4cssnaad,Lig2d,Lig3cdsndd,Lig4odad] Et in obliquo corpore figurata sub penultima sine perfectione dicitur et est brevis ut hic patet [Lig4ssndaod,Lig4cssnaaod]</p>
+      <p id="MURLIBM1_MMBAH1650096">Sexta regula est quod omnis ultima nota stans dirrecte supra penultimam habens tractum descendentem a parte dextra cum perfectione dicitur et est longa. Et secundum aliquos uocatur longa per oppositam proprietatem ut hic [Lig4cdsnddacddx,Lig6cssnddadacddx,Lig3cssnodacddx]</p>
+      <p id="MURLIBM1_MMBAH1650097">Septima regula est quod omnis ultima nota stans a latere supra penultimam sine tractu siue fuerit quadra siue obliqua sine perfectione dicitur esse et est breuis ut hic [Lig4cdsndda,Lig4cssnddoa,Lig2a,Lig4ada]</p>
+      <p id="MURLIBM1_MMBAH1650098">Octaua regula est In omni ligatura omnes notae in medio sunt breues ut hic [Lig3cdsndd,Lig4ddacddx,Lig6odadaod,Lig6aadad] Nisi prima esset cum opposita proprietate quia tunc secunda iret cum prima. namque una semibreuis iuxta quartam regulam predictam non potest stare sola in ligatura ut hic [Lig4cssndaod,Lig4cssnaad]</p>
+      <p id="MURLIBM1_MMBAH1650099">De Sincopa.</p>
+      <p id="MURLIBM1_MMBAH1650100">SIncopa est diuisio circumquaque figurarum per partes separatas qua numerando perfectiones ad inuicem reducuntur.</p>
+      <p id="MURLIBM1_MMBAH1650101">Potest. enim. fieri in modo et in tempore et prolatione.</p>
+      <p id="MURLIBM1_MMBAH1650102">Si sincopa fit in modo: Aut fit in modo perfecto aut in imperfecto.</p>
+      <p id="MURLIBM1_MMBAH1650103">Si fit in modo perfecto tunc est reperire tres breues separatas uel ualorem pro longa perfecta que numerando perfectiones ad inuicem reducuntur.</p>
+      <p id="MURLIBM1_MMBAH1650104">Si fit in modo imperfecto tunc est reperire duas breues separatas uel longam puncto perfectionis punctatam: cuius tertia pars ad aliquam breuem solam reducitur separatam.</p>
+      <p id="MURLIBM1_MMBAH1650105">Si sincopa fiat in tempore perfecto tunc est reperire tres semibreues separatas uel ualorem pro breui perfecta. que ad inuicem reducuntur perfectiones numerando.</p>
+      <p id="MURLIBM1_MMBAH1650106">Si fiat in tempore. imperfecto est reperire unam uel duas breues puncto perfectionis punctatas: 
+      <pb n="[f.22r]" />quarum tertia pars ad aliquam semibreuem solam reducitur separatam.</p>
+      <p id="MURLIBM1_MMBAH1650107">Similiter si fit in prolatione sincopa: Aut fit in maiori aut in minori. Si in maiori tunc est reperire tres minimas separatas uel ualorem semibreuis maioris prolationis que ad inuicem reducuntur perfectiones numerando. Si in minori prolatione tunc est reperire duas semibreues puncto perfectionis punctatas, quarum tertia pars ad aliquam solam minimam reducitur separatam.</p>
+      <p id="MURLIBM1_MMBAH1650108">Item notandum est quod nota numquam per sincopam debet reduci ultra pausam maiorem se ut puta minima ultra pausam semibreuis uel semibreuis ultra pausam breuis. et sic de alijs.</p>
+      <p id="MURLIBM1_MMBAH1650109">De pausis.</p>
+      <p id="MURLIBM1_MMBAH1650110">PAusa nil aliud est nisi uocis ommissio uel aspiratio in musica mensurata per tot tempora quot fuerit figurata. Quoniam pausa ualet tot tempora quot occupat spacia.</p>
+      <p id="MURLIBM1_MMBAH1650111">Vnde si tria occupat spatia tria ualet tempora. Si duo duo tempora. Si unum spatium unum ualet tempus.</p>
+      <p id="MURLIBM1_MMBAH1650112">Et nota quod maior pausa quam trium temporum non est ponenda sed potius duplicanda si fuerit necesse.</p>
+      <p id="MURLIBM1_MMBAH1650113">Pausa semibreuis debet incipere in linea et descendere usque ad medium spatij.</p>
+      <p id="MURLIBM1_MMBAH1650114">Pausa minimae debet incipere in linea et ascendere usque ad medium spatij.</p>
+      <p id="MURLIBM1_MMBAH1650115">Et pausae semiminimarum similiter sed addito semicirculo in apice ut hijs descriptionibus notissime percipitur</p>
+      <p id="MURLIBM1_MMBAH1650116">[3LP,2LP,BP,SP,MP,SMP on staff5]</p>
+      <p id="MURLIBM1_MMBAH1650117">Item nota quod pausae non possunt alterari nec imperfici.</p>
+      <p id="MURLIBM1_MMBAH1650118">Insuper nota quod non debet poni pausa semibreuis neque maior nisi completa prolatione.</p>
+      <p id="MURLIBM1_MMBAH1650119">Neque debet poni pausa breuis neque maior nisi completo tempore.</p>
+      <p id="MURLIBM1_MMBAH1650120">Nec debet poni pausa trium temporum nisi completo modo. Et hec de pausis sufficiant.</p>
+      <p id="MURLIBM1_MMBAH1650121">De diminutione.</p>
+      <p id="MURLIBM1_MMBAH1650122">DIminutio est illa quae saepe fit in temporibus musicarum cantilenarum. circa quam notandum est.</p>
+      <p id="MURLIBM1_MMBAH1650123">Primo quod pro Maxima ponitur longa in diminutione. et pro Longa ponitur breuis. pro Breui Semibreuis. pro Semibreui Minima</p>
+      <p id="MURLIBM1_MMBAH1650124">Secundo notandum est quod quando tenor est de modo imperfecto siue fuerit de tempore perfecto siue imperfecto diminutio fit recte per medium notarum et pausarum.</p>
+      <p id="MURLIBM1_MMBAH1650125">
+      <pb n="[f.22v]" />Tertio notandum est quod quando tenor est de modo perfecto et tempore imperfecto diminutio etiam fit per medium sicut pro longa ualente tres breues ponitur ualens tres semibreues.</p>
+      <p id="MURLIBM1_MMBAH1650126">Quarto notandum est quod quando tenor est de modo perfecto et tempore perfecto diminutio fit per tertium et non per medium. Et haec de diminutione dicta sufficiant.</p>
+      <p id="MURLIBM1_MMBAH1650127">De Colore.</p>
+      <p id="MURLIBM1_MMBAH1650128">COlor in musica vocatur similium figurarum pluries unius processus repetita positio in eodem cantu.</p>
+      <p id="MURLIBM1_MMBAH1650129">Pro quo notandum est quod nonnulli cantores ponunt differentiam inter colorem et talam.</p>
+      <p id="MURLIBM1_MMBAH1650130">Colorem namque uocant quando repetunt easdem notas et uoces.</p>
+      <p id="MURLIBM1_MMBAH1650131">Talam uero dicunt quando repetuntur similes figurae sed diuersarum vocum: de quibus differentijs constat in pluribus motettis.</p>
+      <p id="MURLIBM1_MMBAH1650132">Ioannis de Muris musici Parisiensis practica musicae explicit. scripta in domo ecclesiae Sancti Marcelini ciuitatis Mediolani. die mercurij nono Ianuarij 1499 per me Franchinum Gaforum laudensem musicam profitentem.</p>
+    </body>
+  </text>
+</TEI>

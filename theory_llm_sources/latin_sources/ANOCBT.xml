@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Commemoratio brevis de tonis et psalmis modulandis</title>
+        <title type="abbrev">ANOCBT</title>
+        <author>Anonymous</author>
+        <date notBefore="800" notAfter="1099">9th-11th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Andreas Giger</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Andreas Giger</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1999</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Terence Bailey, ed., 
+<emph>Commemoratio brevis de tonis et psalmis modulandis: Introduction, Critical Edition, Translation</emph>, Ottawa Mediaeval Texts and Studies, vol. 4 (Ottawa: University of Ottawa Press, 1979), 26–106 (even only). As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: Commemoratio brevis de tonis et psalmis modulandis</title>
+          
+<idno type="LML">COMM. BR.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">D-BAs Varia 1, 38v-40, 42v-46v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 14272, 173v-174</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 14649, 32v-33</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-W 72 Gud. Lat. 2°, 82v-87</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">E-Bac Ripoll 42, 57v-58 (Fragment)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 7211, 49-51v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 7212, 36-37v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Sm without shelfmark, x (?)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ccc 260, 51v-53v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">PL-Kj 1965, 30r-v</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANOCBT0001">
+      <pb n="[26]" />INCIPIT COMMEMORATIO BREVIS DE TONIS ET PSALMIS MODVLANDIS. [Ba 57v, Bg 42v, C 51v, J59, M1 32v, M2 173v, P (159), P1 36, P2 49, W 82v in marg.]</p>
+      <p id="ANOCBT0002">Debitvm servitvtis nostrae qui ad ministerivm laudationis Domini deputamur, non solum integrum debet esse et plenum, sed decenti quoque conuenientia iocundum atque suaue. Et ideo peritos nos esse conuenit officii nostri ut scienter et ornate confiteamur nomini sancto eius, et gloriemur in carminibus suis, quatinus et Deo nostro [P2 49v] iucunda sit decoraque laudatio, et audientes in operum Dei laudem et reuerentiam exardescant. Quamius enim Deo magis placeat qui corde quam qui voce canit, utrumque tamen ex ipso est [Bg 43] et dupliciter prodest, si utrvmque fiat, si scilicet et animo apud Deum dulciter canitur, et homines canoris dulcedo sancto affectv commouet. [C 52] Licet quoque multorum deuotio Deo ualde placeat, qui in psalmodia nec ipsa uerba rite effari queant, nequaquam tamen integrae est ille deuotionis, qui quod exhibere debet, quam optime et quam reuerentissime id possit, Deo non exhibet.</p>
+      <p id="ANOCBT0003">Citharedae et tibicines et reliqui musicorum uasa ferentes uel etiam cantores et cantrices [P1 36v] seculares omni student conatv quod canitur siue citharizatur ad delectandos 
+      <pb n="[28]" />audientes artis ratione temperare. Nos uero qui meruimus uerba maiestatis in os sumere, nosne sine arte et neglegenter proferimus cantica sanctitatis, ac non magis artis decorem in sacris assvmimus, quo illi abutuntur in nugis? [P 1v] Quapropter paruam hinc noticiam exerciciis vestris ex me destinatam suscipite, ut ex paruorvm scientia fiatis capatiores maiorum.</p>
+      <p id="ANOCBT0004">Itaque in octo tonos, quos ita nominamus, melodiam diuidimus, quorum differentias et proprietates ecclesiasticum cantorem, nisi ingenii tarditate obstante, culpabile est ignorare. E quibus quatvor sunt principales, alii uero [P2 50] quatvor singvlis principalibus ex latere subiunguntur. [M1 33]</p>
+      <p id="ANOCBT0005">Primus itaque tonus principalis apud cantores autentus protus, id est auctoralis primus [Bg 43v] vocatur. Cui subiungitur qui plagis protus, id est lateralis uel obliquus primus dicitur. Secundus tonus principalis autentus deuteros, id est auc[Ba 58]toralis secundus nominatur, [J 60] cum quo incedit plagis deuteros, id est lateralis secundus. Tertius principalis autentus tritus, id est auctoralis tertius, et cum eo plagis tritus, hoc est lateralis tertius. [C 52v] Quartus principalis autentus tetrardus, cuius subiugalis est plagis tetrardus, id est lateralis quartvs.</p>
+      <p id="ANOCBT0006">
+      <pb n="[30]" />Secundum horum octo tonarum proprietates singulis suis modulationibus ad responsoria nostrates vtvntur, suis item ad maiores antiphonas quae scilicet in introitu ad missas canuntur, siue in fine celebrationis ad communionem. Porro illos modos per quos psalmi ad antiphonas modulantvr, in hoc opusculo habeo utcumque edicere, reliquis prioribus ob prolixitatem uitatis. Quos ad euidentiorem intellectum aut sonorum signis aut per sonorum uelut cordas singvlas subtus annotare curaui.</p>
+      <p id="ANOCBT0007">As[W 83]sv[P 2]matur itaque primi toni neuma regvlaris, quae ita se apud nos habet: [terminant hic Ba, J, M1]</p>
+      <p id="ANOCBT0008">[Commemoratio brevis, 30; text: Noanoeane] 
+      <figure>
+        <graphic url="/images/ANOCBT_01GF.gif" />
+      </figure></p>
+      <p id="ANOCBT0009">
+      <pb n="[32]" />Sequitur modulatio psalmi quae ascendit usque devtervm tetracordi superioris in sex consistens sonis: [Bg 44, P2 50v]</p>
+      <p id="ANOCBT0010">[Commemoratio brevis, 32; text: tonus, semitonium, Gloria et nunc et semper et in secula seculorum amen, [Antiphona] Evge serue bone [M2 174]]</p>
+      <p id="ANOCBT0011">
+      <pb n="[34]" />TONUS SECUNDUS SUBIUGALIS PRIMI [P1 37]</p>
+      <p id="ANOCBT0012">[Commemoratio brevis, 34,1; text: Noeais]</p>
+      <p id="ANOCBT0013">Sequitur modulatio psalmi quae in tetrardum terminalem eleuatur et descendit in tetrardum grauium nixa sonis quinque: [C 53]</p>
+      <p id="ANOCBT0014">[Commemoratio brevis, 34,2; text: tonus, semitonium, Gloria et nunc et semper et in secula seculorvm amen, [Antiphona] Magnum]</p>
+      <p id="ANOCBT0015">
+      <pb n="[36]" />TONUS TERTIUS, ID EST AUCTORALIS SECUNDUS</p>
+      <p id="ANOCBT0016">[Commemoratio brevis, 36,1; text: Noeanoeane] 
+      <figure>
+        <graphic url="/images/ANOCBT_02GF.gif" />
+      </figure></p>
+      <p id="ANOCBT0017">Sequitur modulatio psalmi eleuata in tetrardum superiorem in septem complexa sonis: [P 2v, Bg 44v]</p>
+      <p id="ANOCBT0018">[Commemoratio brevis, 36,2; text: tonus, semitonium, Gloria et nunc et semper et in secula seculorvm amen, [Antiphona] Qui de terra est de terra loquitvr]</p>
+      <p id="ANOCBT0019">
+      <pb n="[38]" />SEQUITUR TONUS QUARTUS SUBIUGALIS TERTII</p>
+      <p id="ANOCBT0020">[Commemoratio brevis, 38,1; text: Noeais]</p>
+      <p id="ANOCBT0021">Sequitur modvlatio psalmi erecta in devtervm superiorem: [W 83v, P2 51]</p>
+      <p id="ANOCBT0022">[Commemoratio brevis, 38,2; text: tonus, semitonium, Gloria et nunc et semper et in secula seculorvm amen, [Antiphona] Omnes autem uos fratres estis [C 53v]]</p>
+      <p id="ANOCBT0023">
+      <pb n="[40]" />SEQUITUR TONUS QUINTUS, ID EST AUCTORALIS TERCIUS</p>
+      <p id="ANOCBT0024">[Commemoratio brevis, 40,1; text: Noeane]</p>
+      <p id="ANOCBT0025">Sequitur modulatio psalmi, quae erigitvr usque in tetrardum superiorum sex conclusa sonis: [P1 37v]</p>
+      <p id="ANOCBT0026">[Commemoratio brevis, 40,2; text: tonus, semitonium, Gloria et nunc et semper et in secvla seculorum amen, [Antiphona] Paganorum multitudo fugiens ad sepulchrum [Bg 45, P 3]]</p>
+      <p id="ANOCBT0027">
+      <pb n="[42]" />TONUS SEXTUS SUBIUGALIS QUINTI</p>
+      <p id="ANOCBT0028">[Commemoratio brevis, 42,1; text: Anne] 
+      <figure>
+        <graphic url="/images/ANOCBT_03GF.gif" />
+      </figure></p>
+      <p id="ANOCBT0029">Sequitur modulatio psalmi, sonis consistens quatuor:</p>
+      <p id="ANOCBT0030">[Commemoratio brevis, 42,2; text: tonus, Gloria et nunc et semper et in secula seculorvm amen]</p>
+      <p id="ANOCBT0031">SEQUITUR TONUS SEPTIMUS ID EST AUCTORALIS QUARTUS</p>
+      <p id="ANOCBT0032">[Commemoratio brevis, 42,3; text: Noeane]</p>
+      <p id="ANOCBT0033">
+      <pb n="[44]" />Sequitvr modulatio psalmi elevata usque in devterum excellentem: [terminant hic C, M2, P1, P2]</p>
+      <p id="ANOCBT0034">[Commemoratio brevis, 44,1; text: tonus, semitonium, Gloria et nunc et semper et in secula seculorvm amen, [Antiphona] Ioseph fili Dauid noli timere accipere]</p>
+      <p id="ANOCBT0035">SEQUITUR TONUS OCTAUUS QUI EST SUBIUGALIS SEPTIMI [W 84]</p>
+      <p id="ANOCBT0036">[Commemoratio brevis, 44,2; text: Noeais]</p>
+      <p id="ANOCBT0037">Sequitur modvlatio psalmi pertingens ad quartvm tetracordi superioris: [Bg 45v]</p>
+      <p id="ANOCBT0038">[Commemoratio brevis, 44,3; text: tonus, semitonium, Gloria et nunc et semper et in secula seculorvm amen, [Antiphona] Per uiscera misericordie Dei nostri [P 3v]]</p>
+      <p id="ANOCBT0039">
+      <pb n="[46]" />Hae sunt modulationes quas ad antiphonas accipimus octo tonorum, quae ordinem acceperunt ab ordine sonorum sursum numeratorum. Quas tamen modulationes ubi morosiori cantu est opus, utpote ad cantica euangeliorum, cum ad hoc uacat, secundum quod superius expressum est, assumere solemus. Porro ad cursvm canendum isdem quidem, sed expeditioribus melodiis utimur, quas nihilominus in hac subiecta notatione significare curaui. Noeane [et cetera] uero non sunt uerba aliquid significantia, sed syllabae ad inuestigandam melodiam aptae.</p>
+      <p id="ANOCBT0040">PRIMUS TONUS</p>
+      <p id="ANOCBT0041">[Commemoratio brevis, 46,1; text: Beati inmaculati in uia *qui ambulant in lege Domini] 
+      <figure>
+        <graphic url="/images/ANOCBT_04GF.gif" />
+      </figure></p>
+      <p id="ANOCBT0042">SECUNDUS TONUS</p>
+      <p id="ANOCBT0043">[Commemoratio brevis, 46,2; text: Beati qui scrutantur testimonia eius *in toto corde exquirunt evm]</p>
+      <p id="ANOCBT0044">
+      <pb n="[48]" />TERTIUS TONUS</p>
+      <p id="ANOCBT0045">[Commemoratio brevis, 48,1; text: Non enim qui operantur iniquitatem *in uiis eius ambulauerunt]</p>
+      <p id="ANOCBT0046">QUARTUS TONUS</p>
+      <p id="ANOCBT0047">[Commemoratio brevis, 48,2; text: Tu mandasti mandata tua *custodiri nimis]</p>
+      <p id="ANOCBT0048">QUINTUS TONUS</p>
+      <p id="ANOCBT0049">[Commemoratio brevis, 48,3; text: Utinam dirigantur uiae meae *ad custodiendas iustificationes tuas]</p>
+      <p id="ANOCBT0050">SEXTUS TONUS</p>
+      <p id="ANOCBT0051">[Commemoratio brevis, 48,4; text: Tunc non confundar dum perspicio *in omnia mandata tua [Bg 46]]</p>
+      <p id="ANOCBT0052">
+      <pb n="[50]" />SEPTIMUS TONUS</p>
+      <p id="ANOCBT0053">[Commemoratio brevis, 50,1; text: Confitebor tibi Domine in directione cordis *quod didici iudicia tva]</p>
+      <p id="ANOCBT0054">OCTAUUS TONUS</p>
+      <p id="ANOCBT0055">[Commemoratio brevis, 50,2; text: Iustificationes tuas custodiam *non me derelinquas usquequaque [P 4]]</p>
+      <p id="ANOCBT0056">Extra has quoque ad plerosque desupradictis tonis et aliae psalmorum modulationes aptantur, utpote ad antiphonas istas Benedicta tv in mulieribus et Ex Egypto uocaui filium mevm et reliquas his similes, quae secundo deputan[W 84v]dae sunt tono quae per duos diuersos modos alternatim valent inter choros cantari, ut suo modo unus chorus suum uersum pronuntiat et alter alio modo respondeat.</p>
+      <p id="ANOCBT0057">[Commemoratio brevis, 50,3; text: [Antiphona] Benedicta tu in mvlieribus et benedictus fructus uentris tui]</p>
+      <p id="ANOCBT0058">
+      <pb n="[52]" />[Commemoratio brevis, 52,1; text: Benedictus Dominus Deus Israel *quia uisitauit et fecit redemptionem plebis suae, Et erexit cornu salutis nobis *in domo Dauid pueri sui] 
+      <figure>
+        <graphic url="/images/ANOCBT_05GF.gif" />
+      </figure></p>
+      <p id="ANOCBT0059">Item tono sexto hoc quoque modo psalmi ad antiphonas modulantur:</p>
+      <p id="ANOCBT0060">[Commemoratio brevis, 52,2; text: [Antiphona] Notum fecit Dominus alleluia, Cantate Domino canticum nouum *quia mirabilia fecit Dominus, Saluauit sibi dextera eius *et brachium sanctum eius. Notum fecit Dominus salutare suum *ante conspectvm gentium reuelauit iustitiam suam]</p>
+      <p id="ANOCBT0061">et reliqua.</p>
+      <p id="ANOCBT0062">
+      <pb n="[54]" />Sunt etiam propriae ad quasdam antiphonas modulationes suae, [Bg 46v] sicut in hac secundi toni antiphona:</p>
+      <p id="ANOCBT0063">[Commemoratio brevis, 54,1; text: [Antiphona] Anima mea exultabit in Domino delectabitur in salutari suo, Iudica Domine nocentes me *expugna inpugnantes me, Adprehende arma et scutum *et exurge in adiutorium mihi, Effunde frameam et conclude aduersus eos qui me [P 4v] persequuntur *dic animae meae salus tua ego sum]</p>
+      <p id="ANOCBT0064">et cetera.</p>
+      <p id="ANOCBT0065">Item ad tonum nouissimvm:</p>
+      <p id="ANOCBT0066">[Commemoratio brevis, 54,2; text: [Antiphona] In templo Domini omnes dicent gloriam, Afferte Domino filii Dei *afferte Domino filios arietvm]</p>
+      <p id="ANOCBT0067">
+      <pb n="[56]" />Similiter ad antiphonas:</p>
+      <p id="ANOCBT0068">[Commemoratio brevis, 56,1; text: [Antiphona] Nos qui uiuimus benedicimus Dominum. Martyres Domini Dominum benedicite in aeternum] 
+      <figure>
+        <graphic url="/images/ANOCBT_06GF.gif" />
+      </figure></p>
+      <p id="ANOCBT0069">et alia huiusmodi, siqua sunt.</p>
+      <p id="ANOCBT0070">Preterea pro diuersitate antiphonarum quae psalmis adiunguntur, per omnes pene octo tonorum melodias finis uersuum uariatur, quarum diuersitatum in primo tono hae formae sunt:</p>
+      <p id="ANOCBT0071">Primus Modus:</p>
+      <p id="ANOCBT0072">[Commemoratio brevis, 56,2; text: Gloria seculorum amen, [Antiphona] Ecce nomen Domini]</p>
+      <p id="ANOCBT0073">
+      <pb n="[58]" />Secundus [Modus]:</p>
+      <p id="ANOCBT0074">[Commemoratio brevis, 58,1; text: Seculorum amen, [Antiphona] Euge serue bone [terminat Bg]]</p>
+      <p id="ANOCBT0075">Tertius [Modus]:</p>
+      <p id="ANOCBT0076">[Commemoratio brevis, 58,2; text: Seculorum amen, [Antiphona] Apertis thesauris suis]</p>
+      <p id="ANOCBT0077">Quartus Modus:</p>
+      <p id="ANOCBT0078">[Commemoratio brevis, 58,3; text: Seculorum amen, [Antiphona] Sol et luna]</p>
+      <p id="ANOCBT0079">
+      <pb n="[60]" />Similiter et medietates seu distinctiones in uersibus pro diuersa positione uerborum diuerse habent. Exempli causa primus modus:</p>
+      <p id="ANOCBT0080">[Commemoratio brevis, 60,1; text: Eructauit cor meum uerbum bonum *dico ego, Propterea benedixit te Deus in aeternum *accingere [gladio], Myrra et gutta et casia a uestimentis tuis *a gradibus]</p>
+      <p id="ANOCBT0081">Secundus Modus:</p>
+      <p id="ANOCBT0082">[Commemoratio brevis, 60,2; text: Lingua mea calamus scribe *uelociter [scribentis], Speciem tuam et pulchritvdinem tuam intende *[prospere], Dilexisti iusticiam et odisti iniquitatem *propterea]</p>
+      <p id="ANOCBT0083">
+      <pb n="[62]" />Tertius Modus:</p>
+      <p id="ANOCBT0084">[Commemoratio brevis, 62,1; text: Speciosus forma pre filiis hominum *diffusa, Sedes tua Deus in seculum seculi *[uirga]] 
+      <figure>
+        <graphic url="/images/ANOCBT_07GF.gif" />
+      </figure></p>
+      <p id="ANOCBT0085">Quartus Modus:</p>
+      <p id="ANOCBT0086">[Commemoratio brevis, 62,2; text: Propter ueritatem et mansuetvdinem et iusticiam [P 5] *et dedisti, Sagittae tuae acutae potentissimae *populi]</p>
+      <p id="ANOCBT0087">Quintus Modus:</p>
+      <p id="ANOCBT0088">Nam et testimonia tva meditatio mea est *et consolatio</p>
+      <p id="ANOCBT0089">Sextus Modus:</p>
+      <p id="ANOCBT0090">[exemplum vacat]</p>
+      <p id="ANOCBT0091">
+      <pb n="[64]" />[SECUNDUS TONUS]</p>
+      <p id="ANOCBT0092">Gloria seculorum amen</p>
+      <p id="ANOCBT0093">Primus Modus:</p>
+      <p id="ANOCBT0094">[Commemoratio brevis, 64,1; text: Dies diei eructat uerbum *et nox nocti indicat scientiam, Desiderabilia super aurum [W 85] et lapidem preciosum multum *et dulciora, Si mei non fuerint dominati tunc inmaculatus ero *et emundabor, Et erunt ut complaceant eloquia oris mei *et meditatio]</p>
+      <p id="ANOCBT0095">Secundus Modus:</p>
+      <p id="ANOCBT0096">[Commemoratio brevis, 64,2; text: Caeli enarrant gloriam Dei *et opera]</p>
+      <p id="ANOCBT0097">
+      <pb n="[66]" />[Commemoratio brevis, 66,1; text: Nam et seruus tuus custodiet ea *in custodiendo, Fiant dies eius pauci *et episcopatum] 
+      <figure>
+        <graphic url="/images/ANOCBT_08GF.gif" />
+      </figure></p>
+      <p id="ANOCBT0098">Tertius Modus:</p>
+      <p id="ANOCBT0099">[Commemoratio brevis, 66,2; text: Magna est gloria eius in salutari tuo *gloriam, Inuenietur manus tua omnibus inimicis tuis *dextera]</p>
+      <p id="ANOCBT0100">Quartus Modus:</p>
+      <p id="ANOCBT0101">[Commemoratio brevis, 66,3; text: Non sunt loquelae neque sermones *quorum non audientur uerba, Quoniam alieni insurgunt in me et fortes quesierunt animam meam *et non proposuerunt Deum]</p>
+      <p id="ANOCBT0102">
+      <pb n="[68]" />Quintus Modus:</p>
+      <p id="ANOCBT0103">[Commemoratio brevis, 68,1; text: Lex Domini inreprehensibilis conuertens animas *testimonium, Iustitiae Domini rectae letificantes corda *preceptum Domini]</p>
+      <p id="ANOCBT0104">Sextus Modus:</p>
+      <p id="ANOCBT0105">[Commemoratio brevis, 68,2; text: Domine in uirtute tua laetabitur rex *et super salutare, Deus Deus meus respice in me *[quare me]]</p>
+      <p id="ANOCBT0106">Sunt preterea multa quae conferri magis quam scribi oportet, quae scilicet in principiis uel in distinctionibus et membris uersuum pro accentuum aut euphoniae ratione obseruanda sunt. Accentuum dumtaxat ut melo Dorio canens dicat: [P 5v]</p>
+      <p id="ANOCBT0107">[Commemoratio brevis, 68,3; text: Si reddidi retribuentibus mihi mala *decidam merito]</p>
+      <p id="ANOCBT0108">
+      <pb n="[70]" />uel inferiore:</p>
+      <p id="ANOCBT0109">[Commemoratio brevis, 70,1; text: Et propter hanc in altum regredere *Domine iudica] 
+      <figure>
+        <graphic url="/images/ANOCBT_09GF.gif" />
+      </figure></p>
+      <p id="ANOCBT0110">uel ita potius:</p>
+      <p id="ANOCBT0111">[Commemoratio brevis, 70,2; text: Diligam te Domine uirtus mea *Dominus firmamentum]</p>
+      <p id="ANOCBT0112">Item:</p>
+      <p id="ANOCBT0113">[Commemoratio brevis, 70,3; text: Saluum me fac Domine quoniam defecit sanctus *quoniam diminutae]</p>
+      <p id="ANOCBT0114">Quamuis super doctus quisque superuacuae ammonetur.</p>
+      <p id="ANOCBT0115">Item pro euphoniae causa, ut ibi in distinguendo uocales [quae] coeunt hiatus quantum ualet uitetur, vt:</p>
+      <p id="ANOCBT0116">[Commemoratio brevis, 70,4; text: Ego autem sum uermis et non homo *opprobrium hominum]</p>
+      <p id="ANOCBT0117">
+      <pb n="[72]" />[Commemoratio brevis, 72,1; text: Exurge Domine in ira tua *et exaltare, Exurge Domine Deus meus in precepto quod mandasti *et synagoga, Corripuit me iustvs in misericordia et increpauit me *oleum autem]</p>
+      <p id="ANOCBT0118">Pro euphonia quoque siue colis:</p>
+      <p id="ANOCBT0119">[Commemoratio brevis, 72,2; text: Et propter hanc in altum regredere *Domine iudica populos, Arcum suum tetendit et parauit eum *et in ipso parauit vasa mortis sagitas suas, Lacum aperuit et effodit eum *et incidit in foueam, Confitemini Domino secundum iustitiam eius *et psallam nomini Domini]</p>
+      <p id="ANOCBT0120">
+      <pb n="[74]" />Similiter in tercio uel et in quarto et in ceteris eadem attendantur. Tonus sextus imitatur primum et secundum nouissimus.</p>
+      <p id="ANOCBT0121">[TERTIUS TONUS]</p>
+      <p id="ANOCBT0122">[Commemoratio brevis, 74,1; text: Gloria seculorum amen, [Antiphona] Tv Betleem terra Iuda, Quando natus est] 
+      <figure>
+        <graphic url="/images/ANOCBT_10GF.gif" />
+      </figure></p>
+      <p id="ANOCBT0123">[Primus Modus:]</p>
+      <p id="ANOCBT0124">[Commemoratio brevis, 74,2; text: Deus iudicium tvum regi da *et iusticiam tvam filio regis, Suscipiant montes pacem populo tuo *et colles iusticiam [P 6, W 85v]]</p>
+      <p id="ANOCBT0125">
+      <pb n="[76]" />[Commemoratio brevis, 76,1; text: In sua iustitia iudicabit pauperes huius populi *et saluos faciet filios paupervm]</p>
+      <p id="ANOCBT0126">Secundus Modus:</p>
+      <p id="ANOCBT0127">[Commemoratio brevis, 76,2; text: Et humiliabit calumniatorem *et permanebit cum sole et ante lunam in seculum seculi, Et descendit sicut pluuia in uellus *et sicut stillicidia stillantia super terram, Et uiuet et dabitur ei de auro Arabie *et adorabunt de ipso semper tota die benedicent]</p>
+      <p id="ANOCBT0128">
+      <pb n="[78]" />[Commemoratio brevis, 78,1; text: Benedictus Dominus Deus Israhel qui facit mirabilia magna solus *et benedictum nomen maiestatis eius *in aeternum in seculum seculi, Hic accipiet benedictionem a Domino *et misericordiam a Deo] 
+      <figure>
+        <graphic url="/images/ANOCBT_11GF.gif" />
+      </figure></p>
+      <p id="ANOCBT0129">Tertius Modus:</p>
+      <p id="ANOCBT0130">[Commemoratio brevis, 78,2; text: Coram illo procident Ethiopes *et inimici, Reges Tharsis et insule munera offerent *reges Arabum, Parcet pauperi et inopi *et animas pauperum]</p>
+      <p id="ANOCBT0131">
+      <pb n="[80]" />QUARTUS TONUS</p>
+      <p id="ANOCBT0132">[Commemoratio brevis, 80; text: Gloria seculorum amen, [Antiphona] Innuebant patri eius, Uigilate animo, Hymnum dicite, Omnes autem uos fratres estis]</p>
+      <p id="ANOCBT0133">
+      <pb n="[82]" />[Commemoratio brevis, 82,1; text: Seculorum amen, [Antiphona] Laudabo Deum meum] 
+      <figure>
+        <graphic url="/images/ANOCBT_12GF.gif" />
+      </figure></p>
+      <p id="ANOCBT0134">Primus Modus:</p>
+      <p id="ANOCBT0135">[Commemoratio brevis, 82,2; text: Dies diei eructat uerbum *et nox nocti, Desiderium super aurum et lapidem pretiosum multvm *[et dulciora], Si mei non fuerint dominati tunc inmaculatus ero *et emvndabor]</p>
+      <p id="ANOCBT0136">Secundus Modus:</p>
+      <p id="ANOCBT0137">[Commemoratio brevis, 82,3; text: Caeli enarrant gloriam Dei *et opera manuum, Nam et seruus tuus custodiet ea *in custodiendo illa]</p>
+      <p id="ANOCBT0138">
+      <pb n="[84]" />Tertius Modus:</p>
+      <p id="ANOCBT0139">[Commemoratio brevis, 84,1; text: Magna est gloria eius in salutari tuo *gloriam et magnum, Inueniatur manus tua omnibus inimicis tuis *dex[P 6v]tera tva]</p>
+      <p id="ANOCBT0140">Quartus Modvs:</p>
+      <p id="ANOCBT0141">[Commemoratio brevis, 84,2; text: Non sunt loquelae neque sermones *quorum non audiantvr, Hic accipiet benedictionem a Domino *et misericordiam a Deo, Quoniam alieni insurrexerunt aduersum me et fortes quesierunt animam meam *et non proposuerunt]</p>
+      <p id="ANOCBT0142">
+      <pb n="[86]" />Quintus Modvs:</p>
+      <p id="ANOCBT0143">[Commemoratio brevis, 86,1; text: Iusticiae Domini rectae laetificantes corda *preceptum Domini] 
+      <figure>
+        <graphic url="/images/ANOCBT_13GF.gif" />
+      </figure></p>
+      <p id="ANOCBT0144">Sextus Modus:</p>
+      <p id="ANOCBT0145">[Commemoratio brevis, 86,2; text: Deus Deus meus respice [in] me *quare me dereliquisti]</p>
+      <p id="ANOCBT0146">QUINTUS TONUS</p>
+      <p id="ANOCBT0147">[Commemoratio brevis, 86,3; text: Gloria seculorum amen, [Antiphona] Soluite templum hoc, Uox clamantis]</p>
+      <p id="ANOCBT0148">
+      <pb n="[88]" />Psalmus:</p>
+      <p id="ANOCBT0149">[Commemoratio brevis, 88; text: Confitebor tibi Domine in toto corde meo *quoniam audisti uerba oris mei, Adorabo ad templum sanctum tuum *et confitebor nomini tvo super misericordia tua et ueritate tva *qvoniam, In quacumque die inuocauero te exaudi me *multiplicabis, Confitebor tibi Domine omnes reges terrae *quoniam, Quoniam magna est gloria Domini *quoniam]</p>
+      <p id="ANOCBT0150">
+      <pb n="[90]" />[Commemoratio brevis, 90; text: Si ambulabis in medio tribulationis uivificabis me et super iram inimicorum meorum extendes manum tuam *et saluum me fecit, Domine retribue pro me *Domine misericordia tua in seculum *et opera manuum, Dominus regnauit exultet terra *laetentur [insulae], Nubes et caligo in circuitu eius *iusticiam et iudicium] 
+      <figure>
+        <graphic url="/images/ANOCBT_14GF.gif" />
+      </figure></p>
+      <p id="ANOCBT0151">
+      <pb n="[92]" />[Commemoratio brevis, 92; text: Ignis ante ipsum praecedet *et inflammauit, Illuxerunt fulgvra eius orbi terrae *vidit [et], Montes sicut cera fluxerunt a facie Domini *a facie, Annuntiauerunt caeli iusticiam eius *et uiderunt omnes, Confundantur omnes qui adorant sculptilia *et qui gloriantur, Adorate [P 7] eum omnes angeli eius *audiuit [et], Quoniam tu es Deus [W 8] altissimus super omnem terram *nimis [exaltatus], Qui diligitis Dominum odite malum *custodit Dominus, Lux orta est iusto et rectis corde laeticia *laetamini]</p>
+      <p id="ANOCBT0152">
+      <pb n="[94]" />DE TONO SEPTIMO</p>
+      <p id="ANOCBT0153">[Commemoratio brevis, 94; text: Gloria seculorum amen. [Antiphona] Orabat Iudas, Omnes sitientes, Misit Dominus angelum, Orante sancta Lucia] 
+      <figure>
+        <graphic url="/images/ANOCBT_15GF.gif" />
+      </figure></p>
+      <p id="ANOCBT0154">
+      <pb n="[96]" />[Psalmus:]</p>
+      <p id="ANOCBT0155">[Commemoratio brevis, 96,1; text: Benedictus Dominus Deus Israel *quia uisitauit et fecit redemptionem plebis suae, Et erexit cornu salutis nobis *in domo Dauid pueri sui, Sicut locutus est per os sanctorvm *[qui a seculo]]</p>
+      <p id="ANOCBT0156">DE TONO OCTAUO</p>
+      <p id="ANOCBT0157">[Commemoratio brevis, 96,2; text: Gloria seculorum amen, [Antiphona] Uenite post me]</p>
+      <p id="ANOCBT0158">
+      <pb n="[98]" />[Commemoratio brevis, 98; text: Seculorum amen, [Antiphona] Omnes gentes per girum, Hodie scietis, Propicius esto peccatis nostris Domine] 
+      <figure>
+        <graphic url="/images/ANOCBT_16GF.gif" />
+      </figure></p>
+      <p id="ANOCBT0159">Haec itaque, propter tardiores fratres, exempli causa congesta sunt abundantiore fortasse copia quam decuerit. Non frustra tamen si quis haec curat, nec superuacuae diligentiae obiurgat.</p>
+      <p id="ANOCBT0160">[Bg 38v] Hoc uero admonendum quia quaedam non eiusdem toni antiphonae indiscretam iniciorum similitudinem habent, ut in sequentiis cui melo quaeque aptanda sit uideatur, et maxime cuiusque cantus attendatur finis in quo cuiusque toni proprietas euidentius claret uerbi causa:</p>
+      <p id="ANOCBT0161">
+      <pb n="[100]" />[Commemoratio brevis, 100,1; text: [Antiphona] A bimatu et infra occidit multos pueros Herodes propter Dominum, Ambulabunt mecum in albis quoniam digni sunt et non delebo nomina eorum de libro uitae]</p>
+      <p id="ANOCBT0162">Hae quidem antiphonae simili principio ordiuntur sed [P 7v] mox in processu discrepant et una secundi altera quarti toni melo deputanda apparet. Similiter in multis. Sunt etiam, ad quas canendi sunt psalmi, iuxta principalis melodiam cum subiugalis habeant finem. Aut iuxta subiugalem modulentur et in principalem desinant. Sunt qui non in finalem sonum terminantur sed in grauiorem qui sub se est. Repetit autem neuma finalis illum in quo legitime cantus consistit et finit, vt: [Bg 39]</p>
+      <p id="ANOCBT0163">[Commemoratio brevis, 100,2; text: [Antiphona] Scimus quoniam diligentibus Deum omnia cooperantur in bonum his qui secundum propositum uocati sunt sancti]</p>
+      <p id="ANOCBT0164">
+      <pb n="[102]" />Sunt quaedam nothae [modulationes] ad quas psalmi proprio modo non aptantur, quae conferendo magis insinuari possunt.</p>
+      <p id="ANOCBT0165">De cetero ante omnia sollicitius obseruandum ut aequalitate diligenti cantilena promatur, qua utique si careat praecipuo [W 86v] suo priuatur iure et legitima perfectione fraudatur. Sine hac quippe chorus concentu confunditur dissono, nec cum aliis concorditer quilibet cantare potest nec solus docte.</p>
+      <p id="ANOCBT0166">Aequitate plane pulchritudinem omnem nec minus quae auditu quam quae uisu percipitur Deus auctor constare instituit, quia in mensura et pondere et numero cuncta disposuit.</p>
+      <p id="ANOCBT0167">Inaequalitas ergo cantionis cantica sacra non uiciet, non per momenta neuma quaelibet aut sonus indecenter protendatur aut contrahatur, non per incuriam in vno cantv uerbi gratia responsorii uel ceterorum segnius quam [P 8] prius protrahi incipiatur. Item breuia quaeque impeditiosiora non sint quam conueniat breuibus, nec longa inaequalitate lubrica festinantius labantur quam conueniat longis. Uerum omnia longa aequaliter longa [sicut] breuium sit par breuitas, exceptis distinctionibus quae [nihilominus] simili cautela in cantu obseruandae sunt. Omnia quae diu ad ea quae non diu legitimis inter se morulis numerose concurrant et cantus quilibet totus eodem [Bg 39v] celeritatis tenore a fine usque ad finem peregatur.</p>
+      <p id="ANOCBT0168">Hac tamen ratione seruata dum in cantu qui raptim canitur, circa finem aut aliquando circa initium longiori mora melos protendendum est. Aut cantus qui morose canitur modis celerioribus finiendus ut pro modo breuitatis prolixitas prolongetur, et secundum moras longitvdinis momenta formentur breuia, ut nec maiore nec minore sed semper unum alterum duplo svperet. Dum canente quolibet respondetur ab alio unum morositas seruent utrique modum, nec unus altero impeditiosius aut celerius canet.</p>
+      <p id="ANOCBT0169">
+      <pb n="[104]" />Hac pariter diligentia custodita, ut uoces in unum amborum coeant, nec qui succinit humilius uel celsius respondeat quam ille qui praecinit, sed quantum fieri valet haec dissonantia caueatur. Siue eiusdem sint modi uoces ambae seu alia pro conuenientia aut necessitate mutanda, sint tamen prout seruari potest ambae aequisonae. Modum autem eundem uocis dico donec in alteram transeat et in nouam mutetvr.</p>
+      <p id="ANOCBT0170">Preterea quemadmodum psalmi uel alia quaelibet melodia ad rationem causae uel temporis [P 8v] pro paucitate uero seu multitudine cantorum celsius uel humilius canendi sunt, nec enim indifferenti altitudinis modo cantum cuiusque temporis modulari oportet, uerbi gratia matutina laeticia elatiore canore celebranda quam nocturna sinaxis, at nocturna quidam uigilanter sed temperate. Psalmi qui continuatim [Bg 40] cum suis antiphonis dicuntur ad uesperam dumtaxat quinque aut quatvor ad nocturnas sex uel tres, illi etiam qui ad matutinas deputati sunt, aut aequali elatione omnes imponendi aut certe a primo ad extremum melodia gradatim debet, et moderate in altum excrescere. Cantica quoque euangelii altius et morosius ceteris, sicut inquam psalmis dicendis in efferendo et in submittendo ratio dictat modum. Ita nihilominus quam producte uel correpte [W 87] dici oportet. Uerum siue morosius siue celerius dicantur, hoc attendi semper debet ut honestis et plenis neumis congruo celeritatis pronuntientur modo ut nec nimiae protractionis tedeat, nec eos inreuerenti festinantia os ignobiliter canens ebulliat.</p>
+      <p id="ANOCBT0171">In pronuntiatione psalmorum cum antiphonis semper principia uersuum protendantur, una scilicet longa syllaba, longa autem pro modo correptionis quatinus chorus omnis pariter capere initia uersuum possit, et concorditer perducere. Similiter uersuvm finis una uel duabus 
+      <pb n="[106]" />productis [P 9] eadem longitudine syllabis, ut nec praeripiatur uersus sequens, praecedente nondum terminato nec rursus intercapedo maior sit inter uersum et uersum quam finalium syllabarum legitima longitudo.</p>
+      <p id="ANOCBT0172">Repetitio antiphonarum quae in fine uersuum inter captandum fit eadem qua psalmus celeritate percurrat, porro finito psalmo legitima productione protendatur duplo dumtaxat [Bg 40v] longius. Excepto dum cantica euangelica sic morose psalluntur, ut non longiori, sed eadem morositate antiphonam subsequi oporteat.</p>
+      <p id="ANOCBT0173">Haec qualicumque de psalmorum melodiis et aequitate canendi prout potui de diuersis collecta descripsi, non preiudicans illis qui easdem modulationes licet aliter non minus tamen bene et fortasse melius habent. Quae canendi aequitas rithmus grece latine dicitur numerus, quod certe omne melos more metri diligente mensurandum sit.</p>
+      <p id="ANOCBT0174">Hanc magistri scolarum studiose inculcare discentibus debent, et ab initio infantes eadem aequalitatis siue numerositatis disciplina informare. Inter cantandum aliqua pedum manuumue uel qualibet alia percussione numerum instruere, ut a primeuo usu aequalium et inaequalium distantia calleant, nec peiore usu assuescant. Quorum exercitiis haec pauca confeci cupiens eos laudis Dei disciplinam nosse et cum supplici deuotione scienter Deo obsequi.</p>
+      <p id="ANOCBT0175">
+      <pb n="[118]" />[Commemoratio brevis, 118; text: Noeaeane, Noeane, Noeanoeane, Noanoeane, Noeagi, I, II, III, IIII, V, VI, VII, VIII] 
+      <figure>
+        <graphic url="/images/ANOCBT_17GF.gif" />
+      </figure></p>
+      <p id="ANOCBT0176">MIRA UIDES LECTOR IUNIORIS UERBA CATONIS</p>
+      <p id="ANOCBT0177">HAS COLE UIRTUTES SALUA SIT ALMA FIDES</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Compositio monocordi secundum Enchiriadem</title>
+        <title type="abbrev">ANOME1A</title>
+        <author>Anonymous</author>
+        <date notBefore="800" notAfter="1099">9th-11th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Andreas Giger</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Anna Shparberg</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1999</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Hans Schmid, ed., 
+<emph>Musica et scolica enchiriadis una cum aliquibus tractatulis adiunctis</emph>, Bayerische Akademie der Wissenschaften, Veröffentlichungen der Musikhistorischen Kommission, Band 3 (Munich: Bayerische Akademie der Wissenschaften / C. H. Beck, 1981), 233–35 (left column only). As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: Mensura monochordi</title>
+          
+<idno type="LML">MON. Prima corda</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 2627, 84</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 10509, 64r-v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Nouv. acq. lat. 443, 34vb</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ctc R.15.22, 134v, 136v-137</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Ma M. 17 sup., 38v-39</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">US-MAL Ms. Ludwig XII 5, 40</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANOME1A0001">
+      <pb n="[233]" />COMPOSITIO MONOCORDI SECUNDUM ENCHIRIADEM</p>
+      <p id="ANOME1A0002">[left column] Prima corda notabitur per A. Divide totum A per medium et habebis octavam cordam H. Divide A usque ad H per medium et habebis D. Divide totum A per ter et habebis quintam cordam E. Accipe quartam partem de toto D et habebis G. Accipe terciam partem de toto E et facies nonam cordam, quam designabis per I. Appone retro ad I suam terciam partem et facies sextam cordam F. Appone retro ad G suam medietatem et habebis C. Appone retro ad F suam medietatem et facies secundam cordam B. Ecce novem cordas. Accipe de toto F terciam partem et habebis K. Divide totum D per medium et facies undecimam cordam, quae titulabitur per L. Partire totum E per medium et habebis duodecimam cordam per M. Partire F per medium et facies terciamdecimam 
+      <pb n="[234]" />[left column] cordam per N. Accipe de K terciam partem et facies quartamdecimam per O. Divide H per medium et facies quintamdecimam per P. Divide I per medium et facies sextamdecimam per Q. Divide K per medium et facies septimamdecimam per R. Accipe de O terciam partem et facies duodevicesimam per S. Ecce in Enchiriade duodeviginti cordae.</p>
+      <p id="ANOME1A0003">Primae quattuor cordae dicuntur graves A B C D. Item quattuor dicuntur finales E F G H. Aliae quattuor dicuntur superiores I K L M, et quattuor aliae excellentes N O P Q et super has sunt duae positae R S. Primae igitur quattuor notantur per hos caracteres [signa]. Aliae quattuor per hos notantur [signa]. Aliae quattuor per hos [signa]. Aliae quattuor per hos [signa]. Aliae duae hos habent caracteres [signa]. Ex his omnibus quaternis cordis prima vocatur protus, secunda deuterus, tercia tritus, quarta tetrardus.</p>
+      <p id="ANOME1A0004">
+      <pb n="[235]" />[left column] Cordae quaedam finales dicuntur, quia in eis omnis regularis cantus finitur. Quarta corda secundum Boetium et quinta secundum Enchiriadem sunt finales primi toni, qui dicitur protus, et secundi, qui dicitur plaga proti, qui est iunior primi toni. Quando plus ascenderit cantus de primo tono, tangit octavam cordam super finalem, et secundum quosdam rarissime tangit nonam. Descendit subtus a finali usque ad terciam et rarissime usque ad quartam. Secundus autem tonus, qui est iunior, ascendit supra finalem cordam usque ad quintam et raro tangit sextam et preter has tangit secundum Boetium paramese, quae non invenitur in alio monocordo. Descendit autem usque ad quartam et in Enchiriadi usque ad quintam. Iuniores vero alii aliquando quattuor, raro quinque descendunt. Similiter facies de aliis tonis. Est autem finalis corda in tercio et quarto tono secundum Boetium quinta, secundum Enchiriadem sexta. In quinto et sexto secundum Boetium sexta, secundum Enchiriadem septima. In septimo et octavo secundum Boetium septima, secundum Enchiriadem octava.</p>
+    </body>
+  </text>
+</TEI>

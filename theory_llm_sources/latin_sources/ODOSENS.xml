@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Liber opusculorum, capitula V-VI</title>
+        <title type="abbrev">ODOSENS</title>
+        <author>Odorannus de Sens</author>
+        <date notBefore="800" notAfter="1099">9th-11th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Andreas Giger</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Elisabeth Honn</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1997</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Odorannus de Sens, 
+<emph>Opera omnia: Textes édités</emph>, traduits et annotés par Robert-Henri Bautier et Monique Gilles, et, pour la partie musicologique, par Marie-Elisabeth Duchez et Michel Huglo (Paris: Centre national de la recherche scientifique, 1972), 150–225. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Odorannus Senonensis: Liber opusculorum</title>
+          
+<idno type="LML">ODOR. SEN.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">I-Rvat Reg. lat. 577, 1-100</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ODOSENS0001">
+      <pb n="[150]" />CAPITULUM V</p>
+      <p id="ODOSENS0002">[Ad Rotbertum monachum, de tonis musice]</p>
+      <p id="ODOSENS0003">[fol. 58 verso] Dimidiae parti animae suae fratri et consacerdoti Rotberto, peccatis maximis obvolutus frater [fol. 59] Odorannus, quicquit amico amicus.</p>
+      <p id="ODOSENS0004">Quod vere amicitia sit animorum societas, testatur, reverende frater, dulcior mihi melle dulcissimo, perfectissima tui animi caritas, quae me in tribulatione nuper posito non solum non erubuit, verum etiam ex pii cordis intimo lacrymas sepe fundendo et frequenter supernae majestati hostiam laudis immolando, semper tremendum judicem, ut spero, mihi placatum reddidit.</p>
+      <p id="ODOSENS0005">Nunc vero quia in retributione tanti beneficii nequaquam ignava opum pondera, quibus ad facinus nihil instructius cum habendi sitis incanduit, ad meritum nihil vilius cum ea sibi victor animus [fol. 59 verso] calcata subjecit, neque axiomata filosophorum Stoicorumque sophismatum cavillationes, sed, quod his melius estimas, recte modulandi noticiam a me tibi demostrari postulas, pandam tibi evidenter in quantum dederit superna pietas.</p>
+      <p id="ODOSENS0006">[1] Et primum musicarum cordarum nomina alfabeto continuo insignita prefigam; et sic demum regularium modorum nomina cum formulis subnectam.</p>
+      <p id="ODOSENS0007">Nomina vero cordarum idcirco tibi designo, ut si forte, auxiliante superna gratia, noticiam modulandi in regulari monochordo obtinere valueris, quot intervallis toni inter se differant dinoscere possis.</p>
+      <p id="ODOSENS0008">
+      <pb n="[152]" />[fol. 60] [Nomina cordarum alfabeto insignita]</p>
+      <p id="ODOSENS0009">A Proslambanomenos</p>
+      <p id="ODOSENS0010">id est adquisita vel adcantilenata</p>
+      <p id="ODOSENS0011">B Hypate hypaton</p>
+      <p id="ODOSENS0012">id est principalis principalium</p>
+      <p id="ODOSENS0013">C Parhypate hypaton</p>
+      <p id="ODOSENS0014">id est juxta principalem principalium</p>
+      <p id="ODOSENS0015">D Lichanos hypaton</p>
+      <p id="ODOSENS0016">id est tercia principalium</p>
+      <p id="ODOSENS0017">E Hypate meson</p>
+      <p id="ODOSENS0018">id est principalis mediarum</p>
+      <p id="ODOSENS0019">F Parhypate meson</p>
+      <p id="ODOSENS0020">id est juxta principalem mediarum</p>
+      <p id="ODOSENS0021">G Lichanos meson</p>
+      <p id="ODOSENS0022">id est tercia mediarum</p>
+      <p id="ODOSENS0023">H Mese</p>
+      <p id="ODOSENS0024">id est media inter graves et acutas et hoc notum sit studioso cantori quia ascensio gravium et descensio acutarum orditur usque ad meson. Tetracordum vero quod dicitur Sinemmenon, id est conjunctum, caveat [uti] conjunctum mese sciat.</p>
+      <p id="ODOSENS0025">Q Trite sinemmenon,</p>
+      <p id="ODOSENS0026">id est tercia conjunctarum</p>
+      <p class="textFig" id="ODOSENS0027">
+      <pb n="[154]" />&#160;I&#160;Paramese
+      <lb />id&#160;eat&#160;juxta&#160;meson
+      <br />K&#160;Trite&#160;diezeugmenon&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;vel&#160;Paranete&#160;sinemmenon
+      <lb />id&#160;est&#160;tercia&#160;disjunctarum&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;id&#160;est&#160;juxta&#160;netem&#160;conjunctarum
+      <br />L&#160;Parane&#160;diezeugmenon&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;vel&#160;Nete&#160;sinemmenon
+      <lb />id&#160;est&#160;juxta&#160;neten&#160;disjunctarum&#160;&#160;&#160;id&#160;est&#160;prima&#160;conjunctarum
+      <br />M&#160;Nete&#160;diezeugmenon
+      <lb />id&#160;est&#160;prima&#160;disjunctarum
+      <br />N&#160;Trite&#160;hyperboleon
+      <lb />id&#160;est&#160;tercia&#160;excellentium
+      <br />O&#160;Paranete&#160;hyperboleon
+      <lb />id&#160;est&#160;juxta&#160;neten&#160;excellentium
+      <br />P&#160;Nete&#160;hyperboleon
+      <lb />id&#160;est&#160;prima&#160;excellentium
+      <br /></p>
+      <p id="ODOSENS0028">
+      <pb n="[156]" />(60v) [2] FORMAE REGULARIUM MODORUM</p>
+      <p id="ODOSENS0029">[INCIPIT DE PRIMO TONO]</p>
+      <p id="ODOSENS0030">Autentus protus, id est auctoritate primus, qui et Dorius. Hic a mese incipit et in lichanos hypaton desinit; usque ad paranete diezeugmenon ascendit et usque ad lichanos hypaton, assumpta parhypate hypaton, descendit.</p>
+      <p id="ODOSENS0031">Melodia ejus:</p>
+      <p id="ODOSENS0032">[Odorannus, 156; text: Noenoneane] 
+      <figure>
+        <graphic url="/images/ODOSENS_01GF.gif" />
+      </figure></p>
+      <p id="ODOSENS0033">
+      <pb n="[157]" />[Nous pneon, ano]: id est mens flans sursum.</p>
+      <p id="ODOSENS0034">Agnitio ejus:</p>
+      <p id="ODOSENS0035">[Odorannus, 157,1; text: Primum quaerite regnum Dei.]</p>
+      <p id="ODOSENS0036">Hujus tropi sic currit versus in antiphonis:</p>
+      <p id="ODOSENS0037">[Odorannus, 157,2; text: Gloria Patri et Filio et Spiritui Sancto; sicut erat in principio et nunc et semper et in secula seculorum, Amen. Antiphona Ite dicite Johanni. Apertis thesauris suis.]</p>
+      <p id="ODOSENS0038">Ab ista differentia mutuatur alia hujusmodi:</p>
+      <p id="ODOSENS0039">
+      <pb n="[158]" />[Odorannus, 158,1; text: Gloria. (61r) Seculorum, Amen. Antiphona Reges Tharsis. Differentia II: Canite tuba. Biduo vivens. Ecce nomen Domini In plateis.] 
+      <figure>
+        <graphic url="/images/ODOSENS_02GF.gif" />
+      </figure></p>
+      <p id="ODOSENS0040">Ab ista differentia mutuatur alia istiusmodi:</p>
+      <p id="ODOSENS0041">[Odorannus, 158,2; text: Gloria. Seculorum, Amen. Antiphona Domine non sum dignus. Differentia III: O quantus luctus.]</p>
+      <p id="ODOSENS0042">Ab ista mutuatur alia sic incedens:</p>
+      <p id="ODOSENS0043">[Odorannus, 158,3; text: Gloria. Seculorum, Amen. Antiphona Ecce quam bonum.]</p>
+      <p id="ODOSENS0044">
+      <pb n="[159]" />[Odorannus, 159,1; text: Differentia IIII: Gloria. Seculorum, Amen. Antiphona Euge. Beati eritis. Amavit eum Dominus.] 
+      <figure>
+        <graphic url="/images/ODOSENS_03GF.gif" />
+      </figure></p>
+      <p id="ODOSENS0045">Ab ista sumens exemplar, Carolus rex Calvus composuit alia hujuscemodi:</p>
+      <p id="ODOSENS0046">[Odorannus, 159,2; text: Gloria. Seculorum, Amen. Antiphona Speciosus.]</p>
+      <p id="ODOSENS0047">In responsoriis sic currit versus:</p>
+      <p id="ODOSENS0048">
+      <pb n="[160]" />[Odorannus, 160; text: Gloria Patri et Filio et Spiritui Sancto; sicut erat in principio et nunc et semper et in secula seculorum, Amen. (61v) Responsorium Praebe fili. Descendit de caelis. [Versus]]</p>
+      <p id="ODOSENS0049">
+      <pb n="[161]" />Eaedem differentiae sunt in responsoriis quae et in antiphonis.</p>
+      <p id="ODOSENS0050">In toto gradali officio, sic currit versus:</p>
+      <p id="ODOSENS0051">[Odorannus, 161; text: Differentia I: Gloria Patri et Filio et Spiritui Sancto; sicut erat in principio et nunc et semper et in secula seculorum, Amen. Antiphona Salus autem. Lex Domini. Meditatio. Sapientiam. Scio cui credidi. Alleluia, Mirabilis. Differentia II: Gloria. Seculorum, Amen. Misereris.] 
+      <figure>
+        <graphic url="/images/ODOSENS_04GF.gif" />
+      </figure></p>
+      <p id="ODOSENS0052">
+      <pb n="[162]" />[Odorannus, 162; text: Ego autem cum justicia. Ego autem in Domino. Differentia III: Gloria. Seculorum, Amen. Antiphona Etenim sederunt. Miserere mihi Domine. Exaudi Domine vocem. (62r) Dominus secus mare. Communio Dominus dabit. Revelabitur. Viderunt omnes. Fili, quid fecisti. Panis quem ego. Erubescant et revereantur. Petite et accipietis. Posuerunt. Principes. Confundantur] 
+      <figure>
+        <graphic url="/images/ODOSENS_05GF.gif" />
+      </figure></p>
+      <p id="ODOSENS0053">
+      <pb n="[163]" />[Odorannus, 163; text: Confundantur superbi. Passer invenit sibi domum et turtur nidum, ubi reponat pullos suos: altaria tua, Domine. f, q, h, k, g, l, Differentia IIII: Gloria. Seculorum, Amen. Antiphona Rorate caeli. Statuit ei Dominus. Suscepimus Deus. Gaudeamus. Dicit Dominus: Sermones. Factus est Dominus. Inclina Domine. Justus es Domine. Da pacem Domine. Responsorium Universi. Offertorium Jubilate Deo.] 
+      <figure>
+        <graphic url="/images/ODOSENS_06GF.gif" />
+      </figure></p>
+      <p id="ODOSENS0054">
+      <pb n="[164]" />[Odorannus, 164; text: Communio Amen dico vobis: Quicquid. Differentia V: Gloria. Seculorum, Amen. Antiphona. Gaudete. Justus ut palma. Justus non conturbabitur. Exclamaverunt. Communio Ecce virgo. In lumina. Manducaverunt. Cum invocarem te. Gaudete justi. Psallite Domino. Tu puer. Et si coram. Quicumque fecerit. In salutari tuo. Amen dico vobis: Quod vos.] 
+      <figure>
+        <graphic url="/images/ODOSENS_07GF.gif" />
+      </figure></p>
+      <p id="ODOSENS0055">
+      <pb n="[165]" />(62v) INCIPIT DE SECUNDO TONO</p>
+      <p id="ODOSENS0056">Plaga[lis] proti, id est pars primi, qui et hypodorius, id est subdorio; a lichanos incipit hypaton et in eadem desinit; usque ad mesen ascendit et ad proslambanomenos descendit.</p>
+      <p id="ODOSENS0057">[Odorannus, 165,1; text: Melodia ejus: Noea[g]is. Agnitio ejus: Secundum autem simile est huic.] 
+      <figure>
+        <graphic url="/images/ODOSENS_08GF.gif" />
+      </figure></p>
+      <p id="ODOSENS0058">Hujus toni in antiphonis sic modulatur versus:</p>
+      <p id="ODOSENS0059">[Odorannus, 165,2; text: Gloria Patri et Filio et Spiritui Sancto; sicut erat in principio et nunc et semper et in secula]</p>
+      <p id="ODOSENS0060">
+      <pb n="[166]" />[Odorannus, 166,1; text: seculorum, Amen. Antiphona O Domine. Differentia II: Gloria. Seculorum, Amen. Juste et pie. Ante luciferum. Invocantem.] 
+      <figure>
+        <graphic url="/images/ODOSENS_09GF.gif" />
+      </figure></p>
+      <p id="ODOSENS0061">In responsoriis sic currit versus:</p>
+      <p id="ODOSENS0062">[Odorannus, 166,2; text: Gloria Patri et Filio et Spiritui Sancto. (63r) Sicut erat in principio et nunc et semper et in secula seculorum, Amen. Responsorium Initium sapientiae. Domine rex omnipotens. Sancte Ebbo.]</p>
+      <p id="ODOSENS0063">
+      <pb n="[167]" />In toto gradali officio, sic currit versus:</p>
+      <p id="ODOSENS0064">[Odorannus, 167; text: Differentia I: Gloria Patri et Filio et Spiritui Sancto; sicut erat in principio et nunc et semper et in secula seculorum, Amen. Antiphona Me expectaverunt. Venite adoremus. Communio Exiit sermo. Domine Deus meus. Dominus Jesus. Dominus firmamentum. Aufer a me. Redime me. Differentia II: Gloria. Seculorum, Amen. Veni et ostende. Ex ore. Ecce advenit. Vultum tuum. Redime me] 
+      <figure>
+        <graphic url="/images/ODOSENS_10GF.gif" />
+      </figure></p>
+      <p id="ODOSENS0065">
+      <pb n="[168]" />[Odorannus, 168; text: Domine. Fac mecum Domine. Letetur cor. Sicientes. Clamaverunt. Terribilis est. Cibavit eos. Multe tribulationes. Sacerdotes ejus. Mihi autem nimis. Dominus inluminatio. Dominus fortitudo. (63v) Salve sancta parens. Responsorium Tecum principium. Alleluia, Versus Dies sanctificatus. Offertorium Tollite portas. Communio Hierusalem. Domine Dominus noster] 
+      <figure>
+        <graphic url="/images/ODOSENS_11GF.gif" />
+      </figure></p>
+      <p id="ODOSENS0066">
+      <pb n="[169]" />[Odorannus, 169,1; text: noster. Letabimur. Omnes qui in Christo. Narrabo omnia. Cantabo Domino. Multitudo.] 
+      <figure>
+        <graphic url="/images/ODOSENS_12GF.gif" />
+      </figure></p>
+      <p id="ODOSENS0067">INCIPIT DE TERCIO TONO</p>
+      <p id="ODOSENS0068">Autentus deuterus id est auctoritate secundus, qui et phrigius, a paramese incipit et in hypate meson desinit; usque ad neten diezeugmenon ascendit et ad hypate meson, assumpta lichanos hypaton, descendit.</p>
+      <p id="ODOSENS0069">[Odorannus, 169,2; text: Melodia ejus: Noenoneane]</p>
+      <p id="ODOSENS0070">Id est: mens flans sursum.</p>
+      <p id="ODOSENS0071">[Odorannus, 169,3; text: Agnitio ejus: Tercia dies est quo hec facta sunt.]</p>
+      <p id="ODOSENS0072">
+      <pb n="[170]" />Hujus toni in antiphonis sic currit versus:</p>
+      <p id="ODOSENS0073">[Odorannus, 170,1; text: Differentia I: Gloria Patri et Filio et Spiritui Sancto; (64r), Sicut erat in principio et nunc et semper et in secula seculorum, Amen. Antiphona Unum opus feci. Differentia II: Gloria. Seculorum, Amen. Ecce Dominus noster. Et respicientes. Differentia III: Gloria. Seculorum, Amen. Antiphona Qui de terra est.] 
+      <figure>
+        <graphic url="/images/ODOSENS_13GF.gif" />
+      </figure></p>
+      <p id="ODOSENS0074">In responsoriis, taliter currit versus:</p>
+      <p id="ODOSENS0075">[Odorannus, 170,2; text: Gloria Patri et Filio et Spiritui Sancto.]</p>
+      <p id="ODOSENS0076">
+      <pb n="[171]" />[Odorannus, 171,1; text: Sicut erat in principio et nunc et semper et in secula seculorum, Amen. Responsorium Salvatorem. Angelus Domini.] 
+      <figure>
+        <graphic url="/images/ODOSENS_14GF.gif" />
+      </figure></p>
+      <p id="ODOSENS0077">In toto gradali officio, sic currit versus:</p>
+      <p id="ODOSENS0078">[Odorannus, 171,2; text: Gloria Patri et Filio et Spiritui Sa[n]cto. Sicut erat in principio et nunc et semper et in secula seculorum, Amen. Antiphona Dum clamarem. Ego autem sicut oliva. Confessio. Ego clamavi. Dum sanctificatus.]</p>
+      <p id="ODOSENS0079">
+      <pb n="[172]" />[Odorannus, 172; text: Vocem iocunditatis. Ecce oculi Domini. Sancti tui, Domine. Repleatur. Nunc scio vere. Cognovi Domine. Si iniquitates. Responsorium Tu es Deus. Versus Liberasti. Alleluia. (64v) Jubilate Deo. Offertorium Confortamini. Communio Beatus servus. Qui meditabitur. Tu Domine. Hierusalem quae Dominus virtutum. Benedicite.] 
+      <figure>
+        <graphic url="/images/ODOSENS_15GF.gif" />
+      </figure></p>
+      <p id="ODOSENS0080">
+      <pb n="[173]" />[Odorannus, 173; text: Differentia II: Gloria. Seculorum, Amen. Intret oratio. Tibi dixit. In Deo laudabo. Liberator meus Omnia quae fecisti. In nomine Domini. Loquetur Dominus. Timete Dominum. Dispersit. Benedicite Dominum. Communio Scapulis suis. Gustate.] 
+      <figure>
+        <graphic url="/images/ODOSENS_16GF.gif" />
+      </figure></p>
+      <p id="ODOSENS0081">INCIPIT DE QUARTO TONO</p>
+      <p id="ODOSENS0082">Plaga[lis] deuteri, id est pars secundi, qui et hypophrigius, ab hypate meson incipit et in eadem desinit; usque ad parameson ascendit et ad hypate hypaton descendit.</p>
+      <p id="ODOSENS0083">
+      <pb n="[174]" />[Odorannus, 174,1; text: Melodia ejus: Noea[g]is]</p>
+      <p id="ODOSENS0084">Id est mens eia.] 
+      <figure>
+        <graphic url="/images/ODOSENS_17GF.gif" />
+      </figure></p>
+      <p id="ODOSENS0085">[Odorannus, 174,2; text: Agnitio ejus: Quarta vigilia venit ad eos.]</p>
+      <p id="ODOSENS0086">Hujus tropi sic modulatur versus in antiphonis:</p>
+      <p id="ODOSENS0087">[Odorannus, 174,3; text: Differentia I: Gloria Patri et Filio et Spiritui Sancto. (65r) Sicut erat in principio et nunc et semper et in secula saeculorum, Amen. Antiphona Quia mirabilia. Differentia II: Gloria. Saeculorum, Amen. In mandatis.]</p>
+      <p id="ODOSENS0088">
+      <pb n="[175]" />[Odorannus, 175; text: Domine Deus meus in te. O mors. Sion, noli timere. Amen. Fidelia. Ad te Domine, levavi. Differentia III: Gloria. Saeculorum, Amen. Benedicta tu. Differentia [I]V: Post partum. Differentia V(I): Factum est. Justi autem.] 
+      <figure>
+        <graphic url="/images/ODOSENS_18GF.gif" />
+      </figure></p>
+      <p id="ODOSENS0089">Ista differentia circumflexa reddit quibusdam antiphonis alium sonum, ita:</p>
+      <p id="ODOSENS0090">
+      <pb n="[176]" />[Odorannus, 176,1; text: Seculorum, Amen. Rubum quem viderat. Differentia VI(I): Gloria. Seculorum, Amen. Sanctum est. Te Deum. Differentia VII(I): Gloria. Seculorum, Amen. Solve. Ne reminiscaris.] 
+      <figure>
+        <graphic url="/images/ODOSENS_19GF.gif" />
+      </figure></p>
+      <p id="ODOSENS0091">In responsoriis, sic incedit versus:</p>
+      <p id="ODOSENS0092">[Odorannus, 176,2; text: Gloria Patri et Filio et Spiritui Sancto. Sicut erat in principio et nunc et semper et in secula]</p>
+      <p id="ODOSENS0093">
+      <pb n="[177]" />[Odorannus, 177,1; text: seculorum, Amen. (65v) Responsorium Ecce mitto. Petre amas me.] 
+      <figure>
+        <graphic url="/images/ODOSENS_20GF.gif" />
+      </figure></p>
+      <p id="ODOSENS0094">In toto gradali officio, sic incedit versus:</p>
+      <p id="ODOSENS0095">[Odorannus, 177,2; text: Differentia I: Gloria Patri et Filio et Spiritui Sancto. Sicut erat in principio et nunc et semper et in secula seculorum, Amen. Antiphona. Reminiscere. Resurrexi. Misericordia Domini. Communio Tanto tempore. Amen dico vobis quod uni.]</p>
+      <p id="ODOSENS0096">
+      <pb n="[178]" />[Odorannus, 178; text: Differentia II: Gloria. Seculorum, Amen. Prope esto. Sacerdotes tui Domine. Omnis terra. Sicut oculi. De necessitatibus. Salus populi. Deus in nomine tuo. Judica me Deus. Nos autem. Eduxit eos Dominus. Exaudivit. Accipite. Dixit Dominus Petro. Exaudi Domine vocem. Protector noster. Responsorium Tenuisti. Versus Quam bonus. Alleluia. Versus Post partum. Offertorium Intonuit. Communio Exulta filia. Magna] 
+      <figure>
+        <graphic url="/images/ODOSENS_21GF.gif" />
+      </figure></p>
+      <p id="ODOSENS0097">
+      <pb n="[179]" />[Odorannus, 179; text: est. Vidimus stellam. Feci iudicium. Acceptabis. Erubescant et conturbentur. Ab occultis. Videns (66r) Dominus flentes. Memento verbi tui. Per signum crucis. Pater cum essem. Semel iuravi. Quod dico vobis. Inclina aurem tuam. Tollite hostias. Benedicimus Deum caeli.] 
+      <figure>
+        <graphic url="/images/ODOSENS_22GF.gif" />
+      </figure></p>
+      <p id="ODOSENS0098">
+      <pb n="[180]" />INCIPIT DE TONO QUINTO</p>
+      <p id="ODOSENS0099">Autentus tritus, id est auctoritate tercius, qui et lydius, a trite diezeugmenon incipit et in paripatemeson desinit; usque ad trite hyperboleon ascendit et ad hypate meson descendit.</p>
+      <p id="ODOSENS0100">[Odorannus, 180,1; text: Melodia ejus: Noenoneane] 
+      <figure>
+        <graphic url="/images/ODOSENS_23GF.gif" />
+      </figure></p>
+      <p id="ODOSENS0101">Id est mens flans sursum.</p>
+      <p id="ODOSENS0102">[Odorannus, 180,2; text: Agnitio ejus: Quinque prudentes intraverunt ad nuptias.]</p>
+      <p id="ODOSENS0103">Hujus toni in antiphonis sic currit versus:</p>
+      <p id="ODOSENS0104">[Odorannus, 180,3; text: Differentia I: Gloria Patri et Filio et Spiritui Sancto. Sicut erat in principio et nunc et semper et in secula]</p>
+      <p id="ODOSENS0105">
+      <pb n="[181]" />[Odorannus, 181,1; text: seculorum, Amen. Antiphona Ecce Dominus veniet. Differentia II: Gloria. (66v) Seculorum, Amen. In conspectu. Spes nostra.] 
+      <figure>
+        <graphic url="/images/ODOSENS_24GF.gif" />
+      </figure></p>
+      <p id="ODOSENS0106">In responsoriis sic incedit versus:</p>
+      <p id="ODOSENS0107">[Odorannus, 181,2; text: Gloria Patri et Filio et Spiritui Sancto. Sicut erat in principio et nunc et semper et in secula seculorum, Amen. Responsorium Hodie nobis. Inmisit Dominus.]</p>
+      <p id="ODOSENS0108">
+      <pb n="[182]" />In toto gradali officio sic modulatur versus:</p>
+      <p id="ODOSENS0109">[Odorannus, 182; text: Gloria Patri et Filio et Spiritui Sancto. Sicut erat in principio et nunc et semper et in secula seculorum, Amen. Differentia I: Circumdederunt me. Domine in tua. Differentia II: Gloria. Seculorum, Amen. Ecce Deus. Deus in loco. Communio Justus Dominus. Quis dabit. Tu mandasti. Notas mihi. Ego sum vitis. Dilexisti.] 
+      <figure>
+        <graphic url="/images/ODOSENS_25GF.gif" />
+      </figure></p>
+      <p id="ODOSENS0110">
+      <pb n="[183]" />[Odorannus, 183; text: Unam petii. Dico vobis. Differentia III: Gloria. Seculorum, Amen. Loquebar. Domine refugium. Verba mea. Letare. Exaudi Deus orationem. Miserere mihi Domine quoniam tribulor. Responsorium Benedictus qui. Versus A Domino. Alleluia. Versus Diligam te Deus. Officium Filie regum. (67r) Communio Servite Domino. Intellege. Christus resurgens. Dum venerit. Letabitur iustus. Domus mea. Ultimo. Non vos relinquam.] 
+      <figure>
+        <graphic url="/images/ODOSENS_26GF.gif" />
+      </figure></p>
+      <p id="ODOSENS0111">
+      <pb n="[184]" />INCIPIT DE SEXTO TONO</p>
+      <p id="ODOSENS0112">Plaga[lis] triti, id est pars tercii, qui et hypolidius, a parhypatemeson incipit et in eadem desinit; usque ad trite diezeugmenon ascendit et ad parhypatehypaton descendit.</p>
+      <p id="ODOSENS0113">[Odorannus, 184,1; text: Melodia ejus: Noea[g]is] 
+      <figure>
+        <graphic url="/images/ODOSENS_27GF.gif" />
+      </figure></p>
+      <p id="ODOSENS0114">Id est mens eia.</p>
+      <p id="ODOSENS0115">[Odorannus, 184,2; text: Agnitio ejus: Sexta hora sedit super puteum.]</p>
+      <p id="ODOSENS0116">Hujus tropi in antiphonis sic currit versus:</p>
+      <p id="ODOSENS0117">[Odorannus, 184,3; text: Gloria Patri et Filio et Spiritui Sancto. Sicut erat in principio et nunc et semper et in secula seculorum,]</p>
+      <p id="ODOSENS0118">
+      <pb n="[185]" />[Odorannus, 185,1; text: Amen. Antiphona O admirabile. Benedictus. Gloriosi principes.] 
+      <figure>
+        <graphic url="/images/ODOSENS_28GF.gif" />
+      </figure></p>
+      <p id="ODOSENS0119">In responsoriis sic modulatur versus:</p>
+      <p id="ODOSENS0120">[Odorannus, 185,2; text: Gloria Patri et Filio et Spiritui Sancto. Sicut erat (67v) in principio et nunc et semper et in secula seculorum, Amen. Responsorium Decantabat. Versus Moyses.]</p>
+      <p id="ODOSENS0121">In toto gradali officio sic currit versus:</p>
+      <p id="ODOSENS0122">[Odorannus, 185,3; text: Differentia I: Gloria Patri et Filio et Spiritui Sancto. Sicut erat in principio et nunc et semper et in secula seculorum, Amen. Antiphona Os iusti. Esto mihi. Omnes]</p>
+      <p id="ODOSENS0123">
+      <pb n="[186]" />[Odorannus, 186; text: gentes. Justi epulentur. Respice in me. Communio Ecce Dominus veniet. In splendoribus. Quinque prudentes. Tu es Petrus. Voce mea. Domine quis habitabit. Lutum fecit. Pascha nostrum. Mitte manum tuam. Anima nostra. Primum quaerite. Panem de celo. Differentia II: Gloria. Seculorum Amen. Hodie scietis. In medio ecclesiae. Sacerdotes Dei. Quasi modo geniti. Cantate Domino. Exultate] 
+      <figure>
+        <graphic url="/images/ODOSENS_29GF.gif" />
+      </figure></p>
+      <p id="ODOSENS0124">
+      <pb n="[187]" />[Odorannus, 187; text: Deo. Dicit Dominus: ego cogito. Responsorium constitues eos. Alleluia. Gavisi sunt. Offertorium Gloriabuntur. Communio Posuisti Domine. Qui manducat. Honora Dominum.] 
+      <figure>
+        <graphic url="/images/ODOSENS_30GF.gif" />
+      </figure></p>
+      <p id="ODOSENS0125">INCIPIT DE SEPTIMO TONO</p>
+      <p id="ODOSENS0126">Autentus tetrardus, id est auctoritate (68r) quartus, qui et mixolydius vel hyperdorius, a paranete diezeugmenon incipit et in lichanos meson desinit; usque ad paranete hyperboleon ascendit et ad lichanos meson descendit.</p>
+      <p id="ODOSENS0127">
+      <pb n="[188]" />[Odorannus, 188,1; text: Melodia ejus: Noenoneane] 
+      <figure>
+        <graphic url="/images/ODOSENS_31GF.gif" />
+      </figure></p>
+      <p id="ODOSENS0128">Id est mens flans sursum.</p>
+      <p id="ODOSENS0129">[Odorannus, 188,2; text: Agnitio ejus: Septem sunt spiritus ante thronum Dei.]</p>
+      <p id="ODOSENS0130">Hujus toni in antiphonis sic currit versus:</p>
+      <p id="ODOSENS0131">[Odorannus, 188,3; text: Differentia I: Gloria Patri et Filio et Spiritui Sancto. Sicut erat in principio et nunc et semper et in secula seculorum, Amen. Antiphona Veterem hominem. Differentia II: Gloria. Seculorum, Amen. Omnes sicientes.]</p>
+      <p id="ODOSENS0132">
+      <pb n="[189]" />[Odorannus, 189,1; text: Differentia III: Gloria. Seculorum, Amen. Loquebantur. Differentia IIII: Misit Dominus. Martinus adhuc. Differentia V: Concede nobis. Disrupisti. Sanctae Trinitatis. Videntes stellam. Sapientia (h)edificavit. (68v)] 
+      <figure>
+        <graphic url="/images/ODOSENS_32GF.gif" />
+      </figure></p>
+      <p id="ODOSENS0133">In responsoriis sic modulatur versus:</p>
+      <p id="ODOSENS0134">[Odorannus, 189,2; text: Gloria Patri et Filio et Spiritui Sancto.]</p>
+      <p id="ODOSENS0135">
+      <pb n="[190]" />[Odorannus, 190,1; text: Sicut erat in principio et nunc et semper et in secula seculorum, Amen. Responsorium Aspiciens a longe. Versus Quique.] 
+      <figure>
+        <graphic url="/images/ODOSENS_33GF.gif" />
+      </figure></p>
+      <p id="ODOSENS0136">In toto gradali officio sic canitur versus:</p>
+      <p id="ODOSENS0137">[Odorannus, 190,2; text: Differentia I: Gloria Patri et Filio et Spiritui Sancto. Sicut erat in principio et nunc et semper et in secula seculorum, Amen. Antiphona Populus Sion. Deus in adiutorium. Responsorium: Iacta cogitatum. Versus Dum clamarem.]</p>
+      <p id="ODOSENS0138">
+      <pb n="[191]" />[Odorannus, 191; text: clamarem. Alleluia. Pascha nostrum. Offertorium: Eripe me de inimicis. Communio Vox in Rama. Domine quinque. Pater si non potest. Adversum me. Redime me Deus. Signa eos. Mense septimo. Dicit Andreas. Differentia II: Gloria. Seculorum, Amen. Puer natus est. Adorate Deum. In virtute tua. Audivit Dominus. Ne derelinquas me. (69r) Oculi mei. Expecta] 
+      <figure>
+        <graphic url="/images/ODOSENS_34GF.gif" />
+      </figure></p>
+      <p id="ODOSENS0139">
+      <pb n="[192]" />[Odorannus, 192; text: Dominum. Judica Domine nocentes. Aqua sapientiae. Venite benedicti. Eduxit dominus. Protexisti me. Viri Galilei. Ne timeas. Probasti Domine. Iudicant sancti. Gloria et honore. Respice Domine in testamentum. Communio Dicite pusillanimes. Tolle puerum. Dicit Dominus: implete. Fidelis servus. Nemo te condemnavit. Ne tradideris. Si conresurrexistis. Populus adquisitionis. Qui mihi ministrat.] 
+      <figure>
+        <graphic url="/images/ODOSENS_35GF.gif" />
+      </figure></p>
+      <p id="ODOSENS0140">
+      <pb n="[193]" />INCIPIT DE OCTAVO TONO</p>
+      <p id="ODOSENS0141">Plaga[lis] tetrardi, id est pars quarti, qui et hypermixolydius, a lichanos meson incipit et in eadem desinit; usque ad paranete diezeugmenon(s) ascendit et ad lichanos hypaton descendit.</p>
+      <p id="ODOSENS0142">[Odorannus, 193,1; text: Melodia ejus: Noea[g]is] 
+      <figure>
+        <graphic url="/images/ODOSENS_36GF.gif" />
+      </figure></p>
+      <p id="ODOSENS0143">Id est mens eia.</p>
+      <p id="ODOSENS0144">[Odorannus, 193,2; text: Agnitio ejus: Octo sunt beatitudines.]</p>
+      <p id="ODOSENS0145">Hujus tropi in antiphonis (69v) sic currit versus:</p>
+      <p id="ODOSENS0146">[Odorannus, 193,3; text: Differentia I: Gloria Patri et Filio et Spiritui Sancto. Sicut erat in principio et nunc et semper et in secula]</p>
+      <p id="ODOSENS0147">
+      <pb n="[194]" />[Odorannus, 194; text: seculorum, Amen. Antiphona Hoc est preceptum. Differentia II: Gloria. Seculorum, Amen. In illa die. Missus est. Animae impiorum. Insignes. Differentia III: Martires Domini. Differentia IIII: Nos qui vivimus. Qui manet in me. Sapientia clamitat.] 
+      <figure>
+        <graphic url="/images/ODOSENS_37GF.gif" />
+      </figure></p>
+      <p id="ODOSENS0148">
+      <pb n="[195]" />In responsoriis sic incedit versus:</p>
+      <p id="ODOSENS0149">[Odorannus, 195,1; text: Gloria Patri et Filio et Spiritui Sancto. Sicut erat in principio et nunc et semper et in secula seculorum, Amen. Responsorium Hodie nobis. Versus Hodie inluxit.] 
+      <figure>
+        <graphic url="/images/ODOSENS_38GF.gif" />
+      </figure></p>
+      <p id="ODOSENS0150">In toto gradali officio taliter modulatur versus:</p>
+      <p id="ODOSENS0151">[Odorannus, 195,2; text: Differentia I: Gloria Patri et Filio et Spiritui Sancto. Sicut erat in principio et nunc et semper et in secula seculorum, Amen. (70r) Ad te levavi. Lux fulgebit.]</p>
+      <p id="ODOSENS0152">
+      <pb n="[196]" />[Odorannus, 196; text: Dum medium. Domine ne longe. Introduxit vos. Spiritus Domini. Responsorium Benedictus. Versus Suscipiant. Alleluia. Letabitur. Offertorium Benedictus qui venit. Communio Responsum. Lavabo inter. Surrexit Dominus. Comedite pinguia. Differentia II: Gloria. Seculorum Amen. Dilexisti. In excelso throno. Laetabitur justus. Invocavit me. Victricem. Jubilate Deo. Deus dum egredereris. Miserere] 
+      <figure>
+        <graphic url="/images/ODOSENS_39GF.gif" />
+      </figure></p>
+      <p id="ODOSENS0153">
+      <pb n="[197]" />[Odorannus, 197; text: Miserere mihi Domine quoniam ad te. Benedicta. Communio Exultavit ut gigas. Simile est regnum celorum. Mirabantur. Introibo. Oportet te. Domine memorabor. Hoc corpus. Ego sum pastor bonus. Modicum. Spiritus ubi vult. Spiritus sanctus docebit. Simon Iohannis. Venite post me. Video caelos. Ego clamavi. Circuibo. De fructu.] 
+      <figure>
+        <graphic url="/images/ODOSENS_40GF.gif" />
+      </figure></p>
+      <p id="ODOSENS0154">
+      <pb n="[198]" />[3] [De monocordo et consonantiis]</p>
+      <p id="ODOSENS0155">[fol. 70] Ecce tibi, bone vir, protelata sed, ut spero, non inutili parantesi, [fol. 70 verso] recte modulandi formulis levius quam potui traditis. Restat ut, si ad altiorem scientiam artis musice pervenire non potueris, saltem totum monochordum quinque tetracordis in tribus generibus, diatonico videlicet, cromatico et enarmonico, constare noveris. Quorum primum dicitur hypaton, secundum meson, tercium sinemmenon, quartum diezeugmenon, quintum hyperboleon.</p>
+      <p id="ODOSENS0156">Simphoniis vero non, ut aliqui volunt, sex, sed quinque: harum prima est diatessaron, constans epitrita proportione, id est sequitercia, ut est quartus ad tercium. Secunda diapente, constans emiolia, id est sesqualtera, ut est tercius ad secundum. Tercia diapason, constans dupla, ut quartus ad secundum. Quarta diapason et diapente, constans tripla, ut est sextus ad secundum. Quinta bisdiapason, constans [fol. 71] quadrupla, ut est octavus ad secundum. Epogdous vero, id est tonus, vicem obtinens puncti constat sesquioctava, ut est nonus ad octavum.</p>
+      <p id="ODOSENS0157">Fit autem diatessaron consonantia in duobus tonis et minori semitonio; diapente, in tribus tonis et semitonio minori; diapason, in tonis quinque et duobus semitoniis minoribus; ac per hoc diatessaron quattuor, diapente quinque, et diapason continet cordas octo.</p>
+      <p id="ODOSENS0158">Ante omnia autem cavendum est cantori in praescriptis modorum formulis, ut omnis cantilena aut cum sua differentia incipiat, aut 
+      <pb n="[200]" />epogdoo, (id est tono) vel pleno enarmonio (id est duobus tonis) seu diatessaron vel diapente, ab ea differat. Si vero vis nosse quid sit differentia: differentia est similium rerum quaedam dissimilitudo, vel differentia est sufficiens discretio, ad id quod susceperis discernendum.</p>
+      <p id="ODOSENS0159">[fol. 71 verso] Habes igitur, o mi dulce solamen laborum Rotberte, recte modulandi noticiam brevi scedulam comprehensam et utilitati multorum, si in ea non segniter studuerint, aliquantulum profuturam. Quae si in emulorum manibus devenerit, et eam occulte lectitantes publice subsannaverint, sua sibi componentes si valuerint, illud beati Augustini dictum meminorint, necesse est a pluribus plures fieri libros, diverso stilo sed non diversa fide. Commoneo autem te et ortor ut orationum tuarum pennis me subleves, quatinus vincula criminum meorum, quibus, accusante propria consciencia, miserabiliter, constringor, absolvi merear, Deo miserante, et aliquid memoria dignum poteris relinquere. Vale in Christo, custos mei animi, ut credo.</p>
+      <p id="ODOSENS0160">
+      <pb n="[202]" />[fol. 72] CAPITULUM VI</p>
+      <p id="ODOSENS0161">[De divisione monochordi, ad monachos Sancti Germani Autissiodorensis, qui apud Sanctum Leodegarium morabantur]</p>
+      <p id="ODOSENS0162">Perfectae caritatis vinculo sibi conexis fratribus in monasterio sancti Leodegarii oboedienciae pede magistram regulam sequentibus, Valcherio atque Rotberto, misericordia Dei indigens frater Odorannus, quiquid sibi.</p>
+      <p id="ODOSENS0163">Arduam et pene difficillimam rem, quam a me extorqueri vultis, nequaquam ad presens elimare presumerem, nisi, fisus de Dei auxilio, vestris orationibus, ad id quod petitis, me extendi sperarem, praesertim cum intra flumen Ararim in castello qui Malliacus dicitur cum Gilduino archiepiscopo, quem ad erudiendum suscepi, maneam et liberalium arcium libris et instrumentis caream. Sed quia, ut olim legimus, nil tam difficile est quin facile fiat quod volens quisque faciat, repetita memoria, voluntati vestre pro posse satisfaciam.</p>
+      <p id="ODOSENS0164">[1] Dimensionem monochordi regularis, [fol. 72 verso] dulcissimi fratres, qua vos instrui postulatis, salva auctoritate patris patrie domini Boetii taliter agere potestis.</p>
+      <p id="ODOSENS0165">Quia nervus dividi vel commensuri in sua natura non valet, adhibeatur lignum quadratum et pleniter ad hoc opus usque ad unguem expolitum, cujus longitudo sit plus minus duorum manualium pedum, et crassitudo illius plus minusve unum possideat palmum. Ad cujus 
+      <pb n="[204]" />ligni capita assumpta geometricali regula, id est circino, duae circumducantur sperulae, quae sint unius mensurae. Deinde adhibeatur regula diligenter perpolita, quae a centro primae sperae usque ad centrum secundae cum omni cautela deducta rectum diametrum ipsorum circulorum reddat. Iterum adhibeatur circinus et, inferiori sive eminentiori parti circulorum abtatus, ita ultimos fines priorum diametrorum tangat, ut iterum alia diametra per crassitudinem illius ligni [fol. 73] efficiat.</p>
+      <p id="ODOSENS0166">Ab his deducatur recta linea, quae primae lineae diametrorum priorum matris sit par, tali cum cautela ut inter se et alteram spacium mensurae unguis digiti auricularis efficiat. Quae plana superficies vim lineae continens, taliter ut commensuretur necesse est.</p>
+      <p id="ODOSENS0167">[2] Adhibita cum circino regula, dividatur in duabus aequis partibus; iterum eaedem duae partes dividantur in aliis duabus ita ut ipsa plana superficies tota dividatur a diametro usque ad diametrum in quattuor aequis partibus. Nete hyperboleon igitur nervus obtineat finem dimensionis terciae et usque ad diametrum crassitudinis partis dexterae ipso sortiatur nomine. Ut vere paranete diezeugmenum inveniatur, tota quantitas quae est a nete hyperboleon usque ad diametrum octo partibus dividatur, eique sua octava pars, ut novenarium impleat numerum, superaddatur; [fol. 73 verso] sicque tonus in sesquioctava proportione inter neten hyperboleon et paranete hyperboleon constituatur. Simile modo, ut trite hyperboleon perficiatur, sesquioctavae proportionis a paranete hyperboleon usque ad destinatum sibi puncture regula servetur. Semitonium vero quod restat ad diatessaron 
+      <pb n="[206]" />consonantiam perficiendam sive ad tetrachordum hyperboleon implendum, investigatione hujus modi est agendum: dividatur cum circino hyperboleon corda in tribus aequis partibus et ipsa ejus tercia pars illi ut sesquiterciam proportionem efficiat superaddatur: sicque totus nervus nete diezeugmenon appellabitur.</p>
+      <p id="ODOSENS0168">Ad instar itaque hujus primi tetrachordi, quattuor quae secuntur tetrachorda in genere diatonico agere expedit. Adhibeatur iterum circinus ad diezeugmenon tetrachordum componendum et nete diezeugmenon, [fol. 74] locum semitonii obtinens, in octo partibus dividatur, et sesquioctava ei sua pars, obtinens toni spacium, ad paranete diezeugmenon componendam addatur. Quod si quis levius et absque maximo labore agere voluerit, nete hyperboleon in duabus aequiis partibus dividat et medietatem ejus eidem addat, ut diapente consonantiam constantem tonis tribus et semitonio minore reddat. Idque de paranete hyperboleon faciat ut trite diezeugmenon, ad eam diapente consonantiam facientem, obtineat. Quae ratio in reliquis tonis componendis servetur eo tenore ut in diapente consonantia quae sesquialtera proportione constat tres toni cum semitonio minore, ut diximus, habeantur.</p>
+      <p id="ODOSENS0169">Hujus siquidem diezeugmenon tetrachordi quae sit finalis videatur. Dividatur, ad instar prioris tetrachordi, nete diezeugmenon circino tribus aequis partibus et tercia pars ei superaddatur; [fol. 74 verso] sicque tota residua corda paramese vocabitur.</p>
+      <p id="ODOSENS0170">Tetrachordum vero synemmenon taliter est metiendum: spaciolum illud, quod constat inter duas lineas quae altrinsecus singula diametra possident, partiatur aequa dimensione in longitudinem, ut inferiorem partem diezeugmenon et superiorem sortiatur tetracordum sinemmenon, et eum locum, quem retinet paranete diezeugmenon ad nete diezeugmenon, habeat nete sinemmenon, toni scilicet distanciam; qui tonus conjugat hyperboleon tetrachordum cum diezeugmenon tetrachordo, et disjungat sinemmenon ab hyperboleon, et pene una eademque sit paranete diezeugmenon et nete sinemmenon. Simili modo, trite diezeugmenon, obtinens distanciam toni, et paranete sinemmenon pene 
+      <pb n="[208]" />una habeatur. Ut vero trite sinemmenon per consonantiam sumatur, trite hyperboleon [fol. 75] in duabus partibus dividatur et sesqualtera proportio abtetur. Hanc sequitur mese, potestate et nomine media, conjunctarum et mediarum tetrachorda conectens. Huic proxima, lichanos meson sesquioctava constituatur proportione, sumpta a paranete diezeugmenon per consonantiam diapente. Ad hanc moduletur tonum parhypate meson, sesqualteram modulationem servans ad trite diezeugmenon. Finis vero hujus meson tetrachordi semitonium demonstrans ut inveniatur, meson nervus triperciatur et sui tercia pars, ut consonantiam diatessaron efficiat, illi addatur.</p>
+      <p id="ODOSENS0171">Lychanos quoque hypaton dudum continens quartam partem tocius lineae, quae ab hypate meson sesquioctava proportione distare videtur, ad meson sesqualteretur. Ad instar vero hujus, ad lychanos meson diapente consonantiam servans et ab ea tono [fol. 75 verso] differens, parhypate hypaton constituatur. Hypate autem meson triperciatur ut hypate hypaton, semitonium continentem, sesquitertia proportione operetur. Ad hanc proslambanomenos, quae et sinistrae sperulae diametrum possideat, tonum et ad meson diapason, nec non ad nete hyperboleon moduletur bisdiapason.</p>
+      <p id="ODOSENS0172">Actenus de diatonico genere quod est naturalius et durius. Ceterum duo genera reliqua tali ratione sunt metienda: dividatur cum circino spacium continens tonum, quod est inter neten hyperboleon et paranete hyperboleon, aequaliter, et sui medietas illi addatur, et ubi circinus pedem fixerit paranete hyperboleon chromatica constituatur. Trite vero diatonica, eadem sit et cromatica; et in enarmonico genere sit paranete hyperboleon [fol. 76] enarmonica quae trite hyperboleon diatonica. Semitonium vero diatonici generis dividatur in enarmonico genere per diesin et diesin id est per duas divisiones sive per duo diachismata et 
+      <pb n="[210]" />haec sit trite hyperboleon enarmonica. Illud quoque sciendum quod omnis nete et paramese et mese et hypate et proslambanomenae in tribus generibus sunt immobiles, et initia et fines tetrachordorum operentur; et quod diatonicon genus constet duobus tonis et semitonio, et cromaticum genus tribus semitoniis incompositis et majore et minore compositis; enarmonicumque duobus tonis incompositis et diesi et diesi.</p>
+      <p id="ODOSENS0173">His ita dispositis, humili mente deposco sanctitatem vestram, amantissimi fratres, ut, mei miserendo, orationum vestrarum remigiis me in salo hujus labentis evi laborantem sustentetis, quatinus pervenire merear, auctore Deo, ad portum aeterna [fol. 76 verso] salutis. Si quis vero inicia et fines nec non ascenciones et descensiones differentiasque tonorum ad plenum nosse desiderat, epistolam fratri et consacerdoti nostro Rotberto a me scriptam studiose sibi legat. Subjectas descriptiones cordis oculo contemplantes, valete felices.</p>
+      <p id="ODOSENS0174">
+      <pb n="[212]" />PLANA SUPERFICIES MONOCHORDI REGULARIS</p>
+      <p id="ODOSENS0175">Geometrici medium punctum spere, in quo totus circulus volvitur, centrum vocant. Diametrum lineam, quae speram equaliter secat per medium, appellant.</p>
+      <p id="ODOSENS0176">Magada, quam nos semisperium, id est quartam partem spere, dicimus, nominant.</p>
+      <p id="ODOSENS0177">[Odorannus, 212; text: semisperium vel magada, centrum, diametrum, mensura, unguis, digiti, auricularis, in latum, Relicto semicirculo componitur diatonicum genus tali loco, longitudo, latitudo vel crassitudo] 
+      <figure>
+        <graphic url="/images/ODOSENS_41GF.gif" />
+      </figure></p>
+      <p id="ODOSENS0178">
+      <pb n="[213]" />[Odorannus, 213; text: A, B, C, D, E, F, G, H, I, K, L, M, N, O, P, proslambanomenos, hypate hypaton, parhypate hypaton, lychanos hypaton, hypate meson, parhypate meson, lychanos meson, mese, trite sinemmenon, paramese, trite diezeugmenon, paranete diezeugmenon, nete diezeugmenon, trite hyperboleon, paranete hyperboleon, nete hyperboleon, h, g, f, e, d, q, c, a, b, His poterit sollers signatum discere cantum, Scematibus super adscriptis sine voce magistri, Si magada cordam discriminet in monochordo.]</p>
+      <p id="ODOSENS0179">
+      <pb n="[214]" />[Odorannus, 214; text: l, m, n, o, p, k, i, h, Haec et enim repetit vocis reflexio grata, Simphoniis pariterque tonis diachismate bino.] 
+      <figure>
+        <graphic url="/images/ODOSENS_42GF.gif" />
+      </figure></p>
+      <p id="ODOSENS0180">
+      <pb n="[215]" />[fol 77]</p>
+      <p id="ODOSENS0181">[6] ANTIENNE: IN SALUTATIONE APOSTOLORUM</p>
+      <p id="ODOSENS0182">[Odorannus, 215; text: c, d, e, f, Avete, mundi lumina, h, q, g, Petre, Paule, sanctissima,]</p>
+      <p id="ODOSENS0183">
+      <pb n="[216]" />[Odorannus, 216; text: c, d, e, f, g, h, i, k, l, q, Quorum alter patibulo, Crucis conjuctus magistro, Alterque ensis jugulo, Locatus celi solio, Mundi gubernat machinam, Jam pene fini proximam, Poscite nobis miseris] 
+      <figure>
+        <graphic url="/images/ODOSENS_43GF.gif" />
+      </figure></p>
+      <p id="ODOSENS0184">
+      <pb n="[217]" />[Odorannus, 217; text: c, d, e, f, g, h, Quos gravat moles criminis, Ut vobiscum perpetua, Perfruamur letitia.] 
+      <figure>
+        <graphic url="/images/ODOSENS_44GF.gif" />
+      </figure></p>
+      <p id="ODOSENS0185">
+      <pb n="[218]" />[fol 77 verso-78]</p>
+      <p id="ODOSENS0186">TETRACHORDUM HYPERBOLEON in tribus generibus</p>
+      <p id="ODOSENS0187">[Odorannus, 218; text: P, Nete hyperboleon, O, Paranete hyperboleon, N, Trite hyperboleon, M, Nete diezeugmenon, DIATESSERON, TONUS, SEMITONIUM, DIATONICUM GENUS id est duobus tonis constans, CROMATICUM GENUS id est coloratum, ENARMONICUM GENUS id est pene conjunctum]</p>
+      <p id="ODOSENS0188">Quarta pars monochordi incomposita per quam reliquae componuntur</p>
+      <p id="ODOSENS0189">
+      <pb n="[219]" />[Odorannus, 219; text: DIEZEUGMENON ET SINEMMENON TETRACHORDA, id est disjunctum, id est conjunctum in tribus generibus, M, Nete diezeugmenon, L, Paranete diezeugmenon vel Nete sinemmenon, K, Trite diezeugmenon vel Paranete sinemmenon, Q, Trite sinemmenon, H, Mese, I, Paramese, DIATONICUM, CROMATICUM, ENARHMONICUM, TONUS, SEMITONIUM, DIATESSERON, DIAPENTE] 
+      <figure>
+        <graphic url="/images/ODOSENS_45GF.gif" />
+      </figure></p>
+      <p id="ODOSENS0190">
+      <pb n="[220]" />TETRACHORDUM MESON in tribus generibus</p>
+      <p id="ODOSENS0191">[Odorannus, 220; text: H, Mese, G, Lychanos meson, F, Parhypate meson, E, Hypate meson, TONUS, SEMITONIUM, DIATESSERON, DIATONICUM, CROMATICUM, ENARMONICUM] 
+      <figure>
+        <graphic url="/images/ODOSENS_46GF.gif" />
+      </figure></p>
+      <p id="ODOSENS0192">
+      <pb n="[221]" />TETRACHORDUM HYPATON in tribus generibus</p>
+      <p id="ODOSENS0193">[Odorannus, 221; text: E, Hypate meson, D, Lichanos hypaton, C, Parhypate hypaton, B, Hypate hypaton, A, Proslambanomenos, DIATONICUM, TONUS, SEMITONIUM, CROMATICUM, ENARMONICUM] 
+      <figure>
+        <graphic url="/images/ODOSENS_47GF.gif" />
+      </figure></p>
+      <p id="ODOSENS0194">
+      <pb n="[222]" />[fol. 79 verso] [8] OMNIUM CONSONANTIARUM RATIO</p>
+      <p id="ODOSENS0195">Sciendum est quia proportio -- id est comparatio numerorum -- quae appellatur in arithmeticis sesquitercia -- id est altera tercia (sescus enim dicitur alter) -- appellatur in musicis diatessaron, ex duobus et quattuor, quia, duobus in medio consistentibus, duo extremi sibi invicem copulantur, ut est octonarius ad senarium: octonarius enim habet in se totum senarium et ejus tertiam partem, id est binarium. Similiter quae in arithmeticis emiolia sive sesqualtera -- id est altera dimidia -- appellatur in musicis diapente, ut est novenarius ad senarium: habet enim novenarius totum senarium et ejus medietatem, id est ternarium. Et quae in arithmeticis dupla, in musicis appellatur diapason, ut est duodenarius ad senarium: habet enim duodenarius totum senarium duplo. Et qui epogdous, id est vicem obtinens puncti vel unitatis, in arithmeticis [fol. 80] appellatur tonus in musicis, ut est novenarius ad octonorium; habet enim novenarius totum octonarium et ejus octavam partem, id est unitatem. Tripla vero proportio in arithmeticis appellatur diapason et diapente in musicis, ut est XVIII ad senarium: habet enim XVIII senarium triplo. Bis autem duplum, idem quadruplum in arithmeticis, dicitur bisdiapason in musicis, ut est XXIIII ad senarium: habet enim XXIIII totum duodenarium duplo et senarium quadruplo, ut subjecta formula demonstrat.</p>
+      <p id="ODOSENS0196">
+      <pb n="[224]" />[Odorannus, 224; text: DIAPASON id est dupla, BISDIAPASON id est quadrupla, DIAPENTE, DIATESSERON, VI, VIII, VIIII, XII, XVI, XVIII, XXIV, TONUS, DIAPASON ET DIAPENTE] 
+      <figure>
+        <graphic url="/images/ODOSENS_48GF.gif" />
+      </figure></p>
+      <p id="ODOSENS0197">
+      <pb n="[225]" />[Odorannus, 225; text: Diapente et diatessaron simphonie et intense et remisse pariter consonantie diapason modulationem consonam reddunt.]</p>
+    </body>
+  </text>
+</TEI>

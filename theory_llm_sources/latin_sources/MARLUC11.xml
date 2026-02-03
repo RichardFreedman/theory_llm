@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Lucidarium, tractatus undecimus</title>
+        <title type="abbrev">MARLUC11</title>
+        <author>Marchetus de Padua</author>
+        <date notBefore="1300" notAfter="1399">14th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Stephen E. Hayes</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Peter M. Lefferts</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1990</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>The Lucidarium of Marchetto of Padua: A Critical Edition, Translation, and Commentary</emph>, ed. and trans. by Jan W. Herlinger (Chicago and London: The University of Chicago Press, 1985), 370–518. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Marchettus de Padua: Lucidarium in arte musicae planae</title>
+          
+<idno type="LML">MARCH. luc.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">A-SP Cod. 135/6 (29.4.4), 21v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Br II 785, 15-38v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Br II 4144, 1-41</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">CH-E 689, 1-44</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">E-Sc 5-2-25, 5-20v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">E-Sc 5-2-25, 76v-77v, 124-128 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-SDI 42, 1-33v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ob Canon. Misc. 42, 184-185 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-BREs D 21, 185v-186v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-CATc D 39, 157-189</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fl Conv. Soppr. 388, 34v-52v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fr 734, 74-101</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Ma D. 5 inf., 52-77v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Ma I. 20 inf., 36v-39 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-PEc 1013, 5-45v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-PIu 606 (IV.9), I/1-50</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat lat. 5322, 1-48</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat Reg. lat. 1146, 7-8 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Sc L.V.30, 91v-119</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-TRE without shelfmark, 15-32v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Vnm Lat. Cl. VIII.85 (3579), 1-10 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">US-Cn Case Ms. 54.1, 10v-33</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">US-Wc ML 171 J 6 Case, hv-47</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="MARLUC110001">
+      <pb n="[370]" />1. INCIPIT TRACTATUS UNDECIMUS CAPITULUM PRIMUM DE TONIS, QUI PROPRIE MODI DICUNTUR QUID SINT</p>
+      <p id="MARLUC110002">2. Tonus, tropus, sive modus, secundum dicta Boetii, est constitutio vocum in totis vocum ordinibus, differens acumine ac etiam gravitate.</p>
+      <p id="MARLUC110003">3. Item tropus sive modus est species modulata ex tonis et semitoniis prodiens generata;</p>
+      <p id="MARLUC110004">4. ab hac namque modi nomen acceperunt, scilicet a modulatione.</p>
+      <p id="MARLUC110005">5. Tropi vero modi dicuntur, et modi toni:</p>
+      <p id="MARLUC110006">6. tropi cum convertuntur, puta cum unus in alium transit, ut est mixtus vel commixtus, nam tropus grece, latine conversio;</p>
+      <p id="MARLUC110007">7. modi cum modulantur;</p>
+      <p id="MARLUC110008">
+      <pb n="[372]" />8. toni quia ex tonis et eorum partibus generantur.</p>
+      <p id="MARLUC110009">1. CAPITULUM SECUNDUM DE TONIS QUOT SINT ET QUI</p>
+      <p id="MARLUC110010">2. Modi, tropi, sive toni fuerunt quatuor primitus adinventi, scilicet prothus, deuterus, tritus, et tetrardus,</p>
+      <p id="MARLUC110011">3. sed propter inconvenientem uniuscuiusque ascensum et descensum,</p>
+      <p id="MARLUC110012">4. quia quilibet poterat ascendere ad decimam a fine suo et descendere sextam, quod erat laboriosum humane voci proferre,</p>
+      <p id="MARLUC110013">5. in alios quatuor sunt divisi,</p>
+      <p id="MARLUC110014">6. et sic sunt octo, scilicet primus, secundus, et ceteri.</p>
+      <p id="MARLUC110015">
+      <pb n="[374]" />7. Ut enim inconveniens ascensus et descensus, ut predicitur, vitaretur, quatuor dignioribus, scilicet imparibus, attributus est ascensus, et merito imparibus,</p>
+      <p id="MARLUC110016">8. nam, ut supra monstratum est, nobilioris proprietatis est numerus impar quam par,</p>
+      <p id="MARLUC110017">9. et ideo predicti quatuor impares sunt auctentici nominati;</p>
+      <p id="MARLUC110018">10. reliquis vero quatuor paribus est attributus descensus, et plagales sive subiugales sunt a doctoribus musice nuncupati,</p>
+      <p id="MARLUC110019">11. a quibus quidem etiam ordinatum est ut omnes octo deberent bini associati in quatuor dissimilibus litteris terminare,</p>
+      <p id="MARLUC110020">12. que ab ipsis vocate sunt finales, et sunt iste: D, E, F, et G graves.</p>
+      <p id="MARLUC110021">13. Prothus autem cum suo subiugali finitur in voce quarta, que est sub D gravi;</p>
+      <p id="MARLUC110022">
+      <pb n="[376]" />14. deuterus cum suo subiugali in voce quinta, que est sub E gravi;</p>
+      <p id="MARLUC110023">15. tritus cum suo subiugali in voce sexta, que est sub F gravi;</p>
+      <p id="MARLUC110024">16. tetrardus cum suo subiugali in voce septima, que est sub G gravi.</p>
+      <p id="MARLUC110025">17. Et quia propter accidentia quamplura inconvenientia cadentia in ipsis tonis, vel in ipsorum aliquibus, que inferius ostendentur, non possent ipsi, vel ipsorum aliqui, semper in predictis litteris terminare,</p>
+      <p id="MARLUC110026">18. ideo a doctoribus musicis alie quatuor sunt reperte, que confinales dicuntur, in quibus interdum toni predicti, vel ipsorum aliqui, necessario finiuntur,</p>
+      <p id="MARLUC110027">19. et sunt iste: a, [sqb], c, et d acutum, que singulariter correspondent finalibus supradictis superius per dyapente.</p>
+      <p id="MARLUC110028">
+      <pb n="[378]" />20. Istorum autem tonorum alius perfectus, alius imperfectus, alius plusquamperfectus, alius mixtus, et alius commixtus dicitur.</p>
+      <p id="MARLUC110029">21. Tonus perfectus dicitur ille qui implet modum suum supra et infra.</p>
+      <p id="MARLUC110030">22. Implere enim modum suum in auctenticis est a suo fine ad dyapason ascendere et non ultra, et ab eodem fine descendere unum tonum</p>
+      <p id="MARLUC110031">23. excepto trito, qui semitonium habet a fine, de quo in speciali regulam ostendemus;</p>
+      <p id="MARLUC110032">24. de ceteris vero tribus exempla sunt hec:</p>
+      <p id="MARLUC110033">[Marchetus, 378,1; text: 1] 
+      <figure>
+        <graphic url="/images/MARLUC11_01GF.gif" />
+      </figure></p>
+      <p id="MARLUC110034">[Marchetus, 378,2; text: 3]</p>
+      <p id="MARLUC110035">
+      <pb n="[380]" />[Marchetus, 380,1; text: 5]</p>
+      <p id="MARLUC110036">25. Implere autem modum suum in plagalibus est a fine suo ad sextam ascendere et ab eodem fine quartam descendere et non ultra, ut hic:</p>
+      <p id="MARLUC110037">[Marchetus, 380,2; text: 2]</p>
+      <p id="MARLUC110038">[Marchetus, 380,3; text: 4]</p>
+      <p id="MARLUC110039">[Marchetus, 380,4; text: 6]</p>
+      <p id="MARLUC110040">
+      <pb n="[382]" />26. Tonus vero imperfectus, sive sit auctenticus sive sit plagalis, dicitur ille qui non implet modum suum, aut supra aut infra, modo superius declarato, ut hic:</p>
+      <p id="MARLUC110041">[Marchetus, 382,1; text: 1]</p>
+      <p id="MARLUC110042">[Marchetus, 382,2; text: 2]</p>
+      <p id="MARLUC110043">[Marchetus, 382,3; text: 3]</p>
+      <p id="MARLUC110044">[Marchetus, 382,4; text: 4]</p>
+      <p id="MARLUC110045">[Marchetus, 382,5; text: 5]</p>
+      <p id="MARLUC110046">
+      <pb n="[384]" />[Marchetus, 384,1; text: 6]</p>
+      <p id="MARLUC110047">[Marchetus, 384,2; text: 7]</p>
+      <p id="MARLUC110048">[Marchetus, 384,3; text: 8]</p>
+      <p id="MARLUC110049">27. Tonus plusquamperfectus auctenticus dicitur ille qui ultra dyapason a suo fine ascendit, scilicet ad nonam vel ad decimam;</p>
+      <p id="MARLUC110050">28. plusquamperfectus vero plagalis dicitur ille qui infra quartam a suo fine descendit.</p>
+      <p id="MARLUC110051">
+      <pb n="[386]" />29. Regula: Omnis auctenticus tonus dicitur plusquamperfectus solum a parte supra;</p>
+      <p id="MARLUC110052">30. plagalis vero quilibet solum a parte infra.</p>
+      <p id="MARLUC110053">31. Tonus mixtus dicitur ille, si auctenticus est, qui plus quam unum tonum descendit a fine suo, tangens aliquid de sui plagalis descensu, ut hic:</p>
+      <p id="MARLUC110054">[Marchetus, 386] 
+      <figure>
+        <graphic url="/images/MARLUC11_02GF.gif" />
+      </figure></p>
+      <p id="MARLUC110055">
+      <pb n="[388]" />32. mixtus vero plagalis dicitur ille qui supra sextam a suo fine ascendit, sui auctentici tangens ascensum, vel aliquid de ascensu, ut hic:</p>
+      <p id="MARLUC110056">[Marchetus, 388]</p>
+      <p id="MARLUC110057">33. Regula: Omnis auctenticus mixtus infra; plagalis vero supra.</p>
+      <p id="MARLUC110058">34. Tonus commixtus dicitur ille qui cum alio quam cum suo plagali si auctenticus est, vel cum alio quam cum suo auctentico si est plagalis, misceri videtur,</p>
+      <p id="MARLUC110059">
+      <pb n="[390]" />35. ut de speciebus ipsorum inferius ostendetur.</p>
+      <p id="MARLUC110060">1. CAPITULUM TERCIUM DE TONIS: QUOMODO NON SOLUM PROPTER ASCENSUM ET DESCENSUM IUDICANDI SINT</p>
+      <p id="MARLUC110061">2. Sunt nonnulli qui absque specierum lege cantus diiudicant cuius toni sint solum propter ascensum et descensum inspecto fine, quorum iudicium pluribus rationibus nullum est.</p>
+      <p id="MARLUC110062">3. Prima ratio est quod non omnis cantus qui auctenticus est ob sui brevitatem acumen sumit, neque omnis qui plagalis est depositionem.</p>
+      <p id="MARLUC110063">4. Secunda est quia unus cantus plagalem habebit depositionem et auctentica carebit elevatione</p>
+      <p id="MARLUC110064">5. et tamen talis tonus non plagalis sed auctenticus iudicabitur,</p>
+      <p id="MARLUC110065">6. ut est Responsorium Sint lumbi vestri precincti et similes.</p>
+      <p id="MARLUC110066">
+      <pb n="[392]" />7. Tercia est quod sophystice poterit formari unus cantus de speciebus tercii toni, et in fine possemus addere unum tonum eidem infra, scilicet in finali primi,</p>
+      <p id="MARLUC110067">8. et tamen talis tonus non erit primus sed tercius;</p>
+      <p id="MARLUC110068">9. nam si primus diceretur, videretur quod tonus additus infra plus haberet de potestate formationis tonorum quam principia, distinctiones, et species ipsorum, quod erroneum est et falsum.</p>
+      <p id="MARLUC110069">10. Hiis rationibus dicimus quod tales iudicantes cantus de tonis solum propter 
+      <pb n="[394]" />ascensum et descensum non musici sed ceci, errorisque cantores potius dici possunt.</p>
+      <p id="MARLUC110070">11. Nos enim proposuimus ostendere quomodo cantus per suas distinctiones et species cognoscantur,</p>
+      <p id="MARLUC110071">12. nam, ut dicit Bernardus, species sunt musicales epule, que modos creant.</p>
+      <p id="MARLUC110072">1. CAPITULUM QUARTUM DE FORMATIONE TONORUM PER SPECIES</p>
+      <p id="MARLUC110073">2. Primus tonus formatur ex prima specie dyapente, que est a D gravi ad a acutum, et ex prima specie dyatessaron superius.</p>
+      <p id="MARLUC110074">3. Est enim in unoquoque tonorum species dyatessaron superius illa que supra in dyapente incipitur sursumque tendit, ut hic:</p>
+      <p id="MARLUC110075">[Marchetus, 394]</p>
+      <p id="MARLUC110076">
+      <pb n="[396]" />4. Ex hiis duabus speciebus, si bene advertimus, formatur sursum primi toni perfectio, atque tono addito infra eius finalem, eius perfectio in deorsum, ut hic:</p>
+      <p id="MARLUC110077">[Marchetus, 396]</p>
+      <p id="MARLUC110078">5. Sed posset aliquis dicere: Debet cantari primus tonus per b rotundum an per [sqb] quadrum?</p>
+      <p id="MARLUC110079">6. Dicimus quod per [sqb] quadrum semper quando modum suum implet superius, ut dictum est,</p>
+      <p id="MARLUC110080">7. et ratio est quia tunc in ipso prima species dyapente et dyatessaron, ex quibus formatur, rationabiliter reperitur,</p>
+      <p id="MARLUC110081">
+      <pb n="[398]" />8. quod non esset si per b rotundum cantaretur,</p>
+      <p id="MARLUC110082">9. nam supra primam speciem dyapente non reperiretur prima dyatessaron, sed secunda, que in deutero et eius plagali proprie reperitur.</p>
+      <p id="MARLUC110083">10. Si vero suum modum non implet tunc est dupliciter advertendum,</p>
+      <p id="MARLUC110084">11. quia aut ascendit ultra primam suam speciem dyapente ad b acutum et non ulterius, et tunc semper per b rotundum debet modulari et cum sexto dicitur esse commixtus, ut hic,</p>
+      <p id="MARLUC110085">[Marchetus, 398]</p>
+      <p id="MARLUC110086">12. aut aliquando ad c acutum attingit, et tunc dupliciter,</p>
+      <p id="MARLUC110087">13. quia aut ascendit ad b predictum acutum pluribus vicibus et ad c acutum post hec ascendit, antequam descendat ad F grave, et tunc semper cantabitur per [sqb] quadrum, ut hic,</p>
+      <p id="MARLUC110088">
+      <pb n="[400]" />[Marchetus, 400]</p>
+      <p id="MARLUC110089">14. aut ascendit ad predictum b et antequam ascendat ad c acutum descendit ad F grave, et tunc per b rotundum cantare debemus.</p>
+      <p id="MARLUC110090">15. Sicque patet quod si primo occurrat sibi c acutum quam F grave, cantari debet per [sqb] quadrum;</p>
+      <p id="MARLUC110091">16. si vero primo F, per b rotundum.</p>
+      <p id="MARLUC110092">17. Sed notandum est quod primus tonus et subiugalis eius possunt terminari in quolibet loco manus ubi species que ipsos formant superius et inferius possunt proprie ordinari,</p>
+      <p id="MARLUC110093">
+      <pb n="[402]" />18. et idemque dicimus de quolibet alio tono, tam auctentico quam etiam subiugali, ut de ipsis inferius ostendetur.</p>
+      <p id="MARLUC110094">19. Sed posset aliquis dicere: Quare in A grave non constituitur prima species dyapente, nam fit ex tono, semitonio, et duobus tonis, et ibi finiatur primus et secundus tonus, et sic subsequenter alie species ex quibus toni aliqui, sive reliqui, ordinantur?</p>
+      <p id="MARLUC110095">20. Respondemus, et pluribus rationibus.</p>
+      <p id="MARLUC110096">21. Prima est quod licet in A grave possimus sursum ascendendo incipere primam speciem dyapente, supra ipsam tamen prima species dyatessaron nullatenus reperitur.</p>
+      <p id="MARLUC110097">22. Secunda ratio est quod subiugalis primi suum non haberet descensum.</p>
+      <p id="MARLUC110098">23. Tercia est quod subsequenter procedendo non possemus secundam dyapente speciem invenire,</p>
+      <p id="MARLUC110099">
+      <pb n="[404]" />24. nam a [sqb] gravi ad F grave nulla species esse potest, sed coniunctio, ut superius est ostensum.</p>
+      <p id="MARLUC110100">25. Sed iterum dicet aliquis: Superius ostendistis quod quilibet tonus potest propter aliquod accidens in confinalibus terminare;</p>
+      <p id="MARLUC110101">26. nunc autem dico quod si primus tonus finitur in eius confinali, non habet supra suam dyapente primam speciem dyatessaron, sed secundam,</p>
+      <p id="MARLUC110102">27. et hec est una ratio quam adducitis quare non potest in A grave rationabiliter terminare;</p>
+      <p id="MARLUC110103">28. ad quod sic respondemus: Si aliquis tonus in confinali finitur, hoc semper est propter accidens,</p>
+      <p id="MARLUC110104">29. nam quilibet tonus debet in finali sua proprie terminari, et tunc talis tonus dicitur regularis, eo quod iuxta sibi datam regulam modulatur.</p>
+      <p id="MARLUC110105">
+      <pb n="[406]" />30. Si autem, ut dictum est, in finali finiri non potest, debet in confinali, et tunc talis tonus irregularis dicitur, eo quod propter accidens quod in eo est, vel esse potest, secundum sibi datam regulam propriam non incedit, ut est Graduale Nimis honorati sunt et cetera et similes,</p>
+      <p id="MARLUC110106">31. quod quidem est secundi toni, et in eius confinali propter duo accidentia que in ipso cadunt necessario terminatur,</p>
+      <p id="MARLUC110107">32. et primum est quia in dictione tui, scilicet in sillaba una, oportet quod cantetur per b rotundum, quod facere non possumus si in finali propria terminaret,</p>
+      <p id="MARLUC110108">33. nam in E grave caderet b rotundum, quod quidem ibi naturaliter non existit, ut hic:</p>
+      <p id="MARLUC110109">[Marchetus, 406; text: amici tui]</p>
+      <p id="MARLUC110110">
+      <pb n="[408]" />34. Secundum est propter tonum qui habetur in descensu in dictione deus et in pluribus aliis locis ipsius Gradualis et Versus, quia si in finali terminaret, fieret tonus a C gravi ad [sqb] quadrum, ubi naturaliter non existit, ut hic:</p>
+      <p id="MARLUC110111">[Marchetus, 408; text: Deus]</p>
+      <p id="MARLUC110112">35. Et hoc idem dicimus de quolibet tono, scilicet quod propter aliquod accidens, vel plura, terminare in confinali, si in finali sua non potest proprie collocari.</p>
+      <p id="MARLUC110113">36. Sunt namque nonnulli cantus qui neque in finali neque in confinali finiri 
+      <pb n="[410]" />possunt, propter aliqua inconvenientia accidentia in ipsis cadentia, ut est Communio Beatus servus et similes,</p>
+      <p id="MARLUC110114">37. nam si in finali propria terminatur, tunc oportet quod fiat semiditonus descendendo ab a acuto ad F grave in eo loco ubi dicitur invenerit, a sillaba ne ad sillabam rit.</p>
+      <p id="MARLUC110115">38. Preterea ille species dyatessaron que sunt ab invenerit usque ad dico vobis sunt in figura prime speciei dyatessaron,</p>
+      <p id="MARLUC110116">39. et earum prolatio sonat terciam speciem dyatessaron,</p>
+      <p id="MARLUC110117">40. nam in omni loco ubi descendimus de G gravi in F grave naturaliter coinclinamur ad semitonium proferendum,</p>
+      <p id="MARLUC110118">
+      <pb n="[412]" />41. ut hic de ambobus accidentibus predictis possumus probabiliter experiri:</p>
+      <p id="MARLUC110119">[Marchetus, 412,1; text: Invenerit vigilantem amen dico vobis]</p>
+      <p id="MARLUC110120">42. Si autem in confinali debeat terminare, tunc oportet quod fiat semitonium ascendendo ab f acuto ad g acutum in eo loco ubi dicitur servus, in ser sillabam, ut hic patet,</p>
+      <p id="MARLUC110121">[Marchetus, 412,2; text: Servus]</p>
+      <p id="MARLUC110122">
+      <pb n="[414]" />43. et in pluribus aliis locis, quod quidem semitonium non est ibi naturaliter.</p>
+      <p id="MARLUC110123">44. Preterea primum inconveniens, quod erat a ne sillaba ad sillabam rit, scilicet ab a acuto ad F grave, nunc ab e acuto ad c acutum similiter invenitur;</p>
+      <p id="MARLUC110124">45. item aliud, scilicet de speciebus dyatessaron, ut hic clarissime demonstratur,</p>
+      <p id="MARLUC110125">[Marchetus, 414; text: Invenerit vigilantem amen dico vobis]</p>
+      <p id="MARLUC110126">46. et hiis rationibus dicimus quod quilibet tonus potest terminare in quolibet loco manus ubi eius species possunt proprie reperiri.</p>
+      <p id="MARLUC110127">
+      <pb n="[416]" />47. Debemus enim locare hanc Communionem, Beatus servus, in a acuto, principium et finem cantando per b rotundum, medium autem eius et distinctiones per [sqb] quadrum, et in eodem loco etiam terminatur, ut hic patet,</p>
+      <p id="MARLUC110128">[Marchetus, 416; text: Beatus servus, constituet eum]</p>
+      <p id="MARLUC110129">48. et talis tonus dicitur acquisitus, eo quod acquiruntur eius species per variationem signorum b rotundi et [sqb] quadri, et in alio loco que improprie terminantur.</p>
+      <p id="MARLUC110130">49. DE PRINCIPIIS PRIMI TONI</p>
+      <p id="MARLUC110131">50. Primus tonus habet principia propria quinque, scilicet C, D, F, et G grave, et a acutum;</p>
+      <p id="MARLUC110132">
+      <pb n="[418]" />51. commixtum vero unum, scilicet E grave;</p>
+      <p id="MARLUC110133">52. mixta autem duo, scilicet A et [sqb] grave.</p>
+      <p id="MARLUC110134">53. Incipitur namque primus tonus in A gravi, ut predicitur, mixte, ut Graduale Gloriosus Deus, cuius Versus est Dextera tua, Domine.</p>
+      <p id="MARLUC110135">54. Sed posset aliquis dicere:</p>
+      <p id="MARLUC110136">55. Quare Graduale istud propter eius descensum non iudicatur de secundo tono et Versus eius propter eius ascensum de primo?</p>
+      <p id="MARLUC110137">56. Respondemus quod Graduale et eius Versus una et eadem consequentia cantus est,</p>
+      <p id="MARLUC110138">57. nam habito proprio fine Gradualis consideratisque ascensu et descensu 
+      <pb n="[420]" />eius et Versus necessario ipsorum speciebus a fine proprio Gradualis debemus ipsum et eius Versum continue iudicare.</p>
+      <p id="MARLUC110139">58. Et id dicimus de Responsoriis Nocturnis cum eorum Versibus atque de quolibet Alleluya et eius Versu.</p>
+      <p id="MARLUC110140">59. In [sqb] gravi, et iterum mixte, incipitur primus tonus, ut Graduale Salvum fac servum, cuius Versus est Auribus percipe.</p>
+      <p id="MARLUC110141">60. Sed sunt nonnulli qui hoc Graduale incipiunt in F gravi, et tunc terminatur in confinali primi,</p>
+      <p id="MARLUC110142">
+      <pb n="[422]" />61. et ratio que movet ipsos hec est:</p>
+      <p id="MARLUC110143">62. Dicunt enim quod incipere ipsum per dispositionem duorum tonorum subsequentium est magis consonans auditui, et quod est magis conformis nature prolatio ipsorum duorum tonorum quam prolatio semiditoni, que surgit si in finali propria terminatur, ut hic in ambobus principiis patet,</p>
+      <p id="MARLUC110144">[Marchetus, 422; text: Salvum fac] 
+      <figure>
+        <graphic url="/images/MARLUC11_03GF.gif" />
+      </figure></p>
+      <p id="MARLUC110145">63. quibus sic respondemus:</p>
+      <p id="MARLUC110146">64. De duobus inconvenientibus necessario cadentibus in cantu aliquo semper quod est minus eligendum est,</p>
+      <p id="MARLUC110147">65. sed incipere hoc Graduale in [sqb] gravi cum additione b rotundi est minus inconveniens quam ipsum incipere in F gravi,</p>
+      <p id="MARLUC110148">66. ergo et cetera.</p>
+      <p id="MARLUC110149">
+      <pb n="[424]" />67. Si enim incipitur in [sqb] gravi cum additione b rotundi, talis additio naturaliter non est ibi sed melioris sonoritatis causa.</p>
+      <p id="MARLUC110150">68. Dictum b rotundum in sui principio addimus deserviens duabus solum notis sive vocibus, ut hic patet:</p>
+      <p id="MARLUC110151">[Marchetus, 424; text: Salvum fac, Auribus per]</p>
+      <p id="MARLUC110152">69. Incipere autem ipsum in F gravi surgit inconveniens unum, quod in pluribus locis cadit,</p>
+      <p id="MARLUC110153">70. nam necessario in f acuto fit mi et in g acuto per consequens fa pluribus 
+      <pb n="[426]" />et diversis vicibus, ubi etiam naturaliter non existunt, ut hic,</p>
+      <p id="MARLUC110154">[Marchetus, 426; text: Salvum fac, Auribus per]</p>
+      <p id="MARLUC110155">71. et quia hoc inconveniens maius est, ideo ipsum in [sqb] gravi cum additione, ut predicitur, b rotundi debemus necessario figurare,</p>
+      <p id="MARLUC110156">72. et talis tonus dicitur artificialis, eo quod artificialiter locatur unus tonus ubi naturaliter non existit.</p>
+      <p id="MARLUC110157">
+      <pb n="[428]" />73. Incipitur primus tonus in C gravi, ut est Introitus Gaudeamus omnes in Domino;</p>
+      <p id="MARLUC110158">74. in D gravi ut Introitus Statuit ei Dominus.</p>
+      <p id="MARLUC110159">75. Sed posset aliquis dicere:</p>
+      <p id="MARLUC110160">76. Quare non possumus incipere hunc Introitum, Statuit, in G gravi,</p>
+      <p id="MARLUC110161">77. nam ibi per dispositionem b rotundi inveniuntur omnes species dyatessaron et dyapente, que eidem competunt, sicut si in D gravi incipiatur,</p>
+      <p id="MARLUC110162">78. ut in presentibus patet exemplis:</p>
+      <p id="MARLUC110163">[Marchetus, 428; text: Statuit ei Dominus testamentum pacis]</p>
+      <p id="MARLUC110164">
+      <pb n="[430]" />[Marchetus, 430; text: Statuit ei Dominus testamentum pacis]</p>
+      <p id="MARLUC110165">79. Respondemus quod talis tonus a parte compositionis dicetur proprius, eo quod ex speciebus suis propriis sit formatus,</p>
+      <p id="MARLUC110166">80. sed dicetur improprius a parte locationis, quia in loco alio quam in proprio collocatur.</p>
+      <p id="MARLUC110167">81. In E gravi, et hoc commixte et raro, ut Responsorium Annuntiatum est per Gabrielem.</p>
+      <p id="MARLUC110168">
+      <pb n="[432]" />82. Commixte dicimus, quia tale principium principaliter tercio et quarto competit tonis.</p>
+      <p id="MARLUC110169">83. In F gravi, ut Introitus Ego autem in Domino;</p>
+      <p id="MARLUC110170">84. in a acuto, ut Introitus Sapientiam sanctorum.</p>
+      <p id="MARLUC110171">85. Possunt autem species ipsius in principiis propriis et in c et d acuto proprie terminare;</p>
+      <p id="MARLUC110172">86. mixte autem in mixtis; et commixte, sed rarissime, in E gravi.</p>
+      <p id="MARLUC110173">87. DE SECUNDO TONO</p>
+      <p id="MARLUC110174">88. Secundus tonus formatur ex prima specie dyapente et ex prima specie dyatessaron, communi et inferius.</p>
+      <p id="MARLUC110175">
+      <pb n="[434]" />89. Dicitur enim species communis illa, in quolibet tonorum, que incipitur in eodem spacio vel linea ubi tonus ille terminare debet, sursumque tendit,</p>
+      <p id="MARLUC110176">90. que quidem species et in auctenticis et in plagalibus, licet sepius in plagalibus, poni potest.</p>
+      <p id="MARLUC110177">91. Hec enim species si in cantu aliquo fuerit pluries repercussa et cantus a fine non ultra sextam ascendat etiam si nichil descendat, tonus ille iudicabitur subiugalis.</p>
+      <p id="MARLUC110178">92. Species autem dyatessaron inferior dicitur illa, in quolibet tonorum, que incipitur ubi tonus terminare debet descendens infra,</p>
+      <p id="MARLUC110179">93. ut hic de predictis speciebus in secundo patet tono:</p>
+      <p id="MARLUC110180">[Marchetus, 434; text: Prima dyapente, Communis, Inferius]</p>
+      <p id="MARLUC110181">
+      <pb n="[436]" />94. Debet namque cantari secundus tonus semper per b rotundum,</p>
+      <p id="MARLUC110182">95. cuius ratio est quia secundus, eo quod subiugalis est, ultra sextam scandere non potest, ut superius dictum est.</p>
+      <p id="MARLUC110183">96. Ad ipsam vero si ascenderet per [sqb] quadrum, tunc ab F gravi quomodocunque ascendendo ad dictum [sqb] vel ab ipso [sqb] quomodocunque descendendo ad predictum F fieret tritoni duricia, que in cantu quolibet est penitus evitanda.</p>
+      <p id="MARLUC110184">97. DE PRINCIPIIS SECUNDI TONI</p>
+      <p id="MARLUC110185">98. Secundus habet principia propria quinque, scilicet A, C, D, E, et F grave, et unum plusquamperfectum, scilicet [Gamma].</p>
+      <p id="MARLUC110186">99. Incipitur autem in [Gamma], licet raro, ut Responsorium Educ de carcere;</p>
+      <p id="MARLUC110187">
+      <pb n="[438]" />100. in A ut Responsorium de ore leonis;</p>
+      <p id="MARLUC110188">101. in C ut Antiphona O Sapientia;</p>
+      <p id="MARLUC110189">102. in D ut Responsorium Memento mei Deus;</p>
+      <p id="MARLUC110190">103. in E, licet raro, ut Antiphona Ecce Maria;</p>
+      <p id="MARLUC110191">104. in F ut Introitus Me expectaverunt.</p>
+      <p id="MARLUC110192">
+      <pb n="[440]" />105. Possunt species eius terminare in suis propriis principiis et in G gravi, itemque in a acuto.</p>
+      <p id="MARLUC110193">106. DE TERCIO TONO</p>
+      <p id="MARLUC110194">107. Tercius tonus formatur ex secunda specie dyapente et secunda specie dyatessaron superius, ut hic:</p>
+      <p id="MARLUC110195">[Marchetus, 440]</p>
+      <p id="MARLUC110196">108. Ex hiis duabus speciebus addito tono infra perficitur tercius tonus.</p>
+      <p id="MARLUC110197">109. Debet namque cantari tercius tonus semper proprie per [sqb] quadrum,</p>
+      <p id="MARLUC110198">110. cuius ratio est quia omnis tonus a fine suo dyapente sursum requirit, que est eius, ut supra diximus, confinalis.</p>
+      <p id="MARLUC110199">
+      <pb n="[442]" />111. Si enim per b rotundum modularetur tunc a propria eius finali ad ipsum b species nulla esset, ut supra de coniunctiones est ostensum.</p>
+      <p id="MARLUC110200">112. Preterea cum talis cantus vellet ascendere ad suum perfectum ascensum, qui est e acutum, inveniret tritoni duriciam, que est a primo b acuto ad ipsum e, que, ut sepe diximus, est vitanda.</p>
+      <p id="MARLUC110201">113. DE PRINCIPIIS TERCII TONI</p>
+      <p id="MARLUC110202">114. Tercius tonus habet principia quatuor, scilicet E, F, et G grave, et c acutum.</p>
+      <p id="MARLUC110203">115. Incipitur autem tercius tonus in E, ut Introitus Confessio;</p>
+      <p id="MARLUC110204">116. in F, ut Introitus Nunc scio vere;</p>
+      <p id="MARLUC110205">
+      <pb n="[444]" />117. in G, ut Antiphona Qui sequitur me;</p>
+      <p id="MARLUC110206">118. in c acuto, ut Responsorium Rogavi Dominum.</p>
+      <p id="MARLUC110207">119. Possunt eius species terminare in omnibus suis principiis et in D gravi, atque in a, [sqb] secundo, et e acuto.</p>
+      <p id="MARLUC110208">120. Sed posset aliquis dicere:</p>
+      <p id="MARLUC110209">121. Quare Versus Responsoriorum tercii toni et Seculorum a fine huius incipiunt sursum in sexta, cum aliorum Responsoriorum auctenticorum incipiantur Versus in dyapente?</p>
+      <p id="MARLUC110210">122. Dicimus quod ad evitandam tritoni duriciam, que caderet, vel cadere posset, cum [sqb] secundo acuto descensum faceret ad 
+      <pb n="[446]" />E grave, vel ab ipso E ascensum faceret ad [sqb] predictum.</p>
+      <p id="MARLUC110211">123. DE QUARTO TONO</p>
+      <p id="MARLUC110212">124. Quartus tonus formatur ex secunda specie dyapente et secunda dyatessaron, communi et inferius, licet raro utatur dyatessaron inferius, sed tamen potest, ut hic:</p>
+      <p id="MARLUC110213">[Marchetus, 446]</p>
+      <p id="MARLUC110214">125. Debet autem cantari quartus tonus, ratione data de tercio, per [sqb] quadrum.</p>
+      <p id="MARLUC110215">126. Sed quia sunt aliqui cantus ipsius toni ascendentes a fine suo ad dyapente supra, tangentes in eorum ascensu F grave, vel descendentes ab ipso dyapente 
+      <pb n="[448]" />ad finem predictum, iterum tangentes F, in quibus duricia occurreret tritoni,</p>
+      <p id="MARLUC110216">127. ideo dicimus, ad dictam duriciam evitandam, quod tales cantus cantari debeant per b rotundum, ut est Responsorium Ierusalem et huic similes:</p>
+      <p id="MARLUC110217">[Marchetus, 448; text: Ierusalem, quare merore consumeris]</p>
+      <p id="MARLUC110218">
+      <pb n="[450]" />128. DE PRINCIPIIS QUARTI TONI</p>
+      <p id="MARLUC110219">129. Quartus tonus habet principia sex, scilicet C, D, E, F, et G grave, et a acutum.</p>
+      <p id="MARLUC110220">130. Incipitur autem in C, ut est Invitatorium Surgite, vigilemus;</p>
+      <p id="MARLUC110221">131. in D, ut Antiphona Secus decursus;</p>
+      <p id="MARLUC110222">132. in E, ut Antiphona Post partum virgo;</p>
+      <p id="MARLUC110223">133. in F, ut Responsorium Interrogabat magos Herodes;</p>
+      <p id="MARLUC110224">
+      <pb n="[452]" />134. in G, ut Antiphona Syon, noli timere;</p>
+      <p id="MARLUC110225">135. in a acuto, ut Antiphona Et omnis mansuetudinis eius.</p>
+      <p id="MARLUC110226">136. Possunt eius species terminare in omnibus suis principiis et in [sqb] secundo gravi, sed raro.</p>
+      <p id="MARLUC110227">
+      <pb n="[454]" />137. DE QUINTO TONO</p>
+      <p id="MARLUC110228">138. Quintus tonus formatur in suo ascensu ex tercia specie dyapente et tercia dyatessaron superius, ut hic:</p>
+      <p id="MARLUC110229">[Marchetus, 454,1] 
+      <figure>
+        <graphic url="/images/MARLUC11_04GF.gif" />
+      </figure></p>
+      <p id="MARLUC110230">139. in descensu vero ex eadem specie dyatessaron et ex quarta dyapente, ut hic:</p>
+      <p id="MARLUC110231">[Marchetus, 454,2]</p>
+      <p id="MARLUC110232">140. Sed dicet aliquis:</p>
+      <p id="MARLUC110233">141. Ergo videtur quod quintus tonus in eius ascensu cantetur per [sqb] quadrum et in descensu per b rotundum.</p>
+      <p id="MARLUC110234">
+      <pb n="[456]" />142. Dicimus quod sic, et triplici ratione.</p>
+      <p id="MARLUC110235">143. Prima est quod cum ascendit a fine ad dyapente supra, quomodocunque, talium prolatio notarum dulcior atque suavior ad auditum transit, necnon aptior in ore proferentis existit,</p>
+      <p id="MARLUC110236">144. ut hic probabiliter apparere potest:</p>
+      <p id="MARLUC110237">[Marchetus, 456]</p>
+      <p id="MARLUC110238">145. Secunda est ut in eo utamur tercia specie dyapente, que in nullo tonorum preterquam in ipso et eius subiugali poterat ordinari.</p>
+      <p id="MARLUC110239">146. Tercia ratio est ut cum vellet quintus ad eius perfectionem ascendere non inveniatur tritoni duricia, que 
+      <pb n="[458]" />adesset si per b rotundum ipsum ascendens cantaremus, scilicet a b primo acuto ad e acutum.</p>
+      <p id="MARLUC110240">147. Cantari debet etiam per b rotundum suo scilicet in descensu, ut cum vult se a dyapente supra ad finem deponere possit tritoni duriciam evitare.</p>
+      <p id="MARLUC110241">148. Ostendere namque volumus qualiter intelligatur eius ascensus ut cantetur per secundum [sqb] et eius descensus ut cantetur per primum,</p>
+      <p id="MARLUC110242">149. ubi dicimus quod quando circa c acutum sunt notule quinti toni non descendentes infra a acutum cantare debemus per [sqb] quadrum, ut hic,</p>
+      <p id="MARLUC110243">[Marchetus, 458]</p>
+      <p id="MARLUC110244">
+      <pb n="[460]" />150. preterquam in aliquibus cantibus, ut est Responsorium Ecce Dominus veniet et Responsorium Ecce veniet Dominus et similes:</p>
+      <p id="MARLUC110245">[Marchetus, 460,1; text: Ecce Dominus veniet et omnes sancti eius cum]</p>
+      <p id="MARLUC110246">[Marchetus, 460,2; text: Ecce veniet Dominus protector]</p>
+      <p id="MARLUC110247">
+      <pb n="[462]" />151. Sunt enim nonnulli indifferenter cantantes omnes fines Versuum quinti toni per [sqb] quadrum, nulla ratione tecti sed a casu et a fortuna, ut ceci in itinere incedentes.</p>
+      <p id="MARLUC110248">152. Contra quos sic dicimus, quod aliqui fines Versuum quinti toni cantari debent per [sqb] quadrum, aliqui vero per b rotundum.</p>
+      <p id="MARLUC110249">153. Debent enim fines ipsi cantari per [sqb] quadrum cum repetenda que est in Responsorio per ipsum [sqb] cantatur,</p>
+      <p id="MARLUC110250">154. nam finis Versus cum principio repetende una et eadem consequentia esse debet, ut est Responsorium Delectare in Domino,</p>
+      <p id="MARLUC110251">155. nam eius repetenda in d acuto incipitur et per [sqb] quadrum cantatur, ut hic patet,</p>
+      <p id="MARLUC110252">[Marchetus, 462; text: Et dabit tibi]</p>
+      <p id="MARLUC110253">
+      <pb n="[464]" />156. et tunc finis Versus cantari debet etiam per [sqb] quadrum, ut hic:</p>
+      <p id="MARLUC110254">[Marchetus, 464,1; text: eius Et dabit tibi]</p>
+      <p id="MARLUC110255">157. Per b autem rotundum debent fines ipsi cantari cum repetenda per ipsum b cantatur, ut est in Responsorio Ecce Dominus veniet et in multis aliis,</p>
+      <p id="MARLUC110256">[Marchetus, 464,2; text: et imperium,Super omnes]</p>
+      <p id="MARLUC110257">
+      <pb n="[466]" />158. nam si finis cantaretur per [sqb] quadrum, non esset eadem consequentia cum repetenda, que per b rotundum necessario modulatur, sed duricia aspera et iniocunda, ut ibi potest probabiliter intueri.</p>
+      <p id="MARLUC110258">159. Ergo bene dictum est quod aliqui tales fines debent per primum b, aliqui per secundum necessario modulari.</p>
+      <p id="MARLUC110259">160. DE PRINCIPIIS QUINTI TONI</p>
+      <p id="MARLUC110260">161. Quintus tonus habet principia propria quatuor, scilicet F et G grave, a et c acutum, et unum improprium, scilicet D grave.</p>
+      <p id="MARLUC110261">162. Incipitur autem in D, ut Graduale Pacifice loquebantur;</p>
+      <p id="MARLUC110262">
+      <pb n="[468]" />163. in F, ut Responsorium Benedicam Dominum in omni tempore;</p>
+      <p id="MARLUC110263">164. in G, ut Communio Intellige clamorem;</p>
+      <p id="MARLUC110264">165. in a acuto, ut Responsorium Obsecro, Domine;</p>
+      <p id="MARLUC110265">166. in c, ut Responsorium Hodie nobis celorum.</p>
+      <p id="MARLUC110266">
+      <pb n="[470]" />167. Possunt eius species terminare in omnibus suis principiis et in f acuto ac etiam in D gravi, sed raro et improprie.</p>
+      <p id="MARLUC110267">168. Sed notandum est quod quintus tonus rarissime descendit infra suum finem, eo quod ab infra non habet tonum, sed semitonium;</p>
+      <p id="MARLUC110268">169. sed si descendit, potest ad D grave, ut dictum est, attingere,</p>
+      <p id="MARLUC110269">170. et hoc dupliciter intelligendum est,</p>
+      <p id="MARLUC110270">171. quia si aliquis cantus huius toni incipiatur in D gravi, vel in aliqua parte sui ad ipsum attingat, et ultra dyapason a fine non transeat, talis cantus dicetur perfectus supra et infra;</p>
+      <p id="MARLUC110271">172. si vero ad ipsum D attingat et ultra dyapason a fine ascendat, dicetur plusquamperfectus supra et mixtus infra.</p>
+      <p id="MARLUC110272">
+      <pb n="[472]" />173. DE SEXTO TONO</p>
+      <p id="MARLUC110273">174. Sextus tonus formatur in suo ascensu ex tercia specie dyapente et tercia dyatessaron inferius, ut hic:</p>
+      <p id="MARLUC110274">[Marchetus, 472,1]</p>
+      <p id="MARLUC110275">175. in descensu vero eius ex quarta specie dyapente et tercia dyatessaron inferius et communi, ut hic:</p>
+      <p id="MARLUC110276">[Marchetus, 472,2]</p>
+      <p id="MARLUC110277">176. Quare autem sic formatur et quomodo cantari debeat per b rotundum an per [sqb] quadrum ratio eadem est que suo auctentico dicta est.</p>
+      <p id="MARLUC110278">
+      <pb n="[474]" />177. DE PRINCIPIIS SEXTI TONI</p>
+      <p id="MARLUC110279">178. Sextus tonus habet principia usitata tria, scilicet C, D, et F grave.</p>
+      <p id="MARLUC110280">179. Incipitur autem in C, ut Responsorium Tradiderunt me in manus;</p>
+      <p id="MARLUC110281">180. in D, ut Introitus Sacerdotes;</p>
+      <p id="MARLUC110282">181. in F, ut Responsorium Aspiciebam in visu.</p>
+      <p id="MARLUC110283">182. Potest etiam habere principium in G gravi et in a et b primo acuto, 
+      <pb n="[476]" />licet non sint in usu in cantibus Gregorii.</p>
+      <p id="MARLUC110284">183. Possunt eius species terminare in omnibus suis principiis et in G gravi et in a, b primo, et c acuto.</p>
+      <p id="MARLUC110285">184. DE SEPTIMO TONO</p>
+      <p id="MARLUC110286">185. Septimus tonus formatur ex quarta specie dyapente, que sursum tendens incipitur in G gravi et ex prima specie dyatessaron superius; addito tono infra eius perfectio invenitur, ut hic:</p>
+      <p id="MARLUC110287">[Marchetus, 476] 
+      <figure>
+        <graphic url="/images/MARLUC11_05GF.gif" />
+      </figure></p>
+      <p id="MARLUC110288">186. Debet namque cantari septimus tonus semper per [sqb] quadrum, cuius ratio est quia si per b rotundum cantaretur, tunc nulla essentialis differentia inter 
+      <pb n="[478]" />ipsum et primum esset, nam ambo ex eisdem speciebus dyapente et dyatessaron formarentur;</p>
+      <p id="MARLUC110289">187. preterea non est aliquis tonus cui in suo ascensu possit applicari quarta species dyapente nisi huic et suo subiugali.</p>
+      <p id="MARLUC110290">188. DE PRINCIPIIS SEPTIMI TONI</p>
+      <p id="MARLUC110291">189. Septimus tonus habet principia sex, scilicet F et G grave, a, [sqb] secundum, c, et d acutum.</p>
+      <p id="MARLUC110292">190. Incipitur enim in F, ut Offertorium Portas celi;</p>
+      <p id="MARLUC110293">191. in G, ut Introitus Puer natus;</p>
+      <p id="MARLUC110294">
+      <pb n="[480]" />192. in a, ut Introitus Eduxit Dominus;</p>
+      <p id="MARLUC110295">193. in [sqb] secundo acuto, ut Antiphona Dixit Dominus Domino;</p>
+      <p id="MARLUC110296">194. in c, ut Antiphona Benedicta filia;</p>
+      <p id="MARLUC110297">
+      <pb n="[482]" />195. in d, ut Antiphona Sit nomen Domini.</p>
+      <p id="MARLUC110298">196. Possunt autem eius species terminare in omnibus suis principiis et in e et g acutis.</p>
+      <p id="MARLUC110299">197. DE OCTAVO TONO</p>
+      <p id="MARLUC110300">198. Octavus tonus formatur ex quarta specie dyapente, que incipitur in G gravi, et ex tercia specie dyatessaron, que incipitur in c acuto deorsum tendens,</p>
+      <p id="MARLUC110301">199. que quidem species eidem et eius auctentico communis est, licet sepius in ipso octavo ponatur, ut hic:</p>
+      <p id="MARLUC110302">[Marchetus, 482]</p>
+      <p id="MARLUC110303">
+      <pb n="[484]" />200. item ex eadem quarta specie dyapente et prima specie dyatessaron inferius, que incipitur in G gravi deorsum tendens, ut hic:</p>
+      <p id="MARLUC110304">[Marchetus, 484]</p>
+      <p id="MARLUC110305">201. Debet enim cantari octavus tonus per [sqb] quadrum, ratione de eius auctentico dicta,</p>
+      <p id="MARLUC110306">202. nam si eius auctenticus cantaretur per b rotundum similis esset primo, iste eadem ratione similis esset secundo.</p>
+      <p id="MARLUC110307">203. DE PRINCIPIIS OCTAVI TONI</p>
+      <p id="MARLUC110308">204. Octavus tonus habet principia propria quinque, scilicet D, F, G grave, a et c acutum, et unum plusquamperfectum, scilicet C grave.</p>
+      <p id="MARLUC110309">
+      <pb n="[486]" />205. Incipitur autem in C gravi, ut Offertorium Elegerunt apostoli;</p>
+      <p id="MARLUC110310">206. in D, ut Responsorium Iuravit Dominus;</p>
+      <p id="MARLUC110311">207. in F, ut Responsorium Merito hec patimur;</p>
+      <p id="MARLUC110312">208. in G, ut Responsorium Viri sancti;</p>
+      <p id="MARLUC110313">209. in a acuto, ut Responsorium Oravit Iacob;</p>
+      <p id="MARLUC110314">
+      <pb n="[488]" />210. in c, ut Antiphona Ecce ancilla Domini.</p>
+      <p id="MARLUC110315">211. Possunt eius species terminare in omnibus suis principiis et in [sqb] secundo et d acuto.</p>
+      <p id="MARLUC110316">212. DE SPECIEBUS DYATESSARON ET DYAPENTE QUOMODO IN TONIS POSITE NOMINENTUR</p>
+      <p id="MARLUC110317">213. Viso et declarato de tonis, scilicet quomodo per species formentur, videre oportet de ipsis speciebus qualiter nominentur,</p>
+      <p id="MARLUC110318">214. ubi sciendum est quod specierum dyatessaron et dyapente alia principalis, alia terminalis; alia propria, alia communis; alia simplex, alia composita; alia aggregata, alia disgregata; alia apposita, alia preposita, alia supposita; alia continua; alia commixta; alia intensa, alia remissa dicitur.</p>
+      <p id="MARLUC110319">215. Principalis dicitur illa, sive dyatessaron sive dyapente, que ponitur in principio alicuius toni;</p>
+      <p id="MARLUC110320">
+      <pb n="[490]" />216. terminalis dicitur illa que ponitur in fine, ut hic patet:</p>
+      <p id="MARLUC110321">[Marchetus, 490,1]</p>
+      <p id="MARLUC110322">[Marchetus, 490,2]</p>
+      <p id="MARLUC110323">[Marchetus, 490,3]</p>
+      <p id="MARLUC110324">[Marchetus, 490,4]</p>
+      <p id="MARLUC110325">217. propria dicitur illa que proprie in auctentico sive in plagali consistit, ut hic:</p>
+      <p id="MARLUC110326">[Marchetus, 490,5]</p>
+      <p id="MARLUC110327">[Marchetus, 490,6]</p>
+      <p id="MARLUC110328">[Marchetus, 490,7]</p>
+      <p id="MARLUC110329">[Marchetus, 490,8]</p>
+      <p id="MARLUC110330">
+      <pb n="[492]" />218. communis, que poni potest et in auctentico et in plagali, licet, ut dictum sit, quod sepius in plagali, ut hic:</p>
+      <p id="MARLUC110331">[Marchetus, 492,1; text: Communis primi et secundi]</p>
+      <p id="MARLUC110332">[Marchetus, 492,2; text: Communis tercii et quarti]</p>
+      <p id="MARLUC110333">[Marchetus, 492,3; text: Communis quinti et sexti]</p>
+      <p id="MARLUC110334">[Marchetus, 492,4; text: Communis septimi et octavi]</p>
+      <p id="MARLUC110335">
+      <pb n="[494]" />219. simplex, que simpliciter per se stat, ut hic,</p>
+      <p id="MARLUC110336">[Marchetus, 494,1] 
+      <figure>
+        <graphic url="/images/MARLUC11_06GF.gif" />
+      </figure></p>
+      <p id="MARLUC110337">[Marchetus, 494,2]</p>
+      <p id="MARLUC110338">[Marchetus, 494,3]</p>
+      <p id="MARLUC110339">[Marchetus, 494,4]</p>
+      <p id="MARLUC110340">[Marchetus, 494,5]</p>
+      <p id="MARLUC110341">[Marchetus, 494,6]</p>
+      <p id="MARLUC110342">220. composita, que particulariter conficitur ex duabus, ut hic:</p>
+      <p id="MARLUC110343">[Marchetus, 494,7]</p>
+      <p id="MARLUC110344">[Marchetus, 494,8]</p>
+      <p id="MARLUC110345">
+      <pb n="[496]" />221. aggregata, que aggregat omnes sonos suos in uno intervallo, ut hic:</p>
+      <p id="MARLUC110346">[Marchetus, 496,1]</p>
+      <p id="MARLUC110347">222. disgregata, que disgregat eius sonos, ut hic:</p>
+      <p id="MARLUC110348">[Marchetus, 496,2]</p>
+      <p id="MARLUC110349">223. apposita, que apponitur super altera, ut hic:</p>
+      <p id="MARLUC110350">[Marchetus, 496,3]</p>
+      <p id="MARLUC110351">
+      <pb n="[498]" />224. preposita, cui preponitur aliquid minus quam dyatessaron, ut hic:</p>
+      <p id="MARLUC110352">[Marchetus, 498]</p>
+      <p id="MARLUC110353">225. supposita, cui supponitur aliquid minus quam dyatessaron, ut hic:</p>
+      <p id="MARLUC110354">
+      <pb n="[500]" />[Marchetus, 500,1]</p>
+      <p id="MARLUC110355">226. continua, que fit ex uno intervallo, ut hic:</p>
+      <p id="MARLUC110356">[Marchetus, 500,2]</p>
+      <p id="MARLUC110357">227. commixta, cui additur alia species vel minus; secundum illud quod additur, competit proprie alteri tono et non illi cui additur, et tunc talis additio commixta dicitur, ut in infrascriptis figuris patet:</p>
+      <p id="MARLUC110358">
+      <pb n="[502]" />[Marchetus, 502,1; text: Hec species primi commiscitur sexto]</p>
+      <p id="MARLUC110359">[Marchetus, 502,2; text: Hec species primi commiscitur quarto]</p>
+      <p id="MARLUC110360">[Marchetus, 502,3; text: Hec species primi commiscitur tercio]</p>
+      <p id="MARLUC110361">
+      <pb n="[504]" />[Marchetus, 504,1; text: Hec species primi commiscitur septimo]</p>
+      <p id="MARLUC110362">[Marchetus, 504,2; text: Hec species primi commiscitur quinto]</p>
+      <p id="MARLUC110363">
+      <pb n="[506]" />228. Ex hiis colligere possumus quod quilibet tonus potest cuicunque altero commisceri, et huius gratia cantari et per [sqb] quadrum et per b rotundum, licet non proprie, ut superius dictum est.</p>
+      <p id="MARLUC110364">229. Intensa species dicitur illa que fit per arsim, ut hic:</p>
+      <p id="MARLUC110365">[ClefC4,Lig4aaart on staff5]</p>
+      <p id="MARLUC110366">[ClefC4,Lig4aaart on staff5]</p>
+      <p id="MARLUC110367">[ClefC4,Lig4aaart on staff5]</p>
+      <p id="MARLUC110368">[ClefC4,Lig3aart on staff5]</p>
+      <p id="MARLUC110369">[ClefC4,Lig2art on staff5]</p>
+      <p id="MARLUC110370">230. remissa, que per thesim, ut hic:</p>
+      <p id="MARLUC110371">[ClefC5,L,S,S,S on staff5]</p>
+      <p id="MARLUC110372">
+      <pb n="[508]" />[ClefC5,Lig4cdsnodad on staff5]</p>
+      <p id="MARLUC110373">[ClefC5,L,S,S,S on staff5]</p>
+      <p id="MARLUC110374">[ClefC5,Lig5cdsnodaad on staff5]</p>
+      <p id="MARLUC110375">231. DE INTERRUPTIONIBUS PRIME SPECIEI DYAPENTE ET QUOMODO ET IN QUIBUS TONIS CADAT PROPRIE INTERRUPTA</p>
+      <p id="MARLUC110376">232. Prima interruptio dyapente fit ex omnibus suis sonis, sive per arsim sive per thesim, ut hic:</p>
+      <p id="MARLUC110377">[ClefC5,Lig5aaaart,S,S,S,S on staff5]</p>
+      <p id="MARLUC110378">
+      <pb n="[510]" />233. Ponitur hec species sic interrupta proprie in primo et in octavo; si in alio ponatur, commixta dicetur, ut hic,</p>
+      <p id="MARLUC110379">[ClefC5,Lig5aaaart,S,S,S,L,S,S,Lig4add on staff5]</p>
+      <p id="MARLUC110380">234. Secunda interruptio fit ex tono et dyatessaron, ut hic:</p>
+      <p id="MARLUC110381">[ClefC5,Ligaart,S,S on staff5]</p>
+      <p id="MARLUC110382">235. Hec semper in quarto; in ceteris, commixta.</p>
+      <p id="MARLUC110383">236. Tercia ex tono, semiditono, et tono, ut hic:</p>
+      <p id="MARLUC110384">[ClefC5,Lig4aaart,S,S,S on staff5]</p>
+      <p id="MARLUC110385">
+      <pb n="[512]" />237. Hec proprie in quarto; sepe in secundo; commixta in ceteris.</p>
+      <p id="MARLUC110386">238. Quarta ex dyatessaron et tono, ut hic:</p>
+      <p id="MARLUC110387">[ClefC5,Lig3aart,S,S on staff5]</p>
+      <p id="MARLUC110388">239. Hec species in secundo proprie; raro in primo.</p>
+      <p id="MARLUC110389">240. Quinta constat ex semiditono et ditono, ut hic:</p>
+      <p id="MARLUC110390">[ClefF3,Lig2art,L,S,S; Lig2art,B,S,S on staff5]</p>
+      <p id="MARLUC110391">241. Hec in primo et in octavo; et si ponatur in A gravi, proprie in secundo.</p>
+      <p id="MARLUC110392">
+      <pb n="[514]" />242. Sexta ex tono, semitonio, et ditono, ut hic:</p>
+      <p id="MARLUC110393">[ClefC5,Lig4aaart,S,S,S on staff5]</p>
+      <p id="MARLUC110394">243. Hec species raro in primo; sepe in secundo et in octavo; aliquando in quarto et sexto.</p>
+      <p id="MARLUC110395">244. Septima ex semiditono et duobus tonis, ut hic:</p>
+      <p id="MARLUC110396">[ClefC5,Lig4aaart,S,S,L on staff5]</p>
+      <p id="MARLUC110397">245. Hec species in primo et in octavo, et aliquando in sexto; si vero locetur in A gravi, in secundo.</p>
+      <p id="MARLUC110398">246. Octava, que fit ex uno intervallo, ut hic:</p>
+      <p id="MARLUC110399">
+      <pb n="[516]" />[ClefF3,Lig3ad on staff5]</p>
+      <p id="MARLUC110400">247. Hec autem species semper in primo; aliquando autem in quarto.</p>
+      <p id="MARLUC110401">248. Sed notandum est quod species dyapente que fit ex uno intervallo, quecunque sit illa, est tante auctoritatis quod si in uno cantu bis vel ter repercussa fuerit, quantumcunque talis cantus descendat, etiamsi non ascendat ultra dyapente a fine, talis cantus auctenticus dicitur, ut est Responsorium Sint lumbi vestri precincti et similes;</p>
+      <p id="MARLUC110402">249. idemque dicimus de omnibus aliis tonis.</p>
+      <p id="MARLUC110403">250. De interruptionibus aliarum specierum nil aliud intendimus, nisi quod interrupte in auctenticis 
+      <pb n="[518]" />et in plagalibus poni possunt, preterquam illa que fit ex uno intervallo, ut dictum est.</p>
+      <p id="MARLUC110404">251. FINIT TRACTATUS UNDECIMUS</p>
+    </body>
+  </text>
+</TEI>

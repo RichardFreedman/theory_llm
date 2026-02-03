@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Lucidarium, tractatus octavus</title>
+        <title type="abbrev">MARLU8</title>
+        <author>Marchetus de Padua</author>
+        <date notBefore="1300" notAfter="1399">14th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Bradley Jon Tucker</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Angela Mariani</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1993</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>Scriptores ecclesiastici de musica sacra potissimum</emph>, 3 vols., ed. Martin Gerbert (St. Blaise: Typis San-Blasianis, 1784; reprint ed., Hildesheim: Olms, 1963), 3:88–92.
+</bibl>
+        <bibl type="work">
+          
+<title>Marchettus de Padua: Lucidarium in arte musicae planae</title>
+          
+<idno type="LML">MARCH. luc.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">A-SP Cod. 135/6 (29.4.4), 21v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Br II 785, 15-38v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Br II 4144, 1-41</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">CH-E 689, 1-44</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">E-Sc 5-2-25, 5-20v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">E-Sc 5-2-25, 76v-77v, 124-128 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-SDI 42, 1-33v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ob Canon. Misc. 42, 184-185 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-BREs D 21, 185v-186v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-CATc D 39, 157-189</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fl Conv. Soppr. 388, 34v-52v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fr 734, 74-101</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Ma D. 5 inf., 52-77v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Ma I. 20 inf., 36v-39 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-PEc 1013, 5-45v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-PIu 606 (IV.9), I/1-50</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat lat. 5322, 1-48</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat Reg. lat. 1146, 7-8 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Sc L.V.30, 91v-119</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-TRE without shelfmark, 15-32v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Vnm Lat. Cl. VIII.85 (3579), 1-10 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">US-Cn Case Ms. 54.1, 10v-33</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">US-Wc ML 171 J 6 Case, hv-47</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="MARLU80001">
+      <pb n="[88]" />Incipit tractatus VIII.</p>
+      <p id="MARLU80002">Caput I.</p>
+      <p id="MARLU80003">De necessariis ad cognoscendam naturam tonorum et semitonorum.</p>
+      <p id="MARLU80004">Quoniam omnis tonus et semitonium in voce consistit, et etiam notis, ex quibus formatur; igitur ad cognitionem perfectam ipsorum videndum est de permutationibus, mutationibus et coniunctionibus vocum, ex quibus diversificatis tonorum diversitas generatur, ad quae videnda hoc ordine procedemus. Primo enim de permutatione dicemus, per quam propter consonantiam in diatonicum et enarmonicum, aut in chromaticum, et diesim est divisibilis quisque tonus. Secundo de ipsa mutatione dicemus, quae fit in quolibet loco manus, ubi duae vel tres voces sub una littera includuntur. Tertio de ipsis coniunctionibus tractabimus, per quas in musica est dispositio sive ordinatio sonorum, sive vocum ad invicem in syllabis et dictionibus: et ex iis omnibus tonorum et semitoniorum musicae naturalitas apparebit.</p>
+      <p id="MARLU80005">
+      <pb n="[89]" />Caput II.</p>
+      <p id="MARLU80006">De permutatione, quid sit, et ubi fiat.</p>
+      <p id="MARLU80007">Permutatio est variatio nominis vocis seu notae in eodem spatio seu linea in diverso sono; fit enim permutatio, ubi tonus dividitur propter consonantiam in diatonicum et enarmonicum aut in chromaticum et diesim, vel e contrario, ut hic:</p>
+      <p id="MARLU80008">[GSIII:89,1] 
+      <figure>
+        <graphic url="/images/MARLU8_01GF.gif" />
+      </figure></p>
+      <p id="MARLU80009">Signa autem, quibus notis innuitur permutationem facere, sunt tria, scilicet [sqb] quadrum, b. rotundum, et aliud signum, quod a vulgo falsa musica nominatur: de quibus videre oportet. Prima namque duo signa, scilicet [sqb] et b. sunt, vel esse possunt in quolibet cantu plano, ac etiam mensurato. Tertium vero signum solum in cantu ponitur mensurato, vel in plano, qui aut colorate cantatur, aut in mensuratum transit, puta in tenoribus Motettorum seu aliorum cantuum mensuratorum. De primis duobus signis ait Richardus Normandus: ubicumque ponitur [sqb] quadrum, dicimus vocem mi; ubicumque vero b. rotundum, dicimus vocem fa; haec enim duo [sqb] b. sic per lineas et spatia figurantur:</p>
+      <p id="MARLU80010">[GSIII:89,2]</p>
+      <p id="MARLU80011">Nam b. rotundum, si debet notis in spatio sitis servire, tunc album, quod est in eius rotunditate, per medium spatii fiat: si autem notis, quae sunt in linea, servire debet, tunc eodem modo per lineas protrahatur, ut immediate superius demonstratur. Similiter [sqb] quadrum eodem modo per lineas et spatia protrahatur, ita tamen, quod linea, quae est in parte sinistra ipsius [sqb], in sursum tendat; quae autem in parte dextra, quae pro decore eidem additur, inferius protrahatur hoc modo:</p>
+      <p id="MARLU80012">[GSIII:89,3]</p>
+      <p id="MARLU80013">Sunt enim nonnulli, qui ipsum [sqb] et tertium signum, quod, ut praedicitur, a vulgo falsa musica nominatur, eodem modo figurant, propriam proprietatem et diversam eorum penitus ignorantes. Nam propria proprietas [sqb] est, semper dividere tonum per enarmonicum et diatonicum semitonia; vel e contrario, ut superius est ostensum. Alterius vero signi propria proprietas est, tonum dividere per chromaticum et diesim et semitonium enarmonicum per medietatem, pro quibusdam, ut supra dictum est, consonantiis, potius dissonantiis assumendis.</p>
+      <p id="MARLU80014">
+      <pb n="[90]" />Caput III.</p>
+      <p id="MARLU80015">De mutatione, quid sit, et ubi.</p>
+      <p id="MARLU80016">Mutatio est variatio nominis vocis seu notae in eodem spatio, linea et sono: fit namque mutatio, vel fieri potest in quolibet loco, ubi duae vel tres voces sive notae nomine sunt diversae, quae quidem sub sola una littera includuntur. Sed quia in A. ut, in A re, et in [sqb] mi singulariter non est nisi una sola vox sub una littera, ideo in ipsarum aliqua mutatio non existit. In C. fa ut, sunt duae voces et duae mutationes, primo cum mutatur fa in ut, propter ascensum [sqb] quadri in naturam; secunda e contrario, ut hic:</p>
+      <p id="MARLU80017">[GSIII:90,1]</p>
+      <p id="MARLU80018">In D. sol re et in clavi sunt similiter duae voces et duae mutationes eo modo, quo et in C. fa ut per omnia se habentes. In F. fa ut sunt duae voces et duae mutationes: prima est, cum convertitur fa in ut propter ascensum naturae in b. rotundum; secunda e contrario, ut hic:</p>
+      <p id="MARLU80019">[GSIII:90,2]</p>
+      <p id="MARLU80020">In G sol re ut sunt tres voces et sex mutationes. Prima est, cum convertitur sol in re propter ascensum naturae in b. rotundum; secunda e contrario, ut hic:</p>
+      <p id="MARLU80021">[GSIII:90,3]</p>
+      <p id="MARLU80022">Tertia est, cum sol convertitur in ut, propter ascensum naturae in [sqb] quadrum; quarta e contrario, ut hic:</p>
+      <p id="MARLU80023">[GSIII:90,4]</p>
+      <p id="MARLU80024">Quinta, cum re convertitur in ut, propter ascensum b. rotundi in [sqb] quadrum; sexta e contrario.</p>
+      <p id="MARLU80025">In quarta la mi re similiter sunt tres voces et sex mutationes, per omnia sic se habentes prout in G. sol re ut est praedictum. In b. fa [sqb] mi non est mutatio, cuius ratio est quia licet ibi sint duae voces diversae, non tamen sunt sub una sola littera, sed sub diversis. Praeterea illae duae voces non sunt in eodem sono, ut supra de permutatione ostensum est. Sed dicetur: immo videntur esse sub una littera, quia b. et [sqb] 
+      <pb n="[91]" />utrumque dicitur. Tunc dicemus, quod ipsarum quaelibet diffinitum habet nomen; nam una dicitur b. rotundum et figuratur sic; alia autem [sqb] quadrum et figuratur sic. Itaque sunt diversae naturae nomine et figura.</p>
+      <p id="MARLU80026">In C. sol fa ut sunt tres voces et sex mutationes: prima est, cum sol mutatur in fa propter ascensum b. rotundi in [sqb] quadrum; secunda e contrario, ut hic:</p>
+      <p id="MARLU80027">[GSIII:91,1] 
+      <figure>
+        <graphic url="/images/MARLU8_02GF.gif" />
+      </figure></p>
+      <p id="MARLU80028">Tertia est, cum sol convertitur in ut propter ascensum b rotundi in naturam: quarta e contrario, ut hic:</p>
+      <p id="MARLU80029">[GSIII:91,2]</p>
+      <p id="MARLU80030">Quinta est, cum fa convertitur in ut propter ascensum [sqb] quadri in naturam; sexta e converso, ut hic:</p>
+      <p id="MARLU80031">[GSIII:91,3]</p>
+      <p id="MARLU80032">In D. fa sol re similiter sunt tres voces et sex mutationes eodem modo per omnia se habentes ut in C. sol fa ut est monstratum: de omnibus enim sequentibus tale est iudicium, quale de ipsis similibus praecedentibus est ostensum. Sed quia hae mutationes fiunt in [sqb] quadro, in b rotundo, et in natura, ideo de ipsis quid sit, videre necesse est.</p>
+      <p id="MARLU80033">Caput IV.</p>
+      <p id="MARLU80034">De natura et proprietate [sqb] quadri, b rotundi, et naturae.</p>
+      <p id="MARLU80035">Sed sciendum est, quod ista tria sunt tres proprietates totius cantus. Est enim proprietas in cantu derivatio plurium vocum ab uno et eodem principio, quae variantur, cum variatur ipsum. Ipsius autem principii variatio sumitur tribus modis, hoc est, sub tribus litteris, scilicet sub G. C. et F. Quando enim sumitur principium in G. tunc cum suis determinatis vocibus sive notis cantari debet per [sqb] quadrum: est enim huiusmodi principium vox illa, quae dicitur ut, ad quam respiciunt caeterae subsequentes, scilicet re mi fa sol la. Quando vero ut est in C. cum suis determinatis vocibus, cantari debet per naturam: quando autem in F. per b. rotundum.</p>
+      <p id="MARLU80036">Est namque naturalis cantus ille, qui in omni quarta coniunctione sonorum semper diatessaron habet, nec umquam potest aliter naturaliter reperiri. Naturalis enim ob hoc dicitur, eo quod naturaliter vox humana in omni quarta voce, sive inter quatuor voces, semper proferre semitonium delectatur.... Cantus [sqb] quadri 
+      <pb n="[92]" />dicitur ille, qui propter mutationem proprietatis naturae in ipsum, vel e contrario, duritiam producit toni ascendendo, vel etiam descendendo: haec enim figura toni, sive coniunctio quatuor sonorum durissime amplectitur, et ob hoc [sqb] quadrum [sqb] durum meruit nominari. Et quia quatuor sonos comprehendit in sui duritia, ideo a musicae doctoribus ordinatum est, ipsum quadre debere figurari. B. rotundi cantus dicitur ille, qui propter mutationem naturae in ipsum, vel e contrario, nil durum resonat, sed molle et delectabile: et ob hoc b. rotundum b. molle merito nuncupatur: et quia in eo nulla duritia reperitur, ideo ad differentiam [sqb] quadri ipsum rotundum praedicti doctores figurare curaverunt.</p>
+      <p id="MARLU80037">Sed est notandum, quoniam dictum est supra, quod ubicumque ponitur [sqb] quadrum, dicimus vocem mi, ubicumque autem b. rotundum, dicimus vocem fa. Nec enim notae, quibus praedicta duo signa, scilicet duo b. [sqb] deserviunt, semper habent secum naturam semitonii; quae natura, si incipiat per deservientem notam a fa, ibi ponitur b. rotundum, si vero a mi, ponitur [sqb] quadrum. Et haec sunt proprietates praedictorum b. rotundi, et [sqb] quadri, et haec est ratio, quare ibidem in cantu scribuntur; et ea sequuntur solum praedictae duae voces, scilicet fa et mi, et non aliae. Dicendum est ergo sicut de avibus et animalibus, quorum si propria nomina ignoramus, dicimus et denominamus ea a nominibus suorum generum, dicendo, animalia sunt vel aves: ita recte est in proposito; nam si non oportet poni aliquod signum in cantu deserviens mutationi alicuius notae, tunc dicitur, quod talis cantus cantabitur per proprietatem, quae est natura; si autem praedicta duo signa propria et deservientia specialiter quibusdam notis, ut dictum est, ponuntur, tunc dicimus, quod talis cantus cantatur per specialem proprietatem, scilicet b. rotundi, vel [sqb] quadri, licet tales proprietates sint etiam naturales. Et haec de proprietatibus dicta sufficiant.</p>
+      <p id="MARLU80038">Finit tractatus octavus.</p>
+    </body>
+  </text>
+</TEI>

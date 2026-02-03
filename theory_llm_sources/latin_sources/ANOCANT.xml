@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>[Tractatus de cantu mensurabili]</title>
+        <title type="abbrev">ANOCANT</title>
+        <author>Anonymous</author>
+        <date notBefore="1200" notAfter="1299">13th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Stephen E. Hayes</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Peter M. Lefferts</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Bradley Jon Tucker</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1994</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Michel Huglo, "Le traité de cantus mensurabilis du manuscrit de Bamberg," in 
+<emph>Pax et Sapientia: Studies in Text and Music of Liturgical Tropes and Sequences in Memory of Gordon Anderson</emph>, ed. Ritva Jacobsson, Acta universitatis stockholmiensis, Studia latina stockholmiensia, vol. 29 (Stockholm: Almqvist &amp;amp; Wiksell, 1986), 94–95. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: Tractatus de musica mensurabili: De cantu mensurabili</title>
+          
+<idno type="LML">MENS. Sciendum</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">D-BAs Lit. 115, 79r-v</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANOCANT0001">
+      <pb n="[94]" />(De notulis)</p>
+      <p id="ANOCANT0002">Sciendum est quod in notulis pro exigentia motellorum, conductorum et organorum tripliciter consideratur tempus, videlicet tempus breve quod est in brevibus notulis et illae sunt non caudatae; semibreve tempus quod est in cornutis; tempus longum quod est in caudatis et hoc est dupliciter. Nam caudata potest esse duorum temporum et tunc sequitur brevis vel trium temporum, ne longa ante longam ex consideratione istorum temporum efficiuntur.</p>
+      <p id="ANOCANT0003">(De modis in motellis)</p>
+      <p id="ANOCANT0004">Sex modi motellorum videlicet primus, secundus, tertius, quartus, quintus, sextus. Primus vero modus consistit ex prima longa et altera brevi, juxta quem motelli ad tenorem datur talis regula quoniam eodem modo tenor se habet vel quelibet notula tenoris possidebit tria tempora. Juxta secundum, qui consistit ex prima brevi et altera longa, datur talis regula quoniam sic se habet tenor vel quelibet valebit tria tempora. Juxta tertium modum, qui consistit ex prima longa et duobus sequentibus brevibus, datur regula quoniam sic se habet tenor vel quelibet valebit tria tempora. Juxta quartum e converso tertio. Juxta quintum, qui consistit ex omnibus longis, datur talis regula quia sic est in tenore. De sexto modo e converso. Notandum est autem quod quatuor modis potest fieri inchoatio motellorum ad tenorem, videlicet in notula eadem aut tertia aut quinta aut octava aut in quarta et raro fit; (secunda vero), sexta vero et septima penitus sunt evitandae.</p>
+      <p id="ANOCANT0005">(De modis in organis)</p>
+      <p id="ANOCANT0006">Ingredientibus in organo primo videndum est quid sit modus: Modus est mensuratio temporis per longas et breves. Et sciendum est quod sex sunt modi quorum tres dicuntur recti, scilicet primus, secundus, sextus; et tres per ultra mensuram procedentes, scilicet tertius, quartus et quintus. Et sciendum est quod omnis modus est duplex, scilicet perfectus vel imperfectus. Perfectus modus est quando terminatur in tali notula in quali incipit. Imperfectus modus est quando eminet in alia quam ab ea a qua incipit. Item longa ante longam habet tria tempora.</p>
+      <p id="ANOCANT0007">
+      <pb n="[95]" />[Huglo, "Traité de Cantus Mensurabilis," 95,1; text: Recta longa, Dupla longa, Plica longa, Recta brevis, Recta semibrevis, Plica] 
+      <figure>
+        <graphic url="/images/ANOCANT_01GF.gif" />
+      </figure></p>
+      <p id="ANOCANT0008">(De figuris)</p>
+      <p id="ANOCANT0009">Et debes scire quid est figura: Figura est representatio soni secundum suum modum. Quia omnis figura aut est simplex aut ligata aut composita. Figurarum descendentium duae sunt species, id est cum proprietate et sine proprietate. Recta proprietas est ut primus punctus habeat tractum descendentem a sinistra parte; sine proprietate est ut non habeat tractum; quando est cum proprietate, si sint duae prima dicitur esse brevis. Si sint tres, duae primae erunt breves. Si sint quattuor, tres primae erunt breves. Si sine proprietate semper erit prima longa.</p>
+      <p id="ANOCANT0010">Tabula figurarum</p>
+      <p id="ANOCANT0011">[Huglo, "Traité de Cantus Mensurabilis," 95,2; text: Simplex, Ligata, Composita, Prima maneries, Secunda, Tercia, Quarta, Quinta, Sexta, Primus modus perfectus, Secundus, Tercius, Quartus, Quintus, Sextus]</p>
+    </body>
+  </text>
+</TEI>

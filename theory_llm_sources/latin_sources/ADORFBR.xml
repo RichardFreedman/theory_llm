@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>[Ad organum faciendum]</title>
+        <title type="abbrev">ADORFBR</title>
+        <author>Anonymous</author>
+        <date notBefore="800" notAfter="1099">9th-11th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Angela Mariani</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Peter Slemon</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1994</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Hans Heinrich Eggebrecht and Frieder Zaminer, eds., 
+<emph>Ad organum faciendum. Lehrschriften der Mehrstimmigkeit in nachguidonischer Zeit</emph>, Neue Studien zur Musikwissenschaft, vol. 3 (Mainz: B. Schotts Söhne, 1970), 175.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: Tractatus de organo cod. Mediolanensis (pars rhythmica)</title>
+          
+<idno type="LML">ORG. Mediol. rhythm.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">I-Ma M. 17 sup., 58v-61</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ADORFBR0001">
+      <pb n="[175]" />[Prosateil:] Significatum organi aliud naturale aliud remotum a natura. Naturale est illud cui uicissim duo immediata contingit eidem esse et non esse sub organo uidelicet diapente et [f. 54vb in marg.] diatessaron ueluti homini cui uicissim contingit eidem esse et non esse duo immediata sub animali uidelicet sanum et egrum. Remotum a natura est cui nullum alterum contingit esse utpote instar ueri animalis et mortui hominis quibus non contingit esse neque sanum et egrum sub animali . quapropter tale organum non est organum. oppositio autem est in adiecto. Nam quotiens cum aliquid non subponitur alicui duorum immediatorum nec illi subponitur cui sunt immediata. sed tale organum nulli subponitur. ergo non est nisi per simile quemadmodum instar ueri animalis non est homo. uidelicet pictura et cadauer.</p>
+      <p id="ADORFBR0002">[Versteil:] (1) cum autem diatessaron et diapente organizemus (2) succincte et egregie curramus (3) donec ad copulam cum dulcedine perueniamus. (4) et eorum diligentiam confestim uideamus (5) prestolatim collocando iungamus. (6) nam tante affinitas sunt tantoque amicitie (7) ut una conducit alteram curiosa beniuolentia sua et cetera...</p>
+      <p id="ADORFBR0003">[Prosateil:] | Item dyaphonia uocum disiunctio sonat quam nos organum uocamus. cum disiuncte ab inuicem et concorditer dissonant et dissonanter concordant. qua quidam organizatores [f. 55ra in marg.] ita utuntur ut canenti semper quarta corda succedat. ut .A. ad .D. vbi si sic organum per acutum .a. duplices resonabit .A. ad .D. diatessaron ad acutum .a. diapason. D. ad utrumque .A. et .a. diatessaron et diapente. Item sciendum quod organales uoces affinitatem habent cum precedentibus. et quia hee tres uoces siue species affinitates habentes tanta se ad organi societatem permiscent quemadmodum uoces siue similitudines uocum fecisse monstrate sunt. ...</p>
+      <p id="ADORFBR0004">Prima uox organi aut manet coniuncta cum precedente per diapason uel in eodem. aut disiuncta per diapente et diatessaron. Medie uero uoces dyapente uel diatessaron discurrunt. cum autem cantus prestolatur organum copulatio fit quolibet modo. et ita cum quatuor uoces sint tantum subsequentes una organalis dicitur. nam prima quandoque iungitur. tercia intuens prestolantem ut habilem copulam tribuat quarte uoci cum qualibet consonantia. ...</p>
+    </body>
+  </text>
+</TEI>

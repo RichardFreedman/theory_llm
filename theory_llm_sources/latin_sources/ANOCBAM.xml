@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>[Compendium breve artis musicae]</title>
+        <title type="abbrev">ANOCBAM</title>
+        <author>Anonymous</author>
+        <date notBefore="1400" notAfter="1499">15th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Peter Slemon</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Mark Butler</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>2001</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Bernhold Schmid, "Ein Mensuralkompendium aus der Handschrift Clm 24809," in 
+<emph>Quellen und Studien zur Musiktheorie des Mittelalters</emph>, ed. Michael Bernhard, Bayerische Akademie der Wissenschaften, Veröffentlichungen der Musikhistorischen Kommission, Band 8 (Munich: Bayerische Akademie der Wissenschaften / C. H. Beck, 1990), 74–76. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: Tractatus de musica mensurabili</title>
+          
+<idno type="LML">MENS. Cum animadv.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 24809, 144-145</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANOCBAM0001">
+      <pb n="[74]" />[144r in marg.] Cum animadverterem iuxta hoc dictum: "longa solent sperni, gaudent brevitate moderni", et ne animus studentis amplexitate sermonis ac scripturarum impediretur sive agravaretur, ideo quasdam declarationes temporum, modorum nec non aliorum spectancium ad cantum mensuratum sive mensuram, quod idem est, videlicet brevibusque verbis per exemplorum positionem conscribere procuravi.</p>
+      <p id="ANOCBAM0002">Et primo notandum, quid sit tempus. Nam secundum Philosophum dicitur mensura motus secundum prius et posterius. Sed secundum musicum sic diffinitur in generali: Tempus est mensura vocis prolate seu obmisse et sub uno motu continuo. Sed tempus magis in speciali et proprie sumptum diffinitur sic: Secundum musicum tempus est mensura tam vocis prolate quam eius contrarie, puta vocis obmisse, que communiter pausa nominatur. Dico autem pausam tempore mensurari, quia, si non, tunc duo cantus diversi, quorum unus cum pausa et alter sine pausa sumeretur, non possent proportionabiliter coequari.</p>
+      <p id="ANOCBAM0003">Item sciendum duplex est tempus, scilicet perfectum et imperfectum. Perfectum est, quod continet numerum ternarium in semibrevibus et illud debet tangi tribus digitis, id est tactibus. Sed tempus imperfectum est, quod continet numerum binarium in semibrevibus et illud debet tangi duobus digitis, ut supra. Item duplex est prolacio: maior et minor. Maior est, que continet numerum ternarium in minimis pro semibrevi, et pro brevi sex, ut hic: [S,M,M,M,B,M,M,M,M,M,M] Sed minor prolacio est, quae continet numerum binarium in minimis pro semibrevi et quatuor pro brevi; exemplum ut hic: [S,M,M,B,M,M,M,M], ut patet in Je no mon cuer et in consimilibus.</p>
+      <p id="ANOCBAM0004">Sequitur de figuris. Nota: figura est representacio soni secundum suum motum. Vel sic: Figura est signum et noticia vocis cum proprietate vel sine proprietate diversitatem secundum elevacionem et depressionem 
+      <pb n="[75]" />demonstrans. Item nota: omnis figura aut est duplex longa, ut hic: [MX,MXcsdx], vel simplex longa, ut hic: [L,Bcsdx], vel est brevis, ut hic: [B,B], vel semibrevis, ut hic: [S,Bcssn], vel est minima, ut hic: [M], vel est semiminima, ut hic: [A], vel est fusiel, ut hic: [Acd], vel longa figura vel baculus, ut hic: [Lig2cdsnosnod,Lig2cdsnosnod] Pluribus non fit variacio videlicet posicio figurarum.</p>
+      <p id="ANOCBAM0005">Sequitur de ligaturis. Omnis ligature per figurarum ascensum sine omni plica quelibet figurarum valet unam brevem sive unum tempus, ut in isto exemplo: [Lig3aa,Lig3aa,Lig3oaa,Lig3aoa] Item nota plica a sinistris est duplex, scilicet brevis et longa. Nota brevis habet se per ascensum, ut hic: [Bcssn] Sed longa habet se per descensum, ut hic: [Bcdsn] Sed omnis plica a dextris [144v in marg.] sursum vel deorsum est longa, ut hic: [Bpsdx,Bpddx] Nota, si due figure simul colligantur sursum vel deorsum per plicam brevem, tales figure equipollent duabus semibrevibus, quia est regula generalis, quod tantum due breves per plicam brevem colligantur pro uno tempore: [Lig2pssna,Lig2pssnoa,Lig2pssnd,Lig2pssnod]</p>
+      <p id="ANOCBAM0006">Item notandum, quod in modo perfecto duplex longa valet sex tempora. Ubi cum ea ordinatur una brevis a parte ante vel a parte post et his duobus modis imperficitur duplex longa, et valet tunc quinque tempora, ut est in exemplo: [Lig2aMXcddx,Lig2MXaL] Item duplex longa ante longam. In modo perfecto quelibet longa per se valet tria, ut hic: [L,L] Sic etiam de modo sive tempore perfecto brevis ante brevem valet tres semibreves: [B,B] Et sic semibrevis ante semibrevem in maiori prolatione valet tres minimas, ut hic: [S,S]</p>
+      <p id="ANOCBAM0007">Item notandum, quod longa simplex in modo imperfecto nec plus nec minus valere potest, nisi duo tempora, ut hic: [L], nisi ei attribuatur signum perfectionis, quia tunc valet tria tempora et est perfectionis, ut hic: [L,pt] Sic etiam in minori prolacione semibrevis non plus valet nisi duas minimas, ut hic: [S,M,M], nisi ei attribuatur punctus perfectionis. Tunc est perfecta semibrevis, et valet tres minimas, ut hic: [S,pt,M,M,M] Item duplex est punctus, perfectionis et divisionis. Perfectionis est, qui stat a parte dextra et perficit longam, brevem, semibrevem, ut hic: [L,pt,B,pt,S,pt] Et dicitur perfectionis, quia perficit notam, cui additur. Sed punctus divisionis est, qui dividit longam, brevem, semibrevem et minimam, ne 
+      <pb n="[76]" />tales ordinentur cum secunda. Et idem punctus debet poni a parte sinistra; exemplum ut hic: [pt,L,pt,B,pt,S,pt,M] Consequenter notandum est, quod si in modo perfecto plures breves reperiuntur inter duas longas, tunc tercius et tercius debent computari pro perfectione, id est pro longa perfecta. Et si una remanet in residuo, tunc prima longa imperficitur a prima brevi, ut hic: [L,B,B,B,B,L], nisi punctus primam longam sequatur, quia tunc ultima longa imperficitur, ut hic: [L,pt,B,B,B,B,L] Sed si due breves manent in residuo, tunc iste due faciunt perfectionem ita, quod secunda alterabitur, ut hic: [L,B,B,B,B,B,L] Et valet duo tempora, nisi punctus mediat inter illas. Tunc prima longa et secunda inperficientur et omnes breves essent equales, ut hic: [L,B,B,B,B,pt,B,L] Eodem modo intellige de tempore perfecto, cum plures [145r in marg.] semibreves reperiuntur inter duas breves, ut supra. Exemplum primi, ut hic: [B,S,S,S,S,B] Exemplum secundi, ut hic: [B,pt,S,S,S,S,B] Exemplum tercii, ut habetur hic: [B,S,S,S,S,S,B] Exemplum quarti, ut sic: [B,S,S,S,S,pt,S,B] Et sic etiam in maiori prolacione intellige: quando plures minime reperiuntur inter duas semibreves, et tunc tres et tres debent computari pro perfectione, id est, pro perfecta semibrevi, et si una remanet, tunc prima semibrevis inperficitur a minima prima inmediate eam sequentem. Exemplum, ut hic: [S,M,M,M,M,S] Exemplum secundi, ut hic: [S,pt,M,M,M,M,S] Exemplum tercii, ut hic: [S,M,M,M,M,M,S] Exemplum quarti, ut hic: [S,M,M,M,M,pt,M,S]</p>
+      <p id="ANOCBAM0008">Nunc sequitur de modo perfecto: Pro quo notandum, quod primo cantus est de modo perfecto, ubi talis ordo vel positio habetur, scilicet, quando in tenore reperitur linea tria spacia tegens. Secundo, quando brevis per ligaturam vel sine ligatura ordinatur cum longa. Tercio, quando valor brevis, id est pausa unius temporis cum longa ordinatur. Quarto, quando brevis ordinatur cum pausa duorum temporum. Quinto, quando tres breves similiter ordinantur. Sexto, quando valor trium brevium per punctum habetur. Septimo, quando due breves pausam inter se habentes ponuntur, vel quando due breves punctum inter se habentes ponuntur inter duas longas. Octavo, quando longa sequens longam habet punctum post se, ut in hoc tenore subsequenti ubi signa et exempla predictorum ponuntur, in quibus lucide et manifeste patet, quomodo modus perfectus debet cognosci. Et cetera Hainricus scripsit et cetera.</p>
+    </body>
+  </text>
+</TEI>

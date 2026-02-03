@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Tractatus de cantu perfecto et imperfecto</title>
+        <title type="abbrev">ZELTRAC</title>
+        <author>Henricus de Zeelandia</author>
+        <date notBefore="1300" notAfter="1399">14th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Peter Slemon</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Jessica Sisk</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>2003</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Zsuzsa Czagány, "Der Tractatus de cantu perfecto et imperfecto des Henricus de Zeelandia," in 
+<emph>Quellen und Studien zur Musiktheorie des Mittelalters</emph>, vol. 2, ed. Michael Bernhard, Bayerische Akademie der Wissenschaften, Veröffentlichungen der Musikhistorischen Kommission, Band 13 (München: Bayerische Akademie der Wissenschaften; C. H. Beck, 1997), 114–17. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Henricus de Zelandia: Tractatus de cantu perfecto et imperfecto</title>
+          
+<idno type="LML">HENR. ZEL.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">CZ-Pu XI. E. 9 (2056), 243r-v</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ZELTRAC0001">
+      <pb n="[114]" />Gaudent musicorum discipuli, quod Henricus de Zeelandia aliqua brevia tractat de musica, videlicet quot sunt proportiones et in quo fiunt.</p>
+      <p id="ZELTRAC0002">Primo videndum est quod septem sunt proportiones seu concordancie, scilicet unisonus, tercia, quinta, sexta, octava, decima et duodecima. Iste proportiones possunt dividi; et dividuntur in tredecim, videlicet in sex concordanciis et in septem discordanciis. Sex concordancie sunt unisonus, ditonus, semiditonus, diapente, tonus cum diapente et diapason. Septem discordancie sunt semitonus, tonus, tritonus, diatesseron, semitonus cum diapente, ditonus cum diapente, semiditonus cum dyapente.</p>
+      <p id="ZELTRAC0003">Istarum proporcionum seu concordanciarum quedam perfecte, quedam inperfecte et quedam medie. Perfecte sunt unisonus et octava; ratio est hec, quia naturaliter concordant. Inperfecte sunt tertia, sexta et decima. Medie sunt quinta et duodecima; ratio est hec, quia minus sunt quam perfecte et magis quam inperfecte.</p>
+      <p id="ZELTRAC0004">Unisonus est duarum vocum ad invicem ordinacio in eadem linea vel spacio. Tercia est tercia vox supra tenorem et est duplex, scilicet ditonalis et semiditonalis. Dytonalis est illa, que tenet in se duos tonos perfectos, exemplum sicut fa-la. Semiditonalis est illa, que tenet in se tonum cum semitono, exemplum sicut re-fa. Et est videndum, quod tonus est ubi fit ascensus vel descensus inmediate, exemplum sicut re-mi et cetera. Sed semitonus est, ubi invenitur fa-mi et econverso. Quinta est quinta vox supra tenorem, que quinque voces tenent in se; tres tonos cum semitono, sicut re-la. Sexta est sexta vox supra tenorem, que sex voces tenent in se; quatuor tonos cum semitono, sicut re de natura in .de.solre mi de .[sqb]. in .be.fa.be.mi. Octava est octava vox supra tenorem, que octo voces tenent in se; quinque tonos perfectos cum duobus semitoniis, non quod illi duo semitoni pro uno tono debet computari. Decima est decima vox supra tenorem et fit ex tercia. Duodecima est duodecima vox supra tenorem et fit ex quinta.</p>
+      <p id="ZELTRAC0005">
+      <pb n="[115]" />Et videndum, quid sit musica. Musica est varia vocum ordinacio ad invicem. Et notandum, quod in musica reperitur una duplex octava cum una sexta. Item inveniuntur duo signa, scilicet .b. sic formata et .[sqb]. sic formata. Et notandum, quod omnis discantus debet incipi et finiri in perfectis vel in mediis.</p>
+      <p id="ZELTRAC0006">Item, quod due perfecte seu due medie non debent poni una post aliam ascendendo vel descendendo, nisi aliqua inperfecta interponatur. Item due inperfecte vel plures possunt simul poni ascendendo vel descendendo sine media vel perfecta interposita. Et est notandum, quod sex sunt gradus, per quos tota ars musice canitur, scilicet ut, re, mi, fa, sol, la et econverso. Et scala eius manus sinistra, in qua ponuntur gradus, et est arbor musice, de qua accipimus fructus per quos addiscimus cantare. Per quem fructum et quos ramos habet? Rami acuti eius sunt digiti et fructus eius sunt note et cetera. Ille dicitur cantus proprie artificialis et non usualis. Unde versus:</p>
+      <p id="ZELTRAC0007">Bestia non cantor, quia non canit arte, sed usu.</p>
+      <p id="ZELTRAC0008">Et non vox cantorem facit, sed artis documentum.</p>
+      <p id="ZELTRAC0009">Itaque ars non sit ad voluntatem, sed ad rationem, quia si ars fieret ad voluntatem, tunc nil reputaretur. Si fit ad rationem, ostendit, quod reddamus rationem per quemlibet cantum et per quamlibet notam et cetera.</p>
+      <p id="ZELTRAC0010">Incipit nova recollectio plane musice secundum modernos. Primo queritur, unde oritur demonstracio toni et semitoni: ad tonum .a. ad .b., ad semitonum .b. ad .c., .c. ad .d. tonum et sic de singulis. Tonus habet compunctos quatuor, scilicet ut-re-mi, fa-sol-la in ascendendo et descendendo. Semitonus habet compunctum unum, scilicet mi fa et econverso.</p>
+      <p id="ZELTRAC0011">Tonus dicitur a tonando, id est a sonando, quia sonus in una corda potest fieri. Tonus fit in duabus et ideo duo simul stantes faciunt tonum.</p>
+      <p id="ZELTRAC0012">Ditonus dicitur quasi divisio, id est de duobus tonis, quia duo toni simul stantes faciunt ditonum, scilicet semiditonus .a. ad .c., semitonus .b. 
+      <pb n="[116]" />ad .c. ditonum, et cetera. Semiditonus constat ex tono cum semitono et habet compunctos duos, scilicet re-fa, mi-sol. Semiditonus dicitur quasi medius ditonus, id est non plenus ditonus. Diatesseron Grece dicitur "quatuor" Latine, quia constat ex quatuor sonis: ex duobus tonis et semitono. Dyapente Grece dicitur "quinque" Latine, quia constat ex quinque sonis, id est ex tribus tonis cum semitono. Diapason Grece dicitur quasi "dia" Latine "ex", "pason" Grece et "octo" Latine, quia constat ex octo vocibus.</p>
+      <p id="ZELTRAC0013">Item notandum est, quare mutacio fuit inventa: mutacio fuit inventa causa necessitatis, quia non possumus ascendere supra la, nec descendere sub ut. Et ideo fuit inventa causa necessitatis, ut ait Boecius in prima regula, cum dicit, quod mutacio est divisio vocis, scilicet dimittere unam et aliam accipere, et dicitur mutacio a muto, mutas, et cetera.</p>
+      <p id="ZELTRAC0014">Regule plane musice: Omnis reformacio, que incipit in .C., cantatur per naturam. Omnis reformacio, que incipitur in .F., cantatur per bemollem. Omnis reformacio, que incipitur in .G., cantatur per .[sqb]. quadrum. Unde versus:</p>
+      <p id="ZELTRAC0015">C naturam dat, F bemolle tibi signat.</p>
+      <p id="ZELTRAC0016">G quoque durum, quia semper canit durum.</p>
+      <p id="ZELTRAC0017">Notandum, quid est tonus. Tonus est plenus sonus, sed non omnis sonus est plenus tonus. Quid est semitonus? Semitonus est medius tonus, et dicitur semitonus a "semus, sema, semum". Ditonus idem est, quod duo toni, scilicet ut-re-mi, fa-sol-la. Semiditonus est tonus cum semitono, scilicet re-fa, mi-sol. Diatesseron est quarta nota, scilicet ut-fa, re-sol, mi-la. Diapente est quinta nota, scilicet ut-sol, re-la. Diapason est octava nota, scilicet de .C. grave in .c. acutum, et habet compunctum quinque tonorum et duo semitonia.</p>
+      <p id="ZELTRAC0018">
+      <pb n="[117]" />Notandum, quod si cantus venit ex parte inferiori vel superiori, et ascendit usque ad .[sqb]. quadrum vel durum acutum et non ad .c., antequam descendit in .F. grave, tunc cantatur per quadrum .[sqb]. specialiter quando cantus cantatur superiore parte.</p>
+      <p id="ZELTRAC0019">Notandum, quod omnis cantus regularis debet finiri in quatuor, scilicet in .D. grave, .E. grave, .F. grave et .G. grave; et omnis cantus irregularis debet finiri in aliis tribus litteris, scilicet .a. acutum, .b. acutum et .c. acutum.</p>
+      <p id="ZELTRAC0020">Notandum, quod cum cantus non potest salvari per litteras inferiores, mutetur et cantetur per litteras superiores, verbi gratia: .D. habet societatem cum .a.; .E. cum .b. et sic de singulis.</p>
+      <p id="ZELTRAC0021">Notandum, quod autentici toni possunt ascendere supra suum finalem usque ad octavam vel ad nonam cordam regulariter, licencialiter vero ad decimam vel undecimam, et descendere sub suo finali unam vel duas et non plus regulariter, et sic de omnibus autenticis, qui eodem modo se habent.</p>
+      <p id="ZELTRAC0022">Notandum, quod plagales toni possunt ascendere super suum finalem usque ad quintam vel sextam vocem regulariter, licencialiter vero ad septimam, quod raro fit, et descendere sub suo finali ad quartam cordam vel quintam, et sic de omnibus plagalibus, qui eodem modo se habent.</p>
+      <p id="ZELTRAC0023">Notandum, quod omnis cantus, qui ascendit usque ad quartam vel quintam vocem supra suam octavam et sub suo finali descendit quartam vel quintam vocem, non dicitur autenticus nec plagalis, sed dicitur mixtus vel * mexus * ut in responsorio "Sint lumbi vestri precincti" et sic de singulis.</p>
+      <p id="ZELTRAC0024">Primus cum sexto fa, sol, la semper habeto</p>
+      <p id="ZELTRAC0025">Tercius, octavus, ut, re, fa sicque secundus.</p>
+      <p id="ZELTRAC0026">La, sol, la quartus, ut, mi, sol sit tibi quintus.</p>
+      <p id="ZELTRAC0027">Septimus mi, fa, sol, sic omnibus esse recordor.</p>
+    </body>
+  </text>
+</TEI>

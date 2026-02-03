@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Compendium totius artis motetorum</title>
+        <title type="abbrev">WFANON3</title>
+        <author>Anonymous</author>
+        <date notBefore="1300" notAfter="1399">14th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Stephen E. Hayes</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Peter M. Lefferts</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Luminita Florea Aluas</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1992</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Johannes Wolf, "Ein anonymer Musiktraktat aus der ersten Zeit der 'Ars Nova,'" 
+<emph>Kirchenmusikalisches Jahrbuch</emph> 21 (1908), 34–38.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: Tractatus de musica mensurabili: Compendium totius artis motetorum</title>
+          
+<idno type="LML">MENS. Primo punctus</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">D-EF 8° 94, 68v-70</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="WFANON30001">
+      <pb n="[34]" />Compendium totius Artis Motetorum.</p>
+      <p id="WFANON30002">Primo punctus quadratus vel nota quadrata est duplex, vel est caudatus vel non. Si caudatus, hoc fit tripliciter: vel ad dexteram partem tantum vel ad sinistram partem vel ad utramque. Si tantum ad dexteram, tunc est longa ut hic: [L,Bcsdx]. Si tantum ad sinistram, tunc est brevis, ut hic: [Bcssn,Bcdsn]. Si ab utraque parte, hoc fit dupliciter: aut dextra pars est longior sinistra et tunc est longa ut hic: [Bpdsncddx,Bpssncsdx], vel sinistra pars est longior et tunc est brevis, ut hic: [Bcdsnpddx,Bcssnpsdx]. Ulterius si punctus quadratus non est caudatus, tunc est brevis ut hic: [B].</p>
+      <p id="WFANON30003">Dictum est de brevibus et longis non ligatis, quomodo formatae sunt. Ulterius dicendum est de formationibus aliarum, primo de formatione semibrevium, secundo minimarum, tertio semiminimarum, quarto de minimis additis, quinto de fusellis. Exemplum de formationibus omnium, primo semibrevis [S], secundo minimae [M], tertio semiminimae [SM], quarto minimae additae, [Mvxdx], quinto de formatione fusellae [F].</p>
+      <p id="WFANON30004">Dictum est de formationibus notularum non ligatarum, dicendum est de valore earum et primo de longis. Longa simpliciter valet tria tempora et est perfecto perfecta: [L,B,B,B]. Longa per accidens fit imperfecta et hoc est, quando sola brevis sequitur eam vel antecedit in computatione perfectionum ut hic: [L,B; B,L], vel valor ut hic: [L,Lig2cssnod; Lig3cssnaacddx], vel in cantu imperfecto ut in uno moteto Au diex vn poray tenor et in multis 
+      <pb n="[35]" />aliis motetis. Etiam aliquando fit imperfecta per mutationem coloris: exemplum in tenore de Garyson. Et e contrario fit perfecta per mutationem coloris: exemplum in tenore de In arboris et a simili in multis. Imperfecta duo tempora valet ut hic: [L,B,B].</p>
+      <p id="WFANON30005">Dictum est de longis, ulterius dicendum est de brevibus. Et est brevis duplex, scilicet recta brevis et altera brevis. Recta brevis valet unum tempus ut hic [B]. Altera brevis fit, quando duae breves ponuntur inter duas longas vel ante longam vel post longam; tunc secunda brevis fit altera ut hic: [L,B,B,L; B,B,L; L,B,B], vel si duae remaneant ultra computationem perfectam ut hic: [L,B,B,B,B,B,L]. Et illud est intelligendum, quando cantus cantatur de modo perfecto, quia, quando cantus est imperfectus, tunc omnes breves sunt aequales.</p>
+      <p id="WFANON30006">Dictum est de longis et brevibus, dicendum est de semibrevibus. Semibrevis est duplex, scilicet recta semibrevis et altera et hoc in tempore perfecto. Recta semibrevis valet solam semibrevem et altera valet duas. Altera fit, quando duae sunt inter duas breves vel duas longas ut hic: [B,S,S,B; L,S,S,L], vel ante vel post ut hic [S,S,B,B; B,B,S,S], vel si duae remaneant ultra computationem temporum. Tunc ultima duarum fit altera et valet duas ut hic: [B,S,S,S,S,B]. Sed si cantus est de tempore imperfecto, tunc sunt omnes aequales. Nota, antiqui posuerunt sic de semibrevibus de tempore perfecto: Quando tres ponuntur inter duas breves vel inter duos punctos, tunc sunt omnes aequales ut hic: [B,S,S,S,B,pt,S,S,S,pt] Quando duae, tunc prima est recta semibrevis et secunda fit altera ut hic: [B,S,S,B,pt,S,S,pt] Quando quatuor, tunc primae duae valent semibrevem et aliarum duarum quaelibet valet semibrevem ut hic: [B,S,S,S,S,B]. Quando quinque, tunc primae duae valent semibrevem et alterae duae similiter et ultima sola valet semibrevem ut hic: [B,S,S,S,S,S,B]. Quando sex, tunc duae et duae pro semibrevi ut hic: [B,S,S,S,S,S,S,B]. Quando septem, tunc tres primae pro semibrevi et duae et duae pro semibrevi ut hic: [B,S,S,S,S,S,S,S,B]. Quando octo, tunc tres et tres pro semibrevi et duae ultimae pro semibrevi ut hic: [B,S,S,S,S,S,S,S,S,B]. Quando novem, tunc tres pro semibrevi. Si ulterius, tunc quatuor primae erunt minimae additae et sic ulterius dividendo, quod raro accidit.</p>
+      <p id="WFANON30007">Dictum est de semibrevibus, ulterius dicendum est de minimis. Omnes minimae imperfectae sunt simpliciter. Est enim minima duplex ut semibrevis, scilicet recta minima et altera. Et hoc fit, quando duae minimae stant inter duas semibreves vel ante vel retro semibrevem; secunda fit altera sicut in semibrevibus ut hic: [S,M,M,S; M,M,S; S,M,M]. Nota, tres minimae faciunt semibrevem perfectam ut hic: [S; M,M,M].</p>
+      <p id="WFANON30008">
+      <pb n="[36]" />Dictum est de minimis, dicendum est de semiminimis. Omnes semiminimae sunt imperfectae simpliciter, et duae valent minimam unam ut hic:</p>
+      <p id="WFANON30009">[M] = [SM,SM].</p>
+      <p id="WFANON30010">Ulterius est dicendum de minimis additis. Quatuor minimae additae valent semibrevem perfectam vel tres minimas ut hic:</p>
+      <p id="WFANON30011">[S] = [Mvxdx,Mvxdx,Mvxdx,Mvxdx] [M,M,M] = [Mvxdx,Mvxdx,Mvxdx,Mvxdx].</p>
+      <p id="WFANON30012">Dictum est de minimis additis, dicendum est de fusellis. Duae fusellae faciunt quatuor minimas additas ut hic:</p>
+      <p id="WFANON30013">[F,F] = [Mvxdx,Mvxdx,Mvxdx,Mvxdx].</p>
+      <p id="WFANON30014">Dictum est de omnibus non ligatis, cujus valoris sunt; dicendum est de ligatis. Primo considerandum est, quod duplex est ligatura, scilicet ascendens et descendens. Exemplum: [Lig3aacddx,Lig2a,Lig3aart,Lig3cdsndd,Lig3cdsndod]. Ligatura ascendens est triplex: vel cum proprietate, vel sine proprietate, vel cum proprietate opposita. Cum proprietate est, quando prima habet caudam ut hic: [Lig3Lad,Lig2La], et tunc prima est longa. Et si sit sine proprietate, hoc est, quia non habet caudam, tunc est brevis ut hic: [Lig2a,Lig3ad]. Si sit cum proprietate opposita, hoc est, quando prima habet caudam ascendentem, et tunc prima est semibrevis et sequens eam ut hic: [Lig3cssnaa,Lig2cssna].</p>
+      <p id="WFANON30015">Dictum est de ligaturis ascendentibus, dicendum est de descendentibus. Et est triplex: scilicet cum proprietate et sine proprietate et cum proprietate opposita. Cum proprietate est, quando prima habet caudam et tunc prima est brevis ut hic: [Lig3cdsndd,Lig3cdsndod]. Vel est sine proprietate, hoc est, quando prima non habet caudam, et tunc prima est longa ut hic: [Lig3dd,Lig3dod]. Et si cum proprietate opposita, hoc est, quando prima habet caudam ascendentem, tunc prima est semibrevis et sequens eam ut hic: [Lig3cssndd,Lig3cssndod].</p>
+      <p id="WFANON30016">Dictum est de primis notulis ligaturarum, dicendum est de ultimis. Et est ultima duplex, vel stat ab obliquo post penultimam vel corporata cum ea. Si stat ab obliquo, hoc fit dupliciter: vel stat supra penultimam vel sub penultima. Si sub penultima, tunc est longa sicut hic: [Lig2cdsnd]. Et si supra penultimam, hoc fit dupliciter: vel stat recte supra penultimam vel a latere. Si recte, tunc ultima est longa ut hic: [Lig2art,Lig4cssnodaart]. Si a latere, tunc ultima est brevis ut hic: [Lig3aa,Lig4odaa]. Si ultima sit corporata ad penultimam, tunc ultima est brevis ut hic: [Lig2cdsnod].</p>
+      <p id="WFANON30017">Dictum est de primis et ultimis notulis, cujus valoris sunt; dicendum est de mediis. Omnes mediae sunt breves exceptis illis, quae sunt cum proprietate opposita ut hic:</p>
+      <p id="WFANON30018">Exemplum: [Lig3cdsndd,Lig3aa,Lig4ddod,Lig3cssndd,Lig4cssnddod].</p>
+      <p id="WFANON30019">
+      <pb n="[37]" />Dictum est de formatione et valore notularum, dicendum est de valore pausarum. Primo pausa attingens quatuor regulas et tria spatia valet tria tempora. Pausa attingens tres regulas et duo spatia valet duo tempora. Pausa attingens duas regulas et unum spatium valet unum tempus. Pausa attingens duo spatia et unam regulam valet semibrevem perfectam. Pausa attingens spatium inferius et unam regulam valet semibrevem imperfectam. Pausa attingens unam regulam et spatium superius valet minimam. Omnes aliae attingunt unam regulam et spatium superius cum signis et figuris notularum, quarum valoris sunt.</p>
+      <p id="WFANON30020">Exemplum: [KJ21:37] 
+      <figure>
+        <graphic url="/images/WFANON3_01GF.gif" />
+      </figure></p>
+      <p id="WFANON30021">Dictum est de valore pausarum, dicendum est de modis motetorum. Et dicunt quidam, quod sunt quinque modi, scilicet primus, secundus, tertius, quartus, quintus. Primus modus est ex una longa et brevi ut hic: [L,B]. Secundus est ex una brevi et longa ut hic: [B,L]. Tertius est ex una longa et duabus brevibus ut hic: [L,B,B], quartus ex duabus brevibus et una longa ut hic: [B,B,L]. Quintus modus est ex omnibus brevibus, semibrevibus et minimis et ceteris exceptis longis ut hic: [B,S,S,Lig3cssnoda,S,M,S].</p>
+      <p id="WFANON30022">Est autem dictum de modis. Notandum, quod perfectio est duplex, scilicet perfectio perfecta et perfectio imperfecta. Perfectio perfecta est computanda de tribus et perfectio imperfecta de duobus. Exemplum de tribus in uno moteto Praesidentes in tronis seculi, exemplum secundi scilicet de duobus in Adesto sancta trinitas. Nota, sicut duplex est longa, sic et duplex est tempus, scilicet tempus perfectum et tempus imperfectum. Tempus perfectum similiter est duplex, scilicet de majori prolatione et minori. De majori est, quando semibreves ipsius sunt perfectae et valent tres minimas aequales. Tempus perfectum de minori prolatione est, quando semibreves ipsius sunt imperfectae et valent duas minimas aequales. Tempus imperfectum est duplex, scilicet de majori prolatione et minori. Sicut prius de majori est, quando semibreves ipsius sunt perfectae, de minori est, quando semibreves ejus sunt imperfectae. Tempus perfectum habet tres semibreves aequales, tempus imperfectum solum duas aequales. Exemplum de tempore perfecto majori in uno moteto Qui doloretus, exemplum de minori in uno moteto Playn sui de ameer. Exemplum de tempore imperfecto majori in moteto Adesto sancta trinitas, exemplum de minori in moteto Quoniam secta latronum et in multis aliis motetis, rondellis et baladis.</p>
+      <p id="WFANON30023">Nota, sicut brevis se habet ad longam, sic semibrevis ad brevem et sic se habet minima ad semibrevem. Quare sicut longa fit imperfecta per brevem, sic brevis per semibrevem et semibrevis per minimam ut hic: 
+      <pb n="[38]" />[L,B; B,S; S,M]. Et illud est intendendum de longis, brevibus et semibrevibus perfectis.</p>
+      <p id="WFANON30024">Ulterius est notandum, quod modus et tempus variantur per variationem coloris; quia rubedo facit cantum perfectum cantari imperfectum, et tempus perfectum facit cantari imperfectum et e contrario. Item rubedo signat mutationem soni, quia quid...est in ffaut ita quod cantatur in octava voce supra. Exemplum in tenore Dei gratia ministri. Item rubedo signat alienam musicam sicut in istis organis in Vox exultationis et in Propter veritatem et in multis aliis.</p>
+      <p id="WFANON30025">Ulterius considerandum est, quod quidam ponunt irregularem. Et est iste cantus irregularis, in quo perfectiones recto modo non possunt computari, et in isto perfectiones sunt transpositae, quia quod deficit in computatione alicujus perfectionis recte computando. Illud sumitur quam prius unus potest et talis cantus cum aliquibus cantus sincopatus vocatur, sed magis videtur esse cantus irregularis. Exemplum in uno moteto Salutem sine odio et in multis aliis et in rondellis et in baladis.</p>
+      <p id="WFANON30026">Nota, quod longa ante longam non potest imperfici in modo perfecto nisi per mutationem coloris, nec brevis nec semibrevis similiter sicut longa ut hic: [L,L,B,B,S,S].</p>
+      <p id="WFANON30027">Nota quod duplex longa valet 6 tempora in modo perfecto, in modo vero imperfecto quatuor ut hic: [MX].</p>
+      <p id="WFANON30028">Notandum, quod punctus est duplex, scilicet punctus perfectionis et punctus divisionis. Perfectionis est, quando notulam facit perfectam ut hic: [L,pt,B,L], vel tempus ut hic: [B,pt,S,B,S,pt,M,S]. Punctus divisionis, quando dividit modum ut hic: [L,B,pt,B,L,B,S,pt,S,B,S,M,pt,M,S]. Quidam ponunt punctum alterationis, de quo non curo ut hic: [L,B,pt,B,B,L]. Et iste punctus videtur esse magis divisionis, quia videtur primum modum a quarto dividere. Et ista pro nunc sufficiunt de arte motetorum.</p>
+    </body>
+  </text>
+</TEI>

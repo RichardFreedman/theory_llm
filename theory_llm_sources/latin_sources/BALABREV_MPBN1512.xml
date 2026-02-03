@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>[Abreviatio Magistri Franconis]</title>
+        <title type="abbrev">BALABREV_MPBN1512</title>
+        <author>Johannes dictus Ballox</author>
+        <date notBefore="1200" notAfter="1299">13th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>T</resp>
+        <persName>Oliver B. Ellsworth</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Katherine Clark</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Andreas Giger</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Andreas Giger</persName>
+      </respStmt>
+      <date>1999</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Paris, Bibliothèque nationale de France, MS latin 15128, ff. 122v–124r.
+</bibl>
+        <bibl type="work">
+          
+<title>Iohannes dictus Balloce: Abbreviatio magistri Franconis</title>
+          
+<idno type="LML">IOH. BALLOCE</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 15128, 122v-124</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="BALABREV_MPBN15120001">
+      <pb n="[f.122v]" />Gaudent breuitate moderni. Quandocumque punccus quadratus vel nota quadrata tratcum habens descendentem a parte dextra longa dicitur vt hic</p>
+      <p id="BALABREV_MPBN15120002">[L,L,L,L,Bcsdx,Bcsdx,Bcsdx,L,L,L on staff2]</p>
+      <p id="BALABREV_MPBN15120003">Longa vero ascendendo vel descendendo plicata sicut plicatur vt hic</p>
+      <p id="BALABREV_MPBN15120004">[Paris, Bibliothèque Nationale, lat. 15128, f.122v] 
+      <figure>
+        <graphic url="/images/BALABREV_01GF.gif" />
+      </figure></p>
+      <p id="BALABREV_MPBN15120005">Quandocumque punccus quadratus inuenitur qui caret omni traccu breuis dicitur vt hic</p>
+      <p id="BALABREV_MPBN15120006">[Lig3aa,Lig4cdsnddod,B,B,B on staff4]</p>
+      <p id="BALABREV_MPBN15120007">Breuis plicata ascendendo vel descendendo hoc modo dicitur plicata</p>
+      <p id="BALABREV_MPBN15120008">Semibreuis dicitur uere ad modum loseuge formatur vt hic</p>
+      <p id="BALABREV_MPBN15120009">[S,S,S,S,S,S,S,S,S,S,S,S on staff4]</p>
+      <p id="BALABREV_MPBN15120010">Et plicari non possunt nisi quando tres super vnam sillabam inueniuntur vt hic</p>
+      <p id="BALABREV_MPBN15120011">[S,S,S,S,S,S,S,S,S,S on staff4]</p>
+      <p id="BALABREV_MPBN15120012">Quando sola breuis precedit longam imperficit eam Et eciam quando sepe vt hic nisi per 
+      <pb n="[f.123r]" />diuisionem modi aliter distinguitur vt</p>
+      <p id="BALABREV_MPBN15120013">[L,B,3LP,B,L,3LP,L,pt,B,L on staff4]</p>
+      <p id="BALABREV_MPBN15120014">Tunc prima longa habet tria tempora et breuis sequens refertur ad longam sequentem Et imperficit eam longa ante longam valet tria tempora vt hic</p>
+      <p id="BALABREV_MPBN15120015">[L,L,L,L,Bcsdx,Bcsdx on staff4]</p>
+      <p id="BALABREV_MPBN15120016">Duplex longa valet sex tempora Et plicari potest duplex longa ad modum [[losenge]] longe simplicis vt hic</p>
+      <p id="BALABREV_MPBN15120017">[Paris, Bibliothèque Nationale, lat. 15128, f.123r,1]</p>
+      <p id="BALABREV_MPBN15120018">Omnes breues sunt equales nisi diuisionibus modis primo quando inter duas longas due breues inueniuntur vel quando inter duas longas vel tres semibreues et breuis inueniuntur tunc prima breuis vel [[maior]] valor ipsius habebit vnum tempus tantummodo et altera duo tempora Et vocabitur altera vt hic</p>
+      <p id="BALABREV_MPBN15120019">[L,B,B,L,S,S,S,B,L,L,B,B,B,L on staff4]</p>
+      <p id="BALABREV_MPBN15120020">Nisi per diuisionem modi alter distingatur vt hic patet exemplum</p>
+      <p id="BALABREV_MPBN15120021">[Paris, Bibliothèque Nationale, lat. 15128, f.123r,2]</p>
+      <p id="BALABREV_MPBN15120022">Tunc prima breuis imperficiet primam longam et secunda breuis imperficiet longam sequentem. Item si plures breues inter duas longas inueniuntur vel et sine prima longa ita tamen quod vltima semper remaneat longa [lonlga ante corr.] tres insimul debent poni pro perfeccione Et si duas in fine remaneant vltima breuis valebit duo tempora Et vocabitur altera breuis vt hic</p>
+      <p id="BALABREV_MPBN15120023">[L,B,B,B,B,B,B,B,B,B,L on staff4]</p>
+      <p id="BALABREV_MPBN15120024">Notandum tamen quod quando tres breues inueniuntur inter duas longas quod sunt equales nisi per diuisionem modi aliter distingantur vt hic</p>
+      <p id="BALABREV_MPBN15120025">[L,B,BP,B,B,L on staff4]</p>
+      <p id="BALABREV_MPBN15120026">Tunc prima breuis imperficiet primam longam secunda habebit vnum tempus Et [[tria]] tercia siue vltima habebit duo tempora Et erit altera breuis vt hic</p>
+      <p id="BALABREV_MPBN15120027">[L,B,pt,B,B,L on staff4]</p>
+      <p id="BALABREV_MPBN15120028">Sciendum est quod quandocumque due semibreuis inueniuntur inter duas longas vel breues sunt inequales prima vocatur maior secunda vero minor vt hic</p>
+      <p id="BALABREV_MPBN15120029">[L,S,S,L,S,S,L on staff4]</p>
+      <p id="BALABREV_MPBN15120030">Et est maior semibreuis que habet duas partes vnius temporis breuis. Minor est illa que habet terciam partem vnius temporis breuis Quandocumque tres semibreues inter duas longas vel breues inueniuntur equales sunt vt hic</p>
+      <p id="BALABREV_MPBN15120031">[L,S,S,S,L,S,S,S,B,S,S,S,B on staff4]</p>
+      <p id="BALABREV_MPBN15120032">Item [[semibreues]] si plures semibreues inueniuntur inter duas longas vel breues. omnes sunt inequales nisi in fine due remaneant vt hic</p>
+      <p id="BALABREV_MPBN15120033">[L,S,S,S,S,S,S,S,S,S,S,S,L on staff4]</p>
+      <p id="BALABREV_MPBN15120034">Sed si tres in fine remaneant ille tres erunt equales quia due Et due semper pro recca breui computantur nisi per diuisionem modi aliter distingatur vt hic</p>
+      <p id="BALABREV_MPBN15120035">verte folium et inueniet exemplum</p>
+      <p id="BALABREV_MPBN15120036">
+      <pb n="[f.123v]" />[staff7]</p>
+      <p id="BALABREV_MPBN15120037">Tunc aliquando erunt due pro recca breui. aliquando tres aliquando quatuor Et sic de aliis.</p>
+      <p id="BALABREV_MPBN15120038">Ligatura ascendens est [[quod]] quando secundus punccus alcior est primo. Descendens vero ligatura est quando primus punccus alcior est secundo vt hic</p>
+      <p id="BALABREV_MPBN15120039">[Lig3aart,Lig2art,Lig4aaart,Lig3dd,Lig4ddd on staff4]</p>
+      <p id="BALABREV_MPBN15120040">In ligatura ascendente quando primus caret omni traccu breuis dicitur vt hic</p>
+      <p id="BALABREV_MPBN15120041">[Lig3aa,Lig3aa,Lig3aart,Lig3aart,Lig2a on staff4]</p>
+      <p id="BALABREV_MPBN15120042">In ligatura vero descendente quando primus punccus traccum habet a parte sinistra descendentem breuis est vt hic</p>
+      <p id="BALABREV_MPBN15120043">[Lig2cdsnd,Lig2cdsnod,Lig2cdsnd,Lig4cdsnodad on staff4]</p>
+      <p id="BALABREV_MPBN15120044">Item omnis ligatura ascendens quando primo punccus traccum habet a parte dextra descendentem longus dicitur vt hic</p>
+      <p id="BALABREV_MPBN15120045">[Lig4Laodart,Lig3Lad,Lig6adaodart on staff4]</p>
+      <p id="BALABREV_MPBN15120046">Item in ligatura descendente quando primus punccus caret omni traccu longus dicitur vt hic.</p>
+      <p id="BALABREV_MPBN15120047">[Lig3dod,Lig2d,Lig4ddod,Lig2d on staff4]</p>
+      <p id="BALABREV_MPBN15120048">Item omnis ligatura descendeue sine proprietate prima longa vt hic.</p>
+      <p id="BALABREV_MPBN15120049">[Lig3dd,Lig2od,Lig3dod on staff4]</p>
+      <p id="BALABREV_MPBN15120050">Omnis ligatura ascendens sine proprietate prima breuis dicitur vt hic</p>
+      <p id="BALABREV_MPBN15120051">[Lig3aa,Lig3aacddx,Lig3aa on staff4]</p>
+      <p id="BALABREV_MPBN15120052">Quandocumque vltimus punccus ligature [ligatura ante corr.] ascendentis Recce stat supra penultimam cum perfeccione dicitur longus vt hic superius exemplum</p>
+      <p id="BALABREV_MPBN15120053">[Lig2art,Lig5cdsnddodart,Lig5odaodart on staff4]</p>
+      <p id="BALABREV_MPBN15120054">Quando vltimus punccus ligature descendentis totus quadratus inuenitur cum perfeccione longus dicitur vt hic</p>
+      <p id="BALABREV_MPBN15120055">[Lig2cdsnd,Lig3cssndd,Lig4cdsnodad on staff4]</p>
+      <p id="BALABREV_MPBN15120056">Omnis ligatura cum perfeccione est longa. Item quandocumque vltimus punccus ligature ascendentis stat supra peneultimam capite aduerso obliquo breuis dicitur vt patet hic</p>
+      <p id="BALABREV_MPBN15120057">[Lig4ada,Lig7odadaoda on staff4]</p>
+      <p id="BALABREV_MPBN15120058">Item quandocumque due note in vno corpore obliquo in fine ligature inueniuntur vltima dicitur breuis vt hic</p>
+      <p id="BALABREV_MPBN15120059">[Lig3cdsndod,Lig3cssndod,Lig4cssnddod on staff4]</p>
+      <p id="BALABREV_MPBN15120060">Opposita proprietas est quando in primo punccu ligature ascendentis vel descendentis traccus ascendens inuenitur vt hic</p>
+      <p id="BALABREV_MPBN15120061">[Lig2cssna,Lig2cssnoa,Lig2cssnod on staff4]</p>
+      <p id="BALABREV_MPBN15120062">Opposita proprietas est signum semibreuitatis</p>
+      <p id="BALABREV_MPBN15120063">Omnes medie sunt breues nisi per oppositam proprietatem deffendatur vt hic</p>
+      <p id="BALABREV_MPBN15120064">[Lig7cssndddddd,Lig7cssnaaaaaart]</p>
+      <p id="BALABREV_MPBN15120065">Ligatura que est {cum} perfeccione sic plicatur vt hic</p>
+      <p id="BALABREV_MPBN15120066">Ligatura que est sine perfeccione ascendendo Et descendendo sic plicatur vt patet hic</p>
+      <p id="BALABREV_MPBN15120067">[Lig2cdsnodcsdx,Lig2cdsnod,Lig4cssnaaodcsdx,Lig4cssnodaodcsdx,Lig2cdsnodcsdx,Lig2cdsnodcsdx,Lig4cdsnddodcsdx on staff4]</p>
+      <p id="BALABREV_MPBN15120068">Pausacionum sex sunt species prima vocatur minor. secunda maior. Tercia recca breuis. Quarta imperfecca. Quinta perfecca Sexta finis punccorum. Minor pausa valet terciam partem vnius temporis Et terciam partem vnius spacii continet 
+      <pb n="[f.124r]" />Maior pausa valet duas partes vniius temporis et duas partes spacii continet. Recca breuis pausa est que valet [[valet]] vnam reccam breuam Et vnum spacium continet. Imperfecca pausa est que valet duo tempora et duo spacia continet. Perfecca pausa est que valet tria tempora et tria spacia continet. Vltima pausa est finis punccorum et mensurabilis et omnia exempla patant hic</p>
+      <p id="BALABREV_MPBN15120069">[Paris, Bibliothèque Nationale, lat. 15128, f.124r]</p>
+      <p id="BALABREV_MPBN15120070">Modi secundum magistrum Franconem sunt quinque licet fuit plures apud antiquos. Primus procedit ex omnibus longis et ex longa breui vt hic</p>
+      <p id="BALABREV_MPBN15120071">[L,L,2BP,L,B,L,B,L,B on staff4]</p>
+      <p id="BALABREV_MPBN15120072">secundus procedit ex vna breui et alia longa vt hic</p>
+      <p id="BALABREV_MPBN15120073">[Lig2acddx,Lig2acddx,Lig2acddx,B,L on staff4]</p>
+      <p id="BALABREV_MPBN15120074">Tercius modus procedit ex vna longa et duabus breuibus vt hic</p>
+      <p id="BALABREV_MPBN15120075">[L,B,B,pt,3LP,B,B,pt,L on staff4]</p>
+      <p id="BALABREV_MPBN15120076">Quartus modus procedit ex duabus breuibus et vna longa</p>
+      <p id="BALABREV_MPBN15120077">[B,B,L,B,B,L on staff4]</p>
+      <p id="BALABREV_MPBN15120078">Quintus modus procedit ex omnibus breuibus et semibreuibus vt patet hic exemplum</p>
+      <p id="BALABREV_MPBN15120079">[Lig2cssnod,Lig2cssnd,BP,Lig2cssna,Lig2cssnoa on staff4]</p>
+      <p id="BALABREV_MPBN15120080">ligature vnius temporis per oppositam proprietatem</p>
+      <p id="BALABREV_MPBN15120081">[B,B,B,B,B,B,B,Lig2cssnod,Lig2cssnod on staff4]</p>
+      <p id="BALABREV_MPBN15120082">Ligature duorum temporum imperfecce vt hic apparet [[enp]] exemplum superius</p>
+      <p id="BALABREV_MPBN15120083">Ligature trium temporum secundum quinque modos apparet hic exemplum [expemplum ante corr.] inferius</p>
+      <p id="BALABREV_MPBN15120084">[Lig3cssndod,Lig2cdsnod,Lig2a,Lig2cssna,Lig4cssnaaoa on staff4]</p>
+      <p id="BALABREV_MPBN15120085">Explicit abbreuiacio magistri Franconis edita a Johanne dicco Baloce.</p>
+      <p id="BALABREV_MPBN15120086">[Lig3dd,BP,Lig2cssnod,Lig2od,2LP,Lig2cssna,Lig3odart,BP,BP,Lig2art,Lig2cdsnd,BP,BP,Lig4dodart,Lig4cssnddd,L,L on staff4]</p>
+    </body>
+  </text>
+</TEI>

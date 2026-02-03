@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>[Prefatio de Johannis de Muris Musica speculativa]</title>
+        <title type="abbrev">MURMGAF</title>
+        <author>Gaffurio, Franchino</author>
+        <date notBefore="1400" notAfter="1499">15th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Andreas Giger</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Anna Shparberg</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1999</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>Johannis de Muris Musica speculativa</emph>, ed. Susan Fast, Musicological Studies, vol. 61 (Ottawa: The Institute of Mediaeval Music, 1994), 332. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="MURMGAF0001">
+      <pb n="[332]" />[M2 fol. lr]</p>
+      <p id="MURMGAF0002">Theorica musice praticam antecellit. Capitulum primum.</p>
+      <p id="MURMGAF0003">Princeps philosoforum Aristotiles ait in prohemio sue Methaphisice, omnino scientis signum est posse docere. In qualibet autem arte theorici docere possunt; practici vero non. Experti enim ipsum quia sciunt, sed propter quod nesciunt. Non autem scientia faciunt que faciunt ut ignis exurit, sed intelligere et scire circa unamquamque artem magis arte quam experimento esse arbitramur. Ideoque artifices expertis esse sapientiores opinamur. Et ex hoc magis artem experimento scientiam esse existimamus. Possunt enim hi docere; illi docere non possunt. Verum quoniam ars est universalium, experimentum vero singularium, universalia presupponunt singularia, igitur ars experientiam presupponit. Experientia quidem fecit artem et expertos magis perficere videmus sine ratione experientiam habentibus, igitur necessarium est unamquamque artem habere primo theoricam, practicam consequenter. Ut id quod satum est in universali ad singularia valeat applicari. Sed quod omnis ars ex experimentis dependeat, oportet unumquemque artificem primo circa artis experientiam laborare. Nos autem propter bonum commune et rationem veritatis que diu latuit ostendende circa artem musice proponimus vigilare. Intendentes circa eam duo breviter enodare, primo theoricam, secundo practicam, cui non est inconveniens quodammodo quamdam theoricam implicari.</p>
+    </body>
+  </text>
+</TEI>

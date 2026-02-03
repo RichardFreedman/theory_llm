@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>[Tractatus de musica]</title>
+        <title type="abbrev">ANOTDM</title>
+        <author>Anonymous</author>
+        <date notBefore="1400" notAfter="1499">15th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Stephen E. Hayes</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Peter M. Lefferts</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Andreas Giger</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1995</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Martin Staehelin, "Beschreibungen und Beispiele musikalischer Formen in einem unbeachteten Traktat des frühen 15. Jahrhunderts" 
+<emph>Archiv für Musikwissenschaft</emph> 31 (1974): 237-242, 239. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: Tractatus de generibus discantus</title>
+          
+<idno type="LML">GEN. DISC. Differentia</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">D-Au II.1.2° 38, 173v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">US-PHu MS Lat. 36, 207</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANOTDM0001">
+      <pb n="[239]" />Differentia est inter motetos, ballados, vireletos et rondellos et fugas.</p>
+      <p id="ANOTDM0002">Item de primo: omnes sunt moteti, quorum tenores sunt nullius prolationis, quia tenores motetorum sunt de modo vel de tempore, sicut Ida capillorum vel Impudenter, et ultra, quorum tenores a se omnes sunt moteti et caetera. Et illi debent cantari in ecclesiis, et est cantus ecclesiasticus.</p>
+      <p id="ANOTDM0003">Item: balladi vocantur illi, qui habent overtum et clausulum in primo versu. Et postea habent adhuc duas partes cum pausis generalibus, et etiam apparet in verbis sicut de tonte flores, de che que fol pense et virginis mire pulchritudinis. Et omnes alii sunt balladi, qui sunt sic positi.</p>
+      <p id="ANOTDM0004">Item de vireletis: omnes sunt vireleti, qui non habent in primo versu clausulum nec overtum, sed in secundo versu habent clausulum et overtum, et apparet in verbis sicut je languis et mais quil vous vierge et in omnibus aliis sic compositis.</p>
+      <p id="ANOTDM0005">Item de rondellis: rondelli non habent clausulum nec overtum in primo nec in secundo versu, sicut de vous vestes et sicut se fortune et caetera.</p>
+      <p id="ANOTDM0006">Item de fugis: illae non habent tenorem et cantantur fugando; non habent clausulum nec overtum; cantentur simili modo, sicut honi cantaret rondellum. Sed oportet scire, quod primus incipit et secundus exspectat per unum tempus vel per plura, sicut ordinatum est; et sic habetis fugas et caetera.</p>
+      <p id="ANOTDM0007">Etiam de petit peu est balladus, propter quod habet clausulum et overtum in primo versu, et non habent nisi unum versum ultimum; sed hoc raro fit in balladis: tamen sunt balladi ita bene sicut alii, et caetera.</p>
+    </body>
+  </text>
+</TEI>

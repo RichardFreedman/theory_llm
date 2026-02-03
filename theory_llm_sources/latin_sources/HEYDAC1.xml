@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>De arte canendi, ac vero signorum in cantibus usu, liber primus</title>
+        <title type="abbrev">HEYDAC1</title>
+        <author>Heyden, Sebaldus</author>
+        <date notBefore="1500" notAfter="1599">16th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>T</resp>
+        <persName>John Gray</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Andreas Giger</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Oliver B. Ellsworth</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1995</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>De arte canendi, ac vero signorum in cantibus usu, libri duo, autore Sebaldo Heyden</emph> (Nuremberg: apud Ioh. Petreium, 1540).
+</bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="HEYDAC10001">
+      <pb n="[f.A1r]" />DE ARTE CANENDI, AC VERO SIGNORVM IN CANTIBVS VSV, libri duo, autore Sebaldo Heyden.</p>
+      <p id="HEYDAC10002">Ab ipso authore recogniti, mutati et aucti.</p>
+      <p id="HEYDAC10003">[Heyden, De arte, f.A1r] 
+      <figure>
+        <graphic url="/images/HEYDAC1_01GF.gif" />
+      </figure></p>
+      <p id="HEYDAC10004">Isocrates.</p>
+      <p id="HEYDAC10005">[horomen tas epidoseis ginomenas kai ton technon kai ton allon hapanton, ou dia tous emmenontas tois kathestosin, alla dia tous epanorthountas kai tolmontas aei ti kinein, ton me kalos echonton.]</p>
+      <p id="HEYDAC10006">Norimbergae apud Iohannem Petreium, Anno salutis M. D. XL.</p>
+      <p id="HEYDAC10007">Cum priuilegio Imperatoris ad sexennium</p>
+      <p id="HEYDAC10008">
+      <pb n="[f.A1v]" />CLARISSIMO VIRO DOMINO HIERONYMO BAVMGARTNERO, PATRICIO ac Senatori Norico, Moecenati suo dignissimo Sebaldus Hayden Salutem plurimam dicit</p>
+      <p id="HEYDAC10009">QVod ueteri prouerbio posteriores cogitationes plaerunque prudentiores esse dicuntur, uir ornatissimus.i.; id si uspiam in ulla re uerum est, certe in emendandis, tum morum, tum artium abusibus uerissimum esse conspicitur. Fortasse ideo, quod difficilimum est, primo statim periculo, ita modeste, et accurate omnia agere, ut nihil plus, minusue fiat, quam res ipsa postulet. Exempla morum uulgatiora sunt, quam ut indicio aliquo hic opus fit, dum plaerunque abrogamus tumultuosius, quod seruari certa aliqua ratione poterat, aut substituimus, quod paulo post et ipsum suam emendationem desideret. De ingenuis uero artibus, ex abusu, aut barbarie, in uerum usum, ac genuinam formam restituendis, uel nostra hac tempestate satis apparet, quam non satis fit, semel sumpsisse laborem, aut unicum fecisse periculum, dum interdum rei difficultas tanta sit, ut facilius olim fuerit, Augiae stabulum repurgare, quam nunc corruptas artes, uero suo nitori restituere. Adeo, ut etiam dubitem nonnunquam, utri maiorem laborem susceperint, illi ne, qui eas primo inuenerunt, an ij, qui repurgandas nunc assumunt. Grammatica et Dialectica exemplo esse possunt, quae, quot, et quantis aeditionibus, recognitionibus et locupletationibus, uix tandem id lucis acceperunt, quod nunc habent? Et tamen uix ullos reperias authores, qui tales suas aeditiones, uel postremas quoque, non alicubi, aut mutatas, aut auctas cuperent. Id quod etiam Erasmus Roterodamus ille, clarissimum rei literariae lumen, de seipso testatum reliquit Se non prius desiturum fuisse, suas lucubrationes elimatiores, ac locupletiores reddere, quam uiuere desijsset. Quae res cum ita habeat, cur igitur non et mihi quoque in simili negotio, speranda uenia sit, qui nunc tertia aeditione artem canendi, ac Musicorum Signorum uerum usum, pueris quam facillimum, 
+      <pb n="[f.A2r]" />reddere conor. Nam eam causam, uel solam mihi huius laboris semper fuisse, facile depraehendent, quicunque haec nostra, cum quorumlibet aliorum uetustiorum Musicis libellis, accuratius contulerint ut nihil opus fit, huic nostro uino hederam suspendere. Quantus uero labor fuerit, ex diuersissimis uariorum authorum exemplis, certas Signorum regulas colligere, ac uagam illam, in Signis quidlibet fingendi, licentiam, in certam quandam artem redigere, eius rei facile mihi fidem habebunt, quicunque et ipsi priuata quapiam opera, simile quippiam aliquando tentauerunt. Nam ita opus erat facto, cum in ea re, uix ullum, aut uetustiorum, aut recentiorum Musicorum haberem, cuius praeceptis recte insisterem. Franchinus, alioqui accuratissimus Musicus, quid quaeso de tactuum Mensura, cum diuersorum Signorum Proportionibus recte conferenda, uspiam ita docuit, ut nostrum laborem aliquantisper leuaret? Iohannes Tinctoris, totus in numeris Proportionum occupatus, de Signis certe parum, de Mensura uero tactuum, nihil habet. Georgius Stahlerus autem, quanquam inter recentiores sit, et hoc unicum tantum agat, ut cuique gradui Musico, (ut uocant) suum antiquum, ac uerum signum detur, tamen hunc meum laborem aliquo modo leuare potuisset, si satis in tempore mihi illius copia fuisset facta, quod non multum diuersa ab his nostris ille tractet. Caeteros posteriores taceo, qui fere omnes, quotquot a me uisi et lecti sunt, aliorum opinionibus subscribere, quam certum aliquod suae exquisitae rationis iudicium sequi maluerunt. Vnde factum est, ut non raro, ne ipsos quidem authores, quid praeciperent, intellexisse credam. Atque utinam saltem illi, qui eam artem primi excogitarunt, non exempla tantum, sed et praeceptionum libellos nobis reliquissent. Ita enim nostra diuinatione minime fuisset opus, praesertim cum et aetas illa, non ita multum a nostra hac distet, ut ceu per manus tradita, tanto minus interirent ipsorum monumenta quemadmodum et cantilenarum exempla conseruata sunt. Quod autem Musices figuratae inuentionem, ut nunc habet, non adeo uetustam, sed paulo superiorem memoria hominum huius aetatis, esse credam. 
+      <pb n="[f.A2v]" />multa sunt, quae arguunt. Primum, quod nulla pene monumenta cantilenarum plurium uocum uspiam reperiuntur, quae antiquitatem centum annorum, ullo argumento superent. Tum etiam uetustiores illos Musicos, Boetium, Capellam et similes, adeo nihil de hac nostra arte canendi, tradere constat, ut neque nos illorum Musicam qualis fuerit, facile intelligere possimus neque illi si nostram hanc uiderent, quicquam tale unquam sese cogitasse, utique essent affirmaturi. Intelligo uero hic eam Musicam, quae tot uariarum Notularum species, totque diuersorum signorum Proportiones, pluribus uocibus, positu quidem diuersis, at harmonica Symphonia consonantissimis, ceu in unum corpus coagmentat, ac concinnat. Quam Musicam Iohannes Tinctoris, in libris Proportionum suarum (quorum mihi copiam nuper fecit Georgius Forsterus, uir ut literarum et Medicinae, ita et Musicae peritissimus) nouam artem appellat, et eam in Anglia, a quodam Dunstapli, primo excogitatam affirmat, ac deinde a Gallis, Dufay, et Binchoi, celebriorem quidem redditam, donec a Iohanne Okgekhem, Busnoe, ac Caronte, ceu per manus accepta, magis atque magis inclaresceret.</p>
+      <p id="HEYDAC10010">Vt autem noua haec sit, et ueteribus illis Graecis plane ignota fuerit, non tamen minus, et admirationis et laudis habebit, quam ullae aliae quamlibet uetustissimae artes. Nisi forte, nostrorum seculorum inuentis, per inuidiam hoc gloriae dare recusemus, quod illi ueteres, si inuentores extitissent, uel de coelo sibi reuelatum, utique et gloriati fuissent, et uenerati. Age, quae nam ueterum inuentio est, cum qua ars excudendi libros nostris temporibus, et a Germanis excogitata, de gloria contendere non posset? Tantum abest, ut etiam Musicae nostrae, sua nouitas non magis honori, quam contemptui esse debeat. Praesertim si quis penitius contempletur, quanta solertia fit, quantumque acumen, linguae uolubilitatem, ac flexibilitatem papyro inscribere: tot, tamque diuersa uocum interualla, in concordantissimam consonantiam cogere atque eam totam constitutionem suis characteribus, seu figuris, ita certam, ita euidentem, ob oculos ponere, ut 
+      <pb n="[f.A3r]" />non aliter, atque in uulgaribus literis, quid ubique legi, pronunciariue debet, scitur: ita in Notulis, ac Signis, quid cantari, quantum uocem intendi: aut remitti, produci aut contrahi oporteat, spectetur. Atque certe, si quis primorum Componistarum (ut uocant) exempla (nam artem scriptam illi aliter non reliquerunt) diligentius examinet, utique miretur accuratissimam illorum diligentiam, dum non minori copia, ac facultate, ea quae ad uocis artificiosam modulationem pertinent, aut certis figuris, aut Coloribus, aut Signis, aut Numeris docuerunt, quam uel ad orationis uarietatem, ab ullis Grammaticis est praescriptum ut ita et Musica, suam gratiam ex multiplici uarietate, ad oblectandos Cantorum animos, habeat. Quam, copiam si uspiam alibi, certe in Cantilenis Iohannis Ghiselini, et Iacobi Oberti, pulcherrime cum ostentatam, tum testificatam est reperire. Quorum alter in Missa Gratieusa, singulari in hoc data opera, quicquid de uarijs Signis dignum cognitu censuit, tanquam in speculo, propositis exemplis conspiciendum dedit. Alter in Ienedemande sua ita uarijs, ita argutis Signorum mutationibus subinde lusit, ut ita uel horum duorum testimonijs et exemplis, certa signorum ratio perpetuo constaret, si non per temere inductas uariorum Tactuum species, quantitas Signorum obscurata, ab artis certo limite excidisset. Per eam enim temeritatem uariorum Tactuum, omnis ratio et natura Proportionum, quam diuersa signa inter sese habent, confusa, ac omnino deformata est. Quod quidem etiam nunc tanto aegrius ferimus quanto minus opus fuerat plures, ac eas diuersas Tactuum species excogitare. Cum enim tam multiplices Tactuum species ob hoc tantum excogitatas uideamus, ut motum cantus subinde mutarent, nunc tardiorem, nunc concitatiorem, nunc properantissimum faciendo. Quaeso ergo, quid nam illos nouatores, de Proportionibus, Augmentationibus, ac Diminutionibus intellexisse credamus? Certum utique est, ex arte ipsa, quod illi per diuersas species Tactus praestare uoluerunt, idem ueteres per integritatem, aut diminutionem Signorum, aut Proportiones, multo et rectius, et artificiosius praestitisse. 
+      <pb n="[f.A3v]" />Ita enim, si quam Cantilenam integris signis, primi huius artis inuentores inscriberent, hoc utique significatum uoluerunt, ut integre, ac cum quodam fastu, incederent concordantiae. Rursum si Diminutionem adderent, aut per uirgulam circulos intersecarent, aut Proportionem generis multiplicis adscriberent, ut tum acceleraret cantus, et, quasi properanti similis, ad metam contenderet. Nimirum quod diminuta Signa, singulis Tactibus, tantum Notularum percurrerent, quantum Integra duobus. Item, Proportio Tripla, tantum unico, quantum integra tribus. Vt ita nihil omnino opus fuerit nouos accelerando, aut remorando cantui Tactus effingere, praesertim, cum in omnibus artibus odiosum plane sit, pluribus aut regulis, aut praeceptionibus tradere id, quod unica rectissime ac euidentissime tradi poterat.</p>
+      <p id="HEYDAC10011">Mirum ergo est, hoc non animaduersum esse a paulo superioris aetatis Musicis, uidelicet: Non plures Tactuum species esse posse in Proportionum ratione, sed unicam, ac eandem, quae sibi perpetuo similis sit, esse oportere, cum id ex uariarum Proportionum concentu, facillime potuissent discere. Nam Integrum Tactum in Integris Diminutum in Dupla: et Proportionatum in Tripla, illi concinnere nunquam potuerunt, ut non necessario cogerentur, dissimulata plane, omni diuersitate Tactuum, unicam quandam speciem, et eam solam, etiam quantumlibet diuersis Proportionibus adhibere: id quod adducto simili clarius demonstrabimus.</p>
+      <p id="HEYDAC10012">Si nouus quispiam Arithmeticus, in computationibus docendis, plures Monadis species, quantitate inter se differentes, induceret, ad quas caeteros Proportionum numeros conferret, quid quaeso ille aliud faceret, quam quod totam Proportionum, et rationem, et praeceptionem, non solum obscuraret, uerum etiam inextricabilem plane efficeret. At cum Signa Musica plane nihil aliud sint, quam Proportionum ipsissimae notae, quae ad certum Tactum, ceu Monadem referri necesse habent, Qualem ergo Musicis illis gratiam debemus, qui plures tactus species, quantitate inter sese diuersas, commenti sunt? Cum hoc modo 
+      <pb n="[f.A4r]" />Signorum naturam, ac Proportionatam inter ipsa conuenientiam, usque adeo obscurauerunt, ac conturbauerunt, ut uix ipsi quicquam certi de ea re scire, nedum alios docere potuerint. Aut certe si quicquam sciuerunt, id ipsum ex solo usu, nulla uero arte ita habuerint, ut interrogati, ne quidem uerisimili ratione sententiam suam possent comprobare. Atque ita factum est, ut quemadmodum apud uetustiores illos, ac meliores Musicae artis magistros, ne uerbum quidem de diuersis Tactibus reperias, ita apud recentiores nihil plane certi de signis Musicis inter se conferendis uideas tradi. In causa est, ut et ante diximus, quod tot Tactuum speciebus effictis, sibi ipsis, rem alioqui per se planam, implicitam, et quasi inextricabilem efficerent. Vt ita, non mirum sit, etiam si quidam inepte de signis Musicis disputent. Nonnulli ea penitus superuacanea esse, et nihil artis habere satis temere pronuncient. Cum enim ueram illorum rationem non uideant, facile est contemnere ignorata. ita enim aiunt: nihil esse, quod uaria signa in cantibus scribantur, cum unica aut certe uix altera formula sit, ad quam omnia genera cantionum rectissime conscribi possint. Quod autem diuersa signa scribantur, id ex nulla arte fieri, sed perinde esse, ac si quis eandem sententiam sermonis, alijs atque alijs subinde literis, siue characteribus scriberet, cum tamen uulgata illa formula, usitatarum literarum satis esse posset. Ita illi. At cur non eadem opera etiam prohibent, ut ne in sermone Latino uarietas ulla per copiam existat, sed ut potius [tautologia] sint omnia. Aut ut et ipsi alteras uestes nullas habeant, cum unica, et ea simplicissima, perpetuo uestiri possint. Quasi uero ullarum Notularum ualor, aut quantitas, absque suorum priuatorum signorum obseruatione, ab illis sciri possit. Fingant ergo illi cantum, cui nullum signum sit praescriptum, et respondeant, quanti Breuis quaeque, aut Longa, aut etiam Semibreuis, ualeat. Sed diuinabunt fortasse, aut ex concentu plurium uocum colligent quid, et quomodo canendum fit. Pulchre quidem illi. Sed mirum fuerit, si haec addubitatio de quantitate cantus, tum etiam laboriosior ualoris Notularum, ex concentu inquisitio, eos non 
+      <pb n="[f.A4v]" />saepius taedio affectos, a studio canendi retrahat, aut certe pudore afficiat, dum ex concentu solo, absque signis, Notularum ualorem inquirere conantur: quod tamen uix paucis, ita posse, contingit. Calleat artem componendarum uocum oportet, qui hoc uelit. Atqui, ita inter centum, qui nunc sibi egregij Cantores uidentur, uix unum, aut alterum reperies, qui se rebus ita habentibus, Cantorem profiteri audeat. Quare nos Signorum usum, ita necessarium constituimus, ut canendi artem, a nemine recte perdisci posse contendamus, sine illorum diligentissima cognitione et obseruatione. Adeo, ut statim totam artem canendi sustulisse eum dicamus, quisquis Signorum usum nullum esse uelit. Cum enim ars canendi tota in uarijs Notularum figuris, ac uario earundem ualore consistat, quae per uarias subinde Proportiones, nunc plus, nunc minus quantitatis accipiunt: quantitas uero ita subinde mutabilis, sua certa indicia, siue signa necessaria habeat oportet, extra quae, neque ipsa cognosci, multo minus autem obseruari possint. Certe ridendos merito censeamus eos, qui canendi facultatem, artem esse, facile confitentur, cum tamen interim id, in quo ars maxime consistit, negent ac reijciant.</p>
+      <p id="HEYDAC10013">Non aliter, quam si quis architecturam lignariam, aut lapidariam, artes quidem esse praedicet, sed tales, in quibus normas, rubricas, amusses, perpendicula, et id genus alia, superuacanea esse contendat, quod fortuito conatu, [kai ametri] opus quodque perfici possit. Atqui si hoc ita demus, quales tandem structuras sperabimus? quam concinnitatem in contignandis parietibus? quam rectitudinem in erigendis columnis? An non ita fiet, ut dum oblique stent columnae dum tigna alia iusto longiora, alia breuiora, non recte cohaereant dum tecti latitudo ad fundamenti proportionem, nullo modo congruat, ut collabatur tandem iners moles? At meo certe iudicio, haud secus etiam in concentibus eueniet, in quibus, aut nulla Signa praescribuntur, aut praescripta saltem non satis accurate obseruantur. Videlicet, dum alius iusto citius praeuertit, alius tardius aequo sequitur, 
+      <pb n="[f.A5r]" />ut tota tandem systematis compages dissoluatur, et ex concentu Musico, grunnitus fiat. Est autem in his rebus dissimilitudo quaedam, quod iners machina, sua mole corruens, fragore suo, ferme semper perterrefacit, et plerunque etiam compraehensos opprimit, quum e contra Musica, si in celebri choro a suis iuncturis per indoctos, aut parum attentos cantores soluta corruere incipit, omnibus fere ociosis auditoribus, uix unquam terrorem incutiat, sed ferme semper risum excutiat, neminem unquam perdat. Nisi forte unus, aut alter sit (nam pauci admodum tales reperiuntur) qui artem certius intelligentes, conatum ingenuum parum foeliciter successisse doleant.</p>
+      <p id="HEYDAC10014">In summa. Signa sunt Proportionum Notae in cantu. Omnis autem cantionum natura, ac diuersitas suis certis Proportionibus consistit. Quisquis igitur Signa nihil esse dicit, aut omitti posse contendit, is plane quicquid Musica artis habet, tollit.</p>
+      <p id="HEYDAC10015">Haec igitur sunt, quae in his libris potissimum praestare uolui. Primum ut canendi artem pueris quam facilimam, ac expeditissimam redderem. Alterum, ut Signorum ualorem, et usum, ad certas Proportionum rationes, ita reuocarem, ut quolibet inspecto, quisque statim sciret, quis illius usus, et quae quantitas esset. Quatenus autem id utrumque sim assecutus, aequo bonoque lectori iudicandum permitto, hoc unum mihi pollicens, etiamsi non omnibus satisfaciam, tamen uix ullum fore, cui mea diligentia ac fides in hoc negotio improbetur.</p>
+      <p id="HEYDAC10016">Quod autem in aliquibus exemplis non meis, sed alienis, ad declarandas regulas aliunde acquisitis, formulas notularum, aut transposuerim, aut interdum alijs, atque alijs Signis subiecerim, aliter uidelicet, quam ipsius authoris formula habebat, in eo non dubito, quin aequus quisque iudex, id factum pro aequo, et iusto habiturus sit, in quo, quamlibet mutatis Notulis ac Signis, tota tamen cantionis constitutio, quod ad Contra puncti compositionem, ac autoris mentem pertinet, non mutata, sed plane integra, ac perpetuo eadem permaneat. Praesertim, cum etiam ex iustis causis hoc ita defendi possit, partim quod uetustior 
+      <pb n="[f.A5v]" />interdum structura, magis animo meo adlubesceret. Partim uero, ut ita pueris canturientibus (sic enim libet dicere) quasi specimen daremus, de multiplici copia figurarum Musicarum, qua, quanque cantilenam, uel decies mutari, ac in aliam subinde formam transcribi facilimum sit. Idque tanta aequitate, ut interim nemo autorum de ulla sibi facta iniuria conqueri possit. Fecimus tamen id, uix semel, atque iterum, et saltem in simplicium regularum demonstratione, quae extra omnem controuersiam se haberent. Nam in contentionibus, aut confutationibus, exemplis integris ac Primigenijs utendum esse, non ignorabamus.</p>
+      <p id="HEYDAC10017">Haec ita, ultro indicare, et quasi praeoccupare libuit, ne forte, ut fit, sciolus quispiam, depraehensum forte tale exemplum, per calumniam, maliciamque impetat, et falsa pro ueris adposuisse accuset.</p>
+      <p id="HEYDAC10018">Quod autem ad ordinem ac dispositionem huius nostri laboris pertinet, fortasse breuior esse potuissem, si paucioribus exemplis libuisset uti. Verum cum haec ars non minus in exercitatione, quam praeceptis sita sit, imo longiorem exercitationem, quam preceptionem flagitet, nolui etiam in isthac parte quicquam pueris desiderandum relinquere. Praesertim cum ea exempla, ex quibus uera ars recte disci possit, non ubique obuia sint, aut ita sint, ut tamen citra suas praeceptiones intelligi uix a quoquam possint.</p>
+      <p id="HEYDAC10019">Hunc igitur meum laborem, qualiscunque tandem sit, ornatissimi Domine Baumgartnere, nunc iterum tuae excellentiae nuncupo, ut sub foelici nominis tui auspicio in publicum prodeat. Quem enim commodiorem Patronum haec nostra aeditio haberet, uideo neminem. Idque cum ob admirandam tuam humanitatem, quam cum literaria eruditione ita coniunctam habes, ut non ab re dubium sit, humaniorem ne te, an doctiorem praedicemus. Tum uero ob insignem tuam erga bonas artes, ac earundem studiosos beneuolentiam. Nam quod illae, in santo sui contemptu, ac tam crassa negotiationum barbarie, 
+      <pb n="[f.A6r]" />tamen adhuc aliquo loco hic sunt, id certe magna ex parte tibi acceptum referre debent. Vt ita merito tuo fiat, si literatus quisque, te omni honorum genere auctum ac celebratum cupiat.</p>
+      <p id="HEYDAC10020">Atqui etiam hoc nomine, huic nostrae arti, dignissimus Patronus delectus es, quod et ipse Musicam artem singulari quodam amore complecteris, atque ob eundem affectum Ludouicum Senflium, in Musica totius Germaniae nunc principem, tibi non solum singulari familiaritate notum, uerum etiam arcta quadam amicitia adiunctum habes. Cuius quidem uiri consilio, ac iudicio, in his meis libellis libenter fuissem usus, si saltem aliqua mihi cum eo unquam antehac intercessisset notitia nam, quae mea uerecundia est, ignotus ignoto negocium facere nequaquam potui. Aliquoties sane mihi nonnulla occasio, cum eo in noticiam ueniendi quaesita est, per quosdam affines meos, illi satis familiares, sed nescio per quam incommoditatem hactenus steterit, quo minus uoti mei compos factus sim. Verum, utut haec habeant, ego certe in Ludouico Senflio Germano, Germanae Musices excellentiam, et magnifacio et praedico, tantum abest, ut illius laudem, in his meis libellis, non potius plurimum auctam, quam neglectam unquam cupiuerim.</p>
+      <p id="HEYDAC10021">Sed ad te redeo, Vir ornatissime, etiam atque etiam orans, ut hosce meos libellos, tibi nunc iterum nuncupatos, loco xeniolorum, quae his Calendis Ianuarijs, ultro citroque, amici inter se donare solent, pro tua humanitate, benigne suscipias, ac tanquam testes mei erga te amoris, in tua Bibliotheca locum habere patiaris. Hoc certe tibi de tuo Sebaldo pollicens, eum nihil intermissurum unquam, quod ad tuas uirtutes ornandas, in suis uiribus positum esse cognouerit. Quia et me satis bona spes habet, etiam te meis filijs, neque consilio, neque auxilio defuturum, si forte horum aliquis, me olim defuncto, superstitis tui (quod Deus faxit) patrocinio, ad sua studia literaria indiguerit, ut ita uel te habeant, penes quem, unde uiginti annis, a patre suo exhaustorum pro Republica in scholis laborum, memoriam conseruatam reperiant. [ou gar agnoei he pronoia hese, ten ton eilemmenon euergesion 
+      <pb n="[f.A6v]" />mnemen hos tachista geraskein, malista de ten, peri tas paidagogias, gignomenen. Kai gar to nun echon mikrou dein oudeis eurisketai, hostis ouch hapanta, ta eis tous paideuontas, kai peri ten philosophian diatribontas anelomena, ei kai elattona tou prosekontos, homos perissa einai, kai tou diakaiou meizona, nomize]. Bene ualeat tua domus in Domino per Christum. Ex Musaeo Sebaldino, ad Calendas Ianuarias, Anni a Christo nato 1540.</p>
+      <p class="textFig" id="HEYDAC10022">INDEX&#160;LIBRI&#160;PRIMI.
+      <lb />Caput&#160;I.&#160;&#160;&#160;&#160;De&#160;Musica,&#160;quid&#160;sit,&#160;item&#160;quis&#160;usus&#160;Musices&#160;et&#160;caetera.
+      <br />Caput&#160;II.&#160;&#160;&#160;De&#160;Scala,&#160;Clauibus,&#160;et&#160;eorum&#160;usu.
+      <lb />Caput&#160;III.&#160;&#160;De&#160;interuallis.
+      <br />Caput&#160;IIII.&#160;De&#160;Solmisatione,&#160;et&#160;uarietate&#160;cantus&#160;et&#160;caetera.
+      <lb />Caput&#160;V.&#160;&#160;&#160;&#160;De&#160;Tactu,&#160;quid&#160;sit&#160;et&#160;quotuplex.
+      <br />Caput&#160;VI.&#160;&#160;&#160;De&#160;Notulis,&#160;quid&#160;sint,&#160;quotuplices,&#160;et&#160;caetera.
+      <lb />Caput&#160;VII.&#160;&#160;De&#160;punctis,&#160;et&#160;eorum&#160;usu.
+      <br />Caput&#160;VIII.&#160;De&#160;Pausis,&#160;quid&#160;sint,&#160;quotuplices,&#160;et&#160;caetera.
+      <lb />INDEX&#160;LIBRI&#160;SECVNDI
+      <br />Caput&#160;I.&#160;&#160;&#160;&#160;De&#160;Mensura,&#160;quid&#160;perfectio,&#160;imperfectio&#160;et&#160;caetera.
+      <lb />Caput&#160;II.&#160;&#160;&#160;De&#160;Prolatione,&#160;quid,&#160;quotuplex&#160;sit&#160;et&#160;caetera.
+      <br />Caput&#160;III.&#160;&#160;De&#160;Tempore,&#160;quid&#160;et&#160;quotuplex&#160;sit&#160;et&#160;caetera.
+      <lb />Caput&#160;IIII.&#160;De&#160;Modis,&#160;quid&#160;et&#160;quotuplices&#160;sint&#160;et&#160;caetera.
+      <br />Caput&#160;V.&#160;&#160;&#160;&#160;De&#160;Proportionibus.
+      <lb />Caput&#160;VI.&#160;&#160;&#160;De&#160;Augmentatione&#160;et&#160;Diminutione.
+      <br />Caput&#160;VII.&#160;&#160;De&#160;unica&#160;Tactuum&#160;aequabilitate&#160;feruanda,&#160;de&#160;uaria&#160;signorum&#160;quantitate,&#160;ac&#160;
+      <lb />eorum&#160;resolutionibus.
+      <br /></p>
+      <p id="HEYDAC10023">Caput VIII. De Tonis.</p>
+      <p id="HEYDAC10024">
+      <pb n="[1]" />MVSICAE, ID EST, ARTIS CANENDI LIBER PRIMVS.</p>
+      <p id="HEYDAC10025">Praefatiuncula.</p>
+      <p id="HEYDAC10026">VSV comperimus, longe alium institutionis modum requiri, si quis pueros adhuc rudes erudiat, quam si aliquantisper eruditos diligentius expoliat. Quemadmodum et in Statuariorum officinis longe alia instrumenta primae truncorum dedolationi, quam posteriori perpolitioni adhiberi cernimus. Etenim ut truncis, adhuc rudibus, sua crassiora dolabra sunt, quae primam asperitatem fortius penetrent ac execent: Ita et puerilium ingeniorum ruditas crassiorem quandam in docendo euidentiam postulat. Qualem euidentiam h[ei]c commodissime praestari uisum est, si ad breuiusculas quaestiones, ea praecepta quae docenda sunt, certis ac euidentibus uerbis, uelut per dialogum, respondenda instituerem. Deinde, si singulis illis praeceptis ita sua semper exempla adiungerem, ut ceu digiti monstratione ducti pueri, ubique quid doceretur, quam facilime perspicerent. His ergo, utcunque praestitis, utantur quicunque uolent, et meam operam, qua ingenuis pueris maxime prodesse studui, aequi bonique consulant.</p>
+      <p id="HEYDAC10027">CAPVT PRIMVM.</p>
+      <p id="HEYDAC10028">Quid est Musica?</p>
+      <p id="HEYDAC10029">ESt ars certe ac modulate cantandi. Idque quatenus ea ad sonos spectat. Canitur autem tribus modis, uoce humana, fistulis, et fidibus. Linguae uocem motu, fistulae sonum flatu, fides tinnitum pulsu aedunt.</p>
+      <p id="HEYDAC10030">
+      <pb n="[2]" />Vnde dicitur Musica.</p>
+      <p id="HEYDAC10031">A Musis, quas ueteres pro ingenuarum artium praesidibus coluerunt. Nimirum, quod illi hoc nomine quandam animi humani diuinitus infusam promptitudinem, ac studij sedulitatem significarent, quibus in perdiscendis artibus liberalibus, tanquam praesenti numine, maxime opus habeatur. Atque id est, cur Musae Iouis et Memoriae filiae esse fingantur, et [para to maiesthai], id est, ab inquirendo, siue [apo tou mueisthai], hoc est, a docendo uocatae dicantur.</p>
+      <p id="HEYDAC10032">Quot sunt species Musicae?</p>
+      <p id="HEYDAC10033">Vulgo duae traduntur, Choralis, et Figurata. Choralis quae est? Ea est, in qua simplex et pene unica Notularum forma, eodem colore, eandem perpetuo quantitatem, extra omnem Augmentationem ac Diminutionem, retinet. Exemplo sunt Cantiones, quarum quotidianus usus in templis habetur.</p>
+      <p id="HEYDAC10034">Quae est Musicae Figuratae species?</p>
+      <p id="HEYDAC10035">Ea est, in qua uariae Notulae, secundum uarias figuras colores, ac uarie praescripta signa, aliam subinde quantitatem accipiunt. De priore specie nihil hic peculiariter tradetur, quod nihil opus sit. Nam eandem Scalae ac Solmisationis rationem cum figurata habet: ut ita, qui Figuratam Musicae speciem probe tenet, etiam Choralem pariter teneat.</p>
+      <p id="HEYDAC10036">Quis est usus artis canendi?</p>
+      <p id="HEYDAC10037">Is est, ut bonarum literarum studiosi, aut alioqui serijs negocijs occupati alij, habeant, quo fessitudinem labore contractam, leuent, uiresque longiori intensione debilitatas reficiant. Habet enim Musica singularem quandam in oblectando energiam, qua fessitudinis taedium discutit, alacritatemque in laborando 
+      <pb n="[3]" />conseruat. Qua tamen eodem modo utamur, quo alias somno ac quietibus caeteris uti solemus, tum, quum grauioribus magisque serijs rebus satisfecerimus. Cum enim unicum ferme Musices officium sit, animos auditorum oblectare, Oblectatione autem sapientem nequaquam frui, sed tantum uti deceat: Igitur merito pro insipientibus habeantur, quicunque, omnibus seueris studijs omnino neglectis, sese totos cantui, ac instrumentorum Musicalium illecebris mancipant: quasi a natura ad solos iocos ac lusus nati sint. Quemadmodum et eos stultissimos esse iudicaremus, quicunque ita se totos somno ac quietibus traderent, ut nunquam expergisci, ac quicquam rerum magis necessariarum agere cogitarent.</p>
+      <p id="HEYDAC10038">Musices usus, si [aphilosophetos] sit, et seueriorum studiorum accessione prorsus careat, nunquam decori, sed uicio uertendus est perpetuo. Siquidem Ouidio teste</p>
+      <p id="HEYDAC10039">Eneruant animos Citharae, Cantusque L,yraeque,</p>
+      <p id="HEYDAC10040">Et uox, et numeris brachia mota suis.</p>
+      <p id="HEYDAC10041">Ita enim fere uidemus, uiros nihil praeter saltationes, Veneres, ac adulteria crepare, qui olim pueri, extra omnem seueram disciplinam, in solis Ludionum scholis adoleuerunt. Quanquam etiam sunt, quos ita [aphilosophos] Musicae usus morosos potius ac difficiles reddat, quam molles. Idque tanto magis, quanto illi sibi uidentur in ea arte excellentiores. Quotus quisque enim est insignium Citharoedorum, aut Fidicinum, qui non hoc inhumanitatis uicio insigniter laboret,</p>
+      <p id="HEYDAC10042">Inter amicos</p>
+      <p id="HEYDAC10043">Vt nunquam inducat animum cantare rogatus:</p>
+      <p id="HEYDAC10044">Iniussus nunquam desistat?</p>
+      <p id="HEYDAC10045">Quid ergo laudis mereantur illi, qui minimas Chordarum dissonantias argutissime corrigentes, interim tamen uitae suae tenorem in omni uiciorum genere [kakophonotaton] esse patiuntur? Quibus uero uicijs facillime mederemur, si liberos nostros ita instrumentis canere doceremus, ut pariter philosophicarum 
+      <pb n="[4]" />disciplinarum, aut alioqui honestorum studiorum praeceptiones imbibendas proponeremus. Ita enim fieret, ut animi grauioribus studijs, uelut praemuniti, tanto minus cantionum mollicie diffluerent, arrogantiue morum duricia rigerent. Atqui, si omnino carendum sit alterutro, quis sanae mentis homo non malit seueram aliquam disciplinam, prae tibiarum fidiumque scientia? Praesertim, quod ubique plurimi reperiantur Ludiones, qui pro stipe lasciue canentes, aut saltantes, sese grauibus uiris ridiculos faciant: At perpauci, qui graues et cordati, si res expostulet, esse possint. Recte itaque et prudenter nostratium Prouerbio dicitur, Cuique ingenuo homini hoc maxime studendum esse, ut potius alios habeat Ludiones, quam ipse habeatur ab alijs. Haec autem scribimus, non ut pulcherrimam cantandi artem uituperemus, sed potius, ut eam cum alijs seuerioribus disciplinis coniunctam, ab Erronum ac Ludionum ociosis lenocinijs uindicemus, ac in suum uerum officium restituamus, quo non tam ociosis Epicureorum uentribus, quam bonarum literarum, ac uerarum uirtutum cultoribus, oblectando seruiat.</p>
+      <p id="HEYDAC10046">Quid? Ergo Musicae nullus est usus in templis?</p>
+      <p id="HEYDAC10047">Est equidem aliquis, sed qui tamen et ipse non tam inter seueras sacrorum partes, quam spiritualium mentium oblectationes habendus sit, Non enim sonis aut tinnitibus colitur Deus, sed spiritu, et ueritate cordis: ut ita in re diuina nihil opus sit intensiore uoce, sed potius collectiore spiritu. Ita enim Diuus Paulus ait: Psalmorum, Hymnorum, ac cantionum spiritualium elocutionem, nobismetipsis faciendam: Domino autem in corde psallendum, et cantandum esse. ad Ephesios 5. Quapropter templariam quoque Musicam, non aliter, quam ludum spiritus tum usurpemus, cum grauioribus ac magis serijs sacris satisfecerimus.</p>
+      <p id="HEYDAC10048">
+      <pb n="[5]" />Quot sunt accidentia, quae ad canendi artem necessario requiruntur?</p>
+      <p id="HEYDAC10049">Octo. Scala, Clauis, Tactus, Nota, Punctum, Pausa, Mensura, Tonus.</p>
+      <p id="HEYDAC10050">CAPVT SECVNDVM.</p>
+      <p id="HEYDAC10051">Quid est Scala.</p>
+      <p id="HEYDAC10052">ESt constitutio linearum et spaciorum, recte ac aequaliter productorum, quibus omnis generis cantionum Notulas inscriptas cernimus. Graece [sustema] dicitur.</p>
+      <p id="HEYDAC10053">[staff5]</p>
+      <p id="HEYDAC10054">Cui usui est linearum, et spaciorum obseruatio in Cantibus?</p>
+      <p id="HEYDAC10055">Vt per ipsorum distantiam ascensus et descensus Notularum (quae uocis ducendae signa sunt) rectius ac expeditius depraehendatur. Nam si Notulae superficiei, parallelis carenti, inscribantur, nemo certo scire poterit, quantum uocem intendi aut remitti oporteat. At si paralleli addantur, absque dubio, primo statim intuitu, quid inter quasque Notulas distantiae sit, percipitur.</p>
+      <p id="HEYDAC10056">Cur uocant Musici Scalam?</p>
+      <p id="HEYDAC10057">Quantum conijcere licet, duae huius appellationis causae hoc loco sunt. Prima ex forma, quod lineae ita [parallelos] 
+      <pb n="[6]" />Notulis subscriptae, portatilium Scalarum transuersa tigilla, quae Graeci [klimakteras] uocant, quodammodo repraesentent. Altera causa ex usu sumpta esse apparet. Quod in recitandis Musicae Scalae literis siue Clauibus, eodem plane modo quo et in Scalis portatilibus solet, scandendo procedatur, descendendo autem retrocedatur.</p>
+      <p id="HEYDAC10058">[Heyden, De arte, 6; text: Scala. Ascendendo procedit enumeratio. Descendendo retrocedit enumeratio literarum. ee, dd, cc, bb, aa, g, f, e, d, c, b, a, G, F, E, D, C, B, A, [Gamma]]</p>
+      <p id="HEYDAC10059">Quid sunt Claues?</p>
+      <p id="HEYDAC10060">Claues dicuntur hae septem literae, a b c d e f g: quae in systemate, triplici ordine singillatim singulis linearum ac spaciorum initijs additae, uocis humanae intensiones, ac remissiones determinant. In eo enim tota uis artis cantandi pendet, si sciatur, quatenus uocem nunc intendi, nunc remiti oporteat. Nam non cantat qui perpetuo eundem uocis sonum aedit. Est itaque cantare nihil aliud, quam uocem, pro rerum decantandarum adfectu, scite intendere ac remittere. Quam uocis intensionem ac remissionem ueteres per Monochordum certissime docuere. Est autem Monochordum instrumentum, unicam habens chordam, certa longitudine 
+      <pb n="[7]" />supra duo fulcra intensam, in quorum magadio subter uocum gradus ab infima graui, ad usque supremam acutam, certis intersectionibus distinguuntur: Ita ut fulcro inferiore, quod solum mobile sit, supernum uersus gradatim pro moto, et chorda ad singulas intersectiones pulsa, quam certissime quicquid interuallorum ascendentis uocis est, aedatur. Itidem si a superiore fulcro reducas, descendentis. Quam rem ut pueri rectius intelligant, eam ipsorum manibus, ac auribus experiundam dabimus. Linea, quam hic a latere ob chartae breuitatem bipertitam adiunximus, integrae Chordae exemplar est, suas certas dissectiones habens. Eam si puer in cuiusuis testudinis magadio quintae Chordae, ut uocant, subscribat, ac suppositis utrobique fulcris, per gradatim promotum, ac remotum alterum examinet, utique quid uere Claues sint, quidque interuallorum inter se habeant, certissimo aurium sensu percipiet.</p>
+      <p id="HEYDAC10061">[Heyden, De arte, 7; text: [Gamma], A, B, [sqb], C, D, E, F, G, a, b, c, d, e, f, g, aa, bb, [sqb][sqb], cc, dd, ee, Fulcrum inferius pro mobile.] [HEYDAC1 01GF]</p>
+      <p id="HEYDAC10062">Huius Lineae siue Monochordi exempla ubique in Musicis instrumentis conspiciuntur. In Citharis enim et Clauichordis, ut uulgo uocant, Chordae dispares nihil aliud sunt, quam Monochordi totidem partes, quot intersectiones illud habet. Ex unica autem Chorda plures fieri 
+      <pb n="[8]" />rei necessitas coegit: quod in Monochordo pariter plures intersectiones pulsari nequeant: quas tamen Contrapuncti, ut uocant, constitutio plures simul consonantes, exigebat, Itidem et in testudinum Collis ligationum limites, tum etiam in tibijs foraminum interstitia, plane nihil aliud habere sciant pueri, quam particulares Monochordi huius dimensiones.</p>
+      <p id="HEYDAC10063">Quot sunt Claues Systematis, siue Monochordi?</p>
+      <p id="HEYDAC10064">In Monochordo, quod sonos tantum respicit, tres et uiginti habentur Claues. Id quod superius descripta Chorda ob oculos ponit. Verum qui non sonorum, sed positionis rationem sequuntur, illi tantum uiginti numerant: nimirum, quod in cantilenarum descriptione b fa et [sqb] mi, utlibet sono inter se differant, eundem tamen semper locum occupent. Caeterum quae nomina, et qui ordo Clauium sit, hic subiuncta figura declarat.</p>
+      <p id="HEYDAC10065">[Heyden, De arte, 8; text: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, [Gamma], A, B, C, D, E, F, G, a, b, c, d, e, f, g, aa, bb, cc, dd, ee, vt, re, mi, fa, sol, la, [sqb] mi, [sqb][sqb] mi] 
+      <figure>
+        <graphic url="/images/HEYDAC1_02GF.gif" />
+      </figure></p>
+      <p id="HEYDAC10066">Literae Systematis cur dicuntur Claues?</p>
+      <p id="HEYDAC10067">Quia certas melodias, adeoque totius Systematis ordinem 
+      <pb n="[9]" />in Cantionibus uelut aperiunt ac oculis exponunt. Quemadmodum claues seris insertae ac circumactae, reclusis scrinijs, mox quicquid contenti ante latuerat, apparere faciunt</p>
+      <p id="HEYDAC10068">Quomodo diuiduntur systematis claues?</p>
+      <p id="HEYDAC10069">In Graues, Medias, et Acutas.</p>
+      <p id="HEYDAC10070">Quae sunt Graues literae?</p>
+      <p id="HEYDAC10071">Maiusculae infimae octo, [Gamma] A B C D E F G. Ideo graues dictae, quia cantiones, per eas deductae, uoce demissa, ac crassa cantari solent. Cantores uulgo Bassum uocant.</p>
+      <p id="HEYDAC10072">Quae sunt Mediae Claues?</p>
+      <p id="HEYDAC10073">Minusculae illae ac simplices literae septem, a b c d e f g, Mediarum nomen habent. quod uocem mediam inter demissam, grauem, et intensam acutam exigant: Qualem in concentu Tenoris et Alti, ut uocant, audimus.</p>
+      <p id="HEYDAC10074">Quae sunt Claues acutae?</p>
+      <p id="HEYDAC10075">Quinque illae geminatae supremae, aa bb cc dd ee. Intensissimam enim, et acutissimam uocem aedunt. qualis ferme impubertatis est. Discantum uulgo uocamus.</p>
+      <p id="HEYDAC10076">Licet ne uulgo receptis uiginti Clauibus plures adfingere?</p>
+      <p id="HEYDAC10077">Quidni liceat? imo etiam necesse est, quoties aliqua cantio harum fines infra supraue excesserit. Cautio tamen sit, ut in superadditis nouis Clauibus, ordo mediarum septem literarum ac syllabarum seruetur. Cuius rei indicium infra 
+      <pb n="[10]" />inter Solmisationis exempla reperient pueri. Nam secundum exemplum ad ggsol reut usque scandit. Decimum uero, integrum Diatessaron infra [Gamma]ut descendit.</p>
+      <p id="HEYDAC10078">Quis tandem est usus Clauium, hoc modo gradatim lineis, ac spacijs Scalae intertextarum?</p>
+      <p id="HEYDAC10079">Duplex est. Primus, ut certa uocum intensionis ac remissionis interualla designent: ut ita etiam ex ipso literarum ordine cognoscatur, quid inter uarias uoces intersit. De interuallis paulo inferius docebitur. Alter usus est, ut in ordine Clauium, ita in tabellam redactarum, tanquam in speculo, cuiusuis Cantionis situm quam facilime, ac certissime perspiciant pueri. Nimirum, quod lineae, quae in quibusque cantilenis spectantur, certa pars praescripti systematis sunt. Nam Notulas certis lineis, ac spacijs distingui, et a fronte Cantiones per characteristicas Claues inscribi, id equidem nihil aliud est, quam eas hoc modo ad situm, ac posituram antepositi systematis referri, ut confestim intelligant, quae Claues quibus Notulis seruiant.</p>
+      <p id="HEYDAC10080">Quae sunt claues Characteristicae?</p>
+      <p id="HEYDAC10081">Eae sunt, quae solae in Cantionum initijs, per certas figuras praescribi solent. quum aliae omnes, ceu dissimulatae, omissis ipsarum literis, mente, non oculis, concipiantur.</p>
+      <p id="HEYDAC10082">Quot sunt claues Characteristicae?</p>
+      <p id="HEYDAC10083">Quinque sunt, F c g [rob] [sqb]. Nam semper aliquae harum, in quibusque cantilenis, statim a principijs singulorum uersuum, certae lineae praescribi solent. Alij [Gamma]ut, et dd lasol, quoque inter Characteristicas numerant. Quas nos hic obmittimus 
+      <pb n="[11]" />quod earum praescriptione nusquam opus esse uideatur.</p>
+      <p id="HEYDAC10084">Quae sunt figurae Clauium Characteristicarum?</p>
+      <p id="HEYDAC10085">Diuersae sunt pro uarietate cantuum. Nam in Chorali cantu F. c. g. ita simpliciter praescribuntur. In figurato uero, pro F ponitur [ClefF] aut [ClefF] pro c. [ClefC] g utrobique idem est, sed semper minusculum.</p>
+      <p id="HEYDAC10086">Quis est usus praescriptarum Characteristicarum?</p>
+      <p id="HEYDAC10087">Duplex est, Nam f. c. g. locum systematis indicant. [rob] rotundum uero, et [sqb] quadratum, qualitatem cantilenae, [rob] mollis ne, an [sqb] dura sit, ostendunt. Itaque qualibet harum trium f. c. g. in cantibus praescripta, illico pueri locum systematis per eam cognoscant. Siquidem linea, cui Characteristica in cantu insidet, eadem ipsa semper est, quam et in Systemate eadem Clauis occupat. Caeteraeque omnes Claues et lineae infra supraque, eodem per omnia ordine, quo in Systemate digestae sunt, etiam in Cantilenis repraesentantur: quod ex subiectis formulis clarissime cernitur.</p>
+      <p id="HEYDAC10088">Pars Systematis acuta.</p>
+      <p id="HEYDAC10089">[Heyden, De arte, 11; text: 6, 7, 8, 9, 10, c, d, e, f, g, aa, bb, cc, dd, ee, sol, la, fa, vt, re, mi, [rob] fa, [sqb] mi]</p>
+      <p id="HEYDAC10090">
+      <pb n="[12]" />Pars Systematis media.</p>
+      <p id="HEYDAC10091">[Heyden, De arte, 12,1; text: 4, 5, 6, 7, 8, F, G, a, b, c, d, e, f, g, fa, sol, la, vt, re, mi, [rob] fa, [sqb] mi] 
+      <figure>
+        <graphic url="/images/HEYDAC1_03GF.gif" />
+      </figure></p>
+      <p id="HEYDAC10092">Pars Systematis grauis.</p>
+      <p id="HEYDAC10093">[Heyden, De arte, 12,2; text: 1, 2, 3, 4, 5, [Gamma], A, B, C, D, E, F, G, a, vt, re, mi, fa, sol, la]</p>
+      <p id="HEYDAC10094">DE CLAVIVM SYLLABIS</p>
+      <p id="HEYDAC10095">Quis est usus syllabarum, quae singulis Clauibus in Systemate adscriptae leguntur?</p>
+      <p id="HEYDAC10096">Hic est, ut per earum uicissitudinariam usurpationem, omni cantui suam propriam, ac certam modulationem attribuamus. Sunt enim eae syllabae nihil aliud, quam certae interuallorum nomenclationes. Sunt autem sex. VT, RE, MI, FA, SOL, LA. Quarum inter se ordinem subnexa haec cantiuncula docet.</p>
+      <p id="HEYDAC10097">Fuga in Subdiapente.</p>
+      <p id="HEYDAC10098">[Heyden, De arte, 12,3]</p>
+      <p id="HEYDAC10099">
+      <pb n="[13]" />Quomodo diuiduntur eae syllabae?</p>
+      <p id="HEYDAC10100">Nobis in Inferiores et Superiores diuiduntur. Inferiores uocamus, VT, RE, et MI. Nam si in Clauibus bisyllabis aut trisyllabis, per FA, SOL, LA, quantum oportet, scandi non potest, hae pro illis deficientibus succenturiare solent. Superiores uocamus FA, SOL, LA. Quod itidem et hae succenturiant inferioribus, quoties in Clauibus bisyllabis aut trisyllabis, per MI, RE, VT, tantum descendi non possit, quantum uocis remissio flagitat. Quam differentiam ex regulis solmisationum infra rectius percipient pueri: dummodo ante de uocum siue sonorum interuallis, quantum locus exigit, docti fuerint.</p>
+      <p id="HEYDAC10101">CAPVT TERTIVM</p>
+      <p id="HEYDAC10102">DE INTERVALLIS.</p>
+      <p id="HEYDAC10103">Quid est interuallum?</p>
+      <p id="HEYDAC10104">INteruallum est hoc ipsum, quod uox a certo sono altius intenditut, aut profundius remittitur.</p>
+      <p id="HEYDAC10105">Vocum interualla quot sunt?</p>
+      <p id="HEYDAC10106">Plurima quidem ea sunt, secundum quod uox subinde altior aut demissior aeditur. At quod ad puerilem captum commodet, pauca uulgatiora hic describere libet, uidelicet, Vnisonum, Semitonium, Tonum, Semiditonum, Ditonum. Diatesseron, Diapente, Semitonium cum Diapente, Tonum cum Diapente, Semiditonum cum Diapente, Ditonum cum Diapente, Diapason. In his percipiendis, non tam Monochordi exactam dimensionem, quam sex syllabarum praedictarum 
+      <pb n="[14]" />ordinem, ac uulgaris Scalae lineas et spacia, ut ea in omnibus cantibus cernuntur, pueris animaduertenda censeo: Quod hoc modo, et facilius multo, et commodius, quaeque interualla percipient, ac memoria retinebunt.</p>
+      <p id="HEYDAC10107">Quid est Vnisonus?</p>
+      <p id="HEYDAC10108">Est eiusdem uocis idem ac perpetuus tenor, absque omni intensione aut remissione aeditus. Qualem habent Notulae omnes, quae super eandem lineam, aut in idem spacium positae cernuntur. Est ergo Vnisonus non interuallum, sed interuallorum aliorum ceu Basis, ad quam illa omnia per relationem aestimari debent.</p>
+      <p id="HEYDAC10109">[Heyden, De arte, 14,1; text: vt, re, mi, fa, sol, la]</p>
+      <p id="HEYDAC10110">Quid est Semitonium?</p>
+      <p id="HEYDAC10111">Est hoc ipsum, quod uox a mi ad fa intenditur, aut a fa ad mi remittitur.</p>
+      <p id="HEYDAC10112">[Heyden, De arte, 14,2; text: mi, fa]</p>
+      <p id="HEYDAC10113">Quid est Tonus?</p>
+      <p id="HEYDAC10114">Est deductio uocis a linea in proximum spacium, aut a spacio in contiguam lineam. Qualis est, quoties ab sol [fa, re, ut sub lin.] ad la [sol, mi, re sub lin.] transitur, et e contra. Excipe mi fa Semitonium.</p>
+      <p id="HEYDAC10115">
+      <pb n="[15]" />[Heyden, De arte, 15,1; text: vt, re, mi, fa, sol, la] 
+      <figure>
+        <graphic url="/images/HEYDAC1_04GF.gif" />
+      </figure></p>
+      <p id="HEYDAC10116">Semiditonus quid est?</p>
+      <p id="HEYDAC10117">Est interuallum uocum a quaque linea ad alteram, aut a quoque spacio ad alterum, Semitonium pariter continens. Exemplo est quoties a mi [re supra lin.] ad sol [fa supra lin.] transitur aut reditur. Vulgo tertia minor dicitur, quod intra tres uocis gradus integrum Tonum cum Semitonio contineat.</p>
+      <p id="HEYDAC10118">[Heyden, De arte, 15,2; text: re, mi, fa, sol]</p>
+      <p id="HEYDAC10119">Quid est Ditonus?</p>
+      <p id="HEYDAC10120">Est interuallum a quaque linea ad alteram, aut a quouis spacio in alterum. Ita tamen, ut nullum Semitonium contineat. Huiusmodi est, quoties uox a ut [fa supra lin.] ad mi [la supra lin.] traducitur aut reducitur. Vulgo tertia maior dicitur, quod intra tres uocis gradus, duos integros Tonos habeat.</p>
+      <p id="HEYDAC10121">[Heyden, De arte, 15,3; text: vt, re, mi, fa, sol, la]</p>
+      <p id="HEYDAC10122">Diatesseron quid est?</p>
+      <p id="HEYDAC10123">Est uocis saltus a quauis linea in alterum spacium, aut a quolibet spacio ad alteram lineam: qualiter fit, dum 
+      <pb n="[16]" />re [Vt supra lin., mi sub lin.] et sol [fa supra lin., la sub lin.] inuicem concinuntur. quartam alij uocant, quod intra quatuor uocis gradus duos tonos et Semitonium complectatur.</p>
+      <p id="HEYDAC10124">[Heyden, De arte, 16,1; text: vt, re, mi, fa, sol, la]</p>
+      <p id="HEYDAC10125">Diapente quid est?</p>
+      <p id="HEYDAC10126">Est uocis saltus a quauis linea in tertiam, aut a quouis spacio in tertium, Cuiusmodi est ab ut [re, mi, fa sub lin.] ad sol [la, mi, fa sub lin.]</p>
+      <p id="HEYDAC10127">Quintam uulgo uocant, quod per quinque gradus uocem intendat aut remittat.</p>
+      <p id="HEYDAC10128">[Heyden, De arte, 16,2; text: vt, re, mi, fa, sol, la]</p>
+      <p id="HEYDAC10129">Quid est Semitonium cum Diapente?</p>
+      <p id="HEYDAC10130">Est uocis transitio a qualibet linea in tertium spacium: aut a quolibet spacio ad tertiam lineam, duo Semitonia et tres tonos intra se continens. Exemplo est, mi et fa per sextam inuicem cantata. Sextam minorem uocant Cantores. Quod ad sextum usque gradum uox ita intensa aut remissa, duo Semitonia complecitur.</p>
+      <p id="HEYDAC10131">[Heyden, De arte, 16,3; text: mi, fa]</p>
+      <p id="HEYDAC10132">
+      <pb n="[17]" />Quid est Tonus cum Diapente?</p>
+      <p id="HEYDAC10133">Est itidem transitio a qualibet linea in tertium spacium; aut e quouis spacio ad tertiam lineam. sed quae unum tantum Semitonium, et quatuor tonos contineat. Exemplum, VT et LA per sextam alias sexta maior dicitur, Quod ad Sextum usque gradum uox intensa aut remissa, unicum saltem Semitonium contineat.</p>
+      <p id="HEYDAC10134">[Heyden, De arte, 17,1; text: vt, la] 
+      <figure>
+        <graphic url="/images/HEYDAC1_05GF.gif" />
+      </figure></p>
+      <p id="HEYDAC10135">Quid est Semiditonus cum Diapente?</p>
+      <p id="HEYDAC10136">Est uocis transitus a quolibet spacio in aliud quartum: aut a quauis linea in aliam quartam, intra se duo Semitonia, et quatuor tonos complectens: Vulgo septimam minorem uocant, VT MI et RE FA exemplo sunt. Quod ita uocem intendendo aut remittendo septem gradus dinumerentur.</p>
+      <p id="HEYDAC10137">[Heyden, De arte, 17,2; text: vt, mi, re, fa]</p>
+      <p id="HEYDAC10138">Quid est Diapason?</p>
+      <p id="HEYDAC10139">Est saltus a qualibet linea in quartum spacium, aut a quolibet spacio in quartam lineam. Diapason dictum, quod hactenus tradita interualla omnia complectens, quasi in se ipsum redeat. Octauam alias uocant, quod eiusmodi intensio aut remissio uocis octo gradus habeat.</p>
+      <p id="HEYDAC10140">
+      <pb n="[18]" />[Heyden, De arte, 18; text: [Gamma]vt, re, mi, fa, sol, la]</p>
+      <p id="HEYDAC10141">Sunt et alia plura interualla, quae numerari uulgo solent, ita, si ad Diapason tonus, aut semitonium accesserit, uulgo Nonam uocant: si ditonus aut semiditonus, Decimam: si Diatesseron, Vndecimam: si Diapente, Duodecimam. Sed nos ea hic indicare, non tractare uoluimus, quod usu potius quam regula, per tempus edisci possint.</p>
+      <p id="HEYDAC10142">CAPVT QVARTVM,</p>
+      <p id="HEYDAC10143">De Solmisatione, ut uocant, siue nomenclatione uocum.</p>
+      <p id="HEYDAC10144">Ecquid est Solmisatio?</p>
+      <p id="HEYDAC10145">ESt earum syllabarum, quas quaeque Claues adiunctas habent, pro uaria notularum positura, propria ac expedita usurpatio.</p>
+      <p id="HEYDAC10146">Quot requiruntur ad Solmisationem proprie ac expedite discendam?</p>
+      <p id="HEYDAC10147">Duo. Primum, ut cantaturi, ante positum Systema, cum suis Clauibus et syllabis, certissime, ac tanquam proprios digitos, memoria teneant, et quarumque cantionum initijs adhibeant. Ita enim omnium cantionum constitutionem rectissime ob oculos positam perspicient. Alterum, ut diligenter obseruent, pro b fa et [sqb] mi, tanquam principes claues, caeterarum omnium Clauium syllabas ac uoces, in uniuersis cantibus usurpandas ac regendas esse. Nemo enim ullam cantilenam certe ac proprie modulari poterit, 
+      <pb n="[19]" />nisi ante consulto b fa, aut [sqb] mi didicerit, Mi ne an Fa, utrumuis suae stationi dari uelit. Nam tantum interest, Fa ne an Mi, in bfa [sqb]mi canatur, ut horum utrumuis peculiarem sibi melodiae naturam ac qualitatem uendicet. Vnde fit, ut et plura Cantionum genera numerentur.</p>
+      <p id="HEYDAC10148">Quot sunt Cantionum genera?</p>
+      <p id="HEYDAC10149">Sunt, qui tria numerant: Naturale, b molle, [sqb] durum. Alij his et quartum addunt, uidelicet Fictum. Nobis uero, ob commodiorem docendi modum, duo tantum constituisse satis esto, bmolle et [sqb]durum. secundum quod omnis cantus, ab initio aut b scriptum habet, aut non habet.</p>
+      <p id="HEYDAC10150">Quis est cantus b mollis?</p>
+      <p id="HEYDAC10151">Is est, qui ab initio b adscriptum habet, et secundum b fa, caeterarum omnium Clauium uoces, infra supraque suo ordine digerit. Idque si bfa suum locum, proxime sub csolfaut, tuetur. Nam si b praescriptum, alienum locum occupat, cantum Fictum faciet, in quo tum, neglectis regularibus uocibus Scalae, supposititiae alia fingendae sunt, pro ut infra fa, in b scripto, Mi, Re, Vt: supra autem, Sol La congruit. Neque ad ullam aliam clauem, extra b, in talibus cantibus respectio est. Quare et eas ipsas cantiones, quod totae ex b praescripto pendeant, a Cantu b molli separare nolumus.</p>
+      <p id="HEYDAC10152">Quis cantus [sqb] duri?</p>
+      <p id="HEYDAC10153">Is est, qni ab initio aut nullum b fa, aut tale [sqb]#mi praescriptum habet: ut in eo secundum Mi in [sqb] mi, itidem caeterarum omnium Clauium syllabae sursum ac deorsum, pro illius ordine coaptentur. Horum generum exempla infra proxime Solmisationis regulas subiungam, Nam iam huc posita, 
+      <pb n="[20]" />nondum tradita Solmisationis arte, non satis euidenter a pueris percipi possent.</p>
+      <p id="HEYDAC10154">Cur omittitur hic Cantus naturalis?</p>
+      <p id="HEYDAC10155">Ideo, quod nobis longe commodiorem institutionem neglectus, quam animaduersus faciat. Nam illius nomenclatione obmissa, tum multo euidentior et commodior diuisio omnium Cantionum, per [rob] ab initio aut adscriptum, aut non adscriptum, efficitur. Deinde et solmisationis ars, ob illum intermissum, tanto paucioribus, ac puerili captui facilioribus regulis, tum rectissime describi poterit. Neque quicquam scrupuli facit, quod naturali cantui quiddam peculiare prae alijs duobus, esse constet: praesertim, cum neque illud ita unquam se habeat, quin aut in cantus [sqb] duri, aut [rob] mollis septa coincidat: nisi forte Diapente non egrediatur. qualem tum nihil plane uetat, [sqb] duri et nomine et regulis censeri.</p>
+      <p id="HEYDAC10156">Tota Solmisationis ratio, quot regulis principalibus compraehenditur?</p>
+      <p id="HEYDAC10157">Septem, secundum totidem literas, a b c d e f g. quas Systema habet. Quanquam enim hae, uocum differentiae causa, primo maiusculis formis, deinde minusculis, postremo et geminatis scribuntur. tamen, quod ad Solmisationis artem pertinet, quicquid de minusculis medijs dicitur, idem pariter et de maiusculis infra, et de geminatis supra, intelligi oportebit. Ita enim ab alijs, sed obscurius dicitur: de octauis idem esse iudicium.</p>
+      <p id="HEYDAC10158">Regulae Solmisationis,</p>
+      <p id="HEYDAC10159">Prima de ala mi re [aa la mi re supra lin. A re sub lin.]</p>
+      <p id="HEYDAC10160">
+      <pb n="[21]" />In a [aa supra lin., A sub lin.] la mi re, si cantus ultra ipsum scandit, [rob] praescripto, MI: non praescripto, RE canatur. At si plus ditono descendat, perpetuo LA.</p>
+      <p id="HEYDAC10161">Annotatio.</p>
+      <p id="HEYDAC10162">Plus Ditono dico. Nam si tantum per Ditonum, aut minus eo descendatur, nihil opus erit LA: cum per MI, RE, VT, perfici descensio possit. Idem et de similibus infra conditionibus intelligatur. Scilicet, quod nihil opus sit succenturiatione aliarum uocum, ubi cantus tenarium ordinem harum sex syllabarum, VT, RE, MI, FA, SOL, LA, non excesserit.</p>
+      <p id="HEYDAC10163">[Heyden, De arte, 21,1; text: a, la, sol, fa, mi, re, vt]</p>
+      <p id="HEYDAC10164">Altera regula de b [bb supra lin., [sqb] sub lin.]</p>
+      <p id="HEYDAC10165">In b [bb supra lin., [sqb] sub lin.] fa [sqb] mi, Si cantus b mollis est, semper FA: si uero [sqb]duri, MI cantetur. b mollis is omnis est, qui rotundum [rob] suo loco praescriptum habet, [sqb] durus qui non habet.</p>
+      <p id="HEYDAC10166">[Heyden, De arte, 21,2; text: la, sol, fa, mi, re, vt]</p>
+      <p id="HEYDAC10167">Tertia de c [cc supra lin., C sub lin.] sol fa ut.</p>
+      <p id="HEYDAC10168">
+      <pb n="[22]" />In c [cc supra lin., C sub lin.] sol fa ut, si cantus ipsum plus Ditono superat, semper VT: si fi uero uel Tonum deorsum cadit, b praescripto SOL: non praescripto, FA canatur.</p>
+      <p id="HEYDAC10169">[Heyden, De arte, 22,1; text: c, la, sol, fa, mi, re, vt] 
+      <figure>
+        <graphic url="/images/HEYDAC1_06GF.gif" />
+      </figure></p>
+      <p id="HEYDAC10170">Quarta regula de d [dd supra lin., D sub lin.] la sol re.</p>
+      <p id="HEYDAC10171">In d [dd supra lin., D sub lin.] la sol re, si cantus plus tono ultra ipsum tollitur, semper RE: si non plus tono tollitur, sed magis de mittitur, b praescripto LA, non praescripto, SOL sumatur.</p>
+      <p id="HEYDAC10172">[Heyden, De arte, 22,2; text: d, la, sol, fa, mi, re, vt]</p>
+      <p id="HEYDAC10173">Quinta regula de e [ee supra lin., E sub lin.] la mi.</p>
+      <p id="HEYDAC10174">In e la mi [ee la supra lin., E la mi sub lin.] Si cantus plus ditono descendit, semper LA, sin minus, aut si scandit, semper MI cantetur.</p>
+      <p id="HEYDAC10175">[Heyden, De arte, 22,3; text: e, la, sol, fa, mi, re, vt]</p>
+      <p id="HEYDAC10176">
+      <pb n="[23]" />Sexta regula de F [f supra lin.] fa ut.</p>
+      <p id="HEYDAC10177">In F [f supra lin.] fa ut, tum VT canatur, cum cantus ad bfa praesriptum scandit, alias perpetuo FA cantetur.</p>
+      <p id="HEYDAC10178">[Heyden, De arte, 23,1; text: F, vt, re, mi, fa, sol, la]</p>
+      <p id="HEYDAC10179">Septima regula de g G [Gamma] sol re ut.</p>
+      <p id="HEYDAC10180">In G [g supra lin., [Gamma] sub lin.] sol re ut, si cantus plus tono ipsum transcendit, b scripto, RE: non scripto, VT cantetur: at si non plus tono scandit, sed potius descendit, semper SOL.</p>
+      <p id="HEYDAC10181">[Heyden, De arte, 23,2; text: la, sol, fa, mi, re, vt]</p>
+      <p id="HEYDAC10182">Appendix prima.</p>
+      <p id="HEYDAC10183">Si b fa aut [sqb] mi ab initio, non in suo, sed alieno quopiam loco signatur, tum neglecta totius systematis regulari positione ex solo utriusuis loco, totus omnium aliarum syllabarum ac uocum ordo, infra supraque usurpetur.</p>
+      <p id="HEYDAC10184">
+      <pb n="[24]" />[Heyden, De arte, 24; text: vt, re, mi, fa, sol, la]</p>
+      <p id="HEYDAC10185">Appendix altera.</p>
+      <p id="HEYDAC10186">Si b fa non ab initio praepositum, sed mediae cantioni passim insertum reperitur, in solam eam Notam agit, quae in eodem spacio, aut eadem linea proxime succedit.</p>
+      <p id="HEYDAC10187">In his regulis totum Solmisationis artificium, non minus certe quam breuiter continetur. Harum itaque ductu, pueri, conspecta cuiusuis cantionis Claue Characteristica, illico uniuersarum Notularum syllabas pernoscent. Dummodo, quod ante monuimus, Systema in promptu habeant, ac probe memoria teneant. Hoc enim modo ex Characteristica Claue, statim quicquid et aliarum Clauium infra supraque Characteristicam est, perspicitur. Quibus perspectis, certa pariter syllabarum Scala secundum b fa, aut [sqb]mi illico sese aperit. In qua, ut quaeque syllaba, in quamcunque lineam, aut quodcunque spacium inciderit, ita ab eadem omnes Notulae, ibidem recte sequentes denominentur. De Clauibus Characteristicis supra traditum est.</p>
+      <p id="HEYDAC10188">Demonstrationes, quomodo in quibusuis Cantilenis, per solam Characteristicam Clauem, caeterae Claues ac syllabarum Scala comprehendatur. Tum etiam, quomodo mutationes syllabarum se inuicem, ultra infraue senarium ipsarum ordinem, ascendendo descendendoque habeant.</p>
+      <p id="HEYDAC10189">
+      <pb n="[25]" />Systematis acuti formae, quae Discanto, ut uocant, peculiares sunt.</p>
+      <p id="HEYDAC10190">[Heyden, De arte, 25,1; text: c, d, e, f, g, aa, bb, cc, dd, ee, vt, re, mi, fa, sol, fa, [rob]fa, [sqb]#mi] 
+      <figure>
+        <graphic url="/images/HEYDAC1_07GF.gif" />
+      </figure></p>
+      <p id="HEYDAC10191">Systematis medij formae, quae Alto et Tenori communes sunt.</p>
+      <p id="HEYDAC10192">[Heyden, De arte, 25,2; text: F, G, a, b, c, d, e, f, g, vt, re, mi, fa, sol, la, D, E, [rob] fa]</p>
+      <p id="HEYDAC10193">Systematis grauis formae, quas Bassus sibi uendicat.</p>
+      <p id="HEYDAC10194">[Heyden, De arte, 25,3; text: [Gamma], A, B, C, D, E, F, G, a, vt, re, mi, fa, sol, la, b, c, [rob]fa, [sqb]mi]</p>
+      <p id="HEYDAC10195">Sequuntur totidem ferme exempla Solmisationis, quot Clauium Characteristicarum positurae in usu sunt. Vt ita ad quodlibet horum exemplorum, recte ac certe cum sua scala perceptum, pueri deinde omnia, similiter signata, conferant. neque quicquam dubitent, eodem plane ordine ac modo, etiam in omnibus alijs similibus Solmisandum, ut uulgo loquimur, esse. Quod si ita fecerint, absque omni scrupulo, quicquid similium Cantionum eis oblatum fuerit, percantent.</p>
+      <p id="HEYDAC10196">
+      <pb n="[26]" />Acutae uocis, quam Discantum uocant, exemplum primum, sub gsolreut [sqb]duro.</p>
+      <p id="HEYDAC10197">Exercitium uocum Musicalium. Non patet.</p>
+      <p id="HEYDAC10198">[Heyden, De arte, 26; text: PRIMVS DISCANTVS. ut, sol, re, fa, BASSVS.] 
+      <figure>
+        <graphic url="/images/HEYDAC1_08GF.gif" />
+      </figure></p>
+      <p id="HEYDAC10199">
+      <pb n="[27]" />[Heyden, De arte, 27; text: ALTER DISCANTVS. re, sol, vt, fa, TENOR] 
+      <figure>
+        <graphic url="/images/HEYDAC1_09GF.gif" />
+      </figure></p>
+      <p id="HEYDAC10200">
+      <pb n="[28]" />Acutae uocis alterum exemplum, sub gsolreut bmolli.</p>
+      <p id="HEYDAC10201">Fuga duarum uocum, quarum altera priorem post tempus sequitur, altior tono. Iosquini.</p>
+      <p id="HEYDAC10202">[Heyden, De arte, 28; text: re, sol, vt] 
+      <figure>
+        <graphic url="/images/HEYDAC1_10GF.gif" />
+      </figure></p>
+      <p id="HEYDAC10203">
+      <pb n="[29]" />RESOLVTIO.</p>
+      <p id="HEYDAC10204">[Heyden, De arte, 29; text: re, sol, vt] 
+      <figure>
+        <graphic url="/images/HEYDAC1_11GF.gif" />
+      </figure></p>
+      <p id="HEYDAC10205">
+      <pb n="[30]" />Acutae uocis tertium exemplum, sub c b molli.</p>
+      <p id="HEYDAC10206">Fuga trium uocum, quarum duae in unisono, tertia in Subdiapente. [adelos].</p>
+      <p id="HEYDAC10207">[Heyden, De arte, 30,1; text: sol, vt, re, la] 
+      <figure>
+        <graphic url="/images/HEYDAC1_12GF.gif" />
+      </figure></p>
+      <p id="HEYDAC10208">Acutae uocis quartum exemplum, sub c [sqb]duri.</p>
+      <p id="HEYDAC10209">Fuga duorum, quorum posterior priorem post tempus sequitur, sed tono demissior. Iosquini.</p>
+      <p id="HEYDAC10210">[Heyden, De arte, 30,2; text: fa, vt, sol]</p>
+      <p id="HEYDAC10211">
+      <pb n="[31]" />[Heyden, De arte, 31,1] 
+      <figure>
+        <graphic url="/images/HEYDAC1_13GF.gif" />
+      </figure></p>
+      <p id="HEYDAC10212">Resolutio uocis sequentis.</p>
+      <p id="HEYDAC10213">[Heyden, De arte, 31,2; text: fa, vt, sol]</p>
+      <p id="HEYDAC10214">
+      <pb n="[32]" />Mediarum uocum Alti et Tenoris, primum exemplum.</p>
+      <p id="HEYDAC10215">Fuga duorum, ex eadem claue, post perfectum tempus. [adelos].</p>
+      <p id="HEYDAC10216">[Heyden, De arte, 32; text: fa, vt, sol] 
+      <figure>
+        <graphic url="/images/HEYDAC1_14GF.gif" />
+      </figure></p>
+      <p id="HEYDAC10217">
+      <pb n="[33]" />Mediarum uocum Alti et Tenoris alterum exemplum, sub c solfaut [sqb]duri.</p>
+      <p id="HEYDAC10218">Fuga duorum in unisono. [adelos].</p>
+      <p id="HEYDAC10219">[Heyden, De arte, 33; text: sol, vt] 
+      <figure>
+        <graphic url="/images/HEYDAC1_15GF.gif" />
+      </figure></p>
+      <p id="HEYDAC10220">
+      <pb n="[34]" />Mediarum uocum tertium exemplum sub c solfaut b molli.</p>
+      <p id="HEYDAC10221">Fuga trium in unisono.</p>
+      <p id="HEYDAC10222">[Heyden, De arte, 34; text: vt, fa, sol] 
+      <figure>
+        <graphic url="/images/HEYDAC1_16GF.gif" />
+      </figure></p>
+      <p id="HEYDAC10223">
+      <pb n="[35]" />Mediarum uocum Quartum exemplum [sqb]durum.</p>
+      <p id="HEYDAC10224">Fuga trium in unisono. [adelos].</p>
+      <p id="HEYDAC10225">[Heyden, De arte, 35; text: vt, sol, re] 
+      <figure>
+        <graphic url="/images/HEYDAC1_17GF.gif" />
+      </figure></p>
+      <p id="HEYDAC10226">
+      <pb n="[39 recte 36]" />Infimae uocis, id est, Bassi, primum exemplum.</p>
+      <p id="HEYDAC10227">Fuga duorum in unisono. Iacobi Obrecht.</p>
+      <p id="HEYDAC10228">[Heyden, De arte, 39 recte 36; text: re, la, mi, sol] 
+      <figure>
+        <graphic url="/images/HEYDAC1_18GF.gif" />
+      </figure></p>
+      <p id="HEYDAC10229">
+      <pb n="[37]" />Infimae uocis alterum exemplum.</p>
+      <p id="HEYDAC10230">Fuga duorum in unisono. De Orto.</p>
+      <p id="HEYDAC10231">[Heyden, De arte, 37; text: re, la] 
+      <figure>
+        <graphic url="/images/HEYDAC1_19GF.gif" />
+      </figure></p>
+      <p id="HEYDAC10232">
+      <pb n="[38]" />Infimae uocis tertium exemplum.</p>
+      <p id="HEYDAC10233">Fuga duorum, in Subdiatessaron. Iosquini.</p>
+      <p id="HEYDAC10234">[Heyden, De arte, 38; text: vt, sol, re] 
+      <figure>
+        <graphic url="/images/HEYDAC1_20GF.gif" />
+      </figure></p>
+      <p id="HEYDAC10235">
+      <pb n="[39]" />Exemplum cantus ficti, siue b mollis iste fuerit, siue [sqb] duri.</p>
+      <p id="HEYDAC10236">Fuga trium uocum, in Epidiatesseron, post perfectum tempus. Okeghem.</p>
+      <p id="HEYDAC10237">[Heyden, De arte, 39; text: re, la, vt, sol] 
+      <figure>
+        <graphic url="/images/HEYDAC1_21GF.gif" />
+      </figure></p>
+      <p id="HEYDAC10238">
+      <pb n="[40]" />CAPVT QVINTVM</p>
+      <p id="HEYDAC10239">De Tactu.</p>
+      <p id="HEYDAC10240">QVae hactenus de Scala,de Clauium constitutione, et earundem syllabis in modulando usurpandis, tradidi: ea omnia nihil aliud sunt, quam certae regulae [tes arseos kai theseos] uocum sonorumque. At quae nunc sequentur, non intensionem aut remissionem, sed contractionem ac productionem uocis docebunt. Est enim duplex uocis quantitas, secundum quod [he arsis kai thesis], aliter: aliter [he ektasis kai sustole] uocem appendunt. Vt illam per Scalae lineas, ac spacia depraehendimus: ita hanc per uariarum Notarum differentes figuras, pro ut, nunc longius, nunc breuius phthongos trahi libet, describimus. Tum illam numerorum, hanc uero temporum proportionibus dimetimur. Eam uero temporum dimensionem Tactu distinguimus: ut ita de Tactu ante, quam de Notulis necessario tradendum sit.</p>
+      <p id="HEYDAC10241">Quid est Tactus?</p>
+      <p id="HEYDAC10242">Tactus est digiti motus, aut nutus, ad temporis tractum, in uices aequales diuisum, omnium Notularum, ac Pausarum quantitates coaptans. Tactu ergo, quantum temporis cuiuis Notulae, ac pausae attribuendum sit, rectissime definitur. Adeo, ut plane nihil certi de notularum quantitate, perfectione, imperfectione, augmentatione, et diminutione, neque doceri neque percipi possit, nisi ante certum de Tactu iudicium constituatur. Constituimus itaque hic talem Tactum, cuius singulae uices, aeque distantes, singulis Semibreuibus notulis, sub his signis [O] [C]. aequali temporis quantitate correspondeant. Ad quam Tactuum ac Semibreuium notularum aequalitatem, deinde omnes aliae notulae, cum maiores tum minores, relatiue appendi debebunt.</p>
+      <p id="HEYDAC10243">
+      <pb n="[41]" />Quot sunt genera Tactuum?</p>
+      <p id="HEYDAC10244">Ab alijs quidem tria Tactuum genera traduntur, quae et uulgus Cantorum in cantando iamdiu recepit. Verum si quis ipsius artis, ac proportionis naturam, et probatissimorum Symphonistarum cantiones, rectius perspiciat, utique conuincetur, non nisi unicum Tactus genus esse, quod omnis generis probatis cantilenis adaptari et possit et debeat. Non enim, si omnino diuidendus Tactus sit, ex eo alius erit, si lentius aut concitatius ipse moueatur. Sed potius, si aut plures, aut pauciores Notulas absoluat. Quod uetustiores Musici, si concitatiorem aut lentiorem cantum uellent, id non per celeriorem aut tardiorem Tactum, sed per ipsarum Notularum, aut protractiorem aut contractiorem ualorem praestiterunt. Nam ob eam solam causam signa diminuentia, et proportiones generis multiplicis, in Musicam uenisse, nemo dubitare potest. Vt ita non Tactuum, sed Notularum quantitatem subinde pro uarijs signis, Prolationum, Temporum, Modorum, ac Proportionum distinguere operae precium sit. Idem enim Tactus in cantu Perfecto non diminuto, unicam Semibreuem tanti facit, quanti in diminuto, aut Proportione dupla, duas: in Tripla, tres: in Sesquialtera, unam et semissem. Cuius rei certiorem comprobationem, ab exemplis optimorum Symphonistarum adferendam, in postremum huius libelli locum differamus. Quod hic non dum commodum sit, ea apponere, de quorum Modis, Prolationibus, Proportionibus et caetera nihil adhuc compertum habent pueri. Satis autem hic esto pueris didicisse, in iam describendo ualore Notarum ac Pausarum, per numerum Tactuum totidem semper Semibreues notulas, quatenus eae non auctae diminutaeue sint, intelligi oportere. Est enim essentialis ualor Semibreuium Notularum, ut singulae singulis tactibus ualeant. At quod alioqui pro uariorum signorum adscriptione plus minusue ualent, id non est ipsarum essentiae, sed accidentis cuiusdam artificij.</p>
+      <p id="HEYDAC10245">
+      <pb n="[42]" />CAPVT SEXTVM</p>
+      <p id="HEYDAC10246">De Notulis.</p>
+      <p id="HEYDAC10247">Quid sunt Notulae?</p>
+      <p id="HEYDAC10248">Notulae sunt certi Characteres, secundum quos, uoces soniue in cantibus formantur ac diriguntur.</p>
+      <p id="HEYDAC10249">Quot requiruntur ad Notulas recte cognoscendas?</p>
+      <p id="HEYDAC10250">Duo, Locus et Figura. Locus Notulae docet, quatenus uocem intendi aut remitti oporteat. ad quem proprie pertinet, quicquid supra de Solmisatione traditum est. Figura uero Notulae monstrat, quantum uox produci aut corripi debeat. Atque huc referentur, quaecunque porro de Notularum ualore, Punctis, Pausis, Prolatione, Tempore, Modis, Augmentatione ac Diminutione docebuntur.</p>
+      <p id="HEYDAC10251">Quot sunt Notularum species?</p>
+      <p class="textFig" id="HEYDAC10252">Duae.&#160;Simplex,&#160;et&#160;colligata.
+      <lb />&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;[MXv]&#160;Maxima&#160;&#160;&#160;&#160;&#160;&#160;[Mv]&#160;Minima
+      <br />&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;[Lv]&#160;&#160;Longa&#160;&#160;&#160;&#160;&#160;&#160;&#160;[M]&#160;&#160;Semiminina
+      <lb />Simplices&#160;Notulae&#160;sunt.&#160;[Bv]&#160;&#160;Breuis&#160;&#160;&#160;&#160;&#160;&#160;[A]&#160;&#160;Fusa&#160;
+      <br />&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;[Sv]&#160;&#160;Semibreuis&#160;&#160;[SF]&#160;Semifusa
+      <lb /></p>
+      <p id="HEYDAC10253">Ecquid ualet quaeque simplicium?</p>
+      <p id="HEYDAC10254">
+      <pb n="[43]" />Secundum uarios Modos, Tempora, Prolationes, ac Proportiones, pro ut perfectae aut imperfectae, auctae aut diminutae fuerint, uariam motus quantitatem accipiunt. De quibus omnibus, infra in secundo libro de Mensura tradetur. At nunc, quod satis hic sit, quam simplicissime, earum cuiusque ualorem, ut communiter habent, uulgari figura ita indicemus.</p>
+      <p id="HEYDAC10255">[Heyden, De arte, 43; text: Perfecta, Valet, Imperfecta, 12, 8, 6, 4, 3, 2, 1, 1/2, 1/4, 1/8, 16, Tactus.] 
+      <figure>
+        <graphic url="/images/HEYDAC1_22GF.gif" />
+      </figure></p>
+      <p id="HEYDAC10256">Quae sunt Notulae colligatae?</p>
+      <p id="HEYDAC10257">Eae sunt, in quibus plures simplices, uelut continuo tractu colligantur. Eius colligationis causam, aliqui ex textus applicatione desumi putant. Quanquam in prolixa Notularum serie, uarietatis quoque gratia hoc ipsum causari potuit.</p>
+      <p id="HEYDAC10258">Quomodo inter se diuiuntur Colligatae Notulae?</p>
+      <p id="HEYDAC10259">In Semibreues, Breues, Longas, et Mixtas.</p>
+      <p id="HEYDAC10260">
+      <pb n="[44]" />Semibreues quomodo scribuntur?</p>
+      <p id="HEYDAC10261">Bifariam. Aut enim duo corpuscula quadrata gradatim cohaerent: quorum prius uirgulam sinistre erectam habet. Hoc modo [Lig2vcssna] [Lig2vcssnd] Aut unum corpus quadratum, sed longiuscule obliquum, itidem a fronte sinistram uirgulam sursum protendit, ita: [Lig2vcssnd]</p>
+      <p id="HEYDAC10262">Istarum quaeque duabus semibreuibus naturaliter ualet.</p>
+      <p id="HEYDAC10263">Quae forma est colligatarum breuium?</p>
+      <p id="HEYDAC10264">Itidem duplex. Aut enim duo corpora quadrata gradatim, sed sursum tendentia, cohaerent absque cauda, ita: [Bv,Bv] Aut unicum corpus quadratum longiuscule obliquum, sinistram causam dimittit, ita: [Lig2vcdsnod] Vtraque forma duabus breuibus constat. Quaesi perfectae sint, singulae tribus tactibus: si imperfectae, duobus ualent. Est itaque cauda sinistra, sursum erecta, Semibreuium: deorsum uero demissa, Breuium Notularum constans et perpetua notio.</p>
+      <p id="HEYDAC10265">Quae forma est colligatarum Longarum?</p>
+      <p id="HEYDAC10266">Itidem duplex. Aut enim duo corpora quadrata gradratim, absque caudis, deorsum tendentia habent, hoc modo [Lig2vd] Aut plura corpora quadrata habent, sursum deorsum connexa, quorum quodque suam dextram caudam, siue sursum deorsum protendit, hoc modo: [Lig4vLdLaLdcddx] Nam dextrae caudae solis Longis et Maximis sunt propriae,</p>
+      <p id="HEYDAC10267">Quae tandem sunt Ligaturae mixtae?</p>
+      <p id="HEYDAC10268">Hae sunt, in quibus duae, tres, pluresue Notulae connexae, diuersam omnino quantitatem tuentur. Eiusmodi sunt, quoties supra recensitis, uel simplicibus, uel colligatis Notulis, aliae superadduntur. De quibus hae regulae breuissime docent.</p>
+      <p id="HEYDAC10269">Prima regula.</p>
+      <p id="HEYDAC10270">Ligaturae Semibreues et Breues, si alijs Notulis praenexae 
+      <pb n="[45]" />sint, nihilominus ipsae eodem plane modo, quo traditum est, censeantur. Exemplum.</p>
+      <p id="HEYDAC10271">[Lig4vcssnaaa,Lig4vcssnddd,Lig3vcssnoda,Lig4vcssnodaMXd,Lig3vcssnaod,Lig3vcssndod,Lig4vcdsnodad,Lig4vaaa,Lig5vaddod on staff5]</p>
+      <p id="HEYDAC10272">Altera Regula.</p>
+      <p id="HEYDAC10273">Aliae omnes accessoriae Notulae, si non sint ultimae, pro Breuibus habeantur, excepto, si qua est Maxima. Exempla.</p>
+      <p id="HEYDAC10274">[Lig5vcssnodadd,Lig4vcssndaa,Lig4vcssnaad,Lig5vcdsnodaad,Lig7vaadodaacddx,Lig6vaMXaddacddx on staff5]</p>
+      <p id="HEYDAC10275">Tertia Regula.</p>
+      <p id="HEYDAC10276">Omnes ultimae sursum tendentes, absque caudis, aut oblique dependentes, Breues sunt: Deorsum quadratae uero, aut cum caudis, Longae. Exempla sunt ante positarum figurarum ultimae omnes.</p>
+      <p id="HEYDAC10277">Quarta Regula.</p>
+      <p id="HEYDAC10278">Quadrata initialis, cauda carens, contigua descendente, Longa est: Sin caudam sinistram demittit, aut contigua altera scandit, Breuis Exempla.</p>
+      <p id="HEYDAC10279">[Lig4vdda,Lig4vdodd,Lig4vcdsndodd,Lig4vaodd on staff5]</p>
+      <p id="HEYDAC10280">Quinta Regula.</p>
+      <p id="HEYDAC10281">Obliqua ligatura, si initialis sit, cauda carens, siue sursum siue deorsum tendat, primam Longam, alteram Breuem habet. Exempla.</p>
+      <p id="HEYDAC10282">[Lig5vodadacddx,Lig11voaadaMXcddxdodadaa on staff5]</p>
+      <p id="HEYDAC10283">Sequitur exemplum Notularum utriusque speciei. Fortuna. Ludouici Senflij, ad uoces Musicales.</p>
+      <p id="HEYDAC10284">
+      <pb n="[46]" />[Heyden, De arte, 46; text: DISCANTVS. FOrtuna ad uoces Musicales. BASSVS.] 
+      <figure>
+        <graphic url="/images/HEYDAC1_23GF.gif" />
+      </figure></p>
+      <p id="HEYDAC10285">
+      <pb n="[47]" />[Heyden, De arte, 47; text: ALTVS. FOrtuna ad uoces Musicales. Tenor] 
+      <figure>
+        <graphic url="/images/HEYDAC1_24GF.gif" />
+      </figure></p>
+      <p id="HEYDAC10286">
+      <pb n="[48]" />[Heyden, De arte, 48; text: BASSVS.] 
+      <figure>
+        <graphic url="/images/HEYDAC1_25GF.gif" />
+      </figure></p>
+      <p id="HEYDAC10287">
+      <pb n="[49]" />[Heyden, De arte, 49; text: Tenor] 
+      <figure>
+        <graphic url="/images/HEYDAC1_26GF.gif" />
+      </figure></p>
+      <p id="HEYDAC10288">
+      <pb n="[50]" />CAPVT SEPTIMVM</p>
+      <p id="HEYDAC10289">De Punctis.</p>
+      <p id="HEYDAC10290">Quottuplex est usus Punctorum in Cantilenis?</p>
+      <p id="HEYDAC10291">TRiplex. Alia enim dimidio ualore adhuc augent Notulas, quibus pone adscribuntur. unde additionis nomen habent. Alia duplo alteras sequentes Notas ualere faciunt. Ex quo nomen alterationis sumpserunt. Tertia Notulas a Notulis distinguunt, quapropter distinctionis siue diuisionis Puncta dicuntur.</p>
+      <p id="HEYDAC10292">Ecquod est Punctum additionis?</p>
+      <p id="HEYDAC10293">Vulgatius illud, quod omnis generis Cantionum quibus liber Notulis, a tergo recte adscriptum, ex unicis sesquialteras ipsas facit, hoc est, ut dimidio plus ualeant deinde, quam ante absque punctis ualuerant. Sub quo et perfectionis punctum, quod et ipsum nihil aliud efficiat, intelligatur. Exemplum.</p>
+      <p id="HEYDAC10294">[Heyden, De arte, 50] 
+      <figure>
+        <graphic url="/images/HEYDAC1_27GF.gif" />
+      </figure></p>
+      <p id="HEYDAC10295">Quod est Punctum diuisionis?</p>
+      <p id="HEYDAC10296">Id est, quod supra imminet medium, aut geminis Longis inter duas maximas, in Modo maiore perfecto: aut geminis Breuibus inter duas Longas, in Modo minore perfecto: aut geminis Semibreuibus inter duas Breues, in Tempore perfecto: aut geminis Minimis inter duas Semibreues in Prolatione Maiore. De Modis, Temporibus, ac Prolationibus 
+      <pb n="[51]" />secundus libet docebit. Exemplum.</p>
+      <p id="HEYDAC10297">[Heyden, De arte, 51; text: Modus maior. Modus minor. Tempus. Prolatio. Proportio.]</p>
+      <p id="HEYDAC10298">In quem usum supra imminet?</p>
+      <p id="HEYDAC10299">Vt utrique extremae maiori, alterutram mediam minorem addicat: ut ita utraque extrema maior, per accessionem minoris mediae, trinam perfectionis dimensionem recipiat, quae alioqui imperficiebantur. Nam punctus Diuisionis trinae dimensioni tantum seruit. Quare in solis his cantibus reperitur, qui aut perfecto circulo: aut numero ternario: aut prolationis Maioris punctulo ab initio insigniuntur. De quibus omnibus infra tradetur.</p>
+      <p id="HEYDAC10300">Quod est Punctum alterationis?</p>
+      <p id="HEYDAC10301">Id est, quod sub ijsdem ferme signis, eodemque Notularum ordine, quo Diuisiuus, cernitur. Sed hoc differt, quod ipsum maiusculae extremae priori (a) aut eius parti (b). aut aequiualenti pausae (c) supra praeiunctum, alteram mediarum minuscularum sequentium, bis tantum ualere facit, quantum simplex alias ualebat. Atque inde alterationis nomen habet. Interdum committitur alteratio, intermissis tamen Punctis, quae tum ex ternionum dimensione depraehendenda est. Ita fere fit, quoties Semibreuis ligatura, intra duas breues, in tempore perfecto concluditur, etiamsi nullus punctus imminet, ut tamen posterior pars ligaturae duplicetur, priore breui suam perfectionem retinente. d. Exempla.</p>
+      <p id="HEYDAC10302">
+      <pb n="[52]" />[Heyden, De arte, 52,1; text: Modus maior. Modus minor. Tempus, Prolatio. a, b, c, d]</p>
+      <p id="HEYDAC10303">Quid uero, si punctum Diuisionis, aut Alterationis pluribus minoribus Notulis, inter duas maiores supra imminet?</p>
+      <p id="HEYDAC10304">In eiusmodi exemplis plane sequenda est numeri ternarij dimensio. Quae accurate obseruata, etiam absque punctis, euidentissime monstrat, non solum, in quem ternionem quaeque Notula referenda sit, uerum etiam quas, ob deficientem ternionem duplicari, id est alterari, ut loquuntur, oporteat.</p>
+      <p id="HEYDAC10305">[Heyden, De arte, 52,2; text: Modus minor, Tempus, Prolatio, Diuisio, Alteratio.]</p>
+      <p id="HEYDAC10306">CAPVT OCTAVVM</p>
+      <p id="HEYDAC10307">De Pausis.</p>
+      <p id="HEYDAC10308">Quid est Pausa in cantu?</p>
+      <p id="HEYDAC10309">EST uirgula, certo tractu, per lineas transuerse deducta, 
+      <pb n="[53]" />significans tantum tactuum, quantum ipsa ualet, silentio esse transeundum.</p>
+      <p id="HEYDAC10310">Quot sunt species Pausarum?</p>
+      <p id="HEYDAC10311">Totidem, quot Notularum. Singulae enim Notulae suas peculiares pausas habent. ut ita quaeque Pausa tanti ualeat, quanti Nota ipsius in eodem cantu cantari solet.</p>
+      <p id="HEYDAC10312">Quomodo discernuntur Pausae?</p>
+      <p id="HEYDAC10313">Per uarios linearum attractus. Si tres uirgulae, per tria integra spacia transuerse protensae, quatuor lineas aequaliter contingunt, Pausae Modi maioris uocantur, siue Maximae perfectae. a. Sin geminae imperfectae. b.</p>
+      <p id="HEYDAC10314">[Heyden, De arte, 53,1; text: Maxima, Perfecta, Imperfecta. a, b] 
+      <figure>
+        <graphic url="/images/HEYDAC1_28GF.gif" />
+      </figure></p>
+      <p id="HEYDAC10315">Si autem unica talis uirgula, aut plures, sed inaequaliter positae, quatuor lineas contingunt, pausae Modi minoris perfecti eae sunt, id est longae perfectae. c.</p>
+      <p id="HEYDAC10316">[Heyden, De arte, 53,2; text: Longa perfecta, c]</p>
+      <p id="HEYDAC10317">Quae uirgula ad tertiam lineam pertingit, ea est Pausa Longae, imperfectae. d.</p>
+      <p id="HEYDAC10318">[Heyden, De arte, 53,3; text: Longa imperfecta]</p>
+      <p id="HEYDAC10319">Quae ad alteram pertingit lineam, Breuis pausa est. e</p>
+      <p id="HEYDAC10320">[Heyden, De arte, 53,4; text: Breuis, e]</p>
+      <p id="HEYDAC10321">Quae uirgula a linea in medium spacium dependet, Semibreuis Pausa dicitur. f At ea aequaliter geminata, Temporis perfecti indicium habet. g</p>
+      <p id="HEYDAC10322">[Heyden, De arte, 53,5; text: Semibreuis, f, g]</p>
+      <p id="HEYDAC10323">
+      <pb n="[54]" />Quae uero a linea in medium spacium adsurgit, eam Pausam Minimae, siue suspirium uocant. h. Quae si et ipsa aequaliter geminetur, Prolationem perfectam designabit. i.</p>
+      <p id="HEYDAC10324">[Heyden, De arte, 54,1; text: Minima, h, i]</p>
+      <p id="HEYDAC10325">Itidem in medium spacij erecta uirgula, sed superne aculeum reflexum habens, Pausa Semiminimae est. k.</p>
+      <p id="HEYDAC10326">[Heyden, De arte, 54,2; text: Semiminima, k]</p>
+      <p id="HEYDAC10327">At si geminum habeat aculeum, Fusae. l.</p>
+      <p id="HEYDAC10328">Si triplicem, Semifusae. m.</p>
+      <p id="HEYDAC10329">[Heyden, De arte, 54,3; text: Fusa, Semimifusa, l, m]</p>
+      <p id="HEYDAC10330">Hae Pausae per omnia, suis Notulis, quorum nomina referunt, aequiualent. excepto, quod ipsae Perfectae, ab omni imperfectione, ac alteratione immunes, perfecti signi quantitatem, quo ad ipsum durat, retinent. Adduntur his Pausis, et aliae quaepiam, quae tamen, cum uerius signa ordinis sint, nihilque cum ualore Notularum commune habeant, tanto minori negotio perdiscuntur. Hemiciclus cum punctulo inserto, instar Iridis, Notulae imminens superne, communem omnibus uocibus cessationem indicit, ita [CBd]. Duo uero Hemicicli, laterum circumferentijs ita transuerse coniunctis, :||: toties repetendi initij argumentum habent, quot utrique sinui puncta inscripta uisuntur.</p>
+      <p id="HEYDAC10331">Haec hactenus pro priore libello sufficiant, quae, quod simplicissime tradita sunt, certe non incommode simplex, siue Choralis Musica dici poterunt. Praesertim, quod eadem plane, et Scalae et Solmisationis ratio in utraque sit. Nec quicquam praeterea de Chorali hic desiderari possit, excepto, quod ego Tonorum descriptionem in posterioris libri ultimum caput, potius differre malui. Nam de illis non rectius iudicabunt pueri, quam si ante probe cantare didicerint, ac longiore usu aures ad discernendas Melodias quodammodo assuefecerint.</p>
+    </body>
+  </text>
+</TEI>

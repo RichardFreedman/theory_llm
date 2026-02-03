@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Ars musicae mensurabilis secundum Franconem</title>
+        <title type="abbrev">ANOFIG</title>
+        <author>Anonymous</author>
+        <date notBefore="1200" notAfter="1299">13th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Stephen E. Hayes</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Peter M. Lefferts</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Bradley Jon Tucker</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1995</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Petrus Picardus, 
+<emph>Ars motettorum compilata breviter</emph>, ed. F. Alberto Gallo; Anonymus, 
+<emph>Ars musicae mensurabilis secundum Franconem (Mss. Paris, Bibl. Nat., lat. 15129; Uppsala, Universiteitsbibl., C 55)</emph>, ed. Gilbert Reaney and André Gilles; Anonymus, 
+<emph>Compendium musicae mensurabilis artis antiquae (Ms. Faenza, Biblioteca Comunale 117)</emph>, ed. F. Alberto Gallo, Corpus scriptorum de musica, vol. 15 ([Rome]: American Institute of Musicology, 1971), 38–54 (even). As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Ps.-Petrus de Cruce: Ars musicae mensurabilis</title>
+          
+<idno type="LML">PS.-PETR. CRUC.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 15129, 1-3</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">S-Uu C 55, 22r-v</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANOFIG0001">
+      <pb n="[38]" />DE FIGURIS</p>
+      <p id="ANOFIG0002">Figura est repraesentatio vocis in aliquo modorum ordinatae. Item figurarum aliae sunt simplices, aliae conpositae. Item simplicium aliae longae, aliae breves, et aliae semibreves. Item loncarum aliae duplices, aliae perfectae, aliae imperfectae, quarum valor distincte secundum ordinationem in sequentem breviter agnoscetur. Longa sic formata [L] ante longam valet tria tempora.</p>
+      <p id="ANOFIG0003">[CSM15:38,1; text: In Bethleem [Herodes iratus]] 
+      <figure>
+        <graphic url="/images/ANOFIG_01GF.gif" />
+      </figure></p>
+      <p id="ANOFIG0004">Praedicta longa ante duas breves vel tres, longa sequente immediate, valet tria tempora, ut patet in regula sequente,</p>
+      <p id="ANOFIG0005">[CSM15:38,2; text: Eximium decus virginum]</p>
+      <p id="ANOFIG0006">nisi brevis ad praedictam longam relata computando perfectiones praecedat, ut hic;</p>
+      <p id="ANOFIG0007">
+      <pb n="[40]" />[CSM15:40,1; text: Sola Christi parens; Vous n'i dormirez]</p>
+      <p id="ANOFIG0008">et nisi brevis ad praedictam longam relata computando perfectiones sequatur, modi divisione taliter intermixta.</p>
+      <p id="ANOFIG0009">[CSM15:40,2; text: Dari, tradi; Portare]</p>
+      <p id="ANOFIG0010">Praedicta longa ante solam brevem, vel ante plures quam tres, valet duo tempora.</p>
+      <p id="ANOFIG0011">[CSM15:40,3; text: Cruci, cruci domini laus sit erogata]</p>
+      <p id="ANOFIG0012">nisi modi divisio subsequatur: tunc valet tria tempora.</p>
+      <p id="ANOFIG0013">[CSM15:40,4; text: Virginum reorumque consola[tio], mestorum revelatio]</p>
+      <p id="ANOFIG0014">Duplex longa sic formata</p>
+      <p id="ANOFIG0015">[2L,2L,2L,2L,2L on staff2]</p>
+      <p id="ANOFIG0016">valet sex tempora.</p>
+      <p id="ANOFIG0017">Brevis sic formata [B] valet unum tempus, nisi computatis perfectionibus ponantur duae breves, vel valor duarum brevium in principio vel in medio</p>
+      <p id="ANOFIG0018">
+      <pb n="[42]" />vel in fine, ante longam notam vel pausam: tunc prima valet unum tempus et secunda duo, ut hic:</p>
+      <p id="ANOFIG0019">[CSM15:42,1; text: Honores mores mutant hominum; O Maria beata genitrix; Cruci Domini [sit cunctis]] 
+      <figure>
+        <graphic url="/images/ANOFIG_02GF.gif" />
+      </figure></p>
+      <p id="ANOFIG0020">Semibrevium sic formatarum [S] alia minor, alia maior in valore, sed non in figuratione, quarum ponuntur aliquando duae pro tempore, aliquando tres vel quatuor vel quinque vel sex vel septem; et tunc sunt per modi divisionem taliter distinctae.</p>
+      <p id="ANOFIG0021">[CSM15:42,2; text: Novum melos promere, novo[s] vomere cantus volo per quem celo dei genitricem, etc.; Je(u) qui li ai fait homage [pour]]</p>
+      <p id="ANOFIG0022">
+      <pb n="[44]" />DE PLICIS IN FIGURIS SIMPLICIBUS</p>
+      <p id="ANOFIG0023">Plica est nota divisionis eiusdem soni in gravem vel in acutam, et debet formari in gutture cum epygloto. Plica longa est cuius dexter tractus longior est sinistro,</p>
+      <p id="ANOFIG0024">[CSM15:44,1; text: Mellis stilla, maris stella] 
+      <figure>
+        <graphic url="/images/ANOFIG_03GF.gif" />
+      </figure></p>
+      <p id="ANOFIG0025">brevis plica est cuius dexter tractus est brevior sinistro, ut hic.</p>
+      <p id="ANOFIG0026">[CSM15:44,2; text: Virga sicca uxorem induit]</p>
+      <p id="ANOFIG0027">Item semibrevis sic plicatur.</p>
+      <p id="ANOFIG0028">[CSM15:44,3; text: Au renoveler du jolis temps]</p>
+      <p id="ANOFIG0029">Nec mirum cum diffinitio plicae eis possit convenire. Valor plicarum in temporibus cognoscitur ex praedictis.</p>
+      <p id="ANOFIG0030">DE LIGATURIS ET EARUM PROPRIETATIBUS</p>
+      <p id="ANOFIG0031">Ligatura est coniunctio figurarum simplicium per tractos debitos ordinata. Ligaturarum alia ascendens, cuius secundus punctus altior est primo, ut hic;</p>
+      <p id="ANOFIG0032">[ClefC3,Lig2art,Lig3aart,Lig3Laacddx,Lig2oacddx,Lig2cssnoa,Lig2cssna,Lig3cdsnoda on staff5]</p>
+      <p id="ANOFIG0033">alia descendens, cuius secundus punctus inferior est primo, ut hic.</p>
+      <p id="ANOFIG0034">[ClefC4,Lig2cdsnd,Lig3cdsndd,Lig3cdsndod,Lig5Laddod on staff5]</p>
+      <p id="ANOFIG0035">
+      <pb n="[46]" />Ascendens carens omni tractu, cum proprietate dicitur, ut hic.</p>
+      <p id="ANOFIG0036">[ClefC4,Lig2art,Lig2art,Lig3aart,Lig4adacddx on staff5]</p>
+      <p id="ANOFIG0037">Est enim proprietas nota primariae inventionis ligaturae a plana musica data vel inventa. Improprietas dicunt privationem huius, et acceduntur istae duae differentiae in principio ligaturarum, similiter et opposita proprietas. Ligatura ascendens, habens tractum descendentem a parte sinistra vel a parte dextra, quod magis proprium est, sine proprietate dicitur, ut hic.</p>
+      <p id="ANOFIG0038">[ClefC3,Lig2Lart,Lig3Laacddx,Lig5Laadod on staff5]</p>
+      <p id="ANOFIG0039">Ligatura descendens, habens tractum descendentem a parte sinistra, cum proprietate dicitur, ut hic;</p>
+      <p id="ANOFIG0040">[ClefC3,Lig2cdsnd,Lig4cdsnddod,Lig2cdsnod,Lig2cdsnd,Lig3cdsndod on staff5]</p>
+      <p id="ANOFIG0041">carens vero sine, ut hic.</p>
+      <p id="ANOFIG0042">[ClefC3,Lig2d,Lig3dod,Lig2od,Lig4odaart on staff5]</p>
+      <p id="ANOFIG0043">Ascendens autem ligatura et descendens, habentes tractus desuper venientes a parte sinistra, cum opposita proprietate dicuntur, ut hic.</p>
+      <p id="ANOFIG0044">[ClefC3,Lig3cssnaa,Lig2cssna,Lig3cssndod,Lig2cssnoa,Lig2cssnod on staff5]</p>
+      <p id="ANOFIG0045">Omnis ligaturae cum proprietate prima brevis, omnis sine proprietate prima longa. Omnis ligaturae cum opposita proprietate duae primae semibreves, omnis media brevis. Omnis ligaturae gerentis recte ultimum punctum supra primum vel 
+      <pb n="[48]" />penultimum, vel sub primo vel penultimo habentis quadratum, ultima longa est, ut hic.</p>
+      <p id="ANOFIG0046">[ClefC4,Lig2art,Lig2cdsnd,Lig4cdsnaaart,Lig4cdsndodart,Lig3cdsndd on staff5]</p>
+      <p id="ANOFIG0047">Omnis ligaturae obliquae gerentis ultimum punctum supra primum vel penultimum, vel sub primo vel sub penultimo sub uno corpore cum penultimo habentis ultimum punctum, ultima brevis est, ut hic.</p>
+      <p id="ANOFIG0048">[ClefC4,Lig2a,Lig3Laa,Lig4Laaod,Lig3aod on staff5]</p>
+      <p id="ANOFIG0049">DE PLICIS IN FIGURIS LIGATIS</p>
+      <p id="ANOFIG0050">Ascendentis ligaturae plicatae ultima longa est, ut hic;</p>
+      <p id="ANOFIG0051">[ClefC3,Lig2apddx,Lig2apsdx,Lig3cdsnodapddx,Lig3Ladpsdx on staff5]</p>
+      <p id="ANOFIG0052">sed si plica poneretur a parte sinistra ascendendo, tunc esset brevis, ut hic.</p>
+      <p id="ANOFIG0053">[ClefC3,Lig2Lapssn,Lig5Ladodapssn,Lig3Laapssn on staff5]</p>
+      <p id="ANOFIG0054">Si autem plica fieret descendendo, tunc esset necessaria obliquitas, ita quod duae ultimae sub uno corpore formarentur, ut hic.</p>
+      <p id="ANOFIG0055">[ClefC3,Lig2oapddx,Lig6adadodpddx,Lig4aaoapddx,Lig4ddodpddx on staff5]</p>
+      <p id="ANOFIG0056">Sunt enim omnes ligaturae plicabiles in fine tam ascendendo quam descendendo, ut hic,</p>
+      <p id="ANOFIG0057">[ClefC4,Lig2cdsndpddx,Lig2apddx,Lig2dpsdx,Lig3dodpsdx,Lig4cdsnddodpsdx,Lig4Laaapssn on staff5]</p>
+      <p id="ANOFIG0058">
+      <pb n="[50]" />excepta illa cuius ultimus punctus recte stat supra primum vel penultimum, ut hic.</p>
+      <p id="ANOFIG0059">[ClefC3,Lig2art,Lig3cdsnodart,Lig4cdsndodart,Lig3cdsnodart,Lig6cdsnodaaodart,Lig3Laart on staff5]</p>
+      <p id="ANOFIG0060">Ultimarum valor in temporibus cognoscitur ex praedictis: ibi longa sic [L] est formata, etc. Item ligaturarum primae et ultimae possunt taliter duplicari, scilicet ut hic.</p>
+      <p id="ANOFIG0061">[ClefC4,Lig3dd,Lig2d,Lig3dodart on staff5]</p>
+      <p id="ANOFIG0062">DE MODIS</p>
+      <p id="ANOFIG0063">Modus est variatio soni ex longitudine et brevitate ordinata. Item modorum alius ex longa et brevi et longa, etc.; qui primus dicitur via cognoscendi quia levior est ad sciendum, ut hic.</p>
+      <p id="ANOFIG0064">[CSM15:50,1; text: Laus sit regi glorie]</p>
+      <p id="ANOFIG0065">Secundus modus procedit ex brevi et longa et brevi, ut hic.</p>
+      <p id="ANOFIG0066">[CSM15:50,2; text: Amor qui cor vulnerat]</p>
+      <p id="ANOFIG0067">Tertius modus procedit ex longa et duabus brevibus et longa, ut hic.</p>
+      <p id="ANOFIG0068">[CSM15:50,3; text: Verbum caro factum est]</p>
+      <p id="ANOFIG0069">
+      <pb n="[52]" />Quartus modus procedit ex duabus brevibus et longa et duabus brevibus, ut hic.</p>
+      <p id="ANOFIG0070">[CSM15:52,1; text: Honores mores mutant hominum] 
+      <figure>
+        <graphic url="/images/ANOFIG_04GF.gif" />
+      </figure></p>
+      <p id="ANOFIG0071">Quintus modus procedit ex omnibus longis, ut hic.</p>
+      <p id="ANOFIG0072">[CSM15:52,2; text: In Bethleem [Herodes iratus]]</p>
+      <p id="ANOFIG0073">
+      <pb n="[54]" />Sextus modus procedit ex omnibus brevibus et semibrevibus, ut hic.</p>
+      <p id="ANOFIG0074">[CSM15:54,1; text: Gaude, chorus, devota letitia]</p>
+      <p id="ANOFIG0075">DE PAUSIS</p>
+      <p id="ANOFIG0076">Pausa est obmissio rectae vocis facta in aliquo modorum debita quantitate. Pausae valent tot tempora quot spatia comprehendunt, excepta illa quae omnes lineas comprehendit, quae immensurabilis appellatur, ut hic.</p>
+      <p id="ANOFIG0077">[MXP,MXP,2LP,2LP,BP,BP,MP,BP,2LP,3LP,MXP,MXP,3LP,2LP,BP,MP,2LP,2LP,BP,BP,2LP,2LP,MXP,MXP]</p>
+      <p id="ANOFIG0078">Pausae semibrevis maioris et minoris habetur differentia quoad situm. Unde si ponatur a parte principii, tunc est minor; si vero ponatur post semibrevem notam, tunc est maior. Et debent continere mediam partem unius spatii, ut hic patet.</p>
+      <p id="ANOFIG0079">[CSM15:54,2; text: In seculum]</p>
+      <p id="ANOFIG0080">Modi divisio, suspirium, acceptio syllabae taliter figurantur</p>
+      <p id="ANOFIG0081">[CSM15:54,3]</p>
+      <p id="ANOFIG0082">Et tunc dubium removetur.</p>
+      <p id="ANOFIG0083">Explicit ars musicae mensurabilis.</p>
+    </body>
+  </text>
+</TEI>

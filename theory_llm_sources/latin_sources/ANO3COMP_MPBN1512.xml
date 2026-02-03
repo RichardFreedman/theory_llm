@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>[Compendiolum artis veteris ac novae]</title>
+        <title type="abbrev">ANO3COMP_MPBN1512</title>
+        <author>Anonymous</author>
+        <date notBefore="1300" notAfter="1399">14th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>T</resp>
+        <persName>John Gray</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Travis Yeager</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>2007</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Paris, Bibliothèque nationale de France, MS latin 15128, ff. 127r–129r.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: De arte musicae breve compendiolum</title>
+          
+<idno type="LML">TRAD. Phil. II</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 15128, 127-129</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANO3COMP_MPBN15120001">
+      <pb n="[f.127r]" />Quoniam per ignoranciam artis musice multi. et maxime temporibus modernis cantando delirant Ideo de arte musice breue compendiosum deo inuente propono Et ueteram ac nouam artam in isto compendiolo manifestare intendo secundum quod uulgo dicitur ab unitate inchoandum est Et quia unitas prior est dualitate et breuis notula habet unum tempus longa uero duo uel plura Ideo breuis prior est quam longa. et sic semibreuis ante breuem et minima an semibreuem Et quia dicit actor quod a sempliciori et leuiori inchoandum est longe notule sunt simpliciores breuibus et semibreuibus Quod patet quia breues notule et semibreues difficiliores sunt ad pronunciandum quam longe. ideo ab ipsis longis tanquam a simplicibus est inchoandum Procedendo igitur ad modos breuiter motelorum uel motetorum Quia de figuris uero nichil uix est faciendi Sciendum est quod in cantu mensurabili secundum magistrum Franconem quinque sunt modi licet quidem posuerint esse sex et bene ut procedendo patebit Primus modus secundum magistrum Franconem procedit ex omnibus longis Secundus constat ex breui et longa Tercius constat ex longa et duabus breuibus Quartus ex duabus breuibus et longa Quintus ex omnibus breuibus et semibreuibus uide residuum in arte magistri Franconis</p>
+      <p id="ANO3COMP_MPBN15120002">DE Noua arte quam Philippus de Uitriaco nuper inuenit dicam hoc modo Primo a breuibus tamquam a simplicibus inchoabo Postea dicam de semibreuibus postea de minimis Tandem uero de semiminimis Sciendum est quod sicut in ueteri arte est ita in noua Sed in ueteri arte longa ante longam ualet tria tempora. et sic breuis ante breuem ualet tres semibreues et hoc do modo perfecto intelligendum est Ita sicut se habet breuis ad longam ita semibreuis ad breuem et minima ad semibreuem Sed sic se habet breuis ad longam in ueteri arte quod quando sola breuis precedit uel sequitur longam. longa non ualet nisi duo tempora ergo sic erit in proposito quod quando sola semibreuis sequitur solam breuem uel precedit. breuis non ualet nisi duas partes unius temporis scilicet duas semibreues ut hic</p>
+      <p id="ANO3COMP_MPBN15120003">[B,S,pt,S,B on staff4]</p>
+      <p id="ANO3COMP_MPBN15120004">Quando due breues ponuntur inter duas longas. secunda dicitur altera et ualet duo tempora Sic quando due semibreues ponuntur inter duas breues secunda illarum semibreuium duas semibreues ualet ut patet in hoc exemplo</p>
+      <p id="ANO3COMP_MPBN15120005">[B,S,S,B on staff4]</p>
+      <p id="ANO3COMP_MPBN15120006">Descendendo breuiter ad diuisionem breuis notule Sciendum est quod breuis notula perfecta ualens unum tempus diuiditur in tres semibreues equales Et quelibet illarum semibreuium subdiuiduntur inter minimas et quelibet illarum minimarum diuiduntur iterum in duas semi[[breues]]minimas 
+      <pb n="[f.127v]" />equales si posset dici ut hic</p>
+      <p id="ANO3COMP_MPBN15120007">[B,S,S,S,M,M,M,M,M,M,M,M,M,SM,SM,SM,SM,SM,SM,SM,SM,SM,SM,SM,SM,SM,SM,SM,SM,SM,SM on staff4]</p>
+      <p id="ANO3COMP_MPBN15120008">Breue tempus imperfectum diuiditur in duas semibreues equales et quelibet illarum semibreuium diuiditur in tres minimas et quelibet illarum minimarum subdiuiditur in duas semiminimas iterum si possent dici ut hic</p>
+      <p id="ANO3COMP_MPBN15120009">[B,S,S,pt,M,M,M,M,M,M,SM,SM,SM,SM,SM,SM,SM,SM,SM,SM,SM,SM on staff4]</p>
+      <p id="ANO3COMP_MPBN15120010">Primo posset querere aliquis ignorans que uocetur minima Et que semiminima Ad quod breuiter dico quod semibreuis recte caudata a parte superiori uocatur minima ut hic</p>
+      <p id="ANO3COMP_MPBN15120011">[M,M,M,M,M,M,M,M,M,M,M,M on staff4]</p>
+      <p id="ANO3COMP_MPBN15120012">Et minima recte bis caudata a parte superiori uocatur semiminima</p>
+      <p id="ANO3COMP_MPBN15120013">[SM,SM,SM,SM,SM,SM,SM,SM,SM,SM,SM,SM on staff4]</p>
+      <p id="ANO3COMP_MPBN15120014">Item sic uidemus in ueteri arte quod quando sola breuis sequitur longam uel quando plures quam tres sequuntur quod illa longa non ualet nisi duo tempora nisi opponatur signum perfectionis. sic est in noua arte quod eodem modo quando sola semibreuis sequitur breuem uel quando plures quam tres semibreues sequuntur. illa breuis non ualet nisi duas semibreues ut patet</p>
+      <p id="ANO3COMP_MPBN15120015">[B,S,pt,B,S,S,S,S,M,S,S on staff4]</p>
+      <p id="ANO3COMP_MPBN15120016">Et eodem modo quando sola minima sequitur semibreuem uel quando plures quam tres sequuntur semibreuem predictam semibreuis non ualet nisi duas minimas ut patet hic</p>
+      <p id="ANO3COMP_MPBN15120017">[S,M,S,M,M,M,M,M,M,M,M,M,M on staff4]</p>
+      <p id="ANO3COMP_MPBN15120018">Et sic apparet [[itilita]] utiliter cuilibet intuenti quot notule apponantur pro uno tempore licet ibi puncti non ponantur et si semiminime inueniantur due semiminime computantur pro sola minima quia semiminime non possunt poni impares ut patet in hoc exemplo sequenti</p>
+      <p id="ANO3COMP_MPBN15120019">[SM,SM,SM,SM,SM,SM,SM,SM,SM,SM,SM,SM,SM,SM,SM,L on staff4]</p>
+      <p id="ANO3COMP_MPBN15120020">Item nota quod si aliqua semi temporis inter tales semiminimas reperitur computanda est pro tribus minimis nisi sola minima sequatur tunc enim non ualet nisi duas minimas ut patet hic</p>
+      <p id="ANO3COMP_MPBN15120021">[SM,SM,SM,SM,SM,SM,S,SM,pt,SM,SM,SM,SM,SM,SM on staff4]</p>
+      <p id="ANO3COMP_MPBN15120022">Et si apparet quod notule et pause sunt equiuoce nota quod omnis semibreuis notula est equiuoca ad hoc quod potest ualere. Sex uel quinque uel tres uel duas minimas Equiuoca distinguitur ab adiunctis pro tanto dum est quia quando due semibreues ponuntur inter duas longas secunda illarum ualet sex minimas ut hic</p>
+      <p id="ANO3COMP_MPBN15120023">[B,S,S,B,B,S,S,B on staff4]</p>
+      <p id="ANO3COMP_MPBN15120024">nisi prima signetur a parte inferiori ut hic</p>
+      <p id="ANO3COMP_MPBN15120025">[B,Scd,S,B,Scd,S,B on staff4]</p>
+      <p id="ANO3COMP_MPBN15120026">Quia tunc prima ualet sex minimas unde dico quod talis semibreuis notula caudata a parte inferiori est equiuoca quia quandoque ualet sex minimas ut patet hic</p>
+      <p id="ANO3COMP_MPBN15120027">[B,Scd,S,B on staff4]</p>
+      <p id="ANO3COMP_MPBN15120028">quandoque uero quinque ut patet</p>
+      <p id="ANO3COMP_MPBN15120029">[L,Scd,M,L on staff4]</p>
+      <p id="ANO3COMP_MPBN15120030">Quandoque uero ualet tres ut 
+      <pb n="[f.128r]" />exemplum</p>
+      <p id="ANO3COMP_MPBN15120031">[L,Scd,S,M,L,Scd,S,M,L on staff4]</p>
+      <p id="ANO3COMP_MPBN15120032">Quandoque uero ualet duas ut hic patet</p>
+      <p id="ANO3COMP_MPBN15120033">[L,Scd,M,M,M,M,M,M,M,M,M,M on staff4]</p>
+      <p id="ANO3COMP_MPBN15120034">Item nota quod quedam sunt semibreues que caudantur a parte superiori et inferiori ut patet hic</p>
+      <p id="ANO3COMP_MPBN15120035">[F,F,F,F,F,F on staff4]</p>
+      <p id="ANO3COMP_MPBN15120036">Et [[l]] tales notule sic caudate dragme uocantur gallice fuiseus. et non possunt aliquo modo ualere nisi duas minimas Quod sic probatur quia sicut se habet unitas ad perficiendum [perfeiciendum ante corr.] numerum. et massam numerum sic minima ad semibreuem. sed sic [se ante corr. supra lin.] habet numerus quia minor numerus prepositus diminuit ipsum numerum scilicet massam numerum quod ipsemet ualet sic est in proposito quia talis notula ex propria [[o]] natura eius ualet tres minimas scilicet quando est caudata a parte inferiori hoc generaliter est unum signum minuitatis a proposito non ualet nisi duas minimas. quia quando apponitur tali notule cauda a parte superiori quasi minima apponitur Sed quod minima ponatur sic probatur quia quod primo construitur illud est primum sed quia quando alias facit notulam talem primo facit corpus obliquum et postea facit de sursum exilem tractum trahando deorsum</p>
+      <p id="ANO3COMP_MPBN15120037">[F,F,F,F,F,F on staff4]</p>
+      <p id="ANO3COMP_MPBN15120038">et sic patet quod minima preponitur et quod habet quando minor numerus preponatur maiori Unde si talem dragmam sequitur pausula non ualebit nisi solam minimam ut hic</p>
+      <p id="ANO3COMP_MPBN15120039">[F,F,BP,F,F,BP,F,F on staff4]</p>
+      <p id="ANO3COMP_MPBN15120040">Item in breui uidimus quod quando sola breuis [[longa]] ligatur cum duplici lon[[l]]ga illa duplex longa non ualet nisi quinque tempora ut hic patet</p>
+      <p id="ANO3COMP_MPBN15120041">[Lig2aMXcddx,Lig2cdsndMX,Lig2aMXcddx,Lig2cdsndMX on staff4]</p>
+      <p id="ANO3COMP_MPBN15120042">Item sic est in proposito quod quando sola breuis liga cum simplici longa ualente duo tempora perfecta partita in .vi. semibreues equales illa longa predicta non [[ualet]] ualebit nisi quinque semibreues ut patet hic</p>
+      <p id="ANO3COMP_MPBN15120043">[L,S,pt,S,L,pt,L,S,pt,S,L on staff4]</p>
+      <p id="ANO3COMP_MPBN15120044">Et sic est in [[proposito]] imperfecto modo quando sola minima ligatur cum breui ualente sex minimas illa breuis non ualet nisi quinque minimas ut patet</p>
+      <p id="ANO3COMP_MPBN15120045">[B,M,pt,M,B,B,M,pt,M,B on staff4]</p>
+      <p id="ANO3COMP_MPBN15120046">Tandem de pronunciacione minimarum et semibreuium dicendum est Unde notandum est quod due semibreues ponuntur pro uno tempore in modo perfecto. secunda debet esse maior et sic ualebit sex minimas ut hic</p>
+      <p id="ANO3COMP_MPBN15120047">[S,S,pt,S,S,pt,S,S,pt,S,S,pt,S,S on staff4]</p>
+      <p id="ANO3COMP_MPBN15120048">Nisi prima signetur quia tunc est equiuoca ut dictum est supra et ualet sex minimas ut hic</p>
+      <p id="ANO3COMP_MPBN15120049">[Scd,S,pt,Scd,S,pt,Scd,S,pt,Scd,S,pt on staff4]</p>
+      <p id="ANO3COMP_MPBN15120050">Quando autem ponuntur tres omnes sunt equales ut hic</p>
+      <p id="ANO3COMP_MPBN15120051">[S,S,S,pt,S,S,S,pt,S,S,S,pt,S,S,S,pt,S,S,S,pt on staff4]</p>
+      <p id="ANO3COMP_MPBN15120052">Nisi prima signetur a parte inferiori et tunc prima illa ualet quinque minimas ut hic [uerte in marg.]</p>
+      <p id="ANO3COMP_MPBN15120053">
+      <pb n="[f.128v]" />[Scd,M,S,pt,Scd,M,S,pt on staff4]</p>
+      <p id="ANO3COMP_MPBN15120054">Et secunda solam minimam tercia tres minimas</p>
+      <p id="ANO3COMP_MPBN15120055">Quando quinque ponuntur prime quatuor ualant sex minimas et ultima tres ut hic patet</p>
+      <p id="ANO3COMP_MPBN15120056">[S,M,S,M,Scd,2LP,S,M,S,S,2LP,S,M,S,M,S,M on staff4]</p>
+      <p id="ANO3COMP_MPBN15120057">Nisi media illarum signetur ut hic apparet Exemplum</p>
+      <p id="ANO3COMP_MPBN15120058">[M,M,M,Scd,M,L,L,M,M,M,Scd,M,L,L on staff4]</p>
+      <p id="ANO3COMP_MPBN15120059">Quando sex ponuntur quelibet due ualent tres minimas ita quod prima ualeat duas minimas secunda solam minimam ut hic patet</p>
+      <p id="ANO3COMP_MPBN15120060">[S,M,S,M,S,M,pt,S,M,S,M,S,M on staff4]</p>
+      <p id="ANO3COMP_MPBN15120061">Quando .vii. ponuntur prime tres sunt minime et due medie ualent tres minimas et alie due tres minimas ut patet hic exemplum</p>
+      <p id="ANO3COMP_MPBN15120062">[M,M,M,S,M,S,M on staff4]</p>
+      <p id="ANO3COMP_MPBN15120063">Nisi prima signetur et tunc sex medie erunt minime</p>
+      <p id="ANO3COMP_MPBN15120064">[Scd,M,M,M,M,M,M,pt,Scd,M,M,M,M,M,M on staff4]</p>
+      <p id="ANO3COMP_MPBN15120065">Quando octo ponuntur sex prime sunt minime septima ualet duas minimas Et octaua ualet solam minimam ut patet</p>
+      <p id="ANO3COMP_MPBN15120066">[M,M,M,M,M,M,S,M on staff4]</p>
+      <p id="ANO3COMP_MPBN15120067">Nisi aliqua illarum signetur a parte inferiori quia tunc illa signata ualebit duas minimas et omnes alie erunt minime</p>
+      <p id="ANO3COMP_MPBN15120068">[M,M,M,Scd,M,M,M,M on staff4]</p>
+      <p id="ANO3COMP_MPBN15120069">Quando autem nouem omnes sunt minime</p>
+      <p id="ANO3COMP_MPBN15120070">[M,M,M,M,M,M,M,M,M on staff4]</p>
+      <p id="ANO3COMP_MPBN15120071">Quando Et est notandum quod plures quam nouem non possunt ingredi unum tempus nisi ibi esset aliqua semiminima et tunc difficile pronunciari possent ut patet hic</p>
+      <p id="ANO3COMP_MPBN15120072">[M,M,M,M,M,M,SM,M,M,M,L,M,M,M,M,M,M,SM,M,M,M,L on staff4]</p>
+      <p id="ANO3COMP_MPBN15120073">Ad designandum tempus perfectum ponitur circulus rotundus quia circulus rotundus est figura perfecta ut hic patet</p>
+      <p id="ANO3COMP_MPBN15120074">[O,S,S,S,S,S,S,Lig4cssnaoda on staff4]</p>
+      <p id="ANO3COMP_MPBN15120075">Unde uidendum est quod quando talis circulus reperitur signum est quod tempus semper est perfectum nisi id est quod partitur in tres semibreues equales quod aut sit perfectum probatur sic Illud est perfectum quod habet principium medium et finem ergo est sed tempus perfectum cum partitur in tres semibreues equales uidetur habere quodam modo principium medium Et finem ergo est perfectum Et e conuerso tempus imperfectum quodam aliquo istorum caret Unde tempus imperfectum est quando non diuiditur nisi in duas semibreues tantum et sic caret una illarum Unde ad designandum eius imperfectionem ponitur semicirculus ut hic</p>
+      <p id="ANO3COMP_MPBN15120076">[CL,S,S,B,Lig2cssna,Lig2cssnod,L on staff4]</p>
+      <p id="ANO3COMP_MPBN15120077">Rubee notule ponuntur duabus de causis in motetis uel quia canuntur alterius mensure quam nigre uel quia dicuntur in octaua loci ubi superposita sunt Sex minime possunt ingredi tempus imperfectum Et est notandum quod quando due ponuntur ambe sunt equales semibreues quia quelibet ualet tres minimas ut patet hic</p>
+      <p id="ANO3COMP_MPBN15120078">[S,S,Lig2cssnoa,Lig2cssnod,Lig3cssndod on staff4]</p>
+      <p id="ANO3COMP_MPBN15120079">Nisi prima signetur et ualet quinque minimas ut patet hic</p>
+      <p id="ANO3COMP_MPBN15120080">[Scd,S,M on staff4]</p>
+      <p id="ANO3COMP_MPBN15120081">Vel nisi ultima signetur ut hic</p>
+      <p id="ANO3COMP_MPBN15120082">[M,F on staff4]</p>
+      <p id="ANO3COMP_MPBN15120083">Et sic patet quod notula equiuoca legi non potest prius in tempore imperfecto ualet tres minimas secunda duas tercia autem solam minimam ut hic</p>
+      <p id="ANO3COMP_MPBN15120084">[M,F,Scd on staff4]</p>
+      <p id="ANO3COMP_MPBN15120085">Nisi prima signetur ut patet hic</p>
+      <p id="ANO3COMP_MPBN15120086">[Scd,S,M,2LP,Scd,S,M on staff4]</p>
+      <p id="ANO3COMP_MPBN15120087">Quando tres [staff4] 
+      <pb n="[f.129r]" />ponuntur prima ualet tres minimas ut patet hic</p>
+      <p id="ANO3COMP_MPBN15120088">[Scd,S,M,Scd,S,M on staff4]</p>
+      <p id="ANO3COMP_MPBN15120089">Quando quatuor ponuntur prime due ualent tres minimas tercia duas quarta [quatuor ante corr.] uero solam minimam ut hic</p>
+      <p id="ANO3COMP_MPBN15120090">[S,M,S,M,3LP,S,M,S,M,S,M,S,M on staff4]</p>
+      <p id="ANO3COMP_MPBN15120091">Nisi prima uel ultima signetur a parte inferiori Et tunc illa signata ualet tres minimas et alie tres erunt minime ut hic patet</p>
+      <p id="ANO3COMP_MPBN15120092">[Scd,M,M,M,pt,M,M,M,Scd,pt,Scd,M,M,M on staff4]</p>
+      <p id="ANO3COMP_MPBN15120093">Quando quinque ponuntur prime tres sunt minime Quarta ualet duas minimas quinta solam minimam ut</p>
+      <p id="ANO3COMP_MPBN15120094">[M,M,M,S,M,M,M,M,S,M,L on staff4]</p>
+      <p id="ANO3COMP_MPBN15120095">Nisi prima signetur quia tunc ualebit duas minimas Et omnes alie erunt minime ut patet hic</p>
+      <p id="ANO3COMP_MPBN15120096">[Scd,M,M,M,M,Scd,M,M,M,M on staff4]</p>
+      <p id="ANO3COMP_MPBN15120097">Quando sex ponuntur omnes sunt minime ut hic apparet exemplum</p>
+      <p id="ANO3COMP_MPBN15120098">[M,M,M,M,M,M,3LP,M,M,M,M,M,M,L on staff4]</p>
+      <p id="ANO3COMP_MPBN15120099">Et notandum est quod plures minime quam sex non possunt ingredi unum tempus imperfectum bono modo Et si plures fuerint oportet quod sint semiminime tunc erit difficile pronunciari posset ut hic</p>
+      <p id="ANO3COMP_MPBN15120100">[SM,SM,SM,SM,SM,SM,SM,SM,SM,SM,SM,SM,MX on staff4]</p>
+      <p id="ANO3COMP_MPBN15120101">Explicit ars</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Circa modum discantandi</title>
+        <title type="abbrev">ANOCMDG</title>
+        <author>Anonymous</author>
+        <date notBefore="1300" notAfter="1399">14th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Peter M. Lefferts</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Peter Slemon</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>2001</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Thrasybulos Georgiades, 
+<emph>Englische Diskanttraktate aus der ersten Hälfte des 15. Jahrhunderts: Untersuchungen zur Entwicklung der Mehrstimmigkeit im Mittelalter</emph>, Schriftenreihe des Musikwissenschaftlichen Seminars der Universität München, Band 3. (Selbstverlag und Auslieferung: Musikwissenschaftliches Seminar der Universität München, 1937), 28–30.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: Tractatus de contrapuncto</title>
+          
+<idno type="LML">CONTR. Circa modum</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">GB-Lbl Add. 21455, 9v-10</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANOCMDG0001">
+      <pb n="[28]" />[f. 9' in marg.] Circa modum discantandi. Primo attendendum est quot sunt concordancie et que. Et sunt iste: tercia nota a plano cantu, que dicitur ditonus; quinta a plano, que diapente vocatur; sexta a plano, que diapente cum tono vel cum semitono dicitur et octaua a plano, que diapason. Non sunt plures concordancie nec alie preter istas duplicatas, triplicatas, vel quadruplicatas et cetera ut patet tam in vocibus quam in aliis instrumentis vel in cordulis lire vel organis. Harum quattor concordanciarum due sunt perfecte et due inperfecte. Perfecte sunt diapente et diapason; inperfecte sunt ditonus et diapente cum tono vel semitono. Toni sunt isti: scilicet vt re, re ut, re mi, mi re, fa sol, sol fa, sol la, la sol. Semitonia sunt mi fa, fa mi in quocunque loco gammatis. Sequitur de regula observandi modum in discantu . . . . . . . . . 
+      <pb n="[29]" />quando planus cantus ascendit, discantus debet descendere et e converso. Quare autem continuatur planus cantus in eodem lineali vel spaciali, tunc discantus debet ascendere vel descendere ad libitum, seruando concordancias antedictas, nec debet discantus continuare notulas in eodem lineari vel spaciali in quacunque concordancia, dum planus cantus hoc facit. Tamen in inperfectis concordanciis, nonobstante predicta regula, potest discantus ascendere vel descendere cum plano per tres aut maximum per IIII notas ante perfectam concordanciam, ut patebit in exemplo inferius posito. Iam vide de ordine discantandi: Qui medium discantas, serua modum predictum ascendendi et descendendi in istis scilicet concordanciis tercia et quinta, et potes ascendere aliquando ad sextam, diapason et aliquando descendere ad planum. Idem modus seruetur pro puero discantante quadruplicem, quia cum vox pueri videtur esse cum voce viri in unisono, aut a viri voce in diapason. Qui vero triplicem discantas, serua has concordancias, scilicet octauam, decimam, duodecimam, terciadecimam, quintamdecimam; et hec sunt supra diapason; item sub diapason et eodem modo faciat puer. Set quia facile non est huius concordan(c)ias, sic a plano tam visu quam voce remotas, in multum a plano remotis (l)inearibus et spacialibus, intueri, quoddam fictum visum concordanciarum, in quo . . scilicet concordancie possunt conprehendi et satis discrete discantari hic poteris tam viris quam pueris reperire et infra quattor linearia planus cantus satis aperte videre vales hoc modo: Pone visum supra planum in diatessaron, siue quarta nota, et vocem in diapason; vel ponas visum cum plano et vocem in diapente. Et tunc discanta per has concordancias scilicet per quartam et secundam supra planum, cum plano, terciam et quintam sub plano, ut patet in exemplo sequenti. Exemplum de discantando medium siue quadruplicem ut hic:</p>
+      <p id="ANOCMDG0002">[Georgiades, Diskanttraktate, 29,1] 
+      <figure>
+        <graphic url="/images/ANOCMDG_01GF.gif" />
+      </figure></p>
+      <p id="ANOCMDG0003">Sequitur exemplum triplicis et quadruplicis secundum verum visum et nimis a plano remotum vt patet hic . . . . . . visus quamvis in se sit verus, tum propter (mel)iorem eius visum, ut patet hic supra, inducit de facili simplicibus /[f. 10 in marg.] cantoribus falsitatem:</p>
+      <p id="ANOCMDG0004">[Georgiades, Diskanttraktate, 29,2]</p>
+      <p id="ANOCMDG0005">Quapropter illum fictum visum accipe, qui, et si in se verus non fuerit, cum tenentibus, tum propter eius viciniorem et conpendiosiorem visum, prebet discantantibus de facili veritatem ut patet hic:</p>
+      <p id="ANOCMDG0006">
+      <pb n="[30]" />[Georgiades, Diskanttraktate, 30,1]</p>
+      <p id="ANOCMDG0007">Ad huc notandum quod discantus potest satis congrue ascendere vel descendere cum plano cantu, in quibuscunquis concordanciis perfectis et inperfectis, dum tum magis aut minus ascendit vel descendit quam planus cantus. Ut si planus cantus ascendat ad quartam vel ad quintam notam, discantus potest ascendere ad secundam vel terciam notam, et sic in descendendo. Item si planus cantus ascendat ad secundam vel terciam notam, discantus potest ascendere ad quartam vel quintam notam et sic fit descendendo et semper discurrat discantus per concordancias. Exemplum:</p>
+      <p id="ANOCMDG0008">[Georgiades, Diskanttraktate, 30,2]</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Micrologus</title>
+        <title type="abbrev">GUIMICB_MBBR2784</title>
+        <author>Guido d'Arezzo</author>
+        <date notBefore="800" notAfter="1099">9th-11th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>T</resp>
+        <persName>Julie Langford-Johnson</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Michael W. Lundell</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1996</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Brussels, Bibliothèque royale de Belgique / Koninklijke Bibliotheek van België, MS II.784, ff. 1r–20v.
+</bibl>
+        <bibl type="work">
+          
+<title>Guido Aretinus: Micrologus</title>
+          
+<idno type="LML">GUIDO micr.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">A-R Cod. 21, 60v, 155v-167 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">A-Wn Cod. 51, 36-41v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">A-Wn Cod. 787, 63-70</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">A-Wn Cod. 2502, 19v-24, 26r-v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">A-Wn Cod. 2503, 1-17</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">A-Wn Cod. 4774, 22v-23v, 30v-32 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-ARa without shelfmark, (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Br 10159, 1-62</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Br 10162/6, 13r-20v (25-32v)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Br II 784, 1-20</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Br II 4141, 39v-54</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-BRs 528, 54v-55v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Gu 70 (71), 50r-v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">CH-BEb A 91.21, 1-5v (Fragments)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">CH-CObodmer 18845 (Ms. 77), 1-27v, 81r-v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-B Ms. lat. oct. 265, 8r-v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-BAs Class. 28, 32r-v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-DS 1988, 71-87v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-EF 8° 93, 48-57v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-EF 8° 94, 39-51v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Gs Ms. Philos. 83, 1v-16</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Gs Ms. Philos. 84, 2-13v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-KA K 504, 21r-v, 59-69</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Kl 4° Ms. Math. 1, 1v-9, 20</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-LEu 431, 140-143v (Fragments)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 5539, 120v-142v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 9921, 14-16v, 17r-v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 13021, 150v-157v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 14523, 118-125v, 128r-v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 14663, 1-11</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 14965a, 9-18v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 19421, 29v-32v, 40-56v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 30057, 5-27</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mu 8° 375, 43-53</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-MZs Hs. II 375, 1-4 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-PO 2915, 2-14v, 22v-30v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-TRb Hs. Abt. 95, 6, 100r-v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-W 4. 11. Aug. 4°, 89-96</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-W 334 Gud. Lat. 8°, 5-33, 61v-62v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-W 1050 Helmst., 15v-16 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">E-Mn 91, 114r-v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-AL 2, 119 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-AL 15, 139v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-AUT 46 (olim 40 B), 65, 65v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-CA 172, 17va (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-MOf H 384, 121r-v, 121v-122 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 2627, 84 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 7211, 73-89</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 7461, 1-4, 13-16, 5-7</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 10508, 136-143</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 10509, 62r-v, 73-92v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 16664, 36-39v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ctc O.9.29, 57-67</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ctc R.15.22, 102-117</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-DRdc B.II.11, 108ra (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-DRdc Hunter Octavo 100, 41v, 42 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Lbl Add. 10335, 1-10v (Fragments)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Lbl Add. 17808, 1v-11v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Lbl Add. 21455, 8v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Lbl Arundel 43, 66v-67 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Lbl Arundel 339, 98-104</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Lbl Harley 281, 5-16v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Lbl Harley 3199, 79-88v, 91v-94v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ob Bodley 613, 35v-38 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Obac 173A, 82-91v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ojc 150, 1-10</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ojc 188, 57-71v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-BGc MAB 21, 19 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fl Ashburnham 1051, 50-57v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fl Plut. XXIX. 48, 21-30, 51</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fn Conv. Soppr. F. III. 565, 6-23, 32r-v, 76, 92v-93, 94v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fn Magliab. XIX. 36, 92-98v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fr 652, 5-25v, 103v, 105v, 33r-v, 83</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Ma D. 5 inf., 1-11v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Ma D. 455 inf., 1-14v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Ma M. 17 sup., 1v-14v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-MC 318, 1-2, 156-184</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-PESo 1336, 67v-68, 69r-v, 70r-v, 71-72 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-PS 100, 2v-25</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rli 2067, 20-21</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rv B 81, 86, 86rv, 94v-115b</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat Reg. lat. 1616, 1-11</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-VEcap 236, 1-13v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">NL-Lu B.P.L. 194, 1-22v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">NL-Uu 406, 228v-229 (Fragments)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">NZ-Wt MSR-05, 82-93</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">RUS-SPan Q.212, 146v-147 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">SI-Lng without shelfmark, (Fragments)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">US-MAL Ms. Ludwig XII 5, 40v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">US-R Ms. 92 1200, 42-59v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">US-Wc ML 171 G 85 Case, 1v (excerpt) (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">US-Wc ML 171 J 6 Case, 138-155</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="GUIMICB_MBBR27840001">
+      <pb n="[f.1r]" />In nomine summae et indiuidue trinitatis incipit Micrologus id est breuis sermo Guidonis abatis in musica.</p>
+      <p id="GUIMICB_MBBR27840002">Gymnasio musas placuit reuocare solutas.</p>
+      <p id="GUIMICB_MBBR27840003">Vt pateant paruis habitae uix hactenus altis.</p>
+      <p id="GUIMICB_MBBR27840004">Inuidiae telum perimat dilectio caecum.</p>
+      <p id="GUIMICB_MBBR27840005">Dira quidem pestis tulit omnia commoda terris.</p>
+      <p id="GUIMICB_MBBR27840006">Ordine me scripsi primo qui carmina finxi.</p>
+      <p id="GUIMICB_MBBR27840007">Incipit epistola Guidonis ad Teodaldum Episcopum.</p>
+      <p id="GUIMICB_MBBR27840008">DIVINI TIMORIS TOTIVSQVE PRVDENTIAE FVlgore clarissimo patri. et reuerentissimo domino Teodalto. sacerdotum ac presulum dignissimo. Guido suorum monachorum utinam minimus. quicquid seruus et filius. Dum solitariae uitae saltem modicam exequi cupio quantitatem. uestrae benignitatis dignatio ad sacri uerbi studium meam sibi sociari uoluit paruitatem: non quod uestrae desint excellentiae multi et maximi spirituales uiri. et uirtutum effectibus abuntadantissime roborati. et sapientiae studiis plenissime adornati. qui et commissam plebem una uobiscum competenter erudiant. et diuinae contemplationi assidue et feruenter inhereant: sed ut meae paruitatis et mentis et corporis imbecillitas. uestrae pietatis et paternitatis fulciatur 
+      <pb n="[f.1v]" />munita presidio: ut si quid mihi diuinitus utilitatis accesserit. uestro deus imputet merito. Qua de re cum de aecclesiasticis utilitatibus ageretur. exercitium musicae artis pro quo fauente deo non incassum me desudasse memini uestra iussit auctoritas proferri in publicum ut sicut aecclesiam beatissimi donati episcopi et martiris. cui Deo auctore iure uicario presidetis mirabili nimium scemate peregistis. ita eiusdem ministros aecclesiae honestissimo decentissimoque quodam priuilegio cunctis pene per orbem clericis spectabiles redderetis. Et reuera satis habet miraculi et optionis. cum uestrae aecclesiae etiam pueri. in modulandi studio perfectos aliorum usquequaque locorum superent senes. uestrique honoris ac meriti perplurimum cumulabitur celsitudo. cum post priores patres tanta ac talis aecclesiae per uos studiorum prouenerit claritudo. Itaque quia uestro tam commodo precepto nec uolui contra ire nec ualui. offero sollertissime uestrae paternitati musicae artis regulas. quanto lucidius et breuius potui explicatas. philosophorum neque eadem uia ad plenum. neque eisdem insistendo uestigiis. id solum procurans. quod aecclesiasticae oportunitati nostrisque subueniat paruulis. Ideo enim hoc. studium hactenus latuit occultatum. 
+      <pb n="[f.2r]" />quia cum reuera esset arduum. non est a quolibet humiliter explanatum. Quod quia occasione olim aggressus sim. quaue utilitate et intentione. perpaucis absoluam.</p>
+      <p id="GUIMICB_MBBR27840009">Excipit epistola. Incipit Prologus.</p>
+      <p id="GUIMICB_MBBR27840010">CVM me et naturalis conditio. et bonorum imitatio communis utilitatis diligentem faceret. cepi inter alia studia musicam pueris tradere. Tandem affuit diuina gratia. et quidam eorum imitatione cordae. et nostrarum notarum usu exercitati. ante unius mensis spatium inuisos et inauditos cantus ita primo intuitu indubitanter cantabant. ut maximum plurimis spectaculum preberetur. Quod tamen qui non potest facere. nescio qua fronte se musicum uel cantorem audeat dicere. Maxime itaque dolui de nostris cantoribus qui et si centum annis in canendi studio perseuerent. numquam tamen uel minimam antiphonam per se ualent efferre. semper discentes ut ait Apostolus. et numquam ad scientiam ueritatis peruenientes. Cupiens itaque tam utile nostrum studium in communem utilitatem expendere. de multis musicis argumentis. quae auctore deo per uaria tempora conquisiui quaedam quae cantoribus proficere credidi. quanta potui breuitate perstrinxi. Quae enim de musica ad canendum minus prosunt. aut si qua ex his quae [que ante corr.] dicuntur minus ualent intelligi. 
+      <pb n="[f.2v]" />nec memoratu digna iudicaui. non curans de his si quorundam liuescat inuidia. dum quorundam proficiat disciplina.</p>
+      <p id="GUIMICB_MBBR27840011">Explicit prologus Incipiunt capitula</p>
+      <p id="GUIMICB_MBBR27840012">[I add. in marg.] QVid faciat qui se ad disciplinam musicae parat.</p>
+      <p id="GUIMICB_MBBR27840013">Quae uel quales sint notae. uel quot. II</p>
+      <p id="GUIMICB_MBBR27840014">De dispositione earum in monocordo. III</p>
+      <p id="GUIMICB_MBBR27840015">Quibus sex modis sibi inuicem uoces iungantur. IIII</p>
+      <p id="GUIMICB_MBBR27840016">De diapason. et cur .VII. tantum sint notae. V</p>
+      <p id="GUIMICB_MBBR27840017">Item de diuisionibus. et interpretatione earum. VI</p>
+      <p id="GUIMICB_MBBR27840018">De affinitate uocum per quattuor modos. VII</p>
+      <p id="GUIMICB_MBBR27840019">De aliis affinitatibus. et [sqb]. et .b. VIII</p>
+      <p id="GUIMICB_MBBR27840020">Item de similitudine uocum quarum diapason sola perfecta est. VIIII</p>
+      <p id="GUIMICB_MBBR27840021">Item de modis. et falsi meli agnitione et correctione. X</p>
+      <p id="GUIMICB_MBBR27840022">Quae uox. et quare in cantu obtineat principatum. XI</p>
+      <p id="GUIMICB_MBBR27840023">De diuisione quattuor modorum in octo. XII</p>
+      <p id="GUIMICB_MBBR27840024">De octo modorum agnitione ex acumine et grauitate. XIII</p>
+      <p id="GUIMICB_MBBR27840025">Item de tropis. et iure musicae. XIIII</p>
+      <p id="GUIMICB_MBBR27840026">De commoda uel componenda mudulatione. XV</p>
+      <p id="GUIMICB_MBBR27840027">De multiplici uarietate sonorum et neumarum. XVI</p>
+      <p id="GUIMICB_MBBR27840028">Quod ad cantum redigitur omne quod dicitur. XVII</p>
+      <p id="GUIMICB_MBBR27840029">De diaphonia id est organi precepta. XVIII</p>
+      <p id="GUIMICB_MBBR27840030">Dictae diaphoniae per exempla probatio. XIX</p>
+      <p id="GUIMICB_MBBR27840031">Quomodo musica ex malleorum sonitu sonitu sit inuenta. XX</p>
+      <p id="GUIMICB_MBBR27840032">
+      <pb n="[f.3r]" />Sonus est percussio aeris indissoluta usque ad auditum. Consonantia est. dissimilium inter se uocum in unum redacta concordia. Tropi sunt constitutiones in notis uocum ordinibus uel grauitate uel acumine differentes. Constitutio est plenum ueluti modulationis corpus ex consonantiarum coniunctione consistens. quale est uel diapason et diatessaron. uel bis diapason. Armonia est facultas differentias acutorum et grauium sonorum ac ratione perpendens. Consonae uoces sunt quae copulatae mixtos suauesque efficiunt sonos. Dissonae uero. quae minime. Musicus est. qui ratione perpensa canendi scientiam non seruitio corporis sed imperio speculationis assumit.</p>
+      <p id="GUIMICB_MBBR27840033">Quid faciat qui se ad disciplinam musicae parat.</p>
+      <p id="GUIMICB_MBBR27840034">Igitur qui nostram disciplinam petit. aliquantos cantus nostris notis descriptos addiscat. in monocordi usu manum exerceat. nostrasque regulas sepe meditetur. donec ui et natura uocum cognita. ignotos ut notos cantus suauiter canat. Sed quia uoces quae huius artis prima sunt fundamenta. in monocordo melius intuemur. quomodo eas ibidem ars naturam imitata discreuit 
+      <pb n="[f.3v]" />primitus uideamus.</p>
+      <p id="GUIMICB_MBBR27840035">[II. in marg.] Quae uel quales sint notae uel quot.</p>
+      <p id="GUIMICB_MBBR27840036">Notae autem in monocordo hae sunt. In primis ponitur .[Gamma]. grecum. a modernis adiunctum. Secuntur septem alfabeti litterae graues: ideoque maioribus litteris insignitae. hoc modo. A B C D E F G. Post has eedem septem litterae acute repetuntur. sed minoribus litteris describuntur. In quibus tamen inter a et [sqb] aliam b ponimus. quam rotundam facimus. Alteram uero quadrauimus ita. a b [sqb] c d e f g. Addimus eisdem litteris. sed uariis figuris tetracordum super acutarum. in quo bb [sqb][sqb] similiter duplicamus ita. aa bb [sqb][sqb] cc dd. Hae a multis superfluae dicuntur. Nos autem maluimus abundare. quam deficere. Fiunt itaque simul omnes uiginti unus hoc modo. [Gamma].A.B.C.D.E.F.G.a.b.[sqb].c.d.e.f.g.aa.bb.[sqb][sqb].cc.dd. Quarum dispositio a doctoribus aut tacita aut nimia obscuritate perplexa. adest etiam pueris breuiter ac plenissime explicita.</p>
+      <p id="GUIMICB_MBBR27840037">[III. in marg.] De dispositione earum in monocordo.</p>
+      <p id="GUIMICB_MBBR27840038">Gamma itaque in primis affixa. ab ea usque ad finem subiectum cordae spatium per nouem partire. et in termino primae nonae partis. A litteram pone. in qua omnes antiqui fecere principium. Item 
+      <pb n="[f.4r]" />ab .A. ad finem nona parte collecta. eodem modo .B. litteram iunge. Post haec ad gamma reuertens. usque ad finem metire per quattuor. et in primae partis termino inuenies .C. Eademque diuisione per quattuor sicut cum .[Gamma]. inuentum est .C: simili modo per ordinem cum .A. inuenies D: cum .B. inuenies .E: et cum .C. inuenies F: et cum .D. inuenies .G: et cum .e.a: et cum .F. b. rotundam. Quae secuntur similium et earundem. omnes per ordinem medietate facile colliguntur. ut puta a.B. ad finem in medio spatio pone aliam .[sqb]: similiterque .C. signabit aliam .c: et .D. signabit aliam d: et E. aliam .e: et .F. aliam .f: et .G. aliam .g. et reliquae eodem modo. Posses in infinitum ita progredi sursum uel deorsum. nisi artis preceptum sua te auctoritate compesceret. De multiplicibus diuersisque monocordi diuisionibus unam apposui. ut cum de multis ad unam intenderetur. sine scrupulo caperetur. Presertim cum sit tantae utilitatis. ut et facile intelligatur. et intellecta uix obliuiscatur. Alio modo.</p>
+      <p id="GUIMICB_MBBR27840039">Alius uero diuidendi modus sequitur. qui et si memoriae minus adiungitur. eo tamen monocordum uelociori celeritate componitur. hoc modo. Cum primum a .[Gamma] ad finem nouem passus idest particulas 
+      <pb n="[f.4v]" />facis. primus passus terminabit in A. secundus uacat. Tertius in D. Quartus uacat. Quintus in a. Sextus in d. Septimus in a. Reliqui uacant. Item cum ab A ad finem nouenis partiris. primus passus terminabit in B. Secundus uacat. Tertius in E. Quartus uacat. Quintus in [sqb]. Sextus in e. Septimus in B. reliqui uacant. Item cum a gamma ad finem quaternis diuidis. primus passus terminabit in C. Secundus in G. Tertius in g. Quartus finit. A C uero ad finem similiter quattuor passuum. primus terminabit in f. Secundus in c. Tertius in cc. Quartus finit. Ab f uero quaternorum passuum. primus terminabit in .b. rotundam. Secundus in f. Restat bb rotunda in super acutis. et dd ultima super acutarum. quae similium medietate colliguntur. Item cum a G ad finem ternis diuidis. secundus passus terminabit in dd. et de dispositionibus uocum hi duo regularum modi sufficiant. Quorum superior quidem modus ad memorandum facillimus. hic uero extat ad faciendum celerrimus. In sequentibus uero omnes diuisionum modi in breui patebunt.</p>
+      <p id="GUIMICB_MBBR27840040">[.IIII. in marg.] Quibus .VI. modis sibi inuicem uoces iungant</p>
+      <p id="GUIMICB_MBBR27840041">Dispositis itaque uocibus. inter uocem et uocem. alias maius spatium cernitur. ut inter .[Gamma]. et .A. et 
+      <pb n="[f.5r]" />inter A et B. Alias minus. ut inter B et C et reliqua. Et maius quidem spatium tonus dicitur. minus uero semitonium. Semis uidelicet. id est non plenus tonus. Item inter aliquam uocem et tertiam a se. tum ditonus est. id est duo toni. ut a C ad E. Tum semiditonus qui habet tantum tonum et semitonium. ut a D in F. et reliqua. Diatessaron autem est. cum inter duas uoces quocumque modo duo sint toni. et unum semitonium. ut ab A. ad D. et a B in E. et reliqua. Diapente uero uno tono maior est. cum inter quaslibet uoces tres sunt tioni. et unum semitonium. ut ab A in D. et a B. in C. et reliqua. Habes itaque sex uocum consonantias. id est tonum. semitonium. ditonum. semiditonum. diatessaron. et diapente. In nullo enim cantu aliis modis uox uoci coniungitur. uel intendendo. uel remitendo. His etiam adiungitur septima diapason. quae quia raro inuenitur. minus inter alias annumeratur. Cuius quidem originem quae et qualis sit. studiosus perserutator in sequentibus reperiet. Est et diesis id est uocum certa subductio. quae quia nunquam admittitur. nisi cum quarta aut septima in quinta. atque prima producitur. Ideoque omnino omisimus de ea loqui. 
+      <pb n="[f.5v]" />Cumque tam paucis clausulis tota armonia formetur. utilissimum est alte eas memoriae commendare: et donec plene in canendo sentiantur et cognoscantur ab exercitio numquam cessare. ut his uelut clauibus habitis canendi possis peritiam sagaciter ideoque facilius possidere.</p>
+      <p id="GUIMICB_MBBR27840042">[.V. in marg.] De diapason. et cur septem tantum sint notae.</p>
+      <p id="GUIMICB_MBBR27840043">Diapason autem est in qua diatessaron et diapente iunguntur. Cum enim ab A in D sit diatessaron. et ab eadem .D. in .a. acutum [acutam corr. supra lin.] sit diapente. ab .A. in alteram .a. diapason existit. Cuius ius est eandem litteram in utroque habere latere. ut a B in [sqb]. et a [Gamma]. in c et a D in d. et reliqua. Sicut enim utraque uox eadem littera notatur. ita per omnia eiusdem qualitatis perfectissimaeque similitudinis utraque habetur et creditur. Nam sicut finitis septem diebus. eosdem repetimus. ut semper primum et octauum eundem dicamus: ita primas et octauas semper uoces easdem figuramus et dicimus. quia naturali eos [eas corr. supra lin.] concordia consonare. ut D. et d. Vtraque enim tono et semitonio et duobus tonis remittitur. et item tono et semitonio et duobus tonis intenditur. Vnde et in canendo duo aut tres aut plures cantores pro ut possibile fuerit. si per hanc speciem differentibus uocibus eandem quamlibet antiphonam incipiant 
+      <pb n="[f.6r]" />et decantent. miraberis te easdem uoces diuersis locis. sed minime diuersas habere. eundemque cantum grauem et acutum et super acutum. tam unice resonare hoc modo.</p>
+      <p id="GUIMICB_MBBR27840044">[Brussels, Bibliothèque Royale, II 784, f.6r; text: aa, [sqb][sqb], cc, a, [sqb], c, g, A, B, C, [Gamma], G, Summi regis archangele Michael.] 
+      <figure>
+        <graphic url="/images/GUIMICB_01GF.gif" />
+      </figure></p>
+      <p id="GUIMICB_MBBR27840045">Item et si eandem antiphonam partim grauibus sonis. partim acutis cantaueris. aut quantum libet per hanc speciem uariaueris. eadem uocum unitas apparebit. Vnde uerissime poeta dixit septem discrimina uocum. quia et si plures fiant. non est aliarum adiectio. sed earundem renouatio et repetitio. Hac nos de causa omnes sonos secundum Boetium et antiquos musicos septem litteris figurauimus. cum moderni quidam nimis incaute quattuor tantum signa posuerint. quintum et quintum uidelicet sonum eodem ubique caractere figurantes. cum indubitanter uerum sit. quod quidam soni a suis quintis omnino discordent. nullusque sonus cum suo quinto perfecte concordet. Nulla enim uox cum altera preter octauam perfecte concordat.</p>
+      <p id="GUIMICB_MBBR27840046">Vt autem de diuisione monocordi in paucis multa perstringam. semper diapason duobus ad finem passibus currit. Diapente tribus. diatessaron. quattuor. 
+      <pb n="[f.6v]" />Tonus uero nouem. Que quanto passibus numerosiores. tanto sunt spatio breuiores. Alias uero diuisiones preter has quattuor inuenire non poteris. Diapason autem interpretatur de omnibus. siue quod omnes habeat uoces. siue quia antiquitus citharae octo per eam fiebant cordis. In hac specie grauior uox duo habet spatia acuta unum ut A. et a. Diapente dicitur de quinque Sunt enim in eius spatio uoces quinque. ut a D in a. Sed grauis eius uox tria habet. spatia acuta duo. Diatessaron sonat de quattuor. Nam et quattuor habet uoces. et grauior eius uox quattuor habet spatia. acuta uero tria. ut a D in G. Has tres species. simphonias id est suaues uocum copulationes memineris esse uocatas. quia in diapason diuersae uoces unum sonant. Diapente uero et diatessaron. diaphoniae. id est organi iura possident. et uoces utcumque similes reddunt. Tonus uero ab intonando id est sonando nomen accepit. qui maiori uoci nouem. minori uero octo passus constituit. Semitonium autem et ditonus. et semiditonus. et si uoces ad canendum coniungunt. diuisionem tamen nullam recipiunt.</p>
+      <p id="GUIMICB_MBBR27840047">VII. De affinitate uocum per quattuor modos.</p>
+      <p id="GUIMICB_MBBR27840048">Cum autem septem sint uoces. quia aliae ut diximus sunt eedem. septenas sufficit explicare. quae diuersorum modorum. et diuersarum sunt qualitatum. Primus modus uocum est. cum uox tono 
+      <pb n="[f.7r]" />deponitur. et tono. semitonio. duobusque tonis intenditur. ut A et D. Secundus modus est. cum uox duobus tonis remissa semitonio et duobus tonis intenditur ut B et E. Tertius est. qui semitonio et duobus tonis descendit. duobus uero tonis et semitonio ascendit. ut C et F. Quartus uero deponitur tono. surgit autem per duos tonos et semitonium. ut G et nota. quod se per ordinem sequuntur. ut primus in A. secundus in B. tertius in C. Itemque primus in D. secundus in E. tertius in F. quartus in G. Itemque nota has uocum affinitates. per diatessaron et diapente constructas; A enim ad D. et B ad G. et C ad F. a grauibus diatessaron ab acutis uero diapente coniungunt. hoc modo.</p>
+      <p id="GUIMICB_MBBR27840049">[Brussels, Bibliothèque Royale, II 784, f.7r; text: Diatessaron, Diapente, A, B, C, D. E, F, G, a. [sqb], c, I, II. III, IIII. V, VI. VII, VIII.]</p>
+      <p id="GUIMICB_MBBR27840050">Sique aliae sunt affinitates. eas quoque similiter diatessaron et diapente fecerunt. Nam cum diapason in se diatessaron et diapente habeat. et easdem litteras latere utroque contineat. semper in medio eius spatio aliqua est littera. quae ad utrumque diapason latus ita conuenit ut cui litterae a grauibus diatessaron reddit. eidem in acutis per diapente 
+      <pb n="[f.7v]" />conueniat. ut in superiori figura notatur. et cui a grauibus diapente contulit. eidem a superioribus diatessaron dabit. ut A et E et a. A enim et e in depositione concordant. quae in utraque duobus tonis et semitonio conficitur. Itemque G cum ad C. et D. per easdem species resonet. unius depositionem. alterius eleuationem sumit. Nam C et G duobus pariter tonis et semitonio surgunt. et D. et G tono semitonioque inflectuntur. Rotundum uero b quod minus est regulare. quod adiunctum uel molle dicunt. cum F habet concordiam. et ideo additum est. quia F cum quarta a se .[sqb]. tritono differente nequibat habere concordiam. Vtramque autem .b.[sqb]. in eadem neuma non iungas. In eodem uero cantu maxime b rotundo utimur. in quo .F.f. amplius terminatur grauis uel acuta. Vbi et quandam confusionem et transformationem uidetur facere .b. ut G sonet prothum .a. deuterum. cum ipsa .b. sonet tritum. Vnde eius a multis nec mentio facta est. Altera uero [sqb] in commune placuit. Quod si ipsam b rotundam uis omnino non habere. neumas in quibus ipsa est ita tempera. ut pro F.G.a. et ipsa b habeas G a [sqb] c. aut si talis est neuma quae post D.e.F. in eleuationem uult duos tonos et semitonium. quod ipsa b facit. aut post D.e.F. uelit duos tonos in depositione. pro D.e.F. assume .a.[sqb].c. quae eiusdem sunt modi. et predictas depositiones 
+      <pb n="[f.8r]" />et eleuationes regulariter habent. Huiusmodi enim eleuationes et depositiones. inter D. et e. et F. et a [sqb] c. clare discernens. confusionem maxime contrariam tollis. De similitudine uocum pauca perstrinximus. quia quantum in diuersis rebus similitudo conquiritur. tantum ipsa diuersitas per quam mens confusa diutius poterat laborare minuitur. Semper enim adunata diuisis facilius capiuntur. Omnes itaque modi distinctionesque modorum his tribus aptantur uocibus. C B E. Distinationes autem dico eas quae a plerisque differentiae uocantur. Differentia autem idcirco dicitur. eo quod discernat seu separet plagas ab autentis. ceterum abusiue dicitur. Ergo uoces omnes aliae cum his aliquam habent concordiam. seu in depositione. seu in eleuatione. Nullae uero in utroque se exibent similes cum aliis. nisi in diapason. Sed horum similitudo omnium in hac quam subicimus figura quisquis requisierit repperire poterit.</p>
+      <p id="GUIMICB_MBBR27840051">[Brussels, Bibliothèque Royale, II 784, f.8r; text: Diatessaron In eleuatione, Diapente Depositione, Diatessaron In depositione, Diapente In eleuatione, F, G, a, [sqb], C, D, E, c, d, e, Diapason]</p>
+      <p id="GUIMICB_MBBR27840052">
+      <pb n="[f.8v]" />Supradictae autem uoces prout similes sunt utpote aliae in depositione. aliae in eleuatione. aliae in utroque ita similes faciunt neumas. adeo ut unius tibi cognitio alteram pandat. In quibus uero nulla similitudo monstrata est. uel quae diuersorum modorum sunt. altera alterius neumam cantumque non recipit. Quod si conpellas recipere. transformabit. utpote si quis uellet antiphonam cuius principium esset in D. in E. uel in F. quae sunt alterius modi uoces incipere. mox auditu perciperet. quanta diuersitatis transformatio fieret. In D. uero et .a. quae unius sunt modi sepissime possumus eundem cantum incipere uel finire. Sepissime autem dixi et non semper. quia similitudo nisi in diapason perfecta non est. Vbi enim diuersa tonorum semitoniorumque positio fiat necesse est et neumarum. In predictis namque uocibus. et quae unius modi dicuntur dissimiles inueniuntur; D enim deponitur tono. A uero ditono. sic et in reliquis.</p>
+      <p id="GUIMICB_MBBR27840053">Hi sunt quattuor modi uel tropi quos abusiue tonos nominant: qui sic sunt ab inuicem naturali diuersitate disiuncti. ut alter alteri in sua sede locum non tribuat. alterque alterius neumam aut transformet. aut numquam recipiat.</p>
+      <p id="GUIMICB_MBBR27840054">Dissonantia quoque per falsitatem ita in canendo subripit. cum aut de bene dimensis 
+      <pb n="[f.9r]" />uocibus parum quid demunt grauantes. uel aditiunt intendentes. quod prauae uoces hominum faciunt: aut cum ad predictam rationem plus iusto intendentes uel remittentes neumam cuiuslibet modi. aut in alium modum peruertimus. aut in loco qui uocem non recipit inchoamus. Quod ut exemplo pateat. in communione. diffusa est gratia. multi propterea quod incipiendum erat in F. uno tono deponunt. cum ante F. non sit tonus. Sicque fit. ut finis eiusdem communionis ibidem ueniat. ubi nulla uox est. Cantoris itaque peritiae esse debet. quo loco uel modo quamlibet neumam incipiat. ut ei uel si motione opus est affines uoces inquirat. Hos autem modos uel tropos grece nominamus.</p>
+      <p id="GUIMICB_MBBR27840055">[XI. in marg.] Quae uox. et quare in cantu obtineat principatum</p>
+      <p id="GUIMICB_MBBR27840056">CVM autem quilibet cantus omnibus uocibus et modis fiat. uox tamen quae cantum terminat obtinet principatum. Ea enim et diutius et morosius sonat. et premissae uoces quae tantum exercitatis patent. ita ad eam aptantur. ut mirum in modum quandam ab ea coloris faciem ducere uideantur. Per supra dictas nempe sex consonantias. uoci quae neumam terminat reliquae uoces concordare debent. Voci uero quae cantum terminat. principium eius cunctarumque distinctionum fines uel etiam 
+      <pb n="[f.9v]" />principia opus est adherere. Excipitur quod cum cantus in e terminatur. sepe in c quae ab ea diapente et semitonio distat principium facit. ut antiphona haec.</p>
+      <p id="GUIMICB_MBBR27840057">[Brussels, Bibliothèque Royale, II 784, f.9v; text: c, a, G, [sqb], F, E, D, d, Tertia dies est quo haec facta sunt.] 
+      <figure>
+        <graphic url="/images/GUIMICB_02GF.gif" />
+      </figure></p>
+      <p id="GUIMICB_MBBR27840058">Preterea cum aliquem cantare audimus. primam eius uocem cuius modi sit ignoramus. quia an toni semitonia. reliquaeue species sequantur nescimus. Finito uero cantu ultimae uocis modum ex preteritis aperte cognoscimus. Incepto enim cantu quid sequatur ignoras. finito quid precesserit uides. Itaque finalis uox est. quam melius intuemur. Deinde si eidem cantui uersum aut psalmum aut aliquid uelis subiungere. ad finalem uocem maxime opus est coaptare. non ad primae uel aliarum adeo inspectionem redire. Additur quoque et illud quod accurati cantus in finalem uocem maxime distinctiones mittunt. Nec mirum regulas musicam a finali uoce sumere. cum et in gramaticae partibus pene ubique uim sensus in ultimis litteris uel sillabis per casus. numeros. personas. tempora. discernamus. Igitur quia et omnis laus in fine canitur. iure dicamus quia omnis cantus ei sit modo subiectus. et ab eo modo regulam sumat. quem ultimum resonat. 
+      <pb n="[f.10r]" />A finali itaque uoce ad quintam in qualibet cantu iusta est depositio. et usque ad octauas eleuatio. licet contra hanc regulam sepe fiat cum ad nonam decimamue progredimur. Vnde et finales uoces statuerunt .D.E.F.G. quod bis primum predictam eleuationem uel depositionem monocordi positio commedarit. Habent enim deorsum unum tetracordum grauium. sursum uero duo acutarum.</p>
+      <p id="GUIMICB_MBBR27840059">XII. De diuisione quattuor modorum in octo</p>
+      <p id="GUIMICB_MBBR27840060">Interea cum cantus unius modi utpote proti ad comparationem finis tum sint graues et plani. tum acuti et alti. uersus et psalmi. et si quid ut diximus fini aptandum erat. uno eodemque modo prolatum. diuersis aptari non poterat. Quod enim subiungebatur. si graue erat. cum acutis non conueniebat. si erat acutum. a grauibus discordabat. Consilium itaque fuit ut quisque modus partiretur in duos. id est acutum et grauem. distributisque regulis. acuta acutis. et grauia conuenirent grauibus. Et acutus quidem modus diceretur autentus. id est auctoralis et princeps. grauis autem plaga. uocaretur. id est lateralis et minor. Qui enim dicitur stare ad latus meum. minor me est. Ceterum si esset maior. ego aptius dicerer stare ad latus eius. Cum ergo dicatur autentus protus. et plagis proti. et similiter de reliquis. qui naturaliter in uocibus 
+      <pb n="[f.10v]" />erant quattuor. in cantibus facti sunt octo. Abusio autem tradidit latinis dicere pro autento proto. et plagis proti. primus et secundus. Pro autento deutero. et plagis deuteri. tertius. et quartus. Pro autento trito. et plagis triti. quintus et sextus. Pro autento tetrardo. et plagis tetrardi septimus et octauus.</p>
+      <p id="GUIMICB_MBBR27840061">[XIII. m.sec. in marg.] Igitur octo sunt modi. ut octo partes orationis. et octo formae Beatitudinis. per quos omnis cantilena discurrens. octo dissimilibus qualitatibus uariatur. Ad quos in cantibus discernendos etiam quedam neumae inuentae sunt. ex quarum aptitudine ita modum cantionis agnoscimus. sicut sepe ex aptitudine corporis quae cuius sit tunica repperimus ut est</p>
+      <p id="GUIMICB_MBBR27840062">[Brussels, Bibliothèque Royale, II 784, f.10v; text: c, a, D, C, G, F, E, Primus querite regnum dei.]</p>
+      <p id="GUIMICB_MBBR27840063">Mox enim ut cum fine alicuius antiphonae hanc neumam bene uiderimus. conuenire. quod autenti proti sit non est opus dubitare. Sic et de reliquis. Ad quod etiam plurimum ualent et uersus nocturnalium responsoriorum. et psalmi officiorum. et omnia quae in modorum formulis prescribuntur. Quas qui non nouit. mirum est si quam partem horum quae dicuntur intelligit. Ibi enim preuidetur 
+      <pb n="[f.11r]" />in quibus uocibus singulorum modoru cantus rarius sepiusue incipiat. et in quibus minime id fiat. ut in plagis quidem minime licet uel principia uel fines distinctionum ad quintas intendere. cum et ad quartas perraro soleat euenire. In autentis uero preter deuterum eadem principia et fines distinctionum minime licet ad sextas intendere. Plagae autem proti uel triti ad tertias intenduntur. et plagae siquidem deuteri uel tetrardi ad quartas. intendunt. Memineris preterea quia sicut usualium cantuum ad testatione perhibetur quod autenti uix a suo fine plus una uoce descendunt. Ex quibus autentus tritus rarissime id facere propter subiectam semitonii imperfectionem uidetur. Ascendunt autem ad octauam et nonam uel etiam decimam. Plagae uero ad quintas remittuntur et intenduntur. sed intensioni et sexta auctoritate tribuitur. sicut in autentis. nona et decima. Plagae uero proti deuteri et triti aliquando in a.b.c. acutas necessario finiuntur. Supra dictae autem regulae permaxime cauentur. in antiphonis et responsoriis. quorum cantus ut psalmis et uersibus coaptentur. oportet ut cummunibus regulis fulciantur. Alioquin plures cantus inuenies in quibus adeo confunditur grauitas et acumen. ut non possit aduerti cui magis id est autento 
+      <pb n="[f.11v]" />an plagae conferantur. Preterea ad [uel in supra lin.] ignotorum cantuum inquisitione predictarum neumarum et subiunctionum apositione plurimum adiuuamur. cum talium aptitudine soni cuiusque proprietatem per uim tropicam intuemur. Est autem tropus species cantionis. qui et modus dictus est. et adhuc de eo dicendum est.</p>
+      <p id="GUIMICB_MBBR27840064">[.XIII. add. in marg.] [XIV m.sec. in marg.] Item. de tropi [tropis corr. supra lin.] et iure musicae.</p>
+      <p id="GUIMICB_MBBR27840065">Horum quidam troporum exercitati. ita proprietates et discretas ut ita dicam. facies extimplo ut audierint recognoscunt. sicut peritus gentium coram positis multis habitus eorum intueri potest et dicere. Hic grecus est. ille hispanus. hic latinus. ille teutonicus. iste uero gallus. Atque ita diuersitas troporum diuersitati mentium coaptatur. ut unus autenti deuteri fractis saltibus delectetur. alius plagae triti eligat uoluptatem. Vni autem autenti tetrardi garrulitas magis placet. alter eiusdem plagae suauitatem probat. Sic et de reliquis. Nec mirum si uarietate sonorum delectatur auditus. cum uarietate colorum gratuletur uisus. uarietate odorum foueatur olfactus. mutatisque saporibus lingua congaudeat. Sic enim per fenestras corporis. delectabilium rerum suauitas intrat mirabiliter penetralia cordis. Inde est quod 
+      <pb n="[f.12r]" />sicut quibusdam saporibus et odoribus uel etiam colorum intuitu. similiter auditu sonorum. salus tam cordis quam corporis uel minuitur uel augescit. Nam legitur quod quondam quidam freneticus canente Asclepiade medico ab insania sit reuocatus. Et item alius quidam sonitu citharae in tantam libidinem incitatur. ut cubiculum puellae quereret effringere dementatus. Moxque citaredo mutante modum uoluptatis penitentia ductus recessisse dicitur confusus. Item et Dauid Saulis demonium cithara mitigabat. et demoniacam feritatem huius artis potenti ui ac suauitate frangebat. Quae tamen uis solum diuinae sapientiae ad plenum patet: nos uero quae uis in enigmate ab inde percipimus. Sed quia de artis uirtute uix pauca libauimus quibus rebus ad bene modulandum opus sit uideamus.</p>
+      <p id="GUIMICB_MBBR27840066">[XV m.sec. in marg.] Igitur quemadmodum in metris sunt litterae. sillabae. partes. pedes. ac uersus. ita in armonia sunt ptongi. id est soni. quorum unus duo uel tres aptantur in sillabas. ipsaeque solae uel duplicatae neumam id est partem constituunt cantilenae. et pars una uel plures distinctionem faciunt. id est congruum respirationis locum. De quibus illud est notandum quod tota pars 
+      <pb n="[f.12v]" />compresse et notanda et exprimenda est. sillaba uero compressius. Tenor uero id est ultimae uocis mora. qui in sillaba quantuluscumque est. amplior in parte. diutissimus uero in distinctione. signum in his diuisionis existit. Sicque opus est. ut quasi metricis pedibus cantilena plaudatur. et aliae uoces ab aliis morulam duplo longiorem uel duplo breuiorem. aut tremulam habeant. id est uarium tenorem. quem longum aliquotiens apposita litterae uirgula plana significat. Ac summopere caueatur talis neumarum distributio. ut cum neumae tum eiusdem soni repercussione. tum duorum aut plurium conexione fiant. semper tamen aut in numero uocum. aut in ratione tenorum neumae alterutrum conferantur. atque respondeant. nunc equae equis. tunc duplae. uel triplae simplicibus atque alias collatione sesqualtera. uel sesquitertia.</p>
+      <p id="GUIMICB_MBBR27840067">[Brussels, Bibliothèque Royale, II 784, f.12v; text: I, II, III, IIII, VIII, VIIII, Diapason, Diapente, Diatessaron, Diatesaron, Diatessaron, Tonus, Dupla, Sesqualtera, Sesquitertia, Sesquioctaua] 
+      <figure>
+        <graphic url="/images/GUIMICB_03GF.gif" />
+      </figure></p>
+      <p id="GUIMICB_MBBR27840068">
+      <pb n="[f.13r]" />Proponatque sibi musicus quibus ex his diuisionibus incedentem faciat cantum. sicut metricus quibus pedibus faciat uersum. nisi quod musicus non se tanta legis necessitate constringat. quia in omnibus se haec ars in uocum dispositione rationabili uarietate permutat. Quam rationabilitatem et si sepe non conprehendamus. rationabile tamen creditur. id quod mens in qua est ratio delectatur. Sed haec et huiusmodi melius colloquendo. quam scribendo monstrantur. Item ut more uersuum distinctiones equales fiant. et aliquotiens heedem repetitae. aut aliqua uel parua mutatione uariatae. Et cum perpulcrae fuerint duplicatae habentes partes non nimis diuersas. et quae aliquoties heedem transformentur per modos aut similes intensae et remissae inueniantur. Item ut reciprocata neuma eadem uia qua uenerat redeat. ac per eadem uestigia. Item ut qualem ambitum. uel lineam neuma una facit saliendo ab acutis. talem altera inclinata eregione opponat. respondendo a grauibus. sicut fit cum in puteo nos imaginem nostram contra spectamus. Item aliquando una sillaba unam uel plures habeat neumas. aliquando una neuma plures diuidatur in sillabas. Variabuntur hae omnes neumae 
+      <pb n="[f.13v]" />cum alias ab eadem uoce incipient. alias a dissimili secundum laxationis et acuminis uarias qualitates. Item ut ad principalem uocem. id est finalem uel si quam affinem eius pro ipsa elegerint. pene omnes distinctiones currant. et eadem aliquando sicut et uox quae terminat neumas omnes aut per plures distinctiones finiat. aliquando et incipiat. qualia apud Ambrosium si curiosus sis. inuenire licebit. Sunt uero quasi prosaici cantus. qui haec minus obseruant. in quibus non est curae. si aliae maiores aliae minores partes et distinctiones per loca sine discretione inueniantur more prosarum. Metricos autem cantus dico. quia sepe ita canimus. ut quasi uersus pedibus scandere uideamur. sicut fit cum ipsa metra canimus. In quibus cauendum est. ne superflue continuentur neumae dissillabae sine admixtione trissillabarum ac tetrasillabarum. Sicut enim lirici poetae nunc hos nunc alios iunxere pedes. ita et qui cantum faciunt rationabiliter discretas ac diuersas neumas componant. Rationabilis uero discretio est si ita sit neumarum et distinctionum moderata uarietas. ut tamen neumae neumis. et distinctiones distinctionibus quadam semper similitudine sibi consonanter respondeant. id est similitudo sit dissimilis more 
+      <pb n="[f.14r]" />predulcis Ambrosii. Non autem parua similitudo est metris et cantibus. cum et neumae loco sint pedum. et distinctiones loco uersuum. utpote ista neuma dactilico. illa uero spondaico. alia iambico more discurrit. et distinctionem nunc tetrametram. nunc pentametram [pentemetram ante corr.]. alias quasi exametram cernas. et multa alia ad hunc modum. Item ut in unum terminentur partes et distinctiones. neumarum atque uerborum. nec tenor longus in quibusdam breuibus sillabis. aut breuis in longis obscenitatem paret. quod tamen raro opus est curare. Item ut rerum euentus. sic cantionis imitetur effectus. ut in tristibus rebus graues sint neumae. ut. O uos. in tranquillis iocunda ut Deum ti me. in prosperis exultantes. ut In die resurrectionis. et reliqua. Item sepe uocibus grauem et acutum accentum superponimus. quia sepe aut maiori impulsu quedam aut minori efferimus. adeo ut eiusdem sepe uocis repetitio. eleuatio uel depositio esse uideatur. Item ut in modum currentis equi semper in fines distinctionum rarius uoces ad locum respirationis accedant. ut quasi graui more ad repausandum lassae perueniant. Spissim autem et raro prout oportet notae compositae. huius sepe rei poterunt indicium dare. Liquescunt uero in multis uoces more litterarum ita ut inceptus 
+      <pb n="[f.14v]" />modus unius ad alteram limpide transiens nec finiri uideatur. Porro liquescenti uoci punctum quasi maculando superponimus. hoc modo.</p>
+      <p id="GUIMICB_MBBR27840069">[Brussels, Bibliothèque Royale, II 784, f.14v; text: g, f, ga, a, Ad te leuaui.]</p>
+      <p id="GUIMICB_MBBR27840070">Si eam uis. plenius proferre non liquefaciens. nichil nocet. Sepe autem magis placet hoc. et omnia quae [que ante corr.] diximus. nec nimis raro nec nimis continue facias. sed cum discretione.</p>
+      <p id="GUIMICB_MBBR27840071">[XVI m.sec. in marg.] Illud uero non debet mirum uideri. cur tanta copia tam diuersorum cantuum tam paucis formata sit uocibus. quae [que ante corr.] uoces non nisi sex modis ut diximus sibi iungantur tam per eleuationem quam per depositionem. cum et de paucis litteris. etsi non perplures conficiantur sillabae. Potest enim colligi numerus sillabarum. infinita tamen partium pluralitas concreuit ex sillabis. et in metris de paucis pedibus quam plura sunt genera metrorum. et unius generis metrum plurimis uarietatibus inuenitur diuersum. ut exametrum. Quod quomodo fiat uideant gramatici. nos si possumus uideamus quibus modis distantes ab inuicem neumas constituere ualeamus. Igitur motus uocum qui sex modis fieri dictus est. fit arsis et thesis. id est eleuatio et depositio. Quorum gemino motu. idest arsi et thesi omnis neuma formatur. preter repercussas et simplices. Deinde arsis et thesis tum sibimet iunguntur. ut arsis arsi et thesis thesi. Tum uero altera alteri. ut arsis thesi. et thesis arsi coniungitur. 
+      <pb n="[f.15r]" />ipsaque coniunctio tum fit ex similibus. tum uero ex dissimilibus. Dissimilitudo autem erit. si ex predictis motibus alius alio plures paucioresue habeat uoces. aut magis coniunctas uel disiunctas. Dissimiliter deinde uel similiter facta coniunctione motus motui tum erit prepositus. id est in superioribus positus. tum subpositus. tum apositus. idest cum in eadem uoce unius finis alteriusque principium erit. Tum interpositus idest quando unus motus infra alium positus. et minus est grauis. et minus acutus. Tum commixtus idest partim interpositus. partimque subpositus. aut prepositus. aut appositus. Rursumque hae positiones dirimi possunt. secundum laxationis et acuminis. augmenti et detrimenti. modorumque uarias qualitates. Neumae quoque per omnes eosdem modos poterunt uariari. et distinctiones aliquando. De qua re et descriptionem subiecimus. quo facilior per oculos uia sit.</p>
+      <p id="GUIMICB_MBBR27840072">[Brussels, Bibliothèque Royale, II 784, f.15r; text: Musica motus est uocum, Tonus, Semitonium, Ditonus, Semiditonus, Diatessaron, Diapente, Arsis, Thesis, Iunguntur, Altera alteri, Ipsae sibi, Similiter, Dissimiliter, Prepositae, Secundum laxationis, Suppositae, Acuminis, Interpositae, Augmenti, Appositae, Detrimenti, Mixtae, Modorum uarias qualitates]</p>
+      <p id="GUIMICB_MBBR27840073">
+      <pb n="[f.15v]" />[XVII m.sec. in marg.] His breuiter intimatis. aliud tibi planissimum dabimus exemplum. uel argumentum. utilissimum uisu. licet hactenus inauditum. Quo cum omnium omnino melorum causa claruerit. poteris tuo uisui adhibere. quae probaueris commoda. et nichilominus respuere quae uidebuntur obscena. Perpende igitur. quia sicut scribitur. omne quod dicitur. ita ad cantum redigitur omne quod scribitur. Canitur igitur omne quod dicitur. scriptura autem litteris figuratur. Sed ne in longum nostra regula producatur. ex hisdem litteris quinque tantum uocales sumamus. sine quibus nulla alia littera sed nec sillaba sonare probatur. earumque permaxime casu conficitur. quotienscumque suauis concordia in diuersis partibus inuenitur. sicut sepe uidemus tam consonos et sibi et alterutrum respondentes uersus in metris. ut quandam quasi simphoniam gramatice ammireris. Cui si musica simili responsione iungatur. duplici modulatione dupliciter delecteris; has itaque quinque uocales sumamus. forsitan cum tantum concordiae tribuunt uerbis. non minus concinentiae prestabunt et neumis. Subponantur itaque per ordinem litteris monocordi. et quia quinque tantum sunt. tamdiu repetantur. donec unicuique sono sua uocalis subscribatur hoc modo.</p>
+      <p class="textFig" id="GUIMICB_MBBR27840074">
+      <lb />[Gamma].A.B.C.D.E.F.G.a.b.[sqb].c.d.e.f.g.aa.[sqb][sqb].cc.dd.
+      <br />&#160;&#160;&#160;&#160;a.&#160;&#160;e.i.o.u.a.e.i.o.&#160;&#160;&#160;&#160;u.&#160;&#160;a.e.i.o.u.&#160;a.&#160;&#160;&#160;&#160;&#160;e.&#160;&#160;&#160;&#160;&#160;i.&#160;o.
+      <lb /></p>
+      <p id="GUIMICB_MBBR27840075">
+      <pb n="[f.16r]" />In qua descriptione id modo perpende. quia cum his quinque litteris. omnis locutio moueatur. moueri quoque et quinque ad se inuicem ut diximus non negentur. Quod cum ita sit. sumamus modo aliquam locutionem. eiusque sillabas illis sonis adhibitis decantemus. quos earundem sillabarum uocales subscriptae monstrauerint hoc modo.</p>
+      <p id="GUIMICB_MBBR27840076">[Brussels, Bibliothèque Royale, II 784, f.16r; text: C, D, E, F, G, a, e, i, o, u, Sancte Iohannes meritorum tuorum copias nequeo digne canere] 
+      <figure>
+        <graphic url="/images/GUIMICB_04GF.gif" />
+      </figure></p>
+      <p id="GUIMICB_MBBR27840077">Quod itaque de hac oratione factum est. et de omnibus posse fieri nulli dubium est. Sed ne grauis tibi imponatur necessitas. quod ad hunc modum uix cuilibet simphoniae quinque accidant uocales. et ipsas quinque transgredi sepe ad uotum non subpetat. ut tibi paulo liberius liceat euagari. alium item uersum subiunge uocalium. sed ita sit diuersus. ut a tertio loco prioris incipiat. hoc modo.</p>
+      <p class="textFig" id="GUIMICB_MBBR27840078">
+      <br />[Gamma].A.B.C.D.E.F.G.a.[sqb].c.d.e.f.g.aa.bb.cc.dd.
+      <lb />&#160;&#160;&#160;a.&#160;&#160;&#160;e.i.o.u.a.e.i.o.&#160;&#160;u.&#160;&#160;a.e.i.o.u.&#160;a.&#160;e.&#160;i.&#160;o.
+      <br />&#160;&#160;&#160;i.&#160;&#160;&#160;o.u.a.e.i.o.u.a.&#160;&#160;e.&#160;&#160;i.o.u.a.e.&#160;i.&#160;o.&#160;u.&#160;a.
+      <lb /></p>
+      <p id="GUIMICB_MBBR27840079">
+      <pb n="[f.16v]" />Vbi cum tribus ubique subsonis quinque habeantur uocales. cum uidelicet cuique sono et una subsit et altera. satis tibi liberior facultas accidit. et productiori et contractiori pro libitu motu incedere. Vnde et hoc nunc uideamus qualem simphoniam huic rithmo suae uocales attulerint.</p>
+      <p id="GUIMICB_MBBR27840080">[Brussels, Bibliothèque Royale, II 784, f.16v; text: F, G, a, [sqb], c, d, e, f, i, o, u, Linguam refrenans temperet ne litis horror insonet uisum fouendo contegat ne uanitates hauriat.]</p>
+      <p id="GUIMICB_MBBR27840081">In sola enim ultima parte hoc argumentum reliquimus. ut melum suo tetrardo conueniens redderemus. Cum itaque suis tantum uocalibus quidam aptam sibi uendicent adeo cantilenam. non est dubium quin fiat aptissima. si in multis exercitatus de pluribus potiora tantum sibique respondentia eligas. hyantia suppleas. copressa resoluas. nimium producta contrahas. ac nimis contracta distendas. ut unum quid opus accuratum efficias. Illud preterea scire te uolo. quod in morem puri argenti cunctus cantus quo magis utitur coloratur. et quod modo displicet per uisum. quasi lima politum postea collaudatur. ac pro diuersitate gentium ac mentium. quod huic displicet ab illo amplectitur. et hunc oblectant consona. ille magis probat diuersa. Iste continuationem et mollitiem secundum suae mentis lasciuiam querit. ille 
+      <pb n="[f.17r]" />utpote grauis sobriis cantibus demulcetur. Alius uero ut amens incompositis et anfractis uexationibus pascitur. et unusquisque eum cantum multo sonorius pronuntiat. quem secundum suae mentis insitam qualitatem probat. Quae omnia si assiduo exercitio dictis inheseris argumentis. ignorare non poteris. Immo et argumentis studendum est donec ex parte cognoscimus. ut ad plenitudinem scientiae perueniamus. Sed quia haec in longum prosequi proposita breuitas non exposcit. presertim cum ex his perplura ualeant colligi. decanendo ista sufficiant. Iam nunc diaphoniae precepta breuiter exequamur.</p>
+      <p id="GUIMICB_MBBR27840082">[XVIII m.sec. in marg.] Diaphonia. uocum disiunctio sonat. quam nos organum uocamus. cum disiunctae ab inuicem uoces et concorditer dissonant. et dissonanter concordant. qua quidam ita utuntur. ut canenti semper quarta corda succedat. ut A. ad D. ubique si organum per acutum .a. duplices. ut sit .A.D. et a resonabit .A. Ad .D. diatessaron. ad .a. uero acutum diapason .D. uero ad utrumque .A.a. diatessaron et diapente .a. acutum ad grauiores diapente et diapason. Et quia hae tres species tanta se ad organum societate ac ideo suauitate permiscent. ut superius uocum similitudines fecisse monstratae sunt. simphoniae idest apte uocum copulationes dicuntur. cum simphonia et de omni cantu dicatur. 
+      <pb n="[f.17v]" />Dictae autem diaphoniae. hoc est exemplum.</p>
+      <p id="GUIMICB_MBBR27840083">[Brussels, Bibliothèque Royale, II 784, f.17v; text: c, cc., d, e, [sqb], a, G, GG, f, F, F. D, C, A, [Gamma], Miserere mei Deus.]</p>
+      <p id="GUIMICB_MBBR27840084">Potes et cantum cum organo et organum quantum libuerit dupplicare per diapason. Vbicumque enim eius concordia fuerit. dicta simphoniarum aptatio non cessabit. Cum itaque iam satis uocum patefacta sit dupplicatio grauem a canente succentum more quo nos utimur explicemus. Superior nempe diaphoniae modus durus est. noster uero mollis. ad quem semitonium et diapente non admittimus. Tonum uero et ditonum et semiditonum cum diatessaron recepimus. sed semiditonum in his infimatum. diatessaron uero obtinet principatum. His itaque quattuor concordiis diaphonia cantum subsequitur. Troporum uero alii apti. alii aptiores. alii aptissimi existunt. Apti sunt. qui per solam diatessaron quartis uocibus organum reddunt. et deuterus in B. et in E. Aptiores. qui non solum quartis. sed et tertiis et secundis per tonum et semiditonum licet raro respondent. ut protus in a. et in D. Aptissimi uero qui sepissime suauiusque id faciunt. ut tetrardus et tritus. in C. et F. et G. Hae enim tono et ditono et diatessaron obsecuntur. Ex quibus a trito. in quem uel finis distinctionum aduenerit. uel qui proximus ipsi finalitati suberit. 
+      <pb n="[f.18r]" />subsecutor tamen nunquam descendere debet nisi in illo inferiores uoces cantor admiserit. A trito enim infimo aut infimis proxime constituto deponi organum numquam licebit. Cum uero inferiores uoces admiserit. congruo loco per diatessaron organum deponatur. Moxque ut illa distinctionis grauitas ita deseritur ut repeti non speretur. quem prius habuerat locum subsecutor repetat. ut finali uoci si in se deuenerit commaneat. et si. super se euicino decenter occurrat. Qui occursus tono fit melius. ditono non adeo semiditono numquam a diatessaron uero uix fit occursus. cum gratus magis placet illo in loco succentus. quod tamen ne in ultima distinctione simphoniae eueniat est cauendum. Sepe autem cum inferiores trito uoces cantor admiserit. organum suspensum tenemus in trito. Tunc uero opus est ut cantor in inferioribus distinctionem non faciat. sed discurrentibus cum celeritate uocibus prestolanti in trito redeundo subueniat. et suum et illius laborem facta in superioribus distinctione repellat. Item cum occursus fit tono. diutinus fit tenor finis. ut ei et partim subsequatur. et partim concinatur. Cum uero ditono diutior. ut sepe per intermissam uocem dum uel parua sit subsecutio. etiam toni non desit occursio. Quod quia tunc fit cum armonia finitur deutero. 
+      <pb n="[f.18v]" />si cantus ultra non speratur ad tritum descendere utile tunc erit proto uim organi occupare subsequentibus finique per tonum decenter occurrere. Item cum plus diatessaron se iungi non liceat. opus est cum plus se cantor intenderit subsecutor ascendat. ut uidelicet C sequatur F. et D G. et E a. et reliquae. Denique preter [sqb] quadratam singulis uocibus diatessaron subest. Vnde in quibus distinctionibus illa fuerit G. uim organi possidebit. Quod tum fit si aut cantus ad F descendat. aut in G distinctionem faciat. ad G. et a. congruis locis subsequitur. Si uero in G cantus non terminet F. cum cantu uim organi amittit. Cum uero b rotunda uersatur in cantu F orginalis erit. Cum uero tritus adeo diaphoniae obtineat principatum. ut aptissimum supra ceteros obtineat locum. uidemus eum a Gregorio non immerito plus ceteris uocibus adamatum. Ei enim multa melorum principia et plurimas repercussiones dedit. ut sepe si de eius cantu triti F et c subtrahas. prope medietatem tulisse uidearis. Ecce diaphoniae precepta donata sunt. quae si exemplis probaueris perfecte cognosces.</p>
+      <p id="GUIMICB_MBBR27840085">[XIX m.sec. in marg.] Dictae diaphoniae probatio per exempla</p>
+      <p id="GUIMICB_MBBR27840086">IGitur a trito non deponimus organum. siue in eo siue in sequentibus finiatur hoc modo.</p>
+      <p id="GUIMICB_MBBR27840087">[Brussels, Bibliothèque Royale, II 784, f.18v; text: Ipsi soli, E, F, G, D, C] 
+      <figure>
+        <graphic url="/images/GUIMICB_05GF.gif" />
+      </figure></p>
+      <p id="GUIMICB_MBBR27840088">Ecce finis in trito .C.</p>
+      <p id="GUIMICB_MBBR27840089">
+      <pb n="[f.19r]" />[Brussels, Bibliothèque Royale, II 784, f.19r,1; text: Seruo fidem. F, G, a, C, D, E]</p>
+      <p id="GUIMICB_MBBR27840090">Ecce alia distinctio in trito F. in quo et quartis uocibus per diatessaron subsequimur. et diatessaron succentus plus quam occursus placet.</p>
+      <p id="GUIMICB_MBBR27840091">[Brussels, Bibliothèque Royale, II 784, f.19r,2; text: Ipsi me tota. F, E, D, G, C]</p>
+      <p id="GUIMICB_MBBR27840092">Ecce alia eiusdem modi.</p>
+      <p id="GUIMICB_MBBR27840093">[Brussels, Bibliothèque Royale, II 784, f.19r,3; text: Deuotione committo, F, G, E, D, C]</p>
+      <p id="GUIMICB_MBBR27840094">Ecce alia distinctio in proto .D. in qua et toni occursus ad finem patet. Item aliud</p>
+      <p id="GUIMICB_MBBR27840095">[Brussels, Bibliothèque Royale, II 784, f.19r,4; text: Homo erat in Ierusalem, C, D, F, E]</p>
+      <p id="GUIMICB_MBBR27840096">Ecce distinctio in deutero .E. in qua ditoni occursus uel simplex uel per intermissas. patet. Item aliud.</p>
+      <p id="GUIMICB_MBBR27840097">[Brussels, Bibliothèque Royale, II 784, f.19r,5; text: Veni ad docendum nos uiam prudentiae. C, F, E, D, B, A, [Gamma]]</p>
+      <p id="GUIMICB_MBBR27840098">Distinctio in proto .A. In hac distinctione inferiores trito .C. qui fini proxime subest .D. uoces admissae sunt. et locus prior finita grauitate repetitus est. et in hac similiter.</p>
+      <p id="GUIMICB_MBBR27840099">[Brussels, Bibliothèque Royale, II 784, f.19r,6; text: Sexta hora sedit super puteum, F, G, D, a, E, C] 
+      <figure>
+        <graphic url="/images/GUIMICB_06GF.gif" />
+      </figure></p>
+      <p id="GUIMICB_MBBR27840100">Ecce ut ascendit organum ne in ultima distinctione succineret.</p>
+      <p id="GUIMICB_MBBR27840101">[Brussels, Bibliothèque Royale, II 784, f.19r,7; text: Sexta hora sedit super puteum, F, G, D, a, E, C]</p>
+      <p id="GUIMICB_MBBR27840102">
+      <pb n="[f.19v]" />Ecce quomodo admittente cantore grauiores uoces organum suspensum tenemus in trito.</p>
+      <p id="GUIMICB_MBBR27840103">[Brussels, Bibliothèque Royale, II 784, f.19v,1; text: Victor ascendit caelos unde descenderat, c, d, a, b, G, f]</p>
+      <p id="GUIMICB_MBBR27840104">Ecce ut .f. ad G. et a. in fine subsequitur. idem in plagali trito inuenies usurpatum. uidelicet ut ad .c. et d. ita b rotunda subsequitur. sicut f. ad G. et a. subsequitur. hoc modo.</p>
+      <p id="GUIMICB_MBBR27840105">[Brussels, Bibliothèque Royale, II 784, f.19v,2; text: Venite adoremus, e, c, d, b]</p>
+      <p id="GUIMICB_MBBR27840106">Curiosus itaque existas. et in usum exercitando uertas. si simphoniam habeas. satis tibi hae regulae diaphoniam dabunt.</p>
+      <p id="GUIMICB_MBBR27840107">[XX m.sec. in marg.] De origine autem musicae artis. quia rudem lectorem uidimus in primis tacuimus. quod iam exercitato magisque sicienti in fine tribuimus.</p>
+      <p id="GUIMICB_MBBR27840108">Erant antiquitus instrumenta incerta. et canentium multitudo sed ceca. Nullus enim hominum uocum differentias. et simphoniae descriptionem poterat aliqua argumentatione colligere. neque posset unquam certum aliquid de hac arte cognoscere. nisi diuina pietas tandem quod sequitur suo nutu disponeret. Cum Phitagoras quidam magnus philosophus forte iter ageret. uentum est ad fabricam. in qua super unam incudem quinque mallei feriebant. Quorum suauem miratus concordiam philosophus accessit. primumque in manuum uarietate sperans 
+      <pb n="[f.20r]" />uim soni ac modulationis existere. mutauit malleos. Quo facto. sua uis quemque secuta est. Subtracto itaque uno qui dissonus erat a ceteris. alios ponderauit. Mirumque in modum diuino nutu primus .XII. secundus .VIIII. tertius .VIII. quartus .VI. nescio quibus ponderibus appendebant. Cognouit itaque in numerorum proportione et collatione musicae uersari scientiam. Erat enim ea constitutio in quattuor malleis. quae modo est in quattuor litteris .A.D.E.a. Denique si A habeat .XII. et D VIIII. sintque quaternarii in pro passu. habebit .A. in .XII. ternarios .IIII. et D. in .VIIII. ternarios .III. Ecce diatessaron. Rursus cum habeat A .XII. si teneat E. VIII. quaternarios passus tres habebit .A. duos uero E. et diapente patet. Sint iterum .XII in A. et .VI. in alteram a. Senarius medietas est duodenarii. sicut et a acuta alterius A medietate colligitur. Adest ergo diapason. Cum igitur ipsa .a. ad D. diatessaron ad e diapente. alteri uero a diapason reddit. D quoque ad e tonum. ad utrumque A a diatessaron. et diapente sonat. Et E etiam ad D. tonum utrique A.a. diapente et diatessaron mandat. a uero acuta cum A diapason. cum D diapente. cum E diatessaron sonat. quae in supra dictis numeris curiosus perscrutator inuenit. Hinc enim incipiens Boetius panditor huius artis. multam miramque et difficillimam huius artis cum numerorum proportione concordiam demonstrauit. 
+      <pb n="[f.20v]" />Quid plura? Per supra dictas species uoces ordinans. monocordum primus ille Phitagoras quattuor neruorum composuit. in quo quia non est lasciuia. sed diligenter aperta artis notitia. sapientibus in commune placuit. atque usque in hunc diem ars paulatim crescendo conualuit. ipso doctore semper humanas tenebras illustrante. cuius summa sapientia per cuncta uiget secula. Explicit.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>De semibrevibus caudatis</title>
+        <title type="abbrev">ANOSEM</title>
+        <author>Anonymous</author>
+        <date notBefore="1300" notAfter="1399">14th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Stephen E. Hayes</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Peter M. Lefferts</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Bradley Jon Tucker</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1992</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>De musica mensurabili</emph>, ed. Cecily Sweeney; 
+<emph>De semibrevibus caudatis</emph>, ed. André Gilles and Cecily Sweeney, Corpus scriptorum de musica, vol. 13 ([Rome]: American Institute of Musicology, 1971), 65–79. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: De semibrevibus caudatis</title>
+          
+<idno type="LML">SEMIBR. CAUD.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">F-Psg 1257, 37-40</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANOSEM0001">
+      <pb n="[65]" />[De semibrevibus caudatis]</p>
+      <p id="ANOSEM0002">Sequitur de semibrevibus caudatis a parte inferiori.</p>
+      <p id="ANOSEM0003">Primo nota quod omnes notulae sunt aequivocae: sic tempus ac semibrevis, tam majoris quam minoris, omnes sunt aequivocae. Specialiter de semibrevibus caudatis a parte inferiori, quae aliquando valent sex minimas et hoc in tempore perfecto ut hic: [B,pt,Scd,S,B,pt,S,Scd,B on staff3] et aliquando vero quinque et hoc in tempore imperfecto ut hic: [B,Scd,M,B,Scd,M,L on staff3] et aliquando vero tres ut hic: [Scd,S,M,B,Scd,S,M,L on staff3] et aliquando vero duas ut hic: [B,M,Scd,Lig2cssna,pt,M,Scd,L on staff3] et e converso ut hic: [M,S,Scd,B,M,S,Scd,L on staff2]. Si ad partem inferiorem [tractus] est ad debitum sicut figuratum et vocatur bifforcata, valet quatuor minimas ut hic: [Scyd,Scyd,Scyd,Scyd on staff4].</p>
+      <p id="ANOSEM0004">Tres sunt gradus principales: scilicet modus, tempus, prolatio; scilicet modus perfectionis, modus imperfectionis; tempus perfectum, tempus imperfectum; prolatio major et prolatio minor.</p>
+      <p id="ANOSEM0005">Primo sciendum est quid sit modus perfectus et quid modus imperfectus; secundo quid sit tempus perfectum et quid sit tempus imperfectum; tertio quid sit prolatio major et quid sit prolatio minor.</p>
+      <p id="ANOSEM0006">Primo dico sic quod modus perfectionis [fit] quando longa valet tria tempora ut hic: [L,Lig4cdsnddd,Lig2acddx,L on staff4]. 
+      <pb n="[66]" />Modus imperfectus fit quando longa valet duo tempora ut hic: [Lig4[L]add,Lig5adad,2LP,L,Lig3cdsndd,2LP on staff4]. Tempus perfectum dicitur quando tempus valet tres semibreves ut hic: [B,S,S,S,Lig3aod,2LP,B,SP,pt,B,SP,pt on staff4] Tempus imperfectum dicitur quando tempus valet duas semibreves ut hic: [B,Lig2cssnod,Lig2cssnod,S,S,S,SP,S,M,S,M,B,Lig3cssnad on staff4]. Prolatio major dicitur quando semibrevis valet tres minimas ut hic: [S,M,M,M,B,M,M,M,S,M,M,M,L on staff4]. Prolatio minor dicitur quando semibrevis valet duas minimas ut hic: [S,M,M,S,M,M,S,M,M,L on staff4]</p>
+      <p id="ANOSEM0007">Sequitur quot modis longa debet perfici in modo perfecto nisi sola praecedat.</p>
+      <p id="ANOSEM0008">Sciendum est quod longa debet perfici quinque modis. Primo modo longa ante longam. Secundo longa ante punctum. Tertio longa ante pausam sui valoris. Quarto modo longa ante duas breves. Quinto modo longa ante tres breves. De primo modo exemplum vide hic: [2LP,L,L,L on staff4]. De secundo modo hic: [L,pt,L,pt,L,pt on staff3]. De tertio modo: [2LP,L; 2LP on staff4]. De quarto modo: [L,B,B,L on staff3]. De quinto modo: [[L,B,B,B on staff3]].</p>
+      <p id="ANOSEM0009">Hic sequitur quot modis potest imperfici in modo perfecto. Sciendum est quod longa potest imperfici tribus modis in modo perfecto. Primo modo quando sola brevis praecedit ut hic: 
+      <pb n="[67]" />[B,L on staff1]. Secundo modo quando sola brevis sequitur ut hic: [L,B on staff1]. Tertio quando plures quam tres sequuntur scilicet breves sine aliquo puncto ut hic: [L,B,B,B,B,L on staff2]</p>
+      <p id="ANOSEM0010">Item sciendum est quo modo longa imperfecti temporis potest imperfici. Item sciendum est quod longa imperfecti temporis est majoris prolationis et potest imperfici tribus modis. Primo modo a sola minima praecedente ut hic: [M,[L],M,[L] on staff2]. Secundo [modo] a sola minima sequente ut hic: [[L],M,[L],M on staff2]. Tertio modo [a sola minima] a parte ante et a parte post insimul ut hic: [M,[L],M,M,[L],M on staff2].</p>
+      <p id="ANOSEM0011">Nunc sciendum est quo modo longa perfecti temporis potest [im]perfici. Item sciendum est quod longa perfecti temporis potest imperfici tribus modis. Primo modo a parte ante a sola semibrevi vel a sui valore ut hic: [S,L,M,M,L on staff2]. Secundo a sola semibrevi a parte post vel a sui valore ut hic: [L,S,L,M,M on staff2]. Tertio a parte ante et a parte post insimul ut hic: [S,L,S,pt,S,L,S,S,L,SP on staff3].</p>
+      <p id="ANOSEM0012">Item postea sciendum est quomodo modus perfectus potest poni cum tempore imperfecto et quo modo tempus perfectum potest poni cum modo perfecto.</p>
+      <p id="ANOSEM0013">Item sciendum est quod quando modus perfectus ponitur cum tempore imperfecto, tunc modus valet tria tempora et tempus 
+      <pb n="[68]" />valet duas semibreves ut hic: [B,B,B,L,S,S,B,B,L,pt on staff3]. Et quando est majoris prolationis, tunc semibrevis valet tres minimas ut hic: [S,M,M,M,B on staff2]. Et quando est minoris, tunc semibrevis valet duas minimas ut hic: [S,M,M,B on staff2].</p>
+      <p id="ANOSEM0014">Item quando modus perfectus ponitur cum tempore perfecto, tunc modus valet tria tempora et tempus tres semibreves ut hic: [B,B,B,L,S,S,S,B,B,L on staff2].</p>
+      <p id="ANOSEM0015">Item sciendum est quod quando tempus perfectum ponitur cum modo imperfecto, tunc modus valet duo tempora et tempus valet tres semibreves ut hic: [B,B,L,S,S,S,B,L on staff4].</p>
+      <p id="ANOSEM0016">Item quando tempus imperfectum ponitur cum modo imperfecto, tunc modus valet duo tempora et tempus valet duas semibreves ut hic: [B,B,L,S,S,B,L on staff3].</p>
+      <p id="ANOSEM0017">Postea sequitur quo modo longa debet cognosci.</p>
+      <p id="ANOSEM0018">Sciendum est quod longa debet co[g]nosci quinque modis. Primo modo quando aliqua cadrata habet tractum descendendo vel ascendendo ad partem dextram. Ista dicitur longa ut hic: [L,Bcsdx on staff2]. Secundo quando aliqua notula ponitur sine tractu in principio ligaturae, illa dicitur esse longa ut hic: [Lig4ddod on staff2]. Tertio quando aliqua cadrata ponitur in fine ligaturae descendendo, illa dicitur longa ut hic: [Lig3cssndd on staff2]. Quarto quando aliqua notula in principio ligaturae caret tractu et descendit per alpham, illa dicitur longa ut hic: [Lig2od,Lig2od on staff2]. Quinto modo quando aliqua cadrata 
+      <pb n="[69]" />vertit faciem suam suae praecedenti, illa dicitur longa ut hic: [Lig4cssnddart,Lig3cssndart on staff3].</p>
+      <p id="ANOSEM0019">Sequitur quot modis brevis potest perfici nisi sola praecedat.</p>
+      <p id="ANOSEM0020">Item sciendum quod brevis perficitur quinque modis. Primo modo brevis ante brevem ut hic: [B,B on staff3]. Secundo brevis ante punctum ut hic: [B,pt on staff2]. Tertio brevis ante pausam sui valoris ut: [B,BP on staff2]. Quarto ante duas semibreves ut hic: [B,S,S on staff2]. Quinto ante tres ut hic: [B,S,S,S on staff2].</p>
+      <p id="ANOSEM0021">Sequitur quot modis brevis potest imperfici.</p>
+      <p id="ANOSEM0022">Item sciendum est quod brevis potest imperfici tribus modis. Primo modo quando sola semibrevis praecedit ut hic: [S,B on staff2]. Secundo quando sola sequitur ut hic: [B,S on staff2]. Tertio quando plures quam tres sequuntur, ut hic patet per exemplum: [B,S,S,S,S,L on staff3].</p>
+      <p id="ANOSEM0023">Sequitur modo de semibrevibus quomodo possunt perfici nisi sola praecedat scilicet minima.</p>
+      <p id="ANOSEM0024">Item sciendum est quod [semi]brevis potest perfici quinque modis. Primo modo semibrevis ante semibrevem ut hic: [S,S,L on staff3]. Secundo semibrevis ante punctum ut hic: [S,pt on staff3]. Tertio semibrevis ante pausam sui valoris ut hic: [S,SP on staff2]. Quarto semibrevis ante tres minimas ut hic: [S,M,M,M on staff2]. Quinto modo semibrevis ante duas minimas ut: [S,M,M on staff3].</p>
+      <p id="ANOSEM0025">Sequitur quot modis semibrevis majoris prolationis potest [im]perfici.</p>
+      <p id="ANOSEM0026">Item sciendum est quod semibrevis majoris prolationis potest imperfici tribus modis. Primo quando minima praecedit: [M,S on staff2]. Secundo quando sola sequitur ut hic: [S,M on staff2]. Tertio quando plures quam tres minimae 
+      <pb n="[70]" />sequuntur, ut hic patet per exemplum: [S,M,M,M,M,S on staff3].</p>
+      <p id="ANOSEM0027">Sequitur modo de ligaturis.</p>
+      <p id="ANOSEM0028">Postea sciendum [est] quod quando longa notula in principio ligaturae habens tractum ascendentem a parte sinistra, dicitur semibrevis cum prima sequente ut hic patet per exemplum: [Lig3cssndod on staff3]. Et omnes autem aliae sequentes dicuntur breves ut hic: [Lig5cssndddod on staff3]. Et si ultima descendat per quadratam, longa dicitur ut hic: [Lig3cssndd on staff3]. Et si ultima sit descendens per alpham, brevis dicitur, ut hic patet per exemplum: [Lig3cssndod on staff3].</p>
+      <p id="ANOSEM0029">Et si ultima sit [ascendens] sine tractum habendo, brevis dicitur, ut hic patet per exemplum: [Lig7cssnadacddxdda on staff3]. Et si habeat tractum ad partem detram, longa dicitur ut hic: [Lig5cssnaddacddx on staff3].</p>
+      <p id="ANOSEM0030">Et [si] ultima vertat faciem suae praecedenti, longa dicitur ut hic: [Lig4cssnddart on staff3].</p>
+      <p id="ANOSEM0031">Quando prima ligaturae habet tractum descendendo, brevis dicitur ut hic: [Lig3cdsndacddx on staff3]. Si prima ligaturae non habeat tractum, longa dicitur ut hic: [Lig4ddd,Lig2d,Lig2od on staff3].</p>
+      <p id="ANOSEM0032">Sequitur quo modo potest alterari.</p>
+      <p id="ANOSEM0033">Postea sciendum est quod cotiescumque duae breves ponuntur inter duas longas sine aliquo puncto, secunda alteratur ut hic: [L,B,B,L on staff3]. Item sciendum est quod si duae breves ponuntur inter punctum et longam, secunda alteratur, et 
+      <pb n="[71]" />appellatur ille punctus alterationis, ut hic patet: [pt,B,B,L on staff3].</p>
+      <p id="ANOSEM0034">Etiam sciendum est quod si duae semibreves ponantur inter duas breves, secunda alteratur ut hic: [B,S,S,B on staff3]. Vel si duae semibreves ponantur inter punctum et brevem, secunda alteratur ut hic: [pt,S,S,B on staff3]. Item sciendum est quod si duae minimae ponantur inter duas [semibreves], ultima alteratur tunc ut hic: [S,M,M,S on staff3]. Vel si duae minimae ponantur inter punctum et semibrevem, secunda alteratur ut hic: [pt,M,M,S on staff3].</p>
+      <p id="ANOSEM0035">Sequitur modo de punctis.</p>
+      <p id="ANOSEM0036">Postea sciendum est quod quatuor sunt puncti, scilicet punctus alterationis et punctus augmentationis et punctus perfectionis et punctus divisionis.</p>
+      <p id="ANOSEM0037">Item punctus divisionis dividit tempora unum ab alio ut hic: [L,B,pt,B,L on staff4].</p>
+      <p id="ANOSEM0038">Punctus alterationis ponitur pro dando notitiam quod secunda debet alterari et produci, ut hic patet per exemplum: [pt,B,B,L; pt,B,B on staff4].</p>
+      <p id="ANOSEM0039">Punctus augmentationis est quando aliqua notula augmentatur de aliquo ut hic: [L,pt,B,pt,S,pt,M,M,pt,M,pt on staff3].</p>
+      <p id="ANOSEM0040">Punctus perfectionis est quando dat perfectionem alieni notulae sicut in modo perfecto. Longa habet perfectionem suam per illud punctum, et sic de brevi et sic semibrevi majoris ut hic patet [L,pt,B,pt,S,pt,S,pt on staff3].</p>
+      <p id="ANOSEM0041">Item sciendum est quod longa perfecti temporis potest 
+      <pb n="[72]" />diminui in duabus semibrevibus [et una brevi], et quaelibet brevis in tribus semibrevibus ut hic: [L,S,S,B,S,S,S,L on staff3].</p>
+      <p id="ANOSEM0042">Item sciendum est quod longa perfecti temporis potest diminui in duabus semibrevibus [et una brevi], et quaelibet semibrevis [majoris prolationis] in tribus minimis, et quaelibet minima in duabus semiminimis ut hic: [L,S,S,B,S,M,M,M,S,SM,SM,SM,SM,SM,SM on staff3]</p>
+      <p id="ANOSEM0043">Et etiam sciendum est quod semibrevis majoris dividitur in duabus partibus et in tribus et in quatuor et in sex.</p>
+      <p id="ANOSEM0044">Item sciendum est quod semibrevis dividitur in quatuor partibus duobus modis. Primo modo quando duae minimae et duae semiminimae ponuntur pro una semibrevi et pronuntiatur quaelibet semibrevis imperfecta a sola sequente scilicet minima, sed dicitur magis festinando media parte quia ita una minima magis festinatur quam semibrevis, ita una semiminima magis festinatur quam minima.</p>
+      <p id="ANOSEM0045">Secundo modo sciendum est quod illae quatuor bene pronuntiantur alio modo pro semibrevi. Et aliae quatuor pronuntiantur minimae vacuae, et pronuntiantur totae aequales aequali modo ut si essent quatuor minimae majoris [prolationis], sed magis festinando pronuntiantur.</p>
+      <p id="ANOSEM0046">Item sciendum quod semibrevis dividitur in duas, scilicet in duabus minimis, ita quod quaelibet habeat talem punctum: [M,pt,M,pt on staff1].</p>
+      <p id="ANOSEM0047">Item sciendum est quod ille punctus vocatur punctus augmentationis, et est talis naturae quod illa pars cum qua ponitur ex tertia parte augmentatur. Videamus si ista sint vera vel non: accipiamus modo longam valentem duo tempora imperfecti temporis, cum isto puncto valebit tria tempora: [L,pt on staff3].</p>
+      <p id="ANOSEM0048">Item accipiamus semibrevem minoris prolationis valentem 
+      <pb n="[73]" />duas minimas, cum isto puncto valebit tria ut: [S,pt,S,pt on staff3].</p>
+      <p id="ANOSEM0049">Et sic de minima valente duas semiminimas, cum isto puncto valebit tria ut hic: [M,pt,M,pt on staff2].</p>
+      <p id="ANOSEM0050">Item sciendum est quod si[militer] semibrevis dividitur in duabus, scilicet in duas minimas punctuatas ut hic: [M,pt,M,pt on staff3]. Et alio modo in duas, scilicet in una semibrevi imperfecta a parte ante vel a parte post ut hic: [M,S,M,S,S,M,S,M on staff3]. Et etiam in tribus et in tribus minimis ut hic: [M,M,M,S,M,M,M on staff3]. Et alio modo in tribus, scilicet in una semibrevi imperfecta a duabus semiminimis a parte ante vel a parte post ut hic: [SM,SM,S; S,SM,SM on staff3]. Et in quatuor, scilicet in duabus minimis et in duabus semiminimis ut hic: [M,M,SM,SM; M,SM,M,SM; SM,M,SM,M on staff3]. Et in quatuor aequales, scilicet in quatuor minimis vacuis vel rubeis ut hic: [Mv,Mv,Mv,Mv; Mr,Mr,Mr,Mr on staff3]. Et etiam in sex, scilicet in sex semiminimis ut hic patet: [S,SM,SM,SM,SM,SM,SM on staff3].</p>
+      <p id="ANOSEM0051">Sequitur de diminutione imperfecti majoris prolationis.</p>
+      <p id="ANOSEM0052">Item primo sciendum quod tempus [im]perfectum dividitur in duabus semibrevibus, ut hic patet per exemplum: [Lig2cssnod,S,S,B on staff3]. Et etiam in tribus semibrevibus vacuis vel rubeis ut hic: [Sv,Sv,Sv,Sr,Sr,Sr on staff3]. Et in quatuor, scilicet in quatuor minimis punctuatis pronuntiatis 
+      <pb n="[74]" />aequaliter ut hic: [M,pt,M,pt,M,pt,M,pt on staff3]. Et in quatuor, scilicet duabus semibrevibus quaelibet imperfecta a parte ante vel a parte post a sola minima ut hic: [M,S,S,M on staff3]. Et adhuc in quatuor, scilicet in duabus semibrevibus vacuis vel rubeis praecedentibus cum duabus minimis sequentibus ut hic: [Sv,Sv,M,M; Sr,Sr,M,M on staff3]. Et etiam sciendum est quod diminuitur in quinque: scilicet in una semibrevi et quatuor minimis. Unde semibrevis erit imperfecta a sola sequente vel praecedente ut hic: [M,S,M,M,M; S,M,M,M,M on staff3]. Et adhuc dividitur in quinque, scilicet in una semibrevi cum duabus minimis praecedentibus illam et cum duabus sequentibus illam. Et si sit ibi punctus fiendus, sciendum est quod prima minima debet poni inter duos punctos et ultima debet habere unum tempus a parte post ut hic: [pt,M,pt,M,S,M,M,pt on staff3].</p>
+      <p id="ANOSEM0053">Item sciendum est quod primus punctus vocatur punctus divisionis ut hic per exemplum patet.</p>
+      <p id="ANOSEM0054">Et adhuc dividitur in tribus, scilicet in una brevi imperfecta a parte ante vel a parte post a sola minima [vel] cum duabus [minimis] sequentibus vel praecedentibus ut hic: [pt,M,B,M; B,M,M,pt; M,M,B on staff3]. Et in quatuor, scilicet in una semibrevi cum una minima praecedente et duabus sequentibus, et sunt ibi puncti faciendi. Sciendum est quod prima minima debet punctuari a parte ante, et vocatur ille punctus punctus divisionis. Postea semibrevis debet punctuari a parte post et vocatur ille punctus punctus perfectionis, quia dat sibi 
+      <pb n="[75]" />perfectionem, et ponitur causa tali ut prima neque secunda non eant secum. Postea ultima minima debet punctuari a parte post, et vocatur ille punctus punctus divisionis ut prima minima veniat [cum ultimis duabus minimis], ut patet per exemplum: [pt,M,S,pt,M,M,pt; pt,M,S,pt,M,M,pt on staff4].</p>
+      <p id="ANOSEM0055">Item sciendum est quod adhuc dividitur in quatuor, scilicet in brevi inperfecta a sola minima praecedente vel a duabus semiminimis sequentibus ut hic patet: [pt,M,B,SM,SM,pt; pt,SM,SM,B,M,pt on staff3]. Et in sex minimis ut hic patet: [M,M,M,M,M,M on staff3]. Et in septem, scilicet in tribus minimis, et in quatuor minimis vacuis ut hic patet: [M,M,M,Mv,Mv,Mv,Mv on staff3]. Et in octo, scilicet [minimis vacuis vel in quatuor] minimis et quatuor semiminimis ut hic patet: [Mv,Mv,Mv,Mv,Mv,Mv,Mv,Mv; M,M,M,M,SM,SM,SM,SM on staff3]. Et in novem, scilicet in tribus minimis vel sex semiminimis ut hic: [M,M,M,SM,SM,SM,SM,SM,SM on stafff3]. Et in decem, scilicet in sex semiminimis et in quatuor minimis vacuis ut hic: [SM,SM,SM,SM,SM,SM,Mv,Mv,Mv,Mv on staff3]. Et in undecim, scilicet in decem semiminimis et in una minima ut hic: [SM,SM,SM,SM,SM,SM,SM,SM,SM,SM,M on staff3]. Et in duodecim, scilicet in duodecim semiminimis ut hic patet: [SM,SM,SM,SM,SM,SM,SM,SM,SM,SM,SM,SM on staff3] Et adhuc in quatuor, scilicet duabus dragmis cum una minima 
+      <pb n="[76]" />praecedente primam et cum una sequente ultimam, et quaelibet dragma valebit duas minimas ut hic: [M,F,F,M on staff3]. Item sciendum est quod quatuor dragmae ponuntur pro tempore imperfecto majoris ut hic: [F,F,F,F on staff3].</p>
+      <p id="ANOSEM0056">Sequitur modo de tempore perfecto majoris et de diminutione ipsius.</p>
+      <p id="ANOSEM0057">Item sciendum est quod tempus perfectum potest diminui in duabus, scilicet in una brevi imperfecta a sola semibrevi praecedente vel sequente ut hic: [S,B; B,S on staff3]. Et etiam in tribus, scilicet in tribus semibrevibus ut hic patet: [B,S,S,S,B; S,S,S,B,S,S,S on staff3]. Et etiam in tribus, scilicet in una quadrata vacua vel rubea valente quatuor minimas cum una semibrevi perfecta sequente et postea una alia semibrevis [vacua]. Sequitur imperfecta, scilicet vacua vel rubea quadrata imperfecta cum ista semibrevi. Imperfecta valebit sex minimas et semibrevis perfecta tres minimas et erit tempus ut hic: [Bv,S,Sv; Bv,S,Sv on staff3]. Et in quatuor, scilicet in duabus semibrevibus perfectis cum una minima praecedente et cum una semibrevi vacua vel rubea sequente. Itaque minima fiat inter duos punctos, et in illa minima cum semibrevi vacua vel rubea erunt puncti divisionis, ut hic patet per exemplum: [pt,M,pt,S,S,Sv on staff3]. Et etiam in quinque, scilicet in tribus semibrevibus vacuis vel rubeis cum una semibrevi imperfecta a sola minima sequente ut hic patet: [Sv,Sv,Sv,S,M,pt on staff3]. Et etiam in sex, scilicet in sex minimis punctuatis vel sex dragmis ut hic: 
+      <pb n="[77]" />[M,pt,M,pt,M,pt,M,pt,M,pt,M,pt; [F,F,F,F,F,F] on staff3]. Alio modo in sex, scilicet in quatuor semibrevibus vacuis et cum una semiminima praecedente et cum alia sequente ut hic [SM,Sv,Sv,Sv,Sv,SM on staff3]. Et alio modo in sex, scilicet in tribus semibrevibus et quaelibet imperfecta a parte ante et a parte post cum sola minima ut: [M,S,M,S,M,S; S,M,S,M,S,M on staff3]. Et alio modo in sex, scilicet in una semibrevi perfecta et cum una minima praecedente et cum una semibrevi imperfecta a parte ante a sola minima et cum duabus minimis sequentibus; sunt ibi puncti faciendi. Prima minima debet punctuari a parte ante et dicitur punctus divisionis. Debet punctuari a parte post et dicitur punctus perfectionis. Postea ultima debet punctuari a parte post et dicitur punctus divisionis ad finem, et duae ultimae [minimae veniant] cum prima ut hic: [pt,M,pt,S,M,S,M,M,pt on staff3]. Et in septem, scilicet in duabus semibrevibus imperfectis [a sola minima] a parte post vel a parte ante et in tribus minimis sequentibus, ut hic patet: [M,S,M,S,M,M,M; S,M,S,M,pt,M,M,M on staff3]. Et alio modo in septem, scilicet in duabus semibrevibus a sola minima imperfectis cum duabus minimis sequentibus cum sola minima praecedente; et sunt ibi puncti faciendi. Prima debet poni inter duos et sunt ibi puncti divisionis. Postea ultima debet punctuari a parte post, ita quod prima minima posita inter duos punctos veniat cum ultimis duabus minimis, ut hic patet per exemplum: [pt,M,pt,M,S,M,S,M,M,pt; MP,pt,M,S,M,S,M,M,pt,L on staff3] Et in octo, scilicet in una semibrevi imperfecta a parte ante vel 
+      <pb n="[78]" />a parte post a sola minima cum sex semiminimis ut: [M,S,SM,SM,SM,SM,SM,SM,S,M on staff3]. Et in novem, scilicet in novem minimis ut hic patet: [M,M,M,M,M,M,M,M,M on staff3] Et in decem, scilicet in octo minimis et in duabus semiminimis vel in sex minimis et in quatuor minimis vacuis ut: [M,M,M,M,M,M,M,M,SM,SM on staff3]. Et in undecim, scilicet in septem minimis et in quatuor semiminimis vel octo minimis vacuis cum tribus minimis ut: [M,M,M,M,M,M,M,SM,SM,SM,SM; Mv,Mv,Mv,Mv,Mv,Mv,Mv,Mv,M,M,M on staff3] Et in duodecim, scilicet in sex minimis et in sex semiminimis vel duodecim minimis vacuis ut hic: [M,M,M,M,M,M,SM,SM,SM,SM,SM,SM; Mv,Mv,Mv,Mv,Mv,Mv,Mv,Mv,Mv,Mv,Mv,Mv on staff3] Et in tredecim, scilicet in una semibrevi perfecta cum duodecim semiminimis praecedentibus vel sequentibus ut hic: [S,pt,SM,SM,SM,SM,SM,SM,SM,SM,SM,SM,SM,SM on staff3]. Et in quatuordecim, scilicet in octo minimis vacuis et in sex [semi]minimis vel duodecim semiminimis cum duabus minimis punctuatis ut hic: [Mv,Mv,Mv,Mv,Mv,Mv,Mv,Mv,SM,SM,SM,SM,SM,SM; SM,SM,SM,SM,SM,SM,SM,SM,SM,SM,SM,SM,M,pt,M,pt on staff3]. Et in quindecim, scilicet in duodecim semiminimis et in tribus 
+      <pb n="[79]" />minimis ut: [SM,SM,SM,SM,SM,SM,SM,SM,SM,SM,SM,SM,M,M,M on staff3]. Et in sedecim, scilicet in duodecim [semi]minimis et in quatuor minimis vacuis ut hic: [SM,SM,SM,SM,SM,SM,SM,SM,SM,SM,SM,SM,Mv,Mv,Mv,Mv on staff3]. Et in septemdecim, scilicet in sedecim semiminimis cum una minima ut hic: [SM,SM,SM,SM,SM,SM,SM,SM,SM,SM,SM,SM,SM,SM,SM,SM,M on staff3]. Et in octodecim, scilicet in octodecim semiminimis ut hic: [SM,SM,SM,SM,SM,SM,SM,SM,SM,SM,SM,SM,SM,SM,SM,SM,SM,SM on staff3].</p>
+      <p id="ANOSEM0058">Explicit tempus perfectum.</p>
+    </body>
+  </text>
+</TEI>

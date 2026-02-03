@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>De musica</title>
+        <title type="abbrev">ANOFRA4</title>
+        <author>Anonymous</author>
+        <date notBefore="1400" notAfter="1499">15th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>John Csonka</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Jan Herlinger</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Angela Mariani</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1991</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Adrien de la Fage, 
+<emph>Essais de dipthérographie musicale</emph> (Paris: Legouix, 1864), 346–50.
+</bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANOFRA40001">
+      <pb n="[346]" />II. Anonymi de musica</p>
+      <p class="textFig" id="ANOFRA40002">*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*
+      <lb /></p>
+      <p id="ANOFRA40003">Semidictonus est inaequalium notarum consonantia, tonum perfectum cum semitonio continens, minori in superquinquepartiente consistens proportione, quae major est quam sesquisexta, minor tamen quam sesquiquinta.</p>
+      <p class="textFig" id="ANOFRA40004">*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*
+      <br /></p>
+      <p id="ANOFRA40005">Caput LXXIV, De nomine hujus consonantiae [semiditoni] et quotiens in monochordo contineatur. LXXV, Quod semidictonus in majori fundatur proportione 
+      <pb n="[347]" />quae sit sesquialtera et non tamen sit sesquiquinta. LXXVJ, De simplicitate, partibus et divisione hujus consonantiae. LXXVIJ, Quid sit dytonus. LXXVIIJ. Quod dytonus in dicta superpartiente fundatur proportione. LXXIX, Quod ditoni proportio major sit quam sesquiquinta, minor tamen quam sesquiquarta. LXXX, De simplicitate et divisione ipsius ditoni. LXXXJ, Quid sit semitritonis. LXXXIJ, Quod semitritonus in minori consistens proportione quum sit sesquitertia, minor tamen quum sit sesquialtera. LXXXIIJ, De partibus et divisione hujus consonantiae. [LXXXIV, De tritono.] LXXXV. De partibus et divisione tritoni. LXXXVJ, Quid sit semitonius cum diapente. LXXXVIJ, Quod haec consonantia in superpartiente quae dicta est fundatur proportione. LXXXVIIJ, De divisone et partibus hujus consonantiae. LXXXIX, Quid sit tetratonus. XC, Quid sit tonus cum diapente. XCJ, Quod haec consonantia in superpartiente prius tracta consistat proportione. XCIJ, Quid sit semiditonus cum diapente. XCIIJ et XCIV, Quod haec consonantia intacta fundatur proportione. XCV, Quid sit pentatonus. XCVJ, Quid sit ditonus cum diapente. XXVIJ, De divisione hujus consonantiae. XCVIIJ, Quid sit exatonus. XCIX, Quid sit semitonium minus cum diapason. C, Quod minus semitonium cum diapason in superpartiente prius tacta fundatur proportione. CJ, Instantiae contra dicta et ad illas responsio. CIJ, Quid sit semitonium majus cum diapason. CIIJ, Inquisitio hujus consonantiae jam positae. CIV, Quid sit tonus cum diapason. CV, Quod haec consonantia fundetur in proportione dupla sesquiquarta. CVJ, Quid sit semiditonus cum diapason. CVIJ, Quod semiditonus cum diapason in dupla supradicta partiente fundetur proportione. CVIIJ, Quid sit ditonus cum diapason. CIX, Quid sit diatessaron cum diapason. CX, Quod Ptolomaeus diatessaron cum diapason posuit inter consonantias. CXJ, Ad rationem Ptolomaei responsio. CXIJ, Quid sit semitritonus cum diapason. CXIIJ, Quid sit tritonus cum diapason. CXIV, Quid sit semitonium minus cum diapente et diapason. CXV. Quid sit majus semitonium cum diapente et diapason. CXVJ, Quid sit tonus cum diapente et diapason. CXVIJ, Quid sit semiditonus cum diapente et diapason. CXVIIJ, Quid sit ditonus cum diapente et diapason. CXIX, Quid sit semitonium minus cum bisdiapason. cxx, Quid sit semitonium majus cum bisdiapason. CXXJ, Quid sit tonus cum bisdiapason. CXXIJ. Quid sit semiditonus cum bisdiapason. CXXIIJ, Quid sit ditonus cum bisdiapason. CXXIV, Quid sit diatessaron cum bisdiapason. CXXV, Quid sit diapente cum bisdiapason. CXXVJ, Quid sit tonus cum diapente et bisdiapason. CXXVIJ, Utrum praeter dictas consonantias monochordum ad alias sit extendendum.</p>
+      <p class="textFig" id="ANOFRA40006">*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*
+      <lb /></p>
+      <p id="ANOFRA40007">
+      <pb n="[348]" />[Caput J, De sono. IJ, De vocibus. IIJ, De motu.] XXVJ, Sonorum diffinitio. XXVIJ, Quod sonorum nil infinitatem natura terminat humana. XXVIIJ, Quis modus sit audiendi. XXIX, Collatio judicii sensus ad judicium intellectus.--XV, Monocordum cur septem tantum contineat discrimina.--XVIJ, Monochordum cur non sit contentum una diapason. XVIIJ, Monocordum cur non ultra bisdiapason. XIX, Monocordum cur ad ter diapason non extenditur. XX, Cur potius monocordum in tetracorda divisum quam in dicorda, tricorda et pentacorda. XXJ, Quare unitas, quae perfectio, sit ipsius numeri quaternarii. [XXIJ, De virtute numerorum.] XXIIJ, Quare sub tetracordo finalium vox quinta sub figura graeca [Gamma] sit addita. XXIV, Quare dictis tetracordis additum sit synnemenon id est b molle vel rotundum et de comparatione hujus b mollis ad b quadratum. XXV, Monocordum quare divisum non est in penitus conjuncta tetracorda, vel in penitus disjuncta. XXXJ, Comparatio specierum diatessaron et diapente metrorum pedibus.LXX, Quid sit cantus et quid cantans. LXXJ, De cantu plano et mensurabili. LXXIV, Unde dicitur discantus. LXXV, Quid sit discantus.</p>
+      <p class="textFig" id="ANOFRA40008">*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*
+      <br /></p>
+      <p id="ANOFRA40009">Cum cantus musicam respiciat instrumentalem vel sonoram, divisones aliquas recipere potest.... Cantus planus est debita vocum et consonantiarum conjunctarum prolatio, non attendens vel observans circa illas certam temporis mensuram. Est autem duplex mensura: quaedam quae respicit vocum extremarum in consonantiis distantia; ut quid amplius distant voces extremae in diapente, quid in diatessaron et in diapason, quid in ditono et sic de consonantiis majoribus respectu minorum. Haec mensura bene pertinet ad cantum planum. Alia est mensura temporalis. Et haec est duplex: quaedam quae circa voces et notas attendit certam et determinatam temporis morulam; ut quid talis vox vel nota unum tempus perfectum valent vel imperfectum, illa duo, alia tres; et haec ad cantum pertinet mensuratum qui distinctas figuras insuper et nomina distincta in notis inspicit vel vocibus, Alia quae mensuram aliquam supra voces etiam succensive 
+      <pb n="[349]" />prolatas inspicit, ut quid una morosius decantetur quam alia; et hoc ad cantum, pertinere potest planum.</p>
+      <p id="ANOFRA40010">Cantus mensurabilis est vocum distinctarum aequalium sub aliqua temporis mensura simul prolatarum conveniens conjunctio. Convenit cantus mensurabilis cum plano quia uterque requirit vocum distinctarum aequalium vel inaequalium conjunctionem convenientem. Est enim cantus quasi genus ad planum et mensuratum, sed mensurabilis cantus aliquid addit super planum scilicet quod voces ejus distinctae similiter proferantur et quod sub aliqua temporis mensura, quae non requiruntur in cantu plano. Tria igitur inter alia concurrunt ad cantum mensuratum: distinctarum vocum conveniens conjunctio, illarum simul prolatio et circa illas temporis mensuratio...... Cantus hic mensurabilis dicitur quia in eo distinctae voces simili sub aliqua temporis morula certa vel incerta proferuntur; dico autem incerta propter organum duplum, quod utraque non est certa temporis mensura mensuratum, ut in floraturis in penultimis ubi supra vocem unam tenoris multae sonant voces. Ponitur autem talis cantus sub mensurabili quia in eo locum habet discantus qui requirit distinctas voces similiter prolatas, quae ab uno et eodem similiter proferri non possunt.</p>
+      <p id="ANOFRA40011">...... Discantus dicitur quasi duplex vel duo cantus, seu duorum cantus; quia etsi possit esse plurimorum magis, proprie tamen est duorum; et forsitan in principio in discantu non erant nisi duo cantus, ut ille qui tenor dicitur et alius qui supra tenorem dicitur, qui vocatur discantus...... Antiquitus et organum duplum in quo non sunt nisi duo cantus; unde discantare erat organizare, vel diaphonizare, quia diaphonia discantus est et bene proprius discantus dicitur de duobus cantibus cum respiciat voces extremas consonantiarum, scilicet mixtas et decantatas.... Potest dici discantus quasi de cantu sumptus, id est de tenore supra quem discantus fundatur, sicut aedificium aliquod supra suum fondamentum: unde ille cantus tenor dicitur qui discantum tenet et fundat; quis enim sine tenore cantat? Quis sine fundamento aedificat? Et sicut aedificium debet proportionari fundamento, ut fiat aedificium, non ad libitum operatoris, sed secundum exigentiam fundamenti; sic nec discantans ad libitum suum notas proferre debet, sed secundum exigentiam in proportione notarum ipsius tenoris, ut concordat cum illis. Discantus qui a tenore dependet, ab eo regulari debet, cum ipso concordare habet, non discordare; non tenor discantu sumitur, sed e converso. Possunt autem voces discantus ad voces comparari tenoris cum quibus debent concordare, et tunc talis cantus discantus dicitur; vel possunt per se considerari, non per respectum ad voces tenoris, ita ut similiter dicuntur cum illis, sed divisim, successive una post aliam cum aliquis per se cantat contrapunctum aliquem triplum vel quadruplum sine tenore et tunc absolute; tales voces rationem cantus 
+      <pb n="[350]" />habent.... Possunt autem multi tenores multis respondere discantibus, sed unus illorum principalior debet esse......</p>
+      <p id="ANOFRA40012">Diaphonia est quasi duplex sonus quia distinctos simul prolatos requirit sonos; et haec sonorum similis facta prolatio organum vulgariter appellatur.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,941 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Summa de speculatione musice</title>
+        <title type="abbrev">ODISUM</title>
+        <author>Odington, Walter</author>
+        <date notBefore="1300" notAfter="1399">14th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Stephen E. Hayes</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Peter M. Lefferts</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Bradley Jon Tucker</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1992</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Walteri Odington, 
+<emph>Summa de speculatione musicae</emph>, ed. Frederick F. Hammond, Corpus scriptorum de musica, vol. 14 ([Rome]: American Institute of Musicology, 1970), 42–146. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Walter Odington: Summa de speculatione musicae</title>
+          
+<idno type="LML">WALT. ODINGT.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">GB-Ccc 410 I, 1-36</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Lbl Add. 4909, 105-106 (Extrait)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Lbl Add. 56486(A), 1-2v (Fragment)</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ODISUM0001">
+      <pb n="[42]" />Proemium</p>
+      <p id="ODISUM0002">[f. 1r] Incipit summa fratris Walteri monachi Eveshamiae musici de speculatione musicae.</p>
+      <p id="ODISUM0003">Plura quam digna de musicae speculatione et musicae speculatoribus perutilia brevi ut potero nitar explicare sermone. Quadamque pluribus dubia sunt corrigendo et manifestando, quae hactenus non paucis sunt ignota. Cogit enim me tantum arripere studium non hui...aviditas sed multiplex necessitas et profectus et eorum imprudens consideratio a fine inchoant initialia praetermittentes duplum et...considerant et numeros ignorant...multiplici abutuntur qui ad aquit...duplicius huiusque non pervenerunt et magna figurarum diversitas quae in melodiis istius temporis reperitur quia quot sunt notatores tot sunt novarum inventores figurarum. Et quia multi sunt vocati...pauci experti, necesse est sub multorum praesumptione multa dici diversa et ea etiam corrumpi quae ab antiquis dicta sunt cum sint rectoria plures item falsi...in huius fuere et electi.</p>
+      <p id="ODISUM0004">Est ergo mea praesens intentio qualibet ex...qualiter ex theorica musicae suae practica et usus processerunt...rationibus utraeque texantur quibus etiam modis variarum notae figurarum...concordent ostendere.</p>
+      <p id="ODISUM0005">Nec pudeat meae parvitati hunc tractatum...licet fidus pictor multa depingo utilia et...doctis proderit doctrina quam reperient et expertis legendi exercitium...rat si moralibus quinque physica prout decet misceantur. Nam haec est tam...praecipua ut his cognitis quae hic dicenda sunt et ratione ac demonstratione ostendenda, facilius devotius ipse veneretur qui cuncta condidit et ipsius...estat o...in omnia certo numero pondere et mensura harmonice compact... Ad omnis autem memoriam et lucidiorem intuitum dicendorum habet...distinguere curavi.</p>
+      <p id="ODISUM0006">Prima pars est de inaequalitate numerorum et eorum habitudine. Secunda de inaequalitate sonorum sub proportione numerali et ratione 
+      <pb n="[43]" />concordiarum. Tertia de compositione instrumentorum musicorum et de... Quarta de inaequalitate temporum in pedibus quibus metra et rhythmi decurrunt. Quinta de harmonia simplici, id est de plano cantu. Sexta et ultima de harmonia multiplici, id est de organo et eius speciebus nec non de compositione et figuratione.</p>
+      <p id="ODISUM0007">
+      <pb n="[44]" />I. De inaequalitate numerorum et eorum habitudine</p>
+      <p id="ODISUM0008">Prima pars habet capitula decem: De utilitate arithmeticae et eius musicae introductione; [f. 1v] De axiomatibus; De inaequalitatibus specie quae multiplex dicitur; De superparticulari; De superpartiente; De multiplici superparticulari; De multiplici superpartiente; De proportione numerorum qui ab aliis metiuntur; De triplici media proportionalitate, quae inaequalitates quas creant; Quae species superparticularis, scilicet sesquialtera et sesquitertia, primam terminat speciem multiplicando, scilicet duplam vim habens.</p>
+      <p id="ODISUM0009">1. De utilitate arithmeticae et eius musicae introductione.</p>
+      <p id="ODISUM0010">Rubrica.</p>
+      <p id="ODISUM0011">Quoniam de musica praesens est pertractatio, et ipsa quidem est de numero relato ad sonum, prius de arithmetica arbitror exponendum, quae est de numero per se, sine qua quicquid inclitum nequit pertractari. Arithmetica autem nominis interpretatione est scientia de numero. Est autem numerus principale in animo conditoris exemplare, ut ait Nichomachus. Cum ergo exemplatum respondeat exemplari, manifestum est quod omnes creaturae factae secundum numeralem proportionem. Et patet quoniam quattuor elementa, septem orbes planetarum proportionatis intrinsecus certis distinctis numeris conditor ipse consolidavit. Aiunt enim astrologi primam celestem ex diapente diatessaronque constare, qui unum faciunt diapason, hoc est in numeris ex sesquialtera et sesquitertia, quae duplam faciunt habitudinem ut patet posterius. Huiusmodi certa sunt interstitia. Ait etiam Plato animam mundi musica continentia esse coniunctam et sic numero metiendam. Non dico sicut dicunt aliqui super his, quod motus superiorum corporum aliquam faciunt harmoniam vel sonum nec etiam innatum nobis et propterea non auditum. Sed sunt corpora illa secundum harmonicam proportionem coniuncta et se habent proportionaliter sicut eorum diametri. Non 
+      <pb n="[45]" />dico eamdem proportionalitatem sed ultimam proportionem libri duodecimi Euclid. Proportio duarum sphaerarum adinvicem est proportio unius diametri ad diametrum alterius triplicata. Ut si diametrum A sit duplum ad diametrum B, sphaera C ad sphaeram D sit octupla.</p>
+      <p id="ODISUM0012">[CSM14:45,1; text: A, B, C, D] 
+      <figure>
+        <graphic url="/images/ODISUM_01GF.gif" />
+      </figure></p>
+      <p id="ODISUM0013">Vero dupla triplicata octuplam facit habitudinem, et huiusmodi est harmonia praedicta.</p>
+      <p id="ODISUM0014">[CSM14:45,2; text: octupla, dupla, 1, 2, 4, 8]</p>
+      <p id="ODISUM0015">Istae circumferentiae intelligantur oportet et non superficies. Corpus enim non potest figurari in plano quia habet tres dimensiones; longitudinem, latitudinem et profunditatem.</p>
+      <p id="ODISUM0016">Sed est homogeneitas corporum continentium et contentorum quia convexitas inferioris et concavitas superioris [f. 2r] sunt eiusdem naturae et subtilitatis; et repletio, id est soliditas, quia sphaera est corpus solidum; et uniformitas motus quia non alias velocior et alias tardior non patiuntur machinam mundi sonos ciere vel edere quoniam concavum vacuum sonum sonat ut patet in corporibus musicis. Et vacuum dico, quia et si sit aliqualis repletio in illis, utpote aerea, tamen quia non est 
+      <pb n="[46]" />homogenerica cum corpore continente sed subtilis et advenienti grossiori materiae succedit ut sit modo rarior modo densior, ideo suum continens sonare patitur. Excludo etiam in his omnem motum violentum qui sonum facere debeat, ut tonitruum, quod fit viventorum. Num quid et numerus aeternus, qui nec incipit nec aliquando desinet, semper Beatae Trinitati annexus. Semper enim tria trinitas includit et tria unitatem.</p>
+      <p id="ODISUM0017">Sed et in corporibus inferioribus numeralem est reperire proportionem. Corporis enim humani latitudo sexta pars est longitudinis in proportione sextupla, profunditas vero decima in proportione decupla. Latitudinis autem ad profunditatem est proportio superbipartiens tertias, qui duos super tertiis exuberant, ut puta in his numeris.</p>
+      <p id="ODISUM0018">[CSM14:46; text: longitudo, latitudo, 6, profunditas, 10, 60, Superbipartiens tertias, decupla, sextupla]</p>
+      <p id="ODISUM0019">Temporum etiam et aetatum sunt numeri denominativi. Nam sex sunt aetates, duodecim menses, septem dies, viginti quattuor horae et caetera huiusmodi.</p>
+      <p id="ODISUM0020">Est ergo scientia de numero necessaria et utilis qui cuncta rimatur, ad cuius exemplationem omnia consolidantur et inesse manent. Sicut dicit Isidorus ethimologus, Tolle numerum in rebus omnibus et cuncta perentibus.</p>
+      <p id="ODISUM0021">Ista igitur scientia, scilicet de numero tam per se quam relato ad 
+      <pb n="[47]" />sonum, sic est secundum Alardum introducta. Scientia dividitur in sapientiam et eloquentiam. Eloquentia in grammaticam, dialecticam et rhetoricam. Sapientia in theoricam et practicam. Practica in ethicam, metaphysicam et practicam liberalem. Ethica in monasticam, economicam et politicam. Mechanicam in lanificium, armaturam, agriculturam, navigationem, venationem, medicinam et theaturam. Practica liberalis distinguitur secundum artes liberales. Singulae enim singulas habent practicas. Theorica dividitur in theologiam, physicam et mathematicam. Mathematica in arithmeticam, musicam, geometricam et astronomiam. Ecce mathematica genus continet arithmeticam et musicam, de quibus est [f. 2v] praesens intentio.</p>
+      <p id="ODISUM0022">2. De axiomatibus.</p>
+      <p id="ODISUM0023">Axiomata sunt descriptiones terminorum. Unitas est principium. Numerus est multitudo ex unitatibus composita. Numeratio naturalis est omnium numerorum ab unitate quantumlibet nullo interciso continua progressio ut hic: 1, 2, 3, 4, 5, 6 et caetera. Par numerus est qui potest in duo aequales dividi, impar qui non potest. Numerus quadratus vel tetragonalis dicitur qui ex ductu numeri in seipsum producitur, eumque duo numeri aequales continent qui sunt ipsius latera. Et latus eius radix vocatur a quo tota summa sumit originem ut quater quattuor sunt 16, qui est numerus quadratus, ut hic.</p>
+      <p id="ODISUM0024">[CSM14:47; text: 1]</p>
+      <p id="ODISUM0025">Numerus perfectus est qui omnibus se numerantibus aequalis est, ut sex tribus, duobus et unitate aequalis est, ut hic tres, duo et unus faciunt sex.</p>
+      <p id="ODISUM0026">Multiplicare est numerum ducere in alium, et numerus duci in 
+      <pb n="[48]" />alium dicitur qui totiens eum multiplicat, quotiens continet in se unitas, ut bis quattuor octo sunt.</p>
+      <p id="ODISUM0027">Proportio est diversarum rerum adinvicem corporalis collatio. Proportio est habitudo quantitatum. Proportionalitas est habitudo proportionum. Ut duo ad quattuor est proportio, quattuor ad octo est proportio, quae duae faciunt proportionalitatem unam. Est enim proportionalitas una inter tres terminos. Numeri proportionales sunt quattuor: primus in secundo, tanquam tertius in quarto aut in primo, tertius tanquam in secundo, quartus ut duo, quattuor, sex, duodecim. Sicut se habet duo ad quattuor sic sex ad duodecim, et sicut duo ad sex sic quattuor ad duodecim. Continua proportionalitas est quotiens secundus ad tertium se habet sicut primus ad secundum, quotlibet fuerint in ordine ut quattuor, sex, novem. Sicut sex continet quattuor et medietatem, sic novem tenet sex et medietatem. Media proportionalitas est quotiens medius numerus se habet proportionaliter ad extremos, licet non eadem specie proportionis ut duo, tres, quattuor. Ternarius cum binario facit sesquialteram habitudinem, quaternarius cum ternario sesquitertiam. Numerus a numero metitur cum continet pluries, ut binarius metitur bis, quaternarium; ter, senarium; quater, octonarium vocaturque binarius numerus numerans ternarius et quaternarius numeri quotiens. Vocatur etiam numerus maior dux cum minorem numerat, minor vero comes cum maiorem numerat, ut quater tria, ter quattuor. Differentia est qua a se invicem numeri differunt, ut binarius est differentia inter sex et quattuor. Intervallum est distantia proportionalium. Maior inaequalitas est cum maior numerus comparatur ad minorem, minor vero inaequalitas cum minor refertur ad maiorem.</p>
+      <p id="ODISUM0028">3. De inaequalitatis specie quae multiplex dicitur.</p>
+      <p id="ODISUM0029">[f. 3r] Species quidem proportionum secundum species maioris inaequalitatis et minoris sunt accipiendae super quas tota ista speculatio situatur. Species vero maioris inaequalitatis sunt quinque, scilicet multiplex, superparticulare, superpartiens, multiplex superparticulare, et multiplex superpartiens. Et totidem sunt species minoris inaequalitatis his idem vocare nominibus, tamen praeponendis sub singulis earum, ut 
+      <pb n="[49]" />submultiplex, subsuperpartiente, et caetera.</p>
+      <p id="ODISUM0030">Multiplex est cum maior numerus continet minorem multotiens ut bis vel ter vel quater vel quamtotiens. Si bis, vocatur proportio dupla; si ter, tripla; si quater, quadrupla; atque hoc in infinitum, ut unus, duo, quattuor, octo. Octonarius comparatus ad quattuor duplus est, ad duo quadruplus, ad unum octuplus. Submultiplex est cum minor numerus continetur a maiore vel bis vel ter, ut prius. Si bis, vocatur subdupla, si ter subtripla, et sic de aliis, semper praeponendo sub.</p>
+      <p id="ODISUM0031">Generatio istorum numerorum sic est investiganda. Disponantur numerus naturalis ab unitate quantumlibet fietque ut primus par primi numeri sit duplus, secundus par secundi numeri in ordine sit superduplus ut hic: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12. Binarius, 2, qui primus par est, primi numeri, scilicet unitatis, est duplus. Quaternarius, qui secundus par est, secundi numeri, scilicet binarii, duplus est atque sic, semper uno interciso. Triplus autem intermissus duoque numerus est reperiendus extracto solo ternario qui unum numerum intermittit. Ternarius enim primi numeri, scilicet unitatis, triplus est. Senarius vero intermissis quattuor et quinque secundi numeri, scilicet binarii, est triplus; novem vero, tertii numeri, scilicet ternarii, semper a primo triplo duobus numeris interceptis. Atque secundum eundum modum quadrupli sunt inveniendi tribus numeris intermissis; quintupli, quattuor interceptis, et sic de omnibus. Est autem omnis numerus subduplus ad alium subtriplus et subquadruplus. In dicta etiam descriptione invenitur secundum praedictum modum quotlibet numeri continentes proportionales sed valde confuse quare necesse est omnem arithmeticum et musicum scire algorismum computatorium.</p>
+      <p id="ODISUM0032">4. De superparticulari.</p>
+      <p id="ODISUM0033">Superparticulare est quotiens maior numerus continet minorem totum et insuper eius aliquam partem. Si alteram partem, id est eius medietatem, continet, vocatur sesquialtera, ut sunt tres ad duo. Tria enim continent duo et medietatem duorum, scilicet unitatem. Si tertiam partem continet vocatur sesquitertia, ut sicut quattuor ad tria; si quartam, sesquiquarta; si octavam, sesquioctava, ut sunt novem ad octo, et caetera. Secundum hunc modum licet nomina fingere. Dictusque minor 
+      <pb n="[50]" />comparatus ad maiorem subsesquialtera, subsesquitertia et caetera, praeponendo sub. Ut autem sesquialteri [f. 3v] inveniantur, describantur numeri naturales et eorum duplices et triplices, et erunt omnes triplices duplicibus sesquialteri ut hic.</p>
+      <p class="textFig" id="ODISUM0034">1&#160;&#160;2&#160;&#160;3&#160;&#160;4&#160;&#160;5&#160;&#160;6&#160;&#160;7
+      <lb />2&#160;&#160;4&#160;&#160;6&#160;&#160;8&#160;10&#160;12&#160;14
+      <br />3&#160;&#160;6&#160;&#160;9&#160;12&#160;15&#160;18&#160;21
+      <lb /></p>
+      <p id="ODISUM0035">Duplices numeri naturales sunt numeri secundi versus, triplices sunt tertii versus. Ternarius comparatus ad binarium sesquialter est, similiter senarius ad quaternarium et caetera. Si autem sesquitertia requiritur proportio, describantur ut prius numeri naturales et eorum triplices et quadruplices, et numeri tertii versus comparati ad numeros secundi rata computatione sesquitertiam obtinebunt proportionem, ut hic.</p>
+      <p class="textFig" id="ODISUM0036">1&#160;&#160;2&#160;&#160;3&#160;&#160;4
+      <br />3&#160;&#160;6&#160;&#160;9&#160;12
+      <lb />4&#160;&#160;8&#160;12&#160;16
+      <br /></p>
+      <p id="ODISUM0037">Atque in aliis superparticularis speciebus consimiliter.</p>
+      <p id="ODISUM0038">Si sesquiquarta requiritur describantur numeri naturales quadruplici et quintupli. Si sesquioctava inquiritur describantur numeri naturales octupli et noncupli, et erunt numeri tertii versus sesquioctavi ad numeros secundi versus ut hic.</p>
+      <p class="textFig" id="ODISUM0039">1&#160;&#160;2&#160;&#160;3&#160;&#160;4&#160;&#160;5
+      <lb />8&#160;16&#160;24&#160;32&#160;40
+      <br />9&#160;18&#160;27&#160;36&#160;45
+      <lb /></p>
+      <p id="ODISUM0040">Ad inveniendas quotlibet continuas proportiones quidem maximum habet necessitatem in sequentibus. Hac arte utens est; unusquisque numerus multiplex ab unitate computatus tot praecedit superparticulares quotus ipse. Duplices etiam sesquialteros praecedunt, triplices sesquitertios, 
+      <pb n="[51]" />quadruplices sesquiquartos, et sic de aliis. Unde si quaerantur continui sesquialteri, disponantur omnes ab unitate quantumlibet. Angulares autem sunt triplices, caeteri omnes posteriores priorum sunt duplices ut monstrat subiecta forma.</p>
+      <p class="textFig" id="ODISUM0041">1&#160;&#160;&#160;3&#160;&#160;&#160;9&#160;&#160;27&#160;&#160;81
+      <br />&#160;&#160;&#160;&#160;4&#160;&#160;12&#160;&#160;36&#160;108
+      <lb />&#160;&#160;&#160;&#160;&#160;&#160;&#160;16&#160;&#160;48&#160;144
+      <br />&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;64&#160;192
+      <lb />&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;256
+      <br /></p>
+      <p id="ODISUM0042">Binarius autem, qui primus multiplex est, unum sesquialterum praecedit. Ternarius vero, quia medietate caret, nullum praecedit. Quaternarius autem, qui secundus multiplex est, duobus praecedit sesquialteros, et sic de caeteris: tot sesquialteros praecedit multiplex quotus ipse est. Angulares autem sunt 1, 3, 9, 27, 81. Semper posterior angularis prioris triplex.</p>
+      <p id="ODISUM0043">Si quaerantur continui sesquitertii, disponantur omnes triplices et angulares quadruplices quia duplices sesquialteros triplices sesquitertios praecedunt, et sic de caeteris, ut hic patet.</p>
+      <p class="textFig" id="ODISUM0044">1&#160;&#160;&#160;3&#160;&#160;&#160;9&#160;&#160;27&#160;&#160;81
+      <lb />&#160;&#160;&#160;&#160;4&#160;&#160;12&#160;&#160;36&#160;108
+      <br />&#160;&#160;&#160;&#160;&#160;&#160;&#160;16&#160;&#160;48&#160;144
+      <lb />&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;64&#160;192
+      <br />&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;256
+      <lb /></p>
+      <p id="ODISUM0045">Et sic penitus concordia est in ista formula sicut in praecedente.</p>
+      <p id="ODISUM0046">Continui sesquioctavi simili modo sunt quaerendi. Disponantur omnes octupli et angulares noncupli, et sine ulla ambiguitate omnes sesquioctavi sunt reperti. Et penitus sic concordia est in his sesquioctavis sicut in sesquialteris, ut hic patet:</p>
+      <p class="textFig" id="ODISUM0047">1&#160;&#160;8&#160;&#160;&#160;64&#160;&#160;512&#160;&#160;4,096&#160;&#160;32,768&#160;&#160;262,144
+      <br />&#160;&#160;&#160;9&#160;&#160;&#160;72&#160;&#160;576&#160;&#160;4,608&#160;&#160;36,864&#160;&#160;296,912
+      <lb />&#160;&#160;&#160;&#160;&#160;&#160;&#160;81&#160;&#160;648&#160;&#160;5,184&#160;&#160;41,472&#160;&#160;331,776
+      <br />&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;729&#160;&#160;5,832&#160;&#160;46,656&#160;&#160;373,248
+      <lb />&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;6,561&#160;&#160;52,488&#160;&#160;419,904
+      <br />&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;59,049&#160;&#160;472,393
+      <lb />&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;531,441&#160;[f.&#160;4r]
+      <br /></p>
+      <p id="ODISUM0048">
+      <pb n="[52]" />quotus enim multiplex est sesquioctavos praecedit. Sed et hoc [f. 4r] intuendum, quod numerus angularis angulariter contingens est octava pars sui correlativi, ut octa refertur ad novem et unitas angulariter contingens novem est octava pars octo. Similiter 72 refertur ad 81 et novem est octava pars 72orum. Tanta enim parte excedit dux comitem, quantus est numerus angularis. Et sic de caeteris superparticularis speciebus.</p>
+      <p id="ODISUM0049">5. De superpartiente.</p>
+      <p id="ODISUM0050">Superpartiens est quotiens numerus maior continet minorem totum et insuper aliquas eius partes, vel duas vel tres vel quattuor vel quotlibet. Si duas partes insuper habuerit, superbipartiens nominatur, si vero tres, supertripartiens, si quattuor, superquadripes, et caetera eodem modo. Si ergo quaerantur superpartientes, disponantur numeri naturales a tria quantumlibet, et super his ponantur omnes in partes a quinario, et minor superpartiens habitudo procreatur, ut hic patet.</p>
+      <p class="textFig" id="ODISUM0051">5&#160;&#160;7&#160;&#160;9&#160;&#160;11&#160;&#160;13&#160;&#160;15&#160;&#160;17&#160;&#160;19
+      <lb />&#160;3&#160;&#160;4&#160;&#160;5&#160;&#160;&#160;6&#160;&#160;&#160;7&#160;&#160;&#160;8&#160;&#160;&#160;9&#160;&#160;10
+      <br /></p>
+      <p id="ODISUM0052">Quinarius ergo ternario comparatus superbipartiens dicitur; septenarius quaternario, supertripartiens; novenarius quinario, superquadripartiens. Si autem superbipartientes quaerantur, duplicentur primae radices eius, scilicet quinque et tria, et eandem habent habitudinem. Rursum duplices duplicentur quinque, et idem fiet per totum. Si autem supertripartientes quaerantur, triplicentur radices eorum, scilicet septem et quattuor, et per totum eandem obtinebunt habitudinem. Si superquadripartientes quaerantur, quadruplicentur radices, et sic de aliis.</p>
+      <p class="textFig" id="ODISUM0053">3&#160;&#160;4&#160;&#160;5&#160;&#160;&#160;6&#160;&#160;&#160;7&#160;&#160;&#160;8&#160;&#160;&#160;9&#160;&#160;10
+      <lb />5&#160;&#160;7&#160;&#160;9&#160;&#160;11&#160;&#160;13&#160;&#160;15&#160;&#160;17&#160;&#160;19
+      <br /></p>
+      <p id="ODISUM0054">Hoc quocumque intuendum est quod cum maior numerus continet minorem et duas eius partes dicetur superbipartiens tertias. Similiter supertripartiens quum tribus super quartis exuberent, dicentur supertripartiens quartas et sic de aliis. Et in hac specie sicut in prioribus omnes minores numeri addita sub proportione nominantur.</p>
+      <p id="ODISUM0055">
+      <pb n="[53]" />6. De multiplici superparticulari.</p>
+      <p id="ODISUM0056">Multiplex superparticulare est cum maior numerus continet minorem multotiens et insuper eius aliquam partem, vel alteram partem, vel tertiam, vel quartam, vel quintamcumque. Si bis continet maior totum minorem et eius alteram partem, dicetur duplex sesquialter. Si ter, dicetur triplex sesquialter, et si quater, quadruplex sesquialter, et caetera [f. 4v] eodem modo. Si bis continet maior minorem et eius tertiam partem, dicetur duplex sesquitertius, si quartam, duplex sesquiquartus, et caetera. Si ter continet maior numerus minorem et eius tertiam partem, dicetur triplex sesquitertius. Si quartus et quartam partem, quadruplex sesquiquartus, et sic de nominibus aliis.</p>
+      <p id="ODISUM0057">Disponantur a binario omnes partes, a quinario omnes sese quinque ransilientes, et duplices sesquialteri generantur, ut hic patet.</p>
+      <p class="textFig" id="ODISUM0058">2&#160;&#160;&#160;4&#160;&#160;&#160;6&#160;&#160;&#160;8&#160;&#160;10&#160;&#160;12
+      <lb />5&#160;&#160;10&#160;&#160;15&#160;&#160;20&#160;&#160;25&#160;&#160;30
+      <br /></p>
+      <p id="ODISUM0059">Si a tribus inchoatur et tribus sese transilient et eis apercetur a septenario inchoantes sese excedentes duplices sesquitertii mox fuerint, ut hic patet.</p>
+      <p class="textFig" id="ODISUM0060">3&#160;&#160;&#160;6&#160;&#160;&#160;9&#160;&#160;12&#160;&#160;15
+      <lb />7&#160;&#160;14&#160;&#160;21&#160;&#160;28&#160;&#160;35
+      <br /></p>
+      <p id="ODISUM0061">Si autem naturales numeri quadrupli disponantur et a novem inchoantes sese novem transibant, fiet habitudo sesquiquarta duplex, ut hic patet.</p>
+      <p class="textFig" id="ODISUM0062">1&#160;&#160;&#160;2&#160;&#160;&#160;3&#160;&#160;&#160;4
+      <lb />4&#160;&#160;&#160;8&#160;&#160;12&#160;&#160;16
+      <br />9&#160;&#160;18&#160;&#160;27&#160;&#160;36
+      <lb /></p>
+      <p id="ODISUM0063">Triplex sesquialter sic generatur. Disponantur a binario omnes partes et a septenario sese septem transgredientes, et fiunt triplices sesquialteri, ut hic.</p>
+      <p class="textFig" id="ODISUM0064">2&#160;&#160;&#160;4&#160;&#160;&#160;6&#160;&#160;&#160;8
+      <br />7&#160;&#160;14&#160;&#160;21&#160;&#160;28
+      <lb /></p>
+      <p id="ODISUM0065">Triplex sesquitertius sic reperientes et fiunt triplices et eis comparentur a denario, omnes decem transilientes, ut hic patet.</p>
+      <p class="textFig" id="ODISUM0066">
+      <pb n="[54]" />&#160;1&#160;&#160;&#160;2&#160;&#160;&#160;3&#160;&#160;&#160;4&#160;&#160;&#160;5&#160;&#160;&#160;6
+      <br />&#160;&#160;&#160;&#160;&#160;&#160;&#160;3&#160;&#160;&#160;6&#160;&#160;&#160;9&#160;&#160;12&#160;&#160;15&#160;&#160;18
+      <lb />&#160;&#160;&#160;&#160;&#160;&#160;10&#160;&#160;&#160;20&#160;30&#160;&#160;40&#160;&#160;50&#160;&#160;60
+      <br /></p>
+      <p id="ODISUM0067">Et decupli ad triplices erunt triplices sesquitertii.</p>
+      <p id="ODISUM0068">7. De multiplici superpartiente.</p>
+      <p id="ODISUM0069">Multiplex superpartiens est quotus maior numerus continet minorem plus quam semel et eius aliquas partes, vel duas, vel tres, vel quotlibet. Si bis et eius duas partes, vocatur duplex superbipartiens, ut sunt octo ad tria. Si ter et duas partes, dicitur triplex superbipartiens, ut undecim ad tria. Si ter et tres partes, dicitur triplex supertripartiens, ut sunt quindecim ad quattuor. Et sic de caeteris nominibus.</p>
+      <p id="ODISUM0070">Si duplex superbipartiens quaeritur, disponantur a ternario omnes sese transilientes et ab octo excedens, et dicta habitudo mox precabitur ut hic.</p>
+      <p class="textFig" id="ODISUM0071">3&#160;&#160;&#160;6&#160;&#160;&#160;9&#160;&#160;12
+      <lb />8&#160;&#160;16&#160;&#160;24&#160;&#160;32
+      <br /></p>
+      <p id="ODISUM0072">Caetera de levi patebunt diligenti inquisitori. Et semper sciendum est quod minores comites numquam sine sub proportione nominantur, ut sit subduplex superbipartiens, subtriplex supertripartiens, et caetera consimiliter.</p>
+      <p id="ODISUM0073">Et in his omnibus inaequalitatis speciebus hoc notandum, quod si duos numeros unus aliquis numerus multiplicaverit, in eadem proportione erunt multiplicatione praedicta quam ante multiplicationem. Ut tria ad quattuor sunt in proportione sesquitertia, si binario multiplicentur, ut sint sex et octo, in eadem proportione erunt, et sic [f. 5r] de omnibus.</p>
+      <p id="ODISUM0074">8. De proportione numerorum qui ab aliis metiuntur.</p>
+      <p id="ODISUM0075">Si duos numeros eorum differentia integre fuerit permensa, in eadem proportione erunt numeri illi in qua et numeri eorum quotiens, ut 50 et 55. Quinarius decies metitur quinquaginta, undecies 55, qui decem et undecim sunt numeri eorum quotiens. Sicut ergo se habent undecim ad decem, sic 55 ad 50, hoc est in proportione sesquidecima. Si autem diminutior et non integra fuerit mensura, sed aequaliter excedant mensuram, si eis retractum sit quod post mensuram relinquitur, in maiori proportione 
+      <pb n="[55]" />erunt quam integri, ut 53, 58. Differentia eorum, scilicet quinque, metitur decies, 50 ad 53, et undecies, 55 ad 58, et utrumque exceditur aequaliter, scilicet ternario. Hoc ergo dempto utrimque, in maiori proportione erunt residui, scilicet 55 ad 50, quam 58 ad 53. Si autem differentiae permensio numerorum multitudinem aequaliter excedat, ut in 43 et 58, in maiori sunt proportione quam si utrisque numerus addatur ad expletionem mensurae. Quinque autem metiuntur decies, 48, sed deficiunt duo a denaria mensura. Similiter undecies, 53, et deficiunt duo. Maior est ergo proportio ut patet in numero naturali 1, 2, 3, 4. Secundus ad primum duplus est, tertius ad secundum sesquialter, quartus cum tertio sesquitertius, quia, ut Alardus dicit, quanto pluries dux continet comitem vel plus de comite, tanto maior est proportio. Ut maior sit dupla quam altera pars, altera maior quam tertia, et tertia maior quam quarta, quod nemo ignorat.</p>
+      <p id="ODISUM0076">9. De triplici media proportionalitate.</p>
+      <p id="ODISUM0077">Rubrica.</p>
+      <p id="ODISUM0078">Continget saepius ut propositis duobus numeris necesse sit tertium invenire medium proportionalem. Quot de media proportionalitate, dicendum quod triplex, secundum quod triplex est relatio inaequalitatis. Si inaequalitas referatur ad magnitudinem, ut duplum dimidium ad superficiem vel lineam, de tali est geometrica. Si referatur ad numerum, sic arithmetica: si ad sonum, sic musica, et in his omnibus sunt numeri convenientia exempla. Et quia in arithmetica exemplum et telo inaequalitatis sunt numeris, ideo dicitur arithmetica de numero per se quia non refertur ad aliud. Unde secundum hoc est triplex media proportionalitas, scilicetgeometrica, arithmetica, et harmonica.</p>
+      <p id="ODISUM0079">Geometrica est quotiens minoris ad medium et medii ad maximum. Est eadem proportio, ut 4, 6, 9, et sic quaeritur. Termini propria numerositate multiplicentur, id est 4 in 9, et fient 36, qui numerus est quadratus, componitur enim ex utrisque quadratis a quo assumantur tetragonale latus, scilicet sex. Sexies enim sex sunt 36, et geometrica medietas reperta est ut sic iste [f. 5v] ordo: 4, 6, 9.</p>
+      <p id="ODISUM0080">Arithmetica est quotiens est aequa differentia minoris ad medium et medii ad maximum sed non eadem proportio, ut 2, 3 4. Differentia 
+      <pb n="[56]" />ternarii ad binarium est unitas, similiter quaternarii ad ternarium, sed proportio diversa, scilicet sesquialtera et sesquitertia. Si ergo arithmetica medietas quaeritur, datorum terminorum videnda differentia ea quae dividenda et minori tertio adicienda, et arithmetica medietas mox nascetur, ut 8 et 16. Differentia eorum est 8. Si ergo dividantur 8, relinquimur 4, qui quattuor minori tertio, scilicet 8, additi faciunt 12, qui est proportio arithmetica, ut iste ordo: 8, 12, 16.</p>
+      <p id="ODISUM0081">Harmonica medietas neque eisdem proportionibus neque eisdem differentiis constat, sed quemadmodum se habet maximus terminus ad minimum, sic maiorum differentia terminorum ad minorum differentiam terminorum, ut in his numeris: 3, 4, 6. Differentia senarii ad 4 est binarius, 4 ad 3 unitas. Sicut ergo 6 ad 3, sic duo ad unum. Si ergo inter hos terminos 6 et 12 harmonica medietas quaeritur, coniungantur extremi, scilicet 6 et 12, et fient 18. Insuper differentiam terminorum, scilicet 6, multiplica in minorem numerum, scilicet 6, et fient sexies sex, 36. Hic per coniunctos extremos dividantur, scilicet per 18, et numerus quotiens, scilicet binarius, minori termino addatur, fientque 8, et hic est medium proportionale harmonicum inter 6 et 12, ut sit ordo 6, 8, 12.</p>
+      <p id="ODISUM0082">[CSM14:56,1; text: 6, 8, 12, sesquialtera, dupla] 
+      <figure>
+        <graphic url="/images/ODISUM_02GF.gif" />
+      </figure></p>
+      <p id="ODISUM0083">Triplicata dupla octuplam facit habitudinem, ut hic.</p>
+      <p id="ODISUM0084">[CSM14:56,2; text: octupla, 1, 2, 4, 8, dupla]</p>
+      <p id="ODISUM0085">
+      <pb n="[57]" />10. Quae species superparticularis, scilicet sesquialtera et sesquitertia, primam terminat speciem multiplicando, scilicet duplam vim habens.</p>
+      <p id="ODISUM0086">Dupla duplicata quadruplam facit habitudinem ut in his numeris.</p>
+      <p id="ODISUM0087">[CSM14:57,1; text: quadrupla, 1, 2, 4, dupla]</p>
+      <p id="ODISUM0088">Prima species multiplex et prima superparticularis, scilicet dupla cum sesquialtera, triplam creat ut hic in his figuris.</p>
+      <p id="ODISUM0089">[CSM14:57,2; text: dupla, sesquialtera, 2, 4, 6, tripla]</p>
+      <p id="ODISUM0090">Si a sesquialtero intervallo sesquitertium dematur, quod relinquimus erit sesquioctavum, ut hic patet. [f. 6r]</p>
+      <p id="ODISUM0091">[CSM14:57,3; text: sesquialtera, 6, 8, 9, sesquitertia, sesquioctava]</p>
+      <p id="ODISUM0092">Sex sesquioctavae habitudines duplam excedunt, quinque vero sesquioctavae duplam non perficiunt, ut hic patet.</p>
+      <p id="ODISUM0093">
+      <pb n="[58]" />[CSM14:58,1; text: dupla: 262,144, 524,288, quinque sesquioctavae: 472,392, sex sesquioctavae: 531,441, differentia numerorum: 7,153] 
+      <figure>
+        <graphic url="/images/ODISUM_03GF.gif" />
+      </figure></p>
+      <p id="ODISUM0094">Duae sesquialterae duplicem sesquiquartum contingunt, ut hic patet.</p>
+      <p id="ODISUM0095">[CSM14:58,2; text: 4, 6, 9, sesquialtera, duplex sesquiquartus]</p>
+      <p id="ODISUM0096">Sesquiquarto et sesquiquinto intervallo sesquialterum iungi manifestum est, ut hic patet.</p>
+      <p id="ODISUM0097">[CSM14:58,3; text: sesquialtera, sesquiquinta, sesquiquarta, 6, 5, 4]</p>
+      <p id="ODISUM0098">Patet hoc, quod duo sesquioctavi nullam faciunt mediam proportionalitatem in sesquialtero intervallo, ut hic patet.</p>
+      <p id="ODISUM0099">[CSM14:58,4; text: sesquioctava, 64, 72, 80, 81, 96, sesquiquarta, sesquiquinta, duae sesquioctavae, sesquialtera]</p>
+      <p id="ODISUM0100">
+      <pb n="[59]" />Numerus enim 81 cum neutro terminorum extremorum facit sesquiquartam nec sesquiquintam. Unitas enim facit differentiam, et sic non facit proportionalitatem. Non arithmetica, quia non est aequa differentia 96 ad 81 et 81us ad 64. Non geometrica, quoniam 6,144, qui pervenit ex ductu 64 in 96, non est quadratus, nec latus tetragonale habet, quod faceret mediam proportionalitatem. Radix vel latus proximi quadrati sub eo, scilicet 6,084, est numerus 78. Non harmonica, quia cum maior terminus se habet ad minorem quidem excedit eum, differentia maiorum terminorum, scilicet 15, exceditur a minorum differentia terminorum, [f. 6v] scilicet 17, habetur, ergo praeponitur.</p>
+      <p id="ODISUM0101">Ista ergo sufficiant de arithmetica ad musicae disciplinae speculationem.</p>
+      <p id="ODISUM0102">Explicit prima pars.</p>
+      <p id="ODISUM0103">
+      <pb n="[60]" />II. De inaequalitate sonorum sub proportione numerali</p>
+      <p id="ODISUM0104">Incipit secunda, habens capitula duodeviginti: De utilitate et laude musicae; De tribus partibus musicae; De axiomatibus; De mensuratione sonorum secundum Pythagoram; De partibus toni; In quibus numeris semitonium minus, in quibus numeris constet semitonium maius; Quod diapente et diatessaron tono distent et diapason claudant; In quibus numeris constet comma et eius proportio quae sit; De habitudine numerorum semitonium maius continentium et minus; In qua proportione sunt ditonus et semiditonus et an sint symphoniae; An diapason cum diatessaron sit symphonia; An diapente cum tono sit symphonia; An diapente et diatessaron eidem tono comparante se simul compatiantur; Quae sunt symphoniae, quae etiam sunt principales et de eorum ordine; Quae concordes discordiae; Quae consonantiae se simul compatiantur; Quas medietates quaelibet recipit; De notis vocabulorum.</p>
+      <p id="ODISUM0105">1. De utilitate et laude musicae.</p>
+      <p id="ODISUM0106">De numero per se quantum optimum estimavi digestum est. Restat de numero relato ad sonum, id est de musica, quae in sonis et vocibus consistit, explicandum. Musica quidem est modulationis peritia sono tactuque consistens, et dicitur a musis quasi poetae finxerunt Iovis esse filias et memoriae, quia nisi memoria teneantur, soni pereunt. Quarum haec sunt nomina: Urania, Polymnia, Euterpe, Melpomene vel Melpona, Erato, Terpsichore, Calliope, Clio, et caetera Thalia; et dictae musae apo ton myson, id est, a quaerendo, ut ait Clemens Alexandrinus, eo quod per eas vis carminum et modulationis quaeretur. Novem musae dicuntur novem scientiae quibus fit homo perfectus in omni doctrina. Quod apparet in Ethimologiis nomen nam Clio adicique, quod est fama. Dicitur haec praeesse poetis nam nullus scientiam quaerit nisi commendet, 
+      <pb n="[61]" />unde Persius: Scire tuum nihil est nisi te scire hoc sciat alter, et ideo Clio dicitur appelata, id est cogitatio famae quaerendae. Euterpe quasi bene delectans vocatur; Melpomene, id est faciens meditationem permanere; quarta Thalia, capacitas; Polyhymnia, multam memoriam faciens; Erato, id est inveniens simile; Terpischore, id est delectans instructionem; Urania, id est caelestis; Calliope, id est optimae vocis.</p>
+      <p id="ODISUM0107">Erit igitur hic ordo. Primum, velle doc[f. 7r]trinam. Secundum, delectare quod velit. Tertium, instare ad id quod desiderat. Quartum, capere quod instat. Quintum, memorari quod capitur. Sextum, invenire de proprio simile ad quod memineris. Septimum, iudicare quod inventum est. Octavum, eligere de quo iudicas. Nonum, optime proferre quod elegeris.</p>
+      <p id="ODISUM0108">Musica quidem animum in varios provocat affectus, ad tollendos labores animum mulcet, sicut dicunt hi qui putant Tubal filium Lamoch huius scientiae inventorem quod in remedium laboris pastoralis ipsam adinvenit. Et Varro ait, Excitatos animos sedat, volucres, pisces et serpentes meli dulcedine attrahit. Sicut legitur de quodam philosopho in mari navigante, quem nautae propter auri pondus quod vehebat demergere cupiebant, qui postulans citharam priusquam demergeretur, citharizavit et meli dulcedine attractum delphinum contendit, cuius natura est et in mari mortuos ad terram deferre et sepelire.</p>
+      <p id="ODISUM0109">Sed et tubarum concentus animos pugnantium accendit, et quanto clangor vehementior tanto animus pugnantium fortior. Sic et legitur David Saulem arreptum a demonio arte modulationis liberasse. Erat etiam antiquitus tam turpe musicam nescire quam litteras. In veneratione divina, in funeribus, in proeliis, in conviviis adhibetur, ut non sit conventus quo non ipsa associetur. Quia, sicut dicit beatus Gregorius, Tristia corda consolatur, gratiores mentes facit, fastidiosos oblectat, merces exsuscitat, peccatores ad lamenta invitat. Et Bernardus: Nihil 
+      <pb n="[62]" />tam proprium homini quam remitti dulcibus modis, astringi vero contrariis et incohaerentibus. Et Avicenna: Inter omnia exercitia sanitatis, cantare melius est. Et Psalmista: Beatus populus qui scit iubilationem. Scientia ergo sicut ista quae doceat modulationem est necessaria et in his habeatur commendata.</p>
+      <p id="ODISUM0110">2. De tribus partibus musicae.</p>
+      <p id="ODISUM0111">Musicae quidem tres partes, scilicet organica, rhythmica seu metrica, et harmonica. Organica est quae consistit in instrumentis sonoris. Et alia quidem fiunt, ut flatu sonent, ut organa et tubae; alia vero ut pulsu sonent, ut cithara, cymbalum, psalterium. Rhythmica seu metrica est quae requirit incursionem verborum et decernit in gestis et carminibus an pedes quibus constant apte cohaereant. Harmonica est modulatio vocum et plurimorum sonorum coaptatio et pertinet ad comoedos, tragoedos, et choros et eos qui propria voce cantant, et in his omnibus est ratio una ut patebit.</p>
+      <p id="ODISUM0112">Istae vero species artificio ministrant. Sed ipsa est musica quae rationi in his considerat et ratione [f. 7v] cuncta diiudicat, et ille musicus qui rationi requirit, non qui artificium, nam instrumentum rationi ministrant, ut quod ratione inventum est instrumentis exprimatur, nec rationis speculatio parandi actu eget. Et sic ratio prior artificio. Vero qui utitur cithara musicus est, sed suum instrumentum sibi nomen imposuit, scilicet citharoedus. Nam sufficit ipsam usu exercere nisi ratio sciatur sicut non sufficit colores intueri vel miscere, volenti arte pictoris operari. Nam qui membrorum corporalium ignorat proportionem, quomodo formabit imaginem?</p>
+      <p id="ODISUM0113">3. De axiomatibus.</p>
+      <p id="ODISUM0114">Rubrica.</p>
+      <p id="ODISUM0115">Consonantia, nisi praecesserit sonus, fieri non potest, nec sonus sine pulsu vel flatu, pulsus vero non sine motu, quia si omnia sint immobilia ullos esse sonos necesse est. Patet igitur quod motus est causa consonantiae effectiva. Motus vero alii rariores sunt, alii spissiores, sicut patet 
+      <pb n="[63]" />in omnibus mobilibus. Rari autem et tardi graves efficiunt sonos, spissi et celeres acutos. Sonus est percussio aeris indissoluta ad auditum. Sonorum alius vox, alius non. Sonus vox est hominum et aliorum animalium. Sonus non vox est aeris ictus, seu simile auditu, et procedit ex affectu corporis, quia sicut se habet corporis effectus, sic pulsus cordis motibus incitatur. Consonantia, symphonia, et harmonia idem sunt in his. Suntque acuti gravisque mixtura, suaviter uniformiterque auribus accidens, cuius contrarium sunt diaphonia et dissonantia. Gravitas est soni remissio, acumen vero eiusdem intentio.</p>
+      <p id="ODISUM0116">4. De mensuratione sonorum secundum Pythagoram.</p>
+      <p id="ODISUM0117">Licet per historias notum sit Tubal primum usu musicam exercuisse. Pythagoras tamen prior per pondera mensus est consonantias, et certa ratione inventas posteris reliquit. Transiens autem per fabrorum officinas, suavem et cohaerentem ex percussione quattuor malleorum super incudem audivit sonum. At ipse ponderatis malleis reperit unum alterum pondere, alterum totum et medietatem, alterum iterum totum et tertiam partem, ut sit primus sex ponderum, alius duodecim, tertius novem, et quartus octo, et sic sonum sub proportione numerali se habere, ut monstrat subiecta formula.</p>
+      <p id="ODISUM0118">[CSM14:63; text: 6, 12, 8, 9, dupla proportio, sesquitertia, sesquioctava, sesquialtera]</p>
+      <p id="ODISUM0119">His et aliis consimilibus concordiis per pondera repertis nomina indidit: ut qui in numeris vocatur dupla in sonis diapason vocetur, et qui in numeris sesquialtera in sonis diapente, et sesquitertia nominetur diatessaron, et sesquioctava habitudo vocetur tonus. Tripla vero vocetur diapason et diapente. Quadrupla autem bis [f. 8r] diapason nominetur, ut hic patet.</p>
+      <p id="ODISUM0120">
+      <pb n="[64]" />[CSM14:64; text: quadrupla, tripla, dupla, sesquialtera, sesquitertia, sesquioctava, 1, 2, 3, 4, 6, 8, 9, diapason, diapente, diatessaron, tonus, diapason et diapente, bis diapason] 
+      <figure>
+        <graphic url="/images/ODISUM_04GF.gif" />
+      </figure></p>
+      <p id="ODISUM0121">Quae autem pondere invenit in consonantia penitus dereliquit magis rationi credens quam sensui. Et hoc recitat Boethius, dicens non omne iudicium dandum esse sensibus quorum obtusa sunt iudicia, sed magis rationi credendum. Consonum aut dissonum aure metitur. Distantiam autem vocum ut easdem iterum recitemus non aure sed ratione rimanitur, sicut forte leve erit visui lineam, data linea, maiorem minoremve protrahere: sed tanto maiorem tantove minorem, non visu sed ratione.</p>
+      <p id="ODISUM0122">5. De partibus toni.</p>
+      <p id="ODISUM0123">Semitonium dicitur quod non veri toni sit medietas, sed illud semis solet dici quod tertiam partem excedit et duas partes non contingit, ut quattuor dicitur medietas de novem non quod bis quattuor efficiant novem sed quia quattuor excedit tertiam partem de novem, scilicet tria, et hoc est minor medietas. Et quinque dicitur medietas de novem quia ad duas novem partes, scilicet sex, non contingit. Est enim minus semitonium illud spatium quod post duos tonos de diatessaron subtractos relinquitur. Semitonium maius est illud spatium quod reliquum est de tribus tonis post diatessaron. Primus igitur tonus, scilicet 9 et 8, quia medium numerum non habent, semitonio caret. Sed duplicentur 
+      <pb n="[65]" />termini, scilicet 9 et 8, et fient 18 et 16. Hic numerus naturaliter intercedit, scilicet 17, et sic hic ordo: 16, 17, 18. Numerus vero 18 cum 17 habitudinem facit sesquiseptimam decimam, 17 vero cum 16 sesquisextam decimam. Sed maior est 16 pars quam 17 quare post totum inaequum non posse sectari. Sed 17 non habet sub se numerum cum quo faciat diatessaron neque 18 cum quo faciat tres tonos quod oportet ad denominationem semitonii. Iccirco sumantur duo continui toni qui consistant in his numeris, 64 et 81, et ducantur per ternarium, quia 64 non habet tertiam partem; et in eadem proportione erunt quam prius secundum quod dictum est prius. Et producto de [f. 8v] ter 64 metiantur 64 numerus collatus semitonium minus facit cum 72 ter ducto. Ter 64 faciunt 192, ter 72 faciunt 216, ter 81 faciunt 243. Adiectis insuper 64 numero 192 fient 256, qui cum 243 faciunt habitudinem quae semitonium minus nuncupatur, ut sit haec descriptio.</p>
+      <p id="ODISUM0124">[CSM14:65; text: tonus, semitonus, 192, 216, 243, 256, ditonus, differentia 13, diatessaron]</p>
+      <p id="ODISUM0125">Tunc enim vere esset semitonium si differentia eorum, scilicet 13, ducta octies medietatem reddent 243orum.</p>
+      <p id="ODISUM0126">6. In quibus numeris constet semitonium maius.</p>
+      <p id="ODISUM0127">Quum autem 192 tres tonos non praecedit, ducantur hi numeri octies iuxta priorem disciplinam et producto octies 243 addatur iterum 243, et tertius tonus mox nascetur. Octies enim 192 faciunt 1,536. Octies etiam 216 1,728 faciunt. Octies 243 faciunt 1,944, quilibet si addatur 
+      <pb n="[66]" />octava pars, scilicet 243, fient 2,187. Hoc est tonus. Rursus 256 per octonarium crescant fientque 2,048. Habitudinem autem trium tonorum tritonum vocant; duorum, ditonum; toni et semis, semiditonum, ut vocat haec descriptio.</p>
+      <p id="ODISUM0128">[CSM14:66,1; text: tonus, semitonium minus, semitonium maius, 1,536, 1,728, 1,944, 2,048, 2,187, ditonus, semiditonus, diatessaron, tritonus] 
+      <figure>
+        <graphic url="/images/ODISUM_05GF.gif" />
+      </figure></p>
+      <p id="ODISUM0129">Est ergo illud semitonium maius quod continetur inter 2,187 et inter 2,048, videlicet illud quo excedunt tres toni diatessaron.</p>
+      <p id="ODISUM0130">7. Quod diapente et diatessaron tono distent et diapason claudant.</p>
+      <p id="ODISUM0131">Ex his quae in praecedentibus dicta sunt patet quod diapente et diatessaron distent. Item, ut pateat in his numeris addatur numero 2,048 sua octava pars, 256, et fiet numerus 2,304. Hic est tonus, qui numerus 2,304 cum 1,536 diapente resonabit. Distant [f. 9r] ergo tono, diapente et diatessaron ut hic.</p>
+      <p id="ODISUM0132">[CSM14:66,2; text: ditonus, semitonium minus, tonus, 1,536, 1,944, 2,048, 2,304, diatessaron, diapente]</p>
+      <p id="ODISUM0133">
+      <pb n="[67]" />Per hoc ergo manifestum est diapente ex tribus tonis et semitonio minore constare, diatessaron vero ex duobus tonis et minori semitonio, et prius diapente et diatessaron unum diapason coniungere ostensum est. Ergo diapason ex quinque tonis et duobus semitoniis minoribus constabit deficietque a sex tonis. Et intervallum quod est inter sex tonos et diapason comma vocabitur.</p>
+      <p id="ODISUM0134">8. In quibus numeris constat comma et quid sit eius proportio.</p>
+      <p id="ODISUM0135">In proximis numeris praecedentibus non potest denominari comma quia 1,536 sex tonos non praecedit. Sed accipiamus priores qui in minoribus numeris sunt quasi isti. Secundum illam doctrinam multiplicentur, et duplicetur radix eorum, et comma mox monstrabitur, ut monstrat subiecta formula.</p>
+      <p id="ODISUM0136">[CSM14:67; text: habitudo quinque tonorum, tonus, comma, 262,144, 472,213, 524,288, 531,441, diapason, differentia 7,153, habitudo sex tonorum]</p>
+      <p id="ODISUM0137">Est igitur comma illud spatium quod est inter 524,288 et inter 531,441, et differentia eorum est numerus 7,153. Proportio vero numerorum comma continentium maior est quam sesqui 74, minor vero quam sesqui 73, quia 7,153 numerus maior quam 74 pars numeri 524,288 et minor quam eiusdem numeri 73 pars, quia si 7,153 septuagesies quater ducatur, fiet 529,322, qui maior est quam 524,288. Si autem septuagesies ter augeatur 7,153, fiet 522,169, qui minor est quam praedictus numerus. Maior est proportio numerorum comma continentium quam sesqui 74, minor quam sesqui 73, ut patet in minoribus numeris 24 et 31. Maior est proportio 30 ad 34 quam sesquiquarta et minor sesquitertia. Ista patent prius. Vero commatis apertius sic potest denominari. Si 
+      <pb n="[68]" />7,153 septuagesies quinquies ducatur, fiet numerus 536,475. Si quartus, fiet 529,322, qui comparati ad numeros continentes comma excedunt eos aequa differentia, scilicet 5,304. [f. 9v] Si ergo utrimque auferatur differentia illa in maiori proportione erunt quam integri. Maior est ergo proportio numerorum comma continentium quam sesqui 74, minor vero quam sesqui 73 quia 7,153 septuagesies quater aucti faciunt 529,322, ut dictum est. Septuagesies ter facient 522,169, qui comparati ad numeros comma continentes superantur aequa differentia, scilicet 2,119. Si ergo his addatur differentia illa, scilicet 2,119, in minori proportione erunt quam ante differentiae additionem. Maior est ergo habitudo sesqui 73 quam numerorum comma continentium. Et ut hoc plus pateat, subicio hanc figuram, quae sic patet in pagina sequenti.</p>
+      <p id="ODISUM0138">[CSM14:68; text: differentia 7,153, 531,441, 524,288, differentia 5,034, differentia 2,119, 536,475, 529,322, 522,169, 7,153, septuagesies quinquies multiplicati, septuagesies quater, septuagesies ter] 
+      <figure>
+        <graphic url="/images/ODISUM_06GF.gif" />
+      </figure></p>
+      <p id="ODISUM0139">9. De habitudine numerorum semitonium minus continentium et maius.</p>
+      <p id="ODISUM0140">Si autem speculatio talis semitonio minori adhibeatur, facile monstrabitur in minori proportione se habere quam 19 et semis ad 18 et semis, in maiori vero quam 20 ad 19. Ista demonstratio supponit quod unitas possit dividi sicut linea vel superficies. Accipiantur ergo numeri primum semitonium minus continentes, scilicet 243 et 256, horum differentia, 13. Si ergo 13 decies novies semis multiplicetur, fiet numerus 253 et semis, quum decies novies 13 sunt 247; semis 13 sunt sex et semis et ex toto 253 et semis sit. Si vero octies decies semis augeatur 13, fit numerus 240 et semis, qui 253 et semis et 240 et semis comparati ad numeros continentes superantur ab eis aequa differentia, scilicet 2 et semis. Si ergo illis addatur 
+      <pb n="[69]" />illa differentia, in minori proportione erunt quam ante additionem. Ergo maior est proportio 19 et semis ad 18 et semis quam 243 et 256 semitonium minus continentium. Et proportio semitonii minoris maior est quam 20 ad 19, quum si differentia 13 vicies multiplicetur, fit numerus 260. Si vero decies novies, fit 247, qui excedunt numeros semitonium continentes aequa differentia, scilicet 4. Si ergo ab eis auferatur illa differentia, reliqui in maiori proportione erunt quam ante differentiae [f. 10r] diminutionem. Ergo maior est habitudo semitonii minoris quam 20 ad 19 et minor quam 19 et semis ad 18 et semis, quod est propositum et patet in hac formula.</p>
+      <p id="ODISUM0141">[CSM14:69; text: differentia 13, 243, 256, differentia 2 semis, 240 semis, 253 semis, differentia 4, 260, 247]</p>
+      <p id="ODISUM0142">Habitudo autem semitonii maior est quam sesqui 15, minor vero quam sesqui 13 ut patet.</p>
+      <p id="ODISUM0143">Si accipiatur aliquis istorum numerorum 2,048 et 2,187 differentia, scilicet 139, quae differentia maior est quam quinta decima pars numeri 2,048 et minor quam eiusdem numeri 14 pars. Nam 139 quindecies auctus 2,085 facit. Quaterdecies, facit/ 1,946, et sic habetur propositum. Hic breviter transeo quia ista demonstratio similis est prioribus.</p>
+      <p id="ODISUM0144">10. In qua proportione numerorum sint ditonus et semiditonus et utrum sint symphoniae.</p>
+      <p id="ODISUM0145">Si autem ditono et semiditono talis speculatio adhibeatur, nuntietur habitudo ditoni maior quam sesquiquarta et minor quam sesquitertia, semiditoni vero maior quam sesquisexta, minor quam sesquiquinta. Nam istorum numerorum 64, 81 differentia, scilicet 17, maior est quam quarta 
+      <pb n="[70]" />pars 64 et minor quam tertia. Similiter istorum numerorum 81 et 96 differentia, scilicet 15, maior est quam 6 et minor quam 5, sed quod nullam faciunt symphoniam quia patet in sesquialtero intervallo nullam faciunt mediam proportionalitatem ut prius ostensum est.</p>
+      <p id="ODISUM0146">[CSM14:70; text: differentia 17, differentia 15, 64, 81, 96, ditonus, semiditonus, diapente]</p>
+      <p id="ODISUM0147">Item ditonus et semiditonus sunt in specie superpartiente, quoniam 81 continet 64 et eius 17 partes, scilicet sexagesimas quartas. Similiter 96 continet 81 et 15 partes, scilicet 81, quam speciem superpartientem cum duabus compositis, scilicet multiplici superparticulari et multiplici superpartiente, Pythagorici repudiant, dicentes in sonis species illas facere consonantias, multiplici et superparticulari tamen tribuentes symphonias et merito, quoniam multiplicitas rationem servans multitudinis crescit in infinitum sicut discreta quantitas, ut verbi gratia bis duo, quattuor, octo. Sicut duo crescit denominatio, sicut quantitas, ut maior sit quadrupla quam tripla et tripla quam dupla, [f. 10v] et caetera.</p>
+      <p id="ODISUM0148">Superparticularitas autem rationi servans magnitudinis in infinitum minorem minuit sicut continua quantitas, ut maior est altera pars quam tertia, maior tertia quam quarta, et semper pars a maiore numero denominata.</p>
+      <p id="ODISUM0149">Superpartiens vero non servat rationi quantitatis continuae ut patet, sed ad quandam exuberat partium pluralitatem a simplicitate discedens.</p>
+      <p id="ODISUM0150">Multiplicitas consistit in integritate. Nam duplum continet totum minorem, triplum similiter. Superparticularitas exuberat aliqua parte, vel altera vel tertia. Superpartiens vero nec integrum servat nec singulas admittit partes sed plures partes, et ideo ipsa relicta est. Et per consequens ditonus et semiditonus non sunt symphoniae.</p>
+      <p id="ODISUM0151">Verumtamen quia vicinae sunt sesquiquartae et sesquiquintae habitudinibus quarum unitas facit differentiam, iccirco plurimos estimant consonas esse. Et si in numeris non reperiantur consoni, voces tamen 
+      <pb n="[71]" />hominum sua subtilitate ipsos ducunt in mixturam suavem et penitus in consonum quandoque dulcedine nota fit suave et consonum, in vocis ruditate offendit auditum.</p>
+      <p id="ODISUM0152">Unde vocum alia suavis est illa, scilicet quae subtilis, spissa, clara et acuta est. Alia perspicuaque omnem implet continuum locum, sicut clangor tubarum. Alia subtilis, cui non est spiritus multus sicut infantium, mulierum, aegrotantium. Alia pinguis, scilicet cum spiritu multo, ut virorum. Alia acuta, id est tenuis, ut in chordis. Alia dura, quae violenter emittit sonos, sicut tonitruum. Alia aspera, scilicet rauca, quae dispergitur per inimicos et dissimiles pulsus. Alia caeca, quae statim ut emissa est conticescit. Alia vinnola, quae est mollis et flexibilis. Alia perfecta, alta, scilicet et clara et suavis, et in illa etiam dissonum delectat. In aspera vero et consonum auditum offendit.</p>
+      <p id="ODISUM0153">Multiplicem superparticularem et multiplicem superpartientem sunt nullas tenere consonantias, quia ad simplicem descendunt et in compositioni transeunt. De superpartiente ostensum est quod in illa specie non sit consonantia, et ipsa est altera pars componens speciem multiplicem superpartientem, quare non est dubium quod non facit consonantiam multiplex superpartiens.</p>
+      <p id="ODISUM0154">Multiplex autem superparticulare videtur facere symphoniam quia componitur, ut dictum est, ex multiplici et superparticulari, quae species tenent harmoniam, et compositus sapit naturam componentium. Respondendum sic de termino. Dupla in specie multiplici et sesquialtera in specie superparticulari triplam coniungunt habitudinem et sic triplum sapit naturam componentium quia suaviter accidit sensu. Tripla [f. 11r] autem non in specie est multiplicis superparticularis. Unde quoad nomen impositum est compositum de his, ut dicitur duplex sesquialtera, triplex sesquitertia et caetera, sed non quoad naturam proportionalitatis, quia abest multiplex et superparticulare ab multiplex superparticulare uno nomine composito. Similiter dupla et sesquialtera aliud quam dupla sesquialtera compositae. Nam dupla et sesquialtera triplam creant, non duplicem 
+      <pb n="[72]" />sesquialteram, propter quod manifestum est multiplex superparticulare naturam sapere compositi quoad nominem fictionem non autem quoad proportionalitatis rationem. Et per hoc in multiplici superparticulari nullam penitus esse consonantiam. Tunc etiam enim diceretur multiplex superparticulare naturam sapere multiplicis et superparticularis si illud quod coniungitur ex multiplici et superparticulari foret multiplex superparticulare. Sint enim numeri 6, 12, 16: 12 cum 6 duplam facit habitudinem, 16 cum 12 sesquitertiam. Sed proportio 16 bis ad 6 non est in specie multiplici superparticulari sed in specie multiplici superpartiente. Continet enim 16 bis 6 et eius duas partes.</p>
+      <p id="ODISUM0155">11. An diapason cum diatessaron sit symphonia.</p>
+      <p id="ODISUM0156">Rubrica.</p>
+      <p id="ODISUM0157">Per praedicta patet quod diapason cum diatessaron non est symphonia, quoniam si hi numeri disponantur, 6, 12, fit diapason. Si autem numero 12 intendatur diatessaron, scilicet 16, fiet proportio 16 ad 6, duplex superbipartiens, quae prius repudiata est. Verumtamen plures opinione Ptolomei decepti aestimant consonantiam esse, qui dicit quod consonum, sicut denario numero additus alius numerus, servatur nec immutatur, ut additis duorum denariorum fit 12, ecce binarius servatur nec immutatur. Et idem de ditono et semiditono dicunt quod quemadmodum concordant in simplici ita in composito, id est adiecti diapason. Sed huiusmodi oppositum prius probatum est.</p>
+      <p id="ODISUM0158">Et etiam quod in simplici non sunt consonantiae quia sunt in specie superpartiente et in composito sunt in multiplici superpartiente, unde ad hoc quod dicitur, consonum adveniens consono non facit dissonum, falsum est quod diapente adveniens diapente facit dissonum. Abiectus enim tonus faceret symphoniam quia bis diapente diapason excedit tono, ut patet in his numeris.</p>
+      <p id="ODISUM0159">
+      <pb n="[73]" />[CSM14:73,1; text: diapente, 4, 6, 8, 9, diapason, tonus, bis diapason] 
+      <figure>
+        <graphic url="/images/ODISUM_07GF.gif" />
+      </figure></p>
+      <p id="ODISUM0160">Ecce bis diapente, 9 ad 4, et diapason, 8 ad 4; 9 vero ab 8 tono distant. Et ad hoc quod dicitur, numerus additus denario servatur nec immutatur, sic consona adveniens diapason consonae [f. 11v] immutatur, dicendum quod numeri servatur nomen non autem proportio quia si denarius comparetur quinario, rursusque addatur denario binarius, mutatur proportio tamen servato nomine numeri, quia 10 ad 5 dupla, 12 vero ad 5 duplex superbipartiens quintas. Sed et si alicui numero tanquam simplici citra 10 addatur idem binarius ut puta septenario fit novem. 9 vero comparati ad quinarium sunt in superpartiente. 12 vero denario collati sunt multiplici superpartiente, et sic mutatur proportio servato nomine numeri additi denario. Et sic diatessaron cum diapason in composito non servant proportionem quam in simplici servare videntur quare non est necesse consonantiam continere. Nec obstat quod diapente adveniens diapason facit consonantiam et sic fieri debere de aliis consonantiis, quia diapente adveniens diapason transit ex simplicibus in simplicem. Aliae vero transeunt in compositum diapason cum fuerint additae. Verumtamen, si opinionem eorum consciscam, quod in multiplici superpartiente sit consonantia, hoc erit medietate diapason. Sic suaviter accidit auditui ut quasi una vox sit non quasi duae, unde quod ei adicitur tanquam uni voci additur, ut super tres voces, A, B, C. Istae duae voces, A et B, diapason contra quasi una vox propter suavitatem, unde C, quae concordat cum B consonantia diatessaron, dicitur concordare cum A propter vocum conformitatem, et sic de aliis.</p>
+      <p id="ODISUM0161">[CSM14:73,2; text: 3, 6, 8, A, B, C]</p>
+      <p id="ODISUM0162">
+      <pb n="[74]" />12. An diapente cum tono sit symphonia.</p>
+      <p id="ODISUM0163">Quum octonarius qui praecedet 9 et 8, et fient 27, 24 tonum continentes, et a 24 remittatur diapente usque ad 16. Est ergo proportio 27 ad 24 sesquioctava, 24 ad 16 sesquialtera. Si igitur referantur 27 ad 16, erunt in specie superpartiente. Continent enim 16 et eius 11 partes, scilicet sextas decimas, et haec species prius repudiata est. Verumtamen per diapente cum tono proceditur multotiens in cantilenis istius temporis quod fit ut concordia. Cum acciderit, quia rara est, fiat suavior.</p>
+      <p id="ODISUM0164">13. An diapente et diatessaron eidem tono comparatae se simul compatiantur.</p>
+      <p id="ODISUM0165">Moneres autem quod dicit Pythagoras in investigatione consonantiarum, quod mallei exprimentes diatessaron, diapente, tonum et diapason suaviter resonabant, aut diapason et diatessaron, tono distantes, se simul compatiantur, et sic tonus faciat symphoniam. Sed ut hoc facilius intelligantur, sint quattuor vo[f. 12r]ces sic disponitae.</p>
+      <p id="ODISUM0166">[CSM14:74; text: 6, 8, 9, 12, A, B, D, C]</p>
+      <p id="ODISUM0167">Dubitant ergo an B et D simul faciant medietates intervallo AC. Dicendum quod non simul sed alternatim, nunc B, nunc D, nec intelligantur mallei Pythagorae simul percussi, sed post A, B, post B, C, post C, D, post D, iterum A. Et sic suavi concordia miscebantur, et inter A et C simul pulsas nunc B, nunc D facit medietatem, sed non simul. Nam istarum quattuor vocum tamen tres se simul compatiuntur, quia tonus non facit mixturam suavem sicut dicunt Pythagorici. Et instrumentis testantur quod diatessaron consonantia minima est, ut quae habitudo minor sit quam sesquitertia non sit consonantia. Et per consequens tonus, qui in sesquioctava fit non sit consonantia.</p>
+      <p id="ODISUM0168">14. Quae sunt symphoniae, quae etiam sunt principales et de ordine earum.</p>
+      <p id="ODISUM0169">Sunt autem secundum Pythagorices quinque symphoniae, scilicet diatessaron, diapente, diapason cum diapente, bisdiapason. Ordo autem istarum sic patet. Disponantur numeri naturales 1, 2, 3, 4. Dupla in numeris prima est habitudo quia binarius duplus est. Imponitur et notissima 
+      <pb n="[75]" />quia prior ingerit se cognitioni, et simplicissima quia nomine facillima. Merito ergo diapason dicitur perfecta et prima symphonia. Et quia non est duplum nisi dimidium nec triplum praeter tertiam partem, addita binario sui medietate fit ternarius cum binario faciens diapente, quibus iunctis, diapason et diapente, fit tripla, haec est diapason et diapente. Si vero ternario addatur tertia pars fiet diatessaron, quae triplae iuncta quadruplam efficit, id est bis diapason. Ita ergo se habent in ordine sicut secundum prius et posterius se habent in cognitione, ut hic patet.</p>
+      <p id="ODISUM0170">[CSM14:75; text: diapason, diapente, diatessaron, 1, 2, 3, 4, diapason et diapente, bis diapason]</p>
+      <p id="ODISUM0171">Et quoniam dupla non potest in aliam divisionem quia binarius non habet sub se cui referatur nisi unitati, ternarius potest in binam divisionem quoniam unitati comparatus triplus est: binario, sesquialtera. Similiter quaternaria potest in triplicem divisionem, nam unitate quadruplus, binario duplus, ternario sesquitertius. Iccirco dupla, id est diapason, dicitur prima, simplicissima, et perfectissima consonantia. Verumtamen sicut prius patet in numeris, quanto pluries dux continet comitem vel de comite, tanto maior proportio sit in sonis, ut maior sit diapason quam dia[f. 12v]pente et maior diapente quam diatessaron, maior etiam diapason cum diapente quam diapason, et maxima harum bis diapason. Prior vero est diapason sicut dictum est quia reliquas componit.</p>
+      <p id="ODISUM0172">15. Quae sunt concordes discordiae.</p>
+      <p id="ODISUM0173">Concordes discordiae sunt sex: semiditonus, ditonus, diapente cum tono, diapason et semiditonus, diapason et ditonus, diapason et diatessaron. De his satis dictum est. Ideo dictae sunt concordes discordiae eo quod ipsae etsi discorderent aliis propositae suaviorem illis tribuunt concordiam. Quae autem istarum prior sit vel posterior, non curo.</p>
+      <p id="ODISUM0174">
+      <pb n="[76]" />16-17. Quae concordiae se simul compatiantur et quas medietates quaelibet recipit.</p>
+      <p id="ODISUM0175">Cognitis inaequalitatibus quas aliae creant et symphoniis, de facile colligi potest quae consonantiae se simul compatiantur, quas etiam et quot medias proportionalitates quaelibet recipit diapason, siquidem unum habet medium proportionale, scilicet diapente vel diatessaron, sed non utraque simul eidem voci relata propter discordiam toni. Diapason cum diapente, scilicet tripla, duo recipit media et simul eidem sono relata, sive gravi sive acuto, videlicet diapente et diapason. Bis diapason autem triplex habet medium et simul, scilicet diapente, diatessaron, diapente et diatessaron. Et ratio in his est haec quia consonantiae ex consonantiis componuntur. Ideo minores maioribus sunt medium.</p>
+      <p id="ODISUM0176">Altiori pertractatione possent ista pertractari, quae tamen sufficiant ad praesens quia patent per praemissa. Similiter dicunt quidem ditonum vel semiditonum esse medium in intervallo diapente, sed qualiter hoc stet prius monstratum est. Compatiuntur ergo se simul si eidem voci gravi comparentur ditonus vel semiditonus, diapente, diapason, diapason cum ditono vel semiditono, diapason cum diapente, bis diapason, ut in his numeris patet sub hac formula.</p>
+      <p id="ODISUM0177">[CSM14:76; text: diapason, diapente, ditonus, semiditonus, diatessaron, 64, 73, 96, 128, 162, 192, 256, diapason cum ditono, diapason cum semiditono, diapason cum diapente, bis diapason] 
+      <figure>
+        <graphic url="/images/ODISUM_08GF.gif" />
+      </figure></p>
+      <p id="ODISUM0178">[f. 13r] Qui autem diapason cum diatessaron dicunt symphoniam esse 
+      <pb n="[77]" />asserunt intervallum illud duo habere medias, scilicet diatessaron et diapason, ut hic.</p>
+      <p id="ODISUM0179">[CSM14:77; text: diatessaron, diapente, 9, 12, 18, 24, diapason, diapason cum diatessaron]</p>
+      <p id="ODISUM0180">Qui vero alias consonantias assignaverit, assignet et media.</p>
+      <p id="ODISUM0181">18. De notis vocabulorum.</p>
+      <p id="ODISUM0182">Rubrica.</p>
+      <p id="ODISUM0183">Notas vocabulorum quae brevitates scribendi subicio, non quod ipsis multum utar, sed ut aliis scriptis cum repertae fuerint, cognoscantur.</p>
+      <p id="ODISUM0184">Toni [.S. supra lin.] signum est maius S, semitonii [.s. supra lin.] minus s. Et ditoni [T supra lin.] maius T, semiditoni [t supra lin.] minus t. Diatessaron [.q. supra lin.] minus q, diapente [Q. supra lin.] maius Q. Diapason [9 supra lin.] ista 9, quasi ex omnibus. Diapente [Q. supra lin.] et diapason [9 supra lin.] Q 9, bis diapason [99 supra lin.] sic 99 et caetera. Diesis [.[Sigma]. supra lin.] vero haec nota, s.</p>
+      <p id="ODISUM0185">Explicit secunda pars huius tractatus.</p>
+      <p id="ODISUM0186">
+      <pb n="[78]" />Incipit tertia pars habens novem capitula.</p>
+      <p id="ODISUM0187">III. De compositione instrumentorum musicorum</p>
+      <p id="ODISUM0188">De tribus generibus cantilenae; De chordis et earum nominibus et notis; De sonis mensurandis; De dispositione monochordi per numeros; De organis componendis; De cymbalis faciendis; Quemadmodum fiat consonantia et de consonantiis probandis; De intervallis diatessaron, diapente et diapason et earum speciebus; De tropis.</p>
+      <p id="ODISUM0189">1. De tribus generibus cantilenae.</p>
+      <p id="ODISUM0190">Hactenus de inaequalitate et habitudine vocum dissimilium et ratione consonantiarum expositum est. Modo de usu earum et primo quoad partem illam musicae organica dicta explicandum. Erat autem, ut ait Nichomachus, musica ita simplex prout quattuor numeris tota continentur, ut duo extremi diapason, duo medii diapente, diatessaron atque tonum sonarent. Et postea ita multiplex effecta est ut multiplicatione vocum Timotheus Milesius puerorum animis quos acceperat erudiendos officeret. Et illud quattuor chordarum instrumentum tetrachordum dicebatur, inventum a Mercurio ut aiunt. Sed postea ab aliis additae sunt chordae diversimode sonantes usque ad duodeviginti, quarum nomina, notae, interpretationes sequuntur. Et per tetrachordum diatessaron continens tripliciter disponitur. Uno modo sit tonus, tonus, et semitonus, et vocatur hoc genus cantilenae diatonicum. Alio modo semitonium, semitonium, et tria semitonia [f. 13v] in quattuor</p>
+      <p id="ODISUM0191">[CSM14:78; text: tonus, semitonium, 192, 216, 243, 256, diatessaron tetrachordum, diatonicum]</p>
+      <p id="ODISUM0192">
+      <pb n="[79]" />chordis, quod chromaticum nuncupatur. Tertio modo ut sit ditonus, diesis, et diesis, et enharmonicum dicitur. Et semper in quattuor chordis, nam diatessaron vocum est quattuor ut in his numeris.</p>
+      <p id="ODISUM0193">Diatonicum ergo genus constat ex tono, tono, et semitonio, ut patet.</p>
+      <p id="ODISUM0194">[CSM14:79,1; text: tonus, semitonium, 192, 216, 243, 256, diatessaron tetrachordum, diatonicum] 
+      <figure>
+        <graphic url="/images/ODISUM_09GF.gif" />
+      </figure></p>
+      <p id="ODISUM0195">Chromaticum autem sic est disponendum istorum numerorum 192 et 256, fietque 228 cum 192 tria semitonia continens. Numerus vero 243 quia cum 216 faciebat tonum, cum 228 facit semitonium. Numerus vero 256 cum 243 facit semitonium, quia relictum est post duos tonos in sesquitertio intervallo.</p>
+      <p id="ODISUM0196">[CSM14:79,2; text: tria semitonia, semitonium, 192, 228, 243, 256, diatessaron tetrachordum, chromaticum]</p>
+      <p id="ODISUM0197">Enharmonicum autem sic est disponendum. Istorum numerorum 243 et 256 accipiant medietates differentiae, scilicet 6, et addatur numero 243. Fietque 249, cum 243 diesum continens, similiter cum 256. Est autem diesis quaedam spatia et deductiones modulandi vergentes de uno 
+      <pb n="[80]" />in alium sonum sicut sunt gradus deductiones de uno in alium locum.</p>
+      <p id="ODISUM0198">[CSM14:80; text: ditonus, diesis, 192, 243, 249, 256, diatessaron tetrachordum, enharmonicum]</p>
+      <p id="ODISUM0199">Sed duobus aliis relictis diatonicum genus disponendum aggrediar. Et quia ad hoc genus tantum intendo ideo de diesi parum dixi pertranseundo.</p>
+      <p id="ODISUM0200">2. De chordis et earum nominibus et notis.</p>
+      <p id="ODISUM0201">Rubrica.</p>
+      <p id="ODISUM0202">Sunt ergo, ut dictum est, duodeviginti chordae in universo quarum nomina et notae in forma subscripta et secundum quinque [f. 14r] tetrachorda distinctae. Sed quia istae chordae secundum citotropos singulae binas octies diversas habent notulas apud graecos et veteres musicos, iccirco ipsas subicio ut cognoscantur. Sed propter fastidium eis non utor, immo loco tantae diversitatis in capitibus chordarum litteras alphabeti apponere curavi ut quod figuris graecis tantotiens ostenditur per has litteras simplices ostendatur. Sunt igitur priores notae graecae signa vocabulorum breviter scribendorum. Posteriores vero sunt signa vocum et percussionum ut monstrat haec forma in alio latere istius folii et in folio sequenti. [f. 14v]</p>
+      <p id="ODISUM0203">[CSM14:post80; text: tetracordum hiperboleon, tetracordum dizeugmenon, tetracordum sinemenon, tetracordum meson, tetracordum hypaton, Hae sunt notae chordarum secundum octo modos, octavus, septimus, sextus, quintus, quartus, tritus, secundus, primus, a, b, c, d, e, f, g, h, i, k, l, m, n, o, p, q, r, s] 
+      <figure>
+        <graphic url="/images/ODISUM_10GF.gif" />
+      </figure></p>
+      <p id="ODISUM0204">
+      <pb n="[81]" />Proslambanomenos, id est additus vel adquisitus.</p>
+      <p id="ODISUM0205">Hypate hypaton, id est principalis principalium.</p>
+      <p id="ODISUM0206">Parhypate hypaton, id est iuxta principalem.</p>
+      <p id="ODISUM0207">Lichanos hypaton, id est indicis digiti principalis.</p>
+      <p id="ODISUM0208">Hypate meson, id est mediarum principalis.</p>
+      <p id="ODISUM0209">Parhypate meson, id est sub principali.</p>
+      <p id="ODISUM0210">Lichanos meson, id est index illius tetrachordi.</p>
+      <p id="ODISUM0211">Mese, id est media totius monachordi.</p>
+      <p id="ODISUM0212">Trite synemmenon, id est tertia ab ultima coniunctarum.</p>
+      <p id="ODISUM0213">Paranete synemmenon, id est iuxta synemmenon.</p>
+      <p id="ODISUM0214">Nete synemmenon, id est ultima coniunctarum.</p>
+      <p id="ODISUM0215">Paramese, id est iuxta mese.</p>
+      <p id="ODISUM0216">Trite diezeugmenon, id est tertia ab ultima disiunctarum.</p>
+      <p id="ODISUM0217">Paranete diezeugmenon, id est iuxta ultimam disiunctarum.</p>
+      <p id="ODISUM0218">Nete diezeugmenon, id est ultima disiunctarum.</p>
+      <p id="ODISUM0219">Trite hyperboleon, id est tertia ab ultima excellentium.</p>
+      <p id="ODISUM0220">Paranete hyperboleon, id est iuxta excellentissimam.</p>
+      <p id="ODISUM0221">Nete hyperboleon, id est ultima excellentium.</p>
+      <p id="ODISUM0222">Ista sunt nomina chordarum ut sequitur.</p>
+      <p id="ODISUM0223">[f. 15v] Sicut monstrat haec formula quinque sunt tetrachorda, scilicet hypate, id est principalis gravium quia gravissimae sonant. Meson, id est mediae quia faciunt sonum proportionalem inter chordas hypate et chordas synemmenon. Et mese quidem dicta est, id est omnium media quia ante additionem tetrachordi synemmenon cum A faciebat diapason et similiter cum S, et secundum hoc dicta est chorda sequens paramese, id est iuxta mese posita. Synemmenon, id est coniuncte prioribus quia prima istius tetrachordi, ultima est tetrachordi meson. Diezeugmenon, id est disiuncte quia hoc est tetrachordum disiunctum a priori. Ultimum hyperboleon, id est excellenter.</p>
+      <p id="ODISUM0224">3. De sonis mensurandis.</p>
+      <p id="ODISUM0225">In sonis fiat corpus concavum longum et planum in cuius extremitate sit magada, id est quaedam eminentia formam habens semicirculi, chordam 
+      <pb n="[82]" />ferens extensam fixam ad aliam extremitatem. Deinde in superficie corporis a magada ad extremitatem aliam linea dicatur et vocetur AB. Si ergo diapason quaeritur, dividatur AB linea in duas partes aequales, et sit punctus sectionis C. Si ergo chorda superextensa pellatur secundum divisionem lineae AC, chorda dupla in sonis ad AB quia longior chorda gravius sonat, brevior vero acutius, et quanto minor est chorda in spatio tanto maior est in acumine. Est igitur AC ad AB dupla in sonis.</p>
+      <p id="ODISUM0226">Si autem diapente quaeritur, dividatur dicta linea in tres partes quae signentur his litteris, Z, E. Est ergo AE diapente super AB. Si diatessaron autem quaeritur, dividatur dicta linea in quattuor partes quae signentur his litteris, F, G. Est ergo AG diatessaron super AB.</p>
+      <p id="ODISUM0227">Si vero tonum totum, quid sit, quaerimus, distinguatur linea in novem partes aequales, et nona pars signetur his litteris, B, H. Est ergo tonus inter AB lineam et AH et eius octavam partem, ut hic.</p>
+      <p id="ODISUM0228">[CSM14:82; text: A, F, Z, C, E, G, H, B] 
+      <figure>
+        <graphic url="/images/ODISUM_11GF.gif" />
+      </figure></p>
+      <p id="ODISUM0229">Si autem AB AZ comparetur, mox tripla resonat. Si vero AB ad AF comparetur, mox quadrupla nascetur.</p>
+      <p id="ODISUM0230">4. De dispositione monochordi per numeros.</p>
+      <p id="ODISUM0231">Secundum hunc modum dicta quinque tetrachorda in una chorda possunt aptari, quam monochordum voco, ut tot sonos reddat una chorda quot praedictae duodeviginti. Et sic monochordo diviso, patebit diatonicum genus in sonis. [f. 16r] Numeros his adiungo secundum priorem speculationem. In dividendo igitur monochordo ab excellentibus inchoandum quia illis aptantur minores numeri, sicut dictum est, Minores chordae acutius sonant. Et propter difficultatem verborum praetermitto ipsa et sumo semper litteras pro nominibus chordarum prius figuratas.</p>
+      <p id="ODISUM0232">Excellentissimae igitur chordae, scilicet S, aptetur iste numerus, 1,728. Sufficit enim ad expletionem totius monochordi quia praecedit duos sesquioctavos et tres sesquitertias, quem creat numerus 192 ter ductus et productus iterum ter multiplicatus.</p>
+      <p id="ODISUM0233">
+      <pb n="[83]" />Si ergo tonum quaerimus, superaddatur huic chordae octava pars sui et fiet R, tonum cum S faciens. Item si R addatur octava sui, fiet Q. Si vero S addatur tertia sui, fiet P, cum S faciens diatessaron et cum Q semitonium super synemmenon tetrachordum quum disiunctum est a diezeugmenon. Et consimiliter si R ad[f. 16v]datur tertia pars sui, fit O cum P faciens tonum. Si Q iterum tertia sua parte excreverit, fit N similiter tonus ab O. Si P tertia sui crescat, fit M cum N faciens semitonium [f. 16r] Iuxta dispositioni antiquorum sic habet disponi. Superaddatur M sui medietas fietque H, cum M sonans diapente. A BH auferatur quarta pars sui, et fiet L cum H faciens diatessaron, cum M tonum. Si autem L octava parte sui crescat, fit K. Si vero K octava sui crescat, fit I cum H faciens semitonium. Si autem propter continuationem coniungere placuerit tetrachorda, ordinis monochordi scilicet synemmenon et diezeugmenon, M adiciatur sui tertia, et fiet I, sed dissimiliter quam prior. Cum K facit tonum, cum H semitonium. Hoc vero cum H tonum, cum K semitonium, quarum distantia est semitonium maius. Et hoc non fuit praetermittendum. Habet igitur I duos sonos diversos.</p>
+      <p id="ODISUM0234">Diezeugmenon autem et synemmenon creant reliqua tetrachorda, scilicet meson et hypaton, hoc modo. Si O duplicetur, fit G, et N dupla facit F, et M facit E, ac L D describit, et K, C, et I compositum duplicat sicut ipsa duplex est, quia tetrachordum hypate disiunctum est a meson sicut synemmenon a diezeugmenon. Et similiter si auferatur medietas, creat quasi duplicem. At H similiter duplicata creat A, quae est omnium gravissima. Sed postea a modernis praeponitur una chorda, chorda proslambanomenos, ut sonet cum G diatessaron. Habeaturque his ordo inchoando a gravioribus qui ab excellentibus, et nomen et figuram tenet tertiae litterae, scilicet [Gamma] gamma quae valet G latinum. Et ideo quia cum G facit diapason, quae est quasi una vox. Haec omnia sequentur in formula subscripta, quibus intellectis credo monachordum sufficienter expositum.</p>
+      <p id="ODISUM0235">
+      <pb n="[84]" />[CSM14:84; text: [f. 16v] Tetrachordum, hyperboleon, Diatessaron, Diezeugmenon, Diapason, Synemmenon, Diapente, Meson, Hypaton, S, 1,728, R, 1,944, Q, 2,048, 2,187, P, 2,304, O, 2,592, N, 2,916, M, 3,072, L, 3,456, K, 3,888, I, 4,096, 4,374, H, 4,608, G, 5,184, F, 5,832, E, 6,144, D, 6,912, C, 7,776, B, 8,192, 8,748, A, 9,216, [Gamma], 10,368, tonus, itonus, maius, semitonus]</p>
+      <p id="ODISUM0236">5. De organis componendis.</p>
+      <p id="ODISUM0237">Ad similitudinem autem monochordi sunt organa construenda quod fistulae breviores seu graciliores acutius sonant, longiores et grossiores gravius. Si ergo omnes facere placuerit de una grossitudine, addatur longitum a plectro mensurando quicquid addendum est, vel diatessaron, vel tonus, vel huiusmodi, ut patet in monochordo. Si autem omnes unius longitudinis facere placuerit, addatur grossitudini quod fuerit addendum, et quicquid ultra propositam mensuram diminuitur a longitudine addatur grossitudine et e contrario, mensurando longitudinem a plectro usque ad summitatem latitudinis a latere laminae propositae de qua fienda est fistula usque ad latus priusquam plicetur, ut videlicet propositae laminae dividatur longitudo vel latitudo non refert [f. 17r] in octo partes. Et 
+      <pb n="[85]" />octava pars addatur secundae laminae et fistula secunda, et sic de aliis secundum monochordum inchoando ab excellentibus.</p>
+      <p id="ODISUM0238">6. De cymbalis faciendis.</p>
+      <p id="ODISUM0239">Ad cymbala facienda tota vis et difficultas extat in appensione cerae ex qua formantur. Et primo sciendum quod quanto densius est tintinnabulum tanto acutius sonat, tenuius vero, gravius. Unde appensam ceram quantamlibet ex qua formandum primum cymbalum divides in octo partes et octavam partem addes tantae cerea sicut integra fuit, et fiet tibi cera secundi cymbali. Et caetera facies ad eundum modum, a gravioribus inchoando. Sed cave ne forma interior argillae cui aptanda est cera aliquando mutetur, ne etiam aliquid de cera appensa addat ad spiramina. Provide etiam ut quinta vel sexta pars metalli sit stannum purficatum a plumbo, reliqua de cupro similiter mundato propter sonoritatem. Si autem in aliquo defeceris, cum cote vel lima potest rectificari.</p>
+      <p id="ODISUM0240">7. Quemadmodum fiat consonantia et de consonantiis probandis.</p>
+      <p id="ODISUM0241">Consonantia est dum grave et acutum simul pulsa suaviter se offerunt auditui. Unde ad probandum consonantias fit huius corpus quod prius descripsi chordam tenens et magada mobilis in superficie corporis. Protrahaturque linea in superficie sub chorda sicut prius dictum est, quae si dividatur in tres partes aequales et magada situetur in duas partes, ex una parte relinquatur, chorda superextensa ex utraque parte magadae simul pulsa diapason reddit. Est enim una pars chordae dupla ad aliam. Si vero dividatur in quinque partes et ex una parte magadae dimittat tres partes, ex alia duas, diapente simul pulsa sonabit. Si autem in septem partes dividatur et magada inter quattuor partes et tres situatur, diatessaron fiet. Si autem in quattuor partes dividatur, et ex una parte tres partes relinquat et ex alia unam, diapason et diapente sonabit, quoniam trium ad unum tripla est habitudo. Quod si dividatur in quinque et magada ducta sit in unam partem, a quattuor partibus separetur, bis diapason chorda superextensa simul pulsa sonabit.</p>
+      <p id="ODISUM0242">
+      <pb n="[86]" />8. De intervallis diapente et diatessaron, diapason et de earum speciebus.</p>
+      <p id="ODISUM0243">Diatessaron autem vocum est quattuor, intervallorum vero trium. Diapente vero vocum est quinque, intervallorum vero quattuor. Diapason autem vocum est octo, intervallorum vero septem. Et in his hoc advertandum est, quotquot sunt in his intervalla, [f. 17v] tot habet species, ut quoniam diatessaron trium est intervallorum, tres habet species, scilicet: tonum, tonum, et semitonium; tonum, semitonium, et tonum; semitonium, tonum, et tonum, ut monstrat haec formula.</p>
+      <p id="ODISUM0244">[CSM14:86,1; text: A, B, C, D, E, [Gamma]] 
+      <figure>
+        <graphic url="/images/ODISUM_12GF.gif" />
+      </figure></p>
+      <p id="ODISUM0245">Toni distantiam monstrat spatium vacuum et semitonium nulla icerta pede.</p>
+      <p id="ODISUM0246">Diapente autem quoniam intervallorum est quattuor, species habet quattuor, scilicet: tonum, tonum, semitonium, et tonum; tonum, semitonium, tonum, tonum; semitonium, tonum, tonum, et tonum; et tonum, tonum, tonum, et semitonium, ut in hac forma.</p>
+      <p id="ODISUM0247">[CSM14:86,2; text: C, D, E, F, G, H, I, K, Species diapason.]</p>
+      <p id="ODISUM0248">At diapason quidem quoniam omnia intervallorum est septem, species habet septem. Constant enim ex speciebus diapente et diatessaron sub hac forma.</p>
+      <p id="ODISUM0249">
+      <pb n="[87]" />[CSM14:87; text: [Gamma], A, B, C, D, E, F, G, H, I, K, L, M, N]</p>
+      <p id="ODISUM0250">9. De tropis.</p>
+      <p id="ODISUM0251">Secundum narrationem morum diversarum gentium varii sunt modi qui et tropi vocantur quoniam gaudet gens modis morum similitudinem, ut lascivus animus lascivioribus delectatur modis, asperior autem mens asperior, seu incitatoribus emollitur modis. Et secundum quod quamque gentem delectat modis suis nomina imposuerunt: ut Lydii, ut modum suum vocant lydium; Dorii, modum suum vocant dorium; Phrygii phrygium nominant, et caetera consimiliter. Lydii dicti a Lido Tureni fratre. Dorii a Doro Neptuni filio et Eleyus. Phrygii a Phrygia Europis filia.</p>
+      <p id="ODISUM0252">Sunt autem tropi constructiones tonorum gravitate et acumine differentes. Et secundum praedicta duo genera, scilicet diatonicum et chromaticum, quindecim dicunt esse modos, quorum nomina subicio et differentias eorum superpono. Scilicet, hypodorius, hypoiastius [f. 18r], hypophrygius, hypoaeolius, hypolydius, dorius, iastius, phrygius, aeolius, lydius, hyperdorius, hyperiastius, hyperphrygius, hyperaeolius, hyperlydius. Nota autem semitonii superposita signat eos semitonio differe, nam hypoiastius acutior est quam hypodorius semitonio, et sic de reliquis. Sed de his modis qui in diatonico genera sunt, relictis aliis, disserendum.</p>
+      <p id="ODISUM0253">Modi in diatonico genere accipiendi sunt secundum species diapason, et tot debent esse modos, scilicet septem. Hypodorius, hypophrygius, hypolydius, dorium, phrygium, lydium, mixolydium. Et octavum modum adiecit Ptolomaeus quem vocavit hypermixolydium. Causa huius additionis est quia [Gamma] refertur ad G, et hoc est prima species diapason, et sic de aliis, et F ad N, quae est septima species. Et ut totus ordo impleretur, comparavit G ad O et illum dixit octavum modum, ut totus hic tropus cum primo sonet diapason.</p>
+      <p id="ODISUM0254">
+      <pb n="[88]" />Si ergo post hypodorium, qui omnium gravissimus est, omnes chordas tono intendas, facies hypophrygium.</p>
+      <p id="ODISUM0255">Si iterum super hypophrygium omnes tono intendas, fiet hypolidius. Si autem super hypolidium omnes semitonio intendas, facies dorium. Et super dorium intendas omnes tono facietque phrygium. Super phrygium autem omnes tono intendens faciet lydium. Insuper si omnes semitonio intendantur, mixolydius. Denique si omnes tono intendantur, fiet hypermixolydius.</p>
+      <p id="ODISUM0256">Et sicut in hac distantia temporum ab invicem perficitur prima species diapason, sicut monstrant tabulae subiectae anguli, et haec est alia causa additionis octavi modi. Modos etiam et intentiones monstrat subiecta forma, sed hac arte, ut cum tono differunt monstret spatium vacuum, cum autem semitonio differunt nulla sit intercisio.</p>
+      <p id="ODISUM0257">Est etiam hypodorius in prima specie diapason, hypophrygius in secunda, hypolydius in tertia, et sic de aliis sicut monstrat ordo specierum diapason quas posui in capite tabulae ut illius speciei sit modus in qua inchoat. Nec tam servat rationem penitus illius speciei ut quia prima species diapason procedit per tonum et semitonium, tonum, et caetera, secunda per tonum, per tonum, semitonium, tonum, et tonum, non tamen hypophrygius, inchoans in secunda specie, servat ordinem talem, scilicet tonum, semitonium, tonum, quia ordo chordae tenent ad invicem non permutatur, sed quae in uno tropo faciunt tonum vel semitonium in omnibus idem faciunt, ut mon[f. 18v]strat praesens formula hic subiecta.</p>
+      <p id="ODISUM0258">[CSM14:88; text: o, ng, [Gamma], A, B, C, D, E, F, G, H, I, K, L, M, N, O, P, Q, R, S, hypermixolydius, mf, mixolydius, le, lydius, kd, phrygius, ic, dorius, hb, hypolydius, ga, hypophrygius, hypodorius] 
+      <figure>
+        <graphic url="/images/ODISUM_13GF.gif" />
+      </figure></p>
+      <p id="ODISUM0259">Explicit pars tertia.</p>
+      <p id="ODISUM0260">
+      <pb n="[89]" />Incipit quarta, habens quinque capitula.</p>
+      <p id="ODISUM0261">IV. De inaequalitate temporum in pedibus</p>
+      <p id="ODISUM0262">[f. 19r] De illis pedibus quorum elevatio aequalis est depositioni; De dupla inaequalitate in pedibus; De tripla inaequalitate; De sesquialteris; De sesquitertia.</p>
+      <p id="ODISUM0263">1. De illis pedibus quorum elevatio similis est depositioni.</p>
+      <p id="ODISUM0264">Metrum est dictamen; currit pedum mensuris et spatiis terminatum nec ultra dimensionem constitutam procedit. Rhythmus non est certo fine moderatus, sed tamen rationabiliter ordinatis pedibus currit. Pedes sunt qui certis syllabarum temporibus insistunt, et tempus quidem est mensura motus syllabae, ut cum selectum pulsum habeat syllaba dicatur longa et duorum temporum. Accidit autem unicuique pedi arsis et thesis, id est elevatio et depositio, quae sunt tempore mensuratae, et secundum inaequalitatem temporum accidit inaequalitas habitudinis elevationis comparatae ad depositionem, ut patebit. Subicio ergo tempora in numeris, et pro syllaba breve superpono inferiorem partem circuli, sic: [breve], pro longa, tractum longum, sic: [macron].</p>
+      <p id="ODISUM0265">Et primo de illis pedibus quorum elevatio aequalis est depositioni dicendum quoniam omnis inaequalitas de aequalitate procedit, sicut patet si disponantur numeri aequales quotlibet, ut duo, duo, duo. Si sub illis disponantur alii numeri hoc praecepto ut primus primo sit aequus; secundus primo et secundo; tertius primo et duobus secundis et tertio; reperies duplam habitudinem ex aequalitate procedere, ut hic.</p>
+      <p class="textFig" id="ODISUM0266">2&#160;&#160;4&#160;&#160;8
+      <lb />2&#160;&#160;2&#160;&#160;2
+      <br /></p>
+      <p id="ODISUM0267">Primus 2, primo aequus, est binarius. Secundus, primo et secundo, est quaternarius, qui binario duplus est. Tertius, primo et 
+      <pb n="[90]" />duobus secundis et tertio aequus, est octonarius, qui quaternario duplus est. Et sic aliae inaequalitatis species procedunt ex aequalitate.</p>
+      <p id="ODISUM0268">Si autem pes longam habeat in depositione et longam in elevatione, vocatur spondeus, ut 2[macron supra lin.] 2[macron supra lin.], quia tractim sonat. Est enim quattuor temporum quod monstrat numerus superpositus notis longis. Si vero breves sunt arsis et thesis, dicitur pyrrhichius, sic: 1[breve supra lin.] 1[breve supra lin.], ideo dictus quod certamine vel ludo puerili frequentetur. Dactylus vocatur cum habet elevatio longam et depositio duas breves per resolutionem longae in breves, sic: 1, 1[macron supra lin.] 1[breve supra lin.], 1[breve supra lin.]. Dictus a digito, quia a longiori modo inchoat, in breves desinit, ut digitus. Cum autem elevatio longa resoluta fuerit in breves et depositio longam teneat, dicitur anapaestus, id est repercussus, quia contrarius est dactylo, sic: 1[breve supra lin.], 1[breve supra lin.] 1, 1[macron supra lin.], remissionibus et ludis aptissimus. Et spondeus duplicatus dispondeus dicitur, sic: 1,1[macron supra lin.] 1,1[macron supra lin.] 1,1[macron supra lin.] 1,1[macron supra lin.]. Procelleusmaticus dicitur cum longa elevationis et longa depositionis in breves resolvuntur, sic: 1[breve supra lin.],1[breve supra lin.] 1[breve supra lin.],1[breve supra lin.], dictus quia ad celeuma canentium aptissimus est. Celeuma est cantus quem decantant vinitores cum ad extremos antes pervenerint. Cum vero elevatio brevem et longam habet et depositio similere, dicitur diiambus, sic: 1[breve supra lin.] 1,1[macron supra lin.] 1[breve supra lin.] 1,1[macron supra lin.], dictus quia ex duobus iambis efficitur. Et distrochaeus huic contrarius, sic: 1,1[macron supra lin.] 1[breve supra lin.] 1,1[macron supra lin.] 1[breve supra lin.]. Similiter cum ex contrariis simul constat, dicitur antipaestus, sic: 1[breve supra lin.] 1,1[macron supra lin.] 1,1[macron supra lin.] 1[breve supra lin.]. Et cum elevatio habet longam et brevem et depositio brevem et longam, dicitur coriiambus, sic: 1,1[macron supra lin.] 1[breve supra lin.] 1[breve supra lin.] 1,1[macron supra lin.], eo quod hic pes sic choris aptissimus. [f. 19v] Haec ergo de aequalitate sufficiant.</p>
+      <p id="ODISUM0269">2. De dupla inaequalitate in pedibus.</p>
+      <p id="ODISUM0270">Sequitur de illis pedibus quorum elevatio dupla est ad depositionem vel e contrario. Cum autem elevatio habet longam et depositio brevem, dicitur trochaeus, sic 1,1[macron supra lin.] 1[breve supra lin.], eo quod celerem faciat reversionem in metris et quasi rota currat, et huic contrarius dicitur iambus, sic: 1[breve supra lin.] 1,1[macron supra lin.], eo quod hoc pede invectiones vel detractiones implere poetae usi sunt. Cum autem elevatio longam et depositio duas longas habet, dicitur molossus, sic: 1,1[macron supra lin.] 1,1[macron supra lin.] 1,1[macron supra lin.], a saltatione Molossorum, qui armati fuerunt. Cum autem in elevatione brevis et in depositione duae breves fuerint, tribrachus dicitur, sic: 1[breve supra lin.] 1[breve supra lin.],1[breve supra lin.]. Et cum duas longas habet elevatio, duas autem breves depositio, 
+      <pb n="[91]" />dicitur ionicus maior, sic: 1,1[macron supra lin.] 1,1[macron supra lin.] 1[breve supra lin.] 1[breve supra lin.]; et e contrario ionicus minor, sic: 1[breve supra lin.],1[breve supra lin.] 1,1[macron supra lin.] 1,1[macron supra lin.], sic dictus inaequalem sonum.</p>
+      <p id="ODISUM0271">3. De tripla inaequalitate.</p>
+      <p id="ODISUM0272">Unus pes tamen invenitur cuius depositio tripla est ad elevationem, quod dicitur amphibrachus: 1[breve supra lin.] 1,1[macron supra lin.] 1[breve supra lin.], eo quod ex utraque parte longae habeat brevem.</p>
+      <p id="ODISUM0273">4. De sesquialteris.</p>
+      <p id="ODISUM0274">Illi autem pedes sesquialteram tenent habitudinem quorum elevatio totam tenet depositionem depositioni et eius medietate vel e contrario depositio elevationem, ut si elevatio longa sit et depositio brevis et longa, dicitur amphimacrus, eo quod utraque parte brevis longa sit, sic: 1,1[macron supra lin.] 1[breve supra lin.] 1,1[macron supra lin.]. Et si in elevatione brevis et longa, in depositione longa, dicitur bacchius, sic: 1[breve supra lin.] 1,1[macron supra lin.] 1,1[macron supra lin.], quia eo pede bacchia, id est liberi sacra, celebrantur. Et huic contrarius est antibacchius, sic: 1,1[macron supra lin.] 1,1[macron supra lin.] 1[breve supra lin.]. Et qui per resolutionem habent breves loco longarum paeones dicuntur ab inventore. Paeon primus: 1,1[macron supra lin.] 1[breve supra lin.] 1[breve supra lin.] 1[breve supra lin.]; paeon secundus, sic: 1[breve supra lin.] 1,1[macron supra lin.] 1[breve supra lin.] 1[breve supra lin.]; paeon tertius, sic: 1[breve supra lin.] 1[breve supra lin.] 1,1[macron supra lin.] 1[breve supra lin.]; paeon quartus, sic: 1[breve supra lin.] 1[breve supra lin.] 1[breve supra lin.] 1,1[macron supra lin.].</p>
+      <p id="ODISUM0275">5. De sesquitertiis.</p>
+      <p id="ODISUM0276">Sequuntur pedes qui sesquitertiam habent habitudinem, qui epitritii dicuntur, quorum elevatio totam depositionem et tertiam partem tenet, vel e contrario, ut epitritus primus sic se habet: 1[breve supra lin.] 1,1[macron supra lin.] 1,1[macron supra lin.] 1,1[macron supra lin.]; secundus: 1,1[macron supra lin.] 1[breve supra lin.] 1,1[macron supra lin.] 1,1[macron supra lin.]; tertius: 1,1[macron supra lin.] 1,1[macron supra lin.] 1[breve supra lin.] 1,1[macron supra lin.]; quartus: 1,1[macron supra lin.] 1,1[macron supra lin.] 1,1[macron supra lin.] 1[breve supra lin.]. Pedes autem omnes in quattuor syllabis implerentur. Sed et hoc intuendum est, quod omnes pedes quorum elevatio aequalis est depositioni sunt in specie multiplici et superparticulari ac per hoc melo aptissimi. Haec de hac parte, scilicet metrica, sufficiant.</p>
+      <p id="ODISUM0277">Explicit pars quarta.</p>
+      <p id="ODISUM0278">
+      <pb n="[92]" />Incipit quinta pars, habens capitula septemdecim.</p>
+      <p id="ODISUM0279">V. De harmonia simplici, id est de plano cantu</p>
+      <p id="ODISUM0280">De signis vocum; De notis; De clavibus; De nominibus vocum quae notis insumantur; De mutationibus; De compositione cantus simplicis; De generibus cantuum ecclesiasticorum; De modis cantuum ecclesiasticorum; De primo tono; De secundo tono; De tertio tono; De quarto tono; De quinto tono; De sexto tono; De septimo tono; De octavo tono; Quibus priorum [f. 20r] troporum nominibus hi toni possint vocari et de comparatione earum ad invicem.</p>
+      <p id="ODISUM0281">1. De signis vocum.</p>
+      <p id="ODISUM0282">Restat de illa parte musicae quae harmonica dicitur explicandum. Harmonia est inflexio vocis a voce. Est autem simplex seu multiplex harmonia. Quam planum cantum voco solius est vocis modo impressae modo elevatae modulatio. Multiplex harmonia est plurimum vocum dissimilium, ut gravis cum acuta concussio, quam diaphoniam dico, quae communiter organum appelatur. Et primo de harmonia simplici.</p>
+      <p id="ODISUM0283">Quoniam voces monochordi litteris alphabeti signantur et per ipsas exprimuntur, et post diapason idem penitus cantatur quod prius sicut patet in speciebus diapason. Eadem oritur post G usque ad O quae prius a [Gamma] ad G. Ideo post G, quae cum [Gamma] facit diapason, reppetuntur litterae eodem ut a cum A, b cum B, et sic de aliis, facit diapason, ad similitudinem dierum hebdomadae. Evolutis enim diebus idem nomine et totidem numero exoriuntur iterum. Has igitur litteras sic distinguunt primi ordinis. A [Gamma] usque ad G faciunt capitales, quas graves vocant, sic: [Gamma] A B C D E F G. Secundi ordinis faciunt simplices, quas acutas dicunt, sic: a b c d e f g. Tertii ordinis litteras faciunt duplices et ipsas 
+      <pb n="[93]" />superacutas vocant, sic: aa bb cc dd. Idemque exprimitur per a acutam quod per H, idemque per b actuam quod per I, et sic de aliis. Et licet monochordum non ascendat ulterius vel descendat. Licitum est intendere vel remittere quantum possibile est in voce.</p>
+      <p id="ODISUM0284">2. De notis.</p>
+      <p id="ODISUM0285">Quoniam per praedictas litteras longam vel brevem non potest signari quod oporteret, quamquam cantus cum littera sibi aptet longas et breves sicut monstrat pars praecedens, cantus sine littera his signis longas et breves non exprimeret. Ideo necessaria est adinventio talium figurarum quod hoc faciant. Et hae notae vocantur quia per ipsas nobis cantus innotescit, verumtamen non suis prioribus litteris sed illis medietatibus sicut sequitur, quarum omnium figurae et nomina breviter sequuntur. Sunt autem huiusmodi.</p>
+      <p id="ODISUM0286">[CSM14:93; text: punctum, bipunctum, tripunctum, apostropha, distropha, tristropha, virga, bivirgis, trivirgis, virgabicompunctis, virga tricompunctis, condiatesseries, condiapentis, virga prebipunctis et subtripunctis, virga pretripunctis et subbipunctis]</p>
+      <p id="ODISUM0287">
+      <pb n="[94]" />[CSM14:94; text: virga pretripunctis et subdiatesseries [f. 20v], virga prediatesseries et subdiapentis, semivocalis, semitonus, gutturalis, sinuosa, flexa, resupina, pes, pes flexus, pes quassus, pes sinuosus, pes resupinus, pes gutturalis, quilissimi, semitonus virga] 
+      <figure>
+        <graphic url="/images/ODISUM_14GF.gif" />
+      </figure></p>
+      <p id="ODISUM0288">Et si quae aliae sunt, ex his componuntur.</p>
+      <p id="ODISUM0289">Quarumdam istarum figurarum nomina et causae patent. Quae autem habent aliquid ambiquitatis expono. Apostropha est species accentus quae tollit ultimam vocalem dictionis cum sequens dictio inchoat a vocali cuius figura est haec: [staff3]. Condiatesseries quattuor est punctorum ex utraque parte virgae quia diatessaron quattuor representat. Similiter condiapentis quinque est punctorum ex utraque parte virgae, nam diapente quinque importat. Semivocalis medietatem sui temporis transfert ad aliam vocem. Quae dicitur semivocalis descendens semitonus dicitur ascendendo. Gutturalis dicitur quia cillenti gutture formatur. Sinuosa dicta quia recurvatur ad similitudinem baculi 
+      <pb n="[95]" />pastoralis. Flexa, dicta quia a semivocali descendens dextero flectitur. Resupina, dicta quia super supinam virgam reerigitur. Pes dictus ad similitudinem pedis. Pes flexus componitur ex pede et flexa. Pes quassus dictus quia voce tremula et multum mota formatur, quassum enim violenter motum est. Quilissimi dicti ad similitudinem, quilos enim graece humus et mus terra, quasi humida terra a receptione aquarum. Semitonus virga dicitur quod ex semitono et virga componitur, et sic de caeteris. De longis et brevibus posterius.</p>
+      <p id="ODISUM0290">3. De clavibus.</p>
+      <p id="ODISUM0291">Signa vocum, scilicet litteras prius descriptas, claves vocant, pro eo quod in cognitionem vocum nos introducunt, quas notae exprimunt quia sine illis notae non cognoscuntur. Unde dictarum clavium semper una linearum, linearis, alia spatialis. Linearis pro eo quod lineae applicatur, spatialis pro eo quod spatium occupat, ut hic.</p>
+      <p id="ODISUM0292">[CSM14:95; text: E, D, C, B, A, [Gamma]]</p>
+      <p id="ODISUM0293">Et per sic per omnes. Sine vero his distantiae notarum ignorarentur. Sed non omnes claves sunt lineares quia nimia dilatatio locum consinueret. Immo una linearis et alia spatialis ut voces annotae quae vicinae sunt, cuius sensu comprehendantur. Sunt ergo claves notis applicandae fietque ut eandem vocem exprimat nota quasi et clavis super quam sita est.</p>
+      <p id="ODISUM0294">4. De nominibus vocum quae notis intimantur.</p>
+      <p id="ODISUM0295">[f. 21r] Congruum est ut sicut figurae vocum mutantur in notis, 
+      <pb n="[96]" />earumdem in nomina mutentur, ut nota non teneat nomen clavis super quam sita est, ne ab imperitis notae putentur otiosae. Ergo cum littera sit insufficiens et dictio totiens recitanda sicut oportet foret taediosa, quasdam syllabas pro nominibus notis tribuunt, quas in hymno illo assumunt: Ut queant laxis resonare fibris, videlicet syllabam cuiusque metri quae sunt sex, scilicet UT, RE, MI, FA, SOL, LA. UT queant laxis REsonare fibris MIra gestorum FAmuli tuorum SOLve polluti LAbii reatum, et caetera. Et istae syllabae vocibus monochordi aptatae pro nominibus vocum sufficiunt, nam senarius numerus perfectus est, et ultra perfectam non est aliquid exigendum.</p>
+      <p id="ODISUM0296">Ipsum enim senarium suae partes aliquotae proficiunt, scilicet ternarius, binarius, et unitas; sunt autem tales numeri rari. In monadibus tantum iste senarius est perfectus. In decadibus 28, in aliadibus 496. Infra decem est numerus 8,128 perfectus. Reliqui omnes autem sunt abundantes aut diminuti, ut 12. Habet partes has quamlibet se constituentem, 6, 4, 3, 2, 1, quae aggregatae 16 faciunt, quae excedit 12. Et ideo dicitur 12 numerus abundans quia habet copiam partium. 16 vero habet has partes: 8, 4, 2, 1, quae 15 constituunt, qui 15 diminuunt a 16 et ideo 16 diminutus dicitur.</p>
+      <p id="ODISUM0297">Ideo autem ibi assumptae sunt hae syllabae ut laudem quasi postea experti cantant etiam precibus qui dicebat, Ego vox clamantis in deserto, et caetera, de quo dicit salvator, Intra mulierum non surrexit maior. Ad distentes promant, et hoc importat praedictus versus.</p>
+      <p id="ODISUM0298">Important etiam nobis praedictae syllabae spiritualem quaedam admonitionem, scilicet ut mens psallentis deo laudes concordet voci. Prima, scilicet Ut, abstinentiam a malo importat qualem est illud, Ut abstineatis vos a fornicatione qualicumque, scilicet carnali, spirituali, generali, et speciali. Secunda, scilicet Re, principalem discussionem unde illud Isaiae, Reddite prevaricatores ad cor vel fortitudinem in bono. Illud Iacobi, Resistite diabolo et fugiet a vobis. Tertia, scilicet Mi, misericordiam insinuat in affectum quale est illud, Miserere animae tuae placens Deo. Quarta, scilicet Fa, misericordiam in effectum, unde illud, Facite vobis amicos de mammona iniquitatis, id est de divitiis minus 
+      <pb n="[97]" />iuste adquisitis. Quinta, scilicet Sol, sollicitudi[f. 21v]nem perficiendi, unde illud, Sollicitus ambula coram Deo tuo. Sexta, scilicet La, propositum perseverandi exhortatur, unde illud, Lavamini, mundi estote. Lavamini in baptismo et paenitentia mundi estote, id est perseverate in munditia eritque, ut reor, tantae concordiae laus Deo speciosa.</p>
+      <p id="ODISUM0299">Nec videatur inconveniens quod ibi assumitur. Ac si quod dubuit esse prius sumatur a posteriori quia etsi prius fuerit iste versus in metris quam istae syllabae vocibus attributae, forsitan posterius fuit in harmonia. Verumtamen iam tarde a modernis introductae sunt, nec adhuc conveniens si alius modus canendi apud antiquos et alius fuerit apud modernos.</p>
+      <p id="ODISUM0300">Est autem Ut gravissima inter sex voces et La acutissima. Sunt autem monochordo sic aptatae ut per gravissimam chordam cuiuslibet tetrachordi incipiat Ut, et reliquae reliquis aptantur.</p>
+      <p id="ODISUM0301">Accidit autem ut ex coniunctione et disiunctione tetrachordarum quaedam chordae duplicem habeant vocem sicut prius monstratum est, et secundum inchoationem tetrachordarum ipsis dictae notae aptatae sunt. Ipsas autem duplices voces super b accidere manifestum est, et duplex vox uno signo non potest exprimi. Ideo graviorem vocem b rotunda signat, acutiorem [sqb] quadrata. Et sic ulterius distinguunt omnes voces monochordi secundum has litteras, scilicet [sqb] quadratam et b rotundam seu mollem, tertiam differentiam adicientes, scilicet neutram earum. Ut, scilicet totus cantus sex notarum qui [sqb] quadratam habuerit dicatur cantus [sqb] quadratae. Qui habet b mollem habuerit dicatur b mollis. Ille vero cantus qui neutram earum admiserit proprius cantus vocatur quia voces suae non moventur sicut reliquorum sed stabiles persistunt.</p>
+      <p id="ODISUM0302">b autem acuta quia mobilis et duplex est apud modernos creat f acutam duplicem ut sit utrimque diapente consonantia, ac f remissa ad diapason facit similiter F gravem duplicem. Et quia inter F et f est c acuta media proportio sicut et b ideo facit c duplex sicut et b. Consimiliter b ipsa acuta remissa ad E gravem facit ipsam duplicem, et ipsa E intensa [f. 22r] ad diapason facit e acutam duplicem. Et sic sunt septem voces mobiles, scilicet E, F, b, c, e, f, [sqb].</p>
+      <p id="ODISUM0303">Et haec duplicitas figuratur per additionem vel ablationem b duplicis clavi principali, ut E adiecta b rotunda facit cum F tonum, remota b 
+      <pb n="[98]" />facit semitonium. Similiter F addita [sqb] quadrata facit cum E semitonium, remota [sqb] facit tonum. Et sic de caeteris.</p>
+      <p id="ODISUM0304">Duae autem voces mobiles, scilicet b acuta et [sqb,sqb] superacuta, sunt propriae voces monochordi. Reliquas vero vocant falsas musicas, non quod dissonae sunt, sed extraneae et apud antiquos inusitatae.</p>
+      <p id="ODISUM0305">[CSM14: 98; text: [Gamma], A, B, C, D, E, F, G, H, I, K, L, M, N, O, P, Q, R, S, a, b, c, d, e, f, g, aa, bb, cc, dd, ut, re, mi, fa, sol, la, [sqb] quadrata, proprius cantus, b rontunda, superacutae, Graves, Acutae, [sqb], [rob]] 
+      <figure>
+        <graphic url="/images/ODISUM_15GF.gif" />
+      </figure></p>
+      <p id="ODISUM0306">Ista nomina monstrat haec formula praescripta.</p>
+      <p id="ODISUM0307">Nec oportet in cantu notando omnes claves apponere, sed una sufficit quattuor vel quinque lineis super et sub ea computando. Et ad quinque claves sunt principales usuales, scilicet duae graves, duae acutae, una superacuta. Graves, scilicet D et F, acutae c et g, superacuta cc, quia 
+      <pb n="[99]" />de facili figurantur. Cantus vero b mollis non sine b, cantus autem [sqb] quadratae per absentiam b mollis dinoscitur.</p>
+      <p id="ODISUM0308">5. De mutationibus</p>
+      <p id="ODISUM0309">Ex praedictis differentiis, scilicet [sqb] quadrata, b molli, et proprio cantu, accidunt mutationes in cantilenis, ut si cantilena unius speciei sex notas ascenderit, mutatur in aliam speciem, scilicet si ultra sex notas ascenderit ut, verbi gratia, G gravis tres habet notas tamen unisonas. Si autem cantus sit proprius, utpote a C veniens et ad b rotundam debeat ascendere, fiet mutatio a proprio cantu ad b mollem. Si autem cantus sit per b mollem [f. 22v] et ad E debeat ascendere, erit mutatio a b molli ad proprium cantum. Si autem cantus in G si b mollis et ad [sqb] quadratam ascendat, erit mutatio a b molli ad [sqb] quadratam. Et si cantus est in G, sit [sqb] quadratae, et per f transeat ad b, fit mutatio a [sqb] quadrata ad b mollem; ne bis contingat, mutatur inter tres notas. Si vero sit proprius cantus in C et ad [sqb] quadratam ascendat, fit mutatio a proprio cantu ad [sqb] quadratam. Et si cantus sit [sqb] quadratae et ad e descendat, fit mutatio a [sqb] quadratae ad proprium cantum. Et sit clavis quae tres habet notas, sex habet mutationes; quae vero duas, duas mutationes. Haec et caetera patent.</p>
+      <p id="ODISUM0310">6. De compositione cantus simpliciter.</p>
+      <p id="ODISUM0311">Cantus sic primo erant compositi ut secundum suas vocales dictamen sibi notas aptaret, et hac arte vocibus monochordi vocales aptantur, ut semel evolutis his iterum ipsas recitent usque ad expletionem monochordi. Sic proposito ergo dictamine de quo cantilena facienda fuerit ut sic, Iam lucis orto sidere, et caetera, vocem suppositam vocalibus pro cantu assumebant sicut patet.</p>
+      <p id="ODISUM0312">[CSM14:99; text: [Gamma], A, B, C, D, E, F, G, a, b, c, d, e, i, o, u, Iam lucis orto sidere Deum precemur supplices.]</p>
+      <p id="ODISUM0313">Sed talis modus componendi iam evanescit multo enim melius usu et exercitio cum regulis quae sequuntur quam tali artificio componit.</p>
+      <p id="ODISUM0314">
+      <pb n="[100]" />7. De generibus cantuum ecclesiasticorum.</p>
+      <p id="ODISUM0315">Cantus ecclesiastici sunt psalmi dicti quod ad psalterium canebantur. Invitatorium dictum quod invitat pigros ad officium divinum, et hoc importat psalmus sequens, scilicet Venite. Hymnus interpretatur laus Domini. Antiphona dicta quod sit vox reciproca, et per eam psalmus intonatus de choro ad chorum recitetur. Responsorium dictum quod uno desinente alter respondeat; versus, quia finem huius certum revertitur. Officium est introitus missae dictum quod ad hoc assumptus illud agat quod nulli officiant sed omnibus proficiat. Graduale, quia ad gradus chori cantari solet. Alleluia dicta ad hortantis est et interpretatur, Laudate Dominum. Offertorium ab oblatione dictum eo quod dum canitur fiunt oblationes; fertum enim oblatum dicitur. Communio dicta quod dum se communicant communicandi cantetur.</p>
+      <p id="ODISUM0316">8. De modis cantuum ecclesiasticorum.</p>
+      <p id="ODISUM0317">Ad huiusmodi cantus componendos statuerunt voces finales, terminales, et initiales. Et quia a finalibus accipiunt cantus denominationem, sicut in grammatica alteratione vocabulorum discernuntur numeri et casus, ideo de finalibus dicendum. Finalibus dant quattuor voces, scilicet D, E, F, G, gra[f. 23r]ves, ut his quae cantus denominant voces plurimis sufficiant et ne aliae magis depressae tacerent. Quattuor enim sunt et non plures quia semper post diatessaron quod quattuor sonat idem penitus notatur. Et si plures essent finales, ignoraretur post has cuius esset modi. Secundum has igitur voces finales quattuor statuunt modos principales in cantilenis, quos sic vocant: authentum protum, id est principem primum; authentum deuterum, id est principem secundum; authemtum tritum, id est principem tertium; authentum tetrardum, id est principem quartum. Et dicuntur finales quia cantilenis finem ponunt. Terminales vero cuique modo tribuunt sub finalibus diapente et supra diapason, sic.</p>
+      <p class="textFig" id="ODISUM0318">termini&#160;ascentionum:&#160;&#160;&#160;d&#160;&#160;&#160;&#160;&#160;&#160;&#160;e&#160;&#160;f&#160;&#160;g
+      <lb />finales:&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;D&#160;&#160;&#160;&#160;&#160;&#160;&#160;E&#160;&#160;F&#160;&#160;G
+      <br />termini&#160;descentionum:&#160;[Gamma]&#160;&#160;A&#160;&#160;B&#160;&#160;C
+      <lb /></p>
+      <p id="ODISUM0319">
+      <pb n="[101]" />Verum quia quibusdam viderentur tantae elevationes et depressiones simul nimis laboriosae et taediosae quemlibet modum in duos dividunt et omnium secundam partem plagalem vocant, id est partialem seu subiugalem, authentis et plagalibus easdem finales habentibus. Authentis igitur terminum dant sub finali tonum vel semitonium et supra finalem diapason. Verum aliquando authenti ascendunt ad decimam vocem ut sit decachordum, secundum illud Psalmistae, In psalterio decachordo psallam tibi. Et aliquando descendunt ditonum, semiditonum, vel diatessaron, sed non simul admittunt tantas elevationes et depressiones. Plagalibus vero dant terminum sub finali diapente et supra diapente cum tono vel semitonio.</p>
+      <p id="ODISUM0320">Et sic in universo octo modos vel tonos determinant cuius modi supra tropi nominantur. Estque plaga cuiuslibet authenti sibi secundus modus; diciturque qui prius erat secundus modus tertius; et qui tertius, modus quintus; et qui quartus, modus septimus, sicut de his sequitur hoc ordine.</p>
+      <p id="ODISUM0321">9. De primo tono.</p>
+      <p id="ODISUM0322">Primus itaque tonus, scilicet authentus protus sicut dictum est, in D finitur et ad d ascendit et aliquando ad e et f et ad C descendit et aliquando ad A sed non simul.</p>
+      <p id="ODISUM0323">Accipit autem sua principia in C:</p>
+      <p id="ODISUM0324">[CSM14:101; text: O beatum pontificem. D: Ecce nomen domini. E: Miserere. F: Christi soli. G: Domine ne in ira. a: Veniet dominus.] 
+      <figure>
+        <graphic url="/images/ODISUM_16GF.gif" />
+      </figure></p>
+      <p id="ODISUM0325">
+      <pb n="[102]" />Ista autem principia quamvis apud aliquos sint mutata sunt tamen huic tono convenientia.</p>
+      <p id="ODISUM0326">Finitare secundum hunc tonum huiusmodi Invitatoria:</p>
+      <p id="ODISUM0327">[CSM14:102,1; text: [f. 23v] Pastori summo. Regem sempiternum.]</p>
+      <p id="ODISUM0328">Psalmus:</p>
+      <p id="ODISUM0329">[CSM14:102,2; text: Venite.]</p>
+      <p id="ODISUM0330">Fiunt et huiusmodi Responsoria:</p>
+      <p id="ODISUM0331">[CSM14:102,3; text: Peto domine. Gloria patri et filio et spiritui sancto.]</p>
+      <p id="ODISUM0332">Fiunt et huiusmodi antiphonae:</p>
+      <p id="ODISUM0333">[CSM14:102,4; text: Primum quaerite regnum dei.]</p>
+      <p id="ODISUM0334">Accidunt autem antiphonae intonatio, differentia, et neuma. Intonatio est levis psalmorum modulatio antiphonis aptata. Et alia quidem intonatio est sollemnis ut de psalmis evangelicis, scilicet Benedictus et Magnificat, Nunc dimittis. Alia intonatio simplex, ut de psalmis propheticis. Aliam enim habent intonationem evangelici et aliam prophetici in singulis tonis usque ad metrum quod dicitur comma in grammatica sed in fine versus qui periodus dicitur. Eandem habent terminationem.</p>
+      <p id="ODISUM0335">
+      <pb n="[103]" />In dicto autem fine accipiunt singuli toni quasdam distinctiones terminationum quas differentias vocant, non quod ipsae antiphonas faciant differre, sed quod secundum inchoationes antiphonarum ipsae distinguantur.</p>
+      <p id="ODISUM0336">Neuma est pars cantilenae. Quod autem neuma vocamus graeci vocant in authentis Nn Oo Aa Ni Ni Oo Ee Aa Ni Ee in plagalibus Ni Oo Ee Aa Ni Es.</p>
+      <p id="ODISUM0337">Unde interrogatus quidam sapiens graecus quid significarent, dixit quod sunt apud eos affectus quidem gaudentium vel flentium vel vagantium infantium, qui interdum soli positi dum aliud nesciunt ea proferunt saltando cantantes. Et interpretantur sic: N O E A N, sensus; N O E A N E, sursum vel superius, quasi sensus ad superiora ducens, quia vagantes sensu carentes huiusmodi clamose proferunt. Et similiter N O E A N E, quasi flatus sursum mediocris cuiusmodi sunt apud nos Eya et caetera.</p>
+      <p id="ODISUM0338">Et sunt apud nos partes cantilenae sic enim syllabae et pedes sunt partes metri, ita in vocibus phtongi, id est soni, quorum duo vel tres neumam, id est partem cantilenae, constituunt, et pars una vel plures distinctiones faciunt, id est congruum respirationis locum. Et sic dicitur ad praesens, videlicet congeries illa notarum in fine antiphonae, et hanc sequentem huic tono.</p>
+      <p id="ODISUM0339">[CSM14:103; text: NOANNOEANE, neuma] 
+      <figure>
+        <graphic url="/images/ODISUM_17GF.gif" />
+      </figure></p>
+      <p id="ODISUM0340">Fiunt autem et ad decretionem quia sicut ex aptitudine corporis discernitur cuius est tunica, ita cui[f. 24r]cumque antiphonae aptata sit haec neuma sine dubio de hoc tono est, et ita de aliis, quia singuli singulas habent neumas.</p>
+      <p id="ODISUM0341">Istam intonationem dant psalmis propheticis secundum hunc tonum, ut hic:</p>
+      <p id="ODISUM0342">
+      <pb n="[104]" />[CSM14:104,1; text: Dixit dominus domino meo.]</p>
+      <p id="ODISUM0343">Evangelistam:</p>
+      <p id="ODISUM0344">[CSM14:104,2; text: Benedictus dominus deus Israel.]</p>
+      <p id="ODISUM0345">Huius autem intonationis novem sunt diversae terminationes, id est dicere sic vocare Saeculorum Amen, Euouae, sicut patebit. Unde praepono exempla antiphonarum et deinde differentias appono, et haec credo sufficere, quia si laboravero rudes regulas dare de differentiis, deficiam quia non eaedem apud omnes, sed communiores pono et aliquando unius differentiae sunt diversae antiphonarum inceptiones, et si forte quoque modo facerem, prolixum foret et infructuosum. Verumtamen cum optimum videro, distinctionem adiciam.</p>
+      <p id="ODISUM0346">In isto tono differentiae incipiunt in a, quae est quinta supra finalem istius toni, et terminant varie secundum varias inceptiones antiphonarum, ut huiusmodi inceptioni antiphonarum datura ista differentia:</p>
+      <p id="ODISUM0347">[CSM14:104,3; text: Ecce nomen domini, Montes et colles. Mulieres. Tecum principium. Ecce veniet. Euouae. Iohannes autem. Gloria tibi trinitas. Erunt prava. Dies domini.]</p>
+      <p id="ODISUM0348">
+      <pb n="[105]" />Istae autem differunt a primae differentiae antiphonis quia germinant a ante b.</p>
+      <p id="ODISUM0349">[CSM14:105; text: Sede a dextris meis. In regeneratione. Non auferetur. Pro fidei meritis. Euouae. Beati eritis. Sint lumbi vestri. [f. 24v] Unus est enim. Credimus Christum. Bi duo vivens. Pater. Petrus. Adesto. Speciosus. Ite dicite. Diffusa est. Estote. De Sion. Lazarus. Inclinavit. Venit lumen. Fundamenta.] 
+      <figure>
+        <graphic url="/images/ODISUM_18GF.gif" />
+      </figure></p>
+      <p id="ODISUM0350">
+      <pb n="[106]" />Fiunt similiter secundum hunc tonum officia quibus accidit in tono et differentia. haec est igitur intonatio psalmi Venite penes hunc modum:</p>
+      <p id="ODISUM0351">[CSM14:106,1; text: Venite exultemus domino.] 
+      <figure>
+        <graphic url="/images/ODISUM_19GF.gif" />
+      </figure></p>
+      <p id="ODISUM0352">Differentias vero quattuor diversas habet haec intonatio secundum quod diversemode incipiunt officia huius modi. Autem inceptioni datur ista differentia hoc modo:</p>
+      <p id="ODISUM0353">Officium:</p>
+      <p id="ODISUM0354">[CSM14:106,2; text: Gaudete. Exsurge. De ventre. Euouae. Lex domini. Meditatio cordis. Ego autem. Misereris. Rorate. Guadeamus.]</p>
+      <p id="ODISUM0355">De Gradualibus et caeteris huius modi non oportet quicquam dicere quia habent difficile.</p>
+      <p id="ODISUM0356">
+      <pb n="[107]" />10. De secundo tono."</p>
+      <p id="ODISUM0357">Secundus tonus, scilicet plaga proti, in D finitur sicut suus authentus. Ad F descendit, ad b rotundam ascendit. Accipit autem sua principia in [Gamma], ut:</p>
+      <p id="ODISUM0358">[CSM14:107,1; text: Educ de carcere. A: Salve. B:, C: Nonne cor nostrum. [f. 25r] D: Erit ipse. E: Laudate. F: Audi Israel.] 
+      <figure>
+        <graphic url="/images/ODISUM_20GF.gif" />
+      </figure></p>
+      <p id="ODISUM0359">Fiunt autem secundum hunc modum Invitatoria huius modi:</p>
+      <p id="ODISUM0360">[CSM14:107,2; text: Laudemus. Martinus. Psalmus: Venite.]</p>
+      <p id="ODISUM0361">Est autem manifesta differentia inter Invitatoria huius modi et primi quia primus accipit in repetitione istum punctum:</p>
+      <p id="ODISUM0362">[CSM14:107,3; text: Quem sanctorum.]</p>
+      <p id="ODISUM0363">iste vero istum.</p>
+      <p id="ODISUM0364">[CSM14:107,4; text: Quia, et caetera;]</p>
+      <p id="ODISUM0365">
+      <pb n="[108]" />Fiunt autem huiusmodi Responsoria:</p>
+      <p id="ODISUM0366">[CSM14:108,1; text: Bonum mihi. Gloria patri et filio et spiritui sancto.] 
+      <figure>
+        <graphic url="/images/ODISUM_21GF.gif" />
+      </figure></p>
+      <p id="ODISUM0367">Fiunt et huiusmodi antiphonae:</p>
+      <p id="ODISUM0368">[CSM14:108,2; text: Secundum autem simile est huic. NOEANE. Neuma.]</p>
+      <p id="ODISUM0369">Ista intonatio datur psalmis propheticis:</p>
+      <p id="ODISUM0370">[CSM14:108,3; text: Dixit dominus domino meo.]</p>
+      <p id="ODISUM0371">Evangelicis:</p>
+      <p id="ODISUM0372">[CSM14:108,4; text: Benedictus dominus deus Israel.]</p>
+      <p id="ODISUM0373">Huiusmodi autem intonationis duae sunt differentiae. Huiusmodi autem antiphonis datur differentia sic:</p>
+      <p id="ODISUM0374">[CSM14:108,5; text: Erit ipse. Quem vidistis. Iuste et pie. Euouae.]</p>
+      <p id="ODISUM0375">
+      <pb n="[109]" />Et omnibus aliis huius toni praeterquam huius quibus datur haec antiphona:</p>
+      <p id="ODISUM0376">[CSM14:109,1; text: O sapientia. Domine Iesu. Euouae.] 
+      <figure>
+        <graphic url="/images/ODISUM_22GF.gif" />
+      </figure></p>
+      <p id="ODISUM0377">Fiunt autem huiusmodi officia secundum hunc tonum:</p>
+      <p id="ODISUM0378">[CSM14:109,2; text: Salve. Et Iesum. Mihi autem. Cibavit.]</p>
+      <p id="ODISUM0379">Et habent intonationem sicut psalmi evangelici cum ista differentia:</p>
+      <p id="ODISUM0380">[CSM14:109,3; text: Euouae.]</p>
+      <p id="ODISUM0381">Accidit autem dubitatio de authentis et plagis cum cantus non ascendunt ad suam maximam ascentionem vel non descendunt quantum liceret, cuius toni sint, ut cum secundus modus ascendit ad b vel a et primus non [f. 25v] ulterius aliquando ascendit. In his ergo huiusmodi sit discretio. Si cantus sub D descendit et supra G non ascendit, certissime de secundo tono est. Et si semel tetigerit a vel b, de hoc de secundo tono est. Si autem multum remanserit in illis, de primo est. Et eadem est discretio inter omnes authentos et suas plagas. Si ad quartam vocem tantum supra finalem ascenderit, vel quintam aut sextam semel tetigerit, plagalis est. Reliqui sunt authenti.</p>
+      <p id="ODISUM0382">11. De tertio tono.</p>
+      <p id="ODISUM0383">Tertius tonus, scilicet authentus deuterus, in E finitur et ad D descendit et aliquando ad c et ad e ascendit et aliquando ad f, et accipit sua principia in C, ut:</p>
+      <p id="ODISUM0384">
+      <pb n="[110]" />[CSM14:110,1; text: Similitudo. D: Constitues. E: Qui de terra est. F: Dum complerentur. G: Quasi unus. a: Adiutor. [sqb]: Isti sunt sancti. c: Erat ei.] 
+      <figure>
+        <graphic url="/images/ODISUM_23GF.gif" />
+      </figure></p>
+      <p id="ODISUM0385">Fiunt igitur secundum hunc tonum huiusmodi Invitatoria:</p>
+      <p id="ODISUM0386">[CSM14:110,2; text: Regem precursoris. Venite.]</p>
+      <p id="ODISUM0387">Fiunt et huiusmodi Responsoria:</p>
+      <p id="ODISUM0388">[CSM14:110,3; text: Dum complerentur. Gloria patri et filio et spiritui sancto.]</p>
+      <p id="ODISUM0389">Fiunt et huiusmodi antiphonae:</p>
+      <p id="ODISUM0390">[CSM14:110,4; Tertia dies est quod haec facta sunt. Neuma.]</p>
+      <p id="ODISUM0391">
+      <pb n="[111]" />Daturque huic tono huiusmodi intonatio in psalmis propheticis:</p>
+      <p id="ODISUM0392">[CSM14:111,1; text: Dixit dominus domino meo.] 
+      <figure>
+        <graphic url="/images/ODISUM_24GF.gif" />
+      </figure></p>
+      <p id="ODISUM0393">Evangelicis:</p>
+      <p id="ODISUM0394">[CSM14:111,2; text: Benedictus dominus deus Israel.]</p>
+      <p id="ODISUM0395">Ista autem intonatio sex habet differentias. Antiphonis sic inchoantibus ista datur:</p>
+      <p id="ODISUM0396">[CSM14:111,3; text: Pulchriores. Quasi unus. Euouae. [f. 26r] Orietur. Aqua Thomae. Tollite. Hic est discipulus. Surge. Ecce. In tribulatione. Dum complerentur. Pudore. Omnia quaecumque. Domine. Copiose.]</p>
+      <p id="ODISUM0397">
+      <pb n="[112]" />Huiusmodi autem sunt Officia secundum hunc tonum, et haec intonatio:</p>
+      <p id="ODISUM0398">[CSM14:112,1; text: Venite exultemus domino.] 
+      <figure>
+        <graphic url="/images/ODISUM_25GF.gif" />
+      </figure></p>
+      <p id="ODISUM0399">Ista intonatio duas habet differentias. Huiusmodi inceptioni haec datur:</p>
+      <p id="ODISUM0400">[CSM14:112,2; text: Confessio. Dum sanctificatus. Ego autem. Euouae. Tibi dixit. Omnia quaecumque. Liberator meus.]</p>
+      <p id="ODISUM0401">12. De quarto tono.</p>
+      <p id="ODISUM0402">Quartus tonus, scilicet plaga deuteri, similiter in E finitur et descendit ad A. Ascendit autem ad c, et habet sua principia in C, ut sic:</p>
+      <p id="ODISUM0403">[CSM14:112,3; text: Bethlehem. D: Rubum quem viderat. E: Vigilate. F: Turba multa. G: Exequiae Martini. a: Considerate.]</p>
+      <p id="ODISUM0404">Habet autem hic tonus Invitatorium plura et psalmum Venite multiplex modulatum, unde huiusmodi Invitatorio datur haec modulatio plurimi sic:</p>
+      <p id="ODISUM0405">
+      <pb n="[113]" />[CSM14:113,1; text: Venite. Adoremus. Christum natum. Corde et voce. [f. 26v] Prope esto. Ipsi vero. Agnum sponsum.] 
+      <figure>
+        <graphic url="/images/ODISUM_26GF.gif" />
+      </figure></p>
+      <p id="ODISUM0406">Inter istum psalmum et priorem non invenio differentiam invitatorii nisi quod prior in sollemnibus dicitur, ut Sancti Nicholae, in Assumptione et Nativitate Beatae Virginis, et iste in dominicis et simplicibus festis novem lectionum sive duodecim tamen privilegio amoris meruit psalmum habere proprium.</p>
+      <p id="ODISUM0407">[CSM14:113,2; text: Christus. Venite.]</p>
+      <p id="ODISUM0408">Iste sufficientem habet differentiam:</p>
+      <p id="ODISUM0409">[CSM14:113,3; text: Adoremus. Venite.]</p>
+      <p id="ODISUM0410">Nec differt hoc Invitatorium a prioribus. Et ferre dicitur hoc Invitatorium:</p>
+      <p id="ODISUM0411">[CSM14:113,4; text: Venite..., Quoniam.]</p>
+      <p id="ODISUM0412">Responsorium:</p>
+      <p id="ODISUM0413">
+      <pb n="[114]" />[CSM14:114,1; text: Cognovit. Gloria patri et filio et spiritui sancto.] 
+      <figure>
+        <graphic url="/images/ODISUM_27GF.gif" />
+      </figure></p>
+      <p id="ODISUM0414">Antiphona:</p>
+      <p id="ODISUM0415">[CSM14:114,2; text: Quarta vigiliae venit ad eos. Neuma.]</p>
+      <p id="ODISUM0416">Intonatio psalmis propheticis:</p>
+      <p id="ODISUM0417">[CSM14:114,3; text: Dixit dominus domino meo.]</p>
+      <p id="ODISUM0418">Evangelicis:</p>
+      <p id="ODISUM0419">[CSM14:114,4; text: Benedictus dominus deus Israel.]</p>
+      <p id="ODISUM0420">Haec autem intonatio quattuor habet differentias incipientes in a, quarta voce supra finalem:</p>
+      <p id="ODISUM0421">[CSM14:114,5; text: Euouae.]</p>
+      <p id="ODISUM0422">
+      <pb n="[115]" />Verum istarum quattuor differentiarum antiphonae sic nominantur ut per b mollem in a desinant, videlicet totum cantum diatessaron et hoc propter offensionem semitonii in suis usuis. Huiusmodi autem hic datur:</p>
+      <p id="ODISUM0423">[CSM14:115; text: Lumen vultus tui. Norunt infantes. Auro virginum. Non erat. Ecce quod concupivi. Euouae. [f. 27r] Rubum quem. Glorificamus te. Sub tuam protectionem. Bethlehem. Cum videris. Lucem tuam. Quaerite dominum. Gaude Maria. Benedicta tu. Super te Ierusalem. Sion noli. Propter Sion. Impleat. Speret Israel. Et omnis. Adiutor.] 
+      <figure>
+        <graphic url="/images/ODISUM_28GF.gif" />
+      </figure></p>
+      <p id="ODISUM0424">
+      <pb n="[116]" />[CSM14:116,1; text: Ex Aegypto. Ante me. Ex quo facta. Euouae. Fidelia. In mandatis. A viro iniquo.] 
+      <figure>
+        <graphic url="/images/ODISUM_29GF.gif" />
+      </figure></p>
+      <p id="ODISUM0425">Intonatio officiorum in hoc tono est sicut psalmorum evangelicorum cum duabus differentiis sequentibus:</p>
+      <p id="ODISUM0426">[CSM14:116,2; text: Omnis terra. Intret. Sicut oculi. Euouae. Nos autem. Prope esto. Resurrexi.]</p>
+      <p id="ODISUM0427">Fit autem secundum hunc tonum hymnus:</p>
+      <p id="ODISUM0428">[CSM14:116,3; text: Te deum.]</p>
+      <p id="ODISUM0429">Fit etiam symbolum:</p>
+      <p id="ODISUM0430">[CSM14:116,4; text: Credo in unum deum.]</p>
+      <p id="ODISUM0431">13. De quinto tono.</p>
+      <p id="ODISUM0432">Quintus tonus, scilicet authentus tritus, in F finitur. Ascendit et aliquando ad a et potest descendere sub finali et aliquando semitonium diatessaron, et habet sua principia in F, ut: [f. 27v]</p>
+      <p id="ODISUM0433">
+      <pb n="[117]" />[CSM14:117,1; text: Benedicam te. G: Verba mea. A: Ex quo omnia. [sqb]: Sanctus. C: Caeli aperti. D: Notas mihi.] 
+      <figure>
+        <graphic url="/images/ODISUM_30GF.gif" />
+      </figure></p>
+      <p id="ODISUM0434">Habet autem hic tonus huiusmodi Invitatoria:</p>
+      <p id="ODISUM0435">[CSM14:117,2; text: In manu. Alleluia. Venite.]</p>
+      <p id="ODISUM0436">Responsorium:</p>
+      <p id="ODISUM0437">[CSM14:117,3; text: Iste sanctus. Gloria patri et filio et spiritui sancto.]</p>
+      <p id="ODISUM0438">Antiphona:</p>
+      <p id="ODISUM0439">[CSM14:117,4; text: Quinque prudentes virgines intraverunt ad nuptias. Neuma.]</p>
+      <p id="ODISUM0440">Intonatio psalmis propheticis:</p>
+      <p id="ODISUM0441">[CSM14:117,5; text: Dixit dominus domino meo.]</p>
+      <p id="ODISUM0442">
+      <pb n="[118]" />Evangelicis:</p>
+      <p id="ODISUM0443">[CSM14:118,1; text: Benedictus dominus deus Israel.] 
+      <figure>
+        <graphic url="/images/ODISUM_31GF.gif" />
+      </figure></p>
+      <p id="ODISUM0444">Haec intonatio duas habet differentias:</p>
+      <p id="ODISUM0445">[CSM14:118,2; text: Ecce virgo. Benedictionis. Fons ortorum. Euouae. Benedicam te. Innocenter. Levita.]</p>
+      <p id="ODISUM0446">Intonatio officiorum est sicut aliorum psalmorum habens tres differentias, ut hic:</p>
+      <p id="ODISUM0447">[CSM14:118,3; text: Exaudi deus. Miserere. Euouae. Circumdederunt me. Domine in tua. Laetare. Domine refugium. Verba mea.]</p>
+      <p id="ODISUM0448">
+      <pb n="[119]" />14. De sexto tonatio.</p>
+      <p id="ODISUM0449">[f. 28r] Sextus tonus, scilicet plaga triti, similiter in F finitur et ad e ascendit, ad B autem descendit, et habet sua principia in C:</p>
+      <p id="ODISUM0450">[CSM14:119,1; text: Quasi modo. D: In medio. E: O admirabile. F: Iusti epulentur. G: Ite in orbem. A: Vidi dominum.] 
+      <figure>
+        <graphic url="/images/ODISUM_32GF.gif" />
+      </figure></p>
+      <p id="ODISUM0451">Habet autem similiter cum trina psalmi Venite modulatione.</p>
+      <p id="ODISUM0452">[CSM14:119,2; text: Surrexit. Venite. Alleluia. Adoremus.]</p>
+      <p id="ODISUM0453">Responsoria:</p>
+      <p id="ODISUM0454">[CSM14:119,3; text: Aspiciebam. Gloria patri et filio et spiritui sancto.]</p>
+      <p id="ODISUM0455">Antiphona:</p>
+      <p id="ODISUM0456">[CSM14:119,4; text: Sexta hora sedit supra puteum. Neuma.]</p>
+      <p id="ODISUM0457">Intonatio psalmis propheticis:</p>
+      <p id="ODISUM0458">[CSM14:119,5; text: Dixit dominus domino meo.]</p>
+      <p id="ODISUM0459">
+      <pb n="[120]" />Evangelicis:</p>
+      <p id="ODISUM0460">[CSM14:120,1; text: Benedictus dominus deus Israel.] 
+      <figure>
+        <graphic url="/images/ODISUM_33GF.gif" />
+      </figure></p>
+      <p id="ODISUM0461">Suam haec intonatio habet differentiam:</p>
+      <p id="ODISUM0462">[CSM14:120,2; text: Orietur. Tu populum. Si ego. Euouae.]</p>
+      <p id="ODISUM0463">Hic autem tonus habet officia quorum est intonatio habens duas differentias quae sequuntur:</p>
+      <p id="ODISUM0464">[CSM14:120,3; text: Venite exultemus domino.]</p>
+      <p id="ODISUM0465">Huiusmodi inceptioni haec datur:</p>
+      <p id="ODISUM0466">[CSM14:120,4; text: Hodie. In medio. Iusti epulentur. Euouae. Quasi modo geniti.]</p>
+      <p id="ODISUM0467">15 De septimo tonatio.</p>
+      <p id="ODISUM0468">Septimus tonus, scilicet authentus tetrardus, in G finitur et ad g ascendit et aliquando ad a, et potest descen[f. 28v]dere sub finali ad F et aliquando descendit ad D. Habet autem sua principia in:</p>
+      <p id="ODISUM0469">
+      <pb n="[121]" />[CSM14:121,1; text: F: Memento. G: Veni domine. A: Venite benedicti. [sqb]: Helena. c: Stella ista. d: Ecce sacerdos.] 
+      <figure>
+        <graphic url="/images/ODISUM_34GF.gif" />
+      </figure></p>
+      <p id="ODISUM0470">Et habet Invitatorium cum bina psalmi Venite modulatione:</p>
+      <p id="ODISUM0471">[CSM14:121,2; text: Preoccupemus. Venite. Prestolantes.]</p>
+      <p id="ODISUM0472">Responsoria ut sic:</p>
+      <p id="ODISUM0473">[CSM14:121,3; text: Aspiciens. Gloria patri et filio et spiritui sancto.]</p>
+      <p id="ODISUM0474">Antiphona:</p>
+      <p id="ODISUM0475">[CSM14:121,4; text: Septem sunt spiritus ante thronum Dei. Neuma.]</p>
+      <p id="ODISUM0476">Intonatio psalmis propheticis:</p>
+      <p id="ODISUM0477">[CSM14:121,5; text: Dixit dominus domino meo.]</p>
+      <p id="ODISUM0478">Evangelicis:</p>
+      <p id="ODISUM0479">[CSM14:121,6; text: Benedictus dominus deus Israel.]</p>
+      <p id="ODISUM0480">Haec intonatio septem habet differentias:</p>
+      <p id="ODISUM0481">
+      <pb n="[122]" />[CSM14:122,1; text: Omnes sitientes. Specie tua. Domine labia. Euouae. Nox praecessit. Apparuit. Ex odoris. Exortum est., Amicae. Veterem hominem. Urbs fortis. Dedit pater. Stella ista. Confortatus est. [f. 29r] Misit dominus. Quo progrederis.] 
+      <figure>
+        <graphic url="/images/ODISUM_35GF.gif" />
+      </figure></p>
+      <p id="ODISUM0482">Hic etiam tonus habet officia quorum haec est intonatio, habens tres differentias:</p>
+      <p id="ODISUM0483">[CSM14:122,2; text: Venite exultemus domino. Populus Sion. Euouae. Puer. Oculi. Gloria. Adorate. Audivit. Protexisti.]</p>
+      <p id="ODISUM0484">
+      <pb n="[123]" />16. De octavo tono."</p>
+      <p id="ODISUM0485">Octavus tonus, scilicet plaga tetrardi, similiter in G desinit. Descendit autem ad C et ad e ascendit et aliquando ad g, sed irregulariter; irregularis enim est omnis cantus plagalis qui ad octavam vocem ascendit supra finalem. Neque enim simul tangit C et g, quia omnis cantus degenere dicitur qui plus quam decem in tono recipit voces, nisi forte liceat semitonium intendere, scilicet et remittere prout possibile erat in voce. Et postea consulte determinaverunt certas ascentiones et descentiones, ut his voces plurimum sufficiant sicut prius determinatum est. Habet sua principia in:</p>
+      <p id="ODISUM0486">[CSM14:123,1; text: C: Sapientia. D: Dixit dominus mulieri. F: Gloria in excelsis. G: In illa die. a: Completi sunt. [sqb]: Dominus dixit. c: Ego dormivi.] 
+      <figure>
+        <graphic url="/images/ODISUM_36GF.gif" />
+      </figure></p>
+      <p id="ODISUM0487">Invitatoria non habet. Habet autem huiusmodi Responsoria:</p>
+      <p id="ODISUM0488">[CSM14:123,2; text: Domine prevenisti. Gloria patri et filio et spiritui sancto.]</p>
+      <p id="ODISUM0489">Antiphona: [f. 29v]</p>
+      <p id="ODISUM0490">[CSM14:123,3; text: Octo sunt beatitudines. Neuma.]</p>
+      <p id="ODISUM0491">
+      <pb n="[124]" />Intonatio psalmis propheticis:</p>
+      <p id="ODISUM0492">[CSM14:124,1; text: Dixit dominus domino meo.] 
+      <figure>
+        <graphic url="/images/ODISUM_37GF.gif" />
+      </figure></p>
+      <p id="ODISUM0493">Evangelicis:</p>
+      <p id="ODISUM0494">[CSM14:124,2; text: Benedictus dominus deus Israel.]</p>
+      <p id="ODISUM0495">Haec intonatio quattuor habet differentias:</p>
+      <p id="ODISUM0496">[CSM14:124,3; text: In illa die. Pater Abraham. Commedi. Spiritus. Dabo. Qui sunt hi. Venite. Euouae. Impii super iustum. Animae impiorum. Egregie. Dum venerit. Beatus venter. Dixit angelus. Te decet. Euntes ibant. In eternum. De profundis.]</p>
+      <p id="ODISUM0497">Habet autem hic tonus aliam intonationem psalmorum propheticorum, quae unam habet differentiam huiusmodi antiphonis sic:</p>
+      <p id="ODISUM0498">[CSM14:124,4; text: Nos qui vivimus. Cum venerit. Angelus domini.]</p>
+      <p id="ODISUM0499">
+      <pb n="[125]" />Intonatio:</p>
+      <p id="ODISUM0500">[CSM14:125,1; text: In exitu Israel de Aegypto.] 
+      <figure>
+        <graphic url="/images/ODISUM_38GF.gif" />
+      </figure></p>
+      <p id="ODISUM0501">Differentia autem haec est:</p>
+      <p id="ODISUM0502">[CSM14:125,2; text: Euouae.]</p>
+      <p id="ODISUM0503">Hic autem tonus officia habet quorum intonatio est sicut psalmus evangelicorum duas h abens differentias:</p>
+      <p id="ODISUM0504">[CSM14:125,3; text: Ad te levavi. En excelso. [f. 30r] Dilexisti. Euouae. Dum medium. Introduxit. Spiritus.]</p>
+      <p id="ODISUM0505">17. Quibus priorum troporum nominibus hi toni possunt vocari et de comparatione eorum adinvicem.</p>
+      <p id="ODISUM0506">Hic subicio formulam quae monstret litteris rubeis voces initiales in singulis tonis et communes ascensus et descensus, non casuales vel irregulares, ne forte errore scriptorum hae litterae quas subieci pervertantur, ut ex hoc pateat quibus priorum troporum nominibus hi toni convenienter nominentur. Et hoc accipitur penes gravitatem vel acuminem, ut plaga proti, quia gravissimus tropus est, hypodorius dicitur. Et post ipsum plaga deuteri, tono acutior, hypophrygius, et sic de caeteris ut patet in formula.</p>
+      <p id="ODISUM0507">
+      <pb n="[126]" />Nec mirum videatur quod deuterus dicitur phrygius cum plaga tetrardi sic gravior, quia plaga tetrardiem pars acutissimi modi et aliquando ascendit supra deuterum et consimiliter supra dorium. Sed dicet aliquis quod istorum modorum qui gravior est diceretur iure prior, ut hypodorius sit primus, hypophrygius secundus, et caetera, verum est de principibus ita fit. Reliqui vero non sunt proprie modi sed partes modorum quia quattuor sunt finales in quibus conveniunt plagales cum principibus. Unde si ordo acciperetur secundum gravitatem, contingeret priorem esse plagam deuteri quam authentum protum et similiter plagam triti. Et prius de tribus partialibus quam de aliquo principali esset inconveniens. Sed quaeratur prius de principalibus quam de partialibus; dicatur, quaeritur cum partiales sint graviores, dicendum quod principales communicat aliumquando in gravitate cum partibus continentes principales non communicant cum principibus, in acumine habentes fixum terminum, et ideo principales vocantur. Habet etiam plures voces cum canalibus quam partiales, et haec sunt causae quare prius [f. 30v] de principalibus agitur.</p>
+      <p id="ODISUM0508">Monstrat etiam haec formula quis modus [sqb] quadratam, quis b rotundam, quis utramque habuerit; ex quibus etiam diapason species constet quibus modus, ut authentus protus constat ex prima specie cum b rotundam accipit, ex quarta vero cum [sqb] quadratam admittit.</p>
+      <p id="ODISUM0509">Dorius C, D, E, F, G, a, b, [sqb], c, d,</p>
+      <p id="ODISUM0510">Hypodorius [Gamma], A, B, C, D, E, F, G, a, b Plaga proti</p>
+      <p id="ODISUM0511">Phrygius C, D, E, F, G, a, [sqb], c, d, e,</p>
+      <p id="ODISUM0512">Hypophrygius A, B, C, D, E, F, G, a, [sqb], c Plaga deuteri</p>
+      <p id="ODISUM0513">Lydius E, F, G, a, b, [sqb], c, d, e, f,</p>
+      <p id="ODISUM0514">Hypolydius B, C, D, E, F, G, a, b, c, d Plaga triti</p>
+      <p id="ODISUM0515">Hypermixolydius F, G, a, [sqb], c, d, e, f, g</p>
+      <p id="ODISUM0516">Mixolydius C, D, E, F, G, a, b, [sqb], c, d, e Plaga tetrardi</p>
+      <p id="ODISUM0517">[f. 30v] Et si alicui videatur insufficiens in hac parte, excuset me brevitas, quia tantum communiorem usum persequor, cum multi sint usus diversificantes in conceptionibus et differentiis, iccirco quia haec aliquando erant ad placitum compenentium.</p>
+      <p id="ODISUM0518">Explicit pars quinta.</p>
+      <p id="ODISUM0519">
+      <pb n="[127]" />Incipit sexta et ultima. Habet capitula duodeviginti.</p>
+      <p id="ODISUM0520">VI. De harmonia multiplici</p>
+      <p id="ODISUM0521">De longis, brevibus, et semibrevibus; De plicis, Quot modis longa perfecta et imperfecta dicitur; Quot modis brevis dicitur recta vel altera; De pausis; De modis de quibus procedunt cantus organici; De perfectione et imperfectione modorum et eorum mutatione; De ligaturis; De valore ligaturarum; Quomodo singuli modi habent notari in ligaturis; De generibus cantuum organicorum; De compositione cantuum organicorum et primo de organo puro; De rondellis; De conductis; De copula; De motetis; De hoquetis; De modo psallendi.</p>
+      <p id="ODISUM0522">1. De longis, brevibus, et semibrevibus.</p>
+      <p id="ODISUM0523">De harmonia simplici expeditum est. Restat de harmonia multiplici explicandum, quam voco diaphoniam. Diaphonia est concors discordia inferiorum vocum cum superioribus, sic dicta quia non per totum proceditur per concordias, sed quia concordia sequens tollit offensionem discordiae prioris, et haec organum communiter appelatur. Circa istam igitur partem tria attenduntur: scilicet, consonantia, de qua dictum est prius, et quae sunt voces consonantiae; inaequalitas temporum in carmine, sicut similiter dictum est; et inaequalitas temporum in vocibus consonantibus sicut sequitur, quae notis exprimitur. Fitque ut his in unam melodiam concurrentibus mira suavitate reficiantur auditus.</p>
+      <p id="ODISUM0524">Ita igitur inaequalitas accidit dum una nota morosius et alia velocius profertur. Morosa longa vocatur, quae prius virga dicitur: nota, scilicet, quadrata cum tractu a parte dextera, sic: [ClefC3,L,L,L,L on staff3]. Velox vero vocatur brevis, quae prius dicitur punctus: figura, scilicet, quadrata, sic: [ClefC3,B,B,B,B,B,B on staff3].</p>
+      <p id="ODISUM0525">Longa autem apud priores organistas duo tantum habuit tempora 
+      <pb n="[128]" />sicut in metris, sed postea ad perfectionem ducitur ut sit trium temporum ad similitudinem beatissimae Trinitatis, quae est summa perfectio. Diciturque longa huiusmodi perfecta. Illa vero quae tantum duo habet tempora dicitur imperfecta. Est et alia quae duplex longa dicitur: [f. 31r] illa, scilicet, quae duas valet longas perfectas, quae ideo una figura duas exprimit ne teneor plani cantus disrumpatur, sic: [ClefC3,2L,2L,2L on staff3].</p>
+      <p id="ODISUM0526">Longa igitur perfecta potest resolvi in tres breves, quarum quaelibet recta brevis dicitur quia quaelibet recta est alteri; rectum enim aequum aliquando solet dici. Si vero in duas tantum resolvitur, dicetur prima recta, secunda altera vocabitur, sic: [ClefC3,B,B; B,B on staff3], quia una figuratur et alteram importat; valet longam imperfectam. Brevis vero apud priores resoluta est in duas semibreves, sic vocatas a re: apud modernos aliquando in tres, aliquando in duas. Cum autem in duas, dicitur prima minor et secunda maior, quia duas minores continet, quarum figura accipitur secundum species quadranguli. Alius enim est quadratus habens latera aequalia et angulos aequales, sicut longae et breves, alia est quae latera habet aequalia et non angulos, sic: [ClefC3,S,S,S,S,S,S,S,S,S on staff3], et haec est figura semibrevis. Rursumque invenitur brevis divisa in sex vel septem partes, quas adhuc semibreves vocant minus iuste. Sed quia continuum est divisibile in infinitum, et tempus continuorum est, voces quidem sunt mensuratae temporibus quare divisibiles erunt in infinitum. Sicut ergo longa in breves et brevis in semibreves dividitur, ita semibrevem primo divido in tres partes quas minutas voco, figuram retinens semibrevis ne ab aliis musicis videar discrepare. Verum cum brevis divisa in duas semibreves sequitur brevem divisam in tres partes, vel e contrario in tres partes et duas, divisionem pono sic: [ClefC3,S,S,pt,S,S,S,pt,S,S on staff3]. Cum vero in quattuor vel quinque aut ulterius divisa fuerit, non dicta divisione sed tali 
+      <pb n="[129]" />parvulo circulo cognoscetur, qui similiter signum est divisionis, sic: [ClefC3,S,S,S,S,ptv,S,S,S,S,S,ptv,S,S,S,S,S,S,ptv on staff3]. Suntque duae de quattuor priores semibreves minores, duae vero posteriores minutae sunt, quasi minimae seu velocissimae, et sic de aliis.</p>
+      <p id="ODISUM0527">2. De plicis.</p>
+      <p id="ODISUM0528">Plica est inflexio vocis a voce sub una figura. Solae longae et breves sunt plicabiles. Plicarum alia ascendens, alia descendens, quae in plano cantu vocantur semitonus et semivocalis. Longa plica descendens habet tractum a dextera parte longiorem, sic: [ClefC2,Lpdsn,Lpdsn,Lpdsn,Lpdsn,Lpdsn,Lpdsn on staff2] brevis e contrario a sinistra, sic: [ClefC2,Bcdsnpddx,Bcdsnpddx,Bcdsnpddx,Bcdsnpddx on staff2]. Longa plica ascendens similiter tractum longiorem habet a parte dextera, sic: [ClefC2,Bpssncsdx,Bpssncsdx,Bpssncsdx,Bpssncsdx,Bpssncsdx on staff2]. Fit et aliquando cum uno tractu, sic: [ClefC2,Bcsdx,Bcsdx,Bcsdx,Bcsdx on staff2]. Brevis vero ascendens sinistrum tractum habet longiorem, sic: [ClefC2,Bcssnpsdx,Bcssnpsdx,Bcssnpsdx,Bcssnpsdx on staff2].</p>
+      <p id="ODISUM0529">3. Quot modis longa perfecta vel imperfecta dicitur.</p>
+      <p id="ODISUM0530">Longa perficitur cum longam praecedit, sic: [ClefC2,L,L; L,L on staff2] vel si eis signum perfectionis addatur, sic: [ClefC2,L,pt,L,pt,L,pt on staff2], aut cum eam sequuntur duae breves, sic: [ClefC2,L,B,B,L,B,B on staff2], vel tres, sic: [ClefC2,L,B,B,B,L,B,B,B on staff2], nisi inter primam et sequentes divisio apponatur, sic: [ClefC2,L,B,pt,B,B,L,B,pt,B,B on staff2], aut 
+      <pb n="[130]" />brevis longam praecedit, sic: [f. 31v] [ClefC2,B,L,B,L,B,L on staff2], et tunc imperficitur longa. Imperficitur enim cum eam sequitur brevis una, sic: [ClefC2,L,B,L,B,L,B on staff2], vel quattuor vel plures, sic: [ClefC2,L,B,B,B,B,L,B,pt,B,B,B,L on staff2], vel valor brevis resolutae in semibreves, sic: [ClefC2,L,S,S,S,L,S,S,S,S,L,S,S,S,S,S,S on staff2].</p>
+      <p id="ODISUM0531">4. Quot modis brevis dicitur recta vel altera.</p>
+      <p id="ODISUM0532">Duae autem breves cum longam sequuntur et longam praecedunt, prima dicitur recta et secunda altera, sic: [ClefC2,L,B,B,L,B,B,L on staff2], nisi inter breves divisio apponatur, sic: [ClefC2,L,B,pt,B,B,L on staff2], et tunc utraeque rectae sunt. Et similiter si duae breves longam praecedunt, secunda altera dicitur, sic: [ClefC2,B,B,L on staff2]. Si vero quotlibet fuerint breves omnes rectae sunt, nisi divisio seperaret duas ultimas a prioribus, et tunc ultima dicitur altera, sic: [ClefC2,B,B,B,pt,B,B,L on staff2]. Si vero inter duas longas tres breves fuerint, omnes sunt rectae, sic: [ClefC2,L,B,B,B,L,B,B,B,L on staff2], nisi forte inter primam et duas sequentes divisio apponatur, sic: [ClefC2,L,B,pt,B,B,L on staff2], et tunc prima imperficit longam primam. Reliquarum vero prima recta est et secunda alteratur.</p>
+      <p id="ODISUM0533">5. De pausis.</p>
+      <p id="ODISUM0534">Pausae sunt quaedam tempora vocum tacita, ut dum unus cantat alius tacet. Unde secundum vocum tempora dantur illa signa, scilicet, lineae secantes lineas, ut pausa longae perfectae tria occupat spatia, quattuor tangens lineas; pausa longae imperfectae duo occupat spatia, et similiter alterae brevis; brevis vero unum spatium, semibrevis vero pausa medietatem spatii unius occupat. Cum autem omnes similiter pausant, fit tractus omnes tangens lineas, qui et finis punctorum dicitur, ut patet hic:</p>
+      <p id="ODISUM0535">
+      <pb n="[131]" />[CSM14:131] . Eademque est ratio cum breves vel longae longam vel brevem pausam praecedunt, sicut longam vel brevem emissam ut sicut longa ante longam est perfecta, sic ante pausam longam, et sic de aliis.</p>
+      <p id="ODISUM0536">6. De modis de quibus procedunt cantus organici.</p>
+      <p id="ODISUM0537">Modus in hac parte est longarum et brevium ordinalis processio, ut cum cantus procedit per longam et brevem dicitur de primo modo, sic: [ClefC2,L,B,L,B,L,B on staff2]. Secundus modus est huic contrarius, sic: [ClefC2,B,L,B,L,B,L on staff2] Tertius modus procedit per longam et duas breves, sic: [ClefC2,L,B,B,L,B,B on staff2] Quartus e contrario, sic: [ClefC2,B,B,L,B,B,L on staff2]. Quintus per omnes longas, sic: [ClefC3,L,L,L,L,L on staff3]. Sextus constat ex omnibus brevibus et semibrevibus, sic: [ClefC2,S,S,B,S,S,S,S,B,S,S on staff2]. Sunt et alii modi secundarii, scilicet cum cantus procedit per longam et brevem et brevem et longam cum divisione modi inter breves, sic: [ClefC2,L,B,pt,B,L on staff2]. Sed hic modus constat ex primo et secundo et ad alterum eorum reducitur. Similiter cum cantus procedit ex brevi et longa duabus brevibus et longa, sic: [ClefC2,B,L,B,B,L on staff2], constat ex secundo et quarto, et sic de aliis diversis dis positionibus. Sic autem se habent [f. 32r] modi in ordine secundum quod prius et posterius fuerunt in usu et in inventione.</p>
+      <p id="ODISUM0538">7. De perfectione modorum et imperfectione et eorum mutatione.</p>
+      <p id="ODISUM0539">Sunt igitur isti modi tripliciter imperfecti sicut subicio et his pedes adicio ut pateat qui pedes quibus modis aptandi sunt.</p>
+      <p id="ODISUM0540">
+      <pb n="[132]" />Primus igitur primi modi perfectus sic se habet: [ClefC2,L,B,L on staff2], amphimacro aptus. Secundus, sic: [ClefC2,L,B,L,B,L on staff2], trochaeo et amphimacro aptus. Tertius primi, sic: [ClefC2,L,B,L,B,L,B,L on staff2], ditrochaeo et amphimacro aequus. Et in his propria pausa est brevis recta, sic: [exemplum deest]. Primus autem primi imperfectus sic se habet: [ClefC2,L,B on staff2], trochaeo aptus; secundus, sic: [ClefC2,L,B,L,B on staff2], distrochaeo. Tertius primi imperfectus, sic: [ClefC2,L,B,L,B,L,B on staff2], amphimacro et amphibracho aequus, et his propria pausa est longa imperfecta et brevis recta, sic: [ClefC3,2LP,BP,2LP,BP,2LP,BP on staff3].</p>
+      <p id="ODISUM0541">Primus modus secundi modi perfectus sic se habent: [ClefC2,B,L,B on staff2], sicut amphibrachus. Secundus, sic: [ClefC2,B,L,B,L,B on staff2], iambo et amphibracho aptus. Tertius, sic: [ClefC2,B,L,B,L,B,L,B on staff2], diiambo et amphibracho aequus, et his propria pausa est longa imperfecta, sic: [ClefC3,B,L,BP,2LP on staff3]. Primus itaque secundi imperfectus sic se habet: [ClefC3,B,L,BP,2LP on staff3], sicut iambus. Secundus, sic: [ClefC3,B,L,B,L,BP,2LP on staff3], diiambo aptus. Tertius, sic: [ClefC3,B,L,B,L,B,L,BP,2LP on staff3], iambo et diiambo aptus. Huius autem propria pausa est brevis recta et longa imperfecta, sic: [ClefC3,BP,2LP,BP,2LP,BP,2LP,BP,2LP,BP,2LP on staff3]. Et hic modus saepe mutatur in primum imperfectum cum longa pausa aufertur et primus imperfectam pausam brevem ablatam.</p>
+      <p id="ODISUM0542">
+      <pb n="[133]" />Primus modus tertii perfectus sic constat: [ClefC3,L,B,B,L on staff3], choriambo similis. Secundus, sic: [ClefC3,L,B,B,L,B,B,L on staff3], dactylo et choriambo aequalis. Tertius, sic: [ClefC3,L,B,B,L,B,B,L,B,B,L on staff3], duobus dactylicis et choriambo aequalis. Et propria pausa huius modi est brevis recta et altera, scilicet longa perfecta. Primus modus tertii imperfectus, sic: [ClefC3,L,B,B,3LP,BP,2LP on staff4], sicut dactylus. Secundus sic similis duobus dactylicis: [ClefC3,L,B,B,L,B,B,3LP,BP,2LP on staff4] Tertius, sic: [ClefC3,L,B,B,L,B,B,L,B,B,3LP,BP,2LP on staff4], aequalis tribus datur. Et propria pausa huius modi est longa perfecta et brevis recta et altera ut sic: [ClefC3,3LP,BP,2LP,3LP,BP,2LP,3LP,BP,2LP on staff4].</p>
+      <p id="ODISUM0543">Primus modus quarti perfectus sic se habet, anapaesto et pyrrhichio aequus: [ClefC3,B,B,L on staff4]. Secundus sic: [ClefC3,B,B,L,B,B,L,B,B on staff4], duobus anapaestis et pyrrhichio aptus; tertius sic: [ClefC3,B,B,L,B,B,L,B,B,L on staff4], tribus anapaestis et pyrrhichio aequus, et habet propriam pausam longam perfectam. Primus modus quarti imperfectus sic: [ClefC3,B,B,L,BP,2LP,3LP on staff4], sicut anapaestus. Secundus sic: [ClefC3,B,B,L,B,B,L,BP,2LP,3LP on staff4], duplici anapaesto aptus. Tertius, sic: [ClefC3,B,B,L,B,B,L,B,B,L,BP,2LP,3LP on staff4], tribus anapaestis aequus. Et propria pausa huius modi est brevis recta et altera et longa perfecta sic: [ClefC3,BP,2LP,3LP,BP,2LP,3LP on staff4]. Iste modus transit in tertium imperfectum si [f. 32v] pausa longa auferatur, et tertius in quartum, id est, si duae breves 
+      <pb n="[134]" />pausae demantur. Nec est inconveniens, scilicet, tertio et quarto, longa est trium temporum et altera brevis duorum. Licet prius dictum sit longam in metris duorum esse temporum, quia syllabam longam licitum est quantumcumque protrahere voci aptata; et similiter non omnis cantus organicus est in carmine. Sed et convenientissime in his modis est longa trium temporum et brevis altera duorum quia hi modi constant principaliter ex dactylis et anapaestis. Dactylus autem dicitur a digito, et anapaestus est dactylo contrarius. Digitus igitur a longiori modo inchoans in duas desinit breves. Media iunctura digiti dupla est respectu extremae. Duabus vero extremis tertia est aequalis, ut sit iste ordo: brevis, altera brevis, longa perfecta, ad similitudinem digiti. Et ideo in his modis longa perfecta primo traxit originem, et tantum in his modis est brevis altera, semper autem secunda est altera, tam in tertio modo quam in quarto ne, si diversitas esset, congregationem offenderet, nisi forte in duas rectas redigatur, vel si prior altera esset, in primum modum transiret.</p>
+      <p id="ODISUM0544">Primus modus quinti sic se habet: [ClefC3,L,L,L on staff3], cui aptus molossus. Secundus, sic: [ClefC3,L,L,L,L,L on staff3], molosso et spondeo aptus. Tertius, sic: [ClefC3,L,L,L,L,L,L,L on staff3], molosso et dispondeo aptus, et pausa est longa perfecta. Primus quinti imperfectus sic: [ClefC3,L,L on staff3], spondeo similis. Secundus, sic: [ClefC3,L,L,L,L on staff3], sicut dispondeus. Tertius, sic: [ClefC3,L,L,L,L,L,L on staff3] sicut duo molossi cum pausa longa. Perfectio in hoc modo et in sexto accipitur secundum quod super istum contingit componere de alio modo cantus perfectum, aliter ille ordo sex longarum esset perfectus.</p>
+      <p id="ODISUM0545">Primus quidem sexti perfectus sic decurrit: [ClefC3,B,B,B,B,2LP on staff3], similis proceleusmatico. Secundus, sic: [ClefC3,B,B,B,B,B,B,B,2LP on staff3], aptus tribracho et 
+      <pb n="[135]" />proceleusmatico. Tertius, sic: [ClefC3,B,B,B,B,B,B,B,B,B,B on staff3], aequalis proceleusmatico et tribrachis duobus cum pausa brevi. Primus sexti imperfectus sic: [ClefC3,B,B,B,BP,2LP on staff3], sicut tribrachus. Secundus, sic: [ClefC3,B,B,B,B,B,B,BP,2LP on staff3], sicut duplex tribrachus. Tertius, sic: [ClefC3,B,B,B,B,B,B,B,B,B,BP,2LP on staff3], tribus tribrachis aptus, similiter cum pausa brevi. Et idem est si breves in semibreves in omnibus modis quandoque resolvantur. Iste modus reducitur ad secundum si pro brevi pausa imperfecta ponatur pausa longae imperfectae. Et si qui alii sint ordines, ad istos reducuntur quare tantum sex modos definio sicut sufficienter exposui.</p>
+      <p id="ODISUM0546">8. De ligaturis.</p>
+      <p id="ODISUM0547">Ligatura est plurium notarum contactus ut quia quidem cantus organici sunt sine littera notis coniungunt propter brevitatem. Ligaturarum alia ascendens et alia descendens. Ascendens est cuius secundus punctus altior est primo, sic: [ClefC3,Lig2art,Lig2a,Lig5adodart,Lig2art,Lig2a on staff3]. [f. 33r] Descendens e contrario, sic: [ClefC3,Lig2cdsnd,Lig4cdsndodart,Lig3cdsnoda,Lig3cdsnodart on staff3]. Item, alia cum proprietate, alia sine proprietate, alia cum opposita proprietate, et haec a parte principii ligaturae. Item, alia cum perfectione et alia sine perfectione, et haec a parte finis. Ligatura igitur descendens cum proprietate dicitur quae. habet tractum descendentem a primo puncto, sic: [ClefC3,Lig3cdsnodart,Lig4cdsndoda,Lig7cdsnodaadodart on staff3]. Ascendens vero cum proprietate est quae caret omni tractu, sic: [ClefC3,Lig3aart,Lig8aodaaodaart,Lig5aodaart on staff3]. Ligatura descendens sine proprietate est quae caret omni tractu, sic: [ClefC3,Lig3dd,Lig5ddodart,Lig3odart on staff3]. Ascendens sine proprietate 
+      <pb n="[136]" />cum tractum habuerit, sic: [ClefC3,Lig5Ladddcddx,Lig3Laart,Lig3Lad on staff3], vel sic, secundum quosdam: [ClefC3,Lig3cdsnaart,Lig3Lad,Lig4cdsnaodart,Lig2cdsnart on staff3]. Opposita proprietas est quae habet a primo puncto tractum ascendentem, sive ligatura ascendat sive descendat, sic: [ClefC3,Lig3cssndd,Lig4cssnaaart,Lig3cssnodart,Lig3cssndod on staff3]. Ligatura ascendens cum perfectione est cum paenultimus punctus recte gerit supra caput ultimum, sicut in plano cantu pes vel resupina, sic: [ClefC3,Lig2art,Lig4aodart,Lig4aodart,Lig5aodaart on staff3]. Ascendens sine perfectione dicitur cum paenultimus punctus habet ultimum averso capite, sic: [ClefC3,Lig2a,Lig5aodaa,Lig7cssnaaadoda on staff3], vel in figura obliqua, sic: [ClefC3,Lig3cssnaoa,Lig4cssnaaoa,Lig4cssnaaoa on staff3]. Ligatura descendens cum perfectione dicitur cuius ultimus punctus contingit paenultimum angulariter descendendo sicut flexa vel pes flexus, sic: [ClefC3,Lig3cdsndd,Lig6cdsnodaadd,Lig4cdsnodad on staff3]. Descendens sine perfectione dicitur cum duae ultimae notae coniunguntur in figura obliqua, sic: [ClefC2,Lig3cdsndod,Lig2cdsnod,Lig5cdsnodadod on staff3]. Ligatura autem descendens cum perfectione est plicabilis ascendendo et descendendo, sic: [ClefC2,Lig2cdsndcsdx,Lig4cdsnodadcsdx,Lig2cdsndcsdx,Lig4cdsnodadcsdx on staff3], et et ligatura sine perfectione similiter, sic: [ClefC3,Lig3cdsndodcsdx,Lig2cdsnodcsdx,Lig3cdsnddodcsdx on staff3]. Sed raro ligatura ascendens sine perfectione plicatur sic, tam ascendendo quam descendendo, sed talibus plica facit de imperfectis perfectas secundum quosdam, sic: [ClefC3,Lig2acsdx,Lig3adcsdx,Lig4aodacsdx,Lig2cssnacddx on staff3]. Ascendens autem sine perfectione obliqua plicabilis est et remanet imperfecta, sic: [ClefC3,Lig3aoacsdx,Lig4aaoacsdx,Lig4aaodcddx on staff3].</p>
+      <p id="ODISUM0548">9. De valore ligaturarum.</p>
+      <p id="ODISUM0549">Licet multae diversae acceptiones de valore ligaturarum. Tamen sicut ego accipio, regulas breves subicio et in sequentibus cum alii diversificant exempla demonstrant. Omnis proprietatis brevis, improprietas 
+      <pb n="[137]" />longa. Opposita proprietas duas facit semibreves quia una non ligatur nec plures quam duae, unde si plures evenerint, usque ad divisionem sic fiunt. Omnis perfectio longa, imperfectio autem brevis, omnis vero media brevis, excepta ea quae per oppositam proprietatem semibreviatur. In his sicut in simplicibus contingit longas perfici et imperfici, breves autem rectas fieri et alterari. Sunt et aliae compositiones notarum ad praedictas diversae, sed his habent cognosci et per modum in quo sunt, ut ista: [ClefC3,Lig3cdsncudd; Lig3cdsncudd on staff3]. In primo modo valent longam imperfectam, in tertio et quinto longam perfectam. Et ista: [ClefC3,Lig3cudd; Lig3cudd on staff3] vel ista: [ClefC3,S,S,B; S,S,B on staff3] longam imperfectam, ista: [ClefC3,Lig4cdsndcudd; Lig4cdsndcudd on staff3] brevem et longam valet.</p>
+      <p id="ODISUM0550">10. Quomodo singuli modi habent notari in ligaturis.</p>
+      <p id="ODISUM0551">Primus secundum regulas primo habet ternariam longam [f. 33v] sine proprietate et cum perfectione, deinde procedit per binariam ligaturam propriam et perfectam, sic: [ClefC3,Lig3dd,Lig2art,Lig2cdsnd; Lig3cdsnodart; Lig3Laart on staff3]. Alii in isto modo faciunt ternariam ligaturam cum proprietate et binariam similiter et sic in ternaria proprietas longa, in binaria brevis, sic: [ClefC3,Lig3cdsndd,Lig2cdsnd,Lig2art; Lig3cdsnodart,Lig2cdsnd,Lig2art on staff3], quod ego relinquo tamquam indecens et rationi dissonum. In proprietate tenent brevem et similiter huiusmodi ascendentem [ClefC3,Lig3cdsnad,Lig3cdsnaart,Lig4cdsnaaod on staff3], et sic proprietatem et improprietatem brevem similiter indecens. Atque alii in isto modo longam divisam in breves non ligatas sic signant: [ClefC2,Bcdsn,S,S; Bcdsn,S,S on staff2]. Et semibreves omnes faciunt caudatas et cum brevibus uniformes, sic: [ClefC2,Bcdsn,S,S,pt,Bcdsn,S,S on staff2], quod valde est inconveniens.</p>
+      <p id="ODISUM0552">Secundus modus procedit per binariam ligaturam propriam et perfectam et habet in fine brevem simplicem, sic: [ClefC2,Lig2art,Lig2cdsnd,Lig2art,B; Lig2art,Lig2cdsnd,Lig2art,B on staff2]. 
+      <pb n="[138]" />Aliquando hoc modo ligant longam inter duas breves, et in ligatura descendente hoc per oppositam proprietatem signant, sic: [ClefC3,Lig3cssnodart,Lig3cssncddxdd,Lig4cssnodaart,Lig3cssnaart on staff3] in ascendente per improprietatem, sic: [ClefC3,Lig3cssnoaart,Lig4cssnaoaart on staff3], et semper cum perfectione. Et sic aliquando habent ligaturam cum perfectione brevem, ut in ternaria ligatura, et aliam longam, ut in binaria, et hoc est incertum.</p>
+      <p id="ODISUM0553">Tertius modus ligaturam quaternariam primo recipit sine proprietate et cum perfectione et procedit per ternariam cum proprietate et perfectione, sic: [ClefC3,Lig4Ladd,Lig3ad,Lig3cdsnodart,Lig3cdsndd on staff3], nisi forte breves resolvantur in semibreves, et item prima longa non ligatur, sic: [ClefC3,L,Lig6cssnodaaad,L,Lig5cssnodaaart,Lig4cssnaad on staff3]. Alii autem semper separant primam longam a sequentibus et ponunt per se, sic: [ClefC3,L,Lig3cdsndd,L,Lig3ad,L,Lig3cdsnodart on staff3]. Haec non est magna vis facienda. Verumtamen sicut ultima coniungitur, ita debet et prima.</p>
+      <p id="ODISUM0554">Quartus modus procedit per ternariam ligaturam cum proprietate et perfectione et in duas breves desinit cum proprietate et imperfectione, sic: [ClefC3,Lig3aart,Lig3cdsnodart,Lig2cdsnod; Lig3cdsndd,Lig2a on staff3]. Quidem autem tantum tertio et quarto modo utuntur talibus regulis in his modis habentibus ut patet longam in duas breves dividunt. Ternariam ligaturam dicunt valere duas longas, quaternariam vero ligaturam aequalem ternariae, et quinariam similiter, semper ultimam tenentes longam nisi binariam ligaturam sequatur, et tunc faciunt ultimam brevem. In binaria autem ligatura omnes tenent breves, donec ternaria vel longa aut longa pausa sequatur, sic: [ClefC3,L,Lig3cdsndd,Lig3aart,Lig2cdsnd,Lig2art,Lig2cdsnd,L on staff3]. Et sic perfectio aliquando brevis aliquando longa, et hic modus nominandi in aliquo genere est incertus sicut patet posterius in cantilenis admixtis pausis diversis, quia non determinatur quid breve et quid semibreve, sic cum aliquando dividatur longa in duas breves et aliquando in tres vel quattuor notas quas currentes vocant, unum in 
+      <pb n="[139]" />simplicibus utuntur prius positis figuris pro brevi et semibrevi, sic: [ClefC3,Bcdsn,S,S,Bcdsn,Bcdsn,S,S,Bcdsn,Bcdsn on staff3]. Alii autem in his modis utuntur longis et brevibus ac semibrevibus et pausis secundum quod ego accipio, sed tantum divi[f. 34r]dunt longam in duas breves ut duo tempora habentem et brevem in duas semibreves et raro in tres. Et pro longa duo spatia occupat pausa, pro brevi unum.</p>
+      <p id="ODISUM0555">Quintus modus non ligatur quia est ex omnibus longis; invenitur tamen aliquando ligatus in certis tenoribus ubi non est difficultas.</p>
+      <p id="ODISUM0556">Sextus modus ligatur cum proprietate vel opposita proprietate et sine perfectione, sic: [ClefC3,Lig4cdsnddod,Lig4cdsndda,Lig5cssnodadod on staff3]. Et sit quotlibet fuerint, sunt ligabiles nisi pausa interveniat. Alii in hoc modo procedunt per binariam, ternariam, quaternariam ligaturam, certum non habentes, nec figuram habent semibrevem, sed transferent ad alium modum, sic: [ClefC3,Lig4add,Lig3cdsndd; Lig3cdsndd,Lig4add on staff3]. Alii autem istum modum notant cum proprietate et perfectione plicata, sic: [ClefC3,Lig2cdsndcddx,Lig2cdsndcsdx,Lig2acsdx,Lig2acsdx on staff3], plicam pro brevi tenentes; sed hic est secundus modus. Patet igitur quod usus notandi quod prius acceptavi certior est et acceptior.</p>
+      <p id="ODISUM0557">11. De generibus cantuum organicorum.</p>
+      <p id="ODISUM0558">Nota quod est autem unum genus cantus organici in quo tantum attenditur cohaerentia vocum immensurabilium et organum purum appelatur. Et hoc genus antiquissimum est et duorum tantum. Et aliud est genus in quo attenditur consonantia vocum et mensurationum in duplici aut triplici, quadruplici et dicitur discantus, quasi duorum cantus ad minus. Organum autem aliquando est unius, aliquando duorum, ut dum attendens concordiam tenor aliquando tacet.</p>
+      <p id="ODISUM0559">Habet quidem discantus species plures, et si quod unus cantat omnes per ordinem recitent, vocatur hic cantus Rondellus, id est rotabilis vel 
+      <pb n="[140]" />circumductus. Et hoc vel cum littera vel sine littera fit. Si vero non alter alterius recitat cantum sed singuli procedunt per certos punctos, dicitur Conductus quasi plures cantus decori conducti. Est et alia species, quae procedit per binariam ligaturam sicut secundus modus, sed velocior est et longam immensuratam accipit in principio, quae Copula dicitur, nomen habens a re. Est et alia copula quae singulos habet punctos per se morosior quam sextus modus, dicta per contrarium quia non copulatur. Et alia quidem species attendit consonantiam et mensuram vocum ac carminum quae Motetus dicitur, id est motus brevis cantilenae. Alia vero discantus species est cum littera vel sine littera in qua dum unus cantat alter tacet et e contrario, et huiusmodi cantus truncatus dicitur a rei convenientia, qui et Hoquetus dicitur.</p>
+      <p id="ODISUM0560">12. De compositione cantuum organicorum et primo de organo puro.</p>
+      <p id="ODISUM0561">Quod compositioni cantuum organicorum quaedam omnium sunt circumstantiae convenientes, scilicet ut principaliter in consonantia fiant. Et ad hoc notandum quod brevis quaecumque sita ante longam etsi discordet non vituperatur. Alio modo excusatur discordia ut in motetis coloratis quum scilicet super certum tenorem aliqua pars cantilenae iteratur, ut hic: [f. 34v]</p>
+      <p id="ODISUM0562">[CSM14:140; text: De penetractoribus quare tacet veritas per mundum currentibus. Agmina.]</p>
+      <p id="ODISUM0563">
+      <pb n="[141]" />Ac alii communis circumstantia ut singuli per se tropum non excedant, scilicet decimam vocem vel cum semitono undecimam, et consideretur ascensus vel descensus a finali.</p>
+      <p id="ODISUM0564">Fit igitur organum purum hoc modo. Accepto uno puncto vel duobus aut tribus de plano cantur certo modo disponitur tenor, et superius proceditur per concordias et concordes discordias quantumlibet. Incipit autem superior cantus in diapason supra tenorem vel diapente vel diatessaron et desinit in diapason vel diapente vel unisono. Et est cantandum leniter et subtiliter, descensus vero cito et aequaliter, tenor autem tremule teneatur et cum discordo offendit.</p>
+      <p id="ODISUM0565">[CSM14:141,1] 
+      <figure>
+        <graphic url="/images/ODISUM_39GF.gif" />
+      </figure></p>
+      <p id="ODISUM0566">13. De rondellis.</p>
+      <p id="ODISUM0567">Rondelli sic sunt componendi. Excogitetur cantus pulchrior qui potest et disponatur secundum aliquem modorum praedictorum cum littera vel sine, et ille cantus a singulis recitetur cui aptentur alii cantus in duplici aut triplici procedendo per consonantias, ut dum unus ascendit alius descendit vel tertius, ita ut non simul descendant vel ascendant nisi forte causa maioris pulchritudinis. Et a singulis singulorum cantus recitentur, sic:</p>
+      <p id="ODISUM0568">[CSM14:141,2; text: Ave mater domini.]</p>
+      <p id="ODISUM0569">
+      <pb n="[142]" />[f. 35r] 14. De conductis.</p>
+      <p id="ODISUM0570">Conducti sunt compositi ex pluribus canticis decoris cognitis vel inventis et in diversis modis ac punctis iteratis in eodem tono vel in diversis, ut hic:</p>
+      <p id="ODISUM0571">[CSM14:142,1]</p>
+      <p id="ODISUM0572">15. De copula.</p>
+      <p id="ODISUM0573">Copula ligata facienda est super unum punctum vel plures sicut organum. Verum aliquando triplex est. Et accipit longam notam in principio non mensuratam et procedit per binariam ligaturam ut in forma subiecta, sic:</p>
+      <p id="ODISUM0574">[CSM14:142,2]</p>
+      <p id="ODISUM0575">Vel cum tali tenor, sic: [CSM14:142,3] . Sed si longa praecedens notam habuerit perfectionis, sic: [CSM14:142,4] et tunc est de secundo modo.</p>
+      <p id="ODISUM0576">
+      <pb n="[143]" />Copula non ligata eodem modo fit sed non ligatura, ut hic patet:</p>
+      <p id="ODISUM0577">[CSM14:143,1] 
+      <figure>
+        <graphic url="/images/ODISUM_40GF.gif" />
+      </figure></p>
+      <p id="ODISUM0578">Ista vero species sive ligata sive separata semper apponitur in fine punctorum nisi omnes decenter possunt pausare.</p>
+      <p id="ODISUM0579">16. De motetis.</p>
+      <p id="ODISUM0580">Moteti fiunt cum littera in aliquo modorum. Unum sumatur alquis cantus notus pro tenore aptus melo et in certo modo disponatur. Medius cantus potest fieri in eodem modo vel alio prout competens fuerit tenori. Nam quintus modus omnibus aliis potest esse tenor praeterquam in sexto modo compositis cantibus mediis. Primus etiam modus aptus [f. 35v] est sexto et similiter secundus. Tertius et quartus sunt secundo modo apti. Verum medius cantus cum fuerit de sexto exigit sibi tenorem de sexto etsi aliter aliquando reperiantur. Et maxime visendus est medius cantus ut per se sit decorus. Tertius vero cantus frequenter fit in sexto modo cum omnis cantus fieri possit in uno aliquo. Hoc etiam inspiciatur, ut syllabae carminibus apte cohaereant notis discantus, ut hic:</p>
+      <p id="ODISUM0581">[CSM14:143,2; text: Agmina fidelium Katherinae laudant praeconia. Agmina militiae caelestis omnia. Agmina Tenor.]</p>
+      <p id="ODISUM0582">
+      <pb n="[144]" />17. De hoquetis.</p>
+      <p id="ODISUM0583">Ista truncatio fit super excogitatum tenorem vel super certum ut semper unus taceat dum alius cantat vel si triplex, sic: duo cantent et tertius taceat. Et fit in omnibus modis etsi quid dicant omnes loquentes esse in tertio modo. In primo modo ut hic patet:</p>
+      <p id="ODISUM0584">[CSM14:144,1] 
+      <figure>
+        <graphic url="/images/ODISUM_41GF.gif" />
+      </figure></p>
+      <p id="ODISUM0585">Ac in quinto modi fit sic:</p>
+      <p id="ODISUM0586">[CSM14:144,2]</p>
+      <p id="ODISUM0587">In secundo modo ut hic patet:</p>
+      <p id="ODISUM0588">[CSM14:144,3]</p>
+      <p id="ODISUM0589">
+      <pb n="[145]" />In sexto modo vere fit sic:</p>
+      <p id="ODISUM0590">[CSM14:145,1] 
+      <figure>
+        <graphic url="/images/ODISUM_42GF.gif" />
+      </figure></p>
+      <p id="ODISUM0591">In tertio ut hic. Et secundus similis est quarto ut hic.</p>
+      <p id="ODISUM0592">[CSM14:145,2; text: Vivere in te fac me Domine. Vivere vir et Dominum quare. In saeculum.]</p>
+      <p id="ODISUM0593">Accidit autem dubitatio in hoquetis istius modi cum brevis dividitur in tres semibreves eo quod pausa semibrevis fit simul divisioni. Et divisiones ponere necesse est. Sed in talibus volo esse communem et signum divisionis circulum parvum sit supra minutis sic:</p>
+      <p id="ODISUM0594">[CSM14:145,3]</p>
+      <p id="ODISUM0595">Sed et omnes prius positas species discantus licet si placuerit quadruplices componere vel quantaslibet et eodem in [f. 36r] quadruplicibus comparandum sicut in triplicibus. Verum est alia species hoquetorum quae tantum duplex est quos simplices vocant quae fiunt super cantus notos decoros, ut dum unus unum accipit alius tacet, alternatim succedentes et punctos frangentes, sic:</p>
+      <p id="ODISUM0596">
+      <pb n="[146]" />[CSM14:146,1]</p>
+      <p id="ODISUM0597">Alio modo sic patet hic:</p>
+      <p id="ODISUM0598">[CSM14:146,2]</p>
+      <p id="ODISUM0599">18. De modo psallendi.</p>
+      <p id="ODISUM0600">Acutiorem cantum cantaturus incipiat et sicut copulae sufficiat isto utens puncto qui diu teneatur cui omnes alii succedant qui distincte canant et aequaliter secundum commensurationem temporum leniter sed ascultando et plane desinant cum paenultimo puncto producto. Alii vero sunt ornatus psallendi qui non verbisque sed voce tenui exprimi possunt.</p>
+      <p id="ODISUM0601">Et ista sufficiant de musicae disciplinae speculatione quae tanto acceptiora quanto aliorum dicitis sunt concordantia. Nec contemnat quis dicens aliorum dicta recitat, quod utique fateor, sed excuset insufficientiam meam si in aliquo defecerim. Et acceptet quod non nova apposuerim cum semper fuerit mea intentio diversa veterum recolligere et non ampliam dando fastidium novam diversitatem superaddicere.</p>
+      <p id="ODISUM0602">Explicit.</p>
+    </body>
+  </text>
+</TEI>

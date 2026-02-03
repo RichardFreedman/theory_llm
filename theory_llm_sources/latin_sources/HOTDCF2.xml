@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Regulae Magistri Johannis Hoctobi anglici cantus figurati</title>
+        <title type="abbrev">HOTDCF2</title>
+        <author>Hothby, Johannes</author>
+        <date notBefore="1400" notAfter="1499">15th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Peter Slemon</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Bradley Jon Tucker</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1995</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Johannes Hothby, 
+<emph>Opera omnia de musica mensurabili</emph>; Thomas Walsingham, 
+<emph>Regulae de musica mensurabili</emph>, ed. Gilbert Reaney, Corpus scriptorum de musica, vol. 31 (Neuhausen-Stuttgart: Hänssler Verlag for the American Institute of Musicology, 1983), 39–44. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Iohannes Hothby: De cantu figurato</title>
+          
+<idno type="LML">IOH. HOTH. fig.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">I-FZc 117, 25r-v</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="HOTDCF20001">
+      <pb n="[39]" />Regulae Magistri Johannis Hoctobi anglici cantus figurati</p>
+      <p id="HOTDCF20002">Capitulum 1</p>
+      <p id="HOTDCF20003">De figuris</p>
+      <p id="HOTDCF20004">V 77</p>
+      <p id="HOTDCF20005">Figurae cantus figurati sunt octo, videlicet maxima, longa, brevis, semibrevis, minima, semiminima, croma, semicroma, et in hiis patent figuris, ut hic: [MXv,Lv,Bv,Sv,Mv,M,Mvxrt] [CSM31:39,1] 
+      <figure>
+        <graphic url="/images/HOTDCF2_01GF.gif" />
+      </figure>Maxima est duplex, videlicet perfecta et imperfecta. Perfecta valet tres longas, et tunc dicitur de modo maximarum perfecto. Maxima imperfecta valet duas longas, et tunc dicitur de modo maximarum inperfecto, ut hic:</p>
+      <p id="HOTDCF20006">[CSM31:39,2]</p>
+      <p id="HOTDCF20007">Longa est duplex, scilicet perfecta et imperfecta. Perfecta habet tres breves, et tunc dicitur de modo longarum perfecto. Longa imperfecta valet duas breves, et dicitur de modo longarum imperfecto, ut hic:</p>
+      <p id="HOTDCF20008">[CSM31:39,3]</p>
+      <p id="HOTDCF20009">Brevis est duplex, scilicet perfecta et imperfecta. Perfecta valet tres semibreves, et tunc dicitur de tempore perfecto. Imperfecta valet duas semibreves, et tunc dicitur de tempore imperfecto, ut hic:</p>
+      <p id="HOTDCF20010">[CSM31:39,4]</p>
+      <p id="HOTDCF20011">
+      <pb n="[40]" />Semibrevis est duplex, scilicet perfecta et imperfecta. Perfecta valet tres minimas, et tunc dicitur de maiori prolatione. Imperfecta valet duas minimas, et tunc dicitur de minori prolatione, ut hic:</p>
+      <p id="HOTDCF20012">[CSM31:40,1]</p>
+      <p id="HOTDCF20013">Reliquae figurae omnes secundum comunem usum semper sunt imperfectae, quamvis perfectae esse possint, cum quolibet totum sit divisibile tam per binarium quam per trinarium et e converso, ut hic:</p>
+      <p id="HOTDCF20014">[CSM31:40,2]</p>
+      <p id="HOTDCF20015">Perfectus maior, perfectus minor, imperfectus maior, imperfectus minorque patent in hiis figuris:</p>
+      <p id="HOTDCF20016">[CSM31:40,3; text: Perfectio magiore, Perfectio minore, Imperfectio magiore, Imperfectio minore]</p>
+      <p id="HOTDCF20017">
+      <pb n="[41]" />Capitulum 2</p>
+      <p id="HOTDCF20018">De signis et mensuris</p>
+      <p id="HOTDCF20019">V 78</p>
+      <p id="HOTDCF20020">Circulus significat brevem perfectam, semicirculus imperfectam. Punctus in circulo vel in semicirculo positus significat semibrevem perfectam, et vacuum significat semibrevem imperfectam, quamvis omnes figurae albae sint inperfectae secundum consuetudinem praeter brevem quae indifferenter accipitur.</p>
+      <p id="HOTDCF20021">Capitulum 3</p>
+      <p id="HOTDCF20022">De ligaturis</p>
+      <p id="HOTDCF20023">V 78</p>
+      <p id="HOTDCF20024">Ligaturae figurarum sunt quinque, videlicet cum proprietate, sine proprietate et cum opposita proprietate; quae quidem tres pertinent principio ligaturarum. Reliquae sunt cum perfectione, quae et sine perfectione; quae earum fini accidunt.</p>
+      <p id="HOTDCF20025">Ligatura figurarum cum proprietate ascendens habet primam figuram inferiorem secunda et meram quadratam; et si cum virgula descendente in parte dextra, dicitur sine proprietate. Et si in parte sinistra ascendente, dicitur cum opposita proprietate, ut hic:</p>
+      <p id="HOTDCF20026">[Lig2a,Lig3aacddx] Cum proprietate | [Lig2art,Lig3aart] Sine proprietate | [Lig2cssna,Lig3cssnaacddx,Lig2cssnoa] Cum opposita proprietate |</p>
+      <p id="HOTDCF20027">Ligatura cum proprietate descendens habet primam figuram altiorem secunda cum virgula in parte sinistra descendente; et si 
+      <pb n="[42]" />sine virgula, sine proprietate dicitur. Et si cum virgula in parte sinistra descendente, dicitur cum opposita proprietate, hoc modo:</p>
+      <p id="HOTDCF20028">[Lig3cdsndd] Cum proprietate | [Lig4ddd,Lig2od] Sine proprietate | [Lig2cssnod,Lig3cssndd] Cum opposita proprietate |</p>
+      <p id="HOTDCF20029">Omnis ligatura cum proprietate facit primam figuram brevem, et sine proprietate longam, et cum opposita proprietate duas primas semibreves; medius vel mediae omnes ubicumque breves dicuntur, nisi si cum opposita proprietate ut supra diximus.</p>
+      <p id="HOTDCF20030">Ligatura ascendens cum perfectione habet ultimam figuram altiorem penultima directe supra illam, vel cum virgula in parte dextera descendente; et si est sine virgula, sine perfectione dicitur, ut hic:</p>
+      <p id="HOTDCF20031">[Lig3cdsnodacddx] Cum proprietate | [Lig4cdsnddacddx] Cum perfectione | [Lig3cdsnodart] Idem | [Lig3cdsnodacddx] Cum perfectione | [Lig2cdsnod] Sine perfectione |</p>
+      <p id="HOTDCF20032">Ligatura cum perfectione descendens facit ultimam figuram inferiorem penultima meram quadratam; et si obliquam, sine perfectione dicitur, hoc modo:</p>
+      <p id="HOTDCF20033">[Lig4cdsnoddd,Lig4cdsnddd,Lig2cdsnod]</p>
+      <p id="HOTDCF20034">Omnis ligatura cum perfectione facit ultimam figuram longam sive brevem, nisi sit cum opposita proprietate quae ambae semibreves sunt. Sed longa ubicumque virgula cognoscitur, et maxima sua magnitudine et cetera, ut hic:</p>
+      <p id="HOTDCF20035">[Lig3cdsndd,Lig2cdsnod,Lig4cdsndda,Lig3cssnodacddx,Lig2cssnod; L,MX]</p>
+      <p id="HOTDCF20036">
+      <pb n="[43]" />Capitulum 4</p>
+      <p id="HOTDCF20037">De pausis</p>
+      <p id="HOTDCF20038">V 78v</p>
+      <p id="HOTDCF20039">Pausae sunt sex, videlicet pausae longae, brevis, semibrevis, minimae, semiminimae et cromae. Pausa longae de modo imperfecto transit per duo spatia, et de modo perfecto per tria. Pausa brevis transit per unum spatium sive perfectae sive imperfectae. Pausa semibrevis descendit ad medium spatium in quavis prolatione. Pausa minimae ascendit ad medium spatium, similiter pausa semiminimae cum unco supra. Et pausa cromae ponitur in medio spatio cum unco supra et infra. Et quando pausae longarum ponuntur binae, significat maxima erit imperfecta; et quando trinae, significat de modo perfecto, ut hic:</p>
+      <p id="HOTDCF20040">[CSM31:43; text: longae imperfectae, longae perfectae, brevis, semibrevis, minima, semiminima, cromae, a, b]</p>
+      <p id="HOTDCF20041">Et quando reperiuntur duae pausae semibrevium simul stantes, cantus erit de tempore perfecto.</p>
+      <p id="HOTDCF20042">Capitulum 5</p>
+      <p id="HOTDCF20043">De punctis</p>
+      <p id="HOTDCF20044">V 79</p>
+      <p id="HOTDCF20045">Puncti sunt duo, videlicet punctus perfectionis et divisionis. Quando punctus perfectionis stat iuxta maximam, valet longam; 
+      <pb n="[44]" />iuxta longam, valet brevem; iuxta brevem, semibrevem; iuxta semibrevem, minimam; iuxta minimam, semiminimam, ut hic inferius patet: [MXv,pt,Lv,pt,Bv,pt,Sv,pt,Mv,pt,M,pt,Mvxrt,pt] [CSM31:44]</p>
+      <p id="HOTDCF20046">Punctus divisionis ponitur inter duas semibreves ad imperficiendum breves, vel maximam vel longam ratione brevium in eis intellectarum. Et hoc fit quando numerando breves adinvicem divisione trinaria, una sola quae tales figuras imperficere debet. Et quando reperiuntur duae semibreves ante brevem perfectam, ultima semibrevis alteratur, id est duplicatur, ut hic: [Sv,MXv,Sv,pt,Sv,MXv,Bv,Lv,Sv,pt,Sv,Lv,Bv,Sv,pt,Bv,Sv,Sv,Bv,Sv,Sv,Sv,Sv,Sv,Bv; Bv,Sv,pt,Sv,Sv,Bv]</p>
+      <p id="HOTDCF20047">Et tot semibreves possunt a maximis et longis abstrahi quod in eis intelligunt breves, ut hic: [Sv,Sv,MXv,Sv,Sv; Sv,Lv,Sv] Et punctus divisionis inter semibreves positus significat brevem esse de tempore perfecto; praeterea quando semibrevis sola praecedit vel sequitur illas figuras, semper imperficit eas, nisi impediatur per punctum, ut hic inferius patet: [O,Sv,MXv; MXv,Sv; Sv,Lv; Lv,Sv; Sv,Bv; Bv,Sv; Sv,MXv; pt,MXv,Sv,pt]</p>
+    </body>
+  </text>
+</TEI>

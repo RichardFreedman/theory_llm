@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Musice compilatio</title>
+        <title type="abbrev">ANOMUSC</title>
+        <author>Anonymous</author>
+        <date notBefore="1300" notAfter="1399">14th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>David Schneider</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Jessica Sisk</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>2003</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+F. Alberto Gallo, 
+<emph>Mensurabilis musicae tractatuli</emph>, Antiquae musicae italicae scriptores, vol. 1 (Bologna: Università degli Studi di Bologna, Istituto di Studi Musicali e Teatrali - Sez. Musicologia, 1966), 63–75. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: Musice compilatio</title>
+          
+<idno type="LML">ANON. Mediol.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">A-Wn Cod. 3839, 111-129 (Fragment)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Ma M. 28 sup., 114-117</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANOMUSC0001">
+      <pb n="[63]" />MUSICE COMPILATIO</p>
+      <p id="ANOMUSC0002">[I]</p>
+      <p id="ANOMUSC0003">1 Nota quod tresdecim sunt species cantus, videlicet tonus, semitonus, dictonus, semidictonus, dyateseron, dyapente, dyapason, dyapente cum tono, dyapente cum semitono, dyapente cum dictono, dyapente cum semidictono, dyapente cum dyateseron. Et nota quod unisonus non ponitur in numero istarum specierum quia significat eamdem vocem.</p>
+      <p id="ANOMUSC0004">[N]ota quod tonus figuratur sic:</p>
+      <p id="ANOMUSC0005">[Anonymous, Musice compilatio, 63,1] 
+      <figure>
+        <graphic url="/images/ANOMUSC_01GF.gif" />
+      </figure></p>
+      <p id="ANOMUSC0006">et componitur ex duabus vocibus: ut.re, re.mi et e contra.</p>
+      <p id="ANOMUSC0007">Nota quod semitonus componitur ex duabus vocibus ut: mi.fa et fa.mi.</p>
+      <p id="ANOMUSC0008">[Anonymous, Musice compilatio, 63,2]</p>
+      <p id="ANOMUSC0009">
+      <pb n="[64]" />Nota quod semitonus armonicus est ille qui armonice figuratur ac ponitur, et isto utimur in moctectis et discantu, ut hic:</p>
+      <p id="ANOMUSC0010">[Anonymous, Musice compilatio, 64,1]</p>
+      <p id="ANOMUSC0011">Nota quod dictonus est ille qui formatur ex tribus vocibus, que quidem voces formant duos tonos, ut hic:</p>
+      <p id="ANOMUSC0012">[Anonymous, Musice compilatio, 64,2]</p>
+      <p id="ANOMUSC0013">[N]ota quod semidictonus est ille qui formatur [ex tribus vocibus, que] quidem voces formant tonum cum semitono:</p>
+      <p id="ANOMUSC0014">[Anonymous, Musice compilatio, 64,3]</p>
+      <p id="ANOMUSC0015">Nota quod dyateseron est ille qui formatur ex quatuor vocibus, que voces formant duos tonos cum semitono, ut hic:</p>
+      <p id="ANOMUSC0016">[Anonymous, Musice compilatio, 64,4]</p>
+      <p id="ANOMUSC0017">Nota quod tritonus formatur ex quatuor vocibus, que voces formant tres tonos, ut hic:</p>
+      <p id="ANOMUSC0018">[Anonymous, Musice compilatio, 64,5]</p>
+      <p id="ANOMUSC0019">Nota quod dyapente componitur ex quinque vocibus que formant tres tonos cum semitono, ut hic:</p>
+      <p id="ANOMUSC0020">[Anonymous, Musice compilatio, 64,6]</p>
+      <p id="ANOMUSC0021">
+      <pb n="[65]" />Nota quod dyapason componitur ex octo vocibus que formant quinque tonos et duos semitonos, ut hic:</p>
+      <p id="ANOMUSC0022">[Anonymous, Musice compilatio, 65,1]</p>
+      <p id="ANOMUSC0023">Nota quod dyapente cum tono sunt sex voces, ut hic:</p>
+      <p id="ANOMUSC0024">[Anonymous, Musice compilatio, 65,2]</p>
+      <p id="ANOMUSC0025">Nota quod dyapente cum dictono sunt septem voces, ut hic:</p>
+      <p id="ANOMUSC0026">[Anonymous, Musice compilatio, 65,3]</p>
+      <p id="ANOMUSC0027">Nota quod dyapente cum semitono componitur ex sex vocibus, ut hic demonstratur:</p>
+      <p id="ANOMUSC0028">Nota quod dyapente cum semidictono componitur ex septem vocibus, ut hic:</p>
+      <p id="ANOMUSC0029">Nota quod dyapente cum tritono componitur ex octo vocibus, ut hic:</p>
+      <p id="ANOMUSC0030">Nota quod dyapente cum dyateseron figuratur ut hic:</p>
+      <p id="ANOMUSC0031">[Anonymous, Musice compilatio, 65,4]</p>
+      <p id="ANOMUSC0032">
+      <pb n="[66]" />Nota quod unisonus figuratur ut hic:</p>
+      <p id="ANOMUSC0033">[Anonymous, Musice compilatio, 66] 
+      <figure>
+        <graphic url="/images/ANOMUSC_02GF.gif" />
+      </figure></p>
+      <p id="ANOMUSC0034">[II]</p>
+      <p id="ANOMUSC0035">2 Nota regulam contrapuncti, que talis est.</p>
+      <p id="ANOMUSC0036">Primo nota quod septem sunt consonancie in contrapuncto, videlicet unisonus, tercia, quinta, sexta, octava, decima et duodecima.</p>
+      <p id="ANOMUSC0037">Nota quod quatuor sunt perfecte, scilicet unisonus, quinta, octava et duodecima; inperfecte sunt tres, scilicet tercia, sexta, decima.</p>
+      <p id="ANOMUSC0038">Nota quod quando cantus ascendit, biscantus debet descendere, et e contra.</p>
+      <p id="ANOMUSC0039">Nota quod non debemus facere duas perfectas simul. Nota quod possumus facere tres perfectas tam ascendendo quam descendendo. Nota quod semper debemus incipere [per] perfectas et etiam finire per perfectas, tamen penultima debet esse inperfecta.</p>
+      <p id="ANOMUSC0040">Nota quod unisonus requirit terciam, tercia quintam, quinta sextam, sexta octavam, octava decimam, decima duodecimam ascendendo, et e converso in descendendo.</p>
+      <p id="ANOMUSC0041">Nota quod quando cantus cantatur per naturam, debemus biscantare per [sqb]; et quando cantus cantatur per [sqb], debemus biscantare per naturam; et quando cantatur per b, debemus biscantare per fictam musicam.</p>
+      <p id="ANOMUSC0042">Nota quod musica plana strenuissime cantatur per tonos seu modos, et ideo in ea non potest fieri mutatio de [sqb] in b nec e contra.</p>
+      <p id="ANOMUSC0043">
+      <pb n="[67]" />[III]</p>
+      <p id="ANOMUSC0044">3 Volens tractare de mensura cantus, notandum [est] quod quinque sunt figure notarum, scilicet longa duplex vel maxima, longa recta, brevis, semibrevis et minima.</p>
+      <p id="ANOMUSC0045">Longa inperfecta est de modo inperfecto et non valet nisi duo tempora et figuratur sic:</p>
+      <p id="ANOMUSC0046">[L,L]</p>
+      <p id="ANOMUSC0047">Longa perfecta est de modo inperfecto et facit istam divisionem:</p>
+      <p id="ANOMUSC0048">[L,pt,L,pt,L,pt]</p>
+      <p id="ANOMUSC0049">quia de modo perfecto valet tria tempora semper sine aliqua divisione:</p>
+      <p id="ANOMUSC0050">[L,L,L,L,L]</p>
+      <p id="ANOMUSC0051">Et semper longa ante longam de modo perfecto valet tria tempora sine nulla divisione, ut hic:</p>
+      <p id="ANOMUSC0052">[L,L,L,L]</p>
+      <p id="ANOMUSC0053">Et quando inveniuntur de modo perfecto due breves inter duas longas tam ligate quam non ligate sine puncto, ultima alteratur, ut hic:</p>
+      <p id="ANOMUSC0054">[L,B,B,L,Lig3cdsnodacddx]</p>
+      <p id="ANOMUSC0055">Et quando punctus est in medio illarum duarum brevium, tunc brevis non potest alterari, ut hic:</p>
+      <p id="ANOMUSC0056">[L,B,pt,B,L]</p>
+      <p id="ANOMUSC0057">et iste est punctus divisionis.</p>
+      <p id="ANOMUSC0058">Et quando sunt tres breves intra duas longas, tunc ille breves sunt equales, ut hic:</p>
+      <p id="ANOMUSC0059">[L,B,B,B,L]</p>
+      <p id="ANOMUSC0060">
+      <pb n="[68]" />Et quando sunt quatuor, prima longa capit primam brevem, ut hic:</p>
+      <p id="ANOMUSC0061">[L,B,B,B,B,L]</p>
+      <p id="ANOMUSC0062">Et quando prima longa habet punctum perfectionis, tunc ultima longa capit ultimam brevem et faciunt ille due unam perfectionem, ut hic:</p>
+      <p id="ANOMUSC0063">[L,pt,B,B; B,L]</p>
+      <p id="ANOMUSC0064">et nota quod pausa computatur pro nota.</p>
+      <p id="ANOMUSC0065">Nota quod duplex longa sine ligatura figuratur sic:</p>
+      <p id="ANOMUSC0066">[MX,MXcsdx]</p>
+      <p id="ANOMUSC0067">[et] vocatur duplex longa inperfecta quia de modo inperfecto non valet nisi quatuor tempora, de modo perfecto sex.</p>
+      <p id="ANOMUSC0068">Nota quod recta brevis sine ligatura figuratur ut hic:</p>
+      <p id="ANOMUSC0069">[B,B,B,B]</p>
+      <p id="ANOMUSC0070">et vocatur etiam tempus; tempus est ad libitum cantoris.</p>
+      <p id="ANOMUSC0071">Nota quod semibrevis sine ligatura figuratur sic:</p>
+      <p id="ANOMUSC0072">[S,S,S,S,S,S]</p>
+      <p id="ANOMUSC0073">et in ligatura figuratur sic:</p>
+      <p id="ANOMUSC0074">[Lig2cssnod,Lig2cssnod,Lig2cssnd,Lig2cssna,Lig2cssnod]</p>
+      <p id="ANOMUSC0075">Nota quod due sunt semibreves, scilicet maiores et minores; maiores figurantur sicut minores et e contra, sed est differentia, quia semibrevis maior valet tres minimas, illa alia duas.</p>
+      <p id="ANOMUSC0076">Nota quod minima figuratur sic:</p>
+      <p id="ANOMUSC0077">[M,M,M,M,M,M,M]</p>
+      <p id="ANOMUSC0078">
+      <pb n="[69]" />Nota quod semiminime sunt hec:</p>
+      <p id="ANOMUSC0079">[SM,SM,SM,SM]</p>
+      <p id="ANOMUSC0080">et non sunt de arte.</p>
+      <p id="ANOMUSC0081">Nota quod de inperfecto minori, hoc est quaternarium, ponuntur due semiminime pro una minima et tres pro duabus, et sex pro quatuor; et de modo perfecto minori tres pro duabus; et de inperfecto maiori, hoc est senarium inperfectum, ponuntur quatuor pro tribus; et deinde ad libitum.</p>
+      <p id="ANOMUSC0082">Longe habentes tractum ex parte dextra et sinistra tam ascendendo quam descendendo vocantur plique longe.</p>
+      <p id="ANOMUSC0083">Si tractus dexter est maior quam sinister tam ascendendo quam descendendo, tunc sunt longe, ut hic:</p>
+      <p id="ANOMUSC0084">[Bpssncsdx,Lpdsn]</p>
+      <p id="ANOMUSC0085">et de modo inperfecto valet unaqueque earum duo tempora et de modo perfecto tria tempora.</p>
+      <p id="ANOMUSC0086">Et si tractus sinister est maior quam dexter, sunt breves sic:</p>
+      <p id="ANOMUSC0087">[Bcssnpsdx,Bcdsnpddx]</p>
+      <p id="ANOMUSC0088">et vocantur breves plicate.</p>
+      <p id="ANOMUSC0089">Duplex longa habens tractum ex parte dextra et sinistra tam ascendendo quam descendendo, si tractus dexter est maior quam sinister, tunc est duplex longa, ut hic:</p>
+      <p id="ANOMUSC0090">[MXpssncsdx,MXpdsncddx]</p>
+      <p id="ANOMUSC0091">[et] de modo perfecto valet sex [tempora].</p>
+      <p id="ANOMUSC0092">Longe habentes unum tractum ex parte dextra tam ascendendo quam descendendo, ut hic:</p>
+      <p id="ANOMUSC0093">[L,Bcsdx,L,Bcsdx]</p>
+      <p id="ANOMUSC0094">sunt longe.</p>
+      <p id="ANOMUSC0095">
+      <pb n="[70]" />Breves habentes unum tractum ex parte sinistra tam ascendendo quam descendendo sunt breves, ut hic:</p>
+      <p id="ANOMUSC0096">[Bcdsn,Bcssn]</p>
+      <p id="ANOMUSC0097">4 Breves in ligatura sic formantur:</p>
+      <p id="ANOMUSC0098">[Lig2cdsnod,Lig4cdsnodaa,Lig4cdsndaa]</p>
+      <p id="ANOMUSC0099">Nota quod nota quadrata cum ligatura in principio et in fine sine cauda descendendo prima et ultima sunt longe, ut hic:</p>
+      <p id="ANOMUSC0100">[Lig2d,Lig3dd,Lig7dddaad]</p>
+      <p id="ANOMUSC0101">Si vero nota quadrata in ligatura descendendo habet caudam ex parte sinistra, tunc est brevis, ut hic:</p>
+      <p id="ANOMUSC0102">[Lig2cdsnd,Lig3cdsndd]</p>
+      <p id="ANOMUSC0103">et ultima est longa. Nota quod quando note quadrate in ligatura sunt ligate ascendendo, [si] nulla illarum habet caudam, omnes sunt breves, ut hic:</p>
+      <p id="ANOMUSC0104">[Lig3aa,Lig4aaa]</p>
+      <p id="ANOMUSC0105">Et si aliqua habet caudam ex parte dextra, tunc illa que habet caudam est longa et omnes alie sunt breves, ut hic:</p>
+      <p id="ANOMUSC0106">[Lig2La,Lig3Laa,Lig3aacddx,Lig4aaacddx]</p>
+      <p id="ANOMUSC0107">
+      <pb n="[71]" />Nota quod in ligatura non possunt ligari nisi due semibreves in principio ligature, et omnes alie sunt breves vel longe, ut hic:</p>
+      <p id="ANOMUSC0108">[Lig3cssndd,Lig4cssndaa,Lig2cssna,Lig5cssnaada]</p>
+      <p id="ANOMUSC0109">Nota quod semibrevis non potest manere sola, sed oportet habere param vel punctum reductionis vel perfectionis, ut hic:</p>
+      <p id="ANOMUSC0110">[Lig2a,S,Lig3ad,S,B,B,pt,B,S,Lig2a,S,B,S]</p>
+      <p id="ANOMUSC0111">et semper pausa computatur pro nota.</p>
+      <p id="ANOMUSC0112">Quando invenitur nota cum baculo in ligatura sine cauda in principio ligature, semper prima est longa, ut hic:</p>
+      <p id="ANOMUSC0113">[Lig2od,Lig2od,Lig3dod,Lig3oda,Lig9odaodaodada]</p>
+      <p id="ANOMUSC0114">Et quando prima nota cum baculo habet caudam ascendentem, tunc est semibrevis, ut hic:</p>
+      <p id="ANOMUSC0115">[Lig2cssnod,Lig4cssnodad,Lig4cssnodda]</p>
+      <p id="ANOMUSC0116">Semibreves in ligatura sic formantur:</p>
+      <p id="ANOMUSC0117">[Lig2cssnod,Lig2cssnd,Lig2cssnoa,Lig3cssnoaa,Lig2cssnod]</p>
+      <p id="ANOMUSC0118">Longe per oppositam proprietatem sic formantur:</p>
+      <p id="ANOMUSC0119">[Lig2art,Lig2art,Lig5aaaart]</p>
+      <p id="ANOMUSC0120">omnes ultime superposite sunt longe, et omnes alie sunt breves.</p>
+      <p id="ANOMUSC0121">Nota quod tu potes figurare omnes notas cum ligatura et sine ligatura, cum cauda vel sine cauda, solum quod nota habeat suum valorem; et semper quando tu facis aliquam cantilenam cum ligatura vel sine [debes] dare unicuique note suum valorem.</p>
+      <p id="ANOMUSC0122">5 Nota quod pausa est aspiracio vocum, et pausa computatur pro nota, ut hic:</p>
+      <p id="ANOMUSC0123">
+      <pb n="[72]" />Nota quod nulla pausa potest alterari nec minui nec augeri.</p>
+      <p id="ANOMUSC0124">Nota quod pausa que tangit quatuor virgulos valet tria tempora, sic:</p>
+      <p id="ANOMUSC0125">pausa que tangit tres virgulos valet duo tempora et est pausa inperfecta; et que tangit duos virgulos valet unum tempus; et si tangit medium spatium deorsum est pausa unius semibrevis; et si ascendit ad medium spatium sursum est pausa minima; et pausa semiminima debet ascendere usque ad medium spatium et est cum semicirculo.</p>
+      <p id="ANOMUSC0126">Unde breviter quot spatia occupat pausa tot tempora valet.</p>
+      <p id="ANOMUSC0127">Et nota quod maior pausa trium temporum non est ponenda, nam aliter duplicari deberet pausa secundum exigenciam modi, quare tales divisiones inmensurabiles [dicuntur].</p>
+      <p id="ANOMUSC0128">Unde pausa semibrevis debet incipere in linea et descendere ad medium spatium; et pausa minime debet incipere in linea et ascendere ad medium spatii; et pause semiminimarum sunt ut [pause] minimarum cum semicirculo.</p>
+      <p id="ANOMUSC0129">Nota quod [non] debet poni pausa semibrevis neque maior nisi completa prolatione, neque debet poni pausa brevis neque maior nisi completo tempore, neque pausa longe nisi completo modo.</p>
+      <p id="ANOMUSC0130">6 Sequitur de diminucione que sepe fit in tenoribus moctectorum.</p>
+      <p id="ANOMUSC0131">Unde nota quod [pro] maxima in diminucione ponitur longa, pro longa brevis, pro brevi semibrevis, pro semibrevi minima.</p>
+      <p id="ANOMUSC0132">Nota [quod] quando tenor est de modo inperfecto [sive fuerit de tempore perfecto vel inperfecto, diminucio] fit directe per medietatem notarum et pausarum, ut hic:</p>
+      <p id="ANOMUSC0133">
+      <pb n="[73]" />Nota quod quando tenor est de modo perfecto et tempore inperfecto, diminucio etiam fit directe per medium, sicuti pro longa valente tres breves ponitur brevis valens tres semibreves.</p>
+      <p id="ANOMUSC0134">Nota quod quando tenor est de modo perfecto et tempore perfecto, diminucio fit per tercium et non per medium, et cetera.</p>
+      <p id="ANOMUSC0135">7 Nota quod color in musica vocatur similium figurarum unius processus pluries repetita positio in eodem cantu.</p>
+      <p id="ANOMUSC0136">Pro quo nota, quod nonnulli cantores ponunt differentiam inter colorem et tallam, nam vocant colorem quando repetuntur eedem voces, tallam vero quando repetuntur similes figure et sic fiunt [figure] diversarum vocum; que differentia, licet servetur in quampluribus tenoribus moctectorum, non tamen servatur in ipsis moctectis, et cetera.</p>
+      <p id="ANOMUSC0137">8 Nota quod sincopa est divisio circumquaque figure per partes seperatas, que numerando perfectiones ad invicem reducuntur; et potest fieri modo, tempore et prolatione.</p>
+      <p id="ANOMUSC0138">Si fit in modo aut fit [in] perfecto aut [in] inperfecto. Si [in] perfecto, tunc est reperire tres breves seperatas vel valorem pro longa perfecta, que numerando perfectiones ad invicem reducuntur. Si in modo inperfecto, duas breves seperatas vel longam puncto perfectionis punctatam cuius tercia pars ad aliquam brevem solam reducitur seperatam, ut hic:</p>
+      <p id="ANOMUSC0139">[Anonymous, Musice compilatio, 73]</p>
+      <p id="ANOMUSC0140">
+      <pb n="[74]" />Sincopa si fiat in tempore, [aut fit in tempore perfecto aut inperfecto]. [Si in perfecto], tunc est reperire tres semibreves seperatas vel valorem pro brevi perfecta, que ad invicem reducuntur perfectionem numerando. Si in tempore inperfecto, duas vel brevem puncto perfectionis punctatam cuius tercia pars ad aliquam semibrevem reducitur seperatam, ut hic:</p>
+      <p id="ANOMUSC0141">[Anonymous, Musice compilatio, 74]</p>
+      <p id="ANOMUSC0142">Similiter si in prolatione, aut fit in maiori aut in minori. [Si in maiori], tunc est reperire tres minimas seperatas vel valorem pro semibrevi maioris prolationis, que ad invicem reducuntur perfectiones numerando. Si in minori, [duas] vel semibrevem punctatam puncto perfectionis cuius tercia pars ad aliquam minimam solam reducitur seperatam, ut hic:</p>
+      <p id="ANOMUSC0143">Et nota quod nunquam [nota] pro sincopa debet reduci ultra pausam maiorem, utpote minima ultra pausam semibrevem vel maiorem, licet quidam dicant contrarium, nescio quo modo, et cetera.</p>
+      <p id="ANOMUSC0144">9 Nota quod modus perfectus est quando longa vel pausa valet tria tempora et cantus dividitur vel componitur per numerum trinarium, ut hic:</p>
+      <p id="ANOMUSC0145">Modus inperfectus est quando longa vel pausa valet duo tempora, ut hic:</p>
+      <p id="ANOMUSC0146">et cantus debet computari per numerum binarium.</p>
+      <p id="ANOMUSC0147">Nota quod in ballatis et in madricalibus et sic de multis aliis non sequitur modus, sed ad libitum debent cantari sicut sunt figurati.</p>
+      <p id="ANOMUSC0148">
+      <pb n="[75]" />Nota quod in moctectis, in gloria et in aliis cantibus, ibi est modus perfectus et inperfectus.</p>
+      <p id="ANOMUSC0149">Nota quod modus perfectus cognoscitur ab inperfecto quando in aliquo cantu: in moctectis, in gloria, in credo, etiam in tenoribus et in aliis, invenitur longa [vel pausa] que sit tria tempora et habeat punctum perfectionis, ut hic:</p>
+      <p id="ANOMUSC0150">tunc ille cantus est de modo perfecto et debet computari per numerum trinarium, ut hic:</p>
+      <p id="ANOMUSC0151">Modus inperfectus cognoscitur quando invenitur in aliquo cantu longa vel pausa que non sit nisi duo tempora, tunc est de modo inperfecto et debet dividi in duas partes, ut hic:</p>
+      <p id="ANOMUSC0152">Nota quod tempus perfectum [est] quando brevis valet tres semibreves et dividitur in tres partes et brevis vocatur tempus, ut hic:</p>
+      <p id="ANOMUSC0153">Nota quod tempus inperfectum est quando brevis valet duas semibreves et dividitur in duas partes, ut hic:</p>
+      <p id="ANOMUSC0154">Nota quod tempus perfectum de maiori prolatione, hoc est nonarium, est quando brevis vel tempus valet tres semibreves et quelibet semibrevis tres minimas, ut hic:</p>
+      <p id="ANOMUSC0155">Nota quod tempus perfectum de minori prolatione, hoc est senarium perfectum, est quando brevis valet tres semibreves et quelibet semibrevis duas minimas, ut hic:</p>
+      <p id="ANOMUSC0156">Nota quod tempus inperfectum de maiori prolatione, hoc est senarium inperfectum, est quando brevis valet duas semibreves et quelibet semibrevis valet tres minimas, ut hic:</p>
+    </body>
+  </text>
+</TEI>

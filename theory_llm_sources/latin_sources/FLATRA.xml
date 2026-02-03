@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Tractatus modi, temporis et prolationis</title>
+        <title type="abbrev">FLATRA</title>
+        <author>Sadze de Flandria, Christianus</author>
+        <date notBefore="1400" notAfter="1499">15th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>C. Matthew Balensuela</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Benito V. Rivera</persName>
+      </respStmt>
+      <date>1991</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>Scriptorum de musica medii aevi nova series a Gerbertina altera</emph>, 4 vols., ed. Edmond de Coussemaker (Paris: Durand, 1864-76; reprint ed., Hildesheim: Olms, 1963), 3:264–73.
+</bibl>
+        <bibl type="work">
+          
+<title>Christianus Sadze: Tractatus modi, temporis et prolationis</title>
+          
+<idno type="LML">CHR. SADZE</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">D-B Mus. ms. theor. 1010, 8v-10v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-SDI 42, 119-120v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Bc B 2/B, 1-5v, 7-13v</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="FLATRA0001">
+      <pb n="[264]" />Christiani Sadze de Flandria</p>
+      <p id="FLATRA0002">Tractatus modi, temporis et prolationis</p>
+      <p id="FLATRA0003">Omnem scientiam omnemque philosophiam credimus et profitemur de externo fonte, id est a Spiritu Sancto emanare; ipse enim qui cuncta creavit, omnia voluit in numero et mensura constituere, ut nec numeri sine mensura nec mensura sine numeris esse possint. Nam numeri et mensure, quantum ad musicam pertinent, in virtute sonorum et proportionum constituuntur. Philosophiam autem sapientie studium Pythagoras nuncupavit, ut Boetius refert, qui non minus speculationem in musica quam in ceteris liberalibus artibus semper habuit.</p>
+      <p id="FLATRA0004">Numeri autem qui a consonantiis creantur, vel per quos ipse consonantie discernuntur, tantum sunt septem: id est, Epytritus; Emyolius; Duplaris; Superbipartiens; Triplaris; Quadruplus; et Sexquioctavus.</p>
+      <p id="FLATRA0005">Numeri non in proportionibus sunt hi: dyatessaron sesquitertia, cujus numeri sunt septem, ut 4 ad 3.</p>
+      <p id="FLATRA0006">Dyapente dicitur sesquialtera, cujus numeri sunt quinque, ut 3 ad 2.</p>
+      <p id="FLATRA0007">Dyapason dyatessaron vocatur dupla superbipartiens, cujus numeri sunt undecim, ut 8 ad 3.</p>
+      <p id="FLATRA0008">Dyapason dyapente tripla nuncupatur, cujus numeri sunt quatuor, ut 3 ad 1.</p>
+      <p id="FLATRA0009">Disdyapason quadrupla est, cujus numeri sunt quinque, ut 4 ad 1.</p>
+      <p id="FLATRA0010">Epogdous autem est sesquioctava proportio, cujus numeri sunt decim et septem, ut 9 ad 8: et per hoc dicit Remigius: Veritas musice in numeris proportionum consistit.</p>
+      <p id="FLATRA0011">Cum notum sit musicam constare ex sonis qui sunt ad invicem proportionales secundum numerum motuum in ipsis reperte sunt, ideo non est inutile percurrere generaliter proportiones numerorum.</p>
+      <p id="FLATRA0012">Omnis autem numerus ad alterum comparatus aut est ei equalis aut inequalis: nam hoc competit 
+      <pb n="[265]" />cuilibet quantitati. Si equalis, idem sunt et unum sunt in quantitate; ideo non variatur, nec ex sonis equalibus fit consonantia. Si autem inequalis, aut major aut minor, dicitur alterum altero mujus quinque modis, ut multiplex; superparticularis; superpartiens; multiplex superparticularis; et multiplex superpartiens. Appositaque ista subdividitur totidem modis minus.</p>
+      <p id="FLATRA0013">Multiplex est quando major numerus habet in se minorem bis, ter, vel quater. Et ejus species sunt dupla, tripla, quadrupla, et usque in infinitum.</p>
+      <p id="FLATRA0014">Superparticularis est quando major numerus continet minorem et aliquam ejus partem aliquotam; cujus species sunt sexquialtera, sexquitertia: et sic usque in infinitum.</p>
+      <p id="FLATRA0015">Superpartiens est quando major numerus continet minorem et ejus partes aliquotas ex quibus non fit una aliquota: cujus species sunt superbipartiens, supertripartiens, et sic in infinitum.</p>
+      <p id="FLATRA0016">Multiplex superparticularis est quando major numerus habet in se minorem bis, vel ter, et aliquam ejus partem aliquotam, cujus species sunt multiplices; scilicet dupla, sesquialtera, tripla sesquitertia; et ex parte utriusque itur in infinitum.</p>
+      <p id="FLATRA0017">Multiplex superpartiens est quando major numerus habet minorem bis vel ter, et aliquas ejus partes ex quibus non fit aliqua aliquota: cujus species sunt iste: duplex superbipartiens, triplex supertripartiens; et itur ex parte utriusque in infinitum, addendo quamlibet speciem multiplicis cuilibet speciei superpartientis. Et exempla cujuslibet speciei sic in numeris ordinantur:</p>
+      <p id="FLATRA0018">[CSIII:265, text: Multiplex, Dupla, Tripla, Superparticularis, Sexquialtera, Sexquitertia, Superpartiens, Superbipartiens tertias, Supertripartiens quartas, Multiplex superparticularis, Dupla sexquialtera, Dupla sexquitertia, Tripla sexquitertia, Multiplex superpartiens, Dupla superbipartiens tertias, Tripla supertripartiens quartas, Fundamentum, Relationis, 24, 48, 72, 96, 36, 108, 144, 18, 54, 16, 32, 64, 20, 40, 60, 80, 21, 42, 63, 84, 30, 60, 90, 120, 28, 56, 84, 112, 160, 64, 96, 128, 45, 90, 135, 180, 12, 48.] 
+      <figure>
+        <graphic url="/images/FLATRA_01GF.gif" />
+      </figure></p>
+      <p id="FLATRA0019">
+      <pb n="[266]" />Proportio est habitudo duorum terminorum ad invicem, vel distantia duorum terminorum inter se; cujus quinque sunt genera, scilicet multiplex, superparticulare, superpartiens, multiplex superparticulare, et multiplex superpartiens.</p>
+      <p id="FLATRA0020">Multiplex genus est quando major numerus continet in se minorem bis, ter, quater sine ejus parte aliquota: cujus species sunt iste; dupla, tripla, quadrupla, etc., usque in infinitum.</p>
+      <p id="FLATRA0021">Dupla proportio est quando major numerus continet in se minorem bis, ut duo ad unum, et quatuor ad duo, sex ad tria, etc. Sub qua proportione dyapason consonantia consistit; que quidem proportio prima species hujus generis esse dicitur. Et nominatur etiam aliis nominibus sequentibus, scilicet: dyocto; dyaplasis; dyaplaris; consonantia; equisonantia; unisonantia; iustitia; concordia, et trochea.</p>
+      <p id="FLATRA0022">Tripla proportio est quando major numerus continet in se minorem ter, ut tria ad unum, et sex ad duo, et novem ad tria: sub qua proportione dyapasen cum dyapente consonantia continetur; hec nam secunda species hujus generis continetur et nuncupatur.</p>
+      <p id="FLATRA0023">Quadrupla proportio est quando major numerus continet in se minorem quater, ut quatuor ad unum, octo ad duo, duodecim ad tres: sub qua proportione bis dyapason continetur. Hec autem proportio vocatur hujus generis tertia species.</p>
+      <p id="FLATRA0024">Superparticulare genus est quando major numerus continet in se minorem semel et ejus aliquotam partem: cujus species sunt iste; sesquialtera, sesquitertia, sesquiquarta, et sesquiquinta: et ejus pars aliquota est illa que aliquotiens sumpta reddit suum totum, ut bis bis quatuor reddunt; et ter ter novem conficiunt; bis ter, sex; ter bis eadem sex faciunt.</p>
+      <p id="FLATRA0025">Proportio sesquialtera est quando major numerus continet in se minorem semel et ejus insuper aliam partem; et vocatur ista proportio alio nomine emyolia: sub ista namque proportione dyapente consonantia continetur.</p>
+      <p id="FLATRA0026">Proportio sexquitertia est quando major numerus continet in se minorem semel et ejus tertiam partem, ut quatuor ad tres, octo ad sex, duodecim ad novem, etc. Et dicitur sesquitertia a sesqui quod est totum, et tertia quod est tertia pars; quia major numerus continet in se minorem et ejus tertiam partem. Vocatur etiam ista proportio Epytrita ab epy, quod est supra, et trito, quod est tres, eo quod quaternarius est supra ternarium, et ejus tertiam partem continet: sub qua proportione dyatessaron consonantia continetur, quia ea sub tali numero numeratur.</p>
+      <p id="FLATRA0027">Proportio sesquiquarta est quando major numerus continet in se minorem semel et ejus quartem partem, ut quinque ad quatuor, et decem ad octo.</p>
+      <p id="FLATRA0028">Proportio sesquioctava est quando major numerus continet in se minorem semel et ejus octavam partem, ut novem ad octo, decem et octo ad sexdecim, etc. Sub qua proportione tonus, qui epogdous dicitur, continetur.</p>
+      <p id="FLATRA0029">Superpartiens genus est quando major numerus continet in se minorem semel et insuper aliquas ejus partes, scilicet duas, vel tres, vel quatuor: cujus species sunt iste; scilicet superbipartiens, supertripartiens, superquadripartiens.</p>
+      <p id="FLATRA0030">Proportio superbipartiens est quando major numerus continet in se minorem semel et insuper ejus duas partes, ut quinque ad tres, decem ad sex, et quindecim ad novem.</p>
+      <p id="FLATRA0031">Supertripartiens proportio est quando major numerus continet in se minorem semel et insuper ejus tres partes, ut septem ad quatuor et quatuordecim 
+      <pb n="[267]" />ad octo, etc. Et ista proportio superpartiens tertias dicitur.</p>
+      <p id="FLATRA0032">Superquadripartiens proportio est quando major numerus continet in se minorem semel et insuper partes ejus quatuor, ut novem ad quinque, decem et octo ad decem, etc.</p>
+      <p id="FLATRA0033">Multiplex superparticulare genus est quando major numerus continet in se minorem multipliciter, et insuper ejus aliquotam partem: cujus species sunt iste; scilicet dupla sesquialtera, dupla sesquitertia, dupla sesquiquarta.</p>
+      <p id="FLATRA0034">Dupla sesquialtera est quando major numerus continet in se minorem bis et insuper ejus medietatem partes, ut quinque ad duo, decem ad quatuor, et quindecim ad sex.</p>
+      <p id="FLATRA0035">Dupla sesquitertia est quando major numerus continet in se minorem ter et ejus medietatem, ut septem ad duo, quatuordecim ad quatuor.</p>
+      <p id="FLATRA0036">Dupla sesquiquarta est quando major numerus continet in se minorem quater et ejus medietatem, ut novem ad duo, decem et octo ad quatuor.</p>
+      <p id="FLATRA0037">Multiplex superpartiens genus est quando major numerus continet in se minorem pluries et insuper aliquas ejus partes; cujus species sunt iste: dupla superbipartiens, dupla supertripartiens, tripla superbipartiens, et tripla supertripartiens.</p>
+      <p id="FLATRA0038">Dupla superbipartiens proportio est quando major numerus continet in se minorem bis et insuper ejus duas partes, ut octo ad tres, et sexdecim ad sex, et quatuor viginti ad novem.</p>
+      <p id="FLATRA0039">Dupla supertripartiens proportio est quando major numerus continet in se minorem bis et insuper ejus tres partes, ut undecim ad tres, et viginti duo ad sex.</p>
+      <p id="FLATRA0040">Tripla supertripartiens proportio est quando major numerus continet in se minorem ter et insuper tres partes, ut quindecim ad quatuor, triginta ad octo, et eodem modo itur in infinitum.</p>
+      <p id="FLATRA0041">Proportio triplaris comatis divisio est quando major numerus continet in se quater minorem et insuper ejus unam partem, ut novem ad duo, decem et octo ad quatuor.</p>
+      <p id="FLATRA0042">Sequitur declaratio modi, temporis et prolationis.</p>
+      <p id="FLATRA0043">Et primo nota: Duplex est modus, perfectus et imperfectus. Modus perfectus est duplex, scilicet major et minor. Modus perfectus major consistit in maximis, et fit quando maxima valet tres longas sive perfectas vel imperfectas. Et modus minor perfectus consistit in longis; et fit quando longa valet tres breves sive perfectas vel imperfectas.</p>
+      <p id="FLATRA0044">Et sic patet quod longa potest esse perfecta, longis existentibus imperfectis; et e converso maxima potest esse imperfecta longis existentibus perfectis; et maxima potest esse imperfecta longis existentibus imperfectis. Et hoc potest fieri in utroque modo, in utroque tempore, et in utraque prolatione. Et sicut dictum est de maximis respectu longarum, ita dicendum est de longis respectu brevium.</p>
+      <p id="FLATRA0045">Sequitur de tempore.</p>
+      <p id="FLATRA0046">Tempus est duplex, scilicet perfectum et imperfectum, et consistit in brevibus.</p>
+      <p id="FLATRA0047">Tempus perfectum est quando brevis valet tres semibreves in utraque prolatione.</p>
+      <p id="FLATRA0048">Tempus imperfectum est quando brevis valet duas semibreves in utraque prolatione.</p>
+      <p id="FLATRA0049">
+      <pb n="[268]" />Sequitur de prolatione.</p>
+      <p id="FLATRA0050">Prolatio est duplex: perfecta et imperfecta; perfecta que vocatur major; imperfecta que vocatur minor. Prolatio perfecta, id est major, est quando semibrevis valet tres minimas. Prolatio imperfecta id est minor, est quando semibrevis valet duas minimas. Exempla de supra dicitis sequuntur, si bene inspexeris:</p>
+      <p id="FLATRA0051">[CSIII:268; text: Modus major perfectus, de modo minori perfecto, de tempore perfecte, et de majori prolatione. Modus major imperfectus, de modo minori perfecto, de tempore perfecto, et de majori prolatione. Modus major perfectus, de modo minori imperfecto, de tempore perfecto, et de majori prolatione.] 
+      <figure>
+        <graphic url="/images/FLATRA_02GF.gif" />
+      </figure></p>
+      <p id="FLATRA0052">
+      <pb n="[269]" />[CSIII:269; text: Modus major imperfectus, de modo minori imperfecto, de tempore perfecto, et de majori prolatione. Modus major perfectus, de modo minori perfecto, de tempore imperfecto, et de majori prolatione. Modus major imperfectus, de modo minori perfecto, de tempore imperfecto, et de majori prolatione.] 
+      <figure>
+        <graphic url="/images/FLATRA_03GF.gif" />
+      </figure></p>
+      <p id="FLATRA0053">
+      <pb n="[270]" />[CSIII:270; text; Modus major perfectus, de modo minori imperfecto, de tempore imperfecto, et de majori prolatione. Modus major imperfectus, de modo minori imperfecto, de tempore imperfecto, et de majori prolatione. Modus major perfectus, de modo minori perfecto, de tempore perfecto, et de minori prolatione.] 
+      <figure>
+        <graphic url="/images/FLATRA_04GF.gif" />
+      </figure></p>
+      <p id="FLATRA0054">
+      <pb n="[271]" />[CSIII:271; text: Modus major perfectus, de modo minori perfecto, de tempore perfecto, et de minori prolatione. Modus major perfectus, de modo minori imperfecto, de tempore perfecto, et de minori prolatione. Modus major imperfectus, de modo minori imperfecto, de tempore perfecto, et de minori prolatione.] 
+      <figure>
+        <graphic url="/images/FLATRA_05GF.gif" />
+      </figure></p>
+      <p id="FLATRA0055">
+      <pb n="[272]" />[CSIII:272; Modus major perfectus, de modo minori perfecto, de tempore imperfecto, et de minori prolatione. Modus major imperfectus, de modo minori perfecto, de tempore imperfecto, et de minori prolatione. Modus major perfectus, de modo minori imperfecto, de tempore imperfecto, et de minori prolatione.] 
+      <figure>
+        <graphic url="/images/FLATRA_06GF.gif" />
+      </figure></p>
+      <p id="FLATRA0056">
+      <pb n="[273]" />[CSIII:273; text: Modus major imperfectus, de modo minori imperfecto, de tempore imperfecto, et de minori prolatione.] 
+      <figure>
+        <graphic url="/images/FLATRA_07GF.gif" />
+      </figure></p>
+      <p id="FLATRA0057">Explicit tractatus declarationis modi, temporis, et prolationis compilatus per Christianum Sadze de Flandria.</p>
+    </body>
+  </text>
+</TEI>

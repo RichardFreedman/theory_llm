@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Metrologus</title>
+        <title type="abbrev">ANOMETR</title>
+        <author>Anonymous</author>
+        <date notBefore="1300" notAfter="1399">14th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Peter M. Lefferts</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Peter Slemon</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>2001</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Robertus de Handlo, 
+<emph>Regule</emph>, and Johannes Hanboys, Summa, ed. and trans. by Peter M. Lefferts, Greek and Latin Music Theory, vol. 7 (Lincoln: University of Nebraska Press, 1991), 362–64 (even–numbered pages only). As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Iohannes Hanboys: Tractatus de musica (excerpt)</title>
+          
+<idno type="LML">IOH. HANB. tract.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">GB-Lbl Add. 8866, 64r</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANOMETR0001">
+      <pb n="[362]" />Sciendum est tamen et neupme loco sunt pedum et distinctiones loco versuum utpote ista neupma Dactilico alia iambico more decrerat et distinctionem tetrametram nunc pentametram alias quas exametras trinas et multa alia ad hunc modum.</p>
+      <p id="ANOMETR0002">Dactilus unam habet longam et duas breves sic: [Lig3Lcudd on staff3]</p>
+      <p id="ANOMETR0003">Geminos vel dupla sic: [Lig2art,Lig2art,Lig2art,Lig2cdsnd,Lig2cdsnd on staff2]</p>
+      <p id="ANOMETR0004">aut sic: [L,L,L,L on staff2]</p>
+      <p id="ANOMETR0005">Pentametrum hoc modo: [Lig6aodacudd on staff2]</p>
+      <p id="ANOMETR0006">Anapestus est repercussio sic: [Lig3cdsnodart,Lig4aodart on staff3]</p>
+      <p id="ANOMETR0007">Trimetrum vel Trametrum vel Trocheus vero dictus est eo quod celerem facit conversionem cantilene hoc modo: [Lig2art,Lig4Lcuddd,Lig5artcuddd,Lig4artcudd on staff3]</p>
+      <p id="ANOMETR0008">Tribracus dictus est ex tribus brevibus hoc modo: [Lig3ad,Lig3ad,Lig3ad on staff3]</p>
+      <p id="ANOMETR0009">Figura vero molosus qui a saltacione dictus est hoc modo: [S,S,S,Lig2art,L on staff3]</p>
+      <p id="ANOMETR0010">Fictilos hoc modo facimus: [L,Lig3dart on staff3]</p>
+      <p id="ANOMETR0011">Ternarios hoc modo: [Lig3Laacddx,Lig3aacddx,Lig3aart,Lig3aa on staff3]</p>
+      <p id="ANOMETR0012">Triplus dictus est quia maior pars ter continent totam minorem id est tria et unum sic: [Lig3Lcudd,L on staff3]</p>
+      <p id="ANOMETR0013">Exametros vel epitriti vocati sunt quia semper tres longas habent et unam brevem sic: [L,L,L,Lig2d on staff2]</p>
+      <p id="ANOMETR0014">Licet enim longas et breves nominemus non sic tenentur in plana musica sicut et in organo sed omnes note preter pausaciones equaliter canentur ita ut 
+      <pb n="[364]" />in unum terminentur partes et distinctiones neupmarum atque verborum et cetera.</p>
+      <p id="ANOMETR0015">Sinemmenon est figura quedam et dicitur commutacio sive defectio tonorum vel semitoniorum et est in alphabeto 2 ut dicit Hanboys libro primo capitulo sexto.</p>
+    </body>
+  </text>
+</TEI>

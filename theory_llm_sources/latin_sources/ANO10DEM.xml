@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>De minimis notulis</title>
+        <title type="abbrev">ANO10DEM</title>
+        <author>Anonymous X</author>
+        <date notBefore="1400" notAfter="1499">15th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Luminita Florea Aluas</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Bradley Jon Tucker</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1991</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>Scriptorum de musica medii aevi nova series a Gerbertina altera</emph>, 4 vols., ed. Edmond de Coussemaker (Paris: Durand, 1864-76; reprint ed., Hildesheim: Olms, 1963), 3:413–15.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: Tractatus de musica mensurabili</title>
+          
+<idno type="LML">MENS. Item notandum</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">F-Sm Ms. M. 222 C. 22, 9-11</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANO10DEM0001">
+      <pb n="[413]" />ANONYMI X</p>
+      <p id="ANO10DEM0002">De minimis notulis</p>
+      <p id="ANO10DEM0003">Item notandum quod notularum species quantum plures in hac arte reperiuntur que etiam diversas sibi sortiuntur denominationes. Quedam enim dicuntur longe, quedam breves, quedam vero duplices longe; quedam codependent, quedam non. Et de notitia et differentia illarum satis patuit in precedentibus; sed de minimis notulis artis mensurate quibus utuntur multi moderni subtilesque musici pauca sunt hic advertenda.</p>
+      <p id="ANO10DEM0004">Primo quod quedam notule vocantur minime, ut hic: [M,M,M]; et he in cognationibus et significationibus suis alterantur et diversificantur secundum tempus perfectum et imperfectum, similiter et secundum prolationem majorem vel minorem, ut antea dictum est.</p>
+      <p id="ANO10DEM0005">Secundo notandum quod quedam notule nuncupantur semiminime; et he sunt similes minimis in forma, nisi quod habent caudam a supra reverberatam ad modum venti, ut hic: [SM,SM,SM,SM on staff3]; et plerumque ponuntur in prolatione majori; et tunc quatuor earumdem notularum valebunt unicam semibrevem.</p>
+      <p id="ANO10DEM0006">Tertio notandum quod adhuc alie inveniuntur semiminime similes jam dictis in forma, hoc addito quod caudate sunt tam a superiori parte quam inferiori; et he a quibusdam nuncupantur minime semiminimarum, scilicet antedictarum, 
+      <pb n="[414]" />ut sunt he: [SMcd,SMcd,SMcd,SMcd,SMcd,SMcd on staff4]; et iste etiam sepius ponuntur in majori prolatione, et harum sex pro una semibrevi reputantur; due vero unam valent minimam; quatuor duas; sex tres, que faciunt semibrevem in hac prolatione.</p>
+      <p id="ANO10DEM0007">Et notandum quod sepe talium notularum due reperiuntur sole; tunc oportet quod vel minima una precedat vel post cedat vel due, vel quod una minimarum precedat et altera post cedat, ut sic: [M,SM,SM on staff2], vel sic: [SM,SM,M on staff2]; vel sic: [M,M,SM,SM on staff2], vel sic: [M,SM,SM,S on staff2]; vel oportet si tantum una minima precedit vel sequitur, quod iterato alie semiminime due replicentur, ut sic: [M,SMcd,SMcd,F,F on staff4]. Et his simul computatis surgit valor unius semibrevis, ut patet considerari.</p>
+      <p id="ANO10DEM0008">Item notularum minimarum que coregulantur sursum et deorsum absque reflexione, ut sic: [F,F on staff4], et harum quatuor ponuntur pro vacuis tribus semibrevibus manifestantur et pro duabus semibrevibus talibus: [S,S], in majori prolatione.</p>
+      <p id="ANO10DEM0009">Item est notandum quod quinque he minime sursum deorsumque caudate super, in secunda nota alterantur, ut scilicet prima cantetur pro minima, secunda pro semibrevi, tertia iterum pro minima et quarta iterum pro semibrevi, ut sic: [F,F,F,F on staff4,M,S,M,S ], et vocatur alteratio.</p>
+      <p id="ANO10DEM0010">Quarto notandum quod aliud representant notule coloris nigri, et aliud coloris rubei; easdem tamen habentes figuras et quantitates et fracturas, ut sunt he:</p>
+      <p id="ANO10DEM0011">[Mv,B,Bv,Lig2cssna,Lig2vcssna,Lig2cssnod,Lig2vcssnod,S,Sv,L,Lv on staff3]</p>
+      <p id="ANO10DEM0012">Item aliud representant note implete, aliud vero cavate earumdem figurarum, quantitatum et fracturarum, ut sint tales:</p>
+      <p id="ANO10DEM0013">[S,Sv,Lig2cssna,Lig2vcssna,M,Mv,Lig3cdsndd,Lig3vcdsndd,Lig2cssnoa,Lig2vcssnoa on staff3]</p>
+      <p id="ANO10DEM0014">Aliquando vero idem representant, sed sunt signa alterationis temporum vel prolationis. Idcirco notandum est quod minime rubee pene semper in suis manent cognationibus, sed alterant prolationem, ut patet in his discantibus duobus super "Molendinum de Paris"; et in uno versu: "Et in terra, Zeltenpferd", scilicet "Qui tollis" ubi precedentes versus cantabantur de prolatione majori, et ille cantandus est de minori temporis imperfecti. Secus autem est de semibrevibus rubeis que tunc non simpliciter cantantur una pro semibrevi, sed debent regi secundum modum semibrevium cavatarum quarum tres taxant duas. Similiter aliud est de brevibus rubricatis que tantum valebunt unam semibrevem nigram.</p>
+      <p id="ANO10DEM0015">Item et quelibet longa rubea tantum valebit unam brevem nigram.</p>
+      <p id="ANO10DEM0016">Si vero aliquando tres rubee semibreves representantur in majori prolatione inter nigras quascunque, he tres solum numerantur pro duabus semibrevibus nigris, ut hic:</p>
+      <p id="ANO10DEM0017">[Lig3cssnad,Sv,Sv,Sv,Lig3cssndacddx on staff3]</p>
+      <p id="ANO10DEM0018">Sexto notandum quod semibrevis vacua vel cavata non est idem quam impleta, tres enim vacue tantum duas valent plenas et perfectas, ut sic:</p>
+      <p id="ANO10DEM0019">[Mv,Mv,Mv,Mv,Mv,Sv,Mv,Mv,Sv on staff3]</p>
+      <p id="ANO10DEM0020">Item minime vacue solum due pro una semibrevi vacua estimantur; et sic sex minime vacue taxant tres breves vacuas, ut sic: [Sv,Sv,Sv,B on staff2]</p>
+      <p id="ANO10DEM0021">
+      <pb n="[415]" />Sed est notandum hic diligentius quod hujus modi notule cavate a pluribus modernis musicis ponuntur non quod alterentur in earum representationibus, sed quia alterent tempus et prolationem, ut patet "Amen" illius "Et in terra" Zeltenpferd, quod notatum est omnino notis cavatis et vacuis; idem tamen valentes quasi nigre plene, sed ibi est tempus perfectum et prolatio minor, ubi tamen in precedenti cantu erat tempus imperfectum et prolatio major. Et hec fuerit ad placitum notatorum vel scribentium, nec omne preterea diu imaginari quomodo cantande sint tales notule.</p>
+      <p id="ANO10DEM0022">Septimo notandum quod sepe aliqui cantus notantur aliquibus notulis ubi tamen notule sic semper cantande non sunt ut prima fronte apparent, ut sic scilicet cantatur brevis pro brevi, semibrevis pro semibrevi, minima pro minima; sed patet ut talis cantus subtilius consideretur dimidiando singulas notulas nulla excepta, sic videlicet ut ubi ponatur longa, ibi cantetur brevis; ubi vero ponitur brevis, cantanda est semibrevis; ubi autem semibrevis, notetur minima, et ubi minima, ibi oportet cantari semiminima. Hoc idem intelligendum de colligatis primis, mediis et ultimis. Et talis modus cantandi a musicis vocatur diminutio eo quod unaqueque notularum pro medietate diminuitur a suo debito valore, ut patet in isto rondello: "Virginis meritum".</p>
+      <p id="ANO10DEM0023">Et est notandum si in cantu tali diminutio reperiatur sursum et deorsum virgulata, talis cantari debet pro minima semiminimarum de quibus supra dictum est, ut si fuerit talis: [F on staff4], cantetur pro tali: [SMcd on staff4], per diminutionem.</p>
+      <p id="ANO10DEM0024">Item si ibidem ponatur aliqua vacua habens figuram brevis, ut sic: [Bv], cantetur pro minima majoris prolationis. Si vero ibi ponuntur condependenter plures vacue habentes figuras brevium, ut sic:</p>
+      <p id="ANO10DEM0025">[Lig2vcddxod,Bv on staff3]</p>
+      <p id="ANO10DEM0026">quelibet illarum taxatur pro una semibrevi cavata, ita quod ille tres faciunt unum tempus imperfectum in prolatione majori ut illa brevis: [B], quoadmodum dictum est supra de vacuis semibrevibus.</p>
+      <p id="ANO10DEM0027">Item si ibi ponantur successive plures breves vacue, quelibet dimidiabitur ut tres tales: [Bv,Bv,Bv], pro tribus talibus sumuntur: [Sv,Sv,Sv], et sex illarum pro sex istarum.</p>
+      <p id="ANO10DEM0028">Item si ponuntur ibi semibreves vacue ligate vel non ligate, quelibet illarum cantanda est per diminutionem pro minima vacua in suo vero valore ut si poneretur sic:</p>
+      <p id="ANO10DEM0029">[Lig2vcssna,Lig2vcssnod,Lig2vcssnoa on staff3]</p>
+      <p id="ANO10DEM0030">quelibet cantatur pro tali minima: [Mv,Mv,Mv on staff3].</p>
+      <p id="ANO10DEM0031">Item sciendum quod plures reperiuntur longe coronas in capitibus suis deferentes, ut sic: [CSIII:415] 
+      <figure>
+        <graphic url="/images/ANO10DEM_01GF.gif" />
+      </figure>, que cardinales a musicis nuncupantur. Denotatur autem per easdem notulas in eis fieri pausam modicam concentus et protractionem spiraminis absque plena notularum prolatione.</p>
+    </body>
+  </text>
+</TEI>

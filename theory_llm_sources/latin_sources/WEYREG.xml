@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Regule</title>
+        <title type="abbrev">WEYREG</title>
+        <author>Weyts, Carmelite, Nicasius</author>
+        <date notBefore="1400" notAfter="1499">15th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>C. Matthew Balensuela</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>John Snyder</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1991</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>Scriptorum de musica medii aevi nova series a Gerbertina altera</emph>, 4 vols., ed. Edmond de Coussemaker (Paris: Durand, 1864-76; reprint ed., Hildesheim: Olms, 1963), 3:262–64.
+</bibl>
+        <bibl type="work">
+          
+<title>Nicasius Weyts: Regule</title>
+          
+<idno type="LML">NIC. WEYTS</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">I-FZc 117, 33v-34</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="WEYREG0001">
+      <pb n="[262]" />Nicasii Weyts, Carmelite</p>
+      <p id="WEYREG0002">Regule</p>
+      <p id="WEYREG0003">Omnis nota in cantu mensurato Maxima figuratur quadrata cum filo in parte dextera, ut hic: [MX]. Longa figuratur quadrata cum filo in parte dextera, in minori tamen quantitate longitudinis ipsa Maxima, ut hic: [L]. Brevis formatur sine filo quadrata, ut hic: [B], vel cum filo in parte sinistra, ut hic: [Bcssn]. Semibrevis formatur quadrata oblique, ut sic: [S]. Minima figuratur obtusa sursum proprietate signata summitate proprietatis pro divisione duple proportionis dextrorsum inclinata, ut hic: [SM,SM on staff3]. Minor figuratur obtusa sursum proprietate signata, ut hic: [M,M on staff3], et pro sesquialtera proportione figuratur obtusa sursum proprietate signata sinistrorum, ut hic: [SMvxsn,SMvxsn,SMvxsn on staff3].</p>
+      <p id="WEYREG0004">In ligaturis autem ista est regula: quandocumque prima nota longa ligature descendit et non habet filum, est longa, ut hic:</p>
+      <p id="WEYREG0005">[Lig3dod,Lig4daod,Lig3dd on staff3]</p>
+      <p id="WEYREG0006">Item si ultima vero descendit et est quadra, est longa, ut hic:</p>
+      <p id="WEYREG0007">[Lig2d,Lig3cdsnodd,Lig3cssndd on staff3]</p>
+      <p id="WEYREG0008">Item quandocumque est filum in principio ascendens cujuscumque ligature semper sunt due semibreves, ut hic:</p>
+      <p id="WEYREG0009">[Lig2cssnd,Lig2cssnod,Lig3cssnda,Lig3cssnad on staff3]</p>
+      <p id="WEYREG0010">Item quandocumque ultima nota ligature ascendit si est versa ad sinistram, est longa, ut hic: [Lig2art,Lig2art].</p>
+      <p id="WEYREG0011">Omnes alie note de quibus non est mentio facta hic quarumcumque ligaturarum, sunt breves, ut:</p>
+      <p id="WEYREG0012">[Lig6cdsnddaaod on staff3]</p>
+      <p id="WEYREG0013">Hos versus disce qui cantus discere cupis:</p>
+      <p id="WEYREG0014">Ante namque longam tria tempora metiuntur.</p>
+      <p id="WEYREG0015">Si brevis addetur, duo tempora longam metientur;</p>
+      <p id="WEYREG0016">Inter perfectas, si brevis bina locetur,</p>
+      <p id="WEYREG0017">Temporis unius sit prima, secunda duplicetur.</p>
+      <p id="WEYREG0018">De ceteris autem recursus habe ad Tractatum Magistri Johannis de Muris, incipientem: Quilibet in arte pratica, ubi notitia mensurabilis cantus plenius traditur, etc.</p>
+      <p id="WEYREG0019">Partes prolationis sunt quinque, scilicet maxima, longa, brevis sive tempus, semibrevis sive prolatio, et minima. Et due sunt superaddite que non sunt de arte, scilicet semiminima, et croma, ut hic: [M,M,SMv,SMv], croma: [SM,SM,SMv,SM,SMv].</p>
+      <p id="WEYREG0020">Modus autem est duplex, scilicet modus maximarum et modus longarum. Modus maximarum est duplex, scilicet modus maximarum perfectarum, et modus maximarum imperfectarum. Modus maximarum perfectarum est, quando maxima valet 
+      <pb n="[263]" />tres longas. Modus autem maximarum imperfectarum est quando maxima valet tantum duas longas. Similiter dupla est longa sive modus longarum scilicet perfectarum et imperfectarum. Modus longarum perfectarum est quando longa valet tantum tria tempora sive tres breves que idem est. Modus longarum imperfectarum est quando longa valet tantum duo tempora sive duas breves quod idem est. Brevis est duplex, scilicet perfecta et imperfecta. Brevis perfecta est quando brevis vel tempus valet tres semibreves. Brevis imperfecta est quando brevis vel tempus valet duas tantum semibreves. Semibrevis sive prolatio est duplex, scilicet major et minor perfecta, et imperfecta. Semibrevis sive prolatio perfecta est quando semibrevis valet tres minimas. Semibrevis sive prolatio imperfecta quod idem est illa que tantum valet duas minimas. Minima autem semper imperfecta est.</p>
+      <p id="WEYREG0021">Perfectio autem in musica est numerus ternarius sumptus a Trinitate personarum in divinis, que perfectissima est. Illud igitur dicitur perfectum in musica, quod in tres partes immediatas est divisibile. Partes immediate maximarum sunt longe. Partes immediate longarum sunt breves sive tempora. Partes immediate brevium sive temporum sunt semibreves. Partes immediate semibrevium sunt minime. Partes immediate minimarum non sunt in arte, quia ultra minimum non est dare minimum; sed tantum sunt in usu quia tantum sunt dues emiminime et quatuor cromata.</p>
+      <p id="WEYREG0022">Imperfectio in musica est numerus binarius, scilicet quando aliqua figura tantum in duas partes immediatas est divisibilis.</p>
+      <p id="WEYREG0023">Cum ergo imperfectio in musica est tertie partis, remotio propinqua sequitur quod maxima imperficitur tantum ab una longa precedente, ut hic: [L,MX], vel ab una longa sequente, ut hic: [MX,L], vel ab ejus valore, ut hic. [B,MX,B,B].</p>
+      <p id="WEYREG0024">Similiter dicitur de longa, que potest imperfici a tertia parte ejus, scilicet a brevi precedente, ut hic: [B,L], vel ab una brevi sequente, ut hic: [L,B]. Similiter de tempore vel brevi que imperficitur a tertia parte sua propinqua, scilicet ab una semibrevi precedente, ut hic: [S,B], vel ab una sequente, ut hic: [B,S], vel a valore ejus ut hic: [M,M,B].</p>
+      <p id="WEYREG0025">Consimiliter semibrevis sive prolatio, quod idem est, imperficitur a tertia parte ejus propinqua, scilicet a minima sequente vel precedente, ut hic: [S,M,M,S].</p>
+      <p id="WEYREG0026">Nota generalem regulam ad imperfectionem cognoscendam, que talis est quod quelibet nota perfecta potest imperfici a partibus propinquis, et a partibus remotis, et a partibus remotioribus. Secundum quod ille partes remote fuerint divisibiles in tres partes, tunc talis nota potest imperfici a qualibet tertia parte; ut si maxima sit perfecta et quod longe sint de modo perfecto, perfecti temporis et perfecte prolationis, tunc talis maxima potest imperfici ab una longa et a tertia parte cujuslibet longe, et a tertia parte cujuslibet semibrevis, et a tertia parte prolationis scilicet cujuslibet semibrevis, et ulterius non potest imperfici, quia est totaliter imperfecta, nam imperfecto non est danda imperfectio: [MX,L,L,B,B,S,S,M].</p>
+      <p id="WEYREG0027">Alteratio est valoris note duplicatio ante proximam majorem se. Nam proxima major minime est semibrevis, proxima major semibrevis est brevis, proxima brevis est longa, proxima longe est maxima, quare talis est regula, quod quando reperiuntur due, vel quinque, vel octo, vel undecim semibreves, vel minimas, vel breves, vel longas inter puncta, vel inter perfectionem proximam majorem se ultima alteratur, nisi per punctum impediatur, ut hic:</p>
+      <p id="WEYREG0028">[CSIII:263] 
+      <figure>
+        <graphic url="/images/WEYREG_01GF.gif" />
+      </figure></p>
+      <p id="WEYREG0029">
+      <pb n="[264]" />Semper primum signum per contrarium figurat brevem. Secundum figurat longam. Tertium figurat maximam, et plenitudo figurat semibrevem esse de majori prolatione, et vacuitas figurat semibrevem esse de prolatione minori:</p>
+      <p id="WEYREG0030">[O,Od,C,Cd]</p>
+      <p id="WEYREG0031">Tonus est duarum vocum copulatio intervalli duorum semitonium, scilicet majoris et minoris.</p>
+      <p id="WEYREG0032">Semitonium minus est duarum vocum copulatio minoris intervalli semitonio majori, scilicet chomate uno. Semitonium majus est duarum vocum copulatio majoris intervalli semitonio minore uno chomate.</p>
+      <p id="WEYREG0033">Semitonium est duarum vocum copulatio aut majoris intervalli dimidio toni, aut minoris, et ideo est duplex, ut dictum est.</p>
+    </body>
+  </text>
+</TEI>

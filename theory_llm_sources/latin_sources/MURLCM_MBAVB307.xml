@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Libellus cantus mensurabilis [fragmentum]</title>
+        <title type="abbrev">MURLCM_MBAVB307</title>
+        <author>Johannes de Muris</author>
+        <date notBefore="1300" notAfter="1399">14th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>T</resp>
+        <persName>Oliver B. Ellsworth</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Andreas Giger</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1999</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Vatican City, Biblioteca Apostolica Vaticana, MS Barb. lat. 307, f. 31v.
+</bibl>
+        <bibl type="work">
+          
+<title>Iohannes de Muris: Ars practica mensurabilis cantus (= Libellus cantus mensurabilis)</title>
+          
+<idno type="LML">IOH. MUR. Lib.</idno>
+        
+</bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="MURLCM_MBAVB3070001">
+      <pb n="[f.31v]" />Sancti spiritus assit nobis gratia.</p>
+      <p id="MURLCM_MBAVB3070002">INCipit ars magistri Iohannis de Muris de Francia scripta per venerabilem virum et religiosum fratrem Theodonum de sancta Agatha priorem Capuanum ordinis sacri monasterij Montis Virginis. Sub Anno domini 1432. vltimo mensis marcij decime Indiccionis. In primis videlicet</p>
+      <p id="MURLCM_MBAVB3070003">MVsica est arcium domina. continens omnium methedorum principia In primo gradu certitudinis confirmata. Et in rerum natura omnimode mirabiliter proporcionata</p>
+      <p id="MURLCM_MBAVB3070004">Delectabilis intellectui</p>
+      <p id="MURLCM_MBAVB3070005">Amabilis auditui</p>
+      <p id="MURLCM_MBAVB3070006">Tristes letificans</p>
+      <p id="MURLCM_MBAVB3070007">Anxios amplificans</p>
+      <p id="MURLCM_MBAVB3070008">Confundens inuidos</p>
+      <p id="MURLCM_MBAVB3070009">Confortans languidos</p>
+      <p id="MURLCM_MBAVB3070010">Insopiens vigilantes</p>
+      <p id="MURLCM_MBAVB3070011">Euigilans dormientes</p>
+      <p id="MURLCM_MBAVB3070012">Nutriens amorem</p>
+      <p id="MURLCM_MBAVB3070013">Honorans possessorem</p>
+      <p id="MURLCM_MBAVB3070014">Si finem debitum fuit ad secuta. Ad dei laudem finaliter est inuenta</p>
+      <p id="MURLCM_MBAVB3070015">QVilibet in arte praticha et mensurabilis cantus debet esse eruditus. Et affectans erudiri ascribat diligenter que secuntur. sumarie compilata secundum supradictum magistrum Iohannem de Muris. videlicet.</p>
+      <p id="MURLCM_MBAVB3070016">QVinque sunt partes prolacionis scilicet Maxima. longa. breuis. semibreuis. et minima. vt hic [MX,L,B,S,M]</p>
+      <p id="MURLCM_MBAVB3070017">Et est sciendum quod maxima perfecta valet tres longas siue sit de modo perfecto siue inperfecto. Si longa est de modo perfecto Maxima perfecta [[......]] valet nouem tempora</p>
+      <p id="MURLCM_MBAVB3070018">Si inperfecta sex tempora valet vt hic [M,L,L,L,M,B,B,B,B,B,B,B,B,B,M,B,B,B,B,B,B,M]</p>
+      <p id="MURLCM_MBAVB3070019">Dictum est de maxima perfecta. Dicendum est de maxima inperfecta. videlicet.</p>
+      <p id="MURLCM_MBAVB3070020">Maxima inperfecta valet duas longas siue sit de modo perfecto siue inperfecto.</p>
+      <p id="MURLCM_MBAVB3070021">Si de modo perfecto valet sex tempora.</p>
+      <p id="MURLCM_MBAVB3070022">Si de modo inperfecto quatuor tempora valet. vt hic. [M,L,L,M,B,B,B,B,B,B,M,B,B,B,B,M]</p>
+      <p id="MURLCM_MBAVB3070023">De maxima quomodo potest esse perfecta et inperfecta a longis existentibus perfectis et inperfectis. videlicet.</p>
+      <p id="MURLCM_MBAVB3070024">Ex hijs infertur quod maxima potest esse perfecta longis existentibus inperfectis. et e conuerso.</p>
+      <p id="MURLCM_MBAVB3070025">Maxima potest esse inperfecta. longis existentibus perfectis.</p>
+      <p id="MURLCM_MBAVB3070026">Dictum est de maxima perfecta et inperfecta. et quomodo potest perfecta et inperfecta cum longis existentibus perfectis et inperfectis Amodo videndum est de longis perfectis et de modo perfecto</p>
+      <p id="MURLCM_MBAVB3070027">LOnga in modo perfecto valet tres breues siue sit de tempore perfecto siue inperfecto</p>
+      <p id="MURLCM_MBAVB3070028">In modo inperfecto valet duas vt hic. [L,B,B,B,L,B,B,L]</p>
+      <p id="MURLCM_MBAVB3070029">Dictum est de longa perfecta et inperfecta. Dicendum est de breuis perfecta et inperfecta. videlicet</p>
+      <p id="MURLCM_MBAVB3070030">BReuis in tempore perfecto. valet tres semibreues</p>
+      <p id="MURLCM_MBAVB3070031">In tempore inperfecto valet duas vt hic [B,S,S,S,pt,B,S,S,B]</p>
+      <p id="MURLCM_MBAVB3070032">Dictum est de breuis perfecta et inperfecta. Dicendum est de semibreuis perfecta et inperfecta seu maior et minor.</p>
+      <p id="MURLCM_MBAVB3070033">SEmibreuis in maiori prolacione. valet tres minimas.</p>
+      <p id="MURLCM_MBAVB3070034">In minori prolacione valet duas. vt hic [pt,S,M,M,M,pt,S,M,M,S] et cetera</p>
+      <p id="MURLCM_MBAVB3070035">Incipit Capitulum de modo tempore et prolacione scilicet</p>
+      <p id="MURLCM_MBAVB3070036">NOta quod duplex est modus scilicet perfectus et inperfectus.</p>
+      <p id="MURLCM_MBAVB3070037">Quando longa valet tres breues. et tunc modus est perfectus.</p>
+      <p id="MURLCM_MBAVB3070038">Quando vero longa valet duas breues. modus est inperfectus.</p>
+      <p id="MURLCM_MBAVB3070039">De tempore perfecto et inperfecto</p>
+      <p id="MURLCM_MBAVB3070040">Item duplex est tempus scilicet perfectum et inperfectum.</p>
+      <p id="MURLCM_MBAVB3070041">Perfectum dicitur quando breuis valet tres semibreues.</p>
+      <p id="MURLCM_MBAVB3070042">Inperfectum vero dicitur quando valet duas.</p>
+      <p id="MURLCM_MBAVB3070043">De prolacione maiori</p>
+      <p id="MURLCM_MBAVB3070044">Item duplex est prolacio scilicet perfecta et inperfecta et minori.</p>
+      <p id="MURLCM_MBAVB3070045">Perfecta est que vocatur maior</p>
+      <p id="MURLCM_MBAVB3070046">Inperfecta vero que vocatur minor</p>
+      <p id="MURLCM_MBAVB3070047">Perfecta siue maior prolacio est quando semibreuis valet tres minimas</p>
+      <p id="MURLCM_MBAVB3070048">Inperfecta siue minor [quando [semi add. sub lin.] brevis valet duas minimas. m.rec. subter in marg.]</p>
+    </body>
+  </text>
+</TEI>

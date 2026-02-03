@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Compendium artis mensurabilis tam veteris quam novae</title>
+        <title type="abbrev">ANO4COM</title>
+        <author>Anonymous IV</author>
+        <date notBefore="1400" notAfter="1499">15th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Luminita Florea Aluas</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Anne Stone</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1991</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>Scriptorum de musica medii aevi nova series a Gerbertina altera</emph>, 4 vols., ed. Edmond de Coussemaker (Paris: Durand, 1864-76; reprint ed., Hildesheim: Olms, 1963), 3:376–79.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: "Si quis artem musice mensurabilis tam veterem quam novam"</title>
+          
+<idno type="LML">ANON. Paris. II</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 15128, 129-131v</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANO4COM0001">
+      <pb n="[376]" />Anonymi IV</p>
+      <p id="ANO4COM0002">Compendium artis mensurabilis tam veteris quam novae</p>
+      <p id="ANO4COM0003">Si quis artem musice mensurabilis tam veterem quam novam sub compendio exemplo prospicere desideret, in hujus puncti sedulo dicta tam veterum quam modernorum, primo sciendum est quod sex sunt modi quorum primus ex longa et brevi; secundus ex brevi et longa; tertius ex longa et duabus brevibus; quartus ex duabus brevibus et longa; quintus ex omnibus longis; sextus ex omnibus brevibus et semibrevibus, ut patebit.</p>
+      <p id="ANO4COM0004">Primus sic incipit:</p>
+      <p id="ANO4COM0005">[L,B,L,B,Lig2od,L,B,Lig3dd,B,L,B,L,B on staff4]</p>
+      <p id="ANO4COM0006">Secundus sic incipit:</p>
+      <p id="ANO4COM0007">[B,L,Lig2cdsnd,Lig2art,Lig2cdsnd,Lig2acddx,B,L,B,L,Lig2cdsnd,B,L on staff4]</p>
+      <p id="ANO4COM0008">Tertius modus sic incipit:</p>
+      <p id="ANO4COM0009">[L,B,B,L,Lig3ad,L,B,B,L,Lig4dodacddx,L on staff4]</p>
+      <p id="ANO4COM0010">Quartus modus sic incipit:</p>
+      <p id="ANO4COM0011">[B,B,L,Lig3ad,B,B,L,B,B,L,B,B,L,B,B,L on staff4]</p>
+      <p id="ANO4COM0012">Quintus modus sic incipit:</p>
+      <p id="ANO4COM0013">[L,L,L,L,L,L,L,L,L,L,L,L,L,L on staff4]</p>
+      <p id="ANO4COM0014">Sextus modus sic incipit:</p>
+      <p id="ANO4COM0015">[B,B,Lig7acdsnodaaaod,S,S,S,S,S,S,S,S,S,S,S,S on staff4]</p>
+      <p id="ANO4COM0016">Duplex longa valet sex tempora in modo perfecto. In imperfecto valet quatuor.</p>
+      <p id="ANO4COM0017">Sed imperfecto modo duobus modis imperficitur; vel cum sola brevi et sic valet quinque tempora, vel cum duabus brevibus, et sic valet quatuor.</p>
+      <p id="ANO4COM0018">Corpus ultra modum consuetum valet tot longas quot caudas sive breves in se continet diversas, ut hic:</p>
+      <p id="ANO4COM0019">[MX; MX; Lig2cdsndMX; Lig3cdsndMXa; MX,Lig2MXdMX; MXcdcdcscddx; MXcdcdcscscddx; MXcdcdcdcdcdcddx on staff4]</p>
+      <p id="ANO4COM0020">Simplex longa habet caudam a dextro latere et corpus quadratum. Que vero a sinistro habet caudam, illa dicitur brevis et debet cani cum plica; que vero habet duas caudas cantatur cum plica. Unde si sinistra sit longior, brevis est; si vero dextra sit longior, longa dicitur, ut hic:</p>
+      <p id="ANO4COM0021">
+      <pb n="[377]" />[L,L,L; Bcsdx,Bcsdx,Bcsdx,Bpssncsdx,Bpssncsdx,Bpssncsdx,Bcdsnpddx,Bcdsnpddx,Bcdsnpddx,Bpdsncddx,Bpdsncddx,Bpdsncddx on staff4]</p>
+      <p id="ANO4COM0022">Longa fit trium temporum tribus modis:</p>
+      <p id="ANO4COM0023">Primo si longa longam sequatur, tunc valet semper tria tempora, quicquam precedit, si sit in numero perfecto.</p>
+      <p id="ANO4COM0024">Secundo si punctus perfectionis sequatur, tunc etiam quicquam precedat vel sequatur sive sit in modo perfecto sive in modo imperfecto semper valet tria tempora.</p>
+      <p id="ANO4COM0025">Tertio si due breves sequantur, nulla brevi precedente.</p>
+      <p id="ANO4COM0026">Quarto si tres breves sequantur, nulla breve precedente, ut patet in hoc exemplo:</p>
+      <p id="ANO4COM0027">[L,L; B,L,pt,L,B; L,Lig2a,L; L,Lig2a,B,L,Lig3aod,L,Lig3aod,L on staff4]</p>
+      <p id="ANO4COM0028">Tot modis cognoscitur longa esse duorum temporum:</p>
+      <p id="ANO4COM0029">Primo, si longam sola brevis sequatur.</p>
+      <p id="ANO4COM0030">Secundo, si sola brevis precedat.</p>
+      <p id="ANO4COM0031">Tertio, si due vel tres breves vel plures ponantur post longam ita quod punctus divisionis ponatur post primam brevem, ita quod prima brevis ordinetur cum prima longa.</p>
+      <p id="ANO4COM0032">Quarto et ultimo, si plures breves quam tres sequantur. Si tamen non sequantur quinque vel sex, quia tunc longa precedens erit trium temporum, nisi sola brevis precedat et quinta erit altera, id est, duorum temporum, ut patet hic:</p>
+      <p id="ANO4COM0033">[L,B,Lig2od; Lig2cdsnd,Lig2art,B,L,B,L; L,B,pt,B,Bcsdx,L,B,pt,Lig2a,L; L,B,Lig5cdsndddd; L,B,pt,Lig2d,L; L,B,Lig2d,B,B,B,B,L,Lig3ad on staff4]</p>
+      <p id="ANO4COM0034">Brevis est duplex scilicet recta et altera; quoniam quocienscumque due breves ponuntur inter duas longas vel inter longam et pausam, vel quando equipollens brevi et brevis ponuntur inter duas longas, vel quando inter longam et punctum ponuntur due breves, vel e converso, secunda illarum brevium vocatur altera, et valet duo tempora, ut hic patet in exemplo:</p>
+      <p id="ANO4COM0035">[L,Lig3ad; Lig2a,L,B,B,L,Lig2a; L,S,S,S,B,L,Lig4adod,L on staff4]</p>
+      <p id="ANO4COM0036">Quando secunda alicujus ligatura ascendit sine tractu, prima brevis.</p>
+      <p id="ANO4COM0037">Si habeat tractum descendentem, longa fit.</p>
+      <p id="ANO4COM0038">Si vero secunda descendat, prima est longa.</p>
+      <p id="ANO4COM0039">Si signum ponatur descendens, brevis fit.</p>
+      <p id="ANO4COM0040">Si autem signum ponitur ascendens, sive secunda illius ligature ascendat, sive descendat, prime due non valent nisi unum tempus, quia quelibet est semibrevis, ut patet in hoc exemplo:</p>
+      <p id="ANO4COM0041">[Lig3aa,Lig3Laa,Lig3dd,Lig3cdsndd,Lig8cssnddddddod,Lig5cssnaaaa,Lig3cssndd,Lig4cssnaaa,Lig2art,Lig2art,Lig2art,Lig2art on staff4]</p>
+      <p id="ANO4COM0042">Omnes medie sunt breves, nisi tantum due vel quinque essent, quia tunc secunda vel quinta alteratur.</p>
+      <p id="ANO4COM0043">Omnis finalis ascendens est brevis, nisi habeat caudam, vel nisi ponatur ordine prepostero, id est, situatur adverso capite, quia tunc fit longa.</p>
+      <p id="ANO4COM0044">Omnis finalis descendens est longa; nisi sit configurata quia tunc est brevis, ut patet hic:</p>
+      <p id="ANO4COM0045">[Lig6cdsnddddd,Lig4Laaacddx,Lig6cdsnddddod,Lig4cssnaaa,Lig3aa,Lig4cdsnddd,Li3cdsndd,Lig5cdsndddod,Lig4cdsnddod on staff4]</p>
+      <p id="ANO4COM0046">Pausa valet tot tempora quot continet spatia. Pausa que continet dimidium spatium cum sola linea, valet unam semibrevem.</p>
+      <p id="ANO4COM0047">Longa in modo perfecto fit trium temporum ante pausam duorum temporum, ut patet in hoc exemplo:</p>
+      <p id="ANO4COM0048">[MP,MP,SP,SP,BP,BP,BP,LP,LP,MXP,MXP on staff4]</p>
+      <p id="ANO4COM0049">
+        <pb n="[378]" />
+      </p>
+      <p id="ANO4COM0050">[MP,MP,SP,SP,BP,BP,LP,LP,MXP,MXP,LP,LP,BP,BP,SP,SP,MP,MP on staff4]</p>
+      <p id="ANO4COM0051">Sicut se habet brevis ad longam, sic semibrevis ad brevem, et minima ad semibrevem. Sicut secunda duarum brevium in modo perfecto inter duas longas positarum alteratur, sic secunda duarum semibrevium inter duas breves pro tempore perfecto majoratur, ita quod valet duas semibreves, si non ponatur pro secunda brevi equipollens.</p>
+      <p id="ANO4COM0052">Prima brevis imperficiet primam longam; equipollens vero secundam, nisi alia longa secunda sequatur.</p>
+      <p id="ANO4COM0053">Et sic est de semibrevibus, quia si pro secunda semibrevi ponantur minime vel equipollens, prima brevis imperficiet primam brevem, equipollens vero secundam; nisi autem brevis sequatur. Quia sicut longa ante longam est trium temporum, sic brevis ante brevem est trium semibrevium, ut patet in hoc exemplo:</p>
+      <p id="ANO4COM0054">[L,B,B,S,S,M; L,Lig2a,L; O,B,S,S,B,L,B; L,B,S,M,M,M,B,S; B,S; S,B,B,L,MX on staff4]</p>
+      <p id="ANO4COM0055">Sicut longa imperficitur a brevi, sic brevis a semibrevi, et semibrevis a minima. Brevis perfecta dividitur in tres semibreves, et quelibet semibrevis in tres minimas. Et sic tempus perfectum continet novem minimas, tempus autem imperfectum dividitur in duas semibreves, et quelibet semibrevis in tres minimas; et sic tempus imperfectum continet sex minimas, ut hic:</p>
+      <p id="ANO4COM0056">[L,B,B,S,S,M,O,B,S,S,S,pt,M,M,M,M,M,M,M,M,M; CL,B,M,S,M,M,M,M,M,M on staff4]</p>
+      <p id="ANO4COM0057">In nova arte non ponuntur aliqua puncta inter semibreves nisi causa alterationis.</p>
+      <p id="ANO4COM0058">In vetere autem arte omnes semibreves que ponuntur inter duas quadratas, vel inter punctum et quadratam, vel inter duo puncta, ponuntur pro uno tempore, ut hic:</p>
+      <p id="ANO4COM0059">[S,S,S,S,pt,S,S,B,pt,B,S,S,S,B,S,Spt,S,S,S,pt,S,S,S,L,S,S,L on staff4]</p>
+      <p id="ANO4COM0060">Si post tales semibreves vel breves, ponatur brevis vel semibrevis quam velimus alterare, oportet quod punctus ponatur ante ultimas semibreves que equipollent brevi, sive breves que equipollent perfectioni; quidam punctus ponitur causa divisionis et aliter ponitur causa alterationis; et sic duos punctos necesse est ponere ibidem, ut hic:</p>
+      <p id="ANO4COM0061">[S,M,S,S,pt,S,M,S,S,L,B,Lig3ad,B,L on staff4]</p>
+      <p id="ANO4COM0062">Sicut duplex longa imperficitur per solam brevem, sic simplex longa per solam semibrevem. Et brevis imperfecta per solam minimam. Sicut duplex longa imperficitur a duabus brevibus, sic simplex longa duorum temporum perfectorum a duabus semibrevibus ita quod non valet nisi quatuor semibreves que post valebat sex. Sic brevis imperfecta a duabus minimis ita quod non valet, nisi quatuor minimas, ut hic patet:</p>
+      <p id="ANO4COM0063">[Lig2cdsndMX,Lig2MXcddxa,L,S,O,B,M,pt,M,B,Lig3cdsndMXa,S,L,S,pt,M,B,M on staff4]</p>
+      <p id="ANO4COM0064">Si due semibreves ponantur pro tempore perfecto, secunda debet dici major et valet duas semibreves, nisi prima signetur. Si tres, omnes sunt equales. Si quatuor, prima major secunda minima. Et alie semibreves; si quinque, prima et tertia minores; secunda et quarta minime; quinta semibrevis. Si sex, pares minime; impares minores. Si septem, quarta et sexta minores, relique minime. Si octo, septima minor, relique 
+      <pb n="[379]" />minime. Si novem, omnes sunt minime, ut hic apparet:</p>
+      <p id="ANO4COM0065">[S,S,pt,Scd,S,pt,S,S,pt,S,pt,S,M,S,S,pt,S,M,S,M,S,pt,S,M,M,M,M,M,M,S,M,S,M,S,M,SP,M,M,M,M,M,M,S,S,M,M,M,M,M,M,M,M,M,M on staff4]</p>
+      <p id="ANO4COM0066">Si pro tempore imperfecto ponantur due, equales sunt. Si tres, prima semibrevis, secunda minor, tertia minima. Si quatuor, pares minores, impares minime. Si quinque, quarta minor, relique minime. Si sex, omnes sunt minime.</p>
+      <p id="ANO4COM0067">Pro tempore perfecto denotando, ponitur circulus rotundus, vel tres tractuli; pro imperfecto vero ponuntur semicirculi vel duo tractuli, ut hic patet:</p>
+      <p id="ANO4COM0068">[R3rvd,O,R2rvd,C,S,S,pt,S,S,M,MP,S,M,S,M,pt,M,M,M,S,M,pt,M,M,M,M,M,M,pt,Lig2cssnd,pt,Lig2cssnoa,pt,Lig2cssnod,pt,S,S,pt,S,S,M,pt,S,M,S,M on staff4]</p>
+      <p id="ANO4COM0069">Modus perfectus vocatur quando tria tempora capiuntur pro qualibet perfectione et tunc secunda duarum brevium alteratur et pause trium temporum fiunt in uno corpore. Et longa ante longam valet semper tria tempora.</p>
+      <p id="ANO4COM0070">Modus imperfectus est quando duo tempora ponuntur pro una perfectione, in quo nulla brevis alteratur nec ulla longa fit trium temporum nisi major pausa duobus temporibus fiat in uno corpore, vel nisi punctus post penatur. Duplex longa valet quatuor tempora in imperfecto modo.</p>
+      <p id="ANO4COM0071">Unde quotienscumque due pause reperiuntur immedtate quarum quelibet non est nisi duorum temporum, modus est imperfectus; si trium in uno corpore, modus est perfectus.</p>
+      <p id="ANO4COM0072">Rubee ponuntur duabus de causis, vel quia cantantur de alio modo vel tempore quam nigre, vel quia dicantur in octava, ut hic patet:</p>
+      <p id="ANO4COM0073">[B,Lig2a,L,B,B,L,LP,LP,LP,B,B,L; Lig3aod,L; MX,L,L,Bv,Bv,Sv,L,LP,LP,L,L,L; Lv,Lv,Lv,LP,L,B,L,L,LP,LP,Bv,Bv,Sv,Lig3aod on staff4]</p>
+      <p id="ANO4COM0074">Explicit ars cantus.</p>
+    </body>
+  </text>
+</TEI>

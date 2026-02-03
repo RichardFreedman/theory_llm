@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>[Tractatus de organo]</title>
+        <title type="abbrev">ANOMONT</title>
+        <author>Anonymous</author>
+        <date notBefore="1100" notAfter="1199">12th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Angela Mariani</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Peter Slemon</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1994</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Hans Heinrich Eggebrecht and Frieder Zaminer, eds., 
+<emph>Ad organum faciendum. Lehrschriften der Mehrstimmigkeit in nachguidonischer Zeit</emph>, Neue Studien zur Musikwissenschaft, vol. 3 (Mainz: B. Schotts Söhne, 1970), 187–88.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: Tractatus de organo cod. Montepessulani</title>
+          
+<idno type="LML">ORG. Montep.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">F-MOf H 384, 122-123</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANOMONT0001">
+      <pb n="[187]" />Diaphonia duplex cantus est. cuius talis est diffinitio. Organum est uox sequens precedentem [f. 122r in marg.] sub celeritate diatessaron uel diapente. Quarum scilicet precedentis et sequentis uocis fit copula aliqua decenti consonantia. Si quis ergo organum componere desiderat. duas ultimas uoces clausule prius eligat. et eas competenter cum cantu iungat. ut ex alia parte cum cantu ueniant. Postea primam uocem organi id est inceptionem ponat cum cantu uel inferius in diapason uel superius. uel in eadem uel in quinta / [f. 122v in marg.] uel in quarta. aliquando et in tertia uel sexta. In secunda autem uel septima uoce a cantu nunquam erit organum, quia male sonat. Medias autem uoces. inter primam et ultimas duas preelectas. ponat in quinta uel quarta uel tertia uel sexta. sed frequentius in quarta uel in quinta. quia pulcrius sonat. Aliquando pro .D.E.F. que sunt finales. accipimus .a.[sqb].c. causa necessitatis. quia .D. ditonum non habet descendendo. quem habet sua a[f]finis .a. Finalis uox sic notet principium. quasi aliquis colorum esset ductus a finali usque ad principium. In quacumque uoce cantus incipiat. organizator sit in eadem superius uel inferius. uel in quinta uel in quarta. aliquando in tertia uel sexta. His modis organizator cantum sequatur. donec cum illo iungatur. Sed quando uoluerit cum cantu copulare poterit. sed clausulam ultra octo uoces ire non licet. In ultimis autem duabus uocibus naturam non consideret. sed ut aptius poterit cum cantu copulet. Si due tantum sint uoces in clausula. non nisi copulatio est ibi. vt AMEN [C D supra lin.]. AMEN [E D supra lin.]. Si tres uoces. inceptio et copulatio. vt A [DC supra lin.] MEN [D supra lin.]. A [GF supra lin.] MEN [D supra lin.]. Si quatuor. est ibi inceptio et una uox organalis et clausula. vt A [DAC supra lin.] MEN [D supra lin.]. A [DFE supra lin.] MEN [D supra lin.]. Si quinque. est ibi inceptio et due uoces organales et clausula. vt A [DED supra lin.] MEN [CD supra lin.]. A [a[sqb]G supra lin.] MEN [FD supra lin.]. Si sex. est ibi principium et tres organales et copula. vt A [DFED supra lin.] MEN [CD supra lin.]. A [dcaG supra lin.] MEN [ED supra lin.]. 
+      <pb n="[188]" />Si septem. est ibi principium et quatuor organales et due. que copulantur. vt A [DGFED supra lin.] MEN [A[Gamma] supra lin.]. A [d[sqb]aGa supra lin.] MEN [/FG supra lin.]. Si vero sint octo. est inceptio. que semper est cum cantu. uel in quarta uel in quinta. aliquando et sexta uel tertia. ut superius dictum est. et sunt quinque organales. que semper sunt in quinta uel quarta uel tertia uel sexta. et due ultime. quarum penultima respicit cantum. ut ultima conuenienter cum cantu iungatur. Nam considerandum est. ne taliter organales uoces a cantu / [f. 123r in marg.] sequestrentur. ut ad cantum copula reuerti nequeat. Et sic debet ordine fieri. quod nec nimis spissim nec nimis raro copulationes faciamus. Sed examussim ac temperate omnia coniungamus. Vltimum exemplum. vt A [DFEDCA supra lin.] MEN [/CD supra lin.]. A [dcGaFE supra lin.] MEN [FD supra lin.].</p>
+    </body>
+  </text>
+</TEI>

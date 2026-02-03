@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Notitia artis musicae</title>
+        <title type="abbrev">MURNOT</title>
+        <author>Johannes de Muris</author>
+        <date notBefore="1300" notAfter="1399">14th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Stephen E. Hayes</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Peter M. Lefferts</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Luminita Florea Aluas</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1992</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>Johannis de Muris Notitia artis musicae et Compendium musicae practicae</emph>; 
+<emph>Petrus de Sancto Dionysio Tractatus de musica</emph>, ed. Ulrich Michels, Corpus scriptorum de musica, vol. 17 ([Rome]: American Institute of Musicology, 1972), 47–107. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Iohannes de Muris: Notitia artis musicae</title>
+          
+<idno type="LML">IOH. MUR. not.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">A-SP Cod. 264/4 (27.2.25), 49v-56, 63v-66</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Gu 70 (71), 48ra-49vb (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 7378 A, 59va-61ra</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 14741, VIr-v, VIII (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-TOm Ms. lat. 820, ?-25</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ctc R.14.26, 107-118v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ob Bodley 77, 100-103v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ob Bodley 300, 115ra-118va</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Ma H. 165 inf., 1r-v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat Reg. lat. 1571, 1 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Sc L.V.30, 129v-135v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">US-Cn Case Ms. 54.1, 1-6v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">US-Wc ML 171 J 6 Case, 102v-109 (Extraits)</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="MURNOT0001">
+      <pb n="[47]" />Notitia artis musicae</p>
+      <p id="MURNOT0002">Prologus</p>
+      <p id="MURNOT0003">Princeps philosophorum Aristoteles ait in prooemio Metaphysicae suae: Omnino scientis signum est posse docere. In qualibet autem arte theorici docere possunt, practici vero non. Experti enim ipsum quia sciunt, sed propter quid nesciunt. Non autem scientia faciunt, quae faciunt ut ignis 
+      <pb n="[48]" />exurit. Sed intellegere et scire circa unamquamque artem magis arte quam experimento esse arbitramur. Ideoque artifices expertis sapientiores esse opinamur. Et ob hoc artem magis experimento scientiam esse existimamus. Possunt enim hii, hii autem docere non possunt.</p>
+      <p id="MURNOT0004">Quoniam tamen ars est universalium, experimentum vero singularium, universalia praesupponunt singularia, igitur ars experientiam praesupponit. Experientia quidem fecit artem et expertos magis proficere videmus rationem sine experientia habentibus. Igitur necessarium est in unaquaque arte habere primo theoricam, practicam convenienter, ut illud, quod scitum est in universali, ad singulare valeat applicari. Sed cum omnis ars ex experimentis dependeat, oportet unumquemque artificem primo circa artis experientiam laborare.</p>
+      <p id="MURNOT0005">Nos autem propter bonum commune et ratione veritatis, quae diu latuit, ostendendae circa artem musicae proponimus vigilare, intendentes circa eam duo breviter enodare: primo theoricam, secundo practicam, cui non est inconveniens, quodammodo quamdam theoricam implicari.</p>
+      <p id="MURNOT0006">
+      <pb n="[49]" />Primus liber: Musica theorica</p>
+      <p id="MURNOT0007">Capitulum I</p>
+      <p id="MURNOT0008">De soni generatione</p>
+      <p id="MURNOT0009">Quoniam musica est de sono relato ad numeros aut econtra, necessarium est musicis, utrumque numerum scilicet et sonum considerare. Antequam enim aliquid numeretur, oportet ipsum esse. Ideo sonum prius generari quam numerari necesse est. Ad generationem soni tria necessario 
+      <pb n="[50]" />requiruntur: percutiens, percussum et medium percutiendi. Primum frangens aerem celeriter, secundum corpus sonabile naturaliter, tertium aer fractus violenter. Ictus non fit sine motu, ergo neque sonus absque motu est. Est igitur sonus fractio aeris ex impulsu percutientis ad percussum. Nam impossible est, cum sit unum solum, fieri sonum.</p>
+      <p id="MURNOT0010">Sonorum alius gravis alius acutus. Gravis est qui ex tardioribus et rarioribus motibus generatur, acutus vero qui ex velocioribus et spissioribus aggregatur. Licet in utroque sint plures motus discreti plures sonos numero facientes, ut patet in chordis nervorum impulsis, tamen sine interruptione sensibili audiuntur quasi unus sonus continuus propter velocitatem motuum annexorum, velut color existens in superficie summitatis trochi moti videtur esse linea circularis, licet non fuerit nisi punctus.</p>
+      <p id="MURNOT0011">Acutus vero sonus fit ex gravi per additionem motuum, ex acuto quoque gravis per subtractionem. In acutis igitur sonis plures sunt motus, in gravibus pauciores.</p>
+      <p id="MURNOT0012">
+      <pb n="[51]" />Omnis autem paucitas ad pluralitatem sub quodam numero refertur. Ergo sonum gravem ad acutum comparando necessarium est referri, sicut numerus motuum unius ad numerum motuum alterius proportionaliter comparatur.</p>
+      <p id="MURNOT0013">
+      <pb n="[52]" />Capitulum II</p>
+      <p id="MURNOT0014">De numerorum proportione</p>
+      <p id="MURNOT0015">Cum ostensum sit, musicam constare ex sonis, qui proportionales sunt ad invicem quodammodo secundum numeros motuum in eis repertos, non est inutile percurrere proportiones generaliter numerorum.</p>
+      <p id="MURNOT0016">Omnis autem numerus ad alterum comparatus aut est ei aequalis aut inaequalis, nam haec competunt cuilibet quantitati. Si aequalis, idem sunt et unum in quantitate. Ideo non variantur nec ex sonis aequalibus fit consonantia. Si inaequalis, aut maior aut minor. Dicitur autem maius alterum altero quinque modis ut multiplex, superparticularis, superpartiens, multiplex superparticularis, multiplex superpartiens. Appositaque dictione sub dicitur totidem modis minus.</p>
+      <p id="MURNOT0017">
+      <pb n="[53]" />Multiplex est, quando maior numerus habet in se totum minorem bis vel ter vel quater, cuius species sunt proportio dupla, tripla et sic in infinitum.</p>
+      <p id="MURNOT0018">Superparticularis est, quando maior numerus continet minorem et aliquam eius partem, cuius species sunt sesquialtera, sesquitertia et sic deinceps.</p>
+      <p id="MURNOT0019">Superpartiens est, quando maior numerus continet minorem et eius aliquas partes, cuius species sunt superbipartiens, supertripartiens et sic semper.</p>
+      <p id="MURNOT0020">Multiplex superparticularis est, quando maior numerus habet minorem bis vel ter et aliquam eius partem, cuius species sunt duplexsesquialtera, duplexsesquitertia, triplexsesquialtera et sic ex parte utriusque in infinitum.</p>
+      <p id="MURNOT0021">
+      <pb n="[54]" />Multiplex superpartiens est, quando maior numerus habet minorem bis vel ter et aliquas eius partes, cuius species sunt duplexsuperbipartiens, duplexsupertripartiens et sic addendo quamlibet speciem multiplicis cuilibet superpartientis.</p>
+      <p id="MURNOT0022">Exempla cuiuslibet speciei sic in numeris ordinantur:</p>
+      <p id="MURNOT0023">[CSM17:54; text: 1. multiplex, tripla, 36, 72, 108, 144, dupla, 24, 48, 72, 96; 2. superparticularis, sesquitertia, 16, 32, 48, 64, sesquialtera, 18, 36, 54, 72; 3. superpartiens, supertripartiens, 21, 42, 63, 84, superbipartiens, 20, 40, 60, 80; 4. multiplex, superparticularis, duplasesquialtera, 30, 60, 90, 120, triplasesquitertia, 40, 80, 120, 160; 5. multiplex, superpartiens, duplasuperbipartiens, 32, 64, 96, 128, triplasupertripartiens, 45, 90, 135, 180; fundamentum relationis, 12, 24, 36, 48] 
+      <figure>
+        <graphic url="/images/MURNOT_01GF.gif" />
+      </figure></p>
+      <p id="MURNOT0024">
+      <pb n="[56]" />Capitulum III</p>
+      <p id="MURNOT0025">De musicae inventione</p>
+      <p id="MURNOT0026">Pythagoras nolens aurium iudicio de consonantiis adhaerere, quoniam sensum quemlibet circa id, quod suum non est, decipi non est mirum--iudicat enim auris sonum, proportionem minime comprehendit--, in anxietate diu manens, qualiter scientiam de consonantiis rationabiliter inveniret, quadam vice praeteriens officinas fabrorum malleos audivit quamdam consonantiam mirabilem emittentes. Et statim quasi attonitus ad eos conversus est dubitansque, ne ex viribus hominum melodia proveniret, iussit permixtim malleos transmutari, et idem ut prius sentiens animadvertit concinentiam in malleorum natura sic disposita contineri.</p>
+      <p id="MURNOT0027">Numerus malleorum erat quinque, sed quintus eiectus est, quoniam 
+      <pb n="[57]" />dissonabat. Quatuor igitur remanserunt, quorum pondera in proportione dupla, sesquialtera, sesquitertia, sesquioctava experimento sensibili reperta sunt. Quam proportionem in instrumentis nervorum, foraminum, ventorum, aquarum numquam instantiam repertiens expertus est. Ex quibus experimentis ad memoriam concurrentibus accepit unum universale, quod sibi fuit principium artis et scientiae.</p>
+      <p id="MURNOT0028">Et ut clarius appareat, quod dictum est, proportio malleorum in numeris, quibus primo proportio competit, ostendatur.</p>
+      <p id="MURNOT0029">Sint igitur pondera malleorum 12, 9, 8, 6. Igitur 6 ad 12 comparata dupla proportione diapason repraesentat; 12 vero ad 9 et 8 ad 6 sesquitertia proportione diatesseron manifestant; 12 ad 8 et 9 ad 6 sesquialtera proportione resonant diapente; 8 ad 9 sesquioctava proprotione tonum formant.</p>
+      <p id="MURNOT0030">
+      <pb n="[58]" />Hae igitur solae species multiplicis in consonantiis habent locum. Simplices autem consonantiae in simplicibus proportionibus, compositae in compositis habent fieri. Unde diapason cum diapente in tripla fiunt, quae provenit ex dupla et sesquialtera, ut 2 : 4 : 6. Bisdiapason in quadrupla, quae nascitur ex dupla, ut 2 : 4 : 8. Diatesseron et diapente diapason reddunt; provenit enim dupla ex sesquialtera et sesquitertia, ut 2 : 3 : 4. Diapente ex sesquitertia et sesquioctava fit, ut 6 : 8 : 9. Diatesseron constat ex duobus tonis cum semitonio, diapente ex tribus tonis cum semitonio. Sed haec duo faciunt diapason aggregata: ergo diapason constat ex quinque tonis cum duobus semitoniis. Sed illa duo semitonia ad perfectionem toni non veniunt, ut probabitur in sequenti.</p>
+      <p id="MURNOT0031">Haec omnia patent in figura subscripta.</p>
+      <p id="MURNOT0032">
+      <pb n="[59]" />[CSM17:59; text: diapason, diapente, diatesseron, ditonus, tonus, semitonium, 576, 512, 208, 432, 384, 156, 324, ut, re, mi, fa, sol, la, G, A, B, C, D, E, F, G, 5184, 4608, 4096, 3888, 3456, 3072, 2916, 2592]</p>
+      <p id="MURNOT0033">
+      <pb n="[61]" />Capitulum IV</p>
+      <p id="MURNOT0034">Quod tonus non possit mediari</p>
+      <p id="MURNOT0035">Quia dictum est diapason constare ex quinque tonis et duobus semitoniis, quae non perveniunt usque ad perfectionem sex tonorum, restat ostendere, quod semitonium secundum vocem non sit vera medietas toni, quod quidam antiquitus aestimabant.</p>
+      <p id="MURNOT0036">Quodlibet dimidium duplicatum debet reddere suum totum. Sed semitonium duplicatum non integre tonum reddit, quod patet in numeris ordinatis: 243 et 256 proportionem semitonalem reddunt. Nam 256 ad 192 comparatus sesquitertia proportione diatesseron complet, a quo demptis 
+      <pb n="[62]" />duobus tonis remanet semitonium. Differentia igitur inter 243 et 256 est 13, cuius duplum est 26, quod additum super 243--si vere semitonium est--debet reddere numerum facientem tonum sesquioctava proportione, quod est 269. Sed non facit, quia si super 243 octava sui pars addatur, exibit numerus faciens tonum sesquioctava proportione, qui est 273 et tres octavae, qui maior est praecedenti. Ergo non est vere semitonium.</p>
+      <p id="MURNOT0037">Amplius regula arithmeticae: Si duo numeri sint in aliqua proportione, procreati ex eisdem in eadem proportione manebunt, ut 2: 3 in sesquialtera proportione se habent: procreati ex hiis sunt 4: 6: 9, inter quos est eadem proportio sesquialtera.</p>
+      <p id="MURNOT0038">Igitur sic 243 in se ductum 59049 procreat, sed 256 in se extensum 65536 generat. Quod ex ductu unius radicis in aliam fit, medium proportionale est, scilicet 62208.</p>
+      <p id="MURNOT0039">
+      <pb n="[63]" />Sicut igitur inter radices est proportio semitonalis, sic inter procreatos. Sed cum ibi sint duae, ergo--si sit vere semitonium--de maximo ad minimum tonus erit, quod tamen non est. Si enim super primum octava sui pars adiungatur, tertium superabit. Ergo inter primum et secundum non fuit vere semitonium nec inter secundum et tertium. Ideo tonum complere non potuerunt.</p>
+      <p id="MURNOT0040">Igitur similiter inter radices, quae sunt 243 et 256, non fuit vera semitonii medietas immo minus: quod est propositum declaratum. Et haec de theorica musicae sufficiant audienti quoad praesens.</p>
+      <p id="MURNOT0041">
+      <pb n="[64]" />Capitulum V</p>
+      <p id="MURNOT0042">De ordinatione sonorum</p>
+      <p id="MURNOT0043">Verumtamen sequaces inventores musicae eam ordinaverunt variis modis. Alii in instrumentis chordarum, alii in instrumentis calamorum perforatorum, alii in instrumentis ventorum. Quidam vero posteriorum in vocibus ordinatis per manum iuncturas per litteras alphabeti gradibus distinctis factisque mutationibus unius gradus in alterum, prout subiecta descriptio manifestat.</p>
+      <p id="MURNOT0044">
+      <pb n="[64a]" />[CSM17:64a; text: [sqb] quadratum, naturale, b molle, [Gamma], A, B, C, D, E, F, G, a, b[sqb], c, d, e, f, g, aa, b[sqb]b[sqb], cc, dd, ut, re, mi, fa, sol, la, 1. gradus, 2. gradus, 3. gradus, 4. gradus, 5. gradus, 6. gradus, 7. gradus] 
+      <figure>
+        <graphic url="/images/MURNOT_02GF.gif" />
+      </figure></p>
+      <p id="MURNOT0045">
+      <pb n="[65]" />Secundus liber: Musica practica</p>
+      <p id="MURNOT0046">Capitulum I</p>
+      <p id="MURNOT0047">De temporis cognitione</p>
+      <p id="MURNOT0048">Quoniam in antepositis sermonibus theoricam musicae leniter tetigimus et in brevi, nunc quoque de eius practica, ea parte, qua mensurabilis est, restat diffusius inquirendum, cum de ipsa diversi diversimode sentiant practicantes.</p>
+      <p id="MURNOT0049">Ut in primo libro ostensum est, vox generatur cum motu, cum sit de genere successivorum. Ideo quando fit, est, sed cum facta est, non est. Successio non est sine motu. Tempus inseparabiliter consequitur motum. Igitur vocem necessario oportet tempore mensurari. Est autem tempus mensura motus. Sed hic tempus est mensura vocis prolatae cum motu 
+      <pb n="[66]" />continuo. Eadem autem diffinitio temporis et unius temporis assignatur.</p>
+      <p id="MURNOT0050">Temporis aliud maius aliud minus: maius, quod motum prolixiorem, minus, quod breviorem habet ceteris eisdem, secundum unam dimensionem metitur. Haec autem specie non differunt, nam maius et minus speciem non variant. Inde est, quod unum modum retinent cognoscendi, nec in hiis scientia variatur.</p>
+      <p id="MURNOT0051">In omni vero tempore vocem mensurante quemdam modum perfectionis priores rationabiliter assignaverunt, illud tempus tale ponentes, quod per ternarium posset suscipere sectionem, opinantes in ternatio omnem esse perfectionem. Et propter hoc tempus perfectum pro mensura cantus cuiuslibet posuerunt, scientes quod in arte imperfectum non convenit reperiri, quamvis huius oppositum aliqui moderni, quod abest, se crediderunt invenisse; quorum intentio clarius in sequentibus exponetur.</p>
+      <p id="MURNOT0052">
+      <pb n="[67]" />Capitulum II</p>
+      <p id="MURNOT0053">De numeri ternarii perfectione</p>
+      <p id="MURNOT0054">Quod autem in ternario quiescat omnis perfectio, patet ex multis veresimilibus coniecturis.</p>
+      <p id="MURNOT0055">In Deo enim, qui perfectissimus est, unitas est in substantia, trinitas in personis; est igitur trinus unus et unus trinus. Maxima ergo convenientia est unitatis ad trinitatem. In intelligentia post Deum esse et essentia et compositum ex hiis sub numero ternario reperitur. In primo corporum caelo: movens, mobile, tempus. Tria sunt in stellis et sole: calor, radius, splendor; in elementis: actio, passio, materia; in individuis: generatio, corruptio, subiectum; in omni tempore finibili: principium, medium, finis; in omni morbo curabili: augmentum, status, declinatio.</p>
+      <p id="MURNOT0056">
+      <pb n="[68]" />Tres operationes intellectus; tres termini in syllogismo; tres figurae arguendi; tria principia intrinseca rerum naturalium; tres potentiae entis non orbati; tres loci differentiae correlativae; in toto universo tres lineae.</p>
+      <p id="MURNOT0057">Ternarius primus numerus impar, primus primus et incompositus. Numerus cubicus ex ductu sui in se ter generatur. Nullae duae lineae sed tres superficiem includunt. Prima figurarum polygonarum est triangulus. Primum omnium corporum rectilineorum triangulare est. Omne corpus tres habet dimensiones aut se numquam aliter sustineret.</p>
+      <p id="MURNOT0058">Cum igitur ternarius omnibus se ingerat quodammodo, hunc esse 
+      <pb n="[69]" />perfectum non debet amplius dubitari. Per cuius oppositum, cum ab ipso recedat binarius, relinquitur imperfectus, cum etiam binarius numerus sit infamis. Sed unum compositus sic quilibet numerus convenientiaque, quam habet ad ternarium, perfectum potest merito reputari. Est enim unum, cum sit continuum, non solum iterum in ternarios sed in infinitum partibilis incessanter.</p>
+      <p id="MURNOT0059">Quoniam ergo vox tempore mensurata unionem duarum formarum, naturalis scilicet et mathematicae, comprehendit, licet quod ratione alterius fractio non cessaret, tamen propter aliam vocis divisionem necessarium est alicubi terminari. Nam sicut omnium natura constantium positus est terminus et ratio magnitudinis et augmenti sic parvitatis et diminuti. Demonstrant enim naturales, quod natura ad maximum et minimum terminatur.</p>
+      <p id="MURNOT0060">Vox autem est per se forma naturalis iuncta per accidens quantitati. Igitur oportet eam habere terminos fractionis, quorum latitudinem nulla vox quantacumque frangibilis valeat praeterire. Hos autem terminos volumus comprehendere ratione.</p>
+      <p id="MURNOT0061">
+      <pb n="[71]" />Capitulum III</p>
+      <p id="MURNOT0062">De terminis fractionis vocis</p>
+      <p id="MURNOT0063">Vox prolata certo tempore mensurata non solum se facit in aere secundum punctum aut lineam vel superficiem, sed corporaliter et sphaerice, ad instar sphaerae ut lumen in diaphano, quod patet per sex aures dispositas secundum sex differentias positionis.</p>
+      <p id="MURNOT0064">Cumque vox illa sit generata ex virtute impellentis, quae finita est cum a finito procedat corpore, oportet eam habere suae durationis vel continuationis terminos, cum neque in infinitum neque in instanti vox valeat generari. Qui quidem termini sic habentur.</p>
+      <p id="MURNOT0065">Tota musica, maxime mensurabilis, in perfectione fundatur, numerum et sonum pariter in se comprehendens. Numerus autem, qui in musica perfectus a musicis reputatur, ternarius appellatur, ut patet in praedictis.</p>
+      <p id="MURNOT0066">Musica igitur a numero ternario sumit ortum, qui ternarius in se ductus novem generat, sub quo novenario quodammodo omnis numerus 
+      <pb n="[72]" />continetur, cum ultra novem semper fiat reditus ad unitatem. Ergo musica novenarium numerum non transcendit. Qui si iterum in se ducatur, 81 producit, qui productus a ternario disiunctione triplici mensuratur ad modum vocis. Nam ter ter tria ter: ter tria novies productaque trium per tria semper ducta, sicut ter tria producunt novem, ter novem 27, ter 27 semper generant 81. Ab unitate igitur, quae tertia pars est ternarii qui perfectus est, usque ad 81, qui similiter est perfectus, dicuntur esse termini de maximo ad minimum cuiuslibet vocis, totaque eius longitudo inter hos terminos est inclusa.</p>
+      <p id="MURNOT0067">In quibus quatuor gradus perfectionis distincti possunt notabiliter assignari, et hoc sic.</p>
+      <p id="MURNOT0068">Nulla perfectio musicalis ternarium excedit, sed ternarium amplectitur 
+      <pb n="[73]" />et infra. Perfectio est illud, quo aliquid dicitur perfectum. Perfectum est, quod est in tres partes aequales divisibile vel in duas inaequales, quarum minor se ipsa a maiore superatur. Unitas autem indivisibilis est et potest dici neutrum. Ideo genus divisionis in hiis tenendum est et similiter indivisionis.</p>
+      <p id="MURNOT0069">81 quidem ternarius est et in hoc perfectus. Cuius 54 binarius est et in hoc imperfectus. Eiusque unitas est 27, quae perfectum imperficit perficiens imperfectum. Et in hiis tribus distinguitur primus gradus, a 27 in 9 secundus, a 9 in 3 tertius, a 3 in 1 quartus, in quorum quolibet ternarium, binarium et unitatem, id est perfectum, imperfectum et neutrum contingit reperire. Sunt igitur quatuor gradus perfectionis neque plures neque pauciores.</p>
+      <p id="MURNOT0070">
+      <pb n="[74]" />Capitulum IV</p>
+      <p id="MURNOT0071">De protractione figurarum</p>
+      <p id="MURNOT0072">Restat quoque, quibus figuris, signis, notulis, quae dicta sunt, convenienter debeant designari quibusque sermonibus vel vocibus appellari, cum modo tempore nostro super hoc cotidie nostri doctores musicae ad invicem convixantur. Et licet signa sint ad placitum, tamen quoniam omnia sibi invicem consonant quodammodo signa convenientiora vocibus signandis debent a musicis inveniri.</p>
+      <p id="MURNOT0073">In quorum inventione figuras geometricas sesse signa vocum musicalium iam diu est antiqui sapientiores unanimiter concesserunt, quas puncta non pro indivisibili, sed ut medicus nunc pro die voluerunt appellare. Figura autem scripturae aptior superficies quadrilatera est, cum ex sola 
+      <pb n="[75]" />calami linea procreetur. In qua tamquam in genere convenit omnis notula musicalis per eamque formis essentialibus variatam omnis modus cantus cuiuslibet explicatur, essentialibus dico, id est naturalibus figurae post impositionem, vel essentialibus, id est de forma essentiali notulae, id est figurae significativae.</p>
+      <p id="MURNOT0074">Notula musicalis est figura quadrilatera soni numerati tempore mensurati significativa ad placitum. Huius autem formae distinctionis novem sunt: rectiangulum, aequilaterum, caudatum, punctus situs dextrorsum, sinistrorsum, sursum, deorsum, prout sequenti videbitur in figura.</p>
+      <p id="MURNOT0075">De figuris autem primi et quarti gradus antiqui pauca locuti sunt, sed de figuris secundi et tertii valde rationabiliter tractaverunt, licet vox eorum ad gradus se extenderet ampliores. Quod enim ore proferebant, minime figurabant, cuius ratio taceatur. Dederunt tamen nobis modum perficiendi, quod fecerant incomplete, posueruntque ternarium et binarium figura simili designari, unitatem vero dissimili, quoniam binarius propinquior 
+      <pb n="[76]" />est ternario quam unitas. Quae autem prope sunt, intellectus sumit ut eadem, et in habentibus symbolum facilior est transitus et econtra: De ternario ad binarium, id est de perfecto ad imperfectum et econtra facilior est transitus quam de ternario ad unitatem. Ergo inter ea debet figura similior adaptari in gradu quolibet assumendo, quorum distinctio non percipitur in se ipsis, sed potius est ex relatione ad alterum manifestata.</p>
+      <p id="MURNOT0076">Secundum priores figura quadrilatera, aequilatera, rectiangula, caudata dextrorsum sursum vel deorsum in secundo gradu imperfectum significat pariter et perfectum, hoc est ternarium et binarium. Eadem figura non caudata significat unitatem, sed eadem significans unitatem in secundo gradu, ternarium et binarium significat in tertio. Figura vero quadrilatera, aequilatera, obtusiangula unitatem significat in eodem.</p>
+      <p id="MURNOT0077">De primo gradu locuti sunt quantum ad binarium et unitatem, sed ternarium omiserunt aut intellegi dederunt per figuram similem binarium denotantem. In quarto gradu unitatem penitus reliquerunt, nisi eam implicite 
+      <pb n="[77]" />in ligaturis figurarunt, scilicet figura quadrilatera, aequilatera, obtusiangula, caudata sursum. Et haec est ultima quarti gradus. Sed prima primi similis est secundae, scilicet figura quadrilatera, inaequilatera, rectiangula, caudata dextrorsum sursum vel deorsum.</p>
+      <p id="MURNOT0078">Differentiae primi gradus: aequilaterum - inaequilaterum.</p>
+      <p id="MURNOT0079">Differentiae secundi: caudatum - incaudatum.</p>
+      <p id="MURNOT0080">Differentiae tertii: rectiangulum - obtusiangulum.</p>
+      <p id="MURNOT0081">Differentiae quarti: obtusiangulum incaudatum - obtusiangulum caudatum.</p>
+      <p id="MURNOT0082">
+      <pb n="[78]" />Capitulum V</p>
+      <p id="MURNOT0083">De figuris nominandis</p>
+      <p id="MURNOT0084">Remanet inquirendum de nominibus figurarum, quae notulae dicuntur. In primo gradu sic possumus nominare: triplex longa, duplex longa, simplex longa. In secundo insequendo nomina antiquorum: longa perfecta, longa imperfecta, brevis. In tertio ad similitudinem istius praecedentis: brevis perfecta, brevis imperfecta, semibrevis, non ab aequali parte, sed a maiori vel minori ut dicatur binarius maior pars trium, unitas minor, et haec semibrevis ab antiquis dicitur minor. In quarto nomina praecedentium insequendo: semibrevis perfecta, semibrevis imperfecta, semibrevis minima.</p>
+      <p id="MURNOT0085">Aliter ab aliis nominantur eadem sententia remanente, omisso primo gradu, qui satis convienenter nominatur: longa, semilonga, brevis; brevis, semibrevis, minor; minor, semiminor, minima; vel sic et convenienter: 
+      <pb n="[79]" />longa, longior, longissima, hoc est magna, maior, maxima, sumpto initio comparationis ab unitate primi; postea in secundo: longa perfecta, longa imperfecta, brevis; brevis, brevior, brevissima, id est parva; parva, minor, minima.</p>
+      <p id="MURNOT0086">Haec omnia sunt in tabula declarata.</p>
+      <p id="MURNOT0087">[CSM17:79; text: 1, 2, 3, 6, 9, 18, 27, 54, 81, longissima, longior, longa, perfecta, imperfecta, brevis, brevior, brevissima, parva, minor, minima, idem, primus gradus, secundus gradus, tertius gradus, quartus gradus] 
+      <figure>
+        <graphic url="/images/MURNOT_03GF.gif" />
+      </figure></p>
+      <p id="MURNOT0088">
+      <pb n="[80]" />Capitulum VI</p>
+      <p id="MURNOT0089">De cognitione perfecti</p>
+      <p id="MURNOT0090">Cum dictum sit, quod perfectum et imperfectum figura similis repraesentat, sicut ad plures formas est eadem materia generalis, distinctio eorum quinque modis ab auctoribus assignatur, quod patet in secundo gradu, de quo maiorem notitiam habuerunt, sic: Longa ante longam perfecta est, longa ante duas breves, longa ante tres breves, longa ante punctum, longa ante pausam longam semper trium temporum aestimatur. Et haec distinctio ex situ vel positione sumpta est.</p>
+      <p id="MURNOT0091">Imperfecta longa cognoscitur duobus modis: unitate praeposita vel subsequente.</p>
+      <p id="MURNOT0092">Quod dictum est de secundo gradu de aliis gradibus debet intellegi suo modo.</p>
+      <p id="MURNOT0093">
+      <pb n="[81]" />Distinctio perfecti secundum situm in quolibet gradu</p>
+      <p id="MURNOT0094">[CSM17:81; text: 1, 2, 3, 4, 5, primus gradus, secundus gradus, tertius gradus, quartus gradus]</p>
+      <p id="MURNOT0095">In quolibet horum graduum possunt cantandi quinque species assignari. Una ex omnibus perfectis, alia ex binario praecedente et unitate subsequente: et sunt primus modus, cum similes sint in pausis. Secunda species ex unitate praecedente et binario subsequente. Tertia ex prima et secunda collecta, videlicet ex perfecto praecedente unitate duplici subsequente, quarum ultima unitatum significatione binarium repraesentat. 
+      <pb n="[82]" />Quarta species fit econtra. Quinta fit ex omnibus unitatibus et fractionibus earumdem.</p>
+      <p id="MURNOT0096">Ordinatio modorum vel specierum cantus in quolibet gradu:</p>
+      <p id="MURNOT0097">[CSM17:82,1; text: 1, 2, 3, 4, 5, primus gradus, secundus gradus, tertius gradus, quartus gradus]</p>
+      <p id="MURNOT0098">De pausis et ligaturis alias posset dici, sed de eis sufficiat, quod dictum est in canonibus antiquorum, nisi quod pausae nunc possunt sic exemplariter ordinari:</p>
+      <p id="MURNOT0099">[CSM17:82,2]</p>
+      <p id="MURNOT0100">
+      <pb n="[84]" />Capitulum VII</p>
+      <p id="MURNOT0101">De tempore perfecto et imperfecto</p>
+      <p id="MURNOT0102">In fine huius opusculi notandum est, quod contingit fieri cantum ex perfectis notulis de tempore imperfecto ut tres breviores, et ex imperfectis de tempore perfecto ut duo breves. Adaequantur enim tres binarii et duo ternarii in 6, 12, 18, 24 et sic addendo 6. Sunt autem tres binarii perfecti de tempore imperfecto, sed duo ternarii imperfecti de perfecto, et ad invicem revolvuntur et aequa proportione finaliter adaequantur. Et ex perfectis de perfecto et imperfectis de imperfecto sicut convenit decantatur.</p>
+      <p id="MURNOT0103">Item possibile est perfectiones separari et disiungi neque continuari, ut quod inter duas perfectiones sola brevis inveniatur collectione tamen brevium facta totum reducitur ad perfectum. Quoniam sicut contingit ex ore proferre, sic possibile est notare, dum vox sit integra sive recta. Sunt autem multae aliae novitates in musica latentes, quae posteris bene dubitantibus apparebunt.</p>
+      <p id="MURNOT0104">
+      <pb n="[85]" />In arte nostra hac inclusa sunt aliqua quasi abscondita intus latentia, quae si essent exterius enodata, cessarent statim quamplurimi super aliquibus conclusionibus iugiter altercantes. Inde est, quod nos amore ipsorum magis quam veritatis aliquas conclusiones, super quibus nunc magis est orta disputatio, concinne volumus approbare. Nec insurgat invidus reprehensor, si qua dicere cogamur inaudita modos vocis apparentiaque salvantes insequendo semper limites antiquorum.</p>
+      <p id="MURNOT0105">
+      <pb n="[87]" />Capitulum VIII</p>
+      <p id="MURNOT0106">Conclusiones</p>
+      <p id="MURNOT0107">1a. conclusio. Quod longa possit imperfici per brevem.</p>
+      <p id="MURNOT0108">2a. conclusio. Quod brevis possit imperfici per semibrevem.</p>
+      <p id="MURNOT0109">3a. conclusio. Quod semibrevis possit imperfici per minimam.</p>
+      <p id="MURNOT0110">4a. conclusio. Quod longa possit imperfici per semibrevem.</p>
+      <p id="MURNOT0111">5a. conclusio. Quod brevis possit imperfici per minimam.</p>
+      <p id="MURNOT0112">6a. conclusio. Quod minima non possit imperfici.</p>
+      <p id="MURNOT0113">7a. conclusio. Quod altera brevis possit imperfici per semibrevem.</p>
+      <p id="MURNOT0114">8a. conclusio. Quod semibrevis altera possit imperfici per minimam.</p>
+      <p id="MURNOT0115">9a. conclusio. Quod tempus possit dividi in quotlibet partes aequales.</p>
+      <p id="MURNOT0116">Prima conclusio</p>
+      <p id="MURNOT0117">Quod autem longa perfecta possit imperfici per brevem, ab omnibus musicis tamquam per se notum concessum est, quoniam demonstratio ducit 
+      <pb n="[88]" />eos sic: Omne perfectum per tertiam sui partem amotam ad imperfectum reducitur. Est enim perfectum in tria aequalia, imperfectum vero in duo divisibile. Brevis autem tertia pars est longae perfectae per actores, qui sic eam diviserunt. Per brevem igitur longa perfecta redditur imperfecta, nec refert ante et post, cum qualitercumque a ternario unitas subtrahatur, semper remanet binarius imperfectus. Hoc etiam patet ex operibus antiquorum.</p>
+      <p id="MURNOT0118">
+      <pb n="[89]" />Capitulum IX</p>
+      <p id="MURNOT0119">Secunda et tertia conclusio.</p>
+      <p id="MURNOT0120">Ex hiis concluditur manifeste, quod brevis per semibrevem semibrevisque per minimam possit imperfici. Omnis imperfectio fit ratione tertiae partis amotae per musicos. Sembrevis tertia pars est brevis, et minima tertia pars est semibrevis, ergo quaelibet istarum imperficit suum totum. Amplius: sicut se habet brevis ad longam perfectam, sic se habet semibrevis ad brevem et minima ad semibrevem: utrobique est proportio tripla.</p>
+      <p id="MURNOT0121">Brevis imperficit longam, ut dictum est, ergo semibrevis brevem et minima semibrevem.</p>
+      <p id="MURNOT0122">Adhuc simile est de duabus brevibus inter duas longas, ut hic: [L,B,B,L], 
+      <pb n="[90]" />et de duabus semibrevibus inter duas breves, ut hic: [B,S,S,B], et etiam de duabus minimis inter duas semibreves, ut hic: [S,M,M,S], nam in quolibet gradu est tertius modus. Sed si inter duas breves ponatur punctus, ut hic: [L,B,pt,B,L] utraque longarum per brevem redditur impervecta per actores. Ergo similiter si inter duas semibreves et minimas ponatur punctus, ut sic: [B,S,pt,S,B] et sic: [S,M,pt,M,S], utraque brevium per semibreves et semibrevium per minimas necessario cantabitur imperfecta.</p>
+      <p id="MURNOT0123">Etiam perfectum et imperfectum figura simili designantur per doctores. Possible est, tempus longum esse perfectum et imperfectum. Sed perfectum per brevem importatur, ergo et imperfectum. Possibile ergo est brevem esse imperfectam. Sed imperfectum per sui medietatem sibi additam transit ad perfectum. Ergo brevis imperfecta sui medietate sibi addita, quae semibrevis est, redit ad perfectam. Semibrevis ergo addita cum brevi imperfecta perficit eam, igitur imperficit et remota.</p>
+      <p id="MURNOT0124">
+      <pb n="[91]" />Nec obstat figurae diversitas, quia figura figuram non imperficit, cum omnis figura sit formaliter perfecta. Sed illud, quod nomine unius figurae significatur, imperficit illud, quod nomine alterius importatur. Figura autem signum est, res musicalis significatum. Signum est ens perfectum per suam formam primariam, similiter et significatum. Unumque accidit alteri, facientes ambo unum per aggregationem, quod musicalis notula nuncupatur. Est enim notula figura quadrilatera soni numerati tempore mensurati ad placitum significativa.</p>
+      <p id="MURNOT0125">Notula ergo duas includit formas: figuram quadrilateram, quae primaria est, et significationem, quae secundaria est. Est autem significatio id, quod perficitur et imperficitur, non figura. Unde sicut vox ad vocem grammatice non dependet neque causat constructionem, sed modorum significandi rerum proportio, sic figurae ad figuram nulla est proportio musicalis, 
+      <pb n="[92]" />sed ex proportione rerum musicalium perfectioneque et imperfectione earundem causatur consonantia musicalis. Nam figura per figuram non minuitur nec augetur, sed res figurae nomine designata.</p>
+      <p id="MURNOT0126">Unum enim tempus tria tempora ponitur comprehendens et in hoc perfectum est. Dicitur imperfici tertia parte dempta et iterum perfici, si addatur. Non de figuris igitur fit quaestio, sed de rebus. Imaginandum quoque est ternarium ad binarium reduci vel econtra quantum ad eorum materiam et non formam. Haec autem sciunt mathematici sapientes.</p>
+      <p id="MURNOT0127">
+      <pb n="[93]" />Capitulum X</p>
+      <p id="MURNOT0128">Quarta conclusio</p>
+      <p id="MURNOT0129">Ex praemissis iam habetur ad probandum via, quod longa possit imperfici per semibrevem. Nam quod imperficit partem, imperficit et totum. Semibrevis imperficit brevem, brevis est pars longae per praecedens, ergo semibrevis imperficit longam.</p>
+      <p id="MURNOT0130">Amplius: Omne totum integrale per suam partem imperficitur, dum tamen sub denominatione ternaria reponatur.</p>
+      <p id="MURNOT0131">Semibrevis est pars ternaria longae, nam est tertia pars brevis et brevis est tertia pars longae, ergo semibrevis est tertia pars tertiae partis longae. Igitur imperficere potest longam.</p>
+      <p id="MURNOT0132">
+      <pb n="[94]" />Adhuc quod est fortius et musico pulchrius:</p>
+      <p id="MURNOT0133">Omne quod a voce recta, integra et regulari cantando profertur, debet sapiens musicus per notulas debitas figurare. Sunt enim figurae geometricae signa vocum, quod si non iam ars regularet naturam et figurae cantum, cum fiat econtra. Nam canere possumus absque figuris. Modo convenienter naturaliterque sic ex ore canitur, quod octo semibreves vel quinque quandoque sub una voce unoque accentu continuo proferuntur: ergo sic debent a musico in uno corpore figurari.</p>
+      <p id="MURNOT0134">Longa ergo sive perfecta sive imperfecta brevium per semibrevem redditur imperfecta, eademque ratione ante et post, cum totum corpus longae, quod est unum, sit imperfectum ratione brevium et non breves.</p>
+      <p id="MURNOT0135">Ad videndum autem distinctionem inter imperfectionem longae perfectae et imperfectae talibus semonibus est utendum. Notula dicitur sic: 
+      <pb n="[95]" />Alia perfecte perfecta, alia perfecte imperfecta, alia imperfecte perfecta, alia imperfecte imperfecta.</p>
+      <p id="MURNOT0136">Verbi gratia in uno gradu pro omnibus ostendatur.</p>
+      <p id="MURNOT0137">Longa dicitur perfecte perfecta, cum includit tria tempora perfecta sui gradus ut tres breves, et cognoscitur quinque modis, ut visum est prius. Sed perfecte imperfecta dicitur, cum includit duo tempora perfecta sui generis sive gradus ut duas breves. Imperfecte perfecta dicitur, cum includit tria tempora non perfecta, sed alterum illorum, ut primum aut ultimum, canitur imperfectum, ut duas breves integras et tertiam imperfectam. Quod cognoscitur quinque modis: Si longa ante longam ponatur, nihil eiusdem gradus intermedio, interposita semibrevi, ut nic: [L,S,L,S,L], prima 
+      <pb n="[96]" />imperfecte perfecta dicitur; similiter ante punctum, ut hic: [L,S,pt]; et ante duas breves, ut hic: [L,S,B,B,L]; etetiam si ante tres, ut hic: [L,S,B,B,B,L]; et ante pausam longam, si sit possibile sic proferre ut hic: [L,S,LP]. Omne enim, quod profertur, debet figurari, et quod figuratur, licet de difficili, debet proferri. Ars enim numquam ad impossibilia se extendit.</p>
+      <p id="MURNOT0138">Imperfecte imperfecta duobus modis cognoscitur, ut si longa ante brevem solam nullo sui generis mediante, tamen interposita semibrevi, quae alterius est generis, aut econtra, ut hic: [L,S,B,pt,S,L,B,pt,S,L,LP], aut utrobique ut hic: [S,L,S,B,pt,S,L,S,B]. Similiter hic: [S,L,S,L,S,L], et dicitur imperfecte 
+      <pb n="[97]" />perfecta a parte ante; similiter hic: [S,L,S,pt,S,L,S,pt], et dicitur imperfecte perfecta ante et post, et aliis modis pluribus variando, quae frequentibus apparebunt.</p>
+      <p id="MURNOT0139">Cavendum tamen est ab instantia tam sollemni, quam faciunt, contra quos in hoc opere disputamus, omnia imperfecta perfici per punctum, cum punctus sit signum perfectionis, infallibiliter aestimantes. Si enim addatur punctus notulae per semibrevem imperfectae, quae longa est, an sit perfecta trium aut duarum brevium ignoratur, cum tamen dicat ars antiqua, cui volumus obviare, quod perfecta trium erit, licet fuisset possibile, eam ex valore duarum brevium protulisse, ut hic: [L,pt,S,B]. Ante additionem puncti prima erat imperfecte imperfecta valens quinque semibreves. Per additionem vero puncti redditur perfecte perfecta valens novem semibreves, cum non deberet valere nisi sex. Non ex pluri debet punctus perficere, quam notula fuerat imperfecta: ergo male.</p>
+      <p id="MURNOT0140">
+      <pb n="[98]" />Fertur autem consimilis instantia, ne brevis possit imperfici ut in hac descriptione: [L,B,pt,S,B,L]. Prima brevis erat imperfecta ante additionem puncti eratque prima longa perfecte perfecta valens tres breves, erat etiam ultima brevis altera. Sed puncto addito, quod est possibile, haec omnia sunt destructa. Significat enim punctus ibi situatus divisionem modi: ergo novissimus error peior priore.</p>
+      <p id="MURNOT0141">Si igitur hoc impossibilius, illud magis fuerit eligendum: Non igitur solum longa per semibrevem, sed etiam brevis nullo modo poni poterit imperfecta. Ad haec duo responsione unica dicendum est: Cavendum est a puncto, quod licet si minimum quantitate, est tamen maximum potestate.</p>
+      <p id="MURNOT0142">Antiqui sapientes volentes ostendere perfectionem eiusdem generis 
+      <pb n="[99]" />sive gradus, ut de longa respectu brevis aliam non negantes scilicet alterius generis, notulae perficiendae dextrorsum punctum parvulum addiderunt ut sic: [L,pt,B]. Prima perfecta dicitur de tribus consimilibus subsequenti et hanc perfectionem nunc vocamus immediatam vel propinquam, cum de partibus propinquis vel eiusdem generis impleatur, et hanc in gradu quolibet assignamus, ut prius est ostensum. Sed quia de perfectione gradus alterius tacuerunt, quod nunc dicitur esse novum, ideo signum illius perfectionis, quam mediatam dicimus et remotam, penitus omiserunt. Novis autem supervenientibus novitatibus est utendum. Ideo si placet musicis, simus in hoc concordes, quod punctus, quem signum perfectionis concedimus ut antiqui, non dextrorsum sed sursum, id est in parte superiori perficiendae notulae situetur ad significandum perfectionis sequentis generis datum genus, deorsum vero tertii generis a dato, et ante, si ulterius sit processus. Et hoc in omnibus gradibus ostendatur.</p>
+      <p id="MURNOT0143">
+      <pb n="[100]" />In primo sic:</p>
+      <p id="MURNOT0144">[CSM17:100,1]</p>
+      <p id="MURNOT0145">In secundo sic:</p>
+      <p id="MURNOT0146">[CSM17:100,2]</p>
+      <p id="MURNOT0147">In tertio sic:</p>
+      <p id="MURNOT0148">[CSM17:100,3]</p>
+      <p id="MURNOT0149">In quarto sic: [S,pt,M]</p>
+      <p id="MURNOT0150">Notandum etiam est non omnia posse perfici per punctum, cum iam alia forma ibi fuerit introducta, nisi cum tamen aliquid subtrahatur, ut hic: [L,B,L,L]. Prima longa punctuari nequit, superflueret enim brevis, dum tamen cantus fuerit regularis.</p>
+      <p id="MURNOT0151">Est autem regularis cantus, dum perfectiones simul incipientes continuando pariter terminantur: irregularis est, dum non, sed tempora cumulantur per corpora figurarum, prout placet vocem disponere proferenti.</p>
+      <p id="MURNOT0152">Contigit autem aliquando duos cantus esse per se et absolute regulares, 
+      <pb n="[101]" />qui sunt irregulares ad invicem comparati, dum contra perfectum canitur imperfectum.</p>
+      <p id="MURNOT0153">Per ea, quae dicta sunt ad praedictas instantias, patet solutio manifestata. Valde igitur mirandi sunt homines, qui propter metum rationum sublimium coguntur relinquere veritatem, cum etiam rationes difficiliores ad oppositum sint adductae.</p>
+      <p id="MURNOT0154">
+      <pb n="[102]" />Capitulum XI</p>
+      <p id="MURNOT0155">Quinta et sexta conclusio</p>
+      <p id="MURNOT0156">Ex eisdem rationibus apparet, quod brevis possit imperfici per minimam. Nam sicut se habet semibrevis ad longam, ita minima ad brevem, cum utrobique sit proportio nontupla. Longa autem potest imperfici per semibrevem, ut ostensum est, ergo et brevis per minimam. Ex earum opposito manifestum est, minimam non posse imperfici, cum sit indivisibilis; non est minimo dare minus.</p>
+      <p id="MURNOT0157">
+      <pb n="[103]" />Capitulum XII</p>
+      <p id="MURNOT0158">Septima et octava conclusio</p>
+      <p id="MURNOT0159">Per praemissas rationes, quibus probatum est, longam imperfectam imperfici per semibrevem, ostendi potest, alteram brevem imperfici per eandem. Nam licet in figuratione a longa sit diversa, in significatione tamen est eadem. Significata autem sunt, quibus debentur proprie passiones. Et per simile semibrevem alteram imperfici per minimam tenendum est, si quae ferantur instantiae in praecedentibus solutae sunt.</p>
+      <p id="MURNOT0160">
+      <pb n="[104]" />Capitulum XIII</p>
+      <p id="MURNOT0161">Nona conclusio</p>
+      <p id="MURNOT0162">Quod autem tempus possit dividi in quotlibet partes aequales, patet ex hiis. Omne continuum divisibile est in quotlibet partes eiusdem proportionis, sicut in duas vel tres vel quatuor et cetera. Tempus est de genere continuorum, ergo potest dividi in quotlibet partes aequales.</p>
+      <p id="MURNOT0163">Fiet igitur cantus ex 2, 3, 4, 5, 6, 7, 8, 9 semibrevibus aequalibus eiusdem figurae. Non est autem multum bene possibile voci ulterius pertransire. Canitur ex tribus aequalibus et ex duobus; duo et tria sunt quinque, bis duo sunt quatuor, bis tria sunt sex, quatuor et tria sunt septem, bis quatuor 
+      <pb n="[105]" />sunt octo, ter tria sunt novem. Haec omnia sunt aequalia. Igitur ex totidem aequalibus potest fieri cantus. Laudabilis autem esset musicus et peritus, qui super idem tempus aequale ipsum dividendo nunc per duas, nunc per tres et ceteras partes integre discantaret.</p>
+      <p id="MURNOT0164">
+      <pb n="[106]" />Capitulum XIV</p>
+      <p id="MURNOT0165">Finis</p>
+      <p id="MURNOT0166">Sub istis novem conclusionibus declaratis multae latent conclusiones aliae speciales, quae per exercitium erunt studentibus manifestae. Illa tamen pauca, quae dicta sunt a nobis, si aliquid includant, quod videatur inconsonum veritati, vos rogamus, venerabiles musici, quos a tota dileximus iuventute ratione musicae, quam qui bene sciret cum aliqua scientia non lateret, quatenus huius laboris amore defectus nostros corrigere velitis et benigne supportare. Nam in capite unius hominis non est possibile, nisi intellectum habeat angelicum, totam cuiuslibet scientiam quiescere veritatis.</p>
+      <p id="MURNOT0167">Forte enim per temporis spatium nobis accidet, quod iam accidit et antiquis, qui finem habere crediderunt musicae. Nemo tamen dicat nos statum 
+      <pb n="[107]" />musicae et finem eius immutabilem tetigisse. Currunt enim opiniones et scientiae revolutiones ad circulum revertentes, quamdiu summae placuerit voluntati Eius, qui non necessitatus omnia condidit in hoc mundo et omnia voluntarie segregabit.</p>
+      <p id="MURNOT0168">Explicit Notitia artis musicae.</p>
+    </body>
+  </text>
+</TEI>

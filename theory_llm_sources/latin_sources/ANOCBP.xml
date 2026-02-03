@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Compendium breve de proportionibus</title>
+        <title type="abbrev">ANOCBP</title>
+        <author>Anonymous</author>
+        <date notBefore="1400" notAfter="1499">15th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Katherine Clark</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Andreas Giger</persName>
+      </respStmt>
+      <date>1999</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Antonius de Luca, 
+<emph>Ars cantus figurati</emph>; 
+<emph>Capitulum de quattuor mensuris</emph>; 
+<emph>Tractatulus mensurationum</emph>; 
+<emph>Compendium breve de proportionibus</emph>; 
+<emph>Tractatulus prolationum cum tabulis</emph>, ed. Heinz Ristory, Corpus scriptorum de musica, vol. 38 (n.p.: American Institute of Musicology / Hänssler-Verlag, 1997), 76–81. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: Tractatus de proportionibus musicae mensuralis</title>
+          
+<idno type="LML">PROP. MENS. De prop.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">B-Br II 785, 9v-11</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANOCBP0001">
+      <pb n="[76]" />Anonymus</p>
+      <p id="ANOCBP0002">COMPENDIUM BREVE DE PROPORTIONIBUS</p>
+      <p id="ANOCBP0003">Br1 9v-11r</p>
+      <p id="ANOCBP0004">De proportionibus breviter</p>
+      <p id="ANOCBP0005">Capitulum 1</p>
+      <p id="ANOCBP0006">Br1 9v</p>
+      <p id="ANOCBP0007">De proportionibus aliquid clarius tractare intendimus pro rudium acceleratione; ne prolixitas in subscriptis regulis, quibus magis utimur, reperiatur, breve compendium compilabo. Et primo cum proportio sit quaedam habitudo duorum terminorum inter se, scilicet ad invicem, est sciendum quod proportio non minus quam de tribus summi potest qua in re augentur numeri, ut inferius denotabo. Unde sciendum est quod genera inaequalitatis sunt quinque, scilicet multiplex, superparticulare, superpartiens, multiplex superparticulare, et multiplex superpartiens.</p>
+      <p id="ANOCBP0008">De gradibus seu generibus inaequalitatis</p>
+      <p id="ANOCBP0009">Capitulum 2</p>
+      <p id="ANOCBP0010">Br1 10r</p>
+      <p id="ANOCBP0011">Primum genus inaequalitatis tres habet gradus, scilicet duplum ut duo ad unum, triplum ut tres ad unum, quadruplum ut quattuor ad unum. Exemplum in multiplici:</p>
+      <p id="ANOCBP0012">
+      <pb n="[77]" />[CSM38:77,1; text: Tenor, Primus gradus, Secundus gradus, Tertius gradus] 
+      <figure>
+        <graphic url="/images/ANOCBP_01GF.gif" />
+      </figure></p>
+      <p id="ANOCBP0013">Secundum genus inaequalitatis tres habet gradus, scilicet sexquialtera ut tres ad duo, sexquitertia ut quattuor ad tres, sexquiquarta ut quinque ad quattuor. Exemplum superparticulare: (Vide ubi est "A"):</p>
+      <p id="ANOCBP0014">[CSM38:77,2; text: Tenor, Primus gradus, Secundus gradus, Tertius gradus in superparticulare, Subdupla, per thesim, Subsexquialtera superbipartiens. Ista proferuntur]</p>
+      <p id="ANOCBP0015">Tertium genus inaequalitatis tres habet gradus, scilicet superbipartiens ut quinque ad tres, supertripartiens ut septem ad quattuor, superquadripartiens ut novem ad quinque. Exemplum superbipartiente: (Vide ubi est "B"):</p>
+      <p id="ANOCBP0016">
+      <pb n="[78]" />[CSM38:78,1; text: Tenor, Primus gradus, Secundus gradus, Tertius gradus per arsim] 
+      <figure>
+        <graphic url="/images/ANOCBP_02GF.gif" />
+      </figure></p>
+      <p id="ANOCBP0017">Quartum genus inaequalitatis habet tres gradus, scilicet dupla sexquialtera ut quinque ad duo, dupla sexquitertia ut septem ad tres, tripla sexquialtera ut septem ad duo. Exemplum in multiplici superparticulare:</p>
+      <p id="ANOCBP0018">[CSM38:78,2; text: Tenor, Primus gradus, Secundus gradus, Tertius gradus]</p>
+      <p id="ANOCBP0019">Quintum genus inaequalitatis habet tres gradus, scilicet dupla superbipartiens ut octo ad tres, dupla supertripartiens ut undecim ad quattuor, dupla superquadripartiens ut 14 ad quinque.</p>
+      <p id="ANOCBP0020">
+      <pb n="[79]" />[CSM38:79; text: Tenor, Primus gradus, Secundus gradus, Tertius gradus]</p>
+      <p id="ANOCBP0021">Arbor eius est sequens.</p>
+      <p id="ANOCBP0022">
+      <pb n="[80-81]" />[CSM38:80-81; text: ARBOR, PRIMUM GENUS, Dupla Diapason, MULTIPLEX, Tripla Diapason, Diapente, Quadrupla, Bis Diapason, Subcomes, SUPERBIPARTIENS, Sexquialtera, Emiola, Sexquidupla, SUPERTRIPARTIENS, TERTIUM GENUS, SUPERPARTIENS, Comes, Diatessaron, Sexquitertia, Epitrita Sistema, SUPERPARTICULARE, Diapason tonus, Sexquiquarta, SECUNDUM GENUS, Superquadripartiens, Diapason Diatessaron, Dupla Superbipartiens, MULTIPLEX SUPERPARTIENS, Dupla Supertripartiens, Dupla Superquadripartiens, Dupla Sexquialtera, Dupla Sexquitertia, Dupla Sexquiquarta, MULTIPLEX SUPERPARTICULARE, QUARTUM GENUS, Tonus Epogdous, Sexquioctava Diastema, Ad secundum genus, In radicibus autem dat diastema ut hic:] 
+      <figure>
+        <graphic url="/images/ANOCBP_03GF.gif" />
+      </figure></p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>De musica libellus</title>
+        <title type="abbrev">ANODML</title>
+        <author>Anonymous</author>
+        <date notBefore="1200" notAfter="1299">13th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Anna Shparberg</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Andreas Giger</persName>
+      </respStmt>
+      <date>1999</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>De musica libellus (Ms. Paris, Bibl. Nat., lat. 6286)</emph>; 
+<emph>Tractatus de discantu (Ms. Saint-Dié, Bibl. Municipale, 42)</emph>; 
+<emph>Compendium discantus (Ms. Oxford, Bodl. Libr., Bodley 842)</emph>; 
+<emph>Traitié de deschant (Ms. Paris, Bibl. Nat., lat. 15139)</emph>; 
+<emph>Traitié de deschant (Ms. Paris, Bibl. Nat., lat. 14741)</emph>, ed. Gilbert Reaney, Corpus scriptorum de musica, vol. 36 (n.p.: American Institute of Musicology / Hänssler-Verlag, 1996), 19–35. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: De musica libellus</title>
+          
+<idno type="LML">ANON. Couss. VII</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">B-BRs 528, 55v, 56v, 58r-v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 6286, 13-14v</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANODML0001">
+      <pb n="[19]" />ANONYMI</p>
+      <p id="ANODML0002">DE MUSICA LIBELLUS</p>
+      <p id="ANODML0003">Diffinitio modi</p>
+      <p id="ANODML0004">Capitulum 1</p>
+      <p id="ANODML0005">P1 13</p>
+      <p id="ANODML0006">Modus in musica est debita mensuratio temporis, scilicet per longas et breves. Vel aliter: modus est quicquid currit per debitam mensuram longarum notarum et brevium.</p>
+      <p id="ANODML0007">Notandum quod quidam modus dicitur rectus; alius dicitur in ultra mensuram, qui scilicet excedit rectum modum sive rectam mensuram. Dicitur autem ille modus rectus qui currit per rectas longas et per rectas breves. Et est recta longa quae continet in se duo tempora solum. Recta brevis est illa quae continet in se unum. Primus, secundus et sextus sunt in recto modo. Tertius modus, quartus et quintus sunt in ultra mensuram.</p>
+      <p id="ANODML0008">De sex modis</p>
+      <p id="ANODML0009">Capitulum 2</p>
+      <p id="ANODML0010">P1 13</p>
+      <p id="ANODML0011">Et sciendum quod sex sunt modi, scilicet primus, secundus, tertius, quartus, quintus et sextus.</p>
+      <p id="ANODML0012">Primus modus appellatur primus quia levior est omnibus aliis; levior est enim quam secundus, et propter hoc appellatur primus. Secundus modus dicitur secundus quia levior est quam tertius, tertius quam quartus, et sic de singulis.</p>
+      <p id="ANODML0013">
+      <pb n="[20]" />Primus modus procedit ex una longa et altera brevi et altera longa. Secundus modus e converso ex una brevi et altera longa et altera brevi. Tertius modus procedit ex una longa et duabus brevibus et altera longa. Quartus e converso. Quintus ex omnibus longis. Sextus ex omnibus brevibus.</p>
+      <p id="ANODML0014">De modo primo</p>
+      <p id="ANODML0015">Capitulum 3</p>
+      <p id="ANODML0016">P1 13, B 56v b (1-4) et 56v a2 (5-6)</p>
+      <p id="ANODML0017">In isto primo modo sex dantur regulae, quarum prima est: longa ante longam valet longam et brevem. Secunda regula est: tanta est pausa quanta est penultima. Quarta regula est: quod in omnibus modis ordo debet teneri. Quilibet enim modus habet suum ordinem. Quinta regula est: quotienscumque tres notulae in primo modo ponuntur pro una longa, primae duae valent unam brevem et ultima valet tantum sicut duae praecendentes. Sexta regula est: quando duae notae ponuntur pro una longa, aequaliter sive uniformiter dici debent, tam in primo modo quam in secundo.</p>
+      <p id="ANODML0018">
+      <pb n="[21]" />Sequitur de secundo modo</p>
+      <p id="ANODML0019">Capitulum 4</p>
+      <p id="ANODML0020">P1 13, B 58 a (2, 5)</p>
+      <p id="ANODML0021">Secundus modus, ut dictum, dicitur secundus quia levior est quam tertius. Notandum quod, sicut in primo modo omnes pausae sunt breves quia penultima brevis est, ita in isto secundo modo omnes pausae sunt longae quia penultima est longa. Secundus modus incipit super brevem et terminatur super brevem. Omnes pausae in isto secundo modo sunt duorum temporum. In primo modo et in secundo, nulla longa potest habere tria tempora per ordinem sed solum duo, ut dictum est.</p>
+      <p id="ANODML0022">Sequitur de tertio modo</p>
+      <p id="ANODML0023">Capitulum 5</p>
+      <p id="ANODML0024">P1 13v, B 58 a (2-10)</p>
+      <p id="ANODML0025">Tertius modus, ut dictum, dicitur modus in ultra mensuram. Notandum quia, sicut in primo modo et in secundo omnes longae notae sunt duorum temporum, ita in isto tertio modo omnes longae sunt trium temporum. Tertius modus, ut supradictum est, procedit ex una longa et duabus brevibus et una longa per ordinem et per aequipollentiam usque ad finem.</p>
+      <p id="ANODML0026">Aequipollentia enim intelligenda est in omnibus modis. Aequipollentia dico ut, si non sequantur post unam longam duae breves per ordinem, accipiatur illud quod loco duarum brevium invenitur, quia quandoque pro duabus brevibus ponuntur tres breves vel quatuor. Vel 
+      <pb n="[22]" />si post duas breves non sequatur longa trium temporum, accipiatur suum aequipollens, quia aliquando pro una longa trium temporum ponitur brevis et longa, quae valent unam longam.</p>
+      <p id="ANODML0027">In isto tertio modo talis datur regula: quod quando nos habemus multitudinem brevium, illa quae plus appropinquat fini dicitur longior proferri. Ergo de duabus brevibus prima est unius temporis, reliqua vero duorum. Si vero tres vel quatuor inveniantur pro duabus brevibus, ultima valet duo tempora et totum residuum non valet nisi unum.</p>
+      <p id="ANODML0028">Pausa est tanta quanta est penultima; est longa trium temporum: ergo pausa longa trium temporum.</p>
+      <p id="ANODML0029">Sequitur de quinto modo</p>
+      <p id="ANODML0030">Capitulum 6</p>
+      <p id="ANODML0031">P1 13v, B 58v a</p>
+      <p id="ANODML0032">Quintus modus procedit ex omnibus longis, ut dictum est supra, et dicitur modus in ultra mensuram sicut tertius. In quinto modo omnes longae sunt trium temporum, sicut in tertio.</p>
+      <p id="ANODML0033">Sequitur de convenientia modorum</p>
+      <p id="ANODML0034">Capitulum 7</p>
+      <p id="ANODML0035">P1 13v, B 55v b (7-10)</p>
+      <p id="ANODML0036">Et est sciendum quod primus modus, qui procedit ex una longa et altera, convenientiam habet cum quinto, qui procedit ex omnibus longis. Quia aliquando in uno motello post omnes longas sequitur immediate una longa et altera brevis, et sic de duobus modis fit unus per aequipollentiam et per convenientiam talem.</p>
+      <p id="ANODML0037">
+      <pb n="[23]" />Secundus modus convenientiam habet cum tertio, quia post unam longam in tertio modo sive post duas breves, potest sequi immediate una brevis et altera longa. Et sic de tertio modo et de secundo potest fieri unus modus per aequipollentiam et per convenientiam talem.</p>
+      <p id="ANODML0038">Similiter tertius modus et quintus conveniunt in hoc, quod post unam longam in quinto modo possunt sequi duae breves de tertio; et e converso, post duas breves de tertio potest sequi una longa de quinto. Et sic per aequipollentiam et in convenientiam talem, de tertio modo et quinto potest fieri unus modus.</p>
+      <p id="ANODML0039">Notandum est quod motellus, cuiuscunque modi sit, debet iudicari de eodem modo de quo est tenor. Et ratio est quia tenor est fundamentum motelli et dignior pars, et a digniori et nobiliori debet res denominari. Si ergo motellus est de primo modo, sicut BONE COMPAIGNIE et O QUAM SANCTA et multi alii, et tenor est de quinto 
+      <pb n="[24]" />modo, motellus debet iudicari de quinto. Quia una longa et una brevis in motello aequipollent uni longae in tenore, quia quaelibet longa in tenore valet unam longam et unam brevem per regulam supradictam in primo modo: longa ante, et cetera.</p>
+      <p id="ANODML0040">Sequitur de proprietatibus figurarum</p>
+      <p id="ANODML0041">Capitulum 8</p>
+      <p id="ANODML0042">P1 13v, B 56v a (2-5)</p>
+      <p id="ANODML0043">Omnis figura sive omnis nota, quod idem est, aut est brevis aut longa. De longis triplex est differentia. Quaedam est longa duorum, quaedam trium, quaedam sex temporum. Figura continens in se duo tempora, proprietas sua est quod habeat tractum a parte dextra, et talis tractus dicitur signum longitudinis suae, sicut hic:</p>
+      <p id="ANODML0044">[L,L,L,L,L,L on staff1]</p>
+      <p id="ANODML0045">Figura continens in se tria tempora, proprietas sua est quod habeat tractum a parte dextra sicut prius, ut hic:</p>
+      <p id="ANODML0046">[L,L,L,L,L on staff1]</p>
+      <p id="ANODML0047">
+      <pb n="[25]" />Figura continens in se sex tempora sive duas longas debet esse latior quam sit longa cum cauda, ut hic:</p>
+      <p id="ANODML0048">[MX,MX,MX,MX,MX on staff1]</p>
+      <p id="ANODML0049">De brevibus triplex est differentia. Quaedam est recta brevis continens unum tempus, et scribitur tali modo:</p>
+      <p id="ANODML0050">[CSM36:25,1] 
+      <figure>
+        <graphic url="/images/ANODML_01GF.gif" />
+      </figure></p>
+      <p id="ANODML0051">Quaedam semibrevis continens in se dimidium tempus, et scribitur sic:</p>
+      <p id="ANODML0052">[CSM36:25,2]</p>
+      <p id="ANODML0053">
+      <pb n="[26]" />Quaedam plica brevis descendendo, ut hic:</p>
+      <p id="ANODML0054">[Bcdsn,Bcdsn,Bcdsn,Bcdsn on staff1]</p>
+      <p id="ANODML0055">Quaedam plica brevis ascendendo, ut hic:</p>
+      <p id="ANODML0056">[Bcssnpsdx,Bcssnpsdx,Bcssnpsdx on staff1]</p>
+      <p id="ANODML0057">Proprietas rectae brevis et semibrevis est quod non habeant aliquem tractum. Proprietas plicarum brevium, tam ascendendo quam descendendo, est quod habeant tractum breviorem a dextra quam a sinistra. Proprietas plicarum longarum, tam ascendendo quam descendendo, est quod habeant tractum longiorem a dextra quam a sinistra.</p>
+      <p id="ANODML0058">[Bpdsncddx,Bpdsncddx,Bpdsncddx,Bpssncsdx,Bpssncsdx,Bpssncsdx on staff2]</p>
+      <p id="ANODML0059">
+      <pb n="[27]" />Sequitur de proprietatibus ligaturarum</p>
+      <p id="ANODML0060">Capitulum 9</p>
+      <p id="ANODML0061">P1 14, B 56v b (12-15)</p>
+      <p id="ANODML0062">Quaedam est ligaturarum duarum, quaedam trium, quaedam quatuor, quaedam quinque. Et primo videamus de ligatura duarum. Notandum quod quaedam ligantur ascendendo, quaedam descendendo. Illa ligatura dicitur ascendere cuiuus secundus punctus altior est quam primus. Illa ligatura dicitur descendere cuius secundus punctus inferior est quam sit primus.</p>
+      <p id="ANODML0063">Proprietas ligaturae duarum ascendendo est quod nullum habeat tractum, ut hic:</p>
+      <p id="ANODML0064">[Lig2art,Lig2art,Lig2art on staff2]</p>
+      <p id="ANODML0065">Proprietas ligaturae trium descendendo est quod habeat tractum a parte sinistra, ut hic:</p>
+      <p id="ANODML0066">[Lig3cdsndd on staff3]</p>
+      <p id="ANODML0067">De quatuor ligatis, quaedam ligantur ascendendo, quaedam descendendo.</p>
+      <p id="ANODML0068">
+      <pb n="[28]" />Proprietas ligaturae ascendendo est quod nullum habeat tractum, et scribitur in hunc modum:</p>
+      <p id="ANODML0069">[Lig4aaa on staff3]</p>
+      <p id="ANODML0070">Proprietas ligaturae quatuor descendendo est quod habeat tractum a parte sinistra, ut hic:</p>
+      <p id="ANODML0071">[Lig4cdsnddd on staff2]</p>
+      <p id="ANODML0072">Proprietas ligaturae quinque est quod habeat tractum super caput positum, tam ascendendo quam descendendo, ut hic:</p>
+      <p id="ANODML0073">[Lig5cssndddd,r,Lig5cssnaaaart on staff3]</p>
+      <p id="ANODML0074">Et sciendum quod omnis ligatura excedens tres ligatas debet reduci ad tres ligatas, a verbi gratia: de tribus ligatis, ultima nota valet 
+      <pb n="[29]" />unam longam, et prima est longa et altera brevis. Similiter de quatuor ligatis, ultima nota valet unam longam et tres praecedentes valent longam et brevem; et sic quatuor ligatae reducuntur ad tres ligatas, scilicet tempus. Similiter est de quinque ligatis: ultima valet unam longam et totum residuum valet longam et brevem. Et sic ligatura quatuor vel quinque notarum, plurium si sint, reducuntur omnes ad tres ligatas, nec possunt plus valere secundum tempus quam tres ligatae.</p>
+      <p id="ANODML0075">Sequitur de speciebus artis musicae</p>
+      <p id="ANODML0076">Capitulum 10</p>
+      <p id="ANODML0077">P1 14</p>
+      <p id="ANODML0078">Et sciendum quod tredecim sunt species in musica: quarum prima dicitur unisonus, secunda dicitur semitonium, tertia dicitur tonus, quarta dicitur semiditonus, quinta dicitur dytonus, sexta dicitur dyatesseron, septima dicitur dyapente, octava dicitur dyapason, nona dicitur semitonium cum dyapente, decima dicitur tonus cum dyapente, undecima dicitur semidytonus cum dyapente, duodecima dicitur dytonus cum dyapente, tertia decima dicitur tritonus.</p>
+      <p id="ANODML0079">Et quaeritur quare non dicitur dyatesseron super diapente, ut habeatur quatuordecim species sicut praecedentes species, scilicet semitonium, tonus, semyditonus et dytonus. Solutio: dyatesseron et dyapente continentur infra dyapason, et similiter omnes praecedentes species, et propter hoc non potest dici dyatesseron cum dyapente. Quia ex quo dyatesseron et dyapente perficiunt dyapason, superflue diceretur dyatessaron super dyapente. Unde bis repeteretur dyapason, et hoc est modo quare non dicitur dyatessaron cum dyapente.</p>
+      <p id="ANODML0080">
+      <pb n="[30]" />De speciebus singulis</p>
+      <p id="ANODML0081">Capitulum 11</p>
+      <p id="ANODML0082">P1 14</p>
+      <p id="ANODML0083">Primo videndum est quid sit unisonus per diffinitionem, et postea unde dicatur. Unisonus est quicquid ponitur in eadem linea vel in eodem spatio, et dicitur ab unus, una, unum quasi unus sonus, quia de duobus prolatis fit unus sonus, ut hic:</p>
+      <p id="ANODML0084">[CSM36:30,1]</p>
+      <p id="ANODML0085">Secunda species est semitonium: per diffinitionem distantia inter duos unisonos quod secundum vocem hominis non potest dividi. Et dicitur a semi quod est dimidium, et sonus quasi continens in se dimidium tonum, sicut in hoc loco:</p>
+      <p id="ANODML0086">[CSM36:30,2]</p>
+      <p id="ANODML0087">Tertia species est tonus, et est tonus distantia inter duos unisonos continens in se duo semitonia, ut hic:</p>
+      <p id="ANODML0088">[CSM36:30,3]</p>
+      <p id="ANODML0089">
+      <pb n="[31]" />Quarta species est semiditonus, et est semidytonus distantia inter duos unisonos continens in se tonum cum dimidio. Et dicitur a semi quod est dimidium et dytonus, quasi tonus et dimidius, ut hic:</p>
+      <p id="ANODML0090">[CSM36:31,1]</p>
+      <p id="ANODML0091">Quinta species est dytonus, et est dytonus distantia inter duos unisonos continens in se duos tonos et tres voces. Et dicitur a dya quod est de et tonus, quasi de duobus tonis, ut hic:</p>
+      <p id="ANODML0092">[CSM36:31,2]</p>
+      <p id="ANODML0093">Sexta species est dyatesseron, et est dyatesseron distantia inter duos unisonos continens in se duos tonos cum dimidio. Et dicitur a dia quod est de et tessaron quod est quatuor, quasi de quatuor vocibus, sicut hic:</p>
+      <p id="ANODML0094">[CSM36:31,3]</p>
+      <p id="ANODML0095">Septima species est dyapente, et est dyapente distantia inter duos unisonos continens in se tres tonos cum dimidio. Et dicitur a dya quod est de et penta quod est quinque, quasi de quinque vocibus, ut hic:</p>
+      <p id="ANODML0096">[CSM36:31,4]</p>
+      <p id="ANODML0097">
+      <pb n="[32]" />Octava species est dyapason, quae est distantia inter duos unisonos continens in se sex tonos. Et dicitur a dya quod est de et pason quod est totum, quasi continens in se totum quod praedictum est, id est omnes praedictas species, sicut in hoc exemplo:</p>
+      <p id="ANODML0098">[CSM36:32,1]</p>
+      <p id="ANODML0099">Nona species est semitonium cum dyapente, et est distantia inter duos unisonos continens in se quatuor tonos et sex voces, ut hic:</p>
+      <p id="ANODML0100">[CSM36:32,2]</p>
+      <p id="ANODML0101">Decima species est tonus cum dyapente, et est distantia inter duos unisonos continens in se quatuor tonos cum dimidio et sex voces, ut praesenti exemplo:</p>
+      <p id="ANODML0102">[CSM36:32,3]</p>
+      <p id="ANODML0103">
+      <pb n="[33]" />Undecima species est semidytonus cum dyapente, qui est distantia inter duos unisonos continens in se quinque tonos et septem voces, ut hic:</p>
+      <p id="ANODML0104">[CSM36:33,1]</p>
+      <p id="ANODML0105">Duodecima species est ditonus cum dyapente, et est distantia inter duos unisonos continens in se quinque tonos cum dimidio et septem voces, ut hic:</p>
+      <p id="ANODML0106">[CSM36:33,2]</p>
+      <p id="ANODML0107">Tertia decima species et ultima est tritonus, qui est distantia inter duos unisonos continens in se quatuor voces. Et dicitur a tris quod est tres et tonus, quasi habens tres tonos.</p>
+      <p id="ANODML0108">[CSM36:33,3]</p>
+      <p id="ANODML0109">Et notandum quod unisonus, semidytonus, dytonus, dyatesseron, dyapente et dyapason sunt magis necessariae species quam aliae, 
+      <pb n="[34]" />quia omnis discantus se habet cum tenore suo in aliqua istarum consonantiarum.</p>
+      <p id="ANODML0110">Notandum est quod unisonus et dyapason sunt consonantiae perfectae, dytonus et semidytonus sunt inperfectae, dyatesseron et dyapente dicuntur mediae.</p>
+      <p id="ANODML0111">De tonis</p>
+      <p id="ANODML0112">Capitulum 12</p>
+      <p id="ANODML0113">P1 14v</p>
+      <p id="ANODML0114">Tonus est generalis regula qui de omni cantu in fine diiudicat, non in principio, quia per principium non cognoscuntur veraciter antiphonae nec responsoria. Unde finis iudicium est cuiuslibet toni.</p>
+      <p id="ANODML0115">Videamus ergo quot fines sunt in quibus omnis cantus finitur. Notandum est quod quatuor sunt fines principales in quibus omnis cantus debet finiri, scilicet: d, e, f, g. In istis quatuor litteris naturaliter debet reduci omnis cantus. Item sunt duo fines collaterales in quibus quartus et quintus et sextus aliquando terminantur, scilicet in a in regula et in c in regula.</p>
+      <p id="ANODML0116">Redeamus ad principales fines. Si ergo antiphona terminetur in d regula, et Seculorum incipiat in a in regula, primi toni est; item si in d, et Seculorum in f in regula incipiat, secundi toni est. Si antiphona terminetur in e in spatio et Seculorum in c in regula, tertii toni; item si in e, et Seculorum in a in regula, quarti toni est. Si antiphona terminetur in f, et Seculorum incipiat in c in regula, quinti toni est; item si in f, Seculorum in a, sexti toni erit. Si antiphona terminetur in g, et Seculorum incipiat in d in spatio, septimi toni erit; si in g, et Seculorum in c in regula, octavi toni.</p>
+      <p id="ANODML0117">
+      <pb n="[35]" />Dictum est de principalibus finibus, dicendum est de collateralibus, scilicet a in regula et c in spatio. Si ergo antiphona terminetur in a in regula per b rotundum, et Seculorum incipiat in d in spatio, quarti toni erit; et talis tonus reducitur in e in spatio. Si antiphona terminetur in c in regula, aut quinti aut sexti toni erit. Si in c, et Seculorum incipiat in g in regula, quinti toni erit. Item si in c in regula, et Seculorum in e in regula, sexti toni erit. Sciendum est quod isti duo fines collaterales debent reduci ad principales, videlicet a in regula in e in spatio, et c in regula in f in regula.</p>
+      <p id="ANODML0118">Finis.</p>
+    </body>
+  </text>
+</TEI>

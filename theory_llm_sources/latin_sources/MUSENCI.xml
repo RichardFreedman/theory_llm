@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Musica enchiriadis</title>
+        <title type="abbrev">MUSENCI</title>
+        <author>Anonymous</author>
+        <date notBefore="800" notAfter="1099">9th-11th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Andreas Giger</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Dawn Reindl</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Andreas Giger</persName>
+      </respStmt>
+      <date>1999</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Hans Schmid, ed., 
+<emph>Musica et scolica enchiriadis una cum aliquibus tractatulis adiunctis</emph>, Bayerische Akademie der Wissenschaften, Veröffentlichungen der Musikhistorischen Kommission, Band 3 (Munich: Bayerische Akademie der Wissenschaften / C. H. Beck, 1981), 1–29, 31–59. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: Musica enchiriadis</title>
+          
+<idno type="LML">MUS. ENCH.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">A-Wn Cod. 55, 168-182</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Br 10078/95, 46-56</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Br 10114/6, 76-86</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">CH-E 79, 2-27</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-BAs Class. 9, 1-14v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-BAs Varia 1, 40v-41v, 47-59v, 61v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-ERu 66, 85-95, 110-119</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-HEu Salem IX, 20, 114v-121</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-KNa W 331, 191-215</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 6409, 1v-10v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 14272, 155-161</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 14372, 1-8v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 14649, 1v-11</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 18914, 1-9v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-St. Blasien without shelfmark, a</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-W 72 Gud. Lat. 2°, 52-62</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">E-Bac Ripoll 42, 39-41v, 43-45v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">E-Mn 9088, 104-110v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-CHRm 130, 1-9v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 7210, 71, 1-21</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 7211, 1-12</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 7212, 1v-12v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Sm without shelfmark, w</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-VAL 337 (olim 359, 325), 42-54v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ccc 260, 3-18</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Lbl Add. 17808, 23-32</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Lbl Arundel 77, 62v-71</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 14372,</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 18914,</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="MUSENCI0001">
+      <pb n="[1]" />caput I INCIPIT LIBER ENCHIRIADIS DE MUSICA.</p>
+      <p id="MUSENCI0002">caput II De ptongorum figuris et quare sint ogdecim.</p>
+      <p id="MUSENCI0003">caput III Unde dicatur tetrachordum finalium et ceterorum.</p>
+      <p id="MUSENCI0004">caput IV Quare unum solum tetrachordum sub finalibus sit et duo supra.</p>
+      <p id="MUSENCI0005">caput V Quid distet inter autentos et minores tonos.</p>
+      <p id="MUSENCI0006">caput VI De proprietate sonorum et quotis locis ab invicem distent eiusdem qualitatis soni.</p>
+      <p id="MUSENCI0007">caput VII Descriptiunculae de sonorum proprietatibus ad exercendum.</p>
+      <p id="MUSENCI0008">caput VIII Quomodo ex quattuor sonorum vi omnes toni producantur.</p>
+      <p id="MUSENCI0009">caput IX Quid sit inter ptongos et sonos, inter tonos et epogdoos, quid etiam toni et modi sive tropi, particulae quoque, quid diastema et sistema.</p>
+      <p id="MUSENCI0010">caput X De symphoniis.</p>
+      <p id="MUSENCI0011">caput XI Quomodo ex simplicibus symphoniis aliae componantur.</p>
+      <p id="MUSENCI0012">caput XII Item de eisdem symphoniis.</p>
+      <p id="MUSENCI0013">caput XIII De proprietate symphoniarum.</p>
+      <p id="MUSENCI0014">caput XIV De auctiore diaphonia per diatessaron eiusque descriptio.</p>
+      <p id="MUSENCI0015">caput XV Diaphoniae auctioris descriptio per diapente.</p>
+      <p id="MUSENCI0016">caput XVI Quid de his Ptolomeum sensisse Boetius narrat.</p>
+      <p id="MUSENCI0017">caput XVII De ordine consonantiarum, consonantia et inconsonantia.</p>
+      <p id="MUSENCI0018">caput XVIII Quod modo altiora modo summissiora loca organum petat.</p>
+      <p id="MUSENCI0019">caput XIX Quod in aliquibus rationis huius profunditas minus sit penetrabilis.</p>
+      <p id="MUSENCI0020">
+      <pb n="[2]" />Enchirias normam statuit, cui limmata quartis</p>
+      <p id="MUSENCI0021">Sunt spaciis in parte gravi, praeeunte tonorum</p>
+      <p id="MUSENCI0022">Sorte trium; cum fit quater hic diapenticus ordo,</p>
+      <p id="MUSENCI0023">Qui quadriformis habet quintis regionibus aequum,</p>
+      <p id="MUSENCI0024">Septima post decimam complet hoc chorda, sequenti</p>
+      <p id="MUSENCI0025">Nexa tono. sic ter senas notat arte caracter</p>
+      <p id="MUSENCI0026">Dans tetrachorda quater, quae a se discrimine distant.</p>
+      <p id="MUSENCI0027">
+      <pb n="[3]" />[caput I in marg.] INCIPIT LIBER ENCHIRIADIS DE MUSICA</p>
+      <p id="MUSENCI0028">Sicut vocis articulatae elementariae atque individuae partes sunt litterae, ex quibus compositae syllabae rursus componunt verba et nomina eaque perfectae orationis textum, sic canorae vocis ptongi, qui Latine dicuntur soni, origines sunt et totius musicae continentia in eorum ultimam resolutionem desinit. Ex sonorum copulatione diastemata, porro ex diastematibus concrescunt systemata; soni vero prima sunt fundamenta cantus. Ptongi autem non quicumque dicuntur soni, sed qui legitimis ab invicem spaciis melo sunt apti. Eorum quidem sic et intendendo et remittendo naturaliter ordo continuatur, ut semper 
+      <pb n="[4]" />quattuor et quattuor eiusdem conditionis sese consequantur. At singuli horum quattuor sic sunt competenti inter se diversitate dissimiles, ut non solum acumine differant et gravitate, sed in ipso acumine et gravitate propriam naturalitatis suae habeant qualitatem, quam rursus his singulis ratum ab invicem acuminis et laxionis spacium format. Exempli gratia hae in ordine ipsorum notae: [descriptio 1 in marg.]</p>
+      <p id="MUSENCI0029">[VMKIII:4; text: tonus, semitonium, Primus qui et gravissimus Grece protos dicitur, vel archoos; Secundus deuteros, tono distans a proto; Tertius tritos, semitonio distans a deutero; Quartus tetrardus, tono distans a trito.] 
+      <figure>
+        <graphic url="/images/MUSENCI_01GF.gif" />
+      </figure></p>
+      <p id="MUSENCI0030">Horum continua multiplicatione sonorum infinitas texitur, et tamdiu quaternis quaterni eiusdem conditionis succedunt, donec vel ascendendo vel descendendo deficiant.</p>
+      <p id="MUSENCI0031">
+      <pb n="[5]" />Ita: [descriptiones 2/3 in marg.]</p>
+      <p id="MUSENCI0032">[VMKIII:5,1; text: tonus, semitonium]</p>
+      <p id="MUSENCI0033">Ut enim haec descriptiuncula ostendit, sive sursum sive iusum sonos in ordine ducas usque in defectum vocis, huiusmodi velut tetracordorum successio non cessabit. Horum etiam quattuor sonorum virtus octo modorum potestatem creat, ut postea suo loco dicetur. Horum sociali diversitate tota adunatur armonia. Verum quia, ut dictum est, eorum multiplicatio in inmensum procedit, ex hac inmensitatis confusione certum sibi numerum elegit ratio disciplinae et in decem et octo sonis sibi speculationem posuit. In quibus primum et humillimum constat tetracordum gravium. Huic proximum tetracordum finalium. Post quos tetracordum superiorum. Deinde excellentium. Ultimi remanent duo. Quorum descriptio en ista est:</p>
+      <p id="MUSENCI0034">[VMKIII:5,2; text: tonus, semitonium, graves, finales, superiores, excellentes]</p>
+      <p id="MUSENCI0035">
+      <pb n="[6]" />[caput II in marg.] DE PTONGORUM FIGURIS ET QUARE SINT OGDECIM</p>
+      <p id="MUSENCI0036">Igitur quia, ut dictum est, eiusdem conditionis quattuor et quattuor natura statuit, ita et notae pene sunt eaedem. Solummodo tetracordorum differentia versis in varium karacteribus indicatur.</p>
+      <p id="MUSENCI0037">[VMKIII:6; text: Primus finalis seu terminalis dasian inclinum S ad caput ita, Secundus finalis C versum ad caput ita, Tertius finalis I iota simplex et inclinum ita, Quartus finalis C dimidium ad caput ita, Graves retro versi finales ita, Superiores demissi capita finales ita, Excellentes demissi capita graves ita, tonus, semitonium]</p>
+      <p id="MUSENCI0038">Excepto trito, qui in gravibus notam habet N inclinum [signum], in superioribus N versum et inclinum [signum], in excellentibus iota perfixum [signum]. Duo 
+      <pb n="[7]" />residui signa habent [signa] iacentis proti et deuteri. Sunt omnes duodeviginti, quo videlicet singuli extremam suam symphoniam attingant, id est quindecimum sonum, unde post dicetur. Sunt et alia plura plurium sonorum signa inventa antiquitus, sed nobis a facilioribus ordiendum.</p>
+      <p id="MUSENCI0039">[caput III in marg.] UNDE DICATUR TETRACORDUM FINALIUM ET CETERORUM</p>
+      <p id="MUSENCI0040">Terminales sive finales dicuntur, quia in unum aliquem ex his quattuor melos omne finiri necesse est. Etenim primi toni melum et subiugalis sui sono [signum] archoo regitur et finitur. Secundus tonus cum subiugali suo sono [signum] deutero regitur et finitur. Tertius eiusque subiugalis 
+      <pb n="[8]" />sono [signum] trito regitur et finitur. Quartus cum suo subiugali sono [signum] tetrardo regitur et finitur. Vocatur autem autentus maior quilibet tonus, plagis minor.</p>
+      <p id="MUSENCI0041">[caput IV in marg.] QUARE UNUM SOLUM TETRACORDUM SUB FINALIBUS SIT ET DUO SUPRA</p>
+      <p id="MUSENCI0042">Finales seu terminales soni sub se habent unum tetracordum, quod dicitur gravium, supra se autem duo, id est superiorum et excellentium cum residuis duobus sonis, videlicet quod simplex et legitimus cantus inferius non descendit quam usque ad sonum quintum a finali suo, in primo dumtaxat tono et secundo ab [signum] archoo vel proto finali usque in eundem gravem [signum], in tertio et quarto a [signum] deutero finali usque in eundem gravem [signum], in quinto et sexto a [signum] trito finali usque in eundem 
+      <pb n="[9]" />gravem [signum], in septimo et octavo a [signum] tetrardo finali usque in eundem gravem [signum]. At vero in acumine a quocumque finali sono usque in tertium eiusdem nominis sonum efferri valet, id est usque in excellentes.</p>
+      <p id="MUSENCI0043">[caput V in marg.] QUID DISTET INTER AUTENTOS ET MINORES TONOS</p>
+      <p id="MUSENCI0044">Praeterea cum eodem sono autentus quisque tonus et qui sub ipso est regantur et finiantur, unde et pro uno habentur tono, in hoc tamen differunt, quod minoribus tonis minora in elevando sunt spacia, et inferior quisque tonus non nisi ad quintum usque sonum a finali sono ascendit, sed et hoc raro.</p>
+      <p id="MUSENCI0045">
+      <pb n="[10]" />[caput VI in marg.] DE PROPRIETATE SONORUM ET QUOTIS LOCIS AB INVICEM DISTENT EIUSDEM QUALITATIS SONI</p>
+      <p id="MUSENCI0046">Igitur quem in his studere delectat, det operam, quatinus propriam cuiusque soni vim calleat dinoscere, dehinc in miscendis sonis quotumcumque ptongum sive in gravem seu in acutam partem celeriter capere, ut, et virtute et karactere quotus quisque sit sonus a sono, liquido contempletur. Omnis sonus musicus habet in utramque sui partem quinto loco suaemet qualitatis sonum, tertio loco in utrumque latus sonum eundem, et quem in hoc aut illo latere secundum habet, in altero habet quartum. Dandum quoque aliquid eis est, qui minus adhuc in his exercitati sunt, quo vel in noto quolibet melo sonorum proprias discant discernere qualitates vel ignotum melum ex nota eorum qualitate et ordine per signa investigare. Non parum enim ad investigationem hanc 
+      <pb n="[11]" />proficit, dum singulorum ipsorum per vicinos sonos Greca suo ordine modulantur vocabula hoc modo: [descriptio in marg.]</p>
+      <p id="MUSENCI0047">[VMKIII:11; text: tritos, deuteros, archoos, tetrardos] 
+      <figure>
+        <graphic url="/images/MUSENCI_02GF.gif" />
+      </figure></p>
+      <p id="MUSENCI0048">[caput VII in marg.] DESCRIPTIUNCULAE DE SONORUM PROPRIETATIBUS AD EXERCENDUM</p>
+      <p id="MUSENCI0049">Sic itaque sonus quisque dum suo semetipsum nomine canit, facile in canendo sentitur, quis ille vel ille sit. Exemplo sit inferius descriptum carmen, quod superscriptae syllabis notae musicae modulantur ipsarum desuper notarum appellationibus adsignatis ad hunc modum.</p>
+      <p id="MUSENCI0050">
+      <pb n="[12]" />[descriptio in marg.]</p>
+      <p id="MUSENCI0051">[VMKIII:12; text: tetrardos, archoos, deuteros, tritos, Rex caeli domine squalidique soli, Tytanis nitidi maris undisoni, Te humiles famuli modulis venerando piis, Se iubeas flagitant variis liberare malis]</p>
+      <p id="MUSENCI0052">
+      <pb n="[13]" />Sed dum forte in sono aliquo dubitatur, quotus sit, tum a semitoniis, quibus constat semper deuterum tritumque disiungi, toni in ordine rimentur et mox, quis ille fuerit, agnoscetur, donec sonos posse notare vel canere non minus quam litteras scribere vel legere ipse usus efficiat. Et haec utcumque dicta sint ad studia incipientium adiuvanda.</p>
+      <p id="MUSENCI0053">[caput VIII in marg.] QUOMODO EX QUATTUOR SONORUM VI OMNES TONI PRODUCANTUR</p>
+      <p id="MUSENCI0054">Demonstrandum nunc, quomodo haec quattuor ptongorum vis modos, quos abusive tonos dicimus, moderetur, et fiat dispositio talis: Sternantur in ordine veluti quaedam cordae e sonorum notis singulis e 
+      <pb n="[14]" />regione positis procedentes. Sint autem cordae vocum vice, quas eae significent notae. Inter quas cordas exprimatur neuma quaelibet, utputa huiusmodi: [descriptio 1 in marg.]</p>
+      <p id="MUSENCI0055">[VMKIII:14; text: tonus, semitonium, alleluia] 
+      <figure>
+        <graphic url="/images/MUSENCI_03GF.gif" />
+      </figure></p>
+      <p id="MUSENCI0056">Ergo ut, quod dicitur, et audiendo et videndo comprobetur, alia rursus descriptiuncula per neumam eandem fiat. Similiter enim cordis a parte in partem ductis quaterna inter cordas series continuatim describatur, ita ut unaquaeque series suo proprio sit insignita colore. Primae quidem neumae series a sono [signum] incipiat et in sonum [signum] finiat. Secunda a sono [signum] inchoet et sono [signum] compleatur. Tertia incipiat a sono [signum] et in 
+      <pb n="[15]" />sonum [signum] desinat. Quarta a sono [signum] ordiatur et in sono [signum] consistat, ita: [descriptio 2 in marg.]</p>
+      <p id="MUSENCI0057">[VMKIII:15; text: tonus, semitonium, alleluia]</p>
+      <p id="MUSENCI0058">Hae quattuor descriptiunculae, dum solo ab invicem semitonio vel tono id est armonico spacio distant, eo solo a genere in genus singulae transponuntur. Primam dispositionem cum cecineris, poteris dinoscere, quia vis primi soni [signum] primi toni virtutem creet, qui protus autentus dicitur. Secundam cum cecineris, senties tonum deuterum a sono [signum] deutero gubernari. Tertiam assumens videbis similiter in sono [signum] trito triti toni consistere potestatem. Quartam cum fueris modulatus, intelleges toni tetrardi genus a sono tetrardo [signum] procedere.</p>
+      <p id="MUSENCI0059">
+      <pb n="[16]" />Igitur primae modulationi quaecumque primi toni mela aptari poterunt et subiugalis sui. Sua similiter secundae. Sua similiter tertiae. Sua similiter quartae, ad subiecta singulorum exempla. Quae dupliciter ad evidentiorem intellectum describere conatus sum, et linealiter quidem veluti cordarum usu et singillatim notarum adpositione per syllabas.</p>
+      <p id="MUSENCI0060">Modulatio ad principalem protum modum et subiugalem eius [descriptio 3 in marg.]</p>
+      <p id="MUSENCI0061">[VMKIII:16; text: Alleluia. Laudate Dominum de caelis. Caeli caelorum laudate Deum.]</p>
+      <p id="MUSENCI0062">
+      <pb n="[17]" />Sequitur modulatio ad principalem deuterum modum et subiugalem eius. [descriptio 4 in marg.]</p>
+      <p id="MUSENCI0063">[VMKIII:17; text: Alleluia. Confitebor Domino nimis in ore meo. Laudabo Deum meum in vita mea.]</p>
+      <p id="MUSENCI0064">
+      <pb n="[18]" />Sequitur modulatio ad principalem tritum modum et subiugalem eius. [descriptio 5 in marg.]</p>
+      <p id="MUSENCI0065">[VMKIII:18; text: Alleluia. Intellege clamorem meum Domine. Miserere mei Deus.] 
+      <figure>
+        <graphic url="/images/MUSENCI_04GF.gif" />
+      </figure></p>
+      <p id="MUSENCI0066">Sequitur modulatio ad principalem tetrardum modum et subiugalem eius.</p>
+      <p id="MUSENCI0067">
+      <pb n="[19]" />[descriptio 6 in marg.]</p>
+      <p id="MUSENCI0068">[VMKIII:19; text: Alleluia. Sit nomen Domini benedictum in saecula. In aeternum et in saeculum saeculi.]</p>
+      <p id="MUSENCI0069">Ad hunc modum consuetis utuntur modulis ad investigandam toni cuiusque vim eadem ratione compositis. Quorum principales quique 
+      <pb n="[20]" />a suis sonis superioribus ordientes desinunt in finales, minores vero in finalibus et inchoant et consistunt nec superiorum attingunt locum, utpote NOANNOEANE, NOEAGIS, et cetera, quae putamus non tam significativa esse verba quam syllabas modulationi attributas.</p>
+      <p id="MUSENCI0070">[caput IX in marg.] QUID SIT INTER PTONGOS ET SONOS, INTER TONOS ET EPOGDOOS, QUID ETIAM TONI ET MODI SIVE TROPI, PARTICULAE QUOQUE, QUID DIASTEMA ET SISTEMA</p>
+      <p id="MUSENCI0071">Sed his veluti praeexercitaminibus quibusdam ac vilioribus licet iniciis ante cognitis dehinc faciliori via armonicas prosequimur rationes. Armonia est diversarum vocum apta coadunatio. In quibus vocibus quia plerumque sonos et ptongos indifferenter accipimus, sonos et 
+      <pb n="[21]" />ptongos, tonos et epogdoos, quae singulorum sit proprietas, intimandum. Sonus quarumque vocum generale est nomen, sed ptongos dicimus vocis canorae sonos. Tonus est spacii legitima magnitudo a sono in sonum. Hocque spacium musicorum sonorum, quia in sesquioctava proportione est, Greco nomine dicitur epogdous. Namque ut sescupla sive sesqualtera vel emiolia proportio dicitur, quando maius minoris medietate superat, sesquitertia, ubi maius tertia minoris parte precellit, sesquiquarta, dum minus quarta sui portione a maiore transcenditur, sesquiquinta, dum quinta parte alterum altero maius est, sesquisexta, dum sexta, sesquiseptima, dum septima, ita sesquioctava comparatione sonus ad sonum sese habet, dum gravioris altior in se quantitatem teneat et octavam insuper eius partem. Semitonium non plenum toni intervallum. Idem interdum limma vel diesis dicitur.</p>
+      <p id="MUSENCI0072">
+      <pb n="[22]" />Modi vel tropi sunt species modulationum, de quibus supra dictum est, ut protos autentus vel plagis, deuteros autentus vel plagis, sive modus Dorius, Frigius, Lidius, et ceteri, qui ex gentium vocabulis sortiti sunt nomina. Particulae sunt sua cantionis cola vel commata, quae suis finibus cantum distingunt. Sed cola fiunt coeuntibus apte commatibus duobus pluribusve, quamvis interdum est, ubi indiscrete comma sive colon dici potest. At ipsa commata per arsin et thesin fiunt, id est levationem et positionem. Sed alias simplici arsi et thesi vox in commate semel erigitur ac deponitur, alias sepius. Discrimen autem inter summam et infimam vocem commatis appellatur diastema. Quae diastemata nunc quidem minora sunt, ut est illud, quod vocamus tonum, nunc maiora, ut duum triumve ac deinceps aliquot tonorum habentia intervallum. Porro autem sicut cola commatibus constant, sic 
+      <pb n="[23]" />commatum spacia dicimus diastemata. Quae in colis vero spacia fuerint vel integro quolibet melo, sistemata nominamus.</p>
+      <p id="MUSENCI0073">[caput X in marg.] DE SYMPHONIIS</p>
+      <p id="MUSENCI0074">Praemissae voces non omnes aeque suaviter sibi miscentur nec quoquo modo iunctae concordabiles in cantu reddunt effectus. Ut litterae, si inter se passim iungantur, sepe nec verbis nec syllabis concordabunt copulandis, sic in musica quaedam certa sunt intervalla, quae symphonias possint efficere. Est autem symphonia vocum disparium inter se iunctarum dulcis concentus. Simphoniae simplices ac primae sunt tres, quibus reliquae componuntur. Ex quibus una est, quam diatessaron vocant, altera diapente, tertia diapason.</p>
+      <p id="MUSENCI0075">
+      <pb n="[24]" />Diatessaron interpretatur ex quattuor, quod vel quartanas ad invicem resonat voces vel in ordine quattuor sit sonorum compositio, utputa si ad subiectam descriptionem aut remittas usque in quartum quemlibet sonum aut quattuor in ordine recenseas ita:</p>
+      <p id="MUSENCI0076">Descriptio diatessaron symphoniae [descriptio 1 in marg.]</p>
+      <p id="MUSENCI0077">[VMKIII:24; text: Alleluia]</p>
+      <p id="MUSENCI0078">Ita in utramvis partem quaterna varietate procedunt ac rursus nova processione redeunt.</p>
+      <p id="MUSENCI0079">
+      <pb n="[25]" />Diapente interpretatur ex quinque, quod vel quinque sonorum conexione constet vel a quinto loco concordes sibi voces respondeant ad subiectas descriptiones has:</p>
+      <p id="MUSENCI0080">Descriptio diapente symphoniae [descriptio 2 in marg.]</p>
+      <p id="MUSENCI0081">[VMKIII:25; text: tonus, semitonium] 
+      <figure>
+        <graphic url="/images/MUSENCI_05GF.gif" />
+      </figure></p>
+      <p id="MUSENCI0082">Ad hanc descriptionem a quocumque sonorum quattuor usque ad quintum, qui eiusdem est nominis, per arsin et thesin vel per solam utramlibet singulos ducas in ordine, diapente potest vocari simphonia. Porro secundum quaternas et quaternas sequentes descriptiunculas si quid cecineris, idem consonanter quinta regione respondet, quod magis proprium est diapente.</p>
+      <p id="MUSENCI0083">
+      <pb n="[26]" />Item alia descriptio diapente [descriptio 3 in marg.]</p>
+      <p id="MUSENCI0084">[VMKIII:26; text: tonus, semitonium, Alleluia]</p>
+      <p id="MUSENCI0085">Sic et diapason, quod ex omnibus interpretatur, octavi ad octavum fit consonantia duas superiores in suo sistemate continens. Quae simphonia ideo ex omnibus dicitur, quod antiqui non plus quam octo cordis utebantur. In hac ergo non tam consonae voces quam aequisonae dici possunt et in ea vox denuo innovatur. Quod dum promptius in instrumentis musicis appareret, si non tamen adfuerint, teneat 
+      <pb n="[27]" />alius vocem in sono quolibet aliusque sive sursum sive iusum quattuor et quattuor in ordine rimetur. Dum novissimus sonuerit, senties eum ad primum, id est octavum ad octavum, perfectam consonantiam reddere. Igitur quod his aequisonis vocibus modulatur, huiusmodi fit conlatione hoc modo:</p>
+      <p id="MUSENCI0086">Descriptio diapason [descriptio 4 in marg.]</p>
+      <p id="MUSENCI0087">[VMKIII:27; text: A, B, C, D, E, F, G, Alleluia]</p>
+      <p id="MUSENCI0088">
+      <pb n="[28]" />[caput XI in marg.] QUOMODO EX SIMPLICIBUS SYMPHONIIS ALIAE COMPONANTUR</p>
+      <p id="MUSENCI0089">Ex his quidem simplicibus aliae simphoniae componuntur, ut diapason et diatessaron, diapason et diapente, disdiapason, quae et disdiplasion; utpote si duabus virilibus vocibus per diapason consonantibus tertia puerilis aequisona adiungatur, sic denique acutissima et gravissima disdiapason ad se invicem reddunt, quam simphoniam quindecima conlatae regione consonant, media autem diapason ad utrasque respondet, ut haec descriptio designat:</p>
+      <p id="MUSENCI0090">
+      <pb n="[29]" />Descriptio eorum quae dicuntur [descriptio 1 in marg.]</p>
+      <p id="MUSENCI0091">[VMKIII:29; text: disdiapason, diapason ac diatessaron, diapente ac diapason, A, B, C, D, E, F, G] 
+      <figure>
+        <graphic url="/images/MUSENCI_06GF.gif" />
+      </figure></p>
+      <p id="MUSENCI0092">
+      <pb n="[31]" />Sane non ab uno tantum quolibet sono ad quartum vel quintum aut octavum consonantia fit, sed soni pene singuli et ad gravem et ad acutam partem quartis a se sonis diatessaron et singuli quintis respondent diapente, et sonus quisque in utramque partem ad octavum a se sonum diapason resonat. Quique rursus, id est in utramque partem octavi, sicut ad medium diapason, ita, ut dictum est, ad se invicem quinto decimo loco resonant disdiapason. Fitque, ut semper diapason spacium diatessaron ac diapente compleatur. Medii namque duo soni in hoc spacio dum ad utrumque latus diatessaron ac diapente respondeant, evenit, ut uter eorum ad hoc latus diapente fuerit, ad illud diatessaron fiat, et qui huic diatessaron, illi sit lateri diapente. Sic namque maxima simphonia duabus completur minoribus. Porro maxima simphonia diapason dicitur, quod in ea perfectior ceteris consonantia fiat, ut sive ab acutiore sive a graviore incipias, vox, quam octavo ordine in celsiorem vel humiliorem mutaveris, ad primam vocem unisona habeatur, ita canendo:</p>
+      <p id="MUSENCI0093">
+      <pb n="[32]" />[descriptio 2 in marg.]</p>
+      <p id="MUSENCI0094">[VMKIII:32; text: A, B, C, D, E, F, G, Tu patris sempiternus es filius] 
+      <figure>
+        <graphic url="/images/MUSENCI_07GF.gif" />
+      </figure></p>
+      <p id="MUSENCI0095">Sic enim in infinitum sonorum consequentia progreditur, ut ab unoquoque sono locis octavis renata, ut ita dicam, voce ordo novus emergat 
+      <pb n="[33]" />et dierum more octava sit quae prima, prima quae octava. Unde et in Virgilio apud Elisium Orpheus "obloquitur numeris septem discrimina vocum", quod scilicet sonorum ordo disparibus septem continuetur vocibus, at in octavis in novum mutetur. Etenim sicut denario numero qui fuerit additus, intra eum positus integer inviolatusque servatur, cum in ceteris id ita minime eveniat, ita etiam in hac continentia. Nam si duos tribus adicias, quinque continuo reddis et numeri species immutata est. Si vero eosdem denario addas, duodecim feceris et binarius iunctus denario conservatus est, item ternarius et ceteri eodem modo. Ita igitur simphonia diapason aliam, quam susceperit consonantiam, servat nec immutat nec ex consona dissonam reddit. Hinc fit, ut sicut quindecimi, quod sunt bis octavi, consonanter sibi miscentur, ita et ptongus quisque per diapason ad duodecimum sicut ad quintum diapente resonat. Et quemadmodum ad quartum, sic ad undecimum resonat diatessaron. Attendenda quoque in hoc mira ratio, ut, quamvis absolute canendo vel in ordine sonos 
+      <pb n="[34]" />rimando idem inveniuntur noni ad nonos, non octavi ad octavos, in simphonia tamen non modo diapason, quae octava incedit regione, sed et in bis diapason mutatione mirabili octavi et octavi idem fiunt.</p>
+      <p id="MUSENCI0096">[caput XII in marg.] ITEM DE EISDEM SYMPHONIIS</p>
+      <p id="MUSENCI0097">Quattuor moduli, in quibus prima simphonia invenitur, quae diatessaron dicitur, dum singuli ab invicem concordi proprietatis diversitate differant eorumque, ut dictum est, tetracordo veluti elemento armonia contexatur, utique quaternis et quaternis continuatim sese consequentibus necesse est quintos semper sonos eiusdem conditionis emergere et quintorum collatione eiusdem, ut monstratum est, conditionis vel qualitatis sibi simphoniam respondere, quae dicitur diapente. De cuius vi quamvis aliquid iam prolatum est sicut et de aliis, ut tamen, quae deinceps sunt dicenda, lucidius explanari possint, subiecta iterum cordarum 
+      <pb n="[35]" />descriptione eius ratio contemplanda tradatur. Sit ut prius ex sonorum signis e regione positis cordarum progressio, et inter cordas diapente simphonia disponatur. Ita: [descriptio 1 in marg.]</p>
+      <p id="MUSENCI0098">[VMKIII:35; text: Tu patris sempiternus es filius]</p>
+      <p id="MUSENCI0099">Igitur cum ad rationem huius descriptionis quinta regione aliud post aliud modulatur, senties per diapente simphoniam id ad se invicem eiusdem qualitatis genere consonare. Verum quod in illis quattuor sonitibus, quos singulos ab invicem naturalis ratio per quadrifariam tonorum semitoniorumque positionem propria qualitate discrevit, hoc evenire nequeat, ut melos ullum eiusdem conditionis vel modi manere possit, si ab aliis ad sonos alios transponatur, hoc et in superioribus aliquantulum tetigimus et nunc iteratis exemplis plenius repetendum. 
+      <pb n="[36]" />Sternatur ut prius veluti disposita cordarum series et idem melos, quod nunc in diapente simphonia designatum est, quaternis vel quinis colorum descriptionibus exprimatur, videbisque eandem melodiae formam in transpositione sua manere non posse, sed per epogdoi vel semitonii distantiam modum unumquemque in alium transmutari ita: [descriptio 2 in marg.]</p>
+      <p id="MUSENCI0100">[VMKIII:36; text: tonus, semitonium, Tu patris sempiternus es filius] 
+      <figure>
+        <graphic url="/images/MUSENCI_08GF.gif" />
+      </figure></p>
+      <p id="MUSENCI0101">Primam namque descriptionem, quae a sono [signum] inchoat et finitur primoque deputatur modo, si toto ductu spacio uno feceris altiorem, ut inter cordam et cordam paginula interiecta designat, mox in modum mutatur deuterum, qui a sono [signum] incipit ac desinit in eundem. Fac 
+      <pb n="[37]" />duobus acutiorem a sono [signum] incipiens, et tritus modus erit. Si tribus, modus nascitur quartus. Si adhuc uno altius spacio efferatur, erit quinta denuo regione primus. Similiter et in ceteris semper a quinto prior ordo redit.</p>
+      <p id="MUSENCI0102">[caput XIII in marg.] DE PROPRIETATE SYMPHONIARUM</p>
+      <p id="MUSENCI0103">Monstratum nunc, qualiter unusquisque sonus in tetracordo propria sit conditione dispar ab altero ex eorumque concordi diversitate diversae prodeant modorum seu troporum species, dictum quoque, quotis locis voces ab invicem distantes singulas consequenter simphonias reddant, nunc id, quod proprie simphoniae dicuntur et sunt, id est qualiter eaedem voces sese in unum canendo habeant, prosequamur. Haec namque est, quam diaphoniam cantilenam vel assuete organum nuncupamus. Dicta autem diaphonia, quod non uniformi canore constet, sed concentu concorditer dissono. Quod licet omnium simphoniarum est commune, in diatessaron tamen ac diapente hoc nomen optinuit. 
+      <pb n="[38]" />Ac inprimis per diatessaron organici meli ponatur exemplum, utpote si ad subiectam descriptionem duobus sonis interpositis quarto loco in unum canendo vox voci respondeat. Ita: [descriptio in marg.]</p>
+      <p id="MUSENCI0104">[VMKIII:38; text: Tu patris sempiternus es filius]</p>
+      <p id="MUSENCI0105">Sic enim duobus aut pluribus in unum canendo modesta dumtaxat et concordi morositate, quod suum est huius meli, videbis suavem nasci ex hac sonorum commixtione concentum.</p>
+      <p id="MUSENCI0106">[caput XIV in marg.] DE AUCTIORE DIAPHONIA PER DIATESSARON EIUSQUE DESCRIPTIO</p>
+      <p id="MUSENCI0107">Nec solum hac collatione vox simplex si simplici conferatur, sed et si simplex organum respondeat duplae aut dupla simplici, vel si ambas 
+      <pb n="[39]" />per diplasion duplicaveris, senties huiusmodi proportionum voces suaviter ad invicem resonare ad subiectam descriptionem: [descriptio in marg.]</p>
+      <p id="MUSENCI0108">[VMKIII:39; text: ORGANALIS, PRINCIPALIS, Tu patris sempiternus es filius]</p>
+      <p id="MUSENCI0109">Ratio descriptionis eiusdem</p>
+      <p id="MUSENCI0110">Sive namque simplici cantui duplex adiungas organum, quod potest 
+      <pb n="[40]" />significare primus versus ac tertius, qui ad secundum versum vicem tenent organi, sive ad duplicem cantum simplex organum referatur, quod versus secundus designat et quartus organum in sui medio continentes, seu et organum gemines et cantum, sive etiam triplum utrumque facias, descripta ad invicem consonat ratione. Possunt enim et humanae voces et in aliquibus instrumentis musicis non modo binae et binae, sed et ternae ac ternae hac sibi collatione misceri, dum utique uno inpulsu vel tribus in unum vocibus actitatis totidem voces respondent organum.</p>
+      <p id="MUSENCI0111">Ubi attendendum, ut vox media inter duas non aequo spacio se ad utrasque habeat, quippe cum in octonario numero unitatis medietas non sit, verum ab inferiori latere ad cantum diatessaron spacio respondeatur, a superiore vero spacio diapente. Et ut hoc clarius insinuetur nescientibus sine fastidio scientium: Si voce virili organizetur simul cum 
+      <pb n="[41]" />voce puerili, sunt quidem hae duae voces sibi per diapason consonae; ad eam autem vocem, quam inter se mediam continent, ad quam scilicet utraeque organum respondent, acutior, quae est puerilis, quinto extat loco superior, ea, quae virilis, quarto loco gravior. Sic enim cognato nexu sese mutuo simphoniae ligant, ut quicumque sonus ex hac parte quartana conlatione se habet ad alium, ex illa parte per diplasion quinta regione ad eundem respiciat.</p>
+      <p id="MUSENCI0112">[caput XV in marg.] DIAPHONIAE AUCTIORIS DESCRIPTIO PER DIAPENTE</p>
+      <p id="MUSENCI0113">Rursus ubi per diapente diaphoniam tribus seu quattuor vocibus modulatur, vox quae ab inferiori latere quinto loco est, hanc a superiore latere per diplasion necesse est quarto loco ad mediam respondere hoc modo:</p>
+      <p id="MUSENCI0114">
+      <pb n="[42]" />[descriptio in marg.]</p>
+      <p id="MUSENCI0115">[VMKIII:42; text: ORGANALIS, PRINCIPALIS, Sit gloria domini in secula, Letabitur dominus in operibus suis.] 
+      <figure>
+        <graphic url="/images/MUSENCI_09GF.gif" />
+      </figure></p>
+      <p id="MUSENCI0116">Ratio descriptionis eiusdem</p>
+      <p id="MUSENCI0117">Quadripartita huius descriptionis series eodem digesta ordine, quo superior: In primo quoque ac tertio versu organum respondet ad medium, 
+      <pb n="[43]" />in secundo et quarto tertius, qui est in medio, sese cum simplici organo diapason miscet consonantiae, vel certe geminum portendit organum cum cantu duplici. Ubi etiam aspicis ab inferiore parte tertium versum quinta regione conferri ad secundum ac rursus tertium quarto primumque secundo quartana consonare distantia. Hisque rationibus eae duae simphoniae varias miscent dulcesque cantilenas.</p>
+      <p id="MUSENCI0118">[caput XVI in marg.] QUID DE HIS PTOLOMEUM SENSISSE BOETIUS NARRAT</p>
+      <p id="MUSENCI0119">Hic advertere possumus veriorem videri Ptolomei assertionem, qua eum Boetius contra Pytagoricos sensisse memorat, qui dicunt diapason ac diatessaron non esse consonantiam. Certe utramvis harum descriptionum duplo et cantu et organo cecineris, ita duplae voci dupla vox sociatur, tamquam si simplex addatur simplici. Necnon si canentes in unum secundum et quartum prioris descriptionis versum iungamus et quintum quarto dumtaxat loco ad gravem partem, et sic rite ad 
+      <pb n="[44]" />diapason simpliciter consonat diatessaron. Canamus ad sequentem descriptionem quartum et secundum adiungentes et primum, et similiter cum diapason eadem consonantia concordat. Prosequitur idipsum ex Ptolomei sententia praefatus doctor magnificus in quinto musicae rationis volumine hoc modo, acutos quidem sonos in ulteriore parte ponens, citeriore graves, hoc modo. [descriptio in marg.]</p>
+      <p id="MUSENCI0120">[VMKIII:44; text: diapason, diatessaron, Hypate hypaton, Parhypate hypaton, Hypaton lichanos, Hypate meson, Parhypate meson, Lichanos meson, Mese, Paramese, Trite diezeugmenon, Paranete diezeugmenon, Nete diezeugmenon, Trite hyperboleon, Paranete hyperboleon, Nete hyperboleon]</p>
+      <p id="MUSENCI0121">
+      <pb n="[45]" />"Quoniam", inquit, "diapason consonantia talem vocis efficit coniunctionem, ut unus atque idem nervus esse videatur, idque Pytagorici quoque consentiunt, quocirca si qua ei consonantia fuerit addita, integra inviolataque servatur. Ita enim diapason consonantiae additur diatessaron tamquam uni nervo. Sit igitur diapason consonantia, quae contineatur inter hypaten meson et neten diezeugmenon. Utraque haec ita sibi consentit atque coniungitur sono, ut una vox quasi unius nervi, non quasi duorum mixta pellat auditum. Quamcumque igitur huic diapason consonantiae consonantiam iunxerimus, servatur integra, quia ita iungitur tamquam uni voculae ac nervo. Si igitur hypate meson et 
+      <pb n="[46]" />nete diezeugmenon duae in acutum diatessaron fuerint iunctae, sicut iungitur nete quidem diezeugmenon ea, quae est nete hyperboleon, hypate autem meson ea, quae est mese, utraque ad utramque consonabit, et mese ad neten diezeugmenon et eadem mese ad hypaten meson, item nete hyperboleon ad neten diezeugmenon et ad hypaten meson. Item, si ad graviorem partem utrisque diatessaron consonantiae relaxentur, erit ad meson quidem hypaten diatessaron retinens consonantiam hypate hypaton, ad neten autem diezeugmenon paramese. Consonabitque et hypate hypaton et hypate meson ad neten diezeugmenon, 
+      <pb n="[47]" />ad paramesen autem nete diezeugmenon et hypate meson, sed eo modo, ut gravior quae est, ad sibi quidem proximam diatessaron retineat consonantiam, ad ulteriorem vero diatessaron ac diapason, ut hypate hypaton ad hypaten meson diatessaron, ad neten diezeugmenon diatessaron ac diapason. Item nete hyperboleon, quae est acutior, ad sibi proximam neten diezeugmenon diatessaron consonantiam, ad hypaten meson diatessaron ac diapason," et cetera. Haec quidem Boetius.</p>
+      <p id="MUSENCI0122">[caput XVII in marg.] DE ORDINE CONSONANTIARUM, CONSONANTIA ET INCONSONANTIA</p>
+      <p id="MUSENCI0123">Praeterea de diapason vel disdiapason non est opus amplius descriptione, quae ita naturaliter omni aetati in canendo occurrunt, ut arte tradi non egeant, constatque satis dictum in simphonia disdiapason 
+      <pb n="[48]" />mediam ad utrasque octava regione conferri, extremas sibi loco quinto decimo respondere. Dicendum tamen, quae sit mensura in singulis simphoniis propria. Constat namque diatessaron simphonia ex duobus tonis ac semitonio, diapente vero ex tribus tonis ac semitonio, ex quibus duobus constat simphonia diapason. Igitur absolutissime in diapason simphonia maiore prae ceteris perfectione diversae ad invicem voces resonant. Secunda ab hac est simphonia diapente. At in diatessaron quoniam non per omnem sonorum seriem quartis locis suaviter sibi ptongi concordant, ideo nec absolute ut in ceteris simphoniaca editur cantilena. Ergo in hoc genere cantionis sua quadam lege voces vocibus divinitus accomodantur. Per omnem enim sonorum seriem tritus subquartus deutero solus a simphonia deficit et inconsonus ei efficitur, eo quod solus diatessaron simphoniae mensuram excedens tribus integris tonis a praefato sono elongatur, cui extat subquartus. 
+      <pb n="[49]" />Quapropter et vox, quae organalis dicitur, vocem alteram, quae vocatur principalis, eo modo comitari solet, ut in quolibet tetracordo in qualibet particula nec infra tetrardum sonum descendat positione nec inchoatione levetur obstante triti soni inconsonantia, qui tetrardo est subsecundus. Quae ut lucidiora fiant, exempli descriptione statuantur, prout possit fieri sub aspectum. [descriptio in marg.]</p>
+      <p id="MUSENCI0124">[VMKIII:49; text: Rex caeli domine maris undisoni. Tytanis nitidi squalidique soli]</p>
+      <p id="MUSENCI0125">Ad hanc descriptionem canendo facile sentitur, quomodo in descriptis 
+      <pb n="[50]" />duobus membris sicut subtus tetrardum sonum organalis vox responsum incipere non potest, ita subtus eundem non valet positione progredi et ob hoc in finalitate positionum a voce principali occupetur, ut ambae in unum conveniant.</p>
+      <p id="MUSENCI0126">[caput XVIII in marg.] QUOD MODO ALTIORA MODO SUMMISSIORA LOCA ORGANUM PETAT</p>
+      <p id="MUSENCI0127">Ergo quoniam praedicti limitis oppositione brevi diastemate coartatur et non nisi in tribus vel quattuor sonis organalis vox spacium habet, idcirco secundum particularum positionem et loca mutat. Vagantibus enim particulis, dum modo cantilena in sursum prodeat, modo in ima deponatur et nunc quaelibet particula positionem habeat circa superiores sonos, nunc circa terminales, aliquando circa graves, semper vox organalis positionum finalitatem eo iure subsequitur, ut subtus tetrardum sonum, in quem vel finalitas particulae devenerit vel qui proximus ipsi finalitati suberit, nec ordiri levationem valeat nec rite finalitatem deponere.</p>
+      <p id="MUSENCI0128">
+      <pb n="[51]" />Ceptum carmen, exempli gratia: [descriptio 1 in marg.]</p>
+      <p id="MUSENCI0129">[VMKIII:51; text: Te humiles famuli modulis venerando piis. Se iubeas flagitant variis liberare malis.] 
+      <figure>
+        <graphic url="/images/MUSENCI_10GF.gif" />
+      </figure></p>
+      <p id="MUSENCI0130">Quemadmodum in binis prioribus membris "Rex caeli domine maris undisoni" et "Tytanis nitidi squalidique soli" primae tres syllabae, quae 
+      <pb n="[52]" />sonant tetrardum [signum] archoum [signum] deuterum [signum], responsum organale sub tetrardo non habent videlicet propter deuteri soni inconsonantiam ad sonum tritum, qui tetrardo est subsecundus, sic et in sequentibus his commatibus "Te humiles famuli" et "Se iubeas flagitant", dum celsioris extent levationis ac positionis, celsiori quoque loco et eadem lege organum coartatur. Similiter enim in tribus principalibus sonis tetrardo [signum] archoo [signum] deutero [signum] vox organalis rite sub tetrardo respondere nequit, sed moram in eodem agit, dum in subsecundo eius ratum responsum non invenit.</p>
+      <p id="MUSENCI0131">Et ut ad liquidum dinosci valeat, quantum in diatessaron simphonia praefatorum duorum sonorum inconsonantia dominetur, statuamus aliquid quadrifaria transpositione canere, ut appareat, quo modo in diversis transpositionibus diverso quidem modo, sed non diversa lege vox vocem comitetur.</p>
+      <p id="MUSENCI0132">
+      <pb n="[53]" />Sit ergo haec prima descriptio, quae et supra digesta est a sono [signum] incipiens et in eundem finiens, ubi simul cum voce principali organalis vox consequatur: [descriptio 2 in marg.]</p>
+      <p id="MUSENCI0133">[VMKIII:53; text: Tu patris sempiternus es filius]</p>
+      <p id="MUSENCI0134">Sic canendo senties, quomodo non obstante deuteri [signum] tritique [signum] soni absonia consonanter regione subquarta imponatur vocis organalis levatio, sed rursum eadem absonia inpediente tetrardum sonum non transit positio.</p>
+      <p id="MUSENCI0135">
+      <pb n="[54]" />Sumamus et secundam transpositionem, quae a [signum] incipit et in eundem finit: [descriptio 3 in marg.]</p>
+      <p id="MUSENCI0136">[VMKIII:54; text: Tu patris sempiternus es filius] 
+      <figure>
+        <graphic url="/images/MUSENCI_11GF.gif" />
+      </figure></p>
+      <p id="MUSENCI0137">Sic canendo senties, quomodo et in levatione et positione sono [signum] deutero responsum organale deficiat ideoque ultra [signum] tetrardum non descendat.</p>
+      <p id="MUSENCI0138">Sumamus et tertiam transpositionem, quae sono [signum] trito incipit et finitur:</p>
+      <p id="MUSENCI0139">
+      <pb n="[55]" />[descriptio 4 in marg.]</p>
+      <p id="MUSENCI0140">[VMKIII:55,1; text: Tu patris sempiternus es filius]</p>
+      <p id="MUSENCI0141">Haec transpositio dum potissimum sono vadat [signum] deutero, responsum organale apte non recipit.</p>
+      <p id="MUSENCI0142">Sumamus et quartam transpositionem, quae a [signum] tetrardo inchoat et in eodem finitur: [descriptio 5 in marg.]</p>
+      <p id="MUSENCI0143">[VMKIII:55,2; text: Tu patris sempiternus es filius]</p>
+      <p id="MUSENCI0144">Sic canendo senties, quomodo a [signum] tetrardo sono vox organalis incipiat et in eo finiatur nec infra ipsum possit progredi trito [signum] videlicet obstante sono, qui, ut iam saepe dictum est, ad deuterum extat inconsonus. 
+      <pb n="[56]" />Superficies quaedam artis musicae pro ornatu ecclesiasticorum carminum utcumque in his designata sit; quae certe venerabilem non minus et interius sui speculationem gerit. Cur namque aliqui tam dulci ad invicem commixtione consentiant, alii vero soni sibi misceri nolentes insuaviter discrepent, profundioris divinaeque est rationis et in aliquibus inter abditissima naturae latentis. Constant plurima super hac ratione scripta veterum, in quorum labores et in hac parte nos Dominus intrare concessit, ubi probatissimis argumentis adstruitur, quod eiusdem moderationis ratio, quae concinentias temperat vocum, mortalium naturas modificet, quodque isdem numerorum partibus, quibus sibi collati inaequales soni concordant, et vitae cum corporibus et compugnantiae elementorum totiusque mundi concordia aeterna coierit.</p>
+      <p id="MUSENCI0145">
+      <pb n="[57]" />[caput XIX in marg.] QUOD IN ALIQUIBUS RATIONIS HUIUS PROFUNDITAS MINUS SIT PENETRABILIS</p>
+      <p id="MUSENCI0146">Fictum est ab antiquis Aristeum Euridicem nympham Orphei coniugem adamasse. Quemque dum illa se sequentem fugeret, a serpente extincta sit. Orpheum, cuius nomen oreo phone, id est optima vox sonat, in cantore perito seu dulcisono cantu intellegimus. Cuius Euridicem, id est profundam diiudicationem, si quis vir bonus, quod Aristeus interpretatur, amando sequitur, ne penitus teneri possit, quasi per serpentem divina intercipitur prudentia. Sed dum rursus per Orpheum, id est per optimum cantilenae sonum, a secretis suis acsi ab inferis evocatur, imaginarie perducitur usque in auras huius vitae dumque videri videtur, amittitur, scilicet quia inter cetera, quae adhuc ex parte et in enigmate cernimus, haec etiam disciplina haud ad plenum habet rationem in hac vita penetrabilem. Siquidem diiudicare possumus, sitne rata factura meli, dinoscere qualitates sonorum atque modorum et reliqua huius artis; item possumus musicorum sonorum spatia vel vocum 
+      <pb n="[58]" />simphonias ad numerorum rationem adducere, consonantiae atque discrepantiae quasdam rationes reddere. Quomodo vero tantam cum animis nostris musica commutationem et societatem habeat, etsi scimus quadam nos similitudine cum illa compactos, edicere ad liquidum non valemus. Nec solum diiudicare melos possumus ex propria naturalitate sonorum, sed etiam rerum. Nam affectus rerum, quae canuntur, oportet, ut imitetur cantionis effectus: ut in tranquillis rebus tranquillae sint neumae, laetisonae in iocundis, merentes in tristibus; quae dura sint dicta vel facta, duris neumis exprimi; subitis, clamosis, incitatis et ad ceteras qualitates affectuum et eventuum deformatis; item ut in unum terminentur particulae neumarum atque verborum. In talibus cum iudicatio nostra esse possit, plura sunt tamen, quae nos sub causis occultioribus lateant. Sunt interdum res, quae et hoc tono et illo tono aeque congruenter recipiuntur, ut cantari possint. Sunt interdum res, quae minime suum sensum aeque huic et illi tono attribuant, ita 
+      <pb n="[59]" />ut, si transponantur, aut priorem dulcedinem non servent aut ad sensum indecentes fiant. Dicuntur ferae atque aves modis quibusdam delectari magis quam aliis, sed quare et quomodo haec aliave sint, non facile investigatur. Igitur quae in hac arte Deo donante sapimus, utamur eis tantum in laudibus Dei, et ea, quae laboriosa veterum indagatione nobis inventa sunt, assumamus in iubilando, celebrando, canendo, quae in prioribus generationibus non sunt agnita filiis hominum, sed nunc revelata sunt sanctis eius. Pandit multa musicae rationis miracula praestantissimus auctor Boetius magisterio numerorum enucleatim cuncta comprobans. Cuius, si Deus annuerit, sequens opusculum aliquod continebit excerptum. Huiusce oratiunculae ponamus hic finem.</p>
+      <p id="MUSENCI0147">EXPLICIT</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Quid singulae litterae</title>
+        <title type="abbrev">NOTLET</title>
+        <author>Notker</author>
+        <date notBefore="800" notAfter="1099">9th-11th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Peter Slemon</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Jessica Sisk</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>2003</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Jacques Froger, "L'Épitre de Notker sur les 'Lettres significatives': Édition critique," 
+<emph>Études grégoriennes</emph> 5 (1962):23-71, 69–70.
+</bibl>
+        <bibl type="work">
+          
+<title>Notker Balbulus: Epistula ad Lantbertum</title>
+          
+<idno type="LML">NOTK. BALB.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">B-Br II 4141, 32r-v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">CH-SGs 381, 6-9</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-B Phillipps 1651, 212v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-DS 1988, 126v-127, 184</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-KA K 504, 44r-v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-LEu Ms. Thomas 391, 6</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fl Plut. LXV. 35, 1v</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="NOTLET0001">
+      <pb n="[69]" />Notker Lantberto fratri salutem.</p>
+      <p id="NOTLET0002">Quid singulae litterae in superscriptione significent cantilenae, prout potui iuxta tuam petitionem explanare curaui.</p>
+      <p id="NOTLET0003">A ut altius eleuetur admonet.</p>
+      <p id="NOTLET0004">B secundum litteras quibus adiungitur, ut bene id est multum extollatur uel grauetur siue teneatur belgicat.</p>
+      <p id="NOTLET0005">C ut cito uel celeriter dicatur certificat.</p>
+      <p id="NOTLET0006">D ut deprimatur demonstrat.</p>
+      <p id="NOTLET0007">E ut equaliter sonetur eloquitur.</p>
+      <p id="NOTLET0008">F ut cum fragore seu frendore feriatur efflagitat.</p>
+      <p id="NOTLET0009">G ut in gutture gradatim garruletur genuine gratulatur.</p>
+      <p id="NOTLET0010">H ut tantum in scriptura aspirat, ita et in nota idipsum habitat</p>
+      <p id="NOTLET0011">I iusum uel inferius insinuat, grauitudinemque pro g interdum indicat.</p>
+      <p id="NOTLET0012">K licet apud latinos nihil ualeat, apud nos tamen alemannos pro x greca positum, klenche id est clange clamitat.</p>
+      <p id="NOTLET0013">L leuare laetatur.</p>
+      <p id="NOTLET0014">M mediocriter melodiam moderari mendicando memorat.</p>
+      <p id="NOTLET0015">N notare hoc est noscitare notificat.</p>
+      <p id="NOTLET0016">O figuram sui in ore cantantis ordinat.</p>
+      <p id="NOTLET0017">P pressionem uel prensionem predicat.</p>
+      <p id="NOTLET0018">Q in significationibus notarum cur quaeratur ? cum etiam in uerbis ad nihil aliud scribatur nisi ut sequens u uim suam amittere queratur.</p>
+      <p id="NOTLET0019">
+      <pb n="[70]" />R rectitudinem uel rasuram non abolitionis sed crispationis rogitat.</p>
+      <p id="NOTLET0020">S susum uel sursum scandere sibilat.</p>
+      <p id="NOTLET0021">T trahere uel tenere debere testatur.</p>
+      <p id="NOTLET0022">U licet amissa ui sua, ualde ueluti uau greca uel hebrea uelificat.</p>
+      <p id="NOTLET0023">X quamuis latina per se uerba non inchoet, tamen expectare expetit.</p>
+      <p id="NOTLET0024">Y apud latinos nihil ymnizat.</p>
+      <p id="NOTLET0025">Z uero licet et ipsa mere greca, et ob id haut necessaria romanis, propter praedictam tamen r litterae occupationem, ad alia requirere, in sua lingua zitîse //////</p>
+      <p id="NOTLET0026">Ubicumque autem due uel tres aut plures litterae ponuntur in uno loco, ex superiori interpretatione, maximeque illa quam de b dixi, quid sibi uelint facile poterit aduerti.</p>
+      <p id="NOTLET0027">Salutant te ellinici fratres, monentes sollicitum te fieri de ratione embolismi triennis, ut absque errore gnarus esse ualeas biennis, contempto precio diuitiarum xerxis.</p>
+    </body>
+  </text>
+</TEI>

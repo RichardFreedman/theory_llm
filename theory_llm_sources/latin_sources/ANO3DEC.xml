@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>De cantu mensurabili</title>
+        <title type="abbrev">ANO3DEC</title>
+        <author>Anonymous 3</author>
+        <date notBefore="1200" notAfter="1299">13th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Luminita Florea Aluas</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Margaret Bent</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Albert C. Rotola</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>S.J.</persName>
+      </respStmt>
+      <date>1992</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>Scriptorum de musica medii aevi nova series a Gerbertina altera</emph>, 4 vols., ed. Edmond de Coussemaker (Paris: Durand, 1864-76; reprint ed., Hildesheim: Olms, 1963), 1:319–27.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: "Quandocumque nota quadrata vel punctus quadratus invenitur, quod idem est"</title>
+          
+<idno type="LML">TRAD. Franc. II</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">F-SDI 42, 54-56v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Vnm Lat. Cl. VIII.1 (3044), 119v-120 (Fragment)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-SDI 42, 56v-58v</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANO3DEC0001">
+      <pb n="[319]" />ANONYMI 3</p>
+      <p id="ANO3DEC0002">DE CANTU MENSURABILI</p>
+      <p id="ANO3DEC0003">Gaudent brevitate moderni.</p>
+      <p id="ANO3DEC0004">Quandocunque nota quadrata, vel punctus quadratus invenitur, quod idem est, habens tractum a parte dextra descendente, longa vocatur, ut hic patet:</p>
+      <p id="ANO3DEC0005">[L,L,L,L,L,L,L,L,L,L,L,L,L on staff4]</p>
+      <p id="ANO3DEC0006">Si autem predicta careat omni tractu, brevis dicitur, ut hic:</p>
+      <p id="ANO3DEC0007">[B,B,B,B,B,B,B,B on staff4]</p>
+      <p id="ANO3DEC0008">Brevis plica ascendens, vel descendens, sic formatur:</p>
+      <p id="ANO3DEC0009">[Bcssnpsdx,Bcssnpsdx,Bcssnpsdx,Bcssnpsdx,Bcssnpsdx,Bcssnpsdx; Bcdsnpddx,Bcdsnpddx,Bcdsnpddx,Bcdsnpddx,Bcdsnpddx,Bcdsnpddx,Bcdsnpddx on staff4]</p>
+      <p id="ANO3DEC0010">Semibrevis vero sic formatur, et plicare non potest, ut hic:</p>
+      <p id="ANO3DEC0011">
+      <pb n="[320]" />[S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S on staff4]</p>
+      <p id="ANO3DEC0012">Nisi quando tres supra unam syllabam ordinantur, ut hic:</p>
+      <p id="ANO3DEC0013">[CSI:320,1; staff4; text: Exemplum deest in codice.] 
+      <figure>
+        <graphic url="/images/ANO3DEC_01GF.gif" />
+      </figure></p>
+      <p id="ANO3DEC0014">Longa plica ascendens vel descendens formatur sic:</p>
+      <p id="ANO3DEC0015">[Bpssncsdx,Bpssncsdx,Bpssncsdx; Lpdsn,Lpdsn,Lpdsn,Lpdsn on staff4]</p>
+      <p id="ANO3DEC0016">Duplex longa formatur sic, ut hic:</p>
+      <p id="ANO3DEC0017">[MX,MX,MX,MX,MX,MX on staff4]</p>
+      <p id="ANO3DEC0018">Longa ante longam valet tria tempora, ut hic:</p>
+      <p id="ANO3DEC0019">[L,L,L,L,L,L,L,L,L,L on staff4]</p>
+      <p id="ANO3DEC0020">Longa perfecta vocatur trium temporum, ut hic:</p>
+      <p id="ANO3DEC0021">[L,L,L,L,L,L,L,L on staff4]</p>
+      <p id="ANO3DEC0022">Longa imperfecta valet duo tempora, ut hic:</p>
+      <p id="ANO3DEC0023">[L,B,L,B,L,B,L,B,L,B,L,B,L,4BP,4BP on staff4]</p>
+      <p id="ANO3DEC0024">Duplex longa valet sex tempora, ut hic:</p>
+      <p id="ANO3DEC0025">[MX,MX,MX,MX,MX,MX on staff4]</p>
+      <p id="ANO3DEC0026">Quandocunque sola brevis, vel valor unius brevis precedit longam, imperficit in parte; id est aufertur ei unum tempus, ut hic:</p>
+      <p id="ANO3DEC0027">[B,L,B,L,S,S,L,S,S,L,B,B,4BP,4BP on staff4]</p>
+      <p id="ANO3DEC0028">Nisi per divisionem modi aliter distinguatur, ut hic:</p>
+      <p id="ANO3DEC0029">[CSI:320,2; staff4; text: Exemplum deest in codice.]</p>
+      <p id="ANO3DEC0030">Si autem sola brevis, vel valor, sequitur, longam imperficit illam, ut hic:</p>
+      <p id="ANO3DEC0031">[L,B,L,B,L,B,L,S,S,L,S,S,L,4BP,4BP on staff4]</p>
+      <p id="ANO3DEC0032">Nisi per divisionem modi aliter destinatur, ut hic:</p>
+      <p id="ANO3DEC0033">[L,pt,B,L,S,S,L; L,pt,S,S,L,B,L,S,S,L on staff4]</p>
+      <p id="ANO3DEC0034">Tunc prima longa habet tria tempora, brevis vero sequens imperficit longam sequentem.</p>
+      <p id="ANO3DEC0035">Omnes breves sunt equales, nisi tribus modis.</p>
+      <p id="ANO3DEC0036">Primus talis est: Quandocunque inter duas longas due breves inveniuntur, ut hic:</p>
+      <p id="ANO3DEC0037">[CSI:320,3; staff4; text: Exemplum deest in codice.]</p>
+      <p id="ANO3DEC0038">Vel due semibreves, ut hic:</p>
+      <p id="ANO3DEC0039">[CSI:320,4; staff4; text: Exemplum deest in codice.]</p>
+      <p id="ANO3DEC0040">Vel tres semibreves, ut hic:</p>
+      <p id="ANO3DEC0041">
+      <pb n="[321]" />[CSI:321; staff4; text: Exemplum deest in codice.]</p>
+      <p id="ANO3DEC0042">Tunc prima brevis, vel valor prime brevis habet unum tempus, et dicitur recta brevis. Secunda vero habet duo tempora, et vocatur altera brevis.</p>
+      <p id="ANO3DEC0043">Longa autem prima erit perfecta, nisi sola brevis vel valor eam precedat. Et ultima longa erit perfecta, nisi sola brevis eam sequatur, ut hic:</p>
+      <p id="ANO3DEC0044">[L,B,B,L,S,S,B,L,S,S,S,B,L,B,B,L,B,S,S,L,3LP on staff4]</p>
+      <p id="ANO3DEC0045">Nisi per divisionem modi aliter distinguatur, ut hic:</p>
+      <p id="ANO3DEC0046">[L,B,pt,B,L,B,pt,B,L,B,pt,B,L,B,pt,B,L,B,3LP on staff4]</p>
+      <p id="ANO3DEC0047">Tunc ambe erunt equales, et prima brevis imperficit primam longam; secunda vero ultimam.</p>
+      <p id="ANO3DEC0048">Secunda regula talis est: Quandocunque tres breves inveniuntur inter duas longas, predicte breves erunt equales. Prima longa erit trium temporum, nisi sola brevis eam precedat vel valor; et ultima longa erit perfecta, nisi sola brevis, vel valor ipsam sequatur, ut hic:</p>
+      <p id="ANO3DEC0049">[L,B,B,B,L,B,B,B,L on staff4]</p>
+      <p id="ANO3DEC0050">Nisi per divisionem modi aliter distinguatur, ut hic:</p>
+      <p id="ANO3DEC0051">[L,B,pt,B,B,L,B,pt,B,B,L,B,pt,B,B,L on staff4]</p>
+      <p id="ANO3DEC0052">Tunc prima longa imperficitur a brevi sequenti; media autem brevis habet unum tempus; tertia vero duo et erit altera brevis; et ultima autem longa erit perfecta.</p>
+      <p id="ANO3DEC0053">Tertia regula talis est: Quandocunque plures breves quam tres inveniuntur inter duas longas, vel etiam si prima longa maneat, computentur tres et tres semper pro perfectione. Et si in fine due breves remaneant, tunc ultima brevis erit, altera brevis duorum temporum, ut hic:</p>
+      <p id="ANO3DEC0054">[L,S,S,B,B,S,S,B,B,S,S,L,S,S,B,S,S,B,S,S,L on staff4]</p>
+      <p id="ANO3DEC0055">Quandocunque due semibreves inter duas longas vel breves, vel brevem inter longam, vel e converso inveniuntur, prima semibrevis habet unum tempus semibreve; secunda vero duo semibrevia, ut hic:</p>
+      <p id="ANO3DEC0056">[L,S,S,L,B,S,S,B; B,S,S,L; L,S,S,L,4BP,4BP on staff4]</p>
+      <p id="ANO3DEC0057">Et vocatur prima minor, altera major semibrevis; et sic faciunt unam brevem.</p>
+      <p id="ANO3DEC0058">Si autem tres, omnes erunt equales, ut hic:</p>
+      <p id="ANO3DEC0059">[L,S,S,S,L,B,S,S,S,L,S,S,S,L,S,S,S,L,B,S,S,S,L,4BP,4BP on staff4]</p>
+      <p id="ANO3DEC0060">Si autem quatuor, tunc semper due et due pro recta brevi computentur, ut hic:</p>
+      <p id="ANO3DEC0061">[L,S,S,S,S,L,B,S,S,S,S,L,S,S,S,S,L on staff4]</p>
+      <p id="ANO3DEC0062">Et est sciendum quod quandocunque plures semibreves inveniuntur inter duas longas vel breves, quam tres, omnes erunt inequales, nisi tres in fine remaneant; ille erunt inequales. Sed primo due et due semibreves semper pro recta brevi 
+      <pb n="[322]" />computentur; in fine autem, si tres remaneant, ille erunt equales; ut hic:</p>
+      <p id="ANO3DEC0063">[CSI:322; staff4; text: Exemplum deest in codice.]</p>
+      <p id="ANO3DEC0064">Nisi per divisionem modi aliter distinguatur, ut hic:</p>
+      <p id="ANO3DEC0065">[L,S,S,S,SP,S,S,S,L,S,S,S,pt,L,SP,SP,S,S,S,L,4BP,4BP on staff4]</p>
+      <p id="ANO3DEC0066">Ligatura descendens est quandocunque primus punctus altior est secundo. Et primus habet tractum a parte sinistra descendentem, tunc cum proprietate dicitur, ut hic:</p>
+      <p id="ANO3DEC0067">[Lig4cdsnddd,Lig5cdsnodadd,Lig3cdsnodart,Lig4cdsnoddd,Lig4cdsndoda on staff4]</p>
+      <p id="ANO3DEC0068">Ascendens vero est quandocunque secundus punctus altior est primo; et primus punctus careat omni tractu; cum proprietate dicitur, ut hic:</p>
+      <p id="ANO3DEC0069">[Lig2art,Lig3aa,Lig5aodad,Lig5adad,Lig5aadod on staff4]</p>
+      <p id="ANO3DEC0070">Quandocunque secundus punctus altior primo et primus punctus caret omni tractu, cum proprietate dicitur, ut hic:</p>
+      <p id="ANO3DEC0071">[Lig2art,Lig7aodaddd,Lig9aodddadad,Lig3aod,Lig4adod on staff4]</p>
+      <p id="ANO3DEC0072">Quandocunque primus punctus altior est secundo, habens tractum a parte sinistra descendentem, cum proprietate dicitur, ut hic:</p>
+      <p id="ANO3DEC0073">[Lig3cdsndd,Lig2cdsnod,Lig3cdsndod,Lig8cdsnddodaddd,Lig3cdsnodart,Lig2cdsnd,2LP,Lig2cdsnd on staff4]</p>
+      <p id="ANO3DEC0074">Valor.</p>
+      <p id="ANO3DEC0075">Omnis ligatura cum proprietate, prima brevis est.</p>
+      <p id="ANO3DEC0076">Quandocunque secundus punctus altior est primo, et primus punctus tractus habet ex parte dextra descendentem, sine proprietate dicitur, ut hic:</p>
+      <p id="ANO3DEC0077">Valor.</p>
+      <p id="ANO3DEC0078">Omnis ligatura sine proprietate, prima longa dicitur.</p>
+      <p id="ANO3DEC0079">Et vocatur sine proprietate, quando primus punctus sine aliquo tractu ligature cujus secundus punctus descendit, sic:</p>
+      <p id="ANO3DEC0080">[Lig3dd,Lig4odda,Lig6odaddd,Lig2d,Lig3odd on staff4]</p>
+      <p id="ANO3DEC0081">Vel quando primo antequam formentur versus dexteram et ligaturam cujus secundus punctus est altior primo, ut hic:</p>
+      <p id="ANO3DEC0082">[Lig2art,Lig3aart,Lig4aodart on staff4]</p>
+      <p id="ANO3DEC0083">Opposita proprietas est quandocunque in primo punctu ligature ascendentis vel descendentis tractus ascendens, vel descendens invenitur, ut hic patet:</p>
+      <p id="ANO3DEC0084">[Lig4cssnddd,Lig4cssnaaa,Lig4cssnoddd,Lig3cssnoda,Lig4cssndoda on staff4]</p>
+      <p id="ANO3DEC0085">Omnis opposita proprietas signum est semibrevitatis duarum; id est due prime sunt semibreves.</p>
+      <p id="ANO3DEC0086">
+      <pb n="[323]" />Quandocunque ultimus punctus quadratus jacet supra penultimum, cum perfectione trium temporum dicitur, ut hic patet:</p>
+      <p id="ANO3DEC0087">[Lig2art,Lig4aaart,Lig3cdsnodart,Lig4cdsndodart,Lig5cssnoddaart on staff4]</p>
+      <p id="ANO3DEC0088">In ligatura descendente, quandocunque in fine ligature punctus quadratus invenitur, cum perfectione dicitur, ut hic patet:</p>
+      <p id="ANO3DEC0089">[Lig3cdsndd,Lig4add,Lig3cssndd,Lig5odadd,Lig4ddd,Lig3dd on staff4]</p>
+      <p id="ANO3DEC0090">Omnis perfectio longa.</p>
+      <p id="ANO3DEC0091">Et vocatur perfectio, quando ultimus punctus est quadratus in ligatura cujus ultimus punctus descendit, ut hic patet:</p>
+      <p id="ANO3DEC0092">[Lig3ad,Lig5addd,Lig6dadad on staff4]</p>
+      <p id="ANO3DEC0093">Vel quando ultimus punctus est directe supra penultimum, perfecta vocatur, ut hic patet:</p>
+      <p id="ANO3DEC0094">[Lig2art,Lig4dodart,Lig3aart on staff4]</p>
+      <p id="ANO3DEC0095">Quandocunque ultimus punctus stat obliquo supra penultimum, imperfecta vocatur, ut hic patet:</p>
+      <p id="ANO3DEC0096">[Lig2acdsn,Lig3cdsnoda,Lig3acdsna on staff4]</p>
+      <p id="ANO3DEC0097">Omnis imperfecta brevis.</p>
+      <p id="ANO3DEC0098">Sequitur valor.</p>
+      <p id="ANO3DEC0099">Et vocatur imperfecta, quando ultimus punctus alicujus ligature trahitur ab obliquo in ligatura cujus ultimus punctus descendit sic:</p>
+      <p id="ANO3DEC0100">[Lig6cdsnoddddod,Lig4cdsndaod on staff5]</p>
+      <p id="ANO3DEC0101">Vel quando ultimus punctus est directe supra penultimum in ligatura cujus penultimus punctus ascendit, ut hic patet:</p>
+      <p id="ANO3DEC0102">[Lig3aa,Lig2aa,Lig6aadaa on staff4]</p>
+      <p id="ANO3DEC0103">Item nota quod plures semibreves quam due non possunt per se stare ligate, ut hic:</p>
+      <p id="ANO3DEC0104">[Lig2cssnod,Lig2cssnd,Lig2cssnd,Lig4cssnodacdsnod on staff4]</p>
+      <p id="ANO3DEC0105">Omnes note breves, nisi per oppositam proprietatem deffendantur; et tunc medie erunt semibreves, ut hic patet:</p>
+      <p id="ANO3DEC0106">[Lig5dddd,Lig5aaaa,Lig5cdsnddddcsdx,Lig4add,Lig5cdsnodddd on staff4]</p>
+      <p id="ANO3DEC0107">Ratio talis est, quia nulla semibreves sola esse potest.</p>
+      <p id="ANO3DEC0108">Quandocunque punctus quadratus in fine ligature plicatur ascendendo vel descendendo, pro longa cantatur, ut hic:</p>
+      <p id="ANO3DEC0109">[Lig4cdsnddacsdx,Lig5cdsnodaddcsdx,Lig3cssnadcsdx,Lig5cssnaaaacsdx on staff4]</p>
+      <p id="ANO3DEC0110">Quandocunque due note in uno corpore obliquo in fine ligature ascendentis vel descendentis inveniuntur, plicare ultima pro brevi dicitur, ut hic patet:</p>
+      <p id="ANO3DEC0111">[Lig3doacddx,Lig5cdsnodadodcsdx,Lig5addodcsdx on staff4]</p>
+      <p id="ANO3DEC0112">
+      <pb n="[324]" />Quinque sunt modi secundum magistrum Franconem, quorum primus constat ex una longa et altera brevi, vel ex omnibus longis, ut hic patet:</p>
+      <p id="ANO3DEC0113">[CSI:324,1;text: O Maria maris stella.]</p>
+      <p id="ANO3DEC0114">Secundus constat ex brevi una et altera longa, ut hic:</p>
+      <p id="ANO3DEC0115">[CSI:324,2;text: Che sont amours.]</p>
+      <p id="ANO3DEC0116">Tertius constat ex una longa et duabus brevibus, ut hic patet:</p>
+      <p id="ANO3DEC0117">[CSI:324,3;text: O beata Virgo Maria.]</p>
+      <p id="ANO3DEC0118">Quartus constat ex duabus brevibus et altera longa, ut hic:</p>
+      <p id="ANO3DEC0119">[CSI:324,4;text: Honores mutant mores.]</p>
+      <p id="ANO3DEC0120">Quintus constat ex omnibus brevibus et semibrevibus, ut hic patet:</p>
+      <p id="ANO3DEC0121">[CSI:324,5;text: Virginale decus et presidium. Amen.]</p>
+      <p id="ANO3DEC0122">Quicunque bene et secure discantare voluerit, primo oportet scire quid sit quintum et quid duplum.</p>
+      <p id="ANO3DEC0123">Quintum est quinta vox; duplum octava. Debemus scire quod tres sunt species in plana musica, de quibus prima vocatur diatessaron; secunda diapente; tertia diapason. Diatessaron est quarta nota; diapente quinta; diapason octava. Et tantum valet diapente, quantum quintum; et diapason, quantum duplum.</p>
+      <p id="ANO3DEC0124">Debemus etiam scire quod primus gradus de cantu est gamma ut, et capit suum quintum in D sol re, et duplum suum in G sol re ut gravi.</p>
+      <p id="ANO3DEC0125">Quintum de A re, est in E la mi gravi; et duplum suum est in a la mi re acuto.</p>
+      <p id="ANO3DEC0126">Quintum de [sqb] mi, est in F fa ut, gravi per falsam musicam; et duplum suum in b fa, [sqb] mi acuto.</p>
+      <p id="ANO3DEC0127">Et scire debemus quod quando volumus quintum facere super [sqb] mi, oportet facere falsam misicam in F fa ut gravi, et dicere mi, et ponere signum quadratum sic formatum [sqb], sicut patet in sequenti exemplo:</p>
+      <p id="ANO3DEC0128">[CSI:324,6]</p>
+      <p id="ANO3DEC0129">Quintum de C fa ut, est G sol re ut grave; duplum suum est C sol fa ut acutum.</p>
+      <p id="ANO3DEC0130">Quintum de D sol re, est A la mi re acutum; duplum suum est D la sol re acutum.</p>
+      <p id="ANO3DEC0131">Quintum de E la mi gravi, est B fa, [sqb] mi acutum, et duplum suum est E la mi acutum.</p>
+      <p id="ANO3DEC0132">Quintum de F fa ut gravi, est C sol fa ut acutum; duplum suum est F fa ut acutum.</p>
+      <p id="ANO3DEC0133">Quintum de G sol re ut gravi; est D la sol re acutum; et G sol re ut acutum est suum duplum.</p>
+      <p id="ANO3DEC0134">Quintum de a la mi re acutum, est E la mi 
+      <pb n="[325]" />acutum; et duplum suum est a la mi re superacutum.</p>
+      <p id="ANO3DEC0135">Quintum de b fa, [sqb] mi acuto; est f fa ut acutum per falsam musicam; cantando per [sqb] quadratum; per b rotundum cantatur per bonam musicam.</p>
+      <p id="ANO3DEC0136">Et nota quod si tu cantas mi, in b fa, [sqb] mi acuto, oportet te dicere etiam mi, in f fa ut acuto per falsam musicam; et signum facere taliter formatum [sqb], sicut poteris videre exemplo sequenti:</p>
+      <p id="ANO3DEC0137">[CSI:325,1] 
+      <figure>
+        <graphic url="/images/ANO3DEC_02GF.gif" />
+      </figure></p>
+      <p id="ANO3DEC0138">Item si dicis fa, in b fa, [sqb] mi acuto, per b molle, poteris etiam dicere fa, in f fa ut acuto, per bonam musicam, ut hic patet:</p>
+      <p id="ANO3DEC0139">[CSI:325,2]</p>
+      <p id="ANO3DEC0140">Quintum de C sol fa ut acuto est d sol re ut acutum; et duplum suum est c sol fa superacutum.</p>
+      <p id="ANO3DEC0141">Quintum de d la sol re acuto est a la mi re superacutum. Et sic de singulis.</p>
+      <p id="ANO3DEC0142">Prima regula de discantu talis est:</p>
+      <p id="ANO3DEC0143">Si cantus ascendit unum tonum, discantus debet incipere in diapason, et descendere tonum cum dimidio, vel ditonum, ut hic patet:</p>
+      <p id="ANO3DEC0144">[CSI:325,3]</p>
+      <p id="ANO3DEC0145">Secunda regula talis est:</p>
+      <p id="ANO3DEC0146">Si cantus ascendat duos tonos, vel unum cum dimidio, seu ditonum, discantus debet incipere in diapason, et descendere medium tonum, vel tonum integrum, ut hic:</p>
+      <p id="ANO3DEC0147">[CSI:325,4]</p>
+      <p id="ANO3DEC0148">Tertia regula talis est:</p>
+      <p id="ANO3DEC0149">Si cantus ascendat duos tonos cum dimidio, discantus debet incipere in diapason, et se tenere in eodem puncto, et sic fit diapente, ut hic patet:</p>
+      <p id="ANO3DEC0150">[CSI:325,5]</p>
+      <p id="ANO3DEC0151">Quarta regula talis est:</p>
+      <p id="ANO3DEC0152">Si cantus ascendat ad diapente, hoc est tres 
+      <pb n="[326]" />tonos cum dimidio, discantus debet incipere in diapason, et ascendere unum tonum, et erit diapente, ut hic patet:</p>
+      <p id="ANO3DEC0153">[CSI:326,1] 
+      <figure>
+        <graphic url="/images/ANO3DEC_03GF.gif" />
+      </figure></p>
+      <p id="ANO3DEC0154">Nota quod si cantus ascendat duos tonos sive duos cum dimidio, aut tres, aut quatuor, debemus incipere in diapason, et descendere in diapente. Hoc est dicere quod debemus incipere in duplo et descendere in quintum, et ascendere sicut cantus ascendit, ut hic patet exemplo:</p>
+      <p id="ANO3DEC0155">[CSI:326,2]</p>
+      <p id="ANO3DEC0156">Si cantus descendit, debemus incipere in diapente per contrarium modum, sicut jam supra dictum est. Debemus de omnibus elevationibus primam ponere in diapason, et omnes alias in diapente; et de omnibus descendentibus primam in quinto et ultimam in duplo.</p>
+      <p id="ANO3DEC0157">Prima regula descendentium talis est:</p>
+      <p id="ANO3DEC0158">Si cantus descendat medium tonum, vel tonum integrum, discantans debet incipere in diapente, et ascendere duas notas vel tonum cum dimidio; et sic habebit diapason, sicut patet hic:</p>
+      <p id="ANO3DEC0159">[CSI:326,3]</p>
+      <p id="ANO3DEC0160">Secunda regula descendentium talis est:</p>
+      <p id="ANO3DEC0161">Si cantus descendat tonum cum dimidio, vel duos tonos, discantans debet incipere in diapente et ascendere unum tonum vel medium tonum. Et sic habebit diapason, ut hic patet:</p>
+      <p id="ANO3DEC0162">[CSI:326,4]</p>
+      <p id="ANO3DEC0163">Tertia regula:</p>
+      <p id="ANO3DEC0164">Si cantus descendat duos tonos cum dimidio, discantans debet incipere in diapente et tenere se in eodem puncto, et sic habebit diapason, ut hic patet:</p>
+      <p id="ANO3DEC0165">
+      <pb n="[327]" />[CSI:327,1]</p>
+      <p id="ANO3DEC0166">Quarta regula est:</p>
+      <p id="ANO3DEC0167">Si cantus descendat per tres tonos, vel tres cum dimidio, discantans debet incipere in diapente, et ascendere tonum integrum vel medium tonum; et sic habebit diapason, ut sic patet:</p>
+      <p id="ANO3DEC0168">[CSI:327,2]</p>
+      <p id="ANO3DEC0169">Qunta regula descendentium:</p>
+      <p id="ANO3DEC0170">Si cantus descendat gradatim ditonum vel tritonum, omnes descendentes debent esse in diapente, preter ultimam que debet esse in diapason, ut hic patet:</p>
+      <p id="ANO3DEC0171">[CSI:327,3]</p>
+    </body>
+  </text>
+</TEI>

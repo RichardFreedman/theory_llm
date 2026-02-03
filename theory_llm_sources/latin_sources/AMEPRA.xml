@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Practica artis musice</title>
+        <title type="abbrev">AMEPRA</title>
+        <author>Amerus</author>
+        <date notBefore="1200" notAfter="1299">13th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Stephen E. Hayes</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Peter M. Lefferts</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Kirk Ditzler</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1995</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>Ameri Practica artis musice</emph> (1271), ed. Cesarino Ruini, Corpus Scriptorum de Musica, vol. 25 (n.p.: American Institute of Musicology, 1977), 19–112. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Amerus: Practica artis musice</title>
+          
+<idno type="LML">AMERUS</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">D-BAs Lit. 115, 65-79</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-TRp Hs. 44, 318-336</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ob Bodley 77, 138v-139 (excerpt)</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="AMEPRA0001">
+      <pb n="[19]" />1. Licet michi ipsi in omni sciencia nimis sim insufficiens de ipsius auxilio qui dat verbum evangelizantibus virtute multa confisus, has sequentes regulas brevissimas et in cantu valde necessarias, nec in aliquo prout estimo superfluas, sine quibus ars cantandi naturaliter sciri nequit, cum quibus bene cognitis et prudenter intellectis, omnis armonia facilius addiscitur, et qui cantus sint naturales vel irregulares, seu falsi levius reperiuntur atque magistraliter corriguntur, necnon et novi veraciter subtiliterque finguntur, sub compendio pro pueris hac arte invectis compilando scripsi. In fine quasi tangendo theoricam pro illis qui culmen artis theorice attingere captant, ut postquam ista puerilia in puericia cognoverint, ad eius fastigium delectabilius percipiendum se proponant. Hec est illa regina omnium liberalium scilicet artium excellentissima que ceteris sex artibus dimissis in inferioribus, sola volat ante tribunal omnipotentis ut in Apocalypsis capitulo octavodecimo: "Et cantabant quasi canticum novum ante sedem Dei et ante quatuor animalia". Hec est illa altissima domina que in ecclesia triumphanti et militanti Deo servit dulcisona. Hec est illa quam sancti in devocionibus suis amplexantur, qua peccatores veniam petunt, qua tristes confortantur, qua leti hylariores efficiuntur, qua laboribus fatigati sublevantur, qua convivantes exillarantur, qua spiritu maligno vexati levius se habent, ut Regum primo, capitulo decimosexto dicit: "Igitur quandocumque spiritus malignus arripiebat Saul, David psallebat manu et Saul levius se habebat". Qua pugnantes animosiores efficiuntur, et ideo un istis fit clangor tubarum aut strepitus aliquorum instrumentorum seu vociferancium clamor. Qua etiam periclitantibus aliquod confortamen, ut anime quietius dolorem suum ferant, indulgetur, unde aliqui naute quasi ex consuetudine aliquod instrumentum habent in navi et aliquando maximis tempestatum procellis desperati in eo 
+      <pb n="[20]" />cantant, ut in Jeremie capitulo quinquagesimo primo: "Et super te celesti cantabitur". Sine musica igitur nec legere potest homo nec loqui teste accentu in dictionum prolatione, quia accentus dicitur quasi ad cantus. Huius delectacionis amore aves gabiis incarcerati magna diligencia custodiuntur per annum, ut vel aliquo uno tempore suas reddant garriciones. Istius atque zelotipio infinita instrumentorum genera parantur, et breviter sine parte huius artis nulla vox nulla sonoritas proferri potest, si quis bene modos eius undique consideret. Hoc ergo cognoscens omnis clericus qui vel dignitate vel aliquod auxilium in ecclesia Dei affectat, sicut dicit Ysidorus in libro Ethimologiarum quod "non minus est dedecus nescire cantare quam litteras ignorare". Quoniam sancti in celis cum angelis et archangelis thronis et dominationibus cumque omni milicia celestis exercitus non cessant hympnum canere quotidie: Sanctus sanctus et cetera. Et in terra ab angelis cantabatur: Gloria in excelsis Deo, a quibus nec de literatura queritur nec de logica disputatur. Has quidem regulas cantus ad laudem et honorem omnipotentis Patris et Filii et Spiritus Sancti et utilitatem puerorum ego Amerus presbiter anglicus clericus et familiaris venerabilis patris domini Octoboni Sancti Adriani dyaconi cardinalis in domo eiusdem, anno Domini millesimo ducentesimo septuagesimo primo. mense augusti compilavi. Benivolos rogans doctores et provectos qui hanc artem perplene attigerunt, si hunc libellum ad manus habuerint, ut si quid boni pro pueris vel ignorantibus invenerint, ipsum collaudent qui dat affluenter et non improperat. Et si vero aliquid forte fuerit repertum quod lima correctionis indigeat, ut dicit Augustinus, tales sint in scripturis meis, quales alios velint esse in scripturis suis, et hec est caritas. Invidos autem fatuos, malivolos seu aliorum operum corrosores qui alios irrationabiliter sine auctoritate scripture, cordis sui malicie parentes, reprehendunt, vel si forte reprehendere apte nequiverint, 
+      <pb n="[21]" />aliquo saltim modo derogant vel depravant qui aliena dilacerant, sua quidem exaltant, ab hoc cum Jeronimo digne arceo brevi opusculo. Insuper libellus iste, qualiter ordinari debeat, hic inserui. In primis scribantur questiones et solutiones vel in circuitu manus vel ante. Deinde fiat manus et scribatur. Post hec gamma in lineis et spaciis et semper interim regulas scriptas. Post hec scriptura mutacionum gamme cum sequentibus mutacionibus notatis. Deinde: Cognoscant qui canere. Postea: Ter terni modi sunt quibus omnibus. Et sequitur: Cum Boecius. Ad hec: Primi toni cum omnibus seculorum. Post hoc: Ecce modus primus. Demum ex tunc de gradualibus. Primus tonus cum cantu et cum sequente regula. Hiis scriptis additur de differenciis introituum misse. Ex tunc de quatuor musicis et totum sicut est ordinatum usque ad finem libri. Hic explicit prologus.</p>
+      <p id="AMEPRA0002">2. Questio: si queritur quare ista greca littera [Gamma] preponatur in gamma, respondeo: quia greci fuerant primi inventores huius artis, vel ab alio homine (primo apud grecos inventa fuit ars ista), vel ut notaretur diversitas inter litteras. Nota quod dicendum est per duplex m, et tunc est g grecum et non gama quod interpretatur mulier neque grama quod interpretatur littera. Questio: quare ponitur gamma in sinistra manu pocius quam in dextra, cum dextra manus sit dignior? Respondeo: quia nos qui cristiani sumus in presenti seculo nullam dextram idest gloriam, sed sinistram idest laborem et dolorem reputamus, unde incipiendo per bona opera a sinistris huius mundi, ad dextram regni supracelestis properamus, et hec est una ratio quare scribere et cantare et gamma imponere incipimus a sinistris tendendo versus dextram. Alia ratio autem? Respondeo: quia scribere et legere et necessarie ergo cantare a sinistris versus dextram inchoamus, et claves cantionum secundum ordinem littere de necessitate ponuntur in sinistra 
+      <pb n="[22]" />parte, ideo ut natura manus concordet cum ratione cantus, ponimus gamma in manu sinistra, quoniam in dextra cum littera non concordaret, nisi forte cum hebraica. Item quot sunt radices in gamma et per quid canitur? Respondeo: septem sunt radices in gamma, tres super G per [sqb] quadratum, due super C per proprium cantum, due super F per b molle. Quot sunt cune in gamma? Respondeo: sex complete et septima non completa. Ubi est radix cune non complete? Respondeo: in g acutum. Quare non habet quelibet radix suam cunam completam? Respondeo: quia auctor intellexit quod decem novem voces essent sufficientes in omni cantu et quod claves concordarent cum iuncturis manus hominis nec plures essent, nec pauciores computatis summitatibus digitorum, et quasi ad eo determinatas noluit addere plures. Notandum tamen quod viginti tres littere et totidem voces, idest note, possunt dici in gamma propter duplicem clavem et duplicem vocem in utroque b-fa-[sqb]-mi. Nota quod non debet dici C-fa-ut habet duas voces, quoniam falsum est, quia in notis suis semper est univox et non due voces, sive dicatur fa-ut sive ut-fa, sed dicitur C-fa-ut habet duo diversa vocabula vocum, vel duas notas, idest signa sive nomina vocum, et eodem modo dico de omnibus clavibus plures notas habentibus. Si quis velit opponere de utroque b-fa-[sqb]-mi, respondeo: patet quando diverse claves diversas habent voces. Quot semitonia sunt in gamma? Respondeo: quinque. Que? Duo in c et f graves, duo in c et f acutum, unum in c superacutum ratione descensus. Si quis velit opponere propter utrumque b-fa-[sqb]-mi, respondum est quod, naturaliter ascendendo totum gamma per omnes rigas et spacia et etiam descendendo quocumque modo velit mutare, non inveniet ultra quinque semitonos. Quidam in hac arte minus experti dicunt: canta in secunda voce, cum secunda, tercia, quarta vox potest esse sine semitono 
+      <pb n="[23]" />ut in tono, ditono, tritono, et cum semitono in omnibus, sed et quinta, sexta, septima vox cum uno semitono vel cum duobus semitoniis, octava vero vox cum duobus vel tribus semitoniis, unde pro pluribus vel paucioribus semitoniis occurrentibus, non eque distant voces. Dicant igitur: canta vel pone te in tono, semitono, ditono, semiditono, tritono, dyatessaron, dyapente, dyapason, univoce et sic de aliis modis, ut in tono cum dya, et cetera, et sic de aliis. Alii vero dicunt: canta in primo, secundo, tercio, quarto, quinto tono, de tritono aliquando, idest de quarta voce, bene possunt dicere, scilicet ter in gamma, scilicet bis super f et semel super b acutum, sed ultra si dicatur, scilicet in quarto vel in quinto tono et sic de aliis, quia plura vel pauciora semitonia inter tot tonos esse possunt, nescitur quid volunt dicere. Ideoque melius et proprius dicetur ut supra in proximo cum quidam decepti dicunt quod viderunt plures bene cantantes et artem cantandi omnino ignorantes quod veraciter est impossible. Quibus igitur respondendum est sic: ita est de illis cantoribus qui sine arte cantant, sicut est de illitteratis qui litteras non didicerunt, nisi forte alicuius psalmi usualis et tamen aliquid vel plura per litteras et usum dicere sciunt non natura, sed alibi extra usum legere nesciunt. Eodem modo huiusmodi cantores usum consuetum excedentes, penitus canere nequeunt, quia differenciam artemque tonorum et semitonorum invenire non norunt. Probentur a scientibus cantum naturaliter experimentoque invenietur verum quod dico et numquam fallit. Per quod canitur? Respondeo: per [sqb] quadratum, vel per proprium cantum, vel per b molle. Si queritur: quali littera vel clavi canitur? Respondeo: tali gravi, vel acuta, vel superacuta. Si queritur: quare primo ponitur cantus in gamma per [sqb] quadratum quam per alium cantum? Alibi determinatur in sequentibus in duodecimo folio.</p>
+      <p id="AMEPRA0003">
+      <pb n="[24]" />3. Si quis scit istam manum, scit omnes mutaciones et quicquid est necesse ad gamma.</p>
+      <p id="AMEPRA0004">[CSM25:24; text: Gamma, [Gamma]-ut, b, a-re, [sqb]-mi, [sqb], e-la-mi, proprius cantus, g-sol-re-ut, c-fa-ut, d-la-sol-re, d-la-sol, a-la-mi-re, d-sol-re, c-sol-fa-ut, c-sol-fa, b-fa-[sqb]-mi, f-fa-ut, Si quis scit istam manum scit omnes mutaciones et quicquid est necesse ad gamma, Radices super G, c, f ut per [sqb], proprium cantum, b, la super e, a, d per [sqb], proprium cantum, b, 3, 2, 7] 
+      <figure>
+        <graphic url="/images/AMEPRA_01GF.gif" />
+      </figure></p>
+      <p id="AMEPRA0005">
+      <pb n="[26]" />[CSM25:26; text: Superacute, Acute, Graves, [Gamma], a, [sqb], c, d, e, f, g, a, b-fa-[sqb]-mi, tonus, semitonus,ut, re, mi, fa, sol, la, per [sqb], per proprium cantum, per [b] molle, per [sqb] quadratum] 
+      <figure>
+        <graphic url="/images/AMEPRA_02GF.gif" />
+      </figure></p>
+      <p id="AMEPRA0006">4. Nota quod omnes alie note habent plenum tonum, illis tamen exceptis ubi semitonus vel semitonium scribitur. Semitonus sive semitonium dicitur vel componitur de semus -ma -mum, quod est imperfectus -ta -tum, id est non plenus, et de tonus toni, quasi non perfectus vel non plenus tonus, et licet proprie dicitur semus -ma -mum illud quod est ultra medietatem et citra perfectionem tamen quantum ad propositum, semitonium dicitur hic eo quod sit minus quam medietas toni; 
+      <pb n="[27]" />sed claves dicuntur respectu partis inferioris, unde bene dicitur de semis quod est medietas, quia ultra medietatem ascendit et circa perfectionem toni.</p>
+      <p id="AMEPRA0007">[CSM25:27,1; text: d, bb, g, c, b, [sqb], [Gamma], ut, re, mi, fa, sol, la-mi, la-la-re, ut-ut-sol, ut-ut-fa] 
+      <figure>
+        <graphic url="/images/AMEPRA_03GF.gif" />
+      </figure></p>
+      <p id="AMEPRA0008">Iste possunt esse claves principales secundum quosdam.</p>
+      <p id="AMEPRA0009">Nota quod ubicumque sit mi-fa vel fa-mi, ibi est semitonus, in omnibus aliis est tonus, sicut patet in istis mutacionibus diversificatis. Notandum, quod omnes claves habent nomen respectu partis inferioris, non superioris.</p>
+      <p id="AMEPRA0010">[CSM25:27,2; text: bb, g, e, c, b, d, ut , re, mi, fa, sol, la-la-mi, la-la-re, ut-ut-fa, ut-ut-sol]</p>
+      <p id="AMEPRA0011">Iste tamen specialiter sunt claves principales non quasi alie littere gamme non sint claves ut iste, sed quia iste principalius habentur in usu. Nota quod decem et novem sunt claves, sed principales non sunt nisi septem et sepcies incipitur ut in gamma, et tociens sunt omnes note excepto la quando incipitur ut in g acutum.</p>
+      <p id="AMEPRA0012">
+      <pb n="[28]" />[CSM25:28,1; text: d, [sqb], g] 
+      <figure>
+        <graphic url="/images/AMEPRA_04GF.gif" />
+      </figure></p>
+      <p id="AMEPRA0013">5. In omnibus notis dyapente, idest a quinta nota in quintam notam, invenio bonam mutacionem excepto de mi in mi et de fa in fa, sed in quarta nota de fa ascendendo in fa, de mi descendendo in mi est mutacio naturalis. Quare etiam oportet mutare a principio gamme ascendendo usque ad d superacutum et tociens in descendendo usque ad gamma grave. Quando aliquis cantus immediate descenderit per inferiorem locum proxime clavis principalis, debet vocabulum note superioris probari si nota sit ante locum mutacionis. Sic fingatur nota ubi nulla est.</p>
+      <p id="AMEPRA0014">[CSM25:28,2]</p>
+      <p id="AMEPRA0015">Si vero cantus sine medio ante locum mutacionis ascenderit per superiorem locum clavis principalis, nomen note probari protest exemplo prenotato. Nota quod mutacio 
+      <pb n="[29]" />numquam fit nisi cantus ascenderit ultra la vel subtus, ut cuiuscumque cantus. Quare sunt omnes claves cantus in septem litterarum vocabulis et sex vocabula notarum tantum? Respondeo: quia auctor, videns omnia mundi tempora per septem discurrere litteras et dierum vocabula, per easdem septem litteras clavium vocabula tocius cantus sufficere composuit. In quibus litteris sex diversa notarum nomina ad eandem indidit sufficienciam. Namque in eisdem sex notis ascendendo vel descendendo semitonus medium locum tenet ex utraque parte duos tonos habens. Si ascendat sub ut in f vel c gravi aut acuta, in semitonium vadit. Si ascendit ultra la in e gravi aut acutum, ascendit in semitonio. In a acutum et superacutum primus ascensus similter est in semitonio. Unde plura quam sex notarum vocabula essent superflua cum redeant in idem, pauciora vero insufficiencia, ideo ibi finem apposuit. Item quidam dicunt quod sex note cantus sumpserunt nomen ex primis sillabis cuiuslibet virge istius hympni Sancti Johannis Baptiste retrograde tamen:</p>
+      <p id="AMEPRA0016">Ut queant laxis</p>
+      <p id="AMEPRA0017">Re-sonare fibris</p>
+      <p id="AMEPRA0018">Mi-ra gestorum</p>
+      <p id="AMEPRA0019">Fa-muli tuorum</p>
+      <p id="AMEPRA0020">Sol-ve polluti</p>
+      <p id="AMEPRA0021">La-bii reatum</p>
+      <p id="AMEPRA0022">Sancte Johannes.</p>
+      <p id="AMEPRA0023">Item nota quando mutacio fieri debet et nomen note mutande ignoratur ab utroque loco scilicet clavis superioris vel inferioris, secundum quod ascendet vel descendet per mutacionem fingendo notas licet non sint quasi essent principales usque ad locum note cuius nomen in mutando ignoratur, potes cognoscere nomina notarum presencium et mutandarum. 
+      <pb n="[30]" />Si aliquis vult mutare in g grave de proprio cantu in [sqb] ascendendo, unde illa nota ratione f grave dicitur sol, ratione c acutum dicitur ut, ergo mutando dicendum est sol-ut, e contrario in descendendo scilicet ut-sol. Eodem modo fit de aliis exemplis igitur.</p>
+      <p id="AMEPRA0024">[CSM25:30]</p>
+      <p id="AMEPRA0025">Per istas notas ultimo scriptas potest intelligi quod valet scire loca clavium principalium et claves cognoscere. Gamma-ut habet unam notam, nullam mutacionem. A-re unam notam, nullam mutacionem. B-mi unam notam, nullam mutacionem. C-fa-ut habet duas notas et duas mutaciones: fa-ut ascendendo, ut-fa descendendo, fa-ut de [sqb] quadrato in cantum proprium, ut-fa de proprio cantu in [sqb] quadrato. D-sol-re habet duas notas et duas mutaciones: sol-re ascendendo de [sqb] quadrato in proprium cantum, re-sol descendendo in [sqb] quadratum. E-la-mi habet duas notas et duas mutaciones: la-mi ascendendo de [sqb] quadrato in proprium cantum, mi-la descendendo de proprio cantu in [sqb] quadratum. F-fa-ut habet duas notas et duas mutaciones: fa-ut ascendendo de proprio cantu in b molle, ut-fa descendendo de b molle in proprium cantum. G-sol-re-ut habet tres notas et sex mutaciones: sol-re ascendendo de proprio cantu in b molle, re-sol descendendo de b molle in proprium cantum, sol-ut ascendendo de proprio cantu in [sqb] quadratum, ut-sol descendendo 
+      <pb n="[31]" />de [sqb] quadrato in proprium cantum, re-ut ascendendo de b molle in [sqb] quadratum, ut-re ascendendo de [sqb] quadrato in b molle. A-la-mi-re habet tres notas et sex mutaciones: la-mi ascendendo de proprio cantu in b molle, mi-la descendendo de b molle in proprium cantum, la-re ascendendo de proprio cantu in [sqb] quadratum, re-la descendendo de [sqb] quadrato in proprium cantum, mi-re ascendendo de b molle in [sqb] quadratum, re-mi ascendendo de [sqb] quadrato in b molle. B-fa-[sqb]-mi habet duas claves et duas notas: fa in semitonio et mi in pleno tono, et ideo non habet mutacionem quia oportet quod omnis mutacio sit in eadem voce. C-sol-fa-ut habet tres notas et sex mutaciones: sol-fa descendendo de b molle in [sqb] quadratum, fa-sol descendendo de [sqb] quadrato in b molle, sol-ut ascendendo de b molle in proprium cantum, ut-sol descendendo de proprio cantu in b molle, fa-ut ascendendo de [sqb] quadrato in proprium cantum, ut-fa descendendo de proprio cantu in [sqb] quadratum. D-la-sol-re habet tres notas et sex mutaciones: la-sol ascendendo de b molle in [sqb] quadratum, sol-la descendendo de [sqb] quadrato in b molle, la-re ascendendo de b molle in proprium cantum, re-la descendendo de proprio cantu in b molle, sol-re ascendendo de [sqb] quadrato in proprium cantum, re-sol descendendo de proprio cantu in [sqb] quadratum. E-la-mi ut supra. F-fa-ut ut supra. G-sol-re-ut ut supra. A-la-mi-re ut supra. B-fa-[sqb]-mi omnes iste claves quantum ad mutaciones ut supra. C-sol-fa habet duas notas et duas mutaciones: sol-fa ascendendo de b molle in [sqb] quadratum, fa-sol descendendo de [sqb] quadrato in b molle. D-la-sol habet duas notas et duas mutaciones: la-sol ascendendo de b molle in [sqb] quadratum, sol-la descendendo de [sqb] 
+      <pb n="[32]" />quadrato in b molle. Quocienscumque ut incipitur super g, totus cantus eius est per [sqb] quadratum; quociens incipitur ut super f, est per b molle; quociens ut incipitur super c, est per proprium cantum.</p>
+      <p id="AMEPRA0026">[CSM25:32; text: Prima doctrina puerorum in solfatione et sic possunt intelligere omnis ascensus et descensus toni cum dyapente in gamma. Gamma ut a b c fa ut, re mi fa fa ut] 
+      <figure>
+        <graphic url="/images/AMEPRA_05GF.gif" />
+      </figure></p>
+      <p id="AMEPRA0027">
+      <pb n="[33]" />[CSM25:33; text: e-la-mi, f-fa-ut, g-sol-re-ut, a-la-mi-re, la-mi-mi-la, la-re-re-la, mi-re-re-mi] 
+      <figure>
+        <graphic url="/images/AMEPRA_06GF.gif" />
+      </figure></p>
+      <p id="AMEPRA0028">Expliciunt mutaciones omnis cantus.</p>
+      <p id="AMEPRA0029">6. Cognoscant qui canere volunt quod numquam inter sillabas eiusdem dictionis pausare licet de iure rationis cantus, nisi forte plures note super eandem sillabam fuerint. Tunc inter notas eiusdem sillabe poterunt pausare, ita quod residuas notas reservant cum eadem sillaba preincepta et note coniuncte naturaliter non debent disiungi, ut in hoc sequenti exemplo.</p>
+      <p id="AMEPRA0030">
+      <pb n="[34]" />[CSM25:34,1; text: et spiritalis homo. Primi toni seculorum. Secundi toni. Tercii toni seculorum. Quarti toni pro pueris. Quinti toni. Sexti toni. Septimi toni. Octavi toni seculorum. Exceptio octavi.] 
+      <figure>
+        <graphic url="/images/AMEPRA_07GF.gif" />
+      </figure></p>
+      <p id="AMEPRA0031">Istud ultimum seculorum non habet par. Per ista seculorum possunt omnia alia seculorum per inceptiones comprehendi, cuiuscumque sint toni.</p>
+      <p id="AMEPRA0032">7. Incipiunt modi tocius armonie. Ter terni et cetera.</p>
+      <p id="AMEPRA0033">[CSM25:34,2; text: Ter terni sunt modi quibus omnis cantilena contexitur, scilicet unisonus, semitonium, tonus, semiditonus, ditonus]</p>
+      <p id="AMEPRA0034">
+      <pb n="[35]" />[CSM25:35; text: dyatessaron dyapente, semitonium cum dyapente, tonus cum dyapente, ad hic sonus dyapason, si quem delectat ei hunc modum esse agnoscat cumque tam paucis clausulis tota armonia formetur; lucidissimum est eas alte memorie commendare, nec prius ab huiusmodi studio quiescere donec vocum intervallis agnitis armonie totius facillime queas comprehendere] 
+      <figure>
+        <graphic url="/images/AMEPRA_08GF.gif" />
+      </figure></p>
+      <p id="AMEPRA0035">
+      <pb n="[36]" />[CSM25:36; text: comprehendere noticiam. In qua laudatur deus, homo iocundatur.] 
+      <figure>
+        <graphic url="/images/AMEPRA_09GF.gif" />
+      </figure></p>
+      <p id="AMEPRA0036">8. Cum Boecius Rome degeret, Pictagora quoque in Tarento viveret, mire eius philosophie auribus excipiens in eius presencia existere, ad eum pergere properavit. Et cum per plateas Tarenti iter suum spaciando perageret, in cuiusdam ferrarii fabrica consonanciam quinque malleorum audivit. Introivit itaque et illos subtilissima indagatione et perspicabili investigatione necnon sollicitorum exercitio et vigilantissimo studio, tandem equo pondere perlibravit. De quibus unum abiecit et ad similitudinem quatuor malleorum, quatuor sonos musice artis invenit. Per primum malleum depinxit a grave, per secundum depinxit d grave et fecit primam consonanciam. Per tercium depinxit e grave et fecit secundam consonanciam. Per quartum depinxit a acutum et fecit terciam consonanciam. Prima consonancia dyatessaron dicitur, secunda dicitur dyapente, tercia dyapason dicitur. Item Boecius, fuit etiam musica inventa iuxta aquas, sed potest queri unde dicatur musica. Diffinitio: musica est veraciter canendi sciencia et facilis via canendi per scienciam; vel aliter: musica est quicquid potest corde propinari; vel aliter: musica est motus rationabilium vocum in arsis et thesis, idest elevatione et depressione, et dicitur musica a musis quod sine amusitatione. Utrumque ergo accipiendum est ut musica a musis vel a musitatione dicta sit, idest a sonitu vocum. Musica a quo inventa est? a Pictagora magistro philosopho, et inde 
+      <pb n="[37]" />inventa est ex malleorum sonitu et aquarum, et derivatur a moys quod est aqua, quia nec aqua nec musica tangi potest sine sonitu aliquo vel aliqua motione. Ad habendam vero noticiam cantus, in primis sciendum est quod littere sunt septem in quibus dignoscitur omnis cantus seu toni diurni et nocturni, scilicet: a, b, c, d, e, f, g. Iste dicuntur esse graves. Postea sequuntur alie septem vel eedem, scilicet: a, b, c, d, e, f, g, que dicuntur acute. Postea sequuntur quatuor, scilicet: a, b, c, d, que dicuntur superacute. De hiis vero omnibus quatuor sunt finales in quibus omnis cantus finitur, scilicet: d, e, f, g, graves. Unde habemus quod primus et secundus tonus finitur in una littera et uno loco, scilicet in d gravi. Primus autem tonus ascendit usque ad f acutum, ut in responsorio: Vidi dominum sedentem, ubi dicitur omnis, et descendit usque ad a grave, ut in introitu: De ventre matris mee; et est sciendum quod versus responsoriorum maiorum primi toni incipitur in duobus locis: primus in a acutum, secundus in d gravi, et finitur in f grave. Nota quod versus responsoriorum maiorum non sequuntur regulam aliarum cantionum, quia habent regulam per se. Secundus autem tonus non procedit nisi ad d acutum, ut in responsorio: Omnis pulcritudo, vel iste cantus est mixtus et descendit ad gamma ut in graduale: Ostende nobis domine, et eius versus incipitur in duobus locis, scilicet in d grave et in c grave, et finitur in c grave. Tercius et quartus ambo finiuntur in uno loco, scilicet in e gravi. Tercius ascendit usque ad f acutum, ut in responsorio: Virtute magna, et descendit usque ad c grave, ut in responsorio: Prope est ut veniat in adventu, et eius versus incipitur in c acutum, raro accidit in [sqb] acutum et finitur in g gravi. Quartus tonus 
+      <pb n="[38]" />ascendit usque ad c acutum et descendit usque ad c grave, ut in responsorio: Ecce mitto angelum, et eius versus potest incipit in a acuto et finitur in d gravi. Quintus et sextus tonus finiuntur in f gravi. Quintus ascendit usque ad f acutum, ut in responsorio Hodie nobis celorum rex, et eius versus in c acutum incipitur, et finitur in a acutum. Sextus vero non tendit nisi ad d acutum, ut in responsorio Aspiciebam in visu, et eius versus in f gravi incipitur, et finitur in a acutum, ut in purificatione: Gabrielem archangelum. Septimus et octavus finiuntur in uno loco, scilicet in g gravi. Septimus tonus ascendit usque ad b superacutum, ut in responsorio Bethleem civitas Dei, et eius versus incipitur in d acutum et aliquando in b acutum, et finit in [sqb] acutum. Octavus vero tonus ascendit usque ad f acutum, ut in graduali Benedictus dominus Deus Israel, et eius versus possunt incipi in duobus locis, scilicet in g gravi et c acutum, et finit in g gravi. Responsoria cum versibus suis in litteris supradictis, ita et antiphone, gradualia, introitus, offertoria, postulationes et omnis cantus finitur. Regula tamen in fine libri cum ista memorie commendetur.</p>
+      <p id="AMEPRA0037">9. Incipit tonale secundum usum ecclesiarum Anglie et Francie in psalmis ad matutinas, horas et vesperas. Notandum quod differencie vocantur diverse inceptiones antiphonarum, responsoriorum, officiorum et omnium cantuum, scilicet ipsa principia que inter se et a se differunt. Item seculorum improprie dicuntur differencie, licet inter se differant, quia non sunt principia sed fines.</p>
+      <p id="AMEPRA0038">
+      <pb n="[39]" />[CSM25:39; text: Primi toni: Primi toni melodia psallat in directo. euouae. Secundi toni: Secundus tonus sic mediatur et sic finitur. Tercii toni: Tercium tonum suspende in medio et sic finito.]</p>
+      <p id="AMEPRA0039">
+      <pb n="[40]" />[CSM25:40; text: Quarti toni: Quartus tonus gradatim ascendit, sed tandem de alto cadit. euouae. Quinti toni: Quintus tonus scandendo levatur, sed tenendo terminatur. Sexti toni: Sextum tonum ut primum assume, sed aliter dimitte. Septimi toni: Septimus tonus] 
+      <figure>
+        <graphic url="/images/AMEPRA_10GF.gif" />
+      </figure></p>
+      <p id="AMEPRA0040">
+      <pb n="[41]" />[CSM25:41; text: ut tercius suspenditur, sed aliter deponitur. euouae. Octavi toni: Octavus tonus secundo respondet in medio, sed in fine discrepat. Pneuma primi: Primum querite regnum Dei, Psalmus Benedictus dominus Deus Israel quia. Magnificat anima.] 
+      <figure>
+        <graphic url="/images/AMEPRA_11GF.gif" />
+      </figure></p>
+      <p id="AMEPRA0041">
+      <pb n="[42]" />[CSM25:42; text: Pneuma secundi: Secundum autem simile est huic. Psalmus Benedictus dominus Deus Israel quia. Magnificat anima. Pneuma tercii: Tercia dies est quia hec facta sunt, Psalmus Benedictus dominus Deus Israel quia. Pneuma quarti: Quarta vigilia venit ad eos, Psalmus Benedictus dominus Deus Israel quia.] 
+      <figure>
+        <graphic url="/images/AMEPRA_12GF.gif" />
+      </figure></p>
+      <p id="AMEPRA0042">
+      <pb n="[43]" />[CSM25:43; text: Pneuma quinti: Quinque prudentes virgines intraverunt ad nuptias, Psalmus Benedictus dominus Deus Israel quia. Magnificat anima. Pneuma sexti: Sexta hora sedit supra puteum, Psalmus Benedictus dominus Deus Israel quia. Pneuma septimi: Septem sunt spiritus ante thronum Dei. Psalmus Benedictus dominus Deus Israel. Magnificat] 
+      <figure>
+        <graphic url="/images/AMEPRA_13GF.gif" />
+      </figure></p>
+      <p id="AMEPRA0043">
+      <pb n="[44]" />[CSM25:44; text: anima. Pneuma octavi: Octo sunt beatitudines, Psalmus Benedictus dominus Deus Israel. Magnificat anima.] 
+      <figure>
+        <graphic url="/images/AMEPRA_14GF.gif" />
+      </figure></p>
+      <p id="AMEPRA0044">10. Incipit tonale secundum usum Curie Romane in psalmis ad vesperas, matutinas et horas. Nota quod in Curia Romana numquam faciunt pneumam post antiphonas, sed diebus duplicibus cantant antiphonam ante et post quemlibet psalmum tam ad vesperas quam ad matutinas, sed non ad horas. In brevibus versiculis tamen ante lectiones, Benedictus et Magnificat faciunt pneumam, et quando faciunt memoriam post orationem de die semper terminant collectas in seipsis sine per omnia secula et sine amen quotquot sint et cum uno Benedicamus tantum in fine omnium collectarum, quoniam illa de die finitur cum per omnia secula, amen, vel secundam collectam. Item novem lectiones habent, sed nisi octo responsoria, post nonam lectionem incontinenti incipiunt Te Deum laudamus, nec ponunt versiculum ante laudes, sed incipiunt Deus in adiutorium. Primi toni.</p>
+      <p id="AMEPRA0045">
+      <pb n="[45]" />[CSM25:45; text: Primi toni: Beatus vir qui non abiit in consilio impiorum et in via peccatorum non stetit et in cathedra pestilentie non sedit. Psalmus Benedictus dominus Deus Israel quia. Magnificat anima, Secundi toni: Beatus vir qui non abiit in consilio impiorum et in via peccatorum non stetit et in cathedra pestilentie non sedit. Psalmus Benedictus dominus Deus Israel quia.] 
+      <figure>
+        <graphic url="/images/AMEPRA_15GF.gif" />
+      </figure></p>
+      <p id="AMEPRA0046">
+      <pb n="[46]" />[CSM25:46; text: Tercii toni: Beatus vir qui non abiit in consilio impiorum et in via peccatorum non stetit et in cathedra pestilentie non sedit. Psalmus Benedictus dominus Deus Israel quia. Magnificat anima. Quarti toni: Beatus vir qui non abiit in consilio impiorum et in via peccatorum non stetit et in cathedra pestilentie non sedit. Psalmus Benedictus dominus Deus Israel quia. Quinti toni: Beatus vir qui non abiit in consilio impiorum et in via] 
+      <figure>
+        <graphic url="/images/AMEPRA_16GF.gif" />
+      </figure></p>
+      <p id="AMEPRA0047">
+      <pb n="[47]" />[CSM25:47; text; peccatorum non stetit et in cathedra pestilentie non sedit. Psalmus Benedictus dominus Deus Israel quia. Magnificat anima. Sexti toni: Beatus vir qui non abiit in consilio impiorum et in via peccatorum non stetit et in cathedra pestilentie non sedit. Psalmus Benedictus dominus Deus Israel quia. Septimi toni: text: Beatus vir qui non abiit in consilio impiorum et in via peccatorum non stetit et in cathedra pestilentie non sedit.] 
+      <figure>
+        <graphic url="/images/AMEPRA_17GF.gif" />
+      </figure></p>
+      <p id="AMEPRA0048">
+      <pb n="[48]" />[CSM25:48; text: Psalmus Benedictus dominus Deus Israel quia. Magnificat anima. Octavi toni: Beatus vir qui non abiit in consilio impiorum et in via peccatorum non stetit et in cathedra pestilentie non sedit. Psalmus Benedictus dominus Deus Israel quia. Magnificat anima. In exitu Israel de Egypto, domus Iacob de populo barbaro.] 
+      <figure>
+        <graphic url="/images/AMEPRA_18GF.gif" />
+      </figure></p>
+      <p id="AMEPRA0049">11. Nunc de antiphonario Curie romane inquirendum, et sciendum quod a d gravi finali suo in d acutam currit tonus primus, et habet seculorum in a acutam. Primus tonus est determinatio quarte vocis, scilicet d gravis, habens elevationem 
+      <pb n="[49]" />potencialiter usque ad eandem litteram, scilicet d acutam, et habet quatuor principia: a acutam, f grave, d grave et c grave, et habet decem differencias. Tamen quidam ciunt et melius quod non habet nisi quinque differencias, considerantes tam diversitatem inceptionum quam diversitatem seculorum.</p>
+      <p id="AMEPRA0050">[CSM25:49; text: Primus tonus in responsoriis habet inicia, in versibus, in antiphonis, finis. Responsorium Civitas Jerusalem, Versus Ecce dominus. Gloria Patri et Filio et Spiritui Sancto.] 
+      <figure>
+        <graphic url="/images/AMEPRA_19GF.gif" />
+      </figure></p>
+      <p id="AMEPRA0051">Sunt novem differencie primi toni: una antiphona incipitur in a acutam, tres a f grave, quatuor a d grave, una a c grave et una in g grave: Cum appropinquaret dominus Jerusalem, et a c gravi: Preceptor per totam noctem.</p>
+      <p id="AMEPRA0052">
+      <pb n="[50]" />[CSM25:50,1; text: Ut non delinquam. euouae. Lazarus. Reges Tharsis. 4. Ecce nomen. Levate. Leva Jerusalem. Euge. Serve bone.] 
+      <figure>
+        <graphic url="/images/AMEPRA_20GF.gif" />
+      </figure></p>
+      <p id="AMEPRA0053">Invitatorium.</p>
+      <p id="AMEPRA0054">[CSM25:50,2; text: Tu es pastor. Venite.]</p>
+      <p id="AMEPRA0055">
+      <pb n="[51]" />Secundus tonus determinatur in d grave, non habens elevationem usque ad d acutum; et habet quinque principia: in f grave, in d grave, in c grave, in a grave, in e que raro est in usu. Quidam ponunt g, principia addentes a et g graves, et habet duas differencias et pneumam in fine.</p>
+      <p id="AMEPRA0056">[CSM25:51,1; text: Quem vidistis. Clamant. Refulsit sol. Educ de carcere. euouae.] 
+      <figure>
+        <graphic url="/images/AMEPRA_21GF.gif" />
+      </figure></p>
+      <p id="AMEPRA0057">Invitatorium.</p>
+      <p id="AMEPRA0058">[CSM25:51,2; text: Regem qui fecit. Venite exultemus.]</p>
+      <p id="AMEPRA0059">
+      <pb n="[52]" />Nota antecedenter quod licet primus et secundus tonus in hac finali littera d conveniant et in quibuisdam principiis, in elevatione tamen et depositione a se invicem differunt. Nam secundus tonus habet [Gamma] primam vocem et a gravem, et primus tonus habet c acutum et d acutum et quandoque e acutum licet non secundum regulam sed per sentenciam, et istas non habet secundus. De illis ergo cantibus qui non habent hanc elevationem vel illam depositionem iudicandum est hoc modo: si non ascendant usque ad a acutum certissime de secundo tono erunt.</p>
+      <p id="AMEPRA0060">[CSM25:52; text: Responsorium Docebit nos. Versus Venite, Gloria Patri et Filio et Spiritui Sancto.]</p>
+      <p id="AMEPRA0061">Nunc dicendum est de deutero et eius plagali. Tercius tonus terminatur in e gravi, habens elevationem regulariter ad e acutum, et habet tria principia, scilicet c acutum et g gravem et f gravem, et sex differencias quarum differencie due oriuntur ab e gravi et omnia seculorum incipiunt in c acutum; prime differencie incipiunt ab e gravi, alie quatuor differencie incipiunt a g gravi. Prima ab e gravi:</p>
+      <p id="AMEPRA0062">
+      <pb n="[53]" />[CSM25:53,1; text: Beatus vir qui in lege. Euouae.] 
+      <figure>
+        <graphic url="/images/AMEPRA_22GF.gif" />
+      </figure></p>
+      <p id="AMEPRA0063">Secunda differencia:</p>
+      <p id="AMEPRA0064">[CSM25:53,2; text: Hec est que nescivit. euouae.]</p>
+      <p id="AMEPRA0065">Alie quatuor differencie incipiunt a g gravi; prima differencia in g:</p>
+      <p id="AMEPRA0066">[CSM25:53,3; text: Et respicientes. euouae.]</p>
+      <p id="AMEPRA0067">Secunda differencia:</p>
+      <p id="AMEPRA0068">[CSM25:53,4; text: Quoniam in eternum. euouae.]</p>
+      <p id="AMEPRA0069">
+      <pb n="[54]" />Tercia differencia:</p>
+      <p id="AMEPRA0070">[CSM25:54,1; text: Ego sum. euouae.] 
+      <figure>
+        <graphic url="/images/AMEPRA_23GF.gif" />
+      </figure></p>
+      <p id="AMEPRA0071">Quarta differencia:</p>
+      <p id="AMEPRA0072">[CSM25:54,2; text: Surge et in eternum. euouae.]</p>
+      <p id="AMEPRA0073">Principalis autem differencia tercii toni est ista, scilicet Beatus vir; dicitur autem principalis propter causam in primo tono assignatam. Ille vero autem que incipiunt in c acutum sequuntur differenciam primam, quarum una hec est:</p>
+      <p id="AMEPRA0074">[CSM25:54,3; text: Unum opus feci. euouae.]</p>
+      <p id="AMEPRA0075">Habemus ergo sex differencias tercii toni: duas ab e gravi, unam a c acutum, quatuor a g gravi.</p>
+      <p id="AMEPRA0076">
+      <pb n="[55]" />[CSM25:55,1; text: Responsorium Salvatorem expectamus. Versus Sobrie. Gloria Patri et Filio et Spiritui Sancto.] 
+      <figure>
+        <graphic url="/images/AMEPRA_24GF.gif" />
+      </figure></p>
+      <p id="AMEPRA0077">Invitatorium tercii toni:</p>
+      <p id="AMEPRA0078">[CSM25:55,2; text: Regem precursoris dominum. Venite exultemus Domino jubilemus.]</p>
+      <p id="AMEPRA0079">Quartus tonus est determinatio vocis e gravis non habens elevationem usque ad eandem litteram in e acutam, et habet sex principia, scilicet c gravem et d gravem et f gravem et g gravem et a acutum; et habet sex differencias, scilicet ipsa principia que inter se et a se invicem differunt. In finali tamen voce conveniunt, scilicet in e gravi; una differencia oritur in tercia voce, scilicet in c grave que talis est:</p>
+      <p id="AMEPRA0080">[CSM25:55,3; text: Ne reminiscaris. euouae.]</p>
+      <p id="AMEPRA0081">
+      <pb n="[56]" />Alia differencia oritur a d gravi que talis est:</p>
+      <p id="AMEPRA0082">[CSM25:56,1; text: Rubum quem viderat. euouae.] 
+      <figure>
+        <graphic url="/images/AMEPRA_25GF.gif" />
+      </figure></p>
+      <p id="AMEPRA0083">Tercia differencia in e gravi talis est:</p>
+      <p id="AMEPRA0084">[CSM25:56,2; text: Sancta Maria.]</p>
+      <p id="AMEPRA0085">Hec differencia que oritur ab e gravi habet idem seculorum cum illa que oritur ab f gravi que talis est:</p>
+      <p id="AMEPRA0086">[CSM25:56,3; text: Auro virginum. euouae.]</p>
+      <p id="AMEPRA0087">Quinta differencia oritur a g gravi:</p>
+      <p id="AMEPRA0088">[CSM25:56,4; text: In mandatis eius.]</p>
+      <p id="AMEPRA0089">
+      <pb n="[57]" />Sexta differencia in a acutum:</p>
+      <p id="AMEPRA0090">[CSM25:57,1; text: In prole mater.] 
+      <figure>
+        <graphic url="/images/AMEPRA_26GF.gif" />
+      </figure></p>
+      <p id="AMEPRA0091">Septima differencia ab e gravi, sed alium habet modum quam tercia differencia et alium seculorum, licet in eadem incipiat littera, scilicet in e gravi:</p>
+      <p id="AMEPRA0092">[CSM25:57,2; text: Fidelia omnia. euouae.]</p>
+      <p id="AMEPRA0093">Iste tres differencie predicte habent unum seculorum, et due differencie inveniuntur irregulares que non servant hanc finalem litteram e, quarum prima incipitur a g gravi, secunda differencia irregularis incipit ab a acuta.</p>
+      <p id="AMEPRA0094">[CSM25:57,3; text: Benedicta tu. euouae. Post partum virgo.]</p>
+      <p id="AMEPRA0095">Habemus itaque in quarto tono sex differencias: prima a c gravi, secunda a d gravi, tercia ab e gravi vel f gravi, quarta a g gravi vel a acutum vel e grave et duas irregulares:</p>
+      <p id="AMEPRA0096">
+      <pb n="[58]" />[CSM25:58; text: Deus qui sedes super. Versus tibi enim. Gloria Patri et Filio et Spiritui Sancto. Ecce venit rex. Venite. Christus natus est nobis. Venite. Venite adoremus regem regum, venite.] 
+      <figure>
+        <graphic url="/images/AMEPRA_27GF.gif" />
+      </figure></p>
+      <p id="AMEPRA0097">Notandum est autem quod licet tercius tonus et quartus tonus in hac finali voce e conveniant, differencia tamen est quod quartus tonus habet priman vocem a gravi, [sqb] grave, c grave, quas non habet tercius tonus. Habet autem tercius d acutum, e acutum et f acutum, licet non habeat regulariter sed licencia, has autem non habet quartus tonus. De illis ergo cantibus qui talem elevationem vel depositionem non habent, talis est habenda discrecio qualis primo tono imposita est. Nunc dicendum est de quinto tono. Quintus tonus quid est? 
+      <pb n="[59]" />Determinatio vocis sexte, scilicet f gravis, habens elevationem potencialiter usque ad eandem litteram f acutam et hic tonus habet tria principia, scilicet c acutum, a acutum et f grave et nullam habet differenciam nisi quoad principia, sed a seculorum vero exempla differenciarum sunt ista:</p>
+      <p id="AMEPRA0098">[CSM25:59; text: In conspectu angelorum. Paganorum multitudo. euouae. Proprio filio. Angelus domini. Versus Ecce precedam vos. Gloria Patri et Filio et Spiritui Sancto. Alleluya. Christum dominum. Venite, exultemus. Surrexit dominus vere. Venite exultemus.] 
+      <figure>
+        <graphic url="/images/AMEPRA_28GF.gif" />
+      </figure></p>
+      <p id="AMEPRA0099">
+      <pb n="[60]" />Nunc dicendum est de sexto tono: sextus tonus est determinatio vocis sexte, scilicet f gravis, non habens elevationem usque ad f acutum; habet autem sextus tonus tria principia, scilicet f gravem, d gravem, c gravem, et non habet nisi unum seculorum. Hec sunt exempla differenciarum:</p>
+      <p id="AMEPRA0100">[CSM25:60,1; text: Qui manducat carnem. Benedictus dominus. Diffusa est gratia. euouae.] 
+      <figure>
+        <graphic url="/images/AMEPRA_29GF.gif" />
+      </figure></p>
+      <p id="AMEPRA0101">Penuria sive paucitas antiphonarum coegit postcomuniones in exempla ponere:</p>
+      <p id="AMEPRA0102">[CSM25:60,2; text: Aspiciebam in visu. Versus Potestas. Gloria Patri et Filio et Spiritui Sancto. Regem cui omnia vivunt, venite. Adoremus venite.]</p>
+      <p id="AMEPRA0103">
+      <pb n="[61]" />Nota quod hic est differencia inter quintum tonum et sextum. Sextus habet c gravem et d gravem quas non habet quintus, et quintus habet e et f acutas quas sextus non habet. Illorum autem cantuum qui non habent talem elevationem vel depositionem, talis est habenda discrecio sicut dictum est superius de primo et secundo tono. Nunc dicendum est de septimo tono: septimus tonus est determinatio septime vocis, scilicet g gravis, habens elevationem usque ad eandem litteram, scilivet g acutam, et habet quinque principia, scilicet d, c, b, a acutas et g gravem. Habet etiam sex differencias, scilicet d, c, b, a acutas, quinta differencia in g gravem, sexta in eadem g gravi et est principalis propter causam in prioribus tonis datam.</p>
+      <p id="AMEPRA0104">[CSM25:61; text: Adiuvabit eam. Loquebatur. Helena Constantini. euouae. Venite benedicti patris. Urbs fortitudinis nostre. Joseph fili David. Stella ista. Ave Maria. Quomodo. Gloria Patri] 
+      <figure>
+        <graphic url="/images/AMEPRA_30GF.gif" />
+      </figure></p>
+      <p id="AMEPRA0105">
+      <pb n="[62]" />[CSM25:62,1; text: et Filio et Spiritui Sancto. Preocupemus. Venite exult'.] 
+      <figure>
+        <graphic url="/images/AMEPRA_31GF.gif" />
+      </figure></p>
+      <p id="AMEPRA0106">Nunc dicendum est de octavo tono: octavus tonus est determinatio septime vocis, scilicet g gravis, non habens elevationem usque ad eandem litteram g acutum, habet autem octavus tonus principia sex, scilicet c, a acutas, g, f, d, e graves. Habet etiam differencias quinque que inter se in modo incipiendo ad minus differunt aut etiam aliquando in ipsis litteris in quibus incipiunt, quinque autem in ipsis seculorum, quinque vero in hiis tribus simul.</p>
+      <p id="AMEPRA0107">[CSM25:62,2; text: Factus est repente de celo sonus. euouae. Dominus dixit ad me. Conversus est. Vespere autem sabbati. In illa die. Missus est Gabriel angelus.]</p>
+      <p id="AMEPRA0108">
+      <pb n="[63]" />[CSM25:63; text: Dixit dominus. Nos qui vivimus. In exitu Israel de Egypto domus Jacob de populo barbaro. A dextris est. Conserva me. Gloria Patri et Filio et Spiritui Sancto. Laudemus Christum. Venite exultemus.] 
+      <figure>
+        <graphic url="/images/AMEPRA_32GF.gif" />
+      </figure></p>
+      <p id="AMEPRA0109">Nota quod septimus et octavus tonus conveniunt in hac finali voce g, in elevatione tamen et depositione differenciam habent ad invicem, quia octavus tonus habet, c d, e graves quas non habet septimus, septimus habet f, g acutas quas non habet octavus. De illis ergo cantibus qui non habent hanc elevationem aut depositonem dicetur sicut dictum est de primo et secundo tono. Antiphone vero processionales, comuniones prout cuiuscumque toni sunt mutare debent ascensum et descensum et etiam conductus et cantilene quando artem servant in sui compositione. Notum est autem quod in omnibus fere cantilenis organicis tonos invenio 
+      <pb n="[64]" />mixtos, in quibusdam locis plus debito elevantur, in quibusdam vero plus deprimuntur; hoc autem fit ut varietates notarum facilius habeantur. Denique si vis de quolibet cantu cognoscere cui tono subiaceat, principium, medium et finem prius perfecte considera et secundum predictas regulas de quolibet artificioso et proprio cantu certissime poteris diiudicare.</p>
+      <p id="AMEPRA0110">[CSM25:64; text: Ecce modus Primus. Sic noscitur atque Secundus. Capitur et tritus Sic. Quartus et iste. Probatus. Quintus adest Iste. Sextus sic cernitur Ecce. Septimus armoniam tenet hanc. Octavus et istam.] 
+      <figure>
+        <graphic url="/images/AMEPRA_33GF.gif" />
+      </figure></p>
+      <p id="AMEPRA0111">12 Totum graduale Curie Romane diligenter examinatum, in officiis tot inicia et fines et seculorum in quolibet tono reperi et non plura:</p>
+      <p id="AMEPRA0112">
+      <pb n="[65]" />[CSM25:65; text: Primus tonus gradualis in officio habet tot inicia -- quinque -- et habet quatuor differencias finis. Gloria Patri et Filio et Spiritui Sancto, sicut erat in prinicipio et nunc et semper et in secula seculorum amen. euouae. Secundus tonus habet tot inicia -- quinque -- finis. Gloria Patri et Filio et Spiritui Sancto, sicut erat in principio] 
+      <figure>
+        <graphic url="/images/AMEPRA_34GF.gif" />
+      </figure></p>
+      <p id="AMEPRA0113">
+      <pb n="[66]" />[CSM25:66; text: principio et nunc et semper et in secula seculorum amen. Tercius tonus tria inicia; finis. Gloria Patri et Filio et Spiritui Sancto, sicut erat in principio et nunc et semper et in secula seculorum amen. euouae. Quartus tonus quatuor inicia; finis. Gloria Patri et Filio et Spiritui Sancto, sicut erat in principio et nunc et semper et in secula seculorum amen. euouae.] 
+      <figure>
+        <graphic url="/images/AMEPRA_35GF.gif" />
+      </figure></p>
+      <p id="AMEPRA0114">
+      <pb n="[67]" />[CSM25:67; text: euouae. Quintus tonus quatuor inicia duas differencias; finis. Gloria Patri et Filio et Spiritui Sancto, sicut erat in principio et nunc et semper et in secula seculorum amen. Sextus tonus tria inicia; finis.] 
+      <figure>
+        <graphic url="/images/AMEPRA_36GF.gif" />
+      </figure></p>
+      <p id="AMEPRA0115">
+      <pb n="[68]" />[CSM25:68; text: euouae. Septimus tonus tria inicia finis. Gloria Patri et Filio et Spiritui Sancto, sicut erat in principio et nunc et semper et in secula seculorum amen. Octavus tonus quatuor habet inicia; finis.] 
+      <figure>
+        <graphic url="/images/AMEPRA_37GF.gif" />
+      </figure></p>
+      <p id="AMEPRA0116">
+      <pb n="[69]" />Primus tonus in officio graduale incipit quinque locis: in c grave ut Rorate celi, in d gravi ut Exurge, in dominica sexagesima, in f gravi ut in officio Etenim de Sancto Stephano, in g gravi Exclamaverunt Philippi et Jacobi, in a acutum Lex domini in ebdomada quadragene, et finit cum secundo tono in d gravi. Secundus tonus habet inicia quinque: in a gravi Veni in adventu quatuor temporum, in c gravi Redime me in prima ebdomada quadragesime, in d gravi Ex ore infantium, in f gravi Venite in septembre quatuor temporum, finit in d gravi. Tercius tonus tres habet inicia: in e gravi in prima ebdomada quadragesime Confessio, in f gravi Dum clamarem in principio quadragesime, in g gravi Tibi dixit in prima ebdomada quadragesime, finitur cum quarto tono in e gravi.</p>
+      <p id="AMEPRA0117">Quartus tonus quatuor habet inicia: in d gravi Prope esto in adventu, in e gravi Deus in nomine in secunda, in f gravi Sicut oculi in prima ebdomada quadragesime, in g gravi Accipite in penthecoste et septem seculorum. Quintus tonus quatuor habet inicia: in f gravi Circumdederunt me in septuagesima, in g gravi Letare in medio quadragesime, in a acutum Exaudi in secunda quadragesime, in c acutum Ecce dominica nona, finit cum sexto tono in f gravi et duo seculorum. Sextus tonus tria inicia: in c gravi Quasi modo geniti, in d gravi Hodie in vigilia nativitatis, in f gravi Esto michi in principio quadragesime et quatuor seculorum. Septimus tonus tria inicia: in g gravi Audivit in principio quadragesime, in a acutum Exaudi in carnis primo, in c acutum Eduxit in ebdomada pasce et duo seculorum; finitur cum octavo tono in g gravi. Octavus tonus habet quatuor inicia: in c gravi Dum medium post nativitatem domini, in d gravi Lux fulgebit in die nativitatis, in f gravi Introduxit in ebdomada pasce; in g gravi In excelso throno post epiphaniam et unum seculorum.</p>
+      <p id="AMEPRA0118">
+      <pb n="[70]" />13 Nunc dicendum est breviter de differenciis introituum, idest officiorum misse. Primus tonus habet quatuor differencias quarum prima oritur ab a acuto sicut hic:</p>
+      <p id="AMEPRA0119">[CSM25:70,1; text: Lex domini, euouae.] 
+      <figure>
+        <graphic url="/images/AMEPRA_38GF.gif" />
+      </figure></p>
+      <p id="AMEPRA0120">Tercia differencia oritur a d gravi sed non habet primam repercussam sic:</p>
+      <p id="AMEPRA0121">[CSM25:70,2; text: De ventre matris. euouae.]</p>
+      <p id="AMEPRA0122">Quarta differencia oritur ab f gravi sic:</p>
+      <p id="AMEPRA0123">[CSM25:70,3; text: Statuit ei dominus. euouae.]</p>
+      <p id="AMEPRA0124">Omnia officia primi toni talem originem habentia eo modo intonamus. Secunda differencia oritur a d gravi et habet primam repercussam sic:</p>
+      <p id="AMEPRA0125">[CSM25:70,4; text: Misereris omnium. euouae.]</p>
+      <p id="AMEPRA0126">
+      <pb n="[71]" />Secundus tonus habet quatuor inicia naturalia in a, c, d, f, graves sic:</p>
+      <p id="AMEPRA0127">[CSM25:71,1; text: Veni et ostende. Sicientes venite. Dominus dixit. Me expectaverunt.] 
+      <figure>
+        <graphic url="/images/AMEPRA_39GF.gif" />
+      </figure></p>
+      <p id="AMEPRA0128">Sunt predicti quatuor introitus secundi toni qui propter nimium descensum in sui cordis, idest in gravioribus, cantari nequeunt, qui in superioribus, idest in acutis, insolite canuntur; quorum unus habet inceptionem in e gravi, secundus et tercius in a acutum, quartus in a acutum, vel in e gravi. Primus:</p>
+      <p id="AMEPRA0129">[CSM25:71,2; text: Civabit eos.]</p>
+      <p id="AMEPRA0130">Secundus:</p>
+      <p id="AMEPRA0131">[CSM25:71,3; text: Multe tribulationes.]</p>
+      <p id="AMEPRA0132">Tercius:</p>
+      <p id="AMEPRA0133">[CSM25:71,4; text: Sacerdotes eius induant.]</p>
+      <p id="AMEPRA0134">
+      <pb n="[72]" />Quartus:</p>
+      <p id="AMEPRA0135">[CSM25:72,1; text: Venite adoremus. euouae.] 
+      <figure>
+        <graphic url="/images/AMEPRA_40GF.gif" />
+      </figure></p>
+      <p id="AMEPRA0136">Tercius tonus habet duas differencias in e et g gravi sic:</p>
+      <p id="AMEPRA0137">[CSM25:72,2; text: Ego autem sic oliva. Dum santificatus. euouae. Dispersit dedit. Intret oratio.]</p>
+      <p id="AMEPRA0138">Quartus tonus habet officiorum differencias in d, f, g gravi. Prima differencia in d gravi:</p>
+      <p id="AMEPRA0139">[CSM25:72,3; text: Prope esto. euouae.]</p>
+      <p id="AMEPRA0140">Secunda differencia in f gravi:</p>
+      <p id="AMEPRA0141">[CSM25:72,4; text: Omnis terra. Accipite iocunditatem. euouae.]</p>
+      <p id="AMEPRA0142">
+      <pb n="[73]" />Quintus tonus habet duas officiorum differencias in a et c acutas. Prima differencia:</p>
+      <p id="AMEPRA0143">[CSM25:73,1; text: Exaudi Deus orationem.] 
+      <figure>
+        <graphic url="/images/AMEPRA_41GF.gif" />
+      </figure></p>
+      <p id="AMEPRA0144">Secunda differencia:</p>
+      <p id="AMEPRA0145">[CSM25:73,2; text: Ecce Deus. euouae.]</p>
+      <p id="AMEPRA0146">Sextus tonus nullam habet differenciam in officiis, incipitur in d, f graves:</p>
+      <p id="AMEPRA0147">[CSM25:73,3; text: In medio ecclesie. Os iusti. euouae.]</p>
+      <p id="AMEPRA0148">De sexti differencia:</p>
+      <p id="AMEPRA0149">[CSM25:73,4; text: euouae.]</p>
+      <p id="AMEPRA0150">Sunt quidam introitus sexti toni qui propter nimium descensum in suis cordis, idest gravioribus, cantari nequeunt, 
+      <pb n="[74]" />qui in superioribus, idest in acutis insolite canuntur et habent inceptiones in a acuta sic:</p>
+      <p id="AMEPRA0151">[CSM25:74,1; text: Exultate Deo. Dicit dominus. Sacerdotes Dei. euouae.] 
+      <figure>
+        <graphic url="/images/AMEPRA_42GF.gif" />
+      </figure></p>
+      <p id="AMEPRA0152">et in c gravi ut Quasi modo.</p>
+      <p id="AMEPRA0153">Septimus tonus unam solam habet officiorum differenciam et inceptiones in g gravi vel c acuto. In g gravi:</p>
+      <p id="AMEPRA0154">[CSM25:74,2; text: Puer natus est. Adorate Deum.]</p>
+      <p id="AMEPRA0155">Alia inceptio in c acutum:</p>
+      <p id="AMEPRA0156">[CSM25:74,3; text: Deus in adiutorium. euouae.]</p>
+      <p id="AMEPRA0157">Octavus tonus unam tantummodo habet differenciam officiorum et tres inceptiones in c, d, g graves. Sic in c gravi:</p>
+      <p id="AMEPRA0158">[CSM25:74,4; text: Dum medium silentium]</p>
+      <p id="AMEPRA0159">
+      <pb n="[75]" />In d gravi:</p>
+      <p id="AMEPRA0160">[CSM25:75,1; text: Ad te levavi.]</p>
+      <p id="AMEPRA0161">In g gravi:</p>
+      <p id="AMEPRA0162">[CSM25:75,2; text: Dilexisti iustitiam. euouae.]</p>
+      <p id="AMEPRA0163">Explicit tonale de officio.</p>
+      <p id="AMEPRA0164">14 De quatuor musicis. Quatuor musice sunt, scilicet: naturalis, artificialis, instrumentalis, moralis. Naturali et morali musica, cum ad istam artem cantandi non multum prosunt, intermissa, de artificiali et instrumentali aliquid dicam. Aritificialis musica est sciencia artis manifesta. Instrumentalis musica est que fit in exterioribus instrumentis et hoc tribus modis: flatu ut in tubis, fistulis; pulsu ut in cythara, cymbalis; tactu ut in organis vel aliis musicis instrumentis.</p>
+      <p id="AMEPRA0165">15 Regula de musica. Musica est veraciter canendi sciencia et facilis via ad perfectionem illius. Quia sicut magister gramaticus omnes litteras ostendit, primum in tabula, ita et musicus omnes cantilene voces in monocorde insinuat, super quod corda posita sonat et varietatem vocum facile reddit, sub 
+      <pb n="[76]" />qua corda figure et voces vel note et littera quibus utuntur musici per ordinem ita ponuntur: [Gamma] grecum g est vox prima, a secunda, b tercia, c quarta, d quinta, e sexta, f septima, g octava, a nona, primum b rotundum decima, secundum [sqb] quadratum undecima, c duodecima, d tercia decima, e quarta decima, f quinta decima, g sexta decima. De hiis litteris prime octo vocantur graves, septem subsequentes acute, quia graves cum acutis quasi voces viriles cum puerilibus concorditer resonant, hiis additur tetracordum superacutarum existens ex eisdem litteris que eosdem sonos representant repetitos quos superius habuimus.</p>
+      <p id="AMEPRA0166">Debet tamen litteris variis vel figuris a superioribus eadem figura geminata esse: aa, bb, cc, dd, in quo tetracordo geminamus duo bb, [sqb][sqb] sicut in acutis g moderni addiderunt. De tenoribus vocum tonorum idest seculorum per istos versus habemus:</p>
+      <p id="AMEPRA0167">Primus cum quarto, sextus simul incipit ex a</p>
+      <p id="AMEPRA0168">Tercius, octavus, quintus simul incipit ex c,</p>
+      <p id="AMEPRA0169">F quia secundus erit, d septimus altior istis;</p>
+      <p id="AMEPRA0170">Sextus gradali cunctis, octavus et uno</p>
+      <p id="AMEPRA0171">Fallit in antiphona f, g, sex octo petit g.</p>
+      <p id="AMEPRA0172">16 Nomina neumarum sive notarum:</p>
+      <p id="AMEPRA0173">
+      <pb n="[77]" />[CSM25:77; text: Eptaficus. Stropicus. Punctus. Porrectus. Oriscus. Virgula. Cephalicus. Clivis. Qualisma. Podactus. Scandicus et Salicus. Climacus. Torculus. Sancus. Et presus minorque maior non pluribus utor.] 
+      <figure>
+        <graphic url="/images/AMEPRA_43GF.gif" />
+      </figure></p>
+      <p id="AMEPRA0174">Neumarum signis erras qui plura refingis.</p>
+      <p id="AMEPRA0175">17 Regula octo tonorum: tonus quidem regula que de omni cantu in principio, medio, in fine diiudicat; non enim potest quis secundum artem deiudicare de cantu cui tono subiaceat, nisi, prius audierit principium, ascensum sive descensum et etiam finem. Octo toni sunt per quos omnis cantus decurrit quorum quatuor vocantur autenti, idest auctorales, quia superiora loca monocordi possident, quatuor plagales vel 
+      <pb n="[78]" />plage quasi partes vel collaterales sive subiugales, quia inferiora loca possidentes unusquisque sub latere sui autenti continetur et inferior sit. Protus dicitur primus tonus cuius plagalis est secundus tonus. Tercius tonus dicitur deutherus cuius subiugalis est quartus. Quintus dicitur tritus cuius subiugalis est sextus. Septimus dicitur tetrardus cuius subiugalis est octavus. Quatuor littere vocantur finales: d, e, f, g, eo quod omnes toni legitime currentes in ipsis finiuntur.</p>
+      <p id="AMEPRA0176">18 Et quia in superiori capitulo tetigi de litteris et vocibus gamme, nota quod b rotundum inventum fuit propter varietatem faciendam, cum quasi in medio collocetur [sqb] quadrati, et multociens per illud fit transitus propter idemptitatem et frequentem repeticionem eiusdem soni, ne fastidium audientibus inferret. Fuit etiam alia de causa inventum, scilicet ut duriciem tritoni, que est ab f gravi usque ad [sqb] quadratum, temperaret; et dicitur b rotundum et [sqb] quadratum propter talem formam et [sqb] durum et b molle propter sonum. Sciendum est quod musica constat ex septem vocibus consonantibus que etiam coniunctiones a quibusdam solent appellari; sunt autem septem voces iste: tonus, semitonus, ditonus, semiditonus, dyatessaron, dyapente, dyapason per quas omnis cantilena discurrit, et dicuntur consonantes quasi simul sonantes. Tonus est legitimum spacium duarum vocum proximo sibi iunctarum, ut ad a in [sqb] et a c in d et a d in e et sic de singulis. Et sciendum quod quelibet due plene voces simul iuncte tonum efficiunt, verbi gratia: re-mi, mi-re, fa-sol, sol-fa, sol-la, la-sol; exceptis mi-fa, fa-mi que simul coniuncte faciunt semitonum nec sunt plene voces. Est autem semitonus imperfectus tonus -- semideos imperfectos deos appellamus -- quia minor est tono voce et spacio, quod manifeste patet in musicis 
+      <pb n="[79]" />instrumentis. Ponatur quod quelibet littera gamme ponitur in corda sicut contigit in psalterio et cythara et huiusmodi instrumentis; et ubi due corde sunt propiores, ibi est semitonus, et alie corde equedistantes sunt toni.</p>
+      <p id="AMEPRA0177">[CSM25:79; text: g, f, e, d, c, [rob]-fa, a, [sqb], [Gamma], [sqb]-mi] 
+      <figure>
+        <graphic url="/images/AMEPRA_44GF.gif" />
+      </figure></p>
+      <p id="AMEPRA0178">In viella vero et consimilibus instrumentis nisi quatuor sunt corde vel quinque seu pauciores, et note formantur tactu digitorum et omnes voces in eisdem reperiuntur ac formari possunt. Quanto curcius tangitur corda bene temperata, tanto acuciorem reddit vocem. Addo etiam alium instrumentum musicum pro figura ubi omnes voces totius gamme cordis apponuntur, cordis tamen equali longitudine existentibus, excepto in utroque b-fa-[sqb]-mi; et ubicumque corde equaliter distant pleno spacio, ibi est tonus, in aliis vero cordis semitonium. Et nota quod in huiusmodi instrumentis quanto corde magis ascendunt a g greco tanto strictiores erunt.</p>
+      <p id="AMEPRA0179">
+      <pb n="[80]" />Cythara quadrata vel quadra.</p>
+      <p id="AMEPRA0180">[CSM25:80; text: dyapason, dyapente, dyatessaron, semitonus cum dyapente, tonus, tonus et dyapente, semiditonus, ditonus, semitonus, dd, cc, [rob][rob], aa, g, f, e, d, c, [rob], a, [sqb], [Gamma]] 
+      <figure>
+        <graphic url="/images/AMEPRA_45GF.gif" />
+      </figure></p>
+      <p id="AMEPRA0181">
+      <pb n="[81]" />19 Dicto superius in proximo capitulo de tono et semitono, nunc dicendum est de aliis. Ditonus est spacium duarum vocum duorum tonorum et continet in se duos tonos, verbi gratia: ut-mi, mi-ut, fa-la, la-fa. Semiditonus est spacium unius toni et semitoni, verbi gratia: re-fa, fa-re, mi-sol, sol-mi. Dyatessaron dicitur quasi de quatuor a dya quod est de, et tessara, quatuor, quoniam constat ex quatuor vocibus et formatur ex duobus tonis et semitono, verbi gratia: re-sol, sol-re, mi-la, la-mi. Dyapente dicitur quasi de quinque a dya quod est de et penta quod est quinque, eo quod continet in se quinque voces et formatur ex tribus tonis et semitono, verbi gratia: re-la, la-re, ut-sol, sol-ut. Dyapason dicitur quasi de octo et dicitur a dya quod est de et pan quod est totum, eo quod omnes coniunctiones in se continet et constat ex quinque tonis et duobus semitonis, verbi gratia: ab a gravi in a acutum et sic de aliis consimilibus, exceptis b gravi et [sqb] acuto quia hic dyapason constat ex tribus semitonis et quatuor tonis cum non debet habere nisi tantum duos semitonos. Et nota quod quociens in aliqua consonancia sunt plures semitoni vel pauciores predictis, cassant consonanciam. Hec de consonantibus dicta ad presens sufficiant. Ut dicta manifestius appareant, hanc figuram manum significantem depixi. Per istam scripturam que in hac figura vel in precedenti apponitur, omnes modi et toni levius reperiuntur. Ut evidencius appareant que primus predixi et in figuris, iam per cantum etiam in vocibus eadem reserabo.</p>
+      <p id="AMEPRA0182">
+      <pb n="[82]" />[CSM25:82; text: dyapason cum ditono, tonus vel semitonus, tonus et dyapason, dyapason, dyatessaron, semitonus cum dyapente, tonus cum dyapente, tonus, semiditonus et dyapason, tonus et dyapason, tonus vel semitonus, semitonus, dd, cc, [rob][rob], [sqb][sqb], aa, c, d, e, f, g, [rob] [sqb], a, g f, e, [Gamma], a, [sqb], c d, de [sqb] semiditonus et [sqb] quadratum, dyapason ad [sqb] quadratum, semiditonus cum dyapente, in [rob] rotundo tritonus, dyapente ad [sqb], dyapente, ditonus [sqb] q.] 
+      <figure>
+        <graphic url="/images/AMEPRA_46GF.gif" />
+      </figure></p>
+      <p id="AMEPRA0183">Iste sunt regule communes ad omnem cantum cuius toni sit.</p>
+      <p id="AMEPRA0184">
+      <pb n="[83]" />20 Octo sunt toni, scilicet primus, secundus, tercius, quartus, quintus, sextus, septimus, octavus. Primus et secundus finiuntur in desolre gravi cum re. Differencia primi est in alamire, secundi in effaut. Tercii et quarti finiuntur in elami cum mi. Differencia tercii est in cesolfaut, quarti in alamire. Quinti et sexti finiuntur in effaut. Differencia quinti est in cesolfaut, sexti in alamire. Septimi et octavi finiuntur in gesolreut. Differencia septimi est in desolre, octavi in cesolfaut. Sciendum est quod toni impares, scilicet primus vel tercius vel alii, qui autem impares vocantur, autenti dicuntur ab autentin grece quod est auctorizabile quia plus autentici sunt quam pares quia plus ascendunt. Pares alio modo vocantur plagales, idest collaterales, quia imparibus associantur, scilicet autenticis. Sciendum est quod in omni cantu non sunt nisi septem littere, scilicet: a, b, c, d, e, f, g, que sunt in gravibus et acutis; graves dicuntur a delasolre usque ad alamire, ab alamire usque ad cesolfaut dicuntur acute, alie dicuntur superacute. Graves dicuntur quia sonum vel cantum reddunt graviorem quam acute propter naturam et [sqb] quadratum, que reddunt graviorem cantum quam b molle. Et sciendum est quod graves possunt vocari acute dum in eis cantatur per b molle, et acute graves dum in eis cantatur per [sqb] quadratum. Sciendum est quod quatuor maneries sunt in omni cantu, scilicet: primus et secundus tonus qui finiuntur in d vel in a, tercius et quartus in e vel in [sqb] quadratum, quintus et sextus in f vel in c, septimus et octavus in g tantum secundum quosdam, secundum alios in g et in d superacutum. Autentus tonus qui maioris est dignitatis, a sua finali voce ascendit usque ad perfectionem cantus, idest usque ad dyapason vel duplam que perfectio est cantus. Non autem dico perfectio cantus quod non possit ultra octavam vel duplam cantari, sed 
+      <pb n="[84]" />quia infra octavam possunt fieri omnes symphonie, scilicet: dyatessaron, dyapente et dyapason, et ultra octavam nulla est symphonia sed replicatio symphoniarum secundum musicam Guidonis, secundum autem musicam Boecii replicationes symphonie sunt. Plagalis vel collateralis a sua finali voce usque ad sextam ascendit, et de licencia usque ad septimam. Et sciendum est quod autentus de licencia usque ad decimam ascendit, et descendit unam notam sub sua finali voce; plagalis vero sub sua finali voce descendit usque ad dyatessaron, idest quarta. Et est sciendum quod inutilis progressio est illa cum autenti elevatio plagali subiungitur, vel e converso.</p>
+      <p id="AMEPRA0185">[CSM25:84; text: Est tonus Sic: ut re ut, aut: re mi re, vel: fa sol fa, solet hic que sonare. Personat semitonus usque quam sic: mi fa, fa mi. Ut mi, fa la resonare que cernis ditonum semper. Canit atque semiditonus] 
+      <figure>
+        <graphic url="/images/AMEPRA_47GF.gif" />
+      </figure></p>
+      <p id="AMEPRA0186">
+      <pb n="[85]" />[CSM25:85; text: voces re fa. sive mi sol dulciter ista. Voce concordi dyatessaron que intonat voces cythara sacratus: ut fa, vel re sol pariterque mi la personat iste. Quinque per cordas dyapente cucurrit ut sol, vel re la, atque transit in mi de mi vel salit in fa de fa sepe canendo. Personat voces dyapason octo in c de c transit et in d de d sic, que decantans elementa] 
+      <figure>
+        <graphic url="/images/AMEPRA_48GF.gif" />
+      </figure></p>
+      <p id="AMEPRA0187">
+      <pb n="[86]" />[CSM25:86; text: cuncta scandit ad ipsum. Tonus. Semitonus. Ditonus. Semiditonus. Dyatessaron. Dyapente. Dyapason. Unisonus. Tritonus.] 
+      <figure>
+        <graphic url="/images/AMEPRA_49GF.gif" />
+      </figure></p>
+      <p id="AMEPRA0188">
+      <pb n="[87]" />Nota quod semitonus aliquando est in principio vel in fine, aliquando in medio, et ascendit totum gamma.</p>
+      <p id="AMEPRA0189">[CSM25:87; text: Tonus cum dyapente tantum. Dyapason hic erunt duo semitonia tantum. Et potest ascendere totum gamma. Prima distinctio vocum per [sqb] gravium quadratum. Secundam per propriam notam gravium. Tercia per b rotundum acutarum.] 
+      <figure>
+        <graphic url="/images/AMEPRA_50GF.gif" />
+      </figure></p>
+      <p id="AMEPRA0190">
+      <pb n="[88]" />[CSM25:88; text: Quarta per [sqb] quadratum acutarum. Quinta per propriam notam acutarum, Sexta per b molle rotundum superacutarum. Septima per [sqb] quadratum superacutarum. Ter terni sunt modi. Tonus, Ditonus] 
+      <figure>
+        <graphic url="/images/AMEPRA_51GF.gif" />
+      </figure></p>
+      <p id="AMEPRA0191">
+      <pb n="[89]" />[CSM25:89; text: Semiditonus. Dyatessaron. ubique potest habere unum semitonium scilicet in principio, in medio, in fine. unum semitonium vel semitonium. Dyapente gravi in f gravi. Dyapente.] 
+      <figure>
+        <graphic url="/images/AMEPRA_52GF.gif" />
+      </figure></p>
+      <p id="AMEPRA0192">Quare non fit de e acutum in b rotundum superacutum cum sit pentasonus, nec de [sqb] acutum ad f acutum? Ad omnes questiones respondeo: quia tunc haberet duo semitonia contra omnem naturam cantus.</p>
+      <p id="AMEPRA0193">
+      <pb n="[90]" />[CSM25:90; text: Tonus cum dyapente non habet ultra unum semitonium nec habere potest. Tonus cum dyapente. Semitonium cum dyapente. Istud habebit duo semitonia super. Dyapason. Istud numquam habebit tria semitonia.] 
+      <figure>
+        <graphic url="/images/AMEPRA_53GF.gif" />
+      </figure></p>
+      <p id="AMEPRA0194">Superius dixi cantando quod prima distinctio vocum per [sqb] quadratum gravium; si autem queritur quare hoc fit magis quam per proprium cantum vel per b rotundum vel quare 
+      <pb n="[91]" />nominatur proprius cantus cum omnis cantus sit proprius in suo loco, respondeo: videns auctor artis musice quod radix primi cantus in G greca littera incipit, que habet medietatem quodam modo quadri, placuit sibi nomen illius cantus inserere secundum formam ipsius littere et dixit ibi cantus per [sqb] quadratum, cuius recta clavis deberet esse [sqb] gravis. Sed a modernis ponitur f gravis usualiter, non tamen ita proprie. Postea perpendit aliam radicem, scilicet secundam inchoari in c gravi, ubi due sunt note pro ascensu et descensu, et extendere cunam eius ad a acutum in quibus vocibus consideravit cantum concordem sonum pariterque puerorum. Videbatur quod tunc magis proprie canebant quam ante, posuit ibi nomen proprii cantus, cuius clavis naturaliter deberet esse a acutum vel d gravis sicut patet in libris antiquis. Sed moderni usu frequenti ponunt f gravem, licet non satis proprie. Intelligens ad hec radicem terciam, volensque differenciam habere inter claves principales, coactus est ponere duas claves in b acutum propter diversitatem mutacionum cantus. Tercia igitur, ut predixi, radice considerata posuit b rotundum pro clavi, quia ratione descensus dicitur clavis quelibet mollis que fuit descensus de b rotundo; dixit ibi mollem cantum vel b molle et eadem nomina imposuit radicibus consimilibus litteris incipientibus.</p>
+      <p id="AMEPRA0195">22 De ascensu et descensu tonorum cum inchoatione et fine. Cum in superioribus aliquid tetigi de tonis causa compendii, hic iterato prout Deus dederit de eisdem licet parum differencie aliquid pro utilitate puerorum affectio, et quoniam ratione michi placuit quod nomen huius libelli practica artis musice imponeretur, eo quod practicare docet in arte ad practicandum certas regulas, ibi breviter in fine ostendam. 
+      <pb n="[92]" />Primus tonus terminatur in primo finali d, ascendens usque ad eandem litteram d regulariter, et deponitur ad c grave et aliquando ad secundam [sqb] gravem, sed hoc non est in usu; ascendunt autem omnes autentici in octavam cordam supra finalem regulariter, licenter etiam ad nonam, aliquando ad decimam, sed hoc raro contigit quod irregulare est et Guido dicit quod absurdum est. Plage autem ascendunt cum autentis in quintam cordam regulariter super finalem et licenter ad sextam. Cantus prothi modi incipiunt in c, d, e, f, graves et in a acutum, sed omnes finiri debent in finali suo d. Secundus tonus terminatur in d sicut et suus autentus, non habens elevationem seu potestatem usque ad d acutum, deponitur ad a gravem regulariter, aliquando sed raro ad [Gamma]; principia sunt hec: [Gamma], a, b, c, d, e, f, g graves. Qualiter differt primus tonus a secundo elevatione et depositione? Quia secundus tonus habet [Gamma], a, b graves quas non habet primus, primus vero tonus habet c, d acutas quas non haber secundus. Quid fiet de illis cantibus qui non habent illam elevationem neque depositionem? Respondeo: tunc ista habenda discrecio: si cantus non pervenerit ad a et [sqb] acutum, certissime secundi toni sunt. Ista duo a et [sqb] acutas utriusque toni, scilicet primi et secundi communes sunt, ad quas duas litteras dum cantus per manum ascenderit, sive ter sive quater eas repercutit aut si in a acutum incipit, primi erunt toni; si autem in inferioribus incipit et secundum quantitatem antiphone rarissime ad eas ascendit, secundi erunt toni. Tercius tonus terminatur in e gravi et ascendit usque ad e acutum, deponitur a fine ad quartum d gravi et raro ad tercium c gravi; quatuor 
+      <pb n="[93]" />principia habet: e, f, g graves et c acutum. Quartus finitur in e, non habens elevationem seu potestatem usque ad secundum e acutum, deponitur a fine ad secundum gravem [sqb] et aliquando ad primam a gravi, differt autem a tercio elevatione et depositione, quia quartus a, [sqb], c graves habet quas non habet tercius, et tercius d, e acutas quas non habet quartus. Quid fiet de illis qui non habent illam elevationem et depositionem? Hec discrecio erit: si in c vel [sqb] acutas incipiat vel ascendat, tercii erit modi; principia quarti toni inveniuntur in c, d, e, f, g graves et in a acutum. Quintus tonus terminatur in f gravi, ascendens usque ad e acutum, quia quintus ante finem tonum non habet sed semitonium, nec in principio nec in cessu post finem respicit, nisi quod raro declinat se in d usitatam quia non habet potestatem descendendi subtus se, et si amplius ascenderit vel descenderit, commixtus est cantus; principia sunt hec: f, g graves et a, c acute. Sextus tonus finitur in f, non habens potestatem ascendendi ad consimilem f acutum, deponitur a fine usque ad c gravi et rarissime usque ad [sqb] grave, differt autem a quinto in hoc quod quintus habet e et f acutas quas non habet sextus et sextus habet c, d, e graves quas non habet quintus, nisi quod aliquando quintus miscetur sexto declinans a se in d gravi, sed hoc raro invenitur. Quorum discrecio hec est: cum nec depositio sexti nec tota elevatio quinti erit, si in decima c incipiat vel in undecimam d ascendat et eas iuxta quantitatem antiphone sepe repercutiat, quintus erit modus; si autem non ascendat nisi ad [sqb] acutum, dicetur sexto; principia sexti toni sunt c, d, f graves. Septimus tonus terminatur in g gravi ascenditque ad g acutum, deponitur a fine ad f grave, aliquando ad e sed raro; principia vero eius 
+      <pb n="[94]" />sunt quinque, scilicet g grave et a, b, c, d acute. Octavus tonus terminatur in g, non habens potestatem ascendendi usque ad g acutum, deponitur a fine ad terciam c gravem; principia eius sunt c, d, e, f, g graves et a, c acute. In hoc differunt septimus et octavus quod octavus habet c, d, e graves quas non habet septimus, et septimus habet e, g acutas quas non habet octavus. Quorum discrecio hec est: cum nec deponitur ut octavus nec elevatur per totum ut septimus, septimi erit; si in undecima d incipiat vel in duodecimam e ascendat et eas iuxta quantitatem antiphone repercutiat, septimus erit modus; si vero non ascendat nisi ad decimam c, octavus modus est, quia septimus modus licenter ascendit in decimum sonum a finali sicut ceteri autenti. Ideo superacute quatuor sunt quas nulla libri regula tribuit septimo tono, et nullus alius tonus potest eas assumere, sed Guido dicit nos maluimus superabundare quam deficere. Et nota quod d, e, f, g sunt finales, a b, c, d confinales et affinales vel consociales sunt. Hec omnia sunt de cantibus in legitima finali concurrentibus, sed plage primi, tercii, quinti aliquando finiuntur in a, b, c ascendentes illuc gemina transpositione, scilicet ex toto transposita a legitima finali in affinalem, ut graduale Ostende, ut graduale Hec dies quam fecit, ut offertorium Dominus dixit; a d in a ex toto transponitur ut in a tota cantetur et finiatur, vel transpositione ex parte ut, dum cantus in legitima finali finiri debet et circa eam aliquam diu versatur, ad finem se transfert per lasciviam et ibi finitur, ut Terribilis est locus. Nota quod plagis datur transpositio propria et non autentis, sed hec omnia licenter finiunt, non regulariter. Cantus qui supra finalem octavo loco finiunt adulterini cantus vocantur.</p>
+      <p id="AMEPRA0196">
+      <pb n="[95]" />23 Regule Bernonis super mensuram Boecii. Quatuor voces vocantur finales ex quibus similis nova vel vetus cantio nisi finiatur irregularis esse non legitima sine dubio iudicatur. Sed nota quod, apud veteres quinto semper loco superioribus cum inferioribus finalibus, talis condicio fuit ut aliqua viella in eis quasi regulariter finiri invenirentur. Sed cum omnis musica quatuor tantum finales esse testentur quorum lege omnes octo modorum cantus regantur, sollercie modernorum placuit huius cantus quasi per negligenciam depravatos corrigi suisque finalibus legitime cantari velut istos: Terribilis est locus et Cantabo domino qui tribuit et cetera huiusmodi. Item secundum Guidonem nulla ratio sive natura concedit quod cantus sine clavi et quatuor rigis possit naturaliter cantari cum clavis aperiat, rige modos naturamque ostendant. Item regula: omnis regularis monocordi institutio secundum preclaram discretissimi viri Boecii instructionem in quindecim cordis constitit per quas tocius armonie vis rata connectione detur, si tamen synemenum non desit, quibus etiam moderni adhuc unam in fine cordam velut in quibusdam cantibus notam addiderunt. Synemenum in inferioribus sicut in superioribus, ne quid omni rate cantilene deesset, apposuerunt que in quatuor dividuntur tetraconcorda hiis nominibus discreta: tetracordum gravium [Gamma], a, b, c; tetracordum finalium d, e, f, g; tetracordum superiorum a, b, c, d; tetracordum excellentium e, f, g, a. Tetracordum gravium eo quod fit infra tetracordum finalium et reddat sonum gravissimum. Tetracordum finalium dicitur eo quod sit in ipso finis omnium tonorum legitime currentium. Tetracordum superiorum eo quod superius constitutum. Tetracordum excellentium eo quod excellit sonos trium aliorum. Si queritur: quare dicitur b-fa-[sqb]-mi et non 
+      <pb n="[96]" />potius [sqb]-mi-b-fa cum, in solfando notas, mi precedat fa? Respondeo: cum omne quod a radice surgit naturaliter a sua radice nomen adipiscat, considerata huius radicis origine que est in f gravi preincipiat radix de fa quam de mi, in b-fa-[sqb]-mi prenominari debet clavis de fa quam de mi. Aliter mutando voces debito modo cantetur ascendendo totum gamma tam in vocibus quam in cordis instrumentorum musicorum in b-fa-[sqb]-mi: citius invenitur fa quam mi, ergo precedere debet vocubalum clavis de fa quam de mi. Item sive ascendendo sive descendendo gamma in b-fa-[sqb]-mi prenominari debet b rotundum quocumque modo scribatur, non obstantibus infanter rationibus. Omnis autentus in octavum sonum super finalem regulariter et in nonum licenter, infra finalem suum descendit in locum vicinum sibi in tercium, aliquando vero in legitimis cantibus in quartum. Omnis itaque tonus subiugalis candem habet dyapente et dyatessaron quam autentus eius, differt autem in hoc quod autentus supra dyapente habet dyatesseron, subiugalis vero infra. Explicit.</p>
+      <p id="AMEPRA0197">24 Regula mensure organistri. Quicumque mensurare cupis organistrum, novem passus a capite cum circino ad magadam, et in primo passu habebis d gravem. Sed a d item metire novem passus, et in ipso habebis e gravem. Rursus a capite metire ad magadam quatuor passus, et in ipso habebis f grave et in tercio c acutam. Item a capite tres metire passus ad magadam, et in ipso habebis g grave et in secundo g acutam. A d gravi ad magadam tres passus metire: in primo habebis a acutam. Ab f gravi ad magadam quatuor passibus mensis: in priori habebis b rotundum et in sequenti f acutam. Ab a autenta in fine quatuor passus metire, et in ipso habebis d 
+      <pb n="[97]" />acutam. Ab e gravi vero tres ad fines tendes passus, et in ipso habebis [sqb] quadratam. Ab eadem [sqb] quadrata quatuor passibus distinctis, et habebis e acutam. Finit. Nota quod in quocienscumque mutatur ab aliquo cantu naturaliter ascendendo vel descendendo ad rotundum b molle, illa mutacio dicitur synemenon, cuius termini sunt f in gravibus et f in acutis quantum ad inicium, et d in acutis et d in superacutis quantum ad finem. Illos terminos non preteribit et finis eius cognoscitur ubi occurrit [sqb] quadratum; bis et non pluries est in gamma et interpretatur coniunctum. Magada est pons ille instrumentorum musicorum qui dicatur secundum multitudinem et quantitatem cordarum, et sustinet cordas in sua distinctione per ditas suas ad quam magadam tendit sonus et non ultra prout in viella, symphonia, liuto et huiusmodi instrumentis patet. Explicit.</p>
+      <p id="AMEPRA0198">25 De diversitate notarum in cantu organico. Quoniam supra de cantilenis organicis aliquantulum tetigi, necesse est aliquid puerorum desideriis huiusmodi delectamen affectantibus satisfaciendo docere et primo generaliter de omnibus notis per figuram cognoscendis.</p>
+      <p id="AMEPRA0199">[Clef C4,L,L,L,L,L,L; Bcdsn,Bcdsn,Bcdsn,Bcdsn,Bcdsn,Bcdsn,Bcdsn,Bcdsn on staff4]</p>
+      <p id="AMEPRA0200">Note caudate in dextris sunt longe, in sinistris caudate sunt breves.</p>
+      <p id="AMEPRA0201">[ClefC4,B,B,B,B; S,S,S,S,S,S,S on staff4]</p>
+      <p id="AMEPRA0202">
+      <pb n="[98]" />Sine cauda sunt breves.</p>
+      <p id="AMEPRA0203">[ClefC4,Lig2cdsnd,Lig2cdsnd,Lig2art,Lig2art,Lig2cdsnd,Lig2cdsnd,Lig2art,Lig2art on staff4]</p>
+      <p id="AMEPRA0204">Prima duarum est brevis et altera longa.</p>
+      <p id="AMEPRA0205">[ClefC4,Lig3cdsndd,2LP,Lig3ad,BP,S,Lig3cdsnodart,BP,Lig3aart,BP,S,Lig3ad,2LP,2LP,Lig3cdsndd,3LP,3LP,Lig3ad,2LP,2LP,B,Lig3cdsnodart on staff4]</p>
+      <p id="AMEPRA0206">Prima et tercia, coniunctarum per se in principio vel post brevem aut pausas stantes sunt longe, media brevis.</p>
+      <p id="AMEPRA0207">[ClefC4,Lig3Lcudd,L,ClefC3,Lig4cdsnddd,3LP,Lig4aad,3LP,Lig4aaart,2LP,Lig4aodart,2LP,Lig4aodart,2LP,Lig4cdsnddd on staff4]</p>
+      <p id="AMEPRA0208">Prima secunda et tercia quatuor coniunctarum sunt breves, quarta longa.</p>
+      <p id="AMEPRA0209">[ClefC3,Lig3Lcudd,2LP,Lig4Lcuddd,3LP,Lig5Lcudddd,2LP,Lig4Lcuddd on staff4]</p>
+      <p id="AMEPRA0210">Prima et ultima sunt longe et omnes medie note sunt breves.</p>
+      <p id="AMEPRA0211">[ClefC3,Lig3Lcudd,2LP,Lig4cdsncuddd,r,Lig5cdsncudddd,3LP,Lig4cdsncuddd on staff4]</p>
+      <p id="AMEPRA0212">
+      <pb n="[99]" />Iste sunt breves et currentes descendendo.</p>
+      <p id="AMEPRA0213">[ClefC3,Bcdsn,Bcdsn,Bcdsn,Bcdsn,Lig3aart,Bcdsn,Bcdsn,Bcdsn,Bcdsn,3LP,Lig4aaart on staff4]</p>
+      <p id="AMEPRA0214">Iste uno vel alio modo facte sunt currentes ascendendo et, si longa sequitur, valent quatuor ligatas.</p>
+      <p id="AMEPRA0215">[ClefC3,L,Lig3odart,3LP,L,L,L,3LP,Lig3ad,2LP,Lig2cdsnd,Lig3cdsnodart,2LP,Lig3ad,2LP,Lig3cdsnodart,2LP,Lig4aad,Lig3ad on staff4]</p>
+      <p id="AMEPRA0216">Quando tres coniuncte sequuntur unam longam vel plures scilicet longas, aut duas coniunctas sive tres aut quatuor, due prime note trium coniunctarum breviantur.</p>
+      <p id="AMEPRA0217">[ClefC3,Lig3cdsnodart,Lig3cdsndd,2LP,Lig3cdsnodart,BP,Lig3ad,Lig3Lcudd,L,2LP,2LP,Lig4cdsnddd,Lig4add,2LP,2LP,Lig3cdsnodart,Lig3ad,Lig3cdsnodart,2LP,Lig3cdsnodart on staff4]</p>
+      <p id="AMEPRA0218">Quando tres coniuncte sequuntur tres coniunctas vel tres coniuncte quatuor coniunctas vel e converso, vel quatuor coniuncte quatuor coniunctas, tenenda est ultima cuiuslibet coniunctionis et omnes alie de illis coniunctis sunt breves. Nota quod due breves valent unam longam et quatuor semibreves valent unam longam.</p>
+      <p id="AMEPRA0219">[ClefC3,Lpdsn,Bpssncsdx,Lpdsn,ClefF2,Lpdsn,Bpssncsdx,Bpssncsdx,Bpssncsdx,ClefC4,Bpssncsdx,Lpdsn,Lpdsn,Lpdsn,Lpdsn,ClefF3,Lpdsn,Bpssncsdx on staff4]</p>
+      <p id="AMEPRA0220">
+      <pb n="[100]" />Prima semibrevis per se notata est longa, secunda tenet dimidietatem unius brevis.</p>
+      <p id="AMEPRA0221">[ClefC3,Lig2acddx,Lig2cdsnd,2LP,Lig3aacddx,3LP,Lig4aodacddx,2LP,Lig4cdsnodad,2LP,Lig5cdsnodaodart on staff4]</p>
+      <p id="AMEPRA0222">Semibrevis cum aliis coniunctionibus notata continet in se medietatem unius brevis.</p>
+      <p id="AMEPRA0223">[ClefC4,Lpdsn,Lpdsn,Lig2acddx,Lig2acddx,Lig2acddx,Lig2acddx,Lig2cdsndcsdx,Lig2cdsncsdx on staff4]</p>
+      <p id="AMEPRA0224">Semibrevis numquam referenda est ad locum quo stat aliqua vicina nota, idem in proximo loco ubi nota stare potest.</p>
+      <p id="AMEPRA0225">[ClefC4,Lig2acddx,Lig2cdsnd,Lig2cdsnd,3LP,Lig2cdsnd,Lig2cdsnd,Lig2acsdx,Lig2acsdx,Lig3cdsnodacsdx,Lig2cdsnd,Lpdsn,S,S,S on staff4]</p>
+      <p id="AMEPRA0226">Semibrevis superius referenda est si ascendit, inferius si descendit.</p>
+      <p id="AMEPRA0227">[ClefC4,Lig3Lcudd,2LP,Lig4Lcuddd,2LP,Lig5Lcudddd,2LP,Lig6Lcuddddd,2LP,ClefC3,Lig3Lcudd,r,Lig4Lcuddd,2LP,Lig5Lcudddd,2LP,Lig6Lcuddddd,2LP,Lig7cssnaddddd,3LP,3LP,ClefC4,S,S,S,S,S,S,S,S,L on staff4]</p>
+      <p id="AMEPRA0228">Quando una nota longa stat in principio et note breves tres vel quatuor vel quinque vel sex vel septem vel octo sequuntur, tenenda est prima, deinde descendendum est subtiliter.</p>
+      <p id="AMEPRA0229">
+      <pb n="[101]" />[ClefC3,L,Lig2cdsnd,2LP,L,Lig2cdsnd,L,2LP,L,r,Lig2cdsnd,2LP,Lig2cdsnd,2LP,L,L,L,r,L,L,L on staff4]</p>
+      <p id="AMEPRA0230">Iste note et consimiles valent tres ligatas.</p>
+      <p id="AMEPRA0231">[ClefC3,B,L,B,2LP,B,L,B,2LP,2LP,L,B,L,2LP,2LP,Lig4add on staff4]</p>
+      <p id="AMEPRA0232">Pausatur quandoque quantum cantatur una nota, quandoque quantum due.</p>
+      <p id="AMEPRA0233">[CSM25:101; text: Due sunt longe, media brevis, Valent tres breves ascendendo currentes, Prima brevis secunda longa, Valent duas breves et semibrevem, Valent tres breves, Due longe media brevis, Due breves, Iste quatuor semibreves non valent plus quam una longa, Iste due breves valent unam longam, Ista est est longa, Brevis plica descendendo, Brevis plica ascendendo, Longa plica ascendendo, Longa plica descendendo, Ista est longa,Valent quantum tres breves, Iste sunt tres breves ascendendo, Iste sunt breves currentes, Prima et ultima est longa et due medie sunt breves, Valent quantum tres notas semibreves, Valent quantum due breves] 
+      <figure>
+        <graphic url="/images/AMEPRA_54GF.gif" />
+      </figure></p>
+      <p id="AMEPRA0234">
+      <pb n="[102]" />26 De modo et forma legendi. Non sufficere videtur animo multa desideranti satis dixisse de modo et forma cantandi nisi etiam de modo et forma legendi, cum artis musice sit una pars, aliquid breviter dicam. In primis igitur, cum inter legere et cantare sit differencia, queritur que maxime cum multi secundum diversas nationum consuetudines lectiones in ecclesiis ac epistulas et etiam evangelia magis canunt quam legunt, vel ita legunt voces pro posse dulcorando quod quid legitur non intelligitur; aut si forte ipsi qui legunt intelligant, tamen intelligere nequeunt quod auscultant. Respondeo: ubi nota communi usu ecclesie romane super litteram scribitur ut cantetur, cantari debet non aliter, sed usus multum malum reddit artis maiestati. Quare hii qui lectiones, epistulas vel evangelia nisi modo subscripto canunt, peccant, magis autem si in dulcedine vocum vel in laudibus hominum delectentur. Enimvero necessarium aliter non esset apices, idest notas apponere super litteram cantabilem per quarum naturam littera canitur qui quidem apices in sacrosancta ecclesia romana super lectiones, epistulas aut evangelia non inveniuntur. Ad alleviandum ergo tedium carnalium et confortamen spiritualium in ecclesia ad laudem et honorem Dei et sanctorum eius, aliquando debitus cantus cum littera conformi canitur ut mens spiritualis ad celestis iubilationis dulcedinem mulceatur, aliquando legitur ut animis per sanctorum exempla dulciter reficiatur. Unde lector aperte et distincte debet legere ut omnes litterati intelligant, sicut legitur in Jeremia capitulo octavo: "Aperuit Esdras librum, Levite autem faciebant silencium in populo ad audiendam legem. Et legerunt in libro Dei distincte et aperte ad intelligendum, et intellexerunt cum legeretur". Et si notas fecerint paucas, facere debent et non nisi necessarias ad distinctionem elevationis 
+      <pb n="[103]" />et depressionis sive suspensionis et finis clausule vel interrogationis seu questionis faciende. Quamobrem si sancte romane ecclesie placeret, bonum esset epistulam suam cum tali nota legere necessaria. Et nota quod lectiones rotunde et viva voce legende sunt; epistule altius quam lectiones et in voce magis suspensiva et dulciori. Evangelium vero voce mediocri, dulci, adhuc magis suspensiva et humili, propter simplicitatem illius agni Dei qui humilitatem docuit. Hic omnia in accentu necessaria nequeo dicere, sed tum exemplum legendi hic breviter doceo. Exemplum legendi lectiones tam ad matutinas quam ante epistulam. Lectio:</p>
+      <p id="AMEPRA0235">[CSM25:103; text: Adiuva me Deus meus, quia lux es Jerusalem, et gloria domini orta est. Salva nos et salvabimur et liberamur vere et finem non habebimus. Sed quare dixisti hec?] 
+      <figure>
+        <graphic url="/images/AMEPRA_55GF.gif" />
+      </figure></p>
+      <p id="AMEPRA0236">Exemplum legendi epistolam, preponat tamen titulum lector.</p>
+      <p id="AMEPRA0237">
+      <pb n="[104]" />[CSM25:104,1; text: Fratres; convenientibus vobis in unum, servite domino et glorificate eum. Quis melius scit facere?] 
+      <figure>
+        <graphic url="/images/AMEPRA_56GF.gif" />
+      </figure></p>
+      <p id="AMEPRA0238">Exemplum legendi evangelium, sed habet duos modos formasque legendi: in festis unum, in feriis et pro mortuis alterum.</p>
+      <p id="AMEPRA0239">[CSM25:104,2; text: Loquente Jesu ad turbas, extollens vocem dixit ad illum: Domine, quis est iste qui portat te?]</p>
+      <p id="AMEPRA0240">Alius modus:</p>
+      <p id="AMEPRA0241">[CSM25:104,3; text: In principio erat verbum et verbum erat apud Deum, et Deus erat verbum. Quid est quod dicis?]</p>
+      <p id="AMEPRA0242">
+      <pb n="[105]" />Passio vero in die palmarum et etiam aliis diebus legetur sic: quando discipuli vel iudei loquuntur, secundum modum lectionis sed alte et clamando; quando evangelista loquitur, secundum modum evangelii ferialis sed voce mediocri; quando Christus loquitur, secundum modum evangelii festinalis sed voce humili et submissa. Explicit opus magistri Ameri presbiteri anglici de practica artis musice.</p>
+      <p id="AMEPRA0243">
+      <pb n="[109]" />Practica artis musice magistri Aluredi presbiteri anglici de domo et familia vererabilis patris domini Octoboni sancti Adriani diaconi cardinalis. Anno grace 1271. Primo quod musica est domina et regina omnium liberalium artium et excellentissima que ceteris artibus dimissis.</p>
+      <p id="AMEPRA0244">1 Licet michi ipsi in omni sciencia minus sim sufficiens, de ipsius auxilio qui dat verbum evangelizantibus virtute multa confisus, has sequentes regulas brevissimas et in cantu valde necessarias, nec in aliquo prout estimo superfluas, sine quibus ars cantandi naturaliter sciri nequit, cum quibus bene cognitis et prudenter intellectis omnis armonia facilius adicitur, et qui sunt cantus naturales irregulares seu falsi levius reperiuntur et corriguntur, novique veraciter et subtiliter finguntur, sub compendio pro pueris compilando scripsi. In fine quasi tangendo theoricam pro illis qui culmen artis theorice attingere captant. Musica est domina et regina omnium leberalium artium excellentissima, que ceteris artibus dimissis inferioribus sola volat ante tribunal Dei omnipotentis, ut in Apocalypsi capitulo decimo quarto: "Et cantabant quasi canticum novum, etc.". Hec est illa altissima domina que in ecclesia militanti et triumphanti Deo servit dulcissone. Hec est illa quam sancti in devotionibus suis amplexantur, qua peccatores veniam petant, qua tristes confortantur, qua leti illariores efficiuntur, qua laboribus fatigati sublevantur, qua convivantes exillarantur, qua spiritu maligno vexati levius se habent, ut Regum I, capitulo decimo sexto: "Quamdocumque spiritus malus arripiebat Saul, David psallebat manu et Saul levius se habebat". Qua pugnantes animosiores efficiuntur et ideo in istis fit clangor tubarum aut strepitus aliquorum instrumentorum seu vociferancium clamor. Qua periclitantibus aliquod confortamen, ut anime quietius dolorem suum ferant, indulgetur; unde aliqui naute quasi ex consuetudine aliquod instrumentum habent in navi ut aliquando maximis tempestatum procellis desperati, in eo canunt. Qua sine non 
+      <pb n="[110]" />est possibilis leccio vel locutio teste accentu in dictionum prolacione quia dicitur accentus quasi ad cantus. Huius autem delectationis amore aves in cagiis carcerate magna diligencia custodiuntur per annum, ut aliquo anni tempore suas reddant garriciones. Huius autem zelotipio infinita instrumentorum genera parantur, et breviter sine parte huius artis nulla vox nulla sonoritas proferri potest, si quis bene modos eius undique consideret. Hoc ergo cognoscat omnis clericus qui vel dignitatem vel aliquod auxilium in ecclesia Dei affectat, nam dicit Ysidorus Ethimologiarum quod non est minus dedecus nescire cantare quam litteras ignorare. Quoniam sancti in celis cum angelis et archangelis cum thronis etc. non cessant ympnum cotidie cantare dicentes: sanctus, sanctus, sanctus. Et in terra ab angelis cantabatur: gloria in excelsis Deo, a quibus nec de literatura queritur nec de logica disputatur. Has regulas cantus ad laudem et honorem omnipotentis Patris et Filii et Spiritus Sancti ego Aluredus presbiter anglicus in domo et familia venerabilis patris domini Octoboni sancti Adriani diaconi cardinalis anno gracie 1271 mense augusti compilavi, benivolos rogans doctores et provectos ut si quid boni invenerint, ipsum collaudant qui omnibus affluenter dat et non improperat. Si forte aliquod repertum fuerit quod lima correctionis indigeat, corrigatur ut dicit Augustinus: "Talis volo esse in scripturis aliorum quales exspecto correctores meorum et hec est caritas". Invidos autem fatuos malivolos seu aliorum operum corrosores, qui alios irrationabiliter sine auctoritate scripture, cordis sue malicie parentes reprehendunt, vel si forte reprehendere nequiverint aliquo saltim modo derogant aut depravant qui aliena dilacerant sua quidem exaltant, adhuc cum Jeronimo digne arceo brevi opusculo.</p>
+      <p id="AMEPRA0245">2 Gamma g grecum preponitur quia greci fuerunt primi inventores huius artis vel ab alio primo apud grecos inventa fuit ars ista vel ut notaretur diversitas inter litteras, quia 
+      <pb n="[111]" />gamma est g grecum, gama mulier, grama littera. Gamma in sinistra manu potius quam in dextra ponitur, licet dextra sit dignior, quia nos christiani sumus nullam dextram, idest gloriam, sed sinistram, idest laborem et dolorem mundi gaudium reputamus, unde incipeindo per bona opera a sinistris huius mundi ad dextram supracelestis gaudii properamus, et hec est una ratio quare scribere, cantare et gamma ordinare incipimus, a sinistra parte tendendo versus dextram. Claves etiam cancionum secundum ordinem littere ponuntur in sinistra parte... completa cuius radix est in g superacuto. Et g... decem novem voces sufficiunt in omni cantu et quia claves concordarent cum iuncturis manus hominis nec plures essent nec pauciores computatis summitatibus digitorum. Item tamen quod viginti due littere et totidem voces ... se possunt dici in gamma propter duplicem clavem et duplicem vocem in utroque b-fa-[sqb]-mi. Falsum est dicere C-fa-ut habet duas voces, sed duo diversa vocabula vocum vel duas notas, idest signa sive nomina vocum, eodem modo dicendum est de omnibus clavibus plures notas habentibus.</p>
+      <p id="AMEPRA0246">Si quis velit opponere propter utrumque b-fa-[sqb]-mi, dico quod naturaliter ascendendo totum gamma per omnes rigas et spacia et etiam descendendo, quocumque modo velit mutare, non inveniet ultra quinque semitonos. Item quod dicendum est canta vel pone te in tono, semitono, ditono, semiditono, tritono, diatessaron, diapente, diapason, univoce, tono cum diapente et sic de aliis et non in secunda, tercia, quarta, quinta etc.</p>
+      <p id="AMEPRA0247">(Cune idest la super e a d)</p>
+      <p id="AMEPRA0248">15 De tenoribus vocum tonorum, versus:</p>
+      <p id="AMEPRA0249">Primus cum quarto, sextus simul incipit ex A;</p>
+      <p id="AMEPRA0250">Tercius, octavus, quintus simul incipit ex C;</p>
+      <p id="AMEPRA0251">F quia secundus amati, d septimus alcior istis.</p>
+      <p id="AMEPRA0252">
+      <pb n="[112]" />Exceptio supradictorum versuum:</p>
+      <p id="AMEPRA0253">Sextus gradali cunctis, octavus et uno</p>
+      <p id="AMEPRA0254">Fallit in antiphona f g sex octo petit g.</p>
+      <p id="AMEPRA0255">16 Nomina neumpmarum sive tonorum:</p>
+      <p id="AMEPRA0256">[CSM25:112; text: Eptaficus, Stroficus, Punctus, Porrectus, Oriscus, Virgula, Cephalicus, Clivis, Qualisma [Qualisma], Podactus, Scandicus et Salicus, Climatus, Cortulus, Antus, Et pressus, minor, maior, Non pluribus utor.] 
+      <figure>
+        <graphic url="/images/AMEPRA_57GF.gif" />
+      </figure></p>
+      <p id="AMEPRA0257">Neumpmarum signis erras qui plura refingis.</p>
+    </body>
+  </text>
+</TEI>

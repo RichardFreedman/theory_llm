@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Tractatus cantus mensurabilis</title>
+        <title type="abbrev">AEGTRA</title>
+        <author>Aegidius de Murino</author>
+        <date notBefore="1300" notAfter="1399">14th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>C. Matthew Balensuela</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Oliver B. Ellsworth</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1990</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>Scriptorum de musica medii aevi nova series a Gerbertina altera</emph>, 4 vols., ed. Edmond de Coussemaker (Paris: Durand, 1864-76; reprint ed., Hildesheim: Olms, 1963), 3:124–28.
+</bibl>
+        <bibl type="work">
+          
+<title>Aegidius de Murino: De motettis componendis</title>
+          
+<idno type="LML">AEGID. MUR.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">E-Sc 5-2-25, 60-62v, 66</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Lbl Add. 4909, 14v-17v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat lat. 5321, 7v-9v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Sc L.V.30, 44-47</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">US-Wc ML 171 J 6 Case, 74-79</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="AEGTRA0001">
+      <pb n="[124]" />Magistri Aegidii de Murino</p>
+      <p id="AEGTRA0002">Tractatus cantus mensurabilis</p>
+      <p id="AEGTRA0003">De modo componendi tenores motettorum.</p>
+      <p id="AEGTRA0004">Primo accipe tenorem alicujus antiphone vel responsorii vel alterius cantus de antiphonario; et debent verba concordare de materia de qua fecere motetum; et tunc recipe tenorem, et ordinabis et colorabis secundum quod inferius patebit de modo perfecto vel imperfecto. Et modus perfectus est quando computantur tria tempora vel sex pro nota. Et modus imperfectus est quando computantur duo tempora vel quatuor pro nota, et quando tenor est bene ordinatus. Tunc si vis facere motetum cum quatuor, tunc etiam ordinabis et colorabis contratenorem supra tenorem; 
+      <pb n="[125]" />et quando vis dividere contratenorem, tunc accipe tenorem, et contratenorem si componis cum quatuor, et ordinatis triplum supra, bene ut concordet cum tenore et contratenore. Et si vis ipsum superius concordare, tunc divide tenorem in duas partes, vel quatuor, vel tot partes sicut tibi placuerit; et cum feceris unam partem super tenorem, tunc ipsa pars debet ita esse figurata, sicut prima pars, et sicut alia pars; et istud vocatur colorare motetos.</p>
+      <p id="AEGTRA0005">Item potes ibi adjungere aliam subtilitatem, et hoc est, si vis, potes eam facere de modo perfecto, id est comparare super tempora insimul et post tria tempora debet superesse punctus divisionis. Hoc facto, procede ad motetum, id est ad quintum; et concordabis et colorabis cum triplo et tenore et cum contratenore, si est cum quatuor, et ita fac usque ad finem.</p>
+      <p id="AEGTRA0006">Postquam cantus est factus et ordinatus, tunc accipe verba que debent esse in moteto et divide ea in quatuor partes; et sic divide cantum in quatuor partes; et prima pars verborum compone super primam partem cantus, sicut melius potest, et sic procede usque in finem; et aliquando est necesse extendere multas notas super pauca verba, super pauca tempora, quousque pervenientur ad complementum.</p>
+      <p id="AEGTRA0007">Nunc ostendendum est qualiter tenores ordinabis et colorabis, et ita ordinabis et colorabis contratenores sicut tenores, tamen contratenor potest aliter colorari quam tenor, si vis. Et primo de modo perfecto ut consequenter patebit, et si tenor dicitur pluries quam semel, debet esse signatus contratenor. Quod si dicitur bis, quia prima vice non est necesse signare, quando dicatur bis, tunc appone hoc tale signum: 2; quod si dicitur ter, appone hoc signum 3; quod si dicitur quater, appone hoc signum 4; et secundum antiquos Magistros figuratur sic: II, III, IIII, 2, 3, 4.</p>
+      <p id="AEGTRA0008">Tenor iste est de modo perfecto et quelibet nota valet sex tempora, et est coloratus, quia omnes sunt similes, et vocatur tenor ordinatus, quia non est aliqua mixtura in eo nisi pause:</p>
+      <p id="AEGTRA0009">[ClefF3,Lig2Lcddxacddx; Lig2d; Lig2Lcddxacddx on staff4]</p>
+      <p id="AEGTRA0010">Tenor iste est de modo perfecto, et plene valent sex tempora, et vacue valent quatuor tempora et iste tres vacue valent duas plenas. Et iste tenor vocatur mixtus; tamen est coloratus, et tamen possunt plures vacue poni in tenore si vis; tamen custode semper colorem; et sic de aliis mixturis que ponuntur. Intende videlicet de longis et de brevibus et de pausis:</p>
+      <p id="AEGTRA0011">[ClefF3,Lig2Lcddxacddxv; Lig2dv; Lig2Lcddxacddxv on staff4]</p>
+      <p id="AEGTRA0012">Tenor iste est de modo perfecto, et majores valent sex tempora, et minores quelibet valet unum tempus; et he sex debent esse punctate ante et retro, quia possunt computari cum nota antecedente vel subsequente. Et iste sex minores perficiunt unam majorem, et est tenor mixtus; tamen est coloratus:</p>
+      <p id="AEGTRA0013">[ClefF3,MX,pt,B,pt,MX,pt,B,pt,MX,pt,B,pt,MX,pt,B,pt,MX,pt,B,pt,MX,pt,B,pt on staff4]</p>
+      <p id="AEGTRA0014">Tenor iste est de modo perfecto et majores valent sex tempora et minores tria:</p>
+      <p id="AEGTRA0015">[ClefF3,Lig3MXcddxaLcddxacddx,Lig2MXaMXcddx,Lig2MXdMX,Lig2MXdMX,Lig2Lcddxacddx,MX on staff4]</p>
+      <p id="AEGTRA0016">Tenor iste est de modo perfecto, et majores valent sex tempora, et post majorem debet esse punctus divisionis. Et prima minor que sequitur, valet unum tempus, secunda duo, et 
+      <pb n="[126]" />tertia tria tempora. Et est tenor mixtus, tamen coloratus:</p>
+      <p id="AEGTRA0017">[ClefF3,MX,pt,Lig3ad,MX,pt,Lig3cdsnodacddx,MX,pt,Lig3ad on staff4]</p>
+      <p id="AEGTRA0018">Tenor iste est de modo perfecto, et majores valent sex tempora et minores tria tempora; et debent esse punctate ante et retro, quia possunt computari cum majoribus; et iste tenor est mixtus, tamen coloratus:</p>
+      <p id="AEGTRA0019">[ClefF3,MX,pt,L,pt,MX,pt,L,pt,MX,pt,L,pt,MX on staff4]</p>
+      <p id="AEGTRA0020">Tenor iste est de modo perfecto, et majores valent sex tempora et minores quelibet unum tempus; et est tenor mixtus, tamen coloratus:</p>
+      <p id="AEGTRA0021">[ClefF3,MX,Lig3aod,Lig4aodacddx,Lig3oda,Lig3dod,MX on staff4]</p>
+      <p id="AEGTRA0022">Tenor iste est de modo perfecto; et quelibet plena valet tria tempora, et vacue valent duo tempora; et est color mixtus, tamen coloratus:</p>
+      <p id="AEGTRA0023">[ClefF4,L,L,L,Lv,L,L,L,Lv,L,L,L,Lv,L,L,L,Lv on staff5]</p>
+      <p id="AEGTRA0024">Tenor iste est de modo perfecto, et prima valet unum tempus et secunda duo et tertia tria:</p>
+      <p id="AEGTRA0025">[ClefF3,Lig3aacddx,pt,Lig3aacddx,pt,Lig3ad,pt,Lig3ad,Lig3cdsnodacddx,Lig3cdsnodacddx on staff4]</p>
+      <p id="AEGTRA0026">Et tales tenores possunt dividi in quatuor partes diversimodo; et prima vice dicitur sicut stat; secunda vice dividitur vel diminuitur per dimidium de primo; et tunc prima nota valet unam semibrevem, et secunda duas et tertia tres, et sic usqae ad finem.</p>
+      <p id="AEGTRA0027">Item tertia vice potest dici de tempore imperfecto; et tunc prima nota valet unum, et tertia duo tempora et sic usque finem.</p>
+      <p id="AEGTRA0028">Item quarta vice, diminuitur istud tempus imperfectum per semi, id est per medium; tunc prima nota valet unam semibrevem, et secunda unam, et tertia duas, et sic usque ad finem.</p>
+      <p id="AEGTRA0029">Item iste tenor potest aliter dividi in quatuor partes, videlicet: prima vice, de modo perfecto; tunc prima valet unum tempus, et secunda duo, et tertia tria, et sic usque ad finem.</p>
+      <p id="AEGTRA0030">Item si secunda vice potest dici de tempore imperfecto, tunc prima valet unum tempus, et secunda unum, et tertia duo tempora.</p>
+      <p id="AEGTRA0031">Item si tertia vice diminuatur per semi de prima voce, tunc prima nota valet unam semibrevem, et secunda duas, et tertia tres semibreves.</p>
+      <p id="AEGTRA0032">Item si quarta vice, tunc diminuitur per semi de secunda vice; et tunc prima nota valet unam semibrevem, et secunda unam, et tertia duas semibreves, et sic usque ad finem. Et possunt poni pause post perfectiones, sed custodi semper colorem, et debet scribi sub tenore, sic: primo dicitur de modo perfecto; secundo de tempore imperfecto; tertio zeze vel cese per semi de primo; et quarto zeze sive cese per semi de secunda vice.</p>
+      <p id="AEGTRA0033">Tenor iste quando est de modo imperfecto, tunc valet quelibet quatuor tempora; et quando est de modo perfecto, tunc quelibet valet sex tempora, sicut superius dictum est de tenoribus de modo perfecto, et est tenor ordinatus atque coloratus:</p>
+      <p id="AEGTRA0034">[ClefF3,Lig2MXcddxaMXcddx; Lig2MXdMX,Lig2MXaMXcddx on staff4]</p>
+      <p id="AEGTRA0035">Tenor iste quando vis quod sit de modo imperfecto, tunc valet quelibet duo tempora; et quando vis quod sit de modo perfecto, tunc valet quelibet tria tempora, sicut superius pouitur in 
+      <pb n="[127]" />tenoribus de modo perfecto, et est tenor ordinatus atque coloratus:</p>
+      <p id="AEGTRA0036">[ClefF3,L,L,Lig2d,L,L,Lig2d,L,L,L,L,Lig2d on staff4]</p>
+      <p id="AEGTRA0037">Tenor iste quando est de modo imperfecto, tunc majores valent quatuor tempora et minores duo; et quando est de modo perfecto, tunc majores valent sex tempora et minores tria, sicut superius patet:</p>
+      <p id="AEGTRA0038">[ClefF3,MX,MX,L,MX,MX,MX,MX on staff4]</p>
+      <p id="AEGTRA0039">Tenor iste quando est de modo imperfecto, tunc majores quatuor valent tempora, et minores quelibet unum tempus. Sed in modo perfecto sunt minores punctate, sicut superius patuit; et non est necesse eas punctare in modo imperfecto:</p>
+      <p id="AEGTRA0040">[ClefF3,MX,MX,L,MX,MX,L,MX on staff4]</p>
+      <p id="AEGTRA0041">Tenor iste est de modo imperfecto, et majores valent quelibet quatuor tempora et minores quelibet duo tempora:</p>
+      <p id="AEGTRA0042">[ClefF3,MX,L,L,MX,L,L,MX,L,L,MX on staff4]</p>
+      <p id="AEGTRA0043">Tenor iste est de modo perfecto, et prima nota valet unum et quarta tria tempora et pause computantur per se; et potest dici bis, si vis, sicut stat, vel potest fieri divisio in secunda vice per semi de prima; et tunc note valent tres semibreves, et quelibet pausa valet unam semibrevem:</p>
+      <p id="AEGTRA0044">[ClefF3,Lig3aacddx,pt,BP,pt,Lig2acddx,Lig2acddx,pt,BP,pt,Lig4cdsnodad on staff4]</p>
+      <p id="AEGTRA0045">Tenor iste est de modo imperfecto, et prime due note valent unum tempus pro qualibet, et tertia valet duo tempora; et potest dividi per semi, si dicitur bis, tunc due prime valent pro qualibet unam semibrevem, tertia duas semibreves, et pausa prima vice valent duo tempora, secunda vice non valent nisi unum tempus:</p>
+      <p id="AEGTRA0046">[ClefF3,Lig3aacddx,LP,Lig4aaod,LP,Lig2d,LP,Lig2a,L,Lig3aacddx,LP,Lig4doda on staff4]</p>
+      <p id="AEGTRA0047">Sciendum est quod per tenores supradictos potest inveniri quamplures alii modi et deduci alii tenores per viam subtilitatis, et ideo non est necesse contratenores componere. Plures eorum qui possunt inveniri, quando existit subtilis cantor, potest facere alios tenores quamplures eorum; et ideo sapienti et intelligenti pauca sufficiunt, sed que scripta sunt superius, ad doctrinam parvulorum scripta sunt.</p>
+      <p id="AEGTRA0048">Unde dicendum est de Pausis, qualiter ipsas ordinabis in tenoribus; et primo de modo perfecto quod pause debent esse computate per se; tunc pone in tenoribus tres, vel sex, vel novem pausas de uno tempore, et debent esse punctate ex utraque parte, ut hic:</p>
+      <p id="AEGTRA0049">[pt,BP,pt on staff2]</p>
+      <p id="AEGTRA0050">et non debent poni nisi post perfectiones.</p>
+      <p id="AEGTRA0051">Item si vis componere vel ordinare pausas cum perfectionibus, quod si pausa debet ire cum prima, quod est ante se, tunc debet esse punctata retro, ut hic:</p>
+      <p id="AEGTRA0052">[Lig2cdsnd,BP,pt on staff4]</p>
+      <p id="AEGTRA0053">Item si debet ire cum perfectione, que est retro se, tunc debet esse punctata ante, ut hic:</p>
+      <p id="AEGTRA0054">[Lig2cssnacddx,pt,BP on staff4]</p>
+      <p id="AEGTRA0055">Item potes etiam tales pausas ponere in modo 
+      <pb n="[128]" />perfecto, et non in alio, quia significat modum perfectionis ut hic: [LP,LP,LP on staff5]</p>
+      <p id="AEGTRA0056">Aliquando possunt poni due simul, ut hic: [LP,LP,LP,LP,LP,LP on staff5] et non debent poni nisi post perfectiones; sed caveas, ne frangas colorem.</p>
+      <p id="AEGTRA0057">Item si pausas ponere vis in modo imperfecto, non est necesse eas punctare, sed stant per se, ut hic: [Lig2dcddx,BP on staff2] vel sic: [Lig3aa, BP,Lig2cdsnd on staff4]</p>
+      <p id="AEGTRA0058">Si per se stant, cum perfectionibus computantur, non debent esse punctate.</p>
+      <p id="AEGTRA0059">Item si vis ponere pausas de duobus temporibus, tunc appone, ut hic: [LP,LP,LP on staff4] quia quot spatia tangunt, tot tempora valent.</p>
+      <p id="AEGTRA0060">Item si vis pausas pro tribus temporibus ponere simul, tunc debes ponere unam de duobus et aliam de uno tempore, ut hic: [LP,BP on staff4]</p>
+      <p id="AEGTRA0061">Si majores subtilitates cupis habere quam in isto volumine continetur, tunc stude fortiter in musicam, et forte Deus prestabit tibi per suam gratiam majorem intellectum atque subtilitatem.</p>
+      <p id="AEGTRA0062">Est autem alius modus componendi motetos quam superius dictum est, videlicet: quod tenor vadat supra motetum et sic ordinabis:</p>
+      <p id="AEGTRA0063">Accipe tenorem de antiphonario, sicut superius dictum est, quem colorabis et ordinabis, et stat in gamma bassa; et tu potes eum mittere in gamma alta; et quando est ordinatus bene, tunc facias discantum sub tenore, sicut melius scis et potes. Et si vis ipsum facere cum quatuor, tunc debet ibi essse contratenor. Sed oportet quod contratenor sit primo et concordet cum tenore, aliter non posset colorari. Item si vis facere motetum cum quinque, per hunc modum potest fieri: fac primo tenorem, sicut dictum est, et fac discantari subtus tenorem et concordare; hoc modo fac triplum discantari insuper motetum, sicut melius scis. Adhuc potes facere alium discantum qui ibi circumsonat triplum fulgendo ipsum triplum. Et iste quintus cantus vocatur quadruplum, et sic erit motetus totaliter plenus. Et credo quod non possint fieri plures cantus insimul.</p>
+      <p id="AEGTRA0064">Item si motetum, triplum, quadruplum potes semper bene facere de modo perfecto, licet cantus esset de modo imperfecto, aliquando cantus est de modo perfecto et de tempore perfecto, et tunc debet semper poni punctus divisionis post tria, et debet prima perfectio durare usque ad finem.</p>
+      <p id="AEGTRA0065">Isto modo debet fieri Ballada simplex: in primo fac apertum et clausum, et ultimo fac clausum solummodo.</p>
+      <p id="AEGTRA0066">Item Ballada duplex habet apertum et clausum ante et retro.</p>
+      <p id="AEGTRA0067">Item Vironellus simplex habet ante apertum et clausum retro.</p>
+      <p id="AEGTRA0068">Item Vironellus duplex habet dimidium apertum et clausum ante, et apertum et clausum retro.</p>
+      <p id="AEGTRA0069">Item Rondellus habet apertum ante, quando finitur in ut, et debet esse decima; et quando finitur in la, debet este quinta, et retro clausum. Deo gratias.</p>
+      <p id="AEGTRA0070">Explicit tractatus cantus mensurabilis secundum magistrum Egidium de Murino.</p>
+    </body>
+  </text>
+</TEI>

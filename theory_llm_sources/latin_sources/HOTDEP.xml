@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>De proportionibus</title>
+        <title type="abbrev">HOTDEP</title>
+        <author>Hothby, Johannes</author>
+        <date notBefore="1400" notAfter="1499">15th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Anna Shparberg</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Andreas Giger</persName>
+      </respStmt>
+      <date>1999</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Johannes Hothby, 
+<emph>Opera omnia de proportionibus</emph>; Anonymus, 
+<emph>Tractatus de contrapuncto (Ms. Venice, lat. VIII.82, coll. 3047)</emph>, ed. Gilbert Reaney, Corpus scriptorum de musica, vol. 39 (n.p.: American Institute of Musicology; Hänssler-Verlag, 1997), 36–42. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Iohannes Hothby: De proportionibus</title>
+          
+<idno type="LML">IOH. HOTH. prop. II</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">I-Fl Plut. XXIX. 48, 6v-7v</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="HOTDEP0001">
+      <pb n="[36]" />De proportionibus Johannis Hothbi</p>
+      <p id="HOTDEP0002">De divisione proportionum</p>
+      <p id="HOTDEP0003">Capitulum 1</p>
+      <p id="HOTDEP0004">Fl 6v</p>
+      <p id="HOTDEP0005">Proportio est habitudo vel respectus duorum sibi invicem comparatorum, quae duplex est, videlicet proportio aequalitatis et proportio inaequalitatis. Proportio aequalitatis est habitudo duorum aequalium sibi invicem comparatorum, sicut unum uni et duo duobus, et cetera. Proportio inaequalitatis est respectus duorum inaequalium sibi invicem comparatorum, sicut duo uni vel e converso. Proportio aequalitatis habet tantum unam speciem, quae est scilicet aequalitas aequalium, sed numero sunt infinitae. Proportio inaequalitatis est duplex, videlicet proportio maioris inaequalitatis et proportio minoris inaequalitatis. Proportio maioris inaequalitatis est respectus maioris ad minus, sicut duo uni. Proportio vero minoris inaequalitatis est respectus sive habitudo minoris ad maius, sicut unum duobus. Proportio maioris inaequalitatis est quintuplex, videlicet Multiplex, Superparticularis, Superpartiens et duae compositae, videlicet Multiplex superparticularis et Multiplex superpartiens.</p>
+      <p id="HOTDEP0006">De proportione multiplici</p>
+      <p id="HOTDEP0007">Capitulum 2</p>
+      <p id="HOTDEP0008">Fl 6v</p>
+      <p id="HOTDEP0009">Multiplex est quando maior terminus in se praecise continet multipliciter minorem, cuius species sunt: Dupla, Tripla, Quadrupla, Quintupla, Sextupla, Septupla, Octupla, et sic deinceps.</p>
+      <p id="HOTDEP0010">Dupla est quando maior terminus in se continet totum minorem bis praecise, ut hic:</p>
+      <p id="HOTDEP0011">
+      <pb n="[37]" />[CSM39:37,1; text: Dupla, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 14, 16, 18, 20, 22] 
+      <figure>
+        <graphic url="/images/HOTDEP_01GF.gif" />
+      </figure></p>
+      <p id="HOTDEP0012">Tripla est quando maior terminus in se praecise continet ter minorem, videlicet</p>
+      <p id="HOTDEP0013">[CSM39:37,2; text: Tripla, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 15, 18, 21, 24, 27, 30, 33]</p>
+      <p id="HOTDEP0014">Quadrupla est quando maior terminus in se continet totum</p>
+      <p id="HOTDEP0015">minorem quater praecise, videlicet</p>
+      <p id="HOTDEP0016">[CSM39:37,3; text: Quadrupla, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 15, 16, 20, 24, 25, 28, 30, 32, 35, 36, 40, 44, 45, 48, 50, Quintupla]</p>
+      <p id="HOTDEP0017">Et sic intelligitur de aliis.</p>
+      <p id="HOTDEP0018">De partibus numerorum</p>
+      <p id="HOTDEP0019">Capitulum 3</p>
+      <p id="HOTDEP0020">Fl 6v</p>
+      <p id="HOTDEP0021">Partes cuiuscunque totius aut sunt partes aliquotae aut non aliquotae. Pars aliquota est quae aliquotiens sumpta praecise reddit suum totum, sicut unus respectu cuiuscunque numeri, et duo respectu sex. Et si reddit suum totum praecise, dicitur pars aliquota media, si ter tertia, si quater quarta, et cetera. Pars non aliquota est quae aliquotiens sumpta praecise non reddit suum totum. Et si binarius superat, vocatur pars non aliquota superbi, si trinarius supertri, si quarternarius superquatri; sicut duo tres, et quatuor respectu quinarii. Et quodlibet totum tot partes habet quot in se continet unitates, et sic tot comparationes habere etiam potest. Unde terminus minor vocatur totum respectu partis qua maior numerus superat minorem, et terminus maior vocatur comparans. Etiam sexquitotum dicitur, quod idem est quod terminus minor et altera media.</p>
+      <p id="HOTDEP0022">Item duo dicitur pars non aliquota duae tertiae de tribus, et duae quintae de quinque, et cetera; et tres dicitur pars non aliquota tres quartae 
+      <pb n="[38]" />de quatuor, et tres quintae de quinque, et cetera; et quatuor dicitur pars non aliquota quatuor quintae de quinque, et cetera. Et similiter dicuntur partes non aliquotae tres septimae de septem, sex septimae de septem, et sic capiunt nomina tam de minori termino quam de maiori.</p>
+      <p id="HOTDEP0023">De proportione superparticulari</p>
+      <p id="HOTDEP0024">Capitulum 4</p>
+      <p id="HOTDEP0025">Fl 7</p>
+      <p id="HOTDEP0026">Superparticularis est quando maior numerus praecise continet semel totum minorem et eius partem aliquotam mediam, vel tertiam, vel quartam, et sic deinceps. Cuius species sunt: sexquialtera, sexquitertia, sexquiquarta, sexquiquinta, sexquisexta, sexquiseptima, sexquioctava, sexquinona, et sic deinceps.</p>
+      <p id="HOTDEP0027">Sexquialtera est quando maior numerus in se continet totum minorem semel et eius partem aliquotam mediam:</p>
+      <p id="HOTDEP0028">[CSM39:38,1; text: 2, 3, 4, 6, 8, 9, 10, 12, 14, 15, 16, 18, 20, 21, 22, 24, 27, 30, 33]</p>
+      <p id="HOTDEP0029">Sexquitertia est quando maior numerus continet totum minorem in se et eius partem aliquotam tertiam:</p>
+      <p id="HOTDEP0030">[CSM39:38,2; text: 3, 4, 6, 8, 9, 12, 15, 16, 18, 20, 24]</p>
+      <p id="HOTDEP0031">Et istae declarationes dantur ceteris speciebus mutatis mutandis, id est: media vel tertia in quartam vel quintam vel sextam.</p>
+      <p id="HOTDEP0032">
+      <pb n="[39]" />De proportione superpartiente</p>
+      <p id="HOTDEP0033">Capitulum 5</p>
+      <p id="HOTDEP0034">Fl 7</p>
+      <p id="HOTDEP0035">Superpartiens est quando maior numerus in se continet totum minorem semel et eius partem non aliquotam, videlicet duas quintas vel tres quintas vel quatuor quintas, aut tres quartas, aut quatuor sextas aut quinque sextas, aut duas septimas vel tres septimas, et sic de ceteris. Cuius species sunt: superbipartiens tertias, superbipartiens quintas, supertripartiens quintas, superquatripartiens quintas, supertripartiens quartas, superbipartiens septimas, supertripartiens septimas, et cetera. Et sic deinceps, habendo denominationes ab excessu et a termino minori.</p>
+      <p id="HOTDEP0036">Superbipartiens tertias est quando maior terminus in se continet totum minorem semel et eius partem non aliquotam duas tertias vel quatuor sextas, ut hic:</p>
+      <p id="HOTDEP0037">[CSM39:39,1; text: 3, 5, 6, 9, 10, 12, 15, 18, 20, 21, 24, 25, 30, 35, 40]</p>
+      <p id="HOTDEP0038">Supertripartiens quartas est quando maior terminus continet totum minorem semel et eius partem non aliquotam tres quartas, ut hic:</p>
+      <p id="HOTDEP0039">[CSM39:39,2; text: 4, 7, 8, 14, 16, 28]</p>
+      <p id="HOTDEP0040">Et eadem declaratio convenit aliis speciebus mutatis mutandis.</p>
+      <p id="HOTDEP0041">De proportione multiplici superparticulari</p>
+      <p id="HOTDEP0042">Capitulum 6</p>
+      <p id="HOTDEP0043">Fl 7</p>
+      <p id="HOTDEP0044">Multiplex superparticularis est quando maior terminus continet in se totum minorem multipliciter et eius partem aliquotam mediam vel tertiam. Cuius species sunt: Dupla sexquialtera, Tripla sequialtera, Quadrupla sexquialtera, et Dupla sexquitertia, Tripla sexquitertia, et cetera, componendo cum singulis singulas.</p>
+      <p id="HOTDEP0045">
+      <pb n="[40]" />Dupla sexquialtera est quando maior terminus in se continet totum minorem bis et eius partem aliquotam mediam, ut hic:</p>
+      <p id="HOTDEP0046">[CSM39:40,1; text: 2, 4, 5, 8, 10, 20]</p>
+      <p id="HOTDEP0047">Tripla sexquialtera est quando maior terminus continet in se totum minorem ter praecise et eius partem aliquotam, ut hic patet:</p>
+      <p id="HOTDEP0048">[CSM39:40,2; text: 2, 4, 7, 8, 14, 28]</p>
+      <p id="HOTDEP0049">Dupla sexquitertia est quando maior terminus in se continet totum minorem bis et eius partem aliquotam tertiam. Et sic haec diffinitio convenit aliis speciebus mutatis mutandis.</p>
+      <p id="HOTDEP0050">De proportione multiplici superpartienti</p>
+      <p id="HOTDEP0051">Capitulum 7</p>
+      <p id="HOTDEP0052">Fl 7v</p>
+      <p id="HOTDEP0053">Multiplex superpartiens est quando maior terminus in se continet totum minorem multipliciter et eius partem non aliquotam duas tertias, vel duas quintas, vel tres quintas. Cuius species sunt Dupla superbipartiens tertias, Tripla superbipartiens tertias, et Dupla supertripartiens quartas, Tripla supertripartiens quintas, et sic componendo cum singulis species singulas.</p>
+      <p id="HOTDEP0054">Dupla superbipartiens tertias est quando maior terminus continet in se totum minorem bis et eius partem non aliquotam duas tertias, et cetera:</p>
+      <p id="HOTDEP0055">[CSM39:40,3; text: 3, 6, 8, 12, 16, 32]</p>
+      <p id="HOTDEP0056">
+      <pb n="[41]" />Tripla superbipartiens tertias est quando maior terminus in se continet totum minorem ter et eius partem non aliquotam duas tertias:</p>
+      <p id="HOTDEP0057">[CSM39:41,1; text: 3, 6, 11, 12, 22, 44]</p>
+      <p id="HOTDEP0058">Dupla supertripartiens quartas est quando maior terminus in se continet totum minorem bis et eius partem non aliquotam tres quartas:</p>
+      <p id="HOTDEP0059">[CSM39:41,2; text: 4, [8], 11, [16], 22, 44]</p>
+      <p id="HOTDEP0060">Tripla supertripartiens quartas est quando maior terminus in se continet totum minorem ter et eius partem non aliquotam tres quartas, et cetera:</p>
+      <p id="HOTDEP0061">[CSM39:41,3; text: 4, 8, 15, 30, pars vero aliquota 3/4]</p>
+      <p id="HOTDEP0062">Et quando proportiones fiunt in maioribus numeris, possunt reduci ad numeros radicales per divisionem medii vel tertii vel alteriusvis partis. Sicut superbipartiens tertias per denarium ad senarium ordinatur, divisione medii potest reduci ad quinarium trinario comparatum, ut hic:</p>
+      <p id="HOTDEP0063">[CSM39:41,4; text: 3, 5, 6, 10]</p>
+      <p id="HOTDEP0064">Et quamvis habent alia nomina quoad unitatem numerorum, tamen eadem est proportio, scilicet eadem species quod habitudinem, id est respectum.</p>
+      <p id="HOTDEP0065">
+      <pb n="[42]" />De proportionibus minoris inaequalitatis</p>
+      <p id="HOTDEP0066">Capitulum 8</p>
+      <p id="HOTDEP0067">Fl 7v</p>
+      <p id="HOTDEP0068">Genera minoris inaequalitatis sunt quinque, videlicet submultiplex subsuperparticulare, subsuperpartiens, submultiplex superparticularis et submultiplex superpartiens. Species subsuperparticularis sunt: subsexquialtera, subsexquitertia, et sic deinceps de reliquis intelligendum est omnibus, addendo "sub" et comparando minorem terminum maiori. Ita quod minor tantum contineat partem aliquam vel aliquotam de maiori numero praecise, vel superhabundanter, ut hic:</p>
+      <p id="HOTDEP0069">[CSM39:42; text: Subdupla, 1/2, 2/4, Subsexquialtera, 2/3, 4/6, Subsuperbipartiens tertias, 3/5, 6/10]</p>
+      <p id="HOTDEP0070">Et sic numeris omnes proportiones significari possunt, id est proportionum proprie sunt signa, quamvis et aliis signis aliquando notificantur, et cetera.</p>
+    </body>
+  </text>
+</TEI>

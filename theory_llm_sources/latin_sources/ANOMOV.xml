@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Expositio de motu</title>
+        <title type="abbrev">ANOMOV</title>
+        <author>Anonymous</author>
+        <date notBefore="800" notAfter="1099">9th-11th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Peter Slemon</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Jessica Sisk</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>2003</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Joseph Smits van Waesberghe, "De commentator anonymus in Micrologum Guidonis Aretini en zijn verhouding tot de Luiksche muziekschool," in 
+<emph>Muziekgeschiedenis de Middeleeuwen</emph>, 3 vols. (Tilburg: Bergmans, 1936–46), 1:154–70.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: Tractatus de motu</title>
+          
+<idno type="LML">MOT. Musica est</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">B-Br 10162/6, 94-95v (106-107v)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-DS 1988, 181-181v</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANOMOV0001">
+      <pb n="[154]" />Anonymus I</p>
+      <p id="ANOMOV0002">D. 1988, fol. 181 r.; Br. 10161-66, fol. 94 r.</p>
+      <p id="ANOMOV0003">Musica est motus vocum et est in quantitate quia consistit in numeris. Motus vocum sunt VI species. Tonus, Semitonium, Semiditonus, Dytonus, Diatessaron, Diapenthe. Horum omnium sunt dué differentie: Arsis et thesis idest elevatio et depositio. Nam quilibet cantus fit aut elevatione aut depositione.</p>
+      <p id="ANOMOV0004">Junguntur arsis et thesis et fiunt quattuor species junctionis dum altera alteri et ipse sibi junguntur idest arsis arsi et thesis thesi, arsis thesi et thesis arsi.</p>
+      <p id="ANOMOV0005">Arsis arsi ut: Rorate.</p>
+      <p id="ANOMOV0006">Thesis thesi ut: Gaudete.</p>
+      <p id="ANOMOV0007">Arsis thesi ut: Ad te levavi.</p>
+      <p id="ANOMOV0008">Thesis arsi ut: Memento.</p>
+      <p id="ANOMOV0009">Rursus hae junctiones variantur tum ex similibus, tum ex dissimilibus facte.</p>
+      <p id="ANOMOV0010">
+      <pb n="[156]" />Anonymus I</p>
+      <p id="ANOMOV0011">D. 1988, fol. 181 r.; Br. 10161-66, fol. 94 r.</p>
+      <p id="ANOMOV0012">Et amplius cum fiunt similiter vel dissimiliter preposite, similiter ac dissimiliter apposite, tum similiter tum dissimiliter supposite, tum interposite, tum mixte.</p>
+      <p id="ANOMOV0013">[Appositus motus dicitur cum in eadem voce est unius finis alteriusque principium.</p>
+      <p id="ANOMOV0014">Supponitur motus motui cum infra ponitur ut sit minus gravis illo cui jungitur.</p>
+      <p id="ANOMOV0015">Interpositus motus nunquam est similis ei cui interponitur, quia semper minor est illo non in numero vocum.</p>
+      <p id="ANOMOV0016">Mixte sunt que partim interponuntur partim preponuntur. (Item. D.) Mixte fiunt ex partim interpositis et partim appositis; que non fiunt non iunctis ...]</p>
+      <p id="ANOMOV0017">
+      <pb n="[158]" />Anonymus I</p>
+      <p id="ANOMOV0018">De omnibus exempla ponimus et primum de similiter prepositis</p>
+      <p id="ANOMOV0019">(de similiter prepositis).</p>
+      <p id="ANOMOV0020">Arsis arsi ut "Montes, Educ de c., Nativitate, Ecce advenit". Thesis thesi ut "Interrogatus Valerianus". Arsis thesi ut "Ecce nomen, Ecce Virgo concipiet, Hi Sancti, Haec est Virgo".</p>
+      <p id="ANOMOV0021">Thesis arsi ut in sequentia "Eia dic", "Cuncto mundo", "Dilecti deo".</p>
+      <p id="ANOMOV0022">
+      <pb n="[160]" />Anonymus I</p>
+      <p id="ANOMOV0023">Nunc de dissimiliter propositis. Arsis arsi ut (Angelus D.) Et in alleluia "Angelus, Stabunt, et erunt".</p>
+      <p id="ANOMOV0024">Thesis thesi ut "O ammirabile.</p>
+      <p id="ANOMOV0025">Arsis thesi ut "Angelus dominum. Quando natus es, Cum audisset Job."</p>
+      <p id="ANOMOV0026">Thesis arsi ut "Serve bone, Quatuor facies".</p>
+      <p id="ANOMOV0027">Nunc de similiter appositis. Appositus motus dicitur cum in eadem voce est unius finis alteriusque principium.</p>
+      <p id="ANOMOV0028">Apponitur ergo Arsis arsi (arsis D.) ex similibus ut "Nato Domino, Aufer a me".</p>
+      <p id="ANOMOV0029">Thesis thesi ut in com. "Tollite, Adorate dominum, Juravi" (D. Juravi, in margine).</p>
+      <p id="ANOMOV0030">Arsis thesi ut "Terribilis est, Haec sacri (Br. met clivis, podatus + virga).</p>
+      <p id="ANOMOV0031">Thesis arsi ut "O ammirab., O quam".</p>
+      <p id="ANOMOV0032">
+      <pb n="[162]" />Anonymus I</p>
+      <p id="ANOMOV0033">Ex dissimilibus vero appositis, arsis arsi ut "Ecce ego, Mulieres, (Accedentes, D.), Angelorum regi, (Br. Item) Accedentes".</p>
+      <p id="ANOMOV0034">Thesis thesi ut (ut, omittit D.) "Beata dei, Grad. Oculi, Elegit eos, (Br. Item) Justum deduxit, Ultima namque".</p>
+      <p id="ANOMOV0035">Arsis thesi ut "Crux Jesu Chri, Remigius (D. in margine), (Br. "Gloria ex.") Item (D. Et) rex autem dixit (D.: Et in talibus versibus Gloria in excelsis)."</p>
+      <p id="ANOMOV0036">Thesis arsi "O Sapientia, Veni Sancte. O Beata Cecilia, Et Ecce sedes." (Br. Item et "ecce sedes").</p>
+      <p id="ANOMOV0037">Sequitur de suppositis. Supponitur motus motui cum infra ponitur ut sit minus gravis illo cui jungitur. Arsis ergo arsi supponitur ut in Resp. "H(aec) est dies", "Natus est, (D. et) Ecce vox, Parvulus filius", (Item Br.; Et D.) ant "Caro mea ...(?)", (Item Br.; Et D.) "Ecce de quo".</p>
+      <p id="ANOMOV0038">Thesis thesi ut "Ymnum canamus. (D. Et in ant.) Talis est et ipse est". Arsis thesi ut "Dilecti deo" et "O crux gloriosa".</p>
+      <p id="ANOMOV0039">Thesis arsi ut "Veni Creator" (D. et "Dilecti").</p>
+      <p id="ANOMOV0040">
+      <pb n="[164]" />Anonymus I</p>
+      <p id="ANOMOV0041">"Christe qui lux." (D. Et.; in Br. hier een drielijnig systeem) "Vox turturis audita est, Adonay, Kyrie eleison." D. in margine: Kyr. eleison et Adonay).</p>
+      <p id="ANOMOV0042">Hae sunt ex similibus.</p>
+      <p id="ANOMOV0043">Ex dissimilibus vero (arsis arsi, D.) supponitur arsis arsi ut "Ego sum qui sum", Et "Hierusalem, (D. Et) Filie Hierusalem", Item (D. Et) "exulta filia".</p>
+      <p id="ANOMOV0044">Thesis thesi ut "Ecce ancilla, Isti sunt due (D. et ant. Quatuor facies), Uni erant, (Br. Item) Quattuor facies".</p>
+      <p id="ANOMOV0045">Thesis arsi (D., et) "Timete Dominum, (D. et) Simile est, O meum (?)</p>
+      <p id="ANOMOV0046">Et (D. in) Resp. "beatus Remigius, tunc effuso, (D. et) .... quidem". Arsis thesi ut "Venite exul., Veni Sancte, Et facta est" (D.: Et in Alleluia: Domine exaud Alleluia).</p>
+      <p id="ANOMOV0047">
+      <pb n="[166]" />Anonymus I</p>
+      <p id="ANOMOV0048">Interpositus motus nunquam est similis ei cui interponitur quia semper minor est illo nisi in numero vo// (D. fol. 181 v.) cum.</p>
+      <p id="ANOMOV0049">Interponitur autem: Arsis arsi ut in (D. tali) usu "Talibus enim". Thesis thesi ut in hoc Resp. "Judea et Hierusalem". (D.: Et "In alto, Dum tropheum salvatoris praedicaret").</p>
+      <p id="ANOMOV0050">Arsis thesi ut et "Erat quidam Mendicus nomine" et "quid facimus". (D. et "Orans Christus in sublime" et).</p>
+      <p id="ANOMOV0051">"Armilla perf." et "in gloriam dei patris" (Br. fol. 95 r.).</p>
+      <p id="ANOMOV0052">Thesis arsi ut "Gloria (D. et) Lux fulgebit", et "ipse pia", (Br. Item) "adhuc loquetur".</p>
+      <p id="ANOMOV0053">Mixte sunt que partim interponuntur partim preponuntur sic "Venite, Elevatio, Inter hec."</p>
+      <p id="ANOMOV0054">Thesis thesi sic "Nunc scio, Alleluia, Surrexit p".</p>
+      <p id="ANOMOV0055">Arsis thesi "Christe pater, Homo videt, Accipite, Dum Sacrum. (Br. Item) Alleluia".</p>
+      <p id="ANOMOV0056">
+      <pb n="[168]" />Anonymus II</p>
+      <p id="ANOMOV0057">(D. Item) Mixte fiunt ex partim interpositis et partim appositis; que non fiunt nisi junctis arsi thesi vel thesi arsi.</p>
+      <p id="ANOMOV0058">Nam si arsis arsi jungatur vel thesis thesi, non possunt partim interponi, partimque apponi.</p>
+      <p id="ANOMOV0059">Arsis ergo thesi partim interponitur, partimque apponitur (D. ut) "Quomodo, quo progrederis, Ave gratia".</p>
+      <p id="ANOMOV0060">Thesis arsi ut "Agnus Dei, Juravit".</p>
+      <p id="ANOMOV0061">"Quoniam, quoniam, Misericordiam."</p>
+      <p id="ANOMOV0062">Item mixte partim interpositis et partim suppositis ut "Adjutor, A quo trepidabo qui tribulant".</p>
+      <p id="ANOMOV0063">Thesis thesi "Me suscepit dextera tua domine".</p>
+      <p id="ANOMOV0064">Et "Nationes, Et Florebit".</p>
+      <p id="ANOMOV0065">(Br. fol. 95 v.)</p>
+      <p id="ANOMOV0066">Rursus he positiones et cetera.</p>
+      <p id="ANOMOV0067">Hoc est quod dicit varie sunt qualitates laxationis idest thesis vel depositionis. Itemque acuminis vel elevationis idest arsis. Fiunt enim per tonum nunc, nunc per semitonium et per omnes alias vocum consonantias; et nunc spisse, nunc raro, nunc penitus interrupte.</p>
+      <p id="ANOMOV0068">Et augmenti et detrimenti sunt varie qualitates. Nam si elevatio vel depositio facta sit per tonum vel per semitonium potest augeri et fieri, nunc per semiditonum, nunc per dytonum, nunc per diatessaron nunc per diapente.</p>
+      <p id="ANOMOV0069">
+      <pb n="[170]" />Anonymus I</p>
+      <p id="ANOMOV0070">Vel facta per diapenthe potest imminui et fieri per omnes minores consonantias. Et omnia hec posita variabantur per modorum varias qualitates sumendo quamdam coloris faciem nunc a finali prothi, nunc deuteri, nunc triti, nunc tetrardi.</p>
+      <p id="ANOMOV0071">Neume quoque per omnes modos variari poterunt, verbi gratia, ut talis neuma [signum] descendens per diatessaron, nunc in tetrardum, nunc in deuterum, nunc in prothum finiant.</p>
+      <p id="ANOMOV0072">Et distinctiones aliquando huius rei est exemplum in tertio libro. "Tu patris sempiternus es filius." (fin. Br. fol. 95 v., D. fol. 181 v.)</p>
+    </body>
+  </text>
+</TEI>

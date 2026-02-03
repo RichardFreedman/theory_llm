@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Regulae cantus mensurati secundum Johannem Otteby</title>
+        <title type="abbrev">HOTRCM2</title>
+        <author>Hothby, Johannes</author>
+        <date notBefore="1400" notAfter="1499">15th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Peter Slemon</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Bradley Jon Tucker</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1995</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Johannes Hothby, 
+<emph>Opera omnia de musica mensurabili</emph>; Thomas Walsingham, 
+<emph>Regulae de musica mensurabili</emph>, ed. Gilbert Reaney, Corpus scriptorum de musica, vol. 31 (Neuhausen-Stuttgart: Hänssler Verlag for the American Institute of Musicology, 1983), 51–59. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Iohannes Hothby: Regulae cantus mensurati secundum Ioannem Otteby</title>
+          
+<idno type="LML">IOH. HOTH. mens. II</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">GB-Lbl Add. 10336, 62v-73v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Llp 466, 22v-30v</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="HOTRCM20001">
+      <pb n="[51]" />Regulae cantus mensurati secundum Johannem Otteby</p>
+      <p id="HOTRCM20002">Capitulum 1</p>
+      <p id="HOTRCM20003">De figuris et eius proportionibus</p>
+      <p id="HOTRCM20004">L1 62v, L2 22v</p>
+      <p id="HOTRCM20005">Figurae enim cantus choralis sunt 8, sed proprie 5 dumtaxat, quae dicuntur partes prolationis, id est cantilenae vel orationis, id est oris rationis, quia ab ore hominum praecipue prolatae sunt. Et hee sunt, videlicet maxima, longa, brevis, semibrevis et minima; reliquae vero semiminima, croma et semicroma tali pacto:</p>
+      <p id="HOTRCM20006">[CSM31:51] 
+      <figure>
+        <graphic url="/images/HOTRCM2_01GF.gif" />
+      </figure></p>
+      <p id="HOTRCM20007">Numeri loco quorum hee figurae poni solent sunt tres, videlicet perfectus numerus, imperfectus numerus, et mixtus.</p>
+      <p id="HOTRCM20008">Numerus vero perfectus est cuius radix est ternarius, ad quem aequaliter descendere potest per tres partes aequales, vel ipse ternarius omnium radix ad tres unitates descendere valet, et sunt hii, videlicet 3, 9, 27, 81, ac deinceps. Nam 81 descendere potest utrimque aequaliter per tres partes, usque quo veniat ad eius radicem, id est ad tres simplissimas unitates. Nam in primis dividitur inter viginti et septem pro qualibet parte, et 27 in quavis illarum partium in tres novenarios pro qualibet parte. Deinde 
+      <pb n="[52]" />quilibet novenarius dividitur in tres ternarios, et quilibet ternarius in tres unitates. Et dicitur numerus perfectus non absolute sed ratione cuiusdam similitudinis, videlicet ut deus trinitate gaudet, vel quia tria sunt naturalium principia, videlicet materia, forma et compositio, vel huiusmodi.</p>
+      <p id="HOTRCM20009">Numerus imperfectus est cuius radix est binarius, ad quem talis numerus potest descendere aequaliter per duas partes aequales usque ad duas simplissimas unitates, et sunt hii, videlicet 2, 4, 8, 16, ac deinceps. Nam 16 potest descendere aequaliter per duos octonarios, et quilibet octonarius aequaliter per duos quaternarios, et quaternarius per duos binarios, et quilibet binarius per duas simplissimas unitates.</p>
+      <p id="HOTRCM20010">Mixtus autem numerus est qui duplicem habet radicem, videlicet binarium et ternarium simul; potest igitur descendere ad alterum ipsorum ut oportuerit, et sunt hii: 6, 12, 18, 24, ac deinceps. Nam 24 potest descendere multis modis, primo per duos duodenarios aequaliter, et quilibet duodenarius per duos senarios, et quilibet senarius per duos ternarios, et quilibet ternarius per tres unitates. Vel potest descendere numerus 24 per tres octonarios, ac deinceps; vel potest descendere per quatuor senarios, ac deinceps.</p>
+      <p id="HOTRCM20011">Decem et octo numerus potest descendere per duos novenarios, ac deinceps. Potest etiam descendere per tres senarios, ac deinceps. Duodenarius autem potest descendere per duos senarios, et quilibet senarius per duos ternarios, et quilibet ternarius per tres unitates. Et tunc dicitur duodenarius perfectus, cum eius radix perfecta sit. Potest etiam descendere duodenarius per duos senarios, et quilibet senarius per tres binarios, et quilibet binarius per duas unitates. Et tunc dicitur duodenarius numerus imperfectus, cum eius radix imperfecta sit. Senarius denique duobus modis descendere potest ac deinceps, et si eius radix fuerit ternarius, dicetur senarius perfectus. Si vero eius radix fuerit binarius, dicetur senarius imperfectus.</p>
+      <p id="HOTRCM20012">
+      <pb n="[53]" />Maxima igitur aliquando ponitur pro numero perfecto, et aliquando pro numero imperfecto, et quandoque pro numero mixto. Quando vero maxima ponitur pro numero perfecto, tunc dicitur dividi et habere tres longas, et quaelibet longa tres breves, et quaelibet brevis tres semibreves, et quaelibet semibrevis tres minimas. Ergo maxima dividitur sive habet tres longas, 9 breves, 27 semibreves, et 81 minimas. Ergo inter longas et maximas, et inter breves et longas, et inter semibreves et breves, ac inter minimas et semibreves est proportio tripla. Sed inter breves et maximas est proportio noccupla, et inter semibreves vero et maximas est proportio vigecupla septupla, sed inter minimas et maximas est proportio octodecupla simpla.</p>
+      <p id="HOTRCM20013">Capitulum 2</p>
+      <p id="HOTRCM20014">De signis et eius proportionibus</p>
+      <p id="HOTRCM20015">L1 66, L2 25</p>
+      <p id="HOTRCM20016">Quorum numerorum et proportionum ac figurarum hii circuli cum punctis in medio sunt signa ante principium cantilenarum ponenda: [signum]. Sed si maxima et longa fortuitu in cantilena non ponerentur, tunc circulus parvus cum puncto per se positus sufficeret. Quia semper significat brevem perfectam, et punctus semibrevem similiter perfectam hac via: [Od]. Et apud aliquos haec sunt signa supradictorum numerorum: [Od33], vel sic dum maxima non haberetur in cantilena: [Od3].</p>
+      <p id="HOTRCM20017">Ponitur etiam maxima pro numero imperfecto, et tunc dividitur maxima vel habet duas longas, et quaelibet longa duas breves, et quaelibet brevis duas semibreves, et quaelibet semibrevis duas minimas. Et sic inter longas et maximas est proportio 
+      <pb n="[54]" />dupla, et ita inter breves et longas, et inter semibreves et breves, et inter minimas et semibreves. Sed inter breves et maximas quadrupla est, et inter semibreves et maximas est octupla, sed inter minimas et maximas est sesdecupla. Quorum numerorum et proportionum ac notarum haec sunt signa: [signum], vel sic: [C22].</p>
+      <p id="HOTRCM20018">Ponitur etiam maxima pro numero mixto cuius radix est perfecta, similiter pro numero mixto cuius radix est imperfecta, ex quibus numeris mixtis generantur mensurae quatuordecim. Quorum numerorum et proportionum ac figurarum haec sunt signa:</p>
+      <p id="HOTRCM20019">[CSM31:54] ;</p>
+      <p id="HOTRCM20020">vel sic: [C23,C32,C33,Cd22,Cd23,Cd32,Cd33,O22,O23,O32,O33,Od22,Od23,Od32]. Praeterea comparando numerum perfectum numero imperfecto generantur tres proportiones citra 10, videlicet sesquialtera, subsesquitertia et sesquioctava; et comparando imperfectum numerum numero perfecto nascuntur aliae tres proportiones primis tribus oppositae, videlicet subsesquialtera, sesquitertia et subsesquioctava. Quarum proportionum signa haec sunt: [CTd,CLd,CBd,CT,CL,CB].</p>
+      <p id="HOTRCM20021">Sed novem tamen ad quatuor est proportio dupla sesquiquarta, quamvis perfectus et imperfectus comparantur ad invicem, et propriis numeris designari debet. Et citra 30 tantum habetur superundecupartiens decimas sextas, quae quidem proportio propriis numeris a quibus denominantur signari potest, ac deinceps, etsi 27 sit numerus perfectus et 16 imperfectus, ac deinceps tam de numeris ordinariis quam de extraordinariis. Sunt vero extraordinarii qui ad radicem aequaliter descendere non possunt, ut 5, 7, 11 et huiusmodi. Et iam per colores diversos proportiones designari solent, sed ineptissime quidem cum musica potentissima 
+      <pb n="[55]" />sine hiis esse valeat, cum de numeris ad phthongos applicatis tractet qui phthongorum atque simphoniarum sunt formae: colores vero pictoribus tinctoribus quoque magis pertinere solent.</p>
+      <p id="HOTRCM20022">Capitulum 3</p>
+      <p id="HOTRCM20023">De gradibus mensurarum</p>
+      <p id="HOTRCM20024">L1 68v, L2 26v</p>
+      <p id="HOTRCM20025">Gradus enim quatuor mensurarum sunt tres, videlicet perfectus maior a maxima, a longa et a breve; imperfectus minor a maxima, a longa et a breve; perfectus minor a maxima, a longa et a breve; imperfectus maior a maxima, a longa et a breve. Hoc vocabulum maior significat radicem esse perfectam, et minor imperfectam. Similiter perfectus significat radicem perfectam, et imperfectus significat radicem imperfectam. Unde quando dicitur perfectus maior a maxima, perfectus significat maximam perfectam et maior significat longam perfectam, ac deinceps. Et quando dicitur imperfectus minor a maxima, imperfectus significat maximam imperfectam et minor significat longam imperfectam, ac deinceps ut haec ostendunt exempla.</p>
+      <p id="HOTRCM20026">[CSM31:55; text: Perfectus maior a maxima]</p>
+      <p id="HOTRCM20027">
+      <pb n="[56]" />[CSM31:56; text: Perfectus maior a longa, Perfectus maior a breve, Imperfectus minor a maxima, Imperfectus minor a longa, Imperfectus minor a breve] 
+      <figure>
+        <graphic url="/images/HOTRCM2_02GF.gif" />
+      </figure></p>
+      <p id="HOTRCM20028">
+      <pb n="[57]" />[CSM31:57; text: Perfectus minor a maxima, Perfectus minor a longa, Perfectus minor a breve, Imperfectus maior a maxima, Imperfectus maior a longa] 
+      <figure>
+        <graphic url="/images/HOTRCM2_03GF.gif" />
+      </figure></p>
+      <p id="HOTRCM20029">
+      <pb n="[58]" />[CSM31:58; text: Imperfectus maior a breve]</p>
+      <p id="HOTRCM20030">Capitulum 4</p>
+      <p id="HOTRCM20031">De modo, tempore et prolatione</p>
+      <p id="HOTRCM20032">L1 71v, L2 29</p>
+      <p id="HOTRCM20033">Determinationes mensurarum similiter sunt tres, videlicet modus, tempus et prolatio. Modus vero dicitur de maxima et de longa, ultra quas nemo communiter vocem sub uno spiritu ac tenore retinere potest. Et ideo datur sibi modus de longa, si maximam quis proferre non valeat, id est vocem per ipsam significatam. Sed tempus datur brevi, quia a modo temperatur et ab ipso modus mensuratur. Prolatio vero datur semibrevi, quia procul a modo suas minimas profert, id est portat, per quas ipsa dividitur, nam ultra minimas prisci nichil proferri voluerunt vel nequiverunt, dicentes non fore prolationem, id est claram expressionem, sed potius indiscretam confusionem. Et ideo semibrevis partes minimas appellavere per gradum superlativum, dicentes ultra minimum minus dare poterit nemo; et ideo constituerunt semibrevem accipere pro momento digiti et oculi atque mentis sicut vox quae significatur per cantum legalem.</p>
+      <p id="HOTRCM20034">Est autem duplex modus, videlicet perfectus et imperfectus. Perfectus vero quando maxima valet tres longas, vel quando longa valet tres breves. Modus vero imperfectus dicitur quando maxima ex propria natura valet duas longas, vel longa duas breves. Tempus etiam est duplex, videlicet perfectum et imperfectum. 
+      <pb n="[59]" />Perfectum quidem quando brevis ex propria natura valet tres semibreves. Imperfectum vero quando valet duas. Similiter duplex est prolatio, videlicet maior et minor. Major vero quando semibrevis ex propria natura valet tres minimas. Sed minor prolatio dicitur quando valet duas.</p>
+      <p id="HOTRCM20035">Capitulum 5</p>
+      <p id="HOTRCM20036">De maxima</p>
+      <p id="HOTRCM20037">L1 73, L2 30</p>
+      <p id="HOTRCM20038">Notandum est quod maxima dicitur una dupliciter. Primo ratione quantitatis continuae, et sic maxima dicitur totum et proprie maxima. Secundo dicitur una ratione quantitatis discretae, et sic proprie etiam dicitur una cum sit minima in numeris. Nam id quod maximum est in quantitate continua est minimum in quantitate discreta, cum per eius divisionem nascatur quantitas discreta, id est numerus, et cum partes eius diminuuntur tendentes ad minimum, numerus crescit tendens ad maximum. Et sicut unum dicitur maximum vel totum in quantitate continua, ita multitudo dicitur ipsum totum in quantitate discreta, id est in numeris. De qua multitudine ad sonum applicata proprie considerat musicus, de magnitudine vero proprie geometer, et musicus per accidens, prout accipit figuras geometricas loco sonorum tanquam eorundem signa.</p>
+      <p id="HOTRCM20039">Proportiones secundum Ioannem Otteby magistrum in musica expliciunt feliciter vicesimo sexto die martii 1500.</p>
+    </body>
+  </text>
+</TEI>

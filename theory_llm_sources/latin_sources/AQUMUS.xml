@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>De arte musica</title>
+        <title type="abbrev">AQUMUS</title>
+        <author>Aquinas [Ps.], Thomas</author>
+        <date notBefore="1200" notAfter="1299">13th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Mark Butler</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Peter Slemon</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>2001</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>D. Thomae Aquinatis De arte musica nunc primum ex codice bibliothecae Universitatis Ticinensis</emph>, ed. Sac. Guarinus Amelli (Milan: S. Josephus, 1880), 19–25.
+</bibl>
+        <bibl type="work">
+          
+<title>Ps.-Thomas Aquinas: Compilatio cod. Ticinensis (Pavia) 450</title>
+          
+<idno type="LML">COMPIL. Ticin.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">I-PAVu 450, 1-10</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="AQUMUS0001">
+      <pb n="[19]" />THOMAS DE AQUINO</p>
+      <p id="AQUMUS0002">DE ARTE MUSICA</p>
+      <p id="AQUMUS0003">ex Codice Bibliothecae Universitatis Ticinensis (N. cxxx D. 18)</p>
+      <p id="AQUMUS0004">Cum humana natura naturaliter scire desiderat, et a primi hominis [peccato] prisco sunt quattuor quae naturam impediunt [humanam] scilicet ignorantia, vitium, imperitia loquendi et indigentia; quibus tamen quattuor bona sunt opposita scilicet ignorantiae sapientia, vitio virtus, imperitiae loquendi eloquentia, indigentiae necessitas, ideoque divina clementia philosophis peritiam artes inveniendi concessit, ut per eam quisque notitiam valeat praedicta bona comprehendere, et fruendo iis lapsam naturam ad meliorem conscientiam sublimare.</p>
+      <p id="AQUMUS0005">Quoniam circa musicam quaedam necessaria ad utilitatem cantantium tractare ponimus, necesse est quod secundum auctoris intentiones subtilissimas regulas summopere subjectas intelligere studeamus.</p>
+      <p id="AQUMUS0006">Cum igitur musica inter septem artes liberales sola tenet principatum sicut scribit philosophus. Musica est quae in Ecclesia triumphanti et militanti Deo fuit dulcisona quam sancti in suis devotionibus amplexantur qua peccatores veniam petunt, qua tristes confortantur, qua spiritu vexati levius se habent, qua pugnantes animosiores efficiuntur. Quoniam sicut dicit Isidorus in libro Ethimologiarum quia [non] minus est dedecus nescire canere quam litteras ignorare, quum Sancti cum Angelis et Archangelis cum Thronis et Dominationibus, cumque omni militia coelestis exercitus non cessant cantare cotidie dicentes: Sanctus, Sanctus, et cetera.</p>
+      <p id="AQUMUS0007">Apparet ergo quod est nobilior scientiarum, et quod eam quilibet debet apte scire prae omnibus aliis. Et hoc idem potest probari. Nam nulla scientia ausa fuit intrare fores Ecclesiae, praeter quam ipsa musica.</p>
+      <p id="AQUMUS0008">
+      <pb n="[20]" />Antequam aliud determinemus de ipsa nec secundum definitionem nec secundum divisionem, necesse est videre quomodo fuit inventa, et qui fuit primus inventor.</p>
+      <p id="AQUMUS0009">Debemus scire quod secundum quosdam scilicet secundum graecos Pitagoras fuit inventor primus. Cum ipse iter ageret ad quandam [fabricam venit qua] in superincudes quinque mallei ferrei feriebant, ob quorum tam suavem concordiam ipse miratus accepit primus in varietate manum sperans vim soni ac modulationis existere mutavit malleos. Quo facto suavitas quaeque secuta est. Subtracto uno qui dissonus erat a ceteris alios in mirum modum divinoque ritu ponderavit, sex uncias octo et novem. Cognovit autem in numerorum proportionem et collectionem musicae versari scientia. Moyses autem dicitur repertorem fuisse artis musicae Tubal [qui fuit] de stirpe, Caim qui fuerunt ante diluvium.</p>
+      <p id="AQUMUS0010">Omnibus namque propositis talibus, attendamus ad principalem propositum videlicet ad cognitionem ipsius musicae. Et quia omnis scientia duplici cognoscitur via, scilicet via diffinitiva et divisiva, via diffinitiva primo. Musica est liberalis scientia potestatem cantandi subministrans, et dicitur a Moys quae et aquam dicimus, quia est scientia quasi scientia inventa juxta aquam. Vel dicitur musica a Musis quia secundum fabulam fuit filia Jovis. Et dividitur in musicam mensurabilem et immensurabilem. Mensurabilis est quae per mensuram procedit atque procedit per rectas longas et breves. Immensurabilis est per oppositum se habet non procedit per rectas longas et breves et illa dicitur plana musica.</p>
+      <p id="AQUMUS0011">Notandum est quod ille dicitur proprie musicum esse qui</p>
+      <p id="AQUMUS0012">cantat artificialiter et non usualiter. Unde versus:</p>
+      <p id="AQUMUS0013">Bestia non cantor qui non canit arte sed usu.</p>
+      <p id="AQUMUS0014">Non vox cantorem facit artis sed documentum.</p>
+      <p id="AQUMUS0015">Hoc viso accedamus ad principalem propositam viam, ut ad quasdam regulas [perveniamus] mediantibus quibus poterimus habere cognitionem ipsius musicae usualiter cum cantu.</p>
+      <p id="AQUMUS0016">Unde sciendum est quod sex sunt voces quibus omnis cantus multiformis contexitur ut re mi fa sol la quae pro septem litteris scilicet a. b. c. d. e. f. g. [ponuntur] quae quidem licterae 
+      <pb n="[21]" />pluribus modis in Gamma ut accipiuntur juxta hoc debemus scire quae generaliter sunt viginti literae. Sciendum est quia tres sunt modi cantus scilicet [sqb] quadratum natura et [rob] molle. Ubicumque est G ibi ut cantatur per [sqb] quadrum, et omnes voces descendentes ab illa scilicet ut re mi fa sol la, ubicumque sunt istae voces. Et ubicumque est C ibi ut cantatur per naturam et omnes voces descendentes ab illa. Et ubicumque est F. ibi ut cantatur per [rob] molle. Unde versus:</p>
+      <p id="AQUMUS0017">C naturam dat, F [rob] molle tibi signat;</p>
+      <p id="AQUMUS0018">G quoque [sqb] durum te semper habes cani tantum.</p>
+      <p id="AQUMUS0019">Istarum ergo viginti litterarum praedictarum septem primae dicuntur graves, eo quod videntur aggravare hominem a restrictionem (sic) arteriarum propter cantum inferiorem. Acutae dicuntur eo quod acuta voce et arteriis apertis emittuntur. Superacutae dicuntur eo quod superacutas ponuntur voce subtili et superacuta emittuntur.</p>
+      <p id="AQUMUS0020">Quid est gamma ut A re. B mi et sic de aliis.</p>
+      <p id="AQUMUS0021">Quot voces et quot mutationes quibus habet propter tedium et quae commune, puerile illud est, ideo ista dimittamus.</p>
+      <p id="AQUMUS0022">Et debemus scire quod si una vox est in linea alia est in spatio, et sic de aliis.</p>
+      <p id="AQUMUS0023">Hoc habito de singulis vocibus et de modis cantus et sic de aliis videndum est de mutationibus diffinendo. Sic mutatio est prout hic sumitur [nihil] nisi aliud est quod divisio vocis unius per aliam sub eodem signo et eodem spatio vel sono. Unde sequitur ubicumque est mutatio oportet ad minus quod ibi sint duae voces. In gamma ut, Are, Bmi, et in Ela, non est aliqua mutatio eo quod istorum quilibet solam vocem continet. Nec in Bfa, Bmi, quoniam ibi sunt diversa signa et diversae voces, et quia non ponuntur sub una voce nec sub uno tono ideo non potuit esse mutatio quia tunc esset contra definitionem mutationis. Nam si esset sub uno sono deberet dici B fa mi, sed dicitur Bfa, Bmi. Et est sciendum quod sunt duae voces sicut in Ffaut, et ut fa et sic de aliis. Ubi sunt tres voces ibi sunt sex mutationes. In G sol [re ut] ubi dicitur [sol re, re sol, sol ut] et sic de omnibus aliis, quoniam ubicumque sunt tres voces, immutatur prima in secundam et e contrario. Et in hac voce non duplicantur duae 
+      <pb n="[22]" />[voces] per quatuor sicut tres per sex. Unde regula quod [omnis] mutatio desinens in ut re mi dicitur ascendendo quod plus habet ascendere quam descendere. Et omnis mutatio desinens in fa sol la dicitur descendendo quia plus habet descendere quam ascendere.</p>
+      <p id="AQUMUS0024">Unde versus:</p>
+      <p id="AQUMUS0025">Ut re mi scandit ut fa quoque sol la.</p>
+      <p id="AQUMUS0026">Unde sciendum quod mutatio sumitur dupliciter, aut causa ascensionis aut causa descensionis ut patet in C fa ut. Habito de singulis et C</p>
+      <p id="AQUMUS0027">Quia omnis musica tam mensurabilis quam immensurabilis sive plana quae ideo est quae [mittat] et habeat considerare per tresdecim species. Nam ad ista sunt necesse. Ideo de istis quot sunt et quomodo quaelibet cognosci [potest] videamus.</p>
+      <p id="AQUMUS0028">Sciendum est quod tresdecim species vocis sive species musicae, videlicet unisonus, semitonus, tonus, semiditonus, ditonus, diatessaron, tritonus, diapente, semitonus cum diapente, tonus cum diapente, semiditonus cum diapente, ditonus cum diapente, diapason.</p>
+      <p id="AQUMUS0029">Unisonus dicitur sonus unius vocis a qua non fit progressio. Unum semper habet esse in eadem linea, vel in eodem spatio. Si vero progrediatur a quadam voce tangendo propinquam, tunc aliquando fit tonus, aliquando semitonus, et ponitur unisonus in quacumque clave fuerit necessarius et sicut notae aequales. Unde sciendum est quod numquam fit semitonus nisi de mi in fa vel e contrario ut patet in exemplo. Et dicitur semitonus a semus, sema, semum; quod est imperfectum et tonus quia imperfectus tonus.</p>
+      <p id="AQUMUS0030">Quod autem [Boetius] determinavit de semitono per solutionem cujusdam quaestionis. Nam ita est quod aliter per falsam musicam facimus semitonum ubi non debet esse. Nam in mensurabili musica aliud videmus quod tenor alicujus motecti vel organi vel conducti stat in Bfa, Bmi dicendo per [sqb] durum tunc accipiendo in diapente sive discantum oportet dicere mi [aut inferius aut] superius, et sic per falsam musicam. Nam facere diapente a mi in fa non bona est concordantia, quia fa magis habet de sono quam mi et oportet quod ubi est diapente ab una voce in aliam ibi sit bona concordantia.</p>
+      <p id="AQUMUS0031">
+      <pb n="[23]" />Et ideo oritur quaestio quomodo ex hoc quod loquendi necessitas fuit in musica regulari de falsa musica sive de falsa mutatione; cum nullum regulare dicitur ac accipitur falsum sed potius verum.</p>
+      <p id="AQUMUS0032">Ad quod est dicendum quod mutatio falsa sive falsa musica non est inutilis imo est necessaria propter bonam consonantiam inveniendam et malam vitandam. Nam sicut dictum est si velimus habere diapente de necessitate oportet quod habeamus tres sonos cum semitono. Itaque si aliqua [figura] sit in bfa et mi sub [sqb] quadratum et alia in fa ut acuta per naturam, tunc non est ibi consonantia, sed dissonantia cum semitono sed duo tantummodo cum semitono duplici. Verumtamen fieri potest ibidem sed per falsam musicam [quam] appellamus, scilicet quando facimus de semitono tonum vel e contrario, non tamen falsa musica sed inusitata. Unde notandum est quod [rob] molle non est de origine aliarum clavium. Hoc autem cognoscitur per signum [sqb] quadrati vel [rob] rotundi in loco inusitato [locatum; ita quod dicamus mi durum in f acutum cum signo [sqb] quadrati, vel si [rob] rotundum] ponamus in bfa, bmi, vel in consimilibus, ita quod sit in toni proportione et tunc erit cum diapente consonantia. Et ideo falsa musica est necessaria quandoque. Et etiam ut omnis consonantia seu melodia in quolibet signo perficiatur. Etenim tonus quaedam percussio aeris indissoluta usque ad auditum sicut de gravi ad acutum videlicet de G ad a vel e contrario, et sic tali modo, scilicet ut re, et re ut, re mi, et mi re, fa sol, et sol fa, sol la, et la sol. Et dicitur tonus a tono, tonas, eo quod perfecte sonat, idest perfecte ostendit distantiam inter duas voces, ubicumque duae voces a linea in spatio continuantur semitono ex converso ut dictum est, et habet fieri in sexta vel octava proportione.</p>
+      <p id="AQUMUS0033">Semiditonus est spatium inter duas voces continens semiditonum et tonum et e contrario, et fit duobus modis, scilicet re fa, mi sol et e contrario ut hic patet.</p>
+      <p id="AQUMUS0034">Ditonus est spatium inter duas voces continens duos tonos ascendendo ut mi et fa la, et e contrario descendendo et dicitur a dya quod est duo et tonus eo quod continet in se duos tonos unde tres voces faciunt duos tonos ut hic patet.</p>
+      <p id="AQUMUS0035">
+      <pb n="[24]" />Diatessaron est quaedam consonantia quae inter duas voces continet tantumdem sicut ditonus cum semitono ut patet in exemplo sequenti et dicitur a dya quod est de et tessa quod est quattuor, et saron quod est vox quasi de quattuor vocibus constituta et fit tribus modis, ascendendo, ut fa, re sol, mi la, et totidem descendendo. Ex qualibet enim voce quarta fit dyatessaron praeter ab F gravi in b acutum. [Fieri tamen potest ibidem et in consimilibus si necesse fuerit per falsam musicam] supradictam.</p>
+      <p id="AQUMUS0036">Tritonus est spatium voce manifestans videlicet ab F gravi in b acutum.</p>
+      <p id="AQUMUS0037">Diapente est quaedam consonantia quae ascendendo scilicet ut sol, re la, et totidem descendendo et dicitur a dya quod est de et pente quae est quinque quasi de quinque vocibus constituta. A qualibet enim voce quinta fit diapente [nisi] a b gravi in F gravem vel a b acuta quadrata ad f acutam. Fieri tamen potest ibidem per falsam musicam in consimilibus.</p>
+      <p id="AQUMUS0038">Semitonus cum diapente est spatium inter duas voces continens in se tres tonos cum duobus semitoniis scilicet a c acuta in E grave et in consimilibus. Concepta quia non est alicujus linguae sed intellecti persistitum. Nota quod ista infrascripta principaliter requiruntur ut musica plana efficiatur cantus, videlicet, septem litterae, sex voces, septem consonantiae, et modi duo, de his omnibus per carmina inferius videndum est.</p>
+      <p id="AQUMUS0039">DE LITTERIS.</p>
+      <p id="AQUMUS0040">Septem sunt licterae A B sunt et istae</p>
+      <p id="AQUMUS0041">Duo sunt quae claves C et F naturales</p>
+      <p id="AQUMUS0042">Septem in colore videtur esse morem</p>
+      <p id="AQUMUS0043">Tres sunt perfectae sed quattuor imperfectae</p>
+      <p id="AQUMUS0044">Bini duce datur b fa mollificatur.</p>
+      <p id="AQUMUS0045">DE VOCIBUS.</p>
+      <p id="AQUMUS0046">Vox ut principalis re sequens et talis</p>
+      <p id="AQUMUS0047">Mi dum pergit dura fa molle in natura</p>
+      <p id="AQUMUS0048">Solque naturalis la fertur et regalis</p>
+      <p id="AQUMUS0049">Omnis mutatio fit in ipsis ratio</p>
+      <p id="AQUMUS0050">Haec elevatio vocis et depositio.</p>
+      <p id="AQUMUS0051">
+      <pb n="[25]" />DE CONSONANTIBUS.</p>
+      <p id="AQUMUS0052">To, se, di, se, dia, di, parum melodia</p>
+      <p id="AQUMUS0053">Firme duas tene perfecte philomeam</p>
+      <p id="AQUMUS0054">Quattuor latine sed tres grece fine</p>
+      <p id="AQUMUS0055">Fit temperantia omnis consonantia</p>
+      <p id="AQUMUS0056">Diciturque sonus a quo ab intonando tonus.</p>
+      <p id="AQUMUS0057">MODI CANTUS.</p>
+      <p id="AQUMUS0058">Modi sunt tales authentici et plagales</p>
+      <p id="AQUMUS0059">Decimam in altum unam et duas tantum</p>
+      <p id="AQUMUS0060">Septimam ascendunt sed quintam descendunt</p>
+      <p id="AQUMUS0061">Cantus resonetur psalmus intonetur.</p>
+    </body>
+  </text>
+</TEI>

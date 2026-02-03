@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>[Compilatio Caroloruhensis]</title>
+        <title type="abbrev">ANOCC</title>
+        <author>Anonymous</author>
+        <date notBefore="800" notAfter="1099">9th-11th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Peter Slemon</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>David Schneider</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>2008</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Christian Meyer, "Aus der Werkstatt des Kompilators," in 
+<emph>Quellen und Studien zur Musiktheorie des Mittelalters,</emph> vol. 2, ed. Michael Bernhard, Bayerische Akademie der Wissenschaften, Veröffentlichungen der Musikhistorischen Kommission, Band 13 (Munich: Bayerische Akademie der Wissenschaften / C. H. Beck, 1997), 7–9. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Anicius Manlius Severinus Boethius: De institutione musica libri V</title>
+          
+<idno type="LML">BOETH. mus.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">A-LIs Cod. 597, 2 (Fragments)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">A-Wn Cod. 50, 49-135v (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">A-Wn Cod. 51, 4-34v (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">A-Wn Cod. 55, 93-167 (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">A-Wn Cod. 299, 1-86</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">A-Wn Cod. 2269, 153-172v (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">A-Wn Cod. 15470, 1-6v, 7-10v (Fragments)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">AUS-Msl Cod. 091/B 63 (Phillipps 3345), 1-49 (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Br 5444/6, 41v-98</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Br 10114/6, 2v-75 (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Br 18397, 47-59v (Fragments)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Br II 6188, 1-86v (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-BRgs Ms. 110/80, 1-59v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-BRs 528, 47v-50v, 51</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-BRs 531, 1-51v (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">CH-BEb A 94.11, 1-2 (Fragments)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">CH-CObodmer 111, 42-45v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">CH-E 298, 23-145 (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">CH-E 358, 145-270 (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">CH-SGv 296, 47-108</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">CH-SH 108 (olim 106), 4-131v (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">CZ-Pu IX. C. 6, 64-135v (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">CZ-Pu XIX. C. 26, 41-135v (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-BAps Rep. 29/2, 1, 2 (Fragments)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-BAs Class. 9, 49-150</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-BAs Varia 1, 41v-42, 42r-v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-BHFr without shelfmark, I-IIv (Fragments)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-DS 1988, 178v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-ERu 66, 35-84v (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-ERu 2112.18, 1-2v (Fragments)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-KA K 504, 32r-v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-KNa W 331, 1v-189 (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-KNd 187, 33-56v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 367, 63-123v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 6006, 167-170 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 6361, 1v-58 (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 13021, 97-150</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 14272, 1v-62 (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 14465, 1-67v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 14523, 52v-117</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 14601, 41-52v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 18478, 61-115 (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 18480, 157-217 (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 18914, 32r, 33-38 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Rp 98, 364-368, 382-383 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Sl HB XI 33, 2-77v (Fragments)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-St. Blasien without shelfmark, o</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-TRb Hs. Abt. 95, 6, 93 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-W 72 Gud. Lat. 2°, 1-50 (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">E-Bac Ripoll 42, 6v-38v, 42 (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">E-Mn 9088, 41-94v (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">E-SAu 525, 525</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-AL 2, 119v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-AL 15, 139v-140 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-AUT 46 (olim 40 B), 1-64 (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-AVR 236, 1-82bis</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-AVR 237, 1-76</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-CA 172, 16va-b (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-CHRm 48, 1-87v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-CHRm 498, 125-140 (Fragments)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-CSS 32, 1-52</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-CV 184, 154v-167r (Fragments)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-LA 38 bis, 53-84</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 7181, 82v-136v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 7185, 125, 126-177</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 7199, 1-82v (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 7200, 1-93v (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 7201, 1-63</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 7202, 1-50 (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 7203, 8-104</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 7204, 1-51</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 7206, 1-46v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 7297, 55-92 (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 7361, 57-103</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 8663, 51v-57 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 10275, 1v-77 (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 13020, 1-58v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 13955, 60-105v (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 14080, 1-64 (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 16201, 83-124v (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 16652, 43-95 (Fragments)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 18514, 1-85</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Nouv. acq. lat. 1618, 1-69 (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-SAU 3, 4-58v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-SOM 738, 738 (Fragments)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ccc 260, 1-2v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Cssc 31, 98-119 (Fragments)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ctc R.15.22, 5-101v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Cu Ii. 3. 12, 61v-134v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Lbl Add. 22315, 65v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Lbl Arundel 77, 6v-62 (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Lbl Burney 275, 359v-390</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Lbl Harley 957, 1-2, 32r-v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Lbl Harley 3595, 50-56v (Extraits+ Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Lbl Harley 5237, 1-42v (Fragments)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Lbl Lansdowne 842 A-B, 107-163v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Lbl Royal 15.B.IX, 3-49v (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Llp 67, 96-172 (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ob Ashmole 1524, 57-101</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ob Auct. F.3.13, 67-90 (Fragments)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ob Canon. Class. Lat. 273, 1-62v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ob Seld. supra 25, 45-92v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Obac 306, 46-88v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Obac 317, 4-66</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Occ 118, 3-55v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Occ 224, 69v-113, 142-188v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ojec 4, 59-77 (Fragments)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Omc Lat. 19, 1v-78</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Otc 1, 1-85</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Otc 47, 71v-100v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-CATc D 39, 44-115v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-CEc S. XXVI.1, 61v-132v (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fl Ashburnham 1051, 96-135v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fn II. I. 406, 6-39v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-IVc 52, 41-86</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Lg 361, 3-66v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Ma C. 128 inf., 47-94 (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Ma Q. 9 sup., 1-60v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Mt N.646, 48-157</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Nf 166.XV.IV, 1-41v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Nn V.A.14, 49-109</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Pca 414, 35-79v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rli Rossi 231, 1-83v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat lat. 5904, 1-115</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat Ottob. 1815, 1-76</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat Ottob. 2069, 82v-119</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat Pal. lat. 1342, 1-104</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat Reg. lat. 1005, 1-38 (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat Reg. lat. 1146, 65v-66 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat Reg. lat. 1283, 111r-v (Extraits+ Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat Reg. lat. 1638, 1-125 (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat Reg. lat. 1840, 1-55v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Tn G.IV.31, 41-95v (Texte + Glossa maior)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-VEcap 208, 4-37 (Fragments)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Vnm Lat. Z. 271 (1642), 67-145v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Vnm Lat. Z. 333 (1648), 70v-151v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Vnm Lat. Z. 334 (1649), 61-104v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Vnm Lat. Z. 497 (1811), 155 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">L-Ln I:21, 1v-11v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">NZ-Wt MSR-05, 2v-81</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">PL-Kj 1861, 8-90v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">PL-WRu I.Q.43, 139 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">US-CAh Ms. Typ. 10, 1-61</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">US-Cn Case Ms. f. 9, 1-62v (Texte + Glossa maior)</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANOCC0001">
+      <pb n="[7]" />Compilatio Caroloruhensis</p>
+      <p id="ANOCC0002">... ad VIIII. Dyapason et diapente triplo constant, ut II IIII VI. Bis dyapason quadruplo perficitur, ut IIII VIII XVI. Dyapente ac diatesseron perficunt dyapason, ut VI VIII XII.</p>
+      <p id="ANOCC0003">Tonus in equa dividi non potest. Quod ut facillime probetur, conferantur numeri VIII et VIIII. Hos nullus numerus medius incidit. Qui binario multiplicati, fiunt bis VIII XVI, bis VIIII XVIII. Inter XVI autem ac XVIII unus naturaliter numerus intercidit qui est XVII. Igitur XVI ac XVIII collati tonum reddunt cuius proportionem decemseptem numerus medius non in aequalia partitur. Est enim maior ad XVI, minor ad XVIII. Est tamen minor pars decimaseptima quam decimasexta. Sed tamen utraque semitonia nuncupantur, non quod omnino semitonia ex aequo sint media, sed quod semum dici solet, quod ad integritatem usque non pervenit. Sed inter haec unum maius semitonium nuncupatur, aliud minus.</p>
+      <p id="ANOCC0004">Dyapason consonantia constat ex V tonis et duobus semitoniis, quae tamen non unum impleant tonum. Dyapente ex tribus tonis ac semitonio. Dyatesseron ex duobus tonis et semitonio.</p>
+      <p id="ANOCC0005">Dyapason in minimo numero efficitur ut I ad II, diapente ut II ad III, diatesseron ut III ad quattuor. Tonus ut VIII ad VIIII, semitonium ut CCtiLVI ad CCtosXLIII, quod ita probatur. Disponantur ex ordine quattuor termini CXCII CCXVI CCXLIII CCLVI. Comparate enim extremitates dyatesseron reddunt. Sed CCXVI ad CXCII comparati tonum, CCXLIII ad CCXVI comparati rursus alterum tonum, CCXLIII ad CCLVI collati semitonium reddunt. Est ergo semitonium secundum superficiem soni non secundum dimidium toni. Quod ex differentia eorum probatur, quae est tredecim qui octies ducti medietatem CCXLIII non videntur implere.</p>
+      <p id="ANOCC0006">Synaphe est quae coniunctio dicitur duorum tetracordorum vox media, superioris quidem acutissima, posterioris vero gravissima. Diezeuxis appellatur quae disiunctio dici potest quotiens duo tetrachorda toni medietate separantur.</p>
+      <p id="ANOCC0007">
+      <pb n="[8]" />Septem cordae VII planetas comparantur. Namque E saturno attributa est, F vero ioviali circulo consimilis est G marti tradidere. A medium sol obtinuit, b venus habet. C mercurius regit. D lunaris circuli tenet exemplum. Igitur contra Tullium saturnus gravissimo pro circuli latitudine, luna autem acutissimo pro circuli angustia movetur sono.</p>
+      <p id="ANOCC0008">Quoniam facillima est dupli descriptio optimam Nichomachus putat diapason consonantiam. Post hanc dyapente, quae medium tenet, deinde diapente ac dyapason, quae triplum, ceteraque secundum eundem modum.</p>
+      <p id="ANOCC0009">Tria sunt genera quae circa artem musicam versantur. Unum genus est quod instrumentis agitur. Aliud fingit carmina, tertium quod instrumentorum opus carmenque diudicat. Itaque duo priora genera quoniam nihil afferunt rationis a musica secernuntur. Solum tercium genus quod iudicandi peritiam sumit assumitur. Isque musicus est cui adest facultas secundum speculationem de omnibus generibus cantilenarum ac de poetarum carminibus iudicandi.</p>
+      <p id="ANOCC0010">In musica arte non est aurium sensui dandum omne iudicium sed exhibenda est etiam ratio quae errantem sensum regat ac temperet, qua labens sensus deficiensque veluti bacula innitatur. Nam ut singulae artes habent instrumenta quaedam, quibus partim confuse aliquid informent, ut asciculum, partim vero ut integrum deprehendant ut circinum, ita etiam armonica vis habet duas iudicii partes, unam quidem huiusmodi, per quam sensu conprehendit subiectarum differentias vocum, aliam vero per quam ipsarum differentiarum integrum modum mensuramque consideret. Huiusmodi igitur instrumentum in quo rationis adhibito modo sonorum differentiae perquiruntur vocatur monocordum sive armonica regula. Cuius ea diffinitur intentio ut nihil auribus rationique possit esse contrarium sed id quod sensus iudicat, ratio quoque perpendat, et ita ratio proportiones inveniat, ut ne sensus reclamet, duorumque horum concordia omnis armonicae intentio misceatur.</p>
+      <p id="ANOCC0011">Continue voces ab harmonica facultate separantur, discrete vero, id est dissimiles eidem subiciuntur. Potest enim distantium sibique dissimilium vocum differentia deprehendi, in quibus, quae iunctae efficere melos possunt, emmeles, id est apte melo, ekmeleis autem, id est absque melo, quibus iunctis melos effici non potest.</p>
+      <p id="ANOCC0012">
+      <pb n="[9]" />Pitagorici diapason ac diatesseron consonanciam esse non estimant quoniam non in superparticulari vel multiplici cadit comparatione, sed in multiplici superpartiente. Est enim haec proportio vocum ut VIII ad III. Si quis enim horum in medio IIII ponat, efficiet terminos hos VIII IIII III. Quorum octo ad quattuor diapason efficiunt consonantiam, quattuor ad III diatessaron, octo vero ad III in multiplici superpartiente constituitur.</p>
+      <p id="ANOCC0013">Diapason compositum cum diatesseron quamvis cadat in superpartiens genus tamen consonantia esse probatur hoc modo. Quoniam diapason consonantia talem vocis efficit coniunctionem, ut unus atque idem nervus esse videatur. Quocirca si qua consonantia fuerit addita, integra inviolataque servatur. Ita enim diapason consonantiae additur tamquam uni nervo.</p>
+      <p id="ANOCC0014">Vocum alie sunt unisone, aliae equisone aliae consonae, aliae emmelis, aliae dissonae, alie ekmelis. Et unisonae quidem sunt quae singillatim pulsae unum atque eundem reddunt sonum. Aequisonae vero quae simul pulsae unum ex duobus atque simplicem efficiunt sonum, ut est diapason, eaque duplicata quae est bis diapason. Consonae autem sunt quae compositum permixtumque suavem tamen efficiunt sonum ut diapente et diatessaron. Emmelis autem sunt quaecunque consonae quidem non sunt, possunt tamen aptari recte ad melos, ut tonus et ceterae intervallorum species. Dissonae vero sunt, quae non permiscent sonos atque insuaviter feriunt sensum. Ekmelis autem quae non recipiuntur in consonantiarum coniunctione.</p>
+    </body>
+  </text>
+</TEI>

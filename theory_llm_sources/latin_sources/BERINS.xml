@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Institutio Sancti Bernardi abbatis Clareuallis quomodo cantare et psallere debeamus</title>
+        <title type="abbrev">BERINS</title>
+        <author>Bernardus abbatis Clareuallis</author>
+        <date notBefore="1100" notAfter="1199">12th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Peter Slemon</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Mark Butler</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>2001</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Chrysogonus Waddell, "A Plea for the 'Institutio Sancti Bernardi quomodo cantare et psallere debeamus,'" in 
+<emph>Saint Bernard of Clairvaux: Studies Commemorating the Eighth Centenary of His Canonization</emph>, ed. M. Basil Pennington, Cistercian Studies Series, no. 28 (Kalamazoo, MI: Cistercian Publications, 1977), 187–88.
+</bibl>
+        <bibl type="work">
+          
+<title>Ps.-Bernardus Clarevallensis: Institutio s. Bernardi abbatis Clarevallis quomodo cantare et psallere debeamus</title>
+          
+<idno type="LML">ANON. Cist. III</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">B-Br 1079/84, 100v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">CH-A Ms. Wett Q 5, 87-98v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 933, 101</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 14506, 336</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 16662, 70v-71</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Nouv. acq. lat. 372, 66v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Lbl Add. 16975, 162-165v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Lbl Harley 5235, 127r-v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Lbl Royal 5.A.VI, 30v-31</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rc 361, 68v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat Ottob. 176, 119</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">PL-WRu I.F.397, 282v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">S-Uu C 203, 140</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="BERINS0001">
+      <pb n="[187]" />INSTITUTIO SANCTI BERNARDI ABBATIS CLAREUALLIS QUOMODO CANTARE ET PSALLERE DEBEAMUS</p>
+      <p id="BERINS0002">Venerabilis pater noster beatus Bernardus abbatis clareuallis precepit monachis hanc formam candendi tenere, affirmans hoc deo et angelis placere, ita dicens:</p>
+      <p id="BERINS0003">Psalmodiam non nimium protrahamus, sed rotonde et uiua uoce cantemus. Metrum et finem uersus simul intonemus et simul dimittamus. Punctum nullus teneat, sed cito dimittat. Post metrum bonam pausam faciamus. Nullus ante alios incipire et nimis currere presumat, aut post alios nimium trahere uel punctum tenere. Simul cantemus, simul pausemus, semper auscultando.</p>
+      <p id="BERINS0004">
+      <pb n="[188]" />Quicumque incipit antiphonam aut psalmum aut hymnum aut responsorium aut alleluia, unam aut duas partes solus tractim dicat, aliis tacentibus; et ab eo loco quo ille dimittit, alii incipiant, non repetentes quod ille iam dixit. Similiter teneatur dum cantor reincipit antiphonam, alleluia, et responsorium. Hoc ubique seruetur, ne alter redicat quod iam ab altero dictum est.</p>
+      <p id="BERINS0005">Dum hymnos, alleluia, aut responsorium cantemus, in clausulis aliquantulum expectemus, maxime tamen in festiuis diebus.</p>
+    </body>
+  </text>
+</TEI>

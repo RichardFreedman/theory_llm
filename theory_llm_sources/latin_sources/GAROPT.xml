@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Optima introductio in contrapunctum pro rudibus</title>
+        <title type="abbrev">GAROPT</title>
+        <author>Johannes de Garlandia</author>
+        <date notBefore="1200" notAfter="1299">13th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>C. Matthew Balensuela</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Sandra Pinegar</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1990</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>Scriptorum de musica medii aevi nova series a Gerbertina altera</emph>, 4 vols., ed. Edmond de Coussemaker (Paris: Durand, 1864-76; reprint ed., Hildesheim: Olms, 1963), 3:12–13.
+</bibl>
+        <bibl type="work">
+          
+<title>Ps.-Philippus de Vitriaco: Tractatus de contrapuncto</title>
+          
+<idno type="LML">CONTR. Volentibus</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">CH-E 689, 45r-v, 46-50</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fl Plut. XXIX. 48, 86-88v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-PIu 606 (IV.9), II/51</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rv B 83, 1-8v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat lat. 5321, 23-25va</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="GAROPT0001">
+      <pb n="[12]" />Johannis de Garlandia.</p>
+      <p id="GAROPT0002">Optima introductio in contrapunctum pro rudibus.</p>
+      <p id="GAROPT0003">Capitulum I.</p>
+      <p id="GAROPT0004">[De speciebus.]</p>
+      <p id="GAROPT0005">Volentibus introduci in arte contrapunctus, id est notam contra notam, considerare debemus, quod alique sint prenotanda. Primo et principaliter quod ab una littera que clavis est usque ad suam similem proximam dicitur duplex vel octava. Primo quando cantus descendit, discantus debet descendere, et e contrario quando cantus descendit, discantus debet ascendere, nisi aliis rationibus condignis evitetur. Considerando quod novem sunt species quibus utimur generaliter in contrapunctu scilicet nota contra notam, videlicet unisonus tertia, quinta, sexta, octava, decima, duodecima, tertiadecima et quintadecima.</p>
+      <p id="GAROPT0006">Istarum autem specierum quinque sunt perfecte scilicet unisonus, tertia, quinta, sexta, octava, duodecima et quintadecima; et dicuntur perfecte, quia perfecte et complective consonant auribus audientium, et cum ipsis omnis discantus habet incipi et finiri. Et nunquam istarum specierum perfectarum duo debent sequi una post aliam, id est, duo unisonus, duo quinte, due octave, due duodecime et due quintedecime non debent sequi una post aliam, sed due diverse species imperfecte vel plures licite sequuntur una post aliam.</p>
+      <p id="GAROPT0007">Quatuor autem alie sunt imperfecte, videlicet tertia, sexta, decima et tertiadecima. Et dicuntur imperfecte, quia non ita imperfecte sonant ut species perfecte; et cum istis speciebus imperfectis possumus ascendere vel descendere in discantu cum tenore ad libitum; et interponuntur speciebus perfectis in compositione sine dissolutu.</p>
+      <p id="GAROPT0008">Et possumus duas species imperfectas ordinare ascendendo vel tres aut quatuor vel plures, si 
+      <pb n="[13]" />necesse fuerit, descendendo autem due vel tres vel quatuor vel plures semper speciebus perfectis sequentibus.</p>
+      <p id="GAROPT0009">Etiam quando cantus ascendit vel descendit per quatuor voces vel quinque, licitum est nobis ascendere vel descendere in discantu per unam vocem tantum cum speciebus perfectis, et non plures.</p>
+      <p id="GAROPT0010">Si autem cantus vel ascendit vel descedit per sex vel per septem, licitum est nobis ascendere vel descendere cum tenore et cum speciebus perfectis, ut discantus per duas voces.</p>
+      <p id="GAROPT0011">Si autem cantus ascendit vel descendit per octo voces, licitum est nobis ascendere vel descendere cum tenore etiam cum discantu cum speciebus perfectis per tres voces. Et hoc secundum diversos ascensus vel descensus cantus.</p>
+      <p id="GAROPT0012">Capitulum II.</p>
+      <p id="GAROPT0013">De ordinatione specierum.</p>
+      <p id="GAROPT0014">Sequitur de ordinatione specierum cantu descendente. Prenotandum est quod generaliter post unisonum sequitur tertia et aliquando quinta et aliquando sexta et etiam octava. Post tertiam sequitur generaliter quinta et aliquando octava. Post quintam sequitur sexta et aliquando octava et etiam unaqueque species. Post sextam sequitur octava. Post, generaliter sequitur octavam et aliquando decimam. Post decimam generaliter sequitur duodecima. Post duodecimam generaliter sequitur tertiadecima. Post tertiadecimam sequitur generaliter quintadicima. Post quintadicimam sequitur tertiadecima, et e contrario, quia sicut se habent species cantu descendente, ita se habent cantu ascendente, et e contrario, et secundum diversos ascensus et descensus cantus.</p>
+      <p id="GAROPT0015">Prenotandum quod quandocunque ordinantur due species vel tres, cantu ascendente, sequitur unisonus. Cantu autem descendente, sequitur quinta, ita ut superius dictum est. Post quintam sequitur octava; nisi necessitas fuerit.</p>
+      <p id="GAROPT0016">Quandocunque ordinantur due vel tres decime, cantu ascendente, sequitur in fine octava; cantu autem descendente, sequitur decima.</p>
+      <p id="GAROPT0017">Et dicere de contrapunctu, id est de nota contra notam pro instructione rudium sufficit hoc.</p>
+      <p id="GAROPT0018">Explicit optima regula contrapunctus pro rudibus.</p>
+    </body>
+  </text>
+</TEI>

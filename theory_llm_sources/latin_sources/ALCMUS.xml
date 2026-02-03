@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Musica</title>
+        <title type="abbrev">ALCMUS</title>
+        <author>Alcuinus, Flaccus</author>
+        <date notBefore="500" notAfter="799">6th-8th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Stephen E. Hayes</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Peter M. Lefferts</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1992</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>Scriptores ecclesiastici de musica sacra potissimum</emph>, 3 vols., ed. Martin Gerbert (St. Blaise: Typis San-Blasianis, 1784; reprint ed., Hildesheim: Olms, 1963), 1:26–27.
+</bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ALCMUS0001">
+      <pb n="[26]" />Flacci Alcuini, seu Albini musica.</p>
+      <p id="ALCMUS0002">Octo tonos in Musica consistere musicus scire debet, per quos omnis modulatio quasi quodam glutino sibi adhaerere videtur. Tonus est minima pars musicae regulae. Tamen sicut minima pars Grammaticae littera, sic minima pars Arithmeticae unitas: et quomodo litteris oratio, unitatibus acervus multiplicatus numerorum surgit, et erigitur; eo modo et sonorum tonorumque linea omnis cantilena modulatur.</p>
+      <p id="ALCMUS0003">Definitur autem ita: Tonus est totius constitutionis harmonicae differentia et quantitas, quae in vocis accentu sive tenore consistit. Nomina autem eorum apud nos usitata, ex auctoritate atque ordine sumpsere principia: nam quatuor eorum authentici vocantur. Ad principium eorum sonus refertur, eoquod aliis quatuor quidam ducatus et magisterium ab eis praebeatur. Unde et primi altiores, secundi inferiores. Authenticum [authentikon] graeca lingua auctorem sive magistrum dicimus: unde et libros antiquissimos atque firmos authenticos vocamus: utpote qui pro sui firmitate aliis possunt auctoritatem magisteriumque praebere.</p>
+      <p id="ALCMUS0004">Primus autem protus [protos] vocatur, id est, primus (scilicet tonus). Secundus autem deuterus [deuteros]. Deuteros autem eadem graeca lingua secundarius sive recapitulatio vocatur. Unde et Deuteromium lex secunda, vel legis recapitulatio vocatur. Tertius tritus [tritos] dicitur, qui similiter, eo 
+      <pb n="[27]" />quod sit tertius in ordine, triti nuncupatur nomine. Quartus Tetrachius eodem, quo caeteri, modo ab ordine suum vocabulum sumpsit; quia videlicet quartum principatus locum obtinet: tetra enim graeci quatuor dicunt.</p>
+      <p id="ALCMUS0005">Plagii ([plagioi] obliqui, seu laterales) autem coniuncte dicuntur omnes quatuor. Quod nomen significare dicitur pars sive inferiores eorum: quia videlicet quatuor quaedam partes sunt eorum, dum ab eis ex toto non recedunt; et inferiores, quia sonus eorum pressior est, quam superiorum.</p>
+    </body>
+  </text>
+</TEI>

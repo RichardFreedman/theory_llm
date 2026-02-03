@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>De diversis maneriebus in musica mensurabili</title>
+        <title type="abbrev">ANO7DED</title>
+        <author>Anonymous VII</author>
+        <date notBefore="1300" notAfter="1399">14th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Luminita Florea Aluas</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Bradley Jon Tucker</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Jan Herlinger</persName>
+      </respStmt>
+      <date>1991</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>Scriptorum de musica medii aevi nova series a Gerbertina altera</emph>, 4 vols., ed. Edmond de Coussemaker (Paris: Durand, 1864-76; reprint ed., Hildesheim: Olms, 1963), 3:404–8.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: Fragmentum cod. Deodatensis (Saint-Dié)</title>
+          
+<idno type="LML">ANON. Deodat.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">F-SDI 42, 123-126v</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANO7DED0001">
+      <pb n="[404]" />Anonymi VII</p>
+      <p id="ANO7DED0002">De diversis maneriebus in musica mensurabili</p>
+      <p id="ANO7DED0003">Sic formantur breves plicate:</p>
+      <p id="ANO7DED0004">[ClefC3,Bpssncsdx,Lpdsn,Bcssnpsdx,Lpdsn,Bpssncsdx,Bpssncsdx on staff4]</p>
+      <p id="ANO7DED0005">Sic formantur semibreves in baculo et in quadro, quarum nisi duo pro tempore in qualibet manerie ire possunt:</p>
+      <p id="ANO7DED0006">[ClefC3,Lig2cssnod,Lig2cssnod,Lig2cssnod,Lig2cssna,Lig2cssna,Lig2cssnod,Lig2cssna on staff4]</p>
+      <p id="ANO7DED0007">Omnis nota in baculo posita descendendo sine tractu in capite longa dicitur, in fine brevis, ut:</p>
+      <p id="ANO7DED0008">[ClefC3,Lig2od,Lig2od,Lig2od,Lig2od,Lig2od on staff4]</p>
+      <p id="ANO7DED0009">Omnis nota tractu carens ascendendo in baculo formata brevis est:</p>
+      <p id="ANO7DED0010">[ClefC3,Lig2oa,Lig2oa,Lig2oa,Lig2oa,Lig2oa on staff4]</p>
+      <p id="ANO7DED0011">Primus modus constat ex omnibus longis perfectis vel ex longa imperfecta et brevi:</p>
+      <p id="ANO7DED0012">[ClefF3,L,L,L,L,LP,L,B,L,LP,L,Lig2cssnod,L,LP,Lig2od,Lig2od,L,L on staff4]</p>
+      <p id="ANO7DED0013">Secundus modus e contrario ex brevi et longa imperfecta:</p>
+      <p id="ANO7DED0014">[ClefF3,B,L,B,L,BP,L,BP,B,L,BP,B,L,Lig2art,Lig2art,Lig2cssnod,L,S,S,S,S,L,L on staff4]</p>
+      <p id="ANO7DED0015">Tertius modus ex longa perfecta et brevi et altera brevi:</p>
+      <p id="ANO7DED0016">[ClefF3,L,B,B,Bpssncsdx,Lig2cdsnod,L,Lig2cdsnod,L,Lig3ad,Lig2cssnod,L,L,Lig4cssnodaart;ClefF3,S,S,S,S,L,Lig2d,LP,L,B,B,Lig2d,Lig2d,Lig2d,L on staff4]</p>
+      <p id="ANO7DED0017">Quartus modus ex brevi et altera brevi et longa perfecta:</p>
+      <p id="ANO7DED0018">[ClefF3,Lig3cdsnodart,B,B,L,Lig3ad,Lig3cdsndod,L,Lig3cdsndd,Lig3cdsndd,Lig6cdsnddddd,L,L,L on staff4]</p>
+      <p id="ANO7DED0019">Quintus modus constat ex longis, brevibus et semibrevibus:</p>
+      <p id="ANO7DED0020">[ClefF3,L,L,L,Bcdsnpddx,L,Lig3cssnoda,S,S,S,L,S,S,S,S,L,BP,L,BP,Lig2acddx on staff4]</p>
+      <p id="ANO7DED0021">Quod spatia pausa tenet, tot tempora valet:</p>
+      <p id="ANO7DED0022">[BP,2LP,3LP,4BP,4BP,3LP,2LP,BP; BP,2LP,3LP,4BP,4BP,3LP,2LP,BP on staff5]</p>
+      <p id="ANO7DED0023">Si juxta longam fit pausa duorum temporum, tunc longa valet duo tempora, et duplex longa quatuor, nisi per punctillum defendatur.</p>
+      <p id="ANO7DED0024">Nota quod quando tres breves inter duas longas 
+      <pb n="[405]" />inveniuntur, tunc quelibet brevis est unius temporis et quelibet longa est trium temporum nisi ante vel post aliquid adjiciatur.</p>
+      <p id="ANO7DED0025">Item nota quod quando quinque breves inter duas longas inveniuntur, tunc pro perfectione numerantur tres prime breves; aliarum brevium prima brevis, secunda altera brevis:</p>
+      <p id="ANO7DED0026">[ClefF3,L,LP,MX,LP,L,Lig2cdsnod,B,B,B,L,LP on staff4]</p>
+      <p id="ANO7DED0027">Hic vadunt semibreves secundum quod puntillus distinguit:</p>
+      <p id="ANO7DED0028">[ClefF3,B,Lig2cssnod,Lig2cssna,S,S,pt,S,S,S,S,pt,S,S,S,pt,S,S,S,S,pt,Lig2cssnod,S,S,S,pt on staff4]</p>
+      <p id="ANO7DED0029">Due semibreves in brevi manerie sunt ambe equales et vadunt pro tempore:</p>
+      <p id="ANO7DED0030">[ClefC3,S,S,Lig2cssna,Lig2cssnod,S,S,Lig2cssna,S,S,B on staff4]</p>
+      <p id="ANO7DED0031">Trium prima tenetur:</p>
+      <p id="ANO7DED0032">[ClefF3,B,S,S,S,pt,S,S,S,pt,S,S,S,lig2cdsnod on staff4]</p>
+      <p id="ANO7DED0033">Quatuor sunt equales:</p>
+      <p id="ANO7DED0034">[ClefF3,B,S,S,S,S,pt,S,S,S,S,pt,S,S,S,S,pt,Lig2cssnod,S,S,S,Lig2cdsnod on staff4]</p>
+      <p id="ANO7DED0035">Quinque prima et due ultime minores, alie minime:</p>
+      <p id="ANO7DED0036">[ClefF3,B,S,M,M,S,S,pt,S,M,M,S,S,B,S,M,M,S,S,pt,S,M,M,ClefF3,S,S,S,M,M,S,S,B on staff4]</p>
+      <p id="ANO7DED0037">Tres sunt semibreves, secundum Magistrum Philippum Parisiensem, per quas mensura duodenaria et novenaria discernitur, scilicet major, ut hic: [S,S]; minor, ut hic: [S,M]; minima, ut hic: [M]. Major caret tractu et valet tres minimas, et sequitur alia major sine tractu, ut supra; sicut longa precedit longam, ut hic: [L,L]. Minor caret tractu sicut et major et sequitur minima, ut supra; sicut longa juxta brevem, ut hic: [L,B]. Minor valet duas minimas. Minima est caudata ascendendo.</p>
+      <p id="ANO7DED0038">In istis maneriebus de novenaria et senaria, nulla semibrevis caudatur ex parte inferiori.</p>
+      <p id="ANO7DED0039">Brevis in ista manerie duodenaria valet duas majores semibreves, id est sex minimas, quia brevis in novenaria valet tres majores semibreves, id est, novem minimas. Semibreves in baculo vel in quadro in manerie duodenaria omnes sunt majores semibreves. Et in manerie novenaria prima major, secunda duplex major. Si juxta brevem sit minima, tunc brevis valet quinque minimas. Et si juxta brevem sint due minime, tunc brevis valet quatuor minimas:</p>
+      <p id="ANO7DED0040">Quot modis in senaria manerie fiant due semibreves pro tempore:</p>
+      <p id="ANO7DED0041">[ClefF3,Lig2pssnod,S,S,pt,Lig2cssna,S,S,pt,B,LP,B,M,B,M,pt,B,M,pt,B,LP,M,B,ClefF3,M,B,pt,B,Lig2pssnod,Bcsdx,Lig2cssna,S,S,S,S,B,LP,Lig2cssnod,Lig2cssna,rob,Lig2pssnod,S,S,Lig2pssnod,Lig2cssna,B on staff4]</p>
+      <p id="ANO7DED0042">Quot modis tres:</p>
+      <p id="ANO7DED0043">[ClefF3,B,S,S,M,pt,M,S,S,pt,S,M,S,Bcdsnpddx,LP,B,M,M,pt,B,M,M,B,LP,ClefF3,S,S,pt,S,S,pt,S,S,Lig3pssnodart on staff4]</p>
+      <p id="ANO7DED0044">Quot modis quatuor:</p>
+      <p id="ANO7DED0045">[ClefC3,S,S,M,pt,S,S,S,Lig3cssnaod,Lig4cssnadod;ClefF3,B,S,M,S,M,pt,S,M,S on staff4]</p>
+      <p id="ANO7DED0046">
+      <pb n="[406]" />[ClefF3,M,Lig2cssnod,LP,M,S,M,S,pt,M,S,M,S,pt,Lig3cdsnoda,S,M,M,M,pt,M,M,M,B,L on staff4]</p>
+      <p id="ANO7DED0047">Quot modis quinque:</p>
+      <p id="ANO7DED0048">[ClefF3,M,M,S,M,pt,M,S,M,M,pt,B,LP,S,S,M,M,pt,M,M,S,S,pt,Lig3pdsnoda,LP,ClefF3,S,M,S,M,S,M,M,S,B;M,S,M,M,pt,S,M,M,M,pt,B,LP,ClefF3,M,S,M,S,pt,S,S,pt,M,M,M,S,pt,Lig2cdsnod;B,M,M,M,S,M,pt,M,M,ClefF3,M,S,M,B,LP,B,M,M,M,M,S,pt,M,M,M,M,S,B,LP,B,M,M on staff4]</p>
+      <p id="ANO7DED0049">Quot modis sex:</p>
+      <p id="ANO7DED0050">[ClefF3,S,M,M,pt,M,M,S,M,M,B,LP,B,M,pt,S,M,M,M,pt,S,M,M,M,ClefF3,M,Lig2cdsnod,LP,M,M,S,M,M,pt,S,M,M,M,M,Lig2cdsnod,LP,B,M,M,M,M,ClefF3,M,M,B,LP,B,M,M,M,M,M,M,B,LP,M,M,M,M,M,M,L on staff4]</p>
+      <p id="ANO7DED0051">In novenaria manerie tres majores semibreves vadunt pro tempore, ut hic: [S,S,S].</p>
+      <p id="ANO7DED0052">Vel tres minores et tres minime, ut hic: [S,M,S,M,S,M].</p>
+      <p id="ANO7DED0053">Vel novem minime, ut hic: [M,M,M,M,M,M,M,M,M].</p>
+      <p id="ANO7DED0054">Brevis in novenaria manerie valet tres majores semibreves.</p>
+      <p id="ANO7DED0055">Semibrevium in baculo vel in quadro positarum, prima major, secunda duplex major, ut hic:</p>
+      <p id="ANO7DED0056">[Lig2cssnod,Lig2cssna,Lig2cssnod on staff3]</p>
+      <p id="ANO7DED0057">Senaria maneries aliquando cognoscitur per hoc signum, S; novenaria, per N; octonaria, per O; duodenaria, per D.</p>
+      <p id="ANO7DED0058">Quot modis due semibreves pro tempore in novenaria manerie:</p>
+      <p id="ANO7DED0059">[ClefF3,Lig2cssnod,Lig2cssna,S,S,pt,S,S,pt,Lig2cdsnod,Lig2cssnod,Lig2cssna,Lig2cdsnd on staff4]</p>
+      <p id="ANO7DED0060">Quot modis fiant tres:</p>
+      <p id="ANO7DED0061">[ClefF3,B,S,S,S,pt,S,S,S,pt,S,S,S,Lig2a,LP,B,B,S,M,pt,M,S,B,pt,B,LP,ClefF3,B,M,M,pt,M,M,Lig3ad on staff4]</p>
+      <p id="ANO7DED0062">Quot modis quatuor:</p>
+      <p id="ANO7DED0063">[ClefF3,B,S,S,M,S,pt,S,M,S,S,pt,Lig2cdsnod,LP,M,S,S,S,pt,S,S,M,ClefF3,S,pt,Lig2cdsnod,LP,B,S,M,S,S,Lig2cdsnod on staff4]</p>
+      <p id="ANO7DED0064">Quot modis quinque:</p>
+      <p id="ANO7DED0065">[ClefF2,B,S,S,M,S,M,pt,S,M,S,S,pt,Lig2acddx on staff4]</p>
+      <p id="ANO7DED0066">Quot modis sex:</p>
+      <p id="ANO7DED0067">[ClefF3,M,S,S,M,S,pt,M,M,M,S,S,S,pt,S,S,M,M,M,pt,Lig2cdsnod;ClefF3,B,S,M,S,M,S,M,pt,S,M,S,M,S,M,L on staff4]</p>
+      <p id="ANO7DED0068">Quot modis septem:</p>
+      <p id="ANO7DED0069">[ClefC3,S,M,S,S,M,S,pt,S,M,M,S,S,M,Lig3ad;ClefF3,B,M,M,M,S,M,M,M,pt,S,M,M,M,M,M,S,pt,Lig2cdsnod on staff4]</p>
+      <p id="ANO7DED0070">Quot modis octo:</p>
+      <p id="ANO7DED0071">
+      <pb n="[407]" />[ClefF3,M,M,M,S,M,M,S,pt,M,S,M,S,M,M,S,L;ClefC3,M,M,M,S,M,M,M,M,pt,Lig2cdsnod on staff4]</p>
+      <p id="ANO7DED0072">Quot modis novem:</p>
+      <p id="ANO7DED0073">[ClefC1,M,M,M,S,M,M,M,M,Lig2cdsnod;ClefC3,B,M,M,M,M,M,M,M,M,M,Lig3ad on staff4]</p>
+      <p id="ANO7DED0074">In octonaria manerie due semibreves pro tempore sunt equales, et sunt majores, quarum quelibet valet quatuor minimas, ut hic:</p>
+      <p id="ANO7DED0075">Trium prima major:</p>
+      <p id="ANO7DED0076">[ClefF3,S,S,pt,Lig2cssnod,Lig2cssna,S,S,pt,L;ClefC3,S,S,S,pt,S,S,S,pt,Lig2a on staff4]</p>
+      <p id="ANO7DED0077">Quatuor quelibet minor et valet duas minimas:</p>
+      <p id="ANO7DED0078">[ClefC3,S,S,S,S,pt,S,S,S,S,pt,Lig2cdsnod on staff4]</p>
+      <p id="ANO7DED0079">Quinque, prima et due ultime minor est, alie minime, ut hic:</p>
+      <p id="ANO7DED0080">[ClefC2,S,S,S,S,S,pt,S,S,S,S,S,L on staff4]</p>
+      <p id="ANO7DED0081">Sex, prima et quarta minores, alie minime:</p>
+      <p id="ANO7DED0082">[ClefC3,S,S,S,S,S,S,pt,S,S,S,S,S,S,pt,Bcsdx on staff4]</p>
+      <p id="ANO7DED0083">Septem, minor prima, alie minime:</p>
+      <p id="ANO7DED0084">[ClefC3,S,S,S,S,S,S,S,pt,Lig2cdsnod on staff4]</p>
+      <p id="ANO7DED0085">Quot modis fiant due semibreves in octonaria pro tempore:</p>
+      <p id="ANO7DED0086">[ClefC3,Lig2cssnod,S,S,pt,Lig2cssna,S,S,pt,Lig2cssnod on staff4]</p>
+      <p id="ANO7DED0087">Quot modis fiant tres:</p>
+      <p id="ANO7DED0088">[ClefC3,B,M,S,S,pt,S,M,S,pt,B,M,M,Lig2cdsnod on staff4]</p>
+      <p id="ANO7DED0089">Quot modis fiant quatuor:</p>
+      <p id="ANO7DED0090">[ClefC3,S,S,S,S,pt,B,M,M,M,M,pt,L on staff4]</p>
+      <p id="ANO7DED0091">Quot modis fiant quinque:</p>
+      <p id="ANO7DED0092">[ClefC3,S,M,M,S,S,pt,M,M,M,M,M,pt,Lig3ad on staff4]</p>
+      <p id="ANO7DED0093">Quot modis fiant sex:</p>
+      <p id="ANO7DED0094">[ClefC3,B,pt,S,S,S,S,S,pt,Lig3aacddx on staff4]</p>
+      <p id="ANO7DED0095">Quot modis septem:</p>
+      <p id="ANO7DED0096">[ClefC3,B,S,M,M,M,M,M,M,pt,B,S,M,M,M,M,M,M,Lig2cdsnod on staff4]</p>
+      <p id="ANO7DED0097">Quot modis octo:</p>
+      <p id="ANO7DED0098">[ClefC3,B,M,M,M,M,M,M,M,M,Lig2cdsnd on staff4]</p>
+      <p id="ANO7DED0099">In duodenaria manerie duarum semibrevium pro tempore, prima major secunda, duplex major, et si juxta brevem sit major semibrevis, tunc brevis valet duas majores semibreves:</p>
+      <p id="ANO7DED0100">[Lig2cssnod,S,S,L on staff3]</p>
+      <p id="ANO7DED0101">
+      <pb n="[408]" />Tres sunt omnes majores:</p>
+      <p id="ANO7DED0102">[ClefC3,S,S,S,pt,M,M,M,pt,S,S,S,L on staff4]</p>
+      <p id="ANO7DED0103">Quatuor, prime due minores et alie sequentes majores:</p>
+      <p id="ANO7DED0104">[ClefC3,S,S,S,S,pt,S,S,S,S,pt,L on staff4]</p>
+      <p id="ANO7DED0105">Quinque, quatuor prime minores:</p>
+      <p id="ANO7DED0106">[ClefC2,S,S,S,S,S,rob,S,S,S,S,S,pt,Lig2cdsnd on staff4]</p>
+      <p id="ANO7DED0107">... Si due breves inter duas longas inveniuntur, nisi fuerit punctus divisionis, secunda brevis alteratur; et si fuerit punctus divisionis inter duas breves, prima brevis imperficit longa a parte anteriori.</p>
+      <p id="ANO7DED0108">Brevis recta vocatur carens omni tractu. Brevis plica vocatur habens duos tractus tam ascendendo quam descendendo.</p>
+      <p id="ANO7DED0109">Semibreves formantur ad formam losange sive orde.</p>
+      <p id="ANO7DED0110">Item Dominus et Magister Philippus de Vitriaco ad confirmandum et declarandum artem predictam, in arte nova ordinavit quod est modus et tempus et que sunt prolationes.</p>
+      <p id="ANO7DED0111">Dicit predictus quod due sunt prolationes, scilicet major et minor. Iste due prolationes possunt dividi in quatuor; nam prima prolatio est, quando naturalis longa valet tres breves et brevis tres semibreves et semibrevis tres minimas; et si tres minime dividi possunt in quatuor partes, sed non equales.</p>
+      <p id="ANO7DED0112">Ista prolatio dicitur esse major de modo et de tempore perfecto.</p>
+      <p id="ANO7DED0113">Secunda prolatio dicitur quando brevis naturalis valet tres semibreves et semibrevis duas minimas; et si sunt sex minime que dividi possunt in duodecim partes, sed non equales, ut in "Philomena".</p>
+      <p id="ANO7DED0114">Tertia prolatio est quando brevis naturalis valet duas semibreves et semibrevis tres minimas; que possunt dividi per quatuor partes, sed non equales. Tunc dici potest quod sit tempus imperfectum et modus perfectus.</p>
+      <p id="ANO7DED0115">Quarta prolatio est quando brevis naturalis valet duas semibreves, et semibrevis duas minimas que sunt equales proferende; et dicitur esse tempus imperfectum minoris prolationis modi imperfecti; et hoc totum patet.</p>
+      <p id="ANO7DED0116">Ubicumque brevis valet tres semibreves, et semibrevis tres minimas, dicitur tempus perfectum majoris prolationis modi perfecti.</p>
+      <p id="ANO7DED0117">Item quando brevis naturalis valet tres semibreves, et semibrevis valet duas minimas, dicitur tempus perfectum minoris prolationis modi imperfecti.</p>
+      <p id="ANO7DED0118">Item quando brevis naturalis valet duas semibreves, et semibrevis naturalis tres minimas, est tempus imperfectum majoris prolationis modi perfecti.</p>
+    </body>
+  </text>
+</TEI>

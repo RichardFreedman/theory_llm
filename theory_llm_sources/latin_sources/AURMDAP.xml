@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Musica disciplina, cap. VIII-XVI</title>
+        <title type="abbrev">AURMDAP</title>
+        <author>Aurelianus Reomensis</author>
+        <date notBefore="800" notAfter="1099">9th-11th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Stephen E. Hayes</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Peter M. Lefferts</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Angela Mariani</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1992</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>Aureliani Reomensis Musica disciplina</emph>, ed. Lawrence Gushee, Corpus scriptorum de musica, vol. 21 ([Rome]: American Institute of Musicology, 1975), 136–53. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Aurelianus Reomensis: Musica disciplina</title>
+          
+<idno type="LML">AURELIAN.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">A-Wn Cod. 683, 30va-b (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">A-Wn Cod. 2269, 7v-8 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">A-Wn Cod. 5271, 38v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">A-Wn Cod. 13637, 40 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Br 10078/95, 93-96v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-GOl Memb. I 58, 14v-15 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 19489, 50-52, 52-55 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-PO 2805, 97-104v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-St. Blasien without shelfmark, b (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 776, 147ra-vb (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 1084, 159-160v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 7211, 17, 17v, 19r-v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 7211, 134v-144v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-TLm 176, 41 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-VAL 148 (olim 141, B. 511), 57v-89</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Lbl Arundel 77, 1-3 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ob Canon. Misc. 212, 40-52</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Obac 173A, 74r-v, 79v-80v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ojc 188, 71v-72 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-CEc S. XXVI.1, 194 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fl Ashburnham 1051, 71b-71vb (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fl Plut. XXIX. 48, 58v-71v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fn Conv. Soppr. F. III. 565, 93-94v, 97v-98, 98-99v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fr 652, 104v-105v, 108v-109, 109-110v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-MC 318, 56-58, 58-62 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-MC 439, 251 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rc 420, 18-65v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat Barb. lat. 307, 29rb (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat lat. 4162, 53r-v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat Pal. lat. 1346, 25-54</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat Reg. lat. 378, (copy of I-MC 439) (Extraits)</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="AURMDAP0001">
+      <pb n="[136]" />[Capitulum VIII]</p>
+      <p id="AURMDAP0002">[f40r in marg.] Propitia divinitatis gratia nutuque favente divino, tonorum sive ut nonnulli tenorum multimodas inflexiones sub parva cungerie litterarum censui, si possum, adhuc per paucarum monimenta videre regularum.</p>
+      <p id="AURMDAP0003">Hii quidem toni apud gramaticos et lectores sunt tres: acutus, gravis, circmuflexus; apud cantores autem sunt VIII, de quibus nunc sermo. Igitur principales IIII existunt appellanturque Grece autenti; et plagi sibimet subiunctis numeris a proto usque ad tetrardum.</p>
+      <p id="AURMDAP0004">Ergo autentos Grece, Latine auctoritas, ideoque autentum auctoritate plenum dicimus, sive secundum nonnullos, autentos exemplar, et unde veteres libros autenticos nuncupamus.</p>
+      <p id="AURMDAP0005">Plagis autem Grece, latus vero Latine sermone. Quamobrem et IIII orbis latera terreque climata, orientem videlicet, occidentem, septentrionem et meridiem plagas cognominamus.</p>
+      <p id="AURMDAP0006">Quidam etiam fingunt eos quasi magistrum et discipulum, eoquod primo 
+      <pb n="[137]" />perfecto sequens sit. Protus etenim primus dicitur, unde et protomartir, id est primus testis; et protoplaustus seu plaustus, hoc est primus formatus. Deuterus autem secundus, inde est quod deutero (nominum), scilicet secundam vocitamus legem. [f.40v in marg.] Tritus Grece, Latine pot(ius) tercius dici, inde etiam epitritam dicimus portionem atque epitritos nuncupamus pedes, vel quia tres habent varietates, vel quoniam unam habent supra tres sillabam. Epu enim supra, undeque epistola, id est supramissa, ac reliqua multa. Tetrardus quoque apud nos quartus appellatur, sicut et tetrarchias dicimus quatuor reg(ni) partes; ac formam tetraptotam que IIII recipit varietates ut magister; et tetragrammaton nomen Domini apud Hebreos scribitur, id est quatuor litterarum in se continens figures, videlicet has [[Hebrew] yhwh] quod (ponderosum) sive inefabilem sonat.</p>
+      <p id="AURMDAP0007">Hii igitur IIII toni multiplicati octo ex se reddunt, imitanturque octo celestos motus. Etenim philosophi superiorem asserunt circulum celi quod zodiacus appellatur, hoc est signifer, alioque nomine aplanes nuncupatur, id est sine errore, eoquod recto incedat cursu (scilicet) dextro ab oriente; vicelicet ad occidentem. Quod omnino cernimus oculis totumque suum ambitum in viginti IIII horis dicitur finiri.</p>
+      <p id="AURMDAP0008">In quo circulo duodecim sunt signa, id est Aries, Taurus, et cetera decem. Sub hunc autem septem sunt sidera que planete vocantur, hoc est erratice, eoquod (contrario) motu ferantur superiori, scilicet cum ille dextro, ista sinistro; cum ille ab oriente in occidentem, ista ab hoccidente in orientem, sicuti crescente seu descrescente Luna liquido claret. Quorum vocabulla sunt hec: Saturnus, Iupiter et cetera V; quibus assimilat beatus Iudas apostolus in epistola sua demones, cum dicit de eis, "Sidera errantia quibus procella tenebrarum conservata est in eternum." Hoc ergo in loco propter fastidium vitandum non diutius est inmorandum.</p>
+      <p id="AURMDAP0009">Isti nempe astrorum motus octo sunt, superior videlicet circulus et VII errantia sidera, quos omnes diccunt dulcissimam cantus armoniam, id est consonantiam, efficere--quam etiam Dominus loquens ad Iob concentum celi nominat, inquiens: "Aut concentum celi quis dormire fecit." Legat musicam qui hoc plene nosce desiderat, et hoc inveniet: omnia que moventur quandam in sese armonie continere suavitatem. Qua re in superiori commentatiuncula docuimus, non solum in mundo verum etiam in nomine hanc consistere consonantiam. Sed commode a Pitagora norme huiusce reperte sunt discipline.</p>
+      <p id="AURMDAP0010">Ceterum fuere quidam [=VIII.38]</p>
+      <p id="AURMDAP0011">[f.42v in marg.] [post X.29] Enimvero iudices existunt plerique qui minora responsoria ut est</p>
+      <p id="AURMDAP0012">Responsorium Servus tuus ego sum</p>
+      <p id="AURMDAP0013">et cetera queque quorum dissimiliter progreditur euphonia a sonoritate tonorum, ob inopiam sillabarum raritatemque in musice artis positarum culmine litterarum ibidem memorantium, aliter quam Romane ecclesie sanctita sese retinent canunt.</p>
+      <p id="AURMDAP0014">
+      <pb n="[138]" />Qua de re consulens fragilitati minus prudentium, decrevi omnes per singulos tonorum auctoritates conscribere eorumdem responsoriorum versus; ac desuper notarum inserere figuras iuxta modulationum varietates, quatenus noverint cuius toni hec responsoria eorum versus an suam et simphonie servent auctoritatem.</p>
+      <p id="AURMDAP0015">Adest quarta varietas huiusce toni que a veteranorum ducunt originem patrum, ut haec superius descripta. Haec autem sunt</p>
+      <p id="AURMDAP0016">Responsorium Quam magnificata sunt opera tua Domine</p>
+      <p id="AURMDAP0017">Versus Omnia in sapientia fecisti repleta est terra.</p>
+      <p id="AURMDAP0018">Itemque</p>
+      <p id="AURMDAP0019">Responsorium Adiutorium nostrum in nomine Domini</p>
+      <p id="AURMDAP0020">Versus Qui fecit celum et terram</p>
+      <p id="AURMDAP0021">Que tamen responsoria, quia deest eis litterarum copia una cum mole uti supradictum manet litterarum, imperfectam in se retinet tonorum auctoritatem.</p>
+      <p id="AURMDAP0022">Est preterea quinta divisio que minime propter festalia celleberime noctis suimet toni versus responsoriorum obtinent sonum. Est autem hoc</p>
+      <p id="AURMDAP0023">Responsorium Descendit de celis</p>
+      <p id="AURMDAP0024">in quo quidam melius putant dicendum "et exivit per clausam portam" quam "per auream," neque enim aurea fuit caro beate Marie virginis.</p>
+      <p id="AURMDAP0025">Licet et nonnulli hoc totum responsorium per alegoriam seu misticum spiramen (alteri) intelligi velint. De hac eadem (porta) post inestimabilium visiones carismatum, propheta gratulabundus ita infit:</p>
+      <p id="AURMDAP0026">"Et convertit me ad viam porte sanctuarii exterioris que respiciebat ad orientem et erat clausa. Et dixit Dominus ad me: 'Porta hec clausa erit, non aperietur, et vir non transiet per eam, quoniam Dominus Deus Israel ingressus est per eam, eritque clausa principi. Princeps ipse sedebit in ea ut comedat panem coram Domino.'"</p>
+      <p id="AURMDAP0027">Non incongruum videtur si huius testimonii sensum iuxta quorumdam nostri temporis traditionem typicum proferamus in medio. "Et convertit me," inquit propheta, "ad viam porte sanctuarii exterioris." Non (inquiverit) dicitur interioris sed "exterioris," quia necdum impletus erat sermo quem sacer predixerat psalmus:</p>
+      <p id="AURMDAP0028">[f43r in marg.] "Donec intrem in sanctuarium Dei et intelligam in novis simis misteriorum."</p>
+      <p id="AURMDAP0029">Necdumque surrexerat leo quem in Apochalisi sua Iohannes conspexit septem libri aperire signaculla. Vel aliter, conversus est propheta "ad viam sanctuarii exterioris," ut designarentur humanum ex virgine Christum accepisse corpusculum, qui Deus ante initium extitit in divinitatis potentia, quod autem exterior homo corpus appeletur. Apostolum audi:</p>
+      <p id="AURMDAP0030">"Et si exterior," ait, "homo noster corrumpitur, tamen qui intus est renovatur de die in diem."</p>
+      <p id="AURMDAP0031">"Que respitiebat ad orientem": ad orientem hec porta dicitur respicere, quia 
+      <pb n="[139]" />ab eo sole iustitie beata virgo sitiebat obumbrari, de quo audierat "Virtus altissimi obumbrabit tibi." Vel alio modo "respitiat ad orientem": hoc quia eius prestollabatur adventum, de quo propheta:</p>
+      <p id="AURMDAP0032">"Ecce vir oriens nomen eius, que clausa testimonio Domini probatum permanere,"</p>
+      <p id="AURMDAP0033">quoniam beata genetris virgo permansit iuxta Esaie vaticinium:</p>
+      <p id="AURMDAP0034">"Ecce virgo concipiet et pariet filium."</p>
+      <p id="AURMDAP0035">Sequitur "et vir non transiet per eam." Virum in hoc loco quemlibet alium ostendit hominem, excepta Christi persona, sicut et psalmista "omnis homo mendax." Qua est autem hoc actum sit ut vir non transierit per hanc portam illico ostenditur cum dicitur: "quoniam Dominus Deus Israel ingressus est per eam." "Dominus" a domino eoquod omnium dominetur. "Deus" autem timor Dei, "Israel" vero vir videns Deum interpretatur. Hoc in loco verbum ingressionis non pro violatione accipe, sicuti nec tunc temporis violata est domus in quam, morte devicta, introivit januis clausis Jesus. Quodque subiungitur "eritque clausa principi." Principem illum intellige de quo Deus:</p>
+      <p id="AURMDAP0036">"Venit enim," inquit, "princeps mundi huius et in me non habet quicquam."</p>
+      <p id="AURMDAP0037">Hoc namque quod clauditur interius oculatur cui principi hec eadem porta extitit clausa, quia iuxta veri fidem conceptus beate Marie Gabrielo incognitus mansit. Quamobrem et marito indempta esset non dubium est.</p>
+      <p id="AURMDAP0038">Sequitur "Princeps ipse sedebit in eo ut comedat panem coram Domino." Non ita in intelligendum est ut in introitu porte residere testetur, presertim cum superius clausa esse memoretur; sed immo in celsiori loco porte quia videlicet diabolus omne humanum genus, una cum sinagoga gremio habens, sue retinebat damnationi. His autem princeps ad hoc (sedere) perhibetur, quo "comedebat panem coram Domino," illum scilicet qui dixit</p>
+      <p id="AURMDAP0039">"Ego sum panis vivus,"</p>
+      <p id="AURMDAP0040">et de quo impii scribuntur in libro dixisse Sapientie</p>
+      <p id="AURMDAP0041">"Mittamus lignum in pane eius."</p>
+      <p id="AURMDAP0042">Quod est aliis dicere verbis, configatur cruci caro eius ut auferatur memoria eius.</p>
+      <p id="AURMDAP0043">"Coram" autem in loco hoc pro contrapositum, quemadmodum et Nembroch gigas qui hominem coegit adorare ignem in quo etiam "mortuus est" secundum traditionem Hebreorum "Aran ante tare"; et de quo dicitur ad Abraham "Qui eduxit te de Ur Chaldeorum"; [f.43v in marg.] venator extitisse coram Domino describitur. "Fuit," inquiens liber Geneseos, "Nembroth robustus venator coram Domino." Hoc est dicere (..) Deum, vel aliter, porta in domo Domini (semper) mansit clausa, quoniam beata Maria in evum remansit intacta, homo non transivit per eam quia nec Iosep agnovit eam. Dominus autem Deus Israel ingressus est per eam, quoniam spiritus sanctus impregnavit eam.</p>
+      <p id="AURMDAP0044">
+      <pb n="[140]" />Ergo quia longius progressi sumus exempli gratia, (nunc) ad superiora reddeamus. Responsorii versus, quem (superta?) commemoratum intercapedo exempli oblivioni cumtradidit, (hic) est versus</p>
+      <p id="AURMDAP0045">Tamquam sponsus;</p>
+      <p id="AURMDAP0046">addiciunt quidam hoc</p>
+      <p id="AURMDAP0047">Responsorium In medio ecclesie</p>
+      <p id="AURMDAP0048">Versus Misit Dominus manum suam.</p>
+      <p id="AURMDAP0049">Hic quoque addicitur versus superiore intermisso,</p>
+      <p id="AURMDAP0050">Jocundidatem et exultationem texaurigavit super eum; repetitur Et implevit eundem.</p>
+      <p id="AURMDAP0051">Quinta est varietas que in hoc versu responsorii consistit:</p>
+      <p id="AURMDAP0052">Responsorium Liberavit me Domine</p>
+      <p id="AURMDAP0053">Versus Clamemus et dicamus 'Adiuva redemptor noster'; repetitur Qui portas.</p>
+      <p id="AURMDAP0054">[X.30 in marg.] Notandum sane quia in offertoriis et invitatoriis, responsoriis non alii ibi requirendi sunt toni nisi ubi fines versuum intromittuntur, quamquam inveniri facille possint. Maximeque sensus litterature servandus est quam modulationis. Introituum vero, antiphonarum necnon communionum toni sicut in prima secundave aut tertia inveniuntur sillaba, ita in versibus intromittantur.</p>
+      <p id="AURMDAP0055">Antiphonarum huiusce toni varietates in fine versuum sunt V.</p>
+      <p id="AURMDAP0056">Prima harum hec est:</p>
+      <p id="AURMDAP0057">Antiphona Tradent enim vos,</p>
+      <p id="AURMDAP0058">finisque versiculi tremulam emittit vocem. Secunda est cuius ultima versus sillaba oppido ac clinis profertur. Adest exemplum:</p>
+      <p id="AURMDAP0059">Antiphona Fulgebunt justi.</p>
+      <p id="AURMDAP0060">Tertia vero est differentia quando de sonis versus producitur equaturque antiphonie principio iuxta haec</p>
+      <p id="AURMDAP0061">Antiphona Misso Herodes.</p>
+      <p id="AURMDAP0062">Est preterea quarta divisio que perparum a superiori distat et que superior equaliter sustinet, haec parumper inflectit. En</p>
+      <p id="AURMDAP0063">Antiphona Domine puer meus,</p>
+      <p id="AURMDAP0064">item</p>
+      <p id="AURMDAP0065">Antiphona Salutare vultus mei.</p>
+      <p id="AURMDAP0066">Qui(n)ta est cui versiculi finis ad instar puncti in altum erigitur cursimque profertur, unde est illud</p>
+      <p id="AURMDAP0067">Antiphona Magnificamus te Domine,</p>
+      <p id="AURMDAP0068">item</p>
+      <p id="AURMDAP0069">Antiphona Dulce lignum.</p>
+      <p id="AURMDAP0070">Enimvero non est arbitrandum eas antiphonas que leviter inchoaverunt et non tam plenum perfectumque initium habuit sonum, quemadmodum est superius 
+      <pb n="[141]" />exempli causa insite proprias amplectere diffinitiones. Hoc tamen est actendendum, ut quanto levius initium duxerit, tanto minus fortiter exprimatur diffinitionis ultima pars sive sillaba, sicuti hic agitur:</p>
+      <p id="AURMDAP0071">Antiphona Hymnum dicite.</p>
+      <p id="AURMDAP0072">cuius antiphonae versus de prima canitur in sui fine divisione, sed tamen non tam prolixo tenetur vocis concentu (ut supra taxatum est). Ita etiam in omnibus tonis est intelligendum.</p>
+      <p id="AURMDAP0073">Hactenus igitur primo de tono, ut quivimus, sub brevitate perstringere succincta curavimus, [f.44r in marg.] primo omnium cantorem monentes ne invitatoria per omnes requirat tonos quia--nisi forte fallor--non poterit invenire. Ceterum ubique fuerint, divino adminiculate nutu, ut quivero, ceteris strictim in locis pandere curabo.</p>
+      <p id="AURMDAP0074">[Capitulum XI]</p>
+      <p id="AURMDAP0075">Plagis proti recipit introitum hunc:</p>
+      <p id="AURMDAP0076">Antiphona Dominus illuminatio mea,</p>
+      <p id="AURMDAP0077">nullamque habet varietatem in introitibus quia poene omnes ita leniter inchoantur, unde est illud</p>
+      <p id="AURMDAP0078">Antiphona Dominus fortitudo pleb.</p>
+      <p id="AURMDAP0079">Eiusdem offertorium:</p>
+      <p id="AURMDAP0080">Ad te Domine levavi animam, repetitur hic, 'Etenim.'</p>
+      <p id="AURMDAP0081">Communio Exiit sermo inter.</p>
+      <p id="AURMDAP0082">Due sunt hoc in tono versibus responsoriorum varietates, quarum prima naturaliter existens est hoc:</p>
+      <p id="AURMDAP0083">Responsorium Vos qui in virtutibus [sic] estis</p>
+      <p id="AURMDAP0084">Hoc interim animo condendum est, quia ubicumque versus responsoriorum nequeunt cum ipsorum repetitione plenum habere sensum, licentiam cantor habet quamlibet responsorii in repetitione eiusdem mutare silabam--etiam verba--si necessitas exigit, ut in hoc eodem ubi repetitur. Habet enim versum Versus "Laudate Dominum Deum nostrum qui non deservit sperantes in se," repetitio "sed victoriam dedit de inimicis," mutatam "sed" sillabam pro "et." Plerumque enim mutantur coniunctiones in huiusmodi re, videlicet rationales pro causalibus, et pro rationalibus casuales; (similiter) copullative pro disiunctivis et disiunctive pro copulativis.</p>
+      <p id="AURMDAP0085">Quod et in offertoriis factum invenies, unde illud offertorii [sic]</p>
+      <p id="AURMDAP0086">Sanctificavit Moyses</p>
+      <p id="AURMDAP0087">
+      <pb n="[142]" />in eiusdem (ver)su "Oravit Moyses," in repetitione offertorii adicitur hoc: "Tunc Moyses", cum in offertorio scriptum non ist, quod in pluribus invenies locis. Id idem opere precium videtur coniunctiones, vel ceteras quaslibet admittere vel interponere partes in repetitione, veluti in hoc responsorio Machabeorum:</p>
+      <p id="AURMDAP0088">Responsorium Hic est fratum Amator</p>
+      <p id="AURMDAP0089">in repetitione ipsius: "Hic est qui multum orat pro populo et universa sancta civitate Ierusalem." In responsorio quidem est ablativus (casus), in repetitione autem accusativus efficitur, ita:</p>
+      <p id="AURMDAP0090">Versus Ecce quam bonum et quam iocundum habitare fratres in unum; repetitur et universam sanctam civitatem Ierusalem.</p>
+      <p id="AURMDAP0091">Amituntur vero partes vel sillabe, velut in hoc pervidebis responsorio:</p>
+      <p id="AURMDAP0092">Responsorium Venite domine et noli tardare Versus A solis ortu et occasu ab Aquilone et mari.</p>
+      <p id="AURMDAP0093">Dempta "et" coniunctione repetitur hic: "Revoca disper." Hoc multis reperies in locis.</p>
+      <p id="AURMDAP0094">Taliter id fieri necesse est ut litteratura responsorii proprium habeat sensum, similiter et versus eiusdem nexus repetitioni plenam retineat perfectamque coaptationem.</p>
+      <p id="AURMDAP0095">[f.44v in marg.] Secunda autem divisio responsoriorum que melodiam sui metitur, sed ab auctoritate secernit huiusce toni, licet a quibusdam iuxta normam eiusdem canatur:</p>
+      <p id="AURMDAP0096">Responsorium Declara super nos Deus misericordiam tuam Versus Declaratio sermonum tuorum dat intellectum Domine.</p>
+      <p id="AURMDAP0097">Antiphona O sapientia,</p>
+      <p id="AURMDAP0098">quamquam a nonnullis hoc et his similia ob celsiorem vocis diastemam de primo reciprocetur tono, Item,</p>
+      <p id="AURMDAP0099">Antiphona Iuste et pie vivamus.</p>
+      <p id="AURMDAP0100">Versus huiusce antiphonie in suimet fine simpliciter intrat, nec ullam aliam recipit divisionem.</p>
+      <p id="AURMDAP0101">[Capitulum XII]</p>
+      <p id="AURMDAP0102">Autentus deuterus introituum bifariam amplecitur divisionem, quarum prima est haec</p>
+      <p id="AURMDAP0103">Antiphona Confessio et pulcritudo.</p>
+      <p id="AURMDAP0104">Finis huius versiculi neque sursum erigitur neque iosum deponitur sed introitus contentus est initio, indirectumque finitur ut ei possit equari.</p>
+      <p id="AURMDAP0105">Est altera species que non hunc ordinem servat, sed immo paulisper ultimam 
+      <pb n="[143]" />suimet versus erigit sillabam, ut haec</p>
+      <p id="AURMDAP0106">Antiphona Dum clamarem.</p>
+      <p id="AURMDAP0107">Adest offertorium</p>
+      <p id="AURMDAP0108">Deus tu convertens; repetitur hic: Ostende nobis,</p>
+      <p id="AURMDAP0109">Nam licet inchoetur a plagis deuteri, tamen eius repetitio que magistra existit in his et responsoriis, necne invetatoriis ab autento deutero traducendum est.</p>
+      <p id="AURMDAP0110">Communio. De fructu operum tuorum Domine,</p>
+      <p id="AURMDAP0111">huius finis priori sine equatur introitui.</p>
+      <p id="AURMDAP0112">Hoc habet invitatorium quod secunda canitur feria, primoque in minoribus (annumeratur):</p>
+      <p id="AURMDAP0113">Venite exultemus Domino.</p>
+      <p id="AURMDAP0114">Habet et ceteraqueque uti est</p>
+      <p id="AURMDAP0115">Regem venturum Dominum;</p>
+      <p id="AURMDAP0116">undeque nonnulli omnium sanctorum invitatoria ut sunt hec</p>
+      <p id="AURMDAP0117">Regem apostolorum Dominum</p>
+      <p id="AURMDAP0118">martirum, virginum, ac cetorum sanctorum, ad instar istius soni ac toni simul canunt. Quidam autem canunt ea de autento trito excipientes ab eis propter novitatem temporis hec duo invitatoria:</p>
+      <p id="AURMDAP0119">Regem venturum Dominum</p>
+      <p id="AURMDAP0120">et</p>
+      <p id="AURMDAP0121">Regem natum Dominum.</p>
+      <p id="AURMDAP0122">Adiciunt proinde aliqui:</p>
+      <p id="AURMDAP0123">Regem magnum Dominum.</p>
+      <p id="AURMDAP0124">Quidam aut(em) idcirco, quia hisdem bis canitur psalmus, dimiten(tur) arbitrantur invitatorium.</p>
+      <p id="AURMDAP0125">Denique hic tonus in versibus nocturnalis offitii duplam recipit divisionem, prima que simpliciter in repetitione reciprocatur ut hoc</p>
+      <p id="AURMDAP0126">Responsorium Aperiat Dominus Versus Exaudiat dominus; repetitur hic: Concedat vobis.</p>
+      <p id="AURMDAP0127">Secunda est cuius versiculi finis paulisper erigitur ut hoc</p>
+      <p id="AURMDAP0128">Responsorium Peccavi super numerum Versus Quoniam iniquitatem meam ego agnosco; repet. Et malum coram te feci.</p>
+      <p id="AURMDAP0129">Varietates versuum antiphonarum IIII insunt huic tono. En prima que tremulam vinolamque emittit vocem:</p>
+      <p id="AURMDAP0130">Antiphona Hec est generatio</p>
+      <p id="AURMDAP0131">Secunda quando in ultima et penultima et antepenultimam silaba finis versiculi, pinguem reddit sonum uti in hac</p>
+      <p id="AURMDAP0132">Antiphona Pulcra es et decora.</p>
+      <p id="AURMDAP0133">Tertia est varietas que dispariter intromittitur quam superior, [f.45r in marg.] quia cum antiphone initio sine aliqua mora finem suum et versiculi (ver)tit iuxta hec:</p>
+      <p id="AURMDAP0134">
+      <pb n="[144]" />Antiphona Reliquid eum temptator volentes eum t(.....) in domino laudabitur.</p>
+      <p id="AURMDAP0135">Quarta est que dulcem versiculi pandit finem, atque in meditullio retinet tenoris ut haec:</p>
+      <p id="AURMDAP0136">Antiphona Haec est que nescivit.</p>
+      <p id="AURMDAP0137">Porro hec regula subterscripta uniquique videtur neccessaria cantori.</p>
+      <p id="AURMDAP0138">Antiphona que initium habuit autenti deuteri et finis eiusdem de plagis desierit triti, non finietur de plagis triti nec de autento deutero a quo originem ducit, sed de autento tetrardo quia in suimet fine quandam retinet conexionem autentus deuterus et plagis triti atque autentus tetrardu. Est autem idem autentus tetrardus discretor eorum inter altitudinem vocis et gravitatem. Antiphona autem huiusmodi est haec:</p>
+      <p id="AURMDAP0139">Malos male perdet maior.</p>
+      <p id="AURMDAP0140">[Capitulum XIII]</p>
+      <p id="AURMDAP0141">In plagis deuteri bifaria reperitur divisio introituum. Adest prima cuius versiculi finis in ultima sillaba flexibilem altamque promit vocis scansionem:</p>
+      <p id="AURMDAP0142">Antiphona Resurexi</p>
+      <p id="AURMDAP0143">Secunda est cuius finis fere in ultima ac penultima equisonam simplicemque recipit vocem, en exemplum; quod quare in hoc loco intromittatur, Deo volente, inferius demonstrabitur:</p>
+      <p id="AURMDAP0144">Eduxit Dominus populum suum.</p>
+      <p id="AURMDAP0145">Eiusdem offertorium:</p>
+      <p id="AURMDAP0146">Iustus ut palma florebit; repetitur hic: sicut cedrus.</p>
+      <p id="AURMDAP0147">Communio Memento verbi tui,</p>
+      <p id="AURMDAP0148">ultima cuius versus sillaba secunde equatur divisioni.</p>
+      <p id="AURMDAP0149">Siquidem invitatoriorum quatrimodam recipit divisionem, quarum divisionum prima hoc est:</p>
+      <p id="AURMDAP0150">Christus natus est nobis,</p>
+      <p id="AURMDAP0151">itemque</p>
+      <p id="AURMDAP0152">Christus apparuit nobis</p>
+      <p id="AURMDAP0153">quae nullam cum ceteris habet societatem, sed sola, sicut dignum est, propriam retinet euphoniam.</p>
+      <p id="AURMDAP0154">Secunda est que nullius eget auxilio sed suam obtinet vim, nullamque consodalibus habet portionem nisi in suimet fine. Est autem hoc:</p>
+      <p id="AURMDAP0155">Adoremus dominum maior.</p>
+      <p id="AURMDAP0156">
+      <pb n="[145]" />In tertia etenim sillaba versus eiusdem sive in quarta iuxta distictionis ordinem, flexibilem reddit vocem in ultimodamque [=multimodamque], quod nullatenus in ceteris invenies.</p>
+      <p id="AURMDAP0157">Proinde tertia extitit divisio que huic superiori in fine versiculi asistitur. Est ergo hec</p>
+      <p id="AURMDAP0158">Antiphona Ipsi vero non cognoverunt vias meas,</p>
+      <p id="AURMDAP0159">nam quod in ultima versu silaba que est "-i" ut "iubilemus ei" seu iuxta quod finis adfuerit versiculi, percusoris ad instar manus vox erigitur, rursusque declivis profertur, quod--uti dictum est--non alioubi invitatoriis invenies preter in his duobus, quorum primum repetitur hic, "quia ipse fecit nos," secundum autem hic, "quibus iuravi in ira mea."</p>
+      <p id="AURMDAP0160">Est preterea quarta divisio cui huius invitatorii versus equatur usque prope ultimam sillabam atque--ut supradictum est--a superiori ducit finem. Ab hac (autem) quarta varietate versiculi eiusdem p(er)maxime regitur modullatio. [f.45v in marg.] Sunt vero h(aec), quibus coniungitur usque ad ultimam partem:</p>
+      <p id="AURMDAP0161">Adoremus Dominum minor; repetitur qui fecit nos</p>
+      <p id="AURMDAP0162">Est rursus aliud:</p>
+      <p id="AURMDAP0163">Hodie si vocem Domini audieritis; repetitur hic: nolite obdurare.</p>
+      <p id="AURMDAP0164">Versus istorum invitatoriorum in fine suarum novissimarum partium tremullam acclivemque emittunt vocem.</p>
+      <p id="AURMDAP0165">Versus responsoriorum quinque in suimet finem habeat. Diffinitio prima hec est:</p>
+      <p id="AURMDAP0166">Responsorium Rex noster adveniet Christus Versus Ecce agnus Dei; repetitur hic: quem Iohannes.</p>
+      <p id="AURMDAP0167">Notandum sane quia sicuti ratio speculationis sese habet, huius nocturnalis responsorii, huius toni duxerit consonantiam; ipsa etiam in eius modullatione integra adfuerit. Nequit habere minus quam XVI sillabas, sine aliqua controversia vel diaphonia. Aliquando medietas mellodie et integritas sensus solet cani sicuti hic</p>
+      <p id="AURMDAP0168">Responsorium Angelus Domini vocavit Abraham Versus Et benedicentur in te omnes tribus terre; repetitur eo quod timeas Dominum.</p>
+      <p id="AURMDAP0169">Nonnumquam vero in sese retinet sillabas perplures velut in responsoriis de beato Iosep ad liquidum edocemur, sed tamen mutatur ordo modullationis.</p>
+      <p id="AURMDAP0170">Nec fieri pot(est) in nullius toni distinctione, unde quidam hunc male distingunt gunt auferentes a roridibus [sic] intellectum ita canentes:</p>
+      <p id="AURMDAP0171">Ecce Agnus Dei ecce,</p>
+      <p id="AURMDAP0172">facientes in hec distinctionem cum pocius observandus sit sensus quam modullatio. Nostri vero, necessitatis causa, in sexta distingunt sillaba, scilicet in "-i", "Ecce Agnus Dei." Est quoque musica licentia in ea littera que maiorem obtinet numerum videlicet "a", longiorem, se necessitas exigit, fieri consonantiam 
+      <pb n="[146]" />diasteme vocis, ac pro duabus tribusve constare sillabis. Quod in multis experti sumus, attamen plerumque non tam forte initium exprimitur modullationis; unde non incungruum videtur se de hoc eodem tono in versu gradalis responsorii demus exemplum. Nam in solempnitate sanctorum in responsorio gradali</p>
+      <p id="AURMDAP0173">Exultabunt sancti</p>
+      <p id="AURMDAP0174">in eiusdem versu "Cantate Domino," post primam modulationem maiorem que fit in "do", subsequente modullatione altera que efficitur in "cantico" in prima sillaba "can-", flexibilis fit modulatio duplicataque inflexione tremulla emittitur vox non gravis prima sonoritas, ut inferius ob indignationem monstrabimus regulam.</p>
+      <p id="AURMDAP0175">Age, ergo, optime lector, ac ne tuemet santiare videatur autes ob inertiam sermonum fibris ex intimis rogito, uti si placet placeat. Sin autem displicet legere ignaris huiusce nonnule legendum exime. Hec quam supramemoravimus regulla fit in una parte et in duabus. Fit in una parte orationis, veluti in hoc versu gradalis responsorii</p>
+      <p id="AURMDAP0176">Versus Asummo cello egressio eius,</p>
+      <p id="AURMDAP0177">[f.46r in marg.] prima post distinctionem que desinit in "-lo", in quo ante [=incoante] altera que est "egressio", post primam sillabam, que est "e-" secunde distinctioni in secunda sillaba, viz. que est "-gres-": idcirco quia una aliqua silaba viz. "e-" antecedit hanc ubi prolixa efficitur modullatio durius ipsa incoatur, et ita in superiori finitur.</p>
+      <p id="AURMDAP0178">In duabus partibus orationis finit sicut in hoc responsorii versu</p>
+      <p id="AURMDAP0179">Responsorium Tolite portas Versus Quis ascendet in montem Domini</p>
+      <p id="AURMDAP0180">post primam distinctionem que desinit in "(ni)", inchoante altera distinctione, in secunda sillaba simul et parte orationis que est "quis", ideo quia antecedit quepia sillaba hanc ubi efficitur modullatio sic hec sicut superior canitur.</p>
+      <p id="AURMDAP0181">Secunda versuum responsoriorum est diffinitio que ita eodemque ritu finem versus peragit, ut modullatio inest responsorii, ante ipsius repetitionem veluti hoc</p>
+      <p id="AURMDAP0182">Responsorium Isti sunt triumphatores Versus Isti sunt qui venerunt.</p>
+      <p id="AURMDAP0183">Huic simile</p>
+      <p id="AURMDAP0184">Responsorium Deus qui sedes Versus Tibi enim.</p>
+      <p id="AURMDAP0185">Non autem agitur in versibus istius toni, nisi in responsoriis ante agatur in quibusdam vero necesitatis causa, solet erigi vel deponi; sicut in primo vales invenire tono.</p>
+      <p id="AURMDAP0186">Est vero tertia divisio quam memini me non alicubi repperisse in prolixitate tocius antiphonarii nisi in huiusce responsorii versu:</p>
+      <p id="AURMDAP0187">Responsorium Hierusalem cito veniet Versus Israel si me audieris.</p>
+      <p id="AURMDAP0188">Quarta est divisio que in minoribus tantumdem agitur in responsoriis et hoc in adventum Domini:</p>
+      <p id="AURMDAP0189">Responsorium Super te Hierusalem orietur Dominus Versus Et gloria eius in te 
+      <pb n="[147]" />videbitur.</p>
+      <p id="AURMDAP0190">Adest quinta in hoc versu versatur responsorii:</p>
+      <p id="AURMDAP0191">Responsorium Spes mea Domine a iuventute mea Versus In te confirmatus sum.</p>
+      <p id="AURMDAP0192">Interea sciendum est quia pentacote insunt huic tono antiphone, quarum prima est haec:</p>
+      <p id="AURMDAP0193">Antiphona Maria et flumina,</p>
+      <p id="AURMDAP0194">item</p>
+      <p id="AURMDAP0195">Antiphona Mane surgens Iacob,</p>
+      <p id="AURMDAP0196">itemque</p>
+      <p id="AURMDAP0197">Antiphona Tria sunt munera,</p>
+      <p id="AURMDAP0198">quarum versiculi antiphonarum iosum in sui fine perparum deprimuntur, ut equari possint principio antiphone.</p>
+      <p id="AURMDAP0199">Secunda est haec:</p>
+      <p id="AURMDAP0200">Antiphona Rubrum mare quem viderat</p>
+      <p id="AURMDAP0201">Item</p>
+      <p id="AURMDAP0202">Antiphona Nos [sic] praecessit,</p>
+      <p id="AURMDAP0203">rursumque</p>
+      <p id="AURMDAP0204">Antiphona Iusti autem.</p>
+      <p id="AURMDAP0205">(Fi)nes autem harum versuum in altum sustollitur, accutoque gaudent accentu.</p>
+      <p id="AURMDAP0206">Tertia est que finem versus oppido flexibillem reddit:</p>
+      <p id="AURMDAP0207">Antiphona Innuebant patri eius</p>
+      <p id="AURMDAP0208">itemque</p>
+      <p id="AURMDAP0209">Antiphona Germinavit radix Iesse,</p>
+      <p id="AURMDAP0210">quamquam inordinate alterius toni aiunt versiculum eiusdem retinere sonoritatis reciprocationem, cum potissimum sit iuxta initium antiphone versuum modullationem concinere. Et re vera quid prosunt varietatum differentie nisi secundum hoc quod est varietas, verbi gratia autenti proti in introitibus tertia</p>
+      <p id="AURMDAP0211">Antiphona Suscepimus Deus.</p>
+      <p id="AURMDAP0212">Ita etiam et ea ipsius in sui initio gerunt modulationis vigorem intromittantur sicut haec: [f.46v in marg.]</p>
+      <p id="AURMDAP0213">Antiphona Gaudeamus omnes.</p>
+      <p id="AURMDAP0214">Verumtamen neque toni auctoritas neque musice consonantie disciplinem quicquam proderunt nisi insectentur atque per suprascipta testimonia cumsimiles reciprocentur antipho(n)arum varietates.</p>
+      <p id="AURMDAP0215">Enimvero quarta est divisio que tantummodo in minoribus agitur antiphonis a atque eo modo ultimam suimet versus erigit sillabam, quatinus initio antiphone queat congruenter aptari. Habes exemplum:</p>
+      <p id="AURMDAP0216">Antiphona Laudabo Deum meum.</p>
+      <p id="AURMDAP0217">Preterea quinta est divisio que in duarum versibus antiphonarum tantum fit, et non in pluribus, scilicet</p>
+      <p id="AURMDAP0218">
+      <pb n="[148]" />Antiphona Habitavit</p>
+      <p id="AURMDAP0219">itemque</p>
+      <p id="AURMDAP0220">Antiphona Sanctis qui in terra sunt eius,</p>
+      <p id="AURMDAP0221">quamquam antiqui etiam in pluribus hanc versus voluerint sequi modullationis armoniam, uti hac</p>
+      <p id="AURMDAP0222">Antiphona Omnes gentes quacumque fecisti</p>
+      <p id="AURMDAP0223">Tamen moderni amplius in his antiphonis, que perfectam possident toni sonoritatem, quam in supramemoratis agendum decreverint. Ex imperfectis autem ac (......) licet paulisper ab hac normulla in fine suimet versiculi discrepet nonnulli hanc elligunt solam</p>
+      <p id="AURMDAP0224">Antiphona Jubilate Deo.</p>
+      <p id="AURMDAP0225">(Versus) denique harum duarum antiphonarum sive trium totus in imo deprimitur gravisque efficitur vocis cumcentus, ac simul totus gravi canitur voce.</p>
+      <p id="AURMDAP0226">[Capitulum XIV]</p>
+      <p id="AURMDAP0227">Autentus tritus huiusmodi habet introitus alternationem:</p>
+      <p id="AURMDAP0228">Ecce Deus adiuva me,</p>
+      <p id="AURMDAP0229">cuius versiculi finis in meditullio tenoris ultimam substinet sillabam, neque enim sursum sublimatur neque deorsum deprimitur, sed initio concentus est introitus.</p>
+      <p id="AURMDAP0230">Sunt nempe quidam qui hunc duas amplectere assueverant introituum varietates, quorum prior sit h(aec) superius literis commendata, posterior autem hoc:</p>
+      <p id="AURMDAP0231">Circumdederunt me.</p>
+      <p id="AURMDAP0232">Quidam vero abnegant non amplius habere quam unam que esset "Circumdederunt me gemitus mortis," dicentes quoniam hoc in fine ipsius agitur versiculi, non necessitatis causa fieri sed tantummodo euphonie. E regione inquiunt "Si eufonie causa fuerit, necesse est quo in omnibus introitibus istius toni agatur; sed tamen nequit hoc esse, veul uti hoc 'Ecce Deus adiuva me,' ubi non euphoniam sed diaphoniam reddidit." Atque idcircho malunt duas habere divisiones, quamquam secunde divisioni si addatur pinguiorem reddit introitu reciprocationem et si non addatur nihil deesse. Fatiscat ergo iam nunc improba contentio simplici contenta numero, ac numerum congaudeat habere binarium.</p>
+      <p id="AURMDAP0233">Hoc habet offertorium:</p>
+      <p id="AURMDAP0234">Inmittet angelus Domini; repetitur Quam suavis est Dominus</p>
+      <p id="AURMDAP0235">Haec est communio:</p>
+      <p id="AURMDAP0236">Quis dabit ex Syon.</p>
+      <p id="AURMDAP0237">Versiculi huius ultima sillaba priori huius introitus coequatur tono.</p>
+      <p id="AURMDAP0238">
+      <pb n="[149]" />Antiphonas invitotariorum huiusmodi habet:</p>
+      <p id="AURMDAP0239">In manu tua Domine maiorem</p>
+      <p id="AURMDAP0240">[f.47r in marg.] et ceteras omnes infra ebdomadam, excepta id quod secunda canitur feria scilicet:</p>
+      <p id="AURMDAP0241">Venite minor</p>
+      <p id="AURMDAP0242">Superi autem invitatorii versus nullam cum ceteris habet concordiam, set sue sufficiens est modullationi. Repetitur "Omnes fines terre." Cetera vero que cursim canuntur certis repetuntur in locis.</p>
+      <p id="AURMDAP0243">Responsorium Obsecro Domine Versus A solis ortu.</p>
+      <p id="AURMDAP0244">Itemque aliud</p>
+      <p id="AURMDAP0245">Responsorium Usque ad vesperum quam magnificata sunt opera tua Domine; omnia in sapientia fecisti repleta est terra. Versus Vestri capilli capitis omnes,</p>
+      <p id="AURMDAP0246">ipsius versiculi ultima pars ordinis cursim profertur.</p>
+      <p id="AURMDAP0247">[Capitulum XV]</p>
+      <p id="AURMDAP0248">Plagis triti nullam omnino introetuum recipit differentiam quam autem ipsius toni introitus hic:</p>
+      <p id="AURMDAP0249">Omnes gentes.</p>
+      <p id="AURMDAP0250">Finis ipsius versiculi gravem promit vocem.</p>
+      <p id="AURMDAP0251">De hoc eodem tono est introitus subterscriptus in natale Sancti Clementis papae. Est autem hic:</p>
+      <p id="AURMDAP0252">Antiphona Dicit Dominus sermones mei quod dedi.</p>
+      <p id="AURMDAP0253">Enimvero quidam ignari peritie artis musice mutaverunt initium ipsius introitus secundum initium communionis "Dicit Dominus implete ydrias aqua," cum utique in secunda sillaba debuerint facere modullationem more manum vibrantis, suum plus sequentes libitum quam musice auctoritatis normam, nescientes quia superatur maior numerus a minore multipliciter ab initio introitus usque ad eum locum ubi dicitur "de ore tuo." Si tamen adsit cui comparetur, ab eo vero loco ubi scriptum est "adest enim nomen tuum" usque ad finem, quia maior numerus in se totum continet minorem. Recta canendi species ibidem inest, tale quid in multis antiphonarii invenies locis, unde illud introitus, "Deus in adiutorium meum intende." Verumtamen perfectum initium debet considerari et non finis neque medietas. Etenim licet queat cantilenearum modulatio multimodas facere inflexiones ut pa(r)eat ipsa modullatio (quasi) unius esse toni, tamen regullam iures diudicant armonie suavitatem, verbi causa, si quispiam versificationis voluerit similitudinem facere, ignarus discipline metrice, tamen sciens heroicum metrum VI recipere pedes. 
+      <pb n="[150]" />Cumfustatur ipsius carmen nisi a priscis poetis sumpserit originem, verbi gratia si quis per hoc voluerit scandere ad versus instar eroici:</p>
+      <p id="AURMDAP0254">Corrumpunt mores bonos colloquia malla,</p>
+      <p id="AURMDAP0255">quod utique nequid consistere regulis poematum, ita etiam nisi qui noverit musicam disciplinam--quamquam arbitretur antiphonas responsoria et quamlibet cantillenarum rite exercere opere--tamen, nisi litterarum noverit numerum et momenta regularum atque priscorum sancita patrum, ante oculos musici adnihilantur eius gesta.</p>
+      <p id="AURMDAP0256">Toni istius offertorium hoc est:</p>
+      <p id="AURMDAP0257">Stetit angelus; repetitur hic: et ascendit.</p>
+      <p id="AURMDAP0258">Communio Exultavit ut gigas.</p>
+      <p id="AURMDAP0259">Ita docet Priscianus nominativum fieri. Finis huiusce versiculi contentus est fine superioris introitus. [f.47v in marg.]</p>
+      <p id="AURMDAP0260">Responsorium Aspitiebam in visu noctis Versus Ecce dominator Dominus cum virtute veniet,</p>
+      <p id="AURMDAP0261">non "veniet" futuri temporis sed preteriti, quia sic ipsius sese repetitio habet responsorii "et datum est ei regnum." Etenim tempora debent temporibus iungi, scilicet presens cum presenti et futurum cum futuro, quod omnino in literatura nisi observetur, sensus humanus quasi quibusdam fragoribus concussus intercipitur.</p>
+      <p id="AURMDAP0262">Nempe secunda est definitio huius toni in nocturnalibus responsoriis que tantum minoribus iungitur et eis in quibus literature deficit plenitudo.</p>
+      <p id="AURMDAP0263">Responsorium Reges Tharsis et insule munera offerent Versus Reges Arabum et Sabba dona adducent.</p>
+      <p id="AURMDAP0264">Est etiam tertia que in huius tantummodo invenitur responsorii versu:</p>
+      <p id="AURMDAP0265">Responsorium Esto nobis Deo turis fortitudinis Versus A fatie inimici.</p>
+      <p id="AURMDAP0266">Quarta est varietas que inferius anotabitur. Interea mos considerandus est veteranorum cantorum, presertim Gallias degentium, qui non omnem toni sequentes auctoritatem versus responsoriorum aliter ac aliter quam sonoritas tonorum sese habeat, prependiente multitudine sill(aba)rum in diversam mutavere partem. Unum in hoc responsorio, quod quidam improbe asseverant in ecclesia non debere cantari, eoquod in historiis minime reperiantur; et a nobis ob venerationem sancte genitricis Dei Marie simul et ob Iudeorum insaniem ac hereticorum refutandam proptervam superstitionem in ecclesia canitur.</p>
+      <p id="AURMDAP0267">Taliter actum invenies quamvis in ipsa Romana urbe dicatur fore compositus. En adest:</p>
+      <p id="AURMDAP0268">Responsorium Gaude Maria Virgo Versus Gabrielem archangellum.</p>
+      <p id="AURMDAP0269">Videantur autem supramemorati contemptores sanctorum patrum, quamquam negent a beato Gregorio vel ceteris sancte ecclesie tales extiterint qui 
+      <pb n="[151]" />imitatione digni habeantur, quorum etiam scripta contra heresin nos muniunt et contra infestationes demonum virtutes tuentur--ut fuit princeps Italici regni imperator Karolus, qui, divina imbutus scientia, simul ac humanarum dissertissimus extitit artium. Qualis magister eius Albinus! quantus et quam magnus vir! Et multi alii in (nostro tempore) seu inveniuntur qui hi nihil taliter agere presumpserunt, (sed) quod hoc et his simila abolerent; et licet hi superius memorati imperitiam cantorum que suprascriptis coarguta est patribus perite correserint, atque in multis locis superiorum pulcrioremque reddiderint.</p>
+      <p id="AURMDAP0270">Non tamen omnia que in historiis minime inveniuntur sed, salve fide digne comprobantur, penitus abicere debent, sicut sunt antiphone letaniarum vel cetera huiusmodi que orationis magis congruunt quam istorie textui.</p>
+      <p id="AURMDAP0271">Responsorii autem quod supra memoravimus auctor extitit quidam Roma nus nomine Victor, a nativitate cecus, quod cum memoriter a cantatoribus cantillenarum didicisset mellodias quadam die ante altare Sancte rescidens Marie qu(od) Domus Rotunda dicitur, divino favente nutu, hoc composuit responsorium ac statim lumine, [f.48r in marg.] quo privatus erat multo iam tempore, illuminari meruit atque iubare potiri genuino.</p>
+      <p id="AURMDAP0272">Considerent autem suprainsiti contemptores si (hoc) q(uia) nativitate cecus extitit, lumen iamdudum recipere ob hanc causam promeruit amissum.</p>
+      <p id="AURMDAP0273">Quanto magis nos illud canentes in honore Sancte genitricis Dei Marie eius precibus illuminari atque intima nostri cordis credimus foveri. Consopiscat ergo iam nunc improba temeritas.</p>
+      <p id="AURMDAP0274">Antiphona O quam gloriosum est regnum.</p>
+      <p id="AURMDAP0275">Istius versiculi finis fine equatur prioris introitus.</p>
+      <p id="AURMDAP0276">Excipiuntur de hoc tono antiphonarum quaedam antiphone ut</p>
+      <p id="AURMDAP0277">Antiphona Puer Jesus</p>
+      <p id="AURMDAP0278">itemque</p>
+      <p id="AURMDAP0279">Antiphona Nobis datum est nosse misterium,</p>
+      <p id="AURMDAP0280">nam quamdiu psalmus canitur, ipsarum fines antiphonarum de quo fuerint tono de eodem propter diaphoniam dignum est finiri. Ad ultimum vero in repetitione psalmi unde eorum est initium inde finiantur, scilicet de plagis triti. Qui ob numerum inequisonantes sunt a plagis enim triti sumunt originem ab autento vero proto finem recipiunt.</p>
+      <p id="AURMDAP0281">Inde est hec normula quod antiphona que initium habuit de quolibet tono et finem de altero, si recte finiri potuerit, de quo eius est initium finiatur (ut) due superiores. Si vero non quiverit finiri de eodem a quo inchoationem (ducit) finis eiusdem perficiatur antiphone. Adest isticcine exemplum:</p>
+      <p id="AURMDAP0282">Quare detraxistis.</p>
+      <p id="AURMDAP0283">
+      <pb n="[152]" />[Capitulum XVI]</p>
+      <p id="AURMDAP0284">(De autento te)trardo.</p>
+      <p id="AURMDAP0285">Normulle autenti tetrardi in introitibus sunt due. Prima est haec:</p>
+      <p id="AURMDAP0286">Antiphona Puer natus est nobis.</p>
+      <p id="AURMDAP0287">Finis eiusdem versiculi in ultima sillaba alte erigitur.</p>
+      <p id="AURMDAP0288">Secunda est que finem suimet versiculi declivem reddit, ut haec:</p>
+      <p id="AURMDAP0289">Antiphona Audivit Dominus.</p>
+      <p id="AURMDAP0290">Hoc offertorium:</p>
+      <p id="AURMDAP0291">In virtute tua Deus; repetitur hic: Desiderium</p>
+      <p id="AURMDAP0292">Communio Dicite pusilanimes.</p>
+      <p id="AURMDAP0293">Equatur istius finis versiculi fine superioris introitus iosum depressi.</p>
+      <p id="AURMDAP0294">Invitatorium duas amplectitur divisiones, harum prima est haec:</p>
+      <p id="AURMDAP0295">Huiusce finis versiculi suspensa canitur voce.</p>
+      <p id="AURMDAP0296">Secunda est quo iosum extremitatem versiculi deponit ut haec:</p>
+      <p id="AURMDAP0297">Antiphona Deus magnus Dominus.</p>
+      <p id="AURMDAP0298">Interea in versibus responsoriorum nocturnalium hic tonus trimodam recipit varietatem. Prima est que naturaliter extitit ut hoc:</p>
+      <p id="AURMDAP0299">Responsorium Aspitiens a longe Versus Quique terrigene.</p>
+      <p id="AURMDAP0300">Hoc quidam apocrificum iudicant responsorium quamquam ex sermonibus viri sancti cuius nomen sacris in scripturis reperitur, scilicet Baruch, notarii Ieremie prophete auctoritatem ducat. Quem librum, teste beato Ieronimo, Hebrei nec legunt nec habent. Qua de re eum construere conantur, dicentes insuper quod non prophete sed nocturnarii censeatur nomine. Quamobrem sermo Domini ad memoriam reducendus est quia "qui suscipit prophetam in nomine prophete mercedem prophete accipiet." Hanc sententiam quoniam beatus pater Gregorius luculento elicuit stillo quocirca a nobis, brevitatis causa, intromittitur.</p>
+      <p id="AURMDAP0301">[f.48v in marg.] Ceterum Ebreorum traditio est, etiam cum sensus Ieronimi sese habet, Abdia qui dispensator fuit Achab nefandissimi regis, ideoque servos (Deo) quinquagenos ac quinquagenos in abditis specuum absconderit paneque et aqua paverit, instante persecutoris (tempore) accepisse spiritum prophetie et unum esse duodecim minoribus prophetis proprio permanente nomine. Unus et iste Baruch quamquam notaveris inscribatur, tamen quia sancto Dei studiose famulatu(s) est, et prophet(i)e ultroneus exibuit quod necessarium fuit. Indemptum fore spiritum prophetie non dubium manet, ne autem quispiam arbitretur nos in sanctorum iniuriam prorupisse patrum, presertim cum non sit incog(ni)tum quod hac de causa sanxerit synoda sancta, videlicet "De libris recipiendis". Aut ne recolligendis audiat nos hec scriptitasse quo noverint contemptores supermemorati mensuram propriam, et ne ausu temerario metas veteranorum ac 
+      <pb n="[153]" />monimenta infringere patrum--in quibus nullum omnino consistit nevum: delicti et sua statu(ere) dogmata.</p>
+      <p id="AURMDAP0302">(Quidam) hoc et hiis similia aparentibus constituta quam ridiculose ceperint destruere. Valde absurdum fuit litteris non commendare. Nempe distinctiones certis observande sunt in locis ut in hoc eodem responsorio, sed enim in nonadecima sillaba distinctionem facientes, (scilicet) in "i", ut</p>
+      <p id="AURMDAP0303">Aspitiens a longe.</p>
+      <p id="AURMDAP0304">Innepte agunt (animus) intelligentibus auferentes intellectum. Sed ita pocius est distinguendum "Aspitiens a longe" canoris et prima distinctio.</p>
+      <p id="AURMDAP0305">Rursus "Ecce video", secunda tumdemum adnectendu(m) est "Dei potentiam venientem". Hoc autem nequit fieri nisi mellodia vocis que fit in "-o", ut "video", in antecedenti effitiatur sillaba, videlicet "de", quo possit in "-o" distinctio esse perfecta. Penitus precanentes quatenus corecte verba producte proferamus si necessitas exegit, et producta corepte, qua(m) verborum distinctiones ordi(ni)s canamus confuxione.</p>
+      <p id="AURMDAP0306">Secunda in responseiorum versibus est varietas quoniam melodia in diversam inflectitur partem quemadmodum hoc ... [=XVI.9]</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Quomodo de arithmetica procedit musica</title>
+        <title type="abbrev">ANOQUOM</title>
+        <author>Anonymous</author>
+        <date notBefore="800" notAfter="1099">9th-11th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Jingfa Sun</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Angela Mariani</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1995</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>Patrologia cursus completus, series latina</emph>, ed. J. P. Migne, 221 vols. (Paris: Garnier, 1844-1904), 141:435–44.
+</bibl>
+        <bibl type="work">
+          
+<title>Ps.-Guido Aretinus: "Quinque sunt in arithmetica inaequalitatis genera"</title>
+          
+<idno type="LML">PS.-GUIDO arithm.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 14663, 11-14v</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANOQUOM0001">
+      <pb n="[435]" />QUOMODO DE ARITHMETICA PROCEDIT MUSICA</p>
+      <p id="ANOQUOM0002">Quinque sunt in Arithmetica inaequalitatis genera. Ex quibus tria postrema respuens musica primum tantum et secundum admittit, id est multiplex et superparticulare. Est vero multiplex, ubi major numerus minorem numerum habet in se totum vel 
+      <pb n="[436]" />bis vel ter vel quater ac deinceps, nihilque deest et nihil exuberat. Ex hujus generis radice oritur prima et perfectissima symphonia, quae dicitur diapason, et est in dupla proportione, et bis diapason quae quadrupla proportione colligitur. Superparticulare vero 
+      <pb n="[437]" />est, quando major numerus minorem habet in se totum, et unam ejus aliquam partem, eamque vel dimidiam, ut tria ad duo et vocatur sesquialtera, vel sescupla, vel emiolia proportio. Vel tertiam, ut quatuor ad tria et vocatur sesquitertia vel epitrita proportio et deinceps. Ex hujus generis radice oriuntur duae symphoniae diapente et diatessaron. Et diapente sesquialtera, diatessaron vero sesquitertia vocatur. Tonus quoque ex eodem genere procedens sesquioctava proportione colligitur. Reliqua autem inaequalitatis genera rejiciuntur, quia dum major numerus minorum non parte sed partibus superat, evenit ut voces etiam his mensuratae confusae et absonae fiant. Versatur igitur in multiplici genere dupla, tripla, quadruplaque porportio. Et dupla facit diapason, ut sunt IV ad VIII. Tripla vero, ut sunt II ad VI. Quadrupla etiam, ut IV ad XVI bis diapason constituit.</p>
+      <p id="ANOQUOM0003">Versatur vero in superparticulari genere sesquialtera vel sesquitertia et sesquioctava proportio. Et sesquialtera, ut sunt VI ad IX vel VIII ad XII diapente. Sesquitertia autem ut VI ad VIII vel IX ad XII diatessaron. Mista vero sesquialtera et sesquitertia faciunt diapason.</p>
+      <p id="ANOQUOM0004">[PLCXLI:437; text: ut diapason. VI. diapente VIIII. diatessaron XII.] 
+      <figure>
+        <graphic url="/images/ANOQUOM_01GF.gif" />
+      </figure></p>
+      <p id="ANOQUOM0005">Sesquioctava vero, ut sunt VIII ad IX tonum efficit. Multiplex ergo inaequalitatis genus diapason per duplum ut I ad II diapason et diapente per triplam ut I ad III bis diapason per quadruplam ut I ad IV generat proportionem. Superparticulare autem inaequalitatis genus diapente per sesquialteram diatessaron per sesquitertiam, tonum per sesquioctavam creat proportionem.</p>
+      <p id="ANOQUOM0006">De Vocibus VII.</p>
+      <p id="ANOQUOM0007">Septem sunt diversae voces, quae iterum sicut septimanae dies repetitae duo diapason complent. Ultra haec duo diapason monochordum non debet extendi, quia omnis chorda gravioris diapason alteram in acuto diapason sibi concinentem habet. Ideo etiam infra sesquitertium idem diatessaron non potest coaptari, quia cum diapason V tonorum et duorum semitoniorum, diapente trium, tonorum et unius semitonii diatessaron duorum tonorum et unius semitonii capax est, in duobus diapason quatuor troporum quaterna positio invenitur. Sic haec partim speciales sunt, ut graves subjugalibus, excellentes authenticis; partim communes tam subjugalibus quam authenticis, ut finales et superiores, in quibus subjugales cum magistris, id est diapente, ad hoc etiam Saeculorum amen quamvis non eisdem chordis, in eisdem tamen tetrachordis fines quoque quos et magistri sortiuntur.</p>
+      <p id="ANOQUOM0008">De Tropis sive tonis.</p>
+      <p id="ANOQUOM0009">Tropi quos abusive tonos nominamus quatuor sunt natura secundum gentium vocabula. Sunt autem dicti dorius, phrygius, lidius, mixolidius. 
+      <pb n="[438]" />Secundum monochordi vero positionem sic sunt vocati: Protus, deuterus, tritus, tetrardus, secundum litterarum autem ordine sic:</p>
+      <p id="ANOQUOM0010">[PLCXLI:438; text: A B C D E F G a [sqb] c d e f g aa.]</p>
+      <p id="ANOQUOM0011">Protus hac ratione constat ab A in d. Deuterus a B in E. Tritus a c in f. Tetrardus a D in G. Sed cum acumen gravitatem, gravitas acumen confunderet, concilium fuit, ut quisque tropus partiretur in duos, ut gravia gravibus, acuta convenirent acutis. Et acuti authentici: graves vero Graece plagae, Latine subjugales vel laterales vocarentur. Horum primus hypodorius cantatur ab A in a. Secundus hypophrygius a B in [sqb] tertius hypolidius a C in c. Quartus hypomixolidius a D in d. Dorius item authenticus a D in d. Phygius ab E in e. Lidius ab F in f. Mixolidius a G in g. Quatuor hi modi ita naturaliter sunt disjuncti, ut alter alteri in sua sede locum non tribuat, alter alterius neumam aut nunquam recipiat, aut transformet. Ut sunt haec in offertoriis. Jubilate. Ipse est Deus, et cetera. Deo nostro. Filiae regum. Varietate. Justitiae Domini. Factus est, et cetera. In ea sanctificatur, et cetera. Filiorum, et cetera.</p>
+      <p id="ANOQUOM0012">Omnis ergo diatessaron vel diapente vel diapason species a quovis tropo, cujus est, incipit, et in eumdem desinit. Quapropter illae species, quae ab uno incipiunt et in alium desinunt, licet quidem regularem tonorum et semitonii positionem habeant, tamen non sunt omnino naturales, ut D et G E et a. Aliae quoque quae, in quo incipiunt, non finiuntur tropo, nec consuetam diatessaron habent positionem, id est, duos tonos et semitonium ut est f et [sqb] omnino abjiciendae sunt. Similiter et diapente B et f quae non habent III tonorum et semitonii positionem, non sunt recipiendae. Unde omnes regulares diatessaron species a gravibus, diapente vero a finalibus oriuntur.</p>
+      <p id="ANOQUOM0013">Tetrachorda in monochordo bifariam fiunt, scilicet secundum mensuram et secundum troporum institutionem. Quae autem secundum mensuram construuntur, habent semitonium in ultimo. Nam ita numerantur tonus tonus semitonium habent quoque conjunctionem tetrachorda, quod Graece dicitur synaphe in E. Disjunctos vero tonos, quod graece dicitur diezeusis, inter A et B. Quae vero secundum troporum institutionem construuntur, habent semitonium in medio. Nam ita numerantur. tonus semitonium tonus Habent quoque synaphe in D et d diezeusin vero in A et G et inter a et g. In hac tetrachordorum institutione cujusque tetrachordi prima littera proti est, secunda deuteri, tertia triti, quarta communis proto et tetrardo, ut D et d vel specialis tetrardi, ut G et g. Protus habet diatessaron A D a d deuterus vero B E [sqb] e tritus quoque C F c f tetrardo servit D G et d g.</p>
+      <p id="ANOQUOM0014">Dorius est authenticus, hypodorius subjugalis, phrygius authenticus, hypophrygius subjugalis, lidius authenticus, hypolidius subjugalis, mixolidius dicitur authenticus, hypomixolidius subjugalis,</p>
+      <p id="ANOQUOM0015">
+      <pb n="[439]" />Quod itaque tropi vocantur protus, deuterus, tritus, tetrardus, id est primus, secundus, tertius, quartus, hoc fit positione monochordi, non pro dignitate. Quisque enim illorum per se authenticus est, id est auctoralis sive magister.</p>
+      <p id="ANOQUOM0016">Ab A usque D omnes diatessaron species construuntur naturaliter, quia in quarto spatio totius monochordi diatessaron reperitur. Prima autem diatessaron species est proti, ab A in D constans tonus semitonium tonus. Secunda est deuteri a B in E constans semitonium tonus tonus. Tertia est triti a C in F constans tonus tonus semitonium. Quarta est communis proto et tetrardo constans eadem forma qua prima, ut a D in G. Si ea protus utitur ascendendo ut est: Fac mecum. Tetrardus vero descendendo, ut est: Dabo in Sion Judaea et Jerusalem. Si quam aliam diatessaron speciem inveneris, quia in hac regulari institutione locum non habet, repudianda est, ut est ab F in [sqb] constans tonus tonus tonus.</p>
+      <p id="ANOQUOM0017">Qualiter diapason species construuntur.</p>
+      <p id="ANOQUOM0018">Omnes diapason species ita construuntur, ut a priori diapason incipiant, et in posteriori desinant; quia in secundo totius monochordi spatio diapason reperitur. Sciendum est, quod omnis cantilenae legalis ascensus et descensus per diapason construitur. Prima autem diapason species est subjugalis proti ab A in a media D secunda est subjugalis deuteri a B in [sqb], media E. Tertia est subjugalis triti a C in c media F. Quarta est communis proti et tetrardi subjugalis a D in d media G. Hic est legitimus subjugalium ascensus et descensus.</p>
+      <p id="ANOQUOM0019">Item ad ascensum et descensum authenticorum quatuor diapason species numerantur. Si de prima dictum est, quod quarta sit, quantum ad subjugalem tetrardi, prima quantum ad protum authenticum haec est a D in d media a. Secunda est deuteri authentici ab E in e media [sqb] Tertia est triti authentici, a F in f media c. Quarta est tetrardi authentici a G in g media d. Hic est legitimus authenticorum ascensus et descensus. Reliquarum in utramvis partem vocum adjectiones licentia vel auctoritate fiunt.</p>
+      <p id="ANOQUOM0020">Duo sunt diapason. In utroque horum omnis tropus duas habet litteras. Protus in priori habet A D in secundo a d. Deuterus in priori habet B E in secundo [sqb], e. Tritus in priori habet C F in secundo c f tetrardus in priori habet D et G in secundo d et g.</p>
+      <p id="ANOQUOM0021">Subjugales in gravibus, principantur, ab excellentibus excluduntur, in finalibus et superioribus communicant. Graves et superiores subjugalium finales et excellentes limites sunt authenticorum. Tetrachordum gravium est gravissimus cantilenae descensus. Tetrachordum finalium est melodiae exitus. Tetrachordum superiorum dat initia differentiarum, id est saeculorum amen, excipitur saeculorum amen secundi toni. Tetrachordum excellentium est altissimus cantilenae ascensus.</p>
+      <p id="ANOQUOM0022">Authentici in finalibus terminantur, in superioribus mediantur, et per saeculorum amen, initiantur, 
+      <pb n="[440]" />in excellentibus exaltantur, subjugales in gravibus deponuntur, in finalibus mediantur, et terminantur, in superioribus exaltantur.</p>
+      <p id="ANOQUOM0023">Protus in authentica ratione constans a D in d habet mediam a. Deuterus in authentica ratione constans ab E in e habet mediam [sqb]. Tritus in authentica ratione constans ab F in f habet mediam C. Tetrardus in authentica ratione constans a G in g habet mediam d. In subjugalibus medietates et fines unum sunt.</p>
+      <p id="ANOQUOM0024">In authenticis medietates et saeculorum amen idem sunt. Protus indifferenter constans ab A in d habet duas medias d et a. Deuturus indifferenter constans a B in e habet duas medias E et [sqb]. Tritus indifferenter constans a C in F habet duas medias F et c. Tetrardus indifferenter constans a D in g habet duas medias G et d. Subjugales a gravibus per finales in superiores ascendunt. Authentici a finalibus per superiores in excellentes scandunt. Subjugales diatessaron infra, diapente supra, authentici autem diapente infra, diatessaron habent supra.</p>
+      <p id="ANOQUOM0025">De agnitione quatuor modorum.</p>
+      <p id="ANOQUOM0026">Primus modus vocum fit, ubicunque vox tono poterit remitti, et prima specie diapente intendi, ut in A et D, a et d principalibus chordis proti valet agnosci, ut haec probat antiphona Prophetae praedicaverunt. Secundum modum vox ditono remissa, et secunda specie diatessaron intensa pandit, qui fit in B et E, [sqb] et e principalibus chordis deuteri, hunc plagaliter haec pandit antiphona Gloria haec est. Tertius modus tertia specie diatessaron remittitur, et ditono intenditur, sicut triti speciales chordae C F c et f declarant. Hujus modi indicium est in hac plagali antiphona: Modicum et non videbitis. Quartum modum vocum tono intensum, et quarta specie diapente remissum tetrardo aptamus: quia ipsius principales chordae D et G d et g illum conficiunt, qui modus et authentice et plagaliter dignoscitur in Antiphona: Si vere fratres. Multi veniunt. Notandum est, quod cum quisque troporum in propria chorda saeculorum amen habeat, utpote protus in a tritus in c tetrardus in d solus deuterus saeculorum amen propter imperfectionem semitonii a [sqb] transfert in c. Nullus autem subjugalis cum suo magistro in eadem littera saeculorum amen collocat, sed semper inferius, ut pote protus in a sola ejus plaga in f deuterus in c plaga ejus in a tritus in c plaga ejus in a tetrardus solus d plaga ejus in c.</p>
+      <p id="ANOQUOM0027">Quaeritur de specie diapason, quae est a D in d cum sit tam proto, quam tetrardo communis, quare non unum, sed duos modos efficiat. Quod ita solvitur, protus habet finem in D mediam distinctionem in a tetrardi subjugales habet tam finem quam mediam distinctionem in G protus vero versans in subdistinctionibus, mediisque distinctionibus, et fine circa a vel D propriam quoque diatessaron et diapente speciem frequentat; subjugalis autem tetrardi suis quoque speciebus intentus per cola, et commata maxime circa G versans, diversos omnino modos 
+      <pb n="[441]" />efficiunt, protus saepius intendendo, tetrardus vero, saepius remittendo.</p>
+      <p id="ANOQUOM0028">Sola littera D in monochordo bis principalis est, est enim proti eadem principalis. Ipsius enim diatessaron a et d circumscribitur. Est etiam eadem D ejusdem proti cantilenae finalis. Littera ipsa ad principalis est tetrardi. Per ipsam enim et per specialem suam g ejus diatesseron circumscribitur. Unde eadem quarta diatessaron species proti est tantum in forma, propria autem tetrardi, quia ejus principalibus chordis d et g clauditur. Est communis eadem D, quia est ultima gravium et prima finalium. Est et finis proti, et gravissimus tetrardi D per diatessaron descensus. Littera superius d altissimus est proti ascensus ac tetrardi saeculorum amen, et ultima est superiorum, et prima excellentium.</p>
+      <p id="ANOQUOM0029">Omnis vox ad sibi vicinam et jusum vel susum semitonium est aut tonus, omnis vox ad tertiam a 
+      <pb n="[442]" />se semiditonus est, aut ditonus. Omnis vox ad quartam a se, diatessaron est, exceptis F et [sqb] quadrato. Omnis vox ad quintam a se diapente est, exceptis B et F b et f.</p>
+      <p id="ANOQUOM0030">Omnis cantus una vel duabus vocibus infra finalem descendens et super diapente aliquam vel omnes suas voces si attigerit, authentici erit. Omnis cantus, qui IV. sive V vocibus infra finalem descenderit, et nihil super diapente tetigerit, subjugalis erit. Omnis cantus, qui plene plagalem depositionem habuerit, si super diapente unam vel duas voces tetigerit, subjugalis erit. Omnis cantus infra finalem unum vocem habens, et supra diapente non vadens, subjugalis erit. Omnis cantus in V vocibus tantum se continens potest esse communis, sed ei tribuatur, cujus frequentior habetus. Omnis cantus ad V voces non pertingens pro sui imperfectione subjugalis erit.</p>
+      <p id="ANOQUOM0031">
+      <pb n="[441-42]" />De inventione synemenon.</p>
+      <p id="ANOQUOM0032">Vult ita synemenon vocum gravitas ut acumen,</p>
+      <p id="ANOQUOM0033">Illud ab ac duplici poterit ratione probari.</p>
+      <p id="ANOQUOM0034">Respicit octavum quia quaevis vocula nervum</p>
+      <p id="ANOQUOM0035">Vult quoque synemenon resonare suum diapason</p>
+      <p id="ANOQUOM0036">Et propria specie stat quisque tropus diapente</p>
+      <p id="ANOQUOM0037">Authentus supra, lateralis habet suus infra.</p>
+      <p id="ANOQUOM0038">Vult protus ex prima, deutrus constare secunda,</p>
+      <p id="ANOQUOM0039">Tertius ex trita specie, quartus quoque quarta.</p>
+      <p id="ANOQUOM0040">Ecce proti deutri lateralis item quoque triti.</p>
+      <p id="ANOQUOM0041">More suo jam non fieret nisi per synemenon.</p>
+      <p id="ANOQUOM0042">Id cantus multi solidabunt Gregoriani.</p>
+      <p id="ANOQUOM0043">Imperitat chordis primis protus in tetrachordis</p>
+      <p id="ANOQUOM0044">Scilicet A D G quae designantur et a d.</p>
+      <p id="ANOQUOM0045">Stans prima specie diatessaron et diapente.</p>
+      <p id="ANOQUOM0046">Sic tetrachordorum voces habet ordo troporum</p>
+      <p id="ANOQUOM0047">Stat deutris deutrus, quia vocibus ut speciebus</p>
+      <p id="ANOQUOM0048">Sicut cuique datur series sua, sic variatur.</p>
+      <p id="ANOQUOM0049">De speciebus diatessaron.</p>
+      <p id="ANOQUOM0050">Se diapente quater variat, diatessaron ut ter,</p>
+      <p id="ANOQUOM0051">Stat natura tribus diatessaron in speciebus.</p>
+      <p id="ANOQUOM0052">Limmate prima tono constat utrinque dato</p>
+      <p id="ANOQUOM0053">Limma secunda tonis, postponit formuli binis.</p>
+      <p id="ANOQUOM0054">Tertia limma tonos collocat ante duos.</p>
+      <p id="ANOQUOM0055">[A D B E [Gamma] C diatessaron in marg.]</p>
+      <p id="ANOQUOM0056">De speciebus diapente.</p>
+      <p id="ANOQUOM0057">Sunt ita distinctae species quas fert diapente</p>
+      <p id="ANOQUOM0058">Prima fit ex ditono, limmate de quo tono [ut a [Gamma] ad D. in marg.]</p>
+      <p id="ANOQUOM0059">Ex tritono deutra cum limmate * tertia contra. [* ut ab F ad c. [sqb] mediante. * ut ab E ad [sqb] in marg.]</p>
+      <p id="ANOQUOM0060">Constat quarta tono, limmate cum ditono. [**ut ab A ad E grave. in marg.]</p>
+      <p id="ANOQUOM0061">De proprietatibus troporum.</p>
+      <p id="ANOQUOM0062">Nobilitas primi juvat anfractusque secundi</p>
+      <p id="ANOQUOM0063">Quarti garrulitas placet, et tua trite voluptas</p>
+      <p id="ANOQUOM0064">Ubi tetrachordum et diezeuxis.</p>
+      <p id="ANOQUOM0065">Ex his D G d tetrachorda notantur utrinque</p>
+      <p id="ANOQUOM0066">Inter G simul A diezeuzis bis patet una.</p>
+      <p id="ANOQUOM0067">De VI symphoniis.</p>
+      <p id="ANOQUOM0068">Symphoniae simplae sunt tres, totidem quoque junctae</p>
+      <p id="ANOQUOM0069">
+      <pb n="[443-44]" />Diapason simplae, diatessaron, et diapente</p>
+      <p id="ANOQUOM0070">Dicuntur junctae, diapason cum diapente</p>
+      <p id="ANOQUOM0071">Cum diapente tonus, diatessaron ad diapason.</p>
+      <p id="ANOQUOM0072">De cognatione proti et tetrardi.</p>
+      <p id="ANOQUOM0073">Hinc aut inde tonum, si junxeris ad tetrachordum</p>
+      <p id="ANOQUOM0074">Vel prima specie, quartave datur diapente</p>
+      <p id="ANOQUOM0075">Inde prioratus primi patet atque tetrardi.</p>
+    </body>
+  </text>
+</TEI>

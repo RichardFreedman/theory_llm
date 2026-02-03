@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Ars motettorum compilata breviter</title>
+        <title type="abbrev">PETARS</title>
+        <author>Petrus Picardus</author>
+        <date notBefore="1200" notAfter="1299">13th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Stephen E. Hayes</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Peter M. Lefferts</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Bradley Jon Tucker</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1992</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Petrus Picardus, 
+<emph>Ars motettorum compilata breviter</emph>, ed. F. Alberto Gallo; Anonymus, 
+<emph>Ars musicae mensurabilis secundum Franconem (Mss. Paris, Bibl. Nat., lat. 15129; Uppsala, Universiteitsbibl., C 55)</emph>, ed. Gilbert Reaney and André Gilles; Anonymus, 
+<emph>Compendium musicae mensurabilis artis antiquae (Ms. Faenza, Biblioteca Comunale 117)</emph>, ed. F. Alberto Gallo, Corpus scriptorum de musica, vol. 15 ([Rome]: American Institute of Musicology, 1971), 16–24. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Petrus Picardus: Ars motettorum compilata breviter</title>
+          
+<idno type="LML">PETR. PIC.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 16663, 83rb-84vb</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Nn XVI.A.15, 1v-3</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">S-Uu C 453, 172-173v</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="PETARS0001">
+      <pb n="[16]" />Incipit ars motettorum compilata breviter</p>
+      <p id="PETARS0002">Quoniam nonnulli, maxime novi auditores, compendiosa brevitate letantur, quatuor tantum capitula mensurabilis musice, que quidem sunt ipsis novis auditoribus necessaria, breviter enodabo; dictaque mea arti magistri Franconis de Colonia necnon et arbori magistri Johannis de Burgundia, quantumcumque potero, conformabo.</p>
+      <p id="PETARS0003">Primum vero capitulum erit de simplicibus figuris, secundum de ligaturis, tertium de pausationibus, quartum et ultimum fit de modis.</p>
+      <p id="PETARS0004">I De simplicibus figuris</p>
+      <p id="PETARS0005">Figurarum simplicium tres sunt species, que tres ramos perficiunt in Johannis arbore supradicti. Longa, ut hic: [L]; brevis, ut hic: [B]; semibrevis, ut hic: [S].</p>
+      <p id="PETARS0006">Longa quidem in tres dividitur, scilicet in longam perfectam, in longam inperfectam, et in duplicem longam sic formatam: [2L].</p>
+      <p id="PETARS0007">Longa perfecta valet tria tempora, et hoc potest fieri multis modis.</p>
+      <p id="PETARS0008">Primo, si longam longa sequatur, tunc prima longa semper est perfecta, ut hic:</p>
+      <p id="PETARS0009">[CSM15:16,1; text: Pater omnium] 
+      <figure>
+        <graphic url="/images/PETARS_01GF.gif" />
+      </figure></p>
+      <p id="PETARS0010">Secundo fit longa perfecta, si longam tractulus, qui signum perfectionis dicitur, inmediate sequatur, ut hic:</p>
+      <p id="PETARS0011">[CSM15:16,2; text: Ja n'amerai autre]</p>
+      <p id="PETARS0012">Tertio, si longam sequantur due breves nulla brevi precedente, ut hic:</p>
+      <p id="PETARS0013">
+      <pb n="[17]" />[CSM15:17,1; text: O Maria beata]</p>
+      <p id="PETARS0014">Quarto fit longa perfecta, si longam inmediate tres breves sequantur sola brevi etiam non precedente, ut hic:</p>
+      <p id="PETARS0015">[CSM15:17,2; text: Prebeat auxilium]</p>
+      <p id="PETARS0016">Sic patet quot modis potest fieri longa perfecta.</p>
+      <p id="PETARS0017">Longa vero inperfecta duobus tantum temporibus mensuratur, et potest fieri multis modis.</p>
+      <p id="PETARS0018">Primo, si longam sola brevis antecedat, licet ipsam longam sola brevis sequatur vel due vel tres vel plures, ut hic:</p>
+      <p id="PETARS0019">[CSM15:17,3; text: Gaude chorus]</p>
+      <p id="PETARS0020">Secundo fit longa inperfecta, si longam sola brevis sequatur, ut hic:</p>
+      <p id="PETARS0021">[CSM15:17,4; text: Mellis stilla]</p>
+      <p id="PETARS0022">Tertio fit longa inperfecta, si due breves longam sequantur signum divisionis in medio earum habentes, ut hic:</p>
+      <p id="PETARS0023">[CSM15:17,5; text: Dari tradi capi]</p>
+      <p id="PETARS0024">Quarto fit longa inperfecta, si longam tres breves sequantur habentes tractulum divisionis inter primam brevem et due sequentes, ut hic:</p>
+      <p id="PETARS0025">[CSM15:17,6; text: Manus pedes perforari]</p>
+      <p id="PETARS0026">
+      <pb n="[18]" />Quinto modo fit longa inperfecta, si plures breves quam tres sequantur longam posito quoque signo divisionis inter primam brevem et tres vel plures sequentes, ut hic:</p>
+      <p id="PETARS0027">[CSM15:18,1; text: Mamelettes a si durettes] 
+      <figure>
+        <graphic url="/images/PETARS_02GF.gif" />
+      </figure></p>
+      <p id="PETARS0028">Et sic apparet quot modis potest fieri longa inperfecta.</p>
+      <p id="PETARS0029">Brevis in duas dividitur, scilicet in brevem rectam et alteram brevem.</p>
+      <p id="PETARS0030">Recta quidem brevis tantum valet unum tempus et fit ubicumque est sola brevis vel plures quam due, sicut visum est in exemplis supra scriptis.</p>
+      <p id="PETARS0031">Altera vero brevis est que valet duo tempora et hoc fit ubicumque sunt tantummodo due breves inter duas longas vel inter plures breves et longam dum tamen per signum divisionis ab aliis distinguantur, et tunc ultima illarum altera brevis dicitur, sed penultima recta brevis appellatur; et hoc prius patuit, declaratur etiam per aliud exemplum, ut hic:</p>
+      <p id="PETARS0032">[CSM15:18,2; text: Presentis mentis est inopia]</p>
+      <p id="PETARS0033">Et sic patet de recta brevi et de altera brevi.</p>
+      <p id="PETARS0034">Notandum est, quod in regulis prius dictis idem est iudicium de brevibus et semibrevibus.</p>
+      <p id="PETARS0035">Sed intelligendum est, semibrevium plures quam tres pro recta brevi non posse accipi, quantum est de arte, et tunc sunt omnes equales et dicitur quelibet minor semibrevis, ut hic:</p>
+      <p id="PETARS0036">[CSM15:18,3; text: Doy seloes xam]</p>
+      <p id="PETARS0037">nec minus quam due, quarum prima minor, secunda vero maior semibrevis dicitur, hec duas partes valet unius temporis vel recte brevis, ut hic:</p>
+      <p id="PETARS0038">
+      <pb n="[19]" />[CSM15:19,1; text: In veritate]</p>
+      <p id="PETARS0039">Et sic patet de semibrevibus quantum ad valorem earum.</p>
+      <p id="PETARS0040">Sed sciendum est, quod quandocumque plures semibreves inveniuntur alicubi quam due, tunc due et due pro uno tempore debent accipi, ut hic:</p>
+      <p id="PETARS0041">[CSM15:19,2; text: A ma dame ke j'avoie]</p>
+      <p id="PETARS0042">sed si tres pro uno tempore posite sunt et tres sequantur, ut hic:</p>
+      <p id="PETARS0043">[CSM15:19,3; text: Pro nobis exorans]</p>
+      <p id="PETARS0044">vel due sequantur tres, ut hic:</p>
+      <p id="PETARS0045">[CSM15:19,4; text: Et ke de nuleriens neyma]</p>
+      <p id="PETARS0046">vel etiam tres sequantur duas, ut hic:</p>
+      <p id="PETARS0047">[CSM15:19,5; text: En cantera li pri ke la mentile]</p>
+      <p id="PETARS0048">tunc semper ponendus est tractulus, qui divisionem significat, inter tres et tres vel inter tres et duas vel inter duas et tres, ut in exemplis superius datis.</p>
+      <p id="PETARS0049">Preterea omnes simplices figure plicari possunt, excepta semibrevi cui repugnat plica propter eius figurationem.</p>
+      <p id="PETARS0050">Longa plicabilis est dupliciter, ascendendo scilicet et descendendo. Ascendendo sic: [Bpssncsdx,Bpssncsdx,Bpssncsdx]; sed descendendo sic: [Lpdsn,Lpdsn,Lpdsn].</p>
+      <p id="PETARS0051">
+      <pb n="[20]" />Item brevis quoque dupliciter plicatur, ascendendo et descendendo. Ascendendo sic: [Bcssnpsdx,Bcssnpsdx,Bcssnpsdx]; sed descendendo sic: [Bcdsnpddx,Bcdsnpddx,Bcdsnpddx].</p>
+      <p id="PETARS0052">Et in hoc apparent plice simplicium figurarum et per consequens totum capitulum earum.</p>
+      <p id="PETARS0053">II De figuris ligatis</p>
+      <p id="PETARS0054">Figurarum ligatarum alia est ascendens, alia descendens.</p>
+      <p id="PETARS0055">Ascendens dicitur ligatura quando secundus punctus altior est primo, ut hic:</p>
+      <p id="PETARS0056">[Lig2art,Lig3aa,Lig2art,Lig3aacddx,Lig6aadoaacddx,Lig2cssnoa,Lig2oa,Lig3cssnoaacddx on staff3]</p>
+      <p id="PETARS0057">Descendens vero e contrario dicitur, scilicet quando primus punctus altior est secundo, ut hic:</p>
+      <p id="PETARS0058">[Lig2cdsnd,Lig3cdsnodd,Lig2od,Lig3dd,Lig4ddod,Lig3cdsndod on staff3]</p>
+      <p id="PETARS0059">Item ligaturarum tam ascendentium quam descendentium alia cum proprietate, alia sine proprietate, alia cum opposita proprietate. His tribus differentiis differunt essentialiter ab invicem omnia principia ligaturarum, ut in magna arte magistri Franconis prius dicti declaratur; sed a fine duabus tantum differentiis differunt ab invicem ligature, scilicet perfectione et inperfectione.</p>
+      <p id="PETARS0060">Media vero ligaturarum nullas habent differentias essentiales, quia omnia media idem dicuntur significare, ut postea apparebit.</p>
+      <p id="PETARS0061">Et sequuntur regule omnium ligaturarum.</p>
+      <p id="PETARS0062">Omnis ligatura ascendens cum proprietate dicetur si careat omni tractu, ut hic:</p>
+      <p id="PETARS0063">
+      <pb n="[21]" />[Lig2art,Lig3ad,Lig4ada,Lig8aaaaodaart,Lig5adad on staff3]</p>
+      <p id="PETARS0064">que si tractum habeat a primo puncto descendentem a parte sinistra, ut hic:</p>
+      <p id="PETARS0065">[Lig2cdsnart,Lig3cdsnaart,Lig3cdsnad,Lig4cdsnadd,Lig4cdsnada,Lig6cdsnadddacddx on staff3]</p>
+      <p id="PETARS0066">vel dextra, quod magis proprium est, ut hic:</p>
+      <p id="PETARS0067">[Lig3Lad,Lig4Laodacddx,Lig5Laaddcddx,Lig5cdsncddxadaacddx on staff3]</p>
+      <p id="PETARS0068">tunc sine proprietate dicetur.</p>
+      <p id="PETARS0069">Item omnis ligatura descendens tractum gerens a primo puncto descendentem cum proprietate dicetur, ut hic:</p>
+      <p id="PETARS0070">[Lig2cdsnd,Lig3cdsnodd,Lig3cdsndart,Lig3cdsndod,Lig7cdsndaaddd on staff3]</p>
+      <p id="PETARS0071">que si careat tractu, sine proprietate dicetur, ut hic:</p>
+      <p id="PETARS0072">[Lig2d,Lig2od,S,S,S on staff3]</p>
+      <p id="PETARS0073">Item omnis ligatura tam ascendens quam descendens tractum gerens a primo puncto ascendentem cum opposita proprietate dicetur, ut hic:</p>
+      <p id="PETARS0074">[Lig2cssna,Lig2cssnod,Lig3cssndod,Lig4cssnaaacddx,Lig3cxssnodd,Lig7cssnoaadoaad on staff3]</p>
+      <p id="PETARS0075">A parte autem finis tales dantur regule.</p>
+      <p id="PETARS0076">Omnis ligatura, cuius ultimus punctus recte stat supra penultimum, est perfecta, ut hic:</p>
+      <p id="PETARS0077">[Lig4aaart,Lig3cdsnodart,Lig4cdsnodaart,Lig2art on staff3]</p>
+      <p id="PETARS0078">vel sub penultimo, ut hic:</p>
+      <p id="PETARS0079">
+      <pb n="[22]" />[Lig2cdsnd,Lig4cdsnodad on staff3]</p>
+      <p id="PETARS0080">vel averso capite et cum plica, ut hic:</p>
+      <p id="PETARS0081">[Lig2acddx,Lig3aacddx,Lig3cdsnodacddx,Lig4aaacddx,Lig3cdsnodacddx on staff3]</p>
+      <p id="PETARS0082">Item omnis ligatura, cuius ultimus punctus averso capite stat supra penultimum sine plica, est inperfecta, ut hic:</p>
+      <p id="PETARS0083">[Lig3aa,Lig2a,Lig3cdsnoda,Lig3cdsnoda,Lig3aa,Lig4aaa on staff3]</p>
+      <p id="PETARS0084">Similiter omnis ligatura, cuius duo ultima puncta in uno corpore obliquo tam ascendente quam descendente commiscentur, est inperfecta, ut hic:</p>
+      <p id="PETARS0085">[Lig3dod,Lig3aoa,Lig4adod,Lig3aod on staff3]</p>
+      <p id="PETARS0086">Sequitur de plicis ligaturarum.</p>
+      <p id="PETARS0087">Omnis ligatura plicabilis est dupliciter, scilicet ascendendo et descendendo.</p>
+      <p id="PETARS0088">Plicatur enim ligatura perfecta ascendendo sic:</p>
+      <p id="PETARS0089">[Lig2dpsdx,Lig3cdsnddpsdx,Lig3cdsnodapsdx,Lig4cdsndoddpsdx,Lig4dddpsdx,Lig3cdsnoddpsdx on staff3]</p>
+      <p id="PETARS0090">sed eadem descendendo sic plicatur:</p>
+      <p id="PETARS0091">[Lig2apddx,Lig2dpddx,Lig2apddx,Lig3ddpddx on staff3]</p>
+      <p id="PETARS0092">Similiter vero ligatura inperfecta plicari potest dupliciter, ascendendo sic:</p>
+      <p id="PETARS0093">[Lig2cdsnodpsdx,Lig3cdsndodpsdx,Lig3cdsnoddpsdx,Lig3cdsndodpsdx on staff3]</p>
+      <p id="PETARS0094">sed eadem descendendo sic plicatur:</p>
+      <p id="PETARS0095">[Lig2cdsnodpsdx,Lig3cdsndodpsdx,Lig3cdsnoddpsdx,Lig3cdsndodpsdx on staff3]</p>
+      <p id="PETARS0096">
+      <pb n="[23]" />Sequitur valor omnium quinque differentiarum predictarum.</p>
+      <p id="PETARS0097">Omnis proprietas est brevis, omnis sine proprietate longa, omnis opposita proprietas due prime semibreves, omnis perfectio longa, omnis inperfectio brevis.</p>
+      <p id="PETARS0098">Omnis media est brevis nisi per oppositam proprietatem per accidens semibrevietur.</p>
+      <p id="PETARS0099">Et hec quinque differentie in arbore dicti Johannis subtiliter declarantur.</p>
+      <p id="PETARS0100">Et nota, quod in ligaturis longa, brevis et semibrevis, quantum est de valore, subiacent regulis simplicium figurarum.</p>
+      <p id="PETARS0101">Et in hoc secundum capitulum terminatur.</p>
+      <p id="PETARS0102">III De pausis</p>
+      <p id="PETARS0103">Pausationum sex sunt species.</p>
+      <p id="PETARS0104">Prima est pausatio trium temporum. Secunda duorum. Tertia unius temporis. Quarta duarum partium unius temporis. Quinta tertie partis unius temporis. Sexta et ultima nullius temporis, sed potius inmensurabilis appellatur; causa inventionis eius fuit ut, ubicumque inveniretur, penultimam significaret esse longam.</p>
+      <p id="PETARS0105">Pausa trium temporum tria spatia vel valorem trium tegit, scilicet cum duobus integris et duobus semis. Pausa duorum temporum duo tegit spatia vel unum integrum et duo semis. Pausa unius temporis unum spatium tegit vel duo semis. Pausa duarum partium unius temporis duas partes unius spatii tegit. Pausa vero tertie partis unius temporis tertiam partem unius spatii tegit. Pausa autem que est inmensurabilis, finis punctorum appellatur, hec enim plus quam tria spatia tegit.</p>
+      <p id="PETARS0106">Et apparent forme earum omnium in exemplo:</p>
+      <p id="PETARS0107">[CSM15:23] 
+      <figure>
+        <graphic url="/images/PETARS_03GF.gif" />
+      </figure></p>
+      <p id="PETARS0108">
+      <pb n="[24]" />IV De modis</p>
+      <p id="PETARS0109">Modi secundum magistrum Franconem sunt quinque, licet secundum antiquos plures essent.</p>
+      <p id="PETARS0110">Primus procedit ex omnibus longis, ut hic:</p>
+      <p id="PETARS0111">[CSM15:24,1; text: In Bethleem Herodes]</p>
+      <p id="PETARS0112">vel ex longa et brevi, ut hic:</p>
+      <p id="PETARS0113">[CSM15:24,2; text: O Maria maris stella]</p>
+      <p id="PETARS0114">Secundus procedit ex brevi et longa, ut hic:</p>
+      <p id="PETARS0115">[CSM15:24,3; text: Marie preconio]</p>
+      <p id="PETARS0116">Tertius procedit ex longa et duabus brevibus, ut hic:</p>
+      <p id="PETARS0117">[CSM15:24,4; text: Salve stirps regalis stella matutina]</p>
+      <p id="PETARS0118">Quartus procedit ex duabus brevibus et longa, ut hic:</p>
+      <p id="PETARS0119">[CSM15:24,5; text: Honores mores]</p>
+      <p id="PETARS0120">Quintus et ultimus fit ex omnibus brevibus et semibrevibus, ut hic:</p>
+      <p id="PETARS0121">[CSM15:24,6; text: Non me sui entrenmis puis ke la florir vol]</p>
+      <p id="PETARS0122">Et sic finitur ars motettorum</p>
+    </body>
+  </text>
+</TEI>

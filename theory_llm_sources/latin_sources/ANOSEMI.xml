@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Capitulum de semibrevibus</title>
+        <title type="abbrev">ANOSEMI</title>
+        <author>Anonymous</author>
+        <date notBefore="1300" notAfter="1399">14th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Mark Butler</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>David Schneider</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>2002</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+F. Alberto Gallo, 
+<emph>Mensurabilis musicae tractatuli</emph>, Antiquae musicae italicae scriptores, vol. 1 (Bologna: Università degli Studi di Bologna, Istituto di Studi Musicali e Teatrali - Sez. Musicologia, 1966), 15. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: Tractatus de musica mensurabili: De semibrevibus</title>
+          
+<idno type="LML">MENS. Quandoc. due</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">I-PAVu 361, 70r-v</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANOSEMI0001">
+      <pb n="[15]" />[D]E SEMIBREVIBUS</p>
+      <p id="ANOSEMI0002">Quandocunque due semibreves ponuntur pro tempore, si prima semibrevis caudatur habet duas partes temporis, secunda habet terciam. Si vero tres fuerint et prima sit caudata, tunc ipsa habet terciam partem temporis et medietatem tercie, secunda habet medietatem tercie, ultima habet terciam. Si vero caudata fuerit in medio, tunc prima habet medietatem tercie partis temporis, caudata terciam et medietatem tercie, ultima habet terciam. Si vero caudata fuerit in fine, tunc prima semibrevis habet terciam partem temporis, secunda medietatem tercie, ultima habet terciam et medietatem tercie. Si vero fuerint quatuor, tunc caudata habet terciam et medietatem tercie, secunda medietatem tercie, et quelibet duarum habet medietatem tercie, sive ponatur caudata in principio vel in medio sive in fine. Si vero sint quinque, tunc caudata ubicunque ponatur habet terciam partem, et quelibet reliquarum habet medietatem tercie.</p>
+      <p id="ANOSEMI0003">[S]i vero cantus cantetur de inperfectis, tunc semibrevis que caudatur, si sint due, valet [tres] partes temporis, et alia valet quartam partem. Si vero sint tres, tunc illa que caudatur habet duas partes temporis, et quelibet sequencium habet quartam partem, quia tunc dividitur in quatuor partes equales.</p>
+    </body>
+  </text>
+</TEI>

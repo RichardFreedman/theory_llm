@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Item versi eiusdem acute divisionis</title>
+        <title type="abbrev">ANOVERS</title>
+        <author>Anonymous</author>
+        <date notBefore="800" notAfter="1099">9th-11th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Peter Slemon</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Jessica Sisk</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>2003</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Tilden A. Russell, "A Poetic Key to a Pre-Guidonian Palm and the Echemata," 
+<emph>Journal of the American Musicological Society</emph> 34 (1981): 109-118, 110.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: Versus de musica</title>
+          
+<idno type="LML">VERS. Indicis</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">B-Br 10078/95, 45v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">CZ-Pu XIX. C. 26, 40</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-St. Blasien without shelfmark, f</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 7211, 149v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-MC 318, 125-126</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANOVERS0001">
+      <pb n="[110]" />Indicis a summo capiens exordia primus,</p>
+      <p id="ANOVERS0002">In minimi primo flexu postrema reponit,</p>
+      <p id="ANOVERS0003">Quae sedes stat principium finisque secundi.</p>
+      <p id="ANOVERS0004">Tertius a summo rursum capit indicis ortum,</p>
+      <p id="ANOVERS0005">In summo finem distinguens auricularis,</p>
+      <p id="ANOVERS0006">Hic caput et finis quarti dinoscitur esse.</p>
+      <p id="ANOVERS0007">Indicis in medio quintus sumit caput artu,</p>
+      <p id="ANOVERS0008">Et medici finem modulaminis aptat in ungue,</p>
+      <p id="ANOVERS0009">Qui locus exortum sexti finemque tuetur.</p>
+      <p id="ANOVERS0010">Indicis hinc radix septeni perficit ortum,</p>
+      <p id="ANOVERS0011">Summus apex medii cuius postrema resumit,</p>
+      <p id="ANOVERS0012">Octavus hac sede caput finemque reponit.</p>
+    </body>
+  </text>
+</TEI>

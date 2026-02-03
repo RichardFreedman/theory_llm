@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>De modis musicis</title>
+        <title type="abbrev">ANODM</title>
+        <author>Anonymous</author>
+        <date notBefore="800" notAfter="1099">9th-11th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Elisabeth Honn</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Andreas Giger</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1996</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Terence Bailey, "De modis musicis: A New Edition and Explanation," 
+<emph>Kirchenmusikalisches Jahrbuch</emph> 61-62 (1977-78): 47-60, 50–54. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: Tractatus de modis: De modis</title>
+          
+<idno type="LML">MOD. Autenticus</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">F-Sm without shelfmark, r</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ob Canon. Misc. 212, 39v-40</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-CEc S. XXVI.1, 196v-197</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANODM0001">
+      <pb n="[50]" />DE MODIS</p>
+      <p id="ANODM0002">Autenticus autoralis et auctoritate plenus: unde et libros antiquissimos siue firmitate roboratos autenticos esse patres dixerunt.</p>
+      <p id="ANODM0003">Protus id est primus, unde in ueteri testimento protomartyr Abel, in nouo Stefanum dicimus. Deutero id est secundus, deutero enim graece, latine secundus; unde deuteronomium graece, latine secunda lex. Tritus dicitur qui est tertius. Tetrardus id est quartus, nam in euangelio quarta 
+      <pb n="[51]" />pars regni memoratur. Plagi uero autenti proti et reliquorum expositione non indigent, quippe qui inferiores et subsequentes sunt:</p>
+      <p id="ANODM0004">autentus protus:</p>
+      <p id="ANODM0005">plagis proti</p>
+      <p id="ANODM0006">autentus deuterus:</p>
+      <p id="ANODM0007">plagis deuteri</p>
+      <p id="ANODM0008">autentus tritus:</p>
+      <p id="ANODM0009">plagis triti</p>
+      <p id="ANODM0010">autentus tetrardus:</p>
+      <p id="ANODM0011">plagis tetrardi</p>
+      <p id="ANODM0012">Item in graeco:</p>
+      <p id="ANODM0013">[LEEaNeaEe]</p>
+      <p id="ANODM0014">[O 40 in marg.] [EaEEa EeagIes]</p>
+      <p id="ANODM0015">[LIL EeagIes]</p>
+      <p id="ANODM0016">[EeEOTE LEes]</p>
+      <p id="ANODM0017">
+      <pb n="[52]" />[LgLgIes]</p>
+      <p id="ANODM0018">[EOeLgIs]</p>
+      <p id="ANODM0019">[ELEL ELgIes]</p>
+      <p id="ANODM0020">[EOeLgIs]</p>
+      <p id="ANODM0021">Item parapteres:</p>
+      <p id="ANODM0022">[EEEEOTeEeagIs]</p>
+      <p id="ANODM0023">Antiphona: Miserere mei Deus</p>
+      <p id="ANODM0024">[LEOs]</p>
+      <p id="ANODM0025">Antiphona: O mors</p>
+      <p id="ANODM0026">[LELIETLEeEagIs]</p>
+      <p id="ANODM0027">Antiphona: Benedicta tu</p>
+      <p id="ANODM0028">[LILEEeLgIes]</p>
+      <p id="ANODM0029">Antiphona: Nos qui uiuimus</p>
+      <p id="ANODM0030">
+      <pb n="[53]" />Item parapteres qui supra scripti sunt necesse est, ut teneamus, qui in antiphonis minutis comprobantur, maxime de psalmis, qui non finiunt ita ut inchoant. Parapteres dicti eoquod iter praeparant uersibus descendendi in antiphonis.</p>
+      <p id="ANODM0031">[EeEOTeEeagIs]</p>
+      <p id="ANODM0032">Parapter primus contingit tonum secundum et intrat in uersum ut tonus secundus et finit sicut tonus primus, ut est illud: Antiphona:</p>
+      <p id="ANODM0033">Miserere mei Deus et a delicto</p>
+      <p id="ANODM0034">et aliae plures</p>
+      <p id="ANODM0035">[LEOs]</p>
+      <p id="ANODM0036">Parapter secundus contingit tonum quartum et ibi finit. Hae sunt antiphonae: Quia mirabilia</p>
+      <p id="ANODM0037">Sede a Dextris meis</p>
+      <p id="ANODM0038">[C 197 in marg.] Speret Israel'</p>
+      <p id="ANODM0039">Omnis terra</p>
+      <p id="ANODM0040">et aliae plures.</p>
+      <p id="ANODM0041">
+      <pb n="[54]" />[LELIETLEENLgIs]</p>
+      <p id="ANODM0042">[G 149b in marg.] Parapter tertius contingit tonum septimum et fi'nit ut tonus quartus. Sunt uero multae antiphonae quae ibi descendunt quas nobis dinumerare longum est, sed in aliquantulum dicamus:</p>
+      <p id="ANODM0043">Benedicta tu</p>
+      <p id="ANODM0044">Rorate caeli desuper</p>
+      <p id="ANODM0045">Erit enim magnus.</p>
+      <p id="ANODM0046">[LILEeLgIes]</p>
+      <p id="ANODM0047">Parapter uero quartus contingit tonum octauum, sed non ascendit in altam uocem, et mediocris in ipsam finitur. Et parumper inueniuntur nisi quatuor aut quinque antiphonae:</p>
+      <p id="ANODM0048">Nos qui uiuimus</p>
+      <p id="ANODM0049">In ecclesiis</p>
+      <p id="ANODM0050">Martyres Domini</p>
+      <p id="ANODM0051">Angeli Domini</p>
+      <p id="ANODM0052">Uirgines Domini.</p>
+      <p id="ANODM0053">Qui legit hic cantor non despitiat; sunt enim multi qui irrident et subsanantur nos qui cantamus carmen Domino. Non requirat eis Deus sed pareat altissimus.</p>
+    </body>
+  </text>
+</TEI>

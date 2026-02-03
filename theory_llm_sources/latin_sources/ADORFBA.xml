@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>[Ad organum faciendum]</title>
+        <title type="abbrev">ADORFBA</title>
+        <author>Anonymous</author>
+        <date notBefore="800" notAfter="1099">9th-11th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Angela Mariani</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Peter Slemon</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1994</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Hans Heinrich Eggebrecht and Frieder Zaminer, eds., 
+<emph>Ad organum faciendum. Lehrschriften der Mehrstimmigkeit in nachguidonischer Zeit</emph>, Neue Studien zur Musikwissenschaft, vol. 3 (Mainz: B. Schotts Söhne, 1970), 149–50.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: Tractatus de organo cod. Berolinensis (B)</title>
+          
+<idno type="LML">ORG. Berol.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">D-B Ms. theol. lat. qu. 261, 50v-51v</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ADORFBA0001">
+      <pb n="[149]" />Vocum copulationes dicuntur. omni symphonia et de omni cantu dicatur. Cum autem [f.48r in marg.] affinitas uocum iam satis patefacta sit et per diatessaron. et diapente et diapason natura earum persequenda est. Prima uox organi aut manebit coniuncta cum precedenti per diapason uel in eadem. aut disiuncta per diapente. uel diatessaron. Medie uero uoces diapente. uel diatessaron discurrunt. Cum autem cantus prestolatur organum. copulatio fit quollibet modo. et ita cum .IIII. uoces tantum subsequentes sint una organalis dicitur. Nam prima quandoque iungitur. secunda semper disiungitur. Tertia intuens prestolationem. ut habilem copulam tribuat Quarte uoci cum quallibet consonantia. Cum tres uero uoces perspiciuntur ibi est tantum inceptio et cupulatio. Duabus autem sola coniunctio. Nam differentia prime et medie et ultime uocis ideo preponitur. ut cum ad tractum organi perueniremus ad dandas consonantias illarum vocum ne nos turbet ignorantia earum. Sed ut cuncta facilius q[u]escant paulo altius ordiendum est videlicet a primo modo et a secundo et a ceteris. Primus modus organizandi est. quando prima copulatur cum precedenti. Secundus fit per disiunctionem ipsius uocis. Nam differentia est coniunctio respectu disiunctionis. Tertius modus summitur a mediis uocibus que mutantur per diatessaron. si sunt in diapente uel e conuerso. Quartus fit a diuerso principio. uel a diuerso medio non tantum ab uno sed etiam ab utroque. Quintus per multiplicitatem oppositarum uocum. augendo uel auferendo id est ultimam copulam destruendo. quod autem dictum est uerbis ostendamus exemplis.</p>
+      <p id="ADORFBA0002">Quando prima uox copulatur cum precedenti</p>
+      <p class="textFig" id="ADORFBA0003">c&#160;a&#160;b&#160;G&#160;F&#160;|&#160;e&#160;c&#160;d&#160;&#160;c&#160;a&#160;b&#160;G.
+      <lb />C&#160;D&#160;F&#160;D&#160;F&#160;|&#160;E&#160;F&#160;G.&#160;F&#160;E&#160;F&#160;G.&#160;G&#160;a.G.F.
+      <br />Alle-&#160;&#160;&#160;&#160;&#160;&#160;-lu-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;-ia.
+      <lb /></p>
+      <p class="textFig" id="ADORFBA0004">F.&#160;a&#160;c&#160;G&#160;F.|&#160;&#160;a&#160;F&#160;C&#160;D&#160;[E]&#160;C&#160;[Gamma]
+      <br />Alle-&#160;&#160;&#160;&#160;&#160;&#160;&#160;-lu-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;-ia.
+      <lb /></p>
+      <p id="ADORFBA0005">Per disiunctionem ipsius vocis.</p>
+      <p class="textFig" id="ADORFBA0006">F&#160;d&#160;c&#160;G&#160;b&#160;|&#160;a&#160;c&#160;d&#160;c&#160;a&#160;b&#160;G.
+      <br />Alle-&#160;&#160;&#160;&#160;&#160;&#160;-lu-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;-ia.&#160;
+      <lb /></p>
+      <p id="ADORFBA0007">Mediis uocibus que mutantur diatessaron si sunt in diapente uidelicet</p>
+      <p class="textFig" id="ADORFBA0008">c&#160;&#160;G&#160;F&#160;G&#160;D&#160;|&#160;E&#160;C&#160;D&#160;F&#160;a&#160;&#160;b&#160;&#160;G
+      <br />Alle-&#160;&#160;&#160;&#160;&#160;&#160;&#160;-lu-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;-ia.
+      <lb /></p>
+      <p id="ADORFBA0009">Qualiter ab utroque principio et medio ut istud organum superius</p>
+      <p class="textFig" id="ADORFBA0010">[f.48v&#160;in&#160;marg.]&#160;c&#160;&#160;&#160;&#160;a&#160;c&#160;d&#160;b&#160;|&#160;a&#160;c&#160;d&#160;c&#160;G&#160;&#160;F&#160;D&#160;C&#160;D&#160;F
+      <br />&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;[A]lle-&#160;&#160;&#160;&#160;&#160;&#160;&#160;-lu-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;-ia.
+      <lb />[&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;]
+      <br />a&#160;&#160;c&#160;&#160;d&#160;a&#160;c&#160;d&#160;f&#160;c&#160;G&#160;a&#160;c&#160;&#160;c&#160;G&#160;&#160;E&#160;C&#160;&#160;&#160;&#160;&#160;|&#160;D&#160;&#160;E&#160;c&#160;a&#160;|&#160;c&#160;a&#160;G&#160;|
+      <lb />a&#160;&#160;G&#160;&#160;G&#160;E&#160;F&#160;G&#160;F&#160;E&#160;D&#160;D&#160;C&#160;&#160;C&#160;D&#160;&#160;E&#160;F&#160;{G}&#160;|&#160;G&#160;&#160;E&#160;G&#160;a&#160;|&#160;F&#160;E&#160;D&#160;|
+      <br />Ius-&#160;&#160;&#160;tus-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;ut&#160;&#160;pal-&#160;&#160;&#160;&#160;&#160;-ma&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;flo-
+      <lb />&#160;a&#160;c&#160;G&#160;E&#160;G&#160;F&#160;a&#160;c&#160;[d]&#160;&#160;a&#160;&#160;c&#160;G&#160;a&#160;c&#160;a&#160;|&#160;b&#160;a&#160;c&#160;d&#160;e&#160;[sqb]&#160;c&#160;a&#160;G
+      <br />&#160;D&#160;C&#160;D&#160;E&#160;D&#160;C&#160;D&#160;E&#160;&#160;D&#160;&#160;&#160;D&#160;&#160;E&#160;D&#160;E&#160;C&#160;E&#160;|&#160;G&#160;a&#160;c&#160;G&#160;a&#160;&#160;&#160;E&#160;&#160;&#160;F&#160;E&#160;D
+      <lb />-re-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;-bit&#160;&#160;et&#160;&#160;&#160;&#160;&#160;&#160;sicut&#160;ce-
+      <br />D&#160;E&#160;G&#160;a&#160;F&#160;a&#160;c&#160;[sqb]&#160;&#160;a&#160;c&#160;d.&#160;d&#160;e&#160;c&#160;d&#160;a&#160;c&#160;G&#160;E.&#160;G&#160;a&#160;c&#160;a&#160;c&#160;d.
+      <lb />F&#160;E&#160;G&#160;E&#160;F&#160;E&#160;C&#160;&#160;&#160;E&#160;&#160;&#160;&#160;D&#160;F&#160;D&#160;&#160;G&#160;E&#160;F&#160;G&#160;E&#160;F&#160;D&#160;E.&#160;C&#160;D&#160;E&#160;F&#160;E&#160;D.
+      <br />&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;-drus
+      <lb /></p>
+      <p id="ADORFBA0011">Explicit organi tractatus.</p>
+    </body>
+  </text>
+</TEI>

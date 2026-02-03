@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Tractatus de musica</title>
+        <title type="abbrev">ANO2TDM</title>
+        <author>Anonymous II</author>
+        <date notBefore="1100" notAfter="1199">12th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Stephen E. Hayes</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Peter M. Lefferts</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Angela Mariani</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1992</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>Scriptores ecclesiastici de musica sacra potissimum</emph>, 3 vols., ed. Martin Gerbert (St. Blaise: Typis San-Blasianis, 1784; reprint ed., Hildesheim: Olms, 1963), 1:338–42.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: Tonarius Lugdunenis: Ratio breviter excerpta de musica cum tonario</title>
+          
+<idno type="LML">TON. Lugd.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">A-Wn Cod. 55, 167</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Br 10078/95, 76v-80v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">CZ-Pu XIX. C. 26, 1-11</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-ERu 66, 84v-85</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 14663, 25r-26v, 28</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 19489, 1-38</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 27300, 45-60</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-St. Blasien without shelfmark, e</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 7369, 73r-v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Lbl Add. 17808, 50-55v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Lbl Harley 3199, 70v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fl Ashburnham 1051, 68a-69va, 72va (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fn Conv. Soppr. F. III. 565, 75r-v, 87v-90v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fr 652, 82, 98-101 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Br 10078/95, 45v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">CZ-Pu XIX. C. 26, 40</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-St. Blasien without shelfmark, f</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 7211, 149v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-MC 318, 125-126</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-St. Blasien without shelfmark, g</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 10509, 95v-96</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ctc R.15.22, 135r-v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ob Rawl. C. 270, 9v-10v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Ma M. 17 sup., 37r-v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat Pal. lat. 1377, 108</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANO2TDM0001">
+      <pb n="[338]" />Anonymi II. Tractatus de musica.</p>
+      <p id="ANO2TDM0002">Quinque sunt consonantiae musicae, Diatessaron, quae et sesquitertia dicitur: Diapente, quae et sesquialtera: Diapason, quae et dupla vocatur: Diapente et Diapason, quae et tripla nuncupatur: Bis diapason, quae et quadrupla. Duas harum, id est, diatessaron et diapente in frequentiori usu tenemus; tertia, id est, diapason raro utimur, caeteras in nostris cantilenis non adhibemus. Diatessaron igitur vocum quidem est quatuor; quia quatuor chordarum est, sed tamen intervallorum trium: Constat ex duobus tonis et semitonio minore. Est autem tonus quod et sonus; semitonium vero est maius et minus. Semitonium autem dicitur, quod non dimidius sit tonus sed quia non sit perfecte tonus. Diapente vero vocum est quinque, quia quinque chordarum est, intervallorum quatuor, quia constat tribus tonis et semitonio minore. Diapason rursus constat ex diatessaron et diapente, id est, ex quinque tonis et duobus semitoniis minoribus, qui non impleant tonum.</p>
+      <p id="ANO2TDM0003">Hae igitur tres principales consonantiae, diatessaron videlicet, diapente ac diapason in decem et octo chordis per tetrachorda et pentachorda et octochorda apte distinguuntur. Nam omne, quod est tetrachordum, resonat consonantiam diatessaron; sunt enim quinque principalia tetrachorda, hypaton videlicet, meson, synemmenon, diezeugmenon, hyperboleon: quae in diatonico genere melorum resonant consonantiam diatessaron. Tria siquidem sunt genera melorum, diatonon scilicet, chroma, et enarmonium; sed diatonon durius et naturalius est caeteris: unde quasi repudiatis aliis hoc usitatius habetur. Dicitur autem diatonum, quod in omni tetrachordo per tonum ac tonum et semitonium progrediatur. Habet autem haec eadem consonantia diatessaron tres species: Primam videlicet, qua per tonum ac tonum semitoniumque progreditur: Secundam vero, qua per tonum semitonium ac tonum modulatur: Tertiam quoque, qua per semitonium tonum ac tonum canitur. Diapente autem 
+      <pb n="[339]" />consonantia distinguitur per pentachorda, quae et ipsa quatuor habet species. Et prima progreditur quidem per tonum tonum semitonium et tonum: Secunda per tonum semitonium tonum ac tonum: Tertia per semitonium et tres tonos continuos: quarta per tres continuos tonos et semitonium. Diapason quoque consonantia distinguitur per octo chordas. Constat enim, ut dictum est, ex quinque tonis et duobus semitoniis minoribus, continens videlicet in se diatessaron et diapente. Habet autem et ipsa species septem, quae quoniam in raro usu habentur, brevitatis causa a nobis praetermittentur.</p>
+      <p id="ANO2TDM0004">Nomina autem chordarum, in quibus hae consonantiae distinguuntur, haec sunt. Prima et gravissima omnium est proslambanomenos, duplici ratione immobilis, vel quia scilicet fundamentum est reliquarum vocum, vel quia in tribus generibus melorum, diatonico videlicet, chromatico et enarmonio, sono et nomine permanet uniformis. Ad quam obtinet toni proportionem sequens hypate hypaton, et ipsa similiter duplici ex causa immobilis: vel quia scilicet in tribus generibus est consimilis, vel quia a prima praecedente ad tertiam sequentem sine hac non potest cantilena intendi, neque a tertia sequente ad primam sine hac remitti. Tertia namque sequens post has est parhypate hypaton, nec in totum mobilis, nec in totum immobilis: quia in diatonico quidem et chromatico genere uniformis habetur, in enarmonio vero variatur. Et rursus a praecedente secunda ad sequentem quartam sine hac tertia potest cantus intendi, vel a quarta consequente ad secundam praecedentem remitti. Est itaque semitonii inter hypate hypaton, et parhypate hypaton. Post has itaque consequitur quarta lychanos hypaton mobilis per omnia, quia videlicet in tribus generibus variatur, et ab inferioribus ad superiora, vel a superioribus ad inferiora sine hac facilis patet in intensione vel remissione modulandi via. Est autem tonus inter parhypate hypaton et lychanos hypaton. A prima igitur proslambanomenos ad quartam lychanos hypaton intenditur consonantia diatessaron, et ab eadem quarta ad primam per tonum et semitonium et tonum remittitur.</p>
+      <p id="ANO2TDM0005">Quinta dehinc subsequitur hypate meson immobilis, sicut et hypate hypaton, tono quidem distans a lychanos hypaton, ad hypate hypaton autem resonans consonantiam diatessaron, ad proslambanomenos quoque symphoniam diapente, sive a superioribus ad inferiora remittatur cantilena, sive ab inferioribus ad superiora intendatur. Deinde sexto loco ponitur parhypate meson, nec in totum mobilis, nec in totum immobilis, sicut et parhypate hypaton; et ipsa quoque semitonio differt ab hypate meson. Sed ad parhypate hypaton obtinet symphoniam diatessaron intensam vel remissam. Septimo denique ordine succedit lychanos meson, per omnia mobilis, sicut et lychanos hypaton; quae a parhypate meson quidem tono distat, ad lychanos hypaton autem diatessaron resonat, ad parhypate hypaton vero diapente concrepat. Octavo deinceps loco collocatur mese, quae 
+      <pb n="[340]" />est media superiorum et inferiorum, immobilis et ipsa sicut et proslambanomenos; quia nec a superioribus vocibus ad inferiores pervius descensus, nec ab inferioribus ad superiores sine hac facilis patet ascensus. Et haec rursus a lychanos mesen distans tono, ad hypate meson vero facit consonantiam diatessaron, ad lychanos hypaton autem diapente, ad proslambanomenos quoque resonat diapason. Ubi aperte datur intelligi, quod supradictum est, diatessaron et diapente in diapason contineri. Nam a mese in hypate meson invenitur missa diatessaron, et ab hypate meson in proslambanomenos diapente remissa; itemque diapente remissa a mese in lychanos hypaton, et ab eadem in proslambanomenos remissa diatessaron; conversimque a proslambanomenos in lychanos hypaton intensa diatessaron, et ab eadem in mese intensa diapente; rursusque a proslambanomenos in hypate meson intensa diapente, et ab eadem in mese intensa diatessaron A mese igitur in proslambanomenos remissa diapason.</p>
+      <p id="ANO2TDM0006">Deinde sequuntur duo tetrachorda partim synemmenon partim diezeugmenon; sed synemmenon tetrachordum coniungitur cum mese per semitonium, quod est inter mese et trite synemmenon: diezeugmenon autem tetrachordum disiungitur a mese per tonum, qui est inter mese et paramese. Unde et illud appellatur synemmenon, id est, coniunctarum; istud vero diezeugmenon, id est, disiunctarum. Si igitur a mese, quae est octava, intendas semitonium, occurret nona trite synemmenon, nec in totum mobilis, nec in totum immobilis, faciens ad parhypate meson consonantiam diatessaron. A qua si rursus intendatur tonus, occurret decima, paranete synemmenon, mobilis per omnia, et facit diatessaron ad lychanos meson per tonum semitonium et tonum; ad parhypate meson vero resonat consonantiam diapente. Post hanc quoque intenso tono sequitur nete synemmenon undecima, quae ad mesen quidem resonat consonantiam diatessaron, ad lychanos vero meson diapente. Si autem a mese quis intendat tonum, occurret paramese, quae relicto tetrachordo synemmenon quasi post mesen videtur esse nona, sed hoc aptato comprobatur esse duodecima. Est autem immobilis et ipsa sicut et hypate hypaton, ad quam videlicet ipsa facit consonantiam diapason. Haec eadem quoque paramese ad hypate meson quidem remittit consonantiam diapente per tres tonos continuos et semitonium, sed ad parhypate meson non valet remittere diatessaron; unde et remota videtur a tetrachordo meson, et omnimodis est contraria trite synemmenon, adeo, ut si utralibet harum in cantu proferatur, altera nullatenus inferatur. Ab eadem paramese intenso semitonio consequitur decima tertia trite diezeugmenon, nec in totum mobilis nec in totum immobilis, sicut et parhypate hypaton, ad quam haec ipsa facit consonantiam diapason. Et est ea ipsa consona paranete synemmenon, nomine tantum discrepans ab ea, et quod a mese ad hanc fit intensio per tonum et semitonium, ad illam vero per semitonium et tonum. Ab eo rursus intenso tono occurret decima quarta paranete diezeugmenon mobilis per omnia, sicut et 
+      <pb n="[341]" />lychanos hypaton, ad quam ipsa facit consonantiam diapason. Haec eodem suo sono sonorumque proportione aequiparat nete synemmenon. Nam sicut a mese ad illam intenditur diatessaron per semitonium tonum et tonum, sic et ad istam per tonum semitonium et tonum. Remittit haec etiam sicut et illa, consonantiam diapente ad lychanos meson. Item ab eadem paranete diezeugmenon intenso tono sequitur decima quinta nete diezeugmenon, immobilis sicut et hypate meson, ad quam ipsa reddit consonantiam diapason. Resonat autem hoc tetrachordum a paramese inchoatum, sicut et reliqua, consonantiam diatessaron. Cui addito tono quidem inter mese et paramese fit consonantia diapente. Huic aptatur tetrachordum hyperboleon: intenso enim semitonio a nete diezeugmenon nascitur decima sexta trite hyperboleon, nec in totum mobilis, nec in totum immobilis, sicut et parhypate meson, ad quam ipsa resonat consonantiam diapason. Ab ea quoque intenso tono succedit decima septima paranete hyperboleon mobilis per omnia, sicut et lychanos meson, ad quam ipsa facit consonantiam diapason. A qua rursus intenso tono subsequitur decima octava nete nete hyperboleon, immobilis sicut et mese, ad quam ipsa reddit duplicem sonum. Quemadmodum enim proslambanomenos ad mesen intendit diapason, ita mese ad nete hyperboleon. Unde et proslambanomenos ad nete hyperboleon facit bisdiapason, quae et quadrupla nuncupatur. Sed haec, ut dictum est, in nostris cantilenis non adhibetur.</p>
+      <p id="ANO2TDM0007">Ex supradictis igitur speciebus consonantiarum nascentur octo modi sive tropi, per quos omnis cantus moderatur. Horum primus et omnium gravissimus vocatur hypodorius, secundus hypophrygius, tertius hypolydius, quartus dorius, quintus phrygius, sextus lydius, septimus mixolydius vel hyperdorius, octavus hypermixolydius. Et primus quidem superatur a secundo in cacumine tono: secundus autem a tertio tono: tertius vero a quarto semitonio; quartus quoque a quinto tono: quintus autem a sexto tono. sextus vero a septimo semitonio: septimus autem ab octavo tono; quod in monochordi partitione in promtu est videre, ubi ea, quae est mese hypodorii, aequiparat in sui dispositione lychanos meson hypophrygii, et parhypate meson hypolydii, nec non hypate meson dorii. Mese autem hypophrygii est paramese hypodorii: mese quoque hypolydii est trite diezeugmenon eiusdem hypodorii: itemque mese dorii est paranete diezeugmenon eiusdem hypodorii; distat igitur mese dorii diatessaron consonantia. Sicque sequentes tropi sese alterutrum in acumine superant, ut nete hyperboleon hypodorii inveniatur, mese hypermixolydii; facitque eadem hypermixolydii ad dorii mesen consonantiam diapente, ad mesen vero hypodorii resonat consonantiam diapason; siquidem ea ipsa, quae est media primi, est et prima octavi. Quocirca plerumque contingit, ut cantus eminentiorum troporum a sui status rectitudine resolvantur in chordas inferiores. Ex his 
+      <pb n="[342]" />itaque quatuor dicuntur autentici, id est, magistri vel principales: eisque vicissim supponuntur alii quatuor, qui vocantur plagi, id est, laterales vel particulares.</p>
+      <p id="ANO2TDM0008">Indicis a summo capiens exordia primus,</p>
+      <p id="ANO2TDM0009">In minimi primo flexu postrema reponit,</p>
+      <p id="ANO2TDM0010">Quae sedes stat principium finisque secundi,</p>
+      <p id="ANO2TDM0011">Tertius a summo rursum capit indicis ortum.</p>
+      <p id="ANO2TDM0012">In summo finem distinguens auricularis.</p>
+      <p id="ANO2TDM0013">Hic caput et finis quarti dinoscitur esse.</p>
+      <p id="ANO2TDM0014">Indicis in medio quintus sumit caput artum,</p>
+      <p id="ANO2TDM0015">Et medii finem modulaminis aptat in unque:</p>
+      <p id="ANO2TDM0016">Qui locus exortum sexti finemque tuetur.</p>
+      <p id="ANO2TDM0017">Indicis hinc radix septeni perficit ortum.</p>
+      <p id="ANO2TDM0018">Summus apex medii cuius postrema resumit,</p>
+      <p id="ANO2TDM0019">Octavus hac sede caput finemque reponit.</p>
+      <p id="ANO2TDM0020">Prius dividenda est tota linea in quatuor partibus per tria puncta semper a dextero latere procedens, id est, a dextra magada. In primo puncto pone P. quae chorda vocatur nete hyperboleon. In secundo pone H. et vocatur mese. In tertio D. et vocatur lychanos hypaton. In quarto autem pone A. vel in sinistra magada, cuius chorda proslambanomenos. Deinde divide per octo partes usque ad P. et pone novem usque ad O. et erit tonus, cuius chorda vocatur trite hyperboleon: et iterum octo partes usque ad O. et novem usque ad N. et erit tonus; chorda eius vocatur trite hyperboleon. Et haec sunt sesquioctavae proportiones. Deinde divide usque ad P. in tres partes, et in quarta pone M. et erit symphonia diatessaron; chorda eius vocatur trite diezeugmenon. Divide iterum in duas partes usque ad P. et in tertia pone I. et erit symphonia diapente; chorda eius vocatur paramese. Porro divide ab I. usque ad H. et in horum medio superpone figuram trite, cuius chorda vocatur trite synemmenon. Item divide usque ad I. in duas partes, et in tertia pone G. et iterum erit symphonia diapente, cuius chorda vocatur lichanos meson. Divide iterum in duas partes usque ad H. et in tertia pone F. cuius chorda vocatur parhypatemeson. Divide iterum in duas partes usque ad I. et in tertia pone E. cuius chorda vocatur hypate meson. Item divide usque ad F. in tres partes, et in quarta pone C. et erit symphonia diatessaron, cuius chorda vocatur parhypate hypaton. Divide item usque ad E. in tres partes, et in quarta pone B. cuius chorda vocatur hypate hypaton.</p>
+    </body>
+  </text>
+</TEI>

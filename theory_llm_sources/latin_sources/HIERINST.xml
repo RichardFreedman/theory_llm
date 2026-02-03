@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Epistola ad Dardanum</title>
+        <title type="abbrev">HIERINST</title>
+        <author>Hieronymus [Ps.]</author>
+        <date notBefore="800" notAfter="1099">9th-11th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Christian Meyer</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Beth Garfinkel</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>2002</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Reinhold Hammerstein, "Instrumenta Hieronymi," 
+<emph>Archiv für Musikwissenschaft</emph> 16 (1959): 117-134, 120–22, 124–25, 127, 129–31. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Ps.-Hieronymus: Epistola ad Dardanum</title>
+          
+<idno type="LML">PS.-HIER. ep.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">A-Wn Cod. 50, 47v-48</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Br 10078/95, 43-44</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">CH-E 358, 141-143</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">CZ-Pu XIX. C. 26, 36v-38</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-FUl Aa 2, 118-120</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 14523, 49v-50v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">E-Mn 91, 94r-v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-AL 2, 90v-91</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 7211, 150-151</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-R 450 (A.344), 110v-111v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Lbl Royal 8.C.III, 2-6</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ob D'Orville 77, 111v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Obac 173A, 75-76v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat Reg. lat. 1553, 30v-33v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">US-AUS MS 29 (Phillipps 816), 9v-100v</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="HIERINST0001">
+      <pb n="[120]" />Cogor a te ut tibi dardane de aliis generibus musicorum sicut res docet quae vel visione vel auditu comprobavi brevi sermone simplicique respondeam. Alia enim per rerum absentiam conleptare vel fatescere ad lucidum proferre non possum, quia uniuscuiusque peritia secundum ingenium eius est. Quae autem possunt narrari libenter explicabuntur.</p>
+      <p id="HIERINST0002">
+      <pb n="[121]" />Primo omnium ad organum eo quod maius esse his in sonitu et fortitudine nimia computatur clamoris veniam. De duabus elephant[or]um pellibus concavum coniungitur, et per XII fabrorum sufflatoria compensatum per XII cicutas aereas in sonitum nimium quasi in modum tonitrui concitatur, ita ut per mille passus sine dubio sensibiliter, aut eo utique, amplius audiatur, sicut apud hebraeos de organis, quae ab hierusalem usque ad montem oliveti et amplius sonanter audiuntur comprobatur. Duo organi genera a plerisque esse dicuntur. Primum est quod praediximus. Et aliud quod de peregrinatione israelitici populi apud babilonios inscribitur dicentis. Super flumina babilonis, recitaturque usque organa nostra. Hoc totum spiritaliter Christi evangelium significat, quod et illud duabus pellibus id est duarum legum asperitate coniungitur per XII sufflatoria fabrorum, id est patriarcharum et prophetarum. Per XII cicutas aereas id est per apostolos sonum nimium emittit, sicut scriptum est. Vox tonitrui tui in rota. Per mille passuum id est per festum numerum X verborum legis impletur sonus eius. In salicibus id est per laborem uniuscuiusque doctoris labiorum evangelium praedicatur.</p>
+      <p id="HIERINST0003">
+      <pb n="[122]" />Tuba itaque de qua in danihele scribitur. Cum audieritis vocem tubae, fistulae et citharae, et reliqua, diversis formis ac figuris efficitur. Aliter enim est tuba congregationis populi, aliter conductionis, aliter victoriae, aliter conclusionis civitatum, aliter persequendi inimicos. Tuba autem consuetudinis apud rerum peritissimos hoc modo intelligitur. Tribus fistulis aereis in capite angusto inspiratur. In capite lato per IIII vociductas aereas, quae per aereum fundamentum ceteras voces producunt. Mugitum nimium vehementissimumque profert. Ita evangelium terna confessione trium personarum sanctae trinitatis in capite angusto, id est in nativitate christi divinitate inspiratur, et per IIII vociductas aereas, id est per IIII evangelistas. Per aereum fundamentum, id est per stabilitatem fidei et operum, in totum orbem vocem nimio clamore, quasi in modum tubae congregationis fortiter permittit.</p>
+      <p id="HIERINST0004">
+      <pb n="[124]" />Fistula quoque artis esse musicae sicut simfonides earum reum adfirmat repertor. Ita quasi bunibulum aereum ductile quadratum latissimumque quasi in modum columnae cum fistulo aereo ferreoque commixto atque in medio concusso, quod in ligno alto speciosoque formato superiori capite constringitur. Altero capite deorsum dimisso sed terram non tangit, a plerisque putatur, et per singula latera XII bunibula aerea, cum XII fistulis in medio positis in catenis fixis dependent. Id est tres bunibula uno in latere per circuitum utique figuntur. Et concitato primo bunibulo, et concitatis bunibulorum XII fistulis in medio positis clamorem magnum fragoremque nimium supra modum simul proferunt. Bunibulum itaque cum fistulo id est doctor in medio ecclesiae est cum spiritu sancto loquitur in ea. Constringitur in ligno alto id est in christo, qui a sapientibus ligno vitae comparatur. In catena id est in fide, et non tangit terram, id est opera carnalia. Duodecim bunibula id est XII apostoli, cum fistulis id est cum divinis eloquiis.</p>
+      <p id="HIERINST0005">
+      <pb n="[125]" />Cythara vero de qua in XLII psalmo scriptum est. Confitebor tibi in cythara deus deus meus. Propriae consuetudinis apud hebraeos quae cum chordis XXIIII quasi in modum deltae litterae sicut peritissimi tradunt, utique componitur, et per digitos pindarii variis vocibus tinnulisque accepidis in diversos modulos concitatur. Cythara autem de qua sermo est, ecclesiam spiritaliter quae cum XXIIII seniorum dogmatibus trinam formam habens quasi in modum deltae litterae per fidem sanctae trinitatis manifestissime utique significat, et per manus petri apostolici qui praedicator illius est, in diversos modulos veteris et novi testamenti, aliter in littera, aliter in sensu figuraliter concitatur.</p>
+      <p id="HIERINST0006">
+      <pb n="[127]" />Psalterium quod hebraice nablum, grece autem psalterium, latine laudatorium dicitur, de qua in LIIII psalmo scribitur. Exsurge psalterium et cythara. Non quasi in modum cytharae sed quasi in modum clipei quadrati confirmatur cum cordis, sicut scriptum est: In psalterio X cordarum psallite illi. Sed hinc inde cordae eius contrariae sunt ut se surgentem ab inferis ad caelorum regna per indicium manuum concitantis ab imo in altum significarent. Psalterium itaque cum X cordis, ecclesia cum X verbis legis contrariis contra omnem heresim quadrata per quattuor evangelia intellegitur.</p>
+      <p id="HIERINST0007">
+      <pb n="[129]" />Sambuca itaque etiam apud peritissimos hebreorum ignota res est. Antiquis autem temporibus apud caldeos fuisse repperitur. Sicut scriptum est. Cum audieritis vocem tubae, fistulae, citharae, et sambucae. Buca vero tuba apud hebreos. Deinde per diminutionem bucina dicitur. Sam autem sol apud hebreos interpretatur. Unde dicitur samson sol eorum. Propter hoc sambuca apud eos scribitur, quia multa corticem alicuius arboris putant esse, et per sobilitatem mellis lignei ac nobilitatem quasi in modum tubae de ramis arboris moveri potest. Arescit enim secundum communem consuetudinem, tipus eorum qui in bonis suis dominum laudant, et in tempore frigoris id est in tempore tribulationis et persecutionis eum laudare non possunt, propter infidelem vitam abundantiae divitiarum suarum.</p>
+      <p id="HIERINST0008">
+      <pb n="[130]" />Timpanum paucis verbis explicari oportet quia minima res est, eo quod in manu mulieris portare potest, sicut scriptum est in exodo. Sumpsit autem maria prophetissa soror aaron timpanum in manu sua, et est quasi tuba cum uno fistulo in capite angusto per quod inspiratur, id est sapientia minima legis veteris in manu iudaeorum synagogae antiquis temporibus fuit.</p>
+      <p id="HIERINST0009">
+      <pb n="[131]" />Chorus quoque pellis simplex est cum duabus cicutis aereis et per primam inspiratur, per secundam vocem emittit. Typus est populi prioris qui per angustam intelligentiam legem acceperat, et per angustam voluntatem praedicationis, omnia infirmiter nuntiavit. Si autem terrena sapienter ac diligenter respiciamus, spiritaliter ac mystice intelligenda sunt.</p>
+    </body>
+  </text>
+</TEI>

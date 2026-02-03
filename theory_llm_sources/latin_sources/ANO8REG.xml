@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Regulae de contrapuncto</title>
+        <title type="abbrev">ANO8REG</title>
+        <author>Anonymous VIII</author>
+        <date notBefore="1400" notAfter="1499">15th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Luminita Florea Aluas</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Bradley Jon Tucker</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1991</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>Scriptorum de musica medii aevi nova series a Gerbertina altera</emph>, 4 vols., ed. Edmond de Coussemaker (Paris: Durand, 1864-76; reprint ed., Hildesheim: Olms, 1963), 3:409–11.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: Tractatus de contrapuncto</title>
+          
+<idno type="LML">CONTR. Quatuor sunt</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">I-Fl Plut. XXIX. 48, 72v-73</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fl Plut. XXIX. 48, 72-73</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANO8REG0001">
+      <pb n="[409]" />Anonymi VIII</p>
+      <p id="ANO8REG0002">Regulae de contrapuncto</p>
+      <p id="ANO8REG0003">Consonantie contrapuncti demonstrativi ad oculum sunt sex, videlicet prima, tertia supra et infra, quarta infra, quinta supra, sexta infra et supra, octava infra et supra: quarum perfecte sunt prima, quarta, quinta et octava. Imperfecte vero tertia et sexta; de quibus omnibus he regule dantur.</p>
+      <p id="ANO8REG0004">Prima regula est quod quando tenor est gravis, contrapunctus erit acutus et e converso. Et quando mediocris, contrapunctus similiter; unde consonantie acute sunt sexta et octava supra; graves sexta et octava infra. Mediocres vero prima, tertia et quinta supra, atque quarta infra.</p>
+      <p id="ANO8REG0005">Secunda regula est quod contrapunctus incipiatur per consonantias perfectas et sic finiatur, nisi per oppositum fit, gratia alicujus modi pulcherrimi procedendi.</p>
+      <p id="ANO8REG0006">Tertia regula est quod contrapunctus sit facilis in pronunciando, id est non habeat ineptos saltus.</p>
+      <p id="ANO8REG0007">Quarta regula est quod plures voces equales contrapunctus non ponantur constanter.</p>
+      <p id="ANO8REG0008">Quinta regula est quod quando cantus movetur contrapunctus maneat in eadem voce et e converso, nisi moveatur causa pulchrioris modi pronunciandi.</p>
+      <p id="ANO8REG0009">Sexta regula est quod quando cantus movetur sursum, sepius contrapunctus movetur deorsum, et e converso precipue per consonantias perfectas.</p>
+      <p id="ANO8REG0010">Septima regula est, quod tantum semel ponatur eadem melodia, nisi sit pulchra.</p>
+      <p id="ANO8REG0011">Octava regula est, quod eadem consonantia perfecta dicatur nisi semel, nisi alia consonantia sive perfcta, sive imperfecta interponatur; et he sunt regule generales.</p>
+      <p id="ANO8REG0012">De regulis specialibus</p>
+      <p id="ANO8REG0013">Omnis cantus aut movetur equaliter, aut deorsum, aut sursum. Si equaliter, contrapunctus fit ad placitum regulis supradictis conservatis et pulchro modo procedendi, quem dat ipsa natura cum usu et imitatione. Si movetur deorsum, hoc dupliciter, aut per saltum aut per gradum; si per saltum, fit contrapunctus ad placitum servatis ut supra; si per gradum, dantur he regule speciales.</p>
+      <p id="ANO8REG0014">Prima est quod in fine gradus ponitur prima, vel quarta infra, vel quinta supra, vel octava. Si prima, anteponenda est tertia infra vel tertie. Si quarta, sexta infra vel sexte. Si quinta supra, anteponenda tertia supra vel tertie. Si octava, anteponenda est sexta vel sexte, tamen si volumus fugere primam, hoc fit aut per tertiam supra aut per quartam infra. Si quarta, fit per tertiam supra. Si quinta, supra hoc fit per tertiam supra vel sextam. Si octava, hoc fit per quintam supra vel decimam nisi nobiliores modi reperiantur, gratia motus tenoris. Si movetur sursum, aut movetur per saltum aut per gradum; si per saltum, contrapunctus fit ad placitum, sicut prius; si per gradum, dantur he regule:</p>
+      <p id="ANO8REG0015">Prima est quod in fine gradus ponatur prima 
+      <pb n="[410]" />vel quarta infra vel octava infra. Si prima, anteponenda est tertia vel tertie supra. Si quarta, similiter tertia supra; si octava, sexta vel sexte infra; et si volumus fugere ultimam, pro prima ponenda est tertia infra vel quinta supra; et pro quarta infra, ponenda est prima; vel in penultima, prima in fine, quarta; et pro octava infra, aliquando sexta infra.</p>
+      <p id="ANO8REG0016">Secunda regula est quod si aliquis vellet proferre contratenorem loco accentus, pro quarta infra, ponenda est quinta infra. Et sub gradibus descendentibus sepe numero ponitur ad penultimam quinta infra, et ad ultimam quinta supra, vel octava infra. Et hoc secundum indigentiam tenoris intensi vel remissi. Sed ad penultimam gradus ascendentis intensi, sepe numero ponitur tertia infra et ad ultimam octava infra. Alii etiam modi proferendi sunt secundum regulas generales.</p>
+      <p id="ANO8REG0017">Quatuor sunt species ex quibus fit contrapunctus, scilicet unisonus, tertia, quinta et sexta. Unisonus et dupla sive octava, et quadrupla sive quinta-decima, idem sunt; tertia et decima et decimaseptima idem sunt quoad contrapunctum. Quinta et duodecima et decima-nona idem sunt. Harum specierum due sunt perfecte, scilicet unisonus et dupla sive octava; et quadrupla sive quinta-decima idem sunt; et quinta et duodecima et decima-nona idem sunt; et due sunt imperfecte, scilicet tertia et decima et decima-septima idem sunt, et sexta et tertia-decima idem sunt.</p>
+      <p id="ANO8REG0018">Duplex est tertia, scilicet major et minor. Major est ditonus qui fit ex duobus tonis. Sicut ut mi, fa la, et e converso mi ut, la fa. Tertia minor est qui fit ex uno tono et uno semitonio minore, sicut de A ad c, et de [sqb] ad d, et de d ad f, et de e ad g, et de g ad b, cantando fa supra re, vel e converso, vel sol, supra mi, vel e converso, et vocatur semiditonus.</p>
+      <p id="ANO8REG0019">Duplex est quarta, scilicet una formata de duobus tonis et uno semitonio minore, ut si dicamus ut fa et contra, re sol et contra, mi la et contra. Alia est formata de tribus tonis. Prima utimur in cantibus compositis ad tres partes. Secunda non utimur et vocatur tritonus.</p>
+      <p id="ANO8REG0020">Quinta est duplex, scilicet consonans que formatur ex tribus tonis et uno semitonio minore et ista utimur. Alia est quinta dissonans, sive discordans, que formatur de duobus tonis et duobus semitoniis minoribus, et ista non utimur dicendo fa contra mi, et e contra.</p>
+      <p id="ANO8REG0021">Sexta est duplex, scilicet una que formatur ex quatuor tonis et de uno semitonio minore et ista utimur. Alia est sexta que formatur de tonis tribus et duobus semitoniis minoribus, sicut de A ad F, et de [sqb] ad g et de d ad b et de e ad c, et ista non utimur.</p>
+      <p id="ANO8REG0022">His declaratis sequuntur regule, quarum prima regula est quod numquam debes facere duas consonantias vel duas species perfectas ejusdem perfectionis simul descendentes cum plano cantu eodem modo sicut planus cantus. Sed possunt poni due species ejusdem perfectionis simul, scilicet due quinte, si non descendant eodem modo vel si non ascendant eodem modo, sicut planus cantus; vel si planus cantus ascendat.</p>
+      <p id="ANO8REG0023">Potest in contrapuncto poni quinta descendens; et si planus cantus iterum descendat, potest in contrapuncto poni quinta descendens; et si planus cantus iterum descendat, potest in contrapuncto iterum poni quinta ascendens; et sic ponuntur due quinte in contrapuncto, simulque sunt due perfecte species ejusdem perfectionis unam ascendendo alteram descendendo et sic de aliis.</p>
+      <p id="ANO8REG0024">Secunda regula est quod due vel tres vel quatuor species imperfecte possunt poni simul, dum tamen post ultimam imperfectam ponatur immediate consonantia aliqua, aliter non.</p>
+      <p id="ANO8REG0025">Tertia regula est quod, quando planus cantus ascendit per unam notam vel vocem, tunc contrapunctus potest ascendere per quatuor; et per 
+      <pb n="[411]" />contrarium, si planus cantus ascendit per quatuor, tunc contrapunctus potest ascendere per unam vocem tantum tam de imperfectis quam perfectis speciebus. Et hec regula intelligenda preter quintam et duodecimam, et decimam nonam idem est. Nam quinta vult solum tenorem ascendentem per unam vocem et tenorem descendentem per quatuor et e contra preter sextam. Sed ista tertia regula non placet mihi.</p>
+      <p id="ANO8REG0026">Quarta regula est quod contrapunctus incipi debet et finiri a perfecta specie, scilicet ab unisono vel quinta vel dupla vel duodecima vel quintadecima.</p>
+      <p id="ANO8REG0027">Quinta regula est quod due perfecte species diversarum perfectionum possunt simul poni; sic una quinta et una octava vel e converso, vel una duodecima et octava et e contra, vel una quintadecima et una duodecima et e contra. Quando sunt multi cantores, potest aliquis illorum finire in imperfecta specie, ut in tertia vel in decima, vel in decima-septima, sed nunquam in sexta, nec quinta, in tertia-decima nec in vigesima.</p>
+      <p id="ANO8REG0028">Sexta regula est quod nunquam in contrapuncto debemus ponere quintam subtus planum cantum, quia quamvis aliquando concordat, tamen est magnum periculum communiter; subtertia etiam est periculosa, sed non tantum, sicut maxime in contrapuncto plano.</p>
+    </body>
+  </text>
+</TEI>

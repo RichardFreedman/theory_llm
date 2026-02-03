@@ -1,0 +1,1114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Musica poetica</title>
+        <title type="abbrev">BURPOE</title>
+        <author>Burmeister, Joachim</author>
+        <date notBefore="1600" notAfter="1699">17th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Peter Slemon</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Jessica Sisk</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>2008</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>Musica poetica: Definitionibus et divisionibus breviter delineata, quibus in singulis capitibus sunt hypomnemata praeceptionum instar [sunoptikos] addita, edita studiô et operâ</emph> (Rostock: Stephanus Myliander, 1606).
+</bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="BURPOE0001">
+      <pb n="[i1r]" />MUSICA POETICA</p>
+      <p id="BURPOE0002">DEFINITIONIBUS ET divisionibus breviter delineata, quibus in singulis capitibus sunt hypomnemata praeceptionum instar [sunoptikos] addita, edita studiô et operâ,</p>
+      <p id="BURPOE0003">Magistri Joachimi Bvrmeisteri, Lunaeburgi Scholae Rostochiensis Collegae Classici.</p>
+      <p id="BURPOE0004">Rostochii
+      <lb />Excudebat Stephanus Myliander,
+      <br />Anno M. DC. VI.</p>
+      <p id="BURPOE0005">
+      <pb n="[i2r]" />Viris amplissimis, Doctrinâ, Virtute, Rerum usu, maximè Eximijs, Praeclarissimis, Peritissimis, Inclytae Reipublicae Rostochii Dominis Consulibus et Senatoribus prudentissimis Dominis Patronis et Maecaenatibus meis, observantiâ et honore perpetuùm colendis. Salutem Plurimam Dico.</p>
+      <p id="BURPOE0006">VIri Amplissimi, Doctrinâ, Virtute, Rerum usu, maximè Eximij, Praeclarissimi, Peritissimi, arte hâc Musicâ ejusdemque tertiâ parte, Poeticâ dictâ, denuò mihi privatim explicanda veniente, fides, quae in ijs requiritur, qui Artem in manus sumunt explanandam, me concitavit, ut praeceptis id certis praestarem, aures meas vellens et admonens nullam Artem Liberalem sine praeceptis tradi posse ulli, ut ut naturâ quemque imitatione et exercitiô, vel si non, compendiô tamen ipsam arripere posse mihi persuaderi paterer. Dum ne natura, imitatio, et exercitatio ad fastigia rerum, quae in Arte tractantur, sine artificij documentis contendere possint; imo ne id, in quo compendij illius rationem consistere arbitrer, praeceptionibus careat, imo etjam, quod in arte minimum est, de quo institutio suscipitur, nisi formatio ex certis de eo praeceptis sumatur, non percipi, ita nec artis praesidia quisquam habere possit perfecta. Unde hoc consequenter necessum fit, ut Ars, si ejus aliqua pars praetermittitur, integrè non communicetur; aut certè si praeceptis necessarijs locum non damus, nec ea cognoscere volumus, non plene percipiatur, et non leve vel invidenriae, vel socordiae signum subsit. Nam cum in Arte sit hoc vel illud, quod sic se habet, vel minus; idipsum autem cur ita fiat, cur non; cur item hoc observandum, illud negligendum; cur hoc laudabile sit et ad imitandum aptum, illud vituperabile et fugiendum, si reticetur, nec cuiquam revelatur, cui, quaeso, praeter invidiam, sit tribuendum? Et certè si tandem alicui idipsum monstratur, quomodo praeter morem id praeceptionum fieri potest? Hae vero si ignorantur nemo negabit necesse esse, ut multa perperàm, multa non decoré, multa vituperiô digna fiant. Quàm verum in hac arte id sit, adeò perspicuum est, ut id rectè instructos non praetereat, ne dum rerum musicarum instructissimos, peritissimos, doctissimos. Quis enim 
+      <pb n="[i2v]" />non videt (ut exempli vice aliquid aspergam) quod multum absit, ut is, qui spretâ Modorum musicorum determinatione, priscorum Musicorum placitis immotô fundamentô nitentibus astructâ Clausulas formales (uti vocant) ubicunque locorum tumultuariè introducit, fundamenta hujus Artis se probè jecisse jactare possit, ne dum Artificis nomen? Vereor ne erronum numero annumeretur multas regiones pervagantium et putridas ac putidas suas merces multis bonis viris causâ aeris ab his ipsis extorquendi, omni pudore neglectô, offerentium. Quorum gratiâ haec Ars iniquae contemptus sorti non leviter exposita est, et etjamnum subjecta esse (proh dolor) cogitur. A quo, quoad fieri, et quoad à me aliquid opis huc accedere potest, ut vindicetur, haec praecepta, quantum Deo suggerente jam longâ observatione notavi posse hanc Artem plenius communicari, eôdem coöperante conscribere, et in accuratioris ordinis formam redigere, ac ad Auditorum meorum placitum edere non detrectavi, cum ut ea ipsis fide debità constaret tradita esse, tum etjam ut eadem testarentur, quod, humilime de me sentiens nullôque invidiae oestrô percitus bonum publicum pro virili juvare, et qui ubetiora et meliora praestare possit, eum exemplô meô incitare vellem. Quod aute vobis, Viri Amplissimi, Doctrinà, Virtute, Rerum usu maximè Eximij, Praestantissimi, Peritissimi, hoc, quicquid est, opusculi, consecro, dico, et sub Nominum Vestrorum auspicio evulgo, quaeso, detis mihi hanc veniam, animôque feratis aequo, ut erga Vos idipsum gratitudinis testificandae meae publicum extet testimonium. Ita enim optimè meriti estis de me, ut Vestro jure Vobis, si quid est in me industriae, id vindicetis. Pariamini quoque idem animi mei et voluntatis esse testificationem musicum studium et exercitium sive in Schola, sive in Templo, sive quocunque in loco et quando possit, ut ut jam multos annos Cantoris munus deposuerim, prompte juvandi. Animis ergò benevolis, ut id accipere; contra malevolos valido Vestri Patrocinij clypeô defensare; Vobisque me commendatissimum esse dignemini summâ animi contentione rogo. Valete, et annos Nestoreos in pacifica et placida Reipublicae administratione Deô conregnante vivite.</p>
+      <p id="BURPOE0007">Viris Amplissimis et Praeclarissimis</p>
+      <p id="BURPOE0008">Observanter colens Vestrae Scholae</p>
+      <p id="BURPOE0009">Collega Classicus</p>
+      <p id="BURPOE0010">Magister Ioachimvs Bvrmeistervs Lunaeburgi</p>
+      <p id="BURPOE0011">
+      <pb n="[i3r]" />[IOANNOU TOU POSSELIOU EIS SUNTAXIN MOUSIKEN IOAXEIMOU BOURMEISTEROU, EPIGRAMMA.</p>
+      <p id="BURPOE0012">MOUsikos imeroeis terpei theon, ede kai andras
+      <lb />Euphrainei, stonache bebaremenon etor echontas.
+      <br />Touneken essi theo philos, ede sophoisi brotoisi
+      <lb />BOURMEISTERE, melos kalon te kai esthlon huphainon,
+      <br />Eumethodos t' ekdous, sporaden egrapsan ha alloi.
+      <lb />Xoes deron eni CHRISTO glukuthume SUNERGE,
+      <br />CHREsta theo, kai CHREsta brotoisin aoidos aeidon.]</p>
+      <p id="BURPOE0013">SIc est profectò, dulcior
+      <lb />In orbe; nec praestantior
+      <br />Ars invenitur Musica.
+      <lb />Quàm rectè Olympi dixeris
+      <br />Venisse summis sedibus.
+      <lb />Quae saxa dura, et robora
+      <br />Mollîre callet, et asperos
+      <lb />Ursos, leones, tigrides.
+      <br />Huic quoniam te consecras
+      <lb />Joachime Pieridum decus,
+      <br />Doctisque eandem regulis,
+      <lb />Doctis simùl Hypomnematis
+      <br />Lustras, polo gratissimum
+      <lb />Edis, solo utilissimum
+      <br />Opus, unde perpetuus tibi
+      <lb />Splendor resultat nominis.
+      <br />Eja ergò perge gnaviter,
+      <lb />Et aspidorum Zoilûm,
+      <br />Qui cuncta dente livido
+      <lb />Rodunt adinstar murium,
+      <br />Rictus, susurros clanculos,
+      <lb />Atrasque morsiunculas
+      <br />Contemne forti pectore.
+      <lb />Petrus Hoppenerus Cantor ad Divum Petrum</p>
+      <p id="BURPOE0014">
+      <pb n="[i3v]" />HVc gressus deflecte tuos ô Dia juventus,
+      <br />Flectere cui blando mens est praecordia cantu:
+      <lb />Dulcisonus Phoebus siquidem cultaeque Camoenae
+      <br />Hic gracili filo connectunt carmina docta,
+      <lb />Imparibusque canunt numeris, et pectora mulcent.
+      <br />Sepositis ergò curis componito mentem
+      <lb />Aonioque choro, et claris te dedito Musis:
+      <br />Sic hominum atque Dei tibi conciliabis amorem.
+      <lb />Petrus Fabricius Holsatus</p>
+      <p id="BURPOE0015">ORpheus mirantes tenuit testudine rupes,
+      <br />Fibrasque flexit corneas,
+      <lb />Quem sibimet tantum laudis servavit honorem,
+      <br />Talem haud relinquens Orphea:
+      <lb />At majus laudis tua BURMEISTERE merentur
+      <br />Vulgata scripta encomium:
+      <lb />Queîs homines potis est Philomusus flectere quivis,
+      <br />Usus modò his accesserit.
+      <lb />Ede igitur fausta, ut suesti, coeloque soloque,
+      <br />Comitante vita et gloria.
+      <lb />Daniel Spalchavervs Rostochiensis.</p>
+      <p id="BURPOE0016">
+      <pb n="[i4r]" />Joachimus Burmeisterus
+      <br />[anagram].
+      <lb />Musicus Mire Viros Beat.</p>
+      <p id="BURPOE0017">SI qua meret laudes ars, quovis tempore laudes
+      <br />Mvsica grata polo grata soloque meret.
+      <lb />Haec vario mentes hominum demulcet amore,
+      <br />Haec removet curas, laeticiamque movet.
+      <lb />Mvsica defunctos revocat, lucemque perosos
+      <br />Exhilarat, mire mvsica quemque beat.
+      <lb />Praeripit excellens alijs sibi mvsicvs omnem
+      <br />Laudem, prae reliquis dignus honore viris.
+      <lb />Hunc juvenes laudant, laudatque recurva senectus,
+      <br />Hunc laudant nuptae, Virgineusque chorus.
+      <lb />Tu quoque non minimam tibi Bvrmeistere parasti
+      <br />Laudem, dum vincis carmine longè alios.
+      <lb />Vt modo capisti, si perges scribere, fama
+      <br />Post mortem celebris, laus quoque major erit.
+      <lb />Joachimus Lipermannus Rostochiensis
+      <br />In Labore Requies.</p>
+      <p id="BURPOE0018">[THEspesien dunamin tou thelxai etora andron
+      <lb />Harmonies emenai homophonois ede himertes
+      <br />Angelos essomenon Elisaios marturos esti,
+      <lb />CHeir THeou hupsistoio eph' hon, psallontos, hikane
+      <br />Psalteo. Eu toias, Mouses pephilemenos aner
+      <lb />Ennea, mousourgos pollont' antaxios allon,
+      <br />
+      <pb n="[i4v]" />BOURMEISTEROS, ee eni delto tede didaskei
+      <lb />Poiesai nomimois metrois charienti te kosmo.
+      <br />Toio charin d' oner kale, ainou axios, essi
+      <lb />Pollou. Nun d' age, toiautas ponee pro phoosde
+      <br />Pleionas exagagein biblous kai eleuse hodonde
+      <lb />Ten phaneran, kudos te met' andras' ageraon hexeis.]</p>
+      <p id="BURPOE0019">Lucas Vogelmannus, Rostoch</p>
+      <p id="BURPOE0020">[KUrios hupsimedon poieisthai thespin aoiden
+      <br />Opasetoi, peri keri makartate, exoche allon:
+      <lb />Ou tropon oukrupteis thumon kata, oud' epikeutheis.
+      <br />Atrekeos ta me thumos eni stethessi keleuei,
+      <lb />Eipo, ton allonte tolu propheresteron einai
+      <br />PHemi, osoi nun eisin epi chthoni siton edontes
+      <lb />Emmous', oupos meden' anainomai oud' atherizo.
+      <br />Pasin en anthropoisin epichthonioisin aoidoi
+      <lb />Times emmoroi eisi, eni phresin hoisi memelei,
+      <br />Asmata kai molpe' glukerou thelkteria thumou.
+      <lb />Nun andri kradie ge sideree endothen esti
+      <br />Pollakis, hos ligures molpes aeketi akouei.
+      <lb />Dakrusin oun stonachesi kai algesi thumon erechthon
+      <br />Errheto, aphron gar kai outidanos pelei aner.
+      <lb />Autar, aner polu philtat', ei agrios oude dikaios
+      <br />Leoidoreei tea erga legon anemolia: empes
+      <lb />CHaire, eni stethessin echei talapenthea thumon
+      <br />Me pauon: houto soi eükleie t' aretete
+      <lb />Estai en anthropois hama t' autika kai metepeita.]</p>
+      <p id="BURPOE0021">Daniel Praetorius Pasvv. Pom.</p>
+      <p id="BURPOE0022">
+      <pb n="[1]" />Musica Poetica.</p>
+      <p id="BURPOE0023">Definitionibus et divisionibus breviter delineata, quibus ad singula rerum capita sunt hypomnemata praeceptionum instar [sunoptikos] addita.</p>
+      <p id="BURPOE0024">MUsica Poëtica, quam Euclides [melopoiian] nominat, definitque esse usum harmonicae tractationi subjectorum, ad decorum propositi argumenti, est illa Musicae pars, quae carmen musicum docet conscribere, conjungendo sonos Melodiarum in Harmoniam, varijs periodorum affectionibus exornatam, ad animos hominum cordaque in varios motus flectenda.</p>
+      <p id="BURPOE0025">Haec definito tria proponit consideranda. 1. Sonos. 2. Concentus ex sonorum connexione exortos. 3. Harmoniam affectuosam. Quia verò soni absque certis figurativis considerari discernique nequeunt, literae diversorum ordinum sunt inventae, quae quando inter se connexione vel copulatione commiscentur, characterismum pariunt, qui primo loco in hoc opere consideratur. Deinde, ne soni perperam connectantur, sed ex eorum connexione legitimi concentus proveniant, oportet operationem syntaxeos certa ratio dirigat. Tertiò ut concentus cum mente soni fiant, et Harmoniae corpus sit ad animos permovendos moderatum, oportet figuris non destituatur, nec legibus terminorum sit solutum, quae ipsi Harmoniae modum finesque statuunt, quos ultra citraque non vagetur. Haec sunto veluti periocha hujus libelli, quae hisce capitibus persequemur, quorum</p>
+      <p class="textFig" id="BURPOE0026">
+      <br />1&#160;agit&#160;de&#160;Characterismo.
+      <lb />2&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Vocibus.
+      <br />3&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Doctrina&#160;sonorum.
+      <lb />4&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Consonantiarum&#160;syntaxi.
+      <br />5&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Clausulis.
+      <lb />6&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Modis.
+      <br />7&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Transpositione.
+      <lb />8&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Ratione&#160;inchoandi&#160;modulamina.
+      <br />9&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Fine&#160;Melodiarum&#160;et&#160;Harmoniarum.
+      <lb />10&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Applicatione&#160;textus.
+      <br />11&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Orthographia.
+      <lb />12&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Figuris&#160;seu&#160;ornamentis.
+      <br />13&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Generibus&#160;carminum&#160;et&#160;Antiphonorum.
+      <lb />14&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Analysi.
+      <br />15&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Imitatione.
+      <lb /></p>
+      <p id="BURPOE0027">
+      <pb n="[2]" />CAPVT I. De Characterismo.</p>
+      <p id="BURPOE0028">CHaracterismus est characterum quorundam, formis scripturae nonnihil discrepantium, perpendicularis apparentia in columnas lineis vel spatijs conspicuis a se invicem semotas, et ex certa mensura constantes divisa et distincta, in qua, velut in tabella, soni conjuncti unô intuitu conspiciuntur an harmonicè vel secus cohaereant, juxta peculiares ad id cognitu necessarias observationes.</p>
+      <p id="BURPOE0029">Characterismus est duplex: Notarum et Literarum.</p>
+      <p id="BURPOE0030">Notarum est in quo soni characteribus notarum musicalium lineis decem aequali distantiâ à se invicem semotis, et claves sibi in initio inscriptas representantibus concepti exhibentur.</p>
+      <p id="BURPOE0031">Literarum characterismus est, in quo ad connexione sonorum literarum est usus, cujus haec est quaedam apparentiae designatio.</p>
+      <p id="BURPOE0032">[Burmeister, Musica poetica, 2; text: a, b, c, d, e, f, g, D, E, F, G, ee, bb, dd, gg] 
+      <figure>
+        <graphic url="/images/BURPOE_01GF.gif" />
+      </figure></p>
+      <p id="BURPOE0033">Hic quia compendiosior est, nostro instituto serviat, in quo quae consideranda veniunt ordinè et quo ad ejus fieri potest, paucis delibabimus.</p>
+      <p id="BURPOE0034">DE SCALA.</p>
+      <p id="BURPOE0035">Scala est aliquot linearum, sivé earum quinque, sive plures fuerint, et inter illas existentium spaciorum congeries sive series, idonea ad sedem reliquis symbolis musicis praebendam.</p>
+      <p id="BURPOE0036">Hypomnema.</p>
+      <p id="BURPOE0037">In scala unaquaeque linea et unumquodque spacium ex septem literis vel etjam syllabis certum aliquod nomen sibi vendicat, id videlicet, quod unicuique competit et ab ordine confertur, quô literae se invicem sequuntur ad situm clavis in initio scalae positae: ut cui a competit, linea vel spacium vocetur a; cui b, linea illa seu spacium vocetur b, et sic consequenter.</p>
+      <p id="BURPOE0038">
+      <pb n="[3]" />DE CLAVIBUS</p>
+      <p id="BURPOE0039">Clavis est symbolum Dispositionis, quô in Musica Practica, ejusdemque illâ parte praesertim, quae Melodidascalia nuncupatur, sub scalae initio alicubi positô, lineae, et spacia in scala disponuntur, et proprium nomen vel ex syllaba vel ex litera sibi adsciscunt, ad quam soni vicissim per notas in scala manifestati ad literas in characterismum converti et reduci possunt. Haec triplex est: CE, [ClefC] EF, [ClefF] GE, [ClefG].</p>
+      <p id="BURPOE0040">Hypomnemata.</p>
+      <p id="BURPOE0041">1. Claves quibus sonis in characterismo competunt, probè tenendum est, ne qua in eo sonorum fiat confusio CE [ClefC] clavis competit literae c ordinis mesôn sive tertij. [ClefF] competit literae F ordinis parhypatôn sive secundi. [ClefG] competit literae g ordinis mesôn vel tertij. Hoc ipsum facit ad cantum, notis descriptum in characterismum rectè redigendum, et rursus ex characterismo ad notas reducendum. Nam notae in ea linea haerentes, cui clavis est infixa, ad istum characterem characterismi reducuntur, à quo nomen ipsi mutuatum est et inditum. Ab hac litera vel clave initium fit sonos in scala considerandi cujus sint ordinis, et quomodo in ea dispositi. Nisi enim certi alicujus in scala loci prima haberetur observatio et agnitio, reliqua loca confusam vel plane aut nullam, aut certè obscuram sui conciliarent notitiam cognoscenti.</p>
+      <p id="BURPOE0042">2. Lineis et spacijs supra clavis locum in scala sursum elevatis, vel deorsum depressis aut remissis nomina attribuenda esse ratio dictitat, pro ut clavem in ordine sursum vel deorsum sequuntur, verbi gratia [ClefC] in aliqua scalae lineâ positô, linea ipsa erit nominanda c mesôn sive tertij ordinis; et nota quae illi inhaeret ad c mesôn reducenda. Spacium huic c proximum sursum accipit nomen d mesôn, et nota quae in ipso est locata, ad d est reducenda. Vicinum spacium deorsum inclinans b vocabitur, et nota in eo posita ad b reducetur. Idem sit judicium de reliquis ordine in scala sequentibus lineis vel spacijs, ultra citraque locum clavi proprium aut elevatis, aut depressis. Et hoc quidem de cantu ad literas characterismi reducendo aut resolvendo intelligitur. Quod idem de characteristicis sonorum adhuc in characterismo contentis, et ad notas in contextum notarum describendis, eôdem sensu est accipiendum.</p>
+      <p id="BURPOE0043">DE LITERIS.</p>
+      <p id="BURPOE0044">Litera est elementum ex Grammatica in hanc artem translatum, inventa ad sonum in characterismo denotandum.</p>
+      <p id="BURPOE0045">
+      <pb n="[4]" />Ea septuplex est. A, BE, CE, DE, E, EF, GE. Harum quinque sunt ordines scripturae diversitate à se invicem variantes.</p>
+      <p id="BURPOE0046">[Burmeister, Musica poetica, 4; text: Soni ordinis, Hyperboleôn, Paramesôn, Mesôn, Parhypatôn, Hypatôn, vel quinti, quarti, tertij, secundi, primi, a, b, c, d, e, f, g, A, B, C, D, E, F, G]</p>
+      <p id="BURPOE0047">Hypomnemata.</p>
+      <p id="BURPOE0048">1. Literae diversitate scriptionis distinctae sint, oportet. Sunt enim soni, in Octavae spacio distantes, de nomine sibi quidem similes, et ob id similibus literis describendi et notificandi: verum, quia locis et intentionis ac remissionis qualitate diversi sunt, diversitas in scriptione est manifestanda, ne qua sonorum confusio suboriatur.</p>
+      <p id="BURPOE0049">2. Soni quicunque quibus literis notificandi sunt, eas surrogant, ex omnibus omnium literarum ordinibus literae, quibus cum clavibus est affinitas, cujus paullò ante mentionem fecimus.</p>
+      <p id="BURPOE0050">DE DISPARATIS</p>
+      <p id="BURPOE0051">Disparatum musicum (quantum ad Poesin) est tam in notarum, quam literarum contextu figura certa, et notae et literae apposita, indicans, quod aut semitonij de tono detractio, vel ad semitonium additio sit facta, quodque sonus ille aliam sui pronuntiationem poscat, quam quae ipsi alias competit. Id duplex est: unum Diezeugmenorum; alterum Synnemenorum.</p>
+      <p id="BURPOE0052">Synnemenorum est figura [rob] in contextu notarum: in contextu vero literarum est figura exilis crucis [+]</p>
+      <p id="BURPOE0053">Diezeugmenorum utrobique est figura [x] Be cancellati vel [sqb] quadrati.</p>
+      <p id="BURPOE0054">Hypomnemata.</p>
+      <p id="BURPOE0055">1. Quando in contextu notarum alicui notae est praeposita figura [rob] rotundi, ea (nota) reducitur ad suam literam: [rob] verò ad crucis figuram literae apponendam. Similiter cum [x] agendum est, nimirum, nota cui praepositum est, reducitur ad sui soni characteristicam, cui characteristicae in characterismo figura cancellata praemittitur.</p>
+      <p id="BURPOE0056">2. Sonus in contextu characterum Disparati signô figuratus idem jus obtinet 
+      <pb n="[5]" />(quando est ad notam reducendus et convertendus) quod in contextu notarum. Vt: cum crucis figura literae in characterismo assistit, indicio sit ea ipsa, [rob] rotundum notae apponi debere, Si vero [x] cancellata figura, vel haec [sqb] quadrata literae adhaeret, eandem esse notae apponendam.</p>
+      <p id="BURPOE0057">DE NOTIS MENSURAE</p>
+      <p id="BURPOE0058">[homoiomereos.]</p>
+      <p id="BURPOE0059">Nota est soni symbolum, cujus quantitatem et valorem aestimat et notat, quae duplex est: Tactum continens; et Tactu contenta. Haec aliquoties tactu recipitur, et rursus quadruplex est.</p>
+      <p id="BURPOE0060">[Burmeister, Musica poetica, 5,1; text: Minima, Semiminima, Fusa, Semifusa, Est figura sonum notans, qui à tactu reciptur, bis. quater. octies. sexies et decies] ,</p>
+      <p id="BURPOE0061">Illa quae integrum tactum aliquoties recipit itidem quadruplex est</p>
+      <p id="BURPOE0062">[Burmeister, Musica poetica, 5,2; text: Maxima, Longa, Brevis, Semibrevis, Est figura sonum notans, qui tactum in se continet sub signo imperfecto, octies, quater, bis, semel, sub signo imperfecto. 12. 6. 3. 1.]</p>
+      <p id="BURPOE0063">Hypomnemata.</p>
+      <p id="BURPOE0064">1. Haec mensura notatur vel significatur figura hujus signi [Odim] vel [Cdim] vel [C]. Soni ijsdem nominibus notarum appellabuntur in characterismo, quarum valorem in eo referunt et repraesentant.</p>
+      <p id="BURPOE0065">DE REDUCTIONE.</p>
+      <p id="BURPOE0066">Reductio est conversio sive replicatio notae ad literam vel literae ad notam.</p>
+      <p id="BURPOE0067">In reductione memorabiliora sunt haec:</p>
+      <p id="BURPOE0068">(1) Columna. (2) Linea intercalaris. (3) Circumflexus. (4) Linea capitalis.</p>
+      <p id="BURPOE0069">Columna est omnium vocum earundemque sonorum, sive ij sint ejusdem valoris sive diversi, in integro tactu consonantium, juxta etjam respectivè dissonantium, connexa conjunctio ad perpendiculum quasi facta, ut receptaculum sit tot sonorum in qualibet voce, quot unicô tactu mensurari possunt.</p>
+      <p id="BURPOE0070">
+      <pb n="[6]" />Hypomnemata.</p>
+      <p id="BURPOE0071">1. Columna valorem habet integri tactus. Colligentur itaque tot soni et ponentur in columna, quot à tactu recipiuntur. Verbi gratia</p>
+      <p id="BURPOE0072">[Burmeister, Musica poetica, 6,1; text: a, b, c, d, e, f, g, A, D, F, G]</p>
+      <p id="BURPOE0073">2. Columnae quô magis conspicuae sint in characterismo, oportet inter eas intercedat aliquod spacium, quô eae ipsae à se invicem intervallô, tanquam manifestâ distantiâ secernantur. Res ex praecedenti, vel praemissô exemplô est plana.</p>
+      <p id="BURPOE0074">Linea intercalaris est exilis figura (talis videlicet linea --) latitudine parum praedita, in longitudinem verò paullulum extensa, quae integrae notae in partes resolutae, cujus in characterismo index est; vel resolutae in integram unam figuram (quod fit in notarum contextu) contrahendae, signum est.</p>
+      <p id="BURPOE0075">Hypomnemata.</p>
+      <p id="BURPOE0076">1. Quoties nota aliqua, quae tactum in se continet resolvitur, ejus partes (hoc est integri ejus tactus, vel dimidij) ad quas resoluta est, linea intercalari inter columnas ductâ annectantur, idque duplici ratione, primum:</p>
+      <p id="BURPOE0077">Nota, tactum in se continens, si cum depressione occurrit, resolvitur ad tot partes, quae reducuntur ad suas characteristicas, quot in se tactus recipit; quaelibet earum characteristicarum columnae inseritur, à prima protenditur vel ducitur lineola intercalaris ad proximè sequentem characteristicam proximè sequentis columnae, idque fit tantisper, donec omnes characteristicae omnium unius notae tactuum conspiciuntur connexae. verbi gratia occurrit in scala ubi d locum habet, nota Longa, et quidem ad mensurae depressionem, ea nota ad quatuor partes hoc est characteres in characterismo resolvitur vel reducitur, tanquam ejus notae partes integrales, sibique in valore similes, quarum partium quaelibet litera d, cuilibet columnae inseritur, et lineola inter quatuor columnas, et in ijs contentis quatuor d literis intercalatur, ut hic videre est:</p>
+      <p id="BURPOE0078">[Burmeister, Musica poetica, 6,2; text: reductio, d] 
+      <figure>
+        <graphic url="/images/BURPOE_02GF.gif" />
+      </figure></p>
+      <p id="BURPOE0079">
+      <pb n="[7]" />2. Deinde si nota tactum continens ad elevationem mensurae vel tactus, occurrit, tunc resolvitur ea ad tot characteres, quot dimidios in se recipit tactus. Istorum dimidiorum tactuum prima characteristica fit columnae, quam ordine attingit, posterior dimidia pars; secunda characteristica fit sequentis columnae prior pars: tertia characteristica fit proximè in ordine sequentis columnae posterior pars. Inter illas columnas inseritur linea intercalaris. In columnis vero ambabus dimidiorum tactuum characteristicis imponitur figura circumflexi.</p>
+      <p id="BURPOE0080">Exempla.</p>
+      <p id="BURPOE0081">[Burmeister, Musica poetica, 7,1; text: a, d]</p>
+      <p id="BURPOE0082">2. Ligatae notae, (quae sunt ex notis longis, vel brevibus, vel utrisque conflatae figurae, aptae ad residuos sonos textuum syllabis applicandos) eôdem jure cum notis simplicibus tactum continentibus utuntur.</p>
+      <p id="BURPOE0083">Exempla.</p>
+      <p id="BURPOE0084">[Burmeister, Musica poetica, 7,2; text: a, b, c, d, G]</p>
+      <p id="BURPOE0085">3. Notae Minimae, Seminima, vel Fusa, si pari modo occurrunt ut resolvendae sint in duas partes aequales, quae diversarum proximè vicinarum columnarum angulares esse debent, hae connexione lineolae intercalaris cohaerent.</p>
+      <p id="BURPOE0086">Circumflexus est grammaticalis illa figura, quae, ex acuto et gravi tonis conflata, syllabis istis vocularum quae ex duabus in unam coaluerunt, conferri solet, in hac arte hunc habet usum, quod unius notae vel soni dimidias aequales partes in columna positas connectat, vel indicet, punctum notae alicui, praesertim Semibrevi adhaerere debere.</p>
+      <p id="BURPOE0087">Hypomnemata.</p>
+      <p id="BURPOE0088">1. In genere connectit circumflexus in columna et intra columnas se intercalari lineae impositô, dimidias partes integri tactus, quando sonus, ex pluribus quam unô tactu constans, ad dimidias sui partes erit resolvendus. Vt hic videre est:</p>
+      <p id="BURPOE0089">
+      <pb n="[8]" />[Burmeister, Musica poetica, 8,1; text: a, F, G]</p>
+      <p id="BURPOE0090">2. Sic et nota et punctum notae annexum in characterismum convertitur, si sonus per notam in contextu notarum expressus, et huic alius similis per punctum, cohaerent, quorum ille praecedentem unum vel plures, tactus aut elevationem mensurae; hic vero sequentem unum vel plures tactus aut depressionem sibi vendicat. Quod his exemplis declaratur.</p>
+      <p id="BURPOE0091">[Burmeister, Musica poetica, 8,2; text: a, c, d, e, f]</p>
+      <p id="BURPOE0092">3. In columna connectit circumflexus sonum minimum cum semiminimo vel semiminimum cum fuso; vel fusum sonum cum semifuso, quorum hic punctum, ille notam denotat, vel eorundem valorem. Exemplum hoc sit:</p>
+      <p id="BURPOE0093">[Burmeister, Musica poetica, 8,3; text: a, b, c, F, G]</p>
+      <p id="BURPOE0094">Linea capitalis est exilis lineola, quae characteristicas semiminimorum, fusorum et semifusorum in capite signat, ad discernendos istos sonos ab ijs, qui his in valore sunt majores. Ea triplex est: simplex, quae imponitur characteri, cujus sonus exprimitur notâ Semiminima; Duplex cujus sonus exprimitur Fusâ, Triplex Semifusa, ut in hoc praemisso exemplo apparet.</p>
+      <p id="BURPOE0095">Hypomnemata,</p>
+      <p id="BURPOE0096">1. Minima nota à reliquis minoribus notis discernitur, quod nullum gerat signum.</p>
+      <p id="BURPOE0097">2. Quando duae minimae; quatuor semiminimae; octo fusae; sedecim semifusae in uno tactu concurrunt, nullâ lineolâ inter se discernuntur, propterea quod sunt unius et ejusdem valoris soni.</p>
+      <p id="BURPOE0098">
+      <pb n="[9]" />DE REDUCTIONE NOTARUM SIVE Characteristicarum, in Mensura [anomoiomerei] cantilenis saltatorijs, praesertim earum proportionibus, convenienti.</p>
+      <p id="BURPOE0099">Hypomnemata.</p>
+      <p id="BURPOE0100">Haec mensura vel sonorum valor significatur signo tali: [3].</p>
+      <p id="BURPOE0101">[Burmeister, Musica poetica, 9; text: In mensura [anomoiomerei] tactus, Tres aequales partes concurrentes, Duae ex tribus in integram coagulatae, Sex partes aequales tactum implentes, Tertia pars, Tertia pars in duas resoluta, Tertia pars in quatuor resoluta, gerit in capite, signô discretionis carebunt, Simplicem, duplicem, triplicem, lineolam, Reductio, a, b, c, d, e, f, C, G] 
+      <figure>
+        <graphic url="/images/BURPOE_03GF.gif" />
+      </figure></p>
+      <p id="BURPOE0102">DE PUNCTIS.</p>
+      <p id="BURPOE0103">Punctum est minutus apex ex impressione instrumenti et materiae, quibus scribitur, exoriens, qui notae apponitur, ut valorem ejus ad dimidium augeat.</p>
+      <p id="BURPOE0104">
+      <pb n="[10]" />Hypomnemata.</p>
+      <p id="BURPOE0105">1. Punctus, ad eandem characteristicam reducitur, ad quam nota cui adhaeret, reducenda est.</p>
+      <p id="BURPOE0106">2. Punctus, pro ut notis apponitur, ita valorem habet, ita etjam nunc unius, nunc plurium fit particeps columnarum. Quomodo autem id fit, ex antecedentibus jam satis constat.</p>
+      <p id="BURPOE0107">DE PAUSIS.</p>
+      <p id="BURPOE0108">Pausa est silentij in voce index, quae duplex est, generalis et specialis. Generalis est, quae omnibus harmoniae vocibus simul silentium indicat, et in notarum contextu notatur hac figura [CTd] vel lineâ perpendiculariter per omnes scalae lineas et spacia ductâ, in characterismo, hâc formâ [CBd] et cetera solum.</p>
+      <p id="BURPOE0109">Specialis est, quae uni voci seorsum silentium indicat, et est octuplex: 1. Maxima, 2. Longa, 3. Brevis, 4. Semibrevis, 5. Minima, 6. Semiminima, 7. Fusa, 8. Semifusa. quarum figurae sunt hae:</p>
+      <p id="BURPOE0110">[Burmeister, Musica poetica, 10; text: 1, 2, 3, 4, 5, 6, 7, 8, Reducitur autem, Maxima, Longa, Brevis, Semibrevis, Minima, Semiminima, Fusa, Semifusa, sic]</p>
+      <p id="BURPOE0111">CAPVT II. De Vocibus.</p>
+      <p id="BURPOE0112">VOx est Melodiae corpus ex sonorum coacervatione concretum atque conflatum, quorum arses et theses sunt paratae ad modulamen.</p>
+      <p id="BURPOE0113">
+      <pb n="[11]" />Vox duplex est: Primaria; et Secundaria.</p>
+      <p id="BURPOE0114">Primaria vox est cujus primus et potior in primo Musices initio fuit usus.</p>
+      <p id="BURPOE0115">Haec quadruplex est: 1. Discantus. 2. Altus. 3. Tenor. 4. Bassus.</p>
+      <p id="BURPOE0116">Discantus (ex dis et cantus composita dictio idem denotare videtur, ac valdè sit elevatus et intensus hâc voce cantus. Dis enim in compositione intendendi vim non nunquam innuit) est vox illa primaria, quae inter omnes suprema est, propterea, quod in Modorum temperamento suprema [diapason] vel Octavâ supra Tenorem elevatâ circumscribitur, et aetati puerili femineaeque voci convenit.</p>
+      <p id="BURPOE0117">Altus (aliàs dicta contratenor, quasi ea, quae systema vel constitutionem suam contra harmoniae Tenorem habet. Vel, quia Altus, a, um dicitur id, quod sublime, tum profundum quid denotat; hinc haec vox, Altus quoque dicitur, quod vox sit, quae Tenore sit altior et Discantu profundior. Item quia profunditas maris in medio, non autem propè ripas littoris vel labra maris consistit, sic inde quoque Altus dictus videtur, quod medium inter Discantum et Tenorem tenet) est illa vox primaria, cui ambitus vel circuitus sonorum in [diapason] est meta ea constituta, quae media est in Modorum temperamento inter Discantum et Tenorem, aetati juvenili conveniens.</p>
+      <p id="BURPOE0118">Tenor (à [tonos] deductum nomen esse Quintilianus testatur libro 1, capite 5. Idipsum significat accentum. Vt enim accentu, vocabuli, quasi, naturam metimur: sic harmoniae naturam consideramus potissimum in Tenore. Deinde (ut Erasmus Roterodami explicat) significat rei progressum; statum continuatum nihil immutati sapientem vel habentem, qui sibi continuâ serie eâdemque perpetuâ similis manet) est vox illa primaria à fundamento harmoniae proxima, ad statum Modi, quô harmonia vel [he melos] circumscribitur, servandum apta, aetatique consistenti ac viris conveniens.</p>
+      <p id="BURPOE0119">Bassus (à [basis] fundamentum dicitur, quod totius harmoniae sit fulcrum) est vox inter primarias infima, fulcri sive fundamenti partes in harmonia gerens, ac apta aetati virili, et quidem humanis vocibus virilibus, quae gravius aut remissius pronunciare et canere valent.</p>
+      <p id="BURPOE0120">Primariarum vocum quaedam dicuntur Conterminae, quaedam Disterminae.</p>
+      <p id="BURPOE0121">Conterminae voces sunt, quae unum et eundem habent sonum, 
+      <pb n="[12]" />quo in Modorum conjugio aut temperamento sui terminum positum habent, et sic finitimae fiunt. Tales sunt Discantus et Tenor, Altus et Bassus. Subjectum schema rem declarat.</p>
+      <p id="BURPOE0122">[Burmeister, Musica poetica, 12; text: Voces Conterminae, Tenor, Discantus, Bassus, Altus, A, E, a, e] 
+      <figure>
+        <graphic url="/images/BURPOE_04GF.gif" />
+      </figure></p>
+      <p id="BURPOE0123">Disterminae sunt, quorum ambitus octavarum in uno eôdemque sono non fiunt finitimi. Omnes voces à prima ad secundam, à secunda ad tertiam, et sic deinceps factâ collatione, habent se ut Disterminae voces, hoc est quae sibi inter se propinquissimae vel vicinae sunt, non autem finitimae. Sed quae in uno eodemque sono suum terminum ponunt, eae dicuntur et sunt conterminae.</p>
+      <p id="BURPOE0124">Secundaria vox est, quae in Musices incremento ad numerum vocum accessit, et eandem cum aliqua ex quatuor primarijs constitutionem, naturam et systema habet. Ejusmodi sunt Discantus, Altus, Tenor, Bassus Secundus, vel Tertius.</p>
+      <p id="BURPOE0125">Hypomnemata.</p>
+      <p id="BURPOE0126">1. A Basso voce, vel quae Bassi hoc est fundamenti vices in harmonia gerit, tutissima fit reductio.</p>
+      <p id="BURPOE0127">2. Vocum singularum reductio in latitudinem: omnium verò in longitudinem columnarem ad perpendiculum | quasi factam, extenditur.</p>
+      <p id="BURPOE0128">PRAXIS PRAECEDENTIUM DUORUM capitum in 4. vocum concinnitate ostensa.</p>
+      <p id="BURPOE0129">
+      <pb n="[13]" />[Burmeister, Musica poetica, 13; text: Discantus. Altus. Tenor, Bassus.]</p>
+      <p id="BURPOE0130">
+      <pb n="[14]" />Reductio.</p>
+      <p id="BURPOE0131">[Burmeister, Musica poetica, 14; text: a, b, c, d, e, f, g, A, B, C, D, E, F, G] 
+      <figure>
+        <graphic url="/images/BURPOE_05GF.gif" />
+      </figure></p>
+      <p id="BURPOE0132">CAPVT III. De Sonorum consonantium et dissonantium doctrinâ.</p>
+      <p id="BURPOE0133">SOnus est qualitas, à chorda plectri attactu vibrata; sive à vocis emissione orta, aërem indissolutè frangens usque ad auditum.</p>
+      <p id="BURPOE0134">Soni sunt 28. in quinque ordines distributi, de his consulatur hujus libelli primum caput, ubi de Literis agitur.</p>
+      <p id="BURPOE0135">Sonorum alij dicuntur Primitivi; alij Derivativi.</p>
+      <p id="BURPOE0136">Primitivus sonus est quilibet sonus ex sonorum ordine parhypatôn, ut A. B. C. D. E. F. G. Boëtio dicitur primus.</p>
+      <p id="BURPOE0137">Sonus Derivatus est quilibet sonus in universo sonorum numero consideratus, cum primitivo in diapasôn vel disdiapasôn distantiâ constitutus.</p>
+      <p id="BURPOE0138">Exempli gratia.</p>
+      <p id="BURPOE0139">Sonus [CC] cum C in diapasôn distantiâ dicitur sonus derivatus, ita nil minus c cum C. et c cum C. Boëtio dicitur Secundarius.</p>
+      <p id="BURPOE0140">
+      <pb n="[15]" />Sonus Derivatus rursus triplex est: Simplex; Compositus; et Decompositus.</p>
+      <p id="BURPOE0141">Sonus Derivatus simplex est, qui cum Primitivo per simplicem diapasôn, quemadmodum a cum A, b cum B, c cum C, et cetera; Compositus per duplicem diapasôn, ut [aa] cum A, [bb] cum B, [cc] cum C, et cetera. Decompositus per triplicem, ut [alpha] cum A, connectitur.</p>
+      <p id="BURPOE0142">Hypomnema.</p>
+      <p id="BURPOE0143">Sonorum haec divisio locum habet in doctrina de Modis, quae si rectè et perspicuè ibi explicari et tradi debet, hic ista non est praetereunda.</p>
+      <p id="BURPOE0144">Sonus item alius consonans, alius dissonans est.</p>
+      <p id="BURPOE0145">Consonans, qui cum alio aliquo consonat, ad creandam consonantiam.</p>
+      <p id="BURPOE0146">Dissonans, qui cum alio aliquo dissonantiam parit.</p>
+      <p id="BURPOE0147">Consonantia (quae et concordantia, concentus vel harmonia dicitur) est (ut Boëtius libro 1, capitibus 3 et 8, definit) dissimilium inter se vocum in unam redacta concordia. vel, Consonantia est acuti gravisque soni mixtura, auribus suaviter uniformiterque accidens. vel (ut nos eam definire conati sumus) Consonantia est qualitas ex collisione duorum sonorum orta, aures suaviter afficiens.</p>
+      <p id="BURPOE0148">Haec duplex est: alia Perfecta, alia Imperfecta.</p>
+      <p id="BURPOE0149">Perfecta consonantia est, cui ne comma, nedum semitonium addas vel detrahas.</p>
+      <p id="BURPOE0150">Species ejus sunt diapente, hoc est Quinta; et Diapasôn, sive simplex vel composita, quae est, disdiapasôn.</p>
+      <p id="BURPOE0151">Imperfecta consonantia est, cui semitonium nunc addi, nunc detrahi potest, Species ejus sunt. 1. Semiditonus vel ditonus, videlicet Tertia non plena et Tertia plena. 2. Diapente cum hemitono et Diapente cum tono, hoc est Sexta non plena et Sexta plena.</p>
+      <p id="BURPOE0152">Utraque (et perfecta et imperfecta consonantia) triplex est: Simplex; Composita et Decomposita.</p>
+      <p id="BURPOE0153">Simplex est, quae se extra [diapason] non extendit. Composita, quae se extra diapasôn extendit. Decomposita, quae se extra disdiapasôn extendit.</p>
+      <p id="BURPOE0154">
+      <pb n="[16]" />Theorema consonantiarum juxta sonaum A.</p>
+      <p id="BURPOE0155">[Burmeister, Musica poetica, 16; text: Consonantia perfecta, Simplex, Diapente, Diapason, Composita, Decomposita, disdiapasôn, Trisdiapason, Consonantia imperfecta, non plena et plena, tertia decima, sexta, decima, septima decima, duodecima, quinta decima, hoc est undevicensima, vel vicensima secunda, vicensima, a, c, e, f, A, C, E, F]</p>
+      <p id="BURPOE0156">Dissonantia (quae et Discordantia et diaphonia nominatur) est duorum sonorum sibi permixtorum ad aures veniens aspera atque injucunda percussio.</p>
+      <p id="BURPOE0157">Hypomnemata.</p>
+      <p id="BURPOE0158">1. Soni, praeter eos, qui perfectas et imperfectas consonantias pariunt, omnes pro dissonantijs habebuntur.</p>
+      <p id="BURPOE0159">
+      <pb n="[17]" />2. Nomina haecce: Semitonium vel Secunda dimidia; Tonus vel Secunda; Semiditonus vel Tertia non plena; Ditonus vel Tertia plena; Diatessaron vel Quarta; Tritonus vel Quarta non plena; Diapente vel Quinta; Diapente cum semitonio, vel Sexta non plena; Diapente cum tono vel Sexta plena, Diapente cum Semiditono vel Septima non plena; Diapente cum ditono vel septima plena; Diapasôn vel Octava, et quae ex hâc, videlicet Diapasôn, et illis omnibus componuntur et decomponuntur, in poetica sunt concentuum nomina: Quocirca quoties ea deinceps occurrent, quod saepissimè fiet, de concentibus, non de intervallis, erunt accipienda.</p>
+      <p id="BURPOE0160">CAPVT IV. De Consonantiarum syntaxi in harmoniam.</p>
+      <p id="BURPOE0161">SYntaxis Musica est ratio conjungendi sonos duarum aut plurium melodiarum in harmoniam ad modulamen.</p>
+      <p id="BURPOE0162">Melodia est pro intervallorum ratione sonorum se invicem subsequentium affectio, ad modulamen, affectus in homine non plane amuso creans, parata, vel facta.</p>
+      <p id="BURPOE0163">Harmonia est carmen musicum ex plurium vocum Melodijs in harmoniam devinctis ad modulamen constructum. Species connumerari possunt tot, quot se cantiones, nunc in paucitate; nunc in pluralitate vocum offerunt.</p>
+      <p id="BURPOE0164">Hypomnemata.</p>
+      <p id="BURPOE0165">I. Observandum est, quod septem sonorum musicalium A, BE, CE, DE, E, EF, GE, cujusque ordinis inter se juxta utramque qualitatem in Diatonico modulaminum genere, respectu ad characteristicam conjugatam Basin habitô, haec est naturarum comparatio, quod ad unum ex ordinibus istis datum sonum, tanquam tertium, vel etjam primum, duo alij à se invicem, et à dato primo, diversi, tanquam ad fundamentum suae structurae, consonant: idque nunc perfectè et imperfectè simul; nunc in totum non plenè imperfectè, vel plenè imperfectè simul. Qui autem ipsi sunt, et quomodo omnes definiantur, id verbis comprehendere nimis longum foret, fortè etjam hujus artis studiosis taediosum. Idcircò brevitati studentes schemata quaedam producimus, in quibus consoni isti soni ad oculos positi lustrentur et considerentur, ac, conceptâ in ipsis de his quasi idaea, compendiô velut citius memoriae infigentur et inhaerebunt, quàm copiâ praeceptorum. Quae ipsa schemata sivè tabellae ad hoc etjam 
+      <pb n="[18]" />conducunt, quod ex sonorum conjugatorum sivè eorundem characteristicarum in ijs cohaerentiae apparentia, quam exhibent, quâque sonus alius alij per omnes sonorum ordines, quasi ad perpendiculum, adhaeret, constructionis modus et via tyronibus sternitur et monstratur, ac ij juxta harum tabellarum ductum Melodias Melodijs et Melodiarum sonos sonis annectere absque ullo labore cognoscant, atque ita comperiant, quomodo mirâ facilitate et compendiô suavissimae harmoniae concentusque fingantur et componantur. In voce enim Basso Melodiae suae sonô C ordinis parhypatôn positô, alterius vocis, et quidem Basso proximè vicinae Tenoris sonum juxta perpendicularem in schemate sonorum conjugatorum conjunctionem, sive illud fiat intra, sive extra Octavae spacium, pro voto et voluntate ex ipsis schematibus connectere sciet. Si libuerit Tenoris sonum in Octavae spaciô cum Bassi sonô C conjungere, schemata exhibebunt c ordinis mesôn. Si intra diapasôn arctius, eâdem facilitate offendetur E vel G vel a. Deinde in Alto Melodiae sonus invenietur eôdem negotio, quem intervalli aptitudo et motus ejusdem compositus pronuntiationique conveniens, quô priorum duarum vocum, Bassi videlicet et Tenoris peractâ syntaxi factum est, admittet. Vltimô locô Melodiae sonum in Discantu pari dexteritate et commoditate cum reliquis vocibus in harmoniam devincire notitiam hauserit. Verbi gratia Si C. Bassi, Tenoris sonum propinquissimô concentus interstitiô, quod est Tertia, annectere lubet, à Bassi sono oculos sursum non nihil levo et conspicio in ipsa distantia E parhypatôn: hos sonos, ut infallibiliter et indubitanter veros conjugatos, copulo, et sic consequenter reliquarum vocum Melodias in Harmoniam devincio. Ex quo colligere est, quod jucundum et gratum in ipsis schematibus sit comprehensum syntaxeos compendium. Et profectò, quando doctrinarum de clausulis formandis et Modis cognitio accesserit, nescio quid intercedere difficultatis possit, quo minus artis hujus jucunditate conditam svavitatem cognoscendi desiderium Philomusus non expleat. Quo nomine etjam utriusque rei doctrina esset praemittenda Syntaxi. Verùm quia cognitio conjugatorum sonorum tyroni sit ante perspectissima, non immeritò eundem in concinnendorum sonorum et cognoscendarum eorundem characteristicarum conjugatarum exercitiô continendum esse statuimus, idque ut factu res fiat perfacillima, aliud insuper theorema addimus, quo omnibus modis optimè sibi consultum esse tyro cognóscat et fateatur, cui isti (theoremati) haec schemata sic nunc praemittere lubet.</p>
+      <p id="BURPOE0166">
+      <pb n="[19]" />[Burmeister, Musica poetica, 19; text: Schema Primum. Perfecti cum semiimperfectis, Perfecti cum plenè imperfectis, Consoni et conjugati soni juxta ordinem sonorum. Paramesôn, Mesôn, Parhypatôn, Hypatôn, a, b, c, d, e, f, g, A, B, C, D, E, F, G] 
+      <figure>
+        <graphic url="/images/BURPOE_06GF.gif" />
+      </figure></p>
+      <p id="BURPOE0167">
+      <pb n="[20]" />[Burmeister, Musica poetica, 20; text: Schema Secundum. Pleni imperfecti cum semi-imperfectis, Purè imperfecti pleni, Consoni et conjugati soni juxta ordinem sonorum. Paramesôn, Mesôn, Parhypatôn, Hypatôn, a, b, c, d, e, f, g, A, B, C, D, E, F, G] 
+      <figure>
+        <graphic url="/images/BURPOE_07GF.gif" />
+      </figure></p>
+      <p id="BURPOE0168">
+      <pb n="[21]" />Ex chromatico Genere modulaminum et hae consonântiae imperfectae in Diatonum Genus inseruntur respectu habitô ad Basin conjugatam.</p>
+      <p id="BURPOE0169">[Burmeister, Musica poetica, 21; text: Consoni soni Ordinis, Perfecti cum plenè imperfectis, Purae Semiimperfectae, Paramesôn, Mesôn, Parhypatôn, Hypatôn, a, b, c, d, e, f, g, A, B, C, D, E, F, G] 
+      <figure>
+        <graphic url="/images/BURPOE_08GF.gif" />
+      </figure></p>
+      <p id="BURPOE0170">Hic juxta sciendum est, quod in hisce praemissis schematibus soni suis characteristicis absque appositione harum figurarum [*] et [+], quas signa Disparatorum nominamus, notificari potuissent: verûm, quia non omnes soni inter se perfectè consonant, non etjam imperfectè plenè et non plenè, quod omne ex Modulaminum Genere Chromatico, de quo in sequentibus suô locô agemus, profluit, perfectitudo ab imperfectitudine, et hujus plenitudo à defectu certis fuit discernenda signis.</p>
+      <p id="BURPOE0171">II. Quodlibet praemissum schema dividitur in quatuor partes, quarum quaelibet infimâ characterum serie certum refert sonorum musicalium ordinem. Infima pars refert infimâ sui serie ordinem sonorum hypatôn; altera, parhypatôn; tertia, meson; quarta, paramesôn. In qualibet parte cujuslibet ordinis sonus alijs duobus sonis, quos à se sursum aspicit, vel sibi impositos gerit, aut etjam deorsum respicit, conjugatus est vel connexus, idque fit aut perfectè et semi imperfectè, vel plenè imperfectè. Vt, (sit exemplum in ordine parhypatôn) A. C. vel [x] C. E; aut purè semi imperfectè; ut A. C. F; aut plenè imperfectè; ut: A. [x] C. [x] F. Vnde characteristicae, 
+      <pb n="[22]" />quae ita cohaerent, dicuntur conjugatae. Ex quibus infimo semper sono primus debetur aspectus, ut, qui fulcrum est reliquorum in harmoniam devinctorum, cujus etjam caussâ ejus ipsius characteristica vocabitur conjugata Basis, et velut coriphaeus, ad indicandum, qui soni, conjugati possint esse, qui verò minus; altera Media; tertia Suprema. Ex quô consequenter haec earum descriptio et divisio nascitur.</p>
+      <p id="BURPOE0172">Conjugata characteristica est litera, quae soni alicujus certi character est, qui cum alio, qui fundamenti vices in harmonia gerit, et velut in conjugio ceteros arripit et amplectitur, certam consonantiam parit.</p>
+      <p id="BURPOE0173">Conjugata est triplex:</p>
+      <p id="BURPOE0174">BASIS; MEDIA; SVPREMA.</p>
+      <p id="BURPOE0175">Basis characteristica est, quae infima est inter tres conjugatas cujuscunque ordinis sonorum.</p>
+      <p id="BURPOE0176">Media, quae medium inter tres conjugatas simplices obtinet, et à Basi per tertiam distat.</p>
+      <p id="BURPOE0177">Suprema, quae supremum locum habet, et â Basi per tertiam distat; vel sextam.</p>
+      <p id="BURPOE0178">III. In praemissis schematibus conjugatarum connexiones, hâc figurâ [*] supra connexionis columna notatae, rarum in harmonijs habent usum. Idcircò hujus artis studiosi sunt monendi, ne ijs judiciô nondum satis confirmatô in suis carminibus utantur. Sciant nihil minus, eas posse in harmonias introduci, modò id tempestivè, et intervallis fiat compositis. Sed hoc usu rectius, quam praeceptis addiscitur. Quae autem usu receptae sunt, et quomodo ijs ipsis figuris, plenitudo vel defectus rectissimè et tempestivè conferri sonis possit, id palam fiet ex doctrina de Soloecismis, ubi de [kakosunthesia], Soloecismo sic dicto agitur.</p>
+      <p id="BURPOE0179">IV. Characteristicae in qualibet schematis praemissi parte, ita propinquissimis intervallis coarctatae dicuntur Simplices.</p>
+      <p id="BURPOE0180">V. Datâ unius in praemisso schemate partis Conjugatâ basi, alterae, quae extra diapasôn ipsi superstruuntur Conjugatae, dicuntur Compositae. Quae vero extra disdiapasôn, Decompositae Conjugatae. Hae cum Basi aequè consonant, ac eae quae intra diapasôn cum basi consonant, et Simplices dicuntur.</p>
+      <p id="BURPOE0181">VI. Observandae sunt et firmiter memoriae infigendae Characteristicae Conjugatae. Hoc autem fit quam facillimè, si saepius imò saepissimè vel saltem oculis 
+      <pb n="[23]" />eae in praemisso schemate aspiciuntur, vel aliàs describuntur. Quô factô, dimidium laboris in componendo carmine musico futurus [melopoietes] exantlatum esse deprehendet.</p>
+      <p id="BURPOE0182">VII. Characteristica, quae in syntaxi diaphoniam parit, est illa, quae cum conjugatis in praemisso schemate non habet commercium, vel in conjugium non est adscita. Verbi gratia a habet c vel e vel f pro suas conjugatas, si intervenerit aut b aut g aut d, illae, ut illegitimae, repudiabuntur.</p>
+      <p id="BURPOE0183">Operatio syntaxeos.</p>
+      <p id="BURPOE0184">Etsi absque cognitione doctrinae de Modis conjungendarum consonantiarum syntaxis frustra suscipitur, propterea quod ipsa structurae opus dirigit et intra terminos continet, ac eô nomine hic perstringa esset: tamen, quia nobis de ea certo capite, quantum in hac compositoria arte opus fuerit, integrè est agendum, nos ab ejus tractatione hic adhuc malumus abstinere. Quantum autem ex ea huc requiri videbitur, id, dum nos in confinio continere nobis mens est. theoremate praestabimus, quô monstrabitur, quibus consonantiarum nexibus, et eorum spacijs sive intervallis, vocum melodiae conjungendae sint et cohaerere possint. Fiet autem id hâc de causâ, ut studiosi hujus artis sensim et pedetentim assuefiant ad consonantiarum connectendarum laborem, tum etjam ut ex hoc sibi familiariter notas reddant sonorum Conjugatorum Characteristicas, qui, quibusvè intercapedinibus distantiarum consonantiae cohaerere possint? Erunt quoque in theoremate partes connexionum non ex numero, quot videlicet connexiones dari possint (possunt enim viginti et plures dari) sed ex usu, quomodo in eo receptae sint, efformatae. Interim dum operationem conjungendorum sonorum consonantium Philomusus suscipere conatur, patietur se legibus syntacticis duci, quae mox, ubi legis syntacticae definitio est praemissa, subsequentur.</p>
+      <p id="BURPOE0185">Lex syntactica est decretum, regula, vel statutum aliquod musicum, quô constructio sonorum regitur, ut suavisonans harmonia efformari possit.</p>
+      <p id="BURPOE0186">LEGES SYNTAXEOS.</p>
+      <p id="BURPOE0187">1. In ipso concinnandatu consonantiarum opere Componista non sit uni eidemque voci, cui operationis primas perpetuo deferat, mancipatus vel adstrictus.</p>
+      <p id="BURPOE0188">2. Si ea vox, cui primae in constructionis operae dantur, vel à qua syntaxeos primum fit initium, non fuerit basis, basis ipsi locô secundô oportet substernetur.</p>
+      <p id="BURPOE0189">
+      <pb n="[24]" />3. Tenoris Melodia certô aliquô [diapason] ambitu vel circumferentia aut circuitu circumscribatur, illiusque nec temeraria; nec ad plures vices, fiat transgressio. Quomodo autem reliquae voces huic adordinari absque negocio poterunt, id hoc sequenti theoremate, cujus paullò ante meminimus, palam fiet.</p>
+      <p id="BURPOE0190">Theorema, quô, tanquam compendiô, ipsa syntaxis in quatuor vocum [emmeleia] numeris monstratur.</p>
+      <p id="BURPOE0191">[Burmeister, Musica poetica, 24; text: Partes connexionum, Si distabunt, Discantv à Altvs, Alto ab vicissim Tenor, et Bassvs, I. II. III. IV. V. habet quinque variationes, tres, vel per, 3, 4, 5, 6, 8, 10, 12, 14, Nexus Sextae primitivae vel derivativae respectu habito ad Bassum est hic. Sexta ad septem vicet fit variabilis. 13, Sed quia ejus usus est rarior, parcè adhibenda est, et videndum, quid apud artifices usus ejus nomine probat.]</p>
+      <p id="BURPOE0192">
+      <pb n="[25]" />Usus Theorematis</p>
+      <p id="BURPOE0193">In opere syntactico praemissum theorema hunc habet usum. Primâ fronte exhibet nomina Discantvs; Altvs; Tenor; Bassvs, quae monstrant, Voces Harmoniae primarias, per eam, quam characteres numerorum inter binas voces positi notant, distantiam esse conjungendas. Deinde monstrat sui quasdam partes, quas connexionum partes vocamus, juxta earum quamlibet binae voces conjungi possunt, pro ut numerus inter eas positus interstitium sive distantiam indicat. Quando nunc sonos sonis Melodiarum connexurus est [melopoietes], faciat idipsum confidenter, pro ut in quacunque connexionum parte numeri ipsum quasi manu ducent, et monstrabunt, quô intervallô vox à voce distabit. Res perfacilis est côgnitu. Quocirca usum ejus exemplis declarare uti prolixitatis haud necessariae id argumentum erit, ita supercaneum esse arbitramur; Quid enim facilius est, quam ex oculari inspectione scire, si, verbi gratia sonum Discantus [aa] cum reliquarum vocum sonis, ut ipsius conjugatis, connectere volo, eundem juxta certum inter sonos nexus ductum conjungere? Nam si juxta tertiam connexionis partem (Non enim ad ordinem partium connexionis in praemisso theoremate [melopoietes] est adstrictus. Nam licitum est voces Harmoniae connectere, nunc juxta primam, nunc juxta quartam, nunc juxta secundam; mox juxta aliam connexionis partem: tantùm ut Soloecismi praecaveantur) ipsum cum reliquarum vocum sonis conjugatis in harmoniam devincire placet, in Discantu a soni nexum fieri cum Alti sono f per tertiam; Alti f cum Tenoris d per tertiam; Tenoris c cum Bassi C per octavam, et sic vice versâ, et consequenter alterarum partium connexiones usumque earum in theoremate videt.</p>
+      <p id="BURPOE0194">4. Discantus et Tenoris Melodiae habebunt intervalla propinqua, ita, ut haec per medium Harmoniae spatietur; illa ad arduum scandat, utraque per propinquos intervallorum gradus mota.</p>
+      <p id="BURPOE0195">5. Bassi Melodia per remotiora potius quàm per propinqua intervalla perget.</p>
+      <p id="BURPOE0196">6. Tenoris Melodia subsistet in suae [diapason] infimo sono.</p>
+      <p id="BURPOE0197">7. Sonorum perfectius concinnorum creberrimus in Harmonia erit usus: Imperfectae Sextae rarior, imò rarissimus.</p>
+      <p id="BURPOE0198">8. Basis et alia vox in Sextae cujuslibet nexu ultra valorem integri tactus non cohaerebunt. Concedatur ei potius dimium integri tactus, vel etjam quarta ejus pars, et praecedat sequaturque ipsam vel Quinta vel Octava.</p>
+      <p id="BURPOE0199">
+      <pb n="[26]" />9. Quarta non admittitur in numerum consonantiarum earum, quae fundamentum harmoniae struunt. Propterea non substernitur alijs concentibus, sed potius illis, qui fundamenti vices rectè subeunt, superstruitur.</p>
+      <p id="BURPOE0200">10. Vitentur Soloecismi motu suô incompositô seu improbatô, Harmoniam obscuritati involuentes, et elegantiam ipsi derogantes.</p>
+      <p id="BURPOE0201">Hypomnema de motu musico.</p>
+      <p id="BURPOE0202">Motus musicus est operatio, quâ connexioni consonantiarum praecedenti confectae mox alius sequens adordinatur, in quo intervallorum motus de sono in sonum fiunt ad existentiam Melodiae. Qui duplex est, Compositus sive approbatus, et Incompositus sive improbatus. Compositus motus est, quando quaedam intervallorum Species ita formantur, ut alter eorum sonus sursum, alter deorsum feratur. Incompositus quando, utrique soni simul aut sursum, aut deorsum feruntur.</p>
+      <p id="BURPOE0203">Obiter. Ferri motu, phrasis musica est, quae idem, quod, aut elevari, aut deprimi denotat. Hoc fit, quando mens in operatione connectendi et construendi consonantias ab uno sono ad alterum, qui aliquam dant consonantiam, per gradus sonorum discurrit, effingitque duos sonos certâ intercapedine à se invicem distantes, et conjungit eosdem ad certam consonantiam.</p>
+      <p id="BURPOE0204">Deinde simili modô alium concentum producit, qui illum sequitur, ut concentus, cujus uterque sonus (concentus enim ex duobus sonis conflat) deprehendatur esse simul à primi concentus sonis aut elevatus, aut depressus. In eo opere si uterque pariter elevatus, aut pariter deprimitur, tunc motus Incompositus et improbatus, ac inde consequenter Soloecismus committitur.</p>
+      <p id="BURPOE0205">Soloecismus autem est duorum concentuum, quorum alter alterum gradu proximô sequitur, tortuosus flexus, qui habitâ solum duarum vocum ratione motu suô incompositô Harmoniam tecte obscurat.</p>
+      <p id="BURPOE0206">Species sunt: 1. Tautoëpia. 2. Strophe. 3. Syzygia praeceps. 4. Catachresis Quartae. 5. Simploce Disparatorum. 6. [aspeton] intervallum. 7. Diplasis concentuum imperfectorum. 8. [kakokrupsis] Dissonantiarum. 9. Disparatorum [kakosunthesia]. 10. [elleimma]. 11. Tonoparatasis. Ij Soloecismi partim Melodijs, partim Harmonijs injurij sunt. Qui melodijs noxij sunt, sunt hi: [aspeton] intervallum; Disparatorum [kakokrupsis] 
+      <pb n="[27]" />positio et Tonoparatasis. Reliqui Harmonias solùm infestant.</p>
+      <p id="BURPOE0207">I. Tautoëpia est repetitio consonantiarum perfectarum ejusdem speciei secundum parem sonorum motum.</p>
+      <p id="BURPOE0208">Species sunt Unisonus. 2. Diapente vel Quinta. 3. Diapasôn simplex; Composita, et Decomposita.</p>
+      <p id="BURPOE0209">[Burmeister, Musica poetica, 27,1; text: Soloecismus Tautoëpia, Unisonus, Diapente, Diapasôn, est in duabus vocibus duorum sonorum concentum parientium motus incompositus ex, Unisonô unô in alium. Diapente unâ in aliam. Diapasôn unâ in aliam.] 
+      <figure>
+        <graphic url="/images/BURPOE_09GF.gif" />
+      </figure></p>
+      <p id="BURPOE0210">Exempla.</p>
+      <p id="BURPOE0211">[Burmeister, Musica poetica, 27,2; text: Incompositus et improbatus motus, Unisoni. Diapente. Diapasôn. Compositus et approbatus motus, a, b, c, d, f, g, B, C, D, E, F, G]</p>
+      <p id="BURPOE0212">Hypomnema de Unisono.</p>
+      <p id="BURPOE0213">Vnisonus, etsi inter consonantias non numeratur, propterea, quod duo conjuncti unisoni Harmoniam non pariunt, et hâc gratiâ inter Soloecismos Vnisonus non est et ponendus; tamen, quia usitatum est, quod duo Vnisoni in vocibus diversis connectantur, et in eâ connexione, non praemoniti quod Vnisoni duo diversi se sequi non debent, Harmoniae damnum inferre possint, non injuriâ inter Soloecismos consequentia duorum diversorum unisonorum incomposita numeratur, et quidem inter perfectas consonantias, ut eas, quae incrementum additione Semitonij, aut decrementum detractione Semitonij non paiiuntur.</p>
+      <p id="BURPOE0214">II. Strophe (Latini odiosum exercitij genus vertunt) est tam perfectarum consonantiarum, quam imperfectarum inter se versura ex motu incompositò proveniens, quae etsi speciem verae et bonae 
+      <pb n="[28]" />Harmoniae habet, à vero tamen abest, et Harmoniam obscurat. Species sunt. 1. Decima in Octavam. 2. Octava in Sextam. 3. Sexta in Tertiam. 4. Unisonus in Tertiam, et vice versâ.</p>
+      <p id="BURPOE0215">Exempla:</p>
+      <p id="BURPOE0216">[Burmeister, Musica poetica, 28; text: Motus compositi à, Motus incompositi à, in, vice versâ, non facilè committitur. 1, 3, 6, 8, 10, a, b, c, d, e, f, g, A, B, C, D, F, G]</p>
+      <p id="BURPOE0217">Hypomnemata.</p>
+      <p id="BURPOE0218">1. Haec exempla motus compositi non sunt de essentia Soloecismi Strophes 
+      <pb n="[29]" />sed concentus, qui Harmoniam legitimè ingrediuntur, quique si usurpantur, magis concinnam fore harmoniam, eandemque ab artificio non planè alienam judico.</p>
+      <p id="BURPOE0219">2. Ratio Strophes est. Intervallum exempli alicujus ad Strophen pertinentis remotius, si de priori ejusdem sono ad posteriorem sonum per minores in valore sonos resolvitur, quod apud modulantes, qui coloraturis (ut vocant) gaudent, fieri consuevit, et etjamnum fit, ipsâ resolutione Tautoepia spe citius committitur. Qui cum Soloecismus est, qui omnium maximè cavetur, hic, qui ipsum facilimè procreat, non minus habeatur suspectus, necesse est.</p>
+      <p id="BURPOE0220">3 Syzigîa praeceps est quando Unisoni vel Octavae in carminum vel Fugarum exordijs nunc citius justô concurrunt, nunc longius sub mensura commorantur:</p>
+      <p id="BURPOE0221">Species sunt Unisoni et Octavae conjunctae.</p>
+      <p id="BURPOE0222">Ratio hujus Soloecismi est. Quando Harmonia in solis similibus sonis concinnata esse auditur, quod tum aures rem concipiunt odiosam, praesertim cum connexio tactui integro annumeratur, vel plus ultra perdurat. Ipsae enim sonos in Vnisono vel Octava auscultantes praeter unum eundemque ferè non audiunt sonum, et propterea non ita, quàm alias oblatâ varietate sonorum, eae ipsae afficiuntur.</p>
+      <p id="BURPOE0223">Exempla.</p>
+      <p id="BURPOE0224">[Burmeister, Musica poetica, 29; text: Improbata. Approbata. vel, a, b, c, d, e, f, g, C, D] 
+      <figure>
+        <graphic url="/images/BURPOE_10GF.gif" />
+      </figure></p>
+      <p id="BURPOE0225">4 Catachresis Quartae est suppositio Quartae, quae vices fundamenti gerens, in harmonia sonis quibusdam substernitur, cui tamen propter sui debilitatem non est ferendo. Ratio hujus Soloecismi 
+      <pb n="[30]" />est. Quarta fundamenti locô nonnunquam ponitur. Quando autem hoc fit, tunc Quarta ad reliquos harmoniae concentus respectum habet relativae syntaxeos, non absolutae.</p>
+      <p id="BURPOE0226">Exempla.</p>
+      <p id="BURPOE0227">[Burmeister, Musica poetica, 30,1; text: Quartae improbatae, probatae, a, b, c, d, e, f, g, A, B, C, D, E, F, G]</p>
+      <p id="BURPOE0228">5. Simploce est Disparatorum enunciandorum b aut [+] et [x] appositio vel actu vel potentia permixta, omnem consonantiarum perfectarum, tum etjam suam ipsius naturam invertens, uniusque concentus naturam naturae alterius complicans. Ratio hujus soloecismi est quod b vel ejus characteristica [+] et [x] notis, in notarum contextu, tum et in ipso characterismi contextu characteristicis sonorum apponuntur, in indicium, quod ille vel ille sonus majorem euphoniam de se sit editurus. Ne itaque quisquam tyronum hoc ubicunque locorum, et semper liberum esse arbitretur, pro certo habeat, si in aliqua connexione [+] cum [x] duobus sonis promiscue apposuerit, se hôc ipsô harmoniae multûm derogaturum ire.</p>
+      <p id="BURPOE0229">Hypomnema.</p>
+      <p id="BURPOE0230">Si concentus cujusdam perfecti alteri sono altera apponitur disparatorum, alteri verò sono minus, tunc committitur Symploce Disparatorum, et imperficitur consonantia, cui ne comma quidem, nedum semitonium adimi vel etjam addi potest aut debet.</p>
+      <p id="BURPOE0231">6. [aspeton] intervallum est à sono ad sonum distantia, cujus sonum, ad quem primô enunciatô, intervallum fit, vox humana assequi, et efferre nequit.</p>
+      <p id="BURPOE0232">Exempla.</p>
+      <p id="BURPOE0233">[Burmeister, Musica poetica, 30,2; text: Ascendentis intervalli, et vice versâ descendentis, b, c, e, f, g]</p>
+      <p id="BURPOE0234">
+      <pb n="[31]" />7. Diplasis consonantiarum est Imperfectarum consonantiarum perfectis admixtarum geminatio. Ratio hujus Soloecismi est, quod imperfectae consonantiae plures quam perfectae connexae, et harmoniam ingressae, eam non tam sonoram reddant ut perfectae. Quô itaque plures imperfecti concentus conjunguntur, hoc minus suavior existat harmonia, necesse est.</p>
+      <p id="BURPOE0235">Exempla.</p>
+      <p id="BURPOE0236">[Burmeister, Musica poetica, 31,1; text: a, b, c, d, f, g, A, D, E, F, G]</p>
+      <p id="BURPOE0237">Hypomnema.</p>
+      <p id="BURPOE0238">Hic Soloecismus locum habet ut plurimum in trium; quatuor; quinque et sex vocum compositione.</p>
+      <p id="BURPOE0239">8 [kakokrupsis] Dissonantiarum est constructio consonantiarum quarundam, quibus admixta est dissonantia, quae speciem syntaxeos relativae habet, propterea, quod destituta est artificiosa sui occultatione, cujus causâ purè absolutam redolet constructionem, non relativam, Ratio. Omnis ferè cantus vel Harmonia non perpetuò consonantias consonantijs admixtas et conjunctas habet, sed nonnunquam dissonantias cum consonantijs, idque quôdam artificiô, quod ex doctrina de Clausulis formandis scaturit, in cujus imitatione tyro [melopoietes] ad haec duo mentem semper intendat hypomnemata.</p>
+      <p id="BURPOE0240">1. Sonus ille, qui fit relativa consonantia, sit pars unius integri soni, cujus valor congruat vel cum integro tactu, vel cum dimidio, et qui divisibilis, et rursus, qui contractus sit, aut actu vel potentiâ. Actu ut hîc</p>
+      <p id="BURPOE0241">[Burmeister, Musica poetica, 31,2; text: a, e, f, g]</p>
+      <p id="BURPOE0242">Potentia ut hic</p>
+      <p id="BURPOE0243">[Burmeister, Musica poetica, 31,3; text: a, g, f]</p>
+      <p id="BURPOE0244">2. Eum sonum sequens sonus sequatur ad proximum à se inclinans intervallum ut ag--gf.</p>
+      <p id="BURPOE0245">3. Hic ipse sonus, qui contractum sonum ita sequitur, constituat cum sono vocis, quae fundamenti vices in harmonia gerit, consonantiam aliquam ex imperfectis, aut solam perfectam octavam, ut:</p>
+      <p id="BURPOE0246">[Burmeister, Musica poetica, 31,4; text: a, b, c, d, e, f, g, A, C, D, E, F, G, et cetera]</p>
+      <p id="BURPOE0247">
+      <pb n="[32]" />[Burmeister, Musica poetica, 32,1; text: Apta occultatio. Inepta occultatio. a, b, c, d, e, f, g, A, B, C, D, F, G] 
+      <figure>
+        <graphic url="/images/BURPOE_11GF.gif" />
+      </figure></p>
+      <p id="BURPOE0248">9. Disparatorum [kakosunthesia] est collocatio vel appositio Disparati enunciandi ad sonum, à quo et ad quem fit intervallum, quod voce humana pronunciari commode nequit.</p>
+      <p id="BURPOE0249">Exemplum.</p>
+      <p id="BURPOE0250">d[x]c [+]b [x]g f. Hypomnema.</p>
+      <p id="BURPOE0251">Disparata apponuntur alteri duorum sonoru, qui conficiunt consonantiam imperfectam Quando autem apponitur eorum alteri, necesse est ipsum sequatur pausa vel alius sonus per Semitonij, Toni aut Semiditoni intervallum, tum etjam Diatessaron (quoad usus probat) intervallum. Quando ejusmodi intervallum datur in ascensum, ei sono, à quo idipsum fit, hoc disparati [x] signum, si verò fit in descensum hoc [+] rectissimè apponitur, idque potissimum in Genere modulaminum Diatonico.</p>
+      <p id="BURPOE0252">Exemplum.</p>
+      <p id="BURPOE0253">[Burmeister, Musica poetica, 32,2; text: a, b, c, d, e, g]</p>
+      <p id="BURPOE0254">10. [elleimma] Conjugati est constructio in tribus, quatuor, pluribusvè vocibus non omni ex parte, hoc est, non omnium conjugatorum plena.</p>
+      <p id="BURPOE0255">
+      <pb n="[33]" />Hypomnema.</p>
+      <p id="BURPOE0256">Constructio consonantijs plena est, quando tres illi soni, qui sunt inter se diversi, quosque conjugatos nominavimus, sive eorum simplices cum simplicibus, sive simplices cum compositis et decompositis, harmoniam sunt ingressi cum quâdam Diapasôn vel Octava.</p>
+      <p id="BURPOE0257">Exempla.</p>
+      <p id="BURPOE0258">[Burmeister, Musica poetica, 33,1; text: Improbata: Approbata. a, b, c, d, e, f, g, A, B, C, D, E, F, G]</p>
+      <p id="BURPOE0259">11. Tonoparatasis est extensio intervalli remoti ad quod exprimendum vix ullus assuefieri potest, ut:</p>
+      <p id="BURPOE0260">[Burmeister, Musica poetica, 33,2; text: c, d, e, f, et cetera]</p>
+      <p id="BURPOE0261">Quod Harmonia gratiam amittat, quando intervalla non ritè exprimuntur, nemo ambigit. Si jam abstrusa, et nimis remota intervalla dantur, ac ea ipsa voce humanâ non rectè exprimuntur, quaeso, quô pactô Harmonia alicui arridere possit?</p>
+      <p id="BURPOE0262">Haec ita de Soloecismis. Quorum praecepta sivè doctrinas, nisi ad usum revocabuntur, parùm profuturas esse, et ejus gratiâ parvi aestimatas iri, non dubito. Quocirca brevem, si non omnium eorum, saltem aliquorum praxin addemus, juxta quam reliqua dijudicabuntur.</p>
+      <p id="BURPOE0263">Sit haec Melodia Discantus (aa gf e d) in Harmoniam devincienda. Constructionis opus sic peragitur. Primum istius sonum [aa] juxta primam partem connexionum cum alijs vocibus ita conjungo:</p>
+      <p id="BURPOE0264">[Burmeister, Musica poetica, 33,3; text: a, c]</p>
+      <p id="BURPOE0265">In qua connexione concurrunt consonantiae tam perfectae quam imperfectae. Si jam datae Melodiae secundum sonum, videlicet g, juxta eandem connexionem conjunxero, talis producetur syntaxis, et utriusque 
+      <pb n="[34]" />cohaerentiae characterismus.</p>
+      <p id="BURPOE0266">[Burmeister, Musica poetica, 34,1; text: a, b, c, d, e, g, G] 
+      <figure>
+        <graphic url="/images/BURPOE_12GF.gif" />
+      </figure></p>
+      <p id="BURPOE0267">Hanc aspicio, perlustro, considero, inque eâ perfectas et imperfectas consonantias concurrere video: Video autem motum fieri incompositum in Discantu et Basso; item in Alto et Basso. In his enim vocibus, fit motus de Quintâ unâ in aliam Quintam: in illis, de Octavâ una in aliam Octavam. Quô factô committitur Soloecismus Tautoëpia. Deindè in priori consonantiarum istô nexu a et c est Consonantia Semiditonus hoc est Tertia, et quidem semiimperfecta, ejus sono c addi vel apponi posset Disparatum enunciandum [x]. Verùm, quia sonus sequens descendit, fieri id non potest, propter Soloecismum [kakosunthesias], qui ipsâ Disparati additione vel appositione committeretur. Emendo itaque secundam conjunctionem juxta aliam connexionum partem, ejusdemque, quam volo, variationem, si ea pars plures unâ exhibuerit in Theoremate de syntaxi Consonantiarum ante datô. Sit ea nobis connexio, facta secundum partis connexionum secundae primam variationem, et appareant duae primae columnae in hoc characterismo</p>
+      <p id="BURPOE0268">[Burmeister, Musica poetica, 34,2; text: a, b, c, e, g, E]</p>
+      <p id="BURPOE0269">In ejus secundâ columnâ videt [melopoietes] tyro in Tenore Disparatum [x] appositum characteristicae b, quod fieri oportuit, ne Soloecismus Symploce Disparatorum committeretur. E enim in Basso et F constituunt intervallum Semitonium, Si b in Tenore non notaretur signo Disparatorum eô, quó perspicere liceret, Semitonium Semitonio ad perficiendam Quintam esse additum, Concentus E et [+] b non reputaretur pro Perfecto, qualis hic esse debet. Appositio itaque Disparati [x] ad b Tenori incubuit naturam integrae Quintae id postulante.</p>
+      <p id="BURPOE0270">Hypomnema de Harmoniâ ex Characterismo ad Contextum notarum describendâ.</p>
+      <p id="BURPOE0271">Vt sonus in Melodia supremus lineam vel spatium supremum; tum etjam infimus Melodiae ejusdem sonus infimam lineam vel spatium in scala occupet, ne usitatis quinque Scalae lineis plures addere necesse sit, Clavis in initio Scalae ponenda erit in locô convenienti et ad id aptô, qui est linea in Scala Clavem recipiens, ut eó rectius Melodia, quae ut plurimùm Diapasón ambitu circumscribitur, inscribi Scalae possit.</p>
+      <p id="BURPOE0272">Quod ita fit: Consideretur sonus, qui in Melodia aut supremus aut infimus est; et is sonus, cui affinitas cum clave est, hoc est Clavis ille sonus, in sonorum ordine aliquo, quemadmodum id in primo hujus libelli capite notum fecimus, 
+      <pb n="[35]" />Clavi assignatus, ut nunc hic et alter à se invicem distant, sic facilè videre est, qui fuerit conveniens locus in scala, cui clavis commodè inscribatur, qui verò minus.</p>
+      <p id="BURPOE0273">[Burmeister, Musica poetica, 35; text: b, c, e, f, g, Reductio.]</p>
+      <p id="BURPOE0274">In hoc exemplo extremus supremus Melodiae sonus est [dd], extremus infimus c. Sonus conveniens clavi, vel cui cum clave est affinitas et convenientia, nullus alius est, quam g. Erit itaque clavis G praefigenda Notis in scala.</p>
+      <p id="BURPOE0275">G nec infimae lineae, nec infimae proximae, propter sonum Melodiae infimum c competere potest. Scribitur enim G vel in infima, vel in proxima infimae, vel in media Scalae linea. Vt itaque Melodia capacitati quinque linearum commodè inscribatur, ne novae lineae addantur, quod rarissimè necesse fit, G in mediâ Scalae lineâ, oportet scribatur vel signetur.</p>
+      <p id="BURPOE0276">CAPUT V. De Clausulis.</p>
+      <p id="BURPOE0277">CLausula (à claudendo nomen habens) est tractulus musicus ex tribus partibus (puta sonis) constans, Initiô, scilicet, Medio et Fine, usum habens ad melodiarum affectiones (hoc est periodos) terminandum ipsamque Harmoniam finiendum.</p>
+      <p id="BURPOE0278">Clausula est duplex [tou meleos] sivè Melodiae; et [tes harmonias] sivè Harmoniae. Melodiae est unius vocis Clausula ex Syntaxi clausulae Harmoniae exorta, constans Initiô, Mediô et Fine, parata ad Melodiae periodos, ipsamque Melodiam terminandam.</p>
+      <p id="BURPOE0279">Clausula Melodiae originem trahit ex syntaxi Clausulae Harmoniae, hâc ratione: Clausula Harmoniae Triphona (de qua paulò post) in quatuor primariarum vocum syntaxi constructa habet quatuor Melodias conjunctas, primam competentem Discantui; secundam Alto. tertiam Tenori. quartam Basso. Ex his vocibus primarijs unius vocis Melodia extra syntaxin cum reliquis vocibus sola considerata, 
+      <pb n="[36]" />est Clausula Melodiae. Resolutâ itaque Triphonâ [tes harmonias] clausulâ ad quatuor voces, quadruplex [tou meleos] istius resolutione existit Clausula.</p>
+      <p id="BURPOE0280">Melodiae Clausula est quadruplex: 1 Discantalis- 2. Altualis. 3. Tenoralis. 4. Baseos.</p>
+      <p id="BURPOE0281">Discantalis Clausula est tractulus musicus in Melodia, constans ex tribus sonis, quorum, primus est secundô in valore semel major, et ita comparatus, ut ex duabus partibus per syncopen in unum totum aut actu aut potentiâ conflatus esse videatur; secundus ita, ut à primò in proximum sequentem intervallorum gradum declinet, et ad induendum Semitonium habilis sit; tertius à secundo in eum gradum elevetur, in quô primus sonus fuit constitutus, ad periodum terminandam aptus. Ut:</p>
+      <p id="BURPOE0282">[Burmeister, Musica poetica, 36; text: a, c, d, e, f, g]</p>
+      <p id="BURPOE0283">Altualis Clausula est tractulus musicus in Melodia, qui constat ex tribus sonis in eodem intervalli gradu haerentibus periodum claudens et terminans. Ut: [aa][aa][aa] vel fff.</p>
+      <p id="BURPOE0284">Tenoralis est, cujus trium sui partium vel sonorum flexio fit per tres proximos intervallorum sibi propinquissimorum gradus, ad finiendum affectionem sive periodum inventa. Ut: a G F. Vel in morem Discantus extra syncopam primi soni. Ut: a G a. F E [x] F pro F E D.</p>
+      <p id="BURPOE0285">Baseos est, cujus primus sonus, sive initium sui ab extremitate Octavae (intervalli nimirum, non concentus) supremâ initium sumit, et inde ad medium sui (secundum videlicet sonum) per Quartam descendit. Finisque sui, qui tertius ejus est sonus, vel ad extremitatem Octavae ejusdem infimam delabitur et declivis fit, vel ad initium sui relabitur vel acclivis fit, formatus ad affectionem vel periodum sonorum claudendum. Ut: a E A vel a. Item G D [GG] vel G.</p>
+      <p id="BURPOE0286">Hypomnema.</p>
+      <p id="BURPOE0287">Quaelibet earum idonea est et parata ad Melodiae periodum vel etjam ad ipsam Melodiam claudendum, non ut, ubi et quocunque tactu placuerit Componistae, eas promiscuè Harmonijs inserat ad Harmoniae peculiarem ornatum addendum. Ad id enim Clausula non sufficiens meô esse judicio videtur. 
+      <pb n="[37]" />Et licet unaquaeque certae voci propria sit: fit tamen, ut voces omnes, omnes Clausulas inter se communes habeant, quod tamen appellationi cujuslibet Clausulae nihil deroget.</p>
+      <p id="BURPOE0288">Exemplum Clausulae.</p>
+      <p id="BURPOE0289">[Burmeister, Musica poetica, 37,1; text: Discantalis, Altualis, Tenoralis, Baseos, a, b, c, e, g, A, E, vel]</p>
+      <p id="BURPOE0290">Clausula Harmoniae est tractulus harmonicus, in quo Melodiae Clausularum harmonice cohaerent, paratus ad affectionem harmonicam, ipsamque Harmoniam terminandam.</p>
+      <p id="BURPOE0291">[Burmeister, Musica poetica, 37,2; text: Clausula, Triphóna, [triphonos], Hexaphóna, [hexaphonon], Octophóna, [oktophonos], est tractulus musicus idemque harmonicus ac in nexu plurium vocum [amphimakros], constans Initiô, Mediô et Fine; habens Melodiam unam ex omnibus, quae sonum exhibet, sive actu, sive potentiâ, syncopatum, et hunc mox subsequentem cum basi harmoniae suae constitutum in non variabili concentu, Tertiâ, Sextâ, Octavâ, finem sui syncopâ vacantem et initio parem, nonnunquam similem, ad id constitutus, ut se introductô affectiones vel periodi in harmonia, ipsaque Harmonia terminetur et finiatur. Praxis Clausularum schetica et primum Triphonae. Distant, D. A. T. B. per, 3, 4, 5, 8, vel, reductio, a, b, c, e, g, A, E] 
+      <figure>
+        <graphic url="/images/BURPOE_13GF.gif" />
+      </figure></p>
+      <p id="BURPOE0292">
+      <pb n="[38]" />[Burmeister, Musica poetica, 38; text: Hexaphonae. Reductio triplex. Octophonae. Distant, D. A. T. B. per, 3, 4, 5, 6, 7, 8, 10, vel, a, b, c, d, e, f, D, E, F, G]</p>
+      <p id="BURPOE0293">Hypomnemata.</p>
+      <p id="BURPOE0294">1. Nulla Harmonia Clausulis carere potest. Est enim Clausula in Harmonia, velut in corpore animato, anima. Quocircà, ne tyro committat, ut sua carmina quasi vitâ videantur orbata, Clausulas in Syntactico opere nunquam praetereat. Quando autem sunt introducendae, hoc patet ex definitione ipsarum, nimirum, cum textus distinctionem sui exhibet, sive ea fit facta commate; sive duobus punctis; sive unô. Tum enim terminus, Ad quem (ut Dialeecticorum vocibus utamur) praecedenti affectioni sive periodo statuitur, et ipsô momentô novae vel sequenti affectioni aut periodo terminus A quo datur, Post in quibus locis clausulae introducantur, hoc docetur in doctrina 
+      <pb n="[39]" />de Modis. Meminerint ergò tyrones non artis esse Clausulas tumultuariè et confusim introducere, adeò ut vix tactus sit, quô non audita fuerit Clausula integra. Introducuntur ab autoribus nonnullae vocum connexiones in medio affectionum sive periodorum musicarum, quae speciem clausularum repraesentant et re ipsâ non sunt integrae Clausulae; inde non sequitur statim Clausulas integras extra modum et locum justum pro libitu esse introducendas. Hoc quando fit inertiae et non solertiae: Illud autem artis est argumentum.</p>
+      <p id="BURPOE0295">2. Medij omnium Clausularum duplicatio, vel etjam diminutio et resolutio, non autem variatio et mutatio fieri committivè potest.</p>
+      <p id="BURPOE0296">Exemplum.</p>
+      <p id="BURPOE0297">[Burmeister, Musica poetica, 39,1; text: Geminationis, Diminutionis. Resolutionis. a, b, c, e, f, g, A, E] 
+      <figure>
+        <graphic url="/images/BURPOE_14GF.gif" />
+      </figure></p>
+      <p id="BURPOE0298">3. Initij et Finis in Clausula tam multiplex variatio fieri potest, quam multas in concordiam sibi adsciscunt consonantias. Medij vero non item. ut:</p>
+      <p id="BURPOE0299">[Burmeister, Musica poetica, 39,2; text: Initium, Medium, Finis. a, b, c, d, e, f, g, D, F, G]</p>
+      <p id="BURPOE0300">
+      <pb n="[40]" />4. Clausula unius Melodiae in aliam transponitur, quô fit quaedam loci, non autem nominis, permutatio.</p>
+      <p id="BURPOE0301">Exemplum.</p>
+      <p id="BURPOE0302">[Burmeister, Musica poetica, 40; text: Ex Discantu in Altum, in Tenorem, in Bassum, a, c, d, e, f, A, C, D, E, F]</p>
+      <p id="BURPOE0303">CAPUT VI. De Modis Musicis.</p>
+      <p id="BURPOE0304">MOdus est quaedam carminis cujusque musici [metriotes], consonantias Octavarum (sicuti et ipsas Diapasôn) in suavem conjugij complexum temperamentô quôdam deductarum, proportione inter se comparatas, ad Modi naturam statumve conservandum certô systemate moderans et determinans.</p>
+      <p id="BURPOE0305">Modus est duplex: Melodimeter et Harmonimeter. Melodimeter est, qui Melodijs metas statuit. Harmonimeter, qui Harmonijs.</p>
+      <p id="BURPOE0306">Constitutio Modi, ejusdemque cognitio quibusdam hypomnematibus inclusa.</p>
+      <p id="BURPOE0307">Sunt in Diapasôn quatuor Soni comprehensi, qui in ejus spatiô Consonantias conficiunt, ob proportionem harmonicam, sive Analogiam, quam inter se habent, quemadmodum Pythagoras, Boëtius et alij id numeris proportionatis manifestissimè declararunt. Ex ijs ipsis sonis Modi dependet constitutio, quae ut compendiosa sit, quibusdam sequentibus eam hypomnematibus includemus, quô ipsô, quae rerum in hoc negotio sive doctrinâ definitiones et divisiores dari possint, sic eas attingemus.</p>
+      <p id="BURPOE0308">Hypomnemata.</p>
+      <p id="BURPOE0309">1. Primus ex istis dictis et inter se harmonicè comparatis sonis, qui semper unus est ex ordine sonorum Parhypatôn (nos exemplum ab A sumemus) dicitur (A sonus videlicet) Principium Modi.</p>
+      <p id="BURPOE0310">2. Secundus, qui Consonantiam Diatessaron, et Tertius, qui Diapente 
+      <pb n="[41]" />Consonantiam cum Modi Principio constituunt, dicuntur Soni Emmesepistrophi, et sunt in Diapason ab A ad a, D et E.</p>
+      <p id="BURPOE0311">3. Quartus Principij Duplus vocabitur, qui est a.</p>
+      <p id="BURPOE0312">4. Consonantia ex Principio Modi et altero sonorum Emmesepistrophorum exsurgens Basis Temperamenti nuncupatur, eô quòd ex Principiô Modi et alterô Emmesepistrophorum ad Consonantiam temperatis inter se sonis, Diapasôn producantur, quae ad Modi Systema temperantur, coalescunt, sive conjugiô quasi cohaerent. Quae Basis ex quinta constat, Orthia; quae verò ex Quarta, Plagia nominatur. Exemplum hujus est A, D, illius A, E. Temperantur a. ita, ut Tenor in Modi Principio infimum suae Diapasôn terminum sive sonum in Duplo, Derivatô scilicet simplici sonô, supremum statuant, in quo Discantus suae Diapasôn initium sumit, et cum Tenore fit finitima sive contermina. Bassus et Altus ex sono Emmesepistropho temperamenti suarum Diapasôn, et quod in eo conterminae fiunt, originem trahunt, juxta hanc regulam: Ubi unius vocis fit mediatio, ibi alterius determinatio. Haec consonantiarum, et ex ijs enatarum Diapasôn cohaerentia sive permixtio Temperamentum dicitur, inque eo cujuslibet vocis Diapasôn, Ambitus. ut in hoc theoremate videre est.</p>
+      <p id="BURPOE0313">[Burmeister, Musica poetica, 41; text: a, d, e, A, D, E]</p>
+      <p id="BURPOE0314">5. Meta ea, quae ex isto Temperamento, à Bassi infimô sonô ad Discantus supremum numerandô, exoritur, Systema dicere Musici consueverunt, et eâ ipsâ circumscriptum et comprehensum modulamen, Modum. Exemplum ejus sequens mox typica deumbratio ostendit.</p>
+      <p id="BURPOE0315">6. Systema, quod Melodiam terminat Melodiorizomenum vocabitur. Hoc duplex est: Majus et Minus. Minus est Spacium illud sonorum, quô Basis Temperamenti terminatur. Cujus exemplum est: 1. Veni maxime Spiritus tuorum. 2. Vitamque faciunt beatiorem. 3. Was lobes sollen wir dir O Vater singen, et cetera. Christe qui lux es et dies, et cetera. Majus, est Tenoris Diapasôn in sono Parhypatôn et ejus Derivato simplici, hoc est Duplo principij terminata. Exempla sunt omnes ferè cantus Plani, vulgo Chorales dicti, integrâque certâ Octavâ circumscripti, quales sunt, In dich habe ich gehoffet 
+      <pb n="[42]" />Herr. O Herr Gott begnade mich. Nun frewet euch lieben Christen gemein/ et cetera. Hoc Majus Systema, quod integrâ Octavâ cantiones planos sic comprehendit, Totale dicitur, cujus Exemplum est, Wir gleuben; Quod verò integram Octavam ad Semitonium, Tonum sive Ditonum, et plus minus non attingit, Particulare, ut Erbarm dich meiner O Herre Gott; Quod extra Octavam vergit, Superparticulare non immeritò vocabitur. Et refertur ad id, Exemplum: Vater vnser im Himmelreich.</p>
+      <p id="BURPOE0316">7. Systema Harmoniam terminans Harmoniorizomenum nuncupamus. Quod nunc in quarumlibet Primariarum Vocum integrâ Diapasôn metâ, in qua Melodiarum intervalla secundum arses et theses fiunt, terminari solitarum, Temperamento exsurgit, id Acmeum: Quod unam vocem in octavarum Temperamento Diapasôn integritate destitutam habet, Particulare; Si denique plus per Diatessaron, Diapente, vel Diapason unam, duas; et plures ad Acmeum accesserit, Superparticulare non injuriâ vocatur. Primi exemplum est: Benedicam Domino, Orlandi; Secundi Verbum Caro factum est, Pervernage. Tertij Iam non estis hospites, ejusdem Pervernage. Item: In convertendo Orlandi, ex quo exemplo, et similibus, nonnulli Modum Connexum producere voluerunt, quum ne unica Harmonia occurrat in systemate Acmeo constituta, quae Connexum (uti vocant) Modum in binis et quidem in Temperamento Diapasôn conterminis vocibus non representet. Fit enim, si voces Primariae ad certum Modum conjugio quasi conjunctae et connexae esse debent, uti debent, quod Modus Authenta cum suo Plagio; vel Plagius cum suo Authenta connectatur, ita tamen ut alter eorum et non utrique simul Harmoniam vel Melodiam moderentur.</p>
+      <p id="BURPOE0317">8. Dum ergo quilibet primitivorum sonorum, hoc est, ordinis Parhypatôn, id juris habet; ut in constitutione Modi sit primus et praecipuus, atque ita origo et fons Modi; Se quoque et cum ipso Emmesepistrophorum sonorum alterô datô, certa Basis proveniat, eaque nunc Orthia nunc Plagia, atque ita duplex Temperamenti Basis, parique negotiô duplex Modi Principium sit, factâ indè supputatione quatuordecim in universum Modi colliguntur, quorum septem dicuntur Authentae, nominibusque hisce à populis, apud quos in frequeuti usu fuerunt, mutuatis indigitantur, ad ordinem suorum Principiorum se sic sequentes A: AEolius B: Hyperaeolius. C: Ionicus. D: Dorius. E. Phrygius. F: Lydius. G: Mixolydius.</p>
+      <p id="BURPOE0318">Reliqui septem dicuntur Plagij: A: Hypodorius. B. Hypophrygius. C: Hypolydius. D Hypomixolidius. E: Hypoaelius. F. Hyperphrygius. G. Hypojonicus.</p>
+      <p id="BURPOE0319">
+      <pb n="[43]" />9. Ex his duo appellantur Nothi: propterea, quod Diapente, altera eorum Diapasôn Consonantia, sui perfectitudine destituatur ad Semitonium: et ea de caussâ legitimum in Systemate Diapasôn Temperamentum fieri nequeat, atque ita legitimam Modorum copulam et connexionem ad conjugium ipsi non ingrediantur. Ij sunt Hyperaeolius et Hyperphrygius.</p>
+      <p id="BURPOE0320">10. Ad cujuslibet Modi constitutionem acquisiverunt Musici alium quoque sonum, eum videlicet qui in spatio Consonantiae Diapente quam Principium et Emmesepistrophus; vel Emmesepistrophus et Principij duplus conficiunt, consonat, et Diapente istam velut dissecat aut dividit. Is dicitur Emmeles.</p>
+      <p id="BURPOE0321">11. Hi soni, quoniam ita corpus constituunt symmetriâ pollens, et Modo sunt velut membra, quibus ipse cohaeret et conflat; in Melodijs tum etjam in Harmonijs omnium maxime et plurimum poni, occurrere et repeti; in ijsdem Melodiarum exordia fieri; musicae affectiones sive periodi inchoari et terminari; ac Clausulae, si non omnes, praesertim Triphonae; saltem eae, quae locum ibi habere possunt, ut Hexaphonae, formari debent. Quod si fit, Modus in suo tenere et statu manet, ac tam Melodia quam Harmonia cujuscunque Artificis ad suum Modum absque multo negocio referri potest. Qui itaque Philomusorum Sollicitus est de recta ratione, quâ Harmoniam in lucem editam ad suum Modum referre possit, ille hanc, ut facilimam tenebit: Observet, qui soni omnium frequentissimè fuerint in Melodiâ et Harmoniâ obvij, ij infallibile ipsi [tekmerion] et signum erunt, eos ipsos esse illos, in quibus constitutio Modi residet et consistit, ac Melodiam, tum etjam Harmoniam, ad illum vel illum Modum pertinere, verbi gratia (quod ad Melodiam) Wol dem der in Gottes fuerchten stehet Melodia est, quae juxta Qualitatem diezeugmenorum sonorum in C et c terminatur, in qua sonus C, et c, tanquam Diapasôn termini, omnium maximè fiunt obvij. Ad eos Sonos accedit G inter intermedios Melodiae dictae sonos sonus Emmesepistrophus, tum etjam E, sonus Emmeles. Ex ijs sonis, qui inter ceteros Diapasôn sonos maximè ita occurrunt, quique clausulis locum praebent, dubiô omni relicto colligitur, Melodiam ad Modum Iocum pertinere. Quod ad Harmoniam attinet, sit nobis exemplo Harmonia Orlandi, In te Domine speravi sex vocum. In ejus Tenore alterâ (Tenorem enim in applicatione Harmoniae ad Modum primô locô considerare solemus: post, Discantum; Deinde, Bassum; ultimò Altum) G ut Principium; c ut Emmesepistrophus; e ut Emmeles; g ut Principij Duplus omnium maximè occurrunt, et clausulae in ijs exhibentur. Reliquae Voces juxta Basin ad Modi systema temperamentô combinatae, similes sonos, sive ij fuerint compositi, sive Decompositi exhibebunt. Ex quô Philomusus, omni dubiô semotô, colligit, Harmoniam istam 
+      <pb n="[44]" />Hypojonici moderatione in Qualitate Diezeugmenorum esse terminatam, et ad Modum Hypojonicum referendam.</p>
+      <p id="BURPOE0322">12. Ne autem confusio Modorum fiat, praesertim eorum, qui propter sonorum distantias à Modi Principio ad Emmesepistrophum, vel ab Emmesepistropho ad Principij Duplum parùm discriminis habere visi fuerint, discriminis locô Semitonium in Diapason Musici constituerunt, ut eô ipsô Modus à Modo discerneretur: id Modi Differentiam nobis inscribere placuit. Verbi gratia. Inter Mixolydium et Ionicum à Principio Modi ad Emmesepistrophum eadem est de sonis ad sonos habitudo intervallorum ab Emmesepistropho ad Principij Duplum. Nam in Ionico intervallum Semitonium aliô locô habetur, quam in Mixolydio. Locus igitur ille, quô inter sonos Semitonium occurrit, Modos hosce inter se differre facit, et propterea Differentia appellabitur.</p>
+      <p id="BURPOE0323">Typica praecedentium hypomnematum deumbratio, ab A sonô Parhypatôn exemplô sumptô.</p>
+      <p id="BURPOE0324">[Burmeister, Musica poetica, 44; text: Temperamentum, Hypodorij, Aeolij, Modi, Systema Plagij, Systema Authentae, Discantus, Tenor, Altus, Bassus, a, d, e, A, C, D, E, F, Princ: Duplus, Emmeles sonus, Emmesepist: soni, Modi Principium] 
+      <figure>
+        <graphic url="/images/BURPOE_15GF.gif" />
+      </figure></p>
+      <p id="BURPOE0325">
+      <pb n="[45]" />Iuxta hunc typum reliquorum Modorum ad reliquos sonos Parhypatôn B scilicet C, D, E, F, G. Constitutio et cognitio à quolibet Philomusô Marte (ut ajunt) propriô examinari et delineari poterit.</p>
+      <p id="BURPOE0326">Hypomnemata de Usu Modorum.</p>
+      <p id="BURPOE0327">1. Etsi Modorum quaelibet Melodiae Diapasôn suae terminum non immeritò non transgredi debent: tamen, quia necessitas excessum vel transgressionem nonnunquam, hoc est, semel atque iterum, flagitat, et eô nomine Melodiarum metae solvuntur, Modo, quod ad suam proprietatem, nihil inde decedit, juxta illud: [mia chelidon ear ou poiei]. Una hyrundo non facit ver.</p>
+      <p id="BURPOE0328">2. Modus omnis non omni materiae Aristotelis, Aristoxenî Plutarchî aliorumque ex sententijs convenit et congruit. Qui igitur ad moerorem, moestitiam, lamentaque inclinant, non sunt rebus et materijs laetis accommodandi, et contra. Conveniunt autem rebus serijs et gravibus ij Modi, quorum sonus Emmeles semitonium claudens maximè inter sonos Diapasôn intermedios, exceptis Emmesepistrophis, occurrit et reciprocus est: Tales sunt Dorius et Hypodorius. Quorum autem sonus Emmeles semitonium incipit et frequens in Melodia est, ij laetis et incitantibus rebus congruunt, et sunt ipsi Mixolydius et Hxpomixolydius. In quibus Principium Modi, ejus Duplus et Emmesepistrophus Semitonium claudunt et saepenumerò repetuntur, ij tragicis et turbulentis materijs competunt, ut Lydius et Hypolydius. In quibus Semitonium ijdem ipsi soni inchoant, et ad plures vices iterant, ut in Phrygio et Hypophrygio, ij Modi lamentosas et flebiles exigunt materias. Illi ipsi soni, si promiscuè reciprocantur, eorum Modi ad medias res sunt parati, quales sunt Jonicus et Hypojonicus.</p>
+      <p id="BURPOE0329">CAPVT VII. De Transpositione Modorum.</p>
+      <p id="BURPOE0330">TRanspositio (propriè hic considerata) est Modi systematis unius Qualitatis in Qualitatis alterius Systema conversio.</p>
+      <p id="BURPOE0331">Transpositio duplex est: Una Elevata aut Intenta; altera Depressa vel Remissa.</p>
+      <p id="BURPOE0332">Elevata aut Intenta est, quandô Modi alius systema in aliud convertitur, ad distantiam Diatessaron elevatae, quâ systematum permutatione et Qualitas pariter mutatur. Depressa vel Remissa est, 
+      <pb n="[46]" />quâ illa Modi et ejusdem Qualitatis conversio fit per Diapente distantiam remissam in descensum. Qualitas autem est, quae Melodijs aequè, ac Harmonijs ex intervallo ab a ad b, dat esse, et duplex est: Diezeugmenorum et Symnemenorum Tetrachordorum sive sonorum. Diezeugmenorum Qualitas est illa sonorum consequentia, cujus inter a et b integer tonus sit, et à b Tetrachordum initium sumat, quâque tàm Melodijs quàm Harmonijs quaedam, quasi naturae, proprietas conferatur. Synnemenorum est, quae ab a ad b semitonium habet, et in qua Tetrachordum ab à initium sumit, ad certam, quasi naturae, proprietatem Melodijs et Harmonijs acquirendam. Haec ex vulgari consuetudine BE Mollaris; illa BE duralis, nominata est.</p>
+      <p id="BURPOE0333">Hypomnemata.</p>
+      <p id="BURPOE0334">1. Transpositionem hanc quod causetur, nihil aliud est, quam Qualitatum illa in Melodijs et Harmonijs diversitas. Si itaque [melopoietes] Harmoniam in illa Qualitate, quae usu recentior est, quamque Synnememorum vocamus, vulgò dictam BE Mollarem, (BE Duralis enim antiquior est) constructurus, eam necesse habet, ut in certo Modi Systemate includat.</p>
+      <p id="BURPOE0335">Modi enim, quotquot numero sunt, aequè in dictâ Synnemenorum Qualitate Harmonias moderantur, ac in altera, antiquiore illâ, Qualitate. Quocirca accedente nova Qualitate, novorum Modorum constitutione et accessione non opus fuit. Et [melopoietes] libertatem habet, carmina sua in qua vult, Qualitate effingendi et construendi. Doctrinae artis compositoriae maxima ex parte ad primam et antiquiorem illam Qualitatem, quam Diezeugmenorum Tetrachordorum sive Sonorum vocamus, accommodari solent, praesertim, quae de Modis agit. Qui jam in alterâ illâ et novâ vel recentiore Qualitate carmen sivè Harmoniam musicam excogitaturus et compositurus est, is eas huc repetere et Transpositionis normam praemissamque divisionem, probè cognitam habere opus habet.</p>
+      <p id="BURPOE0336">2. Transponitur autem Modus Qualitatis Diezeugmenorum in Qualitatem Synnemenorum ascendendô per Quartam, descendendo per Quintam, et manet idem Modus. Rursus, Melodia vel Harmonia Qualitatis Synnemenorum transponitur in contrarium ad Qualitatem Diezeugmenorum per Quartam in descensum et per Quintam in ascensum.</p>
+      <p id="BURPOE0337">3. Transponunt etjam Artifices Systema alicujus Modi per Diapasôn in 
+      <pb n="[47]" />eadem Qualitate, quandò illud comprehensum est sonis inferiorum ordinum, et ejus gratiâ ad gravitatem remissione; vel superiorum ordinum est terminatum, et eó nomine ad acumen intentione nimium est proclive. Exemplum videre licet in Harmonia Surge propera sex Vocum Orlandi. Ea referenda est ad Modum Hypodorium Qualitatis Diezeugmenorum. Cujus quum Systema ex ipsa Modi constitutione comprehensum debeat esse sonis [DD] Hypatôn et [aa] Paramesôn, idipsum terminantibus; elevatum vero sit, ad D Parhypatôn et [alpha] Hyperboleón sonos, transpositionem hanc ipsam, quam hic innuimus, eo exempló factam esse nemo non videt.</p>
+      <p id="BURPOE0338">4. Qualitatum habitudo et discrimen hôc fundamentô astruitur. Tetrachordi cujuscunque ratio ita comparata est, ut in ipso sit ordo sivè comprehensio quatuor sonorum, quorum primi duo in Genere Modulaminum Diatonico, semper Semitonij; secundus et tertius, similiter et tertius et quartus Toni intervallum conficiant. Quô nunc sono Prima Musica Tetrachordum absolvit, initium primi Tetrachordi à [x] B Parhypatôn sumens, in eo novum inchoare fuit gavisa. Vbi autem ad a et b ipsa crevit, deprehensum est, fieri ibi in sonorum consequentiâ ab a ad b disjunctionem Tetrachordorum quam Diezeusin illa dixit et vocavit. Postquam autem cognitum est, posse in illo Toni spacio fieri divisionem, et in a novum Tetrachordum inchoari, atque ita ordinem sonorum a, b, c, d, propiùs conjungi, conjunxit cum Secundo Tetrachordo Tertium, quam conjunctionem Synepham nominavit. Et quia etjam animadversum est, tàm disiunctione illâ, quàm coniunctione ordinibus sonorum novam acquiri proprietatem naturae ac qualitatem, illam, quae ab a ad b Toni intervallum, Qualitatem Diezeugmenorum sonorum; hanc quae ab a ad b Semitonij intervallum habet, Qualitatem Synnemenorum dicere voluit. Earum haec in contextu notarum indicatur BE (ut vocant) rotundô et in initio Scalae praesente; in contextu verò characterum figurâ parvae crucis, qualis haec est [+]. Illa autem indicatur in contextu notarum b rotundi absentiâ, at in contextu characterum hâc figurâ [x], quas figuras Disparata enuncianda nobis vocare placuit.</p>
+      <p id="BURPOE0339">
+      <pb n="[48]" />Typus Modorum eorundemque Systematum in Qualitate Diezeugmenorum juxta Principiorum ordines.</p>
+      <p id="BURPOE0340">[Burmeister, Musica poetica, 48; text: A, B, C, D, E, F, G, Aeolius, Hyperaeolius. Ionicus, Dorius, Phrygius. Lydius, Mixolydius. Hypodorius, Hypophrygius, Hypolydius. Hypomixolydius. Hypoaeolius. Hyperphrygius. Hypojonicus. a, b, c, d, e, f, g, Authentarum, Plagalium, Tenor, Discantus, Altus, Bassus]</p>
+      <p id="BURPOE0341">
+      <pb n="[49]" />Typus Modorum eorundemque Systematum Qualitatis Synnemenorum juxta ordinem Principiorum.</p>
+      <p id="BURPOE0342">[Burmeister, Musica poetica, 49; text: A, B, C, D, E, F, G, a, vel, Aeolius, Hyperaeolius. Ionicus, Dorius, Phrygius. Lydius, Mixolydius. Hypodorius, Hypophrygius, Hypolydius. Hypomixolydius. Hypoaeolius. Hyperphrygius. Hypojonicus. b, c, d, e, f, g, Authentarum, Plagalium, Tenor, Discantus, Altus, Bassus] 
+      <figure>
+        <graphic url="/images/BURPOE_16GF.gif" />
+      </figure></p>
+      <p id="BURPOE0343">
+      <pb n="[50]" />CAPVT VIII. De ratione inchoandi Modulamina.</p>
+      <p id="BURPOE0344">ETsi haec doctrina de Modulaminibus rectè inchoandis ad Musicam Practicam pertinet; tamen, quia auditoribus meis, et fortè alijs quoque hujus artis studiosis me non ingratam rem facturum cognovi, si eam hic breviter traderem, peculiari de ipsa in hoc tractatu capite agere mecum constitui, cujus rei hanc definitionem sic praemittimus.</p>
+      <p id="BURPOE0345">Ratio inchoandi modulamen, est norma Modulamen dextrè instituendi et inchoandi ad mediocritatem, qua illud ipsum nimis intentum non sit, non quoque nimis remissum, et, tàm Modulaminis, acumen, hoc est intentio; quâm gravitas hoc est, remissio, voce humanâ efferri possit.</p>
+      <p id="BURPOE0346">Hypomnemata.</p>
+      <p id="BURPOE0347">1. Ad mediocritatem sive medium in modulando tenendum accommodatae sunt inter septem diversas Octavas Diapasôn C--c. D--d. E--e, cujus gratiâ pro Tenoris Diapasôn omnibus omnium Modorum, ut ut quilibet eorum propriô systemate sit comprehensus, ipsae erunt reputandae.</p>
+      <p id="BURPOE0348">2. Qui nunc Cantor rectam normam quodlibet modulamen ad mediocritatem referendi non defugit, is sit illis ipsis octavarum sonis intentus: quando autem Melodiam, solùm decantaturus est, ad Diapasôn D--d omnium maximè, nonnunquam ad E--e mentem intendat. Ad harum Diapasôn alteram, cujus mediocritatem vel ex Organo, vel ex ecclesiastico canentium, et quidem mediocriter hoc est non intentè nimis, neque nimis remissè canentium, coetu, crebra observatione, vocisque suae ipsius propriae vocem intendendi et remittendi facultate addiscet, Melodias reliquarum Diapasôn quorumcunque Modorum; ad illas tres, Harmonias accommodet, quam maximè etjam à syllabica sui pronunciatione, quam vulgus musicorum Solmisationem nominare consuevit, soni eorum videantur alieni.</p>
+      <p id="BURPOE0349">3. D sonus (plenionis explicationis gratiâ) syllabâ RE effertur, E per syllabam MI, et sic juxta rationem notas efferendi ex practica cognitam, reliqui soni consequenter. Si jam Cantor Melodiam inter alios systematis sonos comprehensam; quam inter D--d, ut est: Ein feste Burg ist vnser Gott/ et cetera quam Modus cujus systema est C--c moderatur, ad mediocrem illum Modulaminis Modum D--d referre vult, tunc D--d in C--c convertere proprietatem opus habebit, et pronunciationem quae C competit D 
+      <pb n="[51]" />attribuet. Quae autem Melodia non à sonis Octavam terminantibus, quales sunt Modorum Principia, Principiorumque Dupli, initium sive exordium suum sumit, sed ab Emmesepistropho, ejus ipse pronunciationem à sonis mediocrem istam Octavam D--d terminantibus ad Emmesepistrophum per sonorum gradus discurrens facilè invenerit. Sit exemplum, Nun frewet euch lieben Christen gemein, et cetera. Istam Melodiam moderatur Modus Hypojonicus Systemate G--g: ejusdem initium fit in Emmesepistropho sono. Vt nunc ejus Diapason mediocritatem ex D--d vel etjam E--e noverit Cantor, ita ab istis extremis Diapasôn sonis ad Emmesepistrophum per reliquos sonos discurrendo initiali sono dictae Melodiae ipsam facilè conciliabit. Harmonias pari negotió ad mediocritatem referre poterit, transponendo unamquamque vel ad C--c, vel ad D--d vel ad E--e, prout viderit Systemata Modorum esse aut acuta nimis aut remissa. Nonnunquam additur F et f sed rarissimê.</p>
+      <p id="BURPOE0350">4. Ex quo unusquisque facillimè colligit Modulaminum instituendorum normam varijs transpositionum Modis peragi, quos ratio discriminat, ita, ut, quae fit nulla suboriente vel interveniente in sonorum intervallis dissimilitudine, mutatâ autem Qualitate per intervallum Diatessaron, ut in transpositione Diapasôn G--g Qualitniis Synnemenorum ad D--d Qualitatis Diezeugmenorum fit, Analoga; Quae ex parte similes intervallorum gradus retinet, ut fit ab A--a ad D--d manente Qualitate, vel ab G--g ad F--f mutatâ Qualitate Semianaloga; Quae verô in totum dissimilis fit, ut á C ad D; vel à D--d ad E--e vel ad F--f Paraloga Transpositio vocari possit.</p>
+      <p id="BURPOE0351">5. Quibus ita cognitis et perceptis, si Cantor ab Organista requisiturus erit in Organo modulationis mediocritatem, quô rectius chorum suum ad Organum attemperare possit, praescribet Organistae mediocritatem faciendo saltem Principij mentionem istius Modi, qui ad mediocritatem maximè inclinat et accommodus est, si Modulamen pertinuerit ad Modum Authentam: Si verò ad Plagalem, Emmesepistrophi Tenoris.</p>
+      <p id="BURPOE0352">CAPVT IX. De Fine Melodiarum et harmoniarum.</p>
+      <p id="BURPOE0353">FInis, tàm Melodiarum, quàm Harmoniarum, omnis est, juxta regulam Musicorum, Diapente chorda sive sonus vel potius Consnantia. vel: Finis est ultimus Modulaminis tractulus in Melodia Clausulam potissimum Tenoralem vel etjam Discantalem habens; 
+      <pb n="[52]" />in Harmonia verò est nexus et cohaerentia consonantiarum praedita aliquâ Clausulâ, potissimum Triphonâ, quâ ultimus modulamini vel modulationi terminus statuitur, et â modulando quies datur.</p>
+      <p id="BURPOE0354">Finis quadruplex est: 1. Principalis. 2. Minus Principalis. 3. Affinalis. 4. Peregrinus.</p>
+      <p id="BURPOE0355">1. Principalis est, quando quies à modulando fit introductione Clausulae, cujus tertia pars, proprié Finis dicta, in Modi Principiô, Tenoris Diapasôn infimô sono, datur.</p>
+      <p id="BURPOE0356">2. Minus principalis est, qui â sono Emmesepistropho excipitur.</p>
+      <p id="BURPOE0357">3 Affinalis, qui fit insono, qui Emmeles dicitur.</p>
+      <p id="BURPOE0358">4. Peregrinus, qui in alio aliquo sono ex intermedijs Diapasôn sonis introducitur.</p>
+      <p id="BURPOE0359">Hypomnemata.</p>
+      <p id="BURPOE0360">1. Finis Principalis ideo dicitur Principalis, quod in Modi Principio locum occupat, ibique hôc datô intendi aut poni Diapente chorda potest. Hic autem Finis competit Modis Authentis.</p>
+      <p id="BURPOE0361">2. Minus Principalis, sic propterea vocabitur, quod eo quidem loci Finis fit, ubi Principalis, sed inversô Modorum systemate. Nam sonus is, qui Modis Authentis Principium est, in Modis Plagalibus est Emmesepistrophus, qui principalis non est et primus in constitutione Modi, sed secundarius, atque ita minus principalis.</p>
+      <p id="BURPOE0362">3 Affinalis propterea id nomen gerit, quod, quia ad Principium et Emmesepistrophum tum etjam ad Emmesepistrophum et Duplum alius sonus assumitur qui cum illis consonat, is affinitatem in Harmonia acquirit. Hic introducendus est rarò, Commodissimè autem introducetur, ibi ubi textus Harmoniam expetit ex pluribus, quam unâ, partibus constantem.</p>
+      <p id="BURPOE0363">4. Peregrinus hâc de causa illud nomen habet, quod in horum ante commemoratorum sonorum fit nullô, sed aliô quôpiam sonô, quemadmodum id apud Orlandum in Missae super Veni in hortum ejusdem aliquâ parte perspicuum est.</p>
+      <p id="BURPOE0364">5. Fundamentô, rationibusque Finium dandorum, et eorundem appellationum ita datis, meminerint hujus artis studiosi, quod nemini ab metis et à requisitis ad constituendum Finem sit temerè discedendum. Si verò libertate Poëticâ usuri quidam erunt, et Finem non ibi, ubi eum fieri debere monstratum 
+      <pb n="[53]" />est, immissuri, illi libertatem certâ fulciant ratione ex textus sensu petitâ, quâ se salvare possint quemadmodum Orlandus, ipsis in Harmonia, Frölich zu sein ist mein Monier/ et cetera quinque vocum, exemplum reliquit.</p>
+      <p id="BURPOE0365">6. Finem cujuslibet operis ibi verum esse, in confesso est, ubi nihil amplius quod ad ejus absolutionem requiratur, restat: et ratio dictitat, tum et experientiâ verum est, quod ibi opus judicatur absolutum, ubi ejus finis verus existit. Eô itaque nomine Melodia vel Harmonia nullibi unquam Finem sortiatur (ut saepius etjam generale aliquod silentium detur) quam ibi, ubi de Harmonia nihil est reliquum, ibique ea, quae de Fine Harmonijs conferendo monuimus, usum habeant. Sed textus saepenumerò Harmoniâ explicandi veniunt, quorum periodi sunt verborum serie nimis vel diductae, vel numerô multae, ut uni parti omnes includi nequeant. Quocirca, si utraque, cum textus, tum Harmoniae à sui initiô ad finem, non dividerentur, nimium forent extensae et diductae longaevè, adeò, ut, quasi Finis nesciae, et penè oblitae, gratiam, quam nacta erant, amittant. Ejus ergò causâ usu venit, ut Artifices textum in duas, tres, pluresvè partes partirentur, Harmoniamque similiter dividant. Quod quando id faciunt, Finium tunc praedictas species permutant, ita, ut prima et ultima Pars Principalem, reliquae partes, alteras Finium Species participent. Introducitur autem Finis plerumque clausulâ Triphónâ, cujus ultima pars est constructa ex ijs concordantijs, quae suae ipsius syntaxeos, pro basi seu fundamentô habent, quae infimum sonum, qui secum Diapente introductam representet.</p>
+      <p id="BURPOE0366">Fine datô, nonnunquam adjecta reperitur affectio sive tractulus, qui vocem unam, vel plures voces inter plurimas, ad quas Harmonia excrevit, in sono illô qui Fini dando competit, sive hic Primarius, sive Secundarius sit, habet consistentes, et à modulamine quiescentes, circa quas reliquae voces in Harmonia circum circa ambulant ad duos, tres, quatuor, pluresvè tactus: nihil autem aliud praestant, quam ut variationes Harmonicas, quae uni sono attribui possunt, ostendant, finemque introductum esse maximè planum faciant, quod tyrones ab Artificibus mutuabuntur, imitabuntur, et praeceptionum instar habebunt, ad usum, quandolibet, convertendarum. Hunc tractulum vocant Harmoniae Supplementum, quod est Finalis soni vocis consistentis cum varijs secum consonantibus sonis reliquarum vocum cum se in harmoniam unitarum expolitio, finem carmini musici illatum esse, et datum docens. Id hâc ratione fit. Sono Ambitus in Tenore infimo consistenti annectendi sunt tam diu, ut placuerit, concordes et conjugati soni donec tandem eadem datae Clausulae ultima pars in sua Harmonia attexta esse videatur, 
+      <pb n="[54]" />in qua finaliter tota modulatio sive Harmonia quiescat. Sit verbi gratia sonus ille Tenoris Ambitus infimus, hoc est Principium Modi, in quo Clausulae introductio finem Harmoniae suppeditat, hic subsistat ad quinque tactus in hunc modum:</p>
+      <p id="BURPOE0367">[Burmeister, Musica poetica, 54,1; text: a]</p>
+      <p id="BURPOE0368">Ei affingi possunt hae concordantiae in quatuor vocum syntaxi Aeolio modo principaliter; Hypoaeolio minus principaliter; Lydio vel Hypolydio affinaliter accommodatae.</p>
+      <p id="BURPOE0369">[Burmeister, Musica poetica, 54,2; text: a, b, c, d, e, f, A, C, D, E, F]</p>
+      <p id="BURPOE0370">CAPVT X. De Textus Applicatione.</p>
+      <p id="BURPOE0371">Applicatio textus est sub notis textus conveniens suppositio, quâ vocularum accentus abservatur, ne syllaba, quae ex pronunciatione voculae agnoscitur longa, notae attribuatur minorem habenti valorem; et quae agnosciur brevis, apponatur tali notae, quae auctiorem habet valorem.</p>
+      <p id="BURPOE0372">Hypomnemata.</p>
+      <p id="BURPOE0373">Textus notis applicatur Modis potissimum tribus;</p>
+      <p id="BURPOE0374">1. Notae {longae/breves} vel quantitatis {majoris./minoris.} ex pronunciatione cognitae respondeat {Longa./Brevi.}.</p>
+      <p id="BURPOE0375">2. Pluribus notis in valore minoribus, potissimum caudatis coloratis, nonnunquam unica sufficit syllaba, quae desinit in notam, ijs minoribus, aliquantò majorem.</p>
+      <p id="BURPOE0376">3. Minoribus notulis tàm longae quàm breves substernuntur Syllabae, ex pronunciatione non ita perspicuae.</p>
+      <p id="BURPOE0377">
+      <pb n="[55]" />Exempla.</p>
+      <p id="BURPOE0378">[Burmeister, Musica poetica, 55; text: Domine exaudi orationem meam.] 
+      <figure>
+        <graphic url="/images/BURPOE_17GF.gif" />
+      </figure></p>
+      <p id="BURPOE0379">CAPVT XI. De Orthographia.</p>
+      <p id="BURPOE0380">ORthographia est, quae cantum rectè describere docet.</p>
+      <p id="BURPOE0381">Hypomnemata.</p>
+      <p id="BURPOE0382">Orthographia consistit potissimum in tribus: 1. in eo, ut Syllaba directè sit Notae subposita, cui propriè competit. 2. In Notarum conspicuâ distantiâ, ut syllaba textus cuique illarum commodè attribui possit. 3. In integri Tactus absolutione, quae ibi, ubi cujuslibet Scalae ultima Nota ponitur, fieri debet.</p>
+      <p id="BURPOE0383">CAPVT XII. De Ornamentis sive de figuris Musicis.</p>
+      <p id="BURPOE0384">ORnamentum, sive Figura musica est tractus musicus, tàm in Harmonia, quàm in Melodia, certâ periodô, quae â Clausula initium sumit, et in Clausulam desinit, circumscriptus, qui à simplici compositionis ratione discedit, et cum virtute ornatiorem habitum assumit et induit. Id duplex est; alterum Harmoniae alterum Melodiae. Harmoniae est, quô periodus aliqua Harmoniae ex quotenis etjam ea confecta sit vocibus, novum induit habitum, alienum à simplici consonantiarum absolutarum nexu. Hujus connumeramus sedecim species. 1. Est fuga Realis. 2. Metalepsis. 3. Hypallage. 4. Apocope. 5. Noema. 6. Analepsis. 7. Mimesis. 8. Anadiplosis. 9. Symblema. 10. Syncopa 
+      <pb n="[56]" />vel syneresis. 11. Pleonasmus. 12. Auxesis. 13. Pathopoeia. 14. Hypotyposis. 15. Aposiopesis. 16. Anaploce.</p>
+      <p id="BURPOE0385">Melodiae ornamentum est, quod unicae saltem voci ornatum addit. Cujus species connumeramus sex: 1. est Parembole. 2. Palillogia. 3. Climax. 4. Parrhesia. 5. Hyperbole. 6. Hypobole.</p>
+      <p id="BURPOE0386">Vtriusque quatuor se offerunt figurae communiter. 1. Congeries. 2. [homostichaonta], hoc est simul procedentia sive [homiokineomena], simul mota, vel Faux Bourdon. 3. Anaphora. 4. Fuga imaginaria.</p>
+      <p id="BURPOE0387">Neminem [melopoieton] Tyronum, praecepta formandorum Ornamentorum sive Figurarum musicarum hic spectaturum spero. Siquidem varietas omnium cujusque magna et multiplex apud auctores deprehenditur, ut vix numerum eorum nobis liceat indagare. Et si aliqua eorum attentaverimus constituere, nihil in eo novum et diversum à legibus syntacticis musicis produceremus, nisi ut significaremus quod unumquodque habitum peculiarem induat, similem exemplis artificum, non in ijsdem intervallis et concentibus, sed similibus elaboratum: Vt tamen quâdam velut manuductione tyronem ducamus, definitiones vel descriptiones Ornamentorum expromimus. Quae si in fideli memoriâ circumferentur, praeceptorum vices haud insufficienter supplebunt. Vsus in hac parte palmam obtinet, qui praeceptis anteferendus est. Vbi vero necessitas Ornamenti praxin flagitat, ibi officio nostro non erimus defuturi. Exempla item apud authores obvia non damus ad oculum, sed tantum indicamus textum, qui eorum ornatu utitur, et facimus id saltem, ut tyronem ad crebram resolvendarum cantilenarum exercitationem invitemus et incitemus: tum ut opusculum hoc nimis non excrescat. Insuper et hoc addimus, si fortè Philomusus sollicitus foret scire, quando et quô locó Harmoniae flosculis harum Figurarum sint exornandae, et quando ea adhibendae, ibi Philomusus textum alicujus Harmoniae, cujusdam autoris, et praesertim, quae alicujus ornamenti cultum et ornatum induisse videtur, probè consideret, arbitreturque sibi similem textum eâdem figurâ esse exornandum quô ille alterius Artificis textus est exornatus. Quodcum fecerit, textus ipse ei praeceptorum instar erit, et Philomusus à praeceptorum copia moleque liber, Quod sibi ingratum fore non speramus.</p>
+      <p id="BURPOE0388">DE ORNAMENTIS HARMONIAE et primum.</p>
+      <p id="BURPOE0389">De I. De Fvga Reali.</p>
+      <p id="BURPOE0390">
+      <pb n="[57]" />Fuga Realis [phuge ousiodes] est talis Harmoniae habitus, in quo omnes Harmoniae voces aliquam alicujus vocis in suo conjugio affectionem imitantur intervallis ijsdem vel paribus. Quam compositionem velut [memimemenon], tam in exordijs cantilenarum, quam in medio exhibere liberum est. Apud Orlandum habetur exemplum in Legem pone mihi quinque vocum quod unum pro multis examinari et perpendi, ac in usum transferri potest.</p>
+      <p id="BURPOE0391">PRAXIS Fugae Realis.</p>
+      <p id="BURPOE0392">Melodia imitativè ruminanda prius producitur. verbi gratia sit haec melodia in Fugam vertenda:</p>
+      <p id="BURPOE0393">[Burmeister, Musica poetica, 57,1; text: a, b, c, f, g] ]</p>
+      <p id="BURPOE0394">Ea prius in charta vel assere scribendo ponitur et extenditur. Deinde habitâ ratione determinationis Modorum et formationis Clausularum vox [mimetike] eidem substernitur eò loci, ubi quam primum alicui ex reliquis vocibus pro concentuum convenientiâ licebit. Post reliquarum vocum quae continuant imitamen, aliae alijs substernuntur, sicut monstratum est antè. Hoc palàm faciemus in quatuor vocum [emmeleia], ubi hanc divisionem vocum in Fugis prius fecerimus. In Fugis Vox alia dicitur [prophoneousa]; alia [husterophonos]. Vox, quae Melodiam producit in Fugam convertendam, est illa, quae dicitur [prophoneousa], ut ea, quae primô locô Fugae affectionem adornat. Quae autem inter reliquas, [prophoneousa] sit, perinde est. [Usterophonos] est, quae affectionem Fugam parantem, ruminat, ut ea quae posterior editur. [Usterophonos] tam multiplex fit, quam multas Fuga representat voces, quarum prima dici potest [prote], subaudi [husterophonos] vox; Secunda [deutera]; tertia [trite] et cetera. His ita positis exemplum Realis Fugae hoc esto.</p>
+      <p id="BURPOE0395">[Burmeister, Musica poetica, 57,2; text: b, c, d, e, f, g, fa, vox, Fa, C, D, E, F, G, [prophoneousa, Usterophonos, prote, deutera, trite]]</p>
+      <p id="BURPOE0396">
+      <pb n="[58]" />Vacua ulterius loca aptis et appositis concordibus conjugatis characteristicis sonorum complebuntur, quô spontaneum, vix cum labore, incrementum consequetur syntaxis, hôc môdo:</p>
+      <p id="BURPOE0397">[Burmeister, Musica poetica, 58; text: a, b, c, d, e, f, g, fa, Fa, C, D, E, F, G]</p>
+      <p id="BURPOE0398">Aptae et appositae sonorum conjugatae locis concordantibus vacuis imponendae, non omnes sunt appositae, sed eae, quae ex bona intervallorum consequentiâ aptae in Melodia fiunt. Fiunt autem aptae, si intervalla sonorum non introducuntur nimis remota, praesertim in superioribus vocibus. Quô enim propiores fuerint in ijs gradus intervallorum, hôc elegantior exstiterit Melodia, et Harmonia laboris non eguerit multum.</p>
+      <p id="BURPOE0399">Exempla sunt, 1. apud Ivonem de Vento in Ite in orbem universum quinque vocum. 2. apud Franciscum de Rivulo, in Sic Deus dilexit mundum sex vocum. 3. apud Pevernagen Cor mundum crea in me Deus sex vocum, et apud alios perplurima.</p>
+      <p id="BURPOE0400">II. De Metalepsi.</p>
+      <p id="BURPOE0401">Metalepsis [metalepsis] est talis habitus Fugae, in quo duae Melodiae in Harmonia hinc inde transsumuntur et in fngam vertuntur. Exemplum luculentissimum est apud Orlandum, in De ore prudentis quinque vocum.</p>
+      <p id="BURPOE0402">III. De Hypallage.</p>
+      <p id="BURPOE0403">Hypallage [hapallage] est quando Fuga conversô intervallorum ordine introducitur.</p>
+      <p id="BURPOE0404">Exemplum est apud eundem Orlandum in Cantilenae, Congratulamini mihi omnes, secundâ parte. Item apud Clementem non Papam in Maria Magdalena quinque vocum, in priori parte; Item apud Orlandum in Benedicam secunda 
+      <pb n="[59]" />parte; apud Clementem in cantilenae Maria Magdalena secunda Parte; Apud Orlandum in In me transierunt quinque vocum; Item in Legem pone alterâ parte; Apud Pevernagem in Oculi omnium quinque vocum priori parte.</p>
+      <p id="BURPOE0405">IV. De Apocope.</p>
+      <p id="BURPOE0406">Apocope [apokope] est Fuga, quae ex omni parte per omnes voces non absolvitur, sed cujus affectionis, quae in fugam abrepta est propter aliquam causam in una aliqua voce fit amputatio, Vt in Legem pone mihi Domine Exordio Orlandi quinque vocum.</p>
+      <p id="BURPOE0407">V. De Noemate.</p>
+      <p id="BURPOE0408">Noëma [noema] est talis harmoniae affectio, sive periodus, cujus habitus voces conjunctas habet in eadem sonorum quantitate, aures, imo et pectora suaviter afficiens et mirifice demulcens, si tempestivè introducitur, Exempla sunt apud Orlandum in secunda parte, Exaudi Domine vocem meam quinque vocum in cantione. In Principio erat verbum, ad textum: omnia per ipsum facta sunt. In Nuptiae factae sunt in Cana et cetera sex vocum ejusdem sub textu: Et dixit ei IEsus. Observatio. Hoc ornamentum, prout ornamenti partes explet, non ex nudis hisce exemplis notescet, sed ex ipso integri carminis contextu. Quocirca perlustrandus erit ejus integer contextus, vel integra Harmonia suis vocibus decantanda, ac tum demum se hoc manifestabit ornamentum.</p>
+      <p id="BURPOE0409">1. Analepsis [analepsis] est tractuli Harmonici in aliquot vocum syntaxi ex meris concordantijs contexti continua iteratio, et sic Noematis repetitio et duplicatio, ac Noemati vicinum ornamentum:</p>
+      <p id="BURPOE0410">Exempla sunt apud Orlandum in Domine Dominus noster sex vocum Ad verba; In universa terra. Meilandus in O pulcherrima, ad textum: Sponsa mea. Item in Non auferetur sceptrum sub textu. De Iuda et cetera.</p>
+      <p id="BURPOE0411">2. Mimesis [mimesis] est quando in plurium vocum combinatione aliquae voces maxime propinquae alijs silentibus Noema introducunt, et hoc eae, quae silent et sibi invicem vicinae sunt ac propinquae depressius vel altius sublimiusve imitantur, ut apud Orlandum in Omnia quae fecisti nobis Domine quinque vocum, ad textum: Misericordiam tuam et cetera in Quam benignus secunda parte quinque vocum, ad textum: Spes ejus in te Domino Deô ipsius In Pevernagen Verbum caro factum est, sub verbis: Et vidimus 
+      <pb n="[60]" />gloriam ejus: item, in Cor mundum, sub verbis: A facie tua sex vocum et cetera. Item in Meilandi Gaudete sex vocum, Ad textum: Amore langueo.</p>
+      <p id="BURPOE0412">VIII. De Anadiplosi.</p>
+      <p id="BURPOE0413">Anadiplosis [anadiplosis] est talis Harmoniae decus, quod constat ex duplici Mimesi, et est hoc ornamentum Mimesi propinquum: geminat enim id, quod per Mimesin semel est introductum. Orlandus in omnia quae fecisti nobis Domine, ad textum: misericordiam tuam. Item in Iaches VVeert, Transeunte Domino, ad textum: Miserere mei fili David quinque vocum. Item in Handelij Benedictio et claritas. In Congratulamini Orlandi sex vocum, ad textum: Surrexit sicut dixit:</p>
+      <p id="BURPOE0414">IX. De Symblemate.</p>
+      <p id="BURPOE0415">Symblema [sumblema] est Concordantiarum et Dissonantiarum commissura, quae hâc ratione fit: Omnes Concordantiae se habent in omnibus Harmoniae vocibus ut absolutae Concordantiae, idque in Principio, vel parte priori tactus dimidiâ. In Fine vero vel parte tactus dimidiâ posteriori non omnes voces se in syntaxi habent, ut Concordantiae absolutae, sed quaedam tantum. Quae inter se concordes sunt, hae aut moventur, et quidem motu pari; aut prorsus ad aliquot tactus persistunt. Quod exemplô Orlandi in Quam benignus es Domine quinque vocum priori parte fit comprobatum, sub textu Salutare tuum.</p>
+      <p id="BURPOE0416">Id majus Symblema dicitur: Minus est quando talis commissura fit sub dimidio tactus, quod quia non ita afficit, pro Figura et Ornamento non reputatur. Exemplum hoc esto.</p>
+      <p id="BURPOE0417">[Burmeister, Musica poetica, 60; text: a, b, c, d, e, f, g, A, D, G] 
+      <figure>
+        <graphic url="/images/BURPOE_18GF.gif" />
+      </figure></p>
+      <p id="BURPOE0418">X. De Syncope vel Syneresi.</p>
+      <p id="BURPOE0419">Syncopa [sugkope] contrariô modô se habet ad Symblema. Syncopa committit Dissonantiam in Initiô Tactus Minoris, vel etjam Majoris. Dissonantia autem illa est Dissonantia relativa, et pars soni praecedentis tactus, cum qua illa est per Syncopationem in unum aliquod integrum conglutinata. Diversae etjam partes in quoddam totum contrahuntur, quae ratione aequalitatis tactuum et 
+      <pb n="[61]" />in eis connexionum concordantium dissolutae esse deberent. Exemplum est in Orlandi Quam benignus, secunda parte, ad textum: Cui tu protector es Domine. Deinde nulla Clausula formatur quae Clausulae nomen meretur, quin hôc ornamentô fiat praedita. Differt autem hoc Ornamentum à Clausula, quòd sonus in Clausula tertius, sit idem, qui fuit ejus primus, videlicet ille contractus: in hoc verò Ornamento tertius à secundo, ut secundus à primo syncopato isto, declinet.</p>
+      <p id="BURPOE0420">XI. De Pleonasmo.</p>
+      <p id="BURPOE0421">Pleonasmus [pleonasmos] est Harmoniae, in formatione Clausulae praesertim in ejus Medio abundantia, quae ex Symblemate et Syncopa conflatur, sub duplici, triplici, et ultra, tactu, et cetera. Sub quadruplici apud Orlandum in Heu quantus dolor, ad textum Restat amore dolor, et cetera. Sub minori, atque ita simplici, tactu, vel etjam majori, infinita exempla reperiuntur in Madrigalibus Italorum et cetera alijsque similibus. Sub duplici tactu in Iohannis Knoefelij operibus exempla multa inveniuntur. Sub triplici unum apud eundem in Cantilena Laetifica nos Deus et cetera obvium est.</p>
+      <p id="BURPOE0422">XII. De Avxesi.</p>
+      <p id="BURPOE0423">Auxesis [auxesis] fit, quando Harmonia sub unô eôdemquè textu semel, bis, tervè, et ulterius repetitô, conjunctis solis Concordantijs, crescit et insurgit. Exemplum est in Orlandi, Veni in hortum, ad textum: cum Aromatibus meis. Sic et in eadem cantione adhuc unum reperitur sub textu: Et bibite et cetera. Aliud habetur exemplum apud eundem in Hierusalem quinque vocum. Sub textu: Plantabis vineam, et cetera. Hoc Ornamentô omnes ferè cantiones, in quibus textus repetitur, ita, ut textus repetitionem, non Fugam, exigat, sunt repletae.</p>
+      <p id="BURPOE0424">XIII. De Pathopoeia.</p>
+      <p id="BURPOE0425">Pathopoeîa [pathopoiia] est figura apta ad affectus creandos, quod fit, quando Semitonia carmini inseruntur, quae nec ad Modum carminis, nec ad Genus pertinent, sed unius beneficiô in aliud introducuntur: Tum quando semitonia carminis Modo congruentia saepius extra morem attinguntur. Exemplum est in Surrexit Pastot bonus: ad textum: Mori dignatus est. Plura habentur exempla in Quàm benignus utrâque parte quinque vocum in Heu quantus dolor quinque vocum. In Iesu nostra redemptio quinque vocum ad textum crudelem mortem. In Domine deduc me sex vocum, sub textu Dolosè 
+      <pb n="[62]" />agebant. In Congratulamini sex vocum secunda parte ad textum: Mulier quid ploras? In convertendo octo vocum secunda parte sub textu Et flebant et cetera et infinita alia apud eundem.</p>
+      <p id="BURPOE0426">XIV. De Hypotyposi.</p>
+      <p id="BURPOE0427">Hypotyposis est illud ornamentum, quô textus significatio ita deumbratur ut ea, quae textui subsunt et animam vitamque non habent, vita esse praedita, videantur. Hoc ornamentum usitatissimum est apud authenticos Artifices. Vtinam eâdem dexteritate ab omnibus adhiberetur Componistis. Exemplum est in Orlandi Benedicam Domino altera parte ad textum, Et laetentur. Alia videantur apud eundem in Confitemini secunda parte ad textum: Et laetetur cor. Item in Deus qui sedes: ad textum: laborem et dolorem. In Sicut mater, et cetera quinque vocum ad textum: Et gaudebit cor vestrum.</p>
+      <p id="BURPOE0428">XV. De Aposiopesi.</p>
+      <p id="BURPOE0429">Aposiopesis [aposiopesis] est quae silentium totale omnibus vocibus signô certô positô confert. Vt apud Orlandum in Angelus ad pastores quinque vocum. Simile vide apud eundem in Surgens Iesus quinque vocum. In Christe patris verbum, et cetera sex vocum. In principio erat verbum. tertia parte.</p>
+      <p id="BURPOE0430">XVI. De Anaploce.</p>
+      <p id="BURPOE0431">Anaploce [anaploke] est in Harmonijs ex Octo praesertim vocibus, et duobus choris constantibus propè clausulam vel in ipsâ etjam Clausulâ Harmoniae unius Chori in altero replicatio, repetitione ad binas ternasve vices inculcata. Exemplum est in Orlandi Deus misereatur nostri Harmoniâ octo vocum quô textus; Et metuant eum, expolitur. Item in Handelij Quam dilecta tabernacula, sub textu: Qui sperat in te.</p>
+      <p id="BURPOE0432">De Ornamentis sive figuris Melodiarum.</p>
+      <p id="BURPOE0433">I. De Parembole.</p>
+      <p id="BURPOE0434">Parembole [parembole] est quando duabus vocibus vel etjam pluribus, fugae affectionem ab initio cantus persequentibus, admiscetur alia vox, quae cum illis alteris pariter procedit, nihil ...... ad Fugae naturam vel rationem conferens, sed tantum vacua concordantiarum loca inter illas voces Fugae [mimema] exsequentes, replens. 
+      <pb n="[63]" />Exemplum est apud Orlandum in Surrexit pastor. Secundus Discantus. Simile est apud eundem in Cantione Sicut mater.</p>
+      <p id="BURPOE0435">II. De Palillogia.</p>
+      <p id="BURPOE0436">Palillogia [palillogia] est ejusdem [tou meleos] affectionis sive tractuli in ijsdem sonis, nonnunquam omnibus, interdum vero initialibus, in una eademque voce intercalatis quibusdam pausis, vel etjam nullis, iteratio, quae in unica saltem fit voce:</p>
+      <p id="BURPOE0437">Exemplum.</p>
+      <p id="BURPOE0438">[Burmeister, Musica poetica, 63,1; text: Et sanctum nomen ejus. ij]</p>
+      <p id="BURPOE0439">Simile est apud Orlandum in Mirabile mysterium quinque vocum quod hic ascribemus.</p>
+      <p id="BURPOE0440">[Burmeister, Musica poetica, 63,2; text: Deus homo factus est.]</p>
+      <p id="BURPOE0441">III. De Climace.</p>
+      <p id="BURPOE0442">Climax [klimax] est, quae per gradus intervallorum similes sonos 
+      <pb n="[64]" />repetit, Vt hoc exemplum indicat. Exempli locô hanc intervallorum consequentiam depromimus, juxta quam alia exempla apud artifices, Philomusus observabit.</p>
+      <p id="BURPOE0443">[Burmeister, Musica poetica, 64]</p>
+      <p id="BURPOE0444">Luculentissima inveniuntur exempla apud Clementem non Papam in Cantilena Maria Magdalena et apud Orlandum in Moteta Angelus ad Pastores quinque vocum, ad textum; Alleluia in Discantu, et alijs.</p>
+      <p id="BURPOE0445">IV. De Parrhesia.</p>
+      <p id="BURPOE0446">Parrhesia [parrhesia] est commiscere cum reliquis concentibus Dissonantiam unicam, eamque ad dimidium totius, quô ipsi reliquae voces in tactu respondent. Exempla sunt in In me transierunt, et, Surrexit Pastor bonus quinque vocum Orlandi. Knoefelij in Converte nos Deus et cetera.</p>
+      <p id="BURPOE0447">V. De Hyperbole.</p>
+      <p id="BURPOE0448">Hyperbole [hyperbole] est Melodiae supra supremum ejus terminum superlatio. Exemplum est in Orlandi Benedicam ad textum: Semper laus ejus. Consideretur ejus Harmoniae vox Bassus.</p>
+      <p id="BURPOE0449">VI. De Hypobole.</p>
+      <p id="BURPOE0450">Hypobole [hypobole] est Melodiae infra ejus infimum Ambitus terminum subjectio. Exempla duo inveniuntur in In me transierunt in Discantu statim ab initiô, et in Basso ubi occurrit textus Dereliquit me virtus mea. Vnde colligitur ornamentum hoc contrarium esse Hyperbole.</p>
+      <p id="BURPOE0451">De Ornamentis tam Harmonijs, quam Melodijs communibus.</p>
+      <p id="BURPOE0452">
+      <pb n="[65]" />1. De Congerie.</p>
+      <p id="BURPOE0453">Congeries [sunatrismos] est coacervatio specierum concordantium tâm Perfectarum, quam Imperfectarum, quarum par motus est concessus. Exempla sunt in Orlandi Tempus est, ad textum: Dum assumptus et cetera. Et apud Ivonem de Vent in Vergangen ist mir glück vnd heil ad textum: verlassen dich vnschüldiglich.</p>
+      <p id="BURPOE0454">2. De Simul Procedentibus sive Faux BOURDON.</p>
+      <p id="BURPOE0455">Simul Procedentia, sive mota, [homostichaonta] vel [homiokineomena], vel aut gallicô nomine vocata Faux Bourdon, est in tribus vocibus sub eodem motu et pari quantitate Ditonorum vel Semiditonorum et [diatessaron] compositio. Exemplum est in Orlandi Omnia quae fecisti nobis Domine, ad textum: Peccavimus tibi. Simile habetur apud eundem in Quam magnificata sunt opera tua Domine sex vocum sub textu: Docueris eum.</p>
+      <p id="BURPOE0456">3. De Anaphora.</p>
+      <p id="BURPOE0457">Anaphora [anaphora] est ornamentum, quod sonos similes per diversas aliquas, non autem omnes, Harmoniae voces repetit in morem Fugae, cum tamen revera non sit fuga. Ad Fugam enim requiruntur omnes Voces, si Fugae nomen Harmonia mereatur. Exemplum est apud Orlandum in Surrexit pastor bonus; ad textum Bassi: Qui animam suam. Et in In me transierunt, ad textum: Conturbaverunt me.</p>
+      <p id="BURPOE0458">4. De Fuga Imaginaria.</p>
+      <p id="BURPOE0459">Fuga Imaginaria [phuge phantastike] est Vocis unius existentis Melodia quam alia unica ex eodem sono, aut ex diverso, vel etjam plures voces ad ruminandum, abripiunt.</p>
+      <p id="BURPOE0460">Hoc fit in exiguis Melodiae portionibus, quae lusus gratiâ, non tam usus, et ita affinguntur, ut de novo ad placitum possint aliquoties iterari.</p>
+      <p id="BURPOE0461">Fuga Imaginaria est duplex [homophonos] unisona. [pamphonos] multisona, [homophonos] Fuga Imaginaria est Melodia in omnibus Vocibus una et eadem, hoc est, Voces [husterophonoi] Melodiam per eosdem intervallorum gradus imitantur; Exempla in Libellis musicis practicis, praesertim in Christophori Praetorij Silesij libro, Vlisseae vel VVitebergae excuso, plurima sunt ad manus.</p>
+      <p id="BURPOE0462">
+      <pb n="[66]" />Fit etjam ut in integris Harmonijs, ijsdemque longis; quae Motetae, aut alio nomine nuncupantur, alicujus Vocis fiat mimesis imaginaria. Exempla ejus sunt rara. Apud Euricium tamen Dedekindum, quem honoris et debitae ipsi à me gratitudinis ac observantiae causâ nomino, in alterâ parte Periochorum ejus Dominicalium quadruplex exemplum invenitur.</p>
+      <p id="BURPOE0463">[pamphonos] Fuga Imaginaria, est Melodia, quam [husterophonos] imitatur non in ijsdem intervallorum gradibus, sed per similes in distantia certa; ut</p>
+      <p id="BURPOE0464">[Burmeister, Musica poetica, 66; text: Fuga in Epidiatessaron post] 
+      <figure>
+        <graphic url="/images/BURPOE_19GF.gif" />
+      </figure></p>
+      <p id="BURPOE0465">[pamphonos] Fuga imaginaria est tam multiplex, quam multiplices sunt distantiae intervallorum, in quibus Melodia unius vocis, ab altera voce ruminari potest. Hinc usitatiora illa Fugarum sunt nomina: Fuga Epi et Subdiatessaron. Fuga Epi et Subdiapente, quae ex pluribus, quam duabus vocibus non effinguntur: Vnisonae autem Fugae Imaginariae ex pluribus, nimirum tribus, quatuor et cetera. Praxis utriusque Fugae Imaginariae, à Reali haud diversa haec est. Fingitur enim Melodia alicujus Vocis, inque papyro vel tabula aliâve materia scribitur efficta; cum eâ tot voces harmonicè construuntur, quot cujusque Fugae constructio admiserit. Depromatur ex hac (verbi gratia) Vocum syntaxi, Vocis, cujus placet, affectio, hâc tamen conditione, ut, si Bassi in dictâ syntaxi affectio primô locô depromi nequeat, primae tamen [husterophonou] sonis fundamentum sive basis Harmoniae supponatur: Deinde reliquarum vocum reliqua loca vacua consonantijs impleantur. Haec operationis Modus est brevis, qui etsi ad Fugas [homophonous] proprijssimè spectat, [pamphonon] tamen praxin ingeniosus tyro ex isto facilè aestimabit, juxtaque eam ipsam diriget. Exemplis rem declarabimus quorum primum ad Vnisonarum Fugarum statum pertinens sit quatuor vocibus contexta haec Harmoniola in Fugae habitum convertenda:</p>
+      <p id="BURPOE0466">
+      <pb n="[67]" />[Burmeister, Musica poetica, 67,1; text: a, b, c, d, e, f, g]</p>
+      <p id="BURPOE0467">Ex hac Harmoniola depromitur Vox, Melodiave, quae constructionis inceptioni maximè arridet, qualis in ea est secunda Vox sive Melodia. Haec hôc modô depromitur et deducitur:</p>
+      <p id="BURPOE0468">[aa][aa] [aa]g fe f e.</p>
+      <p id="BURPOE0469">[husterophonoi] voces, affectionem supremae vocis jam deductam mox in Fugam arripientes et vertentes, adordinantur ei, ut hic apparet:</p>
+      <p id="BURPOE0470">[Burmeister, Musica poetica, 67,2; text: a, e, f, g]</p>
+      <p id="BURPOE0471">Deinde, Vocibus ita subordinatis, ex Harmoniola istâ depromo affectionem inferioris Vocis et super pono [husterophono] primae Voci, quó [prophoneousa] vox primô locô Fugae incrementum Melodiae suae accipit: Post Secundae [husterophono] Voci super pono, quod primae; et sic tertiae, quod secundae, in hunc modum:</p>
+      <p id="BURPOE0472">[Burmeister, Musica poetica, 67,3; text: a, c, d, e, f, g]</p>
+      <p id="BURPOE0473">
+      <pb n="[68]" />[Burmeister, Musica poetica, 68,1; text: a, c, d, e, f, g]</p>
+      <p id="BURPOE0474">Vlterius [Husterophono] Voci primae ad incrementum [prophoneousis] Harmoniolae alteram mediam Melodiam superpono, et haut aliter compositionem Fugae persequor, ut in primo Fugae incrementô est factum, idque juxta hanc delineationem.</p>
+      <p id="BURPOE0475">[Burmeister, Musica poetica, 68,2; text: a, c, d, e, f, g] 
+      <figure>
+        <graphic url="/images/BURPOE_20GF.gif" />
+      </figure></p>
+      <p id="BURPOE0476">Vltimô locô ad incrementum Fugae addo aliam Melodiam eô modô, quô primô, quo etjam secundo Fugae incremento. Et hoc facto Fugae tandem operatio est absoluta. Habuit enim Harmoniola ista, ex qua conflata est Fuga, non plures Melodias, quam Fuga voces habet. Characterismus universae illius operationis hic erit.</p>
+      <p id="BURPOE0477">
+      <pb n="[69]" />[Burmeister, Musica poetica, 69; text: a, c, d, e, f, g]</p>
+      <p id="BURPOE0478">Resolutio hujus operationis ad notarum contextum.</p>
+      <p id="BURPOE0479">Supremam Vocem solùm ad notarum contextum reduco, in quo quibusdam Notis Signum Convenientiae (quale hoc est [signum] vel hoc [signum]) infigitur, in indicium quod ubi signum ejusmodi positum fuerit, ibi [husterphonoi] voces juxta ordinem sui initium faciant, idque ductu hujus exempli.</p>
+      <p id="BURPOE0480">
+      <pb n="[70]" />Fuga in Unisono 4. vocum post quinque tactus et cetera.</p>
+      <p id="BURPOE0481">[Burmeister, Musica poetica, 70,1] 
+      <figure>
+        <graphic url="/images/BURPOE_21GF.gif" />
+      </figure></p>
+      <p id="BURPOE0482">De Fugae Imaginariae [pamphonou] praxi certa instructio dari non potest, et ob id compendij in operatione istius certa ratio nulla. Qui vero Modum eam conficiendi conjecturâ assequi non defugit, ei hanc Fugam in exemplum libentius depromimus, quam ut haud planis et exactis ipsum et fortè perplexis praeceptis diu suspensum teneamus.</p>
+      <p id="BURPOE0483">Fuga in Epidiatessaron duarum vocum post 4. tactus.</p>
+      <p id="BURPOE0484">[Burmeister, Musica poetica, 70,2]</p>
+      <p id="BURPOE0485">Observetur simul, quod ejusmodi Fugarum, quae nomen ex compositione cum Epi gerunt, Vox Prophoneusa sit inferior, quam superior, videlicet Hysterophonos, intervallô ex nomine, quod Fuga illa, vel illa habet, indicatô, elevata sequitur. Quae verò ex Sub compositum nomen gerit, contrarium cum ipsa servare solet.</p>
+      <p id="BURPOE0486">CAPVT XIII. De Generibus Carminum sive Modulaminum.</p>
+      <p id="BURPOE0487">GEnus Modulaminis est, cujus character est Thetachordum (quod 
+      <pb n="[71]" />sunt quatuor soni se proximé in ordine sequentes) certum tenens intervallorum motum in [diatessaron] minorum, quô ipsi certa et pecularis pronunciandi ratio acquiritur.</p>
+      <p id="BURPOE0488">Genera Modulaminum sunt tria: 1. Diatonicum. 2. Chromaticum. 3. Harmonicum. Diatonicum est, cujus Tetrachordum procedit per Semitonium minus (quod est minor dimidia pars toni. Tonus enim in novem commata, ut partes sui minimas, resolutus, in duo aequalia dividi nequit, sed si ejus quaedam duae partes dimidiae statui debent, ut statuuntur, altera, necesse est, sit major, altera minor, haec, quae unô commate minor sit, majore; illa, quae unô commate major sit minore) Tonum et Tonum, et modô inversô. Hujus usus est in omnibus ferè Motetis.</p>
+      <p id="BURPOE0489">Chromaticum est, cujus Tetrachordum procedit per Semitonium Minus, Semitonium Majus et Semiditonum, ac modô contrariô. Ejus usus in carmine Orlandi Concupiscendo sex vocum est manifestus.</p>
+      <p id="BURPOE0490">Harmonicum est, cujus Tetrachordum procedit per duas Dieses (Diesis est Semitonij minoris dimidium) et Ditonum. Quod in hac vitâ, hâc praesertim tempestate usum non habet, sed in futura, dubio procul, usus ejus erit frequentissimus.</p>
+      <p id="BURPOE0491">CAPVT XIIII. De Antiphonorum Generibus.</p>
+      <p id="BURPOE0492">ANtiphonum (aliàs dictum Contrapunctus) est sonorum in Harmoniam unitorum quantitas inter sonos aequalis vel non aequalis et cetera quod triplex est: Simplex, quando soni omnes cohaerent aequaliter. Fractum, quando soni omnes promiscue cohaerent, praesertim pauciores colorati, et plures colorem nigrum non habentes. Coloratum, quando plures colorati soni cohaerent cum paucis colore expertibus. Exempla omnium sunt multa obvia, quae ex cujusque Generis descriptione facilè agnosci poterunt.</p>
+      <p id="BURPOE0493">CAPVT XV. De Analysi sive dispositione carminis musici.</p>
+      <p id="BURPOE0494">ANalysis cantilenae est cantilenae ad certum Modum, certumque Antiphonorum Genus pertinentis, et in suas affectiones sive 
+      <pb n="[72]" />periodos, resolvendae, examen quô artificium, quô unaquaeque periodus scatet, considerari et ad imitandum assumi potest. Partes Analyseos constituuntur quinque 1. Modi inquisitio. 2. Generis Modulaminum: et 3. Antiphonorum indagatio. 4. Qualitatis consideratio. 5. Resolutio carminis in affectiones, sive peridos.</p>
+      <p id="BURPOE0495">Modi inquisitio est eorum, quae ad Modi, tum constituendi, tum cognoscendi notionem requiruntur in sonorum contextu sive facto, sive adhuc conficiendo, disquisitio.</p>
+      <p id="BURPOE0496">Generis Modulaminum indagatio, est intervalli Quartae examen, quô pervestigatur, quomodo ea conflata ex suis minoribus intervallis, usum in carmine habeat, quemque characterem gerat.</p>
+      <p id="BURPOE0497">Generis Antiphonorum observatio, est sonorum in quantitate et valore collatio.</p>
+      <p id="BURPOE0498">Qualitatis consideratio, est attendere an soni Melodiarum sapiunt ordinem Diezeugmenorum sonorum aut B duralis cantus; vel synezeugmenorum aut B mollaris cantus?</p>
+      <p id="BURPOE0499">Resolutio Cantilenae in affectiones, est divisio cantilenae in periodos, ad disquirendum artificium, et idipsum ad imitationem convertendum. Haec tres habet partes, 1. Exordium. 2. Ipsum corpus carminis, 3. Finis.</p>
+      <p id="BURPOE0500">Exordium, est prima carminis periodus, sive affectio, Fugâ ut plurimum exornata, quâ auditoris aures et animus ad cantum attenta redduntur, illiusque benevolentia captatur. Exordium eò usque pertingit, quê Fugae affectio prorsus desijt sub introductione Clausulae verae, vel tractuli Harmonici speciem Clausulae habentis. Hoc fieri animadvertitur ilicò, ac nova affectio à Fugae affectione prorsus aliena introducta apparet. Quod autem omnes cantilenae à Fugae ornamentô initium semper faciant hoc exemplis non comprobatur. Quô intellectô, Philomusus usum sequatur, et quid is probet. Noema locum quandoque in Exordio obtinet. Vtinam, quam saepè hoc fit, tam saepè ea textui inserviat sententioso, et quae sunt alia, quae usus monstrabit.</p>
+      <p id="BURPOE0501">Corpus Cantilenarum est intra Exordium et Finem affectionum sive periodorum comprehensa congeries, quibus textus velut varijs Confirmationis Rhetoricae argumentis. animis insinuantur, ad sententiam clarius arripiendam et considerandam.</p>
+      <p id="BURPOE0502">Hoc non excrescat nimium, ne propterea, quod sit nimis extensum in auditoris 
+      <pb n="[73]" />odium incurrat: Omne enim nimium ingratum est, et in vitium verti solet.</p>
+      <p id="BURPOE0503">Finis est Clausula Principalis, in qua aut tota subsistit modulatio, aut subsistentibus vocibus duabus, vel unâ, reliqua adhuc modicum modulaminis aspergunt, quod Supplementum vocatur, eô, ut dilucidior in animos attendentium penetret à modulando instans desinentia.</p>
+      <p id="BURPOE0504">Exemplum Analyseos Cantilenae In me Transierunt Orlandi Quinque vocum.</p>
+      <p id="BURPOE0505">Haec Harmonia In me transierunt Orlandi Dilassi elegans et aurea, determinatur Modo Authentâ Phrygiô. Ambitus namque integri omnium Vocum Systematis est, [x] B et [ee]. Singularum verò Vocum Ambitus sic se habent, quod videlicet Discantus inter e et [ee]; Tenor uterque inter E e; Bassus inter [x] B et [x] b; Altus inter [x] b et [x] [bb] terminetur. Basis etjam Temperamenti est, orthia sive authentica. Intervallum enim Diapente ab E ad [sqb] vel [x] b manifestè datur. Deinde Clausula Affinalis eò loci, ubi haec Diapente in duas partes aequales diffinditur, plenâ, ut [hexaphonos]: Clausula formari solet formatione introducitur. Vocum Alti et Bassi plagalis est Ambitus. Mediatur enim Ambitus earum eò loci, ubi inferiori parti Diatessaron, superiori Diapente attribuitur, Clausulae ijs etjam in locis, quae in hôc Modô ad plenam, praesertim [trephonon], formationem sunt jam longô usu inventa et recepta, formatae ostenduntur. Semitonia etjam compârent utraque in suis quaeque locis. Inferioris enim Semitonij locus est ab imô Ambitus authentici primum intervallum. Superioris est planè idem cum inferioris locô et cetera. Finem Harmonia obtingit in E authenticum et Principalem, qui est, et esse solet Tenoris Ambitus infimus sonus. Secundo pertinet ad Genus Modulationum Diatonicum: quia ejus intervalla ut plurimum formantur per Tonum, Tonum, et Semitonium. Tertiò pertinet ad Genus Antiphonorum Fractum. Sunt enim Soni alteri cùm alteris in non aequali valore connexi. Quartò est Qualitatis Diezeugmenorum. Nam in à et b per totum cantum fit Tetrachordorum disjunctio.</p>
+      <p id="BURPOE0506">Porro haec Harmonia in novem periodos commodissimè distribui potest, quarum prima, continet Exordium, quod est exornatum duplici Ornamento, alterô Fuga Reali; alterô Hypallage. Septem intermediae sunt ipsum Harmoniae Corpus, velut (si ita cum altera aliquâ cognatâ arte comparare liceat) 
+      <pb n="[74]" />Confirmatio in Oratione. Ex quibus prima Hypotyposi, Climace, et Anadiplosi est exornata; Secunda similiter, cui superaddi potest Anaphora; Tertia Hypotyposi et Mimesi; Quarta modô pari, et insuper Pathopoëiâ; Quinta Fugâ reali; Sexta Anadyplosi et Noëmate; Septima Noëmate et Mimesi; Vltima, scilicet nona periodus, est velut Epilogus in Oratione. Finem haec Harmonia Principalem exhibet, ductum per illa concentuum loca, in quibus Modi, ad quem Harmonia refertur, natura consistit, et quae tota Harmonia solet saepius reliquis sonorum locis attingere, alias vocatum Finalis Clausulae Supplementum, quod usitatissimè ornamenti Auxeseos cultum secum ferre solet.</p>
+      <p id="BURPOE0507">CAPVT XVI. De Imitatione.</p>
+      <p id="BURPOE0508">IMitatio est studium et conamen nostra carmina musica ad Artificum exempla, per analysin dextre considerata, effingendi et formandi.</p>
+      <p id="BURPOE0509">Imitatio fit duplici modô: primum in genere; deinde in specie.</p>
+      <p id="BURPOE0510">Quae in genere fit [genike] dicitur, et est, quando omnes praestantissimos Artifices et eorum carmina nobis ad imitandum proponimus, consistens tam in inventione et dispositione rerum, quales sunt, quae Ornamenta musica suggerunt; quam in connexione et pronunciatione Concentuum. Res ab authoribus tutò peti possunt, ad quorum exempla simile quippiam conficere est enitendum. Connexio haut dissimiliter, praesertim ab ijs, qui usi sunt intervallis compositis, et non abstrusis; Pronuntiatio à quodam, qui voce eleganti à natura est donatus, eandemque moderari novit, est discenda. Quae in specie fit [eidike] dicitur, et est, quando ex multis certum quendam Artificem, ejusdemque exemplum ad imitandum nobis eligimus. Consistit autem ea in simili sententiarum periodorumque inventione et connexione. Artifices autem praecipui illustres et authentici, quorum exempla imitari quispiam potest, sunt:</p>
+      <p id="BURPOE0511">1. Clemens non Papa.
+      <br />2. Orlandus Dilassus.
+      <lb />
+      <pb n="[75]" />3. Ivo de Vento.
+      <br />4. Alexander Utendal.
+      <lb />5. Jacobus Regnart.
+      <br />6. Johannes Knoefelius.
+      <lb />7. Jacobus Meilandus.
+      <br />8. Antonius Scandellus.
+      <lb />9. Andreas Pevernage.
+      <br />10. Leonhardus Lechnerus.
+      <lb />11. Lucas Marentio.
+      <br />12. Johannes Dresserus.</p>
+      <p id="BURPOE0512">Styli genera sunt quatuor 1. Humile. 2. Grande. 3. Mediocre. 4. Mixtum. 5. Humile, quando intervalla se proximis in gradibus sequuntur et compositio ex mero nudarum consonantiarum contextu constat. Grande, quando intervalla remotiora introducta sunt, et multum discordiae tectae Consonantijs est admixtum. Mediocre, quando medium inter Humile et Grande servatum esse deprehenditur. Mixtum, quod reliqua tria in se habet promiscue, non quidem simul et semel, sed diversô modô, pro ut est textus, quem harmonice exornant Artifices.</p>
+      <p id="BURPOE0513">Quandoquidem autem unicuique horum propria est vena et stylus huic in humili Genere, ut Meilando, Dressero; Scandello: alteri in Mediocri, ut Clementi non Papae; Ivoni de Vent; Regnart; Pevernage; Marentio: alij in Sublimi, ut Vtendali; Knoefelio; Lechnero: insuper alij, in Mixto ex Mediocri et Grandi, ut Orlando et cetera discrimen futuro Componistae habendum est, ne, cum primum imitari coeperit, confusione commissâ sacram anchoram adversô bubone quasi solvat, ventisque vela, certô navis gubernatore non selectô, committat: sed ab eo, qui Humili stylo exaravit omne quod in lucem emisit, imitationem exordiatur, atque ita per gradus ad altiora pergat. A Meilando vel Dressero alterôvè itineris initium fiat, sed gradus moveatur ad Ivonem eivè consimiles, et apud hos aliquantisper Componista tyro commoretur. Dehinc ad Orlandum reliquosque iter absolvat. In quô horum oportebit recordari.</p>
+      <p id="BURPOE0514">1. Certus modus certò textui eligatur.
+      <lb />2. Harmonia alterius sit qualitatis.
+      <br />
+      <pb n="[76]" />3. Quantitas ex signis dependens non praetereatur.
+      <lb />4. Clausularum usus rectè, et cum modo adhibeatur.
+      <br />5. Exordium, pro ut textus exiget, ab elaborata Fuga vel vicinô aliquô ornamentô fiat.
+      <lb />6. Motus intervallorum non sit abstrusus.
+      <br />7. Connexio Concordantiarum non sit remotior.
+      <lb />8. Verborum et sententiarum significata Ornamentis sint exculta.
+      <br />9. Applicatio textus ad notas sit exquisita, non tumultuaria.
+      <lb />10. Textura operis non Laconismum sapiat, nec nimiâ prolixitate donetur.</p>
+      <p id="BURPOE0515">Soli Deo Gloria</p>
+      <p id="BURPOE0516">
+      <pb n="[77]" />INDEX EORUM, QUAE IN hac Poëtica Musica notatu digna visa sunt.</p>
+      <p id="BURPOE0517">A.
+      <br />Altus 11
+      <lb />Ambitus 41
+      <br />Anadiplosis 60
+      <lb />Analepsis 59
+      <br />Analysis 71
+      <lb />Analyseos exemplum 73
+      <br />Anaphora 65
+      <lb />Anaploce 62
+      <br />Apocope 59
+      <lb />Aposiopesis 62
+      <br />Applicatio textus 54
+      <lb />[Aspeton] intervallum 30
+      <br />Auxesis 61</p>
+      <p id="BURPOE0518">B.
+      <lb />Basis Temperamenti Orthia 41
+      <br />Basis Temperamenti Plagia, ibidem
+      <lb />Bassus 11</p>
+      <p id="BURPOE0519">C.
+      <br />Catachresis Quartae 29
+      <lb />Characterismus 2
+      <br />Circumflexus 7
+      <lb />Clausula 35
+      <br />Clausula Melodiae ibidem
+      <lb />Clausula Discantalis 36
+      <br />Clausula Altualis ibidem
+      <lb />Clausula Tenoris ibidem
+      <br />Clausula Bassi ibidem
+      <lb />Clauula Harmoniae 37
+      <br />Clausula Triphona ibidem
+      <lb />Clausula Hexaphona ibidem
+      <br />Clausula Octophona ibidem
+      <lb />Clausularum praxis ibidem
+      <br />Clavis 3
+      <lb />Climax 63
+      <br />Columna 5
+      <lb />Congeries 65
+      <br />Conjugata Characteristica 22
+      <lb />Conjugata Basis ibidem
+      <br />Conjugata Media ibidem
+      <lb />Conjugata Suprema ibidem 
+      <br />Consonantia 15
+      <lb />Consonantia Perfecta ibidem
+      <br />Consonantia Imperfecta ibidem
+      <lb />Consonantia Perfecta et Imperfecta Simplex, Composita et Decomposita ibidem
+      <br />
+      <pb n="[78]" />Consonantiarum theorema, 16. 19. 20. 21
+      <lb />Corpus Harmoniae 72</p>
+      <p id="BURPOE0520">D.
+      <br />Diplasis Cons. 31
+      <lb />Discantus 11
+      <br />Disparata 4
+      <lb />Dissonantia Simplex, Composita et Decomposita 16</p>
+      <p id="BURPOE0521">E.
+      <br />[Elleimma] Conjugati 32
+      <lb />Emmeles sonus 43
+      <br />Emmesepistropbus sonus 41
+      <lb />Exordium Harmoniae 72</p>
+      <p id="BURPOE0522">F.
+      <br />Finis Melodiarum et Harmoniarum, idemque quadruplex 51. 52.</p>
+      <p id="BURPOE0523">G.
+      <lb />Genera Modulaminum 70
+      <br />Genera Antiphonorum 71</p>
+      <p id="BURPOE0524">H.
+      <lb />Harmonia 17
+      <br />Hypallage 58
+      <lb />Hyperbole 64
+      <br />Hypobole ibidem
+      <lb />Hypotyposis 62</p>
+      <p id="BURPOE0525">I.
+      <br />Imitatio 74.
+      <lb />Intonatio vel ratio Modulaminum inchoandorum 50</p>
+      <p id="BURPOE0526">K.
+      <br />[Kakochrupsis] Dissonantiarum 31
+      <lb />[Kakosunthesia] Disparatorum 32</p>
+      <p id="BURPOE0527">L.
+      <br />Linea intercalaris 6
+      <lb />Linea capitalis 8
+      <br />Litera musicalis 3</p>
+      <p id="BURPOE0528">M.
+      <lb />Melodia 17
+      <br />Metalepsis 58
+      <lb />Mimesis ibidem
+      <br />Modi Constitutio et Cognitio 40
+      <lb />Modi Principium ibidem
+      <br />Modi constituendi typus 44
+      <lb />Modi Differentia ibidem
+      <br />Modorum usus 45
+      <lb />Modi Nothi 43
+      <br />Modus musicus 40
+      <lb />Modus Melodimeter ibidem
+      <br />Modus Harmonimeter ibidem
+      <lb />Modus Authenta quotuplex, et nomina 42
+      <br />Modus Plagius quotuplex, et nomina ibidem
+      <lb />Motus musicus 26
+      <br />Musica Poëtica 1</p>
+      <p id="BURPOE0529">N.
+      <lb />Noëma 59
+      <br />Notae Mensurae [homoiomereos] 5
+      <lb />Notae Ligatae 7
+      <br />Notae Mensurae [anomoiomereos] et earum reductio. 9</p>
+      <p id="BURPOE0530">
+      <pb n="[79]" />O.
+      <lb />Ornamentum Musicum 56
+      <br />Orthographia ibidem</p>
+      <p id="BURPOE0531">P.
+      <lb />Pallilogia 63.
+      <br />Parembole 62.
+      <lb />Parrhesia 64.
+      <br />Pathopoeïa 62.
+      <lb />Pausa 10.
+      <br />Pleonasmus 61.
+      <lb />Punctus 9.</p>
+      <p id="BURPOE0532">Q.
+      <br />Qualitas 46,
+      <lb />Qualitas Diezeugmenorum et Synnemenorum ibidem</p>
+      <p id="BURPOE0533">R.
+      <br />Ratio Harmoniam ex Characterismo describendi 34
+      <lb />Reductio Harmoniae 5.
+      <br />Reductionis praxis 13.</p>
+      <p id="BURPOE0534">S.
+      <lb />Scala 2.
+      <br />Sonorum ordines 4.
+      <lb />Sonus 14.
+      <br />Sonus Primitivus et Derivatus ibidem
+      <lb />Sonus Derivatus simplex 15.
+      <br />Sonus Consonans et Dissonans ibidem
+      <lb />Soloecismus 26.
+      <br />Strophe 27.
+      <lb />Styli Genera 75.
+      <br />Supplementum 53.
+      <lb />Symblema 60.
+      <br />Symploce 30.
+      <lb />Syncopa 60.
+      <br />Syntaxis Musica 17.
+      <lb />Syntactica operatio 23.
+      <br />Syntaxeos leges ibidem 
+      <lb />Syntactici Compendij theorema 24.
+      <br />Systema 41.
+      <lb />Systema Melodiorizomenum ibidem 
+      <br />Systema Harmoniorizomenum 42.
+      <lb />Systema Majus 41.
+      <br />Systema Minus ibidem
+      <lb />Systema Totale 42.
+      <br />Systema Particulare ibidem
+      <lb />Systema Superparticulare ibidem
+      <br />Systema Acmeum ibidem
+      <lb />Systematum typi 48. 49.
+      <br />Syzygia Praeceps 29.</p>
+      <p id="BURPOE0535">T.
+      <lb />Temperamentum 41.
+      <br />Temperamenti basis ibidem
+      <lb />Tonoparatasis 33.
+      <br />Transpositio 45.
+      <lb />Tautoaepia 27.</p>
+      <p id="BURPOE0536">V.
+      <br />Voces Conterminae 11.
+      <lb />Voces Disterminae 12.
+      <br />Vox 10.
+      <lb />Vox Primaria 11.
+      <br />Vox Secundaria 12.</p>
+      <p id="BURPOE0537">
+      <pb n="[80]" />CORRIGENDA.</p>
+      <p id="BURPOE0538">LAtere 5. lineâ 16. pro, Sub signo Imperfecto, legatur, Sub signo Perfecto. Latere 18 lineâ 7 legatur In voce enim Basso, verbi gratia Melod. latere 27. lineâ 4. figurarum [x] et [+]. et cetera. Latere 24. in Theorematis prima connexionum parte ejusdemque quinta variatione pro numero 12. ponatur 13. in secunda partis tertia variatione pro 12. ponatur numerus 11. Latere 25. lineâ 34. pro dimium, legatur dimidium. Latere 26. lineâ 6. obscuritate. Ibidem lineâ ultimâ [kakosunthesia] Latere 31. lineâ 18. ad haec tria. Latere 33. lineâ 22. aestimatum ira. Latere 35. lineâ 1. hic et alter illorum a se et cetera. Latere 38. lineâ 13. 3. 8. 1. Latere 53. lineâ 16. dividerent. lineâ 21. deleatur, quae. lineâ 34. infimo vel Emmesepistropbo consistenti. Latere 54. lineâ 21. Notae brevi. lineâ 23. respondeat {Longa/Brevis} Syllaba. Latere 56. lineâ 15. indueret.</p>
+      <p id="BURPOE0539">ROSTOCHII
+      <lb />Typis Myliandrinis, Anno
+      <br />M. DC. VI.</p>
+      <p id="BURPOE0540">
+      <pb n="[81]" />In Maximè concinnam et ingeniosissimam Nobilissimi juxtim ac Per-Eximij</p>
+      <p id="BURPOE0541">DOMINI AUTORIS Methodum</p>
+      <p id="BURPOE0542">CLara Poëtarum Symphoniacûmque jubebant
+      <lb />Lumina Legatum montis adire juga;
+      <br />Auricomo florent sacra qvae Parnassia Phoebo,
+      <lb />Talibus ut verbis conqvereretur ibi:
+      <br />Phoebe, decus nostrum, Musarum, Phoebe, Patrone,
+      <lb />A te consilium ferre salubre juvat.
+      <br />In te nunc qvoniam Spes una reposta qviescit,
+      <lb />Te coram liceat jussa referre mihi:
+      <br />Jam multis nimiùm svevit sordere Poësis,
+      <lb />Taedia jam multis Musica plectra creant;
+      <br />Qvi tamen inflati Musarum castra seqventes,
+      <lb />Addictosque ipsis se vocitare student:
+      <br />Musarumque gerunt ignavi nomen [amousoi]
+      <lb />Et certè melicà nil minûs arte sciunt,
+      <br />Sive qvod ista fiet minùs his de pane luerando,
+      <lb />Seu qvod honoribus haec sit minùs apta suis.
+      <br />Sive qvod ista fiet stultorum Dux et amussis,
+      <lb />Sive qvod haut facilis monstret utramque via.
+      <br />Et qvae plura crepant, qvibus haec inscitia turpis
+      <lb />Abdictur, acaudent se reputare [Sophous]
+      <br />Sic est ludibrium stultorum Musica nostra,
+      <lb />Sic in contemptum Carmen et Autor abit.
+      <br />Haec memorata dabat pergens: Pater optime, Phoebe,
+      <lb />Pronior haec animô volve, revolve tuô:
+      <br />Atque prout rogitat per me tua docta Caterva,
+      <lb />Des bona Consilij, qvae referenda velis:
+      <br />
+      <pb n="[82]" />Qvae facienda probes Sycophantis his et [amousois]
+      <lb />Te Rege concilium numque vocare probes?
+      <br />Accipit hunc placidô primùm Dux Delius ore.
+      <lb />Et re perpensa mox stomachatus ait:
+      <br />Qvos ego! qvi addictos nostris haut usque verentur
+      <lb />Nomine se Musis, re tamen esse nolunt.
+      <br />Indignum facinus! mandatque repentè Camoenas
+      <lb />Mercurius vocitet, Pieriosque Viros.
+      <br />Tollere se statim liqvidasque meare per auras
+      <lb />Penniger, Aònidum consociare Choros:
+      <br />Cernere erat Musas concurrere et undique Vates
+      <lb />Qvemque sibi in proprium tùm penetrate locum
+      <br />Oceanus Vatum qvos inter primus Homerus,
+      <lb />Ad latus altiloqvens huic Maro junctus erat.
+      <br />Videbam Dousas, et Erasmos, atque Philippos,
+      <lb />Calvisiosque viros, Scaligerosque viros.
+      <br />Ad cunctos tandem convertere lumina Praeses
+      <lb />Oraque Gens nimiùm chara novena mihi.
+      <br />At dilectorum sapientia corcula Vatum,
+      <lb />Est aeqvum vos hûc qvod mea jussa trahant:
+      <br />Ordinis est aeqvum fastidia tangere vosmet
+      <lb />Nostri, Legatum ceu retulisse patet.
+      <br />Interibi veniunt tremebundi corpore totô,
+      <lb />Qvi cupiunt timidi post latitare fores.
+      <br />Haec qvibus adspectis mox talia fatur Apollo:
+      <lb />Ecqvidnam video vos trepidare procul?
+      <br />Qvos Ego Castalidum placidos haurire liqvores
+      <lb />Conspexi nunqvam, nec meminisse qveo;
+      <br />Indigetat tremor hic, qvod mens haut conscia recti
+      <lb />Vos agitet; constat criminis esse reos.
+      <br />Ferte pedem propiùs, fas occultarier haut est!
+      <lb />In medium, causa si qvid habetis, eat!
+      <br />
+      <pb n="[83]" />Insontes Musas qvid roditis usque Canini?
+      <lb />Qvô usque melos nostrum vilius esse debet?
+      <br />Dicite, Vulturij! num-nostra qvid ungvina sordent
+      <lb />Aöniaeque rosae, dic, scarabaea cohors!
+      <br />Ossa tremunt, vah! stantque comae, vox faucibus haeret,
+      <lb />Nec qvid responsi, [kopha prosopa], datis.
+      <br />Vos licet indignum tantae sit in esse Coronae
+      <lb />Doctorum, tamen hîc, ecce! manere volo:
+      <br />Scita qvoad Clarij detur exaudisse Senatus,
+      <lb />Ad qvem conversus pòst sua verba dabat:
+      <br />Hûc age, de sciolis istis Grex docta Sororum,
+      <lb />Qvae tua mens animi sit, fateare palam.
+      <br />Surgere Calliope actutum veniamque precari,
+      <lb />Pronior et gestu sic reverente loqvi:
+      <br />Carmina nunc qvoniam fiunt Heroica parvi,
+      <lb />Et mea contemnit plebs odiosa nimis;
+      <br />O Generose Pater, Tu concio clâra Senatûs,
+      <lb />Pace loqvar vestrâ, qvae proba, justa reor:
+      <br />Hesce relegari terrarum ad ultima fas est,
+      <lb />Qvas ignorantum plebs furibunda colet.
+      <br />Terpsichore Cytharisque movens; soccoque Thalia,
+      <lb />Syrmate Melpomene, stent rata dicta, ferunt.
+      <br />Dulcisoni pariter despectum ulciscier urget
+      <lb />Euterpe calami, Pieriaeque tubae:
+      <br />Est operae precium nigrum praefigere theta
+      <lb />Istorum laudi, qvò moriatur ea;
+      <br />* [*Consule Josephi Scaligeri lectiones in Ausonium, liber 2, caput 20 pagina m. 44.] Vel qvia laedendo nobi furantur honorem,
+      <lb />Nectilis [signum] signum his contribuisse par est.
+      <br />Adnuit et Phoebus Phoebique Novensilis ordo,
+      <lb />Et qvod sunt ficti de meliore luto:
+      <br />Calculus infaussam dum mittitur ater in urnam,
+      <lb />Tandem damnatos hos pepulisse placet;
+      <br />
+      <pb n="[84]" />Addicta sed priùs est mitissima clausula Phoebi,
+      <lb />His fore pandendum rursum Heliconis iter:
+      <br />Studia si Musis posthac meliora litabunt,
+      <lb />Debitus et melico contribuetur honos.
+      <br />Atque novâ qvia jam methodô oblectatus Apollo est,
+      <lb />En! Bontempe, Tua, consuluisse parat:
+      <br />Comparet ut qvivis sibî gemmea lemmata opuscli,
+      <lb />Carminis et Cultor fidus et Auctor eat.
+      <br />His ut inurbanos discat compescere mores,
+      <lb />Affectusque animi rectificare malos:
+      <br />Atque qvoad solum dici non ampliùs ipse
+      <lb />Doctus, sed potius qvà esse reapse siet.
+      <br />Collibus haec Parnassiacis tractata fuere,
+      <lb />Grata haec de methodô mentio facta novâ.
+      <br />Macte animo! Pergas dium, Bontempe, talentum
+      <lb />Ritè dicare solo, ritè dicare polo.
+      <br />Utilis haec methodus poterit dubio procul esse,
+      <lb />Qvò Jovae in laudes carmen et hymnus eat:
+      <br />Hinc mundo rutilat rutilô preciosior aurô,
+      <lb />Et Tu Saxonici Musica stella Chori.</p>
+      <p id="BURPOE0543">M. SEBASTIANUS ANGERUS.</p>
+    </body>
+  </text>
+</TEI>

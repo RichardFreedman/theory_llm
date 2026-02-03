@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Est tonus sic</title>
+        <title type="abbrev">ANOEST_MLBLL763</title>
+        <author>Anonymous</author>
+        <date notBefore="1300" notAfter="1399">14th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>T</resp>
+        <persName>Peter M. Lefferts</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Michael W. Lundell</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1996</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+London, British Library, MS Lansdowne 763, ff. 54r–55r.
+</bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANOEST_MLBLL7630001">
+      <pb n="[f.[[53]]54r]" />[London, British Library, Lansdowne 763, f.54r; text: Est Tonus sic Vt Re Vt. vel Re My Re. vel Fa Sol Fa. vel Sol. La Sol. solet hic sonare Personat semitonum vsquequaque sic Mi. Fa. Mi. Ditonum semper canit Vt. Mi. vel Fa. La. resonare cernis Atque semiditonus voces Re. Fa. siue Mi. Sol dulciter istas voce concordi Diatessaron que. intonat voces cithara sacratas Vt Fa vel Re. Sol. pariterque Mi. La. personat iste. Quinque] 
+      <figure>
+        <graphic url="/images/ANOEST_01GF.gif" />
+      </figure></p>
+      <p id="ANOEST_MLBLL7630002">[f.[[53]]54v-] [London, British Library, Lansdowne 763, f.54v; text: per cordas Dyapente currens Vt. Sol. vel Re La. sonat. atque transit in Mi. de Mi. vel saltit in Fa. de Fa. sepe cadendo. Tonus cum Dyapente ascendit sic. Vt La. vbicumque canat. Semitonus cum Dyapente sepe scandit. ita Mi. Fa. et sic descendit. Semiditonus cum Dyapente sonat voces sic. Re Fa. et de Fa. Mi. Re sepe cadendo. Possidet voces Dyapason occoto in .C. de .C. vel in .D. de D.D. Sicque decantans elementa cuncta] 
+      <figure>
+        <graphic url="/images/ANOEST_02GF.gif" />
+      </figure></p>
+      <p id="ANOEST_MLBLL7630003">
+      <pb n="[f.[[54]]55r]" />[London, British Library, Lansdowne 763, f.55r,1; text: scandit ad ip] 
+      <figure>
+        <graphic url="/images/ANOEST_03GF.gif" />
+      </figure></p>
+      <p id="ANOEST_MLBLL7630004">Antiphona per quam ascendit [.a. supra lin.] Gamma vsque ad Delasol.</p>
+      <p id="ANOEST_MLBLL7630005">[London, British Library, Lansdowne 763, f.55r,2; text: Aurea. personat lyra voce modulamina simplex corda sit extenta voce cuncta consonancia quindenaria constat Musica.]</p>
+    </body>
+  </text>
+</TEI>

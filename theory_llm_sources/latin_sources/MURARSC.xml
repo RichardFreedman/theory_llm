@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Ars contrapuncti</title>
+        <title type="abbrev">MURARSC</title>
+        <author>Johannes de Muris</author>
+        <date notBefore="1300" notAfter="1399">14th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>C. Matthew Balensuela</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Jan Herlinger</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1990</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>Scriptorum de musica medii aevi nova series a Gerbertina altera</emph>, 4 vols., ed. Edmond de Coussemaker (Paris: Durand, 1864-76; reprint ed., Hildesheim: Olms, 1963), 3:59–68.
+</bibl>
+        <bibl type="work">
+          
+<title>Iohannes de Muris: Ars contrapuncti</title>
+          
+<idno type="LML">IOH. MUR. contr.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">B-Br II 4144, 95</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Br II 4149, 46</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fl Ashburnham 1119, 52v-53</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fl Plut. XXIX. 48, 83-86</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-FZc 117, 16-17</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Nn VIII.D.12, 48-51v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-PIu 606 (IV.9), II/33-42</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rli 2067, 7r-v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rv B 83, 12 (Fragment)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat lat. 5321, 25vb</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat Pal. lat. 1377, 93v-94v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">US-Wc ML 171 J 6 Case, 112r-v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Br II 785, 39-41</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Br II 4149, 46-48</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-BGc MAB 21, 31-32</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fl Plut. XXIX. 48, 83-86</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-FZc 117, 16</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Nn VIII.D.12, 49</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rli 2067, 7v-10</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rv B 83, 12-15v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">US-Wc ML 171 J 6 Case, 112v-117</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="MURARSC0001">
+      <pb n="[59]" />Ars contrapuncti secundum Johannem de Muris.</p>
+      <p id="MURARSC0002">Quilibet affectans scire contrapunctum ea scribat diligenter que sequuntur per magistrum Johannem de Muris summarie compilata.</p>
+      <p id="MURARSC0003">Primo enim sciendum est quod supra octavam non est species; sed quidquid fit supra octavam, potest dici reiteratio vel reduplicatio infra quam octavam inclusive sunt sex species: tres perfecte et tres imperfecte. Prima species perfecta: scilicet unisonus, quamvis, secundum quosdam, non sit consonantia, est tamen, secundum Boetium, fons et origo omnium aliarum consonantiarum, et requirit post se naturaliter semiditonum, id est tertiam minorem. Est autem semiditonus: re fa et mi sol, et e converso; potest etiam habere post se aliam speciem perfectam et imperfectam, et hoc secundum variationem cantus.</p>
+      <p id="MURARSC0004">Dyapente est species perfecta, et vocatur quinta; requirit naturaliter post se ditonum id est tertiam majorem. Est enim ditonus: ut mi, fa la, et e converso. Potest etiam habere aliam speciem perfectam vel imperfectam, et hoc causa predicta.</p>
+      <p id="MURARSC0005">Dyapason, id est octava, species perfecta, requirit naturaliter post se dyapente cum tono, scilicet sextam perfectam; potest etiam habere aliam speciem perfectam vel imperfectam causa predicta.</p>
+      <p id="MURARSC0006">Semiditonus, id est tertia minor, species imperfecta, requirit naturaliter post se unisonum potest etiam habere aliam speciem perfectam vel imperfectam, sed oportet tunc tantum sustinere quod fiat dytonus.</p>
+      <p id="MURARSC0007">Dytonus, id est tertia major, species imperfecta, naturaliter requirit post se dyapente, id est quintam; potest etiam habere aliam speciem perfectam vel imperfectam, et hoc secundum variationem cantus.</p>
+      <p id="MURARSC0008">Dyapente cum tono, species imperfecta, requirit naturaliter post se dyapason, id est octavam; 
+      <pb n="[60]" />potest etiam habere aliam speciem perfectam seu imperfectam, et hoc causa predicta.</p>
+      <p id="MURARSC0009">Et est sciendum quod quilibet cantus debet incipi et finiri in consonantia perfecta. Item quod cantus nunquam debet ascendere neque descendere cum tenore in consonantia perfecta. Sciendum est quod nunquam debent fieri simul due consonantie similes perfecte, sed bene possunt fieri due, tres vel quatuor imperfecte similes.</p>
+      <p id="MURARSC0010">Item sciendum est quod quando cantus ascendit, discantus debet descendere, et e converso. Et hoc ad presens de contrapuncto in generali dicta sufficiant.</p>
+      <p id="MURARSC0011">Cum notum sit omnibus cantoribus mensurabilem artem musice a plana originem sumere, ideo de ipsa tamquam de fundamento esse ejus est notandum. Cum autem musice mensurabilis ars sit levior, et a levioribus semper doctrina incipiat, non sit alicui dubium quod qui supra planam musicam voluerit discantare, eum oportet multa pre manibus habere ad hoc ut suum cantum possit placibiliter proferre. Attendat ergo volens hanc artem in practicam ponere ne multum se in sua voce extollat; quia non in clamore neque in tono multo cantus fit placibilis, sed in suavi et dulci melodia. Motus ergo caritativo intuitu, aliqua, stilo jam incepto, quaiter discantus debet in suo cantu regere, ut minus male scivero, competenter tractabo.</p>
+      <p id="MURARSC0012">Et prius de contrapuncto sit hec prima conclusio: Contrapunctus non est nisi punctum contra punctum ponere vel notam contra notam ponere vel facere, et est fundamentum discantus. Et quia sicut quis non potest edificare, nisi prius faciat fundamentum, sic aliquis non potest discantare, nisi prius faciat contrapunctum.</p>
+      <p id="MURARSC0013">Unde ad exemplum descendendo, dico pro secunda conclusione: Septem sunt consonantie videlicet unisonus, tertia, quinta, sexta, octava, decima et duodecima, ut hic exemplum:</p>
+      <p id="MURARSC0014">[CSIII:60; text: Unisonus. Tertia. Quinta. Sexta. Octava. Decima. Duodecima.] 
+      <figure>
+        <graphic url="/images/MURARSC_01GF.gif" />
+      </figure></p>
+      <p id="MURARSC0015">Tertia conclusio est: quatuor istarum sunt perfecte et tres imperfecte; perfecte sunt unisonus, quinta, octava, et duodecima; imperfecte sunt tertia, sexta et decima, sicut apparet in figuris supra notatis.</p>
+      <p id="MURARSC0016">Quarta conclusio est quod contrapunctus debet suum punctum incipere a perfecta. Ratio est quia, ut inquit Boetius, non a diminutis et consumatis incipit rerum exordium, sed ab integris et absolutis. Sed post perfectam debet sequi 
+      <pb n="[61]" />imperfecta; ratio est, ut idem Boetius dicit, omnia namque perfecta minus integris priora esse claruerunt. Exemplum, ut hic:</p>
+      <p id="MURARSC0017">[CSIII:61,1; text: Tenor. Discantus.]</p>
+      <p id="MURARSC0018">Et sicut ista patet figura exempli cantum suum prosequi poterit, et tunc bene et optime cantabit, quando uni perfecte unam imperfectam dabit.</p>
+      <p id="MURARSC0019">Quinta conclusio est quod in suo contrapuncto non debet dare duas duodecimas, nec duas octavas, nec duas quintas, nec duos unisonos, simul et semel, sed bene potest descendere de duodecima in octavam, et de octava in quintam, et de quinta in unisonum, et sic etiam per ascensum; sed melius dicitur quando una perfecta et alia imperfecta cantatur, ut hic patet exemplum:</p>
+      <p id="MURARSC0020">[CSIII:61,2; text: Tenor. Discantus.]</p>
+      <p id="MURARSC0021">Sexta conclusio est quod talis potest in suo contrapuncto dare duas vel tres imperfectas ad plus; postea debet sequi perfecta, ut hic:</p>
+      <p id="MURARSC0022">[CSIII:61,3; text: Tenor. Discantus.]</p>
+      <p id="MURARSC0023">Septima conclusio est quod talis non debet dare in suo contrapuncto duas equales notas que sunt duorum temporum, etiam si in prima sonaret quinta et in alia sexta, ut inferius. Ratio hujus potest esse, quia tenor discantaret, et hoc prohibitur expresse, ut hic:</p>
+      <p id="MURARSC0024">
+      <pb n="[62]" />[CSIII:62,1; text: Tenor. Discantus.]</p>
+      <p id="MURARSC0025">Octava conclusio est quod in suo contrapuncto penultima semper debet esse imperfecta et hoc ratione euphonie, ut hic:</p>
+      <p id="MURARSC0026">[CSIII:62,2; text: Tenor. Discantus.]</p>
+      <p id="MURARSC0027">Nona conclusio est quod sicut contrapunctus incipit per perfectam, sic etiam debet finire. Ratio potest esse, quia, si fineretur cantus per imperfectam, tunc remaneret animus suspensus, nec adhuc quiesceret cum non audiret perfectum sonum, nec per consequens indicatur ibi finem esse cantus. Sed ab hoc evitandum, dicitur ultima perfecta, ut apparet in omnibus exemplis; et hec de contrapuncto dicta sufficiant.</p>
+      <p id="MURARSC0028">De diminutione contrapuncti.</p>
+      <p id="MURARSC0029">Primo sciendum est quod contrapunctus aut fit in tempore majori aut minori. Si contrapunctus fit in tempore perfecto majori, potest dividi ab una brevi. Ratio est, quia brevis perfecta majoris valet tres semibreves. Ideo potest dividi in tribus partibus, ut hic:</p>
+      <p id="MURARSC0030">[CSIII:62,3; text: Tenor. Discantus.]</p>
+      <p id="MURARSC0031">Et sic notandum est quod aliud est dividere et aliud est imperficere, quia quelibet nota potest 
+      <pb n="[63]" />dividi, tam perfecta quam imperfecta, sed non potest imperfici, nisi solum perfecta et sic in plus se habet dividere quam imperficere.</p>
+      <p id="MURARSC0032">Secunda conclusio est quod contrapunctus adhuc in tempore perfecto majoris potest dividi in tribus semibrevibus perfectis equaliter per predictam rationem, ut hic:</p>
+      <p id="MURARSC0033">[CSIII:63,1; text: Tenor. Discantus.] 
+      <figure>
+        <graphic url="/images/MURARSC_02GF.gif" />
+      </figure></p>
+      <p id="MURARSC0034">Tertia conclusio est quod contrapunctus in tali tempore potest dividi in tribus semibrevibus et una minima, et hoc quoad unam ejus partem. Ratio est quod quelibet pars est perfecta, quia quelibet valet tres minimas; ergo quelibet est divisibilis in tres partes equales, ut hic patet:</p>
+      <p id="MURARSC0035">[CSIII:63,2; text: Tenor. Discantus.]</p>
+      <p id="MURARSC0036">Quarta conclusio est quod in predicto tempore potest dividi in tribus semibrevibus et duabus minimis, et hoc quoad ejus duas partes, ut in hoc exemplo:</p>
+      <p id="MURARSC0037">[CSIII:63,3; text: Tenor. Discantus.]</p>
+      <p id="MURARSC0038">
+      <pb n="[64]" />Quinta conclusio est quod contrapunctus potest dividi adhuc in tribus semibrevibus et tribus minimis et hoc quoad tres partes in dicto tempore, ut hic:</p>
+      <p id="MURARSC0039">[CSIII:64,1; text: Tenor. Discantus.]</p>
+      <p id="MURARSC0040">Sexta conclusio est quod in tali tempore contrapunctus potest dividi a duabus semibrevibus et quinque minimis et hoc quoad unam ipsius partem, ut hic sequitur:</p>
+      <p id="MURARSC0041">[CSIII:64,2]</p>
+      <p id="MURARSC0042">Septima conclusio est quod contrapunctus in tali tempore potest dividi ab una semibreve et septem minimis, et hoc quoad ejus duas partes, ut hic sequitur exemplum:</p>
+      <p id="MURARSC0043">[CSIII:64,3]</p>
+      <p id="MURARSC0044">Octava conclusio est quod contrapunctus in tali tempore potest dividi in novem minimis et 
+      <pb n="[65]" />hoc quoad ejus omnes partes, ut hic sequitur:</p>
+      <p id="MURARSC0045">[CSIII:65,1; text: Tenor. Discantus.] 
+      <figure>
+        <graphic url="/images/MURARSC_03GF.gif" />
+      </figure></p>
+      <p id="MURARSC0046">Nota quod talis contrapunctus in tempore perfecto majoris non potest plus dividi.</p>
+      <p id="MURARSC0047">De contrapuncto facto in tempore minori.</p>
+      <p id="MURARSC0048">Prima conclusio est ista quod contrapunctus in tempore perfecto minoris potest dividi ab una brevi et una semibrevi imperfecta per rationem superius assignatam, ut consequenter patet exemplum:</p>
+      <p id="MURARSC0049">[CSIII:65,2; text: Tenor. Discantus.]</p>
+      <p id="MURARSC0050">Secunda conclusio est quod contrapunctus in dicto tempore potest dividi a tribus semibrevibus, ut hic sequitur exemplum:</p>
+      <p id="MURARSC0051">[CSIII:65,3; text: Tenor. Discantus.]</p>
+      <p id="MURARSC0052">Tertia conclusio est quod contrapunctus in dicto tempore potest dividi a duabus semibrevibus et duabus minimis, ut hic patet exemplum:</p>
+      <p id="MURARSC0053">[CSIII:65,4; text: Tenor. Discantus.]</p>
+      <p id="MURARSC0054">Quarta conclusio est quod contrapunctus in predicto tempore potest dividi ab una semibrevi imperfecta et quatuor minimis, ut hic:</p>
+      <p id="MURARSC0055">[CSIII:65,5; text: Tenor. Discantus.]</p>
+      <p id="MURARSC0056">Quinta conclusio est quod contrapunctus in tempore predicto potest dividi a sex minimis, ut hic patebit:</p>
+      <p id="MURARSC0057">[CSIII:65,6; text: Tenor. Discantus.]</p>
+      <p id="MURARSC0058">
+      <pb n="[66]" />[CSIII:66,1; text: Discantus.] 
+      <figure>
+        <graphic url="/images/MURARSC_04GF.gif" />
+      </figure></p>
+      <p id="MURARSC0059">Sequitur de tempore imperfecto majori de quo fit hec prima conclusio.</p>
+      <p id="MURARSC0060">Contrapunctus in tempore perfecto majori potest dividi ab una brevi et alia minima, ut hic patebit:</p>
+      <p id="MURARSC0061">[CSIII:66,2, text: Tenor. Discantus.]</p>
+      <p id="MURARSC0062">Secunda conclusio est quod contrapunctus in tempore tali potest dividi in duas semibreves perfectas, ut hic infra:</p>
+      <p id="MURARSC0063">[CSIII:66,3, text: Tenor. Discantus.]</p>
+      <p id="MURARSC0064">Tertia conclusio est quod contrapunctus in tempore predicto potest dividi ab una minima et duabus semibrevibus, ut hic.</p>
+      <p id="MURARSC0065">[CSIII:66,4, text: Tenor. Discantus.]</p>
+      <p id="MURARSC0066">Quarta conclusio est quod contrapunctus in dicto tempore potest dividi a duabus semibrevibus et duabus minimis, ut hic patebit:</p>
+      <p id="MURARSC0067">[CSIII:66,5, text: Tenor. Discantus.]</p>
+      <p id="MURARSC0068">Quinta conclusio est quod contrapunctus in eodem tempore potest dividi a quatuor minimis et una semibrevi, ut hic:</p>
+      <p id="MURARSC0069">[CSIII:66,6, text: Tenor. Discantus.]</p>
+      <p id="MURARSC0070">Sexta conclusio est quod contrapunctus in tempore predicto potest dividi a sex minimis, ut hic infra:</p>
+      <p id="MURARSC0071">
+      <pb n="[67]" />[CSIII:67,1; text: Tenor. Discantus.] 
+      <figure>
+        <graphic url="/images/MURARSC_05GF.gif" />
+      </figure></p>
+      <p id="MURARSC0072">Sequitur de tempore imperfecto minori de quo sit hec prima conclusio.</p>
+      <p id="MURARSC0073">Contrapunctus in tempore imperfecto minori potest dividi a duabus semibrevibus, ut hic:</p>
+      <p id="MURARSC0074">[CSIII:67,2; text: Tenor. Discantus.]</p>
+      <p id="MURARSC0075">Secunda conclusio est quod contrapunctus in predicto tempore potest dividi ab una semibrevi et duabus minimis, ut hic:</p>
+      <p id="MURARSC0076">[CSIII:67,3; text: Tenor. Discantus.]</p>
+      <p id="MURARSC0077">Tertia conclusio est, quod contrapunctus in eodem tempore potest dividi in quatuor minimas, ut hic sequitur in alia folio. Et hec de conclusionibus contrapuncti quantum ad omnia tempora sufficiant. Sequitur exemplum:</p>
+      <p id="MURARSC0078">
+      <pb n="[68]" />[CSIII:68,1 text: Tenor. Discantus.]</p>
+    </body>
+  </text>
+</TEI>

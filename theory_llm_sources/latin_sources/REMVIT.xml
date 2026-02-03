@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Vita Sancti Remigii</title>
+        <title type="abbrev">REMVIT</title>
+        <author>Anonymous</author>
+        <date notBefore="800" notAfter="1099">9th-11th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>John Csonka</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Jan Herlinger</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Bradley Jon Tucker</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1991</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Adrien de la Fage, 
+<emph>Essais de dipthérographie musicale</emph> (Paris: Legouix, 1864), 474–75.
+</bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="REMVIT0001">
+      <pb n="[474]" />Isti versus sunt scripti in scrinio corporis sancti Remigii in linea superiori, per circuitum,</p>
+      <p id="REMVIT0002">Qui prius est sanctus mundo quam matre creatus,</p>
+      <p id="REMVIT0003">Et magnus dictus coelitus ore Dei,</p>
+      <p id="REMVIT0004">Bis denos binosque gerens feliciter annos</p>
+      <p id="REMVIT0005">Sorte Dei sumpsit pontificale decus.</p>
+      <p id="REMVIT0006">Sexaginta simul bis septem manserat annis</p>
+      <p id="REMVIT0007">Istius urbis honor praesul et orbis amor,</p>
+      <p id="REMVIT0008">Vitam defunctis, reddens quoque lumina caecis</p>
+      <p id="REMVIT0009">Egerat et vivens plurima mira satis;</p>
+      <p id="REMVIT0010">Nam domuit fera corda animo pius, ore profusus,</p>
+      <p id="REMVIT0011">Sicambrae gentis regia sceptra sacrans.</p>
+      <p id="REMVIT0012">Nonaginta quidem sex cum compleverit annos</p>
+      <p id="REMVIT0013">Splendida lux nostras deseruit tenebras,</p>
+      <p id="REMVIT0014">Idus tum plenas cum janus mensis haberet,</p>
+      <p id="REMVIT0015">Emeritus miles praemia digna capit.</p>
+      <p id="REMVIT0016">Isti sequentes versus sunt descripti in scrinio corporis sancti Remigii in linea inferiori per circuitum:</p>
+      <p id="REMVIT0017">
+      <pb n="[475]" />Hic famulus Hincmar Domini sacra membra locavit</p>
+      <p id="REMVIT0018">Dulcis Remigii ductus amore pio.</p>
+      <p id="REMVIT0019">Iisdem Hincmarus primus hac sede sacerdos</p>
+      <p id="REMVIT0020">Post triginta loco considit et numero,</p>
+      <p id="REMVIT0021">Qui sextus decimus sub hac radiante lucerna,</p>
+      <p id="REMVIT0022">Remigio Remis munia cara dedit.</p>
+      <p id="REMVIT0023">Annis septenis quinis ac mensibus egit,</p>
+      <p id="REMVIT0024">Pastoris curam haec recolenda patrans.</p>
+      <p id="REMVIT0025">Octingenteno quinquagenoque secundo</p>
+      <p id="REMVIT0026">Quod Deus est anno virgine natus homo,</p>
+      <p id="REMVIT0027">Tertius et Karolus regni componeret actus,</p>
+      <p id="REMVIT0028">Octuber primam cum daret atque diem,</p>
+      <p id="REMVIT0029">Ac ter centenos octavus tandeget annus,</p>
+      <p id="REMVIT0030">Hic justus Domini quo petit astra poli.</p>
+      <p id="REMVIT0031">Trecentum fuerant tres et deni quater anni</p>
+      <p id="REMVIT0032">Quo vita Francos gurgite lavit ovans.</p>
+      <p id="REMVIT0033">Ipsius his precibus coelesti in sede locetur.</p>
+      <p id="REMVIT0034">Quem terris coluit verus amator. Amen.</p>
+      <p id="REMVIT0035">[De La Fage, 475; text: Hic famulus Hincmar Domini sacra membra locavit Dulcis Remigii ductus amore pio.] 
+      <figure>
+        <graphic url="/images/REMVIT_01GF.gif" />
+      </figure></p>
+    </body>
+  </text>
+</TEI>

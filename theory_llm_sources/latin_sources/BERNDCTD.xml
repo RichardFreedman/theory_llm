@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>De consona tonorum diversitate</title>
+        <title type="abbrev">BERNDCTD</title>
+        <author>Berno Augiensis</author>
+        <date notBefore="800" notAfter="1099">9th-11th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Mark Butler</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Anastasia Arapova</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>2001</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Franz-Josef Schmale, 
+<emph>Die Briefe des Abtes Bern von Reichenau</emph>, Veröffentlichungen der Kommission für Geschichtliche Landeskunde in Baden-Württemberg A/6 (Stuttgart: W. Kohlhammer, 1961), 17–19.
+</bibl>
+        <bibl type="work">
+          
+<title>Berno Augiensis: De consona tonorum diversitate</title>
+          
+<idno type="LML">BERNO div.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">CH-SGs 898, 2-5</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="BERNDCTD0001">
+      <pb n="[17]" />[B]erno gratia Dei, etsi non merito, tamen officio abba dilectissimis in Christo filiis Purchardo et Kerungo una cum caeteris in Dominicarum scolarum gymnasio Augiae vacantibus de virtute in virtutem diatim proficere, ut Deum Deorum in Syon valeant conspicere.</p>
+      <p id="BERNDCTD0002">Vestri precum instantia nuper admonitus, ut quosdam versiculos super consona tonorum diversitate compositos, vestre sagacitatis industriae ad discendum contraderem, non statim hac de causa ad id faciendum animum appuli, quia ridiculo me non defuturum apud posteros credidi, si inter sapientiae thesauro abundantes ac divinarum humanarumque litterarum larga copia instar torrentis affluentes ego, totius eloquentiae expers, quiddam muttire presumerem, illamque sententiam mihi posse obici non inmerito expavi:</p>
+      <p id="BERNDCTD0003">In silvam ne ligna feras et in mare quid pisces?</p>
+      <p id="BERNDCTD0004">Sed rursum illam Domini sententiam considerans, quae ait: Qui petit a te, da ei, et volenti a te mutuari ne avertaris, et si non ut petentibus, saltim ut mutuum sibi prestari volentibus penitus denegare nequaquam sum 
+      <pb n="[18]" />ausus, non parum foenoris me sperans adquisiturum, si pro verbosa vel undecumque adquisita conpositiunculae garrulitate docta domesticae eloquentiae vestrae merear participari sobrietate.</p>
+      <p id="BERNDCTD0005">Igitur octo tonis manifestum est musicam consistere, per quos musicae modulationis consonantiae, quas nunc interim brevitatis studio preterimus, amica quadam suae coniunctionis affinitate sibi invicem videntur concordare. Quorum apud nos nomina a primo usque octavum ex ordinis sui auctoritate sumpsere primordia. Ex quibus quatuor id est primus, tertius, quintus, septimus greco eloquio authentici vocantur eo, quod caeteris, videlicet secundo, quarto, sexto, octavo quasi quadam magisterii auctoritate preesse videantur. Authenticum namque auctorem sive magistrum sonat. Unde sicut superiores authentici vocantur, ita inferiores plagae, quasi partes ex latere superiorum procedentes, dicuntur. Qua ratione contigit, ut, qui communi latinorum locutione dicitur primus, ab huius artis magisterio inbutis nominetur authenticus protus, quasi primus auctoralis; secundus plagis protus vel plaga, id est pars proti; tertius authenticus deuterus eo, quod secundae sit auctoritatis; quartus plagis vel plaga deuteri; quintus authenticus tritus, nihilominus externario et auctoritate nomen sortitus. Cui sextus secundum supradictam rationem subicitur. Septimus authenticus tetrardus ab ordine et ipse ita vocatus. Tetra namque quatuor dicuntur. Deinde sequitur octavus, qui septimo subditur. Unde et plagis tetrardus vel plaga tetrardi est vocatus. Denique non inmerito primus, tertius, quintus, septimus authentici vel principales dicuntur, cum eorum sonus sit altior, ascensus superior. Nam sicut unusquisque eorum a suo finali incipiens novenarium limitem licenter ascendendo contingit, descendendo in sibi vicinum aliquando usque ad tercium sonum pervenit, ita inferiores in quintum usque ascendunt, in quartum vero sonum descendunt. Unde et hi inferiores, scilicet secundus, quartus, sextus, octavus a superiores velut discipuli a magistris ex toto non recedunt, sed quodam vicino sonorum tenore adiuncti quandam sui discipulatus formam ad superiores pretendunt, dum et ascensus eorum, ut supra prenotavimus, fit brevior et descensus inferior.</p>
+      <p id="BERNDCTD0006">Omissis igitur singulorum tonorum differentiis, quae pro diversa doctorum consuetudine aliquibus in notulis parum quid discordare videntur, singulis tantum versiculis principalem sui sonitus tenorem tam in antiphonis quam in responsoriis exempli causa adiunximus. Insuper et alios eiusdem regulae versus ad introitus et communiones pertinentes cum suis tamen differentiis, quia pauciores sunt et certiores, nihilominus superaddere curavimus. Quod si karitatem vestram differentias sive diffinitiones antiphonarum delectat vestro more subnectere, sat placere nobis scitote. Caeterum oboedientiam 
+      <pb n="[19]" />vestram omnino contestor, quatinus haec eo karitatis affectu, quo a me sunt composita, suscipiatis meique utpote boni filii sui patris memoriam in Christo habeatis. Valete.</p>
+    </body>
+  </text>
+</TEI>

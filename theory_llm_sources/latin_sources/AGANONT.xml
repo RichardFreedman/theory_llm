@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Tractatus de musica</title>
+        <title type="abbrev">AGANONT</title>
+        <author>Anonymous</author>
+        <date notBefore="1400" notAfter="1499">15th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Stephen E. Hayes</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Peter M. Lefferts</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Luminita Florea Aluas</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1992</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Higini Angles, "Dos tractats medievals de musica figurada," in 
+<emph>Musikwissenschaftliche Beiträge: Festschrift für Johannes Wolf zu seinem sechzigsten Geburtstag</emph>, ed. W. Lott, H. Osthoff, and W. Wolffheim (Berlin: Breslauer, 1929), 6–10.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: "Omni desideranti notitiam artis mensurabilis"</title>
+          
+<idno type="LML">TRAD. Phil. III</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">E-Sc 5-2-25, 63-64v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Sc L.V.30, 129r-v</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="AGANONT0001">
+      <pb n="[6]" />Omni desideranti notitiam artis mensurabilis tam noue quam ueteris obtinere, certas regulas huic presentes sub breui compendio pro posse meo propono fideliter assignare, cujus antiquitatem per Franconem notum omnibus tradidisse, nouiterque per Philippum in maiori parte subtiliter inuenisse. Et quia uoces seu notulas proportionabiliter omnes in hoc opere mensurare prout longe uel breues, semibreues ac minime figurantur, igitur ad ualorem et figurationem ipsarum breuiter procedamus.</p>
+      <p id="AGANONT0002">Longa igitur est sub forma quadra habens tractum a parte dextera ascendentem uel descendentem, uel duos quorum dexter excedit sinistrum, et talis, uocatur plica longa et ualet tria tempora in modo perfecto, duo autem in imperfecto. Modus perfectus cognoscitur per pausas, scilicet, quando pause inter longas sunt perfecte, uel quando de longa ad longam numerus ternarius computatur. Modus autem imperfectus est ipsas breues uel tempora per numerum binarium computare; et dicitur 
+      <pb n="[7]" />imperfectus, eo quod numerus binarius est imperfectus. Numeros uero ternarius perfectus, est assumptus a Trinitate etc. Exemplum omnium istorum:</p>
+      <p id="AGANONT0003">[ClefC2,L,L,L; L,L,L; Bcssncsdx,Bcssncsdx,Bcssncsdx; Bcsdx,L on staff4]</p>
+      <p id="AGANONT0004">Item, longa licet ualeat tria tempora in modo perfecto, sicut dictum est, tamen tribus modis imperficitur, uidelicet, quando sola breuis sequitur aut precedit, uel quando plures quam tres breues ipsam secuntur similiter imperficitur, ut hic patet:</p>
+      <p id="AGANONT0005">[ClefC2,L,B,L; L,Lig2cssna,L,BP,S,S,M,L,2LP,Lig2acddx,BP,L,Lig2cssnod,B,3LP,3LP,BP,pt,L,Lig5cdsnddad,BP,Lig4cssnaaod,L on staff4]</p>
+      <p id="AGANONT0006">Si autem due uel tres breues tamen secuntur ipsam longam, nulla sola breui precedente ipsam, longa perfecta est; nisi punctus diuisionis ponatur inter primam breuem et secundam, uel inter primam et alias subsequentes. Similiter, longa ante longam perfecta est; et si longe addetur punctus perfectionis, perfecta est et in modo imperfecto, ut hic patet:</p>
+      <p id="AGANONT0007">[ClefC3,L,Lig2a,L,BP,B,L,Lig2cssnod,B,L,2LP,L,Lig3aa,B,Lig3cdsndod,L,BP,Lig4cssnaaod,L; L,B,pt,B,L; B,B,pt,Lig2a,L; L,pt,Lig2acddx,pt,BP,L,pt,Lig2cssnod,L,L,L on staff4]</p>
+      <p id="AGANONT0008">Est autem quedam alia nota que duplex longa uocatur et in duplo latiorem ipsa longa. Talis autem ualet. VI. tempora in modo perfecto, et quatuor in modo imperfecto; et duobus modis tamen imperficitur, videlicet, a sola breui sequente, uel precedente, sicut inferius patebit, uel quando plures quam tres secuntur ipsam; et tunc non ualet nisi quinque tempora, ut hic patet:</p>
+      <p id="AGANONT0009">[ClefC3,L,L,L,2LP,L,L,L,3LP,3LP,3LP,L,L,L,2LP,2LP,L,2LP,2LP,L,3LP,3LP,3LP,3LP,L,B,L,BP,L,Lig4adod,L,2LP,Lig3cdsndod,L,L on staff4]</p>
+      <p id="AGANONT0010">Breuis, siue forma quadrata, figuratur carens omni tractu. Si uero tractum habuerit ante sinistram, uel duos quorum sinister longior sit dextero, tunc illa, plica breuis appellatur, et ualet tres semibreues in tempore perfecto, duas autem [in] imperfecto. Tempus perfectum est trium semibreuium assumptio pro qualibet breui. Tempus imperfectum est quando diuiditur per duas semibreues uariando, numerando et mensurando, ut hic patet inferius. Volue cartam.</p>
+      <p id="AGANONT0011">[ClefC2,B,B,B,BP,Bcssncsdx,Bcssncsdx,Bcssncsdx,BP,Bcdsncddx,Bcdsncddx,Bcdsncddx,BP,Bcssn,Bcssn,S,S,S,B,2LP,B,S,S,B,L on staff4]</p>
+      <p id="AGANONT0012">Item, breuis tribus modis imperficitur, videlicet, quando sola semibreuis ipsam sequitur aut precedit, uel quando sunt plures quam tres ipsam sequentes, ut hic patet:</p>
+      <p id="AGANONT0013">[ClefC2,B,S,B,S,B,BP,B,M,M,M,B,BP,B,S,S,S,S,B,S,S,S,S,B,S,S,S,S,B,L on staff4]</p>
+      <p id="AGANONT0014">
+      <pb n="[8]" />Et si due uel tres semibreues secuntur, tamen nulla sola semibreui precedente, perfecta est ipsa breuis, nisi punctus diuisionis ponatur inter primam et secundam semibreuem uel alias subsequentes.</p>
+      <p id="AGANONT0015">Item, sicut longa ante longam est perfecta semper, sic breuis ante breuem est perfecta semper. Et ex hoc sequitur quod similis ante similem non unquam imperficitur. Etiam, punctus inmediate postpositus perficit ipsam breuem in tempore tamen imperfecto, nisi per diuisionem modi forsitan poneretur, et tunc in medio:</p>
+      <p id="AGANONT0016">[ClefC2,L,B,S,S,B,SP,S,B,S,S,M,S,B,SP,S,L; B,S,pt,S,B; B,S,S,pt,S,B; B,S,pt,S,S,Lig2acddx; Lig3aa; S,Lig3cdsndod; B,S,B,pt,SP,B,pt,S,B,pt,SP,B,Lig2acddx on staff3]</p>
+      <p id="AGANONT0017">Item, breuis imperficitur dupliciter, videlicet, quando a sola minima sequente uel etiam a pluribus quam tres ipsam sequentes. Sed multi tenent quod imperficitur per minimam a parte ante. Dico, quod falsum est; si sequitur alia breuis quam maxime. Sed forte dicam quod nullo modo; et ratio quia minima non imperficit totam breuem igitur partem, cum partes sint due, igitur aliquam istarum non primam, quia prima similatur secunde; igitur secunda, et sic ex parte post.</p>
+      <p id="AGANONT0018">[staff3] (sic)</p>
+      <p id="AGANONT0019">Item, breuium, alia recta, alia altera. Recta, unius temporis; altera, duorum est. Unde, quotienscumque due breues inueniuntur inter duas longas, prima est recta, secunda est altera; et uocatur sic, quia alteratur natura sua. Similiter, quia quando due breues inter punctum diuisionis et longam uel e conuerso, prima est altera, ut hic patet:</p>
+      <p id="AGANONT0020">[staff3] (sic)</p>
+      <p id="AGANONT0021">Est autem semibreuis ad modum corporis obliqui, et ualet tres minimas in prolatione maiori, duas in minori; et sic distinguitur maior et minor prolatio, ut hic profertur:</p>
+      <p id="AGANONT0022">[ClefC2,S,S,S,S,S,S,S,M,S,M,M,L; S,S,S,S,M,S,M,S,M,S,M,M,S,S,L on staff4]</p>
+      <p id="AGANONT0023">Item, semibreuis imperficitur tribus modis, sicut breuis et longa. Po quando sola minima eam sequitur, uel precedit, uel quando plures quam tres ipsam secuntur, sicut dictum est de longis, siue de longa:</p>
+      <p id="AGANONT0024">[ClefC2,S,M,S,M,S,BP,S,M,M,S,M,S; M,S,M,S,S,M,M,M,M,S,S,M,MP,M,S on staff3]</p>
+      <p id="AGANONT0025">Si uero due minime tamen ipsam secuntur nulla sola minima precedente, perfecta est, nisi punctus diuisionis sequatur inter primam minimam et secundam, uel alias si fuerint subsequentes, ut hic:</p>
+      <p id="AGANONT0026">[ClefC2,S,M,M,M,S,M,M,S,M,M; S,M,M,M,S,M,M,S,S,M,pt,M,M,M on staff3]</p>
+      <p id="AGANONT0027">
+      <pb n="[9]" />Item, semibreuis tripliciter alteratur sicut breuis, videlicet, quando due semibreues inueniuntur inter duas breues, uel inter punctum diuisionis et breuem, uel e converso, ut hic:</p>
+      <p id="AGANONT0028">[ClefC2,B,S,S,B,SP,S,B,SP,pt,S,S,B; B,S,pt,S,S,B,SP,pt,S,S,B,S,S,pt,S,Lig2acddx on staff3]</p>
+      <p id="AGANONT0029">Minima etiam duobus modis alteratur. Primo modo ut dictum est de semibreuibus et breuibus, scilicet, si due minores inter duas maiores etc. Sic igitur, duabus minimis positis inter duas semibreues, secunda est altera, nisi ad eas reducatur. Secundo modo si quinque ponantur minime pro uno, videlicet, tempore, ultima est altera. Et ratio hujus est, quia ubicumque aliquid artificialiter deest, artificialiter debet reparari; sic est hic. Tertio modo minima alteratur, si due ponantur inter punctum diuisionis et maiorem, ut patet per exemplum:</p>
+      <p id="AGANONT0030">[ClefC2,S,M,M,S,S,M,M,S,M,pt,M,M,S,MP,M,S; M,M,M,M,M,S,S,pt,M,M,M,M,M,S,M,pt,M,M,M,M,M,S,S,L on staff4]</p>
+      <p id="AGANONT0031">Et est sciendum, quod duplex est punctus, diuisionis, scilicet, et perfectionis. Diuisionis, diuidendo breuem a longa in modo perfecto, semibreuem a breui im tempore perfecto, minimam a semibreui in maiori prolacione. Adhuc diuidendo minimas propter alterationem. Punctus uero perfectionis est qui perficit longam, modo imperfecto; perficit breuem, tempore imperfecto; perficit semibreuem, minori prolacione. Punctus enim diuisionis de quo iam dictum est, potius dicitur imperfectionis quam perfectionis, quia imperficit longam diuidendo breuem, et hoc in modo perfecto; imperficit breuem diuidendo semibreuem, et hoc in tempore perfecto; imperficit semibreuem diuidendo minimam, et hoc in maiori prolatione. Est etiam punctus diuisionis qui habet diuidere tempora, et hoc secundum ergo ssities:</p>
+      <p id="AGANONT0032">[ClefC2,L,pt,B,L,pt,Lig2acddx,pt,B,L; B,pt,S,Lig2a,pt,S,L; S,pt,M,S,S,S,pt,M,M,M,S,M,pt,M,S,S,S; L,2LP,BP,L,pt; B,pt,S,S,B; S,pt,M,S,pt,M,L on staff3]</p>
+      <p id="AGANONT0033">Cum duplex sit modus, tempus et prolatio, videndum est de signis per que distinguuntur. Quadrangulus cum tribus tactulis, ponitur pro modo perfecto; sed si ponatur cum duobus, ponitur pro modo imperfecto. Circulus, uero, pro tempore dicas, sed pro perfecto. Et semicirculus pro tempore imperfecto ponitur. Nam pro maiori prolatione ponere debemus tria puncta; pro minori uero, duo, ut patet hic de omnibus:</p>
+      <p id="AGANONT0034">[staff4]</p>
+      <p id="AGANONT0035">Sciendum circa coloratas notas, quod rubee uel nigre ponuntur ad doctrinam modi, temporis et prolationis; ita quod si nigre longe fuerint de modo perfecto, rubee de modo imperfecto, et e converso. Si nigre ponuntur pro tempore perfecto, et rubee pro imperfecto, uel e converso. Si uero semibreues nigre pro maiori prolatione ponuntur, et rubee pro minori, uel e converso. Sed aduertendum est de omnibus hijs, hoc totum habet uerum, nisi forte ad inuicem ordinetur, scilicet, 
+      <pb n="[10]" />breuis cum longa, semibreuis cum breui. Et de omnibus veritas patet in tenore de In arboris. Innoua fer animus.</p>
+      <p id="AGANONT0036">[ClefC3,L,L,L,2LP,Lv,Lv,Lv; Lig5adaacddx; Lig4vadbacddx; B,S,S,S,S,S,S,L; L,Sv,Sv,Sv,Sv,Sv,Sv,L on staff4]</p>
+      <p id="AGANONT0037">Sincopa est partim seperatarum (sic) modi, temporis et prolationis reducentium ad earum totum, secundum qualitatem et propriam ipsarum formam:</p>
+      <p id="AGANONT0038">[ClefC2,L,B,L,L,L,B,L; B,S,Lig5adda,S,L; M,S,S,S,M,S,S,M,S,S,S,M,S,S,S,M,S,S,S,S,M,S; S,M,S,S,M,S,S,M,S,M,S,MP,M,M,S,S,S,M,S,S on staff3]</p>
+      <p id="AGANONT0039">Ligaturarum autem, alia ascendens, alia descendens. Et de hijs omnibus tam ascendendo quam descendendo videndum est. Sed de primis et ultimis est sciendum, quod prima ligatura descendens sine tractu, longa dicitur esse; sed si habuerit tractum a parte sinistra descendentem, breuis est. Preterea, omnnis quadra in fine ligature descendendo, etiam est longa. Sed dico in ascendendo, quod tam prima quando est breuis, nisi tractum habuerit a parte dextera descendentum et e converso. Sed si fuerit ascendens uel descendens et prima habuerit tractum sinistrum ascendentem, semper prime due sunt semibreues; relique sequentes, breues sunt, ut hic apparet:</p>
+      <p id="AGANONT0040">[ClefC3,Lig4ddd,Lig2od,Lig2d; Lig2cdsnd,Lig3cdsndd,Lig2cdsnod; Lig3aa,Lig4cdsnddod; Lig3aacddx,Lig4cdsnddacddx; Lig3cssndod,Lig4cssnaaacddx,Lig3cssnaod,L on staff4]</p>
+      <p id="AGANONT0041">Pausa est uocum emmissio seu aspiratio, mensurata pro tot temporibus quot continet spatia. Sed ultra tria non est abire. Et licet talis, pausa uocari possit, tamen est doctrina quia illa ultra tria est priuatio commnis. Sed alia unius partis precise. Est enim et alia pausa que continet medium spacium, et talis est semibreuis et minime. Sed hec est doctrina, quia que ponitur sub linea, est semibreuis; que ponitur super lineam, est minime, ut hic apparet:</p>
+      <p id="AGANONT0042">[ClefC3,2LP,2LP,2LP,3LP,3LP,3LP,2LP,2LP,2LP,BP,BP,BP; MP,MP,MP,MP,SP,SP,SP,SP,MP,MP,MP,MP,SP,SP,SP,SP on staff4]</p>
+      <p id="AGANONT0043">Explicit. Deo gratias referamus. Amen.</p>
+    </body>
+  </text>
+</TEI>

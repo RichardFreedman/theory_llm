@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Tractatus de discantu</title>
+        <title type="abbrev">ANOTRDIS</title>
+        <author>Anonymous</author>
+        <date notBefore="1200" notAfter="1299">13th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Anna Gercas</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Andreas Giger</persName>
+      </respStmt>
+      <date>1999</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>De musica libellus (Ms. Paris, Bibl. Nat., lat. 6286)</emph>; 
+<emph>Tractatus de discantu (Ms. Saint-Dié, Bibl. Municipale, 42)</emph>; 
+<emph>Compendium discantus (Ms. Oxford, Bodl. Libr., Bodley 842)</emph>; 
+<emph>Traitié de deschant (Ms. Paris, Bibl. Nat., lat. 15139)</emph>; 
+<emph>Traitié de deschant (Ms. Paris, Bibl. Nat., lat. 14741)</emph>, ed. Gilbert Reaney, Corpus scriptorum de musica, vol. 36 (n.p.: American Institute of Musicology / Hänssler-Verlag, 1996), 39–45. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: Tractatus de discantu</title>
+          
+<idno type="LML">DISC. Quicumque II</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">F-SDI 42, 56v-58v</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANOTRDIS0001">
+      <pb n="[39]" />ANONYMI</p>
+      <p id="ANOTRDIS0002">TRACTATUS DE DISCANTU</p>
+      <p id="ANOTRDIS0003">De quinto et duplo</p>
+      <p id="ANOTRDIS0004">Capitulum 1</p>
+      <p id="ANOTRDIS0005">S 56v</p>
+      <p id="ANOTRDIS0006">Quicumque bene et secure discantare voluerit, primo oportet scire quid sit quintum et quid duplum. Quintum est quinta vox, duplum octava.</p>
+      <p id="ANOTRDIS0007">Debemus scire quod tres sunt species in plana musica, de quibus prima vocatur dyatessaron, secunda diapente, tertia diapason. Dyatessaron est quarta nota, diapente quinta, dyapason octava. Et tantum valet dyapente quantum quintum, et dyapason quantum duplum.</p>
+      <p id="ANOTRDIS0008">Debemus etiam scire quod primus gradus de cantu est Gamma ut, et capit suum quintum in D sol re et duplum suum in G sol re ut gravi.</p>
+      <p id="ANOTRDIS0009">Quintum de A re est in E la mi gravi, et duplum suum est in a la mi re acuto.</p>
+      <p id="ANOTRDIS0010">Quintum de [sqb] mi est in F fa ut gravi per falsam musycam, et duplum suum in b fa [sqb] mi acuto. Et scire debemus quod, quando volumus quintum facere super [sqb] mi, oportet facere falsam musycam in F fa ut gravi et dicere mi, et ponere signum quadratum sic formatum [sqb], sicut patet in sequenti exemplo:</p>
+      <p id="ANOTRDIS0011">[CSM36:39] 
+      <figure>
+        <graphic url="/images/ANOTRDIS_01GF.gif" />
+      </figure></p>
+      <p id="ANOTRDIS0012">
+      <pb n="[40]" />Quintum de C fa ut est G sol re ut grave; duplum suum est c sol fa ut acutum.</p>
+      <p id="ANOTRDIS0013">Quintum de D sol re est a la mi re acutum; duplum suum est d la sol re acutum.</p>
+      <p id="ANOTRDIS0014">Quintum de E la mi gravi est b fa [sqb] mi acutum, et duplum suum est e la mi acutum.</p>
+      <p id="ANOTRDIS0015">Quintum de F fa ut gravi est c sol fa ut acutum; duplum suum est f fa ut acutum.</p>
+      <p id="ANOTRDIS0016">Quintum de G sol re ut gravi est d la sol re acutum, et g sol re ut acutum est suum duplum.</p>
+      <p id="ANOTRDIS0017">Quintum de a la mi re acuto est e la mi acutum, et duplum suum est aa la mi re superacutum.</p>
+      <p id="ANOTRDIS0018">Quintum de b fa [sqb] mi acuto est f fa ut acutum per falsam musycam, cantando per [sqb] quadratum; per b rotundum cantatur per bonam musycam.</p>
+      <p id="ANOTRDIS0019">Et nota quod, si tu cantas mi in b fa [sqb] my acuto, oportet te dicere etiam my in f fa ut acuto per falsam musycam et signum facere taliter formatum [sqb], sicut poteris videre exemplo sequenti:</p>
+      <p id="ANOTRDIS0020">[CSM36:40]</p>
+      <p id="ANOTRDIS0021">
+      <pb n="[41]" />Item si dicis fa in b fa [sqb] mi acuto per b molle, poteris etiam dicere fa in f fa ut acuto per bonam musycam, ut hic patet:</p>
+      <p id="ANOTRDIS0022">[CSM36:41,1]</p>
+      <p id="ANOTRDIS0023">Quintum de c sol fa ut acuto est g sol re ut acutum, et duplum suum est cc sol fa superacutum.</p>
+      <p id="ANOTRDIS0024">Quintum de d la sol re acuto est aa la my re superacutum. Et sic de singulis.</p>
+      <p id="ANOTRDIS0025">Regulae de discantu cum cantu ascendente</p>
+      <p id="ANOTRDIS0026">Capitulum 2</p>
+      <p id="ANOTRDIS0027">S 57v</p>
+      <p id="ANOTRDIS0028">Prima regula de discantu talis est: si cantus ascendit unum tonum, discantus debet incipere in dyapason et descendere tonum cum dimidio vel ditonum, ut hic patet:</p>
+      <p id="ANOTRDIS0029">[CSM36:41,2]</p>
+      <p id="ANOTRDIS0030">
+      <pb n="[42]" />Secunda regula talis est: si cantus ascendat duos tonos vel unum cum dimidio seu ditonum, discantus debet incipere in dyapason et descendere medium tonum vel tonum integrum, ut hic:</p>
+      <p id="ANOTRDIS0031">[CSM36:42,1] 
+      <figure>
+        <graphic url="/images/ANOTRDIS_02GF.gif" />
+      </figure></p>
+      <p id="ANOTRDIS0032">Tertia regula talis est: si cantus ascendat duos tonos cum dimidio, discantus debet incipere in dyapason et se tenere in eodem puncto, et sic fit dyapente ut hic patet:</p>
+      <p id="ANOTRDIS0033">[CSM36:42,2]</p>
+      <p id="ANOTRDIS0034">Quarta regula talis est: si cantus ascendat ad dyapente, hoc est tres tonos cum dimidio, discantus debet incipere in dyapason et ascendere unum tonum, et erit dyapente ut hic patet:</p>
+      <p id="ANOTRDIS0035">[CSM36:42,3]</p>
+      <p id="ANOTRDIS0036">
+      <pb n="[43]" />Nota quod, si cantus ascendat duos tonos sive duos cum dimidio aut tres aut quatuor, debemus incipere in dyapason et descendere in dyapente. Hoc est dicere quod debemus incipere in duplo et descendere in quintum, et ascendere sicut cantus ascendit ut hic patet exemplo:</p>
+      <p id="ANOTRDIS0037">[CSM36:43]</p>
+      <p id="ANOTRDIS0038">Regulae de discantu cum cantu descendente</p>
+      <p id="ANOTRDIS0039">Capitulum 3</p>
+      <p id="ANOTRDIS0040">S 58</p>
+      <p id="ANOTRDIS0041">Si cantus descendit, debemus incipere in dyapente per contrarium modum, sicut iam supra dictum est. Debemus omnes de omnibus ellevationibus primam ponere in dyapason et omnes alias in dyapente, et de omnibus descendentibus primam in quinto et ultimam in duplo.</p>
+      <p id="ANOTRDIS0042">Prima regula descendentium talis est: si cantus descendat medium tonum vel tonum inthegrum, discantans debet incipere in dyapente et ascendere duas notas vel tonum cum dimidio. Et sic habebit dyapason, sicut patet hic.</p>
+      <p id="ANOTRDIS0043">
+      <pb n="[44]" />[CSM36:44,1] 
+      <figure>
+        <graphic url="/images/ANOTRDIS_03GF.gif" />
+      </figure></p>
+      <p id="ANOTRDIS0044">Secunda regula descendentium talis est: si cantus descendat tonum cum dimidio vel duos tonos, discantans debet incipere in dyapente et ascendere tonum integrum vel medium tonum. Et sic habebit dyapason, ut hic patet:</p>
+      <p id="ANOTRDIS0045">[CSM36:44,2]</p>
+      <p id="ANOTRDIS0046">Tertia regula: si cantus descendat duos tonos cum dimidio, discantans debet incipere in dyapente et tenere se in eodem puncto. Et sic habebit dyapason, ut hic patet:</p>
+      <p id="ANOTRDIS0047">[CSM36:44,3]</p>
+      <p id="ANOTRDIS0048">Quarta regula est: si cantus descendat per tres tonos vel tres cum dimidio, discantans debet incipere in dyapente et descendere tonum integrum vel medium tonum. Et sic habebit dyapason, ut hic patet:</p>
+      <p id="ANOTRDIS0049">
+      <pb n="[45]" />[CSM36:45,1]</p>
+      <p id="ANOTRDIS0050">Quinta regula descendentium: si cantus descendat gradatim dytonum vel tritonum, omnes descendentes debent esse in dyapente praeter ultimam quae debet esse in dyapason, ut hic patet per exemplum:</p>
+      <p id="ANOTRDIS0051">[CSM36:45,2]</p>
+    </body>
+  </text>
+</TEI>

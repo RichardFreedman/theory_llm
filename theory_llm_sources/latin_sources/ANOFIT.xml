@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Tractatulus de figuris et temporibus</title>
+        <title type="abbrev">ANOFIT</title>
+        <author>Anonymous</author>
+        <date notBefore="1300" notAfter="1399">14th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>David Schneider</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Jessica Sisk</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Peter Slemon</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>2003</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+F. Alberto Gallo, 
+<emph>Mensurabilis musicae tractatuli</emph>, Antiquae musicae italicae scriptores, vol. 1 (Bologna: Università degli Studi di Bologna, Istituto di Studi Musicali e Teatrali - Sez. Musicologia, 1966), 79–85. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: Tractatus de musica mensurabili: Tractatulus de figuris et temporibus</title>
+          
+<idno type="LML">MENS. Sciendum est</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">E-Sc 5-2-25, 93v-94v</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANOFIT0001">
+      <pb n="[79]" />[I]</p>
+      <p id="ANOFIT0002">1 Sciendum est, quod quatuor sunt tempora discantus, scilicet tempus perfectum maioris prolationis, tempus perfectum minoris prolationis, tempus inperfectum maioris prolationis et tempus inperfectum minoris prolationis.</p>
+      <p id="ANOFIT0003">Primo de valore proprio dictorum temporum videndum est, et postea de augmentatione demonstrabitur.</p>
+      <p id="ANOFIT0004">2 Tempus perfectum maioris prolationis valet tres semibreves et unaquaque semibrevis valet tres minimas, sunt ergo novem minime pro tempore et istud tempus dicitur nonarius eo quod a novem minimis comprehenditur, ut hic:</p>
+      <p id="ANOFIT0005">[[Od],B,S,S,S,B; M,M,M,M,M,M,M,M,M on staff2]</p>
+      <p id="ANOFIT0006">Tempus perfectum minoris prolationis valet etiam tres semibreves, sunt ergo sex minime pro tempore et istud tempus dicitur senarius eo quod a sex minimis comprehenditur, ut hic:</p>
+      <p id="ANOFIT0007">[pt,O,pt,B,S,S,S,[B],M,M,M,M,M,M on staff2]</p>
+      <p id="ANOFIT0008">Tempus inperfectum maioris prolationis valet duas semibreves et unaquaque semibrevis valet tres minimas, sunt ergo sex minime pro tempore, ut hic:</p>
+      <p id="ANOFIT0009">[Cd,B,S,S,B; M,M,M,M,M,M on staff2]</p>
+      <p id="ANOFIT0010">Tempus inperfectum minoris prolationis valet duas semibreves et unaquaque semibrevis valet duas minimas, sunt ergo quatuor minime 
+      <pb n="[80]" />pro tempore et dicitur quaternarius istud tempus eo quod a quatuor minimis comprehenditur, ut hic:</p>
+      <p id="ANOFIT0011">[pt,Cdim,pt,B,S,S,B; M,M,M,M on staff2]</p>
+      <p id="ANOFIT0012">3a Unde si volumus augmentare in dictis temporibus, a tempore perfecto maioris prolationis incipiamus.</p>
+      <p id="ANOFIT0013">[alpha]) Si supra predictum tempus volumus augmentare in proportione sexquitercia dividendo tempus in tres partes equales, appone tres breves vacuas, ut hic:</p>
+      <p id="ANOFIT0014">[Bv,Bv,Bv]</p>
+      <p id="ANOFIT0015">et unaquaque istarum brevium valet quatuor minimas diminutionis.</p>
+      <p id="ANOFIT0016">Item si volumus augmentare in proportione dupla, appone decem et octo minimas vacuas, ut hic:</p>
+      <p id="ANOFIT0017">[Mv,Mv,Mv,Mv,Mv,Mv,Mv,Mv,Mv,Mv,Mv,Mv,Mv,Mv,Mv,Mv,Mv,Mv]</p>
+      <p id="ANOFIT0018">[beta]) Si volumus augmentare supra tempus perfectum minoris prolationis in proportione sexquialtera, appone novem minimas vacuas, ut hic:</p>
+      <p id="ANOFIT0019">[Mv,Mv,Mv,Mv,Mv,Mv,Mv,Mv,Mv]</p>
+      <p id="ANOFIT0020">Et si volumus in proportione dupla, appone duodecim minimas vacuas pro tempore, ut hic:</p>
+      <p id="ANOFIT0021">[Mv,Mv,Mv,Mv,Mv,Mv,Mv,Mv,Mv,Mv,Mv,Mv]</p>
+      <p id="ANOFIT0022">[gamma]) Si volumus augmentare supra tempus inperfectum maioris prolationis in proportione sexquitercia, appone octo minimas vacuas pro tempore, ut hic:</p>
+      <p id="ANOFIT0023">[Mv,Mv,Mv,Mv,Mv,Mv,Mv,Mv]</p>
+      <p id="ANOFIT0024">
+      <pb n="[81]" />Et si volumus augmentare in proportione dupla, appone duodecim minimas vacuas pro tempore, ut hic:</p>
+      <p id="ANOFIT0025">[Mv,Mv,Mv,Mv,Mv,Mv,Mv,Mv,Mv,Mv,Mv,Mv]</p>
+      <p id="ANOFIT0026">Eciam si volumus augmentare in proportione tripla, appone decem et octo minimas vacuas, ut hic:</p>
+      <p id="ANOFIT0027">[Mv,Mv,Mv,Mv,Mv,Mv,Mv,Mv,Mv,Mv,Mv,Mv,Mv,Mv,Mv,Mv,Mv,Mv]</p>
+      <p id="ANOFIT0028">Et non plus, quia valde laboriosum esset humane voci proferre.</p>
+      <p id="ANOFIT0029">[delta]) Si volumus augmentare supra tempus inperfectum minoris prolationis in proportione sexquialtera, apponas sex minimas vacuas, ut hic:</p>
+      <p id="ANOFIT0030">[Mv,Mv,Mv,Mv,Mv,Mv]</p>
+      <p id="ANOFIT0031">Et si volumus in proportione dupla, apponas octo minimas vacuas, ut hic:</p>
+      <p id="ANOFIT0032">[Mv,Mv,Mv,Mv,Mv,Mv,Mv,Mv]</p>
+      <p id="ANOFIT0033">Et si volumus in proportione duplasexquiquarta, appone novem minimas vacuas pro tempore, ut hic:</p>
+      <p id="ANOFIT0034">[Mv,Mv,Mv,Mv,Mv,Mv,Mv,Mv,Mv]</p>
+      <p id="ANOFIT0035">3b Secundum magistrum Philippotum de Caserta dicta tempora possunt augmentare per alias diversas figuras, sicut inferius apparent.</p>
+      <p id="ANOFIT0036">[alpha]) Unde sciendum est, quod predictus magister Philippotus ponit istas quatuor figuras pro uno tempore, scilicet temporis perfecti maioris prolationis, ut hic:</p>
+      <p id="ANOFIT0037">[Fcdvx,ptv,Fcdvx,ptv,Fcdvx,ptv,Fcdvx,ptv]</p>
+      <p id="ANOFIT0038">
+      <pb n="[82]" />Et aliquando ponit duas tales figuras pro uno tempore, ut hic:</p>
+      <p id="ANOFIT0039">[Ssvcdvx,pt,Ssvcdvx,pt]</p>
+      <p id="ANOFIT0040">Et aliquando quatuor tales:</p>
+      <p id="ANOFIT0041">[S,Fsvcdvx,Fsvcdvx,S]</p>
+      <p id="ANOFIT0042">Et aliquando sex tales:</p>
+      <p id="ANOFIT0043">[Fsvcdvx,Fsvcdvx,Fsvcdvx,Fsvcdvx,Fsvcdvx,Fsvcdvx]</p>
+      <p id="ANOFIT0044">Et aliquando quinque, ut hic:</p>
+      <p id="ANOFIT0045">[S,Fsvcdvx,Fsvcdvx,Fsvcdvx,Fsvcdvx]</p>
+      <p id="ANOFIT0046">Et aliquando tales quatuor, ut hic:</p>
+      <p id="ANOFIT0047">[S,Fsvcdvx,Fsvcdvx,S]</p>
+      <p id="ANOFIT0048">Et dividit dictus magister duo tempora istius temporis in tres partes equales, ut hic:</p>
+      <p id="ANOFIT0049">[Anonymous, Tractatulus de figuris, 82] 
+      <figure>
+        <graphic url="/images/ANOFIT_01GF.gif" />
+      </figure></p>
+      <p id="ANOFIT0050">[beta]) Sequitur de tempore perfecto minoris prolationis.</p>
+      <p id="ANOFIT0051">Ponit in tempore perfecto minoris prolationis quatuor tales figuras pro uno tempore, ut hic:</p>
+      <p id="ANOFIT0052">[Fcdvx,Fcdvx,Fcdvx,Fcdvx]</p>
+      <p id="ANOFIT0053">Et aliquando duas semibreves punctatas, ut hic:</p>
+      <p id="ANOFIT0054">[S,pt,S,pt]</p>
+      <p id="ANOFIT0055">
+      <pb n="[83]" />Et aliquando novem minimas vacuas, ut hic:</p>
+      <p id="ANOFIT0056">[Mv,Mv,Mv,Mv,Mv,Mv,Mv,Mv,Mv]</p>
+      <p id="ANOFIT0057">Et dividit etiam duo tempora istius temporis in tres partes equales, ut hic:</p>
+      <p id="ANOFIT0058">[Bv,Bv,Bv]</p>
+      <p id="ANOFIT0059">[gamma]) Sequitur de tempore inperfecto maioris prolationis.</p>
+      <p id="ANOFIT0060">Ponit in tempore inperfecto maioris prolationis tres tales figuras pro uno tempore, ut hic:</p>
+      <p id="ANOFIT0061">[F,F,F]</p>
+      <p id="ANOFIT0062">Vel tres vacuas, ut hic:</p>
+      <p id="ANOFIT0063">[Sv,Sv,Sv]</p>
+      <p id="ANOFIT0064">Et aliquando quatuor tales, ut hic:</p>
+      <p id="ANOFIT0065">[Fcdvx,Fcdvx,Fcdvx,Fcdvx]</p>
+      <p id="ANOFIT0066">Vel tales, ut hic:</p>
+      <p id="ANOFIT0067">[Fsvcdvx,Fsvcdvx,Fsvcdvx,Fsvcdvx]</p>
+      <p id="ANOFIT0068">Et aliquando tres tales, ut hic:</p>
+      <p id="ANOFIT0069">[Fsvcdvx,Fsvcdvx,S]</p>
+      <p id="ANOFIT0070">[delta]) Sequitur de tempore inperfecto minoris prolationis.</p>
+      <p id="ANOFIT0071">Ponit in tempore inperfecto minoris prolationis sex tales minimas vacuas pro uno tempore, ut hic:</p>
+      <p id="ANOFIT0072">[Mv,Mv,Mv,Mv,Mv,Mv]</p>
+      <p id="ANOFIT0073">
+      <pb n="[84]" />Et aliquando tres tales, ut hic:</p>
+      <p id="ANOFIT0074">[Fv,Fv,Fv]</p>
+      <p id="ANOFIT0075">Et aliquando octo tales, ut hic:</p>
+      <p id="ANOFIT0076">[SMv,SMv,SMv,SMv,SMv,SMv,SMv,SMv]</p>
+      <p id="ANOFIT0077">Et sufficit de figuris francigenis.</p>
+      <p id="ANOFIT0078">[II]</p>
+      <p id="ANOFIT0079">4 Dictum est de figuris et temporibus francigenis, nunc videndum est de figuris et temporibus ytalicis.</p>
+      <p id="ANOFIT0080">Et primo sciendum est, quod secundum ytalicos habemus tales figuras, videlicet duplicem longam ut hic: [2L], longam ut hic: [L], brevem: [B], semibrevem ut hic: [S], minimam ut hic: [M], semiminimam: [SM].</p>
+      <p id="ANOFIT0081">Et nota, quod omnes iste figure diversimode figurantur, videlicet duplex longa ut hic: [2L] vel sic: [2Lcsdx], longa ut hic: [L] vel sic: [Bcsdx], brevis ut hic: [B], semibrevis: [S], minima ut hic: [M], semiminima ut hic: [SM].</p>
+      <p id="ANOFIT0082">Ponunt etiam tales figuras: [Scd] et tales ut hic: [Scdsnosn] et tales ut hic: [Fcsvxcdvxsn]</p>
+      <p id="ANOFIT0083">5 Sequitur de valore dictarum figurarum.</p>
+      <p id="ANOFIT0084">Et primo sciendum est, quod ista duplex longa: [2L] valet novem tempora si longe sunt de modo perfecto, quia valet tres longas: [2L,L,L,L]</p>
+      <p id="ANOFIT0085">Item si longe sunt de modo inperfecto, valet duas longas, ut hic: [2L,L,L]</p>
+      <p id="ANOFIT0086">Item longa perfecta valet tria tempora, ut hic: [L,B,B,B]</p>
+      <p id="ANOFIT0087">Item longa inperfecta valet duo tempora, ut hic: [L,B,B]</p>
+      <p id="ANOFIT0088">Item brevis perfecta valet tres semibreves, ut hic: [B,S,S,S]</p>
+      <p id="ANOFIT0089">Item brevis inperfecta valet duas semibreves, ut hic: [B,S,S]</p>
+      <p id="ANOFIT0090">
+      <pb n="[85]" />Item semibrevis perfecta valet tres minimas, ut hic: [S,M,M,M]</p>
+      <p id="ANOFIT0091">Item semibrevis inperfecta valet duas minimas, ut hic: [S,M,M]</p>
+      <p id="ANOFIT0092">Et nota, quod ista nota: [Scd] valet quatuor minimas.</p>
+      <p id="ANOFIT0093">Et ista sic incisa: [Scdsnosn] valet tres minimas.</p>
+      <p id="ANOFIT0094">Et de istis semiminimis valent tres pro duabus minimis: [SM,SM,SM,M,M]</p>
+      <p id="ANOFIT0095">Et de istis valent octo pro quatuor: [Fcsvxcdvxsn,Fcsvxcdvxsn,Fcsvxcdvxsn,Fcsvxcdvxsn,Fcsvxcdvxsn,Fcsvxcdvxsn,Fcsvxcdvxsn,Fcsvxcdvxsn,M,M,M,M]</p>
+      <p id="ANOFIT0096">6 Nunc videndum est quomodo figurantur.</p>
+      <p id="ANOFIT0097">Et primo notandum, quod maxima potest figurari sic: [MX] vel sic: [MXcsdx].</p>
+      <p id="ANOFIT0098">Longa sic: [L] vel sic: [Bcsdx]</p>
+      <p id="ANOFIT0099">Breves sic: [B,B] [vel sic:] [Lig2cdsnod] et valet unum tempus in capite et unum in pede.</p>
+      <p id="ANOFIT0100">Semibreves sic [S,S] vel sic: [Lig2cssnod] aut sic: [Lig2cssna]</p>
+      <p id="ANOFIT0101">Et est sciendum, quod quando invenitur talis ligatura valet duo tempora in capite et duo in pede, quia nota quadrata est: [Lig3aa]</p>
+      <p id="ANOFIT0102">Item si reperitur sic: [Lig3cdsndd] valet unum tempus in capite et duo in pede.</p>
+      <p id="ANOFIT0103">Item si reperitur sic: [Lig3cdsndod] valet unum tempus in capite et unum in pede.</p>
+      <p id="ANOFIT0104">Item si semibreves reperiuntur sic: [Lig2cssnod,Lig2cssna] valet unam in capite et unam in pede, nisi quod in arte ytalica in tempore perfecto ultima alteratur.</p>
+      <p id="ANOFIT0105">Item quando reperiuntur sic: [Lig3cssndod], prima est semibrevis, secunda similiter, et tercia est brevis.</p>
+      <p id="ANOFIT0106">Et hec sufficiant.</p>
+    </body>
+  </text>
+</TEI>

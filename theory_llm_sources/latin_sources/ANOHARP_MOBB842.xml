@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>[De harmonia planetarum]</title>
+        <title type="abbrev">ANOHARP_MOBB842</title>
+        <author>Anonymous</author>
+        <date notBefore="1300" notAfter="1399">14th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>T</resp>
+        <persName>Peter M. Lefferts</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Michael W. Lundell</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1995</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Oxford, Bodleian Library, MS Bodley 842 (S.C. 2575), f. 46v.
+</bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANOHARP_MOBB8420001">
+      <pb n="[f.46v]" />Da per armoniam distanciam planetarum A terra usque ad lunam tonus A luna usque Mercurium semitonius A Mercurio usque ad Uenerem eciam semitonius a Uenere usque ad solem tria semitonia A sole ad Martem tonus a Marce ad Iouem Semitonius a Ioue ad Saturnum eciam semitonius a Saturno ad fixas tria semitonia A fixis ad nonam spedam speram .g.h. gloriam sanctorum [[disimictum]] disiunctam per nonem ordines angelorum nemo novit nisi solus deus Quid signat tonus in planetarum spacium quidecim milium sex centorum et viginti quinque miliarium Ergo a terra usque ad celum sunt miliaria centum milia et nonem milia et trecenta et septuaginta quinque Qualis ergo gloria est inter sanctos super hec omnia Iesu Christi</p>
+      <p id="ANOHARP_MOBB8420002">Hic ergo Tullius terram [.77. add. supra lin.] quasi silencium ponit 6. immobilem post hanc qui proximus a silencio est dat hinc grauissimum sonum ut sit luna. proslambanomes ut postea patet</p>
+      <p id="ANOHARP_MOBB8420003">proslambanomenos id est luna</p>
+      <p id="ANOHARP_MOBB8420004">hipatehipaton id est Mercurius</p>
+      <p id="ANOHARP_MOBB8420005">parhipatehipaton id est Uenus</p>
+      <p id="ANOHARP_MOBB8420006">licanoshipaton id est sol</p>
+      <p id="ANOHARP_MOBB8420007">hipatemeson id est Mars</p>
+      <p id="ANOHARP_MOBB8420008">paripatemeson id est Iubiter</p>
+      <p id="ANOHARP_MOBB8420009">licanosmeson id est Saturnus</p>
+      <p id="ANOHARP_MOBB8420010">Mese id est Celum</p>
+    </body>
+  </text>
+</TEI>

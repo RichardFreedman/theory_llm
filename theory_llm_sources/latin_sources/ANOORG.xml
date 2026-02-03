@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>[Tractatus de organo]</title>
+        <title type="abbrev">ANOORG</title>
+        <author>Anonymous</author>
+        <date notBefore="1100" notAfter="1199">12th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Stephen E. Hayes</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Peter M. Lefferts</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Andreas Giger</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1996</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Fred Blum, "Another Look at the Montpellier Organum Treatise," 
+<emph>Musica disciplina</emph> 13 (1959): 21-24, 21–24. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: Tractatus de organo cod. Montepessulani</title>
+          
+<idno type="LML">ORG. Montep.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">F-MOf H 384, 122-123</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANOORG0001">
+      <pb n="[21]" />1. Diaphonia duplex cantus est; cuius talis est diffinitio. Organum est vox sequens praecedentem sub celeritate diatessaron vel diapente. Quarum, scilicet praecedentis et sequentis vocis fit copula aliqua decenti consonantia.</p>
+      <p id="ANOORG0002">2. Si quis ergo organum componere desiderat, duas ultimas voces clausulae prius eligat et eas competenter cum cantu iungat, ut ex alia parte cum cantu veniant. Postea primam vocem organi, id est inceptionem ponat cum cantu vel inferius in diapason vel superius vel in eadem vel in quinta vel in quarta, aliquando et in tertia vel sexta. In secunda autem vel septima voce a cantu nunquam erit organum quia male sonat.</p>
+      <p id="ANOORG0003">
+      <pb n="[22]" />Medias autem voces inter primam et ultimas duas praeelectas ponat in quinta vel tertia vel sexta; sed frequentius in quarta vel quinta, quia pulchrius sonat.</p>
+      <p id="ANOORG0004">3. Aliquando pro D, E, F quae sunt finales accipimus a, b, c causa necessitatis, quia D ditonum non habet descendendo quem habet sua affinis a. Finalis vox sic notet principium, quasi aliquis colorum esset ductus a finali usque ad principium.</p>
+      <p id="ANOORG0005">4. In quacumque voce cantus incipiat, organizator sit in eadem [vel in diapason] superius vel inferius vel in quinta vel in quarta, aliquando in tertia vel sexta. His modis organizator cantum sequatur, donec cum illo iungatur.</p>
+      <p id="ANOORG0006">Sed quando voluerit, cum cantu copulare poterit; sed clausulam ultra octo voces ire non licet. In ultimis autem duabus vocibus naturam 
+      <pb n="[23]" />non consideret, sed, ut aptius poterit, cum cantu copulet.</p>
+      <p id="ANOORG0007">5. Si duae tantum sint voces in clausula, non nisi copulatio est ibi, ut:</p>
+      <p id="ANOORG0008">[MD13:23,1; text: C, E, D, AMEN] 
+      <figure>
+        <graphic url="/images/ANOORG_01GF.gif" />
+      </figure></p>
+      <p id="ANOORG0009">Si tres voces, inceptio et copulatio, ut:</p>
+      <p id="ANOORG0010">[MD13:23,2; text: C, D, G, F, AMEN]</p>
+      <p id="ANOORG0011">Si quatuor, est ibi inceptio et una vox organalis et clausula [copula], ut:</p>
+      <p id="ANOORG0012">[MD13:23,3; text: D, A, C, F, E, AMEN]</p>
+      <p id="ANOORG0013">Si quinque, est ibi inceptio et duae voces organales et clausula [copula], ut:</p>
+      <p id="ANOORG0014">[MD13:23,4; text: D, E, C, a, [sqb], G, F, AMEN]</p>
+      <p id="ANOORG0015">
+      <pb n="[24]" />Si sex, est ibi principium et tres organales et copula, ut:</p>
+      <p id="ANOORG0016">[MD13:24,1; text: D, F,E, C, d, c, a, G, AMEN]</p>
+      <p id="ANOORG0017">Si septem, est ibi principium et quatuor organales et duae quae copulantur, ut:</p>
+      <p id="ANOORG0018">[MD13:24,2; text: D, G, F, E, A, [GAMMA], d, [sqb], a, AMEN]</p>
+      <p id="ANOORG0019">Si vero sint octo, est inceptio quae semper est cum cantu [in eadem vel in diapason] vel in quarta vel in quinta, aliquando et sexta vel tertia, ut superius dictum est, et sunt quinque organales quae semper sunt in quinta vel quarta vel tertia vel sexta et duae ultimae quarum penultima respicit cantum, ut ultima convenienter cum cantu iungatur. Nam considerandum est, ne taliter organales voces a cantu sequestrentur, ut ad cantum copula reverti nequeat. Et sic debet ordine fieri, quod nec nimis spissim nec nimis raro copulationes faciamus, sed examussim ac temperate omnia coniungamus. Ultimum exemplum, ut:</p>
+      <p id="ANOORG0020">[MD13:24,3; text: D, F, E, C, a, c, G, AMEN]</p>
+    </body>
+  </text>
+</TEI>

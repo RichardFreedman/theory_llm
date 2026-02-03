@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>[Octo principalia de arte organisandi]</title>
+        <title type="abbrev">ANOOPAO</title>
+        <author>Anonymous</author>
+        <date notBefore="1400" notAfter="1499">15th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Peter Slemon</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Phil Kurasz</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>2004</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Elzbieta Witkowska-Zaremba, "
+<emph>Ars organisandi</emph> around 1430 and Its Terminology," in 
+<emph>Quellen und Studien zur Musiktheorie des Mittelalters</emph>, vol. 3, ed. Michael Bernhard, Bayerische Akademie der Wissenschaften, Veröffentlichungen der Musikhistorischen Kommission, Band 15 (Munich: Bayerische Akademie der Wissenschaften / C. H. Beck, 2001), 387–98. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: Tractatus de tactu: Octo principalia de arte organisandi</title>
+          
+<idno type="LML">TACT. Octo princ.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">CZ-Pak M. CIII (1463), 93-96</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANOOPAO0001">
+      <pb n="[387]" />Octo principalia de arte organisandi</p>
+      <p id="ANOOPAO0002">[93r in marg.] Pro utilitate artem organisandi scire cupientium necnon extirpandi multarum dubitacionum, que apparent ex informacione multorum non intelligencium, de gratia dei componam unum tractatulum. Qui quidem tractatulus in se continet principium, ex quo ars tangendi presupponit concordanciam. Unde dicendum erit primo de concordantibus; secundo de tenore, super quem debet fieri discantus; tercio, quomodo debet formari super aliquem tenorem discantus; quarto ponuntur tactus generales, ex quibus formabitur discantus; quinto, quomodo formabitur discantus secundum diversas prolaciones; sexto differenciam notarum; septimo digitorum disposicionem; octavo de contratenore ipsius tenoris; deinde de aliis minus principalibus, circa predicta que occurrunt.</p>
+      <p id="ANOOPAO0003">Primum principale</p>
+      <p id="ANOOPAO0004">Sequitur de concordantibus; prius tamen notando, quod corpus organicum caret duabus clavibus, scilicet Gammaut et are, sed primo a bmi incipimus. Ulterius in modo igitur procedendi, tunc bmi habet istas concordancias:</p>
+      <p id="ANOOPAO0005">Bmi</p>
+      <p class="textFig" id="ANOOPAO0006">
+      <lb />Terciam&#160;depressam&#160;&#160;&#160;&#160;&#160;dsolre
+      <br />&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;elevatam&#160;&#160;&#160;&#160;&#160;&#160;elami&#160;semitonium
+      <lb />Quartam&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;elami&#160;tonus
+      <br />Quintam&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;ff&#160;faut#
+      <lb />Sextam&#160;depressam&#160;&#160;&#160;&#160;&#160;&#160;gsolreut
+      <br />&#160;&#160;&#160;&#160;&#160;&#160;&#160;elevatam&#160;&#160;&#160;&#160;&#160;&#160;&#160;alamire#
+      <lb />Octavam&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;bfabmi
+      <br />Decimam&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;dsolre
+      <lb />Undecimam&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;elami
+      <br />Duodecimam&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;ffaut#
+      <lb />Tredecimam&#160;depressam&#160;&#160;gsolreut
+      <br />&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;elevatam&#160;&#160;&#160;alamire#
+      <lb />Quindecimam&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;bfabmi
+      <br /></p>
+      <p id="ANOOPAO0007">
+      <pb n="[388]" />Cfaut</p>
+      <p class="textFig" id="ANOOPAO0008">
+      <lb />Terciam&#160;depressam&#160;&#160;&#160;&#160;&#160;elami&#160;#
+      <br />&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;elevatam&#160;&#160;&#160;&#160;&#160;&#160;elami
+      <lb />Quartam&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;ff&#160;faut
+      <br />Quintam&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;gsolreut
+      <lb />Sextam&#160;depressam&#160;&#160;&#160;&#160;&#160;&#160;alamire#
+      <br />&#160;&#160;&#160;&#160;&#160;&#160;&#160;elevatam&#160;&#160;&#160;&#160;&#160;&#160;&#160;alamire
+      <lb />Octavam&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;csolfaut
+      <br />Decimam&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;elami
+      <lb />Undecimam&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;ff&#160;faut
+      <br />Duodecimam&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;gsolreut
+      <lb />Tredecimam&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;alamire
+      <br /></p>
+      <p id="ANOOPAO0009">Et notandum, quod nullam habet concordanciam secunda[m], septima[m] nec nona[m], quartam decima[m], ut patet intuenti.</p>
+      <p class="textFig" id="ANOOPAO0010">
+      <lb />[93v&#160;in&#160;marg.]&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;dsolre
+      <br />Terciam&#160;depressam&#160;&#160;&#160;&#160;&#160;ffaut
+      <lb />&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;elevatam&#160;&#160;&#160;&#160;&#160;&#160;ffaut&#160;#
+      <br />Quartam&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;gsolreut
+      <lb />Quintam&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;alamire
+      <br />Sextam&#160;depressam&#160;&#160;&#160;&#160;&#160;&#160;bfa
+      <lb />&#160;&#160;&#160;&#160;&#160;&#160;&#160;elevatam&#160;&#160;&#160;&#160;&#160;&#160;&#160;bmi
+      <br />Octavam&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;dlasolre
+      <lb />Decimam&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;ffaut
+      <br />Undecimam&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;gsolreut
+      <lb />Duodecimam&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;alamire
+      <br />Tredecimam&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;bfabmi
+      <lb /></p>
+      <p id="ANOOPAO0011">Elami</p>
+      <p class="textFig" id="ANOOPAO0012">
+      <br />Terciam&#160;depressam&#160;&#160;&#160;&#160;&#160;gsolreut
+      <lb />&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;elevatam&#160;&#160;&#160;&#160;&#160;&#160;alamire#
+      <br />Quartam&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;alamire
+      <lb />Quintam&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;bfahmi
+      <br />Sextam&#160;depressam&#160;&#160;&#160;&#160;&#160;&#160;csolfaut
+      <lb />&#160;&#160;&#160;&#160;&#160;&#160;&#160;elevatam&#160;&#160;&#160;&#160;&#160;&#160;&#160;csolfaut&#160;#
+      <br />
+      <pb n="[389]" />&#160;Octavam&#160;&#160;&#160;&#160;&#160;&#160;&#160;elami
+      <lb />Decimam&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;gsolreut
+      <br />Undecimam&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;alamire
+      <lb />Duodecimam&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;bfabmi
+      <br />Tredecimam&#160;depressam&#160;&#160;csolfa
+      <lb />&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;elevatam&#160;&#160;&#160;csolfa#
+      <br /></p>
+      <p id="ANOOPAO0013">ff faut</p>
+      <p class="textFig" id="ANOOPAO0014">
+      <lb />Quartam&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;bfabmi#
+      <br />Quintam&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;csolfaut
+      <lb />Sextam&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;dlasolre
+      <br />Octavam&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;ffaut
+      <lb />Decimam&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;alamire
+      <br /></p>
+      <p id="ANOOPAO0015">Gsolreut</p>
+      <p class="textFig" id="ANOOPAO0016">
+      <lb />Terciam&#160;depressam&#160;&#160;&#160;&#160;&#160;bfabmi#
+      <br />&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;elevatam&#160;&#160;&#160;&#160;&#160;&#160;bfabmi
+      <lb />Quartam&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;csolfaut
+      <br />Quintam&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;dlasolre
+      <lb />Sextam&#160;depressam&#160;&#160;&#160;&#160;&#160;&#160;elami&#160;#
+      <br />&#160;&#160;&#160;&#160;&#160;&#160;&#160;elevatam&#160;&#160;&#160;&#160;&#160;&#160;&#160;elami
+      <lb />Octavam&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;gsolreut
+      <br />Decimam&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;bfabmi
+      <lb />[94r&#160;in&#160;marg.]&#160;Alamire
+      <br />Terciam&#160;depressam&#160;&#160;&#160;&#160;&#160;csolfaut
+      <lb />&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;elevatam&#160;&#160;&#160;&#160;&#160;&#160;csolfaut#
+      <br />Quartam&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;dlasolre
+      <lb />Quintam&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;elami
+      <br />Sextam&#160;depressam&#160;&#160;&#160;&#160;&#160;&#160;ffaut
+      <lb />elevatam&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;ffaut#
+      <br />Octavam&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;alamire
+      <lb /></p>
+      <p id="ANOOPAO0017">bfa</p>
+      <p class="textFig" id="ANOOPAO0018">
+      <br />Terciam&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;dlasolre
+      <lb />Quintam&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;ffaut
+      <br />Sextam&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Gsolreut
+      <lb /></p>
+      <p id="ANOOPAO0019">
+      <pb n="[390]" />Sic similiter dicendum est de octavis ascendendo. Sed quia plures non habemus claves cum pedalibus, ergo non est necesse ultra ponere concordancias.</p>
+      <p id="ANOOPAO0020">Sed tamen de semitoniis aliud est dicendum, quia dum unus in semitoniis tangere velit, debet mutare bmi in ut ascendendo, ut in figura inferius statim posita apparebit, alamire bfabmi# descendentes: dsolre# elami# ffaut# gsolreut# et cetera.</p>
+      <p id="ANOOPAO0021">In semitoniis</p>
+      <p id="ANOOPAO0022">bmi</p>
+      <p class="textFig" id="ANOOPAO0023">
+      <br />Terciam&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;elami#
+      <lb />Quartam&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;elami
+      <br />Quintam&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;ffaut#
+      <lb />Sextam&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;gsolreut#
+      <br /></p>
+      <p id="ANOOPAO0024">d[la]solre#</p>
+      <p class="textFig" id="ANOOPAO0025">
+      <lb />Terciam&#160;depressam&#160;&#160;&#160;&#160;&#160;elami
+      <br />&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;elevatam&#160;&#160;&#160;&#160;&#160;&#160;ffaut
+      <lb />Quartam&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;ffaut#
+      <br />Quintam&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;gsolreut#
+      <lb />Sextam&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;bfabmi#
+      <br /></p>
+      <p id="ANOOPAO0026">elami#</p>
+      <p class="textFig" id="ANOOPAO0027">
+      <lb />Terciam&#160;depressam&#160;&#160;&#160;&#160;&#160;ffaut#
+      <br />&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;elevatam&#160;&#160;&#160;&#160;&#160;&#160;[alamire]&#160;gsolreut
+      <lb />Quartam&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;gsolreut#
+      <br />Quintam&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;bfabmi#
+      <lb /></p>
+      <p id="ANOOPAO0028">*ff faut</p>
+      <p class="textFig" id="ANOOPAO0029">
+      <br />Terciam&#160;depressam&#160;&#160;&#160;&#160;&#160;gsolreut
+      <lb />&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;elevatam&#160;&#160;&#160;&#160;&#160;&#160;elami
+      <br />Quartam&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;bfahmi
+      <lb /></p>
+      <p id="ANOOPAO0030">Gsolreut</p>
+      <p class="textFig" id="ANOOPAO0031">
+      <br />Terciam&#160;depressam&#160;&#160;&#160;&#160;&#160;alamire
+      <lb />&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;elevatam&#160;&#160;&#160;&#160;&#160;&#160;bfahmi*
+      <br /></p>
+      <p id="ANOOPAO0032">
+      <pb n="[391]" />Secundum principale</p>
+      <p id="ANOOPAO0033">Sequitur de secundo principali, scilicet de tenore. Et talis est duplex, scilicet ascendens et descendens, ut patet in figura subscripta:</p>
+      <p id="ANOOPAO0034">[94v in marg.]</p>
+      <p id="ANOOPAO0035">Exemplum 1:</p>
+      <p id="ANOOPAO0036">[Anonymous, Ars organisandi, 391; text: ascendens, descendens, sine saltu, cum saltu, cut, dre, emi, ffa, gsol, ala, bmi, cfa, dsol, ela, a, b, c, d, e, f, g, ut, re, mi, fa, sol, la, ff, bh] 
+      <figure>
+        <graphic url="/images/ANOOPAO_01GF.gif" />
+      </figure></p>
+      <p id="ANOOPAO0037">Et hoc patet de tenore.</p>
+      <p id="ANOOPAO0038">Tertium principale</p>
+      <p id="ANOOPAO0039">Sequitur iam de tercio principali, scilicet quomodo debet formari discantus. Et quia sciendum quod duplex est tenor, secundum hoc etiam dabitur duplex informacio.</p>
+      <p id="ANOOPAO0040">
+      <pb n="[392]" />Et primo, quomodo ascenditur sine saltu. Pro quo sciendum est, quod quandocumque ascenditur sine saltu, tactus potest incipi in qualibet concordancia, principaliter tamen in quinta vel in octava. Et nota: si aliquando discantus cum tenore in discordancia incipitur, hoc potest fieri, sed presupponitur, quod finis discantus cum tenore concordet, licet aliquando disconvenit in fine. Sed hoc fieri non potest nisi quando idem tactus sepius repetitur.</p>
+      <p id="ANOOPAO0041">Si autem descenditur sine saltu, tunc eodem modo potest intelligi, scilicet quod tactus potest incipi in qualibet concordancia, principaliter tamen in quinta vel in octava, ita quod hoc sit generale. Sed ubi debet finiri tactus sine saltu, pro illo nota, quod debet finiri in tercia vel in sexta. Si autem finitur in alia concordancia, hoc iterum non potest fieri nisi idem tactus pluries repetitur.</p>
+      <p id="ANOOPAO0042">Et nota, quod quandocumque ascenditur vel descenditur cum saltu, tactus potest incipi in qualibet concordancia, principaliter tamen in quinta vel in octava. Et debet finiri in penultima clave illius, nunquam in qua fit saltus.</p>
+      <p id="ANOOPAO0043">
+      <pb n="[393]" />Exemplum: quando ascenditur de ut in fa, tunc tactus finitur in mi, et sic de aliis. Si autem descenditur de la in re, tunc tactus semper finiri debet in ut. Si autem de sol in ut, tactus super ut debet finiri in b duro. Et intellige: in penultima clave quinte vel octave illius, in qua fit saltus.</p>
+      <p id="ANOOPAO0044">[95r in marg.] Quartum principale</p>
+      <p id="ANOOPAO0045">Sequitur de quarto principali, scilicet de posicione tactuum generalium, ex quibus formantur tactus de omnibus prolacionibus. Et sunt triplices, scilicet descendentes, ascendentes et indifferentes, ut hic secuntur:</p>
+      <p id="ANOOPAO0046">Exemplum 2:</p>
+      <p id="ANOOPAO0047">[Anonymous, Ars organisandi, 393; text: Tactus generales, descendentes, ascendentes, indifferentes]</p>
+      <p id="ANOOPAO0048">Quintum principale</p>
+      <p id="ANOOPAO0049">Sequitur de quinto principali, scilicet qualiter ex tactibus precedentibus debent formari tactus de omnibus 
+      <pb n="[394]" />prolacionibus. Pro quo sciendum, quod quadruplex est prolacio secundum quod communiter tangitur. Prima est octo notarum cum 4 mixtim. Alia est 6 notarum cum duodecim. Tercia est simplex 4 notarum. Quarta est trium notarum.</p>
+      <p id="ANOOPAO0050">Deinde est sciendum, quod modus octo notarum formatur tali modo. Si ascenditur vel descenditur, tunc recipe semper duos simul ex precedentibus tactibus, in figura ut patet. Si ascenditur, tunc recipe tactum ascendentem vel descendentem vel ascendentem cum indifferente, ita quod prepones semper ascendentem vel indifferentem. Si autem descenditur, tunc iterum recipe duos tactus, quos tibi placet, ita quod preponatur descendens. Et omnes notas debes virgulare. Item nota, quod tactus illi semper debent poni [immediate ante tactum] secundum regulas postpositas.</p>
+      <p id="ANOOPAO0051">Sed ille addiciones preposite possunt poni immediate ante tactum vel recte supra vel infra secundum placitum.</p>
+      <p id="ANOOPAO0052">Sed dum vis simpliciter tangere 4 notarum, tunc pone super quamlibet notam pedalem unum tactum ex illis prioribus suprapositis.</p>
+      <p id="ANOOPAO0053">
+      <pb n="[395]" />Si autem vis tangere trium notarum, tunc simpliciter pone unum tactum super quamlibet notam pedalem, ita quod semper facias duas breves et duas longas vel cum addicionibus, ut prius.</p>
+      <p id="ANOOPAO0054">Coniunctos tactus trium notarum simpliciter vel cum addicione componens duos, habebis modum duodecim notarum.</p>
+      <p id="ANOOPAO0055">Sequitur exemplum de ascendentibus:</p>
+      <p id="ANOOPAO0056">Exemplum 3: [95v in marg.]</p>
+      <p id="ANOOPAO0057">[Anonymous, Ars organisandi, 395; text: Exemplum primi ascendentis cum addicione, Exemplum secundi ascendentis, Exemplum tercii ascendentis, Exemplum primi descendentis, Exemplum primi indifferenter se habentis, Exemplum secundi indifferentis, Exemplum secundi descendentis, tercii descendentis, secundi indifferentis, tercii indifferentis]</p>
+      <p id="ANOOPAO0058">
+      <pb n="[396]" />Item nota, quod tactus penultimi in 4 notarum debent ita formari, quod pones ante quemcumque tactum vis quamcumque ex illis duabus semibrevibus. Exempla posita sunt immediate infra:</p>
+      <p id="ANOOPAO0059">Exemplum 4:</p>
+      <p id="ANOOPAO0060">[Anonymous, Ars organisandi, 396,1] 
+      <figure>
+        <graphic url="/images/ANOOPAO_02GF.gif" />
+      </figure></p>
+      <p id="ANOOPAO0061">Sextum principale</p>
+      <p id="ANOOPAO0062">Sequitur de sexto principali de differencia notarum.</p>
+      <p id="ANOOPAO0063">Exemplum 5:</p>
+      <p id="ANOOPAO0064">[Anonymous, Ars organisandi, 396,2; text: differentia notarum, semiminime, minime, semibreves, breves, longe, duplices, cardinales, vacue, semivacue, fusieles, plicate, altere breves]</p>
+      <p id="ANOOPAO0065">
+      <pb n="[397]" />Nota: quelibet duplex valet duas longas; et quelibet longa duas breves; et quelibet brevis valet duas semibreves; et quelibet semibrevis valet duas minimas; et quelibet minima valet duas semiminimas. Et ergo per regulam logicalem, quando alterum de altero predicatur ut de subiecto, quecumque et cetera.</p>
+      <p id="ANOOPAO0066">Septimum principale</p>
+      <p id="ANOOPAO0067">Sequitur de disposicione digitorum. Pro quo sciendum, quod primus tactus ascendens incipitur cum indice manus sinistre et finitur cum indice manus dextre. Secundus vero incipitur cum indice manus sinistre et finitur cum anulari manus dextre. Tercius incipitur cum indice manus dextre et finitur cum medio eiusdem. Primus autem descendens incipitur cum medio digito manus dextre et finitur cum indice manus sinistre. [96r in marg.] Secundus descendens incipitur cum indice manus dextre et finitur cum indice eiusdem. Tercius descendens incipitur cum indice manus dextre et finitur cum indice manus sinistre. Primus vero indifferens incipitur cum indice et medio manus dextre et eodem modo finitur. Secundus autem incipitur cum indice manus sinistre et finitur cum eodem. Tercius vero incipitur cum medio dextre et finitur cum indice eiusdem.</p>
+      <p id="ANOOPAO0068">Exemplum 6:</p>
+      <p id="ANOOPAO0069">[Anonymous, Ars organisandi, 397; text: digitus, sinister index, dexter index, ascendens, medius dexter, fidius dexter, descendens, Prima regula, Secunda regula, Tercia regula, et finitur cum indice]</p>
+      <p id="ANOOPAO0070">Octavum principale</p>
+      <p id="ANOOPAO0071">Sequitur de contratenore. Quandocumque tenor ascendit, tunc potest assumi quinta vel tercia, sicut patet, si quis ascendens c d e f g a, tunc ad c debet assumere E vel G, ad d f verum vel a, similiter ad e et ad f. Sed 
+      <pb n="[398]" />descendendo, tunc semper debet assumi tercia. Exemplum: si descenditur de A in G, tunc ad A debet sumi semper f semitonium. Si autem de G in f, tunc debet assumi E. Si de ff in E, tunc ad f debet assumi la vel d. Si autem de E in d et non ultra, ad E debet sumi C semitonium vel a semitonium. Si autem descenditur de d in C tunc ad d debet assumi ff semitonium.</p>
+    </body>
+  </text>
+</TEI>

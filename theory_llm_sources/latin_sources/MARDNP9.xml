@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>De nuptiis Philologiae et Mercurii, Liber IX, De musica</title>
+        <title type="abbrev">MARDNP9</title>
+        <author>Martianus Capella</author>
+        <date notBefore="200" notAfter="499">3rd-5th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>T</resp>
+        <persName>Stephen E. Hayes</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Peter M. Lefferts</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Angela Mariani</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1994</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>Antiquae musicae auctores septem. Graece et Latine, Marcus Meibomius restituit ac notis explicavit</emph>, 2 vols. (Amstelodami: apud Ludovicum Elzevirium, 1652), 2:165–98.
+</bibl>
+        <bibl type="work">
+          
+<title>Martianus Capella: De nuptiis Philologiae et Mercurii</title>
+          
+<idno type="LML">MART. CAP.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">A-Wn Cod. 51, 162-166 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">A-Wn Cod. 266, 112v-149 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">CH-BEb B 56, 7v-176v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-BAs Class. 9, 151-170 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 14729, 70v-219v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-W 253 Gud. Lat. 4°, 1-6v, 80-85, 130v-134 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 7200, 207v-218v, 221 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 7211, 133-134 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ob Canon. Class. Lat. 273, 64-65v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fn Conv. Soppr. F. III. 565, 30v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fr 652, 36 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-MC 318, 53, 53-55 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat Reg. lat. 1987, 1-145v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Vnm Lat. Z. 497 (1811), 148v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">PL-Kj 1861, 8 (Extraits)</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="MARDNP90001">
+      <pb n="[165]" />Martiani Minei Felicis Capellae Afri Carthaginiensis</p>
+      <p id="MARDNP90002">De mvsica</p>
+      <p id="MARDNP90003">Liber IX.</p>
+      <p id="MARDNP90004">IAm facibus lassos spectans marcentibus ignes</p>
+      <p id="MARDNP90005">Instaurare iubet. tunc hymenea Venus;</p>
+      <p id="MARDNP90006">Quis modus, inquit, erit? quonam sollertia sine</p>
+      <p id="MARDNP90007">Impedient thalamos ludere gymnasia?</p>
+      <p id="MARDNP90008">Diriguit comis, blandisque assueta voluptas,</p>
+      <p id="MARDNP90009">Et noster pallens contrahit ora puer.</p>
+      <p id="MARDNP90010">Ipsa etiam fulcris redimicula nectere sueta,</p>
+      <p id="MARDNP90011">Flora decens trina anxia cum Charite est.</p>
+      <p id="MARDNP90012">Nec melicum recinens modulatur tibia carmen,</p>
+      <p id="MARDNP90013">Nec dulcis temptat psallere Melpomene.</p>
+      <p id="MARDNP90014">Omnia quae tenero moris servescere ludo</p>
+      <p id="MARDNP90015">In cumulum doctae vocis honore tacent.</p>
+      <p id="MARDNP90016">Nec Suada inlecebris sponsalia pectora mulcet,</p>
+      <p id="MARDNP90017">Nec stimula incensa allicit aculeo.</p>
+      <p id="MARDNP90018">Quinetiam interulos gaudens dissolvere nexus,</p>
+      <p id="MARDNP90019">Blandificaque libens stringere corda face.</p>
+      <p id="MARDNP90020">Nictantes oculos reprimit stupefacta vapore,</p>
+      <p id="MARDNP90021">Nec perferre valet Gorgonos ora trucis.</p>
+      <p id="MARDNP90022">Si erudita placent certe sponsalia divi,</p>
+      <p id="MARDNP90023">Saltem docta ferat carmina Calliope.</p>
+      <p id="MARDNP90024">Nam simul oblectans vocis modulamine mentes,</p>
+      <p id="MARDNP90025">Taedia dulcisonis auferet illa tonis.</p>
+      <p id="MARDNP90026">Quippe scruposis fateor lassata puellis,</p>
+      <p id="MARDNP90027">Insuetis laedor moestificata moris.</p>
+      <p id="MARDNP90028">Pronuba sic volupe est haec seria carpere Iuno,</p>
+      <p id="MARDNP90029">Nec cura astriferi te stimulat thalami.</p>
+      <p id="MARDNP90030">Ast ego succubui, lepidisque assueta choreis</p>
+      <p id="MARDNP90031">Non valeo tristes cernere Cecropidas.</p>
+      <p id="MARDNP90032">
+      <pb n="[166]" />Et cum dicto resupina paululum, reclinisque pone consistentis sese permisit amplexibus voluptatis. Cujus verbis assertionique ruricolae omnes, cunctique fluctigenae, quam plures etiam astriluci assensere divi: praesertimque Lemnius mulciber fabrilium tantum operum sollers maritus promptiore adtestatione conlaudat. Tunc denique, quod decenter innixa, atque ipsa relabentem lassitudo decuerat, Mars eminus conspicatus tenerae cum admirationis obtutu languidiore fractior voce laudavit, profundaque visus est traxisse suspiria. Nec Bromius in favoris gratia dispar fuit. Quinetiam ipsum Atlantiadem tam flammatae cupiditatis cura concussit; ut omittere vellet quae circa sponsalem coetum ornatiora disposuit. Tanti quippe visum nunquam Veneri displicere. Verum Superum pater licet insinuatione Germanae ut properaret admonitus; tamen ne quid nuptialibus derogaret ornatibus, aut tantae eruditionis examen delitiosa festinatione convelleret, qui probandarum numerus superesset, nihil afferens festinationis exquirit. Cui Delius Medicinam suggerit, Architectonicamque in praeparatis assistere. Sed quoniam his mortalium rerum cura, terrenorumque sollertia est, nec cum aethere quicquam habent superisque confine; non incongrue, si fastidio respuuntur, in senatu caelico reticebunt ab ipsa deinceps Virgine explorandae discussius. Vna vero, quae potissima caeli siderumque dilectio est, examinis hujus tam favore quam voluptate disquiritur, tuisque conspectibus non poterit sine scelere viduari. Sed illud prae cunctis intimare velim, quod dotis offerendae cumulandaeque reciproco, alias advexit Virginis mater puellas, quas opulentis conlocatura muneribus examine isto explorare constituit. Hae igitur non dispares numero, nec disgregae venustate, eruditionis etiam dignitate paucis adstantium conferendae, in penetralibus quoque virginis secretis et sanctioribus alumnatae, quone odio, quibusque delitiis, ac prorsus enervi mollitudine sideralis curiae transeuntur, Iovialis vigoris majestate percensae? Hic Tritonida, Atquin, ait, Virgines, quas Phronesis educavit, superum incessabiliter 
+      <pb n="[167]" />pectorum arcana tenuerunt: nec fuit vestrum quisquam, qui non illis voluntatis abditae interpretamenta commiserit. Denique ex his quam plures antistitiam professae divum, ac ni per illas nefas in terris sanctis libare numinibus, certe litare penitus abnegatum. Verum transactae virgines eruditionis castae praestitere miracula. Hae familiaritatis vestrae praeferunt documenta. Nam inter divina humanaque discidia solae semper interjunxere colloquia. Has igitur ingressas agnoscetis probabitisque divi.</p>
+      <p id="MARDNP90033">Quae dum Delius Pallasque differerent, earum disquisita vocabula. Tunc Phoebus; Genethliace prior, inquit, astabit; Quae rationis aetheriae conscia pensa Lachesis adopertae, atque instantium saeculorum gerenda denunciat. Deinde Symbolice, quae varietatibus ominatis ventura componens, auspiciorum proventus pensat futurorum. Oeonistice tertia est, per quam tripos illa ventura denunciat, atque omnis eminuit nostra cortina. Denique in argumentum praescientiae mihi corvus adludit. Cygnus etiam sociatur, ut diei noctisque proventus nos avibus praesentire concolor temporum pluma testetur. Ipsaque tripos trini cursus praesagia pollicetur, hoc est, exstantis, instantis, et rapti. Demum trigarium supplicantis semper germanitatis adveniet, quod vestra vulgo suffragia pollicendo incertos mortalium sensus primum in spem opis superae proritavit, praesidiique indigam incultum fecit procedere nationem. Hanc igitur sive trigeminam feminam, sive tres in unius nominis vocabulum conspirantes, quis in coelum venientes inexaminatas adtemptet explodere, cum per eas in terras nos certum sit demeare? Post has vero adstabit decens illa sidereis fulguransque luminibus, quae epistolaris tua et dicta est et probata. Huic semper pater tuas assereris credidisse manubias, ac trisulcae lucis commisisse fulgorem, quae vias, vestigia, adventum, exitusque ignivagae denunciationis agnoscit. Huic igitur feminae colloquium denegamus, per quam edictorum tuorum admonitus mortalibus innotescunt? Cur igitur pater optime remoraris et intromittere eas alacer et probare?</p>
+      <p id="MARDNP90034">
+      <pb n="[168]" />Postquam haec Latoius dixit, Iuppiter Harmonien venire, quam suggestum est Mercurialium solam superesse; praecepit, tunque alias in ordinem continuari. Hic Luna jam gemina emensi diei portione commonita, ingressuram mox, inquit, feminam possum explorare vobiscum? Caeterum propinquante confinio noctis consequentibus tempora impertiri non possum. Quippe plaustrum mihi taurusque, ac mundanae discursionis itiner subeundum, nec caeterarum me auscultare commentis stelligeri raptus meta permittit. Et fateor, vellem, si quam examinationem Virginum prorogaret auctoritas, ipsa quoque tam praecluis eruditionis asserta cognoscere. praesertimque cum perendinatio rationabiliter expectatur, ne lassata cognoscentis curae fatigatione fastidia omnem doctae intimationis excursum gravatae laboribus intentionis excludant. Et illa expetendae cognitionis adprobandaeque subtilitatis in odium noscendorum obtusa multiplici prolixitate vertatur. AEquius igitur duco ampliandam discussionem tantum in ardentem sitim aurium vividarum. Quae cum Luna dissereret, omnes certatim adsensere divi. Deinde utrum repensatrix dato die conferendae dotis prorogari jure publico posset, inquiritur. Quo dicto arcanus ille prisci juris adsertor magna nepotum obsecratione consulitur; responditque regulariter etiam matrimonio copulato dotem ducere feminam viro nullis legibus prohiberi. Ac tunc Iuppiter periti patris eruditione commonitus; Habeo, inquit, mea pignora gratulandum, quod fas asserit, quicquid vos velle cognovi. Neque enim fastuosa rigidus elatione defugiam aut vestrum crebrius ad celebrare consilium, aut doctarum Virginum examinare sollertiam defidis ignaviae dissimulatione piguerit, praesertim cum terris indecenter expulsas solis oporteat adhaerere sideribus. Nunc igitur praecellentissimam feminarum Harmoniam, quae Mercurialium sola superest, audiamus. Haec quippe est, quae superum curas prae cunctis poterit permulcere, aethera cantibus numerisque laetificans, et nostra tantummodo cupit celebrare palatia, exosa terrigenae stoliditatis ignaviam. quam melicorum indocilis 
+      <pb n="[169]" />auget sine fine mortalitas. Denique jam pridem homines dirutaque gymnasia, abscedens orbe terrisque, dampnavit. Ac vix Cyllenidae indagantis excursibus nunc comprehensa, post longae occultationis oblivia de fuga revocatur, reduciturque latibulis. Hanc igitur repertam post saecula numerosa, et tandem in usum melicum carmenque renovatam, tam volupe est, quam conducit audire. Caeterae vero eruditionis doctissimae, sacraeque Germanae, cum renovata lux fuerit intromissae, intentioris curae examine probabuntur.</p>
+      <p id="MARDNP90035">His orsis Iovialibus Phoebus admonitus, Virginem sibi prorsus accommodam admissurus egreditur. Verum Paphie remeantis filiae gratulatione concussa, annuit puero praecinere nuptiale carmen. Itaque Hymenaeus alacri tandem vigore luminatus, nec ipsa jam renuente Tritonide, sic coepit.</p>
+      <p id="MARDNP90036">Aurea flammigerum cum Luna subegerit orbem,</p>
+      <p id="MARDNP90037">Rosis jugabo lilia.</p>
+      <p id="MARDNP90038">Virgo Deusque sacro sociabunt foedera lecto,</p>
+      <p id="MARDNP90039">Fulcris parate cinnama.</p>
+      <p id="MARDNP90040">Hesperus intactam servet licet usque puellam,</p>
+      <p id="MARDNP90041">Nuptam videbis Phosphore.</p>
+      <p id="MARDNP90042">Nec matris lacrymae, pressi nec viribus ungues</p>
+      <p id="MARDNP90043">Nexus valebunt rumpere.</p>
+      <p id="MARDNP90044">Ne thalamos metuas, eris hoc quod Iuno Tonanti est,</p>
+      <p id="MARDNP90045">Quae nunc sorore dulcior.</p>
+      <p id="MARDNP90046">Si placuit docti sollertia sacra mariti,</p>
+      <p id="MARDNP90047">Magis placebunt oscula.</p>
+      <p id="MARDNP90048">Aurora exoriens roseis spectabit ocellis</p>
+      <p id="MARDNP90049">Flores resecti praemia.</p>
+      <p id="MARDNP90050">Ipse ego pallentem speculabor luce puellam,</p>
+      <p id="MARDNP90051">Sese occulentem visibus.</p>
+      <p id="MARDNP90052">Conscia jam Veneris nova serta parate Napeae,</p>
+      <p id="MARDNP90053">Crocumque lecto spargite.</p>
+      <p id="MARDNP90054">Inque thorum violas certatim fundite conchis,</p>
+      <p id="MARDNP90055">Pulvinar almum comite.</p>
+      <p id="MARDNP90056">
+      <pb n="[170]" />Crinale spicum pharetris deprome Cupido,</p>
+      <p id="MARDNP90057">Libens capillum solvere.</p>
+      <p id="MARDNP90058">Flammea virgineum quae obnubere sueta pudorem,</p>
+      <p id="MARDNP90059">Regina deme pronuba.</p>
+      <p id="MARDNP90060">Te blandum, teneri quae conscia sola doloris,</p>
+      <p id="MARDNP90061">Venus decens solabitur.</p>
+      <p id="MARDNP90062">Quae nunc dura novo noscens committere amori,</p>
+      <p id="MARDNP90063">Parabit illa pectora.</p>
+      <p id="MARDNP90064">Tu modo quae mando, oculos delecta decoros,</p>
+      <p id="MARDNP90065">Reconde mentis intimo.</p>
+      <p id="MARDNP90066">Doctiloquum chelis juvenem complexa lacertis</p>
+      <p id="MARDNP90067">Foecunda redde pignora.</p>
+      <p id="MARDNP90068">His Hymenaeo diutius, velut Fescennina quadam licentia, personante geminanteque crebrius, placuisse ratus, maxima circumstantium multitudo Tritoniden, Dionenque comitata digreditur, et ad nos reductae tandem Virginis studio properanter concurritur. Verum tam puellarum, quae deas dominae consecutae pone forte constiterant, quam Heroum populus, qui jussus advenerat, properabat. Illae ut psallendi materiem discerent: hi ut sacri vultus memoriam recenserent. Nec mora, et ecce quaedam suavitas intemptata, aulidaeque dulcedinis cantus insonuit, ac melodiae ultra cuncta rerum oblectamina recinentes, auditum mirantium complevere divum. Non enim simplex quidam ex unius materiae tinnitibus modulatus, sed omnium organicarum vocum consociata permixtio, quandam plenitudinem cuncticinae voluptatis admisit. Quo canore diutius circumstantium pectora deorumque mulcente; illae egressorum paulo ante turbae, adventum Virginis praeeuntes, ac tanti comitatus praeambulare visuntur: sed non cassae dulcedinis, nec sine aliquo sonori modulaminis argumento, aut opere revertuntur. Nam Erotime Cypridis filia, et Himeros cupidinis assecutor, itemque Terpsice, famulitio Dionae concinentes, gratissime intravere primum. sed puer monauliter sonabat. Post hos psallentes Pitho, Voluptas et Gratiae admixtis lyrae vocibus, atque 
+      <pb n="[171]" />ipsae harmonicis dissultantes motibus advenere dextra laevaque. Interea praecedebat numerus Heroum, crinitorumque sapientum, qui omnes modulatione quidem leni, parvaque voce qualibet dulcedine murmurantes. Sed alii laudes deorum, hymnosque quam plurimi: alii musicos tonos, quos modo compererant, retexebant. Verum per medium quidam agrestes canorique Semidei, quorum hircipedem Pandura; Sylvanum harundinis enodis fistula sibilatrix, rurestris, Faunum tibia, decuerunt. Verum sequens Heroum praeclue enituit admiratione conventus. Nam Orpheus, Amphion, Arionque doctissimi, aurata omnes testudine consonantes flexanimum pariter edidere concentum.</p>
+      <p id="MARDNP90069">Nam Thrax quo duri rumpere regna Erebi,</p>
+      <p id="MARDNP90070">Quoque suam meruit immemor Eurydicen,</p>
+      <p id="MARDNP90071">Quo cantu stupidae tigridis ira ruit,</p>
+      <p id="MARDNP90072">Quo fertur rabidas perdomuisse feras,</p>
+      <p id="MARDNP90073">Quo vidit rigidas glandibus ire comas</p>
+      <p id="MARDNP90074">Istmaros, et silvas currere monte suas:</p>
+      <p id="MARDNP90075">Carmine quo Strymon continuit latices,</p>
+      <p id="MARDNP90076">Et Tanais versis saepe reflatus aquis:</p>
+      <p id="MARDNP90077">Quo inpune accubuit rictibus agna lupi,</p>
+      <p id="MARDNP90078">Et lepus inmiti contulit ora cani:</p>
+      <p id="MARDNP90079">Hoc nunc permulsit insonuitque melo,</p>
+      <p id="MARDNP90080">Accumulansque magis carmina sacra Iovi.</p>
+      <p id="MARDNP90081">Quo Amphion rigido in corpore mentis iter,</p>
+      <p id="MARDNP90082">Quoque dedit montes sumere posse animas.</p>
+      <p id="MARDNP90083">Quo sensus duris cautibus inseruit,</p>
+      <p id="MARDNP90084">Et docuit rupes carmina velle sequi.</p>
+      <p id="MARDNP90085">Nam muros Thebis dulcisonis fidibus</p>
+      <p id="MARDNP90086">Praesidiumque dedit carminis arbitrio.</p>
+      <p id="MARDNP90087">Sed nec Arionam marmora surda chelyn</p>
+      <p id="MARDNP90088">Tempsere, extremam cum flagitaret opem.</p>
+      <p id="MARDNP90089">Et licet indomiti dira procella Nothi,</p>
+      <p id="MARDNP90090">Spumea Cinei verreret ima maris;</p>
+      <p id="MARDNP90091">
+      <pb n="[172]" />Delphinas totis sollicitavit aquis,</p>
+      <p id="MARDNP90092">Et melicos cantus belua grata tulit.</p>
+      <p id="MARDNP90093">O vere antistans numina magna deum,</p>
+      <p id="MARDNP90094">Quae istorum laudes protulit Harmonia:</p>
+      <p id="MARDNP90095">Quae domitare Erebum, marmora, saxa, feras</p>
+      <p id="MARDNP90096">Et potuit rupes sensificare tonis.</p>
+      <p id="MARDNP90097">Post hos honoratior fontigenarum Virginum chorus pegaseae vocis nectare diffluebat, qui Phrygii cujusdam pubidae cicutis geminatis interstinctus, omnes praecedentium suavitatum dulcedines anteibat. Tandem inter Phoebum Pallademque media Harmonia sublimis ingreditur, cujus sonorum caput auri coruscantis bracteis comebatur. Caeso etiam tenuatoque metallo rigens vestis, et omnibus ad motum gressumque rata congruentia temperatum, blandis leniter crepitaculis tinniebat. Cujus incessum mater Paphia, ut eam contingeret, sequebatur, licet pulchris rosea numeris ac libratis passibus moveretur, vix tamen poterat imitari. Dextra autem quoddam gyris multiplicibus circulatum, et miris ductibus intertextum velut clypeum gestabat, quod quidem suis invicem complexionibus modulatum ex illis fidibus circulatis omnium modorum concinentiam personabat. Laeva autem Virginis quamplures ex auro adsimulatae, parvaeque effigies theatralium voluptatum, religataeque pendebant. Verum ille orbis, non chelys, nec barbiton, nec tetrachordon apparebat; sed ignota rotunditas omnium melodias transcenderat organorum. Denique mox ut ingressa, atque ejusdem orbis sonuere concentus, cuncta illa quae dissona suavitas commendarat, velut mutescentia tacuerunt: ipseque tunc Iuppiter, caelestesque divi superioris melodiae agnita granditate, quae in honorem cujusdam ignis arcani ac flammae insopibilis fundebatur, reveriti intimum patrimumque carmen paululum in venerationem extramundanae omnes intelligentiae surrexerunt. Tunc egersimon ineffabile Virgo concludens ad Iovem reversa, aliis modulis numerisque voce etiam adsociata sic coepit.</p>
+      <p id="MARDNP90098">
+      <pb n="[173]" />Te nunc astrisonum carmine Iuppiter;</p>
+      <p id="MARDNP90099">Quo gemmata poli volvere sidera</p>
+      <p id="MARDNP90100">Suevit lege rata sacra recursio,</p>
+      <p id="MARDNP90101">Praefandum veneror. quippe potissimus</p>
+      <p id="MARDNP90102">Nectis sceptrifero sub diademate,</p>
+      <p id="MARDNP90103">Omnigenum genitor regna movens deum,</p>
+      <p id="MARDNP90104">Mundum perpetuo dum rotat ambitu</p>
+      <p id="MARDNP90105">Mens, quam sidereo sufficis impete.</p>
+      <p id="MARDNP90106">Te nam flammigeri semina fomitis</p>
+      <p id="MARDNP90107">Spargentem referunt astra micantia.</p>
+      <p id="MARDNP90108">Te foveant sacro munere lumina,</p>
+      <p id="MARDNP90109">Terris purpureum dum renovant jubar,</p>
+      <p id="MARDNP90110">Testata ambrosium splendificant diem:</p>
+      <p id="MARDNP90111">Sic tua noctis honos lampade menstrua</p>
+      <p id="MARDNP90112">Auratis creuit praemia cornibus.</p>
+      <p id="MARDNP90113">Sub te plaustrilucas luminat ignibus</p>
+      <p id="MARDNP90114">Anguis Parnasias disjiciens feras.</p>
+      <p id="MARDNP90115">Sic solidi tenerum corporis ambitum</p>
+      <p id="MARDNP90116">Tellus non prohibens axibus inditur,</p>
+      <p id="MARDNP90117">Alternisque regit et regitur polis.</p>
+      <p id="MARDNP90118">Sic Nerea freti noscere limitem,</p>
+      <p id="MARDNP90119">Sicque ignem superum lambere pabula</p>
+      <p id="MARDNP90120">Vt nullis scateant dissona litibus;</p>
+      <p id="MARDNP90121">Atque ita perpes ament dissita vinculum</p>
+      <p id="MARDNP90122">Vt semper metuant foedifragum chaos.</p>
+      <p id="MARDNP90123">Tu rector superum, tu pater optimus,</p>
+      <p id="MARDNP90124">Complexuque pio sidera colligans,</p>
+      <p id="MARDNP90125">Natos perpetuo corpore vividos</p>
+      <p id="MARDNP90126">Solve, nostra cui perficitur chelys,</p>
+      <p id="MARDNP90127">Bis plenum omnisona cui recinunt mela.</p>
+      <p id="MARDNP90128">Iam vos verenda quaeso caeli germina,</p>
+      <p id="MARDNP90129">Quae multiforme scitis cire barbiton.</p>
+      <p id="MARDNP90130">Affata nostris ferte corda cantibus,</p>
+      <p id="MARDNP90131">Miscilla sacrae dum feruntur curiae</p>
+      <p id="MARDNP90132">
+      <pb n="[174]" />Mulcere vestrum quae vellent consortium,</p>
+      <p id="MARDNP90133">Iam vos vicissim proque lege numinum</p>
+      <p id="MARDNP90134">Posthac sonabit disgregato plasmate,</p>
+      <p id="MARDNP90135">Suisque cunctos adlubescentes tonis</p>
+      <p id="MARDNP90136">Deducet, urget, atque debebit locis,</p>
+      <p id="MARDNP90137">Stimulosque rursum lene permulcet melos.</p>
+      <p id="MARDNP90138">Nunc igitur alma quae Senatum lumina</p>
+      <p id="MARDNP90139">Deum verendo culminatis vertice,</p>
+      <p id="MARDNP90140">Bissena quamvis vos Hetrusci numina</p>
+      <p id="MARDNP90141">Ritus frequentent, atque opiment victimis,</p>
+      <p id="MARDNP90142">Tamen gemellis quae refulget cursibus</p>
+      <p id="MARDNP90143">Natura honoro protulit fastigio.</p>
+      <p id="MARDNP90144">Phoebea Cicero praeferes vocabula,</p>
+      <p id="MARDNP90145">Pallas corusca, ac decens Latoia.</p>
+      <p id="MARDNP90146">Lunare quippe hac venit consortium,</p>
+      <p id="MARDNP90147">Phoetontos ardens scandet axem Delius.</p>
+      <p id="MARDNP90148">Nunc vos pudici nostra fratres culmina</p>
+      <p id="MARDNP90149">Precabor ipsa, ne verendos contrahant</p>
+      <p id="MARDNP90150">Vultus jugulandisque ferenda carmina;</p>
+      <p id="MARDNP90151">Hymenque nostrum invebat fastidium</p>
+      <p id="MARDNP90152">Psallente plectro concinentur nuptiae,</p>
+      <p id="MARDNP90153">Fidibusque luxa Fescennina prodient.</p>
+      <p id="MARDNP90154">Iam nunc blanda melos carpe Dione:</p>
+      <p id="MARDNP90155">Durus quippe rigor cedit amori.</p>
+      <p id="MARDNP90156">Novit nam tenerum probare carmen</p>
+      <p id="MARDNP90157">Ipsum spumigenae salum Cytheres</p>
+      <p id="MARDNP90158">Nerinaque chely movet camoeonam,</p>
+      <p id="MARDNP90159">Dum conchis Galatea personante,</p>
+      <p id="MARDNP90160">Nantes fluctigenas chorumque Phorci</p>
+      <p id="MARDNP90161">Flagrans cura trahit, nivalibusque</p>
+      <p id="MARDNP90162">Inrestinctus aquis triumphat ardor.</p>
+      <p id="MARDNP90163">Iam nunc blanda melos carpe Dione:</p>
+      <p id="MARDNP90164">Durus quippe rigor cedit amori.</p>
+      <p id="MARDNP90165">Puer ipse versiformis</p>
+      <p id="MARDNP90166">
+      <pb n="[175]" />Facibus studet Cupido:</p>
+      <p id="MARDNP90167">Arcusque dulcinerves</p>
+      <p id="MARDNP90168">Roseo ligans ramali</p>
+      <p id="MARDNP90169">Feriato liquit arcu</p>
+      <p id="MARDNP90170">Calamos parante Musa.</p>
+      <p id="MARDNP90171">In carminis leporem</p>
+      <p id="MARDNP90172">Curam negat sagittis,</p>
+      <p id="MARDNP90173">Tenerumque arundinetum</p>
+      <p id="MARDNP90174">Nostrum in melos reliquit.</p>
+      <p id="MARDNP90175">Nunc ergo corda mulcent</p>
+      <p id="MARDNP90176">Vapor et canor jugati.</p>
+      <p id="MARDNP90177">Placet ac decet vicissim,</p>
+      <p id="MARDNP90178">Cantemus atque amemus.</p>
+      <p id="MARDNP90179">Iam nunc blanda melos carpe Dione;</p>
+      <p id="MARDNP90180">Durus quippe rigor cedit amori.</p>
+      <p id="MARDNP90181">Prudens puella pulchrae</p>
+      <p id="MARDNP90182">Mater fuit Laecenae;</p>
+      <p id="MARDNP90183">Illecta sed canore</p>
+      <p id="MARDNP90184">Nescit dolum cavere.</p>
+      <p id="MARDNP90185">Nam candidus nivosis</p>
+      <p id="MARDNP90186">Olor involutus alis</p>
+      <p id="MARDNP90187">Argenteis minorem</p>
+      <p id="MARDNP90188">Plumis videns decorem.</p>
+      <p id="MARDNP90189">Nec posse purpuratis</p>
+      <p id="MARDNP90190">Nimium placere ocellis:</p>
+      <p id="MARDNP90191">Teneros ciere cantus,</p>
+      <p id="MARDNP90192">Phoetontiasque musas</p>
+      <p id="MARDNP90193">Coepit repente ficta</p>
+      <p id="MARDNP90194">Fraudem parans senecta.</p>
+      <p id="MARDNP90195">Sic admoventur ori,</p>
+      <p id="MARDNP90196">Roseumque circumactae</p>
+      <p id="MARDNP90197">Rapit osculum puellae,</p>
+      <p id="MARDNP90198">Gremioque complicatus</p>
+      <p id="MARDNP90199">Precium tulit pudoris.</p>
+      <p id="MARDNP90200">
+      <pb n="[176]" />Iam nunc blanda melos carpe Dione:</p>
+      <p id="MARDNP90201">Durus quippe rigor cedit amori.</p>
+      <p id="MARDNP90202">Carmen Ladmiadeum</p>
+      <p id="MARDNP90203">Lucis diva secundae</p>
+      <p id="MARDNP90204">Sacris praetulit astris.</p>
+      <p id="MARDNP90205">Antrum quippe secuta</p>
+      <p id="MARDNP90206">Linquens culmina caeli,</p>
+      <p id="MARDNP90207">Pastoralibus ardens,</p>
+      <p id="MARDNP90208">Palmam dedit cicutis:</p>
+      <p id="MARDNP90209">Pulso et luminis auro</p>
+      <p id="MARDNP90210">Pandit septa balantum,</p>
+      <p id="MARDNP90211">Sordentique adoperta</p>
+      <p id="MARDNP90212">Pratis gaudet amictu.</p>
+      <p id="MARDNP90213">Ac tunc conscia noctu</p>
+      <p id="MARDNP90214">Pascit monte capellas</p>
+      <p id="MARDNP90215">Spectans sidera mundi,</p>
+      <p id="MARDNP90216">Mage percrepat flagello.</p>
+      <p id="MARDNP90217">Nec curare deorum</p>
+      <p id="MARDNP90218">Pensa, aut ferre susurros</p>
+      <p id="MARDNP90219">Illex carminis ampli</p>
+      <p id="MARDNP90220">AEgram curam coegit.</p>
+      <p id="MARDNP90221">Tempnit noctis horrorem,</p>
+      <p id="MARDNP90222">Praefert antra subulci,</p>
+      <p id="MARDNP90223">Rupe et dura quiescit;</p>
+      <p id="MARDNP90224">Et post regna Tonantis</p>
+      <p id="MARDNP90225">Stramen dulcius herbae est.</p>
+      <p id="MARDNP90226">Talibus Harmoniae carminibus oblectati omnes permulsique divi. nec minor quippe ex fidibus suavitas quam vocis modulamine resultabat. Denique qua industria comparatum, quibusve ad sequendum ediscendumque opibus vigil cura repromittat, ut in tam dulcem, eblanditamque mollitiem intima mentium liquescat affectio, Iove admirante disquiritur. Ac tunc Virgo, cum artis praecepta a se expeti examinandae eruditionis intentione conspiceret, paululum melicis temperans, exhortante quoque Delio Palladeque, sic coepit.</p>
+      <p id="MARDNP90227">
+      <pb n="[177]" />Iam pridem quidem exosa terrigenis, et fastidiosa mortalium, caeli orbes stellantes incutio: in quibus artis praecepta edissertare prohibitum, cum melodiam, omnisonis convenientem pulsibus modulorum, machinae obeuntis ipsa rapiditas et concinat, et agnoscat. Sed quoniam emersa terris Virgo nuptura vanescentia intercapedinatae prolixitatis oblivia jam supero debet vigore discutere, jussa percurram. si prius ingratae mortalitatis commoda repedata recenseam. Dum me quippe, germanam gemellamque caelo, in illa incogitabili effigientia genuisset immensitas, sidereae revolutionis excursus, atque ipsa totius molis volumina comitata superos; incitosque fulgores, modis associans numeros, non reliqui. Sed cum illa monas, intellectualisque lucis formatio prima animas fontibus emanantes in terrarum habitacula rigaret, moderatrix earum jussa sum demeare. Denique numeros cogitabilium motionum, totiusque voluntatis impulsus, ipsa rerum congruentiam dispensans, temperabam. Quam rem debere mortalibus universis Theophrastus laboravit. Pythagorei etiam docuerunt, ferociam animi tibiis aut fidibus mollientes, cum corporibus adhaerere nexum foedus animarum. Membris quoque latentes interferere numeros non contempsi. Hoc etiam Aristoxenus, Pythagorasque testantur. Denique benignitate largissima sensim ipsa notionem meae objectionis aperui. Nam fides apud Delphos per Deliacam citharam demonstravi: tibiae per Tritonidam nostri comitem, Marsyamque Lydium sonuerunt: calamos Mariandini et Aones in laudes inflavere caelestium: pandarum AEgyptios attemptare permisi; ipsisque me pastoralibus fistulis, vel cantus avium, vel arborum crepitus, vel susurros fluminum imitantibus non negavi. Peltas, chordacistas, sambucos, hydraulas per totum orbem ad commodum humanae utilitatis inveni. Per me quippe vestrum homines inlexere succursum; irasque inferas per nenias sedavere. Quid, quod bella victoriaeque undique meis cantibus conquisitae? Nam Cretes ad citharam dimicabant: Lacedaemonii ad tibias. nec ante adgrediebantur fata 
+      <pb n="[178]" />praeliorum, priusquam illis contingeret litare Musis. Quid Amazones? nonne ad calamos arma tractabant? quarum una, quae concipiendi studio venerat, cum Alexandrum salutaret, donata tibicine, ut magno munere, gratulata discessit. Lacedaemonios in Graecia, in Italia Sibaritas tibicines ad praelia praeire quis nesciat? Tubas non solum sonipedes atque bella, sed agona acuere, certamenque membrorum, nunc quoque compertum. Quid pacis munia? nonne nostris cantibus celebrata? Graecarum quippe urbium multae ad lyram leges, decretaque publica recitabant. Perturbationibus animorum corporeisque morbis medicabile crebrius carmen insonui. Nam Phreneticos symphonia resanavi. Quod Asclepiades quoque medicus imitatus, cum consulentibus urbium patribus plebis inconditae vulgus infremeret, seditiones accensas crebrior cantus inhibuit. Ebrios juvenes, perindeque inprobius petulantes, Damon unus e sectatoribus meis modulorum gravitate perdomuit. quippe tibicini spondeum canere jubens, temulentae dementiam perturbationis infregit. Quid afflictionibus corporeis, nonne assidua medicatione succurri? Febrem curabant, vulneraque veteres cantione. Asclepiades item tuba surdissimis medebatur. Ad affectiones animi tibias theophrastus adhibebat. Schiadas quis nesciat expelli aulica suavitate? Xenocrates organicis modulis lymphaticos liberabat. Thaletem Cretensem citharae suavitate compertum morbos ac pestilentiam fugavisse. Erophilus aegrorum venas rhythmorum collatione pensabat. Animalium vero sensus meis cantibus incunctanter adduci saltem Thracius citharista perdocuit. in quo non fabula, sed veritas gloriam procreavit. Vnde enim cervi fistulis capiuntur? pisces in stagno Alexandriae crepitu detinentur? cygnos Hyperboreos citharae cantus adducit? Elephantos Indicos organica permulsos detineri voce compertum. Fistulis aves allici comprobatum. Infantibus crepitacula vagitus abrumpere. Fides Delphinis amicitiam hominum persuaserunt. Quid, canticis allici disrumpique serpentes. In Thracia Orpheo canente glandem ferunt messesque 
+      <pb n="[179]" />transire, manes cieri, Lunamque laborare. Nonne ipsius vetustatis persuasione compertum in Lydia nympharum insulas dici: quas etiam recentior asserentium Varro se vidisse testatur: quae in medium stagnum a continenti procedentes cantu tibiarum primo in circulum motae, dehinc ad littora revertuntur. In Actiaco littore mare citharam sonat. Megaris saxum ad ictum pulsus cujuscunque fidicinat. Possem innumera a me mortalibus collata percurrere, ut non me terras fugiendi studio reliquisse, sed ingratae humanitatis ignaviam viderer jure dampnasse. Sed jam ad artis praecepta desiliam, ut nupturae virgini promissum munus impendam.</p>
+      <p id="MARDNP90228">Et quoniam officium meum est bene modulandi sollertia, quae rhythmicis et melicis astructionibus continetur; prius de melicis dissertabo. Dico quicquid recte sonuerit aut tonum esse, aut hemitonium, aut quartam partem toni, quae diesis appellatur. Verum tonus est spatium cum legitima quantitate, qui ex duobus sonis, diversis inter se invicem, continetur. Hemitonium dicitur, quod toni medium tenet. Diesis vero distantiae tres sunt. Nam prima brevior, quae tetartemoria nominatur, ex eo quod quartam partem toni recipiat. Enarmonios quoque dicitur, propterea quod Enarmonion modulandi genus per hanc maxime dimetimur. Secunda ab illa major est. nam tritemoria nominatur; quoniam habet tertiam partem toni. Itemque Chromatice appellatur, quod Chromaticum modulandi genus per ipsam finditur. Tertia vero habet toni tertiam partem, ac dimidiam tertiae, et vocatur Hemiolia, et Harmoniae divisio; quoniam Hemiolii modum complectitur.</p>
+      <p id="MARDNP90229">[De Sonis. in marg.] Tonus igitur idem plerumque appellatur et sonus. Verum soni sunt per singulos quosque ac per omnes tropos numero XVIII[macron supra lin.]. Quorum primus dicitur apud Graecos [PROSLAMBANOMENOS]: apud Romanos vero; quia eadem voce nos uti summus Iuppiter statuit; idem dicitur adquisitus. Secundus [YPATE YPATON], hoc est, principalis principalium. Tertius [PARYPATE YPATON], id est, subprincipalis principalium. 
+      <pb n="[180]" />Quartus [YPATON DIATONOS], id est, principalium extenta. Quintus [YPATE MESON], id est, principalis mediarum. Sextus autem [PARYPATE MESON], quod est, subprincipalis mediarum. Septimus [MESON DIATONOS], id est, mediarum extenta. Octavus [MESE], hoc est, media. Nonus [TRITE SYNEMMENON], id est, tertia conjunctarum. Decimus [SYNEMMENON DIATONOS], hoc est, conjunctarum extenta. Vndecimus [NETE SYNEMMENON], id est, ultima conjunctarum. Duodecimus [PARAMESE], id est, propemedia. Tertiusdecimus [TRITE DIEZEUGMENON], id est, tertia divisarum. Quartusdecimus [DIEZEUGMENON DIATONOS], quod est, divisarum extenta. Quintusdecimus [NETE DIEZEUGMENON], id est, ultima divisarum. Sextusdecimus [TRITE YPERBOLAION], id est, tertia excellentium. Septimusdecimus [YPERBOLAION DIATONOS], hoc est, excellentium extenta. Octavusdecimus [NETE YPERBOLAION], id est, ultima excellentium. Hi sunt igitur soni, qui modulationem apte et cum ratione componunt. Constat autem omnis modulatio ex gravitate soni, vel acumine. Gravitas dicitur, quae modi quadam emissione mollescit: Acumen vero, quod in aciem tenuatam gracilis et erectae modulationis extenditur.</p>
+      <p id="MARDNP90230">[De Consonantiis. in marg.] Ex supra dictis itaque sonis, qui et singulis, et omnibus tropis rite conveniunt, symphoniae tres: quarum prima est dia tessaron, quae Latine appellatur ex quattuor; et recipit sonos quattuor, spatia tria, productiones duas et dimidiam. Nam sonum, id est, tonum productionem vocavi. Est autem hemitoniorum quinque, quae ad productiones plenas, et integras mediatenus valent; dieseon decem. Diesis vero interpretatio est, sicut supra dixi, quarta pars toni. Sed haec symphonia est in epitriti ratione. Epitritus autem dicitur, qui et numerum ternarium habet, et trium tertiam, quod est unus, ut sunt quattuor ad tres. Alia symphonia quinaria est, et dicitur dia pente, atque constat sonis qninque, qui inter se quattuor spatiis dividuntur. 
+      <pb n="[181]" />Productiones habet III[macron supra lin.]. mediamque praecidit, hoc est, tonos tres ac medium; hemitonia, septem diesisque quattuordecim. atque hemiolii possidet rationem. Quae forma et eundem numerum circa conlata detinet, et ejus medium, ut sunt tres ad duo. Tertiae dia pason, quae ex omnibus dicitur, VIII[macron supra lin.] sonos recipit, spatia septem, productiones sex, hemitonia XII[macron supra lin.]. diesis XXIV[macron supra lin.] atque constat ex ratione diplasia, hoc est, duplici.</p>
+      <p id="MARDNP90231">[De Modis. in marg.] Tropi vero sunt XV[macron supra lin.]. sed principales quinque, quibus bini tropi cohaerent. id est, Lydius, qui cohaerent [YPOLYDIOS] et [YPERLYDIOS]. Secundus Iastius, cui sociatur [YPOIASTIOS] et [YPERIASTIOS]. Item AEolius, cum [YPOAIOLIO] et [YPERAIOLIO]. Quartus Phrygius cum duobus [YPOPHRYGIO] et [YPERPHRYGIO]. Quintus Dorius cum [YPODORIO] et [YPERDORIO]. Verum inter hos tropos est quaedam amica concordia, qua sibi invicem germani sunt, ut inter [YPODORION] et [YPOPHRYGION]; et item inter [YPOIASTION] et [YPOLYDION]. Item conveniens aptaque responsio inter [YPOPHRYGION] et [YPOAIOLION], qui tantum duplices copulantur. Mediae vero graviorum troporum his qui acutiores sunt [PROSLAMBANOMENAI] fiunt. Verum tropi singuli quoque tetrachorda faciunt quina. Tetrachordum autem est affectio quaedam sonorum quattuor per ordinem compositorum, quorum extremi sibi debeant convenire. Sed haec posterius. Nunc ad inchoamentorum ratum ordinem redeamus. Praedicta enim ideo primo dicta sunt, ut altius tenerentur.</p>
+      <p id="MARDNP90232">Primo quippe cum Lassus ex Surse harmoniae vim mortalibus divulgaret, tria tantum ei genera putabantur: [IDIKON], [PRAKTIKON], [EXANGELTIKON] quod etiam [ERMENEUTIKON] dicitur. Et [IDIKON] est, quod ex perseverantibus et similibus consonabat; id est, sono, numeris, atque verbis. Sed quae ex his ad melos pertinent, harmonica dicuntur: quae ad numeros, rhythmica: quae ad verba, metrica. [PRAKTIKON] est quidam materiae tractus efficiens exercitium 
+      <pb n="[182]" />ejus: cujus tres itidem partes, id est, [MELOPOIIA], [LEXIS], [PLOKE]. [EXANGELTIKON] autem ad expositionem pertinere videtur, et habet partes tres, [ORGANIKON], [ODIKON], [YPOKRITIKON], quae inferius rerum ordo disponet. Nunc de prima voce velut de sonitus totius parente dicemus.</p>
+      <p id="MARDNP90233">[De Voce. in marg.] Omnis vox in duo genera dividitur: continuum atque divisum. Continuum est velut juge colloquium: Divisum, quod in modulatione servamus. Est et medium, quod in utroque permixtum, ac neque alterius continuum modum servat, nec alterius frequenti divisione praeciditur, ut pronunciandi modo carmina cuncta recitantur. Horum illa, quam in divisas partes certasque deducimus, diastematica nominantur, et ei parti, quae Harmonica vocatur, aptanda est. [Harmonicae partes septem. in marg.] Quae quidem Harmonica habet partes disputationis septem: Primam de Sonis: secundam de Spatiis: tertiam de Systematis: quartam de Genere: quintam de Tonis: sextam de Commutationibus: septimam de Modulatione, quam Melopoeiam vocamus. Ac prius de Sonis, ubi artis est elementum.</p>
+      <p id="MARDNP90234">[De Sonis. in marg.] Sonus quippe tanti apud nos loci est, quanti in Geometricis signum; in Arithmeticis singulum. Phthongos Sonos dicimus. Verum phthongus dicitur vocis modulatae particula, una intentione producta. Est autem intentio, quam dicimus tasin, qua vox consistit ac perseverat. Sonos phthongos vel speciatim, vel generaliter appellamus. Sed generale vocabulum specialia habent, quae [idioteta] Graja voce perhibentur. Vt si quemadmodum nobis scribendum sit cogitemus: ita haec virtus phthongi docet, quid acuminis exeramus, vel lenius remittamus. Verum ex illis alia faciunt, alia patiuntur. Faciunt intentio vel remissio: patiuntur acumen vel gravitas. Productio autem est, hoc est, epitasis, vocis commotio a loco graviore in acutum locum: anesis vero contra. nam ab acuminis culmine in grave quiddam seriumque descendit. Fit autem soni gravitas, cum ex intimo quidam spiritus trahitur: acumen vero, ex 
+      <pb n="[183]" />superficie oris emittitur. Sunt igitur innumerabiles soni, sed specialiter per singulos tropos XXVIII[macron supra lin.]. tantum poterunt convenire; quorum nomina superius memoravi. Quorum prior est Adquisitus, qui ideo tali nomine nuncupatur, quoniam eorum, quae tetrachorda nominantur, nulli omnino consentit; sed extrinsecus velut adquisitus accedit, propter consortium mediae, cui concinere consuevit. qui adquisitus uno tono a Principali principalium separatur. Quae principalis principalium, quia prima in tetrachordo collocatur, quasi cujusdam rectoris nomen accepit. subprincipalis denique dicitur, quae principali subjecta conjungitur. Principalium vero [ENARMONIOS] et [CHROMATIKE], quam nos vix forsan recte colorabilem memoramus; et ideo hoc nomen accepit, quia inter principales colores, album tetrumque, quicquid interjacens invenitur, colorabile Graja significatione perhibetur. Ergo Enarmonios, Chromatice, itemque diatonos, quam Extentam dicimus, indicia sunt generum modulandi. Multiplex quippe tetrachordorum ratio sic firmatur. Principalis autem mediarum, quia prima est medii tetrachordi, ideo id nomen accepit. Cui subnexa Subprincipalis mediarum esse dicitur. Denique reliquae tres sui similes oboedient. Dictum vero hoc tetrachordum Mediarum, quia in medio locatum est inter principalium tetrachordum, et tetrachordum conjunctarum. Post supradictas autem quae sequitur, media nominatur. quae ideo media dicitur, quia tam gravis modi finis est, quam in tropis omnibus futuri acuminis caput; atque ipsius quodammodo vinculo tam gravis modulatio, quam acuta connectitur. ut in Lydio modo, ubi rectum Iota mese est. Verum post mediam, extendentem hemitonium, conjunctarum erit tertia, quae in eodem modo, id est, Lydio, lambda supinum pro nota habebit. Post hanc illae chordae, quae a nobis superius expressae sunt, tres sequentur [ENARMONIOS], [CHROMATIKE] et [DIATONOS], quae et paranete dicitur, quam Latine penultimam perhibemus. Post quam ultima sociatur, quae ideo dicta est conjunctarum ultima, 
+      <pb n="[184]" />quia in hoc tetrachordo finem tenet. Omne autem tetrachordum conjunctarum ideo dictum, quia mediae ipsi, quae perfectam symphoniam prima complevit, adjungitur; ac producente media sequentem tonum, ille qui sequitur sonus [PARAMESOS] nominatur, quod hunc satis proximum sonus adjunctae modulationis offendat. Dehinc divisarum tertia, quae plenum systema dia pason finit. unde divisarum tertia perhibetur. Post hanc soni caeteri consequuntur. Sonus vero divisarum ideo hoc nomen accepit, quia uno et dimidio tono a mediae fine divellitur. Post hoc, tetrachordum excellentium collocatur. quod ideo excellens nomen accepit, quia in singulis tropis in omne acumen erigitur; in singulis modulationibus fastigiatur.</p>
+      <p id="MARDNP90235">Horum igitur sonorum, id est, phthong[omega]n sunt alii, quos consistere et perseverare necesse est: alii vero sunt vagi: denique alii [BARUPUKNOI]: alii [MESOPUKNOI]: alii [OXUPUKNOI] perhibentur. Spissum vero dicitur, trium sonorum compositiva quaedam qualitas. [BARUPUKNOI] autem sunt, qui velut regiones primas spissi retentant. [MESOPUKNOI] vero, qui media possident. [OXUPUKNOI], qui ultima tenent. [APUKNOI], qui in positione sonorum trium, qui sunt spissi, nullo genere aut lege junguntur. Stantes autem perseverantesque dicuntur vel [APUKNOI] vel [BARUPUKNOI], qui veluti quandam speciem et formam sibi principalium vindicabunt. Ideo autem a quibusdam Statarii nominantur, quia diversas extensiones recipere non possunt. Alii autem vagi et errantes habentur, quia interdum longiora, interdum minora spatia receperunt. Sed horum alii [PARYPATOEIDEIS]; alii [LICHANOEIDEIS] vocantur. Verum primi ideo sic dicuntur, quod statim prioribus subnectantur. [LICHANOEIDEIS] dicuntur a digito, qui minister artis et cantus singulos movet. est autem primus a pollice. Horum vero alii sibi invicem congruunt; alii discrepant et resultant. Sed illi [OMOPHONOI], quia sibi invicem conjunguntur. [DIAPHONOI] autem, id est, dissentientes sunt, qui cum percussi fuerint, invicem discrepant. 
+      <pb n="[185]" />[OMOPHONOI] qui vocis quidem aliam significationem gerunt; eundem tamen impetum servant. Sunt autem et aliae sonorum diversitates. Et prima quidem per intentionem; ut aut acumine, aut gravitate dissentiat. Secunda per spatiorum perceptionem; cum uni aut plurimis conjungitur spatiis. Tertia per conjunctionem Systematis, quod aut unum aut plura recipit. Et quod secundum morem dicitur, id est [KATA ETHOS]. Alium quippe morem acuta significant; alium graviora. Nunc jam de Diastematis disserendum.</p>
+      <p id="MARDNP90236">[De Diastematis. in marg.] Diastema est vocis spatium, quo acuta et gravior includitur. Sed in diastematis alia breviora, illa quae sunt in diesi Enarmonia: majora vero sunt, quae per singulos tropos bis ex omnibus faciunt, quo nihil majus in tropis possumus invenire. Atque in spatiis alia sunt composita, alia disjuncta atque asyntheta. Et composita sunt, quae per ordinem currunt: Incomposita autem, quae ex diversis sibi invicem copulantur. Item alia logica; alia aloga memorantur. Ac rationabilia illa sunt, quorum consensus possumus praestare proportionem: Inrationabilia, quibus non subest ratio. Item alia conhibentia; alia discrepantia. Tuncque alia Enarmonia; alia Chromatica; alia Diatonica. Item alia arthia; alia perissa. sed prima aequalia; secunda excurrentia memorabo. Verum aequalia sunt, quae in aequas partes poterunt separari; ut tonus in duo hemitonia: perissa autem, quae in tria hemitonia discernuntur. Deinde alia diastemata spissa: alia rariora. Spissa sunt, quae per diesis colliguntur: Rariora, quae tonis. Et in his alia sibi congruunt, alia discrepant. Sed discrepantium nimia multitudo: Convenientia vero per singulos tropos sex sunt, id est, [DIA TESSARON], quod de quattuor dicimus: [DIA PENTE], quod de quinque: dehinc [DIA PASON], quod ex omnibus concinit. Illud etiam, quod ex omnibus et ex quattuor constat, vel ex omnibus et ex quinque, vel bis ex omnibus, quod bis [DIA PASON] dicitur. Sed illud, quod [DIA TESSARON], hoc est, ex IV[macron supra lin.]. dicitur, recipit sonos quattuor, spatia tria, tonos duo semis, hemitonia 
+      <pb n="[186]" />quinque, diesis vero decem, et est in epitriti ratione, ut sunt quattuor ad tres. [DIA PENTE], quod ex quinque est, sonos recipit quinque, spatia quattuor, tonos tres semis, hemitonia septem, diesis bis septem: et est in hemiolia ratione, quod sunt III[macron supra lin.] ad II[macron supra lin.]. [DIA PASON] autem sonos habet VIII[macron supra lin.]. spatia VII[macron supra lin.]. tonos VI[macron supra lin.]. hemitonia geminat, diesis quadruplicat, atque in diplasia ratione versatur, quae est unum ad duo. Quod vero ex omnibus et ex quattuor dicitur, sonorum est XI[macron supra lin.]. spatiorum X[macron supra lin.]. tonos habet octo semis, hemitonia duplicat, diesis praedicta ratione multiplicat, et est in diplasi et diametri regula, ut sunt octo ad tres. Quod vero ex omnibus et quinque constat, recipit sonos XII[macron supra lin.]. spatia XI[macron supra lin.]. tonos IX[macron supra lin.]. semis, hemitonia geminantur, diesis tetraplantur. Et est in triplasia ratione, ut IV[macron supra lin.] ad XII[macron supra lin.]. Quod [DIS DIA PASON] dicitur, habet sonos quindecim, spatia bis septena, tonos decem, ac duo hemitonia duplicata, diesis XLVIII[macron supra lin.]. atque est in tetraplasia ratione, ut sunt XII[macron supra lin.] ad III[macron supra lin.]. Est autem tonus in Epogdoi ratione. Vbique diesin in Enarmonio debemus accipere, quae est in quarta particulatione. Nunc quid sit Systema perhibendum.</p>
+      <p id="MARDNP90237">[De Systematis. in marg.] Systema est magnitudo vocis ex multis modis constans, quod licet multa divisionum genera recipiat, tamen quia eadem et in diastematis memoravi, praeteream. Sunt autem absoluta et perfecta Systemata numero octo. Et primum est, quod ab adquisito, quem [PROSLAMBANOMENON] dicimus, ad mediam, quam mesen diximus, omne conficitur. Secundum, quod a principali principalium in [ PARAMESON] usque tenditur. Tertium, quod a subprincipali principalium in divisarum tertiam jungitur. Quartum, quod ab extenta principalium usque in divisarum diatonum profertur. Quintum, quod a principali mediarum in neten divisarum usque progreditur. Sextum, quod a subprincipali mediarum in tertiam excellentium trahitur. Septimum, quod a mediarum extenta in excellentium diatonon exurgit. Octavum, quod a media, excellentium in ultimam ducitur.</p>
+      <p id="MARDNP90238">
+      <pb n="[187]" />[De generibus. in marg.] Quibus excursis genera tetrachordum, modulandique discurram. Tetrachordon est chordarum cum certa qualitate divisio. Genera modulandi sunt tria, [ENARMONION], [CHROMA], [DIATONON]. Et Enarmonion quidem dicitur, quod pluribus spatiis, et angustioribus separatur: Diatonon vero, quod tonis copiosum: Chroma, quod de hemitoniis componitur. Sicut enim quod inter album nigrumque est, color dicitur; ita hoc chroma, quia inter utrumque est, nominatur. Et Enarmonion quidem, cum ab immutabilibus sonis cingitur, modulationi oboediet in acumen, per diesin, et diesin, et ditonon incompositum: In gravem vero sonum e contrario modulatio tota submittitur. Chroma autem hoc modo melos accipit; per hemitonium, et hemitonium, et tria hemitonia, quae incomposita provenient: In gravem vero ex diverso recurret. At vero Diatonum ipsis contentum sonis in acumen quidem ita accipiet modulationem, ut per hemitonium, et tonum, et tonum modum integrum compleat: At vero graviorem per contrarium ordinem persequetur. Sed nunc maxime diatono utimur. Sed horum alia modulamur per agogen; alia per plocen. Per agogen est, cum per ordinem sonus sequitur. Ploce autem dicitur, cum diversa sociamus. Exhinc in modulando alia euthia dicitur, quod est recta; alia anacamptos, quod est revertens; alia peripheres, hoc est, circumstans. Euthia est, quae a gravi in acumen erigitur. Anacamptos, quae e contrario deficit. Peripheres, quae ad utramque aut commodatur aut servit. Sed cum tetrachordorum, quos quadrifidos appellamus, divisiones innumerabiles sint, sex sunt notae. Enarmonii una: Chromatis tres; quarum prima, quae mollis ac soluta: secunda, quae hemiolia est: tertia, quae est Toniaea. Diatonicae duae: una mollis; altera robusta. Et modos quidem accipit Enarmonion a tetartemoria diesi, id est, toni parte quarta. Illud vero quod mollius diximus, per tritemorian diesin copulatur. Ipsum vero Chroma hemiolion fit ab hemiolia diesi, ejus quae fit enarmonii. Sed nunc de tonis.</p>
+      <p id="MARDNP90239">
+      <pb n="[188]" />[De Tonis. in marg.] Tonus est spatii magnitudo. qui ideo tonus dictus est, quia per hoc spatium ante omnes prima vox quae fuerit extenditur, hoc est, de nota qualibet in notam; ut a media in paramesen, ut est in Lydio, si a jota directo in sigma jacens signa concurrant. Verum quia hemitonia, diesisque quid vel quantae qualesve sint docui; troporum etiam nomina numerumque monstravi; nunc de tetrachordis eloquemur.</p>
+      <p id="MARDNP90240">[De Tetrachordis. in marg.] Nam singuli quique tropi tetrachorda quina custodiunt, sicut superius quoque notavi. Verum horum extremos sibi aptandos esse non dubium est. Tetrachordum quippe est quatuor sonorum in ordine positorum congruens fidaque concordia. Sunt autem tetrachorda principalium, mediarum, conjunctarum, separatarum, excellentium. Et primum tetrachordum, quod est gravius, incipit a principalium principali, et desinit in principalem mediarum. Verum principalium et mediarum connexum, quod conjunctarum vocatur, erit tetrachordum a media in neten conjunctarum. Atque ab his divisum, longeque discretum, quod est quartum divisarum, a submedia in neten separatarum usque conjungitur. Quod autem ex diversis conjunctum est, in acutiorem sonum, et quintum excellentium profertur. Sed de tetrachordis satis dictum. Nunc de pentachordis videamus.</p>
+      <p id="MARDNP90241">[De Pentachordis. in marg.] Ac similiter haec quoque quinque esse non dubium est. Primum igitur, quod et gravius, principalium esse dicimus, quod incipit ab adquisito, et in principalem mediarum terminatur. Sequens in acumen ejusmodi est; et constat a principalium extenta in mediarum illam, quae in Lydio jota rectum habet. Tertium autem conjunctarum est, quod a mediarum extenta in ultimam conjunctarum ducitur. Quartum vero, quod per divisionem est, a media in ultimam divisarum connecti solet. Quintum in acumen erigitur, atque in nete excellentium terminatur. Haec quae dixi artis nostrae doctissimis adprobantur. Nam non sum nescia asserere, quaedam tetrachorda ab hemitoniis initia posse sortiri, quod est in modulatione diatonica situm. de 
+      <pb n="[189]" />qua superius multa dixi. Sane notum atque intimatum velim, adquisitum in omnibus quidem aliis collocari: in his autem, quae non per sonos fiant, in tetrachordis fieri non posse. In his enim semper ab hemitoniis principia ducuntur. In aliis autem, quae pentachorda nominantur, nec tamen modulationi subjiciuntur, ut per sonos constare videatur, apponitur. Secundum enim in his hemitonium possumus ponere. Nunc de transitu modulantium.</p>
+      <p id="MARDNP90242">[De Transitu. in marg.] Transitus est alienatio vocis in figuram alteram soni. Fit autem transitus modis quattuor: Per genus, ut ab Enarmonio genere aut in Chroma, aut in Diatonon: vel per systema, ut a principali principalium si forte in subprincipalem, aut in aliud forte systematum; aut cum de conjunctis ad divisas transitum facimus: vel per tonum, cum a Lydio vel in Phrygium, vel in alium tropum cantilena transducitur: vel per modulationem, cum ex alia specie modulandi in aliam desilimus: vel cum a virili cantilena transitus in femineos modos fit. De genere modulandi consequenter edisseram.</p>
+      <p id="MARDNP90243">[De Melopoeia. in marg.] Melopoeia est habitus modulationis effectae. Melos autem est actus acuti aut gravioris soni. Modulatio est soni multiplicis expressio. Melopoeiae species sunt tres, hypatoides, mesoides, netoides. Et hypatoides est, quae appellatur tragica, quae per graviores sonos constat: mesoides, quae dithyrambica nominatur, quae tonos aequales mediosque custodit: netoides, quae et nomicos consuevit vocari, quae plures sonos ex ultimis recipit. Sunt etiam aliae distantiae, quae et tropica mela dicuntur: aliae homologica. Sed haec aptius pro rebus subrogantur, nec suas magis poterunt divisiones afferre. Hae autem species etiam tropi dicuntur. Dissentiunt autem melopoeiae ipsae modis pluribus inter se: et genere, ut alia sit Enarmonios, alia Chromatice, alia Diatonos. Specie quoque, quia alia est hypatoides, alia mesoides, alia netoides. Tropis, ut Dorio, Lydio vel caeteris. Omnis tamen qui melos inchoat, prae cunctis systema debet advertere: dehinc sonos miscere atque componere. Haec de septem partibus 
+      <pb n="[190]" />artis nostrae dixisse sufficiat. Nunc Rhythmos, hoc est, numeros perstringamus, quoniam ipsam quoque nostri portionem esse non dubium est.</p>
+      <p id="MARDNP90244">[De Rhythmo. in marg.] Rhythmvs igitur est compositio quaedam ex sensibilibus collata temporibus ad aliquem habitum ordinemque connexa. Rursum sic diffinitur: Numerus est diversorum modorum ordinata connexio, tempori pro ratione modulationis inserviens, per id quod aut efferenda vox fuerit, aut premenda; et qui nos a licentia modulationis ad artem disciplinamque constringat. Interest tamen inter rhythmum et rhythmizomenon. Quippe rhythmizomenon materia est numerorum: Numerus autem velut quidam artifex aut species modulationis apponitur. Omnis igitur numerus triplici ratione discernitur, visu, audituque vel tactu. Visu sicut sunt ea, quae motu corporis colliguntur. Auditu, cum ad judicium modulationis intendimus. Tactu, ut ex digitis venarum exploramus indicia. Verum nobis adtribuitur maxime in auditu, visuque. Sed Rhythmice est ars omnis in numeris, quae numeros quosdam propriae conversionis accipiat, flexusque legitimos sortiatur.</p>
+      <p id="MARDNP90245">Est quoque distantia inter rhythmum metrumque non parva, sicut posterius memorabo. Sed quia visus auditusque numero dictus accidere, hi quoque in tria itidem genera dividentur: in corporis motum: in sonorum, modulandique rationem: atque in verba, quae apta modis ratio colligarit, quae cuncta socia perfectam faciunt cantilenam. Dividitur sane numerus in oratione per syllabas; in modulatione per arsin ac thesin: in gestu figuris determinatis, schematisque completur.</p>
+      <p id="MARDNP90246">Verum numeri genera sunt septem. Primum de Temporibus. Secundum de enumeratione verborum, quae in numerum cadere non possunt, quae rhythmoides, id est, similia numeris judicantur; quaeque tribus vocabulis discernuntur, hoc est, enrhythmon, arhythmon, rhythmoides. Tertium de Pedibus. Quartum de eorum Genere. Quintum est, quod agogen rhythmicam nominamus, id est, quo genere numerus modique ducantur. 
+      <pb n="[191]" />Sextum, de Conversionibus. Vltimum rhythmopoeia, id est, quemadmodum procreatio numeri possit effingi.</p>
+      <p id="MARDNP90247">Primum igitur tempus est, quod in morem atomi nec partes, nec momenta recisionis admittit, ut est in Geometricis punctum, in Arithmeticis monas, id est, singularis quaedam, ac seipsa natura contenta. Sed numerus in verbis per syllabam; in modulatione per sonum, aut per spatium quod fuerit singulare; in gestu per incipientem corporis motum, quod schema diximus, invenitur. Atque hoc erit brevissimum tempus, quod insecabile memoravi. Compositum vero, quod potest dividi; et quod a primo aut duplum, aut triplum, aut quadruplum. Eatenus enim tempus omne numeri profertur, atque ei finis est, qui plenae rationis est terminus. Atque in hoc numerus toni similis invenitur. Vt enim ille per quattuor species, hoc est, diesis dividitur; hic etiam quaternaria temporum modulatione concluditur. Sed eorum temporum, quae ad numeros copulantur, alia sunt quae enrhythma tempora nominantur: alia quae arythma: tertia quae rhythmoides perhibentur. Et enrhythma quidem sunt, quae ratione certa ordinem servant, ut in duplici, vel hemiolio, vel in aliis, quae alia ratione junguntur. Arythma sunt, quae sibi nulla omnino lege consentiunt, ac sine certa ratione conjuncta sunt. Rhythmoides vero in aliis numerum servant, in aliisque despiciunt. Quorum temporum alia strongyla, hoc est, rotunda perhibentur: alia peripleo. Et rotunda sunt, quae proclivius et facilius, quam gradus quidam, atque ordo legitimus expetit, praecipitantur: peripleo vero, quae amplius quam decet moras compositae modulationis innectunt, seque ipsa tardiore pronunciatione suspendunt.</p>
+      <p id="MARDNP90248">Sed temporum alia simplicia sunt, quae podica etiam perhibentur. Pes vero est numeri prima progressio per legitimos et necessarios sonos juncta. Cujus partes duae sunt, arsis et thesis. Arsis est elevatio; Thesis depositio vocis ac remissio. Sed pedum differentiae sunt septem: Per magnitudinem, cum alios simplices, alios multiplices pedes ponimus. Et simplices quidem, 
+      <pb n="[192]" />ut est Pyrrhichius: Compositi vero, ut sunt paeones, vel eorum pares. Et simplices quidem dicuntur, qui temporibus dividuntur: Compositi autem, qui in pedes etiam resolvuntur. Alios vero alogos, hoc est, irrationabiles nominamus, quorumque ratio nulla praestatur; sed incondita quaedam compositio profertur. Alia deinde differentia est, quae per divisionem quaeritur qualis existit, hoc est, [POIA], cum varie et multipliciter ea quae connexa fuerint dividuntur: atque illa qua simplices pedes esse multiplices. Alia est, quae per divisionem fieri consuevit. Septima, quae per oppositionem fit, id est, cum duobus pedibus acceptis unus habet prolixius tempus, quod praecedit ex ordine: illud autem tempus quod insequitur, angustius: vel cum per contrarium ordinem tempora praedicta vertuntur.</p>
+      <p id="MARDNP90249">[De tribus Rhythmicis generibus. in marg.] Rythmica vero genera sunt tria, quae alias Dactylica, Iambica, Paeonica nominantur; alias aequalia; alias hemiolia, duplicia. denique etiam Epitritus sociatur. Etenim unus semper cum sibi fuerit aptatus, ut aequalis convenit. Tria vero ad duo numerus hemiolius est. Duplex vero qui fuerit ad singularem, geminam rationem tam syllabarum quam temporum servat. Quattuor vero ad tria epitriti modum facit. Sed quae aequalia diximus, eadem Dactylica esse dicemus. Denique in dactylico genere signa aequali sibi jure nectuntur: Verum ad alterum, vel ad numerum geminum duo, velut forte aequalitas numerosa decurret. Sequitur Iambicum genus, quod diplasion superius expressi, in quo pedum signa duplicem rationem ad invicem servant, sive unus ad duo, sive ad quattuor gemini, vel quicquid ad duplum currit. Hemiolium sane, quod Paeonicum memoratum, tunc est cum pedum signa hemiolii rationem jusque sectantur; ut ad duo tres sunt. Accidit autem etiam in Epitriti ratione saepe numerus, cum pes in eo accipitur, qui sit ad tres quattuor. Sed jam ad ordinem redeamus.</p>
+      <p id="MARDNP90250">AEquale est igitur numeri genus, quod a disemo usque in secedim pedes procedit. Disemus autem appellatur pes, qui per arsin et thesin primus constare dicitur, ut est leo. Duplum vero 
+      <pb n="[193]" />incipit a trisemo: decem et octo autem syllabas in finem usque deducet. Hemiolium sane a pentasemo ducit exordium: impletur autem in XV[macron supra lin.]. numero. Epitritus ab heptasemo principium facit, quatuordecim similibus idem ponens, cujus difficilis est usus. Atque hos quidem omnes numerorum ordines ideo memoravimus, ut singulorum leges per universa serventur. Sed numerorum alii sunt compositi; alii incompositi, alii permixti. Et compositi e duobus generibus vel pluribus cohaeserunt: Incompositi, qui uno pedum genere consistunt, ut sunt tetrasemi. Mixti vero, qui aliquando in pedes, aliquando in numeros resolvuntur; ut in hexasemo numero accipere debemus. At vero eorum qui compositi esse dicuntur, alii per copulas; alii vero per periodum colligantur. Etenim syzygia, id est, copula, duorum pedum in unum est asscripta connexio, qui in dissimiles sibi positi esse videntur. Periodos sane est pedum compositio plurimorum; quique dissimiles sibi impares sociantur. Dissimilitudinum sane differentiae tres erunt: per magnitudinem; per genus; per oppositionem. Per magnitudinem, cum e disemo, vel tetrasemo componitur numerus. Per genus, cum diplasium, aut hemiolium simul jungimus, vel quod ex pluribus aequaliter copulatur. Per oppositionem, id est, per antithesin, cum aut primos disemos ponimus, insequentibus longe potioribus; aut tetrasemos disemis sequentibus applicamus. Verum notum esse convenient, unum etiam pedem posse sufficere ad complendam periodon; si solus caeteris inaequalis inseritur.</p>
+      <p id="MARDNP90251">[De Dactylico genere. in marg.] Sed eorum quae in pedem recidunt, Dactylicum genus primum est, in quo genere pedes incompositi vocabuntur: qui numero sunt sex, id est, proceleusmaticus anapaestus, spondeus simplex, et spondeus major. Ac proceleusmaticus quidem est, qui et positionem brevem, et elationem brevem retinet. Vtetur autem hic idem tetrasemo frequentius. Namque et disemus hujus, id est, qui duobus temporibus impletur, proceleusmaticus quidem, sed brevior nominatur: Ille vero major est, qui ex quattuor brevibus efficitur. At vero brevior, 
+      <pb n="[194]" />id est, disemus syneches vocatur, quia ipsa assiduitas et frequentia comprehendentis se invicem syllabae, nec magnitudinem aliquam nec modum divisae potestatis extendit, ideoque eo raro uti decet, ne assiduitas brevis syllabae carmen ipsum, quod cum dignitate aliqua proferri oportet, incidat. In permixtione vero aliorum pedum, qui longiores ponuntur, decenter aptatur, ut illorum prolixam moram interveniente sua celeritate compenset. Quare proceleusmaticus, qui ad numeros aptatur, quadrisemo exordium debet accipere. Anapaestus, qui vocatur minor, accipiet elationem pedis unius temporis; positionem vero duorum temporum faciet. Monochronon quippe dicitur tempus etiam cum longa ponitur, quae longa duo tempora recipere consuevit: Vel cum tria tempora simul brevia collocantur: vel cum sunt quattuor numero: quae omnia ad comparationem longae syllabae computantur. Igitur major Anapaestus elationem quidem suscipiet, quae monochronos esse dicatur; positionem dichronon habere monstratur. Quare utriusque temporis, quod in positione fuerit aequali sibi posito, oportet elationis geminum tempus accipere. Ita tamen ut utroque insequenti tempore par priori esse videatur. Quare anapaestus apo mizonos, dactylicus a nobis esse dicitur; at vero anapaestus, qui ap elassonos nominatur, ex duabus brevibus, quae in elatione sint, et ex una quae in positione sit, copulantur. Simplex vero spondeus erit, qui ex producta tam arsi quam thesi jungitur: Major vero, qui quaternariam non solum elationem sed positionem etiam videtur admittere. Per copulam vero duplices accedunt numeri. Quoniam alter ex majore erit Ionico, alter ex minore. Atque ille, qui ex majore procedit, constabit ex spondeo simplici, vel proceleusmatico, quem disemum esse non dubium est. Qui vero ex minore est, contrarium facit. Atque hi quidem in dactylico genere ponentur rhythmi incompositi ac compositi, qui septem numero omnes erunt. Dactylus igitur est dictus, quia ordinem syllabarum consimilem digito hominis informat. Anapaestus vero quia per ordinem redeat 
+      <pb n="[195]" />sursum. Pyrrhichius vero, id est, proceleusmaticus, quia hic assiduus, vel in certamine, vel in ludo quodam puerili. Spondeus, quia plerumque inservit. Ionicus sane propter numerorum inaequalem sonum: habet enim duas longas, duasque correptas: quo pedum carmine multi saepe reprehensi sunt.</p>
+      <p id="MARDNP90252">[De genere Iambico. in marg.] Ac de Dactylicis satis: nunc Iambica memoremus. in quo genere numeri incompositi errant quattuor: compositi per copulam duo: at vero per periodum sunt duodecim. Qui igitur incompositi errant hi sunt: Iambus ex dimidia elatione, et positione quae gemina est. Trochaeus ex duplici elatione, et positione, quae brevis est. Orthius, qui ex tetrasemi elatione, id est, arsi, et octasemi positione constabit: ita ut duodecim tempora hic pes recepisse videatur. Atque habet propinquitatem aliquam cum Iambico pede. Quattuor enim primis temporibus ad Iambum consonat, reliquis octo temporibus adjunctis. Dehinc trochaeus, qui semanticus dicitur, id est, qui e contrario octo primis positionibus constet: reliquis in elationem quatuor brevibus artetur. Compositi sane sunt, qui per copulam colliguntur. Sunt autem hi: Bacchius qui ex trochaeo deducit auspicium, fine autem Iambici terminatur. Qui vero Bacchius est, ab Iambo principia sortitur, atque a contrario his, quos diximus, pedibus aptabitur. Per periodum vero est, quod velut per se certam viam provenit. In hoc genere cum sint duodecim numero, quattuor quidem per singulas periodos accipere docetur, unum iambum ac tres trochaeos. Ac de hisdem quattuor, primum quidem quod iambum habere monstratur, trochaeus ab iambo denominatur. Qui vero rhythmus secundum iambum recipiet, a bacchio trochaeus vocabitur. Qui vero iambum tertium recipit, bacchius a trochaeo poterit nominari. Ille vero, qui quartum admittit iambum, appellatur epitritus iambus. Eorum vero, qui ex uno trochaeo fiunt, primus iambus a trochaeo appellatur. Secundus iambus a bacchio dicitur; aut certe bacchius medius poterit nominari. Qui vero tertium recipit, bacchius ab iambo nominatur. Qui vero quartum recipit trochaeum, 
+      <pb n="[196]" />epitritus trochaeus appellatur. Octo vero. quattuor de his, quos duodecim diximus, per periodum illi esse dicuntur, qui binos trochaeos atque iambos per periodum servant. Atque ille qui primos trochaeos recipit, duplex bacchius a trochaeo esse dicitur: qui vero secundos trochaeos habebit, duplex bacchius ab iambo nominatur. Cum autem trochaei medii collocantur, trochaeus medius jure dicetur. Cum autem in medio iambi, medius iambus vocatur. Omnes vel qui incompositi per periodon, vel qui per copulam colligantur, rythmi decem et octo numerati sunt. Sed Iambus dictus est ab eo, quod iambizin Graeci detrahere dixerunt. Et hoc carmine quibusque veteres detrahebant. Item hoc nomen est ab eo, quod venena maledicti aut livoris infundat. Trochaeus vero ab eo dictus, quod celerem reversionem faciat veluti rota. Orthius propter honestatem positionis est nominatus. Semanticus sane, quia cum fit tardior tempore, significationem ipsam productae et remanentis cessationis effingit. Bacchii vero sunt dicti, quod Bacchicis maxime sonis congruunt; isque Bacchius ludus est, qui illis carminibus aptatur.</p>
+      <p id="MARDNP90253">[De genere Paeonico. in marg.] In eo vero genere, quod Poeonicum nominatur, incompositi duo rythmi esse dicuntur. quorum unus paeon [DIAGUIOS] appellatur ex longa positione, et longa elatione: alter vero epibatus, id est, in thesi duplici positione producta, et arsi longiore jungitur. Hi sunt Paeonici generis numeri, quos incompositos esse praediximus. Neque vero per conjunctionem, hoc est, syzygian, neque per periodum in isto genere rythmus accedet. Inde [DIAGUIOS] quidem dictus est, id est, quasi duplicia membra discernat: Epibatus autem, quia membris veluti utens quattuor, et duabus diversitatibus copulatur.</p>
+      <p id="MARDNP90254">Verum haec genera cum permixta fuerint in speciebus numerorum, primae species erunt istae, quae Dochmiacae nominantur. E quibus prius quod fuerit hac lege componitur, ut fit ex iambo, et paeone qui [DIAGUIOS] vocatur; hunc [LUSIUM] posteriores Graeci cognominarunt. Secunda est species, quae ex Iambo Dactylico et Paeone constare monstratur. 
+      <pb n="[197]" />Qui autem deducti numeri nominantur, propter assiduum et compositum sonum apellari videntur. Fiunt autem numeri, qui et prosodiaci vocantur: quorum alii per ternos pedes fiunt, pyrrhichio, iambo et trochaeo; alii vero quattuor; ut his tribus pedibus iambus primus aptetur. Alii vero ex duabus syzygiis, id est, copulis, bacchio et Ionico apo mizonos constare consuerunt. Sunt sane qui etiam irrationabiles esse dicuntur, quos alogos vocitamus, quos etiam chorios appellare consuevimus. Sunt autem numero duo: quorum alter diiambi figuram respicit, et constat ex elatione quae longa est, et duabus positionibus: et numero quidem est ad dactylicum similis; partibus vero ad numerum ionicum jungitur, et iambicinum. Alius vero est numerus qui trochoides nominatur, id est, qui figuram quandam speciemque trochaei habere videtur, ex elationibus geminis et longa positione consistens; per contrarium prioris effectus.</p>
+      <p id="MARDNP90255">[De aliis sex mixtis Rhythmis. in marg.] Sunt autem mixti generis quinque, id est, Dactylus per iambum: dactylus in bacchio incidens, is qui veniat ex trochaeo: dactylus per bacchium, qui ex iambo manaverit: dactylus per chorium, qui ex iambi similitudine exordium mutuetur: dactylus per chorium, qui ex similitudine trochaei videatur expressus. Et creticus quidem consonans ex trochaei positione .................................... et indicio numeri componendi, et omnium figurarum plena perceptio. Dividitur haec in eas quas et Melopoeia partes, quae sunt istae: [LEPSIS], id est, perceptio, per quam scimus quo quantum numero utendum sit: [CHRESIS], id est, usus per quem positiones aut elationes decenter aptamus: [MIXIS], id est, permixtio, per quam quod oportunum fuerit, ex arte miscemus. Tropi vero, ut in Melopoeia, et in Rhythmopoeia tres sunt, quos systalticos dicimus, et in Harmonicis eos superius memoravi. Numerum autem marem esse, melos feminam noverimus. Etenim melos materies est, quae sine propria figura censetur: rhythmus autem opere quodam virilis actus tam formam sonis, quam varios praestat effectus.</p>
+      <p id="MARDNP90256">
+      <pb n="[198]" />Quae cum Harmonia, intentis tam Divis quam Heroum populis augusta quadam suavitate percurreret, ad cantus, carminumque dulcedines decenter regressa conticuit. Tuncque Iove assurgente, divisque praeambulis cymesin modulata, in thalamum quoque virginis magna cunctorum voluptate pervenit.</p>
+      <p id="MARDNP90257">Habes senilem Martiane fabulam;</p>
+      <p id="MARDNP90258">Miscillo lusit quam lucernis flamine</p>
+      <p id="MARDNP90259">Satyra, Pelasgos dum docere nititur</p>
+      <p id="MARDNP90260">Artes creagris vix amicas Atticis;</p>
+      <p id="MARDNP90261">Sic in novena decidit volumina.</p>
+      <p id="MARDNP90262">Haec quippe loquax docta indoctis aggerans</p>
+      <p id="MARDNP90263">Fandis tacenda farcinat, inmiscuit</p>
+      <p id="MARDNP90264">Musas, deosque disciplinas cyclicas.</p>
+      <p id="MARDNP90265">Garrire agresti cruda finxit plasmate</p>
+      <p id="MARDNP90266">Hac ipsa nauci rupta conscientia,</p>
+      <p id="MARDNP90267">Turgensque felle ac bile, multa chlamyde</p>
+      <p id="MARDNP90268">Prodire doctis approbanda cultibus,</p>
+      <p id="MARDNP90269">Possemque comis, utque e Martis curia</p>
+      <p id="MARDNP90270">Felicis, inquit, sed Capellae flamine,</p>
+      <p id="MARDNP90271">Indocta rabidum quem videre saecula</p>
+      <p id="MARDNP90272">Lurgis caninos blateratus pendere:</p>
+      <p id="MARDNP90273">Proconsulari vero dantem culmini,</p>
+      <p id="MARDNP90274">Ipsoque dudum bombinatorem flosculo</p>
+      <p id="MARDNP90275">Decerptum falce iam canescenti rota,</p>
+      <p id="MARDNP90276">Beata alumnum urbs Elisae quem videt.</p>
+      <p id="MARDNP90277">Iugariorum murcidam viciniam</p>
+      <p id="MARDNP90278">Parvo obsidentem, vixque respersum lucro,</p>
+      <p id="MARDNP90279">Nictante cura somnolentum lucibus;</p>
+      <p id="MARDNP90280">Ob hoc creatum Pegaseum gurgitem.</p>
+      <p id="MARDNP90281">Decente quando possem haurire poculo.</p>
+      <p id="MARDNP90282">Testem ergo nostrum quem veternum prodidit</p>
+      <p id="MARDNP90283">Secute nugis nate ignosce lectitans.</p>
+      <p id="MARDNP90284">Martiani Minei Felicis Capellae Afri Carthaginensis de harmonia liber IX[macron supra lin.] explicit.</p>
+    </body>
+  </text>
+</TEI>

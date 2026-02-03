@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Monochordi mensura</title>
+        <title type="abbrev">ANOMONR</title>
+        <author>Anonymous</author>
+        <date notBefore="800" notAfter="1099">9th-11th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Peter Slemon</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Anastasia Arapova</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>2001</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+"Anonyme Monochordeintheilung. (Cod. Paull. 1493, fol. 52b.)," in 
+<emph>Studien zur Geschichte der Notenschrift</emph>, ed. Hugo Riemann (Leipzig: Breitkopf and Härtel, 1878), 301.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: Mensura monochordi</title>
+          
+<idno type="LML">MON. Per tres</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">D-LEu 1493, 52v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 18937, 260v</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANOMONR0001">
+      <pb n="[301]" />Monochordi mensura</p>
+      <p id="ANOMONR0002">(Divide) per tres usque F et in quarta habes C.</p>
+      <p id="ANOMONR0003">per duo usque F et in tertia habes B.</p>
+      <p id="ANOMONR0004">per quatuor usque B et sic [in tertia quae est] retro habes E.</p>
+      <p id="ANOMONR0005">per duo usque E et in tertia habes A.</p>
+      <p id="ANOMONR0006">per quatuor usque A, et sic [in tertia quae est] retro habes D.</p>
+      <p id="ANOMONR0007">per tres usque C et in quarta habes G.</p>
+      <p id="ANOMONR0008">per duo usque D et in tertia habes minus g, quae est sinemenon.</p>
+    </body>
+  </text>
+</TEI>

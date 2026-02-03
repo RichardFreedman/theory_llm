@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Tractatus de musica</title>
+        <title type="abbrev">ANOFRA5</title>
+        <author>Anonymous</author>
+        <date notBefore="1100" notAfter="1199">12th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>John Csonka</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Jan Herlinger</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Angela Mariani</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1991</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Adrien de la Fage, 
+<emph>Essais de dipthérographie musicale</emph> (Paris: Legouix, 1864), 355–62.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: "Quoniam de canendi scientia"</title>
+          
+<idno type="LML">ANON. La Fage I</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">E-Bbc M. 883, 1-15v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fn II. I. 406, 1-4</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-PAc parm. 1158, 65-73</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-PIu 606 (IV.9), II/52-57</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Vnm Lat. Cl. VIII.85 (3579), 24-43v</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANOFRA50001">
+      <pb n="[355]" />Viso de gravibus ordine ad acutas, notatoque quomodo ex speciebus diatessaron et diapente componantur, restat nunc inquirendum qualiter a se invicem generentur.</p>
+      <p class="textFig" id="ANOFRA50002">*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*
+      <lb /></p>
+      <p id="ANOFRA50003">Quot sunt maneriae cantuum. Quot vel qui continentur toni sub unaquaque maneria. Quot sunt vel quae sunt litterae finales. De finalibus litteris quae in septem speciebus diapason reperiuntur. Quae litterae debent esse finales, quae non. De diversitatibus cantuum. Quid est cantus regularis. Qui irregularis. Qui falsus. De maneriis cantuum. De octo tonis quantum a finali possunt ascendere vel descendere. De principiis cantuum et saeculorum. Quomodo cantus debet componi. De argumentis. Utilis figura quae omnes cantus componere docet. Expositio figurae. De compositionibus cantuum secundum praemonstratam figuram. De proprietatibus tonorum. De b rotundo. De discantu simplici. Ars ad componendum organum. De primo tono. De secundo. De tertio. De quarto. De quinto. De sexto. De septimo. De octavo.</p>
+      <p class="textFig" id="ANOFRA50004">*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*
+      <br /></p>
+      <p id="ANOFRA50005">
+      <pb n="[356]" />Pateat igitur quod septem finales litterae ex septem speciebus diapason oriuntur, in quibus omnis cantus, qui per musicam notari possunt, habeant terminari.</p>
+      <p class="textFig" id="ANOFRA50006">*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*
+      <lb /></p>
+      <p id="ANOFRA50007">Quisquis igitur cantum facturus es diversitates cantuum attende, ut scias qualem cujusque modi cantuum faciendum aggrediaris. Sunt enim, ut diximus, quatuor maneriae cantuum quae, per octo modos divisae, omnis cantus tam regulares quam irregulares praeter falsos accipiunt et includunt; falsos enim non terminant, sed excludunt. Regularis autem cantus est qui litterarum metas altrinsecus positas bene compositus non excedens,..... nec nimium ascendit superius, nec nimium descendit inferius, sed sua proprietate contentus et intra proprias litteras progrediens, bene et congrue in litteris finalibus suae maneriae terminatur. Irregularis vero est qui proprias metas conservans, sed male et inordinate compositus et suo modo dissonans, partim authentus et partim plagalis et licet in finali alicujus maneriae terminetur, nullius tamen toni plus quam debet elevatus vel depositus, esse judicatur. Falsus autem est ille qui nullam regulam propriam, sed per regionem dissonae compositionis progrediens et naturalem musicae ordinem non sequens, in musica notari non potest....</p>
+      <p id="ANOFRA50008">Nullus cantus debet inchoari supra litteram illam in qua suum seculorum habet incipere; infra autem vel in eadem littera, sive in finali, vel sub finali 
+      <pb n="[357]" />debet habere principium prout ratio dictaverit. Primi vero toni incipit in quinta a finali, secundi in tertia, tertii in sexta, quarti in quarta, in quinta quinti, in tertia sexti, in quinta septimi, octavi in quarta debet incipere littera. Quisquis igitur cantum facturus es proprietates tonorum et semitoniorum attendas et ita cantum studeas componere, ut sui modi proprietatem valeat continere. Sic enim debet omnis cantus componi, ut sui modi proprietatem continens et certitudinem rationis admittens, alterius non valeat judicari. Nam ubi certitudinis ratio vacillat de veritate discretio titubans in judicio calligat.</p>
+      <p class="textFig" id="ANOFRA50009">*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*
+      <br /></p>
+      <p id="ANOFRA50010">Istae igitur proprietates ita cantoribus sunt necessariae ut sine istis nec cantores periti, nec notatores periti debeant judicari; quia nec cantor scit cantum componere naturaliter, nec in sua propria finali littera notator cantum aliquem scit notare veraciter. De quibus quid referam? Quum de illis nec loqui debeant ipsi michi, ne nauseam generant, quorum alterum video non scientiae, sed vanae gloriae stolidum sectatorem, ut laudetur aberrare, alterum autem intueor peritum lucri, non veritatis cupidum amatorem, ut remuneretur corrumpere. Isti quidem qui canendi scientiam non habentes et habere se simulantes facti sunt caeci duces caecorum, veritatis impugnatores et assentatores falsitatis, infantiae atque librorum corruptores, de quibus omnino decentius estimo reticere quam loqui.</p>
+      <p class="textFig" id="ANOFRA50011">*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*
+      <lb /></p>
+      <p id="ANOFRA50012">Quod est accidentale non est proprium, et quod non proprium non est naturale. Inventum est autem b rotundum ad temperandum tritonum qui super F naturaliter 
+      <pb n="[358]" />invenitur. Ubi enim cantus asperius sonat, b rotundum in loco quadrati ad temperandum tritonum furtim interponetur: sed ubi cantus ad suam naturam recurrerit, statim debet auferri. Igitur b rotundum quia accidens est vel accidentale, et accidens potest adesse et abesse sine corruptione subjecti, ubi necessarium fuerit apponatur, quando autem non cantum receperit auferatur.</p>
+      <p class="textFig" id="ANOFRA50013">*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*
+      <br /></p>
+      <p id="ANOFRA50014">Discantus cantui debet esse contrarius, quamvis cum cantu debeat personare; sed in elevatione et depositione. Quando autem cantus elevatur, discantus debet deponi, et quando cantus deponitur, discantus, ut naturaliter fiat, ex contrario debet elevari. Quisquis igitur discantum bene et naturaliter cupis componere, consonantias scilicet diatessaron, diapente et diapason, ut pote omnino necessarias, in promptu semper et bene notas studeas habere; per has enim discantus omnis qui naturaliter fit componitur, et sine istis, ut vere discantus sit, nullo modo potest componi. Discantus igitur suo cantui appropinquare nullo modo debet nisi per unam harum consonantiarum et quum cum cantu facit unisonum. Aut enim per unam de istis, scilicet per diatessaron, aut per diapente aut per diapason discantus cantui sonabit, aut unisonum cum cantu fecerit, aut discantus verus omnino non erit. Et hoc etiam omni cura maximaque cautela cavendum est ne discantus plures punctos habeat quam cantus, quia equali punctorum numero ambo debent incidere. Sed si forte in fine clausulae in ultima aut penultima dictionis syllaba, ut discantus pulchrior et facetior habeatur et ab auscultantibus libentius audiatur, aliquos organi modulos volueris admiscere, licet facere, quamvis neque hoc non velit auferre. Aliud enim esse discantus, aliud organum cognoscitur. Proinde cum deflorere finem clausulae volueris, vide ne nimios modulos per nimium saepius discantui misceas; ne cum discantum facere putaveris, organum aedifices et discantum destruas. Discantus igitur in unisono, aut in quarta id est diatessaron, aut in quinta id est diapente aut duplari euphonia diapason debet incipere, et per aliquam harum consonantiarum aut per unisonum suo semper cantui per unum quemque punctum et syllabam respondere, quod in subdito monstratur exemplo:</p>
+      <p id="ANOFRA50015">[De La Fage, 358; text: d d e a c d, D G G A F D] 
+      <figure>
+        <graphic url="/images/ANOFRA5_01GF.gif" />
+      </figure></p>
+      <p id="ANOFRA50016">
+      <pb n="[359]" />Vides qua ratione discantus cantui appropinquat; vides nichilominus qua dulcedine consonantiarum consonet. Sed quia iste discantus quodam modo simplex est et minoris subtilitatis, quia non est nisi unius discantus super unum cantum, alium duplicem componamus qui in se compositione diversus, nec dissonans uni cantui per diversas consonantias, dupliciter et naturaliter respondere possit; cujus exemplo et altiori subtilitate gravioris compositionis, benivoli hujus doctrinae discipuli ad altiora scientiae incrementa provehantur. Exemplum hic:</p>
+      <p id="ANOFRA50017">[De La Fage, 359; text d d c a c d, a c d e c a, a G G a G D, Sint lumbi vestri.]</p>
+      <p id="ANOFRA50018">Hic perspicue potes agnoscere vim et utilitatem consonantiarum; quod si naturaliter conjungantur diversi cantus ex diversis vocibus vel litteris compositis, symphoniam naturalem et quamdam sonoritatis dulcedinem reddere faciunt. Ecce quomodo finis et natura hujus liberae artis attendatur, sagaciter inquiratur, memoriae retineatur, per incrementa subtilitatis ad altiorem provehat utilitatem. Ecce quomodo si arti insistitur, per assiduitatem inquisitionis subtilioris, animus humanus amplitudine quadam dilatatus, de minimo scit multa colligere et supra ad compendiosa reducere. Omnis denique cantus sive discantus debet componi quatenus ad humanam vocem, ut in superioribus possit attingi.</p>
+      <p class="textFig" id="ANOFRA50019">*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*
+      <lb /></p>
+      <p id="ANOFRA50020">
+      <pb n="[360]" />Hactenus de natura discantus, exemplis attestantibus, quod diximus, ut credo, satis docuimus;jam ad naturale componendum organum faciendi stylum et animum preparemus.</p>
+      <p id="ANOFRA50021">Ad organum itaque faciendum tria sunt necessaria: ut sciatur scilicet quo modo incipiatur, quo ordine progrediatur, qua ratione terminetur. Necessarium est nihilominus organizatori ut consonantias et notas in promptu habeat, quum sine istis organum nullo modo ab aliquo potest componi. Sciendum est autem quod organum debet in aliqua consonantiarum aut in unisono, id est cum cantu incipere. Si vero cantus ascenderit, organizator debet organum modulando deponere; si vero descenderit, e contrario contra cantum organum debet incedere. Organizator autem omnimodo caveat, sive cantus ascendat sive descendat, ne organum a cantu sive superius, sive inferius longius quam plenum diapason deducat. Quin si fecerit, infra diapason et diapente aut bis diapason, quae sunt instrumentorum duae consonantiae ad quas vox humana vix aut nunquam pertingere sufficit, remanere non licebit. Si autem remansit male et inordinate compositum suo cantui dissonans organum erit. Proinde ita debet fieri ut nec nimium extensum superius, necnimium descensum inferius humanae vocis possibilitatem non excedat.</p>
+      <p id="ANOFRA50022">Inter discantum vero et organum hoc interesse probatur quod discantus equali punctorum numero cantui suo per aliquam semper consonantiam respondet aut compositionem facit unisonam; organum autem non equalitate punctorum, sed infinita multiplicitate, ac mira quadam flexibilitate cantui suo concordat. In aliqua, ut discantus, est consonantiarum; aut cum cantu debet incipere, et inde modulando vel lasciviendo prout opportuerit et organizator voluerit, vel ascendens superius, vel inferius descendens, tandem vero in diapason aut cum cantu terminum ponens. Nullam etenim pausationem quam nos clausam vel clausulam, 
+      <pb n="[361]" />vocitamus nisi in diapason aut cum cantu debet facere; quod ut melius videatur, sequenti organo demonstratur:</p>
+      <p id="ANOFRA50023">Benedicamus Domino</p>
+      <p id="ANOFRA50024">Vide et cognosce in isto Benedicamus pausationum modum. Perpende etiam quod modo a discantu et a cantu differat multiplicitate punctorum et quod volvendo, modulando et lasciviendo a cantu discedat cito, et cito iterum ad cantum relabatur. Nota igitur quam aliam vim habeant in organo pausationes et respirationes. Pausationes autem dicimus moras illas quas vel cum cantu vel in diapason ab organizatore fiunt causa requiescendi aut organum intercidendi. Respirationes vero vocamus interpositiones illas quae fiunt ab organizatore quum ad quartam, id est diatessaron, organum vel ad quintam, id est diapente, a cantu descendit et ibi paululum respirans, resumit spiritum ut usque ad pausationem melius sequentia prosequatur.</p>
+      <p id="ANOFRA50025">Audistis igitur et, ut certissime credo, bene et optime intellexistis quod cantus naturaliter componendus sit; audistis nihilominus de discantu simplici super simplicem, discantum duplicem; ad ultimum vero simplicem organum super simplicem cantum. Audistis et vidistis, notastis atque laudastis. Ut autem de singulis in singulis componendis altius instruaris, cantum et discantum utrumque simplicem unum super alterum et organum desuper struamus, ut visa unius cujusque proprietate et ad alterutrum consonantia certum judicium de singulis, id est sciens, exseras; et exemplis singulorum simul naturaliter positorum adjutus, quum fortius instruunt exempla quam verba, percipere tum melius convaleas quod solo auditu ante didisceras.</p>
+      <p id="ANOFRA50026">Nota quod suprascripti Benedicamus organum nunc cantui, nunc discantui respondeat; nota qualiter discantus a cantu, a discantu organum differat; perpende etiam suprascripti organi principia et respirationes et pausationes et quo modo ad discantum et ad cantum se habeat, nunc superius, nunc inferius, aliquando vero in medio collocatae. Quin si singula quaequae diligenter perspexeris et perfecte memoriae commendaveris, in arca pectoris veraciter conservabis omnia quae ad discantum et organum faciendum, si adsit possibilitas vocis. Illud ad ultimo non est oblivioni tradendum quod cantor primus debet incipere et finire; similiter autem et organizator. Hactenus de cantu et discantu, simul et organo faciendo satis ut credimus docuimus.</p>
+      <p class="textFig" id="ANOFRA50027">*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*
+      <br /></p>
+      <p id="ANOFRA50028">
+      <pb n="[362]" />II. Incipit rude documentum tonorum, sed valde utile est his qui intelligunt.</p>
+      <p class="textFig" id="ANOFRA50029">*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*
+      <lb /></p>
+      <p id="ANOFRA50030">Primus cum sexto FA SOL LA semper habeto, etc.</p>
+      <p class="textFig" id="ANOFRA50031">*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*&#160;&#160;&#160;&#160;&#160;*
+      <br /></p>
+      <p id="ANOFRA50032">Discantus est aliquot cantuum diversorum concordantia sive consonantia, n qua illi diversificantur per voces lungas, breves, semi-breves proportionaliter adaequatas; vel proportionaris admixtio designat. Unde sciendum est quod ad discantus artem requiruntur tredecim species; scilicet unisonus, semitonius, et cetera.</p>
+    </body>
+  </text>
+</TEI>

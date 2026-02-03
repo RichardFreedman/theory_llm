@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Quatuor Principalia I</title>
+        <title type="abbrev">QUAPRIB1</title>
+        <author>Anonymous</author>
+        <date notBefore="1300" notAfter="1399">14th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Stephen E. Hayes</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Peter M. Lefferts</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1991</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>Scriptorum de musica medii aevi nova series a Gerbertina altera</emph>, 4 vols., ed. Edmond de Coussemaker (Paris: Durand, 1864-76; reprint ed., Hildesheim: Olms, 1963), 4:200–206.
+</bibl>
+        <bibl type="work">
+          
+<title>Ps.-Simon Tunstede: Quatuor principalia musicae</title>
+          
+<idno type="LML">QUAT. PRINC.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">B-Gu 70 (71), 77v-78v, 144vb-159v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ctc O.9.29, 1-53</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Lbl Add. 4909, 31-56 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Lbl Add. 8866, 4-64</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Lbl Cotton Tiberius B.IX, 205v-214 (Fragment)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ob Bodley 515, 4-77v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ob Digby 90, 1-63v</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="QUAPRIB10001">
+      <pb n="[200]" />QUATUOR PRINCIPALIA MUSICAE PER SIMONEM TUNSTEDE</p>
+      <p id="QUAPRIB10002">Quemadmodum inter triticum et zizania quamdiu herba est, et nec dum culmus ad spicam venit, tam grandis similitudo est, ut unum ab alio vix discerni potest; sed tritici spica apparente, zizania manifestatur: sic veritas a falsitate, quamdiu sub velamine latet, discerni nequat; sed 
+      <pb n="[201]" />manifestata veritate, falsitatis error valet separari.</p>
+      <p id="QUAPRIB10003">Et quia, modernis temporibus, tam in plana musica, quam etiam in mensurabili, zizania erroris cum tritica veritatis valde concrescunt, quae per fantasticas oppiniones seminata est; nec propter magnam similitudinem inter triticum istius et zizania discreti fieri potest: quamdiu sub velamine ignorantiae latent; sed veritate cognita, falsitatis error eradicare potest.</p>
+      <p id="QUAPRIB10004">Igitur ut a musica erroris zizania evellatur, necessarium est quod tritici veritatis spicae per hujus scientiae principiorum noticiam manifestantur; quae quidem principia in sequenti libello sunt apposita.</p>
+      <p id="QUAPRIB10005">Divisus est enim iste libellus per quatuor principalia a quibus denominatur. Quorum autem primum principale in XIX capitulis dividitur. Secundum vero principale XXIIII habet capitula. Tercium quippe principale in LVIII capitulis continetur. Sed quartum principale duas habet distinctiones: prima autem distinctio XLI capitula continet; secunda vero distinctio sub XLIX capitulis comprehenditur.</p>
+      <p id="QUAPRIB10006">CAPITULUM PRIMUM.</p>
+      <p id="QUAPRIB10007">Quatuor principalia sequentia totius artis musica comprehendunt principia.</p>
+      <p id="QUAPRIB10008">Quoniam circa musicam, deo auxiliante, conscientiaque ductus, necessaria quaedam ad cantuum utilitatem tractare propono, videlicet de quatuor principalibus, in quibus totius artis musicae radices consistunt.</p>
+      <p id="QUAPRIB10009">Et primo quidem de musica et ejus divisionibus.</p>
+      <p id="QUAPRIB10010">Secundo de inventione et ejus proportionibus.</p>
+      <p id="QUAPRIB10011">Tertio de plano cantu et ejusdem modis.</p>
+      <p id="QUAPRIB10012">Et quarto de cantu mensurabili et etiam de discantu et eorum distinctionibus.</p>
+      <p id="QUAPRIB10013">Hiis igitur propositis, necesse est quod secundum auctoris intentionem subtilissimas regulas curiose subjectas intelligere studiam, cum humana natura naturaliter omnia scire desiderat. Nam a primo hominis peccato, quatuor sunt mala quae naturam impediunt humanam, scilicet ignorantia, vitium, imperitia loquendi, et indignatio. Quibus tamen quatuor sunt opposita, scilicet ignorantiae sapientia, vitio virtus, imperitae loquendi eloquentia, indignationi necessitas.</p>
+      <p id="QUAPRIB10014">Ideoque divina clementia peritiam artem inveniendi philosophis concessit, ut per ejus noticiam quisquis valeat praedicta bona comprehendere, et his bonis fruendo, lapsam naturam ad meliorem consistentiam sublimare.</p>
+      <p id="QUAPRIB10015">CAPITULUM II.</p>
+      <p id="QUAPRIB10016">Quod ex ratione et exersitio plura inveniuntur.</p>
+      <p id="QUAPRIB10017">In omni tamen arte valde plurima sunt quae mediantibus ratione et exersitio in hominis sensu cognoscuntur, melius quam ea quae a magistro informentur. Nam si in arbore una nulla multarum propaginum virtutem vegitativam copulativit: sic in homine et ratio et excersitium ex unius scientia docet scientiam multarum rerum invenire. Ait enim beatus Jeronimus, in epistola de omnibus divinae historiae libris, quod omnis scientia in tres partes scinditur, videlicet in doctrina, in ratione et in exersitio, sic et ista scientia. Nam pro istius scientiae doctrina, principia constituuntur, et super principia oportet ut ratio fundatur, et sic cum exersitio, scientia multiplicatur sine qua omnis scientia frustratur.</p>
+      <p id="QUAPRIB10018">Boycius enim, in sua musica, libro primo, capitulo ultimo, sic alloquitur dicens: Omnis enim ars omnisque doctrina honorabiliorem naturaliter habet rationem quam artificium quod manu atque opere artificis excercetur; multo enim est majus atque auctius scire quod quisquis faciat, quam ipsum illud efficere quod sciat. Et enim artificium illud corporale quasi serviens famulatur, ratio 
+      <pb n="[202]" />vero quasi doctrina imperat, et nisi manus secundum id quod indicat ratio operetur, frustra fit.</p>
+      <p id="QUAPRIB10019">CAPITULUM III.</p>
+      <p id="QUAPRIB10020">Quod speculatio rationis excedit practicam.</p>
+      <p id="QUAPRIB10021">Et tanto igitur praeclarior est scientia musicae in cognitione rationis, quam in opere efficiendi atque actu, tantum scilicet, quantum corpus ab anima superatur, quod scilicet. Si rationis sit expers, servicio degit. Illa vero imperat atque rectum deducit, quod nisi ejus pareatur imperio, expers opus rationis titufabit. Unde fit sicut speculatio rationis operandi actu non egeat, manuum vero et nulla sint opera, nisi ratione deducantur.</p>
+      <p id="QUAPRIB10022">Jam vero quanta sit gloria et meritum rationis, huic intelligi potest, quod ceteri ut ita dicam corporales artifices non ex disciplina; sed potius ex ipsis instrumentis coepere vocabulis. Nam chihtaredus ex chithara, tubicen ex tuba, ceterique suorum instrumentorum vocabulis nuncupantur. Ratio vero non ab instrumentis, sed a speculatione et scientia denominare voluerint musicae professores.</p>
+      <p id="QUAPRIB10023">CAPITULUM IV.</p>
+      <p id="QUAPRIB10024">Quae sunt praevidenda in musica.</p>
+      <p id="QUAPRIB10025">Si quis igitur ex improviso dicere qualitates diversorum cantuum, ac quantitates, differentiasque proportiones, similitudines, tempora, et mensuras, nec non et diffinitiones longarum, brevium, semibrevium, minimarum, atque figurarum discernere voluerit, principia hujus scientiae cognoscat et eorum certitudinem experietur. Nam ignoratis principiis, necesse est artem ignorare.</p>
+      <p id="QUAPRIB10026">CAPITULUM V.</p>
+      <p id="QUAPRIB10027">Divisiones in musica, et de musica mundana et humana.</p>
+      <p id="QUAPRIB10028">In principio autem hujus scientiae est sciendum quid sit musica, et unde dicitur, et quis musicus, quod est genus, quae materia, quae partes, quae species, quod instrumentum, quae enim utilitas, quis artifex et quod officium.</p>
+      <p id="QUAPRIB10029">Unde scire debemus quod musica est liberalis scientia potestatem canendi subministrans, sed haec dividitur, quia alia est mundana, alia humana, alia instrumentalis.</p>
+      <p id="QUAPRIB10030">Mundana vero musica est illa, quae ex incomplexionali effectu elementorum et temporum atque superiorum corporum, videlicet planetarum et stellarum ingulabilis efficitur, ut patet in prohemio primi libri musicae Boycii.</p>
+      <p id="QUAPRIB10031">Humana est illa, quae in conjunctione corporis et animae consistit, ut patet in prohemio, vide supra.</p>
+      <p id="QUAPRIB10032">CAPITULUM VI.</p>
+      <p id="QUAPRIB10033">De musica instrumentali, armonica, et rithmica.</p>
+      <p id="QUAPRIB10034">Instrumentalis vero musica est in discernendis et cognoscendis cantibus attributa. Et haec dividitur etiam, quia alia est armonica, alia rithmica, alia metrica.</p>
+      <p id="QUAPRIB10035">Armonica vero est illa quae discernit sonos in gravem et in acutum; vel sic: Armonica est illa quae consistit in numeris; et hoc dupliciter; una localis secundum proportionem sonorum et vocum in quantitate continua; alia temporalis secundum proportionem longarum, breviumque figurarum in quantitate discreta.</p>
+      <p id="QUAPRIB10036">Et est armonica idem quod modulationis discretio et veraciter canendi scientia, et ad perfectionem facilis via pluriumque vocum dissimilium proportionalis scientia et consonancia, sive scientia de numero relata ad sonos.</p>
+      <p id="QUAPRIB10037">Rithmica vero est illa quae in scantione requiritur utrum bene vel male cohereant dictiones, quod cantando utendum est et legendo.</p>
+      <p id="QUAPRIB10038">Metrica vero est illa quae mensuras diversorum 
+      <pb n="[203]" />metrorum ostendit probabili ratione, ut patet in eroico, iambico et elegiaco metro.</p>
+      <p id="QUAPRIB10039">CAPITULUM VII.</p>
+      <p id="QUAPRIB10040">Unde dicitur musica.</p>
+      <p id="QUAPRIB10041">Musica enim dicitur a musis que secundum fabulas fuit filia Jovis, vel dicitur a Moys graece, quod est aqua latine, quasi scientia juxta aquam inventa, quia sine humoris beneficio nulla cantilenae vel vocis delectatio subsistit. A Moys dicitur cantilena, quandoque sapientia. Vel Musae dicuntur a muso, id est, a quaerendo, quia per eas, sicut antiqui voluerunt, vis carminum et vocis modulatio quaerentur.</p>
+      <p id="QUAPRIB10042">CAPITULUM VIII.</p>
+      <p id="QUAPRIB10043">Quod musica naturaliter inest homini.</p>
+      <p id="QUAPRIB10044">Nihil est tam naturaliter humano generi conjuncta, sicut est musica, ut testatur Boycius in prohemio primi libri de sua musica. Nam per cuncta studia et aetates ita diffunditur, ut infantes et juvenes et senes et mulieres in dulcibus cantilenis naturali delectatione aliquo modo congaudent; in tantum ut unusquisque etiam, si suaviter canere non valeat, tamen apud se ob delectationem secundum quod valet sibi decantat.</p>
+      <p id="QUAPRIB10045">Et hiis omnibus manifeste apparet ita nobis musicam naturaliter esse conjunctam, ut etiam et si velimus sine illa esse nequiamus. Quapropter sicut fuit intentio philosophorum, ita tota vis mentis intenta est ut de musica quam ex natura habemus, scientiam cognitam ad laudem Dei et sanctae matris Ecclesiae habere possimus.</p>
+      <p id="QUAPRIB10046">CAPITULUM IX.</p>
+      <p id="QUAPRIB10047">Quis est musicus, et differentia musicorum et cantorum.</p>
+      <p id="QUAPRIB10048">Non enim sufficit musicis tantum proportiones et quantitates toni et semitonii scire, sine quantitatibus et principiis cantus mensurabilis, nec etiam sufficit cantoribus propter habilitatem vocis in cantileniis et in fractionibus tantummodo delectari, nisi quae sit vis musice pleno studio addiscant.</p>
+      <p id="QUAPRIB10049">Si enim interrogetur a talibus quae consonantiae sunt in cantu illo quem cantant, vel quae sit ejus mensura, aut omnino se ignorare fatentur, aut unam mensuram pro alia esse superbe respondent.</p>
+      <p id="QUAPRIB10050">Humilient igitur se et addiscant, ut sicut cantores sunt usu, possent musici esse ratione. Ait enim Boycius in sua musica, libro primo capitulo ultimo: Musicus est ille qui ratione perpensa non solum operis servitio, sed etiam speculationis imperio canendi scientiam manifestat, quod in edificiorum bellorumque opera videmus incontraria, scilicet nuncupatione vocabuli; eorum namque nominibus vel edificia inscribuntur vel dicuntur triumphi, quorum imperio ac ratione sunt instituta, non quorum operatione et servitio sunt perfecta.</p>
+      <p id="QUAPRIB10051">Unde et metrice diffinitio sequitur secundum Guidonem.</p>
+      <p id="QUAPRIB10052">Musicorum et cantorum magna est distantia.</p>
+      <p id="QUAPRIB10053">Isti dicunt, illi sciunt qui componunt musicam.</p>
+      <p id="QUAPRIB10054">Nam qui canit quod non sapit diffinitur bestia;</p>
+      <p id="QUAPRIB10055">unde versus:</p>
+      <p id="QUAPRIB10056">Bestia non cantor qui non canit arte sed usu.</p>
+      <p id="QUAPRIB10057">Non vox cantorem facit artis sed documentum.</p>
+      <p id="QUAPRIB10058">CAPITULUM X.</p>
+      <p id="QUAPRIB10059">Quod auditus a ratione in musica dissonare non debet.</p>
+      <p id="QUAPRIB10060">Intentio autem philosophorum, qui ad musicam inveniendum egregie laboraverunt, haec fuit: videlicet considerare diversas voces qua ratione conjunguntur, ut quamdam dulcedinem resonare videantur, nec solummodo auribus in dulcedine 
+      <pb n="[204]" />cantus credendum est, cum, sicut visus, ita etiam fallere valeat auditus.</p>
+      <p id="QUAPRIB10061">Fallitur enim aliquando visus ut sicut rectum lignum sub aqua miseris, statim oculis tortuosum videbitur, sic etiam accidit aliquando ut cantus auribus dulcis appareat, a ratione tamen inconsonans videatur.</p>
+      <p id="QUAPRIB10062">Ad hoc igitur musica reperta videtur, ut id quod aures varie et confuse percipiunt, ratione stabili et congrua judicetur.</p>
+      <p id="QUAPRIB10063">CAPITULUM XI.</p>
+      <p id="QUAPRIB10064">Quare musica magis quam aliqua alia scientia intrat ecclesiam.</p>
+      <p id="QUAPRIB10065">Non enim sine ratione mos cantilenae in Dei ecclesia institutus est, in qua mentes audientium delectantes; ad virtutis amorem excitarentur tamen tanta est vis musicae ut si ultra quam oportet mollioribus modis utatur, animos audientium ad lasciviam delectat. Si autem asperioribus modis et devote moveatur, ad fortiora et ad spiritualia incitet.</p>
+      <p id="QUAPRIB10066">Nulla enim scientia ausa est fores intrare, nisi tantummodo ipsa musica; namque per eam plasmatorem mundi debemus collaudare et benedicere, et ei psallendo novum canticum sicut sancti patres nostri et prophetae docuerunt; divina enim officia per quae ad sempiternam convocamur gloriam, per eam quotidie celebrantur.</p>
+      <p id="QUAPRIB10067">CAPITULUM XII.</p>
+      <p id="QUAPRIB10068">Quod est genus in musica, et quod materia musicae est sonus vel vox.</p>
+      <p id="QUAPRIB10069">Genus vero hujus scientiae est peritia armonicae modulationis, quae ex plurimorum sonorum consonancia, vel ex compositione longarum, breviumque figurarum percipitur.</p>
+      <p id="QUAPRIB10070">Materia hujus scientiae est sonus ordinatus vel vox ordinata. Sonus, ut ait Boycius, libro quinto, capitulo tertio, est differentia gravitatis vel acuminis aere percusso.</p>
+      <p id="QUAPRIB10071">Sonorum alii sunt unisoni, alii non unisoni. Unisoni sunt quorum sonus unus est vel in gravi vel in acuto. Non unisoni sunt, quorum unus gravior est et alior acutior certa quantitate.</p>
+      <p id="QUAPRIB10072">Ex sonis autem oriuntur voces, quarum aliae sunt consonae, aliae dissonae. Consonae autem vocantur quae copulatae mixtosque suaves efficiunt sonos. Dissonae vero in contrarium, quia copulatae, aures offendunt et tedium generant. Ait enim Boycius libro primo, capitulo 6to, quod consonancia est soni mixtura gravis et acuti, uniformiter suaviterque auribus accedens. Dissonantia est duorum sonorum sibimet permixtorum ad aures veniens aspera atque injocunda percussio. Et libro quarto, capitulo primo, ait sic: Consonantiae quidem sunt, quae simul pulsae suavemque permixtum inter se conjungunt sonum. Dissonae vero quae simul pulsae non reddunt suavem neque permixtum sonum. Ait etiam libro primo, capitulo primo et sexto, quod consonantia est dissimilium inter se vocum in unum redacta concordia.</p>
+      <p id="QUAPRIB10073">Ista enim sunt contra eos qui dicunt diatessaron consonantiam per se esse concordiam; nam Boycius, libro secundo, capitulo 24, plane contra eos determinat, ut patebit inferius.</p>
+      <p id="QUAPRIB10074">Omnis autem vox aut est continua, aut cum intervallo suspensa. Vox continua est, in loquendo verba, in prosam legendo, et oratione dicendo, et sic vox continue operatur, et est naturaliter infinita, tamen humanus spiritus vocis terminum facit, ultra quem nulla ratione valet excedere. Vox cum intervallo suspensa est, quae a gravissima ad acutissimam per intervalla consistit, et isti voci etiam humanus spiritus finem dat, quia tantum unusquisque vel in acumine valet extollere, vel in gravitate deprimere, quam vox naturalis patitur et non ultra hoc Boycius, libro primo, capitulo XI.</p>
+      <p id="QUAPRIB10075">
+      <pb n="[205]" />CAPITULUM XIII.</p>
+      <p id="QUAPRIB10076">Quot sunt partes musicae.</p>
+      <p id="QUAPRIB10077">Partes autem hujus scientiae suntduae, videlicet theorica, id est speculativa, et practica. Partes practicae sunt tres: scientia videlicet de gravi sono, scientia de medio, et scientia de acuto; et de hiis tractant eorum compositores inter se utilitates ostendendo, et quomodo componitur ex hiis omnis melodia. Partes theoricae sunt de dispositionibus hujus artis inveniendi neupmata, et cognoscendi eorum numeros quot sunt, et species eorum, et declarandi proportiones quarumdam ad alias et demonstrationes de omnibus illis, et docere species ordinum, et eorum situum quibus praeparantur, ut accipiatur ex eis quod placet, et componatur ex eis armonias.</p>
+      <p id="QUAPRIB10078">CAPITULUM XIV.</p>
+      <p id="QUAPRIB10079">Quae et quot sunt species musicae.</p>
+      <p id="QUAPRIB10080">Species quoque hujus artis sunt diversitates subjectorum. Et sunt tresdecim ex quibus fiunt neupmata, omnesque species continentur in diapason. Nam aliquando voce, aliquando flatu, et aliquando tactu exercentur. Voce vero, ut hominis. Flatu vero, ut tibia. Factu autem, ut psalterio et cithara, et similia.</p>
+      <p id="QUAPRIB10081">CAPITULUM XV.</p>
+      <p id="QUAPRIB10082">Quod est instrumentum musicae.</p>
+      <p id="QUAPRIB10083">Instrumentum vero, aliud practicae, aliud theoricae. Theoricae vero instrumentum, est inquisitio seu demonstratio proportionum, sonorum et vocum. Practicae vero sic: aliud est naturale, aliud est artificiale. Naturale est, ut pulmo, guttur, lingua, dentes, palatum et coetera membra specie alia, sed principaliter forma vocis est epiglottis. Artificiale est, ut organa, viella, cithara, cistolla, psalterium et cetera.</p>
+      <p id="QUAPRIB10084">CAPITULUM XVI.</p>
+      <p id="QUAPRIB10085">Quis est artifex musicae.</p>
+      <p id="QUAPRIB10086">Artifex est ille qui quasi practice format neupmata et armonias et eorum accidentia secundum quod sunt, vel qui theorice docet haec omnia fieri secundum artem quae in humanos possunt invenire effectus.</p>
+      <p id="QUAPRIB10087">CAPITULUM XVII.</p>
+      <p id="QUAPRIB10088">Quod est officium musicae.</p>
+      <p id="QUAPRIB10089">Officium vero hujus artis, aliud practice, aliud theorice. Practice vero est armonias componere secundum artem; theorice vero officium est in summa comprehendere cognitionem specierum armonicarum, et illud ex quo componuntur et qualiter componuntur, et quantum ad planam musicam, et quantum ad musicam mensurabilem, ut in sequentibus terminabitur et ostendetur.</p>
+      <p id="QUAPRIB10090">CAPITULUM XVIII.</p>
+      <p id="QUAPRIB10091">Quae est utilitas musicae.</p>
+      <p id="QUAPRIB10092">Utilitas hujus scientiae magna est et mirabilis atque virtuosa valde, nam testante Boycio, quod inter septem artes liberales, musica continet principatum; nihil enim sine illa manet.</p>
+      <p id="QUAPRIB10093">Etenim mundus dicitur quod sub quadam armonia sonorum est constitutus, et ipsum coelum sub armoniae modulatione revolvitur.</p>
+      <p id="QUAPRIB10094">Astrologi dicunt novem esse sonos, qui celestem armoniam faciunt. Septem sunt planetarum, octavus est firmamentum, nonus est, ut quidam dicunt, ille totalis qui ex illis octo sonis est; dicunt enim terram, quia non movetur nullum sonum in coelesti armonia facere. Alii vero nonum terrae assignant, quae licet non moveatur per se; movetur tamen in circumjatione aliarum spherarum circa eam, et adeo raucum habet sonum, ut vix etiam computetur inter alios sonos.</p>
+      <p id="QUAPRIB10095">
+      <pb n="[206]" />CAPITULUM XIX.</p>
+      <p id="QUAPRIB10096">De virtute musicae.</p>
+      <p id="QUAPRIB10097">Inter omnes scientias, ipsa liberalior, curiosior, jucundior, letitior, et amabilior esse probatur. Nam reddit hominem liberalem, curialem, jucundum, laetum et amabilem.</p>
+      <p id="QUAPRIB10098">Movet enim affectus hominum, provocat enim in diversum habitum sensum.</p>
+      <p id="QUAPRIB10099">In praeliis etiam tubarum concentus pugnantes accendunt, quia quanto vehementior fuerit clangor, tanto fit animus ad certamen velotior, quid plura? Vere musica animos mortalium hortatur ad labores quoslibet tolerandum, et singulorum operum fatigationem vocis consolatur modulacio.</p>
+      <p id="QUAPRIB10100">Excitatos quoque animos musica sedat; quandoque dolorem capitis et tristitiam tollit. Immundos spiritus humoresque pravos et languores depellit.</p>
+      <p id="QUAPRIB10101">Unde utilis ad salutem corporis et animae invenitur, eo quod quandoque corpus infirmatur, languente anima, et impeditur, ipsa existente impedita.</p>
+      <p id="QUAPRIB10102">Unde et recreatio corporis saepe fit per recreationem animae, et per aptationem virium suarum, temperantia suae substantiae sonis convenientibus agentibus. Sicut legitur de Davide qui Saulem eripuit a spiritu maligno arte modulationis; ipsa quoque reptilia, nec non et aquatilia verum et volatilia, sua dulcedine musica consolatur. Sed etiam, quidquid loquimur, in venarum pulsibus commovetur, et armonia probatur esse virtutibus sociatum.</p>
+      <p id="QUAPRIB10103">licit Primum Principale.</p>
+    </body>
+  </text>
+</TEI>

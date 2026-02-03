@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Quid est cantus?</title>
+        <title type="abbrev">ANOQUID</title>
+        <author>Anonymous</author>
+        <date notBefore="800" notAfter="1099">9th-11th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Andreas Giger</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Michael W. Lundell</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1996</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Peter Wagner, "Un piccolo trattato sul canto ecclesiastico," 
+<emph>Rassegna gregoriana</emph> 3 (1904): 481–84, 482–84.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: Tractatus de cantu Gregoriano</title>
+          
+<idno type="LML">CANT. Quid est cant.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">I-Rvat Pal. lat. 235, 38v-39</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANOQUID0001">
+      <pb n="[482]" />Quid est cantus? peritia musicae, artis, inflexio vocis et modulatio. Quare dicitur cantus? a canendo, idest, a peritia musicae, artis vel vocis modulatione. Ortus quoque suus atque compositio ex accentibus toni vel ex pedibus syllabarum ostenditur. Ex accentibus vero toni demonstratur in acuto et gravi et circumflexo. Ex pedibus denique syllabarum ostenditur in brevi et longa. De accentibus toni oritur nota quae dicitur neuma. Si ipsa simplex fuerit et brevis, facit unum punctum, si autem longa fuerit erit producta. Sed hic punctus tribus modis ostenditur, in brevi -- et gravi -- et 
+      <pb n="[483]" />subposito --. Similiter et longa tribus modus ostenditur, in producta et acuta et circumflexa. Componuntur denique tam in elevatione quam et descensu, aliquando ex duabus notis, aliquando ex tribus, aliquando ex quattuor, vel quinque vel sex usque ad septimum vel octavum gradum, ut est Commovisti vel Alleluia Beatus vir sanctus Martinus. Et quando reversi fuerint in descensu, per eiusdem modulationis cantum perveniunt ad quintum gradum, vel sextum, qui est acquisitus, ut est valeat falanx nostra. Saepe veniunt in compositione ex brevi et longa, ut est In his ergo diebus, vel ex brevi et liquida, ut est Circumdederunt me. Aliquando ex gravi et longa, ut est Tertia dies est. Aliquando ex gravi et producta vel circumflexa, ut est Euge serve bone. Nota quae dicitur tremula, ex tribus gradibus componitur, id est ex duabus brevibus et acuto, ut est Ex ore infantium. Et alia nota, quae dicitur coagulata, ex tribus accentibus ostenditur, id est, ex duobus acutis et subposito, ut est Beati estis sancti Dei. Et illae quae est triangulata, ex tribus brevibus constat, et aliquando venit ipsa in tribus gradibus, et subposita gravi et excipitur a longa, ut est Loquitur dominus.</p>
+      <p id="ANOQUID0002">Tonus est sonus vocis armoniae, id est, vox modulata. Toni sunt duodecim, autenti quattuor, plagi (!) quattuor, moesi quattuor. Autenticus protus est princeps vel senior. Plagi (!) proti lateralis primi, id est, adjacens primi. Moesi protus, medius primi. Similiter secundus, tercius, quartus. Autenticus protus, id est, auctor primus. Primus ideo dicitur, quasi ab eo deriventur alii. Plagi et moesi. Similiter secundus, tercius et quartus Sed interdum hoc adtendendum est, quod quaedam antiphona initium habet de tercio, sed finem de quarto, ut Stephanus servus dei, et 
+      <pb n="[484]" />quaedam habet initium de tercio, sed finem de se ////, id est, storum est enim regnum, vel Simile est regnum coelorum et Malos male perdet. Sed tales antiphonae non finiuntur de tercio, nec de sexto, ad cuius finem intendunt, sed de septimo, quia ipse sibi septimus in talibus discrecionem facit inter elevationem tercii et depositionem sexti. Nam hoc, cantor, omnimodo adtendendum debes, ut non semper sequaris rationem toni, sed adhibeas discrecionem. Cum enim plures antiphonae alium tonum habeant in initio, et alium in fine, quaedam etiam in se teneant tonos quaedam vero autenticus et plagio, in hoc euphoniam, id est, bonom sonoritatem conspice et discerne, ut non sonum, sed consonum cantum reddas. Et sicut enim concordantia sunt in canone evangelia aliquando quattuor, aliquando tria, aliquando duo, similiter in cantilena concordantes invenies tonos. Si vero in antiphona discordantes inveneris duos tonos, unum in initio, et alterum in fine, unus minus elevetur et alter minus deponatur. Taliter tonum in medio adhibe, qui discrecionem faciat inter elevationem et depositionem et congruerit euphonia. Verbi gratia: Malos male perdet inicium habet de tercio et finum de sexto, sed non est facienda nec de tercio nec de sexto, sed de septimo, quod sola exigit euphonia. Sicut enim gramatica non semper sequitur regulam, sed aliquando plus valet euphonia, similiter cantus, non enim sequitur proportionem. Si enim quasdam antiphonas de illo tono inchoaveris, de quo finiantur, sicut est Adorate deum omnes angeli et Deus in adjutorium meum, Accipite iocunditatem, Deus dum egredereris, istae non recte sonant, sed insuper dissonant.</p>
+    </body>
+  </text>
+</TEI>

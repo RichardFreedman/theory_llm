@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>De organo</title>
+        <title type="abbrev">HUCORG</title>
+        <author>Hucbald</author>
+        <date notBefore="800" notAfter="1099">9th-11th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Firoozeh Khazrai</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Angela Mariani</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1993</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>Scriptorum de musica medii aevi nova series a Gerbertina altera</emph>, 4 vols., ed. Edmond de Coussemaker (Paris: Durand, 1864-76; reprint ed., Hildesheim: Olms, 1963), 2:74–78.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: Tractatus de organo cod. Parisiensis</title>
+          
+<idno type="LML">ORG. Paris.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">B-BRs 531, 59-61v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 7202, 54v-56</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="HUCORG0001">
+      <pb n="[74]" />HUCBALDI MONACHI ELNONENSIS QUAEDAM E MUSICA ENCHIRIADE INEDITA</p>
+      <p id="HUCORG0002">DE ORGANO</p>
+      <p id="HUCORG0003">Dictis autem, prout potuimus, his quibus ostendendum erat, qualiter unusquisque in tetracordo sonus propria conditione distet ab altero, eorumque concordi quodam modo dissimulatione quatuor tonorum vel modorum forme genus diversum prodeant; adhuc de diatessaron symphonia quomodo melos diaphonia nascatur, videamus quam usitato vocabulo organum nuncupamus. Etenim lege melos istud adhuc commeat, quod in quartis locis ducentem se cantum organum comitatur, hoc modo:</p>
+      <p id="HUCORG0004">[CSII:74; text: Quartis ad invicem locis hi et hi soni disjuncti constituant.] 
+      <figure>
+        <graphic url="/images/HUCORG_01GF.gif" />
+      </figure></p>
+      <p id="HUCORG0005">Deinceps, qualiter novissima simphonia, quam diatessaron dicunt, sese habeat, prosequamur. Simphonia diapason sicut major ceteris, ita pre ceteris obtinet ut et in unum, sed consequenter dicendi consonantiam faciat; diapente non in unum, sed consequenter; diatassaron non consequenter, sed in unum. Hac collatione quotquot voces junxeris sive humanas seu alias quaslibet, ut pote si presentis descriptionis binas voces aut ambas aut alteram per diapason duplicaveris, vel per diapason senties hujus distantie voces suaviter ad invicem consonare; ex hac symphonia nascitur ea nobilis cantilena quam diaphoniam vocitamus, id est organum melos.</p>
+      <p id="HUCORG0006">Dicta autem diaphonia quod non uniformi canore constet, sed concentu suaviter dissono in unum dulciter modulamen coeat. Bina vero lege melos istud hinc meat: una quod in quartis locis cantum comitatur organum; alterum autem jus habet quo hec quartane consolationis lex suos limites habet. Nam usque ad illum sonum pertingit qui, in quolibet modo, sub sono finali fuerit subsecundus quem cujusque modi sonus finalis habuerit subsecundum. In hoc enim sono stat organum, nec inferius descendere licitum est. A quo sono incipit in levatione particule; semper in eo substitit in depositione, et inferius organum progredi prohibetur.</p>
+      <p id="HUCORG0007">Ad ostendendum vero planius quod dicitur, conemur hoc diaphonie melos, et alia descriptione imaginari, ut dicta rationis oculis quodammodo subjiciantur.</p>
+      <p id="HUCORG0008">Utique positis latere sonorum signis ex singulis procedant sue veluti corde, quibus cordis inserantur puncti et jacentes virgule que pure cantionis modos exprimant. Hos rursus punctos seu virgulas alii puncti coloris dissimilis comitentur pro ratione organi suis locis inserti, ita ut quemadmodum collatis ad invicem sonis diversis diaphonia resonat, sic in hac dispositiuncula 
+      <pb n="[75]" />puncti punctis respondeant. Sane punctos ac virgulas ad distinctionem ponimus sonorum brevium ac longarum, quamvis hujus generis melos tam grave, ut dictum est, esse oporteat, tamque morosum, ut rhitmica ratio vix in eo servari queat. Sit utique descriptio talis.</p>
+      <p id="HUCORG0009">In hac exempli descriptione sonus quem corda penultima habet [signum] finalis ponitur, et rector modi unam cordam sub ea habens a sono [signum] ductam in qua organum subsistit; et ideo antepenultime que a sono procedit [signum], legitimum organi responsum deest. Etenim si quartus sub se sonus organum ei respondeat, transgresso naturali termino absonum fiet. Et hoc est lex organi naturalis a qua, ubi deviatur,non regulare organum fit. Quamvis in superioribus exemplorum descriptiunculis figure quidem in initio versus illi sono qui finalis et rector extat in modo, sonus respondeat desubquartus.</p>
+      <p id="HUCORG0010">Et ut eadem lex organi per omnes modos clareat, hanc eamdem neumam secunda transpositione tono faciamus altiorem, ut modus Frigius transmutetur ex Dorio, ita.</p>
+      <p id="HUCORG0011">In hoc modo finalis et rector extat sonus [signum], subsecundum a se habens [signum]. Ab hoc sono organum jus est incipere et in illum usque pervenire. Faciamus etiam tertia transpositione modum Lidium hoc modo. Fiat et quarta transpositio in quartum modum; itaque canentes modos singulos eamdem rationem reperimus in singulis.</p>
+      <p id="HUCORG0012">Et cum de diaphonia vel organo aliquantulo loqui ceptum est, et in ecclesiasticis canticis honestissime assumitur, adhuc de ejus nature ratione latius exploretur.</p>
+      <p id="HUCORG0013">Organo duo accidunt, id est locus cum spatio. Loca autem organi sunt tria: organum medium; organum superius; organum inferius. Unaqueque particula organo habilis, sive medium [M supra lin.], sive superius [S supra lin.], vel inferius [I supra lin.] habet; particule autem sue cantationis cola [signum supra lin.] et comma [signum supra lin.], que sunt distinctiones majores [[Psi] supra lin.] et minores [signum supra lin.], quibus ita cantio intexitur, ut oratio membris [[Psi] supra lin.] ac colis [[Psi] supra lin.]. Majores [[Psi] supra lin.] in quovis tono deponuntur in sonum suum terminalem, quod scilicet canticum regit, et cantus in eum finitur. At minores [signum supra lin.] non terminalem desinunt, sed in alios quoslibet seu supra illum, sive subter illum. Finales autem particularium soni, secundum loca sua, loca dant organo, ipsorum que vim maxime sequuntur. Etenim terminalis [[Upsilon] supra lin.] et unus ex inferiore ipsius latere, unusque ex superiore medium [M supra lin.] organum ponunt. Terni vero et terni ex horum trium lateribus superius [S supra lin.] et inferius [I supra lin.] organum faciunt. Hoc autem ita fit.</p>
+      <p id="HUCORG0014">Particula verbi vel in terminalem deponitur, vel in alterum e duobus ex latere sibi coherentibus medium ibi moratur organum.</p>
+      <p id="HUCORG0015">At ubi non in horum aliquem deponitur, nec sequens quoque particula aut saltim tertia ab his vel incipit, vel in eos desinit, sed potius supra terminum tertium [III supra lin.] aut quartum [IIII supra lin.], seu quintum [V supra lin.], tunc utique, dum hi terni moduli superi [S supra lin.] organo deputentur, medio hic uti non licet.</p>
+      <p id="HUCORG0016">Similiter sub infra terminalem [[Upsilon] supra lin.] in tertio [III supra lin.], quarto [IIII supra lin.] aut quinto [V supra lin.], positio consistit, inferius organum erit. Sic plane finales particularium soni organo dominantur et precipue is qui toni illius terminalis et rector est. Antequam particula ejus locum transcendat, profecto organum legitimum silet. Si non ultra quam ad secundum supra tertium pertingit, ibi similiter responso organi caret. Ubi vero trium spatiorum fuerit a terminali suo, ibi primus, qui 
+      <pb n="[76]" />terminali proximus sub est, quarta collatione organum dicitur.</p>
+      <p id="HUCORG0017">Similiter sursum vel deorsum flectendo quatuor a terminali fuerit spatiorum, tunc aut alter ex predictis aut utrique organum faciunt; et terminus scilicet ei subherens. Porro ubi quinque aut sex spatia a terminali habuerint, quotis sonis in eadem particula ultra eum qui quartus est a terminali disceditur, totis sonis a terminali organum comitando sequitur.</p>
+      <p id="HUCORG0018">Phtongus vel modulus qui terminali subjungitur, ut in arsi, organi initium est, sic in thesi finis, ratum organum suo limite cohibet. Non potest, ut jam dictum est, ab inferiori quolibet sono organum in elevando incipere, nec in descendendo inferiorem deponi, quamquam in quovis toni genere proximo terminali subjacet, excepto cum positio particule in tertio vel quarto, vel quinto subterminali constisterit, quod inferioris est organi. Hec prorsus est lex organi naturalis a qua, ubi deviatur, non regulare sit organum, sed abusivum. Auditu quoque, nisi usus perversior sensum hebetaverit, organum magis vel minus rectum discernitur, quia naturaliter magis delectat, quod magis naturali armonia coadunatum est. Et, ut evidentius clareat, per tonos quatuor annotentur terna organi loca quatuor sonorum dispositiunculis:</p>
+      <p id="HUCORG0019">[CSII:76; text: In tono primo et secundo, In tono tertio et quarto, In tono quinto et sexto, In tono septimo et octavo, superius, medius, inferius, terminalis]</p>
+      <p id="HUCORG0020">Media autem sonorum series per singulos quatuor ordines medio [M supra lin.] presidet organo; superior [S supra lin.] superiori; infimus inferiori [I supra lin.]. Describantur ad modum supradictum singulorum que nunc dicta sunt exempla, et ubi medium [M supra lin.], ubi superius [S supra lin.], inferiusve organum prefixis his litteris designetur M. S. I. 
+      <pb n="[77]" />Similiter ceterorum exemplis sue que et superius littere presignantur, ut exempli locum prenotati monstrant caracteres. Exempli ratio canendo exploretur:</p>
+      <p id="HUCORG0021">[CSII:77] 
+      <figure>
+        <graphic url="/images/HUCORG_02GF.gif" />
+      </figure></p>
+      <p id="HUCORG0022">Ergo in presenti descriptione cernere est signo hujus caracteris M medium organum designari, et aut terminalem ibi esse sonum et distinctionem commaticam quod nota ista protendit [Upsilon], aut alterum ex terminali [[Upsilon] supra lin.] adjunctis, hacque figura [signum] colon, id est minus membrum monstrari. Item uno spatio non amplius infra terminalem sonum organum descendere, et, ne inferius demittatur, signum istud X obstare.</p>
+      <p id="HUCORG0023">Ibi quoque id est soni qui videlicet terminali 
+      <pb n="[78]" />subcoherent, qualiter tertiis sonis supra terminalem primi organum respondeant, * asterisco ostendi. Denique tibi nota terminales sonos qui utrique in hoc exemplo, quod premissum est, antequam toni mutatio fiat, soni tetrardi existunt [signum].</p>
+      <p id="HUCORG0024">Post mutationem vero que presenti melo contingit sonari archi [signum]. His inspectis videbis non plus uno sono medium organum subter terminalem; superius et inferius subtus finales suos trite posse deponi ubique rati organi initium constare et terminum. Rursus id organum, quod superius dicitur, quodque hac figura S demonstratur, ut superiori incedat loco, nec particule ejus deponantur aut in terminalem aut in alterum a latere sibi coherentibus qui medii organi loca sunt potius in tertio, quarto, quinto, supra terminalem, his notis ostenditur III, IIII, V.</p>
+      <p id="HUCORG0025">At inferius organum quod dicitur quodque in littera insinuat, ut inferiori loco incidat quam medium, nec ibi quoque membra vel particule deponantur aut in terminalem aut in alterum a latere sibi coherentibus, sed potius in tertio III, aut quarto IIII, seu quinto V, infra terminalem figure iste. Item ubi tribus sonorum spatiis tantum transcenditur [Gamma], ubi quaternis A, ubi quinis E, vel amplius I; he littere in signo sunt: [Gamma], A, E, I.</p>
+    </body>
+  </text>
+</TEI>

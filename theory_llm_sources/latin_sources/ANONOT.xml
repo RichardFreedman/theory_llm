@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Nota regulas super tactus</title>
+        <title type="abbrev">ANONOT</title>
+        <author>Anonymous</author>
+        <date notBefore="1400" notAfter="1499">15th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Peter Slemon</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Anastasia Arapova</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>2001</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Theodor Göllner, “Eine Spielanweisung für Tasteninstrumente aus dem 15. Jahrhundert,” in 
+<emph>Essays in Musicology. A Birthday Offering for Willi Apel</emph>, ed. Hans Tischler (Bloomington: School of Music, Indiana University, 1968), 70–71.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: Tractatus de tactu: Regulae supra tactus</title>
+          
+<idno type="LML">TACT. Prima est</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">D-Mbs Cgm 811, 22v</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANONOT0001">
+      <pb n="[70]" />Nota regulas supra tactus</p>
+      <p id="ANONOT0002">Prima est quod manendum est ante concordanciam
+      <lb />sequentis tenoris uel in eodem indifferenter
+      <br />secunda regula quod semper est manendum ante concordanciam
+      <lb />sequentis tenoris et non in eodem cum sit pausa
+      <br />tertia regula quod semper semitonus est tangendus
+      <lb />ante pausam d uel g / quarta regula quod cauendum
+      <br />est ne vna clauis inmediate bis cum vno
+      <lb />digito tangatur / quinta regula quod adminus semel
+      <br />
+      <pb n="[71]" />debita concordancia in vno tactu tangatur
+      <lb />debite autem et perfecte concordancie sunt quinte
+      <br />et octaue et duodecime sed tertie et quarte sunt concordancie
+      <lb />imperfecte et sexte // sexta regula
+      <br />est cum est descendendum uel ascendendum cum tenore
+      <lb />tunc debet fieri ascensus uel descensus
+      <br />per discantum in tenore precedenti et non per casum
+      <lb />verbi gracia Si contingeretur descensus tenoris de g
+      <br />in c tunc discantus descenderet super sol in quarta
+      <lb />et exempla patent et sic de aliis Explicit</p>
+    </body>
+  </text>
+</TEI>

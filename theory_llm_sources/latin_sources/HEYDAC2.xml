@@ -1,0 +1,839 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>De arte canendi, ac vero signorum in cantibus usu, liber secundus</title>
+        <title type="abbrev">HEYDAC2</title>
+        <author>Heyden, Sebaldus</author>
+        <date notBefore="1500" notAfter="1599">16th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>T</resp>
+        <persName>John Gray</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Andreas Giger</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Oliver B. Ellsworth</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1995</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>De arte canendi, ac vero signorum in cantibus usu, libri duo, autore Sebaldo Heyden</emph> (Nuremberg: apud Ioh. Petreium, 1540).
+</bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="HEYDAC20001">
+      <pb n="[55]" />MVSICAE ID EST, ARTIS CANENDI LIBER SECVNDVS.</p>
+      <p id="HEYDAC20002">Praefaciuncula</p>
+      <p id="HEYDAC20003">HActenus idem fere facere studui, quod probati pictores erga discipulos suos solent. Illi enim docturi quenquam pingere, non prius penicilla, ac artificiosas colorum temperaturas exhibent, quam carbonibus [tous monogrammous eikonas] aliquandiu effingere adsuefecerint. Ita et ego hactenus, de uaria Notularum in diuersis signis quantitate, nihil docere uolui, donec pueri, quicquid simplicissime de Scala, Clauibus, Notulis, Tactu, Pausis, ac Punctis dici possit, adamussim callerent. Quod uero, cum in priori libro ita accurate traditum sit, ut a quolibet, qui saltem communi sensu non caret, facile percipi ac edisci possit: pergere itaque nunc libet ad eam Musices partem, quae uel ob hoc difficillima esse apparet, quod alius subinde Color, aliaue signorum praescriptio, ferme semper Notulis, Pausis, ac Punctis aliam quantitatem adfert. Quam adfectionem seu mutationem ualoris Notularum, sub Mensurae nomine hic describere libet, ut qua dimetiamur, quanti quaeque Notulae, sub quolibet signo, ualeant. Quo nomine, non inepte fortassis Mensura, tanquam accidens Notularum, superiori de Notulis titulo, addenda fuerat: nisi mihi hic ordo magis euidens uisus esset, quo tam multiplices cantuum quantitates, totque monstrosos signorum ac Canonum Labyrinthos, in certam regulam cogerem. Praesertim cum non Tyrones tantum, uerum etiam insignes Musicos, de diuersorum signorum collatione, non dico inepte contendere, sed penitus addubitare saepius audi uerim. Nec id mirum, cum et inter Componistas, ut uulgo 
+      <pb n="[56]" />uocant, de ea re non satis conueniat. Dum non pauci, citra ueram artis obseruationem, aenigmata potius, quam cantilenas temere effutiant, non aliter, ac si signorum usus nullis certis legibus contineatur, libeatque cuique fingere, quicquid uertigo obtulerit. Nos uero quicquid de ea re hic tradiderimus, si ipsum ex probatissimis Musicis, Iosquino, Brymelo, Oberto, Isaaco, et similibus, ita esse conuincamus, quidni fide digni uidebimur?</p>
+      <p id="HEYDAC20004">CAPVT PRIMVM</p>
+      <p id="HEYDAC20005">DE MENSVRA.</p>
+      <p id="HEYDAC20006">Quid est Mensura?</p>
+      <p id="HEYDAC20007">ESt certus motus temporis, ad cuius uices, per tactum aequaliter distinctas, omnium Cantionum Notulae, et Pausae, pro cuiusuis signi qualitate, concinnantur.</p>
+      <p id="HEYDAC20008">Quotuplex est Mensura?</p>
+      <p id="HEYDAC20009">Sextuplex. Prolationis, Temporis, Modorum, Proportionum, Augmentationis et Diminutionis. Per has enim species, Notularum ualor subinde in cantionibus uariari solet, per hoc, quod aut perfectae aut imperfectae: auctae aut diminutae cantantur. Prolatio in Semibreues agit: Tempus in Breues: Modus in Longas ac Maximas: Proportio, Augmentatio et Diminutio in omnes pariter ius agendi habent.</p>
+      <p id="HEYDAC20010">Quid est Notas esse perfectas?</p>
+      <p id="HEYDAC20011">Est eas ternario numero ita censeri, ut quaeque maior proximam minorem ter in se cotineat. Hoc fit, si Maxima tribus Longis: Longa tribus Breuibus: Breuis tribus Semibreuibus; Semibreuis tribus Minimis ualet.</p>
+      <p id="HEYDAC20012">
+      <pb n="[57]" />Quotuplicibus signis cognoscitur perfectio?</p>
+      <p id="HEYDAC20013">Duplicibus. Praescribuntur enim aliqua ab initio, aliqua obseruantur in medio cantionum. Initialia sunt ueteribus, Pausae longae perfectae. Integri Circuli, cum Numeris, et absque numeris, et puncta Circulis inscripta. Media uero sunt, ternae similes Notulae denigratae. Item geminae Pausae Semibreues, ab eadem linea ita aequaliter dependentes, [SP,SP]. aut Minimae ab eadem linea ita assurgentes, [MP,MP]. Denique ubicunque pueri Diuisionis aut Alterationis puncta Notulis imminere conspexerint, illic Perfectionem esse nihil dubitent.</p>
+      <p id="HEYDAC20014">[Heyden, De arte, 57; text: Modus major, minor, Tempus perfectum, Prolatio perfecta] 
+      <figure>
+        <graphic url="/images/HEYDAC2_01GF.gif" />
+      </figure></p>
+      <p id="HEYDAC20015">Quid est Notas esse imperfectas?</p>
+      <p id="HEYDAC20016">Est eas binario numero ita censeri, ut quaeque maior proximam minorem bis in se complectatur. Quod fit, quoties Maxima duabus Longis: Longa duabus Breuibus: Breuis duabus Semibreuibus: Semibreuis duabus Minimis in cantu ualet.</p>
+      <p id="HEYDAC20017">
+      <pb n="[58]" />[Heyden, De arte, 58; text: Modus Maior, Minor, Tempus, Prolatio]</p>
+      <p id="HEYDAC20018">Quibus signis cognoscitur imperfectio?</p>
+      <p id="HEYDAC20019">Semicirculis, [C,Cdim]. Numero Binario, [C2]. et Punctorum absentia, [C]. Caeterum, ut cuique certo constet, in quas Notas quoduis signum agat, tres Canones, rem euidentissime docentes, subscribam.</p>
+      <p id="HEYDAC20020">Canon Primus.</p>
+      <p id="HEYDAC20021">Circuli absque numeris, et Punctis ita soli positi, [O,C,Odim,Cdim] solius Temporis, hoc est, Breuium Notularum, integri, perfectionem: dimidij imperfectionem signant.</p>
+      <p id="HEYDAC20022">Canon Secundus.</p>
+      <p id="HEYDAC20023">Si Circulis pone adduntur numeri, binarius aut ternarius, ita. [O3.C3.O2.C2]. Tum Circuli proprie ad Modos pertinent, seruitque is, qui ternarium habet, Maximis: alter qui binarium, Longis. Ipsi uero numeri, Tempus, ternarius perfectum: Binarius imperfectum, designant.</p>
+      <p id="HEYDAC20024">Canon Tertius.</p>
+      <p id="HEYDAC20025">
+      <pb n="[59]" />Quoties Puncta Circulis aut Semicirculis inscribuntur, [Od,Cd,Oddim,Cddim], ipsa semper Prolationi, hoc est, Semibreuibus Notulis attribuuntur. Sed ita, ut nihilominus Circuli ipsi iuxta priores duos Canones, si numeri addantur, Modis: Si non, Tempori addicantur.</p>
+      <p id="HEYDAC20026">Admonendi autem hic sunt pueri, iam praescriptos de signis Canones, non tam ad uetustiorum Musicorum, quam recentiorum Cantilenas quadrare. Siquidem uetustiores Musici Modum Maiorem perfectum ab initio fere non aliter signabant, quam tribus Pausis longae perfectae, aequaliter positis. Imperfectum uero geminis. Quae Pausae, si extra signum Temporis ab initio scriptae essent, tantum signa erant, non etiam numeri. id est, in canendo non numerabantur. Si uero post Signa temporis starent, et signa numeri pariter erant, hoc modo:</p>
+      <p id="HEYDAC20027">[Heyden, De arte, 59,1; text: Modus maior perfectus cum tempore perfecto, Modus maior perfectus cum tempore imperfecto, Modus maior imperfectus cum tempore perfecto, Modus maior imperfectus cum tempore imperfecto] 
+      <figure>
+        <graphic url="/images/HEYDAC2_02GF.gif" />
+      </figure></p>
+      <p id="HEYDAC20028">Modum minorem perfectum, unica Pausa Longae perfectae, nonnunquam etiam geminis aequaliter, aut pluribus, sed inaequaliter positis, signabant hoc modo:</p>
+      <p id="HEYDAC20029">[Heyden, De arte, 59,2; text: Modus minor perfectus cum tempore perfecto, Modus minor perfectus cum tempore imperfecto, Modus minor perfectus cum tempore perfecto, Modus minor perfectus cum tempore imperfecto]</p>
+      <p id="HEYDAC20030">Imperfectum intelligi uolebant, ubi nulla Pausa Longae perfectae ab initio, uel etiam nullae ternae Longae denigratae, medio cantus conspicerentur. Atque adeo apud illos per circulum cum numero binario. [O2] contra priores Canones, 
+      <pb n="[60]" />non Modus ullus, sed solum tempus, cum Proportione Dupla significabatur. Quod simplices Circulos non Modis, sed Temporibus destinarent. Integrum Perfecto: Dimidium Imperfecto. Nisi forte duplicem Circulum ita [signum] pingerent, quorum exterior Modum, Interior uero Tempus: integri utriusuis perfectionem: Dimidij [signa] Imperfectionem indicarent. Numeros uero, ubi ubi Circulis pone adscriberent, non de Temporibus, sed de Proportionibus, ternarium, de Tripla, Binarium uero de dupla intelligendos uolebant.</p>
+      <p id="HEYDAC20031">Nunc antequam Mensurae species singillatim tradere incipiam, operae precium esse uidetur, docere de imperfectione ea, quae in signis perfectis frequentissime contingit. Quandoquidem illa eadem, et communis est Prolationi, Tempori, ac utrisque Modis, quamque ob hoc ipsum, quod sub Perfectis signis se habeat, Perfectionis imperfectionem uocare libet.</p>
+      <p id="HEYDAC20032">Quae est Perfectionis imperfectio.</p>
+      <p id="HEYDAC20033">Ea est, qua aliquae Notulae, quae in suis signis perfectae esse debebant, ob accidentes quasdam causas, binario saltem numero censentur. Nam quae de perfectis Notulis Semibreuibus in Prolatione: Breuibus in Tempore: Longis ac Maximis in Modis tradentur, ea non tam ex quauis Notula primaria, quam ex alijs Notulis et Pausis pone sequentibus pendent. Quod saepe fiat, ut per Notulas, aut Pausas sequentes, Nota praecedens, etiam in signo Perfecto, suam perfectionem amittat, id est, ut non ad ternarium, sed binarium numerum referri opus habeat. Cui imperfectioni certius, percipiendae, et ubi, quibusque modis contingat, cognoscendae subiuncti Canones seruiunt.</p>
+      <p id="HEYDAC20034">Canon Primus de perfectione.</p>
+      <p id="HEYDAC20035">
+      <pb n="[61]" />Omnis Nota, in suo signo Perfecto, ea tenus perfecta habetur, dum proxime sequens uel Nota uel Pausa, illi aequalis (a) aut major (b) existit.</p>
+      <p id="HEYDAC20036">[Heyden, De arte, 61,1; text: a, b]</p>
+      <p id="HEYDAC20037">Canon Secundus</p>
+      <p id="HEYDAC20038">De perfectionis imperfectione.</p>
+      <p id="HEYDAC20039">Si Nota in suo signo Perfecto denigratur,(a) aut a minore alia Notula (b) Pausaue (c) statim excipitur, imperfecta ipsa sit, id est, binario tantum numero censeatur.</p>
+      <p id="HEYDAC20040">[Heyden, De arte, 61,2; text: a, b, c]</p>
+      <p id="HEYDAC20041">Tertius Canon.</p>
+      <p id="HEYDAC20042">De exceptis a Secundo Canone.</p>
+      <p id="HEYDAC20043">Praecedens maior, in suo signo, a sequente minore Notula Pausaue non imperficitur, quoties Punctum alterationis proxime astiterit, (a) aut Punctum Additionis accesserit, (b) Aut inter ipsam, et eius aequalem longius sequentem, aliquot Notae, aut Pausae minores interpositae fuerint, quae per sese, absque maioribus extremis, ternarium numerum perficiunt. (c)</p>
+      <p id="HEYDAC20044">
+      <pb n="[62]" />[Heyden, De arte, 62,1; text: a, b, c]</p>
+      <p id="HEYDAC20045">Canon Quartus de nigredine Notularum.</p>
+      <p id="HEYDAC20046">Nigredo, perfectorum signorum Notulis tertiam partem adimit (a), Imperfectorum quartam (b). Ita Breuis Nota denigrata, sub signo Perfecto, duabus tantum Semibreuibus ualet (a). sub signo imperfecto autem Semibreui et Minima (b). Ita quoque Semibreuis denigrata in Prolatione Maiore, duabus tantum minimis (a). In Minore Minima et Semiminima ualet. (b).</p>
+      <p id="HEYDAC20047">[Heyden, De arte, 62,2; text: a, b]</p>
+      <p id="HEYDAC20048">Si uero plures Notulae denigratae fuerint, tum frequentius Proportionem Hemioliam, nonnunquam Duplam nigredo efficit. quod utrumque suis exemplis infra constabit.</p>
+      <p id="HEYDAC20049">Annotatiuncula</p>
+      <p id="HEYDAC20050">De imperfectione, quam Partialem alij uocant.</p>
+      <p id="HEYDAC20051">Si in tempore Perfecto, Longam Notulam unica tantum Semibreuis Notula, uel Pausa sequitur, Imperfectio, non Longae Notulae, sed alteri Breui, quarum duas illa continet, adscribatur. Ita et in prolatione Maiore, si Minima 
+      <pb n="[63]" />Notula Breuem proxime sequitur, imperfectio, non Breuis Notulae, sed Semibreuis secundae, quarum duas illa continet, esse dicatur. Id quod ternarij numeri obseruatio rectissime semper docet: Secundum quem, ut omnis Perfectio censenda est, ita et imperfectio, absque negotio, facilime ubique depraehenditur.</p>
+      <p id="HEYDAC20052">[O,Lv,Sv,Bvcsdx,Sv,Od,Sv,Mv,Bv,Mv,O2,MXv,Bv,MXv,Bv,Bv on staff5]</p>
+      <p id="HEYDAC20053">Annotatiuncula alia.</p>
+      <p id="HEYDAC20054">Quod aliquoties Notae Maiores, in suis signis perfectis, non a sequentibus, sed a proxime, aut etiam longissime interdum praecedentibus minoribus imperficiuntur, De ea imperfectione, seu translatione Notularum, nulla alia certior regula dari poterit, quam ut Puncta diuisionis, ac ternarius Perfectionis numerus accurate obseruentur. Per haec enim duo, facilime dispicitur, quorsum quaeque Notula minor referenda, quantique quaelibet maior cantanda sit.</p>
+      <p id="HEYDAC20055">[Heyden, De arte, 63,1] 
+      <figure>
+        <graphic url="/images/HEYDAC2_03GF.gif" />
+      </figure></p>
+      <p id="HEYDAC20056">Exemplum Brumelij, in quo quinta Longa a prima in ordine Breui imperficitur.</p>
+      <p id="HEYDAC20057">[Heyden, De arte, 63,2]</p>
+      <p id="HEYDAC20058">
+      <pb n="[64]" />Exemplum Iosquini ex Lhomme Arme sexti Toni, in quo altera in ordine Semibreuis, ad ultimam breuem imperficiendam transfertur.</p>
+      <p id="HEYDAC20059">[Heyden, De arte, 64]</p>
+      <p id="HEYDAC20060">His ita praemissis, nunc tandem ad Mensurae species singillatim tradendas transibo. In quibus describendis, quod pace aliorum Musicotum fiat, mihi hic uulgarem ordinem graduum mutare libet, ita, ut primo Prolationem: deinde Tempus: Tertio Modos: Quarto Proportiones: Quinto Augmentationem: et postremo Diminutionem tradam. Quod et graduum usus postulat, de Semibreuibus Notulis prius constituere, quid ualeant, quam ad Longas ac Maximas accedatur. Et quid ni difficiliora, et quae latius patent, simplicioribus postponantur? Breues autem, Longae ac Maximae Notulae utique ex Semibreuibus simplicibus componuntur. Vnde et illarum omnium quantitas, non rectius, quam per Semibreuium ualorem describi poterit. Nimirum quod in Breuibus Longis, ac Maximis, Semibreues utique reperiantur. In Semibreuibus autem illarum nihil.</p>
+      <p id="HEYDAC20061">CAPVT SECVNDVM</p>
+      <p id="HEYDAC20062">De Prolatione.</p>
+      <p id="HEYDAC20063">Quid est Prolatio?</p>
+      <p id="HEYDAC20064">EST mensura, qua quantitas Semibreuis Notulae definitur. Est autem duplex. Maior et Minor: aut quod idem, sed facilius est, Perfecta et Imperfecta.</p>
+      <p id="HEYDAC20065">Prolatio Perfecta Quae est?</p>
+      <p id="HEYDAC20066">Ea est, qua Semibreuis Nota tribus Minimis, quarum 
+      <pb n="[65]" />singulae singulis tactibus ualent, in cantu appenditur. Quemadmodum hoc uidere est, quoties in cantu quopiam, diuersis signis aliarum uocum non punctis, circulus punctus opponitur. Quanquam sunt, qui Circulo puncto, aliarum uocum signis non punctis, opposito, non Prolationem Maiorem, sed Augmentationem significari contendunt. Volunt enim, in Prolatione Maiore singulis proportionatis tactibus ternas Minimas, aut sesqui Semibreuem cantari oportere. cum in Augmentatione cuique Minimae integer Tactus debeatur. Ego uero nondum uideo, quid pro tali assertione ex certa arte proferri possit. Verum quidem est, Prolationem perfectam, quoties imperfectae opponitur, Augmentationem rectissime dici. Est et hoc uerum, Prolationem perfectam, aeque atque Tempus perfectum, in Proportionem Triplam, aut potius Sesquialteram redigi posse, et a multis ita redactam esse. et caetera. At aliter eam habere ad diuersa a se signa, quam habeat ad sui similima, id uero mihi non probatur. Argumento esse potest duplex ineptia, quae ex tali opinione enascitur. Prima, quod plura Tactuum genera fingere, plane nihil opus sit, cum unico et eodem in omnis generis cantibus uti, non commodum modo, uerum etiam necessarium ex uera arte habeatur. Deinde quod necessario fatendum sit, Prolationem Maiorem Minore esse inferiorem, si in Maiore non singulae Minimae, singulo integro, sed quaeque ternae Proportionato tactu cantantur. Siquidem hoc modo sub Maiore Prolatione ternae Minimae non pluris appenduntur, quam in Minore binae. Quippe, quod tactus Proportionatus, qualem illi citra artem fingunt, utique Proportionem Triplam hic flagitet. Ego certe inter Maiorem Prolationem integram [Od,Cd], et Maiorem diminutam [Oddim,Cddim], ac eandem Proportionatam, ut signorum inter se differentia [Oddim3/2,Cddim2/3] est, ita et ualoris Notularum diuersitatem esse contendo. Videlicet, ut in Prolatione Maiore integra, Semibreuis perfecta, 
+      <pb n="[66]" />tribus Tactibus, imperfecta duobus, Minima unico ualeat: In diminuta uero, illius ualoris dimidium, in Proportionata, tertia tantum pars cantetur: id quod exemplum aliquanto inferius subiunctum, monstrabit,</p>
+      <p id="HEYDAC20067">Quibus signis cognoscitur Prolatio perfecta?</p>
+      <p id="HEYDAC20068">Per Puncta in medios Circulos aut Semicirculos ita inscripta, [Od,Cd]. Nonnunquam etiam absque Punctis per ternas Semibreues Notulas denigratas, aut per duas Pausas Minimas, aequaliter ab eadem linea assurgentes [MP,MP on staff2] significatur. Ergo in quocunque cantu aliquid horum signorum conspexerint pueri, Prolationem Maiorem esse sciant, et quasque Semibreues Perfectas tribus tactibus, singulas uero Minimas, tactibus singulis cantent. Eumque utriusque harum ualorem toties in maioribus Notulis, ac Pausis multiplicent, quoties illae has in se continent. Meminerint autem hic pueri eorum Canonum, quos supra de Perfectionis imperfectione tradidimus. ut secundum eos, in signis Perfectis Notulas omnes examinent, suam ne retineant perfectionem, an aliquo forsan casu amittant.</p>
+      <p id="HEYDAC20069">[Heyden, De arte, 66; text: 1, 3, 9, 18, 36, 6, 12, 24, 1/2, 4, 1/0]</p>
+      <p id="HEYDAC20070">Quae est Prolatio imperfecta?</p>
+      <p id="HEYDAC20071">Ea est, qua singulae Semibreues Notulae, binis Minimis aestimatae, singulis tactibus perficiuntur. Atque is est ualor Semibreuis Notulae, ad quem, tanquam ad certum scopum, omnia signa Modorum, Temporum, Proportionum, Augmentationum, et Diminutionum, referri, ac iudicari debebunt.</p>
+      <p id="HEYDAC20072">
+      <pb n="[67]" />Quibus signis cognoscitur Prolatio imperfecta?</p>
+      <p id="HEYDAC20073">Eo solo, si Circulis nulla Puncta sint inscripta. Vt enim praesentia Puncta Maiorem Prolationem: ita absentia Minorem designant.</p>
+      <p id="HEYDAC20074">Exemplaris constitutio omnium eorum, quae de Maiore Prolatione usus scire postulat.</p>
+      <p id="HEYDAC20075">[Heyden, De arte, 67; text: Exempla perfectionis. Exempla imperfectionis. Exempla exceptionum]</p>
+      <p id="HEYDAC20076">Quot sunt species Prolationis?</p>
+      <p id="HEYDAC20077">Tres. Integra, Diminuta et Proportionata.</p>
+      <p id="HEYDAC20078">Integra species est, in qua singulae Minimae, singulis tactibus ualent: Semibreuis imperfecta duobus, Perfecta tribus, sub his signis [Od,Cd].</p>
+      <p id="HEYDAC20079">Diminuta est, in qua geminae Minimae, aut Semibreuis imperfecta unico tactu, Perfecta uero sesquitactu ualent. sub his signis, [Oddim,Cddim].</p>
+      <p id="HEYDAC20080">Proportionata species est, quoties per Sesquialteram tres Minimae, aut Semibreuis Perfecta, unico tactu ualent, sub his signis [Od3/2,Cd3/2].</p>
+      <p id="HEYDAC20081">
+      <pb n="[68]" />Exemplum Prolationis Maioris integrae diminutae et Proportionatae.</p>
+      <p id="HEYDAC20082">[Heyden, De arte, 68; text: DISCANTVS. Integra Prolatio. Diminuta Prolatio. Proportionata Prolatio. ALTVS] 
+      <figure>
+        <graphic url="/images/HEYDAC2_04GF.gif" />
+      </figure></p>
+      <p id="HEYDAC20083">
+      <pb n="[69]" />[Heyden, De arte, 69; text: TENOR. Integra Prolatio. Dtminuta Prolatio. Proportionata Prolatio. BASSVS, Diminuta Prolatio.] 
+      <figure>
+        <graphic url="/images/HEYDAC2_05GF.gif" />
+      </figure></p>
+      <p id="HEYDAC20084">Sequitur aliud exemplum Prolationis perfectae, ex Missa Prolationum Iohannis Ogekhem, in qua Missa, Notulae, ex Maiore Prolatione, perfectae, per nigredinem imperficiuntur, atque inde eiusdem Prolationis albae pariter et nigrae Notulae omnes sub Diminutionem, id est Proportionem Duplam rediguntur. Idque sub signis Integris, contra artem ac usum aliorum. Sed nos per errorem describentium id forte factum esse putamus, ut signa suam intersectionem non habeant, quam tamen ipsius Cantus compositio, et quantitas necessario exigit.</p>
+      <p id="HEYDAC20085">
+      <pb n="[70]" />[Heyden, De arte, 70; text: Altus ex Discantu in unisono. Bassus ex Tenore in unisono. Resolutio Tenoris secundum, Resolutio Bassi secundum, caetera ut in Tenore.] 
+      <figure>
+        <graphic url="/images/HEYDAC2_06GF.gif" />
+      </figure></p>
+      <p id="HEYDAC20086">
+      <pb n="[71]" />Inuenient etiam pueri nonnunquam in Prolatione Perfecta Notulas breues seminigras, de quibus ita iudicent, cum duas semibreues illae singulae in Tempore imperfecto contineant priorem albam, ex Prolationis puncto Perfectam tribus tactibus ualere, alteram uero denigratam per ipsum colorem imperfici, et tantum duobus ualere tactibus. Idque si Signa sint Integra. Si uero sint Diminuta, per uirgulam transuersam, [Cddim], aut per hemiciclum ita inuersum [CLd]. aut per adscriptam Proportionem Duplam [Cd2/1], tum dimidium illius praescripti ualoris tantum Notulis remanere. Id quod in hic subscripto exemplo uidere est. Ex Missa Bon temps Brumelij.</p>
+      <p id="HEYDAC20087">[Heyden, De arte, 71; text: Agnus. Resolutio.] 
+      <figure>
+        <graphic url="/images/HEYDAC2_07GF.gif" />
+      </figure></p>
+      <p id="HEYDAC20088">Sequitur aliud exemplum Henrici Isaac Ex Paschali illius.</p>
+      <p id="HEYDAC20089">
+      <pb n="[72]" />[Heyden, De arte, 72; text: Sanctus. Resolutio. Alia resolutio. TENOR. BASSVS] 
+      <figure>
+        <graphic url="/images/HEYDAC2_08GF.gif" />
+      </figure></p>
+      <p id="HEYDAC20090">CAPVT TERTIVM</p>
+      <p id="HEYDAC20091">De Temporis mensura.</p>
+      <p id="HEYDAC20092">Temporis Mensura quaenam est?</p>
+      <p id="HEYDAC20093">EA est, qua Breuis Notae ualor definitur, secundum quod ea, nunc plures, nunc pauciores Semibreues Tactusue compraehendit.</p>
+      <p id="HEYDAC20094">
+      <pb n="[73]" />Quotuplex est Tempus.</p>
+      <p id="HEYDAC20095">Duplex. Perfectum et Imperfectum. Perfectum Tempus est, quod Breuem Notulam tribus Semibreuibus censet.</p>
+      <p id="HEYDAC20096">Ecquibus signis cognoscitur?</p>
+      <p id="HEYDAC20097">Circulo integro absque numeris, [O]. Aut ternione Circulis pone adscripto, [O3], [C3]. Interdum dissimulatis alijs signis, tres Breues denigratae, aut duae Pausae Semibreues, ex eadem linea aequaliter dependentes, argumentum perfectionis esse solent. Imo etiam quicunque cantus uel Diuisionis uel Alterationis puncta habuerit, eum pueri perfectum esse sciant. Quod eorum punctorum unicus saltem usus sit, ut perfectionis terniones dimetiantur.</p>
+      <p id="HEYDAC20098">[Heyden, De arte, 73,1; text: 3, 6, 12, 1, 1/2, 1/4, 1/8] 
+      <figure>
+        <graphic url="/images/HEYDAC2_09GF.gif" />
+      </figure></p>
+      <p id="HEYDAC20099">Quod est Tempus imperfectum?</p>
+      <p id="HEYDAC20100">Quod Breuem binis semibreuibus ualere significat.</p>
+      <p id="HEYDAC20101">Quibus signis cognoscitur?</p>
+      <p id="HEYDAC20102">Dimidio circulo absque numeris, [C]. aut numero binario Circulis pone adscripto, [O2], [C2], idque secundum recentiores.</p>
+      <p id="HEYDAC20103">[Heyden, De arte, 73,2; text: 2, 4, 8, 1, 1/2, 1/4, 1/8]</p>
+      <p id="HEYDAC20104">Sequitur exemplaris constitutio omnium eorum, quae de Breuibus perfectis et imperfectis opus est scire.</p>
+      <p id="HEYDAC20105">[Heyden, De arte, 73,3; text: Exempla perfectionis. Exempla imperfectionis. Exempla exceptionum.]</p>
+      <p id="HEYDAC20106">
+      <pb n="[74]" />Quot sunt species Temporis?</p>
+      <p id="HEYDAC20107">Tres. Integra, Diminuta, et Proportionata.</p>
+      <p id="HEYDAC20108">Integra species est, cum Semibreuis unico tactu, Breus Imperfecta duobus. Perfecta tribus ualet, sub his signis [O,C].</p>
+      <p id="HEYDAC20109">Diminuta est, cum Semibreuis dimidio, Breuis Imperfecta integro, Perfecta sesquitactu ualet, sub his signis [Odim,Cdim].</p>
+      <p id="HEYDAC20110">Proportionata species est, ubi duae, tres, quatuor, aut plures Semibreues Notulae unico tactu absoluuntur, sub his signis Proportionum. 2/1 3/1 4/1 3/2</p>
+      <p id="HEYDAC20111">Exemplum Temporis Perfecti, integri, Diminuti et Proportionati.</p>
+      <p id="HEYDAC20112">[Heyden, De arte, 74; text: DISCANTVS. Tempus integrum. Diminutum. Proportionatum. BASSVS.]</p>
+      <p id="HEYDAC20113">
+      <pb n="[75]" />[Heyden, De arte, 75; text: ALTVS. Tempus integrum. Diminutum. Proportionatum. TENOR.] 
+      <figure>
+        <graphic url="/images/HEYDAC2_10GF.gif" />
+      </figure></p>
+      <p id="HEYDAC20114">Quandoquidem hi cantus pueris ferme difficillimi uidentur, qui plurimis Fusis, et aculeatis suspirijs scatent: libuit itaque aculeatum exemplum huc apponere, et deinde idem 
+      <pb n="[76]" />ex integra perfectione, in Diminutam imperfectionem resoluere, ut quisque uideat, non tam per difficultatem ullam, quam per insolentiam fieri, ut eiusmodi aculeatae Cantiones uulgo minus expedite cantentur. Si quis enim resolutionem, hic sequenti exemplo subiunctam, diligenter inspiciat, utique nihil reperiet, quod non uulgatissimum ac facilimum sit. Imo, quod non adamussim per omnia cum integra perfectione ita consonet, ut utrumlibet recte cantari procul audiens, dijudicare nequeat, integra ne Perfectio cantetur, an resoluta Diminutio. Recte autem cantabitur omnis Diminuta resolutio, si per Duplam proportionem cantetur. Quemadmodum omnes Cantilenae ita [Cdim] signatae cantari debent. De qua re infra docebimus. Hoc igitur exemplo pueri, in ombus ita aculeatis cantilenis uti poterunt, uidelicet, ut integram perfectionem in Diminutionem imperfectam resoluant, ac deinde resolutionem per duplam Proportionem cantent.</p>
+      <p id="HEYDAC20115">Exemplum.</p>
+      <p id="HEYDAC20116">[Heyden, De arte, 76; text: DISCANTVS. BASSVS.] 
+      <figure>
+        <graphic url="/images/HEYDAC2_11GF.gif" />
+      </figure></p>
+      <p id="HEYDAC20117">
+      <pb n="[77]" />[Heyden, De arte, 77; text: ALTVS. TENOR. Kyrie ex Malheur me bat. Alexander Agricola.] 
+      <figure>
+        <graphic url="/images/HEYDAC2_12GF.gif" />
+      </figure></p>
+      <p id="HEYDAC20118">
+      <pb n="[78]" />Resolutio praecedentis exempli.</p>
+      <p id="HEYDAC20119">[Heyden, De arte, 78; text: DISCANTVS. BASSVS.] 
+      <figure>
+        <graphic url="/images/HEYDAC2_13GF.gif" />
+      </figure></p>
+      <p id="HEYDAC20120">
+      <pb n="[79]" />[Heyden, De arte, 79; text: ALTVS. TENOR.] 
+      <figure>
+        <graphic url="/images/HEYDAC2_14GF.gif" />
+      </figure></p>
+      <p id="HEYDAC20121">
+      <pb n="[80]" />CAPVT QVARTVM</p>
+      <p id="HEYDAC20122">De Mensura Modi.</p>
+      <p id="HEYDAC20123">Quae est Mensura Modi?</p>
+      <p id="HEYDAC20124">EA est, quae Longis ac Maximis Notulis suam certam quantitatem praescribit. Est autem Modus duplex. Minor et Maior. quod duabus diuersis Notis, Longae et Maximae seruit.</p>
+      <p id="HEYDAC20125">Modus Minor quis est?</p>
+      <p id="HEYDAC20126">Is est, qui Longae Notae, ualorem aut perfectum, aut imperfectum adtribuit. Perfectus tribus Breuibus, Imperfectus, duabus ualet.</p>
+      <p id="HEYDAC20127">Quo signo alterutrum habere dignoscitur?</p>
+      <p id="HEYDAC20128">Integer circulus, numerum binarium pone adscriptum habens [O2] Perfectionis est argumentum: Dimidius autem itidem cum numero [C2], imperfectionis. Vetustiores Musici omisso binario numero, perfectionem enim Minoris Modi, per Pausas Longae perfectae, aut trium Longarum nigredinem innuebant.</p>
+      <p id="HEYDAC20129">[Heyden, De arte, 80; text: 6, 12, 4, 8] 
+      <figure>
+        <graphic url="/images/HEYDAC2_15GF.gif" />
+      </figure></p>
+      <p id="HEYDAC20130">
+      <pb n="[81]" />Sequitur exemplaris constitutio omnium eorum, quae de Longis perfectis et imperfectis scire usus exigit.</p>
+      <p id="HEYDAC20131">[Heyden, De arte, 81; text: Exempla perfectionis. Exempla imperfectionis. Exempla exceptionum.]</p>
+      <p id="HEYDAC20132">Fortasse non abs re fuerit, hic indicare, Modorum signis hoc ferme peculiare esse, quod ipsa ab initio praescripta, uix unquam per aliorum graduum minora Signa sequentia ita cassentur, quin ad finem usque in suas Notulas, Maximas uidelicet aut Longas agant. Atque id ita, ut tamen interim nihilominus et alijs sequentibus Signis minoribus, saluum permaneat, suum ius agendi in eas Notulas, quas quodque illorum subditas habet. Ita in subiunctis, paulo post, ex Ghiselino exemplis, uidere est, quod aliquoties Tempus per Circulorum mutationem uariat, manente tamen interim Modo. Inuenietur etiam quiddam simile infra in Basso exempli tertij Toni, in quo Modi Minoris perfecti uis, cum sua Diminutione, per omnia alia Signa minora penetrat, adusque ultimum eiusdem Modi, sed imperfecti, signum. Quinetiam accurate obseruandum est Cantoribus, ut conspecto hoc Modi minoris Signo [O2], diligenter expendant, ad uetustiorem ne, an recentiorem usum sit praescriptum. Nam plurimum interest, Tempus ne per Circulum, an Modus. Per binarium uero numerum, Dupla ne Proportio, an Tempus imperfectum designetur. Nos huius uarietatis certiorem distinctionem infra in Resolutionum tabula ponemus.</p>
+      <p id="HEYDAC20133">
+      <pb n="[82]" />Exemplum pariter Prolationis, Temporis ac Modi Minoris.</p>
+      <p id="HEYDAC20134">[Heyden, De arte, 82; text: DISCANTVS. Modus Minor perfectus cum tempore imperfecto. Altus. Tempus perfectum] 
+      <figure>
+        <graphic url="/images/HEYDAC2_16GF.gif" />
+      </figure></p>
+      <p id="HEYDAC20135">
+      <pb n="[83]" />[Heyden, De arte, 83:text: TENOR. Prolatio Maior Integra. Diminuta Prolatio. Prolatio Minor imperfecta. BASSVS] 
+      <figure>
+        <graphic url="/images/HEYDAC2_17GF.gif" />
+      </figure></p>
+      <p id="HEYDAC20136">
+      <pb n="[84]" />Modus Maior quis est?</p>
+      <p id="HEYDAC20137">Is est, qui Maximam Notam, quanti cantari debeat, determinat. Perfectam tribus Longis, Imperfectam duabus inscribit. Perfectionem integer Circulus cum numero ternario innuit, [O3]. Imperfectionem dimidius cum eodem ternario numero significat [C3]. atque id apud Recentiores Musicos. Nam uestutiores, ut paulo ante indicauimus, Modum Maiorem Perfectum, tribus Pausis Longae Perfectae, aequaliter positis, Imperfectum uero geminis signare soliti sunt. Quemadmodum hoc in Missa Gratieusa Iohannis Ghiselini uidere est. Cuius duo exempla huc adponere libuit.</p>
+      <p id="HEYDAC20138">Exemplum Ghiselini, in quo trigeminae Pausae Longae Perfectae Modum Maiorem Perfectum signant. Circulus integer, Tempus Perfectum: numerus binarius, duplam Proportionem.</p>
+      <p id="HEYDAC20139">[Heyden, De arte, 84; text: Sanctus. Resolutio Modi huius Maioris perfecti.] 
+      <figure>
+        <graphic url="/images/HEYDAC2_18GF.gif" />
+      </figure></p>
+      <p id="HEYDAC20140">
+      <pb n="[85]" />Exemplum in quo geminae pausae Longae perfectae, Modum Maiorem imperfectum, Circulus integer Tempus perfectum, Dimidius imperfectum: Punctus, Prolationem Perfectam: binarius numerus, Proportionem Duplam indicant.</p>
+      <p id="HEYDAC20141">[Heyden, De arte, 85; text: Patrem. Imperfectum cancrisat. Resolutio Modi huius Maioris imperfecti.]</p>
+      <p id="HEYDAC20142">Atque hic tandem, ni fallor, palam est, quam non queat de Breuium, Longarum ac Maximarum quantitate quicquam certi iudicari, nisi ante de Prolationibus certe constitutum sit. Nam uterque Modus semper in se Tempus continet, Tempus autem nunquam absque alterutra Prolatione est, ut ita Prolatio, et Modis et Temporibus sit communis, ut inscripto in Circulos puncto, Maior: non scripto, Minor intelligatur. Quare si Tempori aut Modis, prolatio Maior, adscripto punctulo, accesserit, aliter utique omnino Maiorum Notularum quantitas habebit, quam si desit punctus: nimirum 
+      <pb n="[86]" />singulis Semibreuibus, quotquot earum in illis continentur, per punctum sese triplicantibus.</p>
+      <p id="HEYDAC20143">[Heyden, De arte, 86,1; text: 1, 3, 9, 18, 36, 81, 6, 12, 24, 54] 
+      <figure>
+        <graphic url="/images/HEYDAC2_19GF.gif" />
+      </figure></p>
+      <p id="HEYDAC20144">At si Prolatio Minor sit, puncto absente, tum quotquot quaeque maior Nota Semibreues continet, totidem semper ualebit Tactibus, nisi Proportiones Augmentationes, aut Diminutiones aliud causentur, de quibus porro trademus.</p>
+      <p id="HEYDAC20145">[Heyden, De arte, 86,2; text: 2/1, 1, 3, 6, 12, 27, 2, 4, 8, 18]</p>
+      <p id="HEYDAC20146">CAPVT QVINTVM.</p>
+      <p id="HEYDAC20147">De Proportionibus.</p>
+      <p id="HEYDAC20148">FAcit uulgo receptus in docendis Proportionibus usus, ut et ego eas hic sub priuato titulo tradam. Quas tamen sua ipsarum natura, sub Augmentationis Diminutionis capita redactum iri postulabat. Siquidem eae reuera nihil aliud sunt, quam Augmentationis et Diminutionis certae quaedam species: quod essentialem Notularum quantitatem, aut augeant, aut deminuant. Ita crasse enim nobis loqui libet, qui non ullas Mathematicarum speculationum argutias, sed euidentem quandam canendi Practicam tradere instituimus.</p>
+      <p id="HEYDAC20149">Proportionum Mensura quaenam est?</p>
+      <p id="HEYDAC20150">Ea est, qua duo diuersi numeri, aut Notularum inter se, 
+      <pb n="[87]" />aut Notularum et Tactuum, conferuntur. Proportio enim duarum rerum comparatione statuitur, quae si fuerint inter se per omnia aequales, aequalitatis Proportio dicitur: sin inaequales, inaequalitatis. Nos hic aequalitatis Proportionem dicimus, ubicunque idem numerus Tactuum et Semibreuium Notularum est, quemadmodum in Cantionibus templarijs, quas Chorales uocant, cernimus. At inaequalitatis eas intelligimus, in quibus alius Notularum, et alius Tactuum numerus est. Vtpote dum duas, tres, quatuor, aut plures Semibreues Notulas unico tactu concinimus. Aut e contra ubi duos, tres, quatuor aut plures Tactus, in singulas Semibreues insumimus.</p>
+      <p id="HEYDAC20151">Proportiones inaequalitatis quotuplices sunt?</p>
+      <p id="HEYDAC20152">Duplices. Maioris aliae, aliae Minoris inaequalitatis Mathematicis dicuntur. Sed quas nos hic malumus Augentes et Diminuentes uocare. nimirum ab effectu, quod hae Notularum ualorem semper adaugeant, illae uero diminuant.</p>
+      <p id="HEYDAC20153">Quibus signis cognoscuntur Proportiones?</p>
+      <p id="HEYDAC20154">Binis numeris, perpendiculariter conscriptis, quorum superior in Dupla, Tripla, Quadrupla et similibus Semibreues Notulas, inferior autem Tactus numerat. In Sesquialtera uero, et Sesquitertia uterque numerus Notulas, neuter Tactus designat.</p>
+      <p id="HEYDAC20155">Quae sunt Proportiones Minoris inaequalitatis, siue Diminuentes?</p>
+      <p id="HEYDAC20156">Eae sunt, quae superiorem inscriptionis numerum maiorem habent inferiore. Cuiusmodi sunt. Dupla 2/1 Tripla 3/1 Quadrupla 4/1 Sesquialtera 3/2 Sesquitertia 4/3 et id genus aliae. Quas nobis ideo Minuentes hic uocare libet, quod in his semper, plures Semibreues paucioribus Tactibus coaptantur, 
+      <pb n="[88]" />, quod uere ipsarum ualorem minui est. Siquidem ita aliquanto minoris quamque, quam singulo integro Tactu, cantari oportebit. Verum ut haec pueri rectius percipiant, eas huius generis Proportiones, quae usu receptiores sunt, speciatim hic describam, suumque cuique exemplum subijciam. Nam quod alioqui plurimae aliae apud Mathematicos numerantur, id mea hic nihil intersit, qui sola ea tradere institui, quae uulgatior canendi usus postulat.</p>
+      <p id="HEYDAC20157">De Proportione Dupla.</p>
+      <p id="HEYDAC20158">Quae est Proportio Dupla?</p>
+      <p id="HEYDAC20159">Ea est, quae omnis generis Notulis ac Pausis dimidium sui ualoris adimit. Vt ita per eam duae eiusdem speciei Notulae non pluris ualeant, quam alias earundem una solebat. Hoc ergo est, cur nos Minuentem uocemus, quod ea ex Longa Breuem: ex Breui Semibreuem: ex Semibreui Minimam faciat. Dupla autem dicitur respectu integrae Semibreuis Notulae, quod unicae duas aequiualere faciat.</p>
+      <p id="HEYDAC20160">Quam habet Notionem?</p>
+      <p id="HEYDAC20161">Habet binos numeros, transuerse conscriptos, quorum superior inferiorem bis contineat, ita nihil minutiarum reliquum fiat: uelut in his adiunctis numerorum compositionibus cernere est: 2/1 4/2 6/3 12/6. Quin etiam sciant pueri quoties medios circulos uirgula intersecat, [Odim,Cdim]: aut numerus binarius, non dissectos pone excipit [O2,C2]: aut dimidiorum cauedo sinistrorsum spectat [CL], semper Proportionem Duplam significari.</p>
+      <p id="HEYDAC20162">Exemplum Proportionis Duplae.</p>
+      <p id="HEYDAC20163">
+      <pb n="[89]" />[Heyden, De arte, 89]</p>
+      <p id="HEYDAC20164">Quid uero quod numeri inscripticij Proportionum, non ita multo post, inuerso ordine ponuntur?</p>
+      <p id="HEYDAC20165">Hoc quoties in quibusque Proportionibus ita fit, semper easdem in eo loco cessare, Notulasque sequentes, rursum ex primo signo, quod ante Proportionis inscriptionem fuerat, censendas esse indicat. Nisi fiat, ut aliud signum ab alio, aut alia Proportio ab alia excipiatur. Tum enim nihil opus est, pro cassanda Proportione numeros inuertere, dum non ad signa praeterita rediri, sed ad porro instantia concedi oporteat. Id quod infra in septimo Resolutionum capite clarissime cernetur.</p>
+      <p id="HEYDAC20166">De Tripla Proportione.</p>
+      <p id="HEYDAC20167">Quae est Proportio Tripla?</p>
+      <p id="HEYDAC20168">Ea est, in qua Breuis perfecta, aut tres Semibreues, unius 
+      <pb n="[90]" />integrae Semibreuis Tactui adaptantur. Relinquitur itaque hic Semibreui tertia tantum pars sui essentialis ualoris. Breuem perfectam autem dicimus ideo, quia omnia, quae supra de Temporis perfectione et imperfectione, item de puncto Alterationis et Diuisionis dicta sunt, eadem et in hac Proportione locum habent, necessarioque obseruanda sunt, quod et ipsa per terniones perpetuo demetienda sit.</p>
+      <p id="HEYDAC20169">Quam habet inscriptionem Tripla Proportio?</p>
+      <p id="HEYDAC20170">Habet duos numeros transuerse conscriptos, quorum superne positus, inferiorem ter in se contineat, hoc modo: 3/1 6/2 9/3. et caetera.</p>
+      <p id="HEYDAC20171">Exemplum Proportionis Triplae.</p>
+      <p id="HEYDAC20172">[Heyden, De arte, 90; text: Alteratio, Diuisio] 
+      <figure>
+        <graphic url="/images/HEYDAC2_20GF.gif" />
+      </figure></p>
+      <p id="HEYDAC20173">De Quadrupla Proportione.</p>
+      <p id="HEYDAC20174">
+      <pb n="[91]" />Quae est Proportio Quadrupla?</p>
+      <p id="HEYDAC20175">Ea est, in qua quatuor Semibreues uni Tactui accinuntur. Hoc est, in qua quaeque Notulae quartam tantum partem sui essentialis ualoris retinent.</p>
+      <p id="HEYDAC20176">Quadrupla Proportio quam habet Notionem?</p>
+      <p id="HEYDAC20177">Habet et ipsa duos Numeros transuerse conscriptos, sed quorum superior inferiorem quater contineat ita, 4/1 8/2 12/3. et caetera.</p>
+      <p id="HEYDAC20178">[Heyden, De arte, 91] 
+      <figure>
+        <graphic url="/images/HEYDAC2_21GF.gif" />
+      </figure></p>
+      <p id="HEYDAC20179">
+      <pb n="[92]" />De Proportione Sesquialtera.</p>
+      <p id="HEYDAC20180">Quae est Proportio Sesquialtera?</p>
+      <p id="HEYDAC20181">Ea est in qua tres Minimae, aut Semibreuis et Minima uni Tactui accinuntur.</p>
+      <p id="HEYDAC20182">Quod habet inscriptionis signum?</p>
+      <p id="HEYDAC20183">Habet itidem duos numeros, transuerse conscriptos, quorum superior sesqui inferiorem continet, ita: 3/2 6/4 9/6 12/8 et caetera.</p>
+      <p id="HEYDAC20184">Exemplum. Fuga duorum. Iosquinus.</p>
+      <p id="HEYDAC20185">[Heyden, De arte, 92] 
+      <figure>
+        <graphic url="/images/HEYDAC2_22GF.gif" />
+      </figure></p>
+      <p id="HEYDAC20186">
+      <pb n="[93]" />[Heyden, De arte, 93]</p>
+      <p id="HEYDAC20187">
+      <pb n="[94]" />De Hemiolia Proportione.</p>
+      <p id="HEYDAC20188">Hemiolia Proportio quae est?</p>
+      <p id="HEYDAC20189">Eadem est plane cum Sesquialtera, idem ipsum enim Graecis [hemiolion] significat. Cur autem hanc ab illa distinctam uoluerint Musici, nihil equidem firmi uideo. Nisi forte hoc nigror Notularum effecerit, quo solo ea ferme absque alijs signis Proportionalibus in Tempore, tres Semibreues: In Prolatione tres Minimas singulis Tactibus accommodandas significat.</p>
+      <p id="HEYDAC20190">Exemplum.</p>
+      <p id="HEYDAC20191">[Heyden, De arte, 94; text: DISCANTVS. Hemiolia siue Sesquialtera Diminuta. ALTVS, Tripla integra.] 
+      <figure>
+        <graphic url="/images/HEYDAC2_23GF.gif" />
+      </figure></p>
+      <p id="HEYDAC20192">
+      <pb n="[95]" />[Heyden, De arte, 95; text: TENOR. Hemiolia Prolationis. BASSVS. Hemiolia Temporis.] 
+      <figure>
+        <graphic url="/images/HEYDAC2_24GF.gif" />
+      </figure></p>
+      <p id="HEYDAC20193">Sequitur alia Hemiolia Prolationis, sed diminuta, cui Discantus, et ipse Diminutus, per Duplam Proportionem concinitur. [adelos.]</p>
+      <p id="HEYDAC20194">
+      <pb n="[96]" />[Heyden, De arte, 96; text: DISCANTVS. Quem in sacrae mensa coenae. ALTVS. TENOR.] 
+      <figure>
+        <graphic url="/images/HEYDAC2_25GF.gif" />
+      </figure></p>
+      <p id="HEYDAC20195">
+      <pb n="[97]" />[Heyden, De arte, 97; text: BASSVS.] 
+      <figure>
+        <graphic url="/images/HEYDAC2_26GF.gif" />
+      </figure></p>
+      <p id="HEYDAC20196">Quae est Proportio Sesquitertia?</p>
+      <p id="HEYDAC20197">Ea est, in qua quatuor Notulae eiusdem speciei pro tribus canuntur, Ita, ut singulis, quarta pars sui ualoris decidatur. Quod quidem in Maximis, Longis et Breuibus facile sit. Sed in Semibreuibus difficilius, in Minimis uero, Semiminimis ac Fusis, omnium difficilime.</p>
+      <p id="HEYDAC20198">Quibus signis cognoscitur Sesquitertia?</p>
+      <p id="HEYDAC20199">Numeris duobus, quorum superior inferiorem semel integrum, et insuper tertiam eius partem continet, ut sunt, 4/3 8/6 12/9 16/1</p>
+      <p id="HEYDAC20200">Exemplum</p>
+      <p id="HEYDAC20201">
+      <pb n="[98]" />[Heyden, De arte, 98; text: Discantus Sesquitertiae. Resolutus Discantus. ALTVS. Resolutio Alti. TENOR. Resolutio Tenoris. BASSVS.] 
+      <figure>
+        <graphic url="/images/HEYDAC2_27GF.gif" />
+      </figure></p>
+      <p id="HEYDAC20202">
+      <pb n="[99]" />[Heyden, De arte, 99; text: Resolutio Bassi.]</p>
+      <p id="HEYDAC20203">Tot ferme Proportiones ex Diminuentibus sunt, quorum receptior usus in uulgatis probatissimorum Musicorum cantionibus existit. et quas prae caeteris pernoscere maius operae precium esse autumamus. Caeteras ideo hic consultum uidetur omitti, quod non tam ad canendi usum, quam Mathematicum acumen faciant. Nam de multiplicibus superparticularibus ac superpartientibus et caetera multo facilius est numerorum rationem indicare, quam ualorem Notularum cantando praestare, facileque crediderim eos, qui talia exempla componunt, ipsos cantare uix potuisse, id quod alios ita docere uoluerunt</p>
+      <p id="HEYDAC20204">Quae sunt Proportiones Maioris inaequalitatis?</p>
+      <p id="HEYDAC20205">Eae sunt, quae principalem geminorum numerorum inscriptionem ita habent, ut semper numerus superior quantitate superetur ab inferiore. qualiter fit in Subdupla 1/2, Subtripla 1/3, Subquadrupla 1/4, et sic deinceps. Sed de his omnibus, quotae quaeque sunt, unica Regula ita docet. In harum quaque Notulas et Pausas toties in sese multiplicandas esse, quoties superiorem numerum inferior continet. Ita Subdupla omnes Notas et Pausas duplicat, Subtripla triplicat, Subquadrupla quadruplicat et caetera. Res ipsa per se facilis est intellectu, quare non tam uerbis quam exemplis opus habet. Exempla infra in Augmentatione reperientur.</p>
+      <p id="HEYDAC20206">Haec satis sunto de utroque genere Augentium et Diminuentium Proportionum tradidisse, quatenus receptior canendi usus necessario exigit. Quae et pueris tanto diligentius obseruanda erunt, quod longe maxima pars totius Augmentationis et Diminutionis ex his promanat.</p>
+      <p id="HEYDAC20207">
+      <pb n="[100]" />CAPVT SEXTVM</p>
+      <p id="HEYDAC20208">De Augmentatione et Diminutione.</p>
+      <p id="HEYDAC20209">FRequenter usu uenit in probatis Cantilenis, ut Notularum et Pausarum essentialis ualor, per alia signa alijs opposita, aut augeatur aut diminuatur. Est autem essentialis ualor Notularum, quo singulae Semibreues singulos Tactus sub his signis, [O,C] perficiunt. Vnde si unicae Semibreui duos, tres, aut quatuor tactus insumimus, auctam dicimus: si uero unico tactui duas, tres, quatuor aut plures Semibreues adaptamus, Diminutas uocamus. Duae autem potissimum sunt Regulae, per quas quicquid in uarietate signorum hactenus impedimenti fuit multis, foelicissime expeditur.</p>
+      <p id="HEYDAC20210">Prima.</p>
+      <p id="HEYDAC20211">In omnis generis Cantionibus, quod ad ueram artem pertinet, non nisi unicum adeoque simplicissimum modum Tactuum obseruandum esse.</p>
+      <p id="HEYDAC20212">Altera.</p>
+      <p id="HEYDAC20213">Omnia cantionum ac Proportionum quantumlibet diuersa signa, tum Augentia tum Diminuentia, ad essentialem Semibreuis Notulae ualorem, tanquam totius Proportionabilitatis basim, referri oportere.</p>
+      <p id="HEYDAC20214">De Augmentatione.</p>
+      <p id="HEYDAC20215">Quid est Augmentatio?</p>
+      <p id="HEYDAC20216">Est incrementum, Notulis ex certis signis aut Canonibus ultra communem ac essentialem ipsarum ualorem, accedens. Ea tribus fere modis significatur.</p>
+      <p id="HEYDAC20217">
+      <pb n="[101]" />Primo per Prolationem Maiorem unius uocis, aliarum uocum minori Prolationi oppositam. [Od,O,C]. Ita enim per puncti inscriptionem Semibreuis perfecta tribus Tactibus ualet, Imperfecta duobus, Minima unico. Exempla in Resolutione infra ponentur.</p>
+      <p id="HEYDAC20218">Secundo, per principaliter praescriptas Proportiones Minoris inaequalitatis, quas Augentes nos uocamus, id est, quarum numerus superior, minor est inferiore: Cuiusmodi sunt, Subdupla, 1/2: Subtripla, 1/3: Subquadrupla, 1/4: et id genus caeterae. Sub harum inscriptionibus, uniuersae Notulae, ac Pausae sequentes, toties in sese multiplicantur, quoties inferior numerus superiorem continet.</p>
+      <p id="HEYDAC20219">Tertio, per Canones adscriptos, qui incrementum Dupli, Tripli, aut quadrupli et caetera indicant.</p>
+      <p id="HEYDAC20220">Exemplum in Ie ne demande Oberti.</p>
+      <p id="HEYDAC20221">Qui tollis</p>
+      <p id="HEYDAC20222">[Heyden, De arte, 101; text: Canon. Primo crescat per 1/5 Secundo per 1/4 Tertio per 1/3. Resolutio.] 
+      <figure>
+        <graphic url="/images/HEYDAC2_28GF.gif" />
+      </figure></p>
+      <p id="HEYDAC20223">
+      <pb n="[102]" />Itaque quicquid ad signa, et Proportiones Augmentationis pertinet, id breuiter ex subiecta figura pueri ediscere poterunt. Imo hac figura utantur pro certissima regula in resoluendis Augmentationum Notulis: ut infra in septimo capite docebimus.</p>
+      <p id="HEYDAC20224">[Heyden, De arte, 102; text: AVGMENtatio inscripta per, Triplicat omnes Perfectas Notulas ac Pausas, Imperfectas duplicat, alteratas quadruplicat. 1/2 Duplicat, 1/3 Triplicat, 1/4 Quadruplicat, 1/5 Quintuplicat, Omnes Notulas ac Pausas, nullis exceptis]</p>
+      <p id="HEYDAC20225">Horum omnium signorum in sequenti capite plura exempla, una cum resolutionibus suis, reperient pueri.</p>
+      <p id="HEYDAC20226">De diminutione.</p>
+      <p id="HEYDAC20227">Quid est Diminutio?</p>
+      <p id="HEYDAC20228">Est decisio essentialis ualoris Notularum, ac Pausarum, itidem ex certis signis aut Canonibus accidens.</p>
+      <p id="HEYDAC20229">Quot modis significatur Diminutio?</p>
+      <p id="HEYDAC20230">Quatuor. Primo per numerum binarium Circulis, aut Semicirculis ita pone adscriptum, [O2,C2]. Quanquam ego quasi subscriptum malim: ut ita is numerus Duplae Proportionis, non Modi Minoris, sit, Quemadmodum et in 
+      <pb n="[103]" />Tripla Proportione signanda, Circulo ternionem non aeque adscribimus, sed oblique subscribimus: idque ideo, ut non Modum Maiorem, sed proportionem Triplam significari sciamus.</p>
+      <p id="HEYDAC20231">Altero modo significatur Diminutio, per uirgulam medios Circulos, aut semicirculos ita dissecantem, [Odim,Cdim,Oddim,Cddim].</p>
+      <p id="HEYDAC20232">Tertio, per Hemiciclum ita inuersum, [CL], His ergo tribus modis pariter, omnibus Notulis dimidium adimitur eius ualoris, quem alias extra Diminutionem habere solebant. Vt Semibreuis Notula tantum dimidio Tactu, Breuis imperfecta integro, Longa duobus ualeat. Quod exempla subscripta monstrant.</p>
+      <p id="HEYDAC20233">Exemplum primi Modi per [C] cum [C2].</p>
+      <p id="HEYDAC20234">Duo in unum Iosquini.</p>
+      <p id="HEYDAC20235">[Heyden, De arte, 103,1] 
+      <figure>
+        <graphic url="/images/HEYDAC2_29GF.gif" />
+      </figure></p>
+      <p id="HEYDAC20236">Exemplum Secundi Modi, per [C] cum [Cdim].</p>
+      <p id="HEYDAC20237">Duo in unum Iosquini.</p>
+      <p id="HEYDAC20238">[Heyden, De arte, 103,2]</p>
+      <p id="HEYDAC20239">
+      <pb n="[104]" />Exemplum Tertij Modi, per [C] cum [CL]</p>
+      <p id="HEYDAC20240">Duo in unum Iosquini.</p>
+      <p id="HEYDAC20241">[Heyden, De arte, 104,1] 
+      <figure>
+        <graphic url="/images/HEYDAC2_30GF.gif" />
+      </figure></p>
+      <p id="HEYDAC20242">Quarto signatur Diminutio, per omnis generis Proportiones, superiorem numerum maiorem habentibus inferiore, puta Maioris inaequalitatis, quas Diminuentes, ob hoc ipsum, quod essentialem ualorem Notularum diminuant, supra uocare libuit. Sunt autem Dupla 2/1: Tripla 3/1: Quadrupla 4/1: Sesquialtera 3/2 et id genus aliae. Quarum exempla e quinto capite huc reuocanda sunt.</p>
+      <p id="HEYDAC20243">[Heyden, De arte, 104,2; text: Diminutio per, 2/1, 3/1, 4/1, Dimidia, Tertia, Quarta Parte omnes Notulas ac Pausas ualere facit, eius ualoris, quem alias absque Diminutione habebant.]</p>
+      <p id="HEYDAC20244">
+      <pb n="[105]" />De Duplici Diminutione.</p>
+      <p id="HEYDAC20245">Est et Diminutionis Diminutio, qua ante semel diminutus ualor iterum diminuitur. ut ita et dimidiae partis dimidium tantum remaneat. huius signa sunt, [Odim2,Cdim2,CLdim,CLddim]. Quae, quod duplicem Diminutionem, uirgulae et numeri binarij, aut inuersionem et uirgulam simul habent, quatuor semibreues singulis Tactibus accinunt. Quin etiam Proportiones Diminuentes quae sub signis simplicium Diminutionum, [Odim,Cdim,O2,C2,CL], ponuntur, huc referri ex arte oportebat. Quod sub illis signis, Dupla quatuor Semibreues: Tripla sex: Quadrupla octo, Sesquialtera tres, unico tactu absoluere debebat. Nisi enim ita fiat, certe non uideo, quid differentiae haec Proportionum signa inter se habeant. [C3] et [Cdim3]. Quorum tamen utique ex integritate et Diminutione aliquam esse necessario fatendum est. Nisi forte quis sub his signis [Odim3,Cdim3], non Triplam,sed Sesquialteram Proportionem committi dicat: ut qua tres diminutae Semibreues, duabus itidem Diminutis aequiualeant.</p>
+      <p id="HEYDAC20246">[Heyden, De arte, 105; text: Diminutionis Diminutio. 4/1, Omnes Notulas ac Pausas tantum quarta parte eius ualoris, quem extra Diminutiones alioqui habuissent, ualere facit.]</p>
+      <p id="HEYDAC20247">Sequitur exemplum uariarum Diminutionum.</p>
+      <p id="HEYDAC20248">
+      <pb n="[106]" />[Heyden, De arte, 106; text: DISCANTVS, Essentialis ualor. Proportio Dupla. Hemiolia. Proportio Tripla. Proportio Quadrupla. TENOR. Integer ualor. Diminutio simplex. Sesquialtera Temporis.] 
+      <figure>
+        <graphic url="/images/HEYDAC2_31GF.gif" />
+      </figure></p>
+      <p id="HEYDAC20249">
+      <pb n="[107]" />[Heyden, De arte, 107; text: Duplex Diminutio. BASSVS, Integer ualor. Diminutio simplex. Tripla Proportio. Duplex Diminutio] 
+      <figure>
+        <graphic url="/images/HEYDAC2_32GF.gif" />
+      </figure></p>
+      <p id="HEYDAC20250">Quin etiam hoc monendum hic est, satis multa exemplare reperiri, in quibus Signa, semel quidem diminuta, alijs itidem semel diminutis, sed figura plaerunque dissimilibus succedunt. Sed ita, ut id, quod sequitur, illius praecedentis diminutionem, iterum diminuat, hoc est, duplicem Diminutionem efficiat: ut ita ex Dupla fiat Quadrupla, ex quadrupla, Octupla et caetera.</p>
+      <p id="HEYDAC20251">Exemplum Henrici Isaac, ex Prosa de Maria Magdalena.</p>
+      <p id="HEYDAC20252">
+      <pb n="[108]" />[Heyden, De arte, 108; text: Sesquialtera. Dupla. Dupla Diminuta id est Quadrupla. ALTVS, Quadrupla diminuta id est octupla.] 
+      <figure>
+        <graphic url="/images/HEYDAC2_33GF.gif" />
+      </figure></p>
+      <p id="HEYDAC20253">
+      <pb n="[109]" />[Heyden, De arte, 109,1; text: Syncopata Sesquialtera. Quadrupla.] 
+      <figure>
+        <graphic url="/images/HEYDAC2_34GF.gif" />
+      </figure></p>
+      <p id="HEYDAC20254">De Syncopatione.</p>
+      <p id="HEYDAC20255">Quid est Syncopatio?</p>
+      <p id="HEYDAC20256">Syncopatio uulgo dicitur, quoties Semibreuium Notularum quantitas, aequabilitati Tactuum, aliquandiu quasi obstrepit, et contra uenit. De eo dissidio nos ita hic breuiter praecipimus: Vt canens, Tactuum aequabilitati, de Notularum quantitate nihil concedat, sed fortiter in discrepando pergat, donec ipsae Notulae sese cum Tactu reconcilient. quod utique talis discrepantia sese uix unquam ultra alterum, aut tertium tempus protendet.</p>
+      <p id="HEYDAC20257">Exemplum Oberti in Ie ne demande.</p>
+      <p id="HEYDAC20258">[Heyden, De arte, 109,2; text: Discantus. Tenor habens syncopam.]</p>
+      <p id="HEYDAC20259">
+      <pb n="[110]" />CAPVT SEPTIMVM</p>
+      <p id="HEYDAC20260">De unica Tactuum aequabilitate, in quantumlibet diuersis cantuum speciebus seruanda: Deque mutua uariorum Signorum resolutione.</p>
+      <p id="HEYDAC20261">QVae hactenus de Proportionibus Augmentatione et Diminutione tradita sunt, ea omnia pueris, etiam hoc nomine diligentissime ediscenda fuerant, quod certissimae regulae, quasi fidissima Medeae fila sint, quibus uelut ducibus, quantumlibet uariantium inter se signorum labyrinthos expedite perambulent, Quod ut certo constet, ita esse, nunc demum aliquot difficillima exempla Cantilenarum huc adscribam, et eorum cuique suas resolutiones addam, ut in eis tanquam in speculo, quisque perspiciat, quid ubi libet cantari debeat. Attamen priusquam hoc praestem, certa argumenta Cantionum ex optimis Musicis adducam, quae, cum a nemine cantari possint, qui diuersas Tactuum species usurpare uelit. Per hoc utique conuincent, omnia signa quantumlibet diuersa, ad eiusdem Tactus Proportionem accommodari posse, et ex arte debere.</p>
+      <p id="HEYDAC20262">Primum argumentum, quo probatur, quantumlibet diuersa signa Integra, Diminuta et Proportionata, ad unicam et eandem speciem Tactus facile et commode cantari posse. Non patet.</p>
+      <p id="HEYDAC20263">[Heyden, De arte, 110; text: Discantus Integer, Diminutus]</p>
+      <p id="HEYDAC20264">
+      <pb n="[111]" />[Heyden, De arte, 111; text: Proportionatus. Tenor, Integer, Diminutus. Bassus] 
+      <figure>
+        <graphic url="/images/HEYDAC2_35GF.gif" />
+      </figure></p>
+      <p id="HEYDAC20265">Alterum argumentum, quo conuincitur, Signa Integra, Diminuta, et Proportionata, necessario ad unicam ac eandem Tactus speciem cantari oportere.</p>
+      <p id="HEYDAC20266">
+      <pb n="[112]" />Fuga trium, ex Lhomme arme Iosquini.</p>
+      <p id="HEYDAC20267">[Heyden, De arte, 112,1; text: Discantus Proportionatus. Tenor integer, Resolutio. Bassus Diminutus] 
+      <figure>
+        <graphic url="/images/HEYDAC2_36GF.gif" />
+      </figure></p>
+      <p id="HEYDAC20268">Tertium argumentum Petri de la Rue est, quod eandem necessitatem confirmat.</p>
+      <p id="HEYDAC20269">Fuga quatuor uocum ex unica. In qua Diminutus Discantus, Tenor proportionatus, Altus et Bassus integri. hic imperfectus, ille perfectus canenedi sunt.</p>
+      <p id="HEYDAC20270">[Heyden, De arte, 112,2; text: Discantus Diminutus.]</p>
+      <p id="HEYDAC20271">
+      <pb n="[113]" />[Heyden, De arte, 113; text: ALTVS integer perfectus. TENOR Proportionatus, Bassus integer, sed imperfectus.] 
+      <figure>
+        <graphic url="/images/HEYDAC2_37GF.gif" />
+      </figure></p>
+      <p id="HEYDAC20272">
+      <pb n="[114]" />Quartum argumentum eiusdem necessitatis Henrichi Isaac est, ex Prosa historiae de Conceptione Mariae, in quo Tripla Proportio promiscue nunc Diminuto, nunc integro, Notularum ualori opponitur.</p>
+      <p id="HEYDAC20273">[Heyden, De arte, 114; text: DISCANTVS. BASSVS.] 
+      <figure>
+        <graphic url="/images/HEYDAC2_38GF.gif" />
+      </figure></p>
+      <p id="HEYDAC20274">
+      <pb n="[115]" />[Heyden, De arte, 115; text: ALTVS. TENOR.] 
+      <figure>
+        <graphic url="/images/HEYDAC2_39GF.gif" />
+      </figure></p>
+      <p id="HEYDAC20275">
+      <pb n="[116]" />Resolutio Quarti argumenti.</p>
+      <p id="HEYDAC20276">[Heyden, De arte, 116; text: DISCANTVS. BASSVS.] 
+      <figure>
+        <graphic url="/images/HEYDAC2_40GF.gif" />
+      </figure></p>
+      <p id="HEYDAC20277">
+      <pb n="[117]" />[Heyden, De arte, 117; text: ALTVS. TENOR.] 
+      <figure>
+        <graphic url="/images/HEYDAC2_41GF.gif" />
+      </figure></p>
+      <p id="HEYDAC20278">
+      <pb n="[118]" />Quid est Resolutio?</p>
+      <p id="HEYDAC20279">Resolutio, est abstrusioris Notularum ualoris, in uulgatiorem aliquam formam, transcriptio. Ad quam recte constituendam, accersere huc oportebit, omnia ea, quae superius de signis Modorum, Temporum, Prolationum ac Proportionum, tum etiam de Perfectionibus, Imperfectionibus, Alterationibus, ac Diuisionibus tradita sunt. Nihil enim hic aliter habent signa Modorum, Temporum, ac Prolationum et caetera quam superius suo ordine descripta habuerunt. Id quod in inferius adscripta Resolutionum tabula facile cognoscent pueri, cum cernent nihil hic noui, sed id, quicquid est, ab illis prioribus, ceu mutuo acceptum, et hic saltem repetitum esse.</p>
+      <p id="HEYDAC20280">Quotuplex est Resolutio?</p>
+      <p id="HEYDAC20281">Duplex. Aut enim cantus ex maioribus signis in minora resoluitur: aut ex minoribus in maiora. Resolutio ex maioribus signis in minora, multiplicat Notularum ac Pausarum figuras. Ideo,quod maiora signa, se ad minora, in genere submultiplici, id est, augente habent. E contra, Resolutio ex minoribus signis ad maiora, Notularum ac Pausarum figuras diminuit. Ideo, quod minora signa, se ad maiora in genere multiplici, id est diminuente, habent. Habent enim omnia signa, quantumlibet diuersa, certam quandam inter sese Proportionem, quam in resolutione obseruari oportet. Imo, ipsa signa Musica, nihil aliud sunt, quam Proportionum inscriptiones, quod ueteribus ita uisum sit, potius per certos characteres, quam coniunctos numeros, Proportiones signare. Fortasse ideo, quod characteres signorum, Perfectionem, ac Imperfectionem simul cum Proportione definiant, quas alias, per coniunctos numeros Proportionum, subinde aliter atque aliter, ad 
+      <pb n="[119]" />taedium usque, signari oportuisset. Quoties igitur, in infrascriptis canonibus audient pueri, Notularum figuras duplicandas, triplicandas, quadruplicandas, sextuplicandas, et similia, illic semper intelligant, Notulas ac Pausas eius signi, in quod resoluunt, sese ad illud, ex quo resoluunt, per Proportiones, Duplam, Triplam, Quadruplam, Sextuplam, et caetera habere. E contra, cum audient figuris Notularum ac Pausarum, duplum, triplum, quadruplum et caetera adimendum esse, tum cogitent, Notulas ac Pausas eius signi, in quod resoluunt, ad illud ex quo resoluunt, per Proportiones, Subduplam, Subtriplam, Subquadruplam et caetera referri debere. Atque ita fit, ut semper Notularum ac Pausarum ualori tantum detrahatur, quantum figuris additur. et ediuerso, ut tantum ualori accedat, quantum figuris decedit.</p>
+      <p id="HEYDAC20282">Regula Catholica.</p>
+      <p id="HEYDAC20283">Vt omnis Augmentatio ac Diminutio quantitatis Notularum, ad essentialem Semibreuis Notulae integrum tactum relatiue intelligi, et aestimari debet: ita quoque omnia signa, omnesque Proportionum numeros, ad hos Temporis, non diminutos Circulos [O,C], appendere oportebit.</p>
+      <p id="HEYDAC20284">Quotuplicia sunt signa Musica?</p>
+      <p id="HEYDAC20285">Triplicia. Alia enim augent essentialem Notularum ualorem, Alia autem diminuunt: alia eundem conseruant. Quorum omnium differentiam et naturam, ex subscripta Tabula, facile est deprehendere. In qua tamen et hoc notandum est, Pausas Notulis pone adscriptas, suis Notulis aequiualere, ac ex earundem numeris aestimandas esse.</p>
+      <p id="HEYDAC20286">
+      <pb n="[120]" />[Heyden, De arte, 120; text: Signa triplicia, Augentia, 3, 9, 18, 36, 27, 1, 1/2, 2, Imperfecta, 6, 12, 24, 1 1/2, 4 1/2, 13 1/2, 1/4, 1, 4 1/4, Essentialia, 4, 8, Minuentia, 5, 3/4, 2 1/4, 6 3/4, 1/8] 
+      <figure>
+        <graphic url="/images/HEYDAC2_42GF.gif" />
+      </figure></p>
+      <p id="HEYDAC20287">
+      <pb n="[121]" />In hac Tabula, Signa secundum uetustiorem Musicam computata sunt, ita, ut Pausae Longarum Perfectarum peculiariter utrumque Modum, Circuli nihil aliud, quam Tempus, Numerus autem binarius, non tempus unquam, sed semper proportionem Duplam designent. Valorem Notularum ac Pausarum utriusque Modi ex dinumeratione Prolationis ac Temporis colligi oportet, Obseruato saltem, Perfectus ne an Imperfectus uteruis sit.</p>
+      <p id="HEYDAC20288">Sequuntur signa Modorum secundum recentiorem Musicam.</p>
+      <p id="HEYDAC20289">Signa Modi Maioris recentiora.</p>
+      <p id="HEYDAC20290">[Heyden, De arte, 121,1; text: 1, 3, 9, 27, 1/4, 18, 81, 1/2, 2, Imperfecta, 54] 
+      <figure>
+        <graphic url="/images/HEYDAC2_43GF.gif" />
+      </figure></p>
+      <p id="HEYDAC20291">Signa Modi Minoris recentiora semper diminuta.</p>
+      <p id="HEYDAC20292">[Heyden, De arte, 121,2; text: 1, 3, 6, 1/4, 1/8, 2, 4, 1 1/2, 9, 18, Imperfecta, 12]</p>
+      <p id="HEYDAC20293">[Heyden, De arte, 121,3; text: Canon Primus de resoluendis ex [O], [C] in [Odim], [Cdim], [O2], [C2], [CL]]</p>
+      <p id="HEYDAC20294">Essentialis Notularum ualor, in simplicem Diminutionem resoluendus, omnes Notularum ac Pausarum figuras duplicat.</p>
+      <p id="HEYDAC20295">
+      <pb n="[122]" />Exemplum ex Naraige Ghiselini.</p>
+      <p id="HEYDAC20296">[Heyden, De arte, 122,1; text: Resolutio] 
+      <figure>
+        <graphic url="/images/HEYDAC2_44GF.gif" />
+      </figure></p>
+      <p id="HEYDAC20297">[Heyden, De arte, 122,2; text: Secundus Canon, de resoluendis ex [Odim], [Cdim], [O2], [C2], [CL] in [O], [C]]</p>
+      <p id="HEYDAC20298">Simplex Diminutio, in Essentialem ualorem restituenda, figuris omnium Pausarum ac Notularum dimidiam partem aufert.</p>
+      <p id="HEYDAC20299">Exemplo sint prioris exempli Diminutae uoces, quibus si dimidium figurarum auferas, ita habebunt:</p>
+      <p id="HEYDAC20300">[Heyden, De arte, 122,3; text: Tenor. Bassus.]</p>
+      <p id="HEYDAC20301">
+      <pb n="[123]" />[Heyden, De arte, 123,1; text: Tertius Canon, de resoluendis ex [Cdim2], [Odim2], [CLdim] in [O], [C]] 
+      <figure>
+        <graphic url="/images/HEYDAC2_45GF.gif" />
+      </figure></p>
+      <p id="HEYDAC20302">Tempus bis Diminutum, in integrum ualorem restituendum, omnibus Notulis ac Pausis tantum quartam partem reliquam facit. Exemplum.</p>
+      <p id="HEYDAC20303">[Heyden, De arte, 123,2; TENOR. BASSVS. Bassus resolutus.]</p>
+      <p id="HEYDAC20304">
+      <pb n="[124]" />Quartus Canon, de resoluendis ex [Cdim2] [[Odim2] supra lin. [CLdim] sub lin.] in [Cdim] [[Odim] supra lin. [CL] sub lin.]</p>
+      <p id="HEYDAC20305">Tempus bis Diminutum, in semel Diminutum resoluendum, omnibus Notulis ac Pausis dimidiam sui partem aufert.</p>
+      <p id="HEYDAC20306">Exemplum ex Missa Fortuna Iosquini.</p>
+      <p id="HEYDAC20307">[Heyden, De arte, 124; text: Discantus. Resolutio Discanti. Tenor.] 
+      <figure>
+        <graphic url="/images/HEYDAC2_46GF.gif" />
+      </figure></p>
+      <p id="HEYDAC20308">Quintus Canon, de Resoluendis ex [Cd] [[Od] sub lin.] in [O] [[C] sub lin.]</p>
+      <p id="HEYDAC20309">Integra Prolationis Augmentatio, in Essentialem Temporis ualorem resoluenda, triplicat omnes Perfectas [signum] semibreues, cum Notulas, tum Pausis: Imperfectas duplicat, Alteratas quadruplicat, aut si etiam tum alterentur, duplicat.</p>
+      <p id="HEYDAC20310">
+      <pb n="[125]" />Annotatiuncula.</p>
+      <p id="HEYDAC20311">[signum] Perfectas Semibreues Notulas ac Pausas intelligimus, cum in hoc, tum in sequentibus Prolationum Canonibus, non tantum simplices has figuras: [SB,SBP on staff2]. Verum etiam quotquot earundem in maioribus Notulis et Pausis, puta, Breuibus aut Longis numerantur. Sub imperfectis autem, etiam denigratas compraehendimus, eas scilicet, quae extra Hemioliam sunt positae.</p>
+      <p id="HEYDAC20312">Exemplum Primum Kyrie ex Lhomme arme Iosquini.</p>
+      <p id="HEYDAC20313">[Heyden, De arte, 125; text: Kyrie. Resolutio. Bassus] 
+      <figure>
+        <graphic url="/images/HEYDAC2_47GF.gif" />
+      </figure></p>
+      <p id="HEYDAC20314">
+      <pb n="[126]" />[Heyden, De arte, 126,1; text: Sextus Canon, de resoluendis ex [Od], [Cd] in [Odim], [Cdim], [O2], [C2]] 
+      <figure>
+        <graphic url="/images/HEYDAC2_48GF.gif" />
+      </figure></p>
+      <p id="HEYDAC20315">Integra Prolationis Augmentatio, in simplicem temporis Diminutionem resoluenda, Sextuplicat omnes Perfectas Semibreues, tum Notulas, tum Pausas: Imperfectas quadruplicat, Alteratas octuplicat, aut, si etiam tum maneant Alteratae, quadruplicat.</p>
+      <p id="HEYDAC20316">Exemplum Christe eleyson ex Lhomme arme Iosquini.</p>
+      <p id="HEYDAC20317">[Heyden, De arte, 126,2; text: Tenor. Resolutio Tenoris. Bassus.]</p>
+      <p id="HEYDAC20318">
+      <pb n="[127]" />Septimus Canon de resoluendis ex [Oddim] [[Cddim] sub lin.] in [O] [[C] sub lin.]</p>
+      <p id="HEYDAC20319">Maior Prolatio Diminuta, in integrum Tempus resoluenda, sesquialterat omnes Perfectas Semibreues, tum Notulas, tum Pausas. Alteratas duplicat, Imperfectas nihil mutat, nisi forte nigras dealbet.</p>
+      <p id="HEYDAC20320">Exemplum ex Missa Prolationum Iohannis Ockegem</p>
+      <p id="HEYDAC20321">[Heyden, De arte, 127; text: Osanna. Altus in Diapason. Bassus in Diapason. Resolutio Bassi secundum [Cd], Resolutio Tenoris secundum [Od], et caetera. ut in Tenore.] 
+      <figure>
+        <graphic url="/images/HEYDAC2_49GF.gif" />
+      </figure></p>
+      <p id="HEYDAC20322">Ad hunc Canonem referendum est etiam illud exemplum, ex eadem Missa, quod folio 70, supra impressum est, tum etiam illud quod infra in quinto Tono est.</p>
+      <p id="HEYDAC20323">
+      <pb n="[128]" />[Heyden, De arte, 128,1; text: Octauus Canon, de resoluendis ex [Oddim] [Cddim] in [Odim] [Cdim] [O2] [C2]] 
+      <figure>
+        <graphic url="/images/HEYDAC2_50GF.gif" />
+      </figure></p>
+      <p id="HEYDAC20324">Perfecta Prolatio Diminuta, in simplicem Diminutionem resoluenda, triplicat omnes perfectas Semibreues, tum Notulas, tum Pausas, Imperfectas duplicat, Aiteratas quadruplicat, aut si etiam tum alterentur, duplicat.</p>
+      <p id="HEYDAC20325">Exemplum ex Naraige Iohannis Ghiselini.</p>
+      <p id="HEYDAC20326">[Heyden, De arte, 128,2; text: In hoc Tenore transfertur quinta Minima ad ultimam Semibreuem, ut eam imperficiat. Resolutio Tenoris. Bassus.]</p>
+      <p id="HEYDAC20327">
+      <pb n="[129]" />[Heyden, De arte, 129,1; text: Nonus Canon de resoluendis ex [Oddim2], [Cddim2], [CLddim] in [Odim], [Cdim]] 
+      <figure>
+        <graphic url="/images/HEYDAC2_51GF.gif" />
+      </figure></p>
+      <p id="HEYDAC20328">Prolatio Perfecta, bis Diminuta, in semel diminutum Tempus resoluenda, sesquialterat omnes Pausas, ac Notulas perfectas, Alteraras duplicat, nigras dealbat, imperfectas nihil mutat.</p>
+      <p id="HEYDAC20329">Exemplum ex Ghiselino.</p>
+      <p id="HEYDAC20330">[Heyden, De arte, 129,2; text: Discantus. Sanctus. Tenor. Resolutio]</p>
+      <p id="HEYDAC20331">
+      <pb n="[130]" />Decimus Canon, de Proportionibus Submultiplicibus, siue Augentibus.</p>
+      <p id="HEYDAC20332">Proportiones Augentes, id est, submultiplices, ex integro, in integrum: aut ex Diminuto, in Diminutum resoluturus, toties semper omnes Notulas ac Pausas multiplicet, quoties in illarum qualibet, inferior Numerus superiorem continet.</p>
+      <p id="HEYDAC20333">Exemplum reperitur superius de Augmentatione folio 101.</p>
+      <p id="HEYDAC20334">Vndecimus Canon.</p>
+      <p id="HEYDAC20335">Proportiones Augentes, id est, submultiplices, ex non diminuto signo, in aliud Diminutum resoluturus, in duplo ponat, id quod Proportionis inferior Numerus signat.</p>
+      <p id="HEYDAC20336">[Heyden, De arte, 130; text: Exemplum Proportionum Subtriplae, Subduplae, Duplae resoluendarum in [Odim], [Cdim], Canon. Primo per 1/3, Secundo per 1/2. Tertio ut iacet. Resolutio 1/3. 1/2] 
+      <figure>
+        <graphic url="/images/HEYDAC2_52GF.gif" />
+      </figure></p>
+      <p id="HEYDAC20337">
+      <pb n="[131]" />[Heyden, De arte, 131,1] 
+      <figure>
+        <graphic url="/images/HEYDAC2_53GF.gif" />
+      </figure></p>
+      <p id="HEYDAC20338">Duodecimus Canon.</p>
+      <p id="HEYDAC20339">Plura diuersa Signa eiusdem uocis, in quodlibet aliud signum resoluturus, illorum quodque suo ordine, ad id, in quod resoluat, secundum suos praescriptos Canones referat.</p>
+      <p id="HEYDAC20340">[Heyden, De arte, 131,2; text: Resolutio ex [Od], [Oddim], [Cd], [Cddim], [Odim], [Cdim] in [O], [C] secundum Quintum, Septimum Canonem]</p>
+      <p id="HEYDAC20341">Exemplum Ghiselini.</p>
+      <p id="HEYDAC20342">[Heyden, De arte, 131,3; text: Qui tollis. Resolutio in integrum.]</p>
+      <p id="HEYDAC20343">
+      <pb n="[132]" />[Heyden, De arte, 132,1; text: Resolutio eiusdem exempli ex [Od], [Oddim], [Cd], [Cddim], [O], [C] in [Odim], [Cdim], [O2], [C2] secundum Sextum, Octauum, Primum Canonem, Resolutio in Diminutum.] 
+      <figure>
+        <graphic url="/images/HEYDAC2_54GF.gif" />
+      </figure></p>
+      <p id="HEYDAC20344">Aliud exemplum Ghiselini.</p>
+      <p id="HEYDAC20345">[Heyden, De arte, 132,2; text: Resolutio scilicet ex [Oddim], [Oddim2], [Cddim], [Cddim2], [Odim2] in [Od], [Cd] secundum Octauum, Nonum, Quartum Canonem.]</p>
+      <p id="HEYDAC20346">
+      <pb n="[133]" />In huius exempli initio referuntur prima et altera Minima ad primam Breuem sequentem, ut ita ipsa octo Minimis ualeat.</p>
+      <p id="HEYDAC20347">[Heyden, De arte, 133,1; text: Et resurrexit.] 
+      <figure>
+        <graphic url="/images/HEYDAC2_55GF.gif" />
+      </figure></p>
+      <p id="HEYDAC20348">Resolutio praecedentis exempli.</p>
+      <p id="HEYDAC20349">[Heyden, De arte, 133,2]</p>
+      <p id="HEYDAC20350">
+      <pb n="[134]" />[Heyden, De arte, 134,1] 
+      <figure>
+        <graphic url="/images/HEYDAC2_56GF.gif" />
+      </figure></p>
+      <p id="HEYDAC20351">Sequitur exemplum, in quo non solum figurae, uerum etiam situs signorum obseruandus est, secundum quem Notulae nunc altius, nunc demissius transcribi et cantari debent.</p>
+      <p id="HEYDAC20352">[Heyden, De arte, 134,2; text: Agnus ultimum, ex La belle de Orto. Resolutio.]</p>
+      <p id="HEYDAC20353">
+      <pb n="[135]" />Haec sunt, quae de signis Musicis docere uolui, quatenus ea, certa quapiam arte, ac certis Regulis continentur. Nam caetera, quae prorsus omni lege et arte carent, quae quidem plurima sunt, ad me nihil pertinere arbitror, qui non somnia aut aenigmata, sed Regulas praescribere uolui. Nisi forte ita aliqua sint, ut facile per artem corrigi possint. Qualia sunt, si Hemicyclo non Diminuto [C], ob Diminutionem oppositam [Cdim], dupli incrementum adscribitur: aut si sub Prolatione Perfecta, non diminuta [Cd], Diminutio: Aut si sub eadem, nullos numeros habente, Sesquialtera subintelligitur. Nam in horum primo, leuis est error, ex artis ignorantia, dum quod dimidium erat, pro integro: et quod integrum erat, pro duplo habetur. quum ex arte eadem plane Proportio sit, dimidij ad integrum, et integri ad Duplum. In altero uero, dissectio ita [Cddim] addenda. In tertio autem numeros ita adscribere [Od3/2] omnino oportebat. In alijs, quae necque nostras Regulas, neque talem correctionem admittunt, ipsorum autoribus, aut illorum authorum studiosis, omne iudicium permitto, iudicent quicquid libitum fuerit, non aduersabor. Dummodo hoc unum meminerint: Artem dici nullam posse, quae non suis certis ac generalibus regulis contineatur.</p>
+      <p id="HEYDAC20354">De Canonibus aenigmaticis, qui plaerunque cantibus adscribi solent, nulla certa regula dari potest: praeterquam ut sententiarum adscriptarum formulae obseruentur, quod fere a rerum natura, usu, simili, contrario, et caetera usurpantur. Ita cancrisare, retrogradi est. Noctem in diem uertere, est albas notulas canere, quae nigrae scribuntur. Misericordiam et ueritatem sibi obuiasse, est eundem cantum ab hoc recte, ab altero retrogrado ordine concini debere et caetera.</p>
+      <p id="HEYDAC20355">
+      <pb n="[136]" />CAPVT OCTAVVM</p>
+      <p id="HEYDAC20356">De Tonis.</p>
+      <p id="HEYDAC20357">DE industria mihi hic temperabo a longiore Tonorum descriptione. Quid enim opus est Autentas ac Plagales Tonorum, ut uocant, limitationes, et cuisque illorum superadditas differentias, religiosius prosequi, quorum in figuratis cantibus pene nullam rationem haberi cernimus? Sufficiat ergo hic quam simplicissime monstrasse, quomodo Toni uulgatioris cuiusque Cantilenae cognosci, Psalmique et Magnificat, sic enim loqui licet, intonari debeant. Qui plura uolet, is ex alijs petat.</p>
+      <p id="HEYDAC20358">Quid est Tonus?</p>
+      <p id="HEYDAC20359">Est certa quaedam qualitas melodiae, seu potius affectus cantionis. Vt enim affectuum animi, alij alacres ac plausibiles, alij graues et sedati, quidam tristes ac gemebundi, rursus iracundi alij ac impetuosi: ita et melodiae cantuum, quod aliae aliter afficiant, uarie distinctae sunt Musicis.</p>
+      <p id="HEYDAC20360">Quot sunt species Tonorum?</p>
+      <p id="HEYDAC20361">Octo. Quae ex certis interuallis, quorum quisque aliquod peculiare, et ceu proprium habet, discernuntur. Atquae ea sint, et quod quemque Tonum adtineat, ex subscriptis uersibus facilime ediscent pueri.</p>
+      <p id="HEYDAC20362">De interuallis, cuique Tono peculiaribus.</p>
+      <p id="HEYDAC20363">Primus Re, La, dat: Secundus Re, Fa: Tertius Mi, Fa: Mi, Laque Quartus Quintus Fa, Fa: Sextus Fa, La: Septimus Vt, Sol: Octauus sonat Vt, Fa.</p>
+      <p id="HEYDAC20364">De Tractu Tonorum.</p>
+      <p id="HEYDAC20365">Altior imparibus: paribus demissior est uis.</p>
+      <p id="HEYDAC20366">Quae quota sit, cuiusue Toni, de fine petatur.</p>
+      <p id="HEYDAC20367">
+      <pb n="[137]" />De syllabis ac Clauibus finalibus.</p>
+      <p id="HEYDAC20368">Primus Secundus D, Re: Tertius Quartus E, Mi: Quintus Sextus F, Fa: Septimus et octauus G, Vt.</p>
+      <p id="HEYDAC20369">Hoc est,</p>
+      <p class="textFig" id="HEYDAC20370">Primus&#160;et&#160;secundus&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Dlasolre&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Re
+      <lb />Tertius&#160;et&#160;Quartus&#160;&#160;&#160;finiunt&#160;per&#160;Elami&#160;&#160;&#160;&#160;&#160;nomen&#160;&#160;Mi
+      <br />Quintus&#160;et&#160;Sextus&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Faut&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Fa
+      <lb />Septimus&#160;et&#160;Octauus&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Gsolreut&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Vt
+      <br /></p>
+      <p id="HEYDAC20371">Quis cantus est Primi Toni?</p>
+      <p id="HEYDAC20372">Omnis cantus Primi Toni est, qui in Re finiens, tractum suae melodiae per Re La Diapente potissimum effingit.</p>
+      <p id="HEYDAC20373">Monodia Primi Toni.</p>
+      <p id="HEYDAC20374">[Heyden, De arte, 137; text: Tonus. Psalmus. Magnificat.] 
+      <figure>
+        <graphic url="/images/HEYDAC2_57GF.gif" />
+      </figure></p>
+      <p id="HEYDAC20375">Quis cantus est Secundi Toni?</p>
+      <p id="HEYDAC20376">Secundi Toni est, quicunque cantus cum Re finali fa Semiditonum frequentius repetit.</p>
+      <p id="HEYDAC20377">Monodia secundi Toni.</p>
+      <p id="HEYDAC20378">
+      <pb n="[138]" />[Heyden, De arte, 138,1; text: Tonus. Psalmus. Magnificat.]</p>
+      <p id="HEYDAC20379">Quae Cantilenae sunt Tertij Toni?</p>
+      <p id="HEYDAC20380">Eae omnes, quae in Mi desinunt, sed ita, ut ex eodem Mi cum Fa per Diapente et Hemitonium maiorem melodiae partem desumant.</p>
+      <p id="HEYDAC20381">Monodia Tertij Toni.</p>
+      <p id="HEYDAC20382">[Heyden, De arte, 138,2; text: Tonus. Psalmus. Magnificat.]</p>
+      <p id="HEYDAC20383">Quis Cantus est Quarti Toni?</p>
+      <p id="HEYDAC20384">Quicunque suam melodiam per Mi finale, saepius cum la Diatessaron repetitum, effingit</p>
+      <p id="HEYDAC20385">Monodia Quarti Toni.</p>
+      <p id="HEYDAC20386">[Heyden, De arte, 138,3; text: Tonus. Psalmus. Magnificat.]</p>
+      <p id="HEYDAC20387">Quis Cantus est Quinti Toni?</p>
+      <p id="HEYDAC20388">Qui cum Fa finali, alterum Fa supremum per Diapente, crebrius repetit. Aut, quod alijs magis placet, qui cum Vt finali, Sol Diapente, et Mi Ditonum saepius reiterat.</p>
+      <p id="HEYDAC20389">
+      <pb n="[139]" />Monodia Quinti Toni.</p>
+      <p id="HEYDAC20390">[Heyden, De arte, 139,1; text: Tonus. Psalmus. Magnificat.] 
+      <figure>
+        <graphic url="/images/HEYDAC2_58GF.gif" />
+      </figure></p>
+      <p id="HEYDAC20391">Quae Cantio est Sexti Toni?</p>
+      <p id="HEYDAC20392">Quae suum Fa finale, cum superiore La, per Ditonum crebrius commiscet.</p>
+      <p id="HEYDAC20393">Monodia Sexti Toni.</p>
+      <p id="HEYDAC20394">[Heyden, De arte, 139,2; text: Tonus. Psalmus. Magnificat.]</p>
+      <p id="HEYDAC20395">Quis est Septimi Toni?</p>
+      <p id="HEYDAC20396">Is est, qui a crebrius repetito Sol, tandem Diapente in Vt finale delabitur.</p>
+      <p id="HEYDAC20397">Monodia Septimi Toni.</p>
+      <p id="HEYDAC20398">[Heyden, De arte, 139,3; text: Tonus. Psalmus. Magnificat.]</p>
+      <p id="HEYDAC20399">Quis est Cantus Octaui Toni?</p>
+      <p id="HEYDAC20400">Qui per Fa et Vt finale, frequentius inuicem Diatessaron repetita, suam melodiam constituit.</p>
+      <p id="HEYDAC20401">Monodia Octaui Toni</p>
+      <p id="HEYDAC20402">[Heyden, De arte, 139,4; text: Tonus. Psalmus. Magnificat.]</p>
+      <p id="HEYDAC20403">
+      <pb n="[140]" />Exemplum Primi Toni.</p>
+      <p id="HEYDAC20404">[Heyden, De arte, 140; text: DISCANTVS. Pater Meus agricola est. Alexander Agricola, BASSVS. Pater meus.] 
+      <figure>
+        <graphic url="/images/HEYDAC2_59GF.gif" />
+      </figure></p>
+      <p id="HEYDAC20405">
+      <pb n="[141]" />[Heyden, De arte, 141; text: TENOR. Pater meus.] 
+      <figure>
+        <graphic url="/images/HEYDAC2_60GF.gif" />
+      </figure></p>
+      <p id="HEYDAC20406">
+      <pb n="[142]" />[Heyden, De arte, 142; text: DISCANTVS. BASSVS.] 
+      <figure>
+        <graphic url="/images/HEYDAC2_61GF.gif" />
+      </figure></p>
+      <p id="HEYDAC20407">
+      <pb n="[143]" />[Heyden, De arte, 143; text: TENOR.] 
+      <figure>
+        <graphic url="/images/HEYDAC2_62GF.gif" />
+      </figure></p>
+      <p id="HEYDAC20408">
+      <pb n="[144]" />Exemplum Secundi Toni.</p>
+      <p id="HEYDAC20409">[Heyden, De arte, 144; text: DISCANTVS. Aue mater omnium. Gasparis, BASSVS.] 
+      <figure>
+        <graphic url="/images/HEYDAC2_63GF.gif" />
+      </figure></p>
+      <p id="HEYDAC20410">
+      <pb n="[145]" />[Heyden, De arte, 145; text: ALTVS. Aue mater. TENOR.] 
+      <figure>
+        <graphic url="/images/HEYDAC2_64GF.gif" />
+      </figure></p>
+      <p id="HEYDAC20411">
+      <pb n="[146]" />[Heyden, De arte, 146; text: DISCANTVS, BASSVS.] 
+      <figure>
+        <graphic url="/images/HEYDAC2_65GF.gif" />
+      </figure></p>
+      <p id="HEYDAC20412">
+      <pb n="[147]" />[Heyden, De arte, 147; text: ALTVS. TENOR.] 
+      <figure>
+        <graphic url="/images/HEYDAC2_66GF.gif" />
+      </figure></p>
+      <p id="HEYDAC20413">Sequitur exemplum Tertij Toni.</p>
+      <p id="HEYDAC20414">
+      <pb n="[148]" />[Heyden, De arte, 148,1; text: Discantus. [adelon]] 
+      <figure>
+        <graphic url="/images/HEYDAC2_67GF.gif" />
+      </figure></p>
+      <p id="HEYDAC20415">Ad hunc Bassum requirenda sunt ea, quae supra folio 81. annotauimus. Tum etiam quicquid de uarijs Diminutionibus, sub sexto capitulo est. At si quis resoluere uelit, Canones indicatos sequatur.</p>
+      <p id="HEYDAC20416">[Heyden, De arte, 148,2; text: BASSVS. Diminutio simplex per Modum Canonis quarti, Diminutio Duplex Canonis quarti, Simplex Diminutio, Diminutio Triplex, tum quartam partem figuris reliquam facit. Simplex Diminutio]</p>
+      <p id="HEYDAC20417">
+      <pb n="[149]" />[Heyden, De arte, 149; text: Altus, Tenor] 
+      <figure>
+        <graphic url="/images/HEYDAC2_68GF.gif" />
+      </figure></p>
+      <p id="HEYDAC20418">
+      <pb n="[150]" />Exemplum Quarti Toni.</p>
+      <p id="HEYDAC20419">[Heyden, De arte, 150; text: DISCANTVS. Agnus. Malhuer me bat. Alexander Agricola, BASSVS] 
+      <figure>
+        <graphic url="/images/HEYDAC2_69GF.gif" />
+      </figure></p>
+      <p id="HEYDAC20420">
+      <pb n="[151]" />[Heyden, De arte, 151; text: ALTVS. TENOR.] 
+      <figure>
+        <graphic url="/images/HEYDAC2_70GF.gif" />
+      </figure></p>
+      <p id="HEYDAC20421">
+      <pb n="[152]" />[Heyden, De arte, 152; text: DISCANTVS. BASSVS.] 
+      <figure>
+        <graphic url="/images/HEYDAC2_71GF.gif" />
+      </figure></p>
+      <p id="HEYDAC20422">
+      <pb n="[153]" />[Heyden, De arte, 153; text: ALTVS. TENOR.] 
+      <figure>
+        <graphic url="/images/HEYDAC2_72GF.gif" />
+      </figure></p>
+      <p id="HEYDAC20423">
+      <pb n="[154]" />Exemplum Quinti Toni Iohannis Ockegem.</p>
+      <p id="HEYDAC20424">[Heyden, De arte, 154; text: Et in terra. Altus sequitur Discantum in Subdiatessaron.] 
+      <figure>
+        <graphic url="/images/HEYDAC2_73GF.gif" />
+      </figure></p>
+      <p id="HEYDAC20425">
+      <pb n="[155]" />[Heyden, De arte, 155; text: Bassus in Subdiatessaron incipientem Tenorem prosequitur.] 
+      <figure>
+        <graphic url="/images/HEYDAC2_74GF.gif" />
+      </figure></p>
+      <p id="HEYDAC20426">De huius exempli Resolutione require supra Canonem septimum. in Resolutionibus.</p>
+      <p id="HEYDAC20427">
+      <pb n="[156]" />Exemplum Sexti Toni.</p>
+      <p id="HEYDAC20428">Fuga ad Minimam Iosquini in Lhomme arme Sexti Toni.</p>
+      <p id="HEYDAC20429">[Heyden, De arte, 156; text: Discantus. Agnus, Tenor recta pergat.] 
+      <figure>
+        <graphic url="/images/HEYDAC2_75GF.gif" />
+      </figure></p>
+      <p id="HEYDAC20430">
+      <pb n="[157]" />Fuga ad Minimam.</p>
+      <p id="HEYDAC20431">[Heyden, De arte, 157; text: ALTVS. Agnus. CANON. Bassus cancrisat.] 
+      <figure>
+        <graphic url="/images/HEYDAC2_76GF.gif" />
+      </figure></p>
+      <p id="HEYDAC20432">
+      <pb n="[158]" />[Heyden, De arte, 158; text: DISCANTVS. Canon, Tenor cancrisat.] 
+      <figure>
+        <graphic url="/images/HEYDAC2_77GF.gif" />
+      </figure></p>
+      <p id="HEYDAC20433">
+      <pb n="[159]" />[Heyden, De arte, 159; text: ALTVS. Bassus recta pergit.] 
+      <figure>
+        <graphic url="/images/HEYDAC2_78GF.gif" />
+      </figure></p>
+      <p id="HEYDAC20434">Sequitur exemplum Septimi Toni Iosquini, ex Lhomme arme.</p>
+      <p id="HEYDAC20435">
+      <pb n="[160]" />[Heyden, De arte, 160; text: Discantus. Osanna Iosquini ex Lhomme arme. Bassus.] 
+      <figure>
+        <graphic url="/images/HEYDAC2_79GF.gif" />
+      </figure></p>
+      <p id="HEYDAC20436">
+      <pb n="[161]" />[Heyden, De arte, 161; text: Altus. Osanna. Tenor, Osanna gaudet cum gaudentibus.] 
+      <figure>
+        <graphic url="/images/HEYDAC2_80GF.gif" />
+      </figure></p>
+      <p id="HEYDAC20437">
+      <pb n="[162]" />Exemplum Octaui Toni. Gasparis</p>
+      <p id="HEYDAC20438">[Heyden, De arte, 162; text: DISCANTVS. BASSVS.] 
+      <figure>
+        <graphic url="/images/HEYDAC2_81GF.gif" />
+      </figure></p>
+      <p id="HEYDAC20439">
+      <pb n="[163]" />[Heyden, De arte, 163; text: ALTVS. TENOR.] 
+      <figure>
+        <graphic url="/images/HEYDAC2_82GF.gif" />
+      </figure></p>
+      <p id="HEYDAC20440">Norimbergae apud Iohannem Petreium, Anno M.D.XL.</p>
+    </body>
+  </text>
+</TEI>

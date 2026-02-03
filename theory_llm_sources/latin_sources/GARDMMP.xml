@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>De musica mensurabili positio</title>
+        <title type="abbrev">GARDMMP</title>
+        <author>Johannes de Garlandia</author>
+        <date notBefore="1200" notAfter="1299">13th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Stephen E. Hayes</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Peter M. Lefferts</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Andreas Giger</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1994</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Hieronymus de Moravia, 
+<emph>Tractatus de musica</emph>, ed. S. M. Cserba, Freiburger Studien zur Musikwissenschaft, vol. 2 (Regensburg: Pustet, 1935), 194–230.
+</bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="GARDMMP0001">
+      <pb n="[194]" />Johannis de Garlandia</p>
+      <p id="GARDMMP0002">De musica mensurabili positio.</p>
+      <p id="GARDMMP0003">Habito, inquit Johannes, de cognitione planae musicae et omnium specierum soni dicendum est de longitudine et brevitate eorundem, quae apud nos modus soni appellatur. Unde modus est cognitio soni in acuitate et gravitate secundum longitudinem temporis et brevitatem. Et potest 
+      <pb n="[195]" />dupliciter sumi, aut communiter aut proprie. Modus communis est, qui versatur circa omnem longitudinem et brevitatem omnium sonorum. Modus proprius est, qui versatur circa VI modos antiquos.</p>
+      <p id="GARDMMP0004">Quorum modorum primus constat longa brevi, longa brevi etc., secundus brevi longa, brevi longa, tertius longa, duabus brevibus, longa duabus brevibus etc., quartus duabus brevibus longa etc., quintus omnibus longis, sextus omnibus brevibus. Aliqui addunt modos alios. Sed non est necessarium illos numerare, ut duae longae et brevis, quia per istos VI sufficientiam possumus habere.</p>
+      <p id="GARDMMP0005">Omnium aliorum sonorum triplex est modus, unus in plenitudine vocis, alter est sub voce cassa, tertius sub voce amissa.</p>
+      <p id="GARDMMP0006">Recta brevis est, quae unum tempus continet. Unum tempus est, quod minimum in plenitudine vocis est. Recta longa est duas rectas breves continens tantum. Obliqua [132b] longa est, quae abundat super rectam longam. Duplex longa est, quae plures longas in se continet. Aliqua longa est, quae circumflectit se versus acuitatem vel gravitatem. Et dicitur recta et obliqua.</p>
+      <p id="GARDMMP0007">Modorum alius perfectus alius imperfectus. Perfectus modus dicitur, qui finit per talem quantitatem, per qualem incipit, ut longa brevis longa. Imperfectus est, qui terminatur per aliam quam per illam, in qua incipit. Sic apparet, quod sunt XII modi cum perfectis et imperfectis sive aliis.</p>
+      <p id="GARDMMP0008">Modus rectus est, qui procedit per rectas longas et rectas breves, obliquus est, qui procedit per aliquas longas et aliquas breves. Regula cognitionis temporum: Longa ante longam valet tria tempora. Secunda regula est: Duae rectae breves valent unam rectam longam. Tertia regula est: Multitudo brevium simul quanto magis appropinquatur fini, tanto debet longior proferri. Unde sequitur, quod primus, secundus, sextus dicuntur modi recti, tertius, quartus, quintus dicuntur obliqui. Sed aliqui volunt, quod quintus noster modus sit primus omnium. Et bona est ratio, quia per istum modum praecedit omnes nostros modos. Sed 
+      <pb n="[196]" />quoad tempora cognoscenda prius est modus rectus quam obliquus, et sic non valet quod dicitur, quod quintus est primus. [133a]</p>
+      <p id="GARDMMP0009">Ordo modorum est numerus punctorum ante pausationem. Iste ordo dividitur in primum, secundum et tertium etc. Ordo autem procedit ab uno principio, principium a radice. Radix est quilibet cantus primo datus. Exemplum primum primae radicis:</p>
+      <p id="GARDMMP0010">[Cserba, 196; text: Latus, Latus] 
+      <figure>
+        <graphic url="/images/GARDMMP_01GF.gif" />
+      </figure></p>
+      <p id="GARDMMP0011">Et notandum, quod principium cujuslibet modi caret omni pausatione.</p>
+      <p id="GARDMMP0012">Primus ordo primi modi perfecti: Modus obliquus habet plures considerationes, ut patet in tertio, quia tertius constat ex longa et duabus brevibus, et duae breves aequipollent longae, et longa ante longam valet longam et brevem, et sic valet tria tempora. Quare longa ante duas breves valet tria tempora, et sic valet longam et brevem vel brevem et longam.</p>
+      <p id="GARDMMP0013">Item duae breves aequipollent longae. Ergo si ponantur ante longam, valent tria tempora, ergo valent longam et brevem vel e converso. Unde regula: Si sint plures breves in modis obliquis, quae magis appropinquatur fini, longior debet proferri. Ergo illae duae valent brevem et longam et non longam et brevem. Quare tertius modus et quartus potius reducuntur ad secundum quam ad [133b] primum. Sed quintus indifferenter ad primum et secundum potest reduci. Unde quintus modus constat ex omnibus longis. Et sic quaelibet longa est ante aliam longam. Quare quaelibet valet tria tempora confuse et non distincte, et sic valet longam et brevem vel e converso. Et sic potest reduci ad primum et secundum confuse, et mediante secundo potest reduci ad tertium et ad quartum, quamvis omnes modi et ad primum et ad secundum possint reduci. Sed in isto modo aliter respicimus pausationem quam in aliis modis, cum in aliis modis quanta est paenultima, tanta est pausatio, et hic 
+      <pb n="[197]" />ex toto ista regula non observatur, sed in parte, quia est pausatio longa et aliquotiens brevis, sive fuerit modus perfectus, sive imperfectus. Sed si fuerit longa, erit propria sua pausatio brevis accomodata, ut in sequentibus patebit.</p>
+      <p id="GARDMMP0014">Sextus modus potest reduci ad primum vel secundum. Sed quando reducitur ad primum, terminatur in longam et habet pausationem unius temporis, quando autem reducitur ad secundum, tunc finitur per brevem et habet pausationem duorum temporum. Sed ad proprium modum totaliter non fit, sed circulariter soni ultimi et pausationes breves semper et in ordinibus sive perfectis sive imperfectis secundum magis et minus ad modum tertii perfecti et imperfecti erunt. Habito [134a] de modis existunt et de eorum partibus.</p>
+      <p id="GARDMMP0015">Sequitur de figuris et eorum significationibus.</p>
+      <p id="GARDMMP0016">Figura, ut hic accipitur, est signum denotans sonum vel sonos secundum suum tempus longitudinis atque brevitatis. Figurarum quaedam simplex, quaedam composita vel ligata, quod idem est. Simplicium quaedam dicitur longa, quaedam brevis. Longarum, quae dicuntur puncta longa, triplex est modus, scilicet recta longa et superabundans et plica longa.</p>
+      <p id="GARDMMP0017">Recta longa est, cujus latitudo non transit longitudinem cum tractu descendente a parte dextra, ut hic: [L,L,L]</p>
+      <p id="GARDMMP0018">Superabundans sive duplex longa, quod idem est, cujus latitudo transit longitudinem cum tractu praedicto, ut hic declaratur: [MX,MX,MX]</p>
+      <p id="GARDMMP0019">Plica duplex est, ascendens et descendens. Descendens cum duplici tractu fit, ascendens cum uno tantum vel duplici, sed semper est longior tractus a parte dextra, ut hic: [Bpdsncddx,Bpssncsdx,Bpssncsdx]</p>
+      <p id="GARDMMP0020">Brevium triplex est modus, scilicet recta brevis recte posita, et est, cujus latitudo non transit longitudinem et sine tractu, ut hic patet: [B,B,B,B]</p>
+      <p id="GARDMMP0021">
+      <pb n="[198]" />Et est semibrevis oblique posita, ut hic apparet: [S,S,S,S,S]</p>
+      <p id="GARDMMP0022">Est et alia plica brevis, et fit, quando longior tractus fit a parte sinistra, ut hic: [Bcdsnpddx,Bcdsnpddx,Bcssnpsdx,Bcssnpsdx]</p>
+      <p id="GARDMMP0023">Figura composita vel ligata est, quando plura [134b] puncta in unum conjunguntur a puncto ad puncta ascendentes vel descendentes: [Lig2cdsnd,Lig2art,Lig2art,Lig3cdsndd,Lig3cssnaart,Lig5dodaa,Lig2od,Lig4cdsnddod,Lig3aa,Lig3odart]</p>
+      <p id="GARDMMP0024">Figurarum quaedam dicuntur ascendendo, quaedam descendendo, et hoc a parte principii vel finis. Item quaedam dicuntur perfectae, item quaedam cum proprietate, quaedam sine.</p>
+      <p id="GARDMMP0025">Descendens dicitur figura, quando secundus punctus inferior est primo, ascendens e converso.</p>
+      <p id="GARDMMP0026">Cum proprietate descendente dicimus, quando primus punctus habet tractum descendentem a latere sinistro, si tractus fuerit ascendens, cum proprietate opposita dicetur, ut hic: [Lig2cdsnd,Lig3cdsndd,Lig4cdsnodad,Lig3cdsndod,Lig2cssnd,Lig3cssndd,Lig4cssnodad,Lig3cssndod]</p>
+      <p id="GARDMMP0027">In figura ascendente proprietas sua est, quando primus punctus non habet tractum, ut hic patet:</p>
+      <p id="GARDMMP0028">[Lig2art,Lig3aart,Lig4aaod,Lig5aaaodart,Lig5aodaart,Lig5aaad]</p>
+      <p id="GARDMMP0029">Sed sine proprietate dicitur, si habet tractum, ut hic:</p>
+      <p id="GARDMMP0030">[Lig2cdsnart,Lig3cdsnaart,Lig5cdsnaaaod,Lig6cdsnaaaodart,Lig5cdsnaodaart,Lig7cdsnaaddaa]</p>
+      <p id="GARDMMP0031">Et sic intelligimus de figura descendente ad suum contrarium, ut hic: [Lig2cdsnd,Lig3cdsndd,Lig5cdsnodaad; Lig2d,Lig3dd,Lig4odad]</p>
+      <p id="GARDMMP0032">Figura perfecta in fine dicitur, quando tractus a paenultima ad ultimam fuerit descendens perpendiculariter, et hoc in figura descendente in fine. Et hoc est, quando ultima fuerit inferior paenultima, ut hic:</p>
+      <p id="GARDMMP0033">[Lig3cdsndd,Lig2cdsnd,Lig4aad,Lig4odad,Lig5cdsndodad,Lig6aodaad]</p>
+      <p id="GARDMMP0034">
+      <pb n="[199]" />Sed in figura ascendente in fine est perfectio, cujus ultimus [135a] punctus recte jacet supra paenultimum:</p>
+      <p id="GARDMMP0035">[Lig2art,Lig3aart,Lig3cdsnodart,Lig4dodart,Lig6cdsnddodaart,Lig6cdsnddaodart,Lig5cdsnodaodart]</p>
+      <p id="GARDMMP0036">Imperfecta vero dicitur, sive fuerit ascendens sive descendens, si ultimus punctus fuerit obliquus ad paenultimam, ut hic patet: [Lig2a,Lig3aa,Lig2cdsnod,Lig3cdsndod,Lig4cdsnddod,Lig4aaod,Lig5aada]</p>
+      <p id="GARDMMP0037">Sequitur de regulis figurarum ad invicem ligatarum.</p>
+      <p id="GARDMMP0038">Omnis figura ligata cum proprietate posita et perfecta paenultima dicitur esse brevis et ultima longa. Si sint praecedentes vel praecedens, tunc omnes ponuntur pro longa, ut hic: [Lig2art,Lig2cdsnd,Lig3dd,Lig4cdsnddd,Lig3aart,Lig3cdsnodart,Lig4cdsnodartart,Lig5cdsnodaaart]</p>
+      <p id="GARDMMP0039">Omnis figura sine proprietate et perfecte posita valet oppositum cum proprietate, ut hic patet: [Lig2cdsnart,Lig2cssnd,Lig3cdsnaart,Lig3cssndd,Lig3cssnodart,Lig3ad]</p>
+      <p id="GARDMMP0040">Regula est, quod nunquam ponuntur duae breves vel tres vel quatuor pro brevi, ubi possunt poni pro longa.</p>
+      <p id="GARDMMP0041">Omnis ligatura cum proprietate opposita et perfecta ultima est longa, et omnes praecedentes ponuntur pro brevi, si sint ibi plures: [Lig3cssndd,Lig3cssnaart,Lig3cssnodart,Lig5cssnodaaart,Lig4ddd,Lig4cssnaaart]</p>
+      <p id="GARDMMP0042">Sed si sint duae tantum, non valent nisi brevem, ut hic patet: [Lig2cssna,Lig2cssnd,Lig2cssnart,Lig2cssnd,Lig2cssnart]</p>
+      <p id="GARDMMP0043">Omnis figura cum plica et cum proprietate et perfecta ultima cum plica valet longam, quia nihil aliud est quam signum dividens sonum in sonum diversum, ut hic:</p>
+      <p id="GARDMMP0044">[Lig2cdsndcddx,Lig2acsdx,Lig2cdsndcsdx,Lig3cdsnddcddx,Lig3aacddx,Lig3aacsdx,Lig3cdsnodacddx,Lig4aaapsdx]</p>
+      <p id="GARDMMP0045">
+      <pb n="[200]" />Omnis figura ligata cum plica sine opposita proprietate sumitur ut cum proprietate vel non et perfecta vel imperfecta.</p>
+      <p id="GARDMMP0046">Omnis figura imperfecta sumitur tripliciter, aut cum proprietate et plica, vel sine plica: [Lig2pdsnodcddx,Lig2cdsnodcsdx,Lig2cdsnacsdx,Lig3cdsndodcsdx; Lig2cdsnod,Lig2a,Lig3cdsndod] aut sine proprietate et cum plica, vel sine plica, ut sumitur hic: [Lig2pssnodpddx,Lig2odcsdx,Lig2cdsnacsdx,Lig3cssndodpddx; [135b] Lig2odcddx,Lig2cdsna,Lig3dod] aut cum proprietate opposita et cum plica vel sine plica, ut hic: [Lig2pssnodpddx,Lig2pssnodpsdx,Lig2pssnapsdx,Lig3pssndodpsdx; Lig2pssnod,Lig2pssna,Lig3pssndod] Regula est, quod omnis figura imperfecta si sit cum proprietate, extenditur quoad perfectionem primi modi usque ad primam longam sequentem, si sit sine proprietate, extenditur quoad perfectionem secundi modi usque ad primam brevem sequentem. Et totum hoc intelligitur in conductis et in mothetis, quando sumuntur sine littera vel cum littera. Si proprio modo figurantur, omnes figurae fere accipiuntur imperfectae, et hoc intelligitur in discantu et ubicumque rectus modus accipitur.</p>
+      <p id="GARDMMP0047">Sequitur de probatione modorum per figuras.</p>
+      <p id="GARDMMP0048">Prima regula primi modi dicitur esse tres ligatae ad invicem in principio et consequenter cum duae et duae et duae etc., et hoc totum cum proprietate et perfectione:</p>
+      <p id="GARDMMP0049">[Cserba, 200,1; text: Angelus]</p>
+      <p id="GARDMMP0050">Alia regula de eodem: Tres cum brevi pausatione et tres cum brevi etc., et dicitur esse primus ordo primi modi perfecti, ut hic:</p>
+      <p id="GARDMMP0051">[Cserba, 200,2; text: Angelus]</p>
+      <p id="GARDMMP0052">
+      <pb n="[201]" />Secundi modi prima regula [136a] sumitur ita: Duae, duae, duae cum proprietate et perfectione et tres in fine sine proprietate et perfectione, ut hic:</p>
+      <p id="GARDMMP0053">[Cserba, 201,1; text: Balaam]</p>
+      <p id="GARDMMP0054">Aliter de eodem: Tres sine proprietate et cum perfectione cum longa pausatione, et sic in infinitum ut hic, et est primus ordo ejusdem secundi:</p>
+      <p id="GARDMMP0055">[Cserba, 201,2; text: Balaam]</p>
+      <p id="GARDMMP0056">Tertius modus probatur ita per figuras, quoniam prima est longa et postea tres ligatae et tres ligatae cum proprietate et perfectione ut hic:</p>
+      <p id="GARDMMP0057">[Cserba, 201,3; text: Cumque]</p>
+      <p id="GARDMMP0058">Quartus modus sumitur hic: Tres et tres cum proprietate et perfectione et duae imperfectae in fine et cum longa pausatione, ut hic:</p>
+      <p id="GARDMMP0059">[Cserba, 201,4; text: Regnat]</p>
+      <p id="GARDMMP0060">Quintus modus sumitur hoc modo: Omnes longae cum longa pausa vel brevi, ut hic patet: [136b]</p>
+      <p id="GARDMMP0061">[Cserba, 201,5; text: Ejus]</p>
+      <p id="GARDMMP0062">Item alia regula de eodem: Tres cum proprietate et perfectione et cum longa pausatione, et hoc in infinitum. 
+      <pb n="[202]" />Et hoc fit causa brevitatis. Et non proprie sumitur ita, sed usus est, ut ita in tenoribus accipiatur:</p>
+      <p id="GARDMMP0063">[Cserba, 202,1; text: Et sperabit] 
+      <figure>
+        <graphic url="/images/GARDMMP_02GF.gif" />
+      </figure></p>
+      <p id="GARDMMP0064">Sextus accipitur hoc modo: Quatuor cum proprietate et perfectione cum duae et duae et duae cum proprietate et plica, ut sumitur hic:</p>
+      <p id="GARDMMP0065">[Cserba, 202,2; text: Fiat]</p>
+      <p id="GARDMMP0066">Alia regula de eodem. Sed non probatur per istam artem, sed bene probatur per exemplum, quod invenitur in Alleluja Posui adjutorium, in triplo scilicet quatuor cum proprietate et perfectione et tres et tres et tres cum proprietate etc., ut sumitur in hoc exemplo:</p>
+      <p id="GARDMMP0067">[Cserba, 202,3; text: Cernens]</p>
+      <p id="GARDMMP0068">Sequitur de modis imperfectis, quomodo et qualiter figurantur.</p>
+      <p id="GARDMMP0069">Unde primus modus figuratur hoc modo: Tres cum proprietate et perfectione cum duae et duae et tres in fine sine proprietate, ut hic patet: [137a]</p>
+      <p id="GARDMMP0070">[Cserba, 202,4; text: Audi filia]</p>
+      <p id="GARDMMP0071">Alia regula de eodem: Duae sine proprietate et debita pausatione et duae cum proprietate et pausatione debita similiter, ut hic sumitur:</p>
+      <p id="GARDMMP0072">[Cserba, 202,5; text: Agmina]</p>
+      <p id="GARDMMP0073">
+      <pb n="[203]" />Secundus modus imperfectus sumitur hoc modo: Duae, duae, duae cum proprietate et perfectione, ut in exemplo secundi modi perfecti.</p>
+      <p id="GARDMMP0074">Alia regula de eodem: duae cum proprietate et perfectione et debita pausatione, et etiam sine proprietate et cum perfectione et debita pausatione ut hic:</p>
+      <p id="GARDMMP0075">[Cserba, 203,1; text: Balaam] 
+      <figure>
+        <graphic url="/images/GARDMMP_03GF.gif" />
+      </figure></p>
+      <p id="GARDMMP0076">Aliter de eodem: Tres sine proprietate et cum perfectione et duae sine proprietate et cum proprietate et debitis pausationibus, ut hic:</p>
+      <p id="GARDMMP0077">[Cserba, 203,2; text: Omnes]</p>
+      <p id="GARDMMP0078">Tertius modus imperfectus sumitur hoc modo: Sumatur una longa cum tribus, tribus, tribus etc. cum proprietate et imperfectione et in fine duae cum [137b] proprietate et imperfectione, ut hic:</p>
+      <p id="GARDMMP0079">[Cserba, 203,3; text: Cumque]</p>
+      <p id="GARDMMP0080">Aliter de eodem: Sumatur una longa cum duabus cum proprietate et perfectione et longa pausatione, et sic quantum placuerit, ut hic:</p>
+      <p id="GARDMMP0081">[Cserba, 203,4; text: Regnat]</p>
+      <p id="GARDMMP0082">Aliter de eodem: Sumatur una longa cum tribus et una brevi in fine et debita pausatione etc.</p>
+      <p id="GARDMMP0083">[Cserba, 203,5; text: Regnat]</p>
+      <p id="GARDMMP0084">
+      <pb n="[204]" />Quartus modus sumitur multis modis, scilicet imperfectis. Et hic primo modo sic sumatur: tres, tres, tres etc. cum proprietate et perfectione et longa pausatione, ut hic patet:</p>
+      <p id="GARDMMP0085">[Cserba, 204,1; text: Regnat]</p>
+      <p id="GARDMMP0086">Aliter de eodem: Tres cum una brevi in fine et debita pausatione, et sic quantum placuerit servando imperfectionem sic:</p>
+      <p id="GARDMMP0087">[ClefF3,Lig3aart,B,2LP,L,Lig3cdsnodart,2LP,B,L,Lig3ad,B,2LP,L,B,Lig2d,2LP,Lig2art,B,2LP,L,Lig3cdsnodart,B on staff4]</p>
+      <p id="GARDMMP0088">Quintus modus imperfectus hoc modo [138a] sumitur: Omnes longae in pari numero, ut hic apparet:</p>
+      <p id="GARDMMP0089">[ClefC3,L,L,2LP,L,L,L,L,2LP,L,L,L,L,3LP,L,L,L,L,L,L,L,L on staff4]</p>
+      <p id="GARDMMP0090">Sextus modus imperfectus sumitur hoc modo: Quatuor cum plica et duae et duae cum plica et proprietate, si reducatur ad primum modum, ut hic patet:</p>
+      <p id="GARDMMP0091">[ClefF3,Lig4odaacddx,Lig2cdsndcddx,Lig2acsdx,Lig2cdsnd,Lig2acsdx,Lig2cdsnd,Lig2cdsnd,Lig2cdsndcsdx,Lig2acddx,Lig2cdsnd on staff4]</p>
+      <p id="GARDMMP0092">Si modus iste accipitur per reductionem ad secundum, talis est regula: Duae, duae, duae etc. cum proprietate et perfectione et cum plica et ultima simplici nota. Omnes breves dicuntur, ut hic apparet:</p>
+      <p id="GARDMMP0093">[ClefF3,Lig2cdsndcsdx,B,L,Lig2cdsndcsdx,Lig2acsdx,Lig2cdsndcddx,Lig2acsdx,B,L,B,L,Lig2acddx,Lig2acddx,B on staff4] Et hoc est ad propositum omnium modorum perfectorum et imperfectorum.</p>
+      <p id="GARDMMP0094">
+      <pb n="[205]" />Sequitur de quibusdam regulis communibus.</p>
+      <p id="GARDMMP0095">Unde prima regula est, quod nunquam debet poni aliqua figura sine proprietate, ubi potest poni cum proprietate.</p>
+      <p id="GARDMMP0096">Alia regula est, quod nunquam debet poni simplex vel non ligata, ubi potest poni ligata vel composita.</p>
+      <p id="GARDMMP0097">Omnis ligatarum ordinatio debet fieri per eundem ordinem compositarum, [138b] id est per eandem ligaturam.</p>
+      <p id="GARDMMP0098">Omnes voces eodem sono acceptae non possunt ligari vel facere compositam, quia omnis figura composita vel ligata dicitur ascendendo vel descendendo. Et quaecumque sunt in eodem sono, non dicuntur ascendendo vel descendendo. Ergo ex his non fit ligatura, id est figura ligata.</p>
+      <p id="GARDMMP0099">Omnis figura non ligata debet reduci ad ligatam per aequipollentiam.</p>
+      <p id="GARDMMP0100">Omnis figura ultra tres suo proprio modo reducitur ad tres. Item tres, quarum altera est simplex et duae ligatae, reducuntur ad tres ligatas per aequipollentiam, et hoc est secundum propriam proprietatem, quia reducuntur ad aliquem modum proprium.</p>
+      <p id="GARDMMP0101">Item notandum est, quod ubicumque invenitur brevium multitudo, id est semibrevium, semper participant cum praecedente, quia praecedens cum eis non reputatur in valore, nisi pro una tali sicut et praecedens.</p>
+      <p id="GARDMMP0102">[ClefC3,Lig3Lcudd,Lig3cudd,S,S,S,S,S,S,2LP,L,Lig2art,Lig4Lcuddd,Lig4Lcuddd,Lig3Lcuaa on staff4]</p>
+      <p id="GARDMMP0103">Sequitur de pausationibus.</p>
+      <p id="GARDMMP0104">Unde videndum est, quid sit pausatio. Pausatio est divisio soni facta in debita quantitate. Pausationum quaedam simplex, quaedam composita. Pausatio simplex dicitur esse, quando pausatur secundum quantitatem alicujus modi vel maneriei, ut hic:</p>
+      <p id="GARDMMP0105">[ClefC3,rob,Lig3ad,Lig2art,Lig2d,Lig2d,3LP,3LP,B,Lig3ad,2LP,L,Lig2cdsnod,Lig3ad,2LP,L,L,B,2LP,L,L on staff4]</p>
+      <p id="GARDMMP0106">
+      <pb n="[206]" />[139a] Simplicium quaedam est perfecta, quaedam imperfecta. Perfecta dicitur esse illa, quae non transmutat modum propter sui adventum. Imperfecta autem dicitur, quae transmutat modum praecedentem. Et utraque istarum pausationum patet in exemplo supra dato. Unde regula: Omnis pausatio simplex dicitur aequalis paenultimae modi praecedentis. Si autem modus ante pausationem sit perfectus, et pausatio dicitur perfecta, si vero sit imperfectus, et pausatio erit imperfecta.</p>
+      <p id="GARDMMP0107">Omnis pausatio sumitur per oppositum quoad tempus secundum modum perfectum sui modi praecedentis, vel etiam secundum numerum, quia puncti perfecti modi sunt impares et pausatio est par. Et hoc est a parte principii vel finis, sed secundum modum imperfectum a parte finis tantum et non principii. Si pausatio sit perfecta, et modus praecedens erit perfectus, si imperfecta, et modus erit imperfectus.</p>
+      <p id="GARDMMP0108">Pausatio composita vel duplex dicitur esse, quando simplex duplatur vel triplatur vel quadruplatur etc. Compositarum quaedam perfecta, quaedam vero imperfecta, ut superius simplici etc.</p>
+      <p id="GARDMMP0109">Omnis pausatio sumitur contrario modo sui modi praecedentis in primo, secundo, tertio, quarto, [139b] quinto secundum numerum et in sexto, quando reducitur ad primum vel secundum. Sed secundum suum proprium modum aequalis est principio et fini, nec recipit contrarietatem, nisi secundum numerum aliquem parem vel imparem. Et notandum, quod in omni perfecta pausatione debet naturaliter tractus et intervallum computari pro pausatione, in omni imperfecta sine intervallo debet computari.</p>
+      <p id="GARDMMP0110">Sequitur de figuris pausationum.</p>
+      <p id="GARDMMP0111">Figura pausationis est signum vel tractus significativus divisionem soni factam in debita quantitate. Pausationum quaedam dicitur recta brevis, quaedam longa, quaedam 
+      <pb n="[207]" />finis punctorum, quaedam divisio modorum, quaedam divisio syllabarum, quaedam suspiratio.</p>
+      <p id="GARDMMP0112">Recta brevis est tractus respiciens latitudinem unius spatii. Recta longa est tractus continens duo spatia vel plura.</p>
+      <p id="GARDMMP0113">Finis punctorum dicitur esse, ubi tractus respicit latitudinem omnium linearum et spatiorum.</p>
+      <p id="GARDMMP0114">Divisio modorum est tractus aliquo modo positus et hoc in superiori parte, et minor apparet recta brevi.</p>
+      <p id="GARDMMP0115">Divisio syllabarum dicitur idem, sed accipitur in inferiori parte.</p>
+      <p id="GARDMMP0116">Suspiratio dicitur esse apparens pausatio et non existens. Et hoc est supponendum, quia suspiratio potest fieri cum tractu et sine tractu, et est minor recta [140a] brevi. Et accipi hic exemplum omnium pausationum:</p>
+      <p id="GARDMMP0117">[Cserba, 207,1] 
+      <figure>
+        <graphic url="/images/GARDMMP_04GF.gif" />
+      </figure></p>
+      <p id="GARDMMP0118">Sequitur de consonantiis in eodem tempore sive in diversis temporibus in eadem voce.</p>
+      <p id="GARDMMP0119">Consonantiarum quaedam dicuntur concordantiae, quaedam discordantiae. Concordantia dicitur esse, quando duae voces junguntur in eodem tempore, ita quod una potest compati cum alia secundum auditum. Discordantia dicitur contrario modo. Concordantiarum triplex est modus, quia quaedam sunt perfectae, quaedam imperfectae, quaedam vero mediae.</p>
+      <p id="GARDMMP0120">Perfecta dicitur, quando duae voces junguntur in eodem tempore, ita quod una secundum auditum non percipitur ab alia propter concordantiam. Et dicitur aequisonantia, ut in unisono et diapason:</p>
+      <p id="GARDMMP0121">[Cserba, 207,2]</p>
+      <p id="GARDMMP0122">
+      <pb n="[208]" />Imperfectae autem dicuntur, quando duae voces junguntur ita, quod una ex toto percipitur ab alia secundum auditum et concordantiam. Et sunt duae species, scilicet ditonus et semiditonus:</p>
+      <p id="GARDMMP0123">[Cserba, 208,1]</p>
+      <p id="GARDMMP0124">Mediae autem dicuntur, quando duae voces junguntur in eodem tempore, quae neque dicuntur perfectae neque imperfectae, sed partim conveniunt cum perfectis et partim cum imperfectis. Et sunt duae species, scilicet diapente et diatesseron. [140b] Et istae duae species patent in hoc exemplo:</p>
+      <p id="GARDMMP0125">[Cserba, 208,2]</p>
+      <p id="GARDMMP0126">Sic apparet, quod VI sunt specis concordantiae, scilicet unisonus, diapason, diapente, diatesseron, semiditonus, ditonus. Et dicuntur genera generalissima omnium concordantiarum.</p>
+      <p id="GARDMMP0127">Sciendum, quod supradictae concordantiae possunt sumi in infinitum. Probatio: Primus sonus sic datus supra primum G, secundus sonus supra secundum g, quod dicitur unisonus vel aequisonantia, quod idem est. Dico, quod quidquid concordat secundo g, et primo. Probatio: Quae aequalia sunt eidem, sibi invicem sunt aequalia. Sed diapente bene concordat secundum suam speciem secundo g, ergo et primo. Et non e converso, quia si illud, quod videtur minus inesse, inest, et illud quod magis et e converso. Et omne totum ponit suas partes et non e converso, quia omne totum majus est sua parte et non e converso. Tunc dico sic: Semiditonus bene concordat secundo g, ergo et primo et non e converso per praecedentia. Et vocatur semiditonus cum diapason. Et sic de ditono, et vocatur ditonus cum diapason, et sic de aliis in infinitum ascendi potest. Et haec sufficiant de propriis concordantiis.</p>
+      <p id="GARDMMP0128">
+      <pb n="[209]" />Discordantia dicitur esse, quando [141a] duae voces junguntur in eodem tempore ita, quod secundum auditum una vox non possit compati cum alia. Discordantiarum quaedam dicuntur perfectae, quaedam imperfectae, quaedam vero mediae.</p>
+      <p id="GARDMMP0129">Perfectae dicuntur, quando duae voces non junguntur aliquo modo secundum compassionem vocum, ita quod secundum auditum una non possit compati cum alia. Et istae sunt tres species, scilicet semiditonus, tritonus, ditonus cum diapente:</p>
+      <p id="GARDMMP0130">[Cserba, 209,1] 
+      <figure>
+        <graphic url="/images/GARDMMP_05GF.gif" />
+      </figure></p>
+      <p id="GARDMMP0131">Imperfectae dicuntur, quando duae voces junguntur ita, quod secundum auditum possunt aliquo modo compati, tamen non concordant. Et sunt duae species, scilicet tonus cum diapente et semiditonus cum diapente. Et istae duae species non concordant, compatiuntur tamen, ut hic apparet:</p>
+      <p id="GARDMMP0132">[Cserba, 209,2]</p>
+      <p id="GARDMMP0133">Mediae dicuntur, quando duae voces junguntur ita, quod partim conveniunt cum perfectis, partim cum imperfectis. Et istae sunt duae species, scilicet tonus et semitonium cum diapente, ut hic patet:</p>
+      <p id="GARDMMP0134">[Cserba, 209,3]</p>
+      <p id="GARDMMP0135">Istae species dissonantiae sunt VII, scilicet semitonium, tritonus, ditonus cum diapente, tonus cum diapente, semiditonus cum diapente, tonus et semitonium cum diapente. Et possunt sumi usque in infinitum sicut et concordantiae, [141b] scilicet semitonium cum diapason, ditonus cum 
+      <pb n="[210]" />diapason, tritonus cum diapason etc. usque ad bis diapason et ulterius quantum placuerit:</p>
+      <p id="GARDMMP0136">[Cserba, 210]</p>
+      <p id="GARDMMP0137">Sequitur de consonantiis et dissonantiis, scilicet quae magis concordant et quae minus et quae magis discordant et quae minus.</p>
+      <p id="GARDMMP0138">Concordantiarum prima dicitur unisonus, quae procedit ab aequalitate immediate. Ideo meliorem cunctis concordiam habet. Secunda diapason, qui sumitur in dupla proportione, tertia est diapente, qui sumitur in sesqualtera proportione, quarta est diatesseron, qui sumitur in sesquitertia, quinta est ditonus, qui accipitur in minori superpartiente quam semiditonus, ut est super septem partiens LX quartas. Sexta est semiditonus, quia sumitur in minori superpartiente aliis sequentibus, ut est super quinque partiens vicesimas septimas.</p>
+      <p id="GARDMMP0139">Unde regula: Quae magis et a propinquiori procedunt ab aequalitate, magis concordant in sono et quae minus appropinquant aequalitati, minus concordant, ergo magis discordant secundum auditum. Sed istae VI species prius nominatae multum appropinquant ipsi aequalitati. Aliae vero septem [142a] species sequentes multum distant ab aequalitate, ergo primae sex bene concordant et dicuntur concordantiae, aliae autem non concordant, sed potius discordant, quare nominantur discordantiae.</p>
+      <p id="GARDMMP0140">Discordantiarum prima dicitur tritonus, quia magis dicitur perfecta discordantia, eo quod magis discedit ab aequalitate, quia accipitur super ducenta decem et septem partiens quingentas duodecimas, ut LXXXXIX ad quingenta XII. Secunda est semitonium, et dicitur in super tredecim CCXLIIIas, ut CCLVI ad CCXLIII. Tertia est ditonus cum diapente, et accipitur super ducentas tricesimas partiens 
+      <pb n="[211]" />CCLVI, ut CCCCLXXXVI ad CCLVI. Quarta est tonus cum diapente, et accipitur super XXIIas partiens XXXII. Quinta est semitonium cum diapente, et accipitur super CCXLII partiens CCCCLXXXVI, ut septingenta VIII ad CCCCLXXXVI. Sexta est semiditonus cum diapente, et accipitur super VII partiens nonas, ut XVI ad IX. Septima est tonus, et sumitur in sesquioctava proportione, ut IX ad VIII.</p>
+      <p id="GARDMMP0141">Sic apparent VII discordantiae, et quae earum magis discordant et quae minus. Et notandum, quod omnis discordantia ante perfectam [142b] concordantiam sive mediam aequipollet mediae. Et haec proprie sumitur ante unisonum vel diapason. Sciendum est, quod nunquam ponitur discordantia ante perfectam concordantiam nisi causa coloris musicae.</p>
+      <p id="GARDMMP0142">Haec de consonantiis sufficiant.</p>
+      <p id="GARDMMP0143">Sequitur de discantu et de ejus speciebus.</p>
+      <p id="GARDMMP0144">Discantus est aliquorum diversorum cantuum consonantia secundum modum et secundum aequipollentis aequipollentiam. Et sunt tot species, sicut et in modo a parte aequipollentis, qui dicitur secundus cantus, quot a parte tenoris, qui dicitur primus cantus. Sunt autem sex species ejus, ut dicitur.</p>
+      <p id="GARDMMP0145">Et sciendum, quod a parte primi tria sunt consideranda, scilicet sonus, ordinatio et modus. Sonus hic accipitur pro musica, ordinatio hic sumitur numerus punctorum ante pausationem, modus pro quantitate longarum vel brevium notarum. Similiter eadem a parte secundi consideranda sunt. Praeterea primus et secundus in tribus sunt consideranda, scilicet in numero, in modo et in concordantia. In numero, ut tot sint puncti secundum aequipollentiam a parte secundi, quot a parte primi vel e converso; in modo, ut sit longa contra longam vel breves aequipollentes longae; in concordantia, ut primus bene concordet secundo et e converso.</p>
+      <p id="GARDMMP0146">Unde regula: Omne quod [143a] fit in pari, debet concordari cum omni illo, quod fit in impari si sit in primo 
+      <pb n="[212]" />vel secundo vel tertio modo. Sed duo puncti sumentur hic pro uno, et aliquando unus eorum ponitur in discordantia propter colorem musicae et hic primus sive secundus. Et hoc bene permittitur ab auctoribus primis et licentiatur. Hoc autem invenitur in organo in pluribus locis et praecipue in mothetis.</p>
+      <p id="GARDMMP0147">Et notandum, quod sunt tres species discantus, aut rectus positus contra rectum, quod est prima species, aut modus per ultra mensuram ad modum per ultra mensuram, quod est secunda species, aut rectus contra per ultra mensuram, quod est tertia species.</p>
+      <p id="GARDMMP0148">Rectus ad rectum sumitur dupliciter, aut eodem ordine aut ordine converso, rectus ad rectum dupliciter, aut rectus ad seipsum aut ad reliquum.</p>
+      <p id="GARDMMP0149">Rectus ad seipsum potest combinari tripliciter secundum quod triplex est modus rectus, aut primus contra primum, ut hic patet:</p>
+      <p id="GARDMMP0150">[Cserba, 212,1] 
+      <figure>
+        <graphic url="/images/GARDMMP_06GF.gif" />
+      </figure></p>
+      <p id="GARDMMP0151">aut secundus contra secundum, ut hic:</p>
+      <p id="GARDMMP0152">[Cserba, 212,2]</p>
+      <p id="GARDMMP0153">
+      <pb n="[213]" />aut sextus contra sextum, ut hic:</p>
+      <p id="GARDMMP0154">[Cserba, 213,1]</p>
+      <p id="GARDMMP0155">Rectus contra reliquum potest dupliciter combinari vel accipi, [143b] aut primus contra sextum, aut secundus contra sextum.</p>
+      <p id="GARDMMP0156">Primus contra sextum dupliciter, aut primus in loco primi accipitur et sextus in loco secundi, ut hic apparet:</p>
+      <p id="GARDMMP0157">[Cserba, 213,2]</p>
+      <p id="GARDMMP0158">aut e converso, scilicet sextus in loco primi et primus in loco secundi, ut hic:</p>
+      <p id="GARDMMP0159">[Cserba, 213,3]</p>
+      <p id="GARDMMP0160">
+      <pb n="[214]" />Secundus contra sextum potest dupliciter combinari, aut secundus in loco primi et sextus in loco secundi:</p>
+      <p id="GARDMMP0161">[Cserba, 214,1] 
+      <figure>
+        <graphic url="/images/GARDMMP_07GF.gif" />
+      </figure></p>
+      <p id="GARDMMP0162">aut fiet e converso, scilicet sextus in loco primi et secundus in loco secundi, ut hic declaratur:</p>
+      <p id="GARDMMP0163">[Cserba, 214,2]</p>
+      <p id="GARDMMP0164">Rectus ad rectum ordine converso sumitur tripliciter, aut primus ad secundum aut primus ad sextum secundum ordinem secundi [144a] aut secundus ad sextum.</p>
+      <p id="GARDMMP0165">Primus secundo dupliciter, aut primus in loco primi et secundus in loco secundi, ut hic patet:</p>
+      <p id="GARDMMP0166">[Cserba, 214,3]</p>
+      <p id="GARDMMP0167">aut e converso, scilicet secundus in loco primi et primus in loco secundi, ut hic:</p>
+      <p id="GARDMMP0168">[Cserba, 214,4]</p>
+      <p id="GARDMMP0169">
+      <pb n="[215]" />Item primus contra sextum secundum ordinem secundi sumitur dupliciter, aut primus in loco primi et sextus in loco secundi, ut hic:</p>
+      <p id="GARDMMP0170">[Cserba, 215,1] 
+      <figure>
+        <graphic url="/images/GARDMMP_08GF.gif" />
+      </figure></p>
+      <p id="GARDMMP0171">aut e converso, scilicet sextus in loco primi et primus in loco secundi, ut hic apparet:</p>
+      <p id="GARDMMP0172">[Cserba, 215,2]</p>
+      <p id="GARDMMP0173">Secundus sexto dupliciter, aut secundus loco primi et sextus loco secundi:</p>
+      <p id="GARDMMP0174">[Cserba, 215,3]</p>
+      <p id="GARDMMP0175">aut e converso, scilicet sextus in loco primi et secundus in loco secundi, ut hic:</p>
+      <p id="GARDMMP0176">[Cserba, 215,4]</p>
+      <p id="GARDMMP0177">Modus per [144b] ultra mensuram sumitur dupliciter, aut eodem ordine, aut converso. Eodem ordine dupliciter, 
+      <pb n="[216]" />aut ad seipsum aut ad reliquum ad rectum. Ad seipsum tripliciter, aut tertius ad seipsum, ut hic patet:</p>
+      <p id="GARDMMP0178">[Cserba, 216,1] 
+      <figure>
+        <graphic url="/images/GARDMMP_09GF.gif" />
+      </figure></p>
+      <p id="GARDMMP0179">aut quartus ad seipsum, ut hic:</p>
+      <p id="GARDMMP0180">[Cserba, 216,2]</p>
+      <p id="GARDMMP0181">aut quintus contra seipsum, ut in exemplo subsequenti:</p>
+      <p id="GARDMMP0182">[Cserba, 216,3]</p>
+      <p id="GARDMMP0183">Modus per ultra mensuram ad reliquum vel ad rectum in eodem ordine sumitur dupliciter, aut tertius contra quintum, aut quartus ad quintum. Tertius ad quintum dupliciter, aut tertius in loco primi et quintus loco secundi:</p>
+      <p id="GARDMMP0184">[Cserba, 216,4]</p>
+      <p id="GARDMMP0185">
+      <pb n="[217]" />aut e converso [145a] scilicet quintus in loco primi et tertius in loco secundi, ut hic:</p>
+      <p id="GARDMMP0186">[Cserba, 217,1] 
+      <figure>
+        <graphic url="/images/GARDMMP_10GF.gif" />
+      </figure></p>
+      <p id="GARDMMP0187">Quartus contra quintum dupliciter, aut quartus in loco primi et quintus in loco secundi:</p>
+      <p id="GARDMMP0188">[Cserba, 217,2]</p>
+      <p id="GARDMMP0189">aut fiet e converso, scilicet quintus in loco primi et quartus in loco secundi, ut hic apparet:</p>
+      <p id="GARDMMP0190">[Cserba, 217,3]</p>
+      <p id="GARDMMP0191">Modus per ultra mensuram ad modum per ultra mensuram ordine converso sumitur dupliciter vel etiam tripliciter, aut tertius quarto aut tertius quinto aut quartus quinto. Tertius quarto potest dupliciter combinari, aut tertius sumetur in loco primi et quartus in loco secundi, ut in hoc exemplo apparet:</p>
+      <p id="GARDMMP0192">[Cserba, 217,4]</p>
+      <p id="GARDMMP0193">
+      <pb n="[218]" />aut e converso, [145b] scilicet quartus in loco primi et tertius in loco secundi, ut hic:</p>
+      <p id="GARDMMP0194">[Cserba, 218,1] 
+      <figure>
+        <graphic url="/images/GARDMMP_11GF.gif" />
+      </figure></p>
+      <p id="GARDMMP0195">Tertius quinto dupliciter, aut tertius in loco primi et quintus in loco secundi:</p>
+      <p id="GARDMMP0196">[Cserba, 218,2]</p>
+      <p id="GARDMMP0197">aut e converso, scilicet quintus in loco primi et tertius in loco secundi, ut hic:</p>
+      <p id="GARDMMP0198">[Cserba, 218,3]</p>
+      <p id="GARDMMP0199">Quartus contra quintum potest dupliciter combinari, aut quartus in loco primi et quintus in loco secundi, ut hic:</p>
+      <p id="GARDMMP0200">[Cserba, 218,4]</p>
+      <p id="GARDMMP0201">
+      <pb n="[219]" />aut e converso, scilicet quintus in loco [146a] primi et quartus in loco secundi, ut hic:</p>
+      <p id="GARDMMP0202">[Cserba, 219,1] 
+      <figure>
+        <graphic url="/images/GARDMMP_12GF.gif" />
+      </figure></p>
+      <p id="GARDMMP0203">Rectus modus ad modum per ultra mensuram sumitur dupliciter, aut eodem ordine aut converso. Eodem ordine dupliciter, aut par contra parem aut par contra imparem. Par contra parem potest dupliciter accipi, aut secundus quarto aut sextus quarto. Secundus quarto dupliciter, aut secundus in loco primi et quartus in loco secundi, ut hic patet:</p>
+      <p id="GARDMMP0204">[Cserba, 219,2]</p>
+      <p id="GARDMMP0205">aut fiet e converso, scilicet quartus in loco primi et secundus in loco secundi, ut hic:</p>
+      <p id="GARDMMP0206">[Cserba, 219,3]</p>
+      <p id="GARDMMP0207">
+      <pb n="[220]" />Sextus quarto dupliciter, aut sextus loco primi et quartus loco secundi</p>
+      <p id="GARDMMP0208">[Cserba, 220,1] 
+      <figure>
+        <graphic url="/images/GARDMMP_13GF.gif" />
+      </figure></p>
+      <p id="GARDMMP0209">aut fiet e converso, scilicet quartus in loco primi et sextus loco secundi:</p>
+      <p id="GARDMMP0210">[Cserba, 220,2]</p>
+      <p id="GARDMMP0211">Impar contra imparem sumitur dupliciter, aut primus tertio in tantum, quod primus aequipollet debito ordine sexto et sextus tertio mediante secundo. Et ita sumitur primus tertio, sed non proprie, sed per reductionem, aut primus quinto. Primus tertio dupliciter, aut primus in loco primi et tertius in loco secundi, ut patet in exemplo subsequenti:</p>
+      <p id="GARDMMP0212">[Cserba, 220,3]</p>
+      <p id="GARDMMP0213">aut fiet e converso, scilicet tertius in loco primi et primus in loco secundi, ut hic patet:</p>
+      <p id="GARDMMP0214">[Cserba, 220,4]</p>
+      <p id="GARDMMP0215">
+      <pb n="[221]" />[147a] Primus quinto dupliciter, aut primus loco primi et quintus loco secundi:</p>
+      <p id="GARDMMP0216">[Cserba, 221,1] 
+      <figure>
+        <graphic url="/images/GARDMMP_14GF.gif" />
+      </figure></p>
+      <p id="GARDMMP0217">aut fiet e converso, scilicet quintus in loco primi et primus in loco secundi, ut hic:</p>
+      <p id="GARDMMP0218">[Cserba, 221,2]</p>
+      <p id="GARDMMP0219">Sextus quinto dupliciter, aut sextus in loco primi et quintus in loco secundi, ut hic:</p>
+      <p id="GARDMMP0220">[Cserba, 221,3]</p>
+      <p id="GARDMMP0221">aut fiet e converso, scilicet quintus in loco primi et tertius in loco secundi, ut hic apparet:</p>
+      <p id="GARDMMP0222">[Cserba, 221,4]</p>
+      <p id="GARDMMP0223">Par contra imparem sumitur tripliciter, aut secundus contra aliquem aut quartus contra aliquem aut sextus contra aliquem. Secundus contra aliquem est dupliciter, aut secundus 
+      <pb n="[222]" />ad tertium aut idem secundus ad quintum. Secundus ad tertium potest dupliciter combinari, aut secundus in loco primi et tertius in loco secundi, ut hic patet: [147b]</p>
+      <p id="GARDMMP0224">[Cserba, 222,1] 
+      <figure>
+        <graphic url="/images/GARDMMP_15GF.gif" />
+      </figure></p>
+      <p id="GARDMMP0225">aut fiet e converso, scilicet tertius in loco primi et secundus in loco secundi, ut hic:</p>
+      <p id="GARDMMP0226">[Cserba, 222,2]</p>
+      <p id="GARDMMP0227">Secundus ad quintum potest accipi dupliciter, aut secundus loco primi et quintus loco secundi, ut hic patet:</p>
+      <p id="GARDMMP0228">[Cserba, 222,3]</p>
+      <p id="GARDMMP0229">aut e converso, scilicet quintus in loco primi et secundus in loco secundi, ut hic patet:</p>
+      <p id="GARDMMP0230">[Cserba, 222,4]</p>
+      <p id="GARDMMP0231">Quartus contra aliquem potest combinari tripliciter, aut quartus contra primum aut contra tertium aut contra 
+      <pb n="[223]" />quintum. Sed de istis nullum exemplum traditur, eo quod eorum combinatio raro alicubi reperitur.</p>
+      <p id="GARDMMP0232">Sextus contra aliquem potest [148a] combinari tripliciter, aut sextus contra primum aut contra tertium aut contra quintum. Sextus contra primum dupliciter, aut sextus loco primi et primus loco secundi, aut e converso. Sed quia horum exempla superius dantur, idcirco quoad praesens relinquantur.</p>
+      <p id="GARDMMP0233">Sextus ad tertium dupliciter, aut sextus in loco primi et tertius loco secundi, ut hic:</p>
+      <p id="GARDMMP0234">[Cserba, 223,1] 
+      <figure>
+        <graphic url="/images/GARDMMP_16GF.gif" />
+      </figure></p>
+      <p id="GARDMMP0235">aut fiet e converso, scilicet tertius in loco primi et sextus in loco secundi, ut patet in exemplo subsequenti:</p>
+      <p id="GARDMMP0236">[Cserba, 223,2]</p>
+      <p id="GARDMMP0237">Sextus contra quintum dupliciter, aut sextus in loco primi et quintus in loco secundi, ut hic:</p>
+      <p id="GARDMMP0238">[Cserba, 223,3]</p>
+      <p id="GARDMMP0239">
+      <pb n="[224]" />aut fiet e converso, scilicet quintus in loco primi et sextus in loco secundi, ut hic:</p>
+      <p id="GARDMMP0240">[Cserba, 224]</p>
+      <p id="GARDMMP0241">Et sic de singulis ad invicem secundum aequipollentiam aliquorum modorum.</p>
+      <p id="GARDMMP0242">Expliciunt omnes combinationes modorum [148b] quantum sufficit ad discantum.</p>
+      <p id="GARDMMP0243">Dicto de discantu dicendum est de copula, quae multum valet ad discantum, quia discantus nunquam perfecte scitur nisi mediante copula. Unde copula dicitur esse id, quod est inter discantum et organum. Alio modo dicitur copula: Copula est id, quod profertur recto modo aequipollente unisono. Alio modo dicitur: Copula est id, ubicumque fit multitudo punctorum. Punctus ut hic sumitur est, ubicumque fit multitudo tractuum. Et ista pars dividitur in duo aequalia. Unde prima pars dicitur antecedens, secunda vero consequens, et utraque pars continet multitudinem tractuum. Unde tractus fit, ubicumque fit multitudo specierum univoce, ut unisoni aut toni secundum numerum ordinatum ordine debito. Et haec sufficiant ad discantum.</p>
+      <p id="GARDMMP0244">Organum dicitur multipliciter, generaliter et specialiter. De organo generaliter dictum est superius, nunc autem dicendum est de ipso in speciali.</p>
+      <p id="GARDMMP0245">Organum in speciali dicitur dupliciter, aut per se aut cum alio. Organum per se dicitur id esse, quidquid profertur secundum aliquem modum rectum aut non rectum. Rectus modus sumitur hic ille, per quem discantus profertur, non rectus dicitur ad differentiam [149a] alicujus rectae, quae longae et breves rectae sumuntur debito modo primo et specialiter. In non recta vero sumitur longa et brevis non primo modo, sed ex contingenti. Organum autem 
+      <pb n="[225]" />non rectum dicitur, quidquid profertur per non rectam mensuram, ut dictum est superius. Et ejus aequipollentia tantum se tenet in unisono usque ad finem alicujus puncti, ut secum convenit secundum aliquam concordantiam. Et hoc sufficit de organo quantum ad discantum.</p>
+      <p id="GARDMMP0246">Longae et breves in organo tali modo dignoscuntur, scilicet per consonantiam, per figuram et per paenultimam. Unde regula: Omne id, quod accidit in aliquo secundum virtutem consonantiarum, dicitur longum. Alia regula: Quidquid figuratur longum secundum organa ante pausationem vel loco consonantiae, dicitur longum.</p>
+      <p id="GARDMMP0247">Alia regula: Quidquid accipitur ante longam pausationem vel ante perfectam concordantiam, dicitur esse longum.</p>
+      <p id="GARDMMP0248">Sequitur de triplicibus.</p>
+      <p id="GARDMMP0249">Triplum est commixtio trium sonorum secundum habitudinem VI concordantiarum, scilicet unisonus, diapason etc., et hoc in eodem tempore. Et ista est communis descriptio. Specialiter autem sic describitur: Triplum est cantus proportionatus aliquis conveniens et concordans cum discantu. Et sic est tertius cantus adjunctus duobus.</p>
+      <p id="GARDMMP0250">Unde prima regula: Triplum [149b] specialiter sumptum debet ex remoto concordare primo et secundo cantui, nisi fuerit concordantia insimul per sonum reductum, quod sibi aequipollet. Proprium est diapason et infra, remotum est duplex diapason et infra usque ad diapason, remotissimum est triplex diapason et infra usque ad duplex diapason. Diapason dicitur dupla, diapente cum diapason dicitur tripla, bis diapason quadrupla, diapente cum bis diapason sextupla, triplex diapason, quod vix reperitur, nisi instrumentis a flatu, dicitur octupla. Et ista probantur maxime per magnam figuram musicalem.</p>
+      <p id="GARDMMP0251">Multa in praedictis dimisimus, quae partim continentur in triplicibus nunc praepositis et partim in quaedruplicibus postpositis. Primum est de errore, secundum de eorundem colore, tertium est in positione brevium in propriis 
+      <pb n="[226]" />locis, quartum est de nobilitate soni, quintum est de dissonantia, ut sit concordantia, sextum est de copulatione soni.</p>
+      <p id="GARDMMP0252">Error tertii soni, quando ordinamus sonos male convenientes, quod per quatuor regulas cognoscimus, quarum prima talis est: Quotiens ascendimus per tonos integros et postea jungendo semitonium in tonum, convertitur et ultimus tonus in semitonium. Quod fit mediante synemmenon, ut patet in exemplo: [150a]</p>
+      <p id="GARDMMP0253">[Cserba, 226,1] 
+      <figure>
+        <graphic url="/images/GARDMMP_17GF.gif" />
+      </figure></p>
+      <p id="GARDMMP0254">Alia regula de eodem est hic: Si descendimus tonum et iterum tonum ascendimus, ibi similiter per synemmenon fiet subtractio toni vel soni, ut hic:</p>
+      <p id="GARDMMP0255">[Cserba, 226,2; text: Cuncti potens]</p>
+      <p id="GARDMMP0256">Alia regula de eodem: Quotiens ascendimus et iterum descendimus, ascensus largiatur. Et hoc fit aliquotiens per synemmenon, aliquotiens autem non, ut hic:</p>
+      <p id="GARDMMP0257">[Cserba, 226,3; text: Beata nobis]</p>
+      <p id="GARDMMP0258">Quarta regula est: Continuatio sonorum si post semitonium fit vel tonus et conveniens fit super quietem, paenultima proportio minuitur, sive fuerit semitonium vel tonus:</p>
+      <p id="GARDMMP0259">[ClefC3,L,L,L,L on staff4]</p>
+      <p id="GARDMMP0260">Istae regulae tenentur in cantu plano, sed aliquotiens restringuntur in discantu propter habitudinem concordantiae ipsius discantus, quia subtilis debet cantum suum conformare respectu superioris cantus vel inclinare vel acuere, ut melius conformetur concordantiae, inquantum poterit supradictas regulas observando.</p>
+      <p id="GARDMMP0261">Color est pulchritudo soni vel objectum auditus, per quod auditus suscipit placentiam. Et fit multis modis, aut sono ordinato, aut in florificatione soni aut in repetitione 
+      <pb n="[227]" />ejusdem vocis vel diversae. In sono ordinato fit dupliciter, aut respectu unius secundum proportionum infra diapente, ut hic:</p>
+      <p id="GARDMMP0262">[Cserba, 227,1]</p>
+      <p id="GARDMMP0263">[150b] aut respectu plurium infra diapason proprie, ut patet in exemplo, et per abundantiam usque ad triplum, et tali ordinatione utimur in instrumentis triplicibus et quadruplicibus.</p>
+      <p id="GARDMMP0264">In florificatione vocis fit color, ut commixtio in conductis simplicibus. Et fit semper ista commixtio in sonis conjunctis et non disjunctis, ut hic apparet:</p>
+      <p id="GARDMMP0265">[ClefF3,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S on staff4]</p>
+      <p id="GARDMMP0266">Repetitio ejusdem vocis est color faciens ignotum sonum esse notum, per quam notitiam auditus suscipit placentiam. Et isto modo utimur in rondellis et cantilenis vulgaribus.</p>
+      <p id="GARDMMP0267">Repetitio diversae vocis est idem sonus repetitus in tempore diverso a diversis vocibus. Et iste modus reperitur in triplicibus, quadruplicibus et conductis et multis aliis, ut patet in exemplo subposito:</p>
+      <p id="GARDMMP0268">[Cserba, 227,2]</p>
+      <p id="GARDMMP0269">Positio brevium in primo modo est, quod ipsa brevis debet sic poni in concordantia sive discordantia, ut habeat ordinationem suam cum sono anteposito et postposito et per viam alicujus coloris, sive fuerit in eadem voce sive in diversis. Et sic intellige de partibus vocis in aliis modis.</p>
+      <p id="GARDMMP0270">
+      <pb n="[228]" />Nobilitatio soni est augmentatio ejusdem vel diminutio per modum [151a] superbiae in augmentatione, ut melius videatur, in grossitudine, ut bene audiatur, in fictione, ut melius appetatur, in dimissione, ut spiritus recurventur.</p>
+      <p id="GARDMMP0271">Dissonantia ut sicut concordantia est inter duplex diapason et diapente et diapason una dissonantia vel duplex, bene concordat, ut hic:</p>
+      <p id="GARDMMP0272">[Cserba, 228]</p>
+      <p id="GARDMMP0273">Copula duplex est, una, quae est medium inter organum purum et discantum, altera est, quae fit in abscissione sonorum aut sumendo tempus post tempus et tempora post tempora. Et iste modus sumitur flaiolis. Et aliqui vocant ochetum modum istum.</p>
+      <p id="GARDMMP0274">Sequitur de quadruplicibus.</p>
+      <p id="GARDMMP0275">Sonis praepositis et praeparatis quartus superveniens in debita quantitate ordinatus, et isto modo quadruplum nuncupatur. Et sciendum, quod duplex est via quadrupli, una est secundum viam propriam, alia secundum viam communem. Et ad hoc bene percipiendum talis est noster processus.</p>
+      <p id="GARDMMP0276">Proprius situs primi dicitur diapason et infra, proprius situs secundi est in duplici diapason et infra, proprius situs tertii [151b] est in duplici diapason et infra cum commixtione VI concordantiarum sive in simplicitate sive in compositione ad utrumque, situs proprius quadrupli in triplici diapason et infra, quod vix in opere ponitur, nisi in instrumentis, ita quod longae in primo modo concordant cum omnibus praedicitis, scilicet tribus cantibus praepositis, 
+      <pb n="[229]" />sive in concordantia simplici, sive composita. Sed proprietas praedicta vix tenetur in aliquibus, quod patet in quadruplicibus magistri Perrotini per totum in principio magni voluminis. Quae quadrupla optima reperiuntur et proportionata et in colore conservata, ut manifeste ibidem patet.</p>
+      <p id="GARDMMP0277">Sed quadruplum communiter sumptum, de quo ad praesens intendimus, modum tripli in altitudine et gravitate recipit, quamvis aliquantum excedat in aliquibus locis. Et sic tale quadruplum cum tribus sibi associatis ab aliquibus duplex cantus nuncupatur, quia duo invicem nunc cum uno, nunc cum reliquo audientibus tamquam esset duplex discantus. Percipitur tamen in instrumentis maxime completis.</p>
+      <p id="GARDMMP0278">Situs proprius primi infra diapason, ut superius, situs vero secundi est infra duplex diapason et simplex diapason, tertius in triplici usque in duplici, quartus in quadruplici et infra usque in triplici, et tamen in [152a] adjutorio. Si enim aliquis cantus transcendat per acutum et grave suum diapason respectu soni infimi, unus intrat alium per viam accomodationis secundum quod necesse fuerit. Sed quia vox humana ad talia non ascendit, ideo quiescamus infra duplex diapente, si possibilitas sit in voce, et procedamus in praedicta quadrupla per ejus regulas.</p>
+      <p id="GARDMMP0279">Unde prima regula est, quod si sit de primo modo, ponendae sunt omnes longae in concordantia cum omnibus longis trium subpositorum ut diximus, suo modo.</p>
+      <p id="GARDMMP0280">Alia regula: Si ascendis cum uno vel descendis una proportione, vel duas ascende postea vel descende cum reliquo, et sic mutando descensionem vel ascensionem nunc cum uno nunc cum reliquo, donec veniat ad finem. Et eodem modo intellige de omnibus aliis.</p>
+      <p id="GARDMMP0281">Tertia regula est: Pone colores loco sonorum proportionator ignotorum, et quanto magis colores, tanto sonus erit magis notus. Et si fuerit notus, erit placens. Item loco coloris in regione cujuslibet pone cantilenam notam copulam vel punctum vel descensum vel ascensum alicujus instrumenti vel clausam lay.</p>
+      <p id="GARDMMP0282">Haec positio Johannis dicti de Garlandia de musica mensurabili. Hanc declarans subsequitur positio 
+      <pb n="[230]" />[152b] tertia, Johannis videlicet de Burgundia, ut ex ore ipsius audivimus, vel secundum vulgarem opinionem Franconis de Colonia, quae talis est.</p>
+    </body>
+  </text>
+</TEI>

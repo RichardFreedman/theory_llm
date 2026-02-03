@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>[De discantu et contranota]</title>
+        <title type="abbrev">ANODDCS</title>
+        <author>Anonymous</author>
+        <date notBefore="1300" notAfter="1399">14th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Peter M. Lefferts</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Elisabeth Honn</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1997</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Manfred Bukofzer, 
+<emph>Geschichte des englischen Diskants und des Fauxbourdons nach den theoretischen Quellen</emph>, Sammlung musikwissenschaftlicher Abhandlungen, Band 21 (Strassbourg: Heitz, 1936), 141.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: Tractatus de contrapuncto</title>
+          
+<idno type="LML">CONTR. Septem s. conc.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">GB-Lbl Add. 21455, 11</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANODDCS0001">
+      <pb n="[141]" />(fol. 11) Septem sunt concordancie in discantu, videlicet unisonus, tercia, quinta, sexta, octava, decima, duodecima. Et debes incipere et finire per unam notam perfectam. Enim (?) non debes facere duas vel tres concordancias perfectas que sunt similes, unam post (aliam) in una regula, nec duos vel tres unisonos ne(c) quintas nec octavas vel duodecimas. Sed potes facere unum unisonum, unam quintam, unam octavam et unam duodecimam unam post aliam in una regula. Et si debes facere unam octavam post sextam, tunc potes facere duas vel tres concordancias imperfectas unam post aliam in una regula ascendendo vel descendendo. Sed non debes ascendere nec descendere cum plano cantu in concordanciis perfectis, sed in concordanciis imperfectis potes bene ascendere vel descendere ad libitum tuum.</p>
+      <p id="ANODDCS0002">Ista sufficiunt de discantu et contranota.</p>
+    </body>
+  </text>
+</TEI>

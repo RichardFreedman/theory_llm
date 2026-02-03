@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>De figuris</title>
+        <title type="abbrev">ANODEF</title>
+        <author>Anonymous</author>
+        <date notBefore="1300" notAfter="1399">14th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Stephen E. Hayes</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Peter M. Lefferts</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Luminita Florea Aluas</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>92</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>Johannis de Muris Notitia artis musicae et Compendium musicae practicae</emph>; 
+<emph>Petrus de Sancto Dionysio Tractatus de musica</emph>, ed. Ulrich Michels, Corpus scriptorum de musica, vol. 17 ([Rome]: American Institute of Musicology, 1972), 160–66. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: Tractatus de musica mensurabili</title>
+          
+<idno type="LML">MENS. Omnis nota in</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">I-Vnm Lat. Cl. VIII.82 (3047), 75-76</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">US-Wc ML 171 J 6 Case, 102v-109r</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Sc L.V.30, 132r-133r</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANODEF0001">
+      <pb n="[160]" />De figuris.</p>
+      <p id="ANODEF0002">Duplex est notula, ligata scilicet et non ligata. Notularum non ligatarum quatuor sunt species, scilicet longa: [MX,MX,L], brevis: [B,B,B], semibrevis: [S,S,S] et minima: [M,M,M]. Longa dividitur in triplicem longam, dulplicem et simplicem. Longa triplex et duplex eodem modo formatur, ut hic: [MX,MXpssncsdx,pt]. Longa triplex valet novem tempora et cognoscitur sic: [MX,MX,MX]. Longa duplex alia perfecta et valet sex tempora, ut hic: [MX,L,L,L,MX], alia imperfecta et valet quatuor tempora, ut hic: [MX,L,MX,L]. Longa simplex alia perfecta et valet tria tempora et cognoscitur quatuor modis, ut hic: [L,L,L,pt,L,pt,L,B,B,B,pt,L,pt,L,B,B,L], alia imperfecta et valet duo tempora et cognoscitur duobus modis, ut hic: [pt,L,L,pt,B,L].</p>
+      <p id="ANODEF0003">Notandum autem est, quod omnis nota perfecta potest imperfici minore tam valore quam figuratione sequente vel praecedente, ut hic: [MX,L,pt,L,B,pt,L,S,pt,L,M,pt,B,S,pt,B,M,pt,S,M,pt,B,L,pt,S,B,pt,M,S]. Brevis autem vocatur tempus, sed illud tempus dividitur in tempus perfectum et imperfectum.</p>
+      <p id="ANODEF0004">Tempus perfectum sive brevis perfecta, quod idem est, valet tres semibreves, 
+      <pb n="[161]" />ut hic: [B,S,S,S,B]. Brevis imperfecta valet duas semibreves, ut hic: [B,S,S,B]. Nota, quod quando duae breves reperiuntur inter duas longas perfectas, ultima brevis causa perfectionis alteratur, id est duplicat valorem suum, et sic quaelibet nota potest alterari, ut hic:</p>
+      <p id="ANODEF0005">[MX,L,L,MX,L,Bcdsn,B,L,B,S,S,B,S,M,M,S] nisi per divisionem modi aliter distinguatur, ut hic: [L,B,pt,B,L,B,S,pt,S,B,S,M,pt,M,S]</p>
+      <p id="ANODEF0006">Semibrevis minoris prolationis valet tres minimas, ut hic: [pt,M,M,M]; sed quando est minoris prolationis tunc valet duas minimas, ut hic: [S,M,M,S,M,M]. Aliqui ponunt quatuor semiminimas pro tribus minimis diversimode tamen figuratas, ut hic:</p>
+      <p id="ANODEF0007">[S,M,M,M,S,Mv,Mv,Mv,Mv,S,SMvxrt,SMvxrt,SMvxrt,S].</p>
+      <p id="ANODEF0008">De ligaturis</p>
+      <p id="ANODEF0009">Notularum ligatarum aliae primae, aliae mediae, aliae ultimae. Primarum quaedam tendunt ascendere, quaedam descendere. Quandocumque prima nota ligaturae ascendentis caret tractu vel tractum habet a parte sinistra descendentem, prima est brevis, ut hic: [Lig2a,Lig4cdsnadod on staff1]. Si tractum habeat a parte dextera, prima longa est, ut hic: [Lig4Ladod on staff1]. Si vero prima nota 
+      <pb n="[162]" />ligaturae descendentis tractu careat, longa dicitur, ut hic: [Lig3dod,Lig3dd on staff1]. Nota, quod quando prima nota ligaturae tam ascendentis quam descendentis habet trac-tum a parte sinistra ascendentem, duae primae dicuntur semibreves, ut hic: [Lig3cssnaa,Lig2cssnod,Lig3cssndod,Lig2cssnd,Lig3cssndd,Lig4cssnodaod on staff1]</p>
+      <p id="ANODEF0010">Omnes mediae breves sunt, nisi secunda totius ligaturea semibrevis sit.</p>
+      <p id="ANODEF0011">Ultimarum quaedam sub, quaedam supra paenultimas finiuntur; si supra, hoc est dupliciter: aut stat recte supra paenultimam, sic est longa, ut hic: [Lig6aadodart on staff1], aut obliquo, sic est brevis, ut hic: [Lig5adoda on staff1].</p>
+      <p id="ANODEF0012">Si sub paenultimis, hoc est dupliciter, quia aut quadrata sub paenultima reperitur, sic est longa, ut hic: [Lig3cdsndd on staff1], aut paenultima et ultima uno corpore formantur, sic est brevis, ut hic: [Lig4adod on staff1].</p>
+      <p id="ANODEF0013">
+      <pb n="[163]" />Nota, quod brevis ita potest alterari et imperfici in notis ligatis quam notis per se stantibus.</p>
+      <p id="ANODEF0014">De pausis</p>
+      <p id="ANODEF0015">Quot spatia linea continet, tot tempora omissa valet. Et si parvam partem de duobus spatiis contineat, semibrevem perfectam repraesentat. Et si parvam partem unius spatii contineat, ita quod tangat lineam et sub linea reperiatur, semibrevem imperfectam repraesentat. Si autem supra lineam medium spatium contineat, minimam repraesentat, et ista patent in hoc manifeste exemplo, ut hic:</p>
+      <p id="ANODEF0016">[CSM17:163; text: Longa, Brevis, Semibrevis perfecta, Semibrevis imperfecta, Minima] 
+      <figure>
+        <graphic url="/images/ANODEF_01GF.gif" />
+      </figure></p>
+      <p id="ANODEF0017">
+      <pb n="[164]" />Sciendum est, quod sex sunt nomina vocum, scilicet ut re mi fa sol la Et qualiter formantur sex motus ista sex vocum, plane per hos versus declarantur:</p>
+      <p id="ANODEF0018">His sex formantur sex motus et variantur,</p>
+      <p id="ANODEF0019">Ut cum re plene modulatur, mi quoque cum re</p>
+      <p id="ANODEF0020">Voce sonat plena, fa cum sol, sol quoque cum la,</p>
+      <p id="ANODEF0021">Dantque semi mi fa nec sit plenus tonus infra.</p>
+      <p id="ANODEF0022">B [sqb] quadrum significat C naturam, F quoque b molle.</p>
+      <p id="ANODEF0023">De figuris</p>
+      <p id="ANODEF0024">Omnis nota in cantu mensurato vel est longa vel brevis vel semibrevis. Longa formatur cum filo a parte dextra, sic: [L] vel sic: [Bcsdx] vel sic: [Bcssncddx].</p>
+      <p id="ANODEF0025">Brevis formatur sine filo, sic: [B], vel cum filo a pate sinistra, ut hic: [B] vel sic: [Bcssn]. Semibrevis formatur sic: [S,S,S,S].</p>
+      <p id="ANODEF0026">Partes autem prolationis sunt sex, scilicet maxima, longa, brevis, semibrevis, minor et minima.</p>
+      <p id="ANODEF0027">Maxima figuratur quadrilatera inaequilatera dextrorsum proprietate signata sursum vel deorsum, ut hic: [MX,MXcsdx]. Longa, brevis et semibrevis ut supra signatum. Minor figuratur obtusa sursum proprietate signata, summitate proprietatis pro divisione duplicis proportionis dextrorsum inclinata, ut hic: [SMvxrt,SMvxrt,SMvxrt],</p>
+      <p id="ANODEF0028">et pro sesquialtera proportione figuratur obtusa sursum proprietate signata summitate proprietatis sinistrorsum inclinata, ut hic: [SMvxrtsn,SMvxrtsn,SMvxrtsn].</p>
+      <p id="ANODEF0029">
+      <pb n="[165]" />Item de ligaturis.</p>
+      <p id="ANODEF0030">In ligaturis est autem ista regula: Quandocumque prima nota ligaturae descendit et non habet filum, est longa, ut hic infra: [Lig3dd,Lig3dod,Lig2od on staff4]. Item si ultima descendit, si est quadrata, est longa, ut hic patet: [Lig2d,Lig2cdsnd,Lig2cdsnd on staff4].</p>
+      <p id="ANODEF0031">Item quandocumque filum ascendens est in principio cuiuscumque ligaturae, semper sunt duae primae semibreves, ut hic patet: [Lig3cssnoda,Lig2cssna,Lig2cssnd on staff4]</p>
+      <p id="ANODEF0032">Item quandocumque ultima nota ligaturae ascendit, si est versa ad sinistram, est longa, ut hic: [Lig2art,Lig3aart on staff2]. Omnes aliae notae, de quibus non fit mentio hic, quarumcumque ligaturarum sunt breves, ut hic patet: [Lig5cdsndaaod,Lig5adoda,Lig2a,Lig2cdsnod; Lig5cdsndaad,Lig5adoda,Lig2a,Lig2cdsnod on staff4]</p>
+      <p id="ANODEF0033">Longa ante longam valet tria tempora, ut hic videlicet: [L,L,Lig2d,Bcssncsdx,Bcssn on staff3]. Item longa ante duas breves vel ante tres solas valet tria tempora, ut hic: [L,B,B,L,B,B,B,L]. Item quandocumque punctus ponitur post longam, valet tria tempora, ut hic: [L,pt,Lig2d,pt,Lig2art,pt,Lig3odart,pt on staff4]. Quando autem longa nota est ante unam solam brevem vel plures semibreves, tunc longa valet duo tempora, ut hic patet: [L,B,L,S,S,B,Lig2cdsnod,L,S,S,S,L on staff4]. Item longa valet semper duo tempora vel tria nec plus nec minus. Item brevis valet unum tempus. Sed quando sunt solum duae breves, tunc secunda valet duo tempora, ut hic patet: [B,B,L,Lig2cdsnod,L,B,Lig3ad,Bcssncddx,B,B,L on staff4]. Semibreves aliquando duae, aliquando tres, 
+      <pb n="[166]" />aliquando quatuor ponuntur pro uno tempore et distinguuntur per punctos, ut hic patet: [S,S,pt,S,S,S,pt,S,S,S,S,pt on staff4]. Semibrevis sola numquam ponitur.</p>
+      <p id="ANODEF0034">Pausa, quae tenet tria spatia, valet tria tempora, illae, quae tenent duo, duo tempora valent, quae tenent unum, unum valent, ut hic:</p>
+      <p id="ANODEF0035">[3LP,2LP,2LP,BP,BP,BP on staff4].</p>
+      <p id="ANODEF0036">Modi sunt quinque. Primus modus procedit ex una brevi et longa, ut hic in exemplo patet: [L,B,L,Lig3ad on staff2], etiam ex omnibus longis, ut hic infra patet [Bcsdx,L,Lig2d,L on staff3]. Secundus modus ex brevi et longa, ut hic patet: [B,L,Lig2cdsnd,Lig2a,Lig2art on staff3] Tertius ex longa et duabus brevibus, ut hic: [L,B,B,L]. Quartus ex duabus brevibus et longa, ut hic: [B,B,L]. Quintus ex brevibus et semibrevibus, ut hic: [B,B,S,S,S,S,B]</p>
+      <p id="ANODEF0037">Item paenultima nota semper est longa vel pro longa. Item nota duplex longa valet sex tempora, ut hic: [MX,MXcsdx,B,B,B,B,B,B], si tamen est de modo perfecto. Si autem est de modo imperfecto, non valet nisi quatuor tempora, ut hic: [MX,MXcsdx,B,B,B,B,B,B]. Longa autem simplex valet tria tempora, si est de modo perfecto, ut hic: [L,L,L,B,B,B,L].</p>
+      <p id="ANODEF0038">Explicit ars cantus fratris Petri de Dancto Dionysio, quam scripsit dominus Johannes Franciscus Praeottonus de Papia.</p>
+    </body>
+  </text>
+</TEI>

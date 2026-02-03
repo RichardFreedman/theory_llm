@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Et octo tonorum incipit tractatus metricus</title>
+        <title type="abbrev">ANOOCTT_MLBLL763</title>
+        <author>Anonymous</author>
+        <date notBefore="1300" notAfter="1399">14th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>T</resp>
+        <persName>Peter M. Lefferts</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Michael W. Lundell</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1996</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+London, British Library, MS Lansdowne 763, f. 68v.
+</bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANOOCTT_MLBLL7630001">
+      <pb n="[f.[[67]]68v]" />Et octo tonorum incipit tractatus metricus.</p>
+      <p id="ANOOCTT_MLBLL7630002">Primus est tonus Re La. Re Fa. quoque secundus.</p>
+      <p id="ANOOCTT_MLBLL7630003">Tercius est tonus Mi La. Mi Fa. quoque quartus.</p>
+      <p id="ANOOCTT_MLBLL7630004">Quintus est tonus Fa Fa Fa La quoque sextus.</p>
+      <p id="ANOOCTT_MLBLL7630005">Septimus est Vt Sol. Octauus dicitur Vt Fa.</p>
+      <p id="ANOOCTT_MLBLL7630006">Primus cum sexto. Fa Sol La. semper habeto.</p>
+      <p id="ANOOCTT_MLBLL7630007">Tercius et octauus Vt Re Fa. sic que secundus.</p>
+      <p id="ANOOCTT_MLBLL7630008">La Sol La. quartus Vt Mi Sol. sit tibi quintus.</p>
+      <p id="ANOOCTT_MLBLL7630009">Septimus Mi Fa Sol. sic omnes esse recordor</p>
+      <p id="ANOOCTT_MLBLL7630010">Primus dat nouem [.9. supra lin.]. binos [.2. supra lin.] retinet que secundus</p>
+      <p id="ANOOCTT_MLBLL7630011">Tercius sex [.6. supra lin.] prebet. Quartus quoque dat tibi nouem [.9. supra lin.].</p>
+      <p id="ANOOCTT_MLBLL7630012">Tres [.3. supra lin.] prebet quintus. Vnam [.1. supra lin.] sextus manifestat.</p>
+      <p id="ANOOCTT_MLBLL7630013">Septimus septem [.7. supra lin.] dat. dat et octauus tibi quinque [.5. supra lin.].</p>
+      <p id="ANOOCTT_MLBLL7630014">[Per istam formulam demonstratur quis modus recipit b mollem et [sqb] quadratum. et de limitibus regularibus eleuacionum et deposicionum tonorum siue modorum. in marg.]</p>
+      <p id="ANOOCTT_MLBLL7630015">Dant duo Re duo Mi duo Fa duo Sol tibi toni.</p>
+      <p id="ANOOCTT_MLBLL7630016">d Prothus. C. D. E. F. g. a. b. [sqb]. c. d.</p>
+      <p id="ANOOCTT_MLBLL7630017">D Plaga proti. [Gamma]. A. [sqb]. C. D. E. F. g. a. b.</p>
+      <p id="ANOOCTT_MLBLL7630018">e Deutrus. D. E. F. g. a. b. c. d. e.</p>
+      <p id="ANOOCTT_MLBLL7630019">E Plaga deutri. [sqb]. C. D. E. F. g. a. b. [sqb]. c.</p>
+      <p id="ANOOCTT_MLBLL7630020">f Tritus. D. E. F. g. a. b. [sqb]. c. d. e. f.</p>
+      <p id="ANOOCTT_MLBLL7630021">F Plaga Triti. C. D. E. F. g. a. b. c. d.</p>
+      <p id="ANOOCTT_MLBLL7630022">g Tetrardus. F. g. a. [sqb]. c. d. e. f. g.</p>
+      <p id="ANOOCTT_MLBLL7630023">G Plaga Tetrardi. C. D. E. F. g. a. [sqb]. c. d. e.</p>
+    </body>
+  </text>
+</TEI>

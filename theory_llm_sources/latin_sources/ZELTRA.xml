@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Tractatus de cantu perfecto et imperfecto</title>
+        <title type="abbrev">ZELTRA</title>
+        <author>Henricus de Zelandia</author>
+        <date notBefore="1300" notAfter="1399">14th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>C. Matthew Balensuela</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Luminita Florea Aluas</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Albert C. Rotola</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>S.J.</persName>
+      </respStmt>
+      <date>1991</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>Scriptorum de musica medii aevi nova series a Gerbertina altera</emph>, 4 vols., ed. Edmond de Coussemaker (Paris: Durand, 1864-76; reprint ed., Hildesheim: Olms, 1963), 3:113–15.
+</bibl>
+        <bibl type="work">
+          
+<title>Henricus de Zelandia: Tractatus de cantu perfecto et imperfecto</title>
+          
+<idno type="LML">HENR. ZEL.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">CZ-Pu XI. E. 9 (2056), 243r-v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">CZ-Pu XI. E. 9 (2056), 246v-247</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ZELTRA0001">
+      <pb n="[113]" />Henrici de Zelandia</p>
+      <p id="ZELTRA0002">Tractatus de cantu perfecto et imperfecto</p>
+      <p id="ZELTRA0003">Gaudent musicorum discipuli, quod Henricus de Zeelandia aliqua brevia tractat de musica: videlicet quid sint proportiones et in quo fuerint.</p>
+      <p id="ZELTRA0004">Primo videndum est quod septem sunt proportiones seu concordantie: videlicet unisonus, tertia, quinta, sexta, octava, decima et duodecima. Iste proportiones possunt dividi et dividuntur tredecim cordis, in septem concordantiis et in sex discordantiis. Sex concordantie sunt: unisonus, ditonus, semiditonus, dyapente, tonus cum dyapente, et diapason. Septem discordantie sunt: semitonus, tonus, tritonus, diatessaron, semitonus cum dyapente, ditonus cum dyapente, semiditonus cum dyapente.</p>
+      <p id="ZELTRA0005">Istrum proportionum seu concordantiarum quedam sunt perfecte. quedam imperfecte et quedam medie. Perfecte sunt: unisonus, octava, quoniam he naturaliter concordant. Imperfecte sunt: tertia, sexta et decima. Medie sunt: quinta et duodecima, quoniam he minus sunt quam perfecte et minus quam imperfecte.</p>
+      <p id="ZELTRA0006">Unisonus est duarum vocum ad invicem ordinataram in eadem linea vel eodem spatio. Tertia est tertia vox supra tenorem; et est duplex: ditonalis et semiditonalis. Ditonalis est que tenet in se duos tonos perfectos, exemplum sicut fa la. Semitonalis est illa que tenet in se tonum et semitonum . exemplum sicut re fa. Et est 
+      <pb n="[114]" />videndum quod tonus est ubi fit ascensus vel descensus immediate, exemplum: re, mi, re. Sed semitonus est, ubi dicitur fa, mi, et contra. Quinta est quinta vox supra tenorem, quia quinque voces tenet in se, tres tonos cum semitono, sicut re, la. Sexta est sexta vox supra tenorem, quia sex voces tenet in se, quatuor tonos cum semitono, sicut re de natura in D sol, re, mi, et [sqb], in b fa, [sqb] mi. Octava est octava vox supra tenorem, quia octo voces tenet in se, quinque tonos perfectos cum duobus semitonis; non quidem illi duo semitoni pro tono debent computari. Decima est decima vox supra tenorem, et fit ex tertia. Duodecima est duodecima vox supra tenorem, et fit ex quinta.</p>
+      <p id="ZELTRA0007">Est videndum quid sit musica. Musica est varia vocum ordinatio ad invicem. Est notandum quod in musica reperitur una duplex octava cum una sexta. Item dividuntur duo signa, nempe b et [sqb].</p>
+      <p id="ZELTRA0008">Et notandum quod omnis discantus debet incipi et finiri in perfectis vel in mediis. Item quod due perfecte vel plures possunt similiter poni ascendendo vel descendendo, sine media vel imperfecta interposita.</p>
+      <p id="ZELTRA0009">Et est notandum, quod sex sunt gradus per quos tota ars musica canitur nempe ut, re, mi, fa, sol, la, etc. Et scala ejus manus sinistra in qua ponuntur gradus, et est arbor musice de qua accipimus fructum per remos, per quem fructum et quos ramos addiscimus cantare; hinc rami ejus sunt digiti, et fructus ejus sunt note, etc.</p>
+      <p id="ZELTRA0010">Ille dicitur cantus proprie artificialis et non usualis unde versus:</p>
+      <p id="ZELTRA0011">Bestia non cantor qui non canit arte, sed usu;</p>
+      <p id="ZELTRA0012">Non vox cantorem facit arti, sed documentum.</p>
+      <p id="ZELTRA0013">Itaque ars non fit ad voluntatem, sed ad rationem, quia, si ars fieret ad voluntatem, tunc nihil reputaretur; si fit ad rationem, ostendit quod reddamus rationem per quemlibet cantum et per quaslibet notas, etc.</p>
+      <p id="ZELTRA0014">Incipit nova recollectio plane musice secundum modernos. Primo queritur unde oritur demonstratio toni et semitoni ad tonum a ad b, ad semitonium b ad c, c ad d tonum, et sic de singulis. Tonus habet compunctos quatuor, nempe ut, re, fa, sol, la, in ascendendo et descendendo; semitonus habet compunctum unum, nempe ostendit mi, fa, etc.</p>
+      <p id="ZELTRA0015">Tonus dicitur a tonando, id est a sonando, quia sonus in una corda potest fieri; tonus fit in duabus et ideo duo simul stantes faciunt tonum. Ditonus dicitur, quasi divisio, id est de duobus tonis, quia duo toni similiter stantes faciunt ditonum. Semiditonus constat ex tono cum semitono; habet compunctos duos, nempe re, fa, mi, sol. Semiditonus dicitur quia medius est ditonus et non plenus est ditonus. Dyatessaron grece dicitur, quatuor latine, quod constat ex quatuor tonis, ex duobus tonis et semitono. Dyapente grece dicitur, quinque latine, quia constat ex quinque sonis, id est ex tribus tonis cum semitono. Dyapason grece dicitur, a dya et pason grece et octo latine, quia constat ex octo vocibus.</p>
+      <p id="ZELTRA0016">Item notandum est quod mutatio fuit inventa causa necessitatis, quia non possumus ascendere supra la nec descendere sub ut. Et ideo fuit inventa causa necessitatis, ut ait Boetius, in prima regula, cum dicit, quod mutatio est divisio vocis, videlicet dimittere unam et aliam accipere, et commutatio armonica unitas.</p>
+      <p id="ZELTRA0017">Regule plane musice, videlicet reformatio que incipit in C, cantatur per naturum. Omnis reformatio que incipit in F, cantatur per b molle; reformatio que incipit in G, cantatur per quadrum, unde versus:</p>
+      <p id="ZELTRA0018">C naturam dat, F b molle tibi signat.</p>
+      <p id="ZELTRA0019">G durum, quia semper cantat quoque durum.</p>
+      <p id="ZELTRA0020">
+      <pb n="[115]" />Quid est semitonus? Semitonus est medius Notandum quid est tonus. Tonus est plenus sonus, sed non omnis sonus est plenus tonus. tonus, et dicitur semitonus a semis, sema, semum. Ditonus idem est quod duo toni, sicut: ut mi, fa la. Semiditonus est tonus cum semitono sicut: re fa, mi sol. Dyatessaron est quarta nota, sicut: mi la. Dyapente est quinta nota, sicut: ut sol, re la. Dyapason est octava nota, sicut: de C gravi in c acutam, et habet compunctum quinque tonorum et duo semitonia.</p>
+      <p id="ZELTRA0021">Notandum quod, si cantus venit ex parte inferiori vel superiori, et ascendit usque ad [sqb] quadrum vel durum acutum et non ad c, cumque descendit in F grave, tunc cantatur per quadrum, (per b molle?) specialiter quum cantus cantatur superiore parte.</p>
+      <p id="ZELTRA0022">Notandum quod omnis cantus regularis debet quatuor litteris scilicet D grave, in E grave, in F grave et in G grave; et omnes cantus irregularis debet finiri in aliis tribus litteris sciticet: a acuto, b acuto et c acuto.</p>
+      <p id="ZELTRA0023">Notandum quod quando cantus non potest salvari per litteras inferiores, mutetur et cantetur per litteras superiores, verbi gratia: b habet societatem cum a et cum b et sic de singulis.</p>
+      <p id="ZELTRA0024">Notandum quod autentici toni possunt ascendere supra suum finalem usque ad octavam vel nonam cordam regulariter, licentiaiiter vero ad decimam vel undecimam, et descendere sub suo finali unam vel duas, non plus regulariter; et sic de omnibus autenticis qui eodem modo se habent.</p>
+      <p id="ZELTRA0025">Notandum quod plagales toni possunt ascendere supra suum finalem usque ad quintam vel sextam vocem regulariter, licentialiter vero ad septimam, quod raro fit, et descendere sub suo finali ad quartam cordam vel quintam; et sic de omnibus plagalibus qui eodem modo se habent.</p>
+      <p id="ZELTRA0026">Notandum quod omnis cantus qui ascendit usque ad quartam, vel quintam vocem supra suam octavam et sub suo finali descendit ad quartam vel quintam vocem, non dicitur autenticus nec plagalis, sed dicitur mixtus ut in responsorio: Hinc liberiori pratico; et sic de singulis.</p>
+      <p id="ZELTRA0027">Finales cum sexto, fa sol la, semper habeto.</p>
+      <p id="ZELTRA0028">Tertius, octavus, ut re fa, sicque secundus</p>
+      <p id="ZELTRA0029">La sol la, quartus; ut mi sol, sit tibi quintus;</p>
+      <p id="ZELTRA0030">Septimus mi fa sol, sic omnibus esse recordor.</p>
+      <p id="ZELTRA0031">Notandum quod septem sunt species discantus quibus discantans frequentur debet uti, videlicet: unisonus, tertia, quinta, sexta, octava, decima et duodecima, quarum quatuor, sunt perfecte et tres imperfecte. Perfecte sunt unisonus, quinta, octava et duodecima.</p>
+      <p id="ZELTRA0032">Et notandum quod omnis discantus incipere simul debeat ex specie perfecta.</p>
+      <p id="ZELTRA0033">Item due species perfecte similes nunquam consequenter venire possunt; sed due species non similes due vel plures bene consequenter possunt venire et ascendendo vel descendendo; sed nunquam respectu ejusdem linee vel spatii.</p>
+      <p id="ZELTRA0034">Item quum principalis cantus ascendit, discantus debet descendere, et contra.</p>
+      <p id="ZELTRA0035">Item cantus principalis est equalis, videlicet quum due vel plures fa vel sol, et sic de aliis, simul veniunt, et ad placitum discantatur discantantis.</p>
+      <p id="ZELTRA0036">Et discantus sepe debet uti speciebus propinquioribus.</p>
+      <p id="ZELTRA0037">Et mi nunquam in discantu stare debet contra fa in specie perfecta</p>
+    </body>
+  </text>
+</TEI>

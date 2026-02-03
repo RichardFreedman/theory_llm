@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>[Tractatulus de musica]</title>
+        <title type="abbrev">ANOCADI</title>
+        <author>Anonymous</author>
+        <date notBefore="1200" notAfter="1299">13th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Stephen E. Hayes</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Peter M. Lefferts</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Andreas Giger</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1996</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Marie Louise Göllner, ed., 
+<emph>The Manuscript Cod. lat. 5539 of the Bavarian State Library</emph>, Musicological Studies and Documents, vol. 43 (Neuhausen-Stuttgart: Hänssler-Verlag, American Institute of Musicology, 1993), 110–13. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANOCADI0001">
+      <pb n="[110]" />[MSD43:110; text: [fol. 189r] Cantus dicitur autenticus melodia cuius diapente recipit inferius et dyatesseron superius. Recipit e converso plagalis dyatesseron inferius et dyapente superius. Communis vero cantus est, qui autentico et plagali semper commune vel medium percurrit dyapente, aut aeque progreditur utrobique. Est autem cantus indifferens, qui chordas indifferenter omnes autentici tangit et plagalis. Prothus indifferens constat ex omnibus primis chordis et speciebus. f 189v, Deutrus ex omnibus secundis chordis et speciebus. Tritus ex, a, [sqb], c, d, e, f, g, D, E, F, G] 
+      <figure>
+        <graphic url="/images/ANOCADI_01GF.gif" />
+      </figure></p>
+      <p id="ANOCADI0002">
+      <pb n="[111]" />[MSD43:111; text: omnibus tertiis. Tetrardus ex omnibus quartis. Sed omnium finales, D. E. F. G. sunt graves. Dyatesseron et dyapente symphoniae pariter coniunctae intensae atque remissae, reddunt consona modulatione dyapason, qui continet in se legem totius harmoniae. Per quam reddimus laudes regi regum, regnanti per saecula saeculorum. Articulos senos monacho guidone repertos: ut, re, mi, fa, sol, la, repetitos per monochorda. f 190r, Conspicis incepta dumtaxat habere quaterna, Gamma tenens unum, .C. et inde .G. ac .c. acutum. Quae licet intendas tibi fiunt sive remittas. Excipe cantus ea duo quae reddant synemena. Ordine sed tali fidibus sunt denique dandi: Gamma re ut, A re mi, B fa H mi, C ut fa sol; Et D la re sol, E mi la, F ut fa, G ut re sol; hinc a la re mi, b fa h mi, c ut fa sol, d la sol re; e mi la, f fa, g sol, a la recipit dupplicata. a, [sqb], c, d, e, f, g, D, E, F, G] 
+      <figure>
+        <graphic url="/images/ANOCADI_02GF.gif" />
+      </figure></p>
+      <p id="ANOCADI0003">
+      <pb n="[112]" />[MSD43:112; text: dupplicata. Nonus passus circini inter magdas monochordi, notat tonum, quartus semitonium, f 190v, vel dyatesseron, tertius dyapente, secundus dyapason. Lege planetarum, septem discrimina vocum. Pulsu seu flatu vel tinnitu resonabunt: Semitonium, Tonus, Semiditonus, Dytonus, Dyatesseron, Dyapente, Dyapason. Duppla proportio recipit in monochordo species octo; Sesqualtera quatuor; Sesquitertia octo; Epogdoa duodecim. Ex hiis quatuor autentici colliguntur, et plagales eiusdem numeri: Dorius, Ypodorius, Frigius, Ypofrigius, Lidius, Ypolidius, Mixolidius, Ypomixolidius. f 191r, Saeculorum amen horum, Primus et quartus, et sextus, in acuto .a. incipiunt, et in finali plerique finiunt; Secundus in F, tertius et quintus, et octavus in c, septimus in d acuto. Simplex chorda sit extensa voce quindenaria, scilicet: Proslambanomenos, Ypateipaton, a, [sqb], c, d, e, f, g, D, E, F, G] 
+      <figure>
+        <graphic url="/images/ANOCADI_03GF.gif" />
+      </figure></p>
+      <p id="ANOCADI0004">
+      <pb n="[113]" />[MSD43:113; text: paripateypaton, licanosypaton, ypatemeson, paripatemeson, licanosmeson, mese, paramese, tritediezeugmenon, paranetediezeugmenon, netediezeugmenon, tryteyperboleon, paraneteyperboleon, neteyperboleon. a, [sqb], c, d, e, f, g, D, E, F, G] 
+      <figure>
+        <graphic url="/images/ANOCADI_04GF.gif" />
+      </figure></p>
+      <p id="ANOCADI0005">[Explicit]</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Sequuntur regulae cantus mensurati eiusdem Ottobi</title>
+        <title type="abbrev">HOTRCM1</title>
+        <author>Hothby, Johannes</author>
+        <date notBefore="1400" notAfter="1499">15th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Peter Slemon</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Bradley Jon Tucker</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1995</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Johannes Hothby, 
+<emph>Opera omnia de musica mensurabili</emph>; Thomas Walsingham, 
+<emph>Regulae de musica mensurabili</emph>, ed. Gilbert Reaney, Corpus scriptorum de musica, vol. 31 (Neuhausen-Stuttgart: Hänssler Verlag for the American Institute of Musicology, 1983), 19–24. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Iohannes Hothby: Regule cantus mensurati</title>
+          
+<idno type="LML">IOH. HOTH. mens. I</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">I-Fl Plut. XXIX. 48, 119v-120v</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="HOTRCM10001">
+      <pb n="[19]" />Sequuntur regulae cantus mensurati eiusdem Ottobi</p>
+      <p id="HOTRCM10002">Capitulum 1</p>
+      <p id="HOTRCM10003">De figuris</p>
+      <p id="HOTRCM10004">Fl 119v</p>
+      <p id="HOTRCM10005">Octo sunt partes prolationis sive figurae cantus simpliciter mensurabilis sive cantus figurati, videlicet maxima, longa, brevis, semibrevis, minima, semiminima, croma et semicroma. Multae aliae possunt etiam fieri secundum libitum ponentis, tamen hii sunt saepe et saepius in communi usu, ut hiis patet figuris exemplum: [MXv,Lv,Bv,Sv,Mv,M,SMvxrt] [CSM31:19] 
+      <figure>
+        <graphic url="/images/HOTRCM1_01GF.gif" />
+      </figure>Nam sicut omne totum est in partes infinitas divisibile, sic maxima potest per infinitas partes dividi, sed haec partes sufficiunt quas vox humana proferri potest, et ideo vox ipsa partes maximae determinat. Et si vis alias componere figuras, habeant formam modo tuo, cum hoc tamen quod habeat similitudinem aliquam cum figuris in praesenti usitatis, ne videaris removeri ab auctoritate doctissimorum priscorum.</p>
+      <p id="HOTRCM10006">Maxima vero inmediate dividitur in tres partes vel in duas; si in tres, dicitur perfecta, si in duas, imperfecta, quia in trinario constat perfectio, in binario vero imperfectio. Et quia inmediate sic dividitur, partes illae dividuntur propinquae, quia ipsam immediate maximam appellantur. Namque longi, ut dictum est, 
+      <pb n="[20]" />similiter quaelibet pars propinqua adhuc potest inmediate dividi in tres vel duas partes; si in tres, sic dicitur perfecta, si in duas, imperfecta. Appellantur haec partes breves quae dicuntur partes propinquae longarum et remotae maximarum, et sic deinceps; tamen partes propinquae brevium sunt partes remotae longarum et remotiores maximarum, partes vero propinquae semibrevium quae dicuntur minimae sunt partes remotae brevium, remotiores longarum, et remotissimae maximarum. Unde ultra minimam non datur minimum, licet habeamus in usu abusive hoc vocabulum semiminima quae dicitur quasi minimae medietas; sed proprie non dicitur semiminima sed minima bis vel ter prolata eodem tempore in quo minima debet pronuntiari. Si bis tamen ad minimam, dicitur dupla, si ter tripla, si quater quadrupla, et cetera. Et sic intelligendum est de ceteris figuris minoribus: hinc minima abusive loquendo quomodo dividitur hic est exemplum:</p>
+      <p id="HOTRCM10007">[CSM31:20]</p>
+      <p id="HOTRCM10008">
+      <pb n="[21]" />Capitulum 2</p>
+      <p id="HOTRCM10009">De signis et mensuris</p>
+      <p id="HOTRCM10010">Fl 120</p>
+      <p id="HOTRCM10011">Item haec figurae cognoscuntur signis, pausis, punctis, coloribus, subscriptionibus. Unde circulus significat brevem divisam in tres semibreves, semicirculus significat brevem valentem duas semibreves. Plenitudo circuli significat semibrevem valentem tres minimas, et eius vacuitudo significat semibrevem valentem duas minimas. Unde respectu brevis ad suas partes propinquas, et quia sunt divisiones sive mensurae quae hiis nominibus appellantur. Unde perfectus maior, perfectus minor, imperfectus maior, imperfectus minor. Unde sciendum est quod iste terminus perfectus denotat brevem perfectam, et imperfectus brevem imperfectam. Maior denotat semibrevem perfectam, minor vero semibrevem imperfectam, ut hiis patet figuris:</p>
+      <p id="HOTRCM10012">[CSM31:21,1]</p>
+      <p id="HOTRCM10013">Figura trinarii vel binarii posita post circulum vel semicirculum significat brevem perfectam vel imperfectam. Circulus vero vel semicirculus significat longam perfectam vel imperfectam. Ambae figurae trinarii vel binarii postponantur circulum vel semicirculum, prima repraesentat longam perfectam vel imperfectam et secunda brevem perfectam vel imperfectam. Circulus vel semicirculus vero significat maximam perfectam vel imperfectam, et plenitudo sive vacuitudo nunquam mutat significationem, exemplum hic patet:</p>
+      <p id="HOTRCM10014">[CSM31:21,2]</p>
+      <p id="HOTRCM10015">
+      <pb n="[22]" />Capitulum 3</p>
+      <p id="HOTRCM10016">De pausis</p>
+      <p id="HOTRCM10017">Fl 120</p>
+      <p id="HOTRCM10018">Sex sunt pausae, videlicet pausa longa, brevis, semibrevis, minima, semiminima et croma. Pausa longae significans longam perfectam transit per tria spatia, et imperfectam significans transit per duo spatia. Et si sint tres simul copulatae, significant maximam perfectam, et si duae, maximam imperfectam. Pausa brevis transit per unum spatium, tam significando brevem perfectam quam imperfectam. Unde per illam pausam nulla figura cognoscitur. Pausa semibrevis, tangendo lineam subter, trahitur deorsum usque ad medium spatium, et similiter per illam nulla figura cognoscitur. Pausa minimae, tangens lineam supra, sursum ascendit usque ad medium spatium, nec per istam cognoscitur aliqua figura, nisi tres vel duae simul ponantur. Pro semiminima, pausa similiter tangens lineam supra, ascendens usque ad medium cum circulo in summitate, nullam perfectionem vel imperfectionem denotat, nec pausam cromae quae sic ascendit cum circulo supra et infra. Item quando inveniuntur duae pausae semibrevis, denotat brevem valentem tres semibreves secundum communem usum. Exempla sunt haec:</p>
+      <p id="HOTRCM10019">[CSM31:22]</p>
+      <p id="HOTRCM10020">
+      <pb n="[23]" />Capitulum 4</p>
+      <p id="HOTRCM10021">De punctis</p>
+      <p id="HOTRCM10022">Fl 120v</p>
+      <p id="HOTRCM10023">Quando punctum ponitur inter duas longas, denotat maximam esse perfectam sua natura, et si ponatur inter duas breves, denotat longam esse perfectam; et quando inter duas semibreves, denotat brevem esse perfectam; et quando inter duas minimas, denotat semibrevem esse perfectam, nisi fortasse illud punctum reduceretur ad aliquam figuram ante vel post. Et punctum sic positum inter duas longas facit maximas imperfectas; et si inter duas breves, facit longam vel longas imperfectas; et si inter semibreves, facit breves imperfectas; et si inter minimas, sunt breves vel semibreves.</p>
+      <p id="HOTRCM10024">Unde duplex est punctum, imperfectionis et divisionis. Punctum perfectionis facit figuram esse perfectam, divisionis dividendo minoris facit maioris imperfectas vel aliquam imperfectam et aliquam alteram, id est duplicatam. Unde si inter duas maximas ponuntur duae longae vel tres, prima maxima dicitur perfecta, nulla longa praecedente, a qua possit imperfici, nisi punctus ponatur inter duas longas, quae faciunt illas maximas imperfectas ratione puncti. Et sic intelligendum est de ceteris figuris, ut hic patent exempla:</p>
+      <p id="HOTRCM10025">[CSM31:23]</p>
+      <p id="HOTRCM10026">
+      <pb n="[24]" />Item quando inter duas maximas ponitur una longa vel quatuor, nulla longa praecedente a qua possit imperfici, prima longa imperficit primam maximam, nisi ponatur iuxta maximam punctum quod dicitur punctum perfectionis, quia retinet illam maximam in sua perfectione, ut hic patet: [MXv,Lv,MXv; MXv,Lv,Lv,Lv,Lv,MXv; Lv,MXv,Lv,MXv; MXv,pt,Lv,MXv; MXv,pt,Lv,Lv,Lv,Lv,MXv on staff2]</p>
+      <p id="HOTRCM10027">Capitulum 5</p>
+      <p id="HOTRCM10028">De ligaturis</p>
+      <p id="HOTRCM10029">Fl 120v</p>
+      <p id="HOTRCM10030">Nota quod prima nota altior secunda, nulla virgula in sinistro, et ultima nota quadrata inferior penultima, ac ultima nota altior penultima quacumque virgula in dextro, est longa: [Lig2vd,Lig3vodart] Prima nota, virgula in sinistro ascendente, est semibrevis, et ita socia eius, nulla regula contradicente: [Lig2vcssnd,Lig2vcssna,Lig2vcssnod] Et praeter longam et semibreves duas, omnes aliae notae, si essent mille, sunt breves, tam in principio quam in medio necnon in fine, ut hic: [Lig3vcdsnda,Lig2va,Lig3vaod,Lig2vLacddx]</p>
+    </body>
+  </text>
+</TEI>

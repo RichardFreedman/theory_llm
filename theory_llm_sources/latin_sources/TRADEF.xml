@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Tractatus de figuris sive de notis</title>
+        <title type="abbrev">TRADEF</title>
+        <author>Anonymous</author>
+        <date notBefore="1300" notAfter="1399">14th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Stephen E. Hayes</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Peter M. Lefferts</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Bradley Jon Tucker</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1991</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>Ms. Oxford, Bodley 842 (Willelmus), Breviarium regulare musicae</emph>; 
+<emph>Ms. British Museum, Royal 12. C. VI., Tractatus de figuris sive de notis</emph>; 
+<emph>Johannes Torkesey, Declaratio trianguli et scuti</emph>, ed. Gilbert Reaney and André Gilles, Corpus scriptorum de musica, vol. 12 ([Rome]: American Institute of Musicology, 1966), 40–51. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: Tractatus de figuris sive de notis</title>
+          
+<idno type="LML">ANON. London. I</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">GB-Lbl Add. 4909, 98-104v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Lbl Royal 12.C.VI, 54-58</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="TRADEF0001">
+      <pb n="[40]" />Tractatus de figuris sive de notis</p>
+      <p id="TRADEF0002">Capitulum 1</p>
+      <p id="TRADEF0003">De minima</p>
+      <p id="TRADEF0004">Cum in isto tractatu de figuris sive de notis, quae sunt et de earum proprietatibus sit intentio, primo est tractandum de prima nota procedendo ad ultimam, et voco illam figuram sive notam primam quae prima est in voce. Unde cum quanto vox sit minor, tanto prior est in voce, sequitur quod minima vox prima est in voce sive in prolatione. Et cum figura illius etiam apud musicos in scripto vocatur minima, ideo de illa figura et de proprietatibus eius est primo dicendum; et sic procedo ad largissimam.</p>
+      <p id="TRADEF0005">Figuratur etiam minima isto modo:</p>
+      <p id="TRADEF0006">[M,M,M,M,M on staff3]</p>
+      <p id="TRADEF0007">Et est notandum quod minima nec potest perfici nec imperfici. Perfici non potest, eo quod non potest continere valorem trium vocum aequalium minorum se, cum nulla vox sit minor minima, quia minus minimo non est dandum in rerum natura. Nec continet in se valorem trium vocum aequalium aequivalentium sibi minimae, cum haec in nulla nota inveniatur, et per consequens non continet valorem trium aequalium maiorum se ipsa, et per consequens non potest perfici. Unde sciendum est quod ad hoc quod aliqua nota sit perfecta, oportet quod valeat tres notas aequales minores se quae sunt in gradu sibi propinquo descendendo, ut si semibrevis sit perfecta, oportet quod valeat tres minimas in voce, et si brevis sit perfecta, oportet quod valeat tres semibreves aequales in voce, et sic de aliis. Et si ita sit quod sit verum de alia ipsam non valere 3, et modo quo hic ostenditur, ista non debet dici perfecta, sed imperfecta debet appellari.</p>
+      <p id="TRADEF0008">Unde generaliter est sciendum in ista arte quod omnis perfectio sistit in tres. Hoc etiam confirmatur esse verum per Aristotelem "primo celi et mundi", dicentem sic: omne totum et perfectum super tria ponimus. Patet igitur quod minima nullo modo potest perfici, et quod minima non potest imperfici patet ex praedictis, quia, quod omnis nota quae potest imperfici potest perfici, patet inductione. Set sciendum est quod quaedam minima vocatur recta et quaedam altera. Et dicitur altera quia valet minimam 
+      <pb n="[41]" />et alteram, sed recta non valet nisi minimam tantum. Et sciendum quod altera sive alterata minima invenitur tantum in duabus mensuris, ut in mensura perfecte perfecta et mensura perfecte imperfecta. Et ratio huius est quia nota altera convocat notam superiorem in proximo gradu esse perfectam, velut si minima sit altera, semibrevis est perfecta, et si altera semibrevis inveniatur, brevis dicitur esse perfecta; et si altera brevis inveniatur, longa dicitur perfecta, et hoc si cetera sint paria. Altera minima sic cognoscitur: quandocumque duae minimae inveniuntur inter duas semibreves perfectas, vel habentes valorem duarum semibrevium perfectarum, una est recta, scilicet prima, et secunda altera.</p>
+      <p id="TRADEF0009">Et non intelligo per valorem duarum semibrevium sic quod tantum valor unius semibrevis praecedat rectam et alteram, et tantum valor alterius semibrevis subsequatur. Sed isto modo est intelligendum: quod si valor unius semibrevis, vel duarum ut brevis, vel quatuor ut longa, et sic de aliis, praecedat duas minimas, et postponatur semibrevis vel eius valor, loquendo uniformiter de valore, si hoc inveniatur in duabus mensuris praedictis, prima vocatur recta et secunda altera, et in aliis duabus mensuris non, ut praemissum est. Unde recta et altera minima aequipollent semper semibrevi perfectae. Sed cum semibrevis solum in duabus mensuris inveniatur perfecta, et hoc proprie et per se absque alico extrinseco, sequitur quod solum in duabus mensuris debet altera minima pronuntiari.</p>
+      <p id="TRADEF0010">Unde sciendum est quod differentia est inter perfectionem extrinsecam et intrinsecam. Unde illa nota dicitur habere perfectionem in cantu intrinsecam, quae praecinendo omnes inferiores potentes eam imperficere et ommem divisionem, valet tres alias notas gradus sibi immediati descendendo; et ita perfectio invenitur in semibrevibus, nisi in prima mensura perfecta et prima imperfecta quae superius nominantur.</p>
+      <p id="TRADEF0011">Perfectionem extrinsecam possumus dupliciter intelligere: uno modo quando aliqua nota valet tres eo modo quo dictum est, tamen aliquid extrahitur ab aliqua illarum, ut quando a brevi perfecta extrahitur una minima praecedens vel subsequens; vel quando a longa perfecta facta ex brevibus perfectis semibrevis extrahitur; vel quando a larga longa perfecta extrahitur brevis vel valor brevis; vel quando a largissima perfecta longa extrahitur longa vel valor longae. Unde quaelibet talis dicitur perfecta, quia cum aliquid deficit de eius perfectione in ea, aliquid extrinsecum tribuit sibi suam perfectionem. Ideo illa perfectio quam habet est extrinseca, eo quod provenit ab extrinseco.</p>
+      <p id="TRADEF0012">Alio modo dicitur perfectio extrinseca, quando nota perficitur per aliquid quo remoto non esset perfecta, et illo modo solus punctus qui 
+      <pb n="[42]" />dicitur divisio causat perfectionem. Unde in mensura imperfecte perfecta et imperfecte imperfecta est semibrevis semper imperfecta, nisi sibi punctus sive divisio, quae idem est, sibi addatur, et tunc est perfecta. Set remoto puncto tunc statim erit imperfecta; ideo illa perfectio provenit ab extrinseco, quia igitur de se non potest semibrevis in istis duabus mensuris esse perfecta.</p>
+      <p id="TRADEF0013">Ideo tractantes de notis per ordinem, de earum pausis eodem ordine decet facere mentionem. Pausa igitur minimae continet dimidium spatii desuper lineam quae figuratur sic:</p>
+      <p id="TRADEF0014">[M,MP,MP,MP,MP,MP,MP,MP,MP on staff3]</p>
+      <p id="TRADEF0015">Et hoc est intelligendum de minima recta et non de minima altera secundum usum modernorum. Si tamen eadem esset pausa utriusque, non esset contra artem nec contra rationem, quia qua ratione utraque minima eamdem figuram habet, eadem ratione utriusque pausa eodem modo figurandi potest exerceri. Et sicut est de minima, sic est de aliis notis in quibus alterae inveniuntur. Verumtamen quia altera minima aequipollet semibrevi imperfectae, ideo pausa illius ad modum pausae semibrevis imperfectae a modernis figuratur in fine istius capituli; ut magis elucescant, per exempla patebunt.</p>
+      <p id="TRADEF0016">Contingit enim dubitare circa unum prius dictum qualiter minima nec est perfecta nec imperfecta; quia sequitur minima est et non est perfecta, igitur imperfecta, et per consequens est perfecta vel imperfecta. Dicendum quod non sequitur de forma, quia omnis imperfectio est privatio alicuius perfectionis, eo quod perfectum et imperfectum privatione opponuntur. Sed nulla minima potest privari aliqua perfectione, eo quod non est apta nata habere perfectionem: igitur non est imperfecta nec est perfecta, ut satis patet superius. Contra illud ad hoc arguitur sic: altera minima et semibrevis imperfecta idem tempus in voce conservant et etiam in pausis; igitur qua ratione una est imperfecta, eadem et alia. Dicendum quod non sequitur, quia semibrevis imperfecta privatur aliquo, quo posito, ipsa erit perfecta. Et etiam aliquando aliquid praecedit semibrevem vel subsequitur, quo remoto, sibi esset perfecta. Sed sic non est de minima, quia, quocumque posito vel remoto, nunquam potest fieri perfecta: igitur patet quantum ad illam objectionem. Alia vero dubia relinquo magistris in scientia musicali studentibus. Et sic finitur capitulum primum huius tractatus.</p>
+      <p id="TRADEF0017">Sequitur iam de exemplis proprietatum minimarum modo quo hic describuntur. Exemplum alterarum minimarum tam inter pausas quam inter figuras in mensura perfecte perfecta, ut satis patet:</p>
+      <p id="TRADEF0018">[CSM12:42] 
+      <figure>
+        <graphic url="/images/TRADEF_01GF.gif" />
+      </figure></p>
+      <p id="TRADEF0019">
+      <pb n="[43]" />Exemplum alterarum minimarum tam inter pausas quam figuras in mensura perfecte imperfecta, ut satis manifestatur:</p>
+      <p id="TRADEF0020">[CSM12:43,1]</p>
+      <p id="TRADEF0021">Hic ponuntur alterae minimae inter breves et valores earum, inter longas, largas et largissimas superius, et inter pausas earum inferius:</p>
+      <p id="TRADEF0022">[CSM12:43,2]</p>
+      <p id="TRADEF0023">Capitulum 2</p>
+      <p id="TRADEF0024">De semibrevi</p>
+      <p id="TRADEF0025">Dicto de minima et aliqualiter de eius proprietatibus, dicendum est de ista nota quae semibrevis nuncupatur, et figuratur ad modum losengae in scuto, sicut et minima excepto quod caret tractu desuper. Figuratur enim semibrevis sic:</p>
+      <p id="TRADEF0026">[S,S,S,S on staff3]</p>
+      <p id="TRADEF0027">Videtur tamen talem notam improprie aliquando vocari semibrevem, quia ista nota quae dicitur semibrevis aliquando valet solam tertiam partem brevis, ut in utraque mensura perfecta. Sed semibrevis dicitur quasi medietas brevis; igitur, ut videtur, non debet quaelibet nota sic figurata vocari semibrevis.</p>
+      <p id="TRADEF0028">Propria brevis dicitur a tempore brevi, eo quod brevis a brevi tempore mensuratur, sed semibrevis a breviori tempore mensuratur; igitur magis debet dici brevis quam illa cui nomen brevis imponitur. Unde unumquodque quanto propinquius est alicui formae, tanto verius potest ab illa forma denominari. Ideo dico quod nomen brevis bene brevi competit, eo quod brevis breve tempus continet in mensura, et similiter semibrevis eodem nomine bene posset appellari, eo quod causam eius nomine verius obtinet quam brevis, ut probatum est, quia semibrevis a breviori tempore mensuratur quam brevis.</p>
+      <p id="TRADEF0029">
+      <pb n="[44]" />Ideo brevior a breviori tempore bene posset denominari, et similiter ista nota quae vocatur minima bene posset vocari brevissima. Et sic tres primae figurae istis nominibus bene proprie possent appellari, incipiendo a tertia et sic descendendo ad primam: brevis, brevior, brevissima. Et sicut istae tres figurae ad invicem comparantur, sic et tres residuae possent ad invicem comparari. Unde illa quae longa nuncupatur nomen habet sibi proprie impositum, eo quod a longo tempore mensuratur in regula ad alias inferiori.</p>
+      <p id="TRADEF0030">Et illa nota quae vocatur larga bene et evidentius posset appellari longior in comparatione ad longam, eo quod longiori tempore quam longa mensuratur. Et per consequens illa quae largissima vocatur in comparatione ad longam et longiorem, longissima posset appellari proprie, ita quod istae tres notae sic vocantur: longa, longior, longissima.</p>
+      <p id="TRADEF0031">Hic posset quaeri quare ponuntur nomina notarum magis sub istis relativis breve et longum, magis quam sub aliis ut magnum et parvum. Dico quod longum et breve sunt proprie mensurae temporis, unde proprie dicitur tempus esse longum vel breve. Sed improprie dicitur quod tempus sit largum vel magnum vel huiusmodi, eo quod talia a magnitudinibus suscipiunt proprietatem. Sed tempus et magnitudo distinguntur sicut successivum a permanente, ut patet per Philosophum "3o Physicorum" et multis aliis locis. Utendo tamen nominibus notarum a primordio institutis, dicendum est ad omnes objectiones, quotquot fuerint objectae, quod institutio talium nominum fuit ad placitum instituentis.</p>
+      <p id="TRADEF0032">Sciendum est de semibrevibus quod quaedam est recta et quaedam altera. Recta semibrevis adhuc duplex est: quaedam perfecta et quaedam imperfecta. Semibrevis perfecta signat tempus trium minimarum. Unde falsum est dicere quod nota sive figura in scripto aliquid valet, sed est signum valoris tanti temporis vel tanti, licet talis sit usus loquendi. Utimur aliquando falso modo loquendi pro vero, cognominamus tamen communiter loquentibus, et eodem modo utuntur philosophi et alii doctores. Et illud dico si forte aliquis impugnet sive impinget.</p>
+      <p id="TRADEF0033">Imperfecta semibrevis solum signat tempus duarum minimarum.</p>
+      <p id="TRADEF0034">Semibrevis perfecta habet duas proprietates. Prima est quod semibrevis perfecta proprie non potest perfici. Hoc probatur sic: nullum tale quod de se est perfectum indiget perfectione, nec proprie potest perfici. Sed omnis semibrevis perfecta de se est perfecta: igitur nulla talis proprie potest perfici, et loquor de perfectione intrinseca. Maior patet quia perficere est facere perfectum de imperfecto, ut patet de ex signato vocabulo; minor etiam patet de se, loquendo de perfectione intrinseca.</p>
+      <p id="TRADEF0035">
+      <pb n="[45]" />Secunda proprietas semibrevis perfectae est haec, quod omnis semibrevis perfecta potest imperfici, quia imperficere est de perfecto imperfectum facere. Unde proprium est cuilibet semibrevi posse imperfici, et hoc contingit multis modis: uno modo per minimam praecedentem, vel vicem minimae gerentem, ut per eius pausam, et hoc si illa minima vel eius pausa ad illam brevem referatur; alio modo per minimam subsequentem vel eius pausam, si brevi applicetur.</p>
+      <p id="TRADEF0036">Imperfecta semibrevis habet alias duas proprietates. Prima est ista quod ipsa proprie non imperficitur aliunde, cum de se sit imperfecta. Secunda est quod omnis semibrevis imperfecta potest perfici. Hoc patet inductive descendendo per omnes quatuor mensuras. Si loquamur de mensura perfecte perfecta et perfecte imperfecta in quibus est eadem semibrevis, et imperficiatur per minimam vel eius valorem, ablata illa minima sive eius valore ablato, statim erit perfecta. Et si loquamur de mensura imperfecte perfecta et imperfecte imperfecta in quibus est semibrevis eadem, adhuc potest perfici ut per punctum. Sed prima perfectio est intrinseca, secunda vero extrinseca, ut patet in primo capitulo.</p>
+      <p id="TRADEF0037">Semibrevis altera aequipollet brevi imperfectae, eo quod valet duas semibreves, sicud brevis imperfecta. Set potest quaeri an altera semibrevis perficitur et imperficitur sicud et recta. Et ad illud dico quod omnis nota per se stans dicitur nota recta. Unde illa quae altera vocatur recta est, ut satis patet, eo quod omnis altera ad modum rectae figuratur. Unde non vocatur altera quia altera vel quia altera recta, sed quia est recta convocans alteram, ut patet per expositionem eius. Unde primo subponitur quod talis fit recta, sed solum exprimitur altera propter breviloquium.</p>
+      <p id="TRADEF0038">Unde altera nota primo signat se ipsam rectam, et ex consequenti alteram. Ex quo patet quod quaelibet altera a minima altera perfici potest et imperfici sicud et recta, eo quod recta est in se. Per accidens tamen convocat alteram, ut satis patet, quia accidit uni rectae quod sic ponatur vel sic, ut quando duae rectae ponuntur inter duas superiores perfectas.</p>
+      <p id="TRADEF0039">Et si quaeratur de illa quam convocat recta ut de illa altera, dicendum quod illa non est antequam profertur, quod satis patet, nisi velimus dicere quod causat talem conceptum. Quod non sic in scripto patet, quia eodem modo figuratur recta et altera. Sed quando profertur eodem modo, mensuratur sicud et recta ut patet; et per consequens eandem mensuram consonabit.</p>
+      <p id="TRADEF0040">Altera semibrevis tantum invenitur in duabus mensuris perfectis cuius ratio satis manifestatur in capitulo primo et in illis duabus mensuris sic cognoscitur: quando duae semibreves inveniuntur inter duas breves vel earum valores. Intelligo per valores, sicut exponitur capitulo primo, prima 
+      <pb n="[46]" />est recta et secunda altera, sive ponatur pro recta valor rectae, secunda erit altera.</p>
+      <p id="TRADEF0041">Et pausa rectae semibrevis imperfectae continet medietatem spatii sub linea et isto modo figuratur:</p>
+      <p id="TRADEF0042">[SP,S,SP,S,SP on staff3]</p>
+      <p id="TRADEF0043">Pausa semibrevis perfectae continet unam medietatem spatii supra lineam et aliam sub linea, ut hic:</p>
+      <p id="TRADEF0044">[SP,S,SP,S on staff3]</p>
+      <p id="TRADEF0045">Pausa vero alterius semibrevis figuratur ad modum brevis imperfectae, et sic finitur capitulum secundum.</p>
+      <p id="TRADEF0046">Capitulum 3</p>
+      <p id="TRADEF0047">De brevi</p>
+      <p id="TRADEF0048">Sequitur de brevi. Et sciendum quod omnis nota sive figura per se stans, nullum habens tractum, brevis appellatur, et isto modo figuratur:</p>
+      <p id="TRADEF0049">[B,B,B on staff3]</p>
+      <p id="TRADEF0050">Et sciendum quod quaedam brevis est simplex, quaedam vero plicatur. Brevis simplex figuram praescriptam optinet. De brevi plicata est sciendum quod omnis nota quadrata unum habens tractum ex parte una et alia ex parte alia, ex utraque parte ascendentes aut descendentes, si tractus a parte sinistra longior sit quam tractus a parte dextera, brevis plicata dicitur, ut hic:</p>
+      <p id="TRADEF0051">[Bcssnpsdx,Bcdsnpddx,Bcssnpsdx,Bcdsnpddx on staff3]</p>
+      <p id="TRADEF0052">Et sciendum quod haec sunt proprietates brevis simplicis et plicatae. Brevis vero sic dividitur: quaedam est perfecta et quaedam imperfecta, et utraque subdividitur. Brevium perfectarum quaedam perfecte perfecta et quaedam imperfecte perfecta. Brevis perfecte perfecta dicitur quae valet tres semibreves quarum quaelibet tres minimas. Brevis imperfecte perfecta dicitur illa quae valet tres semibreves quarum quaelibet valet tantum duas minimas.</p>
+      <p id="TRADEF0053">
+      <pb n="[47]" />Brevium vero imperfectarum quaedam est perfecte imperfecta et quaedam imperfecte imperfecta. Brevis perfecte imperfecta dicitur illa quae valet duas semibreves quarum utraque valet tres minimas. Brevis imperfecte imperfecta est illa quae valet duas semibreves quarum neutra valet nisi duas minimas. Unde apud quosdam istae quatuor differentiae appellantur mensurae, et sic dicentes, dicunt quod sunt tantum quatuor mensurae quae quatuor nominibus praemissis nominantur. Sed hoc videtur falsum esse, quia semibrevis et minima habent certas mensuras; tamen nullum quatuor nominum competit minimae nec semibrevi, eo quod nec fiunt ex perfectis nec imperfectis. Sic etiam dicentes, dicunt quod omnis mensura est in brevi, eo quod illa quatuor nomina primo brevi competunt. Sed hoc videtur esse falsum, quia illa nota per quam scimus mensurare omnes alias notas, et sine qua nescimus certam mensuram aliarum, illae debet mensura primo et principaliter appropriari. Sed per semibrevem mensuramus omnes superiores, et sine cognitione mensurae illius non scimus certam mensuram aliarum, ut satis patet.</p>
+      <p id="TRADEF0054">Igitur semibrevi debet mensura primo appropriari, et per consequens nullum istorum quatuor nominum proprie et primo debet dici mensura. Sed omnis mensura debet dici simpliciter perfecta vel imperfecta et nulla perfecte vel imperfecte. Sciendum est igitur quod mensura dicitur dupliciter, proprie, scilicet, et improprie. Proprie dicitur aliquid mensura quod mensurat aliud, et sic in nulla voce est mensura, quia sic dicitur solum tempus mensura vocis signatae per unam notam vel per aliam.</p>
+      <p id="TRADEF0055">Improprie dicitur aliquid esse mensura quando illud accipitur pro mensura quod est mensuratum, sicut communiter ex usu loquendi accipitur; et isto modo vox signata per notam mensura appellatur, eo quod quaelibet nota signat certam mensuram temporis. Unde isto secundo modo loquendo de mensura, dico quod brevis primo et principaliter signat omnes mensuras, eo quod ista quatuor nomina mensurarum primo et principaliter per brevem signantur. Unde plures mensuras non oportet ponere, eo quod omnes aliae mensurae ab ipsis intelliguntur in ipsisvel ad ipsas reducuntur.</p>
+      <p id="TRADEF0056">Unde omnes semibreves et minimae quae sunt inferiores ad brevem, per additionem horum adverbiorum perfecte et imperfecte, satis aperte intelliguntur. Omnes vero superiores ad illas quatuor reducuntur, prout primo conjunctim in brevi. Unde illae quatuor differentiae competunt omnibus notis superioribus, sicut et brevi, quia tamen nunquam sumus certificati per illa nomina de mensura superiorum usque brevi per multitudinem questionum fuerimus applicati. Ideo primo et principaliter quatuor istae mensurae in brevi concurrunt. Unde si quaeratur de longa cuius mensura sit, etc., respondeatur per mensuram perfecte perfectam.</p>
+      <p id="TRADEF0057">
+      <pb n="[48]" />Adhuc quasi nulla certificatio mensurae habetur, quia adhuc oportet quaerere de longa ex quibus fit longa, et habita mensura earum, adhuc non habemus certitudinem mensurae, quia adhuc oportet quaerere cuius mensurae sint breves ex quibus constat longa. Sed habito de brevi quod sibi conveniat aliqua quatuor praedictarum mensurarum, statim sumus certificati de mensura. Ideo illae quatuor mensurae maxime brevi appropriantur. Et per ista iam dicta patet satis ad prius objecta.</p>
+      <p id="TRADEF0058">Quantum ad primum patet quod, licet nulla quatuor mensurarum nec semibrevi nec minimae competat, omnis mensura illarum satis intelligitur in qualibet quatuor mensurarum; et non solum intelliguntur, sed etiam per ista adverbia perfecte et imperfecte exprimuntur. Unde habito quod brevi conveniat aliqua quatuor mensurarum, vanum est quaerere de mensura semibrevis vel minimae, quia hoc per appositionem adverbiorum praedictorum exprimitur.</p>
+      <p id="TRADEF0059">Ad secundum dico quod est concedendum omnes alias notas accipere certam mensuram a semibrevi. Et etiam unum est quod omnis mensura est perfecta vel imperfecta. Sed ex istis non sequitur quod nulla perfecte, etc., nec imperfecte. Unde sciendum est quod omnis nota perfecta vel imperfecta alia a semibrevi per semibrevem mensuratur, quia si quaeratur de brevi et dicitur quod est perfecta, adhuc non est certitudo de mensura. Sed addito hoc adverbio perfecte vel imperfecte, statim sumus certificati, eo quod tunc scimus mensuram semibrevis. Et ideo illa adverbia semper in mensuris praeponuntur.</p>
+      <p id="TRADEF0060">Unde si quaeratur qualis est ista mensura, convenienter respondetur dicendo quod est perfecte perfecta, et sic de aliis; et e contrario propter hoc quod semibrevis mensura oportet praesupponi. Similiter secundum grammaticos adverbia immediate sequuntur verba in constructione; si tamen e contrario respondeatur, bene respondetur, melius tamen modo praedicto.</p>
+      <p id="TRADEF0061">Ex istis igitur patet quod istae quatuor mensurae sufficiunt, et quod primo in brevi inveniuntur, et ex consequenti in aliis superioribus ad brevem, ut probatum est. Sciendum est de proprietatibus brevis quod eeadem proprietates conveniunt brevi et semibrevi. Unde brevi perfectae competunt duae proprietates. Prima est quod ipsa brevis perfecta, cum de se est perfecta, non perficitur ab alia, quia nullum tale quod de se est perfectum ab alia perficitur, ut probatum est capitulo secundo. Secunda proprietas brevis perfectae est quod quaelibet talis potest imperfici et hoc dupliciter: aut per semibrevem praepositum aut eius valorem, aut per semibrevem postpositam aut eius valorem. Et istae proprietates conveniunt brevi perfectae in utroque modo perfectionis.</p>
+      <p id="TRADEF0062">
+      <pb n="[49]" />Brevis imperfecta similiter habet duas proprietates. Prima est quod ipsa proprie non imperficitur aliunde, cum de se sit imperfecta. Unde licet aliquando de brevi imperfecta extrahatur minima, propter hoc non proprie imperficitur, cum proprie imperficere sit facere de perfecto imperfectum, sed est quaedam diminutio, ut satis apparet. Secunda proprietas est quod quaelibet brevis imperfecta potest perfici, et hoc duobus modis, sicut et semibrevis, ut satis patebit in exemplis.</p>
+      <p id="TRADEF0063">Iam dicendum est de alteris brevibus et valde breviter, eo quod de omnibus alteris in duobus capitulis praemissis pro maiori parte declaratur. Unde sicut altera semibrevis ponitur inter breves et earum valores, sic altera brevis inter longas et earum valores, et hoc apertius per exempla patebit.</p>
+      <p id="TRADEF0064">De pausis brevium est sciendum quod pausa brevis perfectae in utroque modo perfecto continet unum spatium et medietatem alterius secundum figurantes modernos, ut hic:</p>
+      <p id="TRADEF0065">[B,BP,BP,BP,B on staff3]</p>
+      <p id="TRADEF0066">Pausa imperfectae brevis solum spatium continet, ut hic:</p>
+      <p id="TRADEF0067">[B,BP,BP,B on staff2]</p>
+      <p id="TRADEF0068">Et hoc est intelligendum in utroque modo imperfecto. Sequitur de exemplis.</p>
+      <p id="TRADEF0069">Hic patet imperfectio brevium per semibreves et earum valores praepositas et postpositas in prima mensura perfecta, ut patet hic:</p>
+      <p id="TRADEF0070">[CSM12:49,1]</p>
+      <p id="TRADEF0071">Hic fit resolutio in secunda mensura perfecta:</p>
+      <p id="TRADEF0072">[CSM12:49,2]</p>
+      <p id="TRADEF0073">Hic patet perfectio inperfecta per remotionem in perfectis:</p>
+      <p id="TRADEF0074">[CSM12:49,3]</p>
+      <p id="TRADEF0075">Hic vero per punctum:</p>
+      <p id="TRADEF0076">[CSM12:49,4]</p>
+      <p id="TRADEF0077">
+      <pb n="[50]" />[CSM12:50,1; text: Perfecte perfecta, Imperfecte perfecta, Perfecte imperfecta, Imperfecte imperfecta] 
+      <figure>
+        <graphic url="/images/TRADEF_02GF.gif" />
+      </figure></p>
+      <p id="TRADEF0078">[CSM12:50,2; text: Et istae sunt 4 mensurae in brevi repertae.]</p>
+      <p id="TRADEF0079">Hic ponuntur alterae breves in prima mensura perfecta cum pausis sequentibus:</p>
+      <p id="TRADEF0080">[CSM12:50,3]</p>
+      <p id="TRADEF0081">Resolutio rectarum in eadem mensura:</p>
+      <p id="TRADEF0082">[CSM12:50,4]</p>
+      <p id="TRADEF0083">Hic fit resolutio rectarum in prima mensura imperfecta:</p>
+      <p id="TRADEF0084">[CSM12:50,5]</p>
+      <p id="TRADEF0085">In istis vero exemplis ponuntur alterae breves inter valorem longarum in prima mensura perfecta:</p>
+      <p id="TRADEF0086">[CSM12:50,6]</p>
+      <p id="TRADEF0087">Hic vero fit alio modo resolutio, ut sequitur. Et sciendum quod omnia exempla hic posita intelliguntur in secunda mensura perfecta nisi quod pausae semibrevium sunt diversae:</p>
+      <p id="TRADEF0088">[CSM12:50,7]</p>
+      <p id="TRADEF0089">Hic ponuntur alterae in prima mensura imperfecta inter longas et earum valores cum pausis. Et sciendum quod omnibus his modis inveniuntur alterae in secunda mensura imperfecta, excepto quod pausae semibrevium non sunt heaedem:</p>
+      <p id="TRADEF0090">
+      <pb n="[51]" />[CSM12:51,1]</p>
+      <p id="TRADEF0091">Hic ponuntur multae alterae simul:</p>
+      <p id="TRADEF0092">[CSM12:51,2]</p>
+      <p id="TRADEF0093">Hic ponuntur alterae inter largas:</p>
+      <p id="TRADEF0094">[CSM12:51,3]</p>
+      <p id="TRADEF0095">Hic inter largissimas:</p>
+      <p id="TRADEF0096">[CSM12:51,4]</p>
+      <p id="TRADEF0097">Et sciendum quod si divisio ponatur inter omnes breves vel semibreves vel minimas, tunc nulla erit altera sed utraque erit recta. Et sic una debet referri ad notam praecedentem et reliqua ad notam subsequentem. Et sic finitur capitulum tertium.</p>
+    </body>
+  </text>
+</TEI>

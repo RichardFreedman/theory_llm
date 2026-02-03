@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Regulae contrapuncti</title>
+        <title type="abbrev">HOTRC</title>
+        <author>Hothby, Johannes</author>
+        <date notBefore="1400" notAfter="1499">15th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Stephen E. Hayes</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Peter M. Lefferts</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Kirk Ditzler</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1994</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Johannes Hothby, 
+<emph>De arte contrapuncti</emph>, ed. Gilbert Reaney, Corpus scriptorum de musica, vol. 26 (n.p.: American Institute of Musicology, 1977), 63–69. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Iohannes Hothby: Regulae contrapuncti</title>
+          
+<idno type="LML">IOH. HOTH. contr. II</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">GB-Lbl Add. 36986, 31v-32v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fl Plut. XXIX. 48, 118-119v</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="HOTRC0001">
+      <pb n="[63]" />Item Regulae contrapuncti Johannis Octobi Carmelitae incipiunt.</p>
+      <p id="HOTRC0002">F1 118-119v, L3 31v-32v</p>
+      <p id="HOTRC0003">Nota quod contrapunctus semper debet incipi et finiri per consonantias, tamen penultima debet esse dissonantia. Et sunt consonantiae quatuor, videlicet quinta, octava, duodecima et quinta decima. Dissonantiae sunt et quatuor, videlicet tertia, sexta, decima et tertia decima. Nota quod quaelibet dissonantia in descensu requirit consonantiam suam, videlicet tertia requirit quintam, sexta octavam, decima duodecimam, et tertia decima requirit quintam decimam. Item nota quod quandocumque tenor ascendit, contrapunctus debet descendere, et e contra; nec frangitur ista regula nisi per dissonantias, quia possumus ascendere et descendere cum tenore per dissonantias, aliquando cum una, aliquando cum duabus, aliquando cum tribus, et aliquando cum quatuor. Nota quod, quando cantamus per octavam, debemus respicere tenorem et cantare per clavem superiorem, respiciendo litteram superiorem consimilem litterae tenoris, verbi gratia. Esto quod tenor sit in C gravi, contrapunctus debet esse in c acuto; et si tenor est in D gravi, contrapunctus debet esse in d acuto ut hic.</p>
+      <p id="HOTRC0004">[Hothby, 63; text: Tenor] 
+      <figure>
+        <graphic url="/images/HOTRC_01GF.gif" />
+      </figure></p>
+      <p id="HOTRC0005">
+      <pb n="[64]" />Et licet ponamus notas vel voces quae possunt fieri per octavam super sex cordas per quas omnes cantus cantilenarum discurrunt, videlicet ut, re, mi, fa, sol, la, tamen necesse existimavimus ponere successive per ordinem quo debent praedictae notae proferri diversi mode a cantoribus, ac regulariter et cum mensura et non omnes simul proferrendo, scilicet una pro una. Quia si talis ordo non observaretur, contrapunctus minime vocaretur, sicut clare per diffinitionem ipsius contrapuncti apparet.</p>
+      <p id="HOTRC0006">Contrapunctus enim secundum Boetium nil aliud est quam notam contra notam ponere. Et non dicit unam pro duabus, sed unam ponendo. Et per consequens redarguendi sunt, verbi gratia, qui ponunt binas notas seu pares, dicendo: ut ut, re re, mi mi, fa fa, sol sol, la la. Qui non vocatur contrapunctus gratia ipsius contrapuncti sed gratia tenoris.</p>
+      <p id="HOTRC0007">Ulterius notandum est quod non debemus facere binas quintas nec binas octavas, vel duas duodecimas seu binas quintas decimas, sed bene binas dissonantias ac plures sicut dictum est.</p>
+      <p id="HOTRC0008">Ordinatio autem ipsius contrapuncti talis erit per octavam.</p>
+      <p id="HOTRC0009">Prima regula talis est: quod per unam ascendentem fit fertia descendens, et erit quinta; vel si tenor ascendit unam et statim descendit unam, tunc contrapunctus debet descendere unam et erit sexta, et 
+      <pb n="[65]" />ascendere unam et erit octava. Vel si tenor ascendit unam et gradatim ascendit aliam, tunc contrapunctus debet descendere tertiam, et erit quintam; deinde descendit unam et erit tertiam. Unde versus:</p>
+      <p id="HOTRC0010">Post octavam quintam si cantus tendit in altum;</p>
+      <p id="HOTRC0011">si una nota ascendit, post quintam tertiam iudicabis,</p>
+      <p id="HOTRC0012">ut hic.</p>
+      <p id="HOTRC0013">[Hothby, 65,1; text: Discantus, Tenor]</p>
+      <p id="HOTRC0014">Secunda regula talis est: quod per tertiam ascendentem fit una descendens, et erit quinta; vel fit quarta descendens, et erit tertia, videlicet:</p>
+      <p id="HOTRC0015">[Hothby, 65,2; text: Discantus, Tenor]</p>
+      <p id="HOTRC0016">Tertia regula est talis: quod per quartam ascendentem fit tertia descendens, et erit tertia; vel fit una ascendens, et erit sexta, videlicet:</p>
+      <p id="HOTRC0017">[Hothby, 65,3; text: Discantus, Tenor]</p>
+      <p id="HOTRC0018">
+      <pb n="[66]" />Quarta regula talis est: quod per quintam ascendentem fit una descendens, et erit tertia; vel fit quarta descendens, et erit unisonus, ut hic patet exemplum:</p>
+      <p id="HOTRC0019">[Hothby, 66,1; text: Discantus, Tenor] 
+      <figure>
+        <graphic url="/images/HOTRC_02GF.gif" />
+      </figure></p>
+      <p id="HOTRC0020">Quinta regula talis est: quod per sextam ascendentem fit tertia descendens, et erit unisonus; vel fit quarta ascendens, et erit sexta, ut hic:</p>
+      <p id="HOTRC0021">[Hothby, 66,2; text: Discantus, Tenor]</p>
+      <p id="HOTRC0022">Secuntur regulae quinque aliae universales per duodecimam.</p>
+      <p id="HOTRC0023">Prima regula talis est: quod per unam ascendentem fit quarta descendens, et erit octava; vel fit una descendens, et erit decima, ut hic patet:</p>
+      <p id="HOTRC0024">[Hothby, 66,3; text: Discantus, Tenor]</p>
+      <p id="HOTRC0025">Secunda regula talis est: quod per tertiam ascendentem fit tertia descendens, et erit octava; vel fit quinta descendens, et erit sexta, videlicet:</p>
+      <p id="HOTRC0026">[Hothby, 66,4; text: Discantus, Tenor]</p>
+      <p id="HOTRC0027">
+      <pb n="[67]" />Tertia regula talis est: quod per quartam ascendentem fit una descendens, et erit octava; vel fit quarta descendens, et erit sexta; vel fit quinta descendens, et erit quinta, ut hic patet:</p>
+      <p id="HOTRC0028">[Hothby, 67,1; text: Discantus, Tenor] 
+      <figure>
+        <graphic url="/images/HOTRC_03GF.gif" />
+      </figure></p>
+      <p id="HOTRC0029">Quarta regula talis est: quod per quintam ascendentem fit tertia descendens, et erit sexta; vel fit quarta descendens, et erit quinta, ut hic patet exemplum:</p>
+      <p id="HOTRC0030">[Hothby, 67,2; text: Discantus, Tenor]</p>
+      <p id="HOTRC0031">Quinta regula talis est: quod per sextam ascendentem fit tertia descendens, et erit quinta; vel fit una descendens, et erit sexta; vel fit quinta descendens, et erit tertia, ut hic:</p>
+      <p id="HOTRC0032">[Hothby, 67,3; text: Discantus, Tenor]</p>
+      <p id="HOTRC0033">Expliciunt regulae per duodecimam.</p>
+      <p id="HOTRC0034">Ut autem scientia haec clarius appareat, mi frater dilecte, alias sex regulas universales perfectissimi contrapuncti pro memoria disposui super sex cordas monocordi replicatas, scilicet ut, re, mi, fa, sol, la.</p>
+      <p id="HOTRC0035">Quae quidem regulae demonstrabunt tibi 12, 10, 8, 6, 5, 3, unisonum; quarum prima regula est quod 
+      <pb n="[68]" />duodecima de omne ut est sol, decima est mi vel la, octava ut vel fa, sexta est re vel la, quinta est ut vel sol, tertia est mi, vox est ut, ut exemplum hic patet:</p>
+      <p id="HOTRC0036">[Hothby, 68,1; text: Tenor, vox] 
+      <figure>
+        <graphic url="/images/HOTRC_04GF.gif" />
+      </figure></p>
+      <p id="HOTRC0037">Secunda regula est quod duodecima de omne re est la, decima est fa, octava est re vel sol, sexta est mi; quinta est re vel la, tertia est fa, vox est re, ut hic:</p>
+      <p id="HOTRC0038">[Hothby, 68,2; text: Tenor, vox]</p>
+      <p id="HOTRC0039">Tertia regula est quod duodecima de omne mi est mi, decima est ut vel sol, octava est mi vel la, sexta est ut vel fa, quinta mi, tertia est ut vel sol, vox est mi, ut hic:</p>
+      <p id="HOTRC0040">[Hothby, 68,3; text: tenor, vox]</p>
+      <p id="HOTRC0041">
+      <pb n="[69]" />Quarta regula est quod duodecima de omne fa est fa, decima est re vel la, octava est ut vel fa, sexta est re vel sol, quinta est ut vel fa, tertia est re vel la, vox est fa, ut hic patet:</p>
+      <p id="HOTRC0042">[Hothby, 69,1; text: tenor, vox]</p>
+      <p id="HOTRC0043">Quinta regula est quod duodecima de omne sol est sol, decima est mi, octava est ut vel sol, sexta est mi vel la, quinta est re vel sol, tertia est mi, vox est sol, ut hic patet exemplum:</p>
+      <p id="HOTRC0044">[Hothby, 69,2; text: Tenor, vox]</p>
+      <p id="HOTRC0045">Sexta regula est quod duodecima de omne la est la, decima est fa, octava est re vel la, sexta est ut vel fa, quinta est mi vel la, tertia est ut vel fa, vox est la, ut hic patet:</p>
+      <p id="HOTRC0046">[Hothby, 69,3; text: tenor, vox]</p>
+      <p id="HOTRC0047">Expliciunt regulae contrapuncti.</p>
+    </body>
+  </text>
+</TEI>

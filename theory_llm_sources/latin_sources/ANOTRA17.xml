@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Tractatuli</title>
+        <title type="abbrev">ANOTRA17</title>
+        <author>Anonymous</author>
+        <date notBefore="1100" notAfter="1199">12th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Andreas Giger</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Elisabeth Honn</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1995</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>Codex Oxoniensis Bibl. Bodl. Rawl. C 270: Pars B, XVII Tractatuli a quodam studioso peregrino ad annum MC collecti</emph>, ed. Joseph Smits van Waesberghe, Divitiae musicae artis A/Xb (Buren: Knuf, 1980), 33–41. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: Tractatus de proportionibus</title>
+          
+<idno type="LML">PROP. Est autem</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 10509, 58v-59v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ob Rawl. C. 270, 18-19</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">US-MAL Ms. Ludwig XII 5, 38v-39</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 10509, 58r-v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ob Rawl. C. 270, 16v-17</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">US-NYpm B 12, 69r-v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">US-MAL Ms. Ludwig XII 5, 38</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">US-NYpm B 12, 70-73</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ob Rawl. C. 270, 17v-18</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANOTRA170001">
+      <pb n="[33]" />(TRACTATULUS XI)</p>
+      <p id="ANOTRA170002">[C1, f. 134v, F1, f. 27v, F2, f. 60r, Ge, f. 56v, O, f. 15v, P2, f. 157v in marg.] Quisquis velis camenarum</p>
+      <p id="ANOTRA170003">melodiis canere,</p>
+      <p id="ANOTRA170004">et dulcissimas pastorum</p>
+      <p id="ANOTRA170005">fistulas componere:</p>
+      <p id="ANOTRA170006">musicorum subaratam</p>
+      <p id="ANOTRA170007">regulam prosequere!</p>
+      <p id="ANOTRA170008">Gamma succinit his tribus</p>
+      <p id="ANOTRA170009">litteris sequentibus:</p>
+      <p id="ANOTRA170010">.A. videlicet et .B.</p>
+      <p id="ANOTRA170011">atque .C. tantummodo.</p>
+      <p id="ANOTRA170012">.A. ad .D. et .B. ad .E.</p>
+      <p id="ANOTRA170013">semper quartis vocibus.</p>
+      <p id="ANOTRA170014">.C. ut gamma organizat</p>
+      <p id="ANOTRA170015">suis tribus posteris, || [Ge, f. 57r in marg.]</p>
+      <p id="ANOTRA170016">.D. et .E. ac .F. sequenti</p>
+      <p id="ANOTRA170017">monochordi regulis.</p>
+      <p id="ANOTRA170018">Atque .D. sectatur .G.; .E.</p>
+      <p id="ANOTRA170019">quartum .a. non deserit.</p>
+      <p id="ANOTRA170020">.F. sequentes tenet istas,</p>
+      <p id="ANOTRA170021">litteras probavimus:</p>
+      <p id="ANOTRA170022">.G. et .a. ac .[sqb]. productum</p>
+      <p id="ANOTRA170023">ullo sine dubio.</p>
+      <p id="ANOTRA170024">Et quando tangit .b. rotundum,</p>
+      <p id="ANOTRA170025">idem tenet organum.</p>
+      <p id="ANOTRA170026">
+      <pb n="[34]" />.G. reciprocat idipsum,</p>
+      <p id="ANOTRA170027">quod de gamma diximus:</p>
+      <p id="ANOTRA170028">.a. acutam, .[sqb]. ac .c.</p>
+      <p id="ANOTRA170029">suo tenet organo.</p>
+      <p id="ANOTRA170030">.a. respondet quartae .d.,</p>
+      <p id="ANOTRA170031">.[sqb]. ad .e. eotenus.</p>
+      <p id="ANOTRA170032">.c. acutum sicut grave</p>
+      <p id="ANOTRA170033">canit ut praediximus,</p>
+      <p id="ANOTRA170034">atque cuncta elementa</p>
+      <p id="ANOTRA170035">suum tenent modulum.</p>
+      <p id="ANOTRA170036">Quarta vox semper procedit</p>
+      <p id="ANOTRA170037">quartae sine scrupulo.</p>
+      <p id="ANOTRA170038">Summa cura tene, cantor,</p>
+      <p id="ANOTRA170039">ea quae praediximus.</p>
+      <p id="ANOTRA170040">Semper quarta voci quartae</p>
+      <p id="ANOTRA170041">moderetur organo,</p>
+      <p id="ANOTRA170042">donec cantus, unde venit,</p>
+      <p id="ANOTRA170043">redeat ad terminum.</p>
+      <p id="ANOTRA170044">Quod cum fecerit: secundae</p>
+      <p id="ANOTRA170045">vox secunda succinat.</p>
+      <p id="ANOTRA170046">.G. cum cantus terminatur</p>
+      <p id="ANOTRA170047">organum .F. teneat.</p>
+      <p id="ANOTRA170048">.a. cum finem ponit cantus:</p>
+      <p id="ANOTRA170049">organum .G. appetat.</p>
+      <p id="ANOTRA170050">
+      <pb n="[35]" />(TRACTATULUS XIII)</p>
+      <p id="ANOTRA170051">[O, f. 16v, P4, f. 58r in marg.] Proportio est duarum rerum ad se invicem comparabilis collatio. Proportio vero alia est multiplex, alia superparticularis.</p>
+      <p id="ANOTRA170052">Multiplex est quae comparata alicui totum eum infra se continet plus quam semel, ita ut nil remaneat. Si bis continet: dupla dicitur, ut binarius ad unitatem. Si ter: tripla, ut ternarius ad unitatem. Si quater: quadrupla, ut quaternarius ad unitatem. Ita de caeteris.</p>
+      <p id="ANOTRA170053">Superparticularis est quae comparata alicui totum eum infra se semel continet, et insuper aliquam eius partem. Si medietatem: sesqualtera dicitur, id est acsi diceretur sesquimedia, ut ternarius ad binarium, senarius ad quaternarium. Si tertiam partem: sesquitertius, ut quaternarius ad ternarium, octonarius ad senarium. Si quartam partem: sesquiquartus, ut quinarius ad quaternarium, denarius ad octonarium. Si quintam partem: sesquiquintus, ut senarius ad quinarium, duodenarius ad denarium. Si sextam: sesquisextus, ut septenarius ad senarium, .XIIII.rius ad duodenarium. Si septimam: sesquiseptimus, ut octonarius ad septenarium, .XVI.rius ad .XIIII.rium. Si octavam: sesquioctavus, ut novenarius ad octonarium, .XVIII.rius ad .XVI.(rium). Ita de caeteris.</p>
+      <p id="ANOTRA170054">Sumuntur autem per ordinem: Sesqualteri a ternario, semper duobus intermissis; subsesqualteri a binario, uno semper intermisso. Sesquitertii a quaternario, tribus semper intermissis; subsesquitertii a ternario, duobus intermissis. Sesquiquarti a quinario: quattuor intermissis; subsesquiquarti a quaternario, tribus || [O, f. 17r in marg.] intermissis. Sesquiquinti a senario, quinque intermissis; subsesquiquinti a quinario, quattuor intermissis. Sesquisexti a 
+      <pb n="[36]" />septenario, sex intermissis; subsesquisexti a senario, quinque intermissis. || [P4, f. 58v in marg.] Sesquiseptimi ab octonario, septem intermissis; subsesquiseptimi a septenario, sex intermissis. Sesquioctavi a novenario, octo intermissis; subsesquioctavi ab octonario, septem intermissis.</p>
+      <p id="ANOTRA170055">
+      <pb n="[37]" />(TRACTATULUS XIV)</p>
+      <p id="ANOTRA170056">[O, f. 17r in marg.] Proportio est rerum diversarum apta comparatio. Sesqualtera proportio est cum duobus numeris ad se invicem comparatis unus superat alterum eius medietate, ut ternarius binarium, senarius quaternarium, novenarius senarium. Sesquitertia est cum alter alterius tertia parte superatur, ut ternarius sui ipsius tertia parte a quaternario superatur, si conferantur, et senarius ab octonario, novenarius ab duodenario; habet enim duodenarius novenarium integrum et eius tertiam partem, scilicet ternarium. Sesquioctava proportio est: cum alter alteri comparatus sui ipsius octava parte vincitur, ut octonarius si novenario conferatur, octava sui parte vincitur, id est unitate; unitas enim octies ducta: conficit octonarium; est igitur unum octava pars octonarii; hoc idem videbitur, si sedecim ad decem et octo comparaveris; nam decem et octo sedecim continet, et insuper eius octavam partem, id est duo. Dupla proportio || [O, f. 17v in marg.] est, cum numerus numero comparatus bis illum continet, ut duo sunt bis unum, quattuor bis duo, octo bis quattuor, sedecim bis octo.</p>
+      <p id="ANOTRA170057">Haec omnia igitur musicae rationi conveniunt, excepto quod ibi aliis nominibus proportiones appellantur. Quod enim in numero dicitur sesqualter, hoc in musica diapente, quia cum vox voci comparatur: et quarum altera alteram continet et eius medietatem super, nimirum ea symphonia diapente dicitur. Quod autem in numero sesquitertius dicitur: hoc in musica diatessaron vocatur, quia cum vox vocem continet eiusque tertiam partem: diatessaron consonantia redditur. Et quod in numero sesquioctavus: in musica toni vocabulo significatur, quia cum vox vocem continet eiusque octavam partem super: hanc consonantiam tonum vocari voluerit. Quod numeri duplum est: musica diapason habet, quia cum vox vocem dupliciter sonat: absque dubio sicut duplum in numero, sic diapason in musica.</p>
+      <p id="ANOTRA170058">
+      <pb n="[38]" />(TRACTATULUS XV)</p>
+      <p id="ANOTRA170059">[O, f. 17v in marg.] Partes quidem diapason sunt diapente et diatessaron. Illis enim convenientibus conficitur totum. Videamus quoque si hoc in numero non eveniat. Duodenarius enim duplus plus est senario. Sed duodenarius novenario comparatus: reddit sesquitertiam proportionem. At novenarius senario com || [O, f. 18r in marg.] paratus: sesqualterum facit. Partes igitur dupli: sesqualter et sesquitertius. Idem contingit in quaternario, senario, octonario et caeteris duplis. Si ergo quod numeri est duplum, musica diapason vocat, et quod ibi sesqualter, hic diapente, quod autem ibi sesquitertius, hic diatessaron nominatur: manifestum est quod sicut sesqualterum et sesquitertium duplus continet, ita diatessaron et diapente in diapason contineri. Diapente constituunt tres toni et semitonium; diatessaron vero duo toni et semitonium.</p>
+      <p id="ANOTRA170060">
+      <pb n="[39]" />(TRACTATULUS XVI)</p>
+      <p id="ANOTRA170061">[O, f. 18r, P4, f. 58v in marg.] Est autem in musicis diapason: quae in numeris dupla proportio. Quae in numeris tripla: in musicis diapason et diapente. Quae in numeris quadrupla: in musicis bisdiapason. Quae in numeris superparticularis sesqualtera: in musicis diapente. Quae illic sesquitertia: hic diatessaron. Quae illic sesquioctava: in musicis tonus dicitur.</p>
+      <p id="ANOTRA170062">Iccirco autem diapason in dupla proportione est: quod ea corda quae a gravi ad acutam sonat diapason, totam eam integre bis continet, nec aliquid superest. Diapason vero et diapente in tripla, quod ea quae in illa est consonantia gravior, acutam ter integre continet, nec aliquid superest. Bisdiapason in quadrupla, quod ea quae gravior existit, acutam quater in se totam continet, nec aliquid || [O, f. 18v in marg.] superest. Diapente in sesqualtera, quoniam ea quae gravior est in illa consonantia, acutam totam in se semel continet, et insuper solam eius medietatem. Diatessaron in sesquitertia, quoniam ea quae gravior est in ea consonantia, acutam in se continet, et eius tertiam partem.</p>
+      <p id="ANOTRA170063">Tonus ideo in sesquioctava, quoniam gravior in ea consonantia acutam in se continet, et eius octavam partem.</p>
+      <p id="ANOTRA170064">Constat vero diapason ex diatessaron et diapente, scilicet ex quinque tonis et duobus semitoniis, diciturque diapason quasi consonantia de duplo. Diapente constat ex tribus tonis et semitonio, diciturque diapente consonantia || [P4, f. 59r in marg.] de quinque cordis, scilicet cum quinta primae consonat. Diatessaron constat ex duobus tonis et semitonio, diciturque diatessaron consonantia de quattuor cordis, cum scilicet quarta primae consonat. Tonus unius tantum vel in acuto vel in gravi facit consonantiam cordae.</p>
+      <p id="ANOTRA170065">Semitonium vero dicitur, non quod revera medietas toni sit, sed quod semum dicitur quicquid plenum non est, licet ab integra medietate aliquantulum distet. Semitonium vero est: quod de diatessaron sublatis duobus tonis remanet, vel tribus tonis ablatis de diapente. Constat vero semitonium in superpartienti proportione.</p>
+      <p id="ANOTRA170066">
+      <pb n="[40]" />Differt autem superpartiens proportio a superparticulari, quod superparticularis minorem in se continet et eius medietatem, aut ultra medietatem aliquam partem quae potest || [O, f. 19r in marg.] dici quota sit, ut tertiam vel quartam vel quintam. Superpartiens vero minorem in se continet et eius aliquam partem, sed quae neutrius potest dici quota sit, ut quinarius ad ternarium. Superbipartiens est septenarius ad quinarium, novenarius ad septenarium, iccirco quia totum minorem quisque eorum in se continet, et insuper aliquam eius partem, quae non potest dici quota sit pars, vel minoris vel maioris. Quinarius enim ternarium in se continet, et insuper duas de eo unitates obtinet, hoc est binarium, qui non potest dici quota pars sit, vel ternarii vel quinarii. Ita de caeteris. Supertripartiens dicitur, ut septenarius ad quaternarium, undenarius ad octonarium, quartadenarius ad undenarium. Quisque enim eorum minorem in se continet, et insuper tres de eo obtinet unitates, hoc est ternarium, qui neutrius potest dici quota pars sit. In superpartienti itaque proportione: semitonium consistit. Quod ut planius videatur, constituamus diatessaron in numeris et eius duos tonos, quodque de eo restat, semitonium. || [P4, f. 59v in marg.]</p>
+      <p id="ANOTRA170067">.CXCII. ter habet .LXIIII., igitur ad .CXCII. .CCLVI. in sesquitertia proportione consistit totum in se continens eum et insuper eius tertiam partem, ac diatessaron facit. Inter hos ergo extremos: duo toni et semitonium collocentur. Octava pars .CXCII. est .XXIIII., quae sibi addita facit .CCXVI. in sesquioctava proportione, et tonum constituit. Huius vero, id est .CCXVI., || [O, f. 19v in marg.] octava pars est .XXVII., qui ad .CCXVI. additi .CCXLIII. reddunt, et tonum constituunt. Igitur inter .CCXLIII. et .CCLVI. semitonii proportio consistit, quoniam de diatessaron sublatis duobus tonis, quod restat, semitonium est: et est in superpartienti comparatione. Nam .CCLVI. .CCXLIII. in se continent, et de eo tredecim insuper obtinent unitates, estque inter eos proportio super.XIII.partiens.</p>
+      <p id="ANOTRA170068">Quia vero diapente superat diatessaron uno tono: constituamus sesquioctavum ad .CCLVI.: eritque .CCLXXXVIII. ad eum in sesquioctava proportione, et ad .CXCII. in sesqualtera comparatione faciens ad eum diapente. .CC. quippe et .LVI. octava pars est .XXXII., qui eis additi: faciunt .CCLXXXVIII.</p>
+      <p id="ANOTRA170069">
+      <pb n="[41]" />Est vero semitonium minus quam integra toni medietas, ut iam diximus. Nam .XIII., qui locum semitonii obtinent inter .CCXLIII. et inter .CCLVI., octies ducti: medietatem .CCXLIII. non restituunt, nec sedecies ducti totum perficiunt. Quod eveniret, si semitonium integra toni medietas existeret. Medietas quippe sesquioctavae proportionis octies ducta medietatem: sedecies ducta restituit totius integritatem.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Compendium musicae practicae</title>
+        <title type="abbrev">MURCOM</title>
+        <author>Johannes de Muris</author>
+        <date notBefore="1300" notAfter="1399">14th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Stephen E. Hayes</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Peter M. Lefferts</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Luminita Florea Aluas</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1992</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>Johannis de Muris Notitia artis musicae et Compendium musicae practicae</emph>; 
+<emph>Petrus de Sancto Dionysio Tractatus de musica</emph>, ed. Ulrich Michels, Corpus scriptorum de musica, vol. 17 ([Rome]: American Institute of Musicology, 1972), 119–45. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Iohannes de Muris: Compendium musicae practicae</title>
+          
+<idno type="LML">IOH. MUR. comp.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">A-SP Cod. 135/6 (29.4.4), 22v-24</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">A-SP Cod. 264/4 (27.2.25), 56v-59v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Gu 70 (71), 45rb-46va</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 14741, II-IV</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat Reg. lat. 1146, 2r-5r</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="MURCOM0001">
+      <pb n="[119]" />Compendium musicae practicae</p>
+      <p id="MURCOM0002">Capitulum I</p>
+      <p id="MURCOM0003">De maxima</p>
+      <p id="MURCOM0004">Partes prolationis quot sunt? Quinque.</p>
+      <p id="MURCOM0005">Quae? Maxima, longa, brevis, semibrevis et minima.</p>
+      <p id="MURCOM0006">Maxima quae est? Bipartita est.</p>
+      <p id="MURCOM0007">Quomodo? Aut enim longissima vel longior appellatur. Longissima quae est? Quae sub uno accentu tribus longis temporibus mensuratur.</p>
+      <p id="MURCOM0008">Longior quae est? Quae sub uno accentu duobus longis temporibus profertur.</p>
+      <p id="MURCOM0009">Quid est tempus in generali? Mensura vocis prolatae sub uno motu continuo.</p>
+      <p id="MURCOM0010">Quid est tempus longum? Quod in tres partes et partium partes usque ad vocis minimum separatur.</p>
+      <p id="MURCOM0011">
+      <pb n="[120]" />Quid est minimum in voce? Quod est indivisibile naturaliter.</p>
+      <p id="MURCOM0012">Quot sunt minimae in temporum perfections longorum? 27.</p>
+      <p id="MURCOM0013">Quae? Quae per ternariam divisionem ad indivisibilem perveniunt unitatem.</p>
+      <p id="MURCOM0014">Numeri minimarum quot sunt? 81.</p>
+      <p id="MURCOM0015">Quae? Quae omnem perfectionem et imperfectionem cuiuslibet vocis continere dicuntur.</p>
+      <p id="MURCOM0016">Quid est perfectio? Id, quo aliquid est perfectum.</p>
+      <p id="MURCOM0017">Quid est imperfectio? Secundum quam aliquid est imperfectum.</p>
+      <p id="MURCOM0018">
+      <pb n="[121]" />Quid est perfectum? Quod in tres partes aequales est divisibile vel in duas inaequales, quarum minor a maiore se ipsa integre superatur.</p>
+      <p id="MURCOM0019">Quid est imperfectum? Quod in duas partes dividitur aequales.</p>
+      <p id="MURCOM0020">Quid est neutrum? Quod per amotionem perfectum imperficit et per additionem perficit imperfectum.</p>
+      <p id="MURCOM0021">
+      <pb n="[122]" />Capitulum II</p>
+      <p id="MURCOM0022">De longa</p>
+      <p id="MURCOM0023">Longa quae est? Bipartita est.</p>
+      <p id="MURCOM0024">Quomodo? Aut enim perfecta aut imperfecta proprie nominatur.</p>
+      <p id="MURCOM0025">Cur dicis proprie? Ad differentiam aliarum partium, quibus licet perfectum et imperfectum conveniant, tamen alia nomina sibi vendicant et non ista.</p>
+      <p id="MURCOM0026">Longa perfecta quae est? Quae sub uno accentu per tria tempora brevia mensuratur.</p>
+      <p id="MURCOM0027">Longa imperfecta qua est? Quae sub uno accentu per duo tempora brevia mensuratur.</p>
+      <p id="MURCOM0028">Quid est tempus breve? Tertia pars temporis longi, eadem divisione divisibile qua est totum; aliter: quod, cum sit pars maximi totumque minimi, distat aequaliter ab utroque.</p>
+      <p id="MURCOM0029">
+      <pb n="[123]" />Minimae quot sunt in tempore brevi? Novem.</p>
+      <p id="MURCOM0030">Quae? Quae ter acceptae perfectum, imperfectumque constituunt bis assumptae. Quid sit perfectum et imperfectum, dictum est prius.</p>
+      <p id="MURCOM0031">
+      <pb n="[124]" />Capitulum III</p>
+      <p id="MURCOM0032">De breve</p>
+      <p id="MURCOM0033">Brevis quae est? Bipartita est.</p>
+      <p id="MURCOM0034">Quomodo? Aut enim recta brevis vel brevior nuncupatur. Recta brevis quae est? Quae sub uno tempore continuo integre prolata est.</p>
+      <p id="MURCOM0035">Cur dicis integre? Propter partes temporis, quae unum tempus integrum non dicuntur.</p>
+      <p id="MURCOM0036">Quid est unum tempus? Eadem diffinitio temporis et unius temporis assignatur.</p>
+      <p id="MURCOM0037">Quantae durationis est unum tempus? Duplicis.</p>
+      <p id="MURCOM0038">Quomodo? Voluntariae durationis vel artificialis.</p>
+      <p id="MURCOM0039">
+      <pb n="[125]" />Voluntaria quae est? Quae prolixe vel velociter formatur secundum libitum proferentis.</p>
+      <p id="MURCOM0040">Artificialis quae est? Quae prolata per tria dividitur aequalia, quorum quodlibet unica divisione similiter dividatur; aliter: quae divisibilis est per novem aequalia minima, dum profertur.</p>
+      <p id="MURCOM0041">Brevior quae est? Quae rectae brevis duas partes apprehendit.</p>
+      <p id="MURCOM0042">In breviori minimae quot sunt? Sex.</p>
+      <p id="MURCOM0043">Quae? Quarum medietas addita super totum perficit rectam brevem.</p>
+      <p id="MURCOM0044">
+      <pb n="[126]" />Capitulum IV</p>
+      <p id="MURCOM0045">De semibreve</p>
+      <p id="MURCOM0046">Semibrevis quae est? Bipartita est.</p>
+      <p id="MURCOM0047">Quomodo? Aut enim parva vel minor potest convenienter appellari.</p>
+      <p id="MURCOM0048">Parva quae est? Tertia pars rectae brevis, cuius divisio ternaria in vocis minimo requiescit.</p>
+      <p id="MURCOM0049">Minor quae est? Quae duas partes parvae continet semibrevis.</p>
+      <p id="MURCOM0050">Unde dicitur semibrevis? A semis, quo pars integri denominatur.</p>
+      <p id="MURCOM0051">Quare dicitur semibrevis? A maiori vel minori parte brevis, non autem ab aequali.</p>
+      <p id="MURCOM0052">
+      <pb n="[127]" />Capitulum V</p>
+      <p id="MURCOM0053">De minima</p>
+      <p id="MURCOM0054">Minima quae est? Impartita est.</p>
+      <p id="MURCOM0055">Quare? Quia non est minimo dare minus.</p>
+      <p id="MURCOM0056">Quid est minimum absolute? Quod est metrum et mensura omnium, quae in eodem genere continentur.</p>
+      <p id="MURCOM0057">Quid est mensura? Quae totiens repetita, quot mensurato fuerit finaliter adaequata.</p>
+      <p id="MURCOM0058">Quid vult dicere mensurato mensuram adaequari? Plures cantus sub multitudine vocum in bona proportione musicali consonari.</p>
+      <p id="MURCOM0059">
+      <pb n="[128]" />Capitulum VI</p>
+      <p id="MURCOM0060">De musica</p>
+      <p id="MURCOM0061">Quid est musica? Ars artium domina, continens omnia principia methodorum, in primo gradu certitudinis confirmata, in natura rerum omnium modo mirabili proportionaliter internata, delectabilis in intellectu, amabilis in auditu, tristes laetificans, avaros amplificans, confundens invidos, confortans languidos, insopiens vigilantem, evigilans dormientem, nutriens amorem, honorans possessorem, finem debitum assecuta, ad laudem Dei finaliter instituta.</p>
+      <p id="MURCOM0062">Aliter: Musica est scientia docens artem et modum recte cantandi per notulas debite figuratas.</p>
+      <p id="MURCOM0063">
+      <pb n="[130]" />Quid est notula? Figura quadrilatera soni numerati tempore mensurati ad placitum significativa.</p>
+      <p id="MURCOM0064">Quid est figura quadrilatera? Quae quatuor angulis continetur.</p>
+      <p id="MURCOM0065">Quid est angulus? Triplex est.</p>
+      <p id="MURCOM0066">Quomodo? Rectus, obtusus et acutus.</p>
+      <p id="MURCOM0067">Quid est rectus? Qui causatur ex casu lineae perpendicularis super rectam.</p>
+      <p id="MURCOM0068">Quid est obtusus? Qui maior est recto.</p>
+      <p id="MURCOM0069">Quid est acutus? Qui minor est recto.</p>
+      <p id="MURCOM0070">
+      <pb n="[131]" />Capitulum VII</p>
+      <p id="MURCOM0071">De figuris</p>
+      <p id="MURCOM0072">Figurae quot accidunt? Unum.</p>
+      <p id="MURCOM0073">Quid? Significatio tantum.</p>
+      <p id="MURCOM0074">Significationes figurarum quot sunt? Quinque.</p>
+      <p id="MURCOM0075">Quae? Maxinae, longae, breves, semibreves, minimae.</p>
+      <p id="MURCOM0076">Da de maximis. 81.</p>
+      <p id="MURCOM0077">Da de longis. 27.</p>
+      <p id="MURCOM0078">Da de brevibus. 9.</p>
+      <p id="MURCOM0079">Da de semibrevibus. 3.</p>
+      <p id="MURCOM0080">Da de minimis. 1.</p>
+      <p id="MURCOM0081">Da ulterius. Nihil.</p>
+      <p id="MURCOM0082">Quot modis notulae variantur? Tot modis et figurae.</p>
+      <p id="MURCOM0083">Figurae quot sunt? Figurarum alia est aequilatera alia inaequilatera, rectiangula vel obtusiangula, caudata vel incaudata sursum vel deorsum, punctata vel non, ante vel retro, dextrorsum vel sinistrorsum saepius ordinata.</p>
+      <p id="MURCOM0084">
+      <pb n="[132]" />Maxima qualiter figuratur? Quadrilatera, inaequilatera, rectiangula, caudata dextrorsum sursum vel deorsum. Figura maximae notatur ut hic: [MXcddx,MXcsdx].</p>
+      <p id="MURCOM0085">Longa qualiter figuratur? Ut maxima, nisi quod aequilatera figuratur, ut hic: [L,Bcsdx].</p>
+      <p id="MURCOM0086">Brevis qualiter figuratur? Ut longa, nisi quod scribitur incaudata, ut hic: [B].</p>
+      <p id="MURCOM0087">Semibrevis qualiter figuratur? Quadrilatera, obtusiangula, aequilatera, non caudata, ut hic: [S].</p>
+      <p id="MURCOM0088">
+      <pb n="[133]" />Minima qualiter figuratur? Ut semibrevis, nisi quod sursum est caudata, ut hic: [M].</p>
+      <p id="MURCOM0089">Perfectum qualiter figuratur? Sicut imperfectum.</p>
+      <p id="MURCOM0090">Ubi possunt haec discerni? In situ vel in ordine, qui ponitur in figuris.</p>
+      <p id="MURCOM0091">Quot modis cognoscitur perfectum? Quinque.</p>
+      <p id="MURCOM0092">Quibus? Quando figura similis sibi ipsi aut duabus vel tribus sui partibus vel puncto vel pausae sui valoris praeponitur.</p>
+      <p id="MURCOM0093">Quot modis cognoscitur imperfectum? Duobus.</p>
+      <p id="MURCOM0094">Quibus? Quando figurae sui tertia pars praeponitur vel postponitur sive valor, ut in hac figura patet in quatuor gradibus manifeste:</p>
+      <p id="MURCOM0095">
+      <pb n="[134]" />[CSM17:134; text: maxima, primus gradus, longa, secundus gradus, brevis, tertius gradus, semibrevis, quartus gradus] 
+      <figure>
+        <graphic url="/images/MURCOM_01GF.gif" />
+      </figure></p>
+      <p id="MURCOM0096">
+      <pb n="[135]" />Capitulum VIII</p>
+      <p id="MURCOM0097">De pausis</p>
+      <p id="MURCOM0098">Descriptio pausarum in quatuor gradibus singillatim:</p>
+      <p id="MURCOM0099">[CSM17:135]</p>
+      <p id="MURCOM0100">
+      <pb n="[137]" />Capitulum IX</p>
+      <p id="MURCOM0101">De ligaturis</p>
+      <p id="MURCOM0102">Supradictae notulae cuius figurae? Simplicis.</p>
+      <p id="MURCOM0103">Quare? Quia adinvicem sunt discretae et nullo modo componuntur.</p>
+      <p id="MURCOM0104">Da harum composita. Ligaturae.</p>
+      <p id="MURCOM0105">Quid est ligatura? Coniunctio debita notularum secundum sub et supra.</p>
+      <p id="MURCOM0106">Ligaturae quot sunt? Duae.</p>
+      <p id="MURCOM0107">Quae? Recta et obliqua.</p>
+      <p id="MURCOM0108">Recta quae est? Bipartita est.</p>
+      <p id="MURCOM0109">Quomodo? Aut enim est ascendens, cum primus punctus inferior est secundo, vel descendens, cum altior est illo.</p>
+      <p id="MURCOM0110">Partes ligaturae quot sunt? Duae et quandoque tres.</p>
+      <p id="MURCOM0111">Quae? Principium, medium et finis.</p>
+      <p id="MURCOM0112">Quomodo cognoscitur principium? Tripliciter.</p>
+      <p id="MURCOM0113">
+      <pb n="[138]" />Qualiter? Cum proprietate, sine proprietate et cum opposita proprietate.</p>
+      <p id="MURCOM0114">Omnis vero ligatura descendens tractum habens a parte sinistra descendentem, ut hic: [Lig3cdsndd], et omnis ascendens carens omni tractu, ut hic: [Lig3aa], cum proprietate dicitur.</p>
+      <p id="MURCOM0115">Omnis vero ligatura descendens carens omni tractu, ut hic: [Lig3dd], et omnis ascendens tractum habens a parte dextra descendentem, ut hic: [Lig2La], sine proprietate dicitur.</p>
+      <p id="MURCOM0116">Omnis autem ligatura tam ascendens quam descendens tractum habens a primo puncto in sinistra parte ascendentem, ut hic: [Lig2cssna,Lig2cssnd], cum opposita proprietate dicitur.</p>
+      <p id="MURCOM0117">Qualiter cognoscitur finis? Duobus modis.</p>
+      <p id="MURCOM0118">Quibus? Cum perfectione et sine perfectione.</p>
+      <p id="MURCOM0119">Omnis punctus quadratus directe supra paenultimum vel sub paenultimo 
+      <pb n="[139]" />situatus ut hic: [Lig2art,Lig2cdsnd], cum perfectione dicitur. Si autem a latere et indirecte, ut hic: [Lig2a], quod solum evenit ascendendo, sine perfectione dicitur.</p>
+      <p id="MURCOM0120">Obliqua ligatura quae est? Quae ex obliquis corporibus figuratur, ut hic: [Lig2od,Lig2oa]; cuiuslibet corporis obliqui ultimus punctus brevis dicitur.</p>
+      <p id="MURCOM0121">
+      <pb n="[140]" />Omnis ligatura cum proprietate primam facit brevem, omnis vero sine proprietate longam.</p>
+      <p id="MURCOM0122">Omnis opposita proprietas primam facit semibrevem. Omnis perfectio ultimam facit longam, imperfectio vero brevem.</p>
+      <p id="MURCOM0123">Omnes mediae sunt breves, nisi cum opposita proprietate coniungantur, ut hic: [Lig3cssndod].</p>
+      <p id="MURCOM0124">In omni corpore obliquo primus punctus sine tractu longus dicitur; si cum tractu sinistrorsum descendente, brevis est; si ascendente, semibrevis est.</p>
+      <p id="MURCOM0125">
+      <pb n="[141]" />In ligaturis longae quolibet modo imperficiuntur, ut in figuris simplicibus est ostensum.</p>
+      <p id="MURCOM0126">
+      <pb n="[142]" />Capitulum X</p>
+      <p id="MURCOM0127">De modis</p>
+      <p id="MURCOM0128">Quid est modus? Ordinatio figurarum varias affectationes animi in cantibus demonstrans.</p>
+      <p id="MURCOM0129">Modi cantandi quot sunt? Quinque.</p>
+      <p id="MURCOM0130">Qui? Primus, si alicui figurae sua tertia pars postponatur. Secundus est e contrario. Tertius, si alicui figurae suae duae partes vel tres vel ipsa postponatur.</p>
+      <p id="MURCOM0131">Quartus est econtra. Quintus omnes mixtim et varie comprehendit.</p>
+      <p id="MURCOM0132">
+      <pb n="[143]" />Capitulum XI</p>
+      <p id="MURCOM0133">De perfectione et imperfectione</p>
+      <p id="MURCOM0134">Quot modis imperficitur perfectum? Quot modis contingit ipsum mediate vel immediate divisione ternaria separari.</p>
+      <p id="MURCOM0135">Cur dicis immediate? Propter partes propinquas.</p>
+      <p id="MURCOM0136">Cur dicis mediate? Propter partes remotas.</p>
+      <p id="MURCOM0137">Quae sunt partes propinquae? Quarum tres integre totum reddunt.</p>
+      <p id="MURCOM0138">Quae sunt remotae? Quarum plures tribus ad totum integrum requiruntur.</p>
+      <p id="MURCOM0139">Totum integrum quot modis nominatur? Quatuor.</p>
+      <p id="MURCOM0140">Quibus? Perfecte perfectum, perfecte imperfectum, imperfecte perfectum, imperfecte imperfectum.</p>
+      <p id="MURCOM0141">
+      <pb n="[144]" />Quomodo cognoscuntur? Per ea, quae supra dicta sunt. Quomodo perficitur imperfectum? Duplex est imperfectum: immediatum et mediatum.</p>
+      <p id="MURCOM0142">Immediatum, ut longa per brevem, brevis per semibrevem et generaliter omne totum per tertiam sui partem et eius signum perfectionis est punctus additus dextrorsum.</p>
+      <p id="MURCOM0143">Mediatum est, ut longa per semibrevem, brevis per minimam et generaliter omne totum per tertiam tertiae sui partis partem, cuius signum perfectionis est punctus additus sursum et sic per angulos vel latera notulae proportionaliter procedendo.</p>
+      <p id="MURCOM0144">Punctus quot significata habet? Plura.</p>
+      <p id="MURCOM0145">Quae? Significat perfectionem, temporis significationem, perfectionis separationem et modi divisionem quandoque.</p>
+      <p id="MURCOM0146">
+      <pb n="[145]" />Capitulum XII</p>
+      <p id="MURCOM0147">De cantu regulari et irregulari</p>
+      <p id="MURCOM0148">Quot modis fit cantus in generali? Duobus.</p>
+      <p id="MURCOM0149">Quibus? Est enim cantus regularis et irregularis.</p>
+      <p id="MURCOM0150">Quid est regularis? Quando cantus fit de tempore perfecto contra perfectum vel de imperfecto contra imperfectum, perfectionesque simul incipiunt et terminantur. Irregularis per oppositum appellatur.</p>
+      <p id="MURCOM0151">Qualiter? Quando fit cantus de perfecto contra imperfectum aut econtra, perfectioque unius in medio vel in fine alterius est incepta ut in Thoma tibi obsequia et si qua sunt similia.</p>
+      <p id="MURCOM0152">Explicit Compendium musicae practicae.</p>
+    </body>
+  </text>
+</TEI>

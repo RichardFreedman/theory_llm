@@ -14,7 +14,14 @@ from io import BytesIO
 import pandas as pd
 import os
 import re
+from pathlib import Path
 from datetime import datetime
+
+
+# Detect environment
+def is_local():
+    """Check if running locally vs on Digital Ocean"""
+    return os.getenv("STREAMLIT_ENV") != "production"
 
 # Page config
 st.set_page_config(page_title="Music Theory LLM RAG System", page_icon="🎵", layout="wide")
@@ -58,6 +65,12 @@ class State(TypedDict):
 st.write("This Streamlit application allows you to query a database of music theory texts using a large language model (LLM) with retrieval-augmented generation (RAG). Learn more about the system and how to write effective prompts with the tools at the left.") 
 
 st.sidebar.header("📚 About the Project")
+
+# Debug mode indicator
+if is_local():
+    st.sidebar.warning("🔧 Running in LOCAL DEBUG mode with test databases")
+    base_path = "theory_llm_chroma_files" if is_local() else "../chroma_files"
+    st.sidebar.info(f"Chroma databases: {base_path}/")
 
 intro  = st.sidebar.checkbox("How to Use this Application", value=False, key="intro")
 
@@ -188,25 +201,26 @@ if show_sources:
 
 st.sidebar.markdown("---")
 # Database configurations
+base_path = "theory_llm_chroma_files" if is_local() else "../chroma_files"
 db_configs = []
 if use_english:
     db_configs.append({
         "name": "English",
-        "path": "../chroma_files/chroma-db_tme_english",
+        "path": f"{base_path}/chroma-db_tme_english",
         "collection_name": "tme_english",
         "description": "TME "
     })
 if use_italian:
     db_configs.append({
         "name": "Italian",
-        "path": "../chroma_files/chroma-db_italian",
+        "path": f"{base_path}/chroma-db_italian",
         "collection_name": "tmi_italian",
         "description": "Thesaurus Musicarum Italicarum"
     })
 if use_latin:
     db_configs.append({
         "name": "Latin",
-        "path": "../chroma_files/chroma-db_latin",
+        "path": f"{base_path}/chroma-db_latin",
         "collection_name": "tml_latin",
         "description": "Thesaurus Musicarum Latinarum"
     })

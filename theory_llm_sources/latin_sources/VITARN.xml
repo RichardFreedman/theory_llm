@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Ars nova</title>
+        <title type="abbrev">VITARN</title>
+        <author>Philippe de Vitry</author>
+        <date notBefore="1300" notAfter="1399">14th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Stephen E. Hayes</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Hannah Jo Smith</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Andreas Giger</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1996</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Gilbert Reaney, André Gilles, and Jean Maillard, "The 'Ars nova' of Philippe de Vitry," 
+<emph>Musica disciplina</emph> 10 (1956): 5-33, 13–32. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Philippus de Vitriaco: Ars nova</title>
+          
+<idno type="LML">PHIL. VITR.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 14741, IV-V (Fragment)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat Barb. lat. 307, 17-20v</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="VITARN0001">
+      <pb n="[13]" />ARS NOVA MAGISTRI PHILIPPI DE VITRIACO</p>
+      <p id="VITARN0002">A GILBERT REANEY, ANDRE GILLES ET JEAN MAILLARD EDITA</p>
+      <p id="VITARN0003">Capitulum I</p>
+      <p id="VITARN0004">Quod musicae tria sunt genera</p>
+      <p id="VITARN0005">V 17</p>
+      <p id="VITARN0006">Musicae tria sunt genera: mundanum, humanum et instrumentale. De instrumentali ad praesens est intentio. Unde musica instrumentalis dicitur quidquid contingit per aliqua instrumenta, ut cithara, viella, monochordum, de quo tantum ad praesens est intentio. Unde monochordum est instrumentum habens unam chordam, et concordantia eius fit per tria genera modorum, scilicet per diatonicum, chromaticum et enarmonicum. Sed de diatonico hic intendimus.</p>
+      <p id="VITARN0007">Capitulum II</p>
+      <p id="VITARN0008">Quod musicae 13 sunt species</p>
+      <p id="VITARN0009">V 17</p>
+      <p id="VITARN0010">Unde diatonicum est quidquid concurrit per duos tonos et semitonium. Et sunt eius species 13. Quarum prima species est unisonus in sonis, quod est aequalitas in numeris, ut unitas ad unitatem. Secunda diapason in sonis, quod est duplum in numeris, ut binarius ad unitatem. Tertia diapente in sonis, quod est sexquialterum in numeris, ut tertius ad secundum. Quarta est diatessaron in sonis, quod est sexquitertium in numeris, ut quartus ad tertium. Quinta est tonus, quod est sexquioctavum, ut 9 ad 8. Sexta semiditonus, quod est superquinque-partiens vicesimas septimas, ut 32 ad 27. Septima ditonus, quod est super-17-partiens 64, ut 81 ad 64. Octava semitonium, quod est super-13-partiens 243, ut 256 ad 243. Nona est semitonium cum diapente, quod est super-47-partiens 81, ut 128 ad 81. Decima est tonus cum diapente, 
+      <pb n="[14]" />quod est super-22-partiens 32, ut 54 ad 32. Undecima est semiditonus cum diapente, quod est super-7-partiens 9, ut 16 ad 9. Duodecima est ditonus cum diapente, quod est super-230-partiens 256, ut 486 ad 256. Decima tertia tritonus, quod est super-217-partiens 512, ut 729 ad 512.</p>
+      <p id="VITARN0011">Capitulum III</p>
+      <p id="VITARN0012">Quod omnis inaequalitas ab aequalitate procedit</p>
+      <p id="VITARN0013">V 17</p>
+      <p id="VITARN0014">Sciendum quod omnis inaequalitas procedit ab aequalitate. Et hoc patet si sumantur tres unitates, quod dicitur esse aequalitas, et ponantur in uno loco. Unde sequitur regula quod, si sumatur aequale primo et ponatur in primo loco, deinde sumatur aequale primo et secundo et ponatur in secundo loco, deinde sumatur aequale primo et duplum secundum et aequale ponatur tertio in tertio loco, tunc provenit duplum, quod est prima species multiplicitatis: Et sic faciendo de duplo venit triplum, et sic de aliis: duplum 1, 2, 4; triplum 1, 3, 9; quadruplum 1, 4, 16. Et per locum, a primo ad ultimum, omnis inaequalitas provenit ab aequalitate. Et haec de multiplicibus dicta sufficiant.</p>
+      <p id="VITARN0015">Capitulum IV</p>
+      <p id="VITARN0016">De proportionibus</p>
+      <p id="VITARN0017">V 17</p>
+      <p id="VITARN0018">Et sciendum quod ex duplo multiplici provenit sexquealterum in superparticulari terminis conversis, ex triplo sexquitertium, et sic de aliis speciebus:</p>
+      <p class="textFig" id="VITARN0019">Duplum&#160;terminis&#160;conversis&#160;&#160;&#160;&#160;&#160;4&#160;&#160;&#160;2&#160;&#160;&#160;1
+      <lb />Sexquialterum&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;4&#160;&#160;&#160;6&#160;&#160;&#160;9
+      <br /></p>
+      <p id="VITARN0020">
+      <pb n="[15]" />Et sciendum quod ex sexquialtero in superparticulari provenit superbipartiens in superpartienti terminis conversis, et similiter ex sexquitertio supertripartiens, et sic de aliis:</p>
+      <p class="textFig" id="VITARN0021">Sexquialterum&#160;terminis&#160;conversis&#160;&#160;&#160;9&#160;&#160;&#160;&#160;6&#160;&#160;&#160;&#160;4
+      <lb />Superbipartiens&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;9&#160;&#160;&#160;15&#160;&#160;&#160;25
+      <br /></p>
+      <p id="VITARN0022">Et sciendum quod ex sexquialtero in superparticulari provenit duplum sexquialterum in multiplici superparticulari terminis non conversis, et sic de aliis:</p>
+      <p class="textFig" id="VITARN0023">Sexquialterum&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;4&#160;&#160;&#160;&#160;6&#160;&#160;&#160;9
+      <lb />Dupliciter&#160;sexquialterum&#160;&#160;&#160;&#160;&#160;4&#160;&#160;&#160;10&#160;&#160;25
+      <br /></p>
+      <p id="VITARN0024">Item sciendum quod ex superbipartienti in superpartienti provenit duplum superbipartiens in multiplici superpartienti terminis non conversis:</p>
+      <p class="textFig" id="VITARN0025">Superbipartiens&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;9&#160;&#160;&#160;15&#160;&#160;&#160;25
+      <lb />Dupliciter&#160;superbipartiens&#160;&#160;&#160;9&#160;&#160;&#160;24&#160;&#160;&#160;64
+      <br /></p>
+      <p id="VITARN0026">Et sciendum quod, si aliqua proportio multiplicetur per eundem numerum, semper resultabit eadem proportio:</p>
+      <p class="textFig" id="VITARN0027">Sexquialterum&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;3&#160;&#160;&#160;&#160;2
+      <lb />Idem&#160;sexquialterum&#160;&#160;&#160;&#160;9&#160;&#160;&#160;&#160;4
+      <br /></p>
+      <p id="VITARN0028">Et sciendum quod, si vis ex una proportione facere duas, multiplica primum terminum in primo et secundum in secundo et propositum primum in secundo, et habebis medium:</p>
+      <p id="VITARN0029">[MD10:15,1; text: Sexquialterum, Medium, Sexquialterum 9, 6, 4, 3, 2] 
+      <figure>
+        <graphic url="/images/VITARN_01GF.gif" />
+      </figure></p>
+      <p id="VITARN0030">Et sciendum quod, si vis differentiam duarum proportionum invenire, scribe proportiones quascumque volueris, ita quod prima sit sub prima, secunda sub secunda. Et multiplica per crucem, ita quod prima superior in secundam inferiorem disponatur, et ultima superior in primam inferiorem opponatur, et habebis propositum:</p>
+      <p id="VITARN0031">[MD10:15,2; text: Tonus, Diapente, Diatessaron, 9, 8, 4, 3, 2]</p>
+      <p id="VITARN0032">
+      <pb n="[16]" />Capitulum V</p>
+      <p id="VITARN0033">De monochordi proportione</p>
+      <p id="VITARN0034">V 17v</p>
+      <p id="VITARN0035">Sequitur de proportione monochordi. Si aliqua linea in quantitate abbrevietur, acuitur vel elevatur in sono; et sciendum quod omnis medietas chordae aequaliter sonat suo toto. Petitiones sunt duae, scilicet similis soni simile signum, diversi soni diversa signa. Et sciendum quod bis diatessaron cum tono, vel diapente cum diatessaron, facit diapason. Et sciendum quod ditonus cum semitonio facit diatessaron.</p>
+      <p id="VITARN0036">Item sciendum quod, si tu vis super lineam datam constituere omnes species proportionis musicae secundum diatonicum genus, primo ponendus est tonus, deinde alius tonus et postea semitonium a [Gamma] usque ad octavum G, quod finis dicitur primi ordinis diatonici generis propter confusionem differentiarum; deinde ab octavo G usque ad 15 g, sicut superius dictum est; deinde a 15 g usque ad 20, et ultra si possibilitas sit in voce; sed secundum usum nostrum non est, et ut habeatur magis planum, sic pateat in figura:</p>
+      <p id="VITARN0037">[MD10:16; text: tonus, semitonium, [Gamma], A, B, C, D, E, F, G, ab-[sqb], c, d, e, f, g, t']</p>
+      <p id="VITARN0038">Capitulum VI</p>
+      <p id="VITARN0039">De operatione monochordi</p>
+      <p id="VITARN0040">V 17v</p>
+      <p id="VITARN0041">Sequitur de proportione monochordi secundum operationem. Sit aliqua linea tota [Gamma], cuius medietas sit aliud G et eius medietatis medietas sit tertium g. Item de primo [Gamma] tres partes sunt C, cuius medietas sit aliud c et istius medietatis medietas sit tertium cc. Item de primo C tres 
+      <pb n="[17]" />partes sunt F, cuius medietas sit secundum f et huius medietas sit tertium ff. Item de primo [Gamma] duae partes sunt D, cuius medietas sit aliud d et huius medietas sit tertium dd. Item dividatur D primum per 3, addita tertia parte versus primum [Gamma], et habetur primum A, cuius medietas sit secundum a et eius medietatis medietas sit tertium aa. Item de primo A duae partes sunt E primum, cuius medietas sit e secundum, cuius medietatis medietas ee tertium. Item dividatur primum E per tres, et addita tertia parte versus primum [Gamma], habetur primum B, cuius medietas est [sqb] quadratum et eius medietatis medietas secundum [sqb][sqb] quadratum. Item de primo F tres partes sunt b primum rotundum, cuius medietas sit bbb secundum rotundum et eius medietatis medietas tertium bbb rotundum.</p>
+      <p id="VITARN0042">Istorum signorum [Gamma] ad G dicuntur graves, quia gravem cantum reddunt, id est depressimum; et septem acutae quia acutum reddunt cantum; reliquae vero superacutae, quia super acutas ponuntur, vel quia superacutum, id est valde acutum, reddunt sonum. Sed praedicta septem signa monochordi [Gamma], A, B, C, D, E, F etiam in infinitum ponuntur. Sed secundum usum nostrum sex sunt nomina vocum, scilicet ut, re, mi, fa, sol, la. Et ponuntur supra praedicta signa, ita quod in quolibet G, C, F ponatur ut, et in sequentibus signis voces sequentes; et in hoc fit compositio gammatis. Unde nihil aliud est quam compositio signorum monochordi cum vocibus, et hoc planius apparebit in sequenti figura:</p>
+      <p id="VITARN0043">
+      <pb n="[18]" />[MD10:18; text: [Gamma], A, B, C, D, E, F, G, a, b, c, d, e, f, g, aa, bb, cc, dd, ee, ut, re, mi, fa ut, sol re, la mi, sol re ut, la mi re, fa [sqb] mi, sol fa ut, la sol re, sol fa, la sol, la]</p>
+      <p id="VITARN0044">Capitulum VII</p>
+      <p id="VITARN0045">De partibus musicae</p>
+      <p id="VITARN0046">V 18</p>
+      <p id="VITARN0047">Sciendum est quod quatuor sunt partes principales ipsius musicae vel gammatis. Unde prima pars est de signis et nominibus vocum, secunda de lineis et spatiis, tertia de proprietatibus, quarta de mutationibus.</p>
+      <p id="VITARN0048">Capitulum VIII</p>
+      <p id="VITARN0049">De lineis et spatiis</p>
+      <p id="VITARN0050">V 18</p>
+      <p id="VITARN0051">Habito de signis et vocibus, nunc est habendum de lineis et spatiis. Linea et spatium, prout hic sumuntur, nihil aliud sunt quam paritas et imparitas. Unde omne quod est in linea dicitur imparitas; quod est in spatio dicitur aequalitas vel paritas. Unde quodlibet signum quod sumitur in impari est in linea, et omne quod sumitur in pari est in spatio. 
+      <pb n="[19]" />Unde sequitur secundum numerum naturalem quod, si primum sit in linea, reliquum erit in spatio, et insuper omne quartum opponitur primo et omne octavum, sed in octavo loco sumitur simile signum. Ergo si primum sit in linea, reliquum erit in spatio, et e converso. Et hoc secundum quadraturam vel rectas lineas ipsius manus quarta regula et prima tenent.</p>
+      <p id="VITARN0052">Capitulum IX</p>
+      <p id="VITARN0053">De proprietatibus musicae</p>
+      <p id="VITARN0054">V 18</p>
+      <p id="VITARN0055">Sequitur de proprietatibus. Unde proprietas nil aliud est quam differentia. Et sunt tres species, scilicet [sqb] quadratum, natura et b molle sive b rotundum. Unde [sqb] quadratum dicitur esse tonus ante A, a et aa, et b molle dicitur esse semitonium ante a et aa. Natura dicitur cantus sumptus sine b, id est sine differentia. Unde regula: omne ut in G per [sqb] quadratum et voces sequentes, et omne ut in C per naturam, et omne ut in F per b molle. Unde versus:</p>
+      <p id="VITARN0056">C naturam dat, F b molle tibi signat,</p>
+      <p id="VITARN0057">G quoque [sqb] durum te semper habes caniturum.</p>
+      <p id="VITARN0058">Et haec sufficiunt de proprietatibus musicae.</p>
+      <p id="VITARN0059">Capitulum X</p>
+      <p id="VITARN0060">De mutationibus</p>
+      <p id="VITARN0061">V 18</p>
+      <p id="VITARN0062">Sequitur de mutationibus. Unde mutatio nil aliud est quam dimissio unius vocis propter aliam sub eodem sono et in eodem signo. Unde sequitur quod, ubicumque fit mutatio, oportet quod ibi sint duae voces ad minus. Sed in [Gamma] ut, A re, B mi et e la, non est nisi una vox, ergo non est ibi mutatio. Nec similiter in b fa [sqb] mi, quia ibi sunt diversa signa et diversae voces. Et quia non ponuntur sub eisdem signis, neque sub eodem sono se habent. Et ideo non potest ibi fieri mutatio, quia esset tunc contra diffinitionem. Si enim essent in uno sono, deberet dici b fa mi; et, ut plenius pateat omnibus, respiciant in monochordo.</p>
+      <p id="VITARN0063">
+      <pb n="[20]" />Sciendum quod, ubi sunt duae voces, ibi sunt duae mutationes, ut in F fa ut, in quo dicitur fa ut, ut fa. Et aliter, ubicumque sunt tres voces, ibi sunt sex mutationes, ut in G sol re ut et in aliis. Quoniam, ubi duae sunt, ibi prima mutatur in secundam et e converso, et ubi tres, prima mutatur in secundam et e converso, et prima in ultimam et e converso, et secunda in ultimam et e converso. Et ratione istius, ubi sunt duae, non duplicantur per quatuor sicut tres duplicantur in sex. Unde regula quod omnis mutatio desinens in ut re mi dicitur ascendens, quia plus habet ascendere quam descendere, et omnis mutatio desinens in fa sol la dicitur descendens, quia plus habet descendere quam ascendere. Sumitur autem causa ascensionis aut descensionis, ut patet in C fa ut, quoniam, si in ipso aliquis sumeret fa, posset ascendere usque ad tertiam vocem. Qui, si vellet sumere quartam vocem, necesse esset sumere ut in ipso C fa ut, quod est mutatio de fa in ut. Et similiter descendendo suo modo, et ista sufficiant.</p>
+      <p id="VITARN0064">Capitulum XI</p>
+      <p id="VITARN0065">Diffinitio musicae</p>
+      <p id="VITARN0066">V 18v</p>
+      <p id="VITARN0067">Nota quod musica est scientia veraciter canendi, vel facilis ad canendi perfectionem via. Et dicitur a moys, quod est aqua, et ycos, scientia, quia inventa fuit iuxta aquas. Et sunt eius species 13, scilicet unisonus, tonus, semitonium et caetera.</p>
+      <p id="VITARN0068">Capitulum XII</p>
+      <p id="VITARN0069">De unisono</p>
+      <p id="VITARN0070">V 18v</p>
+      <p id="VITARN0071">Unde unisonus est quidquid accipitur in eadem linea vocis vel in eodem spatio, et sic ubique in gammate, scilicet in quolibet signo gammatis 
+      <pb n="[21]" />vel in qualibet voce. Et dicitur ab unus et sonus, quasi habens unum sonum et eumdem secundum figuram et secundum sonum. Item alio modo unisonus dicitur sonus unius vocis, a qua non fit progressio, enim semper habet esse vel in eadem linea vel in eodem spatio. Si vero progrediatur ab aliqua voce, vocem tangendo propinquam, tunc aliquando fit tonus, aliquando semitonium. Tamen sciendum est quod unisonus non est consonantia per se ipsum sed est principium aliarum consonantiarum, et sine ipso unisono nulla consonantia esse potest.</p>
+      <p id="VITARN0072">Quid est unisonus? Unisonus est vox per quam primo incipimus cantare. Quae quidem vox non ascendit nec descendit, et in potestate cantoris est imponenda sive in excelsa, sive in humili voce. Et ponitur in quacumque clave fuerit necessarius.</p>
+      <p id="VITARN0073">Capitulum XIII</p>
+      <p id="VITARN0074">De semitonio</p>
+      <p id="VITARN0075">V 18v</p>
+      <p id="VITARN0076">Semitonium est spatium inter duos unisonos quod secundum vocem hominis non potest nec licet dividi vel ponere medium. Et accipitur inter quolibet [sqb] quadratum et c, vel e et f, vel a et b rotundum immediate, scilicet post distinctionem vocum, quia inter f et e fit ditonus cum diapente. Sed si mi fa accipiuntur inter ista nomina vocum, habent talem distantiam sicut signa addita in qualibet specie, hoc est in supposito.</p>
+      <p id="VITARN0077">Non enim dicitur semitonium a semis, quod est dimidium, ut quidam putant, quia minus est quam medietas toni, sicut manifeste apparet in dispositione monochordi, sed dicitur a semus, -ma, -mum, quod est imperfectum, quasi imperfectus sonus.</p>
+      <p id="VITARN0078">Semitonium, ut dicit Bernardus, est dulcedo et condimentum totius cantus, et sine ipso cantus esset corrosus, transformatus et dilaceratus. Boetius autem determinat de semitonio per solutionem cuiusdam quaestionis.</p>
+      <p id="VITARN0079">
+      <pb n="[22]" />Capitulum XIV</p>
+      <p id="VITARN0080">De falsa musica</p>
+      <p id="VITARN0081">V 18v</p>
+      <p id="VITARN0082">Nam ita est quod aliquando per falsam musicam facimus semitonium ubi non debet esse. Nam in mensurabili musica illud videmus quod tenor alicuius moteti vel rondelli stat in b fa [sqb] mi, dicendo per [sqb] durum, tunc accipientem in diapente superius suum biscantum, oportet dicere mi in f acuto, et sic per falsam musicam. Nam facere diapente a mi cum fa non est bona concordantia, eo quod ab ipso [sqb] quadrato usque ad ipsum f acutum sunt duo toni et duo semitonia, quorum coniunctio nulla est consonantia. Et oportet quod, ubi est diapente ab una voce in aliam, ibi sit bona et vera consonantia.</p>
+      <p id="VITARN0083">Et ideo oritur quaestio ex hoc videlicet quae fuit necessitas in musica regulari de falsa musica sive de falsa mutatione, cum nullum regulare debeat accipere falsum sed potius verum. Ad quod dicendum est quod mutatio falsa sive falsa musica non est inutilis, immo est necessaria propter bonam consonantiam inveniendam et malam vitandam. Nam, sicut dictum est, si velimus habere diapente, de necessitate oportet quod habeamus tres tonos cum semitonio. Ita quod, si aliqua figura sit in b fa [sqb] mi sub [sqb] quadrato et alia sit in f fa ut acuto per naturam, tunc non est ibi consonantia, quia ibi non sunt tres toni cum semitonio sed tantum duo toni cum semitonio duplici. Verumtamen fieri potest ibidem quod per falsam musicam appellamus, scilicet quando facimus de semitonio tonum, vel e converso. Non tamen est falsa musica sed inusitata.</p>
+      <p id="VITARN0084">Unde notandum est quod b fa [sqb] mi non est de origine aliarum clavium. Hoc autem cognoscitur per signum [sqb] quadrati vel b rotundi in loco inusitato locatum, ita quod dicamus mi durum in f fa ut acuto cum signo [sqb] quadrati; vel si b rotundum ponamus in b fa [sqb] mi, vel in consimilibus, ita quod sit in toni proportione, et tunc erit cum diapente consonantia. Et ideo falsa musica est necessaria quandoque, et etiam ut omnis consonantia seu melodia in quolibet signo perficiatur.</p>
+      <p id="VITARN0085">Igitur scire debes, sicut dictum est, quod duo sunt signa falsae musicae, scilicet b rotundum et ista alia figura [sqb] quadratum. Et talem proprietatem habent, videlicet quod b rotundum habet facere de semitonio tonum, tamen in descendendo, et de tono in ascendendo habet facere 
+      <pb n="[23]" />semitonium. Et e converso fit de alia figura ista [sqb], scilicet quod de tono descendente habet facere semitonium, et de semitonio ascendente habet facere tonum. Tamen, in illis locis ubi ista signa requiruntur, sunt, ut superius dictum est, non falsa sed vera et necessaria. Quia nullus motetus sive rondellus sine ipsa cantari possunt, et ideo vera. Quia id quod falsum est, sequitur quod non sit verum, sed hoc non est falsum ergo.</p>
+      <p id="VITARN0086">Capitulum XV</p>
+      <p id="VITARN0087">De notulis et valore earum</p>
+      <p id="VITARN0088">V 19</p>
+      <p id="VITARN0089">Sex minimae possunt poni pro tempore imperfecto. Unde notandum est quod, quando pro tempore imperfecto duae ponuntur semibreves non signatae, ambae sunt aequales, quia quaelibet tres valet minimas, ut hic [S,S], [Lig2cssna], [Lig2cssnod]. Quando tres ponuntur, prima valet tres minimas, secunda duas, tertia solam, ut hic [S,S,M]. Quando quatuor, prima minor, secunda minima, tertia minor, quarta minima, ut hic [S,M,S,M]. Quando quinque ponuntur, tres primae minimae, quarta minor, quinta minima, ut hic [M,M,M,S,M]. Quando sex ponuntur, omnes erunt aequales minimae, ut hic [M,M,M,M,M,M]. Et sic debent proferri omnes semibreves in quolibet tempore perfecto sive imperfecto quando non signantur, quia, si sunt signatae, secundum quod signatae sunt debent proferri. Et notandum quod plures quam sex non possunt poni pro tempore imperfecto nisi ibi sint semiminimae, ut hic [A,A,M,M,M,A,A,M].</p>
+      <p id="VITARN0090">Sciendum quod secundum diversos istarum semibrevium valores diversa sortiuntur nomina. Unde semibrevis quae sex valet minimas, maior nuncupatur. Semibrevis vero quae quinque vel quatuor, semimaior nuncupatur, a semus, -a, -um, quod est imperfectus. Illa vero quae tres valet minimas, recta et vera semibrevis vocatur, licet omnia corpora obliqua largo modo loquendo, id est de semibrevibus, semibreves 
+      <pb n="[24]" />vocantur. Illa vero quae duas valet minimas, minor vocatur, ut dictum est prius; quae vero sola, minima appellatur; quae vero minimae medietatem, semiminima nominatur. Minimae tamen et semiminimae, ad gradum salvandum in quo posita fuit minima, alia nomina imponi possent, ita quod minima vocetur semiminor et semiminima minima nominetur.</p>
+      <p id="VITARN0091">Sciendum est etiam quod secundum modernos, sicut minima potest diminui, sic potest augeri. Unde sciendum est quod, quando duae minimae inter duas semibreves vel breves ponuntur in medietate, secunda minima duas valet minimas et altera minima vocabitur tamen in gradu ternario. Sicut duae semibreves inter duas breves, quando ponuntur in modo perfecto, secunda semibrevis altera vocabitur, quae sex valebit minimas, ut dictum est prius.</p>
+      <p id="VITARN0092">Capitulum XVI</p>
+      <p id="VITARN0093">De signis temporum perfectorum et imperfectorum</p>
+      <p id="VITARN0094">V 19v</p>
+      <p id="VITARN0095">Dicto de brevibus et semibrevibus et minimis et semiminimis et de valore earum, dicendum est de signis perfectorum temporum sive imperfectorum. Unde sciendum quod, ad temporis perfecti designationem, circulus apponitur rotundus, quia forma rotunda perfecta est. Vel secundum aliquos obliqui apponuntur tractuli tres, et uterque unum tempus est, ut hic:</p>
+      <p id="VITARN0096">[O,S,S,S,B,L,pt,B,S,M,S,S,Lig3aod on staff3].</p>
+      <p id="VITARN0097">Ad denotandum quod quaelibet semibrevis dividitur in tres partes aequales in ternario loco, dicendum est quod, ubicumque talis circulus vel tres tractuli sine divisionis puncto reperiuntur, signum est perfectionis, scilicet quod tempus in se perfectum est, id est aptum natum ad dividendum in tres partes aequales. Quod sit perfectum sic probatur: hoc est perfectum quod habet principium, medium et finem, sed tempus perfectum est huiusmodi, ergo et caetera. Et e converso illud est imperfectum quod caret istis sive uno istorum, sed tempus imperfectum est huiusmodi, ergo. Maior patet, minor declaratur. Tempus enim imperfectum non nisi in duas dividitur semibreves, et sic uno caret istorum, et caetera. Unde, ad eius imperfectionem denotandam, semicirculus vel duo tractuli apponantur:</p>
+      <p id="VITARN0098">[C,Lig2cssnod,Lig2acddx,pt,S,M,S,M,Lig4adod,Lig2cssna,S,S on staff3]</p>
+      <p id="VITARN0099">
+      <pb n="[25]" />Capitulum XVII</p>
+      <p id="VITARN0100">De variationibus modorum et temporum perfectorum et imperfectorum</p>
+      <p id="VITARN0101">P4 - V 19v</p>
+      <p id="VITARN0102">Cum de signis temporum variationem denotantibus explete superius facta fuerit mentio, ne ab aliquibus additio fieri posset, quia in modernis cantibus tam in modo quam in tempore fiat variatio, dicendum est. Sunt alii cantus perfecti de modo et tempore, alii imperfecti, alii perfecti de modo et non de tempore, alii e contra, alii partim perfecti et alii partim imperfecti tam de modo quam de tempore.</p>
+      <p id="VITARN0103">Et ut notitiam tam de modi quam temporis variatione perfectam habeamus, signa certa tempus perfectum et tempus imperfectum denotantia dare affectamus. Sed primo de diversa cantuum variatione videamus.</p>
+      <p id="VITARN0104">Modus perfectus vocatur quando tria tempora sive perfecta sive imperfecta pro perfectione qualibet accipiuntur, modus vero imperfectus quando duo. Item in modo perfecto longa ante longam semper valet tria tempora, nisi imperficiatur a sola brevi precedenti vel sequenti. Duplex longa sex tempora valet. In modo vero imperfecto simplex longa duo valet tempora, nunquam valet tria, nisi punctus divisionis apponatur. Duplex longa vero quatuor, nec potest augeri nec minui, nisi per solam minimam vel per duas, ut hic [MX,M,MX,M,M,2LP on staff3].</p>
+      <p id="VITARN0105">Item in modo perfecto, ut visum est, duplex longa imperficitur duobus modis, sive cum sola brevi, et tunc non valet nisi quinque tempora, sive cum duabus, et tunc non valet nisi quatuor. Posset etiam imperfici per minimas, sicut duplex imperfecta. Praeterea in modo perfecto secunda duarum brevium inter duas longas positarum, ut visum est in arte veteri, alteratur. In modo vero imperfecto nulla potest nec debet alterari.</p>
+      <p id="VITARN0106">
+      <pb n="[26]" />Item in modo perfecto pausae sunt integrae, id est in uno corpore; in modo vero imperfecto non sunt. Et est notandum quod in modo perfecto maior pausa duorum temporum in uno corpore non debet fieri. Unde sciendum est quod quotiescumque pausae trium temporum in uno corpore reperiuntur, modus est perfectus, ut in Orbis orbatus. Quotiescumque vero duae vel plures pausae reperiuntur immediate, quarum quaelibet valet duo tempora, modus est imperfectus, ut in moteto Adesto sancta Trinitas, et caetera.</p>
+      <p id="VITARN0107">Modus perfectus et tempus perfectum insimul continentur in moteto qui vocatur Deus iudex fortis. Modus est perfectus quia semper tria tempora pro qualibet perfectione accipiuntur. Tempus est perfectum quia quodlibet tempus in tres aequales partitur semibreves.</p>
+      <p id="VITARN0108">Modus autem imperfectus et tempus imperfectum continentur in moteto Adesto. Modus est imperfectus quia ibi duo tempora pro perfectione qualibet accipiuntur. Tempus est imperfectum quia quodlibet tempus non partitur nisi in duo aequales semibreves.</p>
+      <p id="VITARN0109">Modus perfectus de tempore imperfecto continetur in Bona condit. Quare est modus perfectus visum est supra, quare tempus imperfectum visum est etiam.</p>
+      <p id="VITARN0110">Tempus perfectum et modus imperfectus in Misera per liconia.</p>
+      <p id="VITARN0111">Tempus partim perfectum et partim imperfectum et modus continentur 
+      <pb n="[27]" />in moteto Garison selon nature. Et ista sufficiant pro divisione temporis et modi.</p>
+      <p id="VITARN0112">Capitulum XVIII</p>
+      <p id="VITARN0113">De signis modorum et temporum perfectorum et imperfectorum</p>
+      <p id="VITARN0114">P5 - V 20</p>
+      <p id="VITARN0115">Ad modum perfectum denotandum, secundum aliquos, apponitur quadrulus, tres intus continens tractulos protractos, ut hic:</p>
+      <p id="VITARN0116">[R3rh,S,S,S,Lig4cdsndodart,Lig4aoda,2LP on staff3]</p>
+      <p id="VITARN0117">Ad modum vero imperfectum denotandum, apponitur quadrulus duos intus continens tractulos protractos, ut hic:</p>
+      <p id="VITARN0118">[R2rh,B,S,S,M,L,Lig3cssnaa on staff3]</p>
+      <p id="VITARN0119">Ad modum et tempus perfectum denotandum insimul, apponatur circulus intus tres tractulos continens, ita quod circulus tempus denotet perfectum, tres tractuli modum, ut hic:</p>
+      <p id="VITARN0120">[O3rv] [B,S,S,M,S,B,L,B,2LP on staff3]</p>
+      <p id="VITARN0121">Ad signandum vero modum et tempus imperfectum, semicirculus duos intus tractulos continens apponatur, ut hic:</p>
+      <p id="VITARN0122">[C2rh] [B,S,S,M,Lig2a,L,Lig2a on staff3]</p>
+      <p id="VITARN0123">Sed, ut modum dumtaxat sine tempore variare possimus, signum sibi ipsi singulare proprium, scilicet quadrulum, ut visum est, appropriamus.</p>
+      <p id="VITARN0124">
+      <pb n="[28]" />Capitulum XIX</p>
+      <p id="VITARN0125">De notulis rubeis</p>
+      <p id="VITARN0126">P 4v - V 20</p>
+      <p id="VITARN0127">Qua de causa rubeae notulae ponantur in motetis, ne id solum videamur ignorasse, breviter videamus. Dicendum est igitur quod principaliter duabus de causis ponuntur. Vel quia rubeae de alia mensura quam nigrae cantantur, ut in Thoma tibi obsequia, quare in tenore illius moteti rubeae cantantur ex temporibus perfectis de modo imperfecto, nigrae vero e converso. Vel rubeae aliquotiens ponuntur quia reducuntur sub alio modo, ut in moteto In arboris empiro, nam in tenore illius moteti de rubeis tria tempora pro perfectione sunt accipienda, de nigris vero duo. Vel rubeae aliquando huc illuc in balladis, rondellis et motetis ponuntur, quia reducuntur ut ad invicem possint cum aliis perfectionibus computari, ut in Plures errores.</p>
+      <p id="VITARN0128">Secundo modo apponuntur rubeae, quia cantantur in octava vera loci ubi sunt sitae, ut in Gratia miseri et in moteto qui vocatur Quant amors. In horum etiam motetorum tenoribus omnes notulae rubeae dicuntur in octava. Aliquando rubeae ponuntur ad differentiam proprii, id est simplicis et plani cantus, quia sicut non de plano, id est de proprio cantu, ut in Claerburg. Aliquotiens rubeae ponuntur ut longa ante longam non valeat tria tempora, vel ut secunda duarum brevium inter longas positarum non alteretur, ut in tenore In nova fert animus. Vel 
+      <pb n="[29]" />etiam ponuntur ut longa ante longam valeat tria tempora et brevis ante brevem tres semibreves, ut In arboris. Rubeae etiam ponuntur aliquando quia tempus et modus variantur, ut in tenore de Garison. In tenore enim illius moteti longae notulae nigrae tria tempora valent perfecta, rubeae vero duo tempora imperfecta. Et aliquando e converso, ut in tenore moteti qui vocatur Plures errores sunt.</p>
+      <p id="VITARN0129">Capitulum XX</p>
+      <p id="VITARN0130">De nominibus temporum perfectorum et de minimo tempore perfecto</p>
+      <p id="VITARN0131">V 20</p>
+      <p id="VITARN0132">Cum de temporibus et prolatione secundum quod in sex sive novem dividuntur minimas superius tractavimus competenter, ne de temporis divisione insufficienter videamur tractasse, de tempore strictius tractare affectamus. Unde sciendum est quod tempus perfectum est triplex, scilicet minimum, medium et maius. Minimum tempus posuit Franco. Unde notandum est secundum Magistrum Franconem, et sicut visum est superius, quod minimum tempus non est nisi tres continens semibreves, quae quidem adeo sunt strictae quod amplius dividi non possunt, nisi per semiminimas dividantur. Unde notandum quod, quando aliquis cantus temporis perfecti reperitur ubi non nisi tres continentur semibreves pro uno tempore, secundum minimum tempus pronuntiari debent (si sint quatuor, primae duae semiminimae, nisi aliter signentur).</p>
+      <p id="VITARN0133">Item sciendum est quod, quando pro isto minimo tempore duae ponuntur semibreves, prima maior debet esse et nunquam secunda, nisi signetur, licet secundum artem veterem superius probaverimus quod secunda debet esse maior. Ratio huius est haec, quia illae semibreves in hoc tempore minimo se habent sicut tres minimae in tempore maiore. Nam quando duae semibreves pro tribus minimis ponuntur, prima duas minimas valet, secunda vero solam minimam, nisi aliter signetur, ut superius visum est.</p>
+      <p id="VITARN0134">Capitulum XXI</p>
+      <p id="VITARN0135">De medio tempore perfecto</p>
+      <p id="VITARN0136">V 20v</p>
+      <p id="VITARN0137">Medium tempus est illud quod continet in se tres semibreves aequales, quarum quaelibet duas valet minimas vel valere debet; et 
+      <pb n="[30]" />medium tempus perfectum non nisi sex minimas in se continet. Et si ponantur quatuor pro illo tempore, duae debent esse minimae; si quinque, quatuor debent fieri minimae; si sex, omnes minimae et aequales. Et si dividantur, per semiminimas dividentur, quarum quaelibet minima in duas dividitur semiminimas. Unde, quando nos videmus quod plures quam sex non ponuntur pro tempore, sub tempore medio perfecto eas pronuntiare debemus. Possumus tamen eas secundum maius tempus pronuntiare, licet plures quam sex non ponantur, et hoc quando non signantur. Nam si signentur, proferri debent secundum quod sunt signatae.</p>
+      <p id="VITARN0138">Capitulum XXII</p>
+      <p id="VITARN0139">De maiore tempore perfecto</p>
+      <p id="VITARN0140">V 20v</p>
+      <p id="VITARN0141">Sciendum est quod continet in se tres semibreves, quarum quaelibet valet tres minimas, et sic maius tempus perfectum novem continet in se minimas, nec plures valere posset, nisi per semiminimas dividatur. Unde, quando plures quam sex ponuntur semibreves, necessario oportet quod sit maius tempus perfectum, et sic maius tempus perfectum tria minima pro tempore in se continet.</p>
+      <p id="VITARN0142">Capitulum XXIII</p>
+      <p id="VITARN0143">De nominibus temporum imperfectum et de minimo tempore imperfecto</p>
+      <p id="VITARN0144">V 20v</p>
+      <p id="VITARN0145">Item sciendum est quod, sicut tempus perfectum est triplex, scilicet minimum, medium et maius, ut dictum est, sic tempus imperfectum est duplex, scilicet minimum et maius.</p>
+      <p id="VITARN0146">Minimum tempus est illud quod continet in se duas semibreves, quarum quaelibet duas valet minimas, et sic minimum tempus imperfectum non nisi quatuor minimas valere debet, nisi per semiminimas dividatur.</p>
+      <p id="VITARN0147">Capitulum XXIV</p>
+      <p id="VITARN0148">De tempore maiore imperfecto</p>
+      <p id="VITARN0149">V 20v</p>
+      <p id="VITARN0150">Maius tempus imperfectum continet in se duas semibreves aequales, quarum quaelibet valet tres minimas, et sic tempus maius imperfectum sex 
+      <pb n="[31]" />minimas in se continet. Unde, quando nos videmus quod plures quam quatuor minimae ponuntur pro tempore imperfecto, secundum maius tempus imperfectum eas debemus pronuntiare. Et sic apparet quod, sicut tempus perfectum in tres dividitur semibreves, sic in tres prolationis species, et tempus imperfectum in duas, scilicet minimum et maius, secundum quod in duas dividitur semibreves. Et est notandum quod maius tempus imperfectum se habet sicut medium tempus perfectum.</p>
+      <p id="VITARN0151">Explicit Ars Nova Magistri Philippi de Vetri.</p>
+      <p id="VITARN0152">Deo gratias.</p>
+      <p id="VITARN0153">Amen. Amen. Amen.</p>
+      <p id="VITARN0154">
+      <pb n="[32]" />Capitula XX-XXIV</p>
+      <p id="VITARN0155">P 4v</p>
+      <p id="VITARN0156">Cum de figuratione temporum perfecti scilicet et imperfecti superius particulariter sit ostensum, et cum causa vetustatis aliquae sint dimissa, de figuratione seu prolatione temporis perfecti que temporis imperfecti tam in genere quam specie videamus. Et primo sciendum est quod in musica mensurabili tempus est duplex, scilicet perfectum et imperfectum; sed subdividendo sciendum est quod figuratio temporis perfecti est triplex, videlicet maior, minor et minima. Maior autem figuratio sive prolatio temporis perfecti est illa quae in tres aequales semibreves dividitur, quarum quaelibet earum in tres minimas dividi potest; tunc novem minimae pro isto tempore terminantur, ut in moteto Qui dolereux. Minor vero est illa quae in tres aequales semibreves dividitur, et qualibet semibrevis in duas minimas: sic sex minimae pro praesenti tempore figurantur, ut in moteto Imperatrix Anglica. Minima autem illa est quae in tres aequales semibreves dividitur, quarum ulla earum nunquam dividi potest, ut in moteto O Maria affectu.</p>
+      <p id="VITARN0157">Prolatio seu significatio temporis imperfecti duplex est, maior scilicet et minor. Maior est illa quae in aequales duas semibrevibus dividitur, et quaelibet semibrevis in tres minimas: tunc sex minimae pro tempore enodantur, ut in moteto Gratissima virginis species. Et tunc posset aliquis dicere quia minor prolatio temporis perfecti et maior imperfecti essent eadem. Responsio: verum est in valore, nam valoris aequalis est proportio, ut in proportione emyolia et proportione sesquialtera; non autem sunt eadem in divisione et prolatione. Minor vero prolatio temporis imperfecti est illa quae in duo aequales semibreves dividitur, et quaelibet earum semibrevium in duas minimas: et sic quatuor minimae pro tempore terminantur, ut in moteto Qui aux promesses de Fortune se fie.</p>
+    </body>
+  </text>
+</TEI>

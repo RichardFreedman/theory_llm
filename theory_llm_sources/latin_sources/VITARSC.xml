@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Ars contrapunctus</title>
+        <title type="abbrev">VITARSC</title>
+        <author>Philippe de Vitry</author>
+        <date notBefore="1300" notAfter="1399">14th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>C. Matthew Balensuela</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Oliver B. Ellsworth</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1990</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>Scriptorum de musica medii aevi nova series a Gerbertina altera</emph>, 4 vols., ed. Edmond de Coussemaker (Paris: Durand, 1864-76; reprint ed., Hildesheim: Olms, 1963), 3:23–27.
+</bibl>
+        <bibl type="work">
+          
+<title>Ps.-Philippus de Vitriaco: Tractatus de contrapuncto</title>
+          
+<idno type="LML">CONTR. Volentibus</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">CH-E 689, 45r-v, 46-50</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fl Plut. XXIX. 48, 86-88v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-PIu 606 (IV.9), II/51</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rv B 83, 1-8v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat lat. 5321, 23-25va</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="VITARSC0001">
+      <pb n="[23]" />Ars contrapunctus secundum Philippum de Vitriaco</p>
+      <p id="VITARSC0002">Incipit introductio contrapunctus.</p>
+      <p id="VITARSC0003">Prologus.</p>
+      <p id="VITARSC0004">Volentibus introduci in artem contrapuncti, id est nota contra notam, quamplurima prenotenda sunt. Et primo et principaliter notandum quod omnes note monocordi vocantur aliquo istorum sex nominum, scilicet: ut, re, mi, fa, sol, la.</p>
+      <p id="VITARSC0005">Ad evidentiam ergo totius musice, tam cantus mensurabilis quam immensurabilis, primo videndum est quot sunt species ejus, que sunt preambula, et que sunt necessaria ad demonstrationem et intelligentiam omnis cantus.</p>
+      <p id="VITARSC0006">Tredecim igitur sunt species cantus sive discantus, nec plures nec pauciores que debito modo rationem numeri tenent. Et iste tredecim species loquuntur de numero relato ad sonos proportionatos, quia, sicut dicit Guido, sapientissimus musice magister, ita est de illis qui sine arte canunt, sicut de illis hominibus litteratis qui nunquam litteras didicerunt. Item dicit Guido: Vulgares cantores in vanum laborant qui diffrentiam unius toni vel semitonii discernere nesciunt; tamen ipsi in cantando negligentes, et divinam et secularem scripturam plene et perfecte cognoscere potuissent.</p>
+      <p id="VITARSC0007">Tractatus primus.</p>
+      <p id="VITARSC0008">Caput primum.</p>
+      <p id="VITARSC0009">De tredecim speciebus.</p>
+      <p id="VITARSC0010">Secundum etiam predictum Guidonem sapientissimum, in arte musice excellentissimum, et secundum magistrum Johannem de Gallandia, quondam in studio Parisino expertissimum atque probatissimum, ac etiam secundum Boetium et secundum plures alios magistros, tredecim sunt species quibus utimur in omni tam cantu mensurahili quam immensurabili et non plures nec pauciores. scilicet: unisonus, tonus, semitonium, dyptonus, semidytonus, dyatessaron, tritonus et 
+      <pb n="[24]" />dyapente, tonus cum dyapente, semitonium cum dyapente, dytonus cum dyapente, semidytonus cum dyapente et dyapason. Et sicut additio et compositio fit speciei dyapente, ita additio et compositio fit speciei dyapason.</p>
+      <p id="VITARSC0011">Prima species, videlicet unisonus, est quandocumque plures note vel voces invicem collocantur in eadem linea vel spatio. Secundum discantum unisonus habet fieri, quando discantus et cantus in eadem linea vel spatio conveniunt; et dicitur unisonus ab unus, una, unum, et sonus, quasi unus et equalis sonus, sine ulla variatione, ut hic patet exemplum:</p>
+      <p id="VITARSC0012">[ClefF3,L,L; L,L; L,L; L,L; L,L; L,L on staff4]</p>
+      <p id="VITARSC0013">De secunda specie.</p>
+      <p id="VITARSC0014">Secunda species est tonus qui, secundum Guidonem, diffinitur sic: tonus est spatii magnitudo plenum et perfectum sonum emittens. Secundum autem Boetium diffinitur sic: tonus est coherentia duarum vocum plenam et integram elevationem reddens seu depositionem sine aliquo intervallo; et dicitur tonus a tonando vel a sonando, quia integre tonat vel sonat, id est integrum tonum vel sonum facit in animo audientis, et figuratur sic: ut re, re mi, fa sol, sol la, ascendendo, et converso descendendo, ut hic per exemplum in gravibus acutis et superacutis patet:</p>
+      <p id="VITARSC0015">[ClefF4,Lig2acddx,Lig2cdsnd; sqb,Lig2acddx,Lig2cdsnd; rob,Lig2acddx,Lig2cdsnd; Lig2acddx,Lig2cdsnd; Lig2acddx,Lig2cdsnd; Lig2acddx,Lig2cdsnd on staff5]</p>
+      <p id="VITARSC0016">De tertia specie.</p>
+      <p id="VITARSC0017">Tertia species est semitonium, et est conjunctio duarum vocum semiplenam elevationem reddens atque depositionem sine aliquo intervallo. Et dicitur semitonium, non a semis quod est dimidium, sed a semis quod est imperfectum, ut ait Boetius, quia due voces non plenum tonum faciunt et figuratur uno modo tantum, scilicet: mi fa, ascendendo et e converso descendendo, ut hic patet in gravibus acutis et superacutis:</p>
+      <p id="VITARSC0018">[ClefF3,ClefC5,sqb,Lig2acddx,Lig2cdsnd; Lig2acddx,Lig2cdsnd; rob,Lig2acddx,Lig2cdsnd; sqb, Lig2acddx,Lig2cdsnd; Lig2acddx,Lig2cdsnd on staff6]</p>
+      <p id="VITARSC0019">De quarta specie.</p>
+      <p id="VITARSC0020">Quarta species est dytonus, et est conjunctio trium vocum et dispositio duorum tonorum sine aliquo semitonio, et dicitur ditonus a dya quod est duo, et tonus, id est duo toni integri, et figurantur duobus modis, scilicet: ut mi et fa la, ascendendo, et e converso descendendo. Et alio nomine vocatur tertia perfecta, ut hic inferius invenitur in gravibus, acutis et superacutis:</p>
+      <p id="VITARSC0021">[ClefF4,sqb,Lig3aacddx,Lig3cdsndd; Lig2acddx,Lig2cdsnd; Lig3aacddx,Lig3cdsndd; Lig2acddx,Lig2cdsnd; Lig3aacddx,Lig3cdsndd; Lig2acddx,Lig2cdsnd on staff5]</p>
+      <p id="VITARSC0022">De quinta specie.</p>
+      <p id="VITARSC0023">Quinta species est semiditonus, et est conjunctio trium vocum, et dispositio toni cum semitonio; et sic in principio vel in fine semitonium cum tono apponitur, et ideo duobus modis figuratur, scilicet: re fa et mi sol, ascendendo, et e converso descendendo; et dicitur non a semis quod est dimidium, sed a semis quod est imperfectum, id est ditonus imperfectus. Et alio nomine vocatur tertia imperfecta, ut in hoc exemplo:</p>
+      <p id="VITARSC0024">
+      <pb n="[25]" />[ClefF3,Lig3aacddx,Lig3cdsndd; Lig2acddx,Lig2cdsnd; Lig3aacddx,Lig3cdsndd; Lig2acddx,Lig2cdsnd on staff4]</p>
+      <p id="VITARSC0025">De sexta specie.</p>
+      <p id="VITARSC0026">Sexta species est dyatessaron, et est conjunctio quatuor vocum et dispositio duorum tonorum cum additione unius semitonii in principio vel in medio vel in fine, et figuratur tribus modis, id est: ut fa, re sol, mi la, ascendendo, et e converso descendendo, probabiliter vel operabiliter; et dicitur a dya quod est de, et tetros quod est quatuor, id est species ex quatuor vocibus constans, ut hic inferius gravibus, acutis et superacutis litteris patet:</p>
+      <p id="VITARSC0027">[ClefF3,Lig4aaacddx; Lig2acddx; Lig4aaacddx; Lig2acddx; Lig4aaacddx,Lig2acddx; Lig2cdsnd,Lig4cdsnddd; Lig2cdsnd,Lig4cdsnddd; Lig2cdsnd,Lig4cdsnddd on staff4]</p>
+      <p id="VITARSC0028">De septima specie.</p>
+      <p id="VITARSC0029">Septima species est tritonus, et est conjunctio quatuor vocum et dispositio trium tonorum sine aliquo semitonio, et dicitur tritonus a tris quod est tres, et tonus, id est de tribus tonis constans, ut hic inferius gravibus, acutis et superacutis patet:</p>
+      <p id="VITARSC0030">[ClefC4,sqb,Lig4aaacddx; sqb,Lig2cdsnd; ClefC3,rob,Lig4aaacddx; Lig2cdsnd on staff4]</p>
+      <p id="VITARSC0031">De octava specie.</p>
+      <p id="VITARSC0032">Octava species est dyapente, et est conjunctio quinque vocum et dispositio trium tonorum cum semitonio aut in principio, aut in medio duobus modis aut in fine, et sic quatuor modis efficitur, scilicet: ut sol, re la, mi mi, et fa fa, ascendendo, et e converso descendendo; et dicitur dyapente a dya quod est de, et pente quod est quinque, id est de quinque vocibus constans. Alio modo vocatur quinta perfecta major, ut hic:</p>
+      <p id="VITARSC0033">[ClefF3,Lig5aaaacddx,Lig2cdsnd; ClefF2,ClefC4,sqb,Lig5aaaacddx,Lig2cdsndpsdx; Lig5aaaacddx,Lig2cdsnd on staff4]</p>
+      <p id="VITARSC0034">De nona specie.</p>
+      <p id="VITARSC0035">Nona species est tonus cum dyapente, et est conjunctio sex vocum et dispositio quatuor tonorum cum semitonio; et alio nomine vocatur sexta perfecta, ut hic:</p>
+      <p id="VITARSC0036">[ClefF3,ClefC5,Lig6aaaaacddx,Lig2cdsnd; sqb,Lig6aaaaacddx,Lig2cdsnd on staff5]</p>
+      <p id="VITARSC0037">De decima specie.</p>
+      <p id="VITARSC0038">Decima species est semitonium cum dyapente, et est conjunction sex vocum et dispositio trium tonorum cum duobus semitoniis; et alio nomine vocatur sexta imperfecta, ut hic patet:</p>
+      <p id="VITARSC0039">[ClefF2,ClefC4,sqb,Lig6aaaaacddx,Lig2cdsnd; sqb,Lig6aaaaacddx,Lig2cdsnd on staff4]</p>
+      <p id="VITARSC0040">De undecima specie.</p>
+      <p id="VITARSC0041">Undecima species est ditonus cum dyapente, et est species conjuncta ex septem vocibus et ex quinque tonis cum uno semitonio, ut hic patet exemplum:</p>
+      <p id="VITARSC0042">[ClefF2,sqb,Lig7aaaaaacddx,Lig2cdsnd on staff4]</p>
+      <p id="VITARSC0043">De duodecima specie.</p>
+      <p id="VITARSC0044">Duodecima species est termitonium vel semiditonus cum dyapente, et est species conjuncta ex septem vocibus et ex quatuor tonis cum duobus semitoniis, ut hic patet:</p>
+      <p id="VITARSC0045">
+      <pb n="[26]" />[ClefF3,ClefC5,Lig7aaaaaacddx,rob,Lig2cdsnd; Lig7cdsndddddd,Lig2a on staff5]</p>
+      <p id="VITARSC0046">De tertia decima specie.</p>
+      <p id="VITARSC0047">Tertia decima species et ultima est dyapason, et est conjunctio octo vocum et dispositio quinque tonorum et duobus semitoniis, et non equivalent unisono; et dicitur dyapason a dya quod est de, et pason quod est totum, quia in se continet omnes alias species suprascriptas seu voces. Et sic de quacumque littera simili manus que clavis est, usque ad aliam litteram similem in figura. Dicitur autem dyapason vel octava quod idem est, sicut hic patet per exemplum:</p>
+      <p id="VITARSC0048">[ClefF3,Lig8aaaaaaacddx,Lcdsn,Lcssn; Lig2apddx,Lig2cdsnd on staff5]</p>
+      <p id="VITARSC0049">Expliciunt omnes species necessarie cantus et utiles omnibus musicis introducentibus.</p>
+      <p id="VITARSC0050">Nunc videndum est de ficta musica, que instrumentis musicalibus est necessaria et specialiter in organis.</p>
+      <p id="VITARSC0051">Tractatus secundus.</p>
+      <p id="VITARSC0052">Caput primum.</p>
+      <p id="VITARSC0053">Est ficta musica quando de tono facimus semitonium, et e converso de semitonio tonum. Omnis enim tonus est divisibilis in duo semitonia, et per consequens signa semitonia designantia in omnibus tonis possunt applicari. Signum enim, ut dicit sapiens signator, cor hominis letificat. Ubi igitur invenimus b rotundnm, dicimus istam vocem fa, et ubi invenimus [sqb] quadratum, dicimus illam vocem mi; et sic tonus in semitonium deducendo de necessitate est, et e converso, hic ut rationabiliter et probabiliter per exemplum patet:</p>
+      <p id="VITARSC0054">[CSIII:26] 
+      <figure>
+        <graphic url="/images/VITARSC_01GF.gif" />
+      </figure></p>
+      <p id="VITARSC0055">Tractatus tertius.</p>
+      <p id="VITARSC0056">Capitulum primum.</p>
+      <p id="VITARSC0057">Repetitio predictorum.</p>
+      <p id="VITARSC0058">Modo dicendum est quomodo et qualiter iste species supradicte ordinari debeant in contrapuncto, id est nota contra notam. Prenotandum quod quando cantus ascendit, discantus debet descendere; et hec est regula generalis semper observanda, nisi per species imperfectas, sive aliis rationibus evitetur. Considerandum, ut superius dictum est, quomodo et qualiter sunt tredecim species, et non plures nec pauciores, secundum doctores prelibatos ac etiam secundum Magistrum Octonem, in hac scientia quondam expertissimum. Tamen alii Magistri adjungunt istas quatuor species, videlicet decimam, duodecimam, tertiam decimam, et quintam decimam. Sunt tamen ad bene esse et ad voluntatem, quia considerare debemus quod sicut unisonus, tanquam primum fundamentum omnium tredecim specierum, que habent fieri in octo vocibus per gradus ascendentes vel descendentes computando usque ad dyapente et dyapason, simili modo considerandum est, sicut se habet unisonus ad tertiam, sic se habet octava ad decimam; et sicut se habet unisonus ad quintam, sic se habet octava ad duodecimam, et sicut se habet unisonus ad sextam, sic se habet octava ad tertiam decimam, et sicut se habet unisonus ad octavam, sic se habet unisonus ad quintam decimam vel ad duplicem octavam, et e converso.</p>
+      <p id="VITARSC0059">
+      <pb n="[27]" />Istarum autem specierum tres sunt perfecte, scilicet unisonus, quinta et octava vel dyapente et dyapason. Et dicuntur perfecte, quia perfectum et integrum sonum important auribus audientium; et cum ipsis omnibus discantus debet incipere ac finiri; et nequaquam istarum specierum perfectarum debent sequi unam post aliam in discantu, in diversis lineis vel spatiis, id est quod duo unisoni, vel due quinte, vel due octave, nec due alie species perfecte sequi debent unam post aliam; sed bene in una linea vel spatio, ubi plures note reperiuntur. Due autem diverse species imperfecte aut tres aut etiam quatuor sequuntur unam post aliam, si necesse fuerit</p>
+      <p id="VITARSC0060">Quatuor autem predictarum specierum sunt imperfecte, scilicet ditonus, alio nomine tertia perfecta; tonus cum dyapente, alio nomine sexta perfecta; semiditonus, alio nomine tertia imperfecta; et semotonium cum dyapente, alio nomine sexta imperfecta. Et dicuntur imperfecte, quia non tam perfectum sonum reddunt vel important, ut species perfecte, quia interponuntur speciebus perfectis in compositione.</p>
+      <p id="VITARSC0061">Alie vero sex species, videlicet tonus, semitonium, dyatessaron, tritonus, ditonus cum dyapente, et semiditonus cum dyapente sunt discordantes. Et propter earum discordantiam ipsis non utimur in contrapuncto, sed bene eis utimur in cantu fractibili in minoribus notis, ut quando semibrevis vel tempus in pluribus notis dividitur, id est in tribus partibus; tunc una illarum trium partium potest esse in specie discordanti.</p>
+      <p id="VITARSC0062">Ulterius notandum est quod nullo modo debemus ascendere neque descendere in discantu cum tenore cum speciebus perfectis, dummodo cantus ascendat de gradu ad gradum vel descendat. Si quis fecerit, falsum erit et contra artem; sed bene cum speciebus imperfectis ascendere vel descendere poterimus, ut dictum est.</p>
+      <p id="VITARSC0063">Ulterius notandum est quod quando cantus ascendit vel descendit per quinque voces, et aliqui magistri dicunt per quatuor voces, et hoc necessitate cogente, tunc poterimus ascendere vel cum tenore in discantu cum specie perfecta per unam vocem tantum, et non per plures. Si autem per sex voces aut per septem, tunc possumus ascendere vel descendere in discantu cum tenore in specie perfecta per duas voces tantum.</p>
+      <p id="VITARSC0064">Si autem cantus ascendit vel descendit per octo voces, tunc possumus ascendere vel descendere in discantu cum tenore cum specie perfecta per duas voces aut tres et non plures. Prenotando quod unisonus requirit tertiam, tertia quintam, quinta sextam, sexta octavam; et ista regula non fallit, quod semper post sextam debeat sequi octava, quia regula est generalis quod semper post sextam sequitur octavam, et quandoque post unisonum sequitur quinta, sexta octavam, et e converso post tertiam aliquando sequitur sexta vel octava et e converso; post quintam sequitur unaqueque species, et hoc secundum diversus ascensus et descensus cantuum. Prenotando quod cum speciebus imperfectis possumus ascendere vel descendere ad libitum, et sicut species se habent ascendendo, sic se habent et e converso descendendo. Et sicut se habet unisonus ad octavam, sic se habet octava ad duplicem octavam. Prenotando quod quando due tertie vel tres ordinantur, cantu ascendente, tunc sequitur immediate unisonsus. Si autem ordinantur due tertie, tres, quatuor vel plures cantu descendente, sequitur immediate quinta; et eadem regula sive modus observatur in speciebus venientibus ab octava usque ad duplicem octavam, ut sepius dictum est.</p>
+      <p id="VITARSC0065">Et hec dicta de contrapuncto ad presens sufficiant.</p>
+      <p id="VITARSC0066">Explicit ars contrapuncti secundum Philippum de Vitriaco.</p>
+    </body>
+  </text>
+</TEI>

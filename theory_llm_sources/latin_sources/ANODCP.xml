@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>De contrapuncto plano</title>
+        <title type="abbrev">ANODCP</title>
+        <author>Anonymous</author>
+        <date notBefore="1400" notAfter="1499">15th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Katherine Clark</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Andreas Giger</persName>
+      </respStmt>
+      <date>1999</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>Anonymi Tractatus de cantu figurativo et de contrapuncto (c. 1430-1520)</emph>, ed. Christian Meyer, Corpus scriptorum de musica, vol. 41 (n.p.: American Institute of Musicology / Hänssler-Verlag, 1997), 68–72. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: Tractatus de contrapuncto</title>
+          
+<idno type="LML">CONTR. Not. quod novem</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">D-Tu Mc 48, 79-80v</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANODCP0001">
+      <pb n="[68]" />D-Tübingen, Mc 48, f. 79r-80v</p>
+      <p id="ANODCP0002">[De contrapuncto plano]</p>
+      <p id="ANODCP0003">Tractatus compendiosus et brevis de contrapuncto plano, id est de nota ad notam composito absque fractura, et de eius regulari compositione ac dulci et melodiosa. Et in primo de omnibus speciebus contrapuncti quibus omnis contrapunctus planus aut mensuralis constituitur.</p>
+      <p id="ANODCP0004">Notandum quod novem sunt species contrapuncti, videlicet unisonus, id est unus et idem sonus, tertia, sexta, quinta, octava, decima, duodecima, tredecima et quinta decima. Quarum novem specierum quinque sunt consonantiae perfectae, et sunt istae quinque, videlicet unisonus, quinta, octava, duodecima et quintadecima. Ceterae vero quattuor species imperfectae consonantiae sunt, videlicet tertia, sexta, decima et tertia decima. Et istae quinque praescriptae species perfectae consonantiae dicuntur, quia perfectiores in melodia sunt. Et aliae quattuor species imperfectae consonantiae dicuntur, quia imperfectiores in melodia sunt quasi mediam melodiam consonantiarum perfectarum habentes, non obstante bene consonant et in omni contrapuncto plano aut figurativo cum perfectis consonantiis misceri debent.</p>
+      <p id="ANODCP0005">Notandum de dissonantiis in omni contrapuncto plano aut figurativo ab autoribus musicae poni prohibitis et ad evitandum. De quibus dissonantiis nulla, ut praescribitur, [in] contrapuncto dari debet nisi conditionaliter sub veloci nota et currenti moram non habente, ut in minima seu semiminima seu fusa sive fusiel. In his tribus notis velocibus seu minutis potest dissonantia dari, contrapuncto fracto ex varioribus figuris composito, sed in alia nota non. De quibus dissonantiis in cantu poni prohibitis sequitur haec clara declaratio ut solum noscantur et quia malum non potest evitari nisi cognitum fuerit, nec alias evitare potest.</p>
+      <p id="ANODCP0006">Notandum quod istae sunt dissonantiae, videlicet secunda, quarta, septima, nona, undecima, quartadecima et sedecima, quarum nulla dissonans debet dari quo ad tenorem, nisi fuerit cantus ex quattuor 
+      <pb n="[69]" />choris compositus. Et dum in isto cantu cum tenore non convenit, licet cum alio choro concordanter conveniat dum cum tenore discordat seu disconvenit. Sic triplex est sonus in genere: unus perfecte consonans, alius semiperfecte consonans et tertius dissonans. Qui sonus dissonus in cantu omni cavendus est: (1)</p>
+      <p id="ANODCP0007">Nota haec omnes novem species contrapuncti a prima usque ad ultimam.</p>
+      <p id="ANODCP0008">Secuntur plures regulae in ordine scribendi de contrapuncto plano ad duos choros, tres aut quattuor composito et de pluribus viciis in contrapuncto evitandis.</p>
+      <p id="ANODCP0009">Prima regula est quod tenor omnis contrapuncti debet regulariter primo componi super aliquem tonum ex octo tonis et ut ambitum eiusdem toni, id est ascensum vel descensum sub finali clave aut supra non excedat.</p>
+      <p id="ANODCP0010">Secunda regula [est] quod unus contrapunctus ex duobus choris, tribus aut quattuor compositus non debet altius componi, computando ab inferiori nota alicuius chori ad supremam notam alicuius alterius chori, quam ad quintam decimam clavem sive vocem adesse, altrius licencialiter ad sextam decimam. Et ratio est quia nulla vox humana altius faciliter attingere potest absque pena vocis aut fractione.</p>
+      <p id="ANODCP0011">Tertia regula [est] quod si contrapunctus tantum ex duobus choris aut tribus componitur, debet omnis chorus cum tenore perfecte incipi aut finiri, id est sub consonantia perfecta et non imperfecta. Per consequentiam vel octava vel duodecima vel quintadecima incipi ac finiri cum tenore debent, quia illae, ut praescribitur, perfectae consonantiae sunt.</p>
+      <p id="ANODCP0012">Quarta regula [est] quod si contrapunctus ex duobus aut tribus choris componitur, debet ultima nota tenoris a penultima descendere et numquam ascendere. Similiter omnis ultima nota discantus atque contratenoris debet per contrarium ascendere et specialiter in discanto. Unde contraria contrariis commutantur.</p>
+      <p id="ANODCP0013">Quinta regula est quod quando tenor bassius in aliquo contrapuncto incipit, tanto altius debet discantus secum incipere ut perornatum convenientius cadat vel descendat. Si autem tenor alte incipit, saepius solet quo ad eius finalem, sic potest discantus secum incipi in unisono, 
+      <pb n="[70]" />id est in una et eadem clave, ut perornatum convenientius ascendat dum tenor descendit. Sic semper licet in quantum potest contrapunctum perornatum dare sic intelligendo quod, dum tenor deorsum tendit, licet contrapunctum perornatum ascendere, et econtrario. Et quia diffinitio contrapuncti non est alia quam punctus puncto contrarie datus sub consonantiis perfectis, in quo contrapuncto ascensus datur pro descensu et descensus pro ascensu sub consonantiis, semper evitando dissonantias.</p>
+      <p id="ANODCP0014">Sexta regula [est] quod numquam licet in aliquo contrapuncto ex duobus, tribus aut quattuor choris composito, quinta quintam in proximo sequi aut octava octavam aut duodecima duodecimam aut quinta decima quintam, vel sic numquam licet quintam cum quinta in proximo ascendere vel descendere, aut octavam cum octava vel duodecimam cum duodecima vel quintam decimam cum quinta decima absque mediante aliqua imperfecta vel alia specie, non obstante omnis quinta concordat atque octava similiter et duodecima vel quinta decima. Sed insimul dari non licet aliquam quintam cum quinta in proximo in ascensu vel descensu et caetera perfectis, sed debent variari. Sed non sic capiendo in imperfectis consonantiis quod tertia tertiam in proximo sequi non possit aut in proximo sequi prohibeatur aut sexta sextam vel decima decimam vel tertia decima tertiam decimam. Et quia in proximo sequi bene et regulare potest [... ?] et an[...]o an[...]onem in proximo sequi prohibetur sicut in perfectis consonantiis prohibetur. Sed bene potest tertia tertiam bis aut ter in proximo sequi si placet, sed quater non, similiter sexta sextam et sic de aliis imperfectis, non obstante quod contrapunctus fit ac dulcius et melodiosius quod imperfecta perfectam immediate in oratione sequitur et perfecta imperfectam, sic quod insimul miscentur. Et non diu perseverare in perfectis consonantiis absque mixtura imperfectarum nec in imperfectis absque mixtura perfectarum, non obstante possunt dari in cantu tres consonantiae insimul perfecte, ut post quintam octava et post octavam duodecima, sed quattuor perfectae insimul nimis multum est. Sed caveatur si duae aut tres consonantiae perfectae insimul dentur, quod non eadem consonantia eandem in proximo sequitur, ut quinta quintam, octava octavam et sic de aliis. De imperfectis tam 
+      <pb n="[71]" />magis cura non est si eadem eandem in proximo sequitur, ut tertia tertiam, sexta sextam, quia non prohibetur quando bene potest bis aut ter, sed non amplius. Et inquantum contrapunctus ex paucis choris componitur, videlicet ex tenore et discantu, sic magis variabiliter debent species variari in perfectis consonantiis et imperfectis, et imperfecta perfectam in proximo sequi et perfecta imperfectam, ut non sit perseverentia in perfectis, ut praescribitur, absque mixtura imperfectarum et econtrario.</p>
+      <p id="ANODCP0015">Septima regula [est] quod omnis contrapunctus consonanter componi ex tot variabilibus speciebus quod componi potest, sic ut cantantes in voce non deficiant. Sic intelligendo quod debet componi ex unisonis, tertiis, quintis, sextis, octavis, decimis, duodecimis, aut tertius decimis et quindecimis si placet tam alte, si autem non placet, non tenetur. Sed ultra ascensum quindecim clauium componere clare prohibetur. Circa praescripta, ut dicit Philosophus, "Omne vilescit cottidianum in quanto magis variabile magis delectabile", sic in contrapuncto plurimarum specierum variatio melodiam causat. Et ideo quantum ex pluribus variis speciebus, sonis, consonantiis, componi potest, debent perornatum seu contrarium dari hoc et melodiam.</p>
+      <p id="ANODCP0016">Alia regula prae ceteris multum advertenda. In qua regula ex pluribus viciis summum vicium evitari potest quod in omni contrapuncto ex duobus aut tribus choris composito, id est medio, tenore et discantu, debet omnis chorus cum tenore, videlicet medium atque discantus, in omni loco et omni nota concordanter convenire et concordanter dari sub consonantia perfecta vel admodum imperfecta. Et in quocumque loco medium aut discantus cum tenore sic non conveniret, false ad tenorem componitur et falsus contrapunctus est. Sequitur per consequentiam quod discantus atque medium in omni loco cum tenore convenire debent in unisono, seu tertia aut quinta, sexta, octava, decima, duodecima vel quinta decima, quia plures non sunt consonantiae perfectae seu imperfectae in contrapuncto dandae. Sed aliud est notandum quod si contrapunctus ex quattuor choris componitur, sic omnis chorus cum tenore concordanter in omni loco convenire non tenetur. Sed sufficit quod generaliter possunt omnes chori insimul proferendi convenire mutuo, quia particulariter non 
+      <pb n="[72]" />tenentur. Sed dum ex duobus choris aut tribus componitur absque quarto, licet ut omnis chorus cum tenore, sit contratenor aut discantus, particulariter per se cum tenore concordare debet, sic intelligendo licet ut contratenor per se, absque discantu, cum tenore concordet. Similiter discantus per se absque contratenore cum tenore concordare potest, atque contratenor et discantus insimul cum tenore. Sic breviter concludendo, quod in omni contrapuncto ex duobus aut tribus choris composito, debet contratenor singulariter cum tenore concordare [absque discantus] atque discantus absque contratenore, similiter discantus atque contratenor insimul cum tenore. Sed, ut praescribitur, si ex quattuor choris fuerit, sic non tenetur singulariter convenire cum tenore, sed sufficit generaliter omnes choros insimul convenire.</p>
+      <p id="ANODCP0017">1. [CSM41:72] 
+      <figure>
+        <graphic url="/images/ANODCP_01GF.gif" />
+      </figure></p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>De numeris musicis et de consonantiis</title>
+        <title type="abbrev">ANOMK</title>
+        <author>Anonymous</author>
+        <date notBefore="800" notAfter="1099">9th-11th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Peter Slemon</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>David Schneider</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>2008</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Christian Meyer, "Aus der Werkstatt des Kompilators," in 
+<emph>Quellen und Studien zur Musiktheorie des Mittelalters,</emph> vol. 2, ed. Michael Bernhard, Bayerische Akademie der Wissenschaften, Veröffentlichungen der Musikhistorischen Kommission, Band 13 (Munich: Bayerische Akademie der Wissenschaften / C. H. Beck, 1997), 10–12. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: Tractatus de intervallis: De numeris musicis et de consonantiis</title>
+          
+<idno type="LML">INTERV. Ex omni</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">D-Kl 4° Ms. Math. 1, 22v-23v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 14965b, 2v-3</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANOMK0001">
+      <pb n="[10]" />Anonymus MK</p>
+      <p id="ANOMK0002">De numeris musicis et de consonantiis</p>
+      <p id="ANOMK0003">Ex omni innumera varietate numerorum pauci et numerabiles inventi sunt qui sibi ad efficiendam musicam convenirent. Sunt autem ex his omnibus sex, epytritus, emiolius, duplaris, triplaris, quadruplus et epdogdous. Est autem epitritus cum de duobus numeris maior habet minorem in se totum et insuper eius terciam partem, ut sunt IIII ad III deque eo nascitur symphonia quae appellatur diatesseron. Emiolius est cum maior numerus minorem habet totum et insuper eius medietatem ut sunt III ad duo isque vocatur sesqualter, sicut superior id est epytritus vocatur sesquitercius et ex hoc id est emiolio sive sesqualtero nascitur symphonia quae dicitur diapente. Duplaris numerus est cum maior minorem habet in se bis ut sunt IIII ad II vel VIII ad IIII et ex hoc nascitur symphonia cui nomen est diapason. Triplaris est cum minor numerus ter in maiore habetur ut sunt III ad unum vel VIIII ad III et ex hoc procedit symphonia quae dicitur diapason kay diapente. Quadruplus est cum maior minorem quater habet ut sunt IIII ad unum XII ad III qui numerus facit symphoniam quam dicunt bisdiapason. Epogdous est cum maior minorem habet in se et eius octavam partem ut sunt VIIII ad VIII et hic numerus sonum parit quem musici tonum vocant. Sonum vero tono minorem veteres quidem semitonium vocare voluerunt, sed non ita accipiendum est ut dimidius tonus putetur quia nec semivocalis in litteris pro medietate litterae vocalis accipitur, sed semum dicebant antiqui quia ad integritatem non pervenit quasi imperfectum.</p>
+      <p id="ANOMK0004">Diapason consonantia constat ex quinque tonis et duobus semitoniis quae tamen unum non implent tonum. Diapente constat ex tribus tonis ac 
+      <pb n="[11]" />semitonio, diatesseron ex duobus tonis ac semitonio. Diapason kay diapente consonantia constat ex octo tonis et tribus semitoniis et haec est quae tripla dicitur. Diapason vero cum diatesseron consonantiam esse Pytagorici non estimant quoniam non in superparticulari vel multiplici cadit comparatione, sed in multiplici superpartiente. Est enim haec proportio vocum ut VIII ad III. Si quis enim in medio horum IIII ponat efficit terminos hos VIII IIII III. Quorum octo ad IIII diapason efficiunt consonantiam IIII ad III diatesseron, octo vero ad tres in multiplici superbipartiente constituuntur. Sed quamvis diapason cum diatesseron coniunctum in superpartiens genus ut dictum est cadat, consonantia tamen esse probatur. Quoniam diapason talem vocis efficit coniunctionem ut unus atque idem nervus esse videatur, ideoque si qua consonantia sibi fuerit addita, integra inviolataque servatur. Est igitur diapason cum diatesseron consonantia quae dicitur dupla superbipartiens.</p>
+      <p id="ANOMK0005">Synaphe quae coniunctio dicitur duorum tetracordorum vox est media, superioris quidem gravissima inferioris vero acutissima. Diezeuxis appellatur quae disiunctio dici potest, quotiens duo tetracorda toni medietate separantur.</p>
+      <p id="ANOMK0006">De vocibus musicis. Vocum autem aliae sunt consonae aliae aequisonae aliae unisonae alie emmeles aliae dissonae aliae ekmeles. Unisonae sunt quae singillatim pulsatae unum atque eundem sonum reddunt. Equisonae sunt quae simul pulsatae unum ex duobus atque simplicem sonum efficiunt, ut est diapason eaque duplicata quae est bis diapason. Consonae autem sunt quae compositum quidem permixtumque suavem tamen efficiunt sonum ut diapente et diatesseron. Emmeles autem sunt quaecumque consonae quidem non sunt recte tamen ad melos aptari possunt ut tonus et ceterae intervallorum species. Dissonae sunt quae non permiscent sonos atque insuaviter feriunt sensum. Ekmeles autem dicuntur quae in consonantiarum coniunctione ut melos effici possit non recipiuntur ut B et F.</p>
+      <p id="ANOMK0007">
+      <pb n="[12]" />Ex quibus proportionum numeris constet symphonia. Diapason ex minimo numero efficitur ut est unus ad duo, diapente ut duo ad tres, diatesseron ut III ad IIII, tonus ut VIII ad VIIII, semitonium ut CCLVI ad CCXLIII. Quod ita probatur. Disponantur ex ordine quattuor termini scilicet CXCII et CCXVI et CCXLIII et CCLVI. Comparatae enim extremitates diatesseron reddunt et CCXVI ad CXCIIos comparati tonum efficiunt et CCXLIII ad CCXVI collati rursus alterum tonum et CCXLIII ad CCLVI comparati semitonium reddunt. Est autem semitonium dictum secundum superficiem soni non secundum dimidium toni. Tonus enim in duo aequa dividi non potest. Quia ex differentia eorum probatur quae est XIII qui numerus octies ductus dimidium CCXLIII non videtur implere. Quod ut etiam facilius probetur octo et novem conferantur. Hos cum nullus numerus medius intercidat per binarium eos multiplica et bis octo fiunt XVI bis novem XVIII. Inter XVI autem et XVIII unus naturalis est numerus XVII. Igitur XVI et XVIII collati tonum reddunt quorum proportionem [quae est] XVII numerus medius non in aequa partitur. Est enim maior ad XVI minor ad XVIII. Est tamen minor pars decimaseptima quam decimasexta. Sed tamen utraque semitonia nuncupantur pariter ex quibus unum maius aliud minus semitonium appellatur.</p>
+    </body>
+  </text>
+</TEI>

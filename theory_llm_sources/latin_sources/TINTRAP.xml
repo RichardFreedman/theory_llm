@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Tractatus super punctis musicalibus</title>
+        <title type="abbrev">TINTRAP</title>
+        <author>Tinctoris, Johannes</author>
+        <date notBefore="1400" notAfter="1499">15th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Stephen E. Hayes</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Peter M. Lefferts</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Luminita Florea Aluas</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1992</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>Scriptorum de musica medii aevi nova series a Gerbertina altera</emph>, 4 vols., ed. Edmond de Coussemaker (Paris: Durand, 1864-76; reprint ed., Hildesheim: Olms, 1963), 4:70–76.
+</bibl>
+        <bibl type="work">
+          
+<title>Iohannes Tinctoris: Scriptum super punctis musicalibus</title>
+          
+<idno type="LML">IOH. TINCT. punct.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">B-Br II 4147, 47-51v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Gu 70 (71), 171v-177</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">E-VAu 835, 70v-77</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Bu 2573, 79-87</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="TINTRAP0001">
+      <pb n="[70]" />Scriptum Magistri Joannis Tinctoris, in legibus licentiati, Regisque Magnae Siciliae Capellani, super punctis musicalibus feliciter incipit.</p>
+      <p id="TINTRAP0002">Prologus.</p>
+      <p id="TINTRAP0003">Cum ego Joannes Tinctoris inter musicae professores minimus, diversorum compositorum opera perscrutans punctos notis appositos esse similis formae, diversi tamen effectus invenissem, utilissimum arbitratus sum super his aliqua scribere. Quae in expertis circa singularia ad ipsam artem spectantia id quod formae similitudo obscuraret, diversi effectus distinctio declararet, cujus quidem rei susceptam institutionem (Deo dante) peracturi a diffinitione ipsius puncti voluimus proficisci.</p>
+      <p id="TINTRAP0004">Capitulum primum.</p>
+      <p id="TINTRAP0005">De puncti diffinitione et ejus divisione.</p>
+      <p id="TINTRAP0006">Punctus est minimum signum quod notae appositum eam dividit, aut augmentat aut perficit.</p>
+      <p id="TINTRAP0007">Triplex igitur est punctus notae accidens, videlicet punctus divisionis, punctus augmentationis et punctus perfectionis.</p>
+      <p id="TINTRAP0008">Capitulum II.</p>
+      <p id="TINTRAP0009">De puncto divisionis.</p>
+      <p id="TINTRAP0010">Punctus divisionis est signum quo notae minores a suis majoribus, aut similes a suis similibus quas hujusmodi regulariter imperficerent aut cum quibus numerari deberent dividi, ostenduntur. Qui quidem punctus maximae non accidit; quia non dividetur eo quod majorem non habeat quam imperficiat, nec cum suis similibus numerari debeat. Certus etenim numerus in maximis non requiritur; caeteris autem notis punctus iste accidens est. Namque majores habent quas regulariter imperficere possunt et cum suis similibus propter numeri certitudinem in eis requisitam numerandae sunt. Hinc isto solum utimur puncto in quantitatibus perfectis, quo fit ut longae accidat in modo majori perfecto brevi in modo minori perfecto, semibrevi in tempore perfecto, et minimae in prolatione majori, ut hic patet: [ClefC4,Od,MXP,MXP,MXP,Lv,pt,Lv,MXv,Lig2vd,Bv,pt,Bv,Bv,Lv,Lv,pt,Sv,Bv,Sv,Sv,Mv,Mv,Mv,Mv,Lig2vcssnod,Mv,pt,Mv,Sv,Lv on staff5]</p>
+      <p id="TINTRAP0011">Exemplum.</p>
+      <p id="TINTRAP0012">Capitulum III.</p>
+      <p id="TINTRAP0013">De puncto augmentationis.</p>
+      <p id="TINTRAP0014">Punctus augmentationis est signum quo notae dimidietate valoris proprii ostendunt augmentari, et eo solum utimur in quantitatibus imperfectis, acciditque omnibus notis maximae in modo majori imperfecto, longae in modo minori imperfecto, brevi in tempore imperfecto, semibrevi in prolatione minori, et minimae in proportione dupla quae propter qualitatem imperfectae quantitati equiparatur, ut hic patet: [ClefC2,C,LP,LP,MXv,pt,Lv,Lv,pt,Bv,Bv,pt,Sv,pt,Mv,Mv,Mv,Mv,Sv,pt,M,M,M,Lv on staff5]</p>
+      <p id="TINTRAP0015">Exemplum.</p>
+      <p id="TINTRAP0016">Capitulum IV.</p>
+      <p id="TINTRAP0017">De puncto perfectionis.</p>
+      <p id="TINTRAP0018">Punctus perfectionis est signum, quo notae majores naturaliter perfectae, quae sine hoc signo a suis minoribus eas praecedentibus aut sequentibus regulariter imperficerentur in perfectione naturali permanere 
+      <pb n="[71]" />ostenduntur. Qui quidem punctus minimae non accidit quae, quoniam perfecta nunquam sit, aliquando in perfectione permanere nequit. Caeteris autem notis iste punctus accidens est eo quod quantitatibus perfectis, in quibus tantum hoc utimur puncto, subjectae sint; unde fit ut maximae accidat in modo majori perfecto, longae in modo minori perfecto, brevi in tempore perfecto et semibrevi in prolatione majori, ut hic patet: [ClefC4,O,MXP,MXP,MXP,MXv,pt,Lv,pt,Bv,Lv,Lig2vacddx,Bv,pt,Sv,pt,Mv,Mv,Mv,Mv,Sv,Mv,Sv,Bv,Lig2vLacddx,Lv,MXv on staff5]</p>
+      <p id="TINTRAP0019">Exemplum.</p>
+      <p id="TINTRAP0020">Capitulum V.</p>
+      <p id="TINTRAP0021">Summa distinctio puncti praepositi aut postpositi.</p>
+      <p id="TINTRAP0022">Et quoniam propter diversas compositiones, ex mixturis diversarum quantitatum in uno et eodem cantu uni et eidem notae punctus appositus divisionis et augmentationis et perfectionis esse potest, necessarium est ut procedendo per ordinem notarum quibus puncti accidunt, distinctiones aptissimas secundum ipsas quantitates diversas faciamus quibus, qualis sit punctus, cuilibet notae appositus, in promptu cognoscatur. Hinc prius haec summa distinctio memoriae committenda est quod punctus cui notae apponitur aut ei praeponitur aut postponitur, si praeponitur indistincte divisionis est, ut hic patet: [ClefC3,Od,MXP,MXP,MXP,MXv,pt,Lv,MXv,Lv,pt,Bv,Lv,Bv,pt,Sv,Bv,Sv,pt,Mv,Sv,Mv,Mv,Mv,MXv on staff5]</p>
+      <p id="TINTRAP0023">Exemplum.</p>
+      <p id="TINTRAP0024">Si vero postponitur et divisionem et augmentationem et perfectionem significare potest. Super est igitur tantum ut de cognitione qualitatis hujusmodi postpositi puncti eo quo praediximus ordine scribamus.</p>
+      <p id="TINTRAP0025">Capitulum VI.</p>
+      <p id="TINTRAP0026">De puncto maximae postposito in modo majori perfecto.</p>
+      <p id="TINTRAP0027">Punctus maximae postpositus in modo majori perfecto indistincte perfectionis est, ut hic patet: [ClefC4,O,MXP,MXP,MXP,MXv,pt,Lv,Lig2vMXcddxaMXcddx,pt,Lv,Lig2vcdsnod,Sv,Sv,Mv,pt,M,Sv,Sv,MXv on staff5]</p>
+      <p id="TINTRAP0028">Exemplum.</p>
+      <p id="TINTRAP0029">De puncto maximae postposito in modo majori imperfecto.</p>
+      <p id="TINTRAP0030">Praeterea punctus maximae postpopitus in modo majori imperfecto, etiam indistincte augmentationis est, ut hic patet: [ClefC4,C,LP,LP,MXv,pt,Lv,Lig2vcdsnod,MXv,pt,Lig2vLacddx,Lv,Lig2va,MXv on staff5]</p>
+      <p id="TINTRAP0031">Exemplum.</p>
+      <p id="TINTRAP0032">CAPITULUM VII.</p>
+      <p id="TINTRAP0033">De puncto longae postposito in utroque modo perfecto.</p>
+      <p id="TINTRAP0034">Punctus longae postpositus in utroque modo perfecto divisionis est, nisi aliquae minores notae vel pausae precedant aut sequantur eam a quibus ut major sine puncto regulariter imperficeretur, quia tunc punctus ipse perfectionis est: [ClefF4,O,MXP,MXP,MXP,MXv,Lv,pt,Lv,Lv,MXv,pt,Sv,pt,Mv,Sv,Lv,Lig2vcdsnod,Sv,Lv,MXv,Lv,pt,BP,Lv,Bv,Lv,MXv on staff5]</p>
+      <p id="TINTRAP0035">Exemplum.</p>
+      <p id="TINTRAP0036">De puncto longae postposito in modo majori et modo minori imperfecto.</p>
+      <p id="TINTRAP0037">Praeterea punctus longae postpositus in modo majori perfecto et modo minori imperfecto, divisionis est, nisi brevis seu equivalens precedat aut 
+      <pb n="[72]" />sequatur eam immediate vel per syncopam, quia tunc punctus ipsae augmentationis erit, cui brevis hujusmodi seu equivalens connumerabitur, ut hic: [ClefC4,C,LP,LP,LP,MXv,Lv,pt,Lv,Lig2vMXdMX,Sv,pt,Mv,Mv,MXv,Lv,pt,Lv,MXv,Lv,pt,SP,Sv,Lv,MXv on staff5]</p>
+      <p id="TINTRAP0038">Exemplum.</p>
+      <p id="TINTRAP0039">De puncto longae postposito in utroque modo imperfecto.</p>
+      <p id="TINTRAP0040">Praeterea punctus longae postpositus in utroque modo imperfecto etiam indistincte augmentationis est, ut hic patet: [ClefC4,O,LP,LP,Lv,pt,Bv,Bv,Sv,pt,Mv,Sv,Lv,pt,Bv,Bv,Sv,pt,Sv,Mv,Sv,Lv on staff5]</p>
+      <p id="TINTRAP0041">Exemplum.</p>
+      <p id="TINTRAP0042">Capitulum VIII.</p>
+      <p id="TINTRAP0043">De puncto brevi postposito in modo minori perfecto et tempore perfecto.</p>
+      <p id="TINTRAP0044">Punctus brevi postpositus in modo minori perfecto et tempore perfecto divisionis est, nisi aliquae minores notae vel pausae praecedant aut sequantur eam, a quibus ut major sine puncto regulariter imperficeretur, quia tunc ipse punctus perfectionis est, ut hic patet: [ClefC4,Od,MXP,MXP,MXP,MXv,Bv,pt,Bv,Bv,Lv,Bv,pt,Bv,Bv,Lv,pt,Mv,Mv,Mv,Bv,pt,Lig2vcssna,Sv,Bv,Lv,Bv,pt,MP,MP,Mv,Mv,Mv,Mv,Sv,Sv,Bv,Lv,Bv,Lv,MXv on staff5]</p>
+      <p id="TINTRAP0045">Exemplum.</p>
+      <p id="TINTRAP0046">De puncto brevi postposito in modo minori perfecto et tempore imperfecto.</p>
+      <p id="TINTRAP0047">Praeterea punctus brevi postpositus in modo minori perfecto et tempore imperfecto divisionis est, nisi semibrevis seu equivalens praecedat aut sequatur eam immediate vel per syncopam, quia tunc ipse punctus augmentationis erit cui brevis ejusmodi seu equivalens connumerabitur, ut hic patet: [ClefC4,C,MXP,MXP,Lv,Bv,pt,Bv,Lv,Sv,Lig2va,Lv,pt,Mv,Lig2va,pt,Lv,Lv,Bv,pt,Sv,Bv,Lv on staff5]</p>
+      <p id="TINTRAP0048">Exemplum.</p>
+      <p id="TINTRAP0049">De puncto brevi postposito in modo minori imperfecto et tempore perfecto.</p>
+      <p id="TINTRAP0050">Praeterea punctus brevi postpositus in modo minori imperfecto et tempore perfecto indistincte perfectionis est, ut hic: [ClefC3,O,LP,LP,LP,Lv,Bv,pt,Sv,pt,Mv,Sv,Sv,Bv,Mv,Lig2vcssna,Sv,MXv on staff5]</p>
+      <p id="TINTRAP0051">Exemplum.</p>
+      <p id="TINTRAP0052">De puncto brevi postposito in modo minori imperfecto et tempore imperfecto.</p>
+      <p id="TINTRAP0053">Praeterea punctus brevi postpositus in modo minori imperfecto et tempore imperfecto etiam indistincte augmentationis est, ut hic: [ClefC4,C,LP,LP,Lv,Bv,pt,Sv,Lig2va,Bvcssn,Lig2vod,Lv on staff5]</p>
+      <p id="TINTRAP0054">Exemplum.</p>
+      <p id="TINTRAP0055">Capitulum IX.</p>
+      <p id="TINTRAP0056">De puncto semibrevi postposito in tempore perfecto et prolatione majori.</p>
+      <p id="TINTRAP0057">Punctus semibrevi postpositus in tempore perfecto et prolatione majori divisionis est, nisi aliquae minima seu equivalens praecedat aut sequatur eam a qua ut major sine puncto regulariter imperficeretur, quia tunc punctus ipse perfectionis est, ut hic patet: [ClefC4,Od,MXP,MXP,MXP,Lv,Sv,pt,Sv,Sv,Bv,pt,Mv,Sv,pt,Mv,Mv,Mv,Bv,Sv,pt on staff5]</p>
+      <p id="TINTRAP0058">Exemplum.</p>
+      <p id="TINTRAP0059">
+      <pb n="[73]" />[ClefC4,[Gamma],Sv,SMv,SMv,Sv,pt,Mv,SMv,SMv,Lig2cssnod,S,MXv on staff5]</p>
+      <p id="TINTRAP0060">De puncto semibrevi postposito in tempore perfecto et prolatione minori.</p>
+      <p id="TINTRAP0061">Praeterea punctus semibrevi post positus in tempore perfecto et prolatione minori divisionis est, nisi minima seu equivalens praecedat aut sequatur eam immediate, vel per syncopam, quia tunc ipse punctus augmentationis est cui minima hujusmodi vel equivalens connumerabitur, ut hic: [ClefC3,O,MXP,MXP,Bv,Sv,pt,Sv,Bv,Mv,Sv,pt,Sv,Bv,Sv,Sv,pt,Mv,Mv; ClefC4,M,M,Sv,pt,Mv,pt,M,Mv,Mv,Sv,Lig2vcdsnod,Lv on staff5]</p>
+      <p id="TINTRAP0062">Exemplum.</p>
+      <p id="TINTRAP0063">De puncto semibrevi postposito in tempore imperfecto et prolatione majori.</p>
+      <p id="TINTRAP0064">Praeterea punctus semibrevi postpositus in tempore imperfecto et prolatione majori indistincte perfectionis est, ut hic patet: [ClefC4,Cd,LP,LP,LP,Lv,Bv,Sv,pt,Mv,Sv,Bv,Sv,pt,Mv,Sv,MXv on staff5]</p>
+      <p id="TINTRAP0065">Exemplum.</p>
+      <p id="TINTRAP0066">De puncto semibrevi postposito in tempore imperfecto et prolatione minori.</p>
+      <p id="TINTRAP0067">Praeterea punctus semibrevi postpositus in tempore imperfecto et prolatione minori etiam indistincte augmentationis est, ut hic: [ClefC4,C,LP,LP,Bv,Sv,pt,Mv,Mv,Mv,Sv,Bv,Sv,pt,Sv,Mv,Sv,Sv,pt,Mv,Mv,Mv,Sv,Bvcsdx on staff5]</p>
+      <p id="TINTRAP0068">Exemplum.</p>
+      <p id="TINTRAP0069">Capitulum X.</p>
+      <p id="TINTRAP0070">De puncto minimae postposito in prolatione majori.</p>
+      <p id="TINTRAP0071">Punctus minimae postpositus in prolatione majori divisionis est, nisi praecedat aut sequatur eam immediate, vel per syncopam una minima impleta vel reflexa vel duae impletae et reflexae, quia tunc ipse punctus augmentationis est cui minima hujusmodi impleta vel reflexa vel duae impletae et reflexae dupla proportione connumerabuntur, ut hic patet: [ClefC4,Od,MXP,MXP,MXP,Lv,Lig2vcssna,Mv,pt,Mv,Sv,Lig2vcdsnod,Sv,Mv,Sv,Mv,pt,M,M,pt,SM,SM,Mv,Sv,Mv,M,Mv,pt,Mv,Mv,pt,SMv,Sv,Bv,Sv,Mv,pt,Mv,Sv,Mv,Sv,Lv on staff5]</p>
+      <p id="TINTRAP0072">Exemplum.</p>
+      <p id="TINTRAP0073">De puncto minimae postposito in prolatione minori.</p>
+      <p id="TINTRAP0074">Praeterea punctus minimae postpositus in prolatione minori indistincte augmentationis est, ut hic: [ClefC4,C,LP,LP,Sv,pt,Mv,Mv,Svcd,Mv,Mv,Mv,Mv,pt,M,M,M,Sv,pt,Mv,M,Mv,Sv,Bv,Sv,pt,Mv,Mv,Mv,Sv,MXv on staff5]</p>
+      <p id="TINTRAP0075">Exemplum.</p>
+      <p id="TINTRAP0076">Capitulum XI.</p>
+      <p id="TINTRAP0077">De punctis in uno et eodem cantu sub quantitatibus fixis et mutatis concurrentibus.</p>
+      <p id="TINTRAP0078">Ex praemissis tamen advertendum est quod in uno et eodem cantu sub fixis quantitatibus uni et eidem notae accidit punctus divisionis et perfectionis aut punctus divisionis et augmentationis, nunquam tamen punctus perfectionis et augmentationis; sed si in uno et eodem cantu mutentur quantitates, tunc uni et eidem notae non solum accidit punctus divisionis et perfectionis, aut punctus divisionis et augmentationis, sed etiam punctus perfectionis et augmentationis tantum, aut punctus perfectionis, augmentationis et divisionis simul:</p>
+      <p id="TINTRAP0079">
+      <pb n="[74]" />[ClefC4,O,MXP,MXP,MXP,Lv,Lv,pt,Lv,MXv,Lv,pt,Bv,Lv,Lig3vcdsndod; ClefC4,C,MXP,MXP,Lv,Bv,pt,Bv,Lv,Lig3vaacddx,Bv,pt,Sv,Bv,Lv; ClefC4,O,LP,Bv,pt,Sv,Lv,Sv,Bv,C,LP,LP,Bv,pt,Sv,Lig2vcssnod,Mv,Mv,Sv,Cd,BP,Bv,Sv,pt,Mv,Mv,Mv,Mv,Sv,Mv,Sv,C; ClefC5,Bv,Sv,pt,Mv,Od,Bv,Sv,pt,Sv,Bv,Lig2vcssna,Lig2vcssna,Lig2vcssnod,Bvcsdx on staff5]</p>
+      <p id="TINTRAP0080">Exemplum.</p>
+      <p id="TINTRAP0081">Capitulum XII.</p>
+      <p id="TINTRAP0082">Qui puncti notae apponantur pro ea tantum et qui pro ea et aliis simul.</p>
+      <p id="TINTRAP0083">Postremo sciendum est quod punctus perfectionis aut augmentationis alicui notae non apponitur nisi pro ea tantum, sed punctus divisionis notae apponitur interdum pro ea tantum, interdum pro aliis tantum et interdum pro ea et aliis simul.</p>
+      <p id="TINTRAP0084">Capitulum XIII.</p>
+      <p id="TINTRAP0085">De puncto divisionis apposito notae pro ea tantum.</p>
+      <p id="TINTRAP0086">Apponitur ideo notae punctus divisionis pro ea tantum, quando per eum sola nota minor a majori vel similis a simili seu similibus quam sine hujusmodi signo regulariter imperficeret vel cum qua seu cum quibus numerari deberet, dividi ostenditur, ut hic: [ClefC4,[rob],Od,MXP,MXP,MXP,Lv,pt,MXv,Lv,MXv,Bv,Bv,Bv,pt,Bv,Lv,MXv,Sv,Mv,pt,Mv,Mv,Sv,Bv,Sv,MXv on staff5]</p>
+      <p id="TINTRAP0087">Exemplum.</p>
+      <p id="TINTRAP0088">De puncto divisionis apposito notae pro aliis tantum.</p>
+      <p id="TINTRAP0089">Apponitur notae punctus divisionis pro aliis tantum, quando per eum sola nota minor a majori quam sine hujusmodi puncto regulariter non ut nota minor unita, sed ut plures unitae imperficeret, dividi ostenditur, ut hic patet: [ClefC4,[rob],Cd,LP,LP,LP,MXv,pt,Bv,MXv,Lv,Lig2va,Lv,Lv,pt,Sv,Lv,Lig3vcssndod,MXv on staff5]</p>
+      <p id="TINTRAP0090">Exemplum.</p>
+      <p id="TINTRAP0091">De puncto divisionis apposito notae pro ea et aliis simul.</p>
+      <p id="TINTRAP0092">Apponitur notae punctus divisionis pro ea et aliis simul, quando per eum non solum ipsa nota minor cui punctus iste appositus est, sed alia seu plures notae minores cum ea a majori vel simili seu similibus, quam sine hujusmodi signo regulariter simul imperficerent, vel cum qua seu cum quibus numerari deberent, dividi ostenduntur, ut hic: [ClefC4,[rob],Od,MXP,MXP,Lv,pt,Lig2vcssna,Lv,Lig4vaacddxacddx,pt,Mv,Mv,Mv,pt,Mv,Mv,Mv,Sv,Bv,Lig2vcssnod,Sv,Bvcsdx,Bv,Mv,Mv,pt,Mv,Sv,Mv,Mv,Sv,Sv,Bv,MXv on staff5]</p>
+      <p id="TINTRAP0093">Exemplum.</p>
+      <p id="TINTRAP0094">Capitulum XIV.</p>
+      <p id="TINTRAP0095">De punctis, accidentibus et pausis.</p>
+      <p id="TINTRAP0096">Et quamvis multa quae notis accidunt et earum pausis, non tamen punctus perfectionis, nec punctus augmentationis alicui pausae potest accidere, eo quod nulla pausa sit quae vel imperfici vel augmentari possit; punctus autem divisionis accidit pausis eo quod sint divisibiles; unde sicut longae, brevi, semibrevi et minimae punctus iste accidens est, ita et earum pausis, ut hic patet: [ClefC3,[rob],Od,MXP,MXP,MXP,MXv,MXP,pt,Lig2vLacddx,MXv,Bv,LP,pt,LP,Bv,Lv,MXv,Lv,Lv,BP,pt,Lig2va,Lv,Sv,pt,SP,Sv,Lig2vcdsnod,Bv,Sv,Mv,pt,MP,Mv,Lig2vcssna,Bv,Sv,Lig2vcssna,Mv,pt,Mv,Sv,MXv on staff5]</p>
+      <p id="TINTRAP0097">Exemplum.</p>
+      <p id="TINTRAP0098">
+      <pb n="[75]" />Capitulum XV.</p>
+      <p id="TINTRAP0099">De abusu punctorum divisionis et perfectionis.</p>
+      <p id="TINTRAP0100">Nec praetermittendum est quod nonnulli sint compositores aut exscriptores puncto divisionis et perfectionis sive quo ad notas sive quo ad pausas abutentes, verbi gratia, si aliquae notae minores seu pausae praecedant aut sequantur majores quas regulariter imperficiunt, illis punctum apponunt quem divisionis dicunt. Et hoc nihil est absurdius, namque talis punctus ipsas notas non dividit, imo potius non dividi, quod supervacuum est, ostendit, ut hic: [ClefC5,Od,MXP,MXP,MXP,MXv,Lv,pt,Lv,MXP,Lig3vcdsndod,pt,Bv,Lv,Lig2vcdsnd,Bv,SP,pt,Bv,Sv,Bv; ClefC4,Lv,Mv,Mv,pt,Lig4vcdsnododa,MXv on staff5]</p>
+      <p id="TINTRAP0101">Exemplum.</p>
+      <p id="TINTRAP0102">Et si nullae minores notae seu pausae praecedant aut sequantur majores quas regulariter imperficere possint istis punctum postponunt per quem de se perfectas et ab illis regulariter imperfectibiles, in sua perfectione, quod etiam supervacuum est, ostendere volunt, ut hic patet: [ClefC3,Od,MXP,MXP,MXP,MXv,pt,MXv,pt,Lig2vLacddx,Lv,pt,Lig2vcdsnod,pt,BP,Lig2vcssnod,pt,Mv,Mv,Mv,Lig3vcdsndod,MXv on staff5]</p>
+      <p id="TINTRAP0103">Exemplum.</p>
+      <p id="TINTRAP0104">Qui quidem puncti vulgariter dicuntur asinei eo quod ipsis abutentes tanquam asini rationis expertes ignorent quae notae minores regulariter majores imperficiunt, aut quae in naturali perfectione sine puncto persistunt.</p>
+      <p id="TINTRAP0105">Capitulum XVI.</p>
+      <p id="TINTRAP0106">De punctis prolationis et morae generalis.</p>
+      <p id="TINTRAP0107">Praeter autem praedictos duo puncti sunt quibus utuntur compositores, quorum alter prolationis, alter morae generalis esse dicitur, de quorum quolibet pauca scribendum mihi videtur.</p>
+      <p id="TINTRAP0108">Capitulum XVII.</p>
+      <p id="TINTRAP0109">De puncto prolationis.</p>
+      <p id="TINTRAP0110">Punctus prolationis est signum in medio circuli perfecti, aut semicirculi a parte dextra aperti positum quo prolatio major ostenditur, ut hic patet: [ClefC4,Od,LP,Bv,Bv,Sv,Mv,Mv,Mv,Mv,Sv,Mv,pt,Mv,Sv,Cd,Bv,Lig2vcssna,Lig2va; ClefF3,Lig2vcssna,Sv,Mv,pt,Mv,Sv,MXv on staff5]</p>
+      <p id="TINTRAP0111">Exemplum.</p>
+      <p id="TINTRAP0112">Capitulum XVIII.</p>
+      <p id="TINTRAP0113">De puncto morae generalis.</p>
+      <p id="TINTRAP0114">Punctus morae generalis est signum in medio semicirculi ab inferiori parte aperti positum, quo in illis notis supra quas constituitur ab omni parte cantus generaliter est morandum, ut hic:</p>
+      <p id="TINTRAP0115">[CSIV:75; text: Supremum. Tenor. Contratenor.] 
+      <figure>
+        <graphic url="/images/TINTRAP_01GF.gif" />
+      </figure></p>
+      <p id="TINTRAP0116">
+      <pb n="[76]" />Et hic punctus vulgariter organi vocatur.</p>
+      <p id="TINTRAP0117">Capitulum XIX.</p>
+      <p id="TINTRAP0118">De punctus repetitionis.</p>
+      <p id="TINTRAP0119">Sunt et alii quatuor puncti semper simul positi quos repetitionis dicunt sicque diffiniunt:</p>
+      <p id="TINTRAP0120">Puncti repetitionis sunt signa quibus in fine partis aut totius cantus post plures generales longarum pausas inter eos continue positas tot vocibus pars cantus aut ipse totus, quot interpositae sunt hujus modi pausae, repeti ostenditur, ut hic patet:</p>
+      <p id="TINTRAP0121">[CSIV:76; text: Supremum. Tenor. Contratenor.]</p>
+      <p id="TINTRAP0122">Capitulum XX.</p>
+      <p id="TINTRAP0123">Operis conclusio.</p>
+      <p id="TINTRAP0124">Et haec de punctis mihi scripsisse sufficit, in quo quidem scripto; si aliquos punxerim, parcant mihi, precor, quoniam, si me circa aliquid errasse invenerint et pungere voluerint, eis profecto levissime parcam.</p>
+    </body>
+  </text>
+</TEI>

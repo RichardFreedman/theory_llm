@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Musica</title>
+        <title type="abbrev">DUFMUS</title>
+        <author>Dufay, Guillaume</author>
+        <date notBefore="1400" notAfter="1499">15th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Peter Slemon</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Jessica Sisk</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>2003</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Clement A. Miller, "Early Gaffuriana: New Answers to Old Questions," 
+<emph>Musical Quarterly</emph> 56 (1970): 387-88, 387–88.
+</bibl>
+        <bibl type="work">
+          
+<title>Guilielmus Dufay: Musica (excerpt)</title>
+          
+<idno type="LML">GUIL. DUFAY</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">I-PAc parm. 1158, 26v, 27v, 56r</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="DUFMUS0001">
+      <pb n="[387]" />1. Extractus parvus, folio 26v:</p>
+      <p id="DUFMUS0002">Dicit autem Guilielmus Dufay in sua Musica quod punctus musicalis est quadruplex, scilicet, perfectionis, divisionis, alterationis et transportationis seu transformationis.</p>
+      <p id="DUFMUS0003">Punctus alterationis est qui additus cuique note eam augmentat de tertia parte. Dicitur autem alterationis ad differentiam perfectionis, quia illa dicitur alteratio per quam valor notule ultra sui proprietatem mediante puncto augetur, ut hic: [Bv,pt,Sv,Sv,pt,Mv,Mv,pt,M,pt]</p>
+      <p id="DUFMUS0004">Punctus vero transportationis est ille qui amplectens unam notulam, idest, quando una notula circumdatur duobis punctis tunc ipsi puncti demonstrant quod illa notula transfertur de suo loco ad alium, ubi recte possit numerari et sic dicuntur puncti transportationis, [ut patet in Misse tenore de voltate in qua Bernardi Ycart] Exemplum:</p>
+      <p id="DUFMUS0005">[Dufay, Musica, 387] 
+      <figure>
+        <graphic url="/images/DUFMUS_01GF.gif" />
+      </figure></p>
+      <p id="DUFMUS0006">Punctus divisionis est ille qui positus inter duas notulas, earum valorem non crescit nec minuit, sed ipsas dividit, demonstrando quod utraque illarum numeratur divisim cum ceteris notulis sibi propinquis, ut hic: [Bv,Sv,pt,Sv,Bv]</p>
+      <p id="DUFMUS0007">Punctus perfectionis est ille quod additus alicui notule valenti recipere imperfectionem ipsam notulam in sua perfectione remanere facit, ut hic: [Lv,pt,Bv,pt]</p>
+      <p id="DUFMUS0008">
+      <pb n="[388]" />2. Extractus parvus, folio 27r:</p>
+      <p id="DUFMUS0009">Guilielmus Dufay: Pausa est vocum submissio seu aspiratio mensurata pro tot temporibus quot occupat spatia. Pause non possunt imperfici nec alterari.</p>
+      <p id="DUFMUS0010">3. Tractatus brevis, folio 56r:</p>
+      <p id="DUFMUS0011">Ait nam Guilielmus Dufay in sua Musica quod [sqb] quadrum est quedam perfectio conferens suam perfectionem naturali perfectioni, et sicut perfectioni perfectio datur substantivo illarum quatuor in homine, sic in [sqb] quadro ea datur perfectio, quoniam illarum sex vocum [sqb] quadrum ipsius est modulatio per naturam naturatam.</p>
+      <p id="DUFMUS0012">Natura est quoddam ens continens in se illas neumas, vel conferens suam perfectionem suis totalibus partibus et ideo neume ille dantur in naturam ex proprietate, et non dicitur natura causa essentie rei sed causa destinationis et sic dicitur natura in musica.</p>
+      <p id="DUFMUS0013">[rob] molle est quedam armonia continens in se illas neumas non ipsius proprietatis ex se sed ex nature naturate virtute productas, quoniam neume ille per se ipsas proferri non possunt nec modulari nisi per substantivum nature naturate, et sic dicitur b molle in musica.</p>
+      <p id="DUFMUS0014">Principia harum proprietatum consistunt in tribus litteris, scilicet, G, C, et F, et sciendum est quod iste littere non habent vim super istas proprietates sed ponuntur in istis per signo, eodem modo quo ponitur aliquod signum in ostensione alicuius rei.</p>
+    </body>
+  </text>
+</TEI>

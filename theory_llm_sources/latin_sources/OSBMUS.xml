@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>De vocum consonantiis</title>
+        <title type="abbrev">OSBMUS</title>
+        <author>Osbernus Cantuariensis (?)</author>
+        <date notBefore="800" notAfter="1099">9th-11th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Andreas Giger</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Elisabeth Honn</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1995</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>Codex Oxoniensis Bibl. Bodl. Rawl. C 270: Pars A, "De vocum consonantiis" ac "De re musica" (Osberni Cantuariensis?)</emph>, ed. Joseph Smits van Waesberghe, Divitiae musicae artis A/Xa (Buren: Knuf, 1979), 14–38. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: Versus de musica</title>
+          
+<idno type="LML">VERS. Ars est</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">GB-Ob Rawl. C. 270, 1r-v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat Reg. lat. 1146, 9v-11</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">S-Uu C 55, 36-37</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ob Rawl. C. 270, 3-9v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat Reg. lat. 1146, 11-16v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">S-Uu C 55, 38v-41v</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="OSBMUS0001">
+      <pb n="[14]" />[INTRODUCTIO]</p>
+      <p id="OSBMUS0002">[O f. 1r, R f. 9v in marg.] Ars est iam utillima,</p>
+      <p id="OSBMUS0003">a philosophis composita;</p>
+      <p id="OSBMUS0004">ars est vocata Musica,</p>
+      <p id="OSBMUS0005">cantus totius domina.</p>
+      <p id="OSBMUS0006">Sine qua nulla differentia</p>
+      <p id="OSBMUS0007">est vocum vel concordia;</p>
+      <p id="OSBMUS0008">nec vox voci coniungitur,</p>
+      <p id="OSBMUS0009">nec ullus cantus canitur.</p>
+      <p id="OSBMUS0010">Cantum a cantu segregat,</p>
+      <p id="OSBMUS0011">tonum a tono discrepat;</p>
+      <p id="OSBMUS0012">vocem a voce dividit,</p>
+      <p id="OSBMUS0013">iter cantandi tribuit.</p>
+      <p id="OSBMUS0014">Hac qui caret et ignorat,</p>
+      <p id="OSBMUS0015">cum se cantorem nominat;</p>
+      <p id="OSBMUS0016">qua fronte audet dicere:</p>
+      <p id="OSBMUS0017">"Sum cantor; scio canere"?</p>
+      <p id="OSBMUS0018">Se putat scire canere,</p>
+      <p id="OSBMUS0019">cum iam nescit decernere,</p>
+      <p id="OSBMUS0020">utrum recte composita</p>
+      <p id="OSBMUS0021">sit quam cantat harmonia.</p>
+      <p id="OSBMUS0022">
+      <pb n="[15]" />Si vocem proto auferat,</p>
+      <p id="OSBMUS0023">nescit et trito conferat;</p>
+      <p id="OSBMUS0024">si vocem tollat tetrardo,</p>
+      <p id="OSBMUS0025">et tribuat deutero.</p>
+      <p id="OSBMUS0026">Vel si voces plagalium</p>
+      <p id="OSBMUS0027">det cantibus autentorum;</p>
+      <p id="OSBMUS0028">vel propria repetentes</p>
+      <p id="OSBMUS0029">autenti increpent plagales.</p>
+      <p id="OSBMUS0030">Vel si plagales inter se</p>
+      <p id="OSBMUS0031">duella velint gerere,</p>
+      <p id="OSBMUS0032">unus increpet alium,</p>
+      <p id="OSBMUS0033">cantum requirens proprium.</p>
+      <p id="OSBMUS0034">Vocem quandoque praedicat,</p>
+      <p id="OSBMUS0035">ubi nulla vox inhabitat;</p>
+      <p id="OSBMUS0036">cum, ubi semitonium,</p>
+      <p id="OSBMUS0037">tonum componit integrum.</p>
+      <p id="OSBMUS0038">Ergo rogo ut taceat,</p>
+      <p id="OSBMUS0039">ne musicam despiciat,</p>
+      <p id="OSBMUS0040">qui musicam despicere</p>
+      <p id="OSBMUS0041">solebat et haec dicere:</p>
+      <p id="OSBMUS0042">"Musica non est utilis,</p>
+      <p id="OSBMUS0043">nec in cantu laudabilis,</p>
+      <p id="OSBMUS0044">nec quisquam probus clericus</p>
+      <p id="OSBMUS0045">deberet esse musicus".</p>
+      <p id="OSBMUS0046">
+      <pb n="[16]" />Dixi: rogo ut taceat,</p>
+      <p id="OSBMUS0047">quam citius ne pereat,</p>
+      <p id="OSBMUS0048">et discat quod sit optima,</p>
+      <p id="OSBMUS0049">cuncta gubernans cantica.</p>
+      <p id="OSBMUS0050">Nam sicut ars grammatica</p>
+      <p id="OSBMUS0051">regit casus et tempora,</p>
+      <p id="OSBMUS0052">regit modos et personas,</p>
+      <p id="OSBMUS0053">linguasque facit disertas:</p>
+      <p id="OSBMUS0054">sic etiam ars musica</p>
+      <p id="OSBMUS0055">cunctorum regit || [O f.1v in marg.] cantica,</p>
+      <p id="OSBMUS0056">tonos et consonantias,</p>
+      <p id="OSBMUS0057">tonorum voces dissonas.</p>
+      <p id="OSBMUS0058">Ergo fratres karissimi,</p>
+      <p id="OSBMUS0059">ne sitis nobis invidi;</p>
+      <p id="OSBMUS0060">nam tantum valet musica,</p>
+      <p id="OSBMUS0061">ut mea probant carmina.</p>
+      <p id="OSBMUS0062">Unde rogo altitonum,</p>
+      <p id="OSBMUS0063">dei unigenitum,</p>
+      <p id="OSBMUS0064">virginis sacrae filium,</p>
+      <p id="OSBMUS0065">philosophiae dominum:</p>
+      <p id="OSBMUS0066">ut me concedat bibere</p>
+      <p id="OSBMUS0067">aquam fontis scientiae,</p>
+      <p id="OSBMUS0068">ut sic des || [R f.10r in marg.] cribam musicam,</p>
+      <p id="OSBMUS0069">ut ditem ignorantiam,</p>
+      <p id="OSBMUS0070">quibus est necessarium,</p>
+      <p id="OSBMUS0071">ut discant cantum musicum,</p>
+      <p id="OSBMUS0072">ut levius intelligant</p>
+      <p id="OSBMUS0073">et intellecta teneant.</p>
+      <p id="OSBMUS0074">
+      <pb n="[17]" />[TRACTATUS I]</p>
+      <p id="OSBMUS0075">[DE VOCUM CONSONANTIIS]</p>
+      <p id="OSBMUS0076">[A. DE VOCIBUS]</p>
+      <p id="OSBMUS0077">Datur donante deo</p>
+      <p id="OSBMUS0078">manus pro monochordo;</p>
+      <p id="OSBMUS0079">notas per manum dividat,</p>
+      <p id="OSBMUS0080">hanc quisquis artem inchoat.</p>
+      <p id="OSBMUS0081">Notas quidem notifico</p>
+      <p id="OSBMUS0082">nominibusque nomino;</p>
+      <p id="OSBMUS0083">notarum scribo nomina,</p>
+      <p id="OSBMUS0084">ne forte sint incognita.</p>
+      <p id="OSBMUS0085">Gamma, in primis posita,</p>
+      <p id="OSBMUS0086">quibusdam est incognita;</p>
+      <p id="OSBMUS0087">nam .[Gamma]. graecum nomine</p>
+      <p id="OSBMUS0088">non invenitur in abc.</p>
+      <p id="OSBMUS0089">Sed ne .[Gamma]. deficiat,</p>
+      <p id="OSBMUS0090">plagalis proti postulat,</p>
+      <p id="OSBMUS0091">cum usque ad hoc vocabulum</p>
+      <p id="OSBMUS0092">quandoque sumit principium.</p>
+      <p id="OSBMUS0093">
+      <pb n="[18]" />.[Gamma]. diatessaron construit,</p>
+      <p id="OSBMUS0094">cum se .C. gravi coniungit;</p>
+      <p id="OSBMUS0095">et cum facit tetrachordum,</p>
+      <p id="OSBMUS0096">non videtur superfluum.</p>
+      <p id="OSBMUS0097">Quam secuntur compositae</p>
+      <p id="OSBMUS0098">septem alphabeti litterae;</p>
+      <p id="OSBMUS0099">et quia graves vocantur,</p>
+      <p id="OSBMUS0100">litteris maioribus terminantur,</p>
+      <p id="OSBMUS0101">hoc modo: A.B.C.D.E.F.G.</p>
+      <p id="OSBMUS0102">Graves quidem non litterae,</p>
+      <p id="OSBMUS0103">sed graves voces musicae;</p>
+      <p id="OSBMUS0104">sed per signatas litteras</p>
+      <p id="OSBMUS0105">notamus voces musicas.</p>
+      <p id="OSBMUS0106">Post has eaedem litterae</p>
+      <p id="OSBMUS0107">repetuntur voces acutae;</p>
+      <p id="OSBMUS0108">et quia acutae dicuntur,</p>
+      <p id="OSBMUS0109">litteris minoribus describuntur,</p>
+      <p id="OSBMUS0110">hoc modo: .a.[sqb].c.d.e.f.g.</p>
+      <p id="OSBMUS0111">Restant quattuor litterae,</p>
+      <p id="OSBMUS0112">voces superacutae musicae;</p>
+      <p id="OSBMUS0113">et ut notae sint omnibus,</p>
+      <p id="OSBMUS0114">dupliciter conscribimus,</p>
+      <p id="OSBMUS0115">hoc modo: .aa.[sqb][sqb].cc.dd.</p>
+      <p id="OSBMUS0116">
+      <pb n="[19]" />Vides, o lector inclite,</p>
+      <p id="OSBMUS0117">has duas quadratas .[sqb].[sqb][sqb].; || [O f. 2r in marg.]</p>
+      <p id="OSBMUS0118">quid quadrata significat,</p>
+      <p id="OSBMUS0119">noster sensus commemorat.</p>
+      <p id="OSBMUS0120">Inter .a.aa. et .[sqb].[sqb][sqb]. quadratam</p>
+      <p id="OSBMUS0121">.b. componimus aliam;</p>
+      <p id="OSBMUS0122">et quia mollis dicitur,</p>
+      <p id="OSBMUS0123">rotunda sic describitur:</p>
+      <p id="OSBMUS0124">.b.bb.</p>
+      <p id="OSBMUS0125">Mollis, id est debilis,</p>
+      <p id="OSBMUS0126">vox eius quasi flebilis,</p>
+      <p id="OSBMUS0127">vel vix perfecte noscitur,</p>
+      <p id="OSBMUS0128">cum non saepe inscribitur.</p>
+      <p id="OSBMUS0129">Haec .b. cum .a. reddit semitonium,</p>
+      <p id="OSBMUS0130">cum .c. tonum integrum;</p>
+      <p id="OSBMUS0131">et in eodem spatio vel regula</p>
+      <p id="OSBMUS0132">diversa est .[sqb]. quadrata.</p>
+      <p id="OSBMUS0133">Haec .b. ubi semitonium,</p>
+      <p id="OSBMUS0134">illa .[sqb]. habet tonum integrum;</p>
+      <p id="OSBMUS0135">haec .b. ubi tonum integrum,</p>
+      <p id="OSBMUS0136">illa .[sqb]. semitonium.</p>
+      <p id="OSBMUS0137">Haec .b. quoque ne deficiat,</p>
+      <p id="OSBMUS0138">tritus cum plagali postulat;</p>
+      <p id="OSBMUS0139">nam quando recte canitur,</p>
+      <p id="OSBMUS0140">.b. molli saepius utitur.</p>
+      <p id="OSBMUS0141">
+      <pb n="[20]" />His tamen non est ita propria,</p>
+      <p id="OSBMUS0142">quin || [R f. 10v in marg.] aliis sit necessaria;</p>
+      <p id="OSBMUS0143">omnibus quandoque convenit,</p>
+      <p id="OSBMUS0144">quando vox se ita dividit.</p>
+      <p id="OSBMUS0145">Haec (.b.) quando cum .F. coniungitur,</p>
+      <p id="OSBMUS0146">diatessaron inde efficitur;</p>
+      <p id="OSBMUS0147">per hanc .b. quoque dividitur monochordum,</p>
+      <p id="OSBMUS0148">ut habeatur; ergo est necessarium.</p>
+      <p id="OSBMUS0149">Potest oriri quaestio</p>
+      <p id="OSBMUS0150">plerisque non sine dubio:</p>
+      <p id="OSBMUS0151">cum haec .b. cum acutis et superacutis ponitur,</p>
+      <p id="OSBMUS0152">sed cum gravibus nunquam scribitur.</p>
+      <p id="OSBMUS0153">Haec talis dubitatio,</p>
+      <p id="OSBMUS0154">unde oritur quaestio;</p>
+      <p id="OSBMUS0155">intelligenti satis panditur,</p>
+      <p id="OSBMUS0156">quando hac ratione solvitur.</p>
+      <p id="OSBMUS0157">.B. gravis nullo modo sub se .F. exspectat,</p>
+      <p id="OSBMUS0158">respectu cuius diatessaron componat;</p>
+      <p id="OSBMUS0159">diatessaron ibi nunquam canitur;</p>
+      <p id="OSBMUS0160">ergo in gravibus .B. mollis non ponitur.</p>
+      <p id="OSBMUS0161">
+      <pb n="[21]" />[B. DE CONSONANTIIS]</p>
+      <p id="OSBMUS0162">Sex sunt consonantiae,</p>
+      <p id="OSBMUS0163">diversae moderantiae,</p>
+      <p id="OSBMUS0164">per quas omne transcurrit quod canitur,</p>
+      <p id="OSBMUS0165">formatur sive regitur.</p>
+      <p id="OSBMUS0166">Quas qui scit decernere,</p>
+      <p id="OSBMUS0167">scienter scit ipse canere;</p>
+      <p id="OSBMUS0168">in musica nihil est utilius,</p>
+      <p id="OSBMUS0169">vel ad cantum notandum facilius.</p>
+      <p id="OSBMUS0170">Has tales voces necesse est describere,</p>
+      <p id="OSBMUS0171">nominibusque || [O f. 2v in marg.] ostendere;</p>
+      <p id="OSBMUS0172">ecce earum nomina</p>
+      <p id="OSBMUS0173">conscripta fiunt cognita;</p>
+      <p id="OSBMUS0174">ita vocantur: tonus, semitonium, ditonus, semiditonus, diatessaron, diapente.</p>
+      <p id="OSBMUS0175">Ecce videns earum nomina,</p>
+      <p id="OSBMUS0176">ignoras quae eis sint convenientia;</p>
+      <p id="OSBMUS0177">sed proprietates talium</p>
+      <p id="OSBMUS0178">per figurarum subscribam circulum.</p>
+      <p id="OSBMUS0179">Tunc tonus plena voce canitur,</p>
+      <p id="OSBMUS0180">quando vox cum proxima a se ita coniungitur,</p>
+      <p id="OSBMUS0181">ut de .[Gamma]. in .A., de .A. in .B., de .C. in .D., de .D. in .E. et caeterae</p>
+      <p id="OSBMUS0182">simili modo.</p>
+      <p id="OSBMUS0183">
+      <pb n="[22]" />Quod autem ut clarius videas,</p>
+      <p id="OSBMUS0184">per hanc figuram dividas;</p>
+      <p id="OSBMUS0185">tali figura ostenditur,</p>
+      <p id="OSBMUS0186">quomodo talis vox dividitur:</p>
+      <p id="OSBMUS0187">[DMA A/Xa:22,1; text: UT, RE, MI, FA, SOL, LA, [Gamma], A, B, C, D, E, F, G, a, [sqb], b, c, d, e, f, g, a', b', [sqb]', c', d'] 
+      <figure>
+        <graphic url="/images/OSBMUS_01GF.gif" />
+      </figure></p>
+      <p id="OSBMUS0188">Descripto tono integro,</p>
+      <p id="OSBMUS0189">scribendum est de semitonio.</p>
+      <p id="OSBMUS0190">Quale sit semitonium,</p>
+      <p id="OSBMUS0191">per hunc declaro circulum:</p>
+      <p id="OSBMUS0192">[DMA A/Xa:22,2; text: MI, FA, B, C, E, F, a, b, [sqb], c, e, f, a', b', [sqb]', c']</p>
+      <p id="OSBMUS0193">
+      <pb n="[23]" />Ecce accedit || [R f. 11r in marg.] ditonus,</p>
+      <p id="OSBMUS0194">de duobus tonis conditus,</p>
+      <p id="OSBMUS0195">ut de .[Gamma]. in .B., de .C. in .E.,</p>
+      <p id="OSBMUS0196">et, ut clarius videas,</p>
+      <p id="OSBMUS0197">per sequentem figuram dividas.</p>
+      <p id="OSBMUS0198">[DMA A/Xa:23,1; text: UT, MI, FA, LA, [Gamma], B, C, E, F, G, a, [sqb], b, c, d, e, f, g, a', [sqb]', b', d']</p>
+      <p id="OSBMUS0199">Semiditonus est ingrediens,</p>
+      <p id="OSBMUS0200">tonum et semitonium continens,</p>
+      <p id="OSBMUS0201">ut de .A. in .C., de .B. in .D.</p>
+      <p id="OSBMUS0202">Qualis sit semiditonus,</p>
+      <p id="OSBMUS0203">sequens ostendit circulus:</p>
+      <p id="OSBMUS0204">[DMA A/Xa:23,2; text: RE, FA, MI, SOL, A, B, C, D, E, F, G, a, b, [sqb], c, d, e, f, g, a', b', [sqb]', c', d']</p>
+      <p id="OSBMUS0205">
+      <pb n="[24]" />Diatessaron huc adesse properat,</p>
+      <p id="OSBMUS0206">qui usque ad quartam vocem || [O f. 3r in marg.] imperat,</p>
+      <p id="OSBMUS0207">ut de .[Gamma]. in .C., de .A. in .D., de .B. in .E.</p>
+      <p id="OSBMUS0208">Duos tonos et semitonium continet,</p>
+      <p id="OSBMUS0209">ut praesens figura edocet:</p>
+      <p id="OSBMUS0210">[DMA A/Xa:24; text: UT, RE, MI, FA, SOL, LA, [Gamma], A, B, C, D, E, F, G, a, b, [sqb], c, d, e, f, g, a', b', [sqb]', c', d']</p>
+      <p id="OSBMUS0211">Diapente post diatessaron sequitur,</p>
+      <p id="OSBMUS0212">qui uno tono maior esse dicitur;</p>
+      <p id="OSBMUS0213">ut de .[Gamma]. in .D., de .A. in .E.</p>
+      <p id="OSBMUS0214">Tribus tonis et semitonio componitur,</p>
+      <p id="OSBMUS0215">ut in praesenti figura describitur:</p>
+      <p id="OSBMUS0216">
+      <pb n="[25]" />[DMA A/Xa:25; text: UT, RE, MI, FA, SOL, LA, [Gamma], A, B, C, D, E, F, G, a, b, [sqb], c, d, e, f, g, a', [sqb]', c', d']</p>
+      <p id="OSBMUS0217">[APPENDIX]</p>
+      <p id="OSBMUS0218">Sex consonantiae, quas praedixi, describuntur, quibus, sine respectu regulae vel spatii, diversis modis diversa canuntur.</p>
+      <p id="OSBMUS0219">Si quisque voces earum visibiliter intelligit, his proprias notas imponat, hoc modo:</p>
+      <p id="OSBMUS0220">Tonus istud [signum] pro nota habeat.</p>
+      <p id="OSBMUS0221">Ditonum, qui vult, per istud intelligat [signum]</p>
+      <p id="OSBMUS0222">Per hoc cognoscat [signum] semitonium.</p>
+      <p id="OSBMUS0223">Istud [signum] notificet semiditonum.</p>
+      <p id="OSBMUS0224">Diatessaron volo per hoc [signum] notetur.</p>
+      <p id="OSBMUS0225">Istud [signum] volo diapente donetur.</p>
+      <p id="OSBMUS0226">Per hoc [signum] cantus in eadem voce moretur.</p>
+      <p id="OSBMUS0227">Iam lucis orto sidere,</p>
+      <p id="OSBMUS0228">deum precemur supplices,</p>
+      <p id="OSBMUS0229">ut in diurnis actibus,</p>
+      <p id="OSBMUS0230">nos servet a nocentibus.</p>
+      <p id="OSBMUS0231">Eodem modo omnes cantus.</p>
+      <p id="OSBMUS0232">
+      <pb n="[26]" />[TRACTATUS II]</p>
+      <p id="OSBMUS0233">[DE RE MUSICA]</p>
+      <p id="OSBMUS0234">[A]</p>
+      <p id="OSBMUS0235">Musica est peritia modulationis sonitu cantuque consistens; musica est cantus totius recta modulatio sive concordia; musica derivatur a novem musis, quas omnes poetae ad componendos libros suos invocabant. Sicut enim musis caeteris deabus maior scientia inesse dicitur, et sicut musae caeteris deabus pulchriores esse dicuntur, ita et ars || [O f. 3v in marg.] musica caeteris canendi artibus utilior et pulchrior in omni cantu probatur. Musae novem sunt numero; sic etiam musicae voces recto canendi itinere novem inveniuntur, scilicet tonus, semitonium, ditonus, semiditonus, diatessaron, diapente, tonus cum diapente, semitonium cum diapente.</p>
+      <p id="OSBMUS0236">Quandoque namque et intendendo et remittendo .C. cum .a., .E. cum .c. canitur, et similes simili modo. Diapason autem, qui caeteras voces continet, nona vox in musica est. Guido igitur in primo sui tituli versu || [R f. 11v in marg.] hunc numerum ostendens voces musicas musas appellat; in sequenti tamen non omnia propter artis musicae novitatem et imperfectum studium ad memoriam reduxit. Ipse namque in fine sui libri dicit: "Ars musica de die in diem paulatim crescendo magis et magis convalescit".</p>
+      <p id="OSBMUS0237">
+      <pb n="[27]" />Moyses dicit Tubai, quendam de genere Cain, ante diluvium artis musicae repertorem fuisse. Alii dicunt Linum, Thebanum, Zethum, Amphionem et Orpheum in arte musica primos claruisse. Graeci vero dicunt Pythagoram invenisse primordia huius artis ex sonitu malleorum, quod Guido in fine sui libri bene describit. Post quos haec disciplina paulatim est aptata, multisque modis adaucta, adeo quod Boethius, vir clarissimus et omni scientia peritissimus, hanc musicae artis peritiam secundum Graecos Romanis tradidit. Deinde Guido, praeclarae memoriae musicus et omni benivolentia honestus, breviter musicam descripsit, et quod Boethius et alii musici vel oblivioni tradiderunt, vel || [O f. 4r. in marg.] nimia obscuritate descripserunt, Guido docuit, ad memoriam duxit, leviter pueris tradendum descripsit. Sed quid plura? Musica ecce valet, regnat, imperat.</p>
+      <p id="OSBMUS0238">Multi enim probi musici in hac arte studii causa, cantando sive notando diutius morati, quibus usuales cantus noti sunt, diu bene probati--quos etiam Guido ad auctoritatem quandoque provocat-- dicunt Guidonem de tropis quattuor in parte non sufficienter dixisse, et maxime in autentis dubitanter praecepta dedisse. Dicit enim: "Autenti a finali vix plus una voce descendunt", cum autentus protus multotiens sub finali ad quartam remittitur; simili modo et caeteri quandoque sine reprehensione, quia aequalis dignitatis sunt. Dicit quoque Guido in alio loco: "A finali itaque voce ad quintam in || [R f. 12r in marg.] quolibet cantu iusta depositio est, et usque ad octavam elevatio, licet contra hanc regulam saepe fiat, cum ad nonam decimamve progrediamur". De plagis autem taceo, quia autentis sunt obedientes et quo mittuntur, incedunt.</p>
+      <p id="OSBMUS0239">
+      <pb n="[28]" />[B]</p>
+      <p id="OSBMUS0240">Quattuor sunt finales voces, quae omnibus tropis secundum quod concessum est conveniunt: .D.E.F.G., et quattuor sunt naturales tropi: protus, deuterus, tritus, tetrardus, qui neque autenti neque plagales, sed tantummodo naturales, ante divisionem eorum in duos, vocabantur. Alii namque non erant, respectu quorum vel maiores vel minores dicerentur. Sed quia Guido testatur, si circa inferiores graves, scilicet .[Gamma].A.B., vel si circa superiores acutas, scilicet .d.e.f., morarentur voces || [O f. 4v in marg.] sive intendendo sive remittendo, et quolibet modo distinctiones vel saltem finis posset ad finalem coaptari, scilicet .D., protus semper diceretur. Simili modo et de aliis tribus consilium fuit, ut unusquisque divideretur in duos. Et qui ab initio fuerunt, autenti vocarentur, id est auctorales sive principales; alii plagales dicerentur, id est subiugales sive laterales vel omnibus modis minores. Dicuntur etiam autenti acuti, plagae vero graves, quod est dicere: Autenti in elevatione non sunt mutati, sed post finalem usque ad decimam vocem quandoque libere sunt elevati. Plagales autem in gravibus sunt humiliati, sed in depositione usque ad quintam sub finali remittuntur; in elevatione vero de finali non ultra sextam progrediuntur. Quando itaque cantus sub finali ad tertiam vel ad quartam vel etiam quintam deponitur vocem, et in elevatione post finalem non ultra quintam vel sextam vocem intenditur, || [R f. 12v in marg.] sed circa finales voces humiliter moratur, huiusmodi plagalibus conveniunt et ab autentis conceduntur.</p>
+      <p id="OSBMUS0241">
+      <pb n="[29]" />Sed si quilibet cantus post finalem in elevatione usque ad octavam vel nonam vel etiam decimam vocem intensus fuerit, et propter vocum suavitatem et auctoris delectationem quandoque circa acutas, quandoque circa finales eiusdem cantus vox variatur, etiamsi sub finali usque ad tertiam vel quartam vel etiam quintam--quod raro aut nunquam fit--vox dimissa fuerit, autentis, quia auctorales et principales et ab initio naturales sunt, || [O f. 5r in marg.] huiusmodi neuma indubitanter et sine errore datur; quod in cantibus proti, quia saepe ad quartam sub finali vocem deponitur, ita fieri probatur. Autenti ergo cum plagalibus quandoque deponuntur, sed in elevatione ab eis dividuntur.</p>
+      <p id="OSBMUS0242">Neumae autem quaedam inventae sunt, quae huiusmodi errorem et dubitationem auferant, et unumquemque modum ad propria reducant, scilicet Primum qaerite regnum dei et caeterae huiusmodi versus quoque psalmorum et responsoriorum sive officiorum. Dicit enim Guido: "Huiusmodi neumae et regulae coaptentur modis. Alioquin plures cantus invenies, in quibus adeo confunditur gravitas et acumen, ut non possit adverti cui magis autento an plagae conferantur", quia cum utroque se habent, sed ut dictum est, huiusmodi principali dentur.</p>
+      <p id="OSBMUS0243">Ut superius dixi: quattuor modi vel tropi, qui abusive toni nominantur, divisi sunt in octo. Quando primus est, vocatur autentus protus, id est auctoritas prima; quando vero secundus, vocatur plagalis proti, id est subiugalis primi. Tertius vocatur autentus deuterus, id est auctoritas secunda; quartus plagalis deuteri, id est subiugalis secundi. Quintus vocatur autentus tritus, id est auctoritas tertia; sextus plagalis triti, id est subiugalis tertii. Septimus vocatur autentus tetrardus, id est auctoritas quarta; octavus plagalis tetrardi, id est subiugalis quarti.</p>
+      <p id="OSBMUS0244">
+      <pb n="[30]" />Vide etiam quod autenti non sunt in numero alterati: protus enim graece, || [R f. 13r in marg.] primus latine; || [O f. 5v in marg.] deuterus graece, secundus latine; tritus graece, tertius latine; tetrardus graece, quartus latine.</p>
+      <p id="OSBMUS0245">Plagales quandoque, ut supradictum est, ab autentis in depositione vim patiuntur, usualium cantuum testimonio; sed in autentorum elevatione nullo modo recipiuntur plus licito.</p>
+      <p id="OSBMUS0246">[C]</p>
+      <p id="OSBMUS0247">Omnes voces in musica sunt viginti et una. Ex eisdem vocibus sunt quattuordecim regulares et naturales, septem additae et formales. Hae sunt naturales: .A.B.C.D.E.F.G.a.[sqb].c.d.e.f.g., hae vero formales: .[Gamma].b.aa.bb.[sqb][sqb].cc.dd., quia nihil operantur ad componendas naturales consonantias octo modorum.</p>
+      <p id="OSBMUS0248">Ex supradictis naturalibus vocibus sunt quattuor naturaliter graves, quattuor finales, quattuor superiores, quattuor excellentes. Hae sunt graves: .A.B.C.D., istae finales: .D.E.F.G., istae superiores: .a.[sqb].c.d., istae vero excellentes: .d.e.f.g., in quibus utraque .D.d. biformis est. .D. enim gravis, cum sit ultima gravium, prima est finalium; .d. vero acuta, cum sit ultima superiorum, prima est excellentium, hoc modo:</p>
+      <p class="textFig" id="OSBMUS0249">tetrachordum&#160;&#160;&#160;tetrachordum&#160;&#160;&#160;tetrachordum&#160;&#160;&#160;tetrachordum
+      <lb />gravium&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;finalium&#160;&#160;&#160;&#160;&#160;&#160;&#160;superiorum&#160;&#160;&#160;&#160;&#160;excellentium
+      <br />ABCD&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;DEFG&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;a[sqb]cd&#160;&#160;&#160;&#160;&#160;&#160;&#160;defg
+      <lb /></p>
+      <p id="OSBMUS0250">Istae quoque constituunt naturales consonantias octo modorum, ex quibus in primis ostendo quattuor diapason quattuor plagalium; post ostendam quattuor autentorum. Unusquisque enim modus propriam habet diapason.</p>
+      <p id="OSBMUS0251">
+      <pb n="[31]" />Secundus tonus, quia primus est plagalium, constat prima gravium .A., mediatur prima finalium .D., ascendit legitime ad primam superiorum .a., cuius finis medietas est primi autenti, quia primus est || [R f. 13v in marg.] plagalium.</p>
+      <p id="OSBMUS0252">[O f. 6r in marg.] [DMA A/Xa:31,1; text: DIAPASON SECUNDI TONI, .A. RE, diatessaron, SOL, .D. RE, diapente, .a. LA, mediatrix] 
+      <figure>
+        <graphic url="/images/OSBMUS_02GF.gif" />
+      </figure></p>
+      <p id="OSBMUS0253">Quartus tonus, quia secundus est plagalium, constat secunda gravium .B., mediatur secunda finalium .E., terminatur secunda superiorum .[sqb]., cuius finis medietas (est) secundi autenti, quia secundus est plagalium.</p>
+      <p id="OSBMUS0254">[DMA A/Xa:31,2; text: DIAPASON QUARTI TONI, .B. MI, diatessaron, LA, .E. MI, diapente, .[sqb]. mediatrix]</p>
+      <p id="OSBMUS0255">Sextus tonus, quia tertius est plagalium, constat tertia gravium .C., mediatur tertia finalium .F., terminatur tertia superiorum .c., cuius finis medietas est tertii autenti, quia tertius est plagalium.</p>
+      <p id="OSBMUS0256">[DMA A/Xa:31,3; text: DIAPASON SEXTI TONI, .C. UT, diatessaron, FA, .F. diapente, SOL, .c. mediatrix]</p>
+      <p id="OSBMUS0257">Octavus tonus, quia quartus est plagalium, constat quarta gravium .D., mediatur quarta finalium .G., terminatur quarta superiorum .d., cuius finis medietas est quarti autenti, quia quartus est plagalium.</p>
+      <p id="OSBMUS0258">
+      <pb n="[32]" />[DMA A/Xa:32,1; text: DIAPASON OCTAVI TONI, .D. RE, diatessaron, SOL, .G. UT, diapente, .d., mediatrix]</p>
+      <p id="OSBMUS0259">Primus tonus, quia primus est autentorum, constat prima finalium .D., mediatur prima superiorum .a., terminatur prima excellentium .d., cuius principium medietas est primi plagalium, nam primus est autentorum.</p>
+      <p id="OSBMUS0260">[DMA A/Xa:32,2; text: DIAPASON PRIMI TONI, .D. RE, diapente, .a. LA, MI, diatessaron, .d., SOL, mediatrix]</p>
+      <p id="OSBMUS0261">Tertius tonus, quia secundus est autentorum, || O f. 6v in marg.] constat secunda finalium .E., mediatur secunda superiorum .[sqb]., terminatur secunda excellentium .e., cuius principium medietas est secundi plagalium, cum sit secundus autentorum.</p>
+      <p id="OSBMUS0262">[DMA A/Xa:32,3; text: DIAPASON TERTII TONI, .E. MI, diapente, .[sqb]. diatessaron, .e. LA, mediatrix]</p>
+      <p id="OSBMUS0263">Quintus tonus, quia tertius est autentorum, constat tertia finalium .F., mediatur tertia superiorum .c., terminatur tertia excellentium .f., cuius principium medietas est tertii plagalium, nam tertius est autentorum.</p>
+      <p id="OSBMUS0264">[DMA A/Xa:32,4; text: DIAPASON QUINTI TONI, .F. FA, UT, diapente, SOL, .c. diatessaron, .f. mediatrix]</p>
+      <p id="OSBMUS0265">
+      <pb n="[33]" />Septimus tonus, quia quartus est autentorum, constat quarta finalium .G., mediatur quarta superiorum .d., terminatur quarta excellentium .g., cuius principium medietas est quarti plagalium, quia quartus est autentorum.</p>
+      <p id="OSBMUS0266">[DMA A/Xa:33; text: DIAPASON SEPTIMI TONI, .G.UT, RE, diapente, SOL, LA, .d., diatesseron, .g., mediatrix]</p>
+      <p id="OSBMUS0267">Hae sunt naturales diapason octo modorum, ut unusquisque propriam habeat; aliae, si forte inveniantur, non sunt naturales, sed formales. Sicut signa et menses, ita se habent autenti et plagales. || [R f. 14r in marg.] Sicut etenim quodlibet signum in medio mensis sumit principium, sic quilibet autentus in sui plagalis medietate certissime scitur inchoare. Plagales econtrario in medietate finiunt autentorum, sicut menses in medio signorum. Mediatrices plagalium: .D.E.F.G., mediatrices autentorum: || [O f. 7r in marg.] .a.[sqb].c.d.</p>
+      <p id="OSBMUS0268">[D]</p>
+      <p id="OSBMUS0269">Autenti habent in suo cursu inferius diapente, superius diatessaron; plagales econtrario inferius diatessaron, superius diapente; principium autentorum medietas plagalium, medietas autentorum finis plagalium Unusquisque modus, sicuti propriam habet diapason, ita et propriam habet diatessaron sive diapente. Diatessaron plagalium constant ex primis et mediis vocibus eorum; diatessaron vero autentorum constant ex mediis et terminalibus vocibus ipsorum. Diapente plagalium constant ex mediis vocibus et terminalibus ipsorum; diapente autem autentorum constant ex primis et mediis vocibus ipsorum.</p>
+      <p id="OSBMUS0270">
+      <pb n="[34]" />Quattuor igitur sunt species diatessaron et quattuor diapente, scilicet species prima diatessaron constat ex prima gravium et prima finalium: .A. et .D.; species secunda constat ex secunda gravium et secunda finalium: .B. et .E.; species tertia constat ex tertia gravium et tertia finalium: .C. et .F.; species quarta constat ex quarta gravium et quarta finalium: .D. et .G., hoc modo:</p>
+      <p id="OSBMUS0271">[DMA A/Xa:34,1; text: Diatessaron, plagalium, biformis, A, B, C, D, E, F, G] 
+      <figure>
+        <graphic url="/images/OSBMUS_03GF.gif" />
+      </figure></p>
+      <p id="OSBMUS0272">Huiusmodi diatessaron sunt plagalium, non communes cum autentis, per proprietatem propter divisionem in duos.</p>
+      <p id="OSBMUS0273">Hae vero sunt || [R f. 14v in marg.] quattuor species diapente, communes autentis et plagalibus. Autenti enim habent inferius diapente, superius diatessaron; plagales autem habent inferius diatessaron, superius diapente. Mediatrices namque plagalium primae sunt autentorum; terminales autem plagalium || [O f. 7v in marg.] mediatrices sunt autentorum, ex quibus conformantur quattuor species diapente et plagalium et autentorum. Species prima diapente constat ex prima finalium et prima superiorum: .D. et .a.; species secunda constat ex secunda finalium et secunda superiorum: .E. et. .[sqb].; species tertia constat ex tertia finalium et tertia superiorum: .F. et .c.; species quarta constat ex quarta finalium et quarta superiorum: .G. et .d., hoc modo:</p>
+      <p id="OSBMUS0274">[DMA A/Xa:34,2; text: Diapente, plagalium, autentorum, D, E, F, G, a, [sqb], c, d, e]</p>
+      <p id="OSBMUS0275">
+      <pb n="[35]" />Istae vero sunt quattuor species diatessaron autentorum, non communes cum plagalibus, scilicet species prima ex prima superiorum et prima excellentium: .a. et .d.; species secunda ex secunda superiorum et secunda excellentium: .[sqb]. et .e.; species tertia ex tertia superiorum et tertia excellentium: .c. et .f.; species quarta ex quarta superiorum et quarta excellentium: .d. et .g., hoc modo:</p>
+      <p id="OSBMUS0276">[DMA A/Xa:35; text: Diatessaron, autentorum, a, [sqb], c, d, e, f, g]</p>
+      <p id="OSBMUS0277">Huiusmodi species consonantiarum trium, scilicet diapason, diapente, diatessaron, sunt naturales et || [R f. 15r in marg.] constituunt octo modos. Aliae vero si inveniantur, non sunt naturales sed formales. Sciendum est itaque de tribus supradictis consonantiis, quod similibus vocibus componuntur. Diapason enim, cum in se diatessaron et diapente continet, easdem litteras in utroque latere, quibus componitur, habet: .A. et .a., .B. et .[sqb]. et sic simili modo quae eaedem sunt et easdem consonantias et in elevatione et in depositione continent.</p>
+      <p id="OSBMUS0278">Diapente quae constituunt modos, etiam ex similibus vocibus componuntur; diapente enim prima ex prima finalium .D. et prima superiorum .a. componitur, quae similes || [O f. 8r in marg.] sunt et easdem consonantias in elevatione continent, sed non in depositione; .D. enim deponitur tono, .a. ditono, et sicut Guido testatur, eiusdem modi sunt. Simili modo .E. et .[sqb]. eiusdem sunt modi et easdem consonantias et in elevatione et in depositione continent. Eodem modo .F. et .c., .G. quoque et .d. in depositione naturaliter similes sunt, in elevatione non similes, nisi .b. mollis superponatur.</p>
+      <p id="OSBMUS0279">
+      <pb n="[36]" />Voces autem quae constituunt diatessaron plagalium, similes sunt eodem modo; .A. enim et .D. et in elevatione et in depositione similes sunt. Eodem modo .B. et .E., .C. et .F. et in elevatione et in depositione similes sunt. .D. autem et .G. in depositione regulariter similes sunt; et quando .b. mollis frequentatur, tunc .D. et .G. et in elevatione et depositione similes sunt.</p>
+      <p id="OSBMUS0280">[E]</p>
+      <p id="OSBMUS0281">Et propter hanc similitudinem quidam dicunt, quod .G. finalis proti potest esse quandoque, sed raro evenit aut nunquam; sed tamen invenitur aliquando, quando non potest finiri in propria finali .D. neque || [R f. 15v in marg.] in sociali eius .a. neque in diapason .d., quia post finalem vult habere et ditonum, quod facit .[sqb]., et semiditonum, quod facit .b., sicut in hac antiphona: Collegerunt pontifices, et quod dicunt, hac ratione solvunt:</p>
+      <p id="OSBMUS0282">Non est mirum, si cantus cuius finalis est .D., finem sumat in .G., quae eadem similitudine per .b. mollis et elevatur et deponitur. Quae .G. etiam cum .D. constituit naturalem diatessaron octavi toni et cuius .D. auxilio indiget .G. ad constituendam sui modi speciem; eidem scilicet .D. in cantu ne sine finali erret, reddat vicem. Non est || [O f. 8v in marg.] mirum, dico, cum etiam cantus, cuius finalis propria est .E., in ea non potest finiri neque in sociali .[sqb]., ad .a., quae similiter alterius modi est et quae nullam speciem regularem modorum cum .E. constituit, distinctiones omnes vel etiam finem multotiens coaptat propter similitudinem, quam habet .a. cum .E. in depositione et in elevatione, si .b. mollis superponatur, quod in quarto tono ita fieri saepe probatur.</p>
+      <p id="OSBMUS0283">Non est etiam mirum, si primus tonus finem capiat in .G., quae est finalis septimi et octavi toni, cum primus et octavus eandem habeant diapason, scilicet de .D. in .d. sicut supradictum est.</p>
+      <p id="OSBMUS0284">
+      <pb n="[37]" />[F]</p>
+      <p id="OSBMUS0285">Hae quattuor voces .D.E.F.G. sunt finales regulariter octo modorum. In .D. enim finem coaptat regulariter autentus protus et plagalis proti, id est primus et secundus tonus. Sed si protus vel plagalis eius sub finali ditonum quandoque velint habere, quia effectus iste deest sub .D.. in .a. acuta, quae socialis eius est, quae eius modi est et diapente primi toni et secundi regulariter cum .D. constituit, finem coaptandi vel omnes distinctiones finiendi tam autento quam plagali licentia datur, et in omnibus vocibus suis sive in elevatione sive in depositione hanc .a. pro propria finali .D. habendi || [R f. 16r in marg.] licentia omnibus modis conceditur. Finitur etiam protus in diapason .d.; conceditur quoque adhuc finalis proto .G. videlicet ratione, qua supradictum est, sed raro evenit.</p>
+      <p id="OSBMUS0286">.E. autem gravis finalis est regulariter autenti deuteri et plagalis eius, id est tertii et quarti toni, sed si transversus fuerit cantus ita, ut non possit in propria finali .E. finiri, in .[sqb]. finem || [O f. 9r in marg.] capiat, quae eius modi est et regularem diapente tertii et quarti toni cum .E. constituit. Conceditur etiam huiusmodi et tertia finalis .a. videlicet acuta propter illam rationem et similitudinem, quae supra ostensa est.</p>
+      <p id="OSBMUS0287">.F. vero gravis finalis est autenti triti et plagalis eius, id est quinti et sexti toni; sed si sub finali plenum tonum velint habere, quia iste effectus deest sub .F., in sociali .c. acuta finem coaptet, quia eiusdem est modi et regularem diapente quinti et sexti toni cum .F. constituit; tertia finalis non conceditur.</p>
+      <p id="OSBMUS0288">.G. vero gravis finalis est regulariter autenti tetrardi et plagalis eius, id est septimi et octavi toni, sed sola est; alia namque non invenitur nec conceditur.</p>
+      <p id="OSBMUS0289">
+      <pb n="[38]" />Autenti, sicut Guido testatur, raro sub finali sumunt principia, sed si forte fit, irreprehensibiles manent, quia auctorales sunt et omnes voces quasi proprias auctoritate continent. De finali autem usque ad quintam vocem in elevatione sumunt principia, ex quibus tamen duo diversi sunt ab aliis; protus videlicet in depositione principii, deuterus in elevatione principii. Protus namque sub finali multotiens ad primam, aliquando etiam ad quartam sumit principium. Deuterus autem post finalem quandoque principium etiam ad sextam tendit.</p>
+      <p id="OSBMUS0290">Plagales econtrario sub finali usque ad quintam vocem habent potestatem incipiendi, sed post finalem plagales proti et triti || [R f. 16v in marg.] nonnisi ad tertiam tendunt principia. Plagales vero deuteri et tetrardi post finalem usque ad quartam vocem quandoque || [O f. 9v in marg.] tendunt principia. Sciendum est quod nullus modus suum saeculorum amen sub finali incipiat, sed post finalem secundum quod sumunt principia neumarum, sumunt saeculorum amen. Et ut in paucis excludam huiusmodi: nullus modus supra suum saeculorum amen sumit principium. Potest autem et unusquisque modus in eadem neuma duabus finalibus cantum suum quandoque coaptare, propriae videlicet finali et eius sociali, ita scilicet ut circa propriam finalem secundum quod concessum est, principium sumat et omnes priores distinctiones in ipsa finiat. Sed postquam paulatim elevando intenditur, ita ut socialem quasi propriam finalem invadat et circa eam elevando posteriores distinctiones in ipsa finiat, ita fit demum, ut eiusdem neumae cantus duabus finalibus obediat; inferioris namque sumit depositionem, superioris elevationem. Huiusmodi vero cantus transversus cantus vocatur, quia translatus est de propria finali ad socialem, et in sociali confidens tantum ultra concessivas voces elevatur, ut ad propriam finalem redeundi licentiam non habeat, sed in sociali, quasi ex ea exordium sumpsisset, finem sumat.</p>
+    </body>
+  </text>
+</TEI>

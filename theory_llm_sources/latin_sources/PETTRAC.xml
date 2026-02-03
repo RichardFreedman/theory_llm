@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Tractatus de tonis</title>
+        <title type="abbrev">PETTRAC</title>
+        <author>Petrus de Cruce Ambianensis</author>
+        <date notBefore="1200" notAfter="1299">13th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Peter Slemon</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Angela Mariani</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1994</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>Petrus de Cruce Ambianensi Tractatus de tonis</emph>, ed. Denis Harbison, Corpus scriptorum de musica, vol. 29 (n.p.: American Institute of Musicology, 1976), vi–xxv. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Petrus de Cruce Ambianensi[s]: Tractatus de tonis</title>
+          
+<idno type="LML">PETR. CRUC.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">GB-Lbl Harley 281, 52v-58</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="PETTRAC0001">
+      <pb n="[VI]" />Petro de Cruce Ambianensi</p>
+      <p id="PETTRAC0002">Capitulum I</p>
+      <p id="PETTRAC0003">Incipit Tractatus de Tonis a Magistro Petro de Cruce</p>
+      <p id="PETTRAC0004">[fol. 52v]</p>
+      <p id="PETTRAC0005">Dicturi de tonis, primo videndum est quid sit tonus et unde dicatur. Tonus ut hic accipitur est quaedam regula quae de omni cantu in fine diiudicat.</p>
+      <p id="PETTRAC0006">Octo sunt toni. Primus vocatur autentus protus, id est auctoritate primus. Secundus vocatur plaga proti, id est pars primi. Tertius vocatur autentus deuterus, id est auctoritate secundus. Quartus vocatur plaga deuteri, id est pars eius. Quintus vocatur autentus tritus, id est auctoritate tertius. Sextus vocatur plaga triti, id est pars eius. Septimus vocatur autentus tetrardus, id est auctoritate quartus. Octavus vocatur plaga tetrardi, id est pars eius.</p>
+      <p id="PETTRAC0007">Quatuor sunt litterae finales, scilicet D.E.F.G., et dicuntur finales quia isti toni regulariter finiuntur in ipsis. Tres sunt litterae affinales, scilicet a.b.c., et dicuntur affinales quia suppleant vices aliarum quatuor; et hoc est quando aliqui tonorum, qui non possunt in finalibus litteris finiri propter suum ascensum vel propter sua principia, tunc finiuntur in istis.</p>
+      <p id="PETTRAC0008">Primus vero tonus et secundus finiuntur in D., quae prima finalium dicitur. Tertius et quartus in E. Quintus et sextus in F. Septimus et octavus in G.</p>
+      <p id="PETTRAC0009">Cantus autem primi toni et tertii et quinti et septimi plus ascendunt et minus descendunt quam cantus suorum plagalium. Possunt enim ascendere usque ad octavam vel nonam vel decimam cordam supra finem suum, et descendere unam sub fine suo. Primus vero ratione auctoritatis suae potest accipere primam vocem .a. 
+      <pb n="[VII]" />Cantus vero plagalium possunt ascendere supra finem suum usque ad quintam cordam vel sextam, et descendere sub fine suo usque ad quintam cordam.</p>
+      <p id="PETTRAC0010">De illis qui tantam elevationem vel depositionem non habent, immo mediocriter se tenent; dicendum est quod si non ascendunt usque ad quintam cordam de plagali erunt. Si vero ascendunt et ibi saepe fuerint, et non multum usque ad finalem descenderint, autenti erunt.</p>
+      <p id="PETTRAC0011">De differentiis seu principiis eorum, quot differentias seu principia unusquisque eorum habeat, nulla musicae regula numerum certum declaravit. Usus enim civitatum, qui diversi sunt, dant eis differentias diversimodo, tum quia unus plus, alter vero minus.</p>
+      <p id="PETTRAC0012">Versus de intonatione psalmorum quo ad principium psalmorum.</p>
+      <p id="PETTRAC0013">Primum cum sexto cantu, fa, sol, la, teneto,</p>
+      <p id="PETTRAC0014">Tertius, octavus, ut, re, fa, sicque secundus,</p>
+      <p id="PETTRAC0015">Septimus incipiet [fa,] mi, fa, sol, quartusque la, sol, la,</p>
+      <p id="PETTRAC0016">Nunc quintum dicas quem, fa, la[=]re, fa, bene cantas.</p>
+      <p id="PETTRAC0017">Versus de intonatione psalmorum quantum ad mediationem psalmorum.</p>
+      <p id="PETTRAC0018">Septimus et sextus dant fa, mi, re, mi, quoque primus,</p>
+      <p id="PETTRAC0019">Quintus et octavus fa, fa, sol, fa, sicque secundus,</p>
+      <p id="PETTRAC0020">Sol, fa, mi, fa, tertius, re, ut, re, mi, re, quartus.</p>
+      <p id="PETTRAC0021">Per hos versus scitur cuius toni est quaelibet antiphona.</p>
+      <p id="PETTRAC0022">Primus re, la, secundus re, fa,</p>
+      <p id="PETTRAC0023">Tertius mi, fa, quartus mi, la,</p>
+      <p id="PETTRAC0024">Quintus fa, fa, dico, sextus fa, la,</p>
+      <p id="PETTRAC0025">Septimus ut, sol, octavus ut, fa, duo dura.</p>
+      <p id="PETTRAC0026">
+      <pb n="[VIII]" />Capitulum II</p>
+      <p id="PETTRAC0027">Exemplum de neuma et de principiis primi toni</p>
+      <p id="PETTRAC0028">[fol. 53]</p>
+      <p id="PETTRAC0029">[CSM29:VIII; text: Primum quaerite regnum Dei, Antiphona. Ecce nomen, Euouae, Diffusa est, Germinavit, Senex, Si vos, Adiutorium, Reges Tharsis, Volo pater, O quantus, Euge] 
+      <figure>
+        <graphic url="/images/PETTRAC_01GF.gif" />
+      </figure></p>
+      <p id="PETTRAC0030">
+      <pb n="[IX]" />[CSM29:IX; text: Antiphona. Simile, Euouae, Dicite, De modo intonandi super psalmos, Primus tonus in psalmis sic incipit, et sic mediatur, et sic finitur, De officiis exemplum, Gaudeamus, Officium. Suscepimus, Exsurge, Lex Domini, Ego autem, De modo intonandi officium primi toni, Primus tonus in officiis sic incipit, et sic mediatur, et sic finitur] 
+      <figure>
+        <graphic url="/images/PETTRAC_02GF.gif" />
+      </figure></p>
+      <p id="PETTRAC0031">
+      <pb n="[X]" />[CSM29:X; text: De responsoriis primi toni exemplum, Felix namque es, Versus. Ora, Gloria patri et filio et spiritui sancto, De invitatorio exemplum, Tu es pastor ovium, Psalmus. Venite exsultemus Domino] 
+      <figure>
+        <graphic url="/images/PETTRAC_03GF.gif" />
+      </figure></p>
+      <p id="PETTRAC0032">
+      <pb n="[XI]" />Capitulum III</p>
+      <p id="PETTRAC0033">De secundo tono exemplum</p>
+      <p id="PETTRAC0034">[fol. 54]</p>
+      <p id="PETTRAC0035">[CSM29:XI; text: Secundum autem simile est huic, Antiphona. O sapientia, Euouae, Clamant clamant, De intonatione super psalmos, Secundus tonus in psalmis sic incipit, et sic mediatur, et sic finitur, De officiis, Salve, Officium. Veni et ostende, De modo intonandi officia, Secundus tonus in officiis sic incipit, et sic mediatur, et sic finitur] 
+      <figure>
+        <graphic url="/images/PETTRAC_04GF.gif" />
+      </figure></p>
+      <p id="PETTRAC0036">
+      <pb n="[XII]" />[CSM29:XII; text: De responsoriis secundi [toni], Educ de carcere, Versus. Periit fuga a me, Gloria patri et filio et spiritui sancto, De invitatorio, Regem regum Dominum venite adoremus, Psalmus. Venite exsultemus Domino] 
+      <figure>
+        <graphic url="/images/PETTRAC_05GF.gif" />
+      </figure></p>
+      <p id="PETTRAC0037">
+      <pb n="[XIII]" />Capitulum IV</p>
+      <p id="PETTRAC0038">De tertio tono</p>
+      <p id="PETTRAC0039">[fol. 54v]</p>
+      <p id="PETTRAC0040">[CSM29:XIII; text: Tertia dies est quod haec facta sunt, Antiphona. Ecce Dominus, Euouae, Quando natus es, Fac benigne, Haec est, De modo intonandi super psalmos, Tertius tonus in psalmis sic incipit, et sic mediatur, et sic finitur, De officiis, Tibi dixit, Officium. In Deo] 
+      <figure>
+        <graphic url="/images/PETTRAC_06GF.gif" />
+      </figure></p>
+      <p id="PETTRAC0041">
+      <pb n="[XIV]" />[CSM29:XIV; text: Offertorio. In nomine, Euouae, Confessio, Dum clamarem, Modus intonandi officia, Tertius tonus in officiis sic incipit, et sic mediatur, et sic finitur, De responsoriis exemplum, Responsorium. Super salutem, Versus. Valde, Gloria patri et filio et spiritui sancto, Invitatorium, Regem venturum Dominum, Psalmus. Venite exsultemus Domino] 
+      <figure>
+        <graphic url="/images/PETTRAC_07GF.gif" />
+      </figure></p>
+      <p id="PETTRAC0042">
+      <pb n="[XV]" />Capitulum V</p>
+      <p id="PETTRAC0043">De quarto tono exempla</p>
+      <p id="PETTRAC0044">[fol. 55]</p>
+      <p id="PETTRAC0045">[CSM29:XV; text: Quarta vigilia venit ad eos, Antiphona. Secus decursus, Euouae, Benedicta tu, Post partum, Ex Aegypto, Fidelia, In mandatis, Impleat, Modus intonandi super psalmos, Quartus tonus in psalmis sic incipit, et sic mediatur, et sic finitur] 
+      <figure>
+        <graphic url="/images/PETTRAC_08GF.gif" />
+      </figure></p>
+      <p id="PETTRAC0046">
+      <pb n="[XVI]" />[CSM29:XVI; text: Sequitur de officiis, Officium. Prope es tu Domine, Remiscere, Resurrexi, Modus intonandi officia, Quartus tonus in officiis sic incipit, et sic mediatur, et sic finitur, De responsoriis exemplum, Responsorium. Quem vidistis, Ipsum genuisti, Gloria patri et filio et spiritui sancto, De invitatorio exemplum, Adoretur virginum rex, Psalmus. Venite exsultemus Domino] 
+      <figure>
+        <graphic url="/images/PETTRAC_09GF.gif" />
+      </figure></p>
+      <p id="PETTRAC0047">
+      <pb n="[XVII]" />Capitulum VI</p>
+      <p id="PETTRAC0048">De quinto tono</p>
+      <p id="PETTRAC0049">[fol. 55v]</p>
+      <p id="PETTRAC0050">[CSM29:XVII; text: Quinque prudentes intraverunt ad nuptias, Antiphona. Omnis vallis, Pectora, Euouae, De intonatione super psalmos, Quintus tonus in psalmis sic incipit, et sic mediatur, et sic finitur, De officiis quinti toni, Circumdederunt me, Domine refugium, De modo intonandi officia, Quintus tonus in officiis sic incipit, et sic mediatur, et sic finitur] 
+      <figure>
+        <graphic url="/images/PETTRAC_10GF.gif" />
+      </figure></p>
+      <p id="PETTRAC0051">
+      <pb n="[XVIII]" />[CSM29:XVIII; text: [De responsoriis exemplum] Responsorium. Regnum mundi, Versus. Eructavit, Gloria patri et filio et spiritui sancto, Invitatorium, Alleluya spiritus Domini, Psalmus. Venite exsultemus Domino] 
+      <figure>
+        <graphic url="/images/PETTRAC_11GF.gif" />
+      </figure></p>
+      <p id="PETTRAC0052">
+      <pb n="[XIX]" />Capitulum VII</p>
+      <p id="PETTRAC0053">De sexto tono exemplum</p>
+      <p id="PETTRAC0054">[fol. 56]</p>
+      <p id="PETTRAC0055">[CSM29:XIX; text: Sexta hora sedit super puteum, Antiphona. O quam gloriosum est regnum, Euouae, De intonatione super psalmos, Sextus tonus in psalmis sic incipit, et sic mediatur, et sic finitur, De officiis exemplum, In medio, Os iusti, De modo intonandi officia, Sextus tonus in officiis sic incipit, et sic mediatur, et sic finitur] 
+      <figure>
+        <graphic url="/images/PETTRAC_12GF.gif" />
+      </figure></p>
+      <p id="PETTRAC0056">
+      <pb n="[XX]" />[CSM29:XX; text: De responsoriis, Responsorium. Aspiciebam, Versus. Ecce, Gloria patri et filio et spiritui sancto, Invitatorium, Surrexit Dominus, Psalmus. Venite exsultemus Domino] 
+      <figure>
+        <graphic url="/images/PETTRAC_13GF.gif" />
+      </figure></p>
+      <p id="PETTRAC0057">
+      <pb n="[XXI]" />Capitulum VIII</p>
+      <p id="PETTRAC0058">De septimo tono exemplum</p>
+      <p id="PETTRAC0059">[fol. 56v]</p>
+      <p id="PETTRAC0060">[CSM29:XXI; text: Septem sunt spiritus ante thronum Dei, Antiphona. Omnes, Euouae, Quo progrederis, Orante, Ioseph fili David, Veterem, Quomodo, De intonatione super psalmos, Septimus tonus in psalmis sic incipit, et sic mediatur, et sic finitur, De officiis exemplum, Puer natus est, Officium. Ne derelinquas, Audivit] 
+      <figure>
+        <graphic url="/images/PETTRAC_14GF.gif" />
+      </figure></p>
+      <p id="PETTRAC0061">
+      <pb n="[XXII]" />[CSM29:XXII; text: De intonatione officiorum, Septimus tonus in officiis sic incipit, et sic mediatur, et sic finitur, De responsoriis, Responsorium. Aspiciens a longe, Versus. Quique terrigenae, Gloria patri et filio et spiritui sancto, De invitatorio, Praeoccupemus, Psalmus. Venite exsultemus Domino] 
+      <figure>
+        <graphic url="/images/PETTRAC_15GF.gif" />
+      </figure></p>
+      <p id="PETTRAC0062">
+      <pb n="[XXIII]" />Capitulum IX</p>
+      <p id="PETTRAC0063">De octavo tono exemplum</p>
+      <p id="PETTRAC0064">[fol. 57v]</p>
+      <p id="PETTRAC0065">[CSM29:XXIII; text: Octo sunt beatitudines, Antiphona. In illa die, Euouae, Cum venerit, Hodie, Omnis plebs, Missus est, Ingresso, Nos qui vivimus, De intonatione super psalmos, Octavus tonus in psalmis sic incipit, et sic mediatur, et sic finitur] 
+      <figure>
+        <graphic url="/images/PETTRAC_16GF.gif" />
+      </figure></p>
+      <p id="PETTRAC0066">
+      <pb n="[XXIV]" />[CSM29:XXIV; text: De officiis, Officium. Ad te levavi, Euouae, Spiritus Domini 
+      <pb n="[--]" />alleluia, De intonatione officiorum, Octavus tonus in officiis sic incipit, et sic mediatur, et sic finitur, [De responsoriis exemplum] Responsorium. Tamquam, Versus. Filius, Gloria patri et filio et spiritui sancto, Invitatorium, Praeoccupemus, Psalmus. Venite exsultemus Domino] 
+      <figure>
+        <graphic url="/images/PETTRAC_17GF.gif" />
+      </figure></p>
+      <p id="PETTRAC0067">
+      <pb n="[XXV]" />Quomodo conveniunt et quomodo differunt isti toni, scilicet primus a secundo, tertius a quarto, quintus a sexto, septimus ab octavo. Et ea quae dicta sunt de tonis sufficiant.</p>
+      <p id="PETTRAC0068">Expliciunt toni a Magistro Petro de Cruce Ambianensi</p>
+    </body>
+  </text>
+</TEI>

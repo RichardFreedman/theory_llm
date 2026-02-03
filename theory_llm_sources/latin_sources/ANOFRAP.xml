@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>[Fragmentum de proportionibus]</title>
+        <title type="abbrev">ANOFRAP</title>
+        <author>Anonymous</author>
+        <date notBefore="1300" notAfter="1399">14th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>David Schneider</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Peter Slemon</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>2002</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+F. Alberto Gallo, 
+<emph>Mensurabilis musicae tractatuli</emph>, Antiquae musicae italicae scriptores, vol. 1 (Bologna: Università degli Studi di Bologna, Istituto di Studi Musicali e Teatrali - Sez. Musicologia, 1966), 55. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: Fragmentum de proportionibus musicae mensuralis</title>
+          
+<idno type="LML">PROP. MENS. Quat.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">I-PAVu 450, 7v</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANOFRAP0001">
+      <pb n="[55]" />Quaternarium vocatur proportio dupla minor.</p>
+      <p id="ANOFRAP0002">Senarium inperfectum vocatur proportio dupla maior.</p>
+      <p id="ANOFRAP0003">Senarium perfectum vocatur proportio tripla minor.</p>
+      <p id="ANOFRAP0004">Nonaria vocatur proportio tripla maior.</p>
+      <p id="ANOFRAP0005">Ternaria vocatur prolatio maior.</p>
+      <p id="ANOFRAP0006">Binaria maneries vocatur prolatio minor.</p>
+      <p id="ANOFRAP0007">Octonaria, que non est in usu secundum magistrum Johannem de Muris, vocatur proportio quatrupla.</p>
+    </body>
+  </text>
+</TEI>

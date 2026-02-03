@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Tonarius</title>
+        <title type="abbrev">BERNTON</title>
+        <author>Berno Augiensis</author>
+        <date notBefore="800" notAfter="1099">9th-11th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Patricia Starr</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Charles Atkinson</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Angela Mariani</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1993</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>Scriptores ecclesiastici de musica sacra potissimum</emph>, 3 vols., ed. Martin Gerbert (St. Blaise: Typis San-Blasianis, 1784; reprint ed., Hildesheim: Olms, 1963), 2:79–91.
+</bibl>
+        <bibl type="work">
+          
+<title>Berno Augiensis: Tonarius</title>
+          
+<idno type="LML">BERNO ton.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">A-SP Cod. 110/6 (29.4.1), 1-9v (Fragment)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">A-Wn Cod. 51, 56-62, 71-72v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">A-Wn Cod. 1836, 58-78v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Br 10162/6, 50-51 (62-63)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">CH-SGs 898, 5-10</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-DS 1988, 157-167</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Ea without shelfmark, 187-191 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-KA K 504, 22-26v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Kl 8° Ms. Math. 4, 11-23v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-LEu 431, 147-149v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-LEu 1493, 53-60b</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 18937, 279-295</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 27300, 12v-41v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Obac 173A, 112v-119v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat Pal. lat. 1344, 19-33v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">PL-Kj 1965, 47v-58</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">US-R Ms. 92 1200, 79v-91</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="BERNTON0001">
+      <pb n="[79]" />Authenticus protus constat ex prima specie diapente, et ex prima specie diatessaron superius. Huius ultima syllaba in seculorum amen altius distat a finali diatessaron intervallo.</p>
+      <p id="BERNTON0002">NONANNOEANE</p>
+      <p id="BERNTON0003">Primum quaerite regnum Dei</p>
+      <p id="BERNTON0004">Seculorum amen.</p>
+      <p id="BERNTON0005">Lichanos hypaton.</p>
+      <p id="BERNTON0006">Antiphona Angelus Domini nuntiavit et caetera.</p>
+      <p id="BERNTON0007">Differentia prima, quae a finali quidem incipit, sed mox in quintum sonum ascendit, ut sicut antiphona ab ultima seculorum amen syllaba in gravitate, ita secunda neuma distet diapente a prima in acumine.</p>
+      <p id="BERNTON0008">Seculorum amen. lichanos hypaton. Antiphona Domine dominus noster et caetera. Hae antiphonae tono inferius cum subsequenti differentia taliter vadit amen. incipiunt, sed cum superiori post contiguum tonum statim in diapente consurgunt: ideoque in medio ambarum hic eas collocavimus, 
+      <pb n="[80]" />ut cuilibet earum illas attribuas, non delinquas. Antiphona Amice non facio et caetera.</p>
+      <p id="BERNTON0009">Differentia secunda ab ultima syllaba saeculorum amen per diatessaron, vocibus quae sunt in medio annumeratis, finalem usque descendit, sicque tono inferius incipit.</p>
+      <p id="BERNTON0010">Seculorum amen. Antiphona Amen dico vobis et caetera. Hae antiphonae licet a finali incipiant, tamen quia per quilismata, quae nos gradatas neumas dicimus, magis gutturis, quam chordarum vel alicuius instrumenti officio modulantur, potius huius differentiae sono, quam principali ipsius authentici promantur modo.</p>
+      <p id="BERNTON0011">Seculorum amen. Antiphona Columna es. Antiphona Euge serve bone.</p>
+      <p id="BERNTON0012">Hae antiphonae tono ac semitonio superius a finali suo sub eiusdem differentiae sono incipiunt. Habet etiam haec eadem differentia in his et in aliis similibus vicinitatem quamdam cum eo, qui est plagis proti.</p>
+      <p id="BERNTON0013">Parypate meson. Antiphona Ananias Azar. et caetera. Differentiae tertiae huius seculorum amen a finali diatessaron intervallo distat; ipsa autem ab eadem finali tono et semitonio inchoatur superius, tono ab Amen inferius.</p>
+      <p id="BERNTON0014">Seculorum amen. Antiphona Apertis thesauris et caetera. Differentia quarta, quae cum eodem loco quo et superior ordinatur; melius tamen sono vocis per Amen in fine dinoscitur.</p>
+      <p id="BERNTON0015">Seculorum Amen. Antiphona Alleluia, ego sum vitis et caetera. Differentia quinta ultimam sui Amen syllabam quinto loco a finali superius deponit, ordiendi vero melum in medio diapente initium sumit.</p>
+      <p id="BERNTON0016">Seculorum amen. Antiphona Circumdantes. Differentia sexta Amen quarto a finali loco in acumine deponit, canendi vero exordium tono inferius assumit in parypate meson: quidam vero altius hoc ad lichanos meson inchoant.</p>
+      <p id="BERNTON0017">Seculorum amen. Antiphona Ave Maria et caetera. Plagis proti constat ex eadem specie diapente, qua et authenticus eius, et ex eadem specie diatessaron inferius. In eodem vero finali, ubi incipit, seculorum amen finit.</p>
+      <p id="BERNTON0018">Noeais</p>
+      <p id="BERNTON0019">Secundum autem simile est huic.</p>
+      <p id="BERNTON0020">Seculorum amen. Antiphona Michael archangele et caetera. Hae tono a finali distant in gravitate, reguntur tamen eodem sono.</p>
+      <p id="BERNTON0021">Antiphona Assumsit Iesus.</p>
+      <p id="BERNTON0022">Haec una differentia semitonio ac tono distat a finali in acumine, quae fit magis intervallo quam sono.</p>
+      <p id="BERNTON0023">Seculorum amen. Antiphona A seculo non est et caetera. Authenticus deuterus constat ex secunda specie diatessaron: finit seculorum amen altius semitonio ac tono.</p>
+      <p id="BERNTON0024">Noeane.</p>
+      <p id="BERNTON0025">Tertia dies est, quod haec facta sunt.</p>
+      <p id="BERNTON0026">Seculorum amen. Antiphona Accipiens Dominus VII. Differentia prima semitonio et tono superius incipit, ubi et ultimam syllabam finit.</p>
+      <p id="BERNTON0027">Seculorum amen. Antiphona Fac benigne.</p>
+      <p id="BERNTON0028">Differentia secunda semitonio ac tono altius incipit amen suum, a se toni, a finali vero diatessaron finit intervallo.</p>
+      <p id="BERNTON0029">
+      <pb n="[81]" />Seculorum amen. Lichanos meson. Antiphona Domine probasti me.</p>
+      <p id="BERNTON0030">Differentia tertia in eadem quidem chorda, qua et superiores, melum inchoat, sed ultimam amen syllabam a finali sexto loco determinat.</p>
+      <p id="BERNTON0031">Seculorum amen. Antiphona Accipiens Simeon et caetera.</p>
+      <p id="BERNTON0032">Harum antiphonarum cantilena sexto loco a finali contra artem incipiunt, ubi et amen finit. Antiphona Vivo ego. Antiphona Unum opus feci.</p>
+      <p id="BERNTON0033">Differentia quarta eumdem quem et superior ordiendi obtinet locum, sed non similem in penultimo Amen reddit sonum. Unde non adeo delinquit, si quis vel superiores antiphonas huius soni tenore proferat, vel istas superiores differentias sono in concinendo pronuntiet.</p>
+      <p id="BERNTON0034">Seculorum amen. vel ita: Seculorum amen. Antiphona Auferte ista et caetera.</p>
+      <p id="BERNTON0035">Plagis deuteri constat ex secunda specie diapente, sicut authenticus eius, et ex secunda specie diatessaron inferius.</p>
+      <p id="BERNTON0036">Noeais.</p>
+      <p id="BERNTON0037">Quarta vigilia venit ad eos. Seculorum amen. Antiphona Annunciate et caetera.</p>
+      <p id="BERNTON0038">Differentia prima seculorum amen semitonio altius a finali determinat, at vero melum tono inferius inchoat.</p>
+      <p id="BERNTON0039">Seculorum amen. Antiphona ambulabunt mecum. Differentia secunda duobus infra finalem tonis incipit, amen syllaba inter utrasque chordas media quievit.</p>
+      <p id="BERNTON0040">Seculorum amen. Antiphona Accesserunt ad Iesum et caetera.</p>
+      <p id="BERNTON0041">Differentia tertia ultimam syllabam amen semitonio et tono ultra finalem deponit, canendi autem exordium infra uno tono assumit: sicque initium et finem, id est, amen diatessaron recte coniungit.</p>
+      <p id="BERNTON0042">Seculorum amen. antiphona Ante torum.</p>
+      <p id="BERNTON0043">Differentia quarta amen in finali deponit, semitonio superius incipit; sed in quibusdam finalem, in quibusdam autem tertium a finali obtinet locum.</p>
+      <p id="BERNTON0044">Seculorum amen. Antiphona Anxiatus est.</p>
+      <p id="BERNTON0045">Hac finali incipiunt sub eadem differentia, excepto quod in his antiphonis, Antiphona Ad te Domine levavi. Antiphona ex AEgypto vocavi. minus recte semitonium evenit, si a finali cantilena currere ceperit. Qualiter vero absque neumarum dispendio valeant modulari, plenius in prooemio notare curavi. Antiphona Ad te Domine levavi et caetera. Isti vero semitonio et tono superius sub eodem sono incipiunt. Antiphona Benedictus Dominus et caetera.</p>
+      <p id="BERNTON0046">Differentia quinta in tertia a finali chorda, ubi amen deponit, initium sumit Lichanos meson</p>
+      <p id="BERNTON0047">Seculorum amen. Antiphona A viro iniquo.</p>
+      <p id="BERNTON0048">Differentia sexta semitonio et tono superius incipit, amen in diatessaron a finali concludit.</p>
+      <p id="BERNTON0049">Seculorum amen. Antiphona Factus sum sicut.</p>
+      <p id="BERNTON0050">Haec antiphona ad finalem diatessaron ad ultimam syllabam amen resonat, superius diapente: attamen dulci quodam canori gutturis reflexu facit discrimen ab alterius differentiae sonitu.</p>
+      <p id="BERNTON0051">Seculorum amen. Antiphona Nisi diligenter. non. et caetera.</p>
+      <p id="BERNTON0052">Authenticus tritus constat ex tertia specie diapente, et ex eadem specie diatessaron superius.</p>
+      <p id="BERNTON0053">
+      <pb n="[82]" />Noeaoeane.</p>
+      <p id="BERNTON0054">Quinque prudentes intraverunt ad nuptias et caetera.</p>
+      <p id="BERNTON0055">Seculorum amen. Antiphona Adhuc multa.</p>
+      <p id="BERNTON0056">Quidam hanc a mese incipiunt Antiphona Laudem dicite et caetera. Differentia prima supra finalem duobus tonis incipit, ubi et amen finit.</p>
+      <p id="BERNTON0057">Seculorum amen. Antiphona Exultavit spiritus et caetera.</p>
+      <p id="BERNTON0058">Differentia secunda, ubi et superior amen finit, melum vero per diapente a finali superius incipit.</p>
+      <p id="BERNTON0059">Seculorum amen. Antiphona Alleluia quem quaeris.</p>
+      <p id="BERNTON0060">Plagis triti constat ex eadem specie diapente, qua et authenticus eius, ex eadem specie diatessaron inferius.</p>
+      <p id="BERNTON0061">Noeais.</p>
+      <p id="BERNTON0062">Sexta hora sedit super puteum. Seculorum amen. Antiphona Ascendente.</p>
+      <p id="BERNTON0063">Haec sola tono altius apud quosdam incipit Antiphona Nesciens mater.</p>
+      <p id="BERNTON0064">Hae iterum ubi superiores incipiunt. Antiphona Notum fecit et caetera.</p>
+      <p id="BERNTON0065">Haec semitonio ac tono inferius sub eodem sono incipit Antiphona Si ego verus Christi.</p>
+      <p id="BERNTON0066">Haec differentia sexti toni amen tono superius finit, incipiendi autem exordium ab ipso finali sumit. Parypate meson. Seculorum amen. Antiphona Benedictus Dominus. Antiphona Benedixit.</p>
+      <p id="BERNTON0067">Authenticus tetrardus constat ex quarta specie diapente, et ex prima specie diatessaron superius.</p>
+      <p id="BERNTON0068">Noeoeane.</p>
+      <p id="BERNTON0069">Septem sunt spiritus ante thronnm Dei. Seculorum amen. Antiphona Benedicta tu et caetera. Haec antiphona uno tono superius incipit. Antiphona Ipse praeibit.</p>
+      <p id="BERNTON0070">Differentia prima a finali quidem ut principalis tonus incipit, et amen quinto loco superius per diapente finit; sed post initium cantilenae variando se dinoscitur a principali differre.</p>
+      <p id="BERNTON0071">Seculorum amen. Antiphona Assumta est et caetera.</p>
+      <p id="BERNTON0072">Differentia secunda a finali incipit, amen tono superius deponit.</p>
+      <p id="BERNTON0073">Seculorum amen. Antiphona Accipite Spiritum et caetera.</p>
+      <p id="BERNTON0074">Differentia tertia item a finali incipit, statimque in tertium locum ascendit, ubi et amen deponit.</p>
+      <p id="BERNTON0075">Seculorum amen. Antiphona Ascendo ad.</p>
+      <p id="BERNTON0076">Differentia quarta ultimae amen syllabae per diapente in finali concinit, ac reciproca vice de ipsa finali in eamdem consonantiam redit.</p>
+      <p id="BERNTON0077">Seculorum amen. Antiphona Aqua comburit.</p>
+      <p id="BERNTON0078">Hae antiphonae licet post ascensum in diapente mox in alium se modum mutent, ad eamdem tamen differentiam se habent, antiphona Argentum et aurum et caetera.</p>
+      <p id="BERNTON0079">Differentia quinta duobus tonis superius incipit, tono diatessaron amen a finali desinit.</p>
+      <p id="BERNTON0080">Seculorum amen. Antiphona Benedicta filia.</p>
+      <p id="BERNTON0081">Differentia sexta quarto a finali loco superius amen finit, ibidemque incipit</p>
+      <p id="BERNTON0082">Seculorum amen. Antiphona Aquae multae.</p>
+      <p id="BERNTON0083">Differentia septima a suo finali in amen per diapente in acumine distat, per diatessaron inchoat: differt enim ista a superiori, quod haec a finali raro ad diapente pervenit; illa vero non solum in diapente licenter pertingit, verum etiam aliquando contra legem ulterius procedit.</p>
+      <p id="BERNTON0084">Seculorum amen. Antiphona Deus deorum et caetera.</p>
+      <p id="BERNTON0085">Differentia octava quasi rara ac barbara 
+      <pb n="[83]" />in ultimo ponitur extraordinaria, quae seculorum amen quarto loco a finali inferius deponit: melodiam vero aliquando quinto orditur loco, ita ut diapente intervallo distet a finali suo, aliquando vero quatuor, ut subiectis liquebit exemplis.</p>
+      <p id="BERNTON0086">Sicut erat in principio et nunc et semper, et in secula seculorum amen. Antiphona Angeli Domini. Antiphona Martyres Domini.</p>
+      <p id="BERNTON0087">Simili modo istae tonantur, quamvis inferius ordiantur. Antiphona Nos qui vivimus. Antiphona In ecclesiis benedicite.</p>
+      <p id="BERNTON0088">At vero hae, quae sequuntur, licet in eodem loco inchoent, magis tamen principali sono per diapente respondent.</p>
+      <p id="BERNTON0089">Seculorum amen. Antiphona in camino ignis. Antiphona Sapientia clamitat. Antiphona Stabunt iusti.</p>
+      <p id="BERNTON0090">In his enim tribus a primo supremo usque ad nonum sonum cantilena inflectitur ita; ut a finali, qui est lichanos meson, singulas chordas tangendo in quintum phthongum utraque regione ducta protendatur.</p>
+      <p id="BERNTON0091">Modi vel tropi, quos usualiter tonos vocamus, nocturnalium responsoriorum, licet a diversis chordarum sedibus incipiant, tamen unusquisque illorum per uniformem versuum suorum modulationem facilem sui praebet cognitionem; veluti ex paucis, quae pro exemplo subter notavimus, manifestus patet intellectus. Nisi forte multiplicata neumarum variarum velit quis ipsorum versuum modulationem decentius adornare.</p>
+      <p id="BERNTON0092">Authenticus protus.</p>
+      <p id="BERNTON0093">Responsorium Beata es Maria.</p>
+      <p id="BERNTON0094">Versus Ave Maria gratia plena, Dominus tecum.</p>
+      <p id="BERNTON0095">Responsorium Confirmatum est.</p>
+      <p id="BERNTON0096">Versus O regem coeli cui. Gloria Patri et Filio, et Spiritui sancto.</p>
+      <p id="BERNTON0097">Plagis proti.</p>
+      <p id="BERNTON0098">Responsorium Sancta et immaculata.</p>
+      <p id="BERNTON0099">Versus Benedicta tu in mulieribus, et benedictus fructus ventris tui.</p>
+      <p id="BERNTON0100">Responsorium Agnus Dei Christus.</p>
+      <p id="BERNTON0101">Responsorium Laetentur coeli.</p>
+      <p id="BERNTON0102">Responsorium Audi Israel. Gloria Patri.</p>
+      <p id="BERNTON0103">Authenticus deuterus.</p>
+      <p id="BERNTON0104">Responsorium Congratulamini.</p>
+      <p id="BERNTON0105">Versus Tulerunt Dominum meum, et nescio ubi posuerunt eum: si tu sustulisti eum, dicito mihi.</p>
+      <p id="BERNTON0106">Responsorium Postquam impleti sunt.</p>
+      <p id="BERNTON0107">Versus Salvatorem exspectamus. Gloria Patri.</p>
+      <p id="BERNTON0108">Plagis deuteri.</p>
+      <p id="BERNTON0109">Responsorium Rex noster adveniet.</p>
+      <p id="BERNTON0110">Versus Ecce agnus Dei, ecce qui tollit peccata mundi.</p>
+      <p id="BERNTON0111">Responsorium Sicut cedrus.</p>
+      <p id="BERNTON0112">Responsorium Dum transisset.</p>
+      <p id="BERNTON0113">Responsorium Ascendens in altum. Gloria Patri et Filio.</p>
+      <p id="BERNTON0114">Authenticus tritus.</p>
+      <p id="BERNTON0115">Responsorium Benedictus qui.</p>
+      <p id="BERNTON0116">Versus Lapidem, quem reprobaverunt aedificantes, hic factus est in caput anguli; a Domino factum est istud, et est mirabile in oculis nostris.</p>
+      <p id="BERNTON0117">Responsorium Angelus Domini locutus.</p>
+      <p id="BERNTON0118">Responsorium Hodie nobis coelorum. Gloria Patri et Filio.</p>
+      <p id="BERNTON0119">
+      <pb n="[84]" />Plagis triti.</p>
+      <p id="BERNTON0120">Responsorium Aspiciebam in visu.</p>
+      <p id="BERNTON0121">Versus Ecce dominator Dominus cum virtute veniet.</p>
+      <p id="BERNTON0122">Responsorium Beata es virgo Maria.</p>
+      <p id="BERNTON0123">Responsorium Decantabat populus.</p>
+      <p id="BERNTON0124">Responsorium Modo veniet. Gloria Patri.</p>
+      <p id="BERNTON0125">Authenticus tetrardi.</p>
+      <p id="BERNTON0126">Responsorium Beata viscera Mariae.</p>
+      <p id="BERNTON0127">Versus Dies sanctificatus illuxit nobis: venite gentes, et adorate Dominum.</p>
+      <p id="BERNTON0128">Responsorium Elisabeth Zachariae.</p>
+      <p id="BERNTON0129">Responsorium Puer meus noli.</p>
+      <p id="BERNTON0130">Responsorium Aspiciens a longe. Gloria Patri et Filio.</p>
+      <p id="BERNTON0131">Plagis tetrardi.</p>
+      <p id="BERNTON0132">Responsorium Dies sanctificatus.</p>
+      <p id="BERNTON0133">Versus Venite adoremus eum, quia ipse est Dominus Deus noster.</p>
+      <p id="BERNTON0134">Responsorium Doceam iniquos vias.</p>
+      <p id="BERNTON0135">Responsorium Sicut mater consolatur.</p>
+      <p id="BERNTON0136">Responsorium Oravit Iacob.</p>
+      <p id="BERNTON0137">Responsorium Senex puerum. Gloria Patri.</p>
+      <p id="BERNTON0138">Toni pertinentes ad Introitus et communiones per consuetam modulationem Gloria Patri satis possunt discerni. Quae dum in singulis tam in antiphonis, quae dicuntur Introitus, quam in Communionibus uniformiter vadat: nos tamen pro conservando cantandi ordine quaedam Gradalia, Alleluia, Offertoria, curavimus interponere.</p>
+      <p id="BERNTON0139">Authenticus protus.</p>
+      <p id="BERNTON0140">Primo pro culmine tuae quaerere iustitiae Domine verum summum quoque lumen fac nos petimus, ut in coelo semper tibi iubilemus. Amen.</p>
+      <p id="BERNTON0141">Seculorum amen.</p>
+      <p id="BERNTON0142">Antiphona Gaudete in Domino.</p>
+      <p id="BERNTON0143">Antiphona Exurge quare.</p>
+      <p id="BERNTON0144">Antiphona Exaudi Domine vocem.</p>
+      <p id="BERNTON0145">Antiphona Laudate pueri.</p>
+      <p id="BERNTON0146">Antiphona Iustus ut palma.</p>
+      <p id="BERNTON0147">Antiphona Iustus non conturbabitur.</p>
+      <p id="BERNTON0148">Antiphona Dicit Dominus, sermones.</p>
+      <p id="BERNTON0149">Antiphona Da pacem Domine.</p>
+      <p id="BERNTON0150">Antiphona Statuit ei Dominus.</p>
+      <p id="BERNTON0151">Antiphona Factus est Dominus.</p>
+      <p id="BERNTON0152">Antiphona Iustus es Domine.</p>
+      <p id="BERNTON0153">Antiphona Etenim sederunt.</p>
+      <p id="BERNTON0154">Antiphona Misereris omnium.</p>
+      <p id="BERNTON0155">Antiphona Ego autem in Domino.</p>
+      <p id="BERNTON0156">Entiphona Exclamaverunt.</p>
+      <p id="BERNTON0157">Antiphona Dominus secus mare.</p>
+      <p id="BERNTON0158">Seculorum amen.</p>
+      <p id="BERNTON0159">Antiphona Rorate coeli.</p>
+      <p id="BERNTON0160">Antiphona Gaudeamus omnes.</p>
+      <p id="BERNTON0161">Antiphona Suscepimus Deus.</p>
+      <p id="BERNTON0162">Antiphona Inclina Domine aurem.</p>
+      <p id="BERNTON0163">Seculorum amen.</p>
+      <p id="BERNTON0164">Antiphona Lex Domini irreprehensibilis.</p>
+      <p id="BERNTON0165">Antiphona Meditatio cordis.</p>
+      <p id="BERNTON0166">Antiphona Sapientiam sanctorum.</p>
+      <p id="BERNTON0167">Antiphona Salus autem.</p>
+      <p id="BERNTON0168">Antiphona Scio autem (cui) credidi.</p>
+      <p id="BERNTON0169">Gloria Patri et Filio et Spiritui sancto, sicut erat in principio et nunc et semper, et in secula seculorum amen.</p>
+      <p id="BERNTON0170">Gradalia.</p>
+      <p id="BERNTON0171">Gradale Miserere mei Deus.</p>
+      <p id="BERNTON0172">Gradale Beata gens cuius.</p>
+      <p id="BERNTON0173">Gradale Posuisti Domine.</p>
+      <p id="BERNTON0174">Gradale Sacerdotes eius.</p>
+      <p id="BERNTON0175">
+      <pb n="[85]" />Alleluia.</p>
+      <p id="BERNTON0176">Alleluia Qui timent Dominum.</p>
+      <p id="BERNTON0177">Alleluia Iustus ut palma.</p>
+      <p id="BERNTON0178">Alleluia Mirabilis Dominus.</p>
+      <p id="BERNTON0179">Offertoria.</p>
+      <p id="BERNTON0180">Offertorium Repleti sumus.</p>
+      <p id="BERNTON0181">Offertorium Iubilate Deo universa.</p>
+      <p id="BERNTON0182">Offertorium Benedicam Domino.</p>
+      <p id="BERNTON0183">Communiones.</p>
+      <p id="BERNTON0184">Communio Ecce Virgo concipiet.</p>
+      <p id="BERNTON0185">Communio Vos qui secuti.</p>
+      <p id="BERNTON0186">Communio Qui vult venire.</p>
+      <p id="BERNTON0187">Communio Panis quem ego.</p>
+      <p id="BERNTON0188">Communio Principes persecuti sunt.</p>
+      <p id="BERNTON0189">Communio Manducaverunt.</p>
+      <p id="BERNTON0190">Communio Cum invocarem te.</p>
+      <p id="BERNTON0191">Communio Domine Dominus noster.</p>
+      <p id="BERNTON0192">Communio Cantate Domino.</p>
+      <p id="BERNTON0193">Communio Gaudete iusti.</p>
+      <p id="BERNTON0194">Communio Psallite Domino.</p>
+      <p id="BERNTON0195">Communio Petite et accipietis.</p>
+      <p id="BERNTON0196">Communio Confundantur superbi.</p>
+      <p id="BERNTON0197">Communio Posuerunt mortalia.</p>
+      <p id="BERNTON0198">Communio Notas mihi fecisti.</p>
+      <p id="BERNTON0199">Communio Amen dico vobis.</p>
+      <p id="BERNTON0200">Communio Etsi coram hominibus.</p>
+      <p id="BERNTON0201">Communio Dominus dabit benignitatem.</p>
+      <p id="BERNTON0202">Communio Revelabitur gloria.</p>
+      <p id="BERNTON0203">Communio Viderunt omnes.</p>
+      <p id="BERNTON0204">Communio Fili quid fecisti.</p>
+      <p id="BERNTON0205">Rectius has regeret authenticus tetrardus, si inveteratus permitteret usus.</p>
+      <p id="BERNTON0206">Communio Illumina faciem.</p>
+      <p id="BERNTON0207">Communio Quicumque fecerit.</p>
+      <p id="BERNTON0208">Communio Amen dico vobis.</p>
+      <p id="BERNTON0209">Communio Data est mihi.</p>
+      <p id="BERNTON0210">Gloria Patri et Filio et Spiritui sancto, sicut erat in principio, et nunc et semper, et in secula seculorum amen.</p>
+      <p id="BERNTON0211">Plagis proti.</p>
+      <p id="BERNTON0212">Secundum quae legis verbum, mutua quo dilectione Dei et proximi Christe mandasti colere, quo per haec geminae observantiae praecepta reddamus amen.</p>
+      <p id="BERNTON0213">Seculorum amen.</p>
+      <p id="BERNTON0214">Antiphona Dominus dixit ad me.</p>
+      <p id="BERNTON0215">Antiphona Redime me Domine.</p>
+      <p id="BERNTON0216">Antiphona Ex ore infantium.</p>
+      <p id="BERNTON0217">Antiphona De ventre matris.</p>
+      <p id="BERNTON0218">Antiphona Vultum tuum.</p>
+      <p id="BERNTON0219">Antiphona Fac mecum Domine.</p>
+      <p id="BERNTON0220">Antiphona Clamaverunt.</p>
+      <p id="BERNTON0221">Antiphona Terribilis est.</p>
+      <p id="BERNTON0222">Antiphona Multae tribulationes.</p>
+      <p id="BERNTON0223">Antiphona Sacerdotes eius.</p>
+      <p id="BERNTON0224">Antiphona Sitientes venite.</p>
+      <p id="BERNTON0225">Antiphona Mihi autem nimis.</p>
+      <p id="BERNTON0226">Rntiphona Veni et ostende nobis.</p>
+      <p id="BERNTON0227">Antiphona Ecce advenit.</p>
+      <p id="BERNTON0228">Antiphona Laetetur cor quaerentium.</p>
+      <p id="BERNTON0229">Antiphona Cibavit eos.</p>
+      <p id="BERNTON0230">Antiphona Dominus illuminatio.</p>
+      <p id="BERNTON0231">Antiphona Dominus fortitudo.</p>
+      <p id="BERNTON0232">Antiphona Me exspectaverunt.</p>
+      <p id="BERNTON0233">Antiphona Venite adoremus.</p>
+      <p id="BERNTON0234">Gloria Patri et Filio, et Spiritui sancto, sicut erat in principio et nunc et semper, et in secula seculorum amen.</p>
+      <p id="BERNTON0235">Gradalia.</p>
+      <p id="BERNTON0236">Gradale De necessitatibus.</p>
+      <p id="BERNTON0237">Gradale Universi qui te.</p>
+      <p id="BERNTON0238">Gradale Ne avertas faciem.</p>
+      <p id="BERNTON0239">Gradale Angelis suis.</p>
+      <p id="BERNTON0240">Alleluia.</p>
+      <p id="BERNTON0241">Alleluia Dies sanctificatus.</p>
+      <p id="BERNTON0242">Alleluia Video coelos.</p>
+      <p id="BERNTON0243">Alleluia Dominus regnavit.</p>
+      <p id="BERNTON0244">
+      <pb n="[86]" />Offertoria.</p>
+      <p id="BERNTON0245">Offertorium Laudate Dominum.</p>
+      <p id="BERNTON0246">Offertorium Protege Domine.</p>
+      <p id="BERNTON0247">Offertorium Vir erat in terra.</p>
+      <p id="BERNTON0248">Offertorium Ad te Domine levavi.</p>
+      <p id="BERNTON0249">Offertorium De profundis.</p>
+      <p id="BERNTON0250">Communiones.</p>
+      <p id="BERNTON0251">Seculorum amen.</p>
+      <p id="BERNTON0252">Communio Multitudo Languentium.</p>
+      <p id="BERNTON0253">Communio Potum meum.</p>
+      <p id="BERNTON0254">Communio Hierusalem surge.</p>
+      <p id="BERNTON0255">Communio Laetabimur in salutari.</p>
+      <p id="BERNTON0256">Communio Aufer a me.</p>
+      <p id="BERNTON0257">Communio Vovete et reddite.</p>
+      <p id="BERNTON0258">Communio Narrabo omnia.</p>
+      <p id="BERNTON0259">Communio Tu puer propheta.</p>
+      <p id="BERNTON0260">Communio Cantabo Domino.</p>
+      <p id="BERNTON0261">Communio Domine Deus meus in te.</p>
+      <p id="BERNTON0262">Communio Exiit sermo.</p>
+      <p id="BERNTON0263">Communio Dominus Iesus postquam.</p>
+      <p id="BERNTON0264">Communio Dominus regit me.</p>
+      <p id="BERNTON0265">Communio Dominus firmamentum.</p>
+      <p id="BERNTON0266">Gloria Patri et Filio et caetera.</p>
+      <p id="BERNTON0267">Authenticus deuterus.</p>
+      <p id="BERNTON0268">Tertia die Christe te resurgere, (et) mundo ferre lumen credimus. O alme fac nos et tuum semper laudare nomen, et in patriae te aeternae regione cernentes sedere amen.</p>
+      <p id="BERNTON0269">Seculorum amen.</p>
+      <p id="BERNTON0270">Antiphona Miserere mihi Domine quoniam.</p>
+      <p id="BERNTON0271">Antiphona Ego autem sicut oliva.</p>
+      <p id="BERNTON0272">Antiphona Dum clamarem.</p>
+      <p id="BERNTON0273">Antiphona Confessio et pulchritudo.</p>
+      <p id="BERNTON0274">Antiphona Cognovi Domine.</p>
+      <p id="BERNTON0275">Antiphona Ego clamavi quoniam.</p>
+      <p id="BERNTON0276">Antiphona Dum sanctificatus.</p>
+      <p id="BERNTON0277">Antiphona In nomine Domini.</p>
+      <p id="BERNTON0278">Antiphona Vocem iocunditatis.</p>
+      <p id="BERNTON0279">Antiphona Repleatur os meum.</p>
+      <p id="BERNTON0280">Antiphona Si iniquitates.</p>
+      <p id="BERNTON0281">Seculorum amen.</p>
+      <p id="BERNTON0282">Antiphona Deus dum egredereris.</p>
+      <p id="BERNTON0283">Antiphona Intret oratio.</p>
+      <p id="BERNTON0284">Antiphona Sacerdotes tui Domine.</p>
+      <p id="BERNTON0285">Antiphona Tibi dixit cor.</p>
+      <p id="BERNTON0286">Antiphona In Deo laudabo.</p>
+      <p id="BERNTON0287">Antiphona Liberator meus.</p>
+      <p id="BERNTON0288">Antiphona Omnia quae fecisti.</p>
+      <p id="BERNTON0289">Antiphona Caritas Dei.</p>
+      <p id="BERNTON0290">Antiphona Loquetur Dominus.</p>
+      <p id="BERNTON0291">Antiphona Timete Dominum.</p>
+      <p id="BERNTON0292">Antiphona Dispersit dedit.</p>
+      <p id="BERNTON0293">Antiphona Benedicite Domino.</p>
+      <p id="BERNTON0294">Gloria Patri et Filio et Spiritui sancto, sicut erat in principio et nunc et semper, et in secula seculorum amen.</p>
+      <p id="BERNTON0295">Gradalia.</p>
+      <p id="BERNTON0296">Gradale Eripe me Domine.</p>
+      <p id="BERNTON0297">Gradale Iuravit Dominus.</p>
+      <p id="BERNTON0298">Gradale Adiutor in opportunitatibus.</p>
+      <p id="BERNTON0299">Gradale Speciosus forma.</p>
+      <p id="BERNTON0300">Gradale Exurge Domine.</p>
+      <p id="BERNTON0301">Alleluia.</p>
+      <p id="BERNTON0302">Alleluia Adducentur.</p>
+      <p id="BERNTON0303">Alleluia Laetatus sum.</p>
+      <p id="BERNTON0304">Alleluia Spiritus Domini replevit.</p>
+      <p id="BERNTON0305">Alleluia In te Domine speravi.</p>
+      <p id="BERNTON0306">Offertoria.</p>
+      <p id="BERNTON0307">Offertorium Benedictus es.</p>
+      <p id="BERNTON0308">Offertorium Sperent in te.</p>
+      <p id="BERNTON0309">Offertorium Exulta satis.</p>
+      <p id="BERNTON0310">Offertorium Perfice gressus.</p>
+      <p id="BERNTON0311">Communiones.</p>
+      <p id="BERNTON0312">Seculorum amen.</p>
+      <p id="BERNTON0313">Communio Beatus servus.</p>
+      <p id="BERNTON0314">Communio Qui meditabitur.</p>
+      <p id="BERNTON0315">
+      <pb n="[87]" />Communio Scapulis suis.</p>
+      <p id="BERNTON0316">Communio Passer invenit.</p>
+      <p id="BERNTON0317">Communio Iustorum animae.</p>
+      <p id="BERNTON0318">Communio Gustate et videte.</p>
+      <p id="BERNTON0319">Communio Tu Domine servabis.</p>
+      <p id="BERNTON0320">Communio Dominus virtutum.</p>
+      <p id="BERNTON0321">Gloria Patri et Filio et Spiritui et caetera.</p>
+      <p id="BERNTON0322">Plagis deuteri.</p>
+      <p id="BERNTON0323">Quarta te noctis Christe vigilia discipulis dare coeleste solamen nos humiles fatentes, te cantantes, laudantes, tuaeque nomen potentiae nos quaternae tuae evangelicae vocis da cognoscere munimen.</p>
+      <p id="BERNTON0324">Seculorum amen.</p>
+      <p id="BERNTON0325">Antiphona Prope esto Domine.</p>
+      <p id="BERNTON0326">Antiphona Nos autem gloriari.</p>
+      <p id="BERNTON0327">Antiphona Iudica Domine nocentes.</p>
+      <p id="BERNTON0328">Antiphona De necessitatibus.</p>
+      <p id="BERNTON0329">Antiphona Exaudivit de templo.</p>
+      <p id="BERNTON0330">In aliis vero ab eadem chorda incipientibus, et ad eamdem statim relabentibus ita canitur:</p>
+      <p id="BERNTON0331">Seculorum amen.</p>
+      <p id="BERNTON0332">Antiphona Resurrexi et adhuc.</p>
+      <p id="BERNTON0333">Antiphona Reminiscere.</p>
+      <p id="BERNTON0334">Antiphona Misericordia Domini.</p>
+      <p id="BERNTON0335">Antiphona In voluntate.</p>
+      <p id="BERNTON0336">Item ut supra.</p>
+      <p id="BERNTON0337">Antiphona Intret oratio.</p>
+      <p id="BERNTON0338">Antiphona Omnis terra.</p>
+      <p id="BERNTON0339">Antiphona Sancti tui Domine.</p>
+      <p id="BERNTON0340">Antiphona Scelus populi.</p>
+      <p id="BERNTON0341">Antiphona Nunc scio.</p>
+      <p id="BERNTON0342">Antiphona Protector noster.</p>
+      <p id="BERNTON0343">Antiphona Exaudi Domine.</p>
+      <p id="BERNTON0344">Antiphona Dicit Dominus Petro.</p>
+      <p id="BERNTON0345">Antiphona Sicut oculi.</p>
+      <p id="BERNTON0346">Antiphona Iudica me Deus.</p>
+      <p id="BERNTON0347">Antiphona Deus in nomine.</p>
+      <p id="BERNTON0348">Antiphona Accipite iocunditatem.</p>
+      <p id="BERNTON0349">Antiphona Eduxit eos Dominus.</p>
+      <p id="BERNTON0350">Gloria Patri et Filio, et Spiritui sancto et caetera.</p>
+      <p id="BERNTON0351">Gradalia.</p>
+      <p id="BERNTON0352">Gradale Tu es Deus qui.</p>
+      <p id="BERNTON0353">Gradale Exurge Domine.</p>
+      <p id="BERNTON0354">Gradale Ego autem.</p>
+      <p id="BERNTON0355">Gradale Tibi Domine derelictus.</p>
+      <p id="BERNTON0356">Alleluia.</p>
+      <p id="BERNTON0357">Alleluia Excita Domine.</p>
+      <p id="BERNTON0358">Alleluia Laudate pueri.</p>
+      <p id="BERNTON0359">Alleluia Dextera Domini.</p>
+      <p id="BERNTON0360">Offertoria.</p>
+      <p id="BERNTON0361">Offertorium Tui sunt coeli.</p>
+      <p id="BERNTON0362">Offertorium Terra tremuit.</p>
+      <p id="BERNTON0363">Offertorium Laetentur coeli.</p>
+      <p id="BERNTON0364">Offertorium Lauda anima.</p>
+      <p id="BERNTON0365">Communiones.</p>
+      <p id="BERNTON0366">Seculorum amen.</p>
+      <p id="BERNTON0367">Communio Vidimus stellam.</p>
+      <p id="BERNTON0368">Communio Exulta filia.</p>
+      <p id="BERNTON0369">Communio Quod dico vobis.</p>
+      <p id="BERNTON0370">Communio Erubescant et conturbentur.</p>
+      <p id="BERNTON0371">Communio Tanto tempore.</p>
+      <p id="BERNTON0372">Communio Dilexisti iustitiam.</p>
+      <p id="BERNTON0373">Communio Ab occultis meis.</p>
+      <p id="BERNTON0374">Communio Acceptabis.</p>
+      <p id="BERNTON0375">Communio Pater cum essem.</p>
+      <p id="BERNTON0376">Communio Inclina aurem.</p>
+      <p id="BERNTON0377">Communio Ierusalem quae aedificatur.</p>
+      <p id="BERNTON0378">Communio Magna est gloria.</p>
+      <p id="BERNTON0379">Communio Benedicite omnes.</p>
+      <p id="BERNTON0380">Communio Memento verbi.</p>
+      <p id="BERNTON0381">Communio Semel iuravi.</p>
+      <p id="BERNTON0382">Communio Tollite hostias.</p>
+      <p id="BERNTON0383">Communio Feci iudicium.</p>
+      <p id="BERNTON0384">Gloria Patri et Filio et caetera.</p>
+      <p id="BERNTON0385">
+      <pb n="[88]" />Authenticus tritus.</p>
+      <p id="BERNTON0386">Quinque tu Domine in coelum virgines te recipere dignatus es, plebi tuae verbis revelare signis et ostendere, sensus ecce nostros ut te precamur Domine te disponere.</p>
+      <p id="BERNTON0387">Seculorum amen.</p>
+      <p id="BERNTON0388">Antiphona Loquebar de.</p>
+      <p id="BERNTON0389">Antiphona Miserere me Domine, quoniam tribulor.</p>
+      <p id="BERNTON0390">Antiphona Domine refugium.</p>
+      <p id="BERNTON0391">Antiphona Verba mea auribus.</p>
+      <p id="BERNTON0392">Antiphona Exaudi Deus orationem.</p>
+      <p id="BERNTON0393">Antiphona Deus in loco sancto.</p>
+      <p id="BERNTON0394">Saeculorum amen.</p>
+      <p id="BERNTON0395">Antiphona Circumdederunt.</p>
+      <p id="BERNTON0396">Antiphona Laetare Ierusalem.</p>
+      <p id="BERNTON0397">Antiphona Domine in tua misericordia.</p>
+      <p id="BERNTON0398">Gloria Patri et Filio.</p>
+      <p id="BERNTON0399">Gradalia.</p>
+      <p id="BERNTON0400">Gradale Locus iste.</p>
+      <p id="BERNTON0401">Gradale Ex Sion species.</p>
+      <p id="BERNTON0402">Gradale Viderunt omnes.</p>
+      <p id="BERNTON0403">Gradale Propitius esto.</p>
+      <p id="BERNTON0404">Gradale Discerne causam.</p>
+      <p id="BERNTON0405">Alleluia.</p>
+      <p id="BERNTON0406">Alleluia Diligam te.</p>
+      <p id="BERNTON0407">Alleluia Memento Domine.</p>
+      <p id="BERNTON0408">Offertoria.</p>
+      <p id="BERNTON0409">Offertorium Intende voci.</p>
+      <p id="BERNTON0410">Offertorium Populum humilem.</p>
+      <p id="BERNTON0411">Offertorium Benedic anima,</p>
+      <p id="BERNTON0412">Offertorium Sanctificavit Moyses.</p>
+      <p id="BERNTON0413">Communiones.</p>
+      <p id="BERNTON0414">Communio Intellige clamorem.</p>
+      <p id="BERNTON0415">Communio Voce mea ad Dominum.</p>
+      <p id="BERNTON0416">Communio Laetabitur iustus.</p>
+      <p id="BERNTON0417">Communio Qui mihi ministrat.</p>
+      <p id="BERNTON0418">Communio Non vos relinquam.</p>
+      <p id="BERNTON0419">Communio Dicit Dominus implete.</p>
+      <p id="BERNTON0420">Communio Adversum me.</p>
+      <p id="BERNTON0421">Communio Servite Domino.</p>
+      <p id="BERNTON0422">Communio Ultimo festivitatis.</p>
+      <p id="BERNTON0423">Communio Iustus Dominus.</p>
+      <p id="BERNTON0424">Communio Quis dabit Dominus.</p>
+      <p id="BERNTON0425">Communio Tu mandasti.</p>
+      <p id="BERNTON0426">Communio Pacem meam do.</p>
+      <p id="BERNTON0427">Communio Panem de coelo.</p>
+      <p id="BERNTON0428">Communio Dico vobis.</p>
+      <p id="BERNTON0429">Communio Signa eos.</p>
+      <p id="BERNTON0430">Communio Domus mea. Gloria et caetera.</p>
+      <p id="BERNTON0431">Plagis triti.</p>
+      <p id="BERNTON0432">Sexta tuae Christe potentiae corporalis hora resplendet formae, ecclesiae vitam tribue salientem aquae vivae, fervore quoque plenae gratiae hanc semper accende.</p>
+      <p id="BERNTON0433">Seculorum amen.</p>
+      <p id="BERNTON0434">Antiphona Os iusti meditabitur.</p>
+      <p id="BERNTON0435">Antiphona Esto mihi in Deum.</p>
+      <p id="BERNTON0436">Antiphona Omnes gentes.</p>
+      <p id="BERNTON0437">Antiphona Iusti epulentur.</p>
+      <p id="BERNTON0438">Antiphona Respice in me.</p>
+      <p id="BERNTON0439">Antiphona Sacerdotes Dei benedicite.</p>
+      <p id="BERNTON0440">Antiphona Dicit Dominus.</p>
+      <p id="BERNTON0441">Antiphona Exultate Deo.</p>
+      <p id="BERNTON0442">Antiphona Hodie scietis.</p>
+      <p id="BERNTON0443">Antiphona In medio ecclesiae.</p>
+      <p id="BERNTON0444">Antiphona Cantate Domino.</p>
+      <p id="BERNTON0445">Antiphona Quasimodo.</p>
+      <p id="BERNTON0446">Gloria Patri et caetera.</p>
+      <p id="BERNTON0447">Gradalia.</p>
+      <p id="BERNTON0448">Gradale Fuit homo missus.</p>
+      <p id="BERNTON0449">Gradale Exiit sermo.</p>
+      <p id="BERNTON0450">Gradale Ego dixi Domine.</p>
+      <p id="BERNTON0451">Gradale Venite filii.</p>
+      <p id="BERNTON0452">Gradale Constitues eos.</p>
+      <p id="BERNTON0453">
+      <pb n="[89]" />Alleluia.</p>
+      <p id="BERNTON0454">Alleluia Dulce lignum.</p>
+      <p id="BERNTON0455">Alleluia Domine in virtute.</p>
+      <p id="BERNTON0456">Alleluia Vox exultationis.</p>
+      <p id="BERNTON0457">Offertoria.</p>
+      <p id="BERNTON0458">Offertorium Domine Deus in simplicitate.</p>
+      <p id="BERNTON0459">Offertorium Domine convertere.</p>
+      <p id="BERNTON0460">Offertorium Domine in auxilium.</p>
+      <p id="BERNTON0461">Offertorium Iustitiae Domini.</p>
+      <p id="BERNTON0462">Communiones.</p>
+      <p id="BERNTON0463">Communio Pascha nostrum.</p>
+      <p id="BERNTON0464">Communio Tu es Petrus.</p>
+      <p id="BERNTON0465">Communio Dicit Andreas.</p>
+      <p id="BERNTON0466">Communio Mitte manum.</p>
+      <p id="BERNTON0467">Communio Quinque prudentes.</p>
+      <p id="BERNTON0468">Communio Domine quis habitabit.</p>
+      <p id="BERNTON0469">Communio Lutum fecit.</p>
+      <p id="BERNTON0470">Communio Ecce Dominus veniet.</p>
+      <p id="BERNTON0471">Communio Anima nostra.</p>
+      <p id="BERNTON0472">Communio Venite post me.</p>
+      <p id="BERNTON0473">Communio In splendoribus.</p>
+      <p id="BERNTON0474">Communio Diffusa est.</p>
+      <p id="BERNTON0475">Communio Qui me dignatus.</p>
+      <p id="BERNTON0476">Communio Honora Dominum.</p>
+      <p id="BERNTON0477">Communio Surrexit Dominus.</p>
+      <p id="BERNTON0478">Communio Qui manducat.</p>
+      <p id="BERNTON0479">Communio Posuisti Domine.</p>
+      <p id="BERNTON0480">Gloria Patri et Filio et caetera.</p>
+      <p id="BERNTON0481">Authenticus tetrardus.</p>
+      <p id="BERNTON0482">Septemplicem te nunc quoque nobis adesse deposcimus alme paraclite, nostrae mentes ut tuae gratiae semper exuberent perfecto munere, quaeque nocent extingue, et cuncta, quae proficiunt, accende semper amoris igne.</p>
+      <p id="BERNTON0483">Seculorum amen.</p>
+      <p id="BERNTON0484">Antiphona Populus Sion.</p>
+      <p id="BERNTON0485">Antiphona Puer natus est.</p>
+      <p id="BERNTON0486">Antiphona Oculi mei semper.</p>
+      <p id="BERNTON0487">Antiphona Aqua sapientiae.</p>
+      <p id="BERNTON0488">Antiphona Adorate Dominum.</p>
+      <p id="BERNTON0489">Antiphona Gloria et honore.</p>
+      <p id="BERNTON0490">Antiphona Ne timeas Zacharia.</p>
+      <p id="BERNTON0491">Antiphona Iudicant sancti gentes.</p>
+      <p id="BERNTON0492">Antiphona Respice Domine.</p>
+      <p id="BERNTON0493">Antiphona Audivit Dominus.</p>
+      <p id="BERNTON0494">Antiphona Ne derelinquas.</p>
+      <p id="BERNTON0495">Antiphona Exspecta Dominum.</p>
+      <p id="BERNTON0496">Antiphona Viri Galilaei.</p>
+      <p id="BERNTON0497">Antiphona Protexisti me.</p>
+      <p id="BERNTON0498">Antiphona Venite benedicti.</p>
+      <p id="BERNTON0499">Antiphona Eduxit Dominus.</p>
+      <p id="BERNTON0500">Gloria et caetera.</p>
+      <p id="BERNTON0501">Gradalia.</p>
+      <p id="BERNTON0502">Gradale. Iacta cogitatum.</p>
+      <p id="BERNTON0503">Gradale. Dirigatur oratio.</p>
+      <p id="BERNTON0504">Gradale. Oculi omnium.</p>
+      <p id="BERNTON0505">Gradale. Liberasti nos.</p>
+      <p id="BERNTON0506">Alleluia.</p>
+      <p id="BERNTON0507">Alleluia Pascha nostrum.</p>
+      <p id="BERNTON0508">Alleluia Exultate Deo.</p>
+      <p id="BERNTON0509">Alleluia Venite exultemus.</p>
+      <p id="BERNTON0510">Alleluia Quoniam Deus magnus.</p>
+      <p id="BERNTON0511">Alleluia Domine refugium.</p>
+      <p id="BERNTON0512">Offertoria.</p>
+      <p id="BERNTON0513">Offertorium Precatus est.</p>
+      <p id="BERNTON0514">Offertorium Confitebuntur.</p>
+      <p id="BERNTON0515">Offertorium Eripe me de inimicis.</p>
+      <p id="BERNTON0516">Communiones.</p>
+      <p id="BERNTON0517">Communio Dicite pusillanimes.</p>
+      <p id="BERNTON0518">Communio Tolle puerum.</p>
+      <p id="BERNTON0519">Communio Fidelis servus.</p>
+      <p id="BERNTON0520">Communio Dum venerit Paraclitus.</p>
+      <p id="BERNTON0521">Communio Si conresurrexistis.</p>
+      <p id="BERNTON0522">Communio Populus adquisitionis.</p>
+      <p id="BERNTON0523">Communio Factus est repente.</p>
+      <p id="BERNTON0524">Communio Ne tradideris.</p>
+      <p id="BERNTON0525">
+      <pb n="[90]" />Communio Erubescant et revereantur.</p>
+      <p id="BERNTON0526">Communio Ego sum vitis.</p>
+      <p id="BERNTON0527">Communio Pater si non potest.</p>
+      <p id="BERNTON0528">Communio Redime me Deus.</p>
+      <p id="BERNTON0529">Communio Domine quinque.</p>
+      <p id="BERNTON0530">Communio Vox in Rama.</p>
+      <p id="BERNTON0531">Communio Qui biberit aquam.</p>
+      <p id="BERNTON0532">Gloria et caetera.</p>
+      <p id="BERNTON0533">Plagis tetrardi.</p>
+      <p id="BERNTON0534">Octo pie rex Christe lucide beatitudines evangelicae gratiae plebi tuae praebe benignus et clemens sempiternam requiem, et refove sine fine credentes in te.</p>
+      <p id="BERNTON0535">Seculorum amen.</p>
+      <p id="BERNTON0536">Antiphona In excelso throno.</p>
+      <p id="BERNTON0537">Antiphona Invocavit me.</p>
+      <p id="BERNTON0538">Antiphona In virtute tua.</p>
+      <p id="BERNTON0539">Antiphona Iubilate Deo.</p>
+      <p id="BERNTON0540">Antiphona Laetabitur iustus.</p>
+      <p id="BERNTON0541">Antiphona Dilexisti.</p>
+      <p id="BERNTON0542">Antiphona Probasti Domine.</p>
+      <p id="BERNTON0543">Antiphona Victricem manum.</p>
+      <p id="BERNTON0544">Antiphona Miserere mei Domine, quia ad te.</p>
+      <p id="BERNTON0545">Seculorum amen.</p>
+      <p id="BERNTON0546">Antiphona Ad te levavi.</p>
+      <p id="BERNTON0547">Antiphona Lux fulgebit.</p>
+      <p id="BERNTON0548">Antiphona Introduxit vos.</p>
+      <p id="BERNTON0549">Antiphona Spiritus Domini replevit.</p>
+      <p id="BERNTON0550">Antiphona Domine ne longe.</p>
+      <p id="BERNTON0551">Antiphona Dum medium.</p>
+      <p id="BERNTON0552">Gloria et caetera.</p>
+      <p id="BERNTON0553">Gradalia.</p>
+      <p id="BERNTON0554">Gradale Benedictus Dominus.</p>
+      <p id="BERNTON0555">Gradale Propter veritatem.</p>
+      <p id="BERNTON0556">Gradale Benedicam Domino.</p>
+      <p id="BERNTON0557">Alleluia.</p>
+      <p id="BERNTON0558">Alleluia Adorabo ad templum.</p>
+      <p id="BERNTON0559">Alleluia Deus iudex iustus.</p>
+      <p id="BERNTON0560">Alleluia Ostende nobis.</p>
+      <p id="BERNTON0561">Alleluia Specie tua.</p>
+      <p id="BERNTON0562">Offertoria.</p>
+      <p id="BERNTON0563">Offertorium Miserere mei.</p>
+      <p id="BERNTON0564">Offertorium Angelus Domini.</p>
+      <p id="BERNTON0565">Offertorium Posuisti Domine.</p>
+      <p id="BERNTON0566">Offertorium Domine Deus salutis.</p>
+      <p id="BERNTON0567">Offertorium Exaudi Deus orationem.</p>
+      <p id="BERNTON0568">Communiones.</p>
+      <p id="BERNTON0569">Seculorum amen.</p>
+      <p id="BERNTON0570">Communio Spiritus sanctus docebit.</p>
+      <p id="BERNTON0571">Communio Christus resurgens.</p>
+      <p id="BERNTON0572">Communio Dico autem vobis.</p>
+      <p id="BERNTON0573">Communio Circuibo et immolabo.</p>
+      <p id="BERNTON0574">Communio Simile est regnum coelestis.</p>
+      <p id="BERNTON0575">Communio Primum quaerite.</p>
+      <p id="BERNTON0576">Communio Introibo ad altare.</p>
+      <p id="BERNTON0577">Communio Oportet te.</p>
+      <p id="BERNTON0578">Communio Nemo te condemnavit.</p>
+      <p id="BERNTON0579">Communio Hoc corpus.</p>
+      <p id="BERNTON0580">Communio Video coelos.</p>
+      <p id="BERNTON0581">Communio Domine memorabor.</p>
+      <p id="BERNTON0582">Communio Spiritus ubi.</p>
+      <p id="BERNTON0583">Communio Ego clamavi.</p>
+      <p id="BERNTON0584">Communio Responsum accepit.</p>
+      <p id="BERNTON0585">Communio Lavabo inter innocentes.</p>
+      <p id="BERNTON0586">Communio Comedite pinguia.</p>
+      <p id="BERNTON0587">Communio Ego sum pastor.</p>
+      <p id="BERNTON0588">Gloria et caetera.</p>
+      <p id="BERNTON0589">Haec munera quondam Sion animo exultante, prout potuimus, concinendo depromsimus: nunc autem velut super flumina Babylonis sedentes malis amaricati iam organa nostra suspendimus, lacrymabiliter clamantes ac dicentes: quomodo cantabimus canticum Domini in terra aliena? Terra quippe nobis facta est aliena: quandoquidem nec vivere, ne dicam 
+      <pb n="[91]" />cantare licet in ea. Impleta in nobis prophetia, quae olim miserae ac infelici Iudaeae taliter est comminata: terra vestra deserta, civitates vestrae igne succensae, regionem vestram in conspectu vestro alieni devorant, et desolabitur sicut in vastitate hostili. Propterea defecit gaudium cordis nostri, versus est in luctum chorus noster, cecidit corona capitis nostri, ita ut compellamur dicere: vae nobis, quia peccavimus; et ut quidam sapiens dicit: vacat hoc tempore potentibus opprimere, privatis perdere, miseris flere.</p>
+      <p id="BERNTON0590">Sed quid inter haec restat agendum, nisi ut in illo prophetico volumine, in quo scripta sunt lamentationes, carmen et vae, die noctuque meditemur, ut dum filia Babylonis misera, hoc est, iniqua nos persequentium multitudo retribuente Domino recipiet retributionem, quam retribuit nobis, scilicet vae perenne, nos per lamentationes dignas potentiae verum mereamur cantare carmen laetitiae, suffragantibus principis Apostolorum meritis, cuius amore tuis beatissime Pater in hoc opere studuimus praeceptis obedire.</p>
+    </body>
+  </text>
+</TEI>

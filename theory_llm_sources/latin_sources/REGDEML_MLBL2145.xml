@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Regula de monocordo</title>
+        <title type="abbrev">REGDEML_MLBL2145</title>
+        <author>Anonymous</author>
+        <date notBefore="1300" notAfter="1399">14th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>T</resp>
+        <persName>Peter M. Lefferts</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Michael W. Lundell</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1995</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+London, British Library, MS Additional 21455, f. 8v.
+</bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="REGDEML_MLBL21450001">
+      <pb n="[f.8v]" />Regula de Monocordo.</p>
+      <p id="REGDEML_MLBL21450002">In primis. [Gamma], a, b, c, d, e, f, g, a, b, [sqb], c, d, e, f, g, a, b, [sqb], c, d. Quarum disposicio a doctoribus aut tacita aut nimia obscuritate perplexa adest et iam pueris breuiter et plenissime explicata Gamma itaque in primis affixa ab eo usque ad finem subiectum corde spacium per nouem partire et in termino prime none partis a littera pone in qua omnes antiqui fecerunt principium Item ab .a. a finem nona collecta parte eodem modo .b. litteram pone Post hec ad gamma reuertens usque ad finem metire per quatuor et in prime partis termino inuenies c. Ea que diuisione per quatuor sicut cum camma inuentum est .C. simili modo per ordinem cum a inuenies .d. et cum b inuenies .e. et cum g inuenies f et cum .d. inuenies g et cum e inuenies .a. et cum f inuenies .b. rotundam Que uero secuntur similium et earundem omnes per ordinem medietate facili colliguntur ut puta .a.b. ad finem in medio spacio pone aliam .[sqb]. similiterque c. signabit aliam c. et d signabit aliam .d. et e aliam e. et f aliam f et relique eodem modo posses in infinitum ita progredi sursum et deorsum nisi artis preceptum sua autoritate compesceret De multiplicibus diuersique monocordi diuisionibus unam apposui ut cum de multis ad unam intenderetur id est sine dubitacione sine scrupulo caperetur presertim cum sit tante utilitatis ut et facile intelligatur et intellecta uix obliuiscatur Alius uero diuidendi modus sequitur qui et si memorie minus adiungitur eo tamen monocordum uelociori celebritate componitur hoc modo Cum primum a [Gamma] usque ad finem nouem passus id est particulas facis primus passus terminabit in a secundus uacat tercius in d quartus uacat quintus in a sextus in d Septimus in a reliqui uacant. Item ab a usque ad finem nouenis partiris primus passus terminabit in b secundus uacat tercius in e quartus uacat quintus in [sqb] sextus in e septimus in b reliqui uacant Item cum a [Gamma] ad finem quaternis diuidis primus passus terminabit in c secundus in g tercius in G quartus finit a c uero ad finem similiter quatuor passuum primus terminabit in f secundus in c tercius in c quartus finit ab f uero quatuor passuum.</p>
+    </body>
+  </text>
+</TEI>

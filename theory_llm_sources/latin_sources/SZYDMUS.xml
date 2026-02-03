@@ -1,0 +1,939 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Musica</title>
+        <title type="abbrev">SZYDMUS</title>
+        <author>Szydlow, Johannes de</author>
+        <date notBefore="1400" notAfter="1499">15th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Mark Butler</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Anastasia Arapova</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>2001</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Waclaw Gieburowski, 
+<emph>Die "Musica Magistri Szydlovite": ein polnischer Choraltraktat des XV. Jahrh. und seine Stellung in der Choraltheorie des Mittelalters, mit Beruecksichtigung der Choraltheorie und -Praxis des XV. Jahrh. in Polen, sowie der Nachtridentinischen Choralreform</emph> (Posen: St. Adalbert, 1915), 9–72.
+</bibl>
+        <bibl type="work">
+          
+<title>Magister Szydlovita: Musica</title>
+          
+<idno type="LML">SZYDLOV.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">PL-GNd 200, 388-412</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="SZYDMUS0001">
+      <pb n="[9]" />Musica magistri Szydlovite sequitur. In Nomine Domini Amen. Principia artis musice ad laudem dei omnipotentis virginisque marie serenissime practicaturus, aliqua eiusce presidio in medium precepta ordinarie resolvere institui, diversis verum ex autoribus hausa. Continebit itaque tractatus iste quatuordecim in se capitula, premissis tamen quibusdam in principio librorum indagari consuetis. In quorum siquidem primo capitulorum quiditas seu diffinicio ipsius musice, scilicet et unde dicatur, et cum hoc, propter quid sit adinventa, brevissime notabitur. In secundo videbitur, quid sit manus, quid clavis et quot sint claves in numero et sic de aliis. In tercio diffinicio ipsius cantus ostendetur cum ceteris ad id condependentibus. In quarto, quid sit vox et quot sint voces seu syllabe musicales et unde habeant originem, et cum hoc alia illa "consors trinitatis" ibidem annectetur. In quinto agetur de mutacionibus. In sexto examen docebitur clavium. In septimo de modis tractabitur musicalibus. In octavo de viciis musice, alias de coniunctis. Nono videbitur, ubi cantus alicuius toni terminatur. In decimo, quid sit tenor et ubi sit tenor alicuius cantus. In duodecimo diversa tonorum nomina, videlicet latina, greca et gentilia ostendentur. In tredecimo videbitur, quid sit tonus in genere, deinde, quot sint in numero; item quid sit principalis, quid differencialis; item quot differencias habeat unusquisque tonorum, et sic de aliis, ut ibidem lucidissime apparebit. In quartodecimo capitulo et ultimo videbitur, quot modis contingunt mixtiones contra dyapason seu ambitum alicuius toni. Item divisio uniuscuiusque toni specialis subnectetur.</p>
+      <p id="SZYDMUS0002">Cum autem ea, que ab antiquis sunt usitata, difficile sit immutare, ut dicit philosophus "quarto ethicorum", ergo primo videndum est, que sit utilitas istius sciencie, scilicet ipsius musice. Secundo, quis titulus et sic de aliis, que brevissime patent in his versibus:</p>
+      <p id="SZYDMUS0003">Si bene vis scire librum, prius ista require:</p>
+      <p id="SZYDMUS0004">Utilitas, titulus, intencio, parsque zofie,</p>
+      <p id="SZYDMUS0005">Quatuor, et causas rem totam perficientes.</p>
+      <p id="SZYDMUS0006">Quantum igitur ad primum, sciendum est primo: utilitas sciencie huius libri secundum intencionem Theogeri 
+      <pb n="[10]" />in sua "musica" est septuplex. Prima, quia ipsa musica minuit graves curas rerum temporalium; secunda, quia frangit iras dei et hominis; tercia, quia recreat cor; quarta, quia fugat demonia; quinta, quia rectificat instrumenta musicalia, scilicet organa, sistra et similia; sexta, quia est delectabilis in aure dei; septima, quia reis impetrat veniam et remissionem suorum peccatorum. Unde versus eiusdem Theogeri:</p>
+      <p id="SZYDMUS0007">"Tu curas minuis, iras hominumque deumque</p>
+      <p id="SZYDMUS0008">Frangis, cor recreas, demoniumque fugas, organa,</p>
+      <p id="SZYDMUS0009">Sistra, tube, cithare, filiole, lire, cornu</p>
+      <p id="SZYDMUS0010">Auribus arte tua rectificante sonant,</p>
+      <p id="SZYDMUS0011">Dulcis in aure dei celos penetrat tua virtus,</p>
+      <p id="SZYDMUS0012">Impetrat et veniam te mediente reus."</p>
+      <p id="SZYDMUS0013">Titulus est iste: Tonarius magistri Guidonis artis musice prosaice compilatus.</p>
+      <p id="SZYDMUS0014">Intencio est scolarium in musica minus perfectorum erudicio; subordinatur autem parti philosophie artis metrice, que tractat de proporcione sonorum et consonanciarum, que numeris demonstrantur.</p>
+      <p id="SZYDMUS0015">Sciendum secundo, que et quot sunt cause istius libri. Unde liber est res corporea, sciencia vero incorporea, igitur alias et alias habent causas. Unde causa efficiens libri est scriptor, qui scribit librum, causa materialis libri est papirus, incaustum, pergamentum, similiter et protraccio literarum et sic de aliis. Sed causa formalis libri est debita disposicio folii post folium, sexterni post sexternum et sic de aliis. Causa autem finalis libri est deus gloriosus, propter quem omnia. Sed quia ad istam intencionem non querunt autores de causis librorum, sed de causis sciencie libri, unde proprie loquendo solum sunt due cause huius sciencie libri, scilicet efficiens et finalis.</p>
+      <p id="SZYDMUS0016">Causa efficiens est duplex, scilicet movens et mota; movens et illa est duplex, scilicet principalis, ut est deus gloriosus, a quo omnis sciencia emanat, (Jacobi secundo). Sed causa movens secundaria fuerunt studentes, artis musice ignari; causa efficiens mota, quamquam non sit unus autor, sed plures, tamen, breviter dicendo, causa efficiens, mocio, fuit Guido monachus, subtilis musicus, qui multa ex diversis musicorum in unum opus aggregavit.</p>
+      <p id="SZYDMUS0017">Causa vero finalis sciencie huius libri, ut prius dictum est, est ipse deus gloriosus, vel est cognicio illorum, que traduntur in hoc libro, sed improprie loquendo. Causa materialis sciencie huius libri est illud, circa quod versatur intencio autoris, similiter improprie loquendo. Causa formalis sciencie huius libri est modus procedendi in sciencia.</p>
+      <p id="SZYDMUS0018">Ultimo notandum, subiectum sciencie istius libri sunt regule tonorum breviter compilate, propria autem passio istius libri est distanciarum vel intervallorum divisio.</p>
+      <p id="SZYDMUS0019">Et tantum de parte prohemiali amore brevitatis.</p>
+      <p id="SZYDMUS0020">Musica est ars arcium ex septem artibus liberalibus una, potestatem regulariter canendi amministrans, ad laudem dei finaliter adinventa, vel sic potest diffiniri: musica est pericia modulacionis in sono cantuque consistens, et interpretatur sic: musica, scilicet diathonica, sicuti et ab te accepta, est pericia, id est perfeccio modulacionis, 
+      <pb n="[11]" />id est cantus, consistens, id est dependens in sono, id est ex et cantu, id est in cantu. Vel sic: musica est sciencia veraciter canendi secundum arsim et thesim, consistens in numero sonorum et proporcione eorundem. Et dicitur musica a "moys" in greco, quod est "aqua" in latino, et "ica" in greco, quasi "sciencia" in latino. Inde musica dicitur quasi sciencia iuxta aquam adinventa, quia presens sciencia, videlicet musica, per Pitagoram grecum iuxta aquam est inventa. Pitagoras enim grecus fuit, vir sciencia perclarissimus, ingenio acutissimus, facundia eloquentissimus; qui quidem Pitagoras, cum quodam tempore iter suum arriperat, fabricam quandam preteribat, in eaque diversorum sonorum audivit tactus maleorum. Et cum ipse aliquantulum attendisset, magis ac magis oblectabatur sonoribus melodiis, ubi septem cantuum voces sic sagaciter adinvenit, que patent in hoc versu:</p>
+      <p id="SZYDMUS0021">Ut, re, mi, fa, sol, la,</p>
+      <p id="SZYDMUS0022">Modulandi sunt tibi signa,</p>
+      <p id="SZYDMUS0023">Pitagoras greca ex fabrica</p>
+      <p id="SZYDMUS0024">reperit illas.</p>
+      <p id="SZYDMUS0025">Notandum primo, musica finaliter est adinventa ad honorem dei et ad ipsius laudem per musicam perficiendam, que quedam laus est finis potissimus omnium. Item est inventa propter necessitatem, ut inquit beatus Augustinus in libro "de vita et honestate clericorum", quia quatuor in domo dei sunt necessaria, scilicet gramatica, musica, ius canonicum et kalende.</p>
+      <p id="SZYDMUS0026">Quare gramatica, quare ius canonicum et quare kalende, alibi recuratur. Musicam autem quilibet clericus tenetur scire ad laudes dei decantandas et devociones in populo excitandas. Est eciam musica inventa propter ipsius utilitatem, vide qua supra.</p>
+      <p id="SZYDMUS0027">Notandum secundo, quod hec sciencia inventa est per ipsum Pitagoram philosophum in greco. Sed Boecius transtulit eam de greco in latinum. Sed iterum Iubal breviter et compendiose posiciones ipsius Pitagore resumsit et epilogavit. Sed Joannes de Muris normas composuit, Tubal autem musicalium instrumentorum primus inventor approbatur. Sed venerabiles et sancti patres, scilicet Gregorius et Ambrosius spiritu sancto docti, in ecclesia sancta primi institutores nullatenus esse dubitantur. Unde versus:</p>
+      <p id="SZYDMUS0028">Pitagoras repperit, transfert Boecius ipse,</p>
+      <p id="SZYDMUS0029">Investigator Guido, Tubalque regestrat,</p>
+      <p id="SZYDMUS0030">Iubal epilogavit, normasque ponit Ioannes,</p>
+      <p id="SZYDMUS0031">Ordinat ac suplet Gregorius Ambrosiusque.</p>
+      <p id="SZYDMUS0032">Notandum tercio, quod causa invencionis ipsius musice fuit hec, ut scilicet in hac non solum attenderetur usus, sed eciam ut ille usus habeat fundamentum artificiale. Nam aliquis canens usu et non arte, non cantor, sed pocius bestia poterit appellari. Unde Ioannes Olendrinus in sua "musica" sic inquit: "Bestia non cantor, qui non canit 
+      <pb n="[12]" />arte, sed usu, non vox cantorem facit, sed artis documentum." Unde notandum, quod differencia est inter musicum et cantorem. Nam cantor proprie usualis dicitur ille, qui solum usu utitur et caret fundamento artis. Musicus autem a musica denominative dicitur et est ille, qui per artem recte incedit. Unde Guido in sua "musica" sic dicit: "Musicorum et cantorum magna est distancia", quia illi, scilicet cantores, canunt, sed hi, scilicet musici, sciunt, que ponit musica, modo, qui facit et non sapit, diffinitur esse bestia, ut patet ex intencione Ioannis Olendrini, ut supra.</p>
+      <p id="SZYDMUS0033">Capitulum secundum.</p>
+      <p id="SZYDMUS0034">Manus musica diffinitur: Est vocum musicalium clavigera demonstratrix perfectissima ad cantum regulariter addiscendum, flexuris articulorum adornata.</p>
+      <p id="SZYDMUS0035">Vel sic: manus musica est organum, distinctis clavibus et vocibus regestratum, et dicitur similitudinarie ad manum corporalem. Nam sicut manus corporis dicitur organum organorum in administrando, eo quod singulis membris sua solet necessaria ministrare, puta cibaria, similiter potaria ori porrigendo et alia necessaria corpori et opportuna preparando, ita eciam manus musica facilem prebet accessum ad cognicionem sciencie musicalis. In quibus quidem duobus premissis diffinicionibus ipsius manus musice duo sunt consideranda, scilicet voces et claves. Unde voces in proposito sunt ille sex syllabe musicales, scilicet ut, re, mi, fa, sol, la, de quibus infra dicetur. Claves vero dicuntur octo litere, scilicet una greca et septem latine specie differentes, quibus dulcissima artis musica diversis ac variis specierum racionibus utitur, bis plene positis, tercia vero vice semiplene, id est non plene, et hoc in principio diccionis cuiuslibet in manu musica posite. Quibus quidem septem literis latinis tamquam pro fundamento proponitur gama, id est [Gamma] grecum, ad designandum, quod ipsa musica primo et principaliter inventa est a grecis; et demum post eandam literam grecam iterum immediate litere secuntur latine, videlicet iste a, b, c, d, e, f, g ad designaudum, quod ipsa musica a latinis est translata et ab eisdem regulariter consumata. Que quedam litere dicuntur signa seu claves in arte musica. Signa dicuntur ex eo, quia per eas suum signatum, scilicet solfisacio, cognoscitur, ut patebit in capitulo de mutacionibus. Sed dicuntur claves secundo, quia per eas similitudinarie clauditur diversitas cantuum, et tocius musice regulate melodia reseratur, vel quia sicut clave ferea fit reseracio, ut manifestentur oculta in aliquo reservacio reclusa, ita eciam clave musicali cuncte reserantur vocum latentes proprietates.</p>
+      <p id="SZYDMUS0036">Circa quod sciendum primo, quod claves in tota manu secundum usum sunt decem et novem, et hoc computando b fa, h mi pro una clave, et sunt hec: [Gamma], A, B, C, D, E, F, G, a, b, c, d, e, f, g, aa, bb, cc, dd. Unde versus:</p>
+      <p id="SZYDMUS0037">Claves in numero reperimus decaque novem,</p>
+      <p id="SZYDMUS0038">Ecce figura manus tenet has et quilibet usus.</p>
+      <p id="SZYDMUS0039">Nunc extende manum, si vis cognoscere cantum,</p>
+      <p id="SZYDMUS0040">
+      <pb n="[13]" />Scandens iuncturas indirecte posituras.</p>
+      <p id="SZYDMUS0041">Est manus hec facta pueris per pauca metra;</p>
+      <p id="SZYDMUS0042">Absque manu frustra disces per plurima lustra.</p>
+      <p id="SZYDMUS0043">[Gamma] caput est grecum, medii digitti dabo finem.</p>
+      <p id="SZYDMUS0044">Sed loquendo secundum artem, tunc claves in numero sunt viginti, quia extra manum additur e la propter compleccionem et perfeccionem tercii cantus h duralis.</p>
+      <p id="SZYDMUS0045">Sciendum secundo, quod quelibet clavis cum sua diccione in manu posita, tangens membrum impar, ponitur in linea, et quelibet tangens membrum par ponitur in spacio. Unde versus:</p>
+      <p id="SZYDMUS0046">Ex facili cernes, que clavis linea sistit;</p>
+      <p id="SZYDMUS0047">Linea sit prima, clavis spaciumque secunda.</p>
+      <p id="SZYDMUS0048">Linea ponit eas, quas numerus invenit impar.</p>
+      <p id="SZYDMUS0049">Pro intellectu laciori sciendum tercio, quod clavis est quedam manifestacio seu restriccio vel reseracio alicuius cantus. Item linea est magnitudo terminata ad unum, id est ad unam dimensionem, scilicet ad longitudinem tantam; vel eciam est protraccio linealis habens duo spacia collateralia secundum, sub et supra. Et sunt decem in tota manu, ut patet practicanti. Sed spacium dicitur duarum linearum sibi invicem proximarum intersticium. Et sunt in tota manu novem, et hoc secundum usum computando. Sed secundum artem eciam sunt decem, sicut et linee, quia linea, que est extra manum, in spacio ponitur.</p>
+      <p id="SZYDMUS0050">Quarto sciendum, quod de numero clavium quedam dicuntur signate, quedam vero non. Signate sunt, que ad notificandum cantum in libris scribuntur. Et de numero harum quedam generaliter signantur, sicut F grave et c accutum, quedam vero signantur raro, ut [Gamma] grecum fundamentale, quedam rarius, ut g accutum, quedam vero rarissime, ut dd geminatum excellens. Signa eciam [rob] fa, mi propter differencias vocum, quas designat, scilicet fa et mi; fa signatur per [rob] rotundum, mi vero per h quadrum, quod hodie ad modum [sqb] scribitur. Alie autem omnes non signate dicuntur, eo, quod cantus per eas in libris non signatur.</p>
+      <p id="SZYDMUS0051">Quinto sciendum, quod duplex est divisio clavium, scilicet prima et secunda. Unde secundum primam divisionem claves dicuntur triplices, quia quedam graves, quedam accute, quedam superaccute. Unde graves sunt octo in numero, que ponuntur in principio manus, videlicet [Gamma] grecum, A, B, C, D, E, F, G et dicuntur graves, ut inquit Ioannes Olendrinus, quia cantum reddunt gravem, basum, obtusum et declinem, vel eciam dicuntur graves, quia sunt sub gravioribus ponderibus, quam ipse accute. Unde Ioannes Olendrinus:</p>
+      <p id="SZYDMUS0052">"Octo claves graves,</p>
+      <p id="SZYDMUS0053">Que scribuntur capitales."</p>
+      <p id="SZYDMUS0054">Et tales claves graves debent scribi versualiter propter hoc, ut habeant differenciam ab accutis.</p>
+      <p id="SZYDMUS0055">Accute vero sunt septem et hoc computando in [rob] fa, h mi solum unam clavem. Et sunt hec: a, b, c, d, e, f, g. 
+      <pb n="[14]" />Sed computando [rob] fa, h mi pro duabus clavibus, tunc accute claves eciam sunt octo, scilicet a, [rob] molle, h quadrum, c, d, e, f, g, et dicuntur accute secundum eundem Ioannem Olendrinum ideo, quia accutum reddunt sonum, vel ideo, quia alciores sunt gravibus et semper debent scribi minori scriptura, ut habeant differenciam a gravibus. Superaccute autem claves solum sunt quatuor, et hoc computando [rob][rob] fa, h mi pro una clave et sunt aa, bb, cc, dd; sed computando bb fa, h mi pro duabus clavibus, tunc erunt quinque, scilicet aa, bb molle, hh durum, cc, dd, et dicuntur superaccute, quia super accutas situate. Vel eciam alio modo possunt dici excellentes, quia excellunt alias claves tam in loco, quam in situ, scilicet tam graves, quam accutas.</p>
+      <p id="SZYDMUS0056">Sed considerando secundum secundam divisionem, tunc claves sunt quintuplices, quia quedam sunt graves et sunt prime quatuor a principio manus posite, scilicet [Gamma] grecum, A, h, C, et dicuntur graves, quia graviter in talibus aliquis cantus tocius modi potest terminari. Quedam vero dicuntur finales et sunt quatuor claves sequentes priores, scilicet D, E, F, G, et dicuntur finales, quia quilibet cantus, ut generaliter saltem, regularis et directus in aliqua earum habet terminari. Quare cantus prothi, id est primi cum secundo, in D terminantur, cantus deutri, id est tercii cum quarto, in E terminantur, cantus tetrardi, id est septimi et octavi, in G terminantur. Quedam vero dicuntur affinales et sunt iterum alie quatuor claves sequentes, scilicet a, b, c, d, et dicuntur affinales, quasi confinales, id est situate circa finales, et ut in eis frequenter quilibet cantus transpositus debet terminari. De quibus cantibus directis et transpositis patebit inferius. Quedam vero claves dicuntur accute et ille sunt solum tres, que post alias sequuntur et sunt iste e, f, g, et dicuntur accute propter priorem racionem. Quedam vero dicuntur excellentes, que sunt quatuor ultime, et hoc computando in bb fa, h mi solum unam clavem, et sunt iste: aa, bb, cc, dd; sed computando in bb fa, h mi duas claves, tunc erunt quinque, scilicet aa, bb molle, hh durum, cc, dd; computando autem e la extra manum secundum intencionem quorundam, tunc erunt sex, ut patet practicanti; et dicuntur excellentes, quia alias claves suis vocibus excellunt, vel quia excellenciorem seu superiorem habent locum pre aliis.</p>
+      <p id="SZYDMUS0057">Sexto notandum pro declaracione manus, quia nomina digittorum in manu contentorum taliter assignantur. Nam primo et principaliter ponitur pollex, et dicitur a pollendo pollendo-ere, id est splendere, florere seu excellere, quia pollet inter ceteros virtute et potestate. Secundus digittus est qui vocatur index, et dicitur ab indico indicas indicare, a quo eciam venit index indicis communis generis, et est ille vel illa, qui vel que indicat. Sed in proposito index est masculini generis et capitur pro digitto, qui est collateralis pollici. Et dicitur index secundo, quia ipso solemus aliquas res indicare. Tercius digittus dicitur medius, quia ipse ponitur in medio, scilicet inter pollicem et indicem ex una, et fidium et auricularem ex altera partibus. Quartus vero est fidius, et est digittus immediate positus inter medium et auricularem. Quintus vero vocatur auricularis, qui dicitur ab auribus vel ab auricula, et merito vocatur auricularis, quia eo generaliter mundamus 
+      <pb n="[15]" />aures; inde nomen secundum intencionem eiusdem domini Olendrini. Supprema pars uniuscuiusque digitti vertex vel caput appellatur. Infima vero pars vocatur radix seu primum membrum. Locus vero sub vertice situatus dicitur collum seu tercium membrum. Locus autem, qui est sub collo, vocatur venter.</p>
+      <p id="SZYDMUS0058">Septimo notandum, quod tota manus secundum usum componitur ex decem novem diccionibus, que sic scolastice exprimuntur, ut clare patet hac ipsa manu musicali. Sed loquendo secundum artem, tunc sunt XX dicciones, ex quibus integratur manus musica, quia e la eciam extra manum additur, ut dictum est prius.</p>
+      <p id="SZYDMUS0059">Unde Ioannes Olendrinus declarat in versibus, ubi et in quo membro unaqueque diccio ex istis debeat locari, dicens:</p>
+      <p id="SZYDMUS0060">"Voces iam clare per manum articulare:</p>
+      <p id="SZYDMUS0061">[Gamma] ut, A re, h mi semper pollex retinebit,</p>
+      <p id="SZYDMUS0062">Index ad radicem C fa ut, mediusque D sol re.</p>
+      <p id="SZYDMUS0063">Sic E la mi fidius, sed F fa ut auricularis.</p>
+      <p id="SZYDMUS0064">In cuius ventre G sol re ut reor esse.</p>
+      <p id="SZYDMUS0065">Inde suo more collum tenet hinc a la mi re,</p>
+      <p id="SZYDMUS0066">Et caput eius ornare solet per b fa, h mi.</p>
+      <p id="SZYDMUS0067">Fidius pro capite c sol fa ut accipit apte.</p>
+      <p id="SZYDMUS0068">Sed d la sol re medius sibi vertice portat.</p>
+      <p id="SZYDMUS0069">Index iterat e la mi, f fa ut huic quoque substat.</p>
+      <p id="SZYDMUS0070">Hinc descendendo g sol re ut esse memento.</p>
+      <p id="SZYDMUS0071">Hinc aa la mi re donat medius, fidius bb fa, hh mi.</p>
+      <p id="SZYDMUS0072">Cc sol fa collo tenet, medius dd la sol."</p>
+      <p id="SZYDMUS0073">Que omnia lucidissime patent in ista figura reali:</p>
+      <p id="SZYDMUS0074">[Szydlovite, Musica magistri, 15; text: Pollex, Index, Medius, Fidius, Auricularis, [Gamma] ut, hic incipitur primus cantus h duralis caput, A re venter, h mi, per quem canitur prima coniuncta, e la mi, per quem b canitur fa loco mi sexta coniuncta, f fa ut, per quem canitur h inter mi loco fa septima coniuncta, g sol re ut, tercius cantus h duralis, C fa ut, hic primus cantus naturalis, d la sol re, caput, dd la sol, collum, aa la mi re, per quem canitur b inter fa loco mi octava coniuncta, venter, D sol re, c sol fa ut, per quem canitur h mi loco fa quinta coniuncta, cc sol fa, bb fa, hh mi, E la mi, per quem b canitur fa loco mi secunda coniuncta, b fa h mi, a la mi re, per quem canitur b fa loco mi quarta coniuncta, G sol re ut secundus h duralis, F fa ut, hic incipitur primus cantus b mollis, per quem canitur h contra mi loco fa tercia coniuncta] 
+      <figure>
+        <graphic url="/images/SZYDMUS_01GF.gif" />
+      </figure></p>
+      <p id="SZYDMUS0075">
+      <pb n="[16]" />Capitulum tercium.</p>
+      <p id="SZYDMUS0076">Cantus secundum Ioannem Olendrinum diffinitur sic: "Est modulacio vocis naturalis vel instrumentalis regulis artis musice coartata." Unde in predicta diffinicione "modulacio" ponitur pro genere, alie autem particule ponuntur pro differenciis, ut scilicet ipsum diffinitum differat a quolibet alio diffinito.</p>
+      <p id="SZYDMUS0077">Notandum primo, quod tres sunt cantus in genere, scilicet durus sive asper, naturalis sive planus et mollis sive dulcis. Unde cantus durus signatur per [sqb] durum sive quadrum, quod idem est. Et dicitur h duralis, quoniam asperum et durum reddit sonum respectu naturalis et b mollis, et merito signatur per [sqb] quadrum, quoniam sicut in aliqua re, habente quatuor angulos, fit aliqualis resistencia eo, quod latera eius sunt accuta in angulis, sic eciam in tali cantu h durali per nimiam depressionem artarearum fit constriccio et dura collisio. Sed cantus b mollis ideo dicitur mollis, quia suavem et dulcem efficit melodiam, et signatur per b rotundum, et merito, quia ex cantu b molli dulcis ac mollis modulacio generatur. Cantus autem naturalis dicitur ideo naturalis, quia naturaliter procedit sic, quia non nimis dure, nec eciam nimis molliter vel accute, sed mediocriter se habet, quia sapit naturam utriusque et ideo eciam in medio amborum collocatur, unde versus:</p>
+      <p id="SZYDMUS0078">Tu qui solfabis, tres cantus esse probabis:</p>
+      <p id="SZYDMUS0079">Ecce h duralis, naturalis atque b mollis.</p>
+      <p id="SZYDMUS0080">G dat h duros, c naturas, f quoque b molles.</p>
+      <p id="SZYDMUS0081">In specie autem cantus septem in numero, scilicet tres h durales, duo naturales et duo b molles.</p>
+      <p id="SZYDMUS0082">Notandum secundo, quod quilibet cantus habet sex voces, scilicet sex ascendentes et sex descendentes, excepto tercio h durali, qui secundum usum solum quinque habet voces ascendentes, non autem secundum artem, arti enim nihil repugnat, ut patet "secundo physicorum".</p>
+      <p id="SZYDMUS0083">Tercio notandum secundum Ioannem Olendrinum, quod primus h duralis incipitur in [Gamma] in linea, scilicet in vertice pollicis, et finitur in primo E la mi in spacio. Secundus h duralis incipitur in primo G sol re ut in spacio et finitur in secundo e la mi in linea. Tercius autem h duralis incipitur in secundo g sol re ut in linea et finitur secundum usum in dd la sol, secundum autem artem extra manum in spacio, videlicet in e la. Unde generalis regula est, quod omnis cantus, incipiens suas voces in linea, finit eas in spacio et e converso, excepto tercio h durali secundam usum, de quo prius dictum est.</p>
+      <p id="SZYDMUS0084">Primus autem cantus naturalis incipitur in primo C fa ut in spacio et finitur in primo a la mi re in linea. Secundus vero naturalis incipitur in c sol fa ut in linea, quod est in capite fidii digitti, et finitur in secundo aa la mi re in spacio. Item primus b mollis incipitur in primo F fa ut in linea et finitur in d la sol re in spacio. Secundus vero b mollis incipitur in secundo f fa ut in spacio et finitur in dd la sol in linea. Unde versus: G dat h duros et cetera.</p>
+      <p id="SZYDMUS0085">Quarto notandum, quod differencia est inter [sqb] durum et inter b molle. Differunt enim dupliciter, scilicet in voce et in scripto. Primo in voce, quia signato h duro 
+      <pb n="[17]" />debet decantari mi, b vero molli signato decanitur fa. Unde Joannes Olendrinus:</p>
+      <p id="SZYDMUS0086">"h durum mi canit, b molle fa dulce frequentat."</p>
+      <p id="SZYDMUS0087">Secundo differunt in scripto, quia h durum scribitur textualiter sive quadriangulariter, quod nunc generaliter signatur per [sqb], b vero molle signatur per b rotundum.</p>
+      <p id="SZYDMUS0088">Quinto notandum, quod in omni cantu vel tangitur b, vel non; si non, tunc est cantus naturalis, si vero tangitur b, hoc dupliciter, quia vel h durum, vel b molle. Si primum, sic est cantus h duralis, si vero secundum, sic est cantus b mollis.</p>
+      <p id="SZYDMUS0089">Sufficiencia cantuum.</p>
+      <p id="SZYDMUS0090">In omni cantu vel tangitur b, vel non. Si tangitur b, hoc est dupliciter, quia vel h durum, vel b molle. Si h durum, hoc tripliciter; quia vel tale h tangitur in clavibus gravibus, vel in accutis, vel in superaccutis. Si primum, sic est primus h duralis, si secundum, sic est secundus, si vero tercium, sic est tercius h duralis. Si autem in tali cantu tangitur b molle, hoc est dupliciter. Aut enim tale b ponitur in clavibus accutis, et sic est primus b mollis, aut in superaccutis, et sic est secundus cantus b mollis. Si vero in tali cantu non tangitur b, hoc eciam dupliciter; quia vel talis cantus incipitur in C gravi, vel in c accuto. Si primum, sic est primus cantus naturalis, si vero secundum, sic est secundus cantus naturalis.</p>
+      <p id="SZYDMUS0091">Quartum capitulum.</p>
+      <p id="SZYDMUS0092">Vox secundum Paulum Historiografum in suis tractatibus sic diffinitur. "Est sonus ab ore animalis prolatus, naturalibus instrumentis formatus", vel sic: "vox non est aliud, quam sonus vel aeris ictus auditu sensibilis, ab ore animalis prolatus, naturalibus instrumentis formatus." Que autem et quot sunt instrumenta naturalia ad formacionem vocis requisita, ibidem recuratur. Unde sciendum, quod vocis formate tres sunt proprietates. Prima, conceptum vi omnibus manifestare, secunda, audientes delectare, tercia, ad interiora penetrare.</p>
+      <p id="SZYDMUS0093">Sciendum secundo, quod vox prima divisione est duplex, scilicet discreta et indiscreta. Indiscreta est vox, in qua nulla discerni potest consonancia, sicut in risu vel in gemitu hominum, in latratu canum, rugitu leonum et sic de aliis, de qua nihil ad propositum. Sed discreta vox est vox, in qua aliqua consonancia vel dissonancia discerni potest. Unde consonancia secundum Johannem de Muris est "dissimilium inter se vocum invicem reducta simul concordia".</p>
+      <p id="SZYDMUS0094">Tercio sciendum, quod adhuc vox est duplex, scilicet simplex et composita. Unde voces simplices, que et syllabe musicales dicuntur, sunt iste, scilicet ut, re, mi, fa, sol, la. Composite autem voces sunt, que ad invicem componuntur, ut patet in elevacione toni, semitonii, ditoni et sic de aliis.</p>
+      <p id="SZYDMUS0095">Quarto sciendum, quod voces, que et syllabe musicales a Guidone appellantur, sunt sex, que tam ab antiquis, quam a modernis ad voluntatem primorum instituencium et aliorum omnium, communem usum subsequencium, 
+      <pb n="[18]" />his vocabulis pocius, quam aliis nominantur, scilicet ut, re, mi, fa, sol, la. Que quidem voces seu syllabe musicales a quibusdam opinantur fuisse recepte, et precipue a Joanne Anglico, qui et alio nomine Joannes Presbiter nucupatur, ex imno sancti Joannis Baptiste secundum sumariam particulacionem primi versus, scilicet illius:</p>
+      <p id="SZYDMUS0096">"Ut queant laxis resonare fibris,</p>
+      <p id="SZYDMUS0097">Mira gestorum famuli tuorum,</p>
+      <p id="SZYDMUS0098">Solve polutum labii reatum,</p>
+      <p id="SZYDMUS0099">Sancte Joannes."</p>
+      <p id="SZYDMUS0100">Nam a qualibet particula istius primi versus, aufferendo primam syllabam, habentur iste predicte sex syllabe musicales, ut patet practicanti. Sed ut videtur, quod iste voces composicionem et edicionem istius imni precesserunt. Dicit enim Gallus in racionali divinorum sub titulo de nativitate beati Joannis Baptiste, quod Paulus historiografus, Romane ecclesie diaconus, casinensis monachus, quodam die, dum vellet pascalem cereum consecrare, rauce facte sunt fauces eius, cum prius volentes essent. Ut ergo sibi vox restauraretur, vovit cantum de sancto Joanne Baptista componere. Nondum enim erat cantus de sancto Joanne compositus, et demum in honorem sancti Joannis Baptiste hunc imnum composuit, scilicet "Ut queant laxis", in cuius principio petivit vocis restauracionem, quam et obtinuit, quemadmodum eciam restituta est vox patri sancti Joannis Baptiste, scilicet Zacharie, et idcirco eciam in primo versu ponit has sex voces, quibus privatus fuit, ut rehaberet, quod postulavit.</p>
+      <p id="SZYDMUS0101">Predicta autem capitula duo cum suis notabilibus lucidissime patent in hoc ipso tropo sequenti:</p>
+      <p id="SZYDMUS0102">Primus h duralis. Cantus h duralis diffinitur sic: est, qui cum audacia potenti et virili voce profertur.</p>
+      <p id="SZYDMUS0103">[Szydlovite, Musica magistri, 18,1; text: F, [Gamma], Consors trinitatis sancte spiritus da nobis quesumus bonitatem, discipline scienciam, rudibus utilis hec norma, instrumentis circuit ut rota, dyapente jungitur cum ditono, auditorem dimulcet dulci sono.]</p>
+      <p id="SZYDMUS0104">Sequitur primus cantus naturalis et diffinitur sic: Est, qui cum mediocri et non forti voce profertur, tenensque medium inter h duralem et b mollem:</p>
+      <p id="SZYDMUS0105">[Szydlovite, Musica magistri, 18,2; text: F, Sumentibus atque instruentibus da nobis quesumus.]</p>
+      <p id="SZYDMUS0106">Primus cantus b mollis. Et diffinitur sic: Est, qui cum timore feminea, blanda et dulci voce profertur.</p>
+      <p id="SZYDMUS0107">[Szydlovite, Musica magistri, 18,3; text: F, c, vocibus gravibus concinentibus da nobis] 
+      <figure>
+        <graphic url="/images/SZYDMUS_02GF.gif" />
+      </figure></p>
+      <p id="SZYDMUS0108">
+      <pb n="[19]" />[Szydlovite, Musica magistri, 19; text: F, c, quesumus sospitatem ac quietem leticiam. Secundus h duralis: d, G, Scriptis catholicis educantibus da nobis quesumus. Secundus naturalis: Justiciam atque prudenciam da nobis quesumus. Secundus b mollis: dd, g, Divinis legibus iubilancium danobis quesumus. Ultimus tercius cantus h duralis. Sapienciam sancti spiritus da nobis quesumus.]</p>
+      <p id="SZYDMUS0109">Sequitur capitulum quintum de mutacionibus.</p>
+      <p id="SZYDMUS0110">Mutacio describitur sic secundum Joannem Olendrinum: "Est unius vocis in aliam sub debita consonancia variacio." Vel sic: "Mutacio est duarum vel plurium vocum, sub eadem clave contentarum, causa intenssionis vel remissionis cantus variacio." Vel sic: mutacio est unius vocis pro altera in eadem consonancia et unisono posicio. Inter quas diffinicio media et pocior sic intelligitur: Dicitur primo "mutacio"; et hoc est diffinitum, quia est terminus, qui diffinitur. Deinde ponitur "variacio", id est transitus, et hoc ponitur loco generis. Diffinitur ultimo "duarum vel plurium vocum" ad innuendum, quod due voces ad hoc, quod sit mutacio, ad minimum sunt necessarie, et ideo, quia una vox in se ipsam mutari non potest, ut patebit inferius. Dicitur "sub eadem clave contentarum" ad designandum, quod mutacio non potest fieri de voce unius clavis in vocem alterius clavis eo, quod accidencia non migrant de subiecto in subiectum, ut vult Aristoteles "septimo metaphisice". Dicitur ultimo "causa intenssionis vel remissionis". Unde per intenssionem hic intelligitur ascenssus seu elevacio, quod grece dicitur "arsis", per remissionem vero intelligitur descenssus sive depressio, quod eciam greco vocabulo "thesis" nucupatur.</p>
+      <p id="SZYDMUS0111">Pro laciori intellectu istius capituli sciendum primo, quodsi in aliqua diccione in manu posita reperiantur tres voces, tunc de neccessitate ibi debent esse sex mutaciones, tres in ascendendo et tres in descendendo. Prima mutacio fit, quando prima vox mutatur in secundam in ascendendo; secunda fit e converso, secunda vox mutatur in primam in descendendo. Tertia fit, quando prima vox mutatur in terciam ascendendo. Quarta fit, quando e converso tercia vox mutatur in primam in descendendo. Quinta fit, quando secunda vox mutatur in terciam ascendendo. Sexta et ultima fit, quando e converso tercia vox mutatur in secundam in descendendo. Unde versus:</p>
+      <p id="SZYDMUS0112">Si fuerit trina, fiat mutacio sena.</p>
+      <p id="SZYDMUS0113">
+      <pb n="[20]" />Si autem in aliqua diccione reperiantur due voces, ibi necessario debent esse due mutaciones. Prima fit, quando prima vox mutatur in secundam in ascendendo; secunda fit, quando vox secunda mutatur in primam descendendo.</p>
+      <p id="SZYDMUS0114">Unde versus:</p>
+      <p id="SZYDMUS0115">Si duplex detur, decet hanc ut bis varietur.</p>
+      <p id="SZYDMUS0116">Si autem aliqua diccio habeat tantum unam vocem, tunc nullam habebit mutacionem, et ideo, quia idem vox in se ipsam mutari non potest. Unde versus:</p>
+      <p id="SZYDMUS0117">Unica si fuerit vox, invariata manebit.</p>
+      <p id="SZYDMUS0118">Sciendum secundo, quod sex sunt dicciones in manu, habentes per tres voces et per sex mutaciones, octo autem per duas voces et eciam per duas mutaciones, ut patet practicanti. Et iterum quatuor sunt dicciones, habentes per unam vocem et per nullam mutacionem, scilicet [Gamma] ut, A re, h mi et e la.</p>
+      <p id="SZYDMUS0119">Sciendum tercio, quod licet b fa, h mi, quod ponitur in capite auricularis, similiter eciam et b b fa, h h mi, quod ponitur in ventre fidii digitti, habeant per duas voces, tamen nullam habent mutacionem et ideo, quia ille due voces inter se sunt dissone, quia unaqueque illarum vocum habet specialem clavem, scilicet b molle et h durum, mode fa loco mi et e converso mi in loco fa decantare est quedam dissonancia et contrarium artis musice, unde versus:</p>
+      <p id="SZYDMUS0120">Sub b fa, h mi duas voces volo demi,</p>
+      <p id="SZYDMUS0121">Quas non mutabis, quia duplex est ibi clavis.</p>
+      <p id="SZYDMUS0122">Quarto sciendum, quod mutacio est inventa propter defectum notarum eo, quia cantus transiens de una in octavam non sufficienter potest cantari per sex voces in attingendo eandem octavam sine mutacione vel mutacionibus. Quare mutacio propter hunc supplendum deffectum est adinventa.</p>
+      <p id="SZYDMUS0123">Quinto sciendum, quod si aliquis unamquamque syllabam seu vocem musicalem scire desideret, per quem, scilicet cantum, canatur, et cuius sit cantus, ille videat locum eiusdem vocis seu syllabe in manu, de qua querit, quo habito, descendat cum tali voce usque ad diccionem, que finitur in ut. Quo facto ibidem consideret, cuius cantus sit ut, eiusdem enim erit et illa vox, de qua queritur. Exempla patent in foribus. His itaque premissis, quia longum iter per precepta, breve autem et efficax per exempla, igitur videndum est exemplariter de unaquaque diccione in manu posita.</p>
+      <p id="SZYDMUS0124">Et quia [Gamma] ut in principio manus reponitur musice, unde notandum, quod [Gamma] ut solum habet unam vocem, scilicet ut, que canitur per primum cantum h duralem, et cum hoc habet [Gamma] grecum pro clave, mutacionem autem nullam habet, quod sic probatur, quia mutare voces nihil aliud est, nisi ascendendo vel descendendo per aliquem cantum unam vocem dare et ponere pro alia. Modo nihil dat, quod non habet, ut patet "primo elencorum", et sic [Gamma] ut non habens plures voces, quarum una deberet mutari in aliam, nullam habet mutacionem. Secundo sic probatur, quia idem non potest mutari in se ipsum. Nam idem, in quantum idem, non est aptum facere nisi idem, ut patet "secundo de generacione". Et sic ex convenienti relinquit, quod [Gamma] ut nullam habet mutacionem, unde gama est diccio greca, valens tantum apud Grecos, quantum G apud Latinos.</p>
+      <p id="SZYDMUS0125">
+      <pb n="[21]" />Demum ponitur A re et eciam habet unam vocem, scilicet re, que est primi cantus h duralis, et cum hoc habet A pro clave, mutacionem autem nullam habet propter easdem raciones, propter quas et [Gamma] ut. Demum ponitur h mi, eciam dumtaxat unam vocem habens, scilicet mi, que quidem vox est primi h duralis, et cum hoc habet h quadrum pro clave, nullam autem habet mutacionem propter causas superius dictas. Unde versus: Unica si fuerit et cetera. Unde sequitur exemplum de omnibus istis tribus diccionibus per ordinem, in quibus nulla fit mutacio, quod sic patet:</p>
+      <p id="SZYDMUS0126">Primus h duralis.</p>
+      <p id="SZYDMUS0127">[Szydlovite, Musica magistri, 21,1; text: F, [Gamma], Gama ut a re h mi credo non posse mutari.]</p>
+      <p id="SZYDMUS0128">C fa ut habet duas voces, scilicet fa et ut, et C pro clave. Unde fa est primi cantus h duralis, ut vero primi naturalis, et ita habet duas mutaciones, unam ascendendo et aliam descendendo. Unde primo fa mutatur in ut ascendendo de primo h durali in primum naturalem, secundo mutatur ut in fa e converso descendendo de primo naturali in eundem primum h duralem, quod sic exemplatur:</p>
+      <p id="SZYDMUS0129">Primus naturalis.</p>
+      <p id="SZYDMUS0130">[Szydlovite, Musica magistri, 21,2; text: F, [Gamma], C fa ut fa in ut ut in fa.]</p>
+      <p id="SZYDMUS0131">D sol re habet duas voces, scilicet sol et re, et D pro clave. Unde sol est primi h duralis, re vero primi naturalis, et ita habet duas mutaciones, unam ascendendo et aliam descendendo. Unde primo mutatur sol in re ascendendo de primo cantu h durali in primum naturalem. Secundo vero mutatur re in sol e converso descendendo de primo cantu naturali in primum h duralem:</p>
+      <p id="SZYDMUS0132">[Szydlovite, Musica magistri, 21,3; text: F, [Gamma], D sol re sol in re re in sol e converso.] 
+      <figure>
+        <graphic url="/images/SZYDMUS_03GF.gif" />
+      </figure></p>
+      <p id="SZYDMUS0133">E la mi habet duas voces, scilicet la et mi, et E pro clave sua. Unde la est primi h duralis, mi vero primi naturalis, et ita habet duas mutaciones, unam ascendendo et aliam descendendo. Unde primo mutatur la in mi, secundo vero mi in la, que mutaciones patent in exemplo:</p>
+      <p id="SZYDMUS0134">[Szydlovite, Musica magistri, 21,4; text: F, [Gamma], E la mi mi in la e converso.]</p>
+      <p id="SZYDMUS0135">
+      <pb n="[22]" />F fa ut habet duas voces, scilicet fa et ut. Unde fa est primi cantus naturalis, ut vero primi cantus b mollis. Et ita habet duas mutaciones, unam ascendendo et aliam descendendo. Unde primo mutatur fa in ut, secundo vero mutatur ut in fa e converso descendendo, que ambe mutaciones patent in hoc exemplo:</p>
+      <p id="SZYDMUS0136">Primus b mollis:</p>
+      <p id="SZYDMUS0137">[Szydlovite, Musica magistri, 22,1; text: c, F, F fa ut fa in ut ut in fa]</p>
+      <p id="SZYDMUS0138">G sol re ut habet tres voces, scilicet sol re ut, et G pro clave. Unde sol est primi naturalis, re vero primi b mollis, ut vero secundi h duralis. Et ita habet sex mutaciones, scilicet ascendendo tres et tres descendendo. Unde primo mutatur sol in re, secundo re in sol, que patent in exemplo:</p>
+      <p id="SZYDMUS0139">Secundus h duralis:</p>
+      <p id="SZYDMUS0140">[Szydlovite, Musica magistri, 22,2; text: c, F, G sol in re re in sol]</p>
+      <p id="SZYDMUS0141">Tercio mutatur sol in ut ascendendo de primo cantu naturali in secundum h duralem. Quarto mutatur ut in sol e converso descendendo de secundo h durali in primum naturalem, quod patet in exemplo:</p>
+      <p id="SZYDMUS0142">[Szydlovite, Musica magistri, 22,3; text: c, F, G sol in ut ut in sol]</p>
+      <p id="SZYDMUS0143">Quinto mutatur re in ut, sexto et ultimo mutatur ut in re, que iterum due mutaciones luculentissime patere possunt in hoc ipso exemplo:</p>
+      <p id="SZYDMUS0144">[Szydlovite, Musica magistri, 22,4; text: c, F, G re in ut in re]</p>
+      <p id="SZYDMUS0145">A la mi re habet tres voces, scilicet la mi et re, et a pro clave. Unde la est primi cantus naturalis, mi vero primi b mollis et re secundi cantus h duralis, et ita habet sex mutaciones, scilicet tres ascendentes et tres descendentes. Unde primo mutatur la in mi, secundo e converso mi in la, quod sic patet in exemplo:</p>
+      <p id="SZYDMUS0146">[Szydlovite, Musica magistri, 22,5; text: c, F, a la mi re la in mi] 
+      <figure>
+        <graphic url="/images/SZYDMUS_04GF.gif" />
+      </figure></p>
+      <p id="SZYDMUS0147">
+      <pb n="[23]" />[Szydlovite, Musica magistri, 23,1; text: c, F, et e converso mi in la]</p>
+      <p id="SZYDMUS0148">Tercio mutatur la in re, quarto vero mutatur re in la, quod sic patet:</p>
+      <p id="SZYDMUS0149">[Szydlovite, Musica magistri, 23,2; text: c, F, a la in re re in la]</p>
+      <p id="SZYDMUS0150">Quinto mutatur mi in re, sexto vero et ultimo mutatur e converso re in mi, ut patet in hoc exemplo:</p>
+      <p id="SZYDMUS0151">[Szydlovite, Musica magistri, 23,3; text: a mi in re re in mi e converso, c, F]</p>
+      <p id="SZYDMUS0152">De b fa, h mi dictum est circa notabile tercii capituli eiusdem.</p>
+      <p id="SZYDMUS0153">C sol fa ut habet tres voces, scilicet sol fa et ut, et c pro clave. Unde sol est primi b mollis, fa secundi h duralis, ut vero secundi naturalis, et ita habet sex mutaciones, tres ascendendo et tres descendendo. Unde primo mutatur sol in fa secundo fa in sol, ut patet in exemplo:</p>
+      <p id="SZYDMUS0154">Secundus naturalis:</p>
+      <p id="SZYDMUS0155">[Szydlovite, Musica magistri, 23,4; text: c, F, C sol fa ut sol in fa fa in sol]</p>
+      <p id="SZYDMUS0156">Tercio mutatur sol in ut, quarto vero mutatur ut in sol, que ambe mutaciones patent in hoc exemplo:</p>
+      <p id="SZYDMUS0157">[Szydlovite, Musica magistri, 23,5; text: c, F, C sol in ut ut in sol]</p>
+      <p id="SZYDMUS0158">Quinto mutatur fa in ut, sexto et ultimo mutatur e converso ut in fa, que, inquam, ambe mutaciones satis clare patent in hoc exemplo:</p>
+      <p id="SZYDMUS0159">[Szydlovite, Musica magistri, 23,6; text: c, F, C fa in ut ut in fa]</p>
+      <p id="SZYDMUS0160">
+      <pb n="[24]" />D la sol re habet tres voces, scilicet la sol et re, d vero pro clave. Unde la est primi cantus b mollis, sol secundi h duralis, re vero secundi naturalis, et ita habet sex mutaciones, scilicet tres in ascendendo et tres in descendendo. Unde primo mutatur la in sol, secundo vero mutatur sol in la, tercio mutatur la in re ascendendo, quarto re in la e converso descendendo, sexto et ultimo mutatur re in sol e converso descendendo. Quarum quidem omnium sex mutacionum exempla in his ipsis clarescunt tropis, qui secuntur:</p>
+      <p id="SZYDMUS0161">[Szydlovite, Musica magistri, 24,1; text: c, F, D la sol re la in sol sol in la, D la in re re in la, D la sol re sol in re re in sol] 
+      <figure>
+        <graphic url="/images/SZYDMUS_05GF.gif" />
+      </figure></p>
+      <p id="SZYDMUS0162">E la mi habet duas voces, scilicet la et mi, et e pro clave. Unde la est secundi h duralis, mi vero secundi naturalis, et ita habet duas mutaciones, unam ascendendo, quod sic pro exemplo:</p>
+      <p id="SZYDMUS0163">[Szydlovite, Musica magistri, 24,2; text: g, c]</p>
+      <p id="SZYDMUS0164">[Text fehlt.]</p>
+      <p id="SZYDMUS0165">F fa ut habet duas voces, scilicet fa et ut, et f pro clave. Unde fa est secundi naturalis, ut vero secundi b mollis, et ita habet duas mutaciones, unam ascendendo et aliam descendendo. Unde primo mutatur fa in ut ascendendo, secundo e converso ut in fa descendendo:</p>
+      <p id="SZYDMUS0166">Secundus b mollis:</p>
+      <p id="SZYDMUS0167">[Szydlovite, Musica magistri, 24,3; text: g, c, F fa ut fa in ut ut in fa]</p>
+      <p id="SZYDMUS0168">G sol re ut habet tres voces, scilicet sol re et ut, et g pro clave. Unde sol est secundi naturalis, re vero secundi b mollis, ut vero tercii h duralis, et ita habet sex mutaciones, tres ascendendo et tres descendendo. Unde primo mutatur sol in re ascendendo de secundo cantu naturali in secundum b mollem, secundo e converso descendendo de secundo b molli in secundum naturalem mutatur re in sol, quod sic patet in exemplo:</p>
+      <p id="SZYDMUS0169">Tercius h duralis:</p>
+      <p id="SZYDMUS0170">[Szydlovite, Musica magistri, 24,4; text: g, c, G sol re ut sol in re re in sol]</p>
+      <p id="SZYDMUS0171">
+      <pb n="[25]" />Tercio mutatur sol in ut ascendendo de secundo cantu naturali in tercium h duralem. Quarto mutatur e converso ut in sol descendendo de tercio cantu h durali in secundum naturalem, ut hoc patet in exemplo:</p>
+      <p id="SZYDMUS0172">[Szydlovite, Musica magistri, 25,1; text: g, c, g sol in ut ut in sol]</p>
+      <p id="SZYDMUS0173">Quinto mutatur re in ut ascendendo de secundo b molli in tercium h duralem, sexto et ultimo mutatur e converso ut in re descendendo de tercio h durali in eundem secundum b mollem, quod sic patet in exemplo:</p>
+      <p id="SZYDMUS0174">[Szydlovite, Musica magistri, 25,2; text: dd, g, g re in ut ut in re]</p>
+      <p id="SZYDMUS0175">Aa la mi re habet tres voces, scilicet la mi et re et aa geminatum pro clave. Unde la est secundi naturalis, mi secundi b mollis, re vero tercii h duralis et ita habet sex mutaciones, tres ascendendo et tres descendendo. Unde primo mutatur la in mi ascendendo, secundo e converso mi in la descendendo:</p>
+      <p id="SZYDMUS0176">[Szydlovite, Musica magistri, 25,3; text: g, c, aa la mi re la in mi mi in la] 
+      <figure>
+        <graphic url="/images/SZYDMUS_06GF.gif" />
+      </figure></p>
+      <p id="SZYDMUS0177">Tercio mutatur la in re ascendendo, quarto vero mutatur e converso re in la descendendo, que mutaciones patent in hoc ipso exemplo:</p>
+      <p id="SZYDMUS0178">[Szydlovite, Musica magistri, 25,4; text: g, c, aa la in re re in la]</p>
+      <p id="SZYDMUS0179">Quinto mutatur mi in re ascendendo, sexto et ultimo mutatur e converso re in mi descendendo, que quidem mutaciones patent in hoc exemplo:</p>
+      <p id="SZYDMUS0180">[Szydlovite, Musica magistri, 25,5; text: dd, g, aa mi in re re in mi]</p>
+      <p id="SZYDMUS0181">Cc sol fa habet duas voces, scilicet sol et fa et cc geminatum pro clave. Unde sol est secundi b mollis, fa vero tercii h duralis et ita habet duas mutaciones, scilicet unam ascendendo et aliam descendendo. Unde primo mutatur sol in fa ascendendo, secundo fa in sol descendendo, ut hic:</p>
+      <p id="SZYDMUS0182">[Szydlovite, Musica magistri, 25,6; text: dd, g, cc sol fa sol in fa fa in sol]</p>
+      <p id="SZYDMUS0183">Dd la sol habet duas voces, scilicet la et sol, et dd geminatum ponitur pro clave. Unde la est secundi b mollis, sol vero tercii h duralis et ita habet duas mutaciones, unam ascendendo et aliam descendendo. Unde primo mutatur la in sol ascendendo, secundo vero sol in la descendendo, quod sic patet:</p>
+      <p id="SZYDMUS0184">[Szydlovite, Musica magistri, 25,7; text: dd, g, dd la sol la in sol sol in la]</p>
+      <p id="SZYDMUS0185">
+      <pb n="[26]" />Ee la est ultima diccio extra manum posita, habens unam vocem scilicet la, que canitur per tercium h duralem et nullam habet mutacionem propter causas superius positas et locatur sub vertice medii digitti et hoc extra manum. Et quamquam multi asserunt, illam vocem e la positam in illa diccione scilicet ee la non esse tenendam seu ponendam, tamen Joannes Olendrinus posuit eandam pro ultima voce monocordi Guidonis et locavit eandam sub vertice medii digitti extra manum et hoc, ut tercius cantus h duralis maneat completus.</p>
+      <p id="SZYDMUS0186">Capitulum sextum.</p>
+      <p id="SZYDMUS0187">Circa examen clavium sciendum, quodsi quis velit scire distanciam unius note in cantu ab alia et hoc respectu diverse posicionis clavium, ille consideret locum in manu note ultime in respectu clavis regentis, demum attendat eciam et locum in manu note ultime in respectu clavis regentis, demum attendat eciam et locum in manu note prime clavis sequentis, scilicet recte. Quo facto videat distanciam inter illas duas notas, scilicet ultime clavis regentis syllabe precedentis et prime clavis sequentis sive recte, qua habita habebitur eciam et distancia unius note in cantu ab alia.</p>
+      <p id="SZYDMUS0188">Verbi gracia ego volo scire, quota est illa nota, que est in c accuto ab illa, que est in G gravi. Primo debeo videre, ubi c in manu habet locum. Et habet in vertice fidii digitti et cum hoc G grave, quia in ventre auricularis, et ita debeo computare in quota distancia sit c accutum a G gravi, et quia, ut patet, c accutum existens in vertice fidii est in quarta distancia a G gravi existente in ventre auricularis, ergo eciam illa nota, que est in c accuto, est quarta ab illa, que in G gravi seu in primo g sol re ut.</p>
+      <p id="SZYDMUS0189">Unde pro clariori intellectu istius capituli primo sequitur examen clavium earundem et principaliter inter solas claves, secundo tam inter claves, quam inter voces seu notas simul. Secunda ibi "aurea personet lira", prima autem hic in loco:</p>
+      <p id="SZYDMUS0190">[Szydlovite, Musica magistri, 26,1; text: [Gamma], f, c, g, dd]</p>
+      <p id="SZYDMUS0191">Exemplum secundi, scilicet de examine clavium tam inter voces, quam inter claves simul patet in isto tropo sequenti scilicet "aurea". "Lirin" in greco latine dicitur "varietas" vel "diversitas", inde "lira-re", et est instrumentum musicum, dictum a varietate vocum et sonorum, quos efficit, "lira"; eciam dicitur "sulcus' in latino:</p>
+      <p id="SZYDMUS0192">[Szydlovite, Musica magistri, 26,2; text: f, [Gamma], c, Aurea personet lira pulcra semitonia simplex corda amplexatur] 
+      <figure>
+        <graphic url="/images/SZYDMUS_07GF.gif" />
+      </figure></p>
+      <p id="SZYDMUS0193">
+      <pb n="[27]" />[Szydlovite, Musica magistri, 27; text: dd, g, c, f, voce cordis resonancia que docet musica. evovae.]</p>
+      <p id="SZYDMUS0194">Capitulum septimum.</p>
+      <p id="SZYDMUS0195">Modus in genere describitur sic: est modulata intenssio vocum vel remissio singularum notarum. Vel sic: modus est diversarum vocum concors resonancia. Dicitur primo "modus", et hoc est diffinitum, deinde ponitur in diffinicione "concors resonancia", et hoc ponitur pro differenciis.</p>
+      <p id="SZYDMUS0196">Notandum primo, quod noticia modorum est nobis utilis ad hoc, quia sicut sub octo partibus oracionis omne, quod profertur, continetur, sic eciam omne, quod canitur, novem modis modulatur. Et ita sicut aliquis ignorans partes oracionis nescit, quid loquitur et quicquid profert, incongrue profert, item eciam aliquis ignorans modos musicales nescit, quid canit, et quicquid canit, totum imperfecte canit. Unde Pitagoras philosophus grecus concordanciarum proporciones primo instituens cum Boecio, Guidone, Tubal a Ioanne de Muris unanimiter ipsam musicam in novem concordancias redigerunt.</p>
+      <p id="SZYDMUS0197">Notandum secundo, quod modi usitati sunt novem in numero, scilicet: unisonus, semitonium, tonus et sic de aliis, quibus eciam additur dyapason. Tamen proprie loquendo ipse modus dyapason, quamvis sit decimus in ordine, est tamen nonus usitatus, et hoc non computando unisonum inter novem modos, quoniam proprie loquendo unisonus non est modus, quia unusquisque modus attenditur penes duo, scilicet penes elevacionem aut penes depressionem. Que elevacio et depressio in ipso non invenitur unisono, et ita preter unisonum erunt novem modi usitati in numero et dicuntur usitati, quia cum modis inusitatis computando erunt plures quam novem. Et hoc dicitur propter illos tres modos, qui sunt tritonus, semiditonus cum dyapenthe, ditonus cum dyapenthe, de quibus modis usitatis Ioannes Olendrinus tangit in sua musica dicens:</p>
+      <p id="SZYDMUS0198">"Ter trinis modulis cantus contexitur omnis."</p>
+      <p id="SZYDMUS0199">Et quia premissa est eciam descripcio uniuscuiusque modi in speciali, quare notandum est tercio, quod unisonus, qui est inter omnes modos primus et fundamentum omnium aliorum modorum, sic potest describi: unisonus est unius et eiusdem vocis in linea vel in spacio immediata repeticio. Unde versus:</p>
+      <p id="SZYDMUS0200">
+      <pb n="[28]" />Unisonus voce solet in una resonare.</p>
+      <p id="SZYDMUS0201">Et dicitur uni-sonus, quia unus sonus bis vel ter vel pluries replicatus in eodem spacio vel eadem linea sive infra vel supra. Si enim contrahitur vox sursum vel eciam deorsum tangendo vocem proximam, non unisonus, sed pocius semitonium vel tonus diceretur. Et iste modus est quasi caput omnium modorum aliorum, quia habet se ut fundamentum inter omnes alios modos. Et habet fieri in omnibus et singulis sex vocibus, secundum quod sex sunt voces musicales, scilicet ut, re, mi, fa, sol, la, nam quelibet illarum vocum aliquociens resumpta, sive hoc sit in linea, sive in spacio, semper causat, perficit unisonum. Unde eciam hic advertendum, quod unisonus non dicitur proprie modus eo, quia nec intenditur, nec remittitur, sed est modus similitudinarie. Nam sicut positivus improprie dicitur gradus, quia est fundamentum aliorum graduum, quia ab eo formantur et habent originem tanquam a fundamento, similiter sicut et unicus casus dicitur improprie casus eo, quod ipse a nullo cadit, sed alii cadunt ab eo, ita unisonus vocatur improprie modus, quia ponit fundamentum aliorum, et cum hoc alii modi descendunt et formantur ab eo. Unde ipsius exemplum sic patet:</p>
+      <p id="SZYDMUS0202">[Szydlovite, Musica magistri, 28; text: F, [Gamma], f, Unisonus.]</p>
+      <p id="SZYDMUS0203">Semitonium, modus secundus, diffinitur sic: Est unius vocis in aliam sibi proximam et immediatam modica et debilis intenssio vel remissio. Et dicitur semitonium secundum aliquos a "semis", quod est "medium" et "tonus", quasi medietas toni. Sed ista interpretacio minus bene valet. Primo tonus siquidem dividi non potest in duo equalia, sed pocius in duo inequalia, ergo semitonium dicitur esse tonus imperfectus seu non plenus. Sicut enim vas dicitur semiplenum, quia non est plenum, similiter sic semitonium dicitur quasi imperfectus vel non plenus vir eo, quod abutens operibus virilibus feminarum moribus deturpatur; ita eciam semitonium dicitur quasi sonus imperfectus. Et ob hoc secundum aliquos semitonium dicitur a "semis", quod est "imperfectum", et "tonus" quasi imperfectus tonus. Unde semitonium habet se ut dulcedo et condimentum tocius cantus, nam sine ipso cantus est corrosus, transformatus et dilaceratus, ut fit frequenter in cantibus rusticorum. Et habet fieri dupliciter, scilicet de mi in fa ascendendo et e converso de fa in mi descendendo. Unde versus:</p>
+      <p id="SZYDMUS0204">Fa mi semitonium modulacio dat ter vocum.</p>
+      <p id="SZYDMUS0205">Ex quo sequitur per modum corrolarii, quod tantum septem reperiuntur semitonia in tota manu; secundum: eciam solum septem sunt cantus in manu. Et hoc intelligendo de semitoniis ascendentibus, quia cum semitoniis descendentibus computando, tunc erunt in tota manu semitonia quatuordecim in numero, quia septem de mi in fa ascendencia et septem e converso de fa in mi descendencia, 
+      <pb n="[29]" />et ita erunt quatuordecim, ut patet practicanti. De quo quidem semitonio tale exemplum:</p>
+      <p id="SZYDMUS0206">[Szydlovite, Musica magistri, 29,1; text: F, [Gamma], g, c, dd, Primum, semitonium, secundum, tercium, quartum, quintum, Exemplum de semitonio, sextum, septimum]</p>
+      <p id="SZYDMUS0207">Tonus est tercius modus. Est transitus vel saltus unius vocis in aliam sibi proximam et immediatam potenter, viriliter et perfecte sonans. Et dicitur tonus a "tonando"; quasi viriliter et perfecte sonat, quia habet perfectum et fortem sonum respectu semitonii. Secundum vero Guidonem sic describitur: "Tonus est adherencia duarum vocum plenum sonum emittencium sine quovis intervallo seu distancia." Et habet fieri in omnibus vocibus de alia in aliam ascendendo vel descendendo, demtis istis duabus vocibus, scilicet mi et fa. Et ita habet quatuor species ascendentes, scilicet de ut in re, de re in mi, de fa in sol, de sol in la. Et iterum quatuor descendentes, scilicet de la in sol, de sol in fa, de mi in re, de re in ut. Unde versus:</p>
+      <p id="SZYDMUS0208">Dant fa, sol, la tonos, vel ut, re, mi tibi plenos.</p>
+      <p id="SZYDMUS0209">Notandum, quod tonus capitur dupliciter, scilicet proprie, et ita hic diffinitur, alio modo improprie. Et sic tonus est discrecio principii, medii et finis, de quo quidem tono improprie accepto et de eius differenciis patebit inferius. De tono autem hic accepto tale signatur exemplum:</p>
+      <p id="SZYDMUS0210">[Szydlovite, Musica magistri, 29,2; text: F, [Gamma], f, Exemplum de tono.]</p>
+      <p id="SZYDMUS0211">Semiditonus, quartus modus in ordine, diffinitur sic: Est unius vocis in terciam debilis intenssio vel remissio. Vel sic: Semiditonus est distancia constans ex tono et semitonio et habet quatuor species, scilicet duas ascendentes et duas descendentes! Unde ascendendo semiditonus primo causatur de re in fa, secundo de mi in sol ascendendo. Descendendo autem primo causatur de sol in mi, secundo de fa in re. Et dicitur semiditonus a "semis", quod est "medium" et "tonus", quasi modus ex tono et semitonio complexus. Unde dicitur a semitonio et tono. Et dirigit saltum de una in terciam, sicut et ditonus, tamen differunt, quia ditonus nunquam includit in se semitonium, semiditonus vero semper. Unde versus:</p>
+      <p id="SZYDMUS0212">Semique ditonus est, cum sol mi vel fa re sibi iungis.</p>
+      <p id="SZYDMUS0213">Cuius exemplum sic potest ostendi:</p>
+      <p id="SZYDMUS0214">[Szydlovite, Musica magistri, 29,3; text: F, [Gamma], c, Exemplum de semiditono.] 
+      <figure>
+        <graphic url="/images/SZYDMUS_08GF.gif" />
+      </figure></p>
+      <p id="SZYDMUS0215">
+      <pb n="[30]" />Ditonus quintus modus, et diffinitur sic: Est saltus unius vocis in terciam, fortiter et viriliter sonans. Vel sic: Est distancia seu intervallum duorum tonorum continuorum eis proximorum. Et dicitur a "dya", quod est duo, et "tonus", quasi duos tonos in se continens. Et habet fieri duobus modis, scilicet ascendendo et descendendo. Unde ascendendo duobus modis, scilicet primo de ut in mi, secundo de fa in la. Descendendo eciam fit duobus modis, scilicet de la in fa et de mi in ut. Constat igitur ditonus ex tribus vocibus. Unde versus:</p>
+      <p id="SZYDMUS0216">Ditonus est ut mi, nec non fa la sibi iungis.</p>
+      <p id="SZYDMUS0217">Cuius exemplum sic potest ostendi:</p>
+      <p id="SZYDMUS0218">[Szydlovite, Musica magistri, 30,1; text: F, [Gamma], c, Exemplum de ditono.]</p>
+      <p id="SZYDMUS0219">Dyatheseron sextus modus in ordine dicitur.</p>
+      <p id="SZYDMUS0220">Est saltus de una voce in quartam proporcionaliter licet imperfecte sonans. Vel sic: Est distancia seu consonancia constans ex quatuor vocibus, scilicet ex duobus tonis et semitonio. Et habet fieri duobus modus, scilicet ascendendo et descendendo. Ascendendo tribus modis, scilicet primo de ut in fa, secundo de re in sol, tercio de mi in la. Descendendo eciam tribus modis, scilicet de la in mi, secundo de sol in re, tercio de fa in ut. Unde versus:</p>
+      <p id="SZYDMUS0221">La mi, sol re, fa ut dyatheseron esse probant.</p>
+      <p id="SZYDMUS0222">Et sic de quacumque voce in quartam saltum faciendo concorditer habetur, dyatheseron decanitur. Sic eciam et in aliis locis, preterquam ascendendo a G gravi ad h quadrum accutum, et a b rotundo accuto ad e accutum minutum et ab f accuto minuto ad hh quadrum geminatum, quia tunc ibi committitur tritonus, ille modus inusitatus, de quo inferius, non autem dyatheseron. Unde de dyatheseron tale ponitur exemplum:</p>
+      <p id="SZYDMUS0223">[Szydlovite, Musica magistri, 30,2; text: F, [Gamma], Exemplum de dyatheseron.]</p>
+      <p id="SZYDMUS0224">Tritonus si dignus est connumerari inter alios modos, sic potest describi: Est spacium seu distancia constans ex tribus tonis, vel tres in se continens tonos. Et dicitur a "tris", quod est "tres", et "tonus", quasi modus constans ex tribus tonis et nullo semitonio incluso. Et habet fieri duobus modis, scilicet ascendendo et descendendo. Ascendendo tribus modis, primo de F gravi ad h quadrum minutum, secundo ascendendo a b rotundo accuto minuto ad e accutum minutum, tercio ab f accuto minuto ascendendo ad h h quadrum geminatum. Similiter descendendo eciam habet fieri tribus modis, scilicet primo de h h geminato quadro usque ad f accutum minutum, secundo descendendo ab e accuto minuto usque ad b rotundum accutum, tercio descendendo de h duro accuto usque ad F grave. Alias autem in manu musica tritonus non habet locum, quia per tritonum raro canimus vel pocius nunquam, quia est nimis dissonus. Ergo digne inter distancias novem non connumeratur. Unde versus:</p>
+      <p id="SZYDMUS0225">Tritonus fa cum mi duro vel e contra fertur haberi.</p>
+      <p id="SZYDMUS0226">Cuius tale ponitur exemplum:</p>
+      <p id="SZYDMUS0227">
+      <pb n="[31]" />[Szydlovite, Musica magistri, 31,1; text: c, F, g, dd, Exemplum de tritono.]</p>
+      <p id="SZYDMUS0228">Dyapenthe, septimus modus, diffinitur sic: Est saltus de una voce in quintam dulciter et iocunde sonans. Et dicitur secundum Io. Ia. in Ka. con. a "dy", quod est de, et "pentha", quod est quinque, quasi modus faciens saltum ab una voce in quintam, nam a qualibet voce in quintam saliendo fit dyapenthe. Hic tamen est advertendum, quod a h gravi in F grave et a [sqb] accuto usque ad f accutum minutum ascendendo vel eciam descendendo non fit dyapenthe.</p>
+      <p id="SZYDMUS0229">Vel dyapenthe diffinitur sic: Est distancia constans ex quatuor tonis et uno semitonio, ut patet practicanti. Et habet fieri duobus modis, scilicet ascendendo et descendendo. Ascendendo quatuor modis, scilicet primo de ut in sol, secundo de re in la, tercio de mi in mi, quarto de fa in fa. Similiter eciam descendendo quatuor, scilicet de la in re, secundo de sol in ut, tercio de mi in mi, quarto de fa in fa. Unde versus:</p>
+      <p id="SZYDMUS0230">Et mulcens aures sepe sonat dyapenthe.</p>
+      <p id="SZYDMUS0231">Intensus vero dicitur quintam retinere.</p>
+      <p id="SZYDMUS0232">Fa fa, mi mi, la re, sol ut formant dyapenthe.</p>
+      <p id="SZYDMUS0233">Cuius exemplum sic potest assignari:</p>
+      <p id="SZYDMUS0234">[Szydlovite, Musica magistri, 31,2; text: F, [Gamma], c, f, Exemplum de dyapenthe.]</p>
+      <p id="SZYDMUS0235">Semitonium cum dyapenthe octavus modus. Et diffinitur sic: Est saltus de una voce in sextam debiliter et imperfecte sonans. Vel sic: Est distancia constans ex tribus tonis et duobus semitoniis, et fit dupliciter, scilicet ascendendo et descendendo de una voce in sextam. Unde versus:</p>
+      <p id="SZYDMUS0236">Semitonium sepe iungit sibi dyapenthe.</p>
+      <p id="SZYDMUS0237">Unde refert dicere semitonium cum dyapenthe, quia semitonium et dyapenthe sunt due speciales consonancie, de quibus supra. Sed semitonium cum dyapenthe est una consonancia, de qua primo ad propositum. Et iste modus habet fieri non alibi, nisi ubi semitonium in sexta voce reperitur. Cuius quidem semitonii cum dyapenthe exemplum tale sequitur:</p>
+      <p id="SZYDMUS0238">[Szydlovite, Musica magistri, 31,3; text: c, F, Exemplum de semitonio cum dyapenthe.]</p>
+      <p id="SZYDMUS0239">Tonus cum dyapenthe nonus modus. Et diffinitur sic: Est saltus de una voce in sextam potenter et viriliter seu perfecte sonans, et dicitur a "tono" et "dyapenthe". Vel sic: Tonus cum dyapenthe est distancia constans ex quatuor tonis et semitonio, ut patet practicanti. Et habet fieri eciam duobus modis, scilicet ascendendo et descendendo de una voce in sextam in fine sexte tonum includendo. Unde versus:</p>
+      <p id="SZYDMUS0240">Tonum cum dyapenthe poteris quemque iugare.</p>
+      <p id="SZYDMUS0241">
+      <pb n="[32]" />Cuius quidem modi declaratum patet hic in exemplo:</p>
+      <p id="SZYDMUS0242">[Szydlovite, Musica magistri, 32,1; text: F, [Gamma], c, f]</p>
+      <p id="SZYDMUS0243">Exemplum de tono cum dyapenthe.</p>
+      <p id="SZYDMUS0244">Dyapason seu ultimus modus de numero aliorum, de quibus supra dictum est. Ille sic diffinitur: Est saltus de una voce in octavam dulcissime sonans. Vel sic: Est distancia musicalis constans ex quinque tonis et duobus semitoniis, ut faciendo saltum a [Gamma] greco ad G grave, quod ponitur in ventre auricularis. Et dicitur a "dya", quod est de, et "pan", quod est totum, et "son", quod est sonus, quasi modus continens in se omnem sonanciarum et distanciarum sonos.</p>
+      <p id="SZYDMUS0245">Et habet fieri dupliciter, scilicet ascendendo et descendendo de una in octavam. Unde versus:</p>
+      <p id="SZYDMUS0246">Complectens octo superadditur his dyapason.</p>
+      <p id="SZYDMUS0247">Cuius declaracio sic ostendi potest:</p>
+      <p id="SZYDMUS0248">[Szydlovite, Musica magistri, 32,2; text: F, [Gamma], c, f]</p>
+      <p id="SZYDMUS0249">Exemplum de dyapason.</p>
+      <p id="SZYDMUS0250">Ex omnibus igitur iam dictis patet talis conclusio: Tantum novem sunt modi principales apud musicos tam veteres quam modernos communiter usitati, specifice et formaliter distincti, sic quod non plures ad alios reducibiles. Et hoc non computando unisonum pro primo modo, ut dictum est. Et sunt isti per ordinem, scilicet semitonium, tonus, semiditonus, ditonus et cetera. Dicuntur in conclusione "communiter usitati" propter illos tres, scilicet tritonum, de quo supra, semiditonum cum dyapenthe et ditonum cum dyapenthe, de quibus patebit. Qui quidem tres modi non sunt usitati. Alie autem particule in conclusione posite faciliter intelligi possunt. Isti autem novem modi usitati satis clare patent in isto tropo sequenti, scilicet: Ter terni sunt modi:</p>
+      <p id="SZYDMUS0251">[Szydlovite, Musica magistri, 32,3; text: c, f, Ter terni sunt modi, quibus omnis cantilena contexitur, scilicet unisonus, semitonium, tonus, semiditonus, ditonus, dyatheseron, dyapenthe, semitonium cum dyapenthe, tonus cum dyapenthe et hic modus dyapason. Si quem delectat cantus, hos modos scire oportet.] 
+      <figure>
+        <graphic url="/images/SZYDMUS_09GF.gif" />
+      </figure></p>
+      <p id="SZYDMUS0252">
+      <pb n="[33]" />[Szydlovite, Musica magistri, 33,1; text: c, f, g, Cumque tam paucis clausulis tota armonia formetur utilissimum est eas alte memorie comendare, nec ab huius modi studio resilire, donec vocum intervallis agnitis armonie tocius facilime queat comprehendere noticiam, Evovae.]</p>
+      <p id="SZYDMUS0253">Consequenter notandum est, quod sunt quidam musici, qui ultra istos novem modos, de quibus luculentissime patet in isto tropo prenotato, adhuc addunt tres modos inusitatos, scilicet tritonum, de quo supra, semiditonum cum dyapenthe et ditonum cum dyapenthe. Unde semiditonus cum dyapenthe potest sic describi: Est ascenssus vel descenssus de una voce in septimam debiliter et imperfecte sonans. Vel sic: Est distancia constans ex quatuor tonis et duobus semitoniis, quod patet in hoc exemplo:</p>
+      <p id="SZYDMUS0254">[Szydlovite, Musica magistri, 33,2; text: F, [Gamma], c, g] 
+      <figure>
+        <graphic url="/images/SZYDMUS_10GF.gif" />
+      </figure></p>
+      <p id="SZYDMUS0255">Exemplum de semiditono cum dyapenthe.</p>
+      <p id="SZYDMUS0256">Sed ditonus cum dyapenthe sic potest diffiniri: Est ascenssus vel descenssus de una voce in septimam potenter et viriliter sonans. Vel sic: Ditonus cum dyapenthe est distancia constans ex quinque tonis et semitonio, in fine septime tonum includendo. Et habet fieri duobus modis, scilicet ascendendo et descendendo, quod patet in hoc exemplo:</p>
+      <p id="SZYDMUS0257">[Szydlovite, Musica magistri, 33,3; text: c, F, g, dd]</p>
+      <p id="SZYDMUS0258">Exemplum de ditono cum dyapenthe.</p>
+      <p id="SZYDMUS0259">Sufficiencia omnium modorum tam usitatorum, quam inusitatorum est ista: Omnis cantus, quocumque modo formatur, vel fit in una resonancia vel in pluribus. Si in una, et sic causatur unisonus. Si vero in pluribus, et hoc est septem modis. Quia vel talis resonancia fit in secunda, et hoc est dupliciter: vel in secunda debiliter intensa vel remissa, et sic est semitonium; vel potenter et viriliter intensa vel remissa, sic fit ipse tonus. Si autem fit in tercia, hoc est eciam dupliciter: vel talis tercia debiliter intenditur vel remittitur, et sic committitur 
+      <pb n="[34]" />semiditonus, vel perfecte et viriliter, et sic causatur ditonus. Si vero talis resonancia fit in quarta, hoc iterum dupliciter: vel talis quarta est debilis, sic est dyatheseron, vel potens et inusitata, sic est ipse tritonus. Sed si in quinta, illa resonancia semper est dulcis et vocatur greco nomine dyapenthe; vel in sexta, hoc eciam est dupliciter: vel talis sexta habetur imperfecta, et sic est semitonium cum dyapenthe, vel perfecta et potens, et sic est ipse tonus cum dyapenthe. Si autem talis resonancia causatur in septima, hoc eciam contingit dupliciter: vel imperfecte, et sic est semiditonus cum dyapenthe, vel perfecte, et sic est ditonus cum dyapenthe. Octava autem illa semper potenter et viriliter sonat et vocatur greco nomine dyapason.</p>
+      <p id="SZYDMUS0260">[Szydlovite, Musica magistri, 34,1; text: c, f, Omnes modos volentes scire hoc breve tenete memoria.]</p>
+      <p id="SZYDMUS0261">Capitulum octavum.</p>
+      <p id="SZYDMUS0262">Coniuncta secundum intencionem Joannis Olendrini diffinitur sic: "Est secundum vocem hominis vel instrumenti de tono in semitonium et e converso de semitonio in tonum transicio." Et non est intelligendum, quod tonus omnis mutaretur in semitonium vel e converso, quia hoc fieri non potest, ex quo inter se distinguuntur specifice et differunt penes perfectum et imperfectum. Sed sic est intelligendum, quod in eo loco, in quo solebat fieri semitonium, per coniunctam fit tonus et e converso, ubi solebat fieri tonus per coniunctam fit semitonium.</p>
+      <p id="SZYDMUS0263">Notandum primo, quod omnis coniuncta per b molle signata vocatur fa, sed per h quadrum signata dicitur mi.</p>
+      <p id="SZYDMUS0264">Secundo sciendum, quod octo sunt conjuncte in numero: quatuor superiores et quatuor inferiores.</p>
+      <p id="SZYDMUS0265">Unde prima coniuncta accipitur inter A grave et h durum grave, hoc est inter A re et h mi et signatur in h duro gravi per b molle, et erit ibi fa loco mi per mutacionem ut in sol in C fa ut, quod est contra naturam manus musice, ita quod ad A re veniet mi, et ad [Gamma] ut: re, que omnia sunt contra naturam manus musice. Et patet hec coniuncta in illo responsorio de beata virgine "Sancta et immaculata virginitas", ubi in illo loco eiusdem responsorii, scilicet "non poterant", sub illa diccione "poterant" fit descenssus usque ad [Gamma] ut, et ibi in tali descenssu comittitur prima coniuncta. Et hoc est verum, dum modo incipitur tale responsorium in D gravi, ut hic patet:</p>
+      <p id="SZYDMUS0266">[Szydlovite, Musica magistri, 34,2; text: F, [Gamma], Sancta et immaculata non poterant]</p>
+      <p id="SZYDMUS0267">
+      <pb n="[35]" />Consimiliter hec eadem coniuncta haberi potest in illo responsorio, quod canitur tempore quadragesimali, scilicet "Emendemus" in loco, quo decanitur "miserere", ubi eciam fit descenssus usque ad [Gamma] ut. Et hoc est verum, dummodo idem responsorium incipitur in A re, quod sic patet:</p>
+      <p id="SZYDMUS0268">[Szydlovite, Musica magistri, 35,1; text: F, [Gamma], Emendemus, attende domine et miserere]</p>
+      <p id="SZYDMUS0269">Unde notandum est, quod hec coniuncta prima in pluribus locis canitur regularium. Posset causari et maxime in cantibus directis secundi toni, ut puta in responsoriis, introitibus et multis aliis cantibus. Sed tamen advertendum est, quodsi aliquis vellet evitare talem coniunctam primam in predictis cantibus, tunc eosdem cantus aliter et aliter incipiat. Unde si aliquis vult evitare coniunctam in illo responsorio "Sancta et immaculata virginitas", tunc incipiat illud in a accuto, hoc est in primo a la mi re, et tunc nulla coniuncta poterit causari. Similiter ad evitandam coniunctam in "Emendemus" incipiatur in E gravi, id est in primo E la mi. Et sic evitabitur hec prima coniuncta seu primum vicium, ut patet in exemplis hic de utroque positis:</p>
+      <p id="SZYDMUS0270">[Szydlovite, Musica magistri, 35,2; text: c, F, Emendemus attende domine et miserere, Sancta et immaculata non poterant.] 
+      <figure>
+        <graphic url="/images/SZYDMUS_11GF.gif" />
+      </figure></p>
+      <p id="SZYDMUS0271">Secunda coniuncta accipitur inter D et E graves seu finales, hoc est inter D sol re et E la mi. Et signatur in E gravi per b molle, ita quod ibi erit fa loco mi. Que quidem secunda coniuncta patet in illa antifona "O crux gloriosa", que canitur "de sancta cruce" in loco, quo decanitur "o adoranda". Similiter eciam patet in illo responsorio "de concepcione virginis marie", scilicet "Gaude Maria" in loco, quo decanitur "interemisti".</p>
+      <p id="SZYDMUS0272">Si autem quis velit evitare hanc coniunctam secundam in responsorio predicto "o crux" et simili cantu, tunc responsorium predictum et cantus similes incipiat in E gravi. Exemplum:</p>
+      <p id="SZYDMUS0273">[Szydlovite, Musica magistri, 35,3; text: c, F, O crux gloriosa,]</p>
+      <p id="SZYDMUS0274">
+      <pb n="[36]" />[Szydlovite, Musica magistri, 36,1; text: c, F, o crux adoranda, O crux gloriosa, o crux adoranda.]</p>
+      <p id="SZYDMUS0275">Tercia coniuncta accipiter inter F et G graves, id est inter primum G sol re ut. Et signatur in F gravi per h durum, sic quod erit ibi mi loco fa. Que quidem coniuncta clare patet in illa communione "Beatus servus" in loco, quo decanitur "invenerit vigilantem". Et hoc est verum, si incipitur in E gravi. Descendendo enim cum illis diccionibus, scilicet "invenerit vigilantem" ab a accuto contingit fieri mi in fa per coniunctam, quod satis clare patet in hoc exemplo:</p>
+      <p id="SZYDMUS0276">[Szydlovite, Musica magistri, 36,2; text: c, F, Beatus servus Jnvenerit vigilantem]</p>
+      <p id="SZYDMUS0277">Similiter eciam patet eadem coniuncta in illo responsorio de "assumcione gloriose virginis", videlicet "Que est ista" in loco, quo decantatur "per desertum". Et hoc est verum, si incipiatur in E gravi, quod sic patet:</p>
+      <p id="SZYDMUS0278">[Szydlovite, Musica magistri, 36,3; text: c, F, g, f, Que est ista que ascendit per desertum.] 
+      <figure>
+        <graphic url="/images/SZYDMUS_12GF.gif" />
+      </figure></p>
+      <p id="SZYDMUS0279">Si autem in predictis cantibus hanc coniunctam terciam evitare volueris, ex tunc eosdem cantus incipias in a accuto, id est in primo a la mi re et sic coniunctam ipsam evitare poteris, quod sic patet:</p>
+      <p id="SZYDMUS0280">[Szydlovite, Musica magistri, 36,4; text: c, F, g, Beatus servus Invenerit vigilantem. Que est ista que ascendit per desertum.]</p>
+      <p id="SZYDMUS0281">Quarta coniuncta accipitur inter G grave et a accutum minutum. Et signatur in a accuto per b molle, et erit ibi fa loco mi. Et patet hec coniuncta in illo offertorio "Justicie domini" in loco, quo decanitur "recte". Et hoc est verum, si incipiatur in E gravi, vel aliquando in 
+      <pb n="[37]" />D gravi. Similiter hec coniuncta patet in illo introitu "Letare". Et hoc est verum, si fit ascenssus ab F gravi per dyatheseron ad b molle accutum sub illa media syllaba, scilicet "ta" huius diccionis "Letare", scilicet sive eciam fit ascenssus ab F gravi ad G grave per tonum sol in re in G gravi mutata.</p>
+      <p id="SZYDMUS0282">Exemplum primi:</p>
+      <p id="SZYDMUS0283">[Szydlovite, Musica magistri, 37,1; text: c, F, Justicie Domini recte Letare.]</p>
+      <p id="SZYDMUS0284">Si autem in predicto offertorio quis coniunctam evitare voluerit, ex tunc ipsum incipiat in E gravi, hoc est in primo E la mi, quod patet in hoc exemplo:</p>
+      <p id="SZYDMUS0285">[Szydlovite, Musica magistri, 37,2; text: c, F, Justicie Domini recte.]</p>
+      <p id="SZYDMUS0286">Similiter si quis vult evitare coniunctam in predicto introitu, scilicet "Letare", incipiat eundem in F gravi et statim saltum faciat per ditonum ad a la mi re, ut hic patet in exemplo:</p>
+      <p id="SZYDMUS0287">[Szydlovite, Musica magistri, 37,3; text: c, F, Letare.]</p>
+      <p id="SZYDMUS0288">Quinta coniuncta accipitur inter c et d accutas, hoc est inter c sol fa ut et d la sol re. Et signatur in c accuto per h quadrum, ita quod erit ibi mi loco fa. Et hec coniuncta patet in illo iubilo "Alleluia", quod canitur de assumcione beate virginis marie, videlicet "Assumta est maria in celum". Et hoc est verum, si incipiatur in a accuto, id est in primo a la mi re, quod patet in hoc exemplo:</p>
+      <p id="SZYDMUS0289">[Szydlovite, Musica magistri, 37,4; text: Alleluia.] 
+      <figure>
+        <graphic url="/images/SZYDMUS_13GF.gif" />
+      </figure></p>
+      <p id="SZYDMUS0290">Si autem quis in predicto jubilo voluerit evitare conianctam, ex tunc incipiatur in G gravi, hoc est in primo G sol re ut, quod sic patet.</p>
+      <p id="SZYDMUS0291">[Szydlovite, Musica magistri, 37,5; text: g, c, Alleluia.]</p>
+      <p id="SZYDMUS0292">Potest eciam eadem coniuncta evitari in predicto iubilo, si scilicet incipiatur in F gravi, et tunc erit quinti toni, quod sic patet in hoc exemplo:</p>
+      <p id="SZYDMUS0293">
+      <pb n="[38]" />[Szydlovite, Musica magistri, 38,1; text: c, F, Alleluia.]</p>
+      <p id="SZYDMUS0294">Sexta coniuncta accipitur inter d et e accutas minutas, hoc est inter d la sol re et secundum e la mi. Et signatur in e accuto per b molle, ita quod ibi erit fa loco mi. Et hec coniuncta patet in illa antifona, que canitur in die cinerum, scilicet "Immutemur habitu" et cetera in loco, quo decanitur "ieiunemus". Et hoc est verum, si ibi tercia non elevatur, et maxime supra illam syllabam, "mus" huius diccionis "ieiunemus", quia si tercia elevabitur, tunc coniuncta non habet locum.</p>
+      <p id="SZYDMUS0295">Et hoc eciam est verum, si incipiatur in c accuto, ut hic patet:</p>
+      <p id="SZYDMUS0296">[Szydlovite, Musica magistri, 38,2; text: c, F, Immutemur Ieiunemus.]</p>
+      <p id="SZYDMUS0297">Similiter eciam hec coniuncta patet in illo responsorio, scilicet "Ite in orbem" in loco, que decanitur "universum" et maxime in quarta nota supra illam syllabam "sum" diccionis "universum", quod sic patet in exemplo:</p>
+      <p id="SZYDMUS0298">[Szydlovite, Musica magistri, 38,3; text: c, F, Ite in orbem universum.]</p>
+      <p id="SZYDMUS0299">Si autem quis in predictis cantibus coniunctam evitare voluerit, tunc eosdem cantus alibi incipiat, ut puta "Immutemur" et similiter "Ite in orbem" in g sol re ut, et nulla coniuncta comittetur, quod sic patet:</p>
+      <p id="SZYDMUS0300">[Szydlovite, Musica magistri, 38,4; text: c, f, Immutemur Ieiunemus. Ite in orbem universum.]</p>
+      <p id="SZYDMUS0301">Septima coniuncta accipitur inter f et g accutas minutas. Et signatur in f accuto per h durum, ita quod erit ibi mi loco fa. Et hec coniuncta patet in illa antifona, que canitur de "assumcione gloriose virginis marie", scilicet "Hodie maria virgo", in loco, quo decanitur "maria". Et hoc est verum, si incipitur in c accuto per secundum cantum h duralem, ut hic patet:</p>
+      <p id="SZYDMUS0302">[Szydlovite, Musica magistri, 38,5; text: g, c, Hodie maria virgo.] 
+      <figure>
+        <graphic url="/images/SZYDMUS_14GF.gif" />
+      </figure></p>
+      <p id="SZYDMUS0303">Si autem predictam coniunctam aliquis in hac antifona evitare voluerit, tunc incipiat dictam antifonam in E vel F gravi, id est in primo E la mi et primo F fa ut, et utroque evitari voluerit coniunctam, poterit, ut patet in his exemplis:</p>
+      <p id="SZYDMUS0304">[Szydlovite, Musica magistri, 38,6; text: c, f, Hodie maria virgo.]</p>
+      <p id="SZYDMUS0305">
+      <pb n="[39]" />Octava coniuncta accipitur inter g accutum et aa excellens geminatum. Et signatur in aa geminato per b molle, ita quod ibi erit fa loco mi. Huic tamen coniuncte non assignant musici locum determinatum, sed racioni comittunt, illo tamen non obstante, quod sagax est et subtilis cantor, qui sibi ipsi potest eam adinvenire exemplificando de ea sicut de predictis. Et tamen mihi nullatenus pro declaracione huius coniuncte potest assumi hic exemplum.</p>
+      <p id="SZYDMUS0306">Et hoc est verum, si incipiatur in e accuto in primo e la mi, et hoc per illam vocem, scilicet ut, licet ibi non sit, quod sic patet in hoc exemplo sequenti:</p>
+      <p id="SZYDMUS0307">[Szydlovite, Musica magistri, 39,1; text: g, c]</p>
+      <p id="SZYDMUS0308">Et tamen ad evitandum coniunctam hoc exemplum potest incipi in c accuto, quod sic patet in hoc exemplo sequenti:</p>
+      <p id="SZYDMUS0309">[Szydlovite, Musica magistri, 39,2; text: g, c]</p>
+      <p id="SZYDMUS0310">Et tantum de materia capituli octavi.</p>
+      <p id="SZYDMUS0311">Capitulum nonum.</p>
+      <p id="SZYDMUS0312">Notandum primo, quod duplex est cantus alicuius toni, scilicet quidam directus et quidam transpositus. Unde cantus directus est cantus, qui terminatur in clavibus gravibus, et hoc considerando claves secundum primam divisionem. Vel est cantus, qui terminatur in clavibus finalibus, quodem idem est, et hoc considerando claves secundum secundam divisionem, que sunt D, E, F, G, hoc est D sol re, E la mi, F fa ut, G sol re ut.</p>
+      <p id="SZYDMUS0313">Sed cantus transpositus est cantus, qui finitur in prioribus quatuor clavibus accutis, et hoc considerando claves secundum primam divisionem. Vel est cantus, qui finitur in clavibus affinalibus, et hoc considerando claves secundum secundam divisionem, que sunt a, b, c, d, hoc est primum a la mi re, primum b fa, h mi, c sol fa ut, d la sol re.</p>
+      <p id="SZYDMUS0314">Sed directus cantus tercii et quarti tonorum terminantur in E gravi seu finali, id est in primo E la mi. Cantus vero directus quinti et sexti tonorum terminantur in F gravi seu finali, id est in primo F fa ut. Cantus autem septimi et octavi tonorum directi terminantur in G gravi seu finali, quod idem est, hoc est in primo G sol re ut.</p>
+      <p id="SZYDMUS0315">De cantibus vero transpositis eodem modo iudicandum. Pro quo notandum tercio, quod cantus transpositi primi et secundi tonorum terminantur in a accuto seu affinali, quod idem est. Cantus vero tercii et quarti tonorum transpositi terminantur in h duro accuto seu affinali. Cantus vero transpositi quinti et sexti tonorum terminantur in c accuto seu affinali. Cantus autem transpositi septimi et octavi tonorum terminantur in d accuto seu affinali, hoc est in d la sol re. Que omnia luculenter seu manifeste patent in figura "psalterii decacordi", que sic solet figurari:</p>
+      <p id="SZYDMUS0316">
+      <pb n="[40]" />Ambitus et fines cantuum directorum in finalibus:</p>
+      <p id="SZYDMUS0317">[Szydlovite, Musica magistri, 40,1; text: Ambitus primi toni cantus directi, cuius finis in D gravi, tenor vero in a accuto, secundi, tercii, quarti, quinti, sexti, septimi, octavi, E, F, G, F, c, d, dd, g, [Gamma]]</p>
+      <p id="SZYDMUS0318">Ambitus et fines cantuum transpositorum in clavibus affinalibus:</p>
+      <p id="SZYDMUS0319">[Szydlovite, Musica magistri, 40,2; text: Ambitus primi toni cantus transpositi, cuius finis in a accuto, tenor vero in e accuto, secundi, tercii, quarti, quinti, sexti, septimi, octavi, [sqb] duro, c, d, g, aa super accuto. F, [Gamma]] 
+      <figure>
+        <graphic url="/images/SZYDMUS_15GF.gif" />
+      </figure></p>
+      <p id="SZYDMUS0320">
+      <pb n="[41]" />In ista figura, que dicitur "psalterium decacordum", a "deca", quod est "decem", et "corda", quasi quoddam instrumentum decem cordas in se continens, duo debes notare, primo, ubi cantus directus sive transpositus terminatur, et hoc ostendit maior nota quadrata in quolibet dyapason sive ambitu posita. Notabilis eciam, quod in eadem linea vel in eodem spacio semper cantus duorum tonorum terminantur, scilicet autenti et sui plagalis, id est imparis et sui paris.</p>
+      <p id="SZYDMUS0321">Secundo: ista in figura notabis dyapason sive ambitum, hoc est ascenssum vel descenssum regularem cuiuslibet toni. Quomodo videlicet note imparis toni bene possunt poni infra finalem clavem, ita quod tantum una nota infra finalem in linea vel in spacio poni potest, et hoc est secundum licenciam. Octo vero in linea vel in spacio supra finalem libere seu regulariter perambulant, excepto tantum quinto tono, in cuius cantu infra finalem clavem raro vel nunquam regulariter descenssus de una in secundam. Quod autem cantus quinti toni, qui finitur in F gravi, directus non possit infra suam finalem descendere per secundam, videlicet de F gravi in E grave, hoc non est racione alterius, nisi quod in cantibus aliorum tonorum imparium, dum fit descenssus a finali sede ad clavem immediatam, semper causatur tonus, hoc autem cantui quinti toni nunquam convenire potest, sive talis cantus fit directus sive transpositus, ut videlicet quod a finali clave quinti toni in proximam descendendo causaretur tonus, sicut in aliis cantibus aliorum tonorum imparium, ut patet practicanti, quoniam descendendo ab F gravi, ubi est sedes quinti toni cantus directi, ad E grave, hoc est ad E la mi, causatur semitonium de fa in mi et e converso descendendo de mi in fa, ut patet inspicienti.</p>
+      <p id="SZYDMUS0322">Quod autem in cantibus quinti toni inveniatur fieri descenssus de F gravi ad E grave per semitonium, hoc non fit racione sui ipsius, sed racione sui plagalis seu paris toni videlicet sexti, cuius cantus regulariter potest descendere a finali infra ad quartam inclusive.</p>
+      <p id="SZYDMUS0323">In cantibus autem tonorum parium quatuor note infra finalem libere seu regulariter perambulant eciam inclusive, ita quod ulterius ultra illam quartam seu ab illa quarta nota potest fieri descenssus de una in secundam licencialiter. Supra autem finalem notam iterum quinque note libere seu regulariter perambulant et hoc eciam includendo finalem, quia si non includeretur, tunc solum quatuor supra finalem libere perambularent. Quod autem aliquid possit addi supra vel infra octo notas regulariter sive libere in cantu perambulantes, hoc sit licencialiter. Que omnia clarissime patent in hac figura "decacordi". Et tantum de capitulo nono.</p>
+      <p id="SZYDMUS0324">Capitulum decimum de tenoribus.</p>
+      <p id="SZYDMUS0325">Tenor musicalis in genere diffinitur sic: Est spacium vel linea, in quo vel in qua "Evovae" alicuius toni, id est "seculorum amen", incipitur decantari.</p>
+      <p id="SZYDMUS0326">Et ita intelligatur de aliqua syllaba quinta vel quarta vel sexta vel aliqua alia secundum exigenciam quantitatis, et hoc concludendo versum tam in psalmis maioribus, 
+      <pb n="[42]" />quam minoribus. Unde per psalmos maiores in proposito intelliguntur illi tres psalmi, scilicet "Magnificat", qui sub vesperis decantatur, "Nunc dimittis", qui sub completorio modulatur, et "Benedictus", qui sub laudibus canitur. Per psalmos autem minores intelliguntur omnes alii preter istos tres iam enumeratos. Tales autem tenores in numero sunt octo, secundum quod octo sunt toni principales, de quibus infra.</p>
+      <p id="SZYDMUS0327">Notandum primo, quod tenor primi, quarti et sexti tonorum est in a accuto, id est in primo a la mi re. Demum tenor secundi toni est in F gravi, item tenor tercii et octavi et quinti tonorum est in c accuto, id est in c sol fa ut. Tenor autem septimi toni est in d accuto, id est in d la sol re. Et hoc quantum ad cantum directum, unde versus:</p>
+      <p id="SZYDMUS0328">A tenor est primi, quarti sextique tonorum,</p>
+      <p id="SZYDMUS0329">Atque secundus in F manet, tercius in c,</p>
+      <p id="SZYDMUS0330">Quintus et octavus similiter in c, septimus alcior illis.</p>
+      <p id="SZYDMUS0331">Quantum autem ad cantum transpositum, tenor primi et quarti, sexti tonorum est in e accuto, hoc est in secundo e la mi. Tenor vero secundi est in c accuto, tercii et septimi in g accuto, id est in secundo g sol re ut. Quinti autem et octavi est in f accuto, hoc est in secundo f fa ut.</p>
+      <p id="SZYDMUS0332">Notandum secundo, quod regula generalis de tenoribus, tam tenorum autentorum, quam plagalium est hec: Omnis, saltem capitalis toni, aut in fine tangit finalem sui toni aut non. Si non, tunc erit tenor autenti, id est imparis toni, si autem tangit, tunc est tenor plagalis, id est paris toni. Unde inicia tenorum omnium tonorum tam in cantu directo, quam in transposito, clare patent in hoc ipso tropo sequenti, ubi eciam et hec regula generalis satis lucide apprehendi et ostendi potest:</p>
+      <p id="SZYDMUS0333">[Szydlovite, Musica magistri, 42; text: c, F, g, I. II. III. IV. V. VI. VII. VIII. Evovae.]</p>
+      <p id="SZYDMUS0334">
+      <pb n="[43]" />Notandum tercio, quod quatuor sunt regule de tenoribus, quas assignat Theogerus in sua "musica". Quarum prima est ista: Nullus tonus incipit tenorem suum sub sua finali nec supra quintam a sua finali, sed bene in quinta vel infra. A qua regula excipitur tercius tonus, qui suum tenorem incipit in sexta supra suam finalem, quia cantus eius crudelis est et severus. Secunda regula: Omnis tonus autentus incipit tenorem suum duabus clavibus alcius, quam suus plagalis, et hoc supra suam finalem. Et ab hac regula excipitur tonus septimus, quia alcius una clave incipit tenorem suum, quam plagalis, videlicet octavus. Tercia regula: Omnes toni plagales reverberant suam finalem in fine sui tenoris. A qua regula excipiuntur toni autenti, qui non reverberant suam finalem. Et hec regula concordat cum illa generali, de qua immediate ante exemplificacionem tenorum dictum est.</p>
+      <p id="SZYDMUS0335">Quarta regula: Omnis tenor vel convertitur ad finalem, vel non. Si primum, tunc est tenor plagalis, id est tenor parium; si vero non, tunc est tenor autentorum, id est tenorum imparium. Ex his colligitur quinta regula, que est talis: Omnis tenor vel incipitur ultra quartam vel in quarta vel infra quartam. Si supra quartam, tunc est tenor autentorum, si in quarta vel infra quartam, tunc est tenor plagalium. Et tantum de capitulo presenti.</p>
+      <p id="SZYDMUS0336">Capitulum undecimum.</p>
+      <p id="SZYDMUS0337">Ambitus in genere sive dyapason diffinitur sic: Est aggregacio linearum cum spaciis, in quibus octo note cantus alicuius toni regulariter perambulant. Circa quam diffinicionem notandum est primo, quod dyapason sive ambitus alicuius toni, sive fuerit cantus directi sive transpositi, semper fit inter claves similes quoad vocem, sed dissimiles quoad denominacionem. Si autem in aliquibus cantibus addatur una nota infra vel supra octo notas regulares inter claves similes positas, hoc iam non est per regulam, sed pocius per licenciam, ut patuit in figura "psalterii decacordi".</p>
+      <p id="SZYDMUS0338">Secundo sciendum, quod regula in proposito est habitus, mediente quo nota in cantu alicuius ambitus additur infra clavem, a qua inchoatur ambitus alicuius toni, vel supra clavem, in qua terminatur ambitus alicuius toni. Verbi gracia ambitus primi toni cantus directi est inter D grave et d accutum, licencialiter autem potest addi nota in cantu eius primi toni infra vel supra dyapason, infra in C gravi, supra vero in e accuto. Et quicquid dicitur de ambitu in cantibus directis, hoc idem potest dici de ambitu in cantibus transpositis. Que omnia clare patent in his figuris ad modum circuli pro agnicione ambituum dispositis, et hoc tam de ambitibus cantuum directorum, quam eciam transpositorum.</p>
+      <p id="SZYDMUS0339">Qui quidem ambitus cantuum directorum eciam satis clare patere possunt in his versibus ipsius Theogeri, ubi inquit: 
+      <pb n="[44]" />[Szydlovite, Musica magistri, 44; text: "A gravis atque levis includunt clima secundi, H quoque gravis quartum cum h mensurat accuta". "C quoque te cohibet dulcissime sexte bifformis, D cubat in medio dominans de climate bino.", "E claudit triti vires geminata severi, F retinet quinti modulum duplicata modesti.", Hic continetur ambitus secundi toni cantus directi vel eius dyapason, ambitus primi toni, In ista figura, ambitus sexti toni, ambitus quinti toni, cantus transpositi in affinalibus, proprie claves secundi, communes utriusque quinque, claves proprie primi toni sunt iste tres, proprie claves sexti toni, claves proprie quinti toni, claves proprie secundi toni tres extreme, proprie primi toni, A, B, C, D, E, F, G, [sqb], a, [rob], c, d, e, f, g, aa] 
+      <figure>
+        <graphic url="/images/SZYDMUS_16GF.gif" />
+      </figure></p>
+      <p id="SZYDMUS0340">
+      <pb n="[45]" />[Szydlovite, Musica magistri, 45; text: "G quoque lascive duplex claudens reprimit te.", Hic continetur ambitus sexti toni cantus transpositi in affinalibus, ambitus quinti toni, ambitus quarti toni cantus directi sive eius dyapason, ambitus tercii toni, ambitus octavi toni, ambitus septimi toni, claves proprie sexti toni tres extreme, communes utriusque quinque, claves proprie quinti toni, proprie claves quarti toni, proprie claves tercii toni, proprie claves octavi toni, proprie claves septimi toni, C, D, E, F, G, [sqb], a, [rob], c, d, e, f, g, aa, [rob][rob], cc] 
+      <figure>
+        <graphic url="/images/SZYDMUS_17GF.gif" />
+      </figure></p>
+      <p id="SZYDMUS0341">
+      <pb n="[46]" />[Szydlovite, Musica magistri, 46; text: Hic continetur ambitus quarti toni cantus transpositi in affinalibus, ambitus tercii toni, ambitus octavi toni, ambitus septimi toni, claves proprie quarti toni tres, claves proprie tercii toni, claves proprie octavi toni, claves proprie septimi toni, communes utriusque quinque, F, G, a, [rob], c, d, e, f, g, aa, [rob][rob], cc, dd] 
+      <figure>
+        <graphic url="/images/SZYDMUS_18GF.gif" />
+      </figure></p>
+      <p id="SZYDMUS0342">[* * * * * * * * * *]</p>
+      <p id="SZYDMUS0343">Capitulum duodecimum.</p>
+      <p id="SZYDMUS0344">Notandum primo, quod de numero tonorum imparium, qui sunt quatuor, scilicet primus, tercius, quintus et septimus, quilibet eorum secundum latinos potest vocari hoc nomine: autentus, principalis, magister, dominus, pater, maior, frater. Omnes autem toni pares eciam sunt quatuor in numero: secundus, quartus, sextus et octavus; eciam fere ab omnibus musicis his nominibus appellantur, et primo: plagalis, subiugalis, discipulus, filius, servus, minor frater. Ita eciam de numero tonorum parium quilibet eorum secundum grecos aliam et aliam habet denominacionem. Unde primo et principaliter secundus vocatur plagalis prothei, quartus plagalis deutri, sextus vocatur plagalis triti, octavus plagalis tetrardi.</p>
+      <p id="SZYDMUS0345">Sciendum secundo, quod secundum grecam denominacionem unusquisque tonorum aliter et aliter denominatur. 
+      <pb n="[47]" />Unde primo et principaliter primus vocatur prothus, tercius vocatur deutrus, quintus vocatur tritus, septimus vocatur tetrardus. Secundum autem gentiles eciam quilibet tonus, sive par sive impar, aliam et aliam habet denominacionem. Unde de numero tonorum imparium primus vocatur dorius, tercius vocatur frigius, quintus vocatur lidius, septimus vocatur mixolidius. Consimiliter de numero parium tonorum quilibet eciam aliam et aliam habet denominacionem, eciam secundum gentiles. Unde primo et principaliter secundus vocatur ipodorius, quartus vocatur ipofrigius, sextus vocatur ipolidius, octavus vocatur ipomixolidius.</p>
+      <p id="SZYDMUS0346">Capitulum tredecimum.</p>
+      <p id="SZYDMUS0347">Tonus improprie captus et in genere ad omnes describitur sic: Tonus est discrecio principii, medii et finis cuiuslibet cantus regularis directi vel transpositi. In qua quidem diffinicione tria tanguntur per ordinem. Unde primo et principaliter dicitur "discrecio principii" ad innuendum, quod in principio cantus discerni debet, an cantus sit principalis vel differencialis. Unde tonus principalis est ille, cuius cantus in finali sede magis quam alibi incipit. Et tales toni principales sunt octo, ut patuit in capitulo de tenoribus ipsorum. Et eciam hic de quolibet ipsorum per ordinem dicetur.</p>
+      <p id="SZYDMUS0348">Sed tonus differencialis est ille, cuius cantus et frequenter alibi, quam in finali sede incipit. Etsi enim contingit aliquando, quod cantus differencialis incipit in finali sede eciam sicut principales toni, tamen hoc non fit eodem modo, ut patet de principali primi toni, cuius cantus semper incipit in D gravi, et de prima differencia eiusdem, cuius eciam cantus aliquando incipit in D gravi, sed non eodem modo, quo principalis. Et tales differenciales sunt quam plures, ut patebit circa unumquemque tonum in speciali.</p>
+      <p id="SZYDMUS0349">Dicitur secundo in diffinicione "discrecio medii" ad innuendum, quod in medio debet discerni, an cantus sit paris vel imparis toni. Per "medium" autem intelligitur illud totum, quod mediat inter primam notam et ultimam ipsius cantus. Tercio in diffinicione dicitur "discrecio finis" ad innuendum, quod in fine cantus debet cognosci, an talis sit directus vel transpositus. Quoniam si aliquis cantus finitur in aliqua ex quatuor clavibus finalibus, ille semper directus vel regularis vocabitur. Si enim talis cantus finitur in D gravi seu finali, ille aut erit primi toni aut secundi, et an sit primi toni vel secundi, hoc debet videri in medio cantus, scilicet si a finali solum ascendit et descendit similiter, quoniam si solum ascendit a finali, tunc talis cantus iudicandus est primi toni, qui tonus est impar, cuius proprium est hoc, semper ascendere. Si autem talis cantus in D gravi terminatus a finali descendit et ascendit, ille iterum iudicandus est secundi toni, qui est tonus par, cuius est descendere et ascendere. Secundum quod vult Teogerus in suo "tonario", dicens:</p>
+      <p id="SZYDMUS0350">"Vult descendere par, ascendere vult tonus impar."</p>
+      <p id="SZYDMUS0351">Si autem aliquis cantus finalis in E gravi, ille iterum aut erit tercii toni aut quarti; et an tercii vel quarti iudicandum 
+      <pb n="[48]" />est eodem modo, sicut de primo et de secundo exemplificatum est, scilicet per ascenssum et descenssum a finali. Si vero aliquis cantuum terminetur in F gravi, ille iterum erit aut quinti aut sexti toni; an quinti vel sexti toni, hoc per ascenssum vel et descenssum cognosci debet, ut primo dictum est. Sed si aliquis cantus terminatur in G gravi, talis semper aut erit septimi aut octavi toni, quod eciam per ascenssum et descenssum a sede finali cognosci debet. Et hoc dictum intelligatur de cantu directo. Si autem cantus finiatur in aliquo clavium ex quatuor clavibus affinalibus, de quibus supra, tunc talis cantus erit transpositus. Quoniam si cantus terminatur in a accuto, tunc ille aut erit primi aut secundi, si vero in h duro accuto minuto, talis erit tercii vel quarti toni. Sed si finitur in c accuto, tunc erit aut quinti aut sexti toni. Si vero in d accuto finiatur, ille iterum aut erit septimi aut octavi toni cantus transpositi. Et de his omnibus, scilicet an sit paris vel imparis toni, eodem modo iudicandum est, sicut et de tonis directis dictum est.</p>
+      <p id="SZYDMUS0352">Ne tamen aliquis circa agnicionem tonorum decipiatur, notande sunt hec quatuor regule generales sive communes autentis et plagalibus tonis deservientes. Quarum prima est hec: Quilibet cantus tangens sepius quintam vocem supra suam finalem et non descendens sub sua finali, sub dubio toni autenti debet iudicari.</p>
+      <p id="SZYDMUS0353">Secunda regula: Quilibet cantus quartam descendens sepius sub suam finalem, si tangit quintam clavem semel vel raro, sed quartam sepius, necesse est, ut plagali tono adiudicetur.</p>
+      <p id="SZYDMUS0354">Tercia regula: Quilibet cantus, sive descendit sive non, si non tangit quintam supra finalem, plagalibus tonis talis ascribi debet.</p>
+      <p id="SZYDMUS0355">Quarta regula: Quilibet cantus, si tociens repercutit quintam supra se, quociens repercutit sub se, est sub imperio plagalis toni.</p>
+      <p id="SZYDMUS0356">Et hec regule habent se per modum condiccionum ad examen tonorum requisitarum.</p>
+      <p id="SZYDMUS0357">Specialiter autem de unoquoque tonorum pertractando, quantum ad primum tonum, notandum est primo, quod principalis differencia primi toni sic decantatur:</p>
+      <p id="SZYDMUS0358">[Szydlovite, Musica magistri, 48,1; text: c, F, Si quis singulorum.]</p>
+      <p id="SZYDMUS0359">Et regit proprie cantus in D gravi surgentes, aliquando gradatim et aliquando non.</p>
+      <p id="SZYDMUS0360">[Szydlovite, Musica magistri, 48,2; text: f, Exemplum primi: Exemplum secundi: Ecce crucem. Euge serve. Majorem caritatem. Ecce nomen Domini.]</p>
+      <p id="SZYDMUS0361">Notandum secundo, quod primus tonus habet duplices differencias, scilicet quasdam usitatas et quasdam inusitatas, de numero quarum inusitatarum prima sic solet decantari:</p>
+      <p id="SZYDMUS0362">[Szydlovite, Musica magistri, 48,3; text: F, Evovae.]</p>
+      <p id="SZYDMUS0363">
+      <pb n="[49]" />Et regit cantus ab F gravi surgentes immediate per dyatheseron ad C grave salientes, quod patet in hoc exemplo:</p>
+      <p id="SZYDMUS0364">[Szydlovite, Musica magistri, 49,1; text: c, F, Traditor autem. Tecum principium.] 
+      <figure>
+        <graphic url="/images/SZYDMUS_19GF.gif" />
+      </figure></p>
+      <p id="SZYDMUS0365">Secunda differencia inusitata sic solet decantari, que secundum antiquos curialis dicitur:</p>
+      <p id="SZYDMUS0366">[Szydlovite, Musica magistri, 49,2; text: F, Evovae.]</p>
+      <p id="SZYDMUS0367">Et regit cantus ab F gravi, sicut et prior, surgentes, sed aliter. Nam primo fit saltus ab F gravi per tonum ad G grave et e converso de G gravi in F eciam grave per tonum et sic consequenter de aliis, ut patet in hoc exemplo:</p>
+      <p id="SZYDMUS0368">[Szydlovite, Musica magistri, 49,3; text: F, Speciosus forma.]</p>
+      <p id="SZYDMUS0369">Sed harum duarum differenciarum cantus modernis temporibus sub principali primi toni comprehenditur.</p>
+      <p id="SZYDMUS0370">Tercia differencia sic solet decantari:</p>
+      <p id="SZYDMUS0371">[Szydlovite, Musica magistri, 49,4; text: F, Evovae.]</p>
+      <p id="SZYDMUS0372">Et regit cantus in C gravi surgentes immediate ad D grave per tonum salientes et tandem de D gravi in F grave per semiditonum ascendentes, quod sic patet in exemplo:</p>
+      <p id="SZYDMUS0373">[Szydlovite, Musica magistri, 49,5; text: Virgo Dei genitrix. Ecce ego mitto vos.]</p>
+      <p id="SZYDMUS0374">Sed istius differencie cantus modernis temporibus sub secundo differenciali comprehenditur, de quo inferius patebit.</p>
+      <p id="SZYDMUS0375">Notandum tercio: Differencie usitate primi toni in numero sunt quinque, de numero quarum prima sic decanitur:</p>
+      <p id="SZYDMUS0376">[Szydlovite, Musica magistri, 49,6, text: F, Evovae.]</p>
+      <p id="SZYDMUS0377">Et regit cantus a D gravi surgentes immediate ad a accutum per dyapenthe salientes et tandem ab a ad c accutum per semiditonum ascendentes, quod patet in his exemplis:</p>
+      <p id="SZYDMUS0378">[Szydlovite, Musica magistri, 49,7; text: c, F, Da pacem. Hii sunt. Vos amici mei estis. Vadam ad portas.]</p>
+      <p id="SZYDMUS0379">Regit eciam eadem differencia aliquando cantus in G gravi surgentes per hunc modum, sed raro:</p>
+      <p id="SZYDMUS0380">
+      <pb n="[50]" />Exemplum:</p>
+      <p id="SZYDMUS0381">[Szydlovite, Musica magistri, 50,1; text: c, F, Et sic de aliis.]</p>
+      <p id="SZYDMUS0382">[Text fehlt.]</p>
+      <p id="SZYDMUS0383">Secunda differencia primi toni sic solet decantari:</p>
+      <p id="SZYDMUS0384">[Szydlovite, Musica magistri, 50,2; text: F, Evovae.]</p>
+      <p id="SZYDMUS0385">Et regit cantus quocumque modo in E gravi surgentes, sive graviter sive leviter. Leviter sicut "Ecce ego mitto vos", graviter "Gaudeamus", et sic de aliis similibus exemplis:</p>
+      <p id="SZYDMUS0386">[Szydlovite, Musica magistri, 50,3; text: Ecce ego mitto vos. Virgo Dei genitrix. Gaudeamus. Stanislaus. Parata. Suscepimus.]</p>
+      <p id="SZYDMUS0387">Regit eciam eadem differencia aliquando cantus in A gravi surgentes, ut hic patet:</p>
+      <p id="SZYDMUS0388">[Szydlovite, Musica magistri, 50,4; text: F, [Gamma], Fidelis sermo.]</p>
+      <p id="SZYDMUS0389">Tercia differencia primi toni illa sic decanitur:</p>
+      <p id="SZYDMUS0390">[Szydlovite, Musica magistri, 50,5; text: F, Evovae.]</p>
+      <p id="SZYDMUS0391">Et regit cantus ab F gravi surgentes aliquando gradatim, aliquando vero non gradatim ad a accutum surgentes:</p>
+      <p id="SZYDMUS0392">[Szydlovite, Musica magistri, 50,6; text: F, Exemplum primi: Exemplum secundi: Nisi tu Domine. Inclinavit.] 
+      <figure>
+        <graphic url="/images/SZYDMUS_20GF.gif" />
+      </figure></p>
+      <p id="SZYDMUS0393">Quarta differencia primi toni sic solet decantari:</p>
+      <p id="SZYDMUS0394">[Szydlovite, Musica magistri, 50,7; text: F, Evovae.]</p>
+      <p id="SZYDMUS0395">Et regit cantus ab F gravi surgentes infra gradatim descendentes, quod sic patet:</p>
+      <p id="SZYDMUS0396">[Szydlovite, Musica magistri, 50,8; text: F, Volo Pater. Reges Tharsis.]</p>
+      <p id="SZYDMUS0397">Quinta differencia eiusdem primi toni sic decanitur:</p>
+      <p id="SZYDMUS0398">[Szydlovite, Musica magistri, 50,9; text: F, Evovae.]</p>
+      <p id="SZYDMUS0399">Et regit cantus in F gravi surgentes immediate ab F gravi ad a accutum per ditonum salientes, quod patet in his exemplis:</p>
+      <p id="SZYDMUS0400">[Szydlovite, Musica magistri, 50,10; text: F, Estote fortes in bello. Apertis thesauris suis.]</p>
+      <p id="SZYDMUS0401">
+      <pb n="[51]" />Eadem eciam differencia quinta et ultima primi toni regit cantus in a accuto quocumque modo surgentes, quod sic patet:</p>
+      <p id="SZYDMUS0402">[Szydlovite, Musica magistri, 51,1; text: F, Beati omnes. Exi citto. Salve.]</p>
+      <p id="SZYDMUS0403">Notandum quarto, quod psalmi minores quoad primum tonum sub hac forma in principio, medio et in fine modulantur, quod sic patet:</p>
+      <p id="SZYDMUS0404">[Szydlovite, Musica magistri, 51,2; text: F, Primi toni melodia psallat indirecte.]</p>
+      <p id="SZYDMUS0405">Notandum quinto, quod psalmi maiores, scilicet "Magnificat", "Nunc dimittis" et "Benedictus", quoad primum tonum sub hac forma decanuntur:</p>
+      <p id="SZYDMUS0406">[Szydlovite, Musica magistri, 51,3; text: F, Magnificat anima mea Dominum. Nunc dimittis servum tuum Domine. Benedictus Dominus Deus Israel, Quoad differencialem.]</p>
+      <p id="SZYDMUS0407">Notandum sexto de conclusione versuum circa introitus primi toni, quod si tales introitus primi toni incipiuntur in C gravi quocumque modo, sive graviter sive leviter, tunc versus tales sic terminantur:</p>
+      <p id="SZYDMUS0408">[Szydlovite, Musica magistri, 51,4; text: F, Et in secula seculorum. Amen.]</p>
+      <p id="SZYDMUS0409">Exemplum de incepcione introitus in C gravi hic patet:</p>
+      <p id="SZYDMUS0410">[Szydlovite, Musica magistri, 51,5; text: F, Gaudeamus. Suscepimus.] 
+      <figure>
+        <graphic url="/images/SZYDMUS_21GF.gif" />
+      </figure></p>
+      <p id="SZYDMUS0411">Si vero introitus primi toni incipiantur in D gravi quocumque modo, sive graviter, sive leviter, tunc versus sic terminantur:</p>
+      <p id="SZYDMUS0412">[Szydlovite, Musica magistri, 51,6; text: F, Et in secula seculorum. Amen.]</p>
+      <p id="SZYDMUS0413">De incepcione in D gravi:</p>
+      <p id="SZYDMUS0414">[Szydlovite, Musica magistri, 51,7; text: F, Gaudete in Domino. Exsurge.]</p>
+      <p id="SZYDMUS0415">Similiter hic, scilicet graviter:</p>
+      <p id="SZYDMUS0416">[Szydlovite, Musica magistri, 51,8; text: F, Da pacem.]</p>
+      <p id="SZYDMUS0417">
+      <pb n="[52]" />Si autem introitus primi toni inchoatur in F gravi, vel in a accuto quocumque modo, tunc versus eius semper hic terminantur reflexive, ut hic:</p>
+      <p id="SZYDMUS0418">[Szydlovite, Musica magistri, 52,1; text: F, Et in secula seculorum. Amen.]</p>
+      <p id="SZYDMUS0419">Exemplum de incepcione introitus, et primo ab F gravi quocumque modo, hic patet:</p>
+      <p id="SZYDMUS0420">[Szydlovite, Musica magistri, 52,2; text: F, Exemplum in a accuto: Exclamaverunt. Misereris. Lex Domini.]</p>
+      <p id="SZYDMUS0421">Inchoatur autem talis versus introituum primi toni sicut et "Magnificat", scilicet in F gravi, quod sic patet:</p>
+      <p id="SZYDMUS0422">[Szydlovite, Musica magistri, 52,3; text: F, Gloria Patri, et Filio, et Spiritui sancto sicut erat [in principio infra], et nunc, et semper. Amen. Eructavit cor meum verbum bonum dico ego [opera infra] mea regi.]</p>
+      <p id="SZYDMUS0423">Notandum septimo, quod versus circa responsoria primi toni aliquando incipiuntur in a accuto et tunc finiuntur in F gravi, aliquando vero incipiuntur in D gravi et ibidem finiuntur. Si autem inveniantur alibi incipi preter D grave vel a accutum, non penitus contra artem, sed talis incepcio est impropria. Exemplum primi:</p>
+      <p id="SZYDMUS0424">[Szydlovite, Musica magistri, 52,4; text: F, Ave Maria gratia plena Dominus tecum.]</p>
+      <p id="SZYDMUS0425">Exemplum de D gravi leviter sic patet in isto exemplo:</p>
+      <p id="SZYDMUS0426">[Szydlovite, Musica magistri, 52,5; text: c, F, Cherubim quoque ac Seraphim sanctus proclamant et omnes celicus ordo diversus.] 
+      <figure>
+        <graphic url="/images/SZYDMUS_22GF.gif" />
+      </figure></p>
+      <p id="SZYDMUS0427">Notandum octavo non tantum circa istum primum tonum, sed eciam circa omnes alios, quod circa decantacionem psalmorum maiorum, item eciam circa versus introituum, circa versus responsoriorum et generaliter circa omnes alios cantus preter psalmos minores, non 
+      <pb n="[53]" />est attendenda quantitas metrica, quia quantitas mellica non subiacet mensuracioni metrice nec mensuracioni prosaice.</p>
+      <p id="SZYDMUS0428">Notandum nono: Claves iniciales, a quibus poterint inchoari cantus primi toni sunt iste, scilicet A, C, D, F, g. Unde versus:</p>
+      <p id="SZYDMUS0429">A retinet C, D, F simul g sibi primus.</p>
+      <p id="SZYDMUS0430">Decimo et ultimo notandum: Proprietas primi toni est ista, scilicet movere ipsos homines ad gaudium, leticiam et ad iocunditatem. Unde Theogerus in sua "musica" sic inquit:</p>
+      <p id="SZYDMUS0431">"Mobilis est abilisque prothus, quia movit ad omnes</p>
+      <p id="SZYDMUS0432">Affectus animi flectere neuma prothi."</p>
+      <p id="SZYDMUS0433">Et tantum de primo tono racione brevitatis.</p>
+      <p id="SZYDMUS0434">De secundo tono.</p>
+      <p id="SZYDMUS0435">Circa secundum tonum notandum est primo, quod principalis eius differencia sic decanitur:</p>
+      <p id="SZYDMUS0436">[Szydlovite, Musica magistri, 53,1; text: F, Evovae.]</p>
+      <p id="SZYDMUS0437">Et regit cantus in A, C, D, F gravibus surgentes, similiter et in E gravi, sed raro, de quibus omnibus exempla patent:</p>
+      <p id="SZYDMUS0438">[Szydlovite, Musica magistri, 53,2; text: F, Salve. Ait Petrus. Ortus de Polonia. Ecce maria. Beati omnes. Oblatus est.]</p>
+      <p id="SZYDMUS0439">Notandum secundo, quod secundus tonus tantum unam habet differenciam et hoc inusitatam, que quidem differencia inusitata sic solet decantari:</p>
+      <p id="SZYDMUS0440">[Szydlovite, Musica magistri, 53,3; text: F, Evovae.]</p>
+      <p id="SZYDMUS0441">Et regit cantus solum in G greco surgentes, quod sic patet:</p>
+      <p id="SZYDMUS0442">[Szydlovite, Musica magistri, 53,4; text: F, [Gamma], Educ de carcere.]</p>
+      <p id="SZYDMUS0443">Notandum tercio, quod psalmi minores quoad secundum tonum sic intonantur:</p>
+      <p id="SZYDMUS0444">[Szydlovite, Musica magistri, 53,5; text: F, Secundum in fine et in medio sic variabis. Dixit Dominus Domino meo sede a dextris meis.]</p>
+      <p id="SZYDMUS0445">Notandum quarto de intonacione psalmorum maiorum circa secundum tonum, quod illi semper sub hac, que sequitur, forma intonantur:</p>
+      <p id="SZYDMUS0446">
+      <pb n="[54]" />[Szydlovite, Musica magistri, 54,1; text: F, Magnificat anima mea Dominum. Nunc dimittis et cetera. Benedictus et cetera.] 
+      <figure>
+        <graphic url="/images/SZYDMUS_23GF.gif" />
+      </figure></p>
+      <p id="SZYDMUS0447">Notandum quinto, quod versus circa introitus secundi toni semper in C gravi incipiuntur, ut et "Magnificat", et terminantur in D gravi, quod sic patet:</p>
+      <p id="SZYDMUS0448">[Szydlovite, Musica magistri, 54,2; text: F, Gloria Patri, et Filio, et Spiritui sancto sicut erat in principio, et nunc, et semper, et in secula seculorum. Amen.]</p>
+      <p id="SZYDMUS0449">Exemplum de incepcione introituum et primo ab A gravi, secundo a C:</p>
+      <p id="SZYDMUS0450">[Szydlovite, Musica magistri, 54,3; text: F, Cibavit. Salve sancta. Mihi autem nimis.]</p>
+      <p id="SZYDMUS0451">Notandum sexto, quod versus responsoriorum secundi toni aliquando incipiuntur in C gravi, aliquando vero eciam in D gravi, sed semper in D gravi finiuntur. Si autem aliquando alibi inveniantur incipi, hoc est improprie:</p>
+      <p id="SZYDMUS0452">[Szydlovite, Musica magistri, 54,4; text: F, Ave Maria gracia plena Dominus tecum. Exemplum secundi: Loquebantur variis linguis apostoli magnalia Dei.]</p>
+      <p id="SZYDMUS0453">Notandum septimo, quod claves iniciales, a quibus cantus secundi toni possunt incipi, sunt hec, scilicet</p>
+      <p id="SZYDMUS0454">[Gamma] grecum, A, C, D, E, F. Unde versus:</p>
+      <p id="SZYDMUS0455">[Gamma] ut, A re, C fa ut,</p>
+      <p id="SZYDMUS0456">D sol re, E la mique.</p>
+      <p id="SZYDMUS0457">Notandum octavo, quod proprietas toni secundi est flebilem, tristem et gravem efficere melodiam. Convenit enim cantus secundi toni hominibus tristibus, puta melancolicis, incarceratis et captivis. Propter quod eciam in antifonis ecclesie tristibus modulatur, videlicet in adventu et tempore quadragesimali. Versus:</p>
+      <p id="SZYDMUS0458">Flebilis atque gravis est primi collateralis;</p>
+      <p id="SZYDMUS0459">Tristibus et miseris convenit ille tonus.</p>
+      <p id="SZYDMUS0460">
+      <pb n="[55]" />De tercio tono.</p>
+      <p id="SZYDMUS0461">Circa quem notandum est primo, quod principalis differencia tercii toni sic decanitur:</p>
+      <p id="SZYDMUS0462">[Szydlovite, Musica magistri, 55,1; text: c, Evovae.]</p>
+      <p id="SZYDMUS0463">Et regit cantus in E gravi quocumque modo surgentes, ut patet in his exemplis:</p>
+      <p id="SZYDMUS0464">[Szydlovite, Musica magistri, 55,2; text: F, O gloriosum. Maria.]</p>
+      <p id="SZYDMUS0465">Notandum secundo, quod tercius tonus habet differencias quatuor in numero, de numero quarum prima sic decanitur:</p>
+      <p id="SZYDMUS0466">[Szydlovite, Musica magistri, 55,3; text: c, Evovae.] 
+      <figure>
+        <graphic url="/images/SZYDMUS_24GF.gif" />
+      </figure></p>
+      <p id="SZYDMUS0467">Et regus cantus in F gravi surgentes et semper infra tendentes, quod sic patet:</p>
+      <p id="SZYDMUS0468">[Szydlovite, Musica magistri, 55,4; text: c, F, Quando nata est. Jesu Christe. Traditur ergo a patre.]</p>
+      <p id="SZYDMUS0469">Secunda differencia tercii toni sic solet decantari:</p>
+      <p id="SZYDMUS0470">[Szydlovite, Musica magistri, 55,5; text: c, Evovae.]</p>
+      <p id="SZYDMUS0471">Et regit cantus in G gravi surgentes immediate per tonum ad a accutum salientes et tandem de a accuto ad c accutum per semiditonum ascendentes, ut hic:</p>
+      <p id="SZYDMUS0472">[Szydlovite, Musica magistri, 55,6; text: c, F, Tu Domine universorum. Tollite portas. Elizabeth Zacharie.]</p>
+      <p id="SZYDMUS0473">Regit eciam cantus aliquando in G gravi surgentes, quia primo fit saltus de G gravi ad a accutum per tonum et e converso de a in G eciam per tonum redeuntes et iterum de G in a ascendentes, quod sic patet:</p>
+      <p id="SZYDMUS0474">[Szydlovite, Musica magistri, 55,7; text: c, F, Regina celi.]</p>
+      <p id="SZYDMUS0475">Tercia differencia toni tercii sic solet decantari:</p>
+      <p id="SZYDMUS0476">[Szydlovite, Musica magistri, 55,8; text: c, Evovae.]</p>
+      <p id="SZYDMUS0477">Et regit cantus eciam in G gravi surgentes ita, quod fit saltus de G in a et ibi aliquando moram faciens, et tandem de a in c salientes, ut hic:</p>
+      <p id="SZYDMUS0478">[Szydlovite, Musica magistri, 55,9; text: c, F, Quoniam. Omnia.]</p>
+      <p id="SZYDMUS0479">
+      <pb n="[56]" />Quarta differencia tercii toni sic solet decantari:</p>
+      <p id="SZYDMUS0480">[Szydlovite, Musica magistri, 56,1; text: c, Evovae.]</p>
+      <p id="SZYDMUS0481">Et regit eciam cantus in G gravi surgentes, sicut et due precedentes, sed aliter. Nam primo fit saltus de G gravi immediate per dyatheseron ad c accutum, quod sic patet in exemplo:</p>
+      <p id="SZYDMUS0482">[Szydlovite, Musica magistri, 56,2; text: c, F, Orietur. Reliquit.]</p>
+      <p id="SZYDMUS0483">Regit eciam cantus in c accuto surgentes per dyatheseron ad G grave salientes. Demum de G gravi ad a accutum per tonum ascendentes et tandem de a in c accutum per semiditonum ascendentes:</p>
+      <p id="SZYDMUS0484">[Szydlovite, Musica magistri, 56,3; text: c, F, Vivo ego.]</p>
+      <p id="SZYDMUS0485">Et regit cantus aliquando in c accuto surgentes gradatim usque ad a accutum descendentes, quod sic patet in exemplo:</p>
+      <p id="SZYDMUS0486">[Szydlovite, Musica magistri, 56,4; text: c, F, Ista est speciosa.]</p>
+      <p id="SZYDMUS0487">Notandum tercio, quod psalmi minores tercii toni sub hac forma solent decantari:</p>
+      <p id="SZYDMUS0488">[Szydlovite, Musica magistri, 56,5; text: c, F, Tercium suspende in medio sed in fine precipita. Dixit Dominus Domino meo sede a dextris meis.] 
+      <figure>
+        <graphic url="/images/SZYDMUS_25GF.gif" />
+      </figure></p>
+      <p id="SZYDMUS0489">Notandum quarto, quod psalmi maiores quantum ad tercium tonum sub tali forma semper modulantur:</p>
+      <p id="SZYDMUS0490">[Szydlovite, Musica magistri, 56,6; text: c, F, Magnificat anima mea Dominum. Nunc dimittis. Benedictus.]</p>
+      <p id="SZYDMUS0491">Quinto notandum, quod si introitus tercii toni incipitur in E gravi, tunc versus ipsius sic debent terminari, ut sequitur:</p>
+      <p id="SZYDMUS0492">[Szydlovite, Musica magistri, 56,7; text: c, F, Et in secula seculorum. Amen.]</p>
+      <p id="SZYDMUS0493">Exemplum de incepcione introitus ab E gravi:</p>
+      <p id="SZYDMUS0494">[Szydlovite, Musica magistri, 56,8; text: c, F, In nomine.]</p>
+      <p id="SZYDMUS0495">Si vero introitus tercii toni incipitur alibi, quam in E gravi, ut puta in F vel G gravibus, tunc versus sic terminantur:</p>
+      <p id="SZYDMUS0496">[Szydlovite, Musica magistri, 56,9; text: c, F, Et in secula seculorum. Amen.]</p>
+      <p id="SZYDMUS0497">
+      <pb n="[57]" />Exemplum de incepcione introituum in F vel G gravibus:</p>
+      <p id="SZYDMUS0498">[Szydlovite, Musica magistri, 57,1; text: c, F, Vocem iocunditatis. Benedicite.]</p>
+      <p id="SZYDMUS0499">Inchoatur autem talis versus introituum tercii toni sicut et "Magnificat", quod sic patet:</p>
+      <p id="SZYDMUS0500">[Szydlovite, Musica magistri, 57,2; text: c, F, Gloria Patri, et Filio, et Spiritui sancto sicut erat in principio, et nunc, et semper, et in secula seculorum. Amen.]</p>
+      <p id="SZYDMUS0501">Sextum notandum, quod versus circa responsoria tercii toni semper incipiuntur in c accuto, ubi tenor, et finiuntur in G gravi in tercia supra finalem, ut patet in in hoc exemplo:</p>
+      <p id="SZYDMUS0502">[Szydlovite, Musica magistri, 57,3; text: c, Non enim vos estis qui loquimini, sed Spiritus sanctus est qui loquitur per vos.] 
+      <figure>
+        <graphic url="/images/SZYDMUS_26GF.gif" />
+      </figure></p>
+      <p id="SZYDMUS0503">Notandum septimo: Claves iniciales, a quilius cantus tercii toni possunt inchoari sunt hec, scilicet E, F, G graves et c accutum. Versus:</p>
+      <p id="SZYDMUS0504">Bis duo dat trinus E, F, G cque super adde.</p>
+      <p id="SZYDMUS0505">Ultimo notandum, quod proprietas cantus tercii toni est, provocare homines ad iram, sive ad iracundiam. Tercius enim tonus est austerus et spectat ad homines crudeles, qui in bello clamore huius toni uti solent. Et ideo in resurreccione domini matutinis canitur, quia tunc Christus preliando vicit diiabolum. Unde versus:</p>
+      <p id="SZYDMUS0506">Tercius ad furias tonus incitat, estque severus,</p>
+      <p id="SZYDMUS0507">Crudelis decet hic, bella movere sciens.</p>
+      <p id="SZYDMUS0508">De quarto tono.</p>
+      <p id="SZYDMUS0509">Circa inicium quarti toni notandum est primo, quod principalis eius sic solet decantari:</p>
+      <p id="SZYDMUS0510">[Szydlovite, Musica magistri, 57,4; text: c, F, Hanc attendat notam.]</p>
+      <p id="SZYDMUS0511">Et regit cantus in E, F, G gravibus surgentes. Exemplum per ordinem de omnibus hic patet:</p>
+      <p id="SZYDMUS0512">[Szydlovite, Musica magistri, 57,5; text: F, Te Deum. Hec est dies. Michael, Gabriel, Raphael.]</p>
+      <p id="SZYDMUS0513">
+      <pb n="[58]" />[Szydlovite, Musica magistri, 58,1; text: F, Rectos decet collaudacio. Iste homo.]</p>
+      <p id="SZYDMUS0514">Notandum secundo, quod differencie quarti toni sunt quinque in numero, de numero quarum prima sic decanitur:</p>
+      <p id="SZYDMUS0515">[Szydlovite, Musica magistri, 58,2; text: c, F, Evovae.]</p>
+      <p id="SZYDMUS0516">Et regit cantus quocumque modo in D gravi surgentes, quod sic patet:</p>
+      <p id="SZYDMUS0517">[Szydlovite, Musica magistri, 58,3; text: F, Media vita. Simon bariona. Glorificamus te. Rubum quem viderat.]</p>
+      <p id="SZYDMUS0518">Secunda differencia quarti toni sic solet decantari:</p>
+      <p id="SZYDMUS0519">[Szydlovite, Musica magistri, 58,4; text: F, Evovae.]</p>
+      <p id="SZYDMUS0520">Et regit cantus semper in C gravi leviter surgentes, quod sic patet:</p>
+      <p id="SZYDMUS0521">[Szydlovite, Musica magistri, 58,5; text: F, Bethlegem. Vigila super nos. Sancte Nicolae.] 
+      <figure>
+        <graphic url="/images/SZYDMUS_27GF.gif" />
+      </figure></p>
+      <p id="SZYDMUS0522">Tercia differencia quarti toni illa sic decanitur:</p>
+      <p id="SZYDMUS0523">[Szydlovite, Musica magistri, 58,6; text: F, Evovae.]</p>
+      <p id="SZYDMUS0524">Et regit cantus aliquando in G gravi, aliquando eciam in C gravi surgentes, quod sic patet:</p>
+      <p id="SZYDMUS0525">[Szydlovite, Musica magistri, 58,7; text: c, F, Exaltata est. Stetit angelus. Benedicta tu. Super tronum.]</p>
+      <p id="SZYDMUS0526">Unde quando eadem differencia tercia quarti toni regit cantus a C gravi surgentes, tunc habet tenorem suum in a accuto, ut primo patuit. Sed tunc in talibus antifonis in C gravi surgentibus coniuncta nullo modo evitari potest.</p>
+      <p id="SZYDMUS0527">Sciendum ergo, quod antifone huius differencie quarti toni regulariter finiuntur in a la mi re. Et hoc fit propter veram solfam et propter evitandum coniunctas. Et sic tunc "evovae" huius differencie debet ponere tenorem suum in d la sol re, ut patet hic. Antifone autem in G gravi incipi debent, ut patuit prius.</p>
+      <p id="SZYDMUS0528">
+      <pb n="[59]" />Quarta differencia quarti toni, cuius tenor semper incipitur in d accuto, illa sic decanitur:</p>
+      <p id="SZYDMUS0529">[Szydlovite, Musica magistri, 59,1; text: c, Evovae.]</p>
+      <p id="SZYDMUS0530">Et regit cantus in accuto punctuatim surgentes, ut hic:</p>
+      <p id="SZYDMUS0531">[Szydlovite, Musica magistri, 59,2; text: c, Angeli Domini. Venient dies.]</p>
+      <p id="SZYDMUS0532">Quinta differencia quarti toni illa sic decanitur:</p>
+      <p id="SZYDMUS0533">[Szydlovite, Musica magistri, 59,3; text: c, Evovae.]</p>
+      <p id="SZYDMUS0534">Et regit cantus in G gravi, similiter in a, h, c accutis surgentes, quod in his clarescit exemplis:</p>
+      <p id="SZYDMUS0535">[Szydlovite, Musica magistri, 59,4; text: c, de G, de a, de h, de c, Fidelia. Sanctus est. O mors ero mors tua.]</p>
+      <p id="SZYDMUS0536">Notandum tercio, quod psalmi minores quarti toni semper in a accuto incipiuntur, sed aliter et aliter secundum exigenciam principalem et differencialem tonorum concluduntur, ut patet hic:</p>
+      <p id="SZYDMUS0537">[Szydlovite, Musica magistri, 59,5; text: c, F, Quartus gradatim ascendit, sed tandem abalto cadit. Quoad differencialem.]</p>
+      <p id="SZYDMUS0538">Notandum quarto, quod psalmi maiores quantum ad quartum tonum sic semper modulantur:</p>
+      <p id="SZYDMUS0539">[Szydlovite, Musica magistri, 59,6; text: c, F, Magnificat anima mea Dominum. Anima mea Dominum.] 
+      <figure>
+        <graphic url="/images/SZYDMUS_28GF.gif" />
+      </figure></p>
+      <p id="SZYDMUS0540">Quinto notandum, quod versus introituum quarti toni semper in a accuto incipiuntur, ubi et tenor, et finiuntur in F gravi per coniunctam terciam, ita, quod in C fa ut cantabitur mi loco fa per mutacionem re in sol in a accuto, quod sic patet:</p>
+      <p id="SZYDMUS0541">[Szydlovite, Musica magistri, 59,7; text: F, Gloria Patri et Filio et Spiritui sancto sicut erat in principio, et nunc, et semper, et in secula seculorum. Amen.]</p>
+      <p id="SZYDMUS0542">
+      <pb n="[60]" />Exemplum de incepcione introituum:</p>
+      <p id="SZYDMUS0543">[Szydlovite, Musica magistri, 60,1; text: F, Judica me Deus Resurrexi. veniunt ad monumentum orto iam sole.]</p>
+      <p id="SZYDMUS0544">Notandum sexto de versibus responsoriorum quarti toni, quod tales semper incipiuntur in a accuto, ubi et tenor, sed aliquando finiuntur in D gravi, aliquando vero in F gravi. Et de hoc exempla:</p>
+      <p id="SZYDMUS0545">[Szydlovite, Musica magistri, 60,2; text: F, Ave Maria gracia plena Dominus tecum. Et valde mane una sabbatorum]</p>
+      <p id="SZYDMUS0546">Notandum septimo, quod claves iniciales quarti toni, id est a quibus cantus quarti toni inchoari possunt, patent in hoc versu. Unde versus:</p>
+      <p id="SZYDMUS0547">Quartus habet C, D, simul E, F, G, c, a la mi re.</p>
+      <p id="SZYDMUS0548">Ultimo notandum: Proprietas quarti toni est hec, quod ipsius cantus sunt morosi, graves et blandientes et conveniunt hominibus adulatoribus, quales, ut frequenter, sunt flegmatici et mulieres. Est eciam mitis et modestus, tendens ad pacem, et ideo de beata Maria Virgine melodia huius toni cantari sepius applicatur. Versus:</p>
+      <p id="SZYDMUS0549">Aptus adulari, cui quartus competit ordo,</p>
+      <p id="SZYDMUS0550">Garulus et blandus dicitur ille modus.</p>
+      <p id="SZYDMUS0551">Et tantum.</p>
+      <p id="SZYDMUS0552">De quinto tono.</p>
+      <p id="SZYDMUS0553">Circa quintum tonum est notandum, quod principalis eius sic solet decantari:</p>
+      <p id="SZYDMUS0554">[Szydlovite, Musica magistri, 60,3; text: c, Et sic fine brevi.]</p>
+      <p id="SZYDMUS0555">Et regit cantus aliquando in F gravi, aliquando vero in a accuto surgentes, semper tamen ascendentes, quod sic patet in his exemplis:</p>
+      <p id="SZYDMUS0556">[Szydlovite, Musica magistri, 60,4; text: c, F, Alma redemtoris mater. Adorna. Ecce concipies. Voce cordis.] 
+      <figure>
+        <graphic url="/images/SZYDMUS_29GF.gif" />
+      </figure></p>
+      <p id="SZYDMUS0557">Notandum secundo, quod quintus tonus solum habet unam differenciam, que sic decanitur:.</p>
+      <p id="SZYDMUS0558">[Szydlovite, Musica magistri, 60,5; text: c, Evovae.]</p>
+      <p id="SZYDMUS0559">
+      <pb n="[61]" />Et regit cantus aliquando in c accuto, aliquando in G gravi surgentes. Regit eciam et in a accuto, sicut et principalis, sed semper infra tendentes, quod in hic patet exemplis:</p>
+      <p id="SZYDMUS0560">[Szydlovite, Musica magistri, 61,1; text: c, F, Ecce Dominus veniet. Miserere mei Domine. Fons ortorum. Vincenti.]</p>
+      <p id="SZYDMUS0561">Notandum tercio: Quandocumque introitus quinti toni incipitur in F gravi, tunc versus eiusdem cum tali debent addicione terminari, que sequitur:</p>
+      <p id="SZYDMUS0562">[Szydlovite, Musica magistri, 61,2; text: c, F, Et in secula seculorum. Amen. Letare. Loquebar.]</p>
+      <p id="SZYDMUS0563">Sed quando incipiuntur introitus quinti toni in c vel a accutis, tunc versus eorundem introituum sic simpliciter terminantur:</p>
+      <p id="SZYDMUS0564">[Szydlovite, Musica magistri, 61,3; text: F, Et in secula seculorum. Amen.]</p>
+      <p id="SZYDMUS0565">Exemplum de incepcione introitus in c accuto et similiter in a:</p>
+      <p id="SZYDMUS0566">[Szydlovite, Musica magistri, 61,4; text: c, F, Ludens in loco sancto suo. Ecce Deus. Exaudi Deus.]</p>
+      <p id="SZYDMUS0567">Inchoatur autem talis versus introituum quinti toni in F gravi sub hac forma, que sequitur:</p>
+      <p id="SZYDMUS0568">[Szydlovite, Musica magistri, 61,5; text: c, F, Gloria Patri, et Filio, et Spiritui sancto, sicut erat in principio, et nunc, et semper, et in secula seculorum. Amen.] 
+      <figure>
+        <graphic url="/images/SZYDMUS_30GF.gif" />
+      </figure></p>
+      <p id="SZYDMUS0569">Quarto notandum, quod psalmi minores quoad quintum tonum sub hac forma sequenti modulantur:</p>
+      <p id="SZYDMUS0570">[Szydlovite, Musica magistri, 61,6; text: c, Quinti quarto medietas est similis, sed in fine dissimilis. Dixit Dominus Domino meo, sede a dextris meis.]</p>
+      <p id="SZYDMUS0571">
+      <pb n="[62]" />Quinto notandum, quod psalmi maiores quoad quintum tonum sub hac forma, que sequitur, decanuntur:</p>
+      <p id="SZYDMUS0572">[Szydlovite, Musica magistri, 62,1; text: c, F, Magnificat anima mea Dominum.]</p>
+      <p id="SZYDMUS0573">Quod differencialem.</p>
+      <p id="SZYDMUS0574">[Szydlovite, Musica magistri, 62,2; text: c, F, Anima mea Dominum.]</p>
+      <p id="SZYDMUS0575">Notandum sexto, quod versus circa responsoria quinti toni incipiuntur in c accuto, ubi tenor, et finiuntur in a accuto in tercia supra finalem, quod proprium est tonis autentis, ut patet in hoc exemplo:</p>
+      <p id="SZYDMUS0576">[Szydlovite, Musica magistri, 62,3; text: c, Et ambulabant gentes in lumine tuo et rege eos, in splendore ortus.]</p>
+      <p id="SZYDMUS0577">Septimo notandum, quod claves iniciales, a quibus cantus quinti toni inchoari possunt, breviter patent in his versibus:</p>
+      <p id="SZYDMUS0578">Quintus tenet in capite c sol fa ut, F, a, c, a la mi re,</p>
+      <p id="SZYDMUS0579">G quinque his et c raro super addas.</p>
+      <p id="SZYDMUS0580">Ultimo notandum: Proprietas quinti toni est inducere delectacionem in audientibus, et convenit hominibus tristibus, religiosis et devotis, quia ipse tristia corda</p>
+      <p id="SZYDMUS0581">letificat et debiles seu desperantes confortat. Unde versus: Auditum solet mulcere modestia quinti,</p>
+      <p id="SZYDMUS0582">Lapsos sepe recreat, tristia corda levat.</p>
+      <p id="SZYDMUS0583">De sexto tono.</p>
+      <p id="SZYDMUS0584">Circa sextum tonum notandum est primo, quod principalis eius sic decanitur:</p>
+      <p id="SZYDMUS0585">[Szydlovite, Musica magistri, 62,4; text: F, Studioque levi.]</p>
+      <p id="SZYDMUS0586">Et regit cantus in F gravi surgentes, aliquando leviter ascendentes, aliquando vero descendentes, ut patet in his exemplis:</p>
+      <p id="SZYDMUS0587">[Szydlovite, Musica magistri, 62,5; text: F, Regina celi. Gaudent in celo. O admirabile commercium. Conturbetur cor vestrum.]</p>
+      <p id="SZYDMUS0588">Regit eciam cantus aliquando in C gravi, ut patet hic:</p>
+      <p id="SZYDMUS0589">[Szydlovite, Musica magistri, 62,6; text: F, Qui manducat.] 
+      <figure>
+        <graphic url="/images/SZYDMUS_31GF.gif" />
+      </figure></p>
+      <p id="SZYDMUS0590">
+      <pb n="[63]" />Notandum secundo, quod sextus tonus solum unicam habet differenciam, que sic solet decantari:</p>
+      <p id="SZYDMUS0591">[Szydlovite, Musica magistri, 63,1; text: F, Evovae.]</p>
+      <p id="SZYDMUS0592">Et regit cantus eciam ab F gravi surgentes, sed semper ascendentes tali modo, quod primo fit saltus per tonum de F gravi in G, et ibi fit aliqualis mora, tandem de G gravi ad a accutum eciam per tonum, deinde de a accuto in F grave per ditonum, quod sic patet:</p>
+      <p id="SZYDMUS0593">[Szydlovite, Musica magistri, 63,2; text: F, Benedictus.]</p>
+      <p id="SZYDMUS0594">Notandum tercio, quod psalmi minores quoad sextum tonum sub hac forma, que sequitur, modulantur:</p>
+      <p id="SZYDMUS0595">[Szydlovite, Musica magistri, 63,3; text: F, Sextus ut primus incipitur, sed aliter deprimitur. Laudate pueri Dominum laudate nomen Domini.]</p>
+      <p id="SZYDMUS0596">Notandum quarto, quod psalmi maiores eciam quoad sextum tonum sicut sequitur decanuntur:</p>
+      <p id="SZYDMUS0597">[Szydlovite, Musica magistri, 63,4; text: F, Magnificat anima mea Dominum. Nunt dimittis, similiter Benedictus.]</p>
+      <p id="SZYDMUS0598">Notandum quinto, quod versus introituum sexti toni semper in F gravi incipiuntur et ibidem terminantur, quod sic patet:</p>
+      <p id="SZYDMUS0599">[Szydlovite, Musica magistri, 63,5; text: c, F, Gloria Patri et Filio et Spiritui sancto sicut erat in principio et nunc et semper, et in secula seculorum, Amen. Requiem. Os justi.]</p>
+      <p id="SZYDMUS0600">Notandum sexto, quod versus circa responsoria sexti toni semper incipiuntur in F gravi et ibidem finiuntur, quod sic patet:</p>
+      <p id="SZYDMUS0601">[Szydlovite, Musica magistri, 63,6; text: c, F, In nomine Patris, et Fili,i et Spiritus sancti.]</p>
+      <p id="SZYDMUS0602">Notandum septimo, quod claves iniciales, a quibus cantus sexti toni inchoari possunt, brevissime in his patent versibus:</p>
+      <p id="SZYDMUS0603">C fa ut, F sextus, c sol fa ut atque D grave</p>
+      <p id="SZYDMUS0604">Pariter cum a quandoque inveniuntur.</p>
+      <p id="SZYDMUS0605">
+      <pb n="[64]" />Notandum ultimo, quod cantus sexti toni est flebilis et piius et provocat piia corda ad lacrimas et ad devocionem seu ad fletum, ut patet in his canticis, scilicet: "O quam metuendus locus iste", "Regina celi letare", et sic de aliis. Versus:</p>
+      <p id="SZYDMUS0606">Flebilis atque piia ptongi modulacio sexti,</p>
+      <p id="SZYDMUS0607">Provocat ad lacrimas corda canore suo.</p>
+      <p id="SZYDMUS0608">Unde Boecius in sua "musica": "Nam qui asperiores sunt, durioribus delectantur modis, qui vero mansueti, mediocribus moliuntur".</p>
+      <p id="SZYDMUS0609">De septimo tono.</p>
+      <p id="SZYDMUS0610">Circa septimum tonum notandum est primo, quod principalis toni septimi sic decanitur:</p>
+      <p id="SZYDMUS0611">[Szydlovite, Musica magistri, 64,1; text: c, Poterit hoc scire.] 
+      <figure>
+        <graphic url="/images/SZYDMUS_32GF.gif" />
+      </figure></p>
+      <p id="SZYDMUS0612">Et regit cantus semper in G gravi surgentes quocumque modo sive graviter sive leviter, excepto, quando talis cantus incipitur per dyapente; tunc enim erit differencialis; exempla patent hic:</p>
+      <p id="SZYDMUS0613">[Szydlovite, Musica magistri, 64,2; text: c, F, Apparuerunt apostolis. Viri galilei. Accipite.]</p>
+      <p id="SZYDMUS0614">Regit eciam cantus in a accuto quandoque sic surgentes, ut sequitur:</p>
+      <p id="SZYDMUS0615">[Szydlovite, Musica magistri, 64,3; text: c, Electi sunt in Christo.]</p>
+      <p id="SZYDMUS0616">Notandum secundo, quod differencie septimi toni sunt quatuor in numero. Prima sic decanitur:</p>
+      <p id="SZYDMUS0617">[Szydlovite, Musica magistri, 64,4; text: c, Evovae.]</p>
+      <p id="SZYDMUS0618">Et regit cantus eciam in G gravi ut principalis, sed non aliter nisi per dyapente surgentes, quod sic patet:</p>
+      <p id="SZYDMUS0619">Secunda differencia sic decanitur:</p>
+      <p id="SZYDMUS0620">[Szydlovite, Musica magistri, 64,5; text: c, F, Gabriel. Exortum est. Michael prepositus paradisi.]</p>
+      <p id="SZYDMUS0621">Secunda differencia sic decanitur:</p>
+      <p id="SZYDMUS0622">[Szydlovite, Musica magistri, 64,6; text: c, Evovae.]</p>
+      <p id="SZYDMUS0623">Et regit cantus in d accuto per hunc modum surgentes, ut patet:</p>
+      <p id="SZYDMUS0624">[Szydlovite, Musica magistri, 64,7; text: c, Dirige. Ecce sacerdos magnus. Mecum enim habeo.]</p>
+      <p id="SZYDMUS0625">
+      <pb n="[65]" />Tercia differencia septimi toni sic modulatur:</p>
+      <p id="SZYDMUS0626">[Szydlovite, Musica magistri, 65,1; text: c, Evovae.]</p>
+      <p id="SZYDMUS0627">Et regit cantus in c accuto quocumque modo surgentes, ut patet in his exemplis:</p>
+      <p id="SZYDMUS0628">[Szydlovite, Musica magistri, 65,2; text: c, Omnis spiritus. Clamaverunt. Stella ista.]</p>
+      <p id="SZYDMUS0629">Regit eciam eadem differencia cantus in h duro accuto surgentes, ut primo patuit in hoc exemplo, scilicet "stella ista". Quarta differencia septimi toni sic decanitur:</p>
+      <p id="SZYDMUS0630">[Szydlovite, Musica magistri, 65,3; text: c, Evovae.] 
+      <figure>
+        <graphic url="/images/SZYDMUS_33GF.gif" />
+      </figure></p>
+      <p id="SZYDMUS0631">Et regit cantus in h duro accuto sicut et tercia differencia surgentes, sed semper infra tendentes, quod sic patet in his exemplis:</p>
+      <p id="SZYDMUS0632">[Szydlovite, Musica magistri, 65,4; text: c, F, Redemcionem misit Dominus. Mirificavit Dominus. Ex quo omnia.]</p>
+      <p id="SZYDMUS0633">Notandum tercio, quod psalmi minores quoad septimum tonum sic intonantur, ut sequitur:</p>
+      <p id="SZYDMUS0634">[Szydlovite, Musica magistri, 65,5; text: c, Septimus in medio quintum respicit sed in fine despicit. Quoad differencialem.]</p>
+      <p id="SZYDMUS0635">Notandum quarto, quod psalmi maiores quoad septimum tonum semper incipiuntur in d accuto ut et minores, sed quando minores punctuatim ascendunt, maiores vero descendunt, quod sic patet:</p>
+      <p id="SZYDMUS0636">[Szydlovite, Musica magistri, 65,6; text: c, Magnificat anima mea Dominum. Quoad differencialem. Anima mea Dominum.]</p>
+      <p id="SZYDMUS0637">Notandum quinto, quod versus circa introitus septimi toni aliquando incipiuntur in d accuto, et hoc, si introitus incipitur per dyatheseron, aliquando vero in c accuto, que omnia patent in his exemplis:</p>
+      <p id="SZYDMUS0638">[Szydlovite, Musica magistri, 65,7; text: c, Miserere mei Deus secundum magnam misericordiam tuam. Asperges me.]</p>
+      <p id="SZYDMUS0639">
+      <pb n="[66]" />Exemplum quando incipitur a c accuto:</p>
+      <p id="SZYDMUS0640">[Szydlovite, Musica magistri, 66,1; text: c, F, f, Domine probasti me et cognovisti me tu cognovisti sessionem meam et resurreccionem meam. Puer. Protexisti me Deus.] 
+      <figure>
+        <graphic url="/images/SZYDMUS_34GF.gif" />
+      </figure></p>
+      <p id="SZYDMUS0641">Notandum sexto, quod versus circa responsoria septimi toni semper incipiuntur in d accuto, ubi tenor, et finiuntur in h duro accuto:</p>
+      <p id="SZYDMUS0642">[Szydlovite, Musica magistri, 66,2; text: c, Loquebantur variis linguis apostoli magnalia Dei.]</p>
+      <p id="SZYDMUS0643">Notandum septimo, quod claves iniciales cantus septimi toni sunt hec, que brevissime patent in hoc versu:</p>
+      <p id="SZYDMUS0644">G simul a, h quadrum, c, d sibi septimus efert.</p>
+      <p id="SZYDMUS0645">Notandum ultimo, quod proprietas septimi toni est ista, quia cantus ipsius est iocundus et delectabilis, valens ad lascivias id est ad nupcias, vel ad convivia nupciarum. Et convenit hominibus in adolescencia positis, qui, ut communiter, plus aliis lascivire videntur. Unde versus:</p>
+      <p id="SZYDMUS0646">Lascivire solet iocundis septimus odis,</p>
+      <p id="SZYDMUS0647">Autumo plus tales tale decere melos.</p>
+      <p id="SZYDMUS0648">De octavo tono.</p>
+      <p id="SZYDMUS0649">Circa inicium octavi toni sciendum est primo, quod principalis eius sic decanitur:</p>
+      <p id="SZYDMUS0650">[Szydlovite, Musica magistri, 66,3; text: c, Tonos diffinire.]</p>
+      <p id="SZYDMUS0651">Et regit cantus in G gravi quocumque modo surgentes, ut in his exemplis sequitur:</p>
+      <p id="SZYDMUS0652">[Szydlovite, Musica magistri, 66,4; text: c, F, Orietur. Gaude et letare. Beatus vir qui suffert tentacionem.]</p>
+      <p id="SZYDMUS0653">
+      <pb n="[67]" />Regit eciam aliquando cantus in C, D gravibus et eciam in a accuto surgentes, sed improprie. Exemplum hic patet de omnibus:</p>
+      <p id="SZYDMUS0654">[Szydlovite, Musica magistri, 67,1; text: Sapienciam. Angeli Dei. Venient dies, Laurencius.]</p>
+      <p id="SZYDMUS0655">Notandum secundo, quod differencie octavi toni sunt quatuor, et hoc computando peregrinum pro quarta differencia et ultima eiusdem. De quarum quidem differenciarum prima sic decantatur:</p>
+      <p id="SZYDMUS0656">[Szydlovite, Musica magistri, 67,2; text: c, Evovae.]</p>
+      <p id="SZYDMUS0657">Et regit cantus aliquando in C gravi, aliquando vero in F gravi surgentes, quod sic patet:</p>
+      <p id="SZYDMUS0658">[Szydlovite, Musica magistri, 67,3; text: c, F, Hodie natus est nobis salvator. Magi. Zachee. Justi confitebuntur nomini tuo.] 
+      <figure>
+        <graphic url="/images/SZYDMUS_35GF.gif" />
+      </figure></p>
+      <p id="SZYDMUS0659">Secunda differencia octavi toni est hec:</p>
+      <p id="SZYDMUS0660">[Szydlovite, Musica magistri, 67,4; text: c, Evovae.]</p>
+      <p id="SZYDMUS0661">Et regit cantus solum in c accuto surgentes et hoc semper infra tendentes:</p>
+      <p id="SZYDMUS0662">[Szydlovite, Musica magistri, 67,5; text: c, F, Hoc est preceptum meum. Dominus in templo sancto sedes eius. Deo nostro.]</p>
+      <p id="SZYDMUS0663">Tercia differencia octavi toni est hec:</p>
+      <p id="SZYDMUS0664">[Szydlovite, Musica magistri, 67,6; text: c, Evovae.]</p>
+      <p id="SZYDMUS0665">Et regit cantus in c accuto per hunc modum surgentes, quod sic patet:</p>
+      <p id="SZYDMUS0666">[Szydlovite, Musica magistri, 67,7; text: c, Euntes ibant. Constitues eos principes.]</p>
+      <p id="SZYDMUS0667">Quarta differencia octavi toni, que modo ab aliquibus tonus vocatur peregrinus, illa habet tenorem suum in G gravi in cantu directo et in d accuto transposito. Cuius intonacio psalmorum maiorum est in a accuto et solet sic decantari:</p>
+      <p id="SZYDMUS0668">[Szydlovite, Musica magistri, 67,8; text: F, Evovae.]</p>
+      <p id="SZYDMUS0669">
+      <pb n="[68]" />Et regit suos cantus proprie in C et in D gravibus surgentes, nihilominus tamen cantus eius comprehenditur sub principali octavi:</p>
+      <p id="SZYDMUS0670">[Szydlovite, Musica magistri, 68,1; text: F, Nos qui vivimus. Alleluja.]</p>
+      <p id="SZYDMUS0671">Exemplum de D gravi iam patuit in "venient dies". Intonantur autem psalmi minores istius differencie in a accuto, quod sic patet, ut sequitur:</p>
+      <p id="SZYDMUS0672">[Szydlovite, Musica magistri, 68,2; text: c, F, Tali tenore cantabitur tonus peregrinus. In exitu Israel de Egipto domus Jacob de populo barbaro.]</p>
+      <p id="SZYDMUS0673">Notandum tercio, quod psalmi minores quantum ad octavum tonum semper sic intonantur:</p>
+      <p id="SZYDMUS0674">[Szydlovite, Musica magistri, 68,3; text: c, Octavus secundo coincidit in medio sed aliter concluditur. Dixit Dominus Domino meo sede a dextris meis.] 
+      <figure>
+        <graphic url="/images/SZYDMUS_36GF.gif" />
+      </figure></p>
+      <p id="SZYDMUS0675">Notandum quarto, quod psalmi maiores quoad octavum tonum incipiuntur in G gravi et sub tali forma, que sequitur, intonantur:</p>
+      <p id="SZYDMUS0676">[Szydlovite, Musica magistri, 68,4; text: c, F, Magnificat anima mea Dominum. quoad differencialem: Anima mea Dominum.]</p>
+      <p id="SZYDMUS0677">Notandum quinto, quod quandocumque introitus octavi toni incipitur in D gravi, tunc versus eius sic terminantur:</p>
+      <p id="SZYDMUS0678">[Szydlovite, Musica magistri, 68,5; text: c, F, Et in secula seculorum. Amen. Spiritus. Introduxit vos.]</p>
+      <p id="SZYDMUS0679">Si autem introitus octavi toni alibi, quam in D incipitur, ut puta in F, G gravibus, vel in a, c accutis, tunc versus sic terminantur:</p>
+      <p id="SZYDMUS0680">[Szydlovite, Musica magistri, 68,6; text: c, F, Et in secula seculorum. Amen. Ad te levavi.]</p>
+      <p id="SZYDMUS0681">
+      <pb n="[69]" />Inchoantur autem tales versus introituum in G gravi eodem modo, ut et "Magnificat", quod sic patet:</p>
+      <p id="SZYDMUS0682">[Szydlovite, Musica magistri, 69,1; text: c, F, Gloria Patri, et Filio, et Spiritui sancto, sicut erat in principio, et nunc, et semper, et in secula seculorum. Amen.]</p>
+      <p id="SZYDMUS0683">Notandum sexto, quod versus circa responsoria octavi toni communiter incipiuntur ubi tenor, videlicet in c accuto punctuatim, et semper terminantur in G gravi. Si autem alibi incipiantur, non est contra artem.</p>
+      <p id="SZYDMUS0684">[Szydlovite, Musica magistri, 69,2; text: c, F, Quem visurus sum ego ipse et non alius et oculi mei conspecturi sunt.]</p>
+      <p id="SZYDMUS0685">Notandum septimo: Claves iniciales, a quibus cantus octavi toni inchoari possunt, sunt que brevissime in hoc versu patere possunt:</p>
+      <p id="SZYDMUS0686">Octavus C, D, E, F, G, c continet a la mi re.</p>
+      <p id="SZYDMUS0687">Ultimo notandum, quod cantus octavi toni est morosus, tardus et in sua modulacione modestus et magis convenit hominibus antiquis, qui lete et morose incedunt et ideo letum et morosum audiunt cantum libenter. Unde versus:</p>
+      <p id="SZYDMUS0688">Octavus morulus, gaudens, gradiensque decenter,</p>
+      <p id="SZYDMUS0689">Creditur esse magis gratus in aure senum.</p>
+      <p id="SZYDMUS0690">Et tantum de tonis.</p>
+      <p id="SZYDMUS0691">Capitulum quartum decimum.</p>
+      <p id="SZYDMUS0692">Notandum primo mixtio, de qua ad propositum, diffinitur sic: Est ascenssus vel descenssus note vel notarum supra ambitum alicuius toni. Verbi gracia in tonis autentis seu imparibus a clave ad similem clavem, tam supra quam infra, dantur octo note regulariter, ita tamen, quod aliquando una nota additur supra ambitum vel eciam aliquando infra ambitum, sed hoc fit ex licencia, excepto trito id est quinto tono, cui nota infra finalem descendi non est competens, de quo supra. Unde versus:</p>
+      <p id="SZYDMUS0693">"Norma dat octavam nonamque licencia vocem</p>
+      <p id="SZYDMUS0694">Autentis supra, differre scias tamen ista:</p>
+      <p id="SZYDMUS0695">Nam licite tangas, quas dat tibi regula claves,</p>
+      <p id="SZYDMUS0696">Quas si licencia dat, debes attingere raro."</p>
+      <p id="SZYDMUS0697">Hec Theogerus. Omnia autem hec precipue de cantibus solemnibus sunt intelligenda.</p>
+      <p id="SZYDMUS0698">
+      <pb n="[70]" />Notandum secundo, quod musicus non statim audita armonia pronunciat tonum, sed pocius providens finem expectat et ideo, quia in fine omne iudicium canendi dependet. Ex quo a fine omnia iustum est denominare dicente philosopho "secundo de anima". Nam aliquando cantus quorumdam tonorum tanta similitudine videntur convenire, quod vix discerni potest, cui tono reccius adaptentur, videlicet an autento vel plagali. Et tamen quicumque de fratribus, sive maior sive minor, intonetur, non est magnum vicium, licet sit contra artem, tanquam contram naturam; ex quo ars imitatur naturam, in quantum potest, "secundo phisicorum". Et consistit hoc in voluntate cantoris, vel secundum exigenciam temporis iocundi vel lugubris, quod patet in illa antifona "O Christi pietas", que communiter ad sextum intonatur tonum, licet plus habeat de quinto capitali seu principali, ut patet practicanti, sub et supra.</p>
+      <p id="SZYDMUS0699">Notandum tercio, quod quatuor modis contingit hoc fieri, quod cantus transcendit metas suas. Primo causa exclamacionis vel admiracionis, ut ibi: "O preclara stella maris" in responsorio de beata maria virgine, in quo vox et res conveniunt. Secundo causa potencie vel virtutis ipsius cantus sive rei, de qua agitur talis cantus, ut patet in illa antifona: "Fidelis sermo" et in illa prosa de sancto Joanne: "Psallite Deo nostro" et cetera, ubi eciam tam vox quam res conveniunt. Similiter de "visitacione sancte marie" in illa antifona: "O quanta vis amoris" hoc idem patet. Tercio causa nimii doloris vel compassionis unius ad alterum, ut patet in quibusdam cantibus de "passione Domini" et precipue in illo responsorio: "Tenebre facte sunt" et cetera, ubi tam vox quam res conveniunt. Quarto causa nimie devocionis, ut patet in solemni "Et in terra" in loco, quo decanitur "Tu solus altissimus". Unde Theogerus sic inquit:</p>
+      <p id="SZYDMUS0700">"Autonomasia valet hic, cum vox simul et res</p>
+      <p id="SZYDMUS0701">Thematis eximii sublimc volunt sociari,</p>
+      <p id="SZYDMUS0702">Aut exclamandi virtus, aut causa dolendi,</p>
+      <p id="SZYDMUS0703">Aut pia vota precum cogunt descendere cantum."</p>
+      <p id="SZYDMUS0704">Notandum quarto, quod cantus indebite iniciatus et indebite finitus redditur distortus, vagus, irregularis et nulla racione excusabilis, et ideo, quia omnis cantus regularis debet habere fixum, firmum et debitum principium, similiter et finem.</p>
+      <p id="SZYDMUS0705">Licet enim in medio, vel ante, vel post varietur, tamen cuilibet tono certus modus est atributus quoad finem et principium iniciandi et finiendi suum cantum, sive sit autentus sive plagalis tonus, tam quoad psalmos, quam quoad officia. Octi enim sunt dispositi toni pro psalmis et variis officiis regulis artis musice artati. Unde versus eiusdem domini Theogeri:</p>
+      <p id="SZYDMUS0706">"Amplius excedens a principio vagus horum</p>
+      <p id="SZYDMUS0707">Fineve distortus raro racione rimatur.</p>
+      <p id="SZYDMUS0708">Namque licet supra medium varietur et infra,</p>
+      <p id="SZYDMUS0709">Principium norma finem iubet fore fixum."</p>
+      <p id="SZYDMUS0710">Ultimo et finem tractatui huic imponendo notandum, quod quilibet tonus, sive autentus sive plagalis, hoc est par vel impar, specialiter potest dividi in tonum simplicem et compositum, quod in his clarescit exemplis. Quomodo autem regit cantus suos, habitum est supra.</p>
+      <p id="SZYDMUS0711">
+      <pb n="[71]" />[Szydlovite, Musica magistri, 71; text: I. II. III. IV. Unde circa primum tonum sciendum est, quod duplex est: Brevis, qui sic canitur: Evovae. Et productus, et talis est triplex, scilicet: gravis, acutus, moderatus: Gravis, et est duplex: Acutus et talis est triplex: Moderatus, ille est eciam triplex: declinis scilicet: elevatus et usitatus: circumflexus et inusitatus: compositus et usitatus: simplex et usitatus: duplus et usitatus: triplus et usitatus: Circa secundum tonum notandum est, ille est duplex: compositus et inusitatus: Circa tercium tonum notandum est, quod ille est triplex: moderatus, et est duplex: Gravis et principalis: altus et usitatus: declinis et usitatus: Circa quartum tonum notandum, quod ille est triplex: moderatus et ille est duplex: ille eciam est duplex: parcus: largus: simplex: compositus:] 
+      <figure>
+        <graphic url="/images/SZYDMUS_37GF.gif" />
+      </figure></p>
+      <p id="SZYDMUS0712">
+      <pb n="[72]" />[Szydlovite, Musica magistri, 72; text: V. VI. VII. VIII. Circa quintum tonum notandum, quod ille est triplex: moderatus: acutus sed inusitatus: gravis et usitatus: Evovae. Circa sextum tonum sciendum quod ille est duplex: simplex: compositus: Circa septimum tonum sciendum, quod ille est triplex: acutus est duplex: gravis eciam est duplex: moderatus, qui sic canitur: Circa octavum tonum et ultimum est sciendum, quod ille eciam est triplex: moderatus est triplex: acutus: gravis, ille sic decanitur: simplus: duplus: triplus:] 
+      <figure>
+        <graphic url="/images/SZYDMUS_38GF.gif" />
+      </figure></p>
+    </body>
+  </text>
+</TEI>

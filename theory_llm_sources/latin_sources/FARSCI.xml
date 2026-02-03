@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>De scientiis</title>
+        <title type="abbrev">FARSCI</title>
+        <author>Al-Farabi</author>
+        <date notBefore="1100" notAfter="1199">12th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Andreas Giger</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Elisabeth Honn</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1997</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Max Haas, "Studien zur mittelalterlichen Musiklehre I: Eine Übersicht über die Musiklehre im Kontext der Philosophie des 13. und frühen 14. Jahrhunderts," in 
+<emph>Aktuelle Fragen der musikbezogenen Mittelalterforschung: Texte zu einem Basler Kolloquium des Jahres 1975</emph>, Forum Musicologicum: Basler Beiträge zur Musikgeschichte, vol. 3, ed. Hans Oesch and Wulf Arlt (Winterthur: Amadeus Verlag, 1982), 420–21.
+</bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="FARSCI0001">
+      <pb n="[420]" />Scientia vero musice comprehendit in summa cognitionem specierum armoniarum et illud, ex quo componuntur et illud, ad quod componuntur 
+      <pb n="[421]" />et qualiter componuntur et quibus modis oportet ut sint, donec faciant operationem suam penetrabiliorem et magis ultimam.</p>
+      <p id="FARSCI0002">Et illud quidem, quod hoc nomine cognoscitur, est due scientie. Quarum una est scientia musice activa et secunda scientia musice speculativa.</p>
+      <p id="FARSCI0003">Musica igitur activa est ilia cuius proprietas est, ut inveniat species armoniarum sensatarum in instrumentis, que preparata sunt eis aut per naturam aut per artem. Instrumenta igitur naturalia sunt epiglotis et uvula et [B 98 in marg.] que sunt in eis, deinde nasus. Et artificialia sunt sicut fistule et cithare et alia.</p>
+      <p id="FARSCI0004">Et opifex quidem musice active non format neumas et armonias et omnia accidentia earum nisi secundum quod sunt in instrumentis, quorum acceptio consueta est in eis.</p>
+      <p id="FARSCI0005">Et speculativa quidem dat scientiam eorum et sunt racionata et dat causas tocius ex quo componuntur armonie: non secundum quod sunt in materia, immo absolute [P 148' in marg.] et secundum quod sunt remota ab omni instrumento et materia. Et accipit ea secundum quod sunt audita, secundum communitatem ex quocumque instrumento accidat et ex quocumque corpore accidat.</p>
+      <p id="FARSCI0006">Et dividitur scientia musice speculativa in partes magnas quinque. Prima earum est sermo de principiis et primis, quorum proprietas est, ut administrentur in inventione eius, quod est in hac scientia et qualiter sit modus in administratione illorum principiorum et qua via inventa sit hec ars et ex quibus rebus et ex quot rebus componatur et qualiter oportet, ut sit inquisitor de eo, quod est in ea.</p>
+      <p id="FARSCI0007">Et secunda est sermo de dispositionibus huius artis. Et est sermo in inveniendo neumas et cognitionem numeri neumarum: quot sint et quot species earum et declaratione proportionum quarundam ad alias et demonstrationum super omnia illa et sermo de speciebus ordinis earum et situum ipsarum, quibus fuerint preparate, ut accipiat acceptor ex eis, quod vult et componat ex eis armonias.</p>
+      <p id="FARSCI0008">Et tercia est sermo de convenientia, que declaratur in radicibus cum sermonibus et demonstrationibus super species instrumentorum artificialium, que preparantur eis et acceptione eorum omnium in ea et situ ipsorum in ea secundum mensurationem et ordinem, qui declaratur in radicibus.</p>
+      <p id="FARSCI0009">Et quarta est sermo de speciebus casuum naturalium, qui sunt pondera neumarum.</p>
+      <p id="FARSCI0010">Et quinta est de compositione armoniarum in summa, deinde de compositione armoniarum integrarum. Et sunt ille, que sunt posite in sermonibus metricis compositis secundum ordinem et ordinationem et qualitate artis earum secundum unamquamque intentionum armoniarum. Et docet dispositiones, quibus fuerint penetrabiliores et magis ultime in ultimitate intentionis ad quam facte sunt.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>[Versus de musica]</title>
+        <title type="abbrev">ANOVDM</title>
+        <author>Anonymous</author>
+        <date notBefore="1100" notAfter="1199">12th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Anastasia Arapova</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Mark Butler</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>2001</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Hans Müller, "Bruchstücke aus der mittelalterlichen Musiktheorie," 
+<emph>Vierteljahresschrift für Musikwissenschaft</emph> 1 (1885), 173–74.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: Versus de musica cum commento</title>
+          
+<idno type="LML">VERS. Consona quo</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">B-Br 10078/95, 92v</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANOVDM0001">
+      <pb n="[173]" />[VfM1:173; text: g, f, c, d, h, l, k, i, m, e, b, His poteris sollers ignotum discere cantum Scematibus super adscriptis sine voce magistri, Si magada chordam discriminet in monochordo. Haec et enim vocis repetet reflexio grata Symphoniis pariterque tonis diastemate bino.] 
+      <figure>
+        <graphic url="/images/ANOVDM_01GF.gif" />
+      </figure></p>
+      <p id="ANOVDM0002">Consona quo variae resonet modulatio vocis,</p>
+      <p id="ANOVDM0003">Haec sibi congresso fit commutatio nervo,</p>
+      <p id="ANOVDM0004">Ut qua parte sua superat, superetur eadem.</p>
+      <p id="ANOVDM0005">Quadruplus est igitur, cuius subquadruplus exstat.</p>
+      <p id="ANOVDM0006">Ponitur his medius, duplex utrimque relatus,</p>
+      <p id="ANOVDM0007">
+      <pb n="[174]" />Et quibus est duplex, subduplus habetur eisdem.</p>
+      <p id="ANOVDM0008">Nervus enim duplus a simplo bis superatur.</p>
+      <p id="ANOVDM0009">Aequa sorte sibi super et sub quisque librando</p>
+      <p id="ANOVDM0010">Sic tamen in spatio vel sic in acumine vocis.</p>
+      <p id="ANOVDM0011">Quod probat auditus probat experientia visus.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Capitulum de quattuor mensuris</title>
+        <title type="abbrev">ANOCQM</title>
+        <author>Anonymous</author>
+        <date notBefore="1400" notAfter="1499">15th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Katherine Clark</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Andreas Giger</persName>
+      </respStmt>
+      <date>1999</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Antonius de Luca, 
+<emph>Ars cantus figurati</emph>; 
+<emph>Capitulum de quattuor mensuris</emph>; 
+<emph>Tractatulus mensurationum</emph>; 
+<emph>Compendium breve de proportionibus</emph>; 
+<emph>Tractatulus prolationum cum tabulis</emph>, ed. Heinz Ristory, Corpus scriptorum de musica, vol. 38 (n.p.: American Institute of Musicology / Hänssler-Verlag, 1997), 62–63. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: Tractatus de proportionibus musicae mensuralis</title>
+          
+<idno type="LML">PROP. MENS. Item nota</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">B-Br II 785, 8v</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANOCQM0001">
+      <pb n="[62]" />Anonymus</p>
+      <p id="ANOCQM0002">CAPITULUM DE QUATTUOR MENSURIS</p>
+      <p id="ANOCQM0003">Br1 8v</p>
+      <p id="ANOCQM0004">Item nota tria consistunt in cantu, scilicet modus [Lv on staff2], tempus [Bv on staff2], et prolatio [Sv on staff2].</p>
+      <p id="ANOCQM0005">Modus perfectus:</p>
+      <p id="ANOCQM0006">[Lv,pt,Bv,Bv,Bv]</p>
+      <p id="ANOCQM0007">Tempus perfectum:</p>
+      <p id="ANOCQM0008">[Bv,pt,Sv,Sv,Sv]</p>
+      <p id="ANOCQM0009">Prolatio maior:</p>
+      <p id="ANOCQM0010">[Sv,pt,Mv,Mv,Mv]</p>
+      <p id="ANOCQM0011">Modus imperfectus:</p>
+      <p id="ANOCQM0012">[Lv,pt,Bv,Bv]</p>
+      <p id="ANOCQM0013">Tempus imperfectum:</p>
+      <p id="ANOCQM0014">[Bv,pt,Sv,Sv]</p>
+      <p id="ANOCQM0015">Prolatio minor:</p>
+      <p id="ANOCQM0016">[Sv,pt,Mv,Mv]</p>
+      <p id="ANOCQM0017">Tempus et prolatio simul:</p>
+      <p id="ANOCQM0018">
+      <pb n="[63]" />Perfectum / maior:</p>
+      <p id="ANOCQM0019">[Bv,pt,Sv,Sv,Sv,pt,Mv,Mv,Mv,pt,Mv,Mv,Mv,pt,Mv,Mv,Mv,pt on staff2]</p>
+      <p id="ANOCQM0020">Perfectum / minor:</p>
+      <p id="ANOCQM0021">[Bv,pt,Sv,Sv,Sv,pt,Mv,Mv,pt,Mv,Mv,pt,Mv,Mv,pt on staff2]</p>
+      <p id="ANOCQM0022">Imperfectum / maior:</p>
+      <p id="ANOCQM0023">[Bv,pt,Sv,Sv,pt,Mv,Mv,Mv,pt,Mv,Mv,Mv,pt on staff2]</p>
+      <p id="ANOCQM0024">Imperfectum / minor:</p>
+      <p id="ANOCQM0025">[Bv,pt,Sv,Sv,pt,Mv,Mv,pt,Mv,Mv,pt on staff2]</p>
+      <p id="ANOCQM0026">In istis quattuor mensuris hic positis consistunt solum tempus et prolatio, et non modus, quia modus in quolibet istorum potest inveniri.</p>
+    </body>
+  </text>
+</TEI>

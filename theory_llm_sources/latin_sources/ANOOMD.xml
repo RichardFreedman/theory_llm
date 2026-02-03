@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Sub brevissimo compendio Philippus de Vitriaco in musica incipit</title>
+        <title type="abbrev">ANOOMD</title>
+        <author>Anonymous</author>
+        <date notBefore="1300" notAfter="1399">14th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Stephen E. Hayes</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Peter M. Lefferts</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Luminita Florea Aluas</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1992</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>Philippi de Vitriaco Ars nova</emph>, ed. Gilbert Reaney, André Gilles, and Jean Maillard, Corpus scriptorum de musica, vol. 8 ([Rome]: American Institute of Musicology, 1964), 80–81. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: "Omni desideranti notitiam artis mensurabilis"</title>
+          
+<idno type="LML">TRAD. Phil. III</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">E-Sc 5-2-25, 63-64v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Sc L.V.30, 129r-v</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANOOMD0001">
+      <pb n="[80]" />Sub brevissimo compendio Philippus de Vitriaco in musica incipit.</p>
+      <p id="ANOOMD0002">Omni desideranti notitiam artis musicae mensurabilis tam novae quam veteris obtinere, certas regulas hic presentes sub brevi compendio proposse non postpono fideliter assignare. Et quia voces seu notulas proportionabiliter oportet in hoc opere mensurare prout longae vel breves et semibreves ac minimae figurantur, idcirco ad figurationem et valorem ipsarum breviter procedamus.</p>
+      <p id="ANOOMD0003">Longa ergo sub forma quadrata figurata est habens tractum a parte dextra ascendentem vel descendentem, vel duos quorum dexter(a) excedit sinistrum; et tunc talis nota dicitur plica longa et valet tria tempora in modo perfecto, duo autem in imperfecto. Modus imperfectus est breves vel tempora per numerum binarium computare, et dicitur imperfectus eo quod numerus binarius est imperfectus. Numerus vero ternarius est perfectus assumptus a trinitate, scilicet a patre et filio et spiritu sancto ubi est summa perfectio. Modus perfectus cognoscitur per pausas quando pausae in longas sunt perfectae vel quando de longa usque ad aliam longam per numerum 
+      <pb n="[81]" />ternarium melius quam binarium tempora computantur ut hic patet:</p>
+      <p id="ANOOMD0004">[L,B,B,B,B,B,B,B,B,B,L,BP,Bpdsncddx,B,B,B,Bpssncsdx,L,L,Bcsdx on staff1]</p>
+      <p id="ANOOMD0005">[L,3LP,3LP,L,2LP,L,3LP,3LP on staff4]</p>
+      <p id="ANOOMD0006">Item nota: modus, tempus et prolatio per rubeas distinguntur figuras. Inde quandocumque longa invenitur rubea, ponitur ad differentiam modi. Itaque si nigrae fuerint de modo perfecto, rubeae sunt de modo imperfecto et e converso, ut hic patet:</p>
+      <p id="ANOOMD0007">[R3rvd,L,Lig2Lacddx; L,L,Bcsdx; Lv,Lv,Lig3vcdsnodacddx,Lv,Lig3ad,Bcsdx,Bcsdx,L; R3rvd,L,L,Lig2vd,Lv,L,L,Lig2vLart,Lv,Mx on staff1]</p>
+      <p id="ANOOMD0008">Breves ponuntur rubeae ad differentiam temporis. Itaque si nigrae breves fuerint de tempore perfecto, rubeae sunt de imperfecto et e converso, nisi cum aliqua longa forsitan ordine[n]tur, sicut in mottetti tenore qui dicitur In arboris, vel in tenore de In nova fert animus ut hic: (Ex.3).</p>
+      <p id="ANOOMD0009">[L,S,S,S,B,S,B,Lig3cssnaod; Lig4vcdsnddaod,Lv,Bv,Lig3vcssnaod; B,S,S,S,S,B; Bv,Sv,Sv,Lig2va,Sv,Sv,Lig2vcdsnd on staff2]</p>
+      <p id="ANOOMD0010">Semibreves rubeae ponuntur ad differentiam prolationis, ut si nigrae semibreves fuerint de maiori prolatione, rubeae sunt de minori et e converso, nisi semibreves cum aliqua brevi forsitan ordine[n]tur (quia tunc ponuntur ad differentiam prolationis), ut hic patet:</p>
+      <p id="ANOOMD0011">[C,S,M,M,M,S,M,S,M,S,M,M,M,Sv,Sv,Sv,Sv,Sv,Sv,Sv,Sv,Sv,Sv,Sv,Sv,Lv; S,M,M,S,S,S,S,M,M,S,M,M,S,S,B,Sv,Sv,Sv,Sv,Mv,Bv,Sv,Sv,Mv,Bv on staff3]</p>
+      <p id="ANOOMD0012">Hos versus disce qui cantum discere cupis:</p>
+      <p id="ANOOMD0013">Ante namque longa[m], tria tempora longa meretur.</p>
+      <p id="ANOOMD0014">Si brevis addatur, duo tempora longa tenetur.</p>
+      <p id="ANOOMD0015">Inter perfectas, si brevis bina locetur,</p>
+      <p id="ANOOMD0016">temporis unius sit prima, secunda dupletur.</p>
+      <p id="ANOOMD0017">Explicit Philippus de Vitriaco.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>De cantu organico</title>
+        <title type="abbrev">AGANOCO</title>
+        <author>Anonymous</author>
+        <date notBefore="1300" notAfter="1399">14th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Stephen E. Hayes</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Peter M. Lefferts</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Luminita Florea Aluas</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1995</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+H. Angles, "De cantu organico: tratado de un autor catalán del siglo XIV," 
+<emph>Anuario musical</emph> 13 (1958): 18-24, 18–24.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous cod. Barcinonensis (Barcelona): De cantu organico</title>
+          
+<idno type="LML">ANON. Barcin. I</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">E-Bc Misc. 23-1, 1v-4v</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="AGANOCO0001">
+      <pb n="[18]" />Ad evidentiam cantus organici est sciendum, quod cantus organicus dividitur in longam, brevem, semibrevem et minimam. Exemplum: [L,B,S,M]</p>
+      <p id="AGANOCO0002">Est autem longa nota quadrata habens tractum a parte dextera, ut hic: [L] et dicitur longa imperfecta et valet duo tempora.</p>
+      <p id="AGANOCO0003">Brevis, vero, dicitur nota quadrata carens omni tractu, ut hic: [B] et dicitur brevis recta.</p>
+      <p id="AGANOCO0004">Predicta, vero, longa inperfecta perficitur multis modis: uno modo perficitur cum longa sequitur longam, ut hic: [L,L,L,L]</p>
+      <p id="AGANOCO0005">Istarum quelibet valet tria tempora, et dicitur perfecta, excepta ultima que enim est imperfecta et tantumodo valet duo tempora, nisi per divisionem modi perficiatur, ut hic: [L,L,L,L,pt] tunc enim ipsa valet tria tempora et perfecta dicitur.</p>
+      <p id="AGANOCO0006">Dicitur autem tempus in cantu illud quod est minimum in plenitudine vocis et vocatur tempus imperfectum. De isto tempore imperfecto et perfecto dicetur infra.</p>
+      <p id="AGANOCO0007">Continuando propositum incoatum, dico quod predicta longa inperfecta perficitur alio modo, scilicet, cum tres breves sequuntur longam et ponuntur inter duas longas, ut hic: [L,B,B,B,L] nisi post primam brevem divisio modi ponatur, ut hic: [L,B,pt,B,B,L] quod tunc prima brevis imperficit primam longam.</p>
+      <p id="AGANOCO0008">Duarum, vero, brevium sequentium prima dicitur recta brevis, secunda brevis altera, id est, altera a brevi, quia aliam naturam sive valorem habet; habet, enim, in se valorem longe imperfecte et ideo valet duo tempora.</p>
+      <p id="AGANOCO0009">Item, perficitur longa cum valor semibrevium vel pausarum sequitur longam, ut hic: [ClefC3,L,Lig4cdsndodart,pt,S,S,MP,S,S,S,pt,S,S,L on staff4]</p>
+      <p id="AGANOCO0010">Sciendum quod subito et ex inproviso de facili non potest adverti perfectio huiusmodi notarum, sive sint breves, sive ligature, sive semibreves, sive pause. Ideo ne cantantem errare contingat, securius est ad maiorem certitudinem post perfectam longam ponere divisionem modi, ut hic: [ClefC3,L,pt,S,S,pt,BP,S,S,L,pt on staff4]</p>
+      <p id="AGANOCO0011">Item perficitur longa cum pausa trium temporum sequitur longam, ut hic: [ClefC4,L,pt,L,pt,L,pt,2LP,L,pt,2LP,L,pt,B,B,BP,L,pt,L,pt,B,BP,B,L,pt on staff4]</p>
+      <p id="AGANOCO0012">
+      <pb n="[19]" />De ligaturis et valore ligaturarum</p>
+      <p id="AGANOCO0013">Sequitur de ligaturis. De quibus sciendum est quod, quociescumque due note in cantando attribuuntur uni sillabe vel plures, ligature vocantur, et hoc, ideo, quia ad invicem colligantur, ut patet in hoc exemplo:</p>
+      <p id="AGANOCO0014">[AM13:19,1; text: Virgo parens Xpristi] 
+      <figure>
+        <graphic url="/images/AGANOCO_01GF.gif" />
+      </figure></p>
+      <p id="AGANOCO0015">Unde sciendum quod ligature quedam sunt ascendentes, quedam descendentes. Ligatura ascendens est cuius secundus punctus alcior est primo, ut hic: [ClefC3,Lig2a,Lig2a,Lig2a,Lig2cssnoa,Lig4aaa,Lig3ad,Lig4aaart on staff4]</p>
+      <p id="AGANOCO0016">Ligatura descendens est cuius primus punctus alcior est secundo, ut patet hic: [ClefC3,Lig2cdsnd,Lig3cdsndod,Lig3dd,Lig2cdsnd,Lig3cdsndd,Lig4cdsnddd on staff4]</p>
+      <p id="AGANOCO0017">Item, sciendum quod aliquando longa ligatur cum brevi sola, ut hic. [ClefC3,Lig2La,2LP,Lig2od,Lig2La,LP] Aliquando brevis cum longa, ut hic: [ClefC3,Lig2art,Lig2cdsnd,BP,Lig2art,Lig2cdsnd on staff4]</p>
+      <p id="AGANOCO0018">Item sciendum quod tam ascendencium quam descendencium ligaturarum quedam sunt cum proprietate et quedam sine proprietate. Unde sicut homo distinguitur ab asino non solum per formam suam tantum, sed etiam per aliquam proprietatem que sibi convenit et non asino, sicut per hoc quod est risibilis sive racionalis, ita ligatura distinguitur ab alia per aliquam proprietatem quam habet sibi convenientem, que nullatenus in alia reperitur.</p>
+      <p id="AGANOCO0019">Unde sicut tres denarii argentei eiusdem quantitatis seu materie sive ponderis distinguuntur ad invicem per aliquam proprietatem que diversificatur in eis, ita iste ligature, similes in forma, distinguuntur ad invicem per istam proprietatem, et variare facit valorem earumdem: [ClefC3,Lig2cssnod,Lig2cdsnod,Lig2od on staff4] Unde, cum talis ligatura, qualis est harum prima, habet proprietatem ascendentem, que dicitur in arte cantus opposita proprietas, semibreves due sunt. Ligatura talis cuiusmodi est secunda, dicitur prima brevis et secunda similiter. Ligatura qualis est tertia, sine proprietate, prima dicitur longa, secunda brevis.</p>
+      <p id="AGANOCO0020">De ligaturis ascendentibus</p>
+      <p id="AGANOCO0021">Ligatura talis ascendens sine proprietate, omnes breves sunt: [ClefC2,Lig3aa,BP,Lig3aa,BP on staff4] nisi prima nota tractum habuerit descendentem, ut hic [ClefC2,Lig3Laa on staff3] tunc prima erit longa, secunda et 
+      <pb n="[20]" />tertia breves sunt. Unde regula generalis est de ultima sic stante in directe que semper est brevis.</p>
+      <p id="AGANOCO0022">Si vero directe steterit supra penultimam, ut hic: [ClefC2,Lig3aart,BP,Lig3aart on staff3] tunc ultima est longa.</p>
+      <p id="AGANOCO0023">Vel nisi tractulum habuerit ex parte dextra ascendentem, ut hic: [ClefC2,Lig3Laacsdx,Lig2acsdx on staff3] tunc similiter ultima erit longa.</p>
+      <p id="AGANOCO0024">Vel descendentem, ut hic: [ClefC2,Lig3aacddx on staff3]</p>
+      <p id="AGANOCO0025">De ligaturis descendentibus</p>
+      <p id="AGANOCO0026">Ligatura talis descendens: [ClefC4,Lig3dd,Lig4ddd on staff4] prima est longa, secunda brevis, tercia longa, nisi tractulum seu proprietatem habuerit descendentem, ut hic: [ClefC3,Lig3cdsndd,Lig5cdsndddd,Lig4cdsnodad,Lig6cdsnddodad on staff4] tunc prima et secunda breves sunt, tertia est longa. Cum autem multe note colligantur ad invicem isto modo: [Lig5cdsndddd,Lig14cdsnodaodaaddodadadd on staff4] omnes sunt breves, excepta ultima nota, que, si est quadrata, est longa, ut predixi; nisi sit configurata isto modo: [ClefC4,Lig4cdsnddod,Lig7cdsnddoaddod,2LP,Lig3cdsndod,Lig4cdsnddod,Lig5cdsndddod on staff4] tunc, quidem, ultima erit brevis sicut aliarum ligaturarum que precedunt ipsam.</p>
+      <p id="AGANOCO0027">De ligaturis semibrevibus</p>
+      <p id="AGANOCO0028">In omni autem ligatura proprietas sive tractus ascendens ponitur in prima notula ligature ascendentis veluti descendentis, facit duas primas esse semibreves, ut patet hic:</p>
+      <p id="AGANOCO0029">[ClefC3,Lig3cssnaart,Lig3cssnaart,Lig3cssnoad,Lig3cssnaod,Lig4cssnaad,Lig2cssnoa,Lig2cssnoa,Lig3cssnoaa on staff4]</p>
+      <p id="AGANOCO0030">[ClefC3,Lig3cssndd,Lig2cssnod,Lig3cssndod,Lig3cssndd,Lig2cssnod,Lig2cssnod,Lig2cssnod,Lig2cssna,Lig2cssnod,Lig2cssnod,Lig2cssna,Lig3cssnaart on staff4]</p>
+      <p id="AGANOCO0031">Determinatur hic de valore notarum mediarum</p>
+      <p id="AGANOCO0032">Dictum est de principio ligaturarum et de fine earundem. Nunc breviter dico de omnibus mediis notis, quod omnes note medie breves sunt, ut patet hic:</p>
+      <p id="AGANOCO0033">[ClefC3,Lig11aaadodaadodart,2LP,Lig5aadd,BP,Lig10odaadodaodaa,BP,Lig14aaodaodaaaodaodad on staff4]</p>
+      <p id="AGANOCO0034">
+      <pb n="[21]" />De altera brevi</p>
+      <p id="AGANOCO0035">De altera brevi de qua tetigi in principio. Est sciendum quod quando due breves ponuntur inter duas longas, secunda alteratur, et valet duo tempora, ut patet hic:</p>
+      <p id="AGANOCO0036">[ClefC2,ClefC4,L,B,B,L,BP,L,B,B,L,BP,Lig4Laad,BP,Lig4odaart,BP,Lig4odaacddx,BP,L,B,pt,Lig2cdsnod,L,pt,L,B,pt,Lig2cdsnod,L,Lig3aart,pt,Lig3cdsnodart,pt,L,Lig3cdsndd,pt,Lig3cdsndd,pt on staff4]</p>
+      <p id="AGANOCO0037">De valore semibrevium</p>
+      <p id="AGANOCO0038">De semibrevibus et earum valore nunc dicendum restat. Unde sciendum est quod semibreves note ponuntur aliquando due pro tempore, id est, pro una brevi nota, aliquando tres, quinque IIII, quinque V., sex VI., aliquando .VII., aliquando .VIII., aliquando .IX. ut patet hic: [ClefC4,S,S,pt,S,S,S,pt,B,S,S,S,S,pt,B,S,S,S,S,S,pt,B,S,S,S,S,S,S,pt,B,S,S,S,S,S,S,S,pt,B,S,S,S,S,S,S,S,S,pt,L on staff5]</p>
+      <p id="AGANOCO0039">.IX. semibreves dicuntur poni pro tempore, ut in illo cantu qui sic incipit:</p>
+      <p id="AGANOCO0040">[AM13:21,1; text: Aucuns ont trouve chant par usage, mais a moi ont done en chaison. Tenor.]</p>
+      <p id="AGANOCO0041">Quando ponuntur due semibreves pro tempore, ponuntur esse equales, quando cantatur de tempore imperfecto:</p>
+      <p id="AGANOCO0042">[AM13:21,2]</p>
+      <p id="AGANOCO0043">Quando tres ponuntur pro tempore, omnes sunt aequales.</p>
+      <p id="AGANOCO0044">Quando vero .IIII.or, .V., sex vel plures inequales sunt ad invicem, ut patet hic supra.</p>
+      <p id="AGANOCO0045">In Cathalonia et aliquibus aliis locis observatur iste modus. In aliquibus, vero, terris, quando sunt due semibreves pro tempore, faciunt primam maiorem, secundam minorem. Et quando sunt tres, equales, ut patet hic superius. Et ista est doctrina quam omnes tenuerunt a .XXX. annis et citra. Moderni tamen superaddunt aliquid et dicunt: quandocumque sunt tres note, vel. .IIII., vel plures pro tempore unius brevis note posite, si una plus alia teneatur, debet fieri aliqua distinctio. Et ideo supra illam notam que minus tenetur ponunt tractulum et vocant eam minimam, eo quod minorem eam dicunt esse semibrevi, ut patet hic supra.</p>
+      <p id="AGANOCO0046">[AM13:21,3]</p>
+      <p id="AGANOCO0047">
+      <pb n="[22]" />Et ratione huius variationis dicam hic intellectum et traditionem predictorum magistrorum cantus organici primo, et postea modernorum. Magistri predicti dixerunt quod quando sunt due semibreves posite pro tempore imperfecto, sunt equales; quando, vero, de tempore perfecto, prima est maior, secunda minor. Dicitur, autem, maior, quia continet tantum de tempore quantum continent due prime semibreves trium positarum pro uno tempore. Exemplum hic:</p>
+      <p id="AGANOCO0048">[ClefC3,S,S,pt,S,S,pt,S,S,L,BP,S,S,S,pt,B,S,S,S,Lig4dad,2LP on staff4]</p>
+      <p id="AGANOCO0049">[AM13:22,1; text: Patrem omnipotentem factorem celi et terre visibilium omnium et] 
+      <figure>
+        <graphic url="/images/AGANOCO_02GF.gif" />
+      </figure></p>
+      <p id="AGANOCO0050">Similiter dicunt quod duo sunt modi cantandi, sive prolationis: modus prolixior, et hic dicitur de tempore perfecto, et modus brevior, et hic dicitur de tempore imperfecto:</p>
+      <p id="AGANOCO0051">[ClefC3,B,Lig2cdsnod,[sqb],Lig2a,B,S,S,S,B,B,B,B,B,B on staff5]</p>
+      <p id="AGANOCO0052">Dicunt ergo quod tripliciter potest cantari: secundum tempus, in presenti uno modo de uno tempore imperfecto, ut, scilicet, quelibet nota habeat unum tempus imperfectum.</p>
+      <p id="AGANOCO0053">Alio modo ut quelibet nota contineat duo tempora imperfecta.</p>
+      <p id="AGANOCO0054">Tertio modo ut quelibet nota contineat in se tria tempora imperfecta:</p>
+      <p id="AGANOCO0055">[AM13:22,2; text: Benedicta et celorum regina.]</p>
+      <p id="AGANOCO0056">Exemplum hunc hic superius de quolibet horum.</p>
+      <p id="AGANOCO0057">Dicunt etiam quod modus prolixior habet triplicem prolationem: Prima prolatio est unius temporis, scilicet illud tempus dicunt continere duo tempora modi brevioris, id est, longam imperfectam. Secunda prolatio, sive secundus modus temporis maioris, est duorum temporum, id est, duarum longarum imperfectarum. Tertia prolatio est trium temporum que continet .VI. breves. Et sic idem cantus qui secundus est ad cantandum breviori modo, potest cantari prolixiori et eorum exemplum ponitur hic:</p>
+      <p id="AGANOCO0058">[AM13:22,3; text: Honor ave virginum flosque puritatis.]</p>
+      <p id="AGANOCO0059">Item magistri predicti posuerunt .VI. species sive modos cantus organici. Primus modus est ex longa et brevi. Secundus ex brevi et longa. Tertius ex longa et duabus brevibus. 
+      <pb n="[23]" />Quartus ex duabus brevibus et longa. Quintus ex omnibus longis. Sextus pro maiori parte ex omnibus semibrevibus. Septimus ex brevibus. [ClefC2,L,B; B,L; L,B,B; B,B,L; L,L,L; S,S,pt,S,S,pt,S,S,B; B,B,B on staff3; text: Ius, IIvs, IIIus, IVus, Vus, VIus, VIIus]</p>
+      <p id="AGANOCO0060">Nota etiam quod longa quedam est simplex, quedam est duplex. Longa simplex alia est imperfecta, que est duorum temporum; alia perfecta, que est trium temporum. Et de istis duabus est dictum in principio.</p>
+      <p id="AGANOCO0061">De longa duplici est sciendum quod longa duplex quandoque continet duas longas simplices, aliquando tres, quandoque IIIIor, quandoque quinque, quandoque .VI. Et ne contingat errare, debent poni puncta ad maiorem certitudinem, ut patet hic:</p>
+      <p id="AGANOCO0062">[AM13:23,1]</p>
+      <p id="AGANOCO0063">Magistri moderni dicunt quod duo sunt modi temporis, scilicet, tempus perfectum et tempus imperfectum, et ponunt IIIIor esse modos prolationis: duos de tempore perfecto et duos de tempore imperfecto. Primus modus est de tempore perfecto maioris prolationis; secundus est de tempore perfecto minoris prolationis; tertius est de tempore imperfecto maioris prolationis; quartus de tempore imperfecto maioris prolationis.</p>
+      <p id="AGANOCO0064">Tempus perfectum maioris prolationis continet in se tres semibreves perfectas et quelibet illarum continet in se tres minimas, vel valorem numero ternario numerando, et sic vadunt .IX. minime pro tempore, prout est hic notatum: [ClefC2,B,pt,BP,S,S,S,BP,S,S,S,M,BP,S,S,M,S,M,BP,S,M,S,M,S,M,BP,M,M,M,M,M,M,M,M,M,BP,B,S,BP,S,B on staff4]</p>
+      <p id="AGANOCO0065">Tempus perfectum minoris prolationis continet in se tres semibreves imperfectas et quelibet illarum continet in se duas minimas numero binario numerando, et sic ponuntur sex minime pro tempore, prout videtis hic notatum: [ClefC2,B,pt,BP,S,S,S,BP,S,S,M,M,BP,S,M,M,M,M,BP,M,M,M,M,M,M,BP,B,S,BP,S,B on staff3]</p>
+      <p id="AGANOCO0066">Tempus imperfectum maioris prolationis continet in se duas semibreves perfectas, et quelibet illarum continet in se .III. minimas vel valorem numero ternario numerando, prout est hic notatum: [ClefC2,B,BP,S,S,BP,S,S,M,BP,S,M,S,M,BP,M,M,M,M,M,M on staff3]</p>
+      <p id="AGANOCO0067">Tempus imperfectum maioris prolationis continet in se duas semibreves imperfectas et quelibet illarum continet in se duas minimas numero binario numerando, et sic ponuntur IIII. minime pro tempore, prout apparet hic notatum: [ClefC2,B,BP,S,S,BP,S,M,M,BP,M,M,S,BP,M,M,M,M,BP on staff3]</p>
+      <p id="AGANOCO0068">
+      <pb n="[24]" />De pausis</p>
+      <p id="AGANOCO0069">Ssiendum quod pausa que continet tria spatia, ut hic: [3LP] est pausa trium temporum, et ita perficit longam, sicut [L] longa sequens eam.</p>
+      <p id="AGANOCO0070">Pausa continens spatia duo, est duorum temporum, ut hic: [2LP] Si contineat unum spatium, est unius temporis, ut hic: [BP]</p>
+      <p id="AGANOCO0071">Si sit pausa semibrevis perfecte, ponetur talis pausa: [SP]</p>
+      <p id="AGANOCO0072">Si sit pausa semibrevis imperfecte, ponantur due pausule minimarum, ut hic. [MP,MP]</p>
+      <p id="AGANOCO0073">Si sit pausa sole minime, ponatur ut hic: [MP]</p>
+      <p id="AGANOCO0074">[MP,MP,MP,SP,BP,2LP,3LP,2LP,BP,SP,MP,MP,MP on staff5]</p>
+    </body>
+  </text>
+</TEI>

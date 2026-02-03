@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>[Practica notarum]</title>
+        <title type="abbrev">ANOPRNO_MSAVI44</title>
+        <author>Anonymous</author>
+        <date notBefore="1400" notAfter="1499">15th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>T</resp>
+        <persName>Oliver B. Ellsworth</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Peter Slemon</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>2002</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Salzburg, Stiftsbibliothek St. Peter, MS a.VI.44, ff. 41v–44v.
+</bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANOPRNO_MSAVI440001">
+      <pb n="[f.41v]" />[Inicium habes in principio huius libri ad tale signum [signum] in marg.]</p>
+      <p id="ANOPRNO_MSAVI440002">Sequitur nunc practica notarum In quibus nulla fit mutacio quam diligenter tua mente inprimere debes qua acquisita habebis faciliorem aggressum ad illam in quantum vna commutatur in aliam et cetera</p>
+      <p id="ANOPRNO_MSAVI440003">[Salzburg, St. Peter's, a.VI.44, f.41v] 
+      <figure>
+        <graphic url="/images/ANOPRNO_01GF.gif" />
+      </figure></p>
+      <p id="ANOPRNO_MSAVI440004">Nunc sequitur practica earum in quantum vna vox sew nota commutatur in aliam sibi subordinatam. De quibus dantur exempla hec sequencia que diligenter conspice ad mutacionem noticiam acquierendam. et cetera</p>
+      <p id="ANOPRNO_MSAVI440005">
+      <pb n="[f.42r]" />[Salzburg, St. Peter's, a.VI.44, f.42r; text: fa in vt, vt in fa, Cfaut. vtfa. sol in re. re in sol. Dsolre. resol. la in mi. mi in la. Elami. mila. Ffaut. Gsolre. sol in vt. vt in sol. Solut. vtsol.] 
+      <figure>
+        <graphic url="/images/ANOPRNO_02GF.gif" />
+      </figure></p>
+      <p id="ANOPRNO_MSAVI440006">
+      <pb n="[f.42v]" />[Salzburg, St. Peter's, a.VI.44, f.42v; text: re in vt. vt in re, Reut. vtre. la in mi. mi in la. Alami. mila. la in re. re in la. Lare. rela. mi in re. re in mi. Mire. remi. sol in fa, fa in sol, Csolfa. fasol.] 
+      <figure>
+        <graphic url="/images/ANOPRNO_03GF.gif" />
+      </figure></p>
+      <p id="ANOPRNO_MSAVI440007">
+      <pb n="[f.43r]" />[Salzburg, St. Peter's, a.VI.44, f.43r; text: fa in vt, vt in fa, faut. vt fa. sol in vt. vt in sol. Solut. vtsol. la in sol. sol in la. Dlasol. solla. sol in re. re in sol, Solre. resol. la in re. re in la. Lare. rela.] 
+      <figure>
+        <graphic url="/images/ANOPRNO_04GF.gif" />
+      </figure></p>
+      <p id="ANOPRNO_MSAVI440008">
+      <pb n="[f.43v]" />[Salzburg, St. Peter's, a.VI.44, f.43v; text: la in mi. mi in la. EELami. mila. fa in vt. vt in fa, FFfaut. vtfa. sol in re. re in sol. GGSolre. resol. re in vt. vt in re, Reut. vtre. sol in vt. vt in sol. Solut. vtsol.] 
+      <figure>
+        <graphic url="/images/ANOPRNO_05GF.gif" />
+      </figure></p>
+      <p id="ANOPRNO_MSAVI440009">
+      <pb n="[f.44r]" />[Salzburg, St. Peter's, a.VI.44, f.44r; text: la in mi. mi in la. AAlami. mila. mi in re. re in mi. Mire. remi. la in re. re in la. Lare. rela. sol in fa. fa in sol, CCsolfa. fasol. la in sol. sol in la. DDLasol. solla.] 
+      <figure>
+        <graphic url="/images/ANOPRNO_06GF.gif" />
+      </figure></p>
+      <p id="ANOPRNO_MSAVI440010">
+      <pb n="[f.44v]" />[Salzburg, St. Peter's, a.VI.44, f.44v; text: Ela.]</p>
+    </body>
+  </text>
+</TEI>

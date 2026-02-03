@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Liber musicalium</title>
+        <title type="abbrev">VITLIBM</title>
+        <author>Philippe de Vitry</author>
+        <date notBefore="1300" notAfter="1399">14th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>C. Matthew Balensuela</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Luminita Florea Aluas</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Albert C. Rotola</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>S.J.</persName>
+      </respStmt>
+      <date>1991</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>Scriptorum de musica medii aevi nova series a Gerbertina altera</emph>, 4 vols., ed. Edmond de Coussemaker (Paris: Durand, 1864-76; reprint ed., Hildesheim: Olms, 1963), 3:35–46.
+</bibl>
+        <bibl type="work">
+          
+<title>Ps.-Philippus de Vitriaco: Liber musicalium</title>
+          
+<idno type="LML">PS.-PHIL. lib. mus.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">CH-Bu F VIII 16, 184v-187v (Extrait)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Sm Ms. M. 222 C. 22, 3-7</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Sc L.V.36, 23v-25</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="VITLIBM0001">
+      <pb n="[35]" />Philippi de Vitriaco</p>
+      <p id="VITLIBM0002">Liber musicalium.</p>
+      <p id="VITLIBM0003">Quoniam de arte mensurabili tractare proponimus, scire debemus quid sit musica, et unde dicatur, et quot sint ejus claves, et quot voces similiter et quot toni.</p>
+      <p id="VITLIBM0004">Primo sciendum est quod musica est de multitudine sonorum, scilicet de numero relato ad sonum.</p>
+      <p id="VITLIBM0005">Vel musica est peritia modulationis, cujus subjectum est quantitas discreta de numero relato ad sonum; vel sonus armonicus numeri proportione coactus; vel res armonica numeri proportione coacta.</p>
+      <p id="VITLIBM0006">Dicitur autem a musis, quia per musas et vires carminum modulatio conquiritur. Dicitur etiam a 
+      <pb n="[36]" />Moys que est aqua, et ycos quod est scientia, quasi scientia aquatica vel composita juxta aquas.</p>
+      <p id="VITLIBM0007">Sciendum quod viginti sunt claves in numero, et [sqb] quadratum quod bis ponitur in cantu, quarum octo prime dicuntur graves, et septem acute et quinque superacute. Ad hujus intelligentiam sciendum quod septem sunt littere latine ex quibus voces exprimuntur, videlicet A, B, C, D, E, F, G, que etiam claves vocantur; per ipsas enim cantus reseratur. Et sicut clavis in sera revolvitur, ita totius musice cantus in istis septem litteris implicatur.</p>
+      <p id="VITLIBM0008">Sex enim sunt voces in quibus tota musica conformatur, scilicet ut, re, mi, fa, sol, la, quarum semper una in linea, et alia in spatio locum habet.</p>
+      <p id="VITLIBM0009">Notandum quod duplex est tonus, scilicet tonus sonorum et tonus musice. Tonus sonorum est ascensus duarum vocum vel descensus, ut distat inter ut et re, et e converso; vel inter re et mi, et e converso; vel inter fa et sol, et e convrerso; vel inter sol, la, et e converso.</p>
+      <p id="VITLIBM0010">Tonus musice est discretio principii et finis, ascensus et descensus cujus libet regularis cantus; vel est quedam regula que in omni cantu in fine dinoscitur vel dividicatur; et istorum sunt octo, scilicet primus, secundus, tertius, quartus, quintus, sextus, septimus et octavus; quorum quatuor sunt impares et quatuor pares; et nota versus de fine eorum:</p>
+      <p id="VITLIBM0011">Impar quisque parem sibi postulat associatum;</p>
+      <p id="VITLIBM0012">Qui secum possunt in eodem fine morare.</p>
+      <p id="VITLIBM0013">Finem cunctorum cantor cognosce tenorem.</p>
+      <p id="VITLIBM0014">Semper primorum D gravis fine duorum</p>
+      <p id="VITLIBM0015">E sunt sumentes alii duo fine sequentes</p>
+      <p id="VITLIBM0016">Hujus et unus tangunt F sic dat tibi textus.</p>
+      <p id="VITLIBM0017">Septimus octavus in sola G requiescunt.</p>
+      <p id="VITLIBM0018">Nota versus de tonorum ascensu et descensu:</p>
+      <p id="VITLIBM0019">Sex paritas scandit in fine que quatuor ymat.</p>
+      <p id="VITLIBM0020">Imparitas que conscendit bassantur ad unum.</p>
+      <p id="VITLIBM0021">Regule discantus.</p>
+      <p id="VITLIBM0022">Sequuntur regule fundamenti discantus. Et nota quod septem sunt species concordantiarum, videlicet: Unisonus, dytonus, dyapente, tonus cum dyapente, dyapason, dytonus cum dyapason, dyapente cum dyapason. Et illarum quatuor dicuntur perfecte, scilicet unisonus, dyapente, dyapason et dyapente cum dyapason. Et alie tres nominatur imperfecte, scilicet dytonus, tonus cum dyapente et dytonus cum dyapason. Sed omnes debent esse perfecte de tonis suis, et quando non, debemus eas perfectas facere cum voce per hoc signum [sqb] durum vel quadratum, quia ubicunque ponitur in cantu, signat ascensum unius semitonii, et b molle signat descensum semitonii.</p>
+      <p id="VITLIBM0023">Et prime quatuor dicuntur perfecte de se ipsis, quia omnis discantus debet incipi et finiri in illis quatuor; et sunt magis necessarie quam alie. Tres dicuntur imperfecte; que ideo dicuntur imperfecte, quia discantus non potest incipi nec finiri in illis. Et oportet etiam quod sint perfecte de de tonis suis; quando non, debemus eas perficere cum voce.</p>
+      <p id="VITLIBM0024">Nota unisonus est, quando cantus et discantus in eadem voce manifestantur, et dicitur quasi unius soni.</p>
+      <p id="VITLIBM0025">Dytonus constat ex tribus vocibus in quibus invenimus duos tonos; et dicitur a dya, quod est duo, et tonus, quasi duorum tonorum, et nominatur tertia perfecta. Et invenitur semidytonus quoniam constat ex tribus vocibus in quibus invenitur tonus cum semitonio; et dicitur a semis quod est dimidium, et tono, id est semitonio et tono. Fit semidytonus et nominotur tertia imperfecta.</p>
+      <p id="VITLIBM0026">Dyapente constat ex quinque vocibus in quibus invenimus tres tonos cum uno semitonio; et dicitur a dya, quod est de, et pentha quod est quinque, id est de quinque vocibus fit dyapente et vocatur quinta.</p>
+      <p id="VITLIBM0027">
+      <pb n="[37]" />Tonus cum dyapente constat ex sex vocibus in quibus nos invenimus quatuor tonos cum uno semitonio, et nominatur sexta perfecta.</p>
+      <p id="VITLIBM0028">Et invenitur semitonus cum dyapente, et constat ex sex vocibus in quibus inveniuntur tres tonis cum duobus semitoniis, et vocatur sexta imperfecta.</p>
+      <p id="VITLIBM0029">Dyapason constat ex octo vocibus in quibus invenimus quinque tonos cum duobus semitoniis; et dicitur a dya, quod est de, et pason, octo; et vocatur octava.</p>
+      <p id="VITLIBM0030">Dytonus cum dyapason constat ex decem vocibus in quibus invenimus septem tonos cum duobus semitoniis et vocatur decima perfecta.</p>
+      <p id="VITLIBM0031">Et invenitur semidytonus cum dyapason, et constat ex decem vocibus in quibus invenimus quinque tonos cum tribus semitoniis, et vocatur decima imperfecta.</p>
+      <p id="VITLIBM0032">Dyapente cum dyapason constat ex duodecim vocibus in quibus invenimus octo tonos cum tribus semitoniis, et vocatur duodecima.</p>
+      <p id="VITLIBM0033">Et inveniuntur adhuc due species scilicet tonus cum dyapente et dyapnson, et duplex dyapason.</p>
+      <p id="VITLIBM0034">Tonus cum dyapente et dyapason constat ex tredecim vocibus in quibus nos invenimus novem tonos cum tribus semitoniis, et vocatur sexta supra octavam.</p>
+      <p id="VITLIBM0035">Et invenitur semidytonus cum dyapente et dyapason, et constat ex tredecim vocibus in quibus invenimus octo tonos cum quatuor semitoniis, et vocatur sexta imperfecta supra octavam.</p>
+      <p id="VITLIBM0036">Duplex dyapason constat ex quatuordecim vocibus in quibus invenimus decem tonos cum quatuor semitoniis, et vocatur duplex octava vel quatuordecima.</p>
+      <p id="VITLIBM0037">Sequitur quomodo iste septem species ponende sunt in discantu.</p>
+      <p id="VITLIBM0038">Et nota quod due species perfecte de se ipsis uon possunt poni insimul, id est quod unisonus bis non debet poni, nec quinta, nec octava, nec duodecima. Et nota quod cantus et discantus non debent ascendere insimul, nisi cum speciebus imperfectis.</p>
+      <p id="VITLIBM0039">Ulterius sciendum quod quando cantus ascendit, et tunc discantus incipit in quinta, tunc quinta debet habere post se tertiam, et tertia unisonum, ut hic patet:</p>
+      <p id="VITLIBM0040">[CSIII:37,1; text: Cantus. Discantus.] 
+      <figure>
+        <graphic url="/images/VITLIBM_01GF.gif" />
+      </figure></p>
+      <p id="VITLIBM0041">Sed quando cantus ascendit, et discantus incipit in duodecima, tunc duodecima debet post se habere decimam, et decima octavam, ut in exemplo subscripto:</p>
+      <p id="VITLIBM0042">[CSIII:37,2; text: Cantus. Discantus.]</p>
+      <p id="VITLIBM0043">Nota etiam quando tres voces in una linea seu in uno spatio veniunt insimul, et tunc discantus incipitur per octavam, tunc octava debet post se habere quintam et converso, ut patet in exemplo hoc:</p>
+      <p id="VITLIBM0044">[CSIII:37,3; text: Cantus. Discantus.]</p>
+      <p id="VITLIBM0045">Et si discantus inciperet per quintam, tunc quinta debet post se habere octavam, et e converso octava quintam, ut hic patet:</p>
+      <p id="VITLIBM0046">[CSIII:37,4; text: Cantus. Discantus.]</p>
+      <p id="VITLIBM0047">Nota quando cantus descendit, et cum discantus 
+      <pb n="[38]" />incipit per unisonum, tunc unisonus debet post se habere tertiam et tertia quintam, ut hic sequitur:</p>
+      <p id="VITLIBM0048">[CSIII:38,1; text: Cantus. Discantus.]</p>
+      <p id="VITLIBM0049">Et iste cantus potest elevari per octavam et cantare istas notas predictas equaliter, ut hic:</p>
+      <p id="VITLIBM0050">[CSIII:38,2; text: Cantus. Discantus.]</p>
+      <p id="VITLIBM0051">Sciendum quando cantus ascendit per dytonum vel per semidytonum, et tunc discantus sit in octava, tunc octava debet post se habere quintam, ut in hoc exemplo sequenti habetur:</p>
+      <p id="VITLIBM0052">[CSIII:38,3; text: Cantus. Discantus.]</p>
+      <p id="VITLIBM0053">Et si discantus incipit in quinta, tunc quinta habere debet post se unisonum, ut hic:</p>
+      <p id="VITLIBM0054">[CSIII:38,4; text: Cantus. Discantus.]</p>
+      <p id="VITLIBM0055">Et nota quod iste cantus potest elevari per octavam et cantare notas equales, ut hic habetur exemplum:</p>
+      <p id="VITLIBM0056">[CSIII:38,5; text: Cantus. Discantus.]</p>
+      <p id="VITLIBM0057">Nota quando descendit per dytonum vel semidytonam, et si discantus sit in quinta, tunc quinta debet post se habere octavam, ut hic:</p>
+      <p id="VITLIBM0058">[CSIII:38,6; text: Cantus. Discantus.]</p>
+      <p id="VITLIBM0059">Sed discantus sit unisono, tunc unisonus debet post se habere quintam, ut hic in exemplo:</p>
+      <p id="VITLIBM0060">[CSIII:38,7; text: Cantus. Discantus.]</p>
+      <p id="VITLIBM0061">Et iste cantus potest etiam elevari per octavam vel duodecimam et cantare dictas notas, ut infra:</p>
+      <p id="VITLIBM0062">[CSIII:38,8; text: Cantus. Discantus.]</p>
+      <p id="VITLIBM0063">Et notandam quando tres note, vel quatuor, vel quinque descendunt de linea ad spatium, vel e converso, et tunc discantus sit in quinta, tunc quinta debet post se habere sextam, vel sextas, et post sextas octavam, ut hic habetur:</p>
+      <p id="VITLIBM0064">[CSIII:38,9; text: Cantus. Discantus.]</p>
+      <p id="VITLIBM0065">Et si esset in octava, deberet habere post se quintam, ut hic:</p>
+      <p id="VITLIBM0066">[CSIII:38,10; text: Cantus. Discantus.]</p>
+      <p id="VITLIBM0067">Et si esset in quinta, tunc quinta post se deberet habere unisonum, ut hic:</p>
+      <p id="VITLIBM0068">
+      <pb n="[39]" />[CSIII:39,1; text: Cantus. Discantus.] 
+      <figure>
+        <graphic url="/images/VITLIBM_02GF.gif" />
+      </figure></p>
+      <p id="VITLIBM0069">Et si descenderet in dyatessaron, tunc predicte species deberent poni modo contrario, scilicet quod octava habet post se duodecimam, et quinta octavam, et unisonus quintam, et sequuntur de his exempla per ordinem:</p>
+      <p id="VITLIBM0070">[CSIII:39,2; text: Cantus. Discantus.]</p>
+      <p id="VITLIBM0071">Notandum si cantus ascenderet in dyapente, et tunc discantus esset in duodecima, tunc duodecima debet post se habere quintam, ut hic:</p>
+      <p id="VITLIBM0072">[CSIII:39,3; text: Cantus. Discantus.]</p>
+      <p id="VITLIBM0073">Et si descenderet in dyapente, et tunc discantus esset in quinta, tunc quinta debet post se habere quintam super octavam, id est duodecimam, ita quod quinta ad quintam reducitur ascendendo vel descendendo in cantu, ut hic in exemplo:</p>
+      <p id="VITLIBM0074">[CSIII:39,4; text: Cantus. Discantus.]</p>
+      <p id="VITLIBM0075">Notandum si cantus ascenderet per dytonum vel semidytonum, et postea descenderet per tonum vel semitonium, et tunc discantus sit in duodecima, potest post se habere decimam, et decima duodecimam:</p>
+      <p id="VITLIBM0076">[CSIII:39,5; text: Cantus. Discantus.]</p>
+      <p id="VITLIBM0077">Et si velles descendere cum discantu, tunc duodecima debet habere post se sextam, et sexta octavam, ut hic patet:</p>
+      <p id="VITLIBM0078">[CSIII:39,6; text: Cantus. Discantus.]</p>
+      <p id="VITLIBM0079">Et si cantus ascenderet in dyapente et postea descenderet per tonum, et tunc discantus esset in duodecima, post se habere potest sextam et sexta octavam, ut hic:</p>
+      <p id="VITLIBM0080">[CSIII:39,7; text: Cantus. Discantus.]</p>
+      <p id="VITLIBM0081">Et si discantus esset in octava, tunc octava posset post habere tertiam, et tertia quantam, ut hic:</p>
+      <p id="VITLIBM0082">[CSIII:39,8; text: Cantus. Discantus.]</p>
+      <p id="VITLIBM0083">Et si velles ascendere cum discantu, tunc octava debet habere post se sextam, et sexta octavam, ut hic patet:</p>
+      <p id="VITLIBM0084">[CSIII:39,9; text: Cantus. Discantus.]</p>
+      <p id="VITLIBM0085">Et si discantus descenderet in dyapente et postea 
+      <pb n="[40]" />ascenderet per tonum vel semitonium, et cum discantus sit in quinta, potest habere post se duodecimam, et duodecima octavam, ut hic:</p>
+      <p id="VITLIBM0086">[CSIII:40,1; text: Cantus. Discantus.] 
+      <figure>
+        <graphic url="/images/VITLIBM_03GF.gif" />
+      </figure></p>
+      <p id="VITLIBM0087">Vel quinta potest habere post se decimam, et decima octavam, ut hic:</p>
+      <p id="VITLIBM0088">[CSIII:40,2; text: Cantus. Discantus.]</p>
+      <p id="VITLIBM0089">Et est sciendum quando cantus ascendit per tonum vel simitonium, et postea descendit per tonum vel semitonium, et si discantus sit in octava, tunc octava post se habere debet sextam, et sexta octavam, ut hic:</p>
+      <p id="VITLIBM0090">[CSIII:40,3; text: Cantus. Discantus.]</p>
+      <p id="VITLIBM0091">Et si discantus sit in duodecima, debet habere post se decimam, et e converso decima duodecimam, ut hic:</p>
+      <p id="VITLIBM0092">[CSIII:40,4; text: Cantus. Discantus.]</p>
+      <p id="VITLIBM0093">Et si discantus esset in quinta, tunc quinta post se habere debet tertiam, et tertia e converso quintam, ut hic sequitur:</p>
+      <p id="VITLIBM0094">[CSIII:40,5; text: Cantus. Discantus.]</p>
+      <p id="VITLIBM0095">Et si cantus descenderet tali modo ut infra, et discantus inciperet per octavam, tunc octava potest habere post se decimam, et decima duodecimam, et duodecima tredecimam, et tredecima duplicem octavam, ut hic videtur:</p>
+      <p id="VITLIBM0096">[CSIII:40,6; text: Cantus. Discantus.]</p>
+      <p id="VITLIBM0097">Et si velles descendere cum discantus, tunc octava deberet post se habere sextam vel sextas, et sexta vel sexte octavam, ut in hoc exemplo:</p>
+      <p id="VITLIBM0098">[CSIII:40,7; text: Cantus. Discantus.]</p>
+      <p id="VITLIBM0099">Item notandum si cantus ascenderet dyatessaron et tunc esset in duodecima, tunc duodecima debet post se habere octavam, sic:</p>
+      <p id="VITLIBM0100">[CSIII:40,8; text: Cantus. Discantus.]</p>
+      <p id="VITLIBM0101">Et notandum quod quilibet cantor potest ponere duas vel tres vel quatuor species dictas imperfectas insimul cantu ascendente vel descendente, sed ultima nota in cantu debet descendere per tonum vel semitonium, et quelibet species imperfecta debet habere perfectam suam post se, verbi gratia: Si velles ascendere vel descendere per tertias vel etiam descendere, tunc tertia revertit ad octavam. Et si velles ascendere vel descendere per decimas, tunc decima vel decime revertunt ad duodecimam; et de iis vide exempla per ordinem primo ascendendo, secundo descendendo:</p>
+      <p id="VITLIBM0102">
+      <pb n="[41]" />[CSIII:41, text: De tertiis ascendendo. Exemplum. duodecimis. sextis. decimis.]</p>
+      <p id="VITLIBM0103">Sequitur de figurationibus notularum.</p>
+      <p id="VITLIBM0104">Prima figuratio vocatur duplex longa; alia brevis; alia semibrevis; alia minima; alia semiminima.</p>
+      <p id="VITLIBM0105">Duplex longa, sic formatur: [MX].</p>
+      <p id="VITLIBM0106">Simplex longa, sic formatur: [L,B].</p>
+      <p id="VITLIBM0107">Sed quando cauda prevalet a parte sinistra brevis est, ut hic: [Lcdsn, Lcssn]</p>
+      <p id="VITLIBM0108">Brevis, sic formatur: [B,B]</p>
+      <p id="VITLIBM0109">Semibrevis, sic [S,S]</p>
+      <p id="VITLIBM0110">Minima, sic [M,M]</p>
+      <p id="VITLIBM0111">Seminima, sic [SM,SM]</p>
+      <p id="VITLIBM0112">Sequitur de modis.</p>
+      <p id="VITLIBM0113">Et notandum quod duo sunt modi scilicet modus perfectus et modus imperfectus. Modus perfectus est quando longa valet tria tempora, id est quando habet punctum retro se, vel quando tres note sunt conjuncte et quadrate, et ultima habet punctum; vel quando pausa occupat tria spatia; vel quando longa ante pausam trium temporum ponitur; vel quando punctus ponitur inter duas breves vel inter brevem et longam.</p>
+      <p id="VITLIBM0114">Modus imperfectus est quando duplex longa ponitur et valet quatuor tempora; vel quando simplex longa valet duo tempora; vel quando pausa occupat duo spatia; vel quando longa non habet punctum, etc.</p>
+      <p id="VITLIBM0115">De temporibus.</p>
+      <p id="VITLIBM0116">Sequitur de temporibus. Et notandum quod duo sunt tempora, videlicet tempus perfectum et tempus imperfectum.</p>
+      <p id="VITLIBM0117">Tempus perfectum est quando brevis valet tres semibreves, id est quando habet punctum retro se; vel quando tres semibreves ponuntur inter duas breves; vel quando pausa unius semibrevis bis ponitur; vel quando punctus inter duas semibreves ponitur, seu inter brevem et semibrevem.</p>
+      <p id="VITLIBM0118">Tempus imperfectam est quando brevis valet duas semibreves, id est quando non habet punctum retro se, vel quando due semibreves ponuntur inter duas breves vel quatuor semibreves, vel octo inter duas majores, etc.</p>
+      <p id="VITLIBM0119">De Prolationibus.</p>
+      <p id="VITLIBM0120">Sequitur de prolationibus. Ubi sciendam quod due sunt prolationes, scilicet prolatio major, et prolatio minor.</p>
+      <p id="VITLIBM0121">Prolatio major est quando semibrevis valet tres minimas, id est quando tres minime ponuntur inter duas semibreves, vel inter brevem et semibrevem, vel inter duas breves; vel quando novem ponuntur; vel quando pausa unius minime bis ponitur; vel quando punctus ponitur inter duas minimas; vel quando semibreves vacue aut rubee ponuntur inter alias.</p>
+      <p id="VITLIBM0122">Prolatio minor est quando semibrevis valet duas minimas, id est quando due minime ponuntur 
+      <pb n="[42]" />inter duas semibreves vel inter brevem et semibrevem, vel inter duas breves; vel quando semibrevis rubea ponitur cum una minima; vel quando semibrevis habet punctum retro se, et post punctum minima debet sequi et debet cantari tardando propter minimam precedentem, si sequitur semibrevis vel semibreves et postea minima, etc.</p>
+      <p id="VITLIBM0123">De punctis.</p>
+      <p id="VITLIBM0124">De punctis. Notandum quod quatuor sunt puncta, scilicet punctus perfectionis, punctus divisionis, punctus additionis et punctus demonstrationis.</p>
+      <p id="VITLIBM0125">Punctus perfectionis ponitur retro longam, et ponitur retro brevem; et ubicunque ponitur retro longam vel retro brevem, signat trinitatem, id est perfectionem.</p>
+      <p id="VITLIBM0126">Punctus divisionis ponitur in modo perfecto inter duas breves seu inter brevem et longam; in tempore perfecto ponitur inter duas semibreves seu inter brevem et semibrevem; et ponitur in majori prolatione inter duas minimas, seu inter minimam et semibrevem.</p>
+      <p id="VITLIBM0127">Et ubicunque ponitur inter duas notas, tunc signat quod iste due note non possunt conjungi insimul neque numerari; ergo punctus divisionis dicitur.</p>
+      <p id="VITLIBM0128">Punctus additionis ponitur in majori prolatione retro semibrevem, et post illam semibrevem cum puncto debet sequi minima. Et pro illo puncto debet addi minima cum illa semibrevi. Ideo punctus additionis dicitur.</p>
+      <p id="VITLIBM0129">Punctus demonstrationis ponitur in majori prolatione super minimam, et bis ponitur, id est quod minima stat inter duo puncta, et post illam minimam semibrevis vel semibreves debent sequi. Et post semibrevem vel semibreves due minime debent sequi cum eodem puncto vel sine puncto. Sed oportet quod prima minima vel ultime minime habeant illum punctum. Et illud punctum demonstrat quod prima minima vadat cum duabus ultimis; ideo punctus demonstrationis dicitur. Et ille semibreves debent cantari tardando, quia tardantur per minimam precedentem, etc.</p>
+      <p id="VITLIBM0130">De ligatura notularum.</p>
+      <p id="VITLIBM0131">De conjunctionibus notularum. Notandum quod quando due note sunt conjuncte et quadrate, et prima habet caudam ascendentem a parte sinistra, tunc ambe sunt semibreves; exemplum ut hic: [Lig2cssnod,Lig2cssna,Lig2cssnoa,Lig2cssnd on staff2]</p>
+      <p id="VITLIBM0132">Et si due note sunt conjuncte et non quadrate et descendant, et prima habet caudam a parte sinistra descendentem, tunc ambe sunt breves; exemplum, hic: [Lig2cdsnod,Lig2cdsnod on staff2]</p>
+      <p id="VITLIBM0133">Et si due note sunt conjuncte, et prima non sit caudata, tunc prima est longa et ultima brevis, ut hic: [Lig2od,Lig2Lod on staff2]</p>
+      <p id="VITLIBM0134">Et si due note sunt conjuncte et quadrate et descendunt sine cauda, ambe sunt longe, ut hic: [Lig2d,Lig2d on staff2]</p>
+      <p id="VITLIBM0135">Etiam sciendum quod omnes note que ascendunt sine cauda, sunt breves, ut hic:</p>
+      <p id="VITLIBM0136">[Lig4aaa,Lig4oaaoa,Lig4aaa on staff4]</p>
+      <p id="VITLIBM0137">Item nota quod omnes medie, que ascendunt vel descendunt, sunt breves, nisi fuerit in modo perfecto, et tunc penultima potest valere duo tempora. Et tunc ultima debet valere tria tempora, et hoc si prima non est caudata, etc. Et notandum quod in sub notata conjunctione, prima est longa et medie sunt breves, et ultima est longa:</p>
+      <p id="VITLIBM0138">[Lig8daddadd; Lig7odadaad; Lig8Laoddaaaod,L; Lig5ddad,Lig3odacddx; Lig3dacddx on staff4]</p>
+      <p id="VITLIBM0139">
+      <pb n="[43]" />Nota quod in ista sequenti conjunctione omnes sunt breves:</p>
+      <p id="VITLIBM0140">[Lig6cdsnodaaoda; Lig4adod on staff4]</p>
+      <p id="VITLIBM0141">Et in ista conjunctione prima est brevis et ultima est longa, ut hic:</p>
+      <p id="VITLIBM0142">[Lig2cdsnd; Lig2acddx; Lig2art on staff4]</p>
+      <p id="VITLIBM0143">Nota quod in ista sequenti conjunctione prime due sunt semibreves et penultima est brevis, et ultima est longa; nisi fuerit in tempore perfecto, quia tunc secunda semibrevis posset valere duas semibreves, et penultima posset valere duo tempora ita quod ibi semper notteur trinitas, id est perfectio, exemplum sequitur:</p>
+      <p id="VITLIBM0144">[ClefF3,ClefC5,Lig4cssnddd,Lig4cssnddacddx,Lig4cssndodd,Lig4cssnddd,Lig4cssndodacddx,Lig4cssndad on staff5]</p>
+      <p id="VITLIBM0145">Et in sequenti cunjunctione prime et medie sunt breves et ultima longa:</p>
+      <p id="VITLIBM0146">[ClefF3,ClefC5,Lig5cdsnodaodacddx,Lig3cdsndacddx,Lig4adacddx,Lig4aodacddx on staff5]</p>
+      <p id="VITLIBM0147">In ista sequenti conjunctione prime due sunt semibreves et ultima brevis, ut sic:</p>
+      <p id="VITLIBM0148">[Lig3cssnaod,Lig3cssndod,Lig3cssnaa on staff5]</p>
+      <p id="VITLIBM0149">De alterationibus notularum.</p>
+      <p id="VITLIBM0150">Sequitur de alterationibus notularum. Pro quo notandum quod quando due breves ponuntur inter duas longas in modo perfecto, vel inter pausam trium temporum et longam, vel in principio cantus, tunc secunda illarum brevium alteratur, id est quod valet duas breves; vel quinque in eodem modo, tunc quinta alteratur, vel octo in eodem modo, tunc octava alteratur; exemplum ut hic:</p>
+      <p id="VITLIBM0151">[ClefF2,ClefC4,Lig3cdsndd,pt,Lig3ad,pt,L; Lig2a,L on staff5]</p>
+      <p id="VITLIBM0152">[ClefF2,ClefC4,Lig6aaddacddx,pt,Lig6cdsndodaad,pt; Lig9aaadddad on staff5]</p>
+      <p id="VITLIBM0153">Et quando due semibreves in tempore perfecto ponuntur inter duas breves, seu in principio cantus, vel inter longam et pausam unius temporis vel duorum temporum, vel ubicunque ponitur ante suas majores, tunc fit alteratio, ita quod quando sunt due, secunda alteratur; quando quinque, quinta alteratur; quando octo, tunc octava alteratur, ut patet in exemplo:</p>
+      <p id="VITLIBM0154">[ClefF3,ClefC5,Lig3cssndod,Lig4cssndodd,pt,S,S,B,BP,S,S,B,pt,S,S,L,S,S,S,Lig2cssna,B,pt,S,B,Lig2cssnod,S,Lig3cssnaa,Lig2cssna,Lig2cssnod,Lig2cssnod,Lig2cssna on staff5]</p>
+      <p id="VITLIBM0155">Et quando due minime inter duas semibreves ponuntur in majori prolatione, tunc secunda illarum minimarum alteratur. Et possunt alterari etiam in principio cantus et ubicunque ponitur ante suas majores, vel quinque in eodem modo, vel octo, exemplum hic:</p>
+      <p id="VITLIBM0156">[ClefF3,ClefC5,M,M,S,M,M,S,M,M,B; L,S,M,M,M,M,M,S,M,M,M,MP,M,S,B; ClefF3,M,M,M,M,M,M,M,M,S on staff5]</p>
+      <p id="VITLIBM0157">
+      <pb n="[44]" />Nota etiam quod omnes note alicujus figurationis, id est quando figuratio mutatur in notis vacuis aut rubeis, tunc mutatur aut modus, aut tempus aut prolatio. Si figuratio mutatur in longa, tunc mutatur in modo; si vero in brevibus, semibrevibus vel minimis, mutatur in tempore vel prolatione.</p>
+      <p id="VITLIBM0158">Et nota quod si prima figuratio sit in longa, et hoc in modo perfecto, tunc secunda figuratio que mutatur est de modo imperfecto, ut sequitur:</p>
+      <p id="VITLIBM0159">[ClefC4,pt,Lig3aacddx,pt,BP,Lig2d,pt,MXv,Lig2acddxv; Lig3ad,pt,BP,Lig2cdsnd on staff5]</p>
+      <p id="VITLIBM0160">Et e converso, si prima de modo imperfecto, tunc secunda est de modo perfecto, ut in hoc exemplo:</p>
+      <p id="VITLIBM0161">[ClefC4,LP,MX,Lig4cssnddd,LP,Bv,Bv,Lv,pt,Lig2dv,Lig3dd on staff5]</p>
+      <p id="VITLIBM0162">Si vera figuratio sit de tempore perfecto et de minori prolatione, tunc secunda figuratio, que mutatur, aliquando mutatur in tempore, aliquando in prolatione. Si vero per semibreves mutatur, in tempore et etiam in prolatione mutatur; exemplum ut hic:</p>
+      <p id="VITLIBM0163">[ClefC3,M,M,B,S,M,S,M,B,Sv,S,M,Lig2cssnod,BP,Lig2cssnav,Sv,M,L on staff5]</p>
+      <p id="VITLIBM0164">Si vero mutatur in brevibus, in tempore mutatur et non prolatione:</p>
+      <p id="VITLIBM0165">[ClefC3,Lig3cdsndod,Lig3cssnaod,pt,BP,S,B,Lig3cdsndodv,Lig3dodv,Lig3cssnaod on staff5]</p>
+      <p id="VITLIBM0166">Si prima figuratio sit in tempore perfecto et in majori prolatione, tunc secunda figuratio mutatur in prolatione et in tempore, exemplum ut hic:</p>
+      <p id="VITLIBM0167">[ClefF3,ClefC5,Lig2cssnod,MP,MP,M,S,Lig3cssnaod,Lig3cssndod,Sv,Sv,Sv,B,M,Mv,Mv,Mv,Mv,Mv,B,Lig3cssnaa,Bv,Sv,L on staff5]</p>
+      <p id="VITLIBM0168">Et aliquando quum mutantur octo vel quatuor minime, tunc mutantur minori prolatione, vel per duas semibreves vel per quatuor vel per octo semibreves, sic:</p>
+      <p id="VITLIBM0169">[ClefC3,Lig2cssna,M,M,M,S,M,S,BP,ClefC2,M,S,M,S,Mv,Mv,Mv,Mv,M,Mv,Mv,Mv,Mv,Mv,L,Sv,Sv,L on staff5]</p>
+      <p id="VITLIBM0170">Nota quod in majori prolatione minima mutatur cum semibrevi, et tunc semibrevis in se valet duas minimas, et tunc alia minima mutari debet cum semibrevi, et faciunt insimul perfectum numerum. Item notandum quod O littera signat perfectionem in cantu, et C littera signat imperfectionem, etc.</p>
+      <p id="VITLIBM0171">Nota quod in majori prolatione habemus transpositionem in cantu, id est quando minima stat inter duo puncta, vel cum uno punctu et post illam minimam semibreves conjuncte vel non conjuncte sequuntur vel sola semibrevis sequitur, tunc post semibrevem vel semibreves due minime sequuntur cum uno punctu vel sine punctu, tunc semibreves debent cantare tardando. Exemplum de illo:</p>
+      <p id="VITLIBM0172">[ClefC2,B,BP,BP,M,M,B,pt,M,pt,Lig2cssnod,Lig2cssnod,M,pt,S,B on staff4]</p>
+      <p id="VITLIBM0173">Et si prima minima stat sine puncto post semibreves, nisi sola minima sequitur, tunc deberet cantare eodem modo et hoc in minori prolatione; 
+      <pb n="[45]" />vel si semibrevis ponitur cum uno puncto eodem modo, debent cantari alie semibreves que sequuntur, ut:</p>
+      <p id="VITLIBM0174">[ClefC3,B,M,M,M,M,M,S,M,S,B,M,S,Lig2cssnod,M,S,pt,S,S,M,L,M,Lig2cssnod,Lig2cssnod,S,pt,L on staff5]</p>
+      <p id="VITLIBM0175">Et in majori prolatione isto modo debent cantari tardando, exemplum:</p>
+      <p id="VITLIBM0176">[ClefC2,B,BP,BP,M,M,S,M,B,M,Lig2cssnod,S,Sv,Bv,S,S,M,B,Sv,Lig2cssnod,Sv,S,S,B,Bv,Lig2cssnod,Sv,L,BP,MP,M,pt,Lig2cssnod,S,pt,S,L,M,Lig2cssna,S,F,L on staff5]</p>
+      <p id="VITLIBM0177">De figurationibus pausarum.</p>
+      <p id="VITLIBM0178">Notandum primo quod pausa trium temporum occupat tria spatia exemplum:</p>
+      <p id="VITLIBM0179">[LP,LP,LP,LP,LP,LP,LP,LP,LP on staff5]</p>
+      <p id="VITLIBM0180">Notandum quod pausa duorum temporum occupat duo spatia, et quando bis ponitur bis valet, et potest poni ad placitum bis, ter vel quater, ut hic:</p>
+      <p id="VITLIBM0181">[LP,LP,LP,LP,LP,LP,LP,LP,LP,LP,LP,LP,LP,LP,LP,LP,LP,LP,LP,LP on staff4]</p>
+      <p id="VITLIBM0182">Pausa unius brevis debet tangere duas lineas, vel occupare unum spatiam. Quando bis ponitur, bis valet, exemplum, ut hic:</p>
+      <p id="VITLIBM0183">[BP,BP,BP,BP,BP,BP,BP,BP,BP,BP,BP,BP,BP,BP,BP,BP,BP,BP,BP,BP,BP,BP,BP on staff4]</p>
+      <p id="VITLIBM0184">Pausa unius semibrevis debet figurari magis sub linea quam supra lineam; et quando bis ponitur, bis valet:</p>
+      <p id="VITLIBM0185">[SP,SP,SP,SP,SP,SP,SP,SP,SP,SP,SP,SP,SP,SP,SP,SP,SP,SP,SP,SP,SP,SP on staff4]</p>
+      <p id="VITLIBM0186">Pausa unius minime debet figurari magis supra linea quam sub linea; et quando bis ponitur, bis valet:</p>
+      <p id="VITLIBM0187">[MP,MP,MP,MP,MP,MP,MP,MP,MP on staff4]</p>
+      <p id="VITLIBM0188">Notandaum b fa, [sqb] mi habet duas claves videlicet b molle et [sqb] quadratum; et etiam habet duas voces fa et mi, et nullam mutationem, quia inter fa et mi, non est nisi semitonium. De semitonio non potest fieri mutatio per discordantiam vocum. Sic oportet quod quelibet vox habeat suam vocem.</p>
+      <p id="VITLIBM0189">Notandum quod invenitur ficta musica in discantu, et est quando claves b fa, [sqb] mi, et ubi ponimus b, molle dicimus, et ubi ponimus [sqb], durum dicimus. Et ficta musica fit per vocem semitonii.</p>
+      <p id="VITLIBM0190">Regula generalis.</p>
+      <p id="VITLIBM0191">Cognoscant qui canere volunt, quod nunquam 
+      <pb n="[46]" />inter sillabas ejusdem dictionis pausare licet de jure ratione cantus, nisi forte plures note sub eadem sillaba fuerint; tunc inter notas ejusdem sillabe poterint pausare, ita quod residuas notas reservent cum eadem sillaba preincepta; et note conjuncte naturaliter non debent disjungi, ut patet taliter:</p>
+      <p id="VITLIBM0192">[Lig4add; S,S,S,Lig2cdsnd; Lig4cdsnadd; Lig3ad; L,S,S,S on staff4]</p>
+    </body>
+  </text>
+</TEI>

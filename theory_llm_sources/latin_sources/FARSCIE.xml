@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>De scientiis</title>
+        <title type="abbrev">FARSCIE</title>
+        <author>Al-Farabi</author>
+        <date notBefore="1100" notAfter="1199">12th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Stephen E. Hayes</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Peter M. Lefferts</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Elisabeth Honn</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1997</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Henry George Farmer, ed. and trans., 
+<emph>Al-Farabi's Arabic-Latin Writings on Music</emph>, Collection of Oriental Writers on Music, vol. 2 (Glasgow: The Civic Press, 1934; repr., London: Hinrichsen Edition Ltd., 1965), 21–31.
+</bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="FARSCIE0001">
+      <pb n="[21]" />Text A: Scientia uero musice, comprehendit in summa, cognitionem 
+      <pb n="[22]" />specierum armoniarum, et illud ex quo componuntur, et illud ad quod componuntur, et qualiter componuntur, et quibus modis oportet ut sint donec faciant operationem suam penetrabiliorem, et magis ultimam. Et illud quidem quod hoc nomine cognoscitur, est due scientiae. Quam una est scientia musice actiua, 
+      <pb n="[23]" />et secunda scientia musice speculatiua. Musica quidem actiua, est illa cuius proprietas est ut inueniat species armoniarum sensatiuarum in instrumentis que preparata sunt eis autem per naturam autem per artem Instrumenta quidem naturalia sunt epiglotis, et 
+      <pb n="[24]" />uuula et que sunt in eis, deinde nasus. Et artificialia sunt sicut fistule, et cithare, et alia. Et opifex quidem musice actiua, non format neumas, et armonias, et omnia accidentia eorum, nisi secundum 
+      <pb n="[25]" />quod sunt in instrumentis quorum acceptio consueta est in eis. Et speculatiua quidem dat scientiam eorum, et sunt rationata, et dat causas totius ex quo componuntur armonie, non secundum quod sunt in materia, et materia, imo absolute, et secundum quod sunt remota ab omni instrumento et materia, et accipit 
+      <pb n="[26]" />ea secundum quod sunt audita secundum communiter ex quocunque instrumento accidat, et ex quocunque corpore accidat. Et diuiditur scientia musice speculatiua, in partes magnas quinque Prima eorum, est sermo de principiis, et primis quorum proprietas est ut administrentur in inuentione 
+      <pb n="[27]" />eius quod est in hac scientia, et qualiter sit modus in administratione illorum principiorum, et qua uia inuenta sit hec ars, et ex quibus rebus, et ex quot rebus componatur, et qualiter oportet ut sit inquisitor de eo quod est in ea. Et secunda est sermo de dispositionibus huius artis, et est sermo in 
+      <pb n="[28]" />inueniendo neumas, et cognitione numerum neumatum quot sint, et quot species eorum, et declaratione proportionum quarundam ad alias, et demonstrationum super omnia illa et sermo de speciebus ordinis eorum, et situum ipsorum quibus sunt preparantur ut accipiat acceptor ex eis quod uult, et componat 
+      <pb n="[29]" />ex eis armonias. Et tertia est sermo de conuenientia que declaratur in radicibus cum sermonibus et demonstrationibus super species instrumentorum artificialium que preparantur eis et acceptione eorum omnium in ea, et situ ipsorum in ea secundum mensurationem et ordinem qui declaratur in 
+      <pb n="[30]" />radicibus. Et quarta est sermo de speciebus casuum naturalium qui sunt pondera neumatum. Et quinta est de compositione armoniarum in summa, deinde de compositione armoniarum integrarum, et sunt ille que sunt posite in sermonibus metricis, compositis secundum 
+      <pb n="[31]" />ordinem, et ordinationem, et qualitate artis eorum secundum unamquamque intentionem armoniarum et docet dispositiones quibus fiunt penetrabiliores, et magis ultime in ultimitate intentionis ad quam facte sunt.</p>
+      <p id="FARSCIE0002">
+      <pb n="[21]" />Text B: Scientia musice in summa comprehendit cognitionem 
+      <pb n="[22]" />specierum armoniarum et illud ex quibus componuntur [et qualiter componuntur,] et quibus modis oportet ut sint quousque faciant operationem [suam] penetrabiliorem et magis ultimam. Musica autem alia est actiua 
+      <pb n="[23]" />alia speculatiua. Sed activa musica proprietas est invenire species armoniarum sensativarum et instrumentis que preparata sunt [in] eis per naturam per artem. Instrumenta [autem] naturalia [sunt] epiglotis et 
+      <pb n="[24]" />uvula et que sunt in eis deinde nasus. Artificialia vero sicut ut fistule et corde, et verba alia. Opifex autem musice activa non format per neupmata et armonias et alia accidentia eorum nisi [ubi sunt] 
+      <pb n="[25]" />quod sunt [in] instrumentis quorum acceptatio accepta consueta est in eis. Speculativa vero dat scientiam omnium eorum et vero causas omnes eius ex quo componuntur armonia et non secundum quod sunt in materia imo absolute et secundum quod sunt remota ab [omni] instrumento et materia et accipit 
+      <pb n="[26]" />ea secundum quod sunt audita ex quocunque in instrumento [vel ex quocunque] corpore accidunt. Speculativa vero dividitur in quinque magnas partes. Quarum prima est doctrina de principiis et [de] primis quorum proprietas vero administrentur in acceptione 
+      <pb n="[27]" />eius quod est in hac scientia [et] qualiter sit modus in administratione illorum principiorum et qua via inventa sit hec ars et ex quibus rebus et quot componatur et qualiter [enim] oportet inquiri id quod est in ea. Secunda [vero] est [doctrina] de dispositionibus huius artis scilicet 
+      <pb n="[28]" />inveniendi neupmata et cognoscendi numeros eorum quot sint et quot species eorum, et declarandi proportiones quarundam [ab illis] ad alias et demonstrationes de omnibus [communibus] illis, et docet species ordinum et situum illorum quibus preparantur ut acceptor accipiat ex eis quod vult et componat 
+      <pb n="[29]" />ex eis armonias. Tertia vero doctrina [est] de convenientia principiorum in sermonibus et demonstrationibus super species instrumentorum artificialium que preparantur eis et de acceptione omnium eorum [in ea] et situ eorum [in ea] secundum mensurationem et ordinem que assignantur in 
+      <pb n="[30]" />principiis. Quarta scientia est doctrina de speciebus casuum priorum naturalium que sunt pondera pneumatum. Quinta est doctrina de compositione armoniarum integrarum scilicet que sunt composite in sermonibus metricis compositis secundum 
+      <pb n="[31]" />ordinem, et ordinationem [et] qualitatis artis eorum secundum unamquamque intentionem armoniarum et docet quomodo fiunt penetrabiliores et magis ultime scilicet in ultimitate intentionis ad quam facte sunt.</p>
+      <p id="FARSCIE0003">
+      <pb n="[21]" />Text D: Musica comprehendit cognitionem 
+      <pb n="[22]" />specierum armonie, et illud ex quo componitur et quibus modis. Musica quoque diuiditur in actiuam 
+      <pb n="[23]" />et speculatiuam. Actiue [secundum ipsum] proprietas est inuenire armonias sensitiuas ex instrumentis que preparata sunt eis uel natura vel arte. Instrumenta naturalia sunt, ut epyglotes et 
+      <pb n="[24]" />vuula et que in eis sunt, deinde uero nasus, Artificialia sunt ut fistule corde verba et alia huius modi. Opifex itaque huius artis non format neumata et armonias, et alia eorum accidentia nisi secundum 
+      <pb n="[25]" />quod sunt in instrumentis quorum acceptio consueta est in eis. Speculatiua vero dat omnium eorum scientiam et rationes et causas, omnes eius ex quo componitur armonia non secundum quod sunt in materia sed absolute secundum quod remota sunt ab [omni] instrumento et materia, et accipit 
+      <pb n="[26]" />ea secundum quod audita sunt ex instrumento, vel ex quocunque tempore accidunt. Hec autem id est speculatiua dividitur in quinque partes magnas. Prima est de principiis, quorum proprietas est vt administrentur in acceptione 
+      <pb n="[27]" />eius quod est in hac scientia et qualiter sit mundus in acceptione principiorum illorum, et qualiter inuenta sit hec ars et ex quibus rebus et quot componatur. Secunda uero doctrinalis est de dispositionibus huius artis scilicet 
+      <pb n="[28]" />inueniendi neumata et cognoscendi numeros ac species eorum, et declarandi proportiones eorum ad invicem Docet etiam species ordinum ac situum eorum quibus preparantur ut acceptor accipiat ex eis quod vult et componat 
+      <pb n="[29]" />ex eis armonias. Tertia est de conuenientia principiorum in sermonibus et demonstrationibus super species instrumentorum artificialium que preparantur eis, et de acceptione omnium eorum ac situ eorum in ea secundum mensurationem et ordinem que in principiis 
+      <pb n="[30]" />assignantur. Quarta est de speciebus casuum naturalium que sunt pondera neumatum. Quinta uero [est] de compositione armoniarum integrarum scilicet illarum que posite sunt in sermonibus metricis secundum 
+      <pb n="[31]" />ordinationem et qualitatem artis eorum compositis. Et docet quomodo penetrabiliores fiunt et magis vltime scilicet in vltimitate intentionis ad quam facte sunt.</p>
+      <p id="FARSCIE0004">
+      <pb n="[21]" />Text F: in summa comprehendere cognicionem 
+      <pb n="[22]" />specierum armonicarum et illud ex quo componuntur et illud ad quod componuntur et qualiter componuntur et quibus modis oportet ut sint quousque faciant operacionem suam penetrabiliorem et magis ultimam. Instrumentum vero aliud est practice, 
+      <pb n="[23]" />et aliud theorice. Instrumentum [vero] practice aliud est naturale, aliud artificiale. Naturale est ut epiglotes 
+      <pb n="[24]" />uunla et que sunt in eis, et arterie et nasus. Instrumentum uero artificiale est ut fistule, corde, uerba et similia Artifex practice est qui format neumata et armonias et alia accidencia eorum secundum 
+      <pb n="[25]" />quod sunt in instrumentis quorum accepcio assueta est in eis. 
+      <pb n="[26]" />Partes uero theorice sunt quinque. Quarum prima est doctrina de principiis et primis que debent administrari in accepcione 
+      <pb n="[27]" />eius quod est in hac sciencia, et quomodo eciam administrentur illa principia, et qualiter inuenta sit hec ars, et ex quibus et ex quot componatur et qualiter oportet inquiri id quod est in ea. Secunda est doctrina de disposicionibus huius artis, scilicet 
+      <pb n="[28]" />inueniendi neumata et cognoscendi numeros eorum quot sunt et species eorum, et declarandi proporciones quarundam ad alias et demonstraciones de omnibus illis, et docet species ordinum et situum eorum quibus preparantur et unusquisque accipiat ex eis quod uult et componat 
+      <pb n="[29]" />ex eis armonias. Tertia est doctrina de conueniencia principiorum et de sermonibus et demonstracionibus specierum et instrumentorum artificialium que preparantur eis, et de accepcione ominum eorum in ea et situ ipsorum in ea secundum mensuracionem que assignatur in 
+      <pb n="[30]" />principiis. Quarta est doctrina de speciebus casuum naturalium que sunt pondera neumatum. Quinta est doctrina de compositione armoniarum in summa, deinde de composicione armoniarum integrarum, scilicet illarum que sunt posite in sermonibus metricis compositis secundum 
+      <pb n="[31]" />ordinem et ordinacionem et qualitatem artis eorum secundum unamquamque intencionem armoniarum, et docet quomodo fiant penetrabiliores et magis ultime in ultimitate intencionis ad quam facte sunt.</p>
+    </body>
+  </text>
+</TEI>

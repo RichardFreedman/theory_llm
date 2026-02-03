@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>[Mensura instrumenti organici]</title>
+        <title type="abbrev">ANOMENR</title>
+        <author>Anonymous</author>
+        <date notBefore="800" notAfter="1099">9th-11th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Peter Slemon</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Anastasia Arapova</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>2001</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+"Anonyme Mensur der Orgelpfeifen. (Ex codice Bernensi Martiani Capellae 56b. Mitgetheilt von Schubiger Spicilegien S. 82. X. Jahrhundert.)," in 
+<emph>Studien zur Geschichte der Notenschrift</emph>, ed. Hugo Riemann (Leipzig: Breitkopf and Härtel, 1878), 300.
+</bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANOMENR0001">
+      <pb n="[300]" />Mensuram et ordinem instrumenti organici qui scire voluerit, necesse est, ut in primis octo fistulas ante oculos unius longitudinis et grossitudinis (ponat). Sic tamen, ut in summitatem grossiores in inferiori parte graciliores semper sint. Tunc accipiens primam quam longam et quam brevem illam faciat, suae sit potestati, sed pro secunda primam in novem partes dividat fistulam et det secundae octo partes. Item secundam fistulam dividat in novem et det tertiae octo partes. Pro quarta accipiat primam dividens illam in quatuor partes et det tres partes illius quartae fistulae. Iterum divide quartam fistulam in novem partes et det quintae octo. Quintam partire in novem et dabis sextae octavam partem. Pro septima accipiat quartam fistulam dividatque in quatuor partes et det septimae tres partes (diese Theilung ergiebt die kleine Septime (Synemmenon), unser b). Accipe septimam fistulam, divide in novem et accipiat octava octo partes. Octava peracta, illo ordine quo de prima ad octavam venit, de octava iterum perveniat ad decimam quintam, quae est octavae octava; de quinta decima similiter illa ipsa regula ad vicesimam primam, quae est octava quintae decimae. Mensura isto modo finita ordinandum est ita, ut inter duas majores fistulas una minor ponatur quae illorum octava sit ut in (inter?) tres fistulas una consonantia sit, quae diapason vocatur, id est duae inferius una iterum alterius, sicut supra docuimus per mensuram. Deficientibus itaque minoribus fistulis sicut in praesenti loco decimo faciunt, qui C littera notatur, veniat ad prioris C mensuram et majoris illius mensura unam fistulam loco vacuo reddat. Sic de omnibus locis ubi deficiunt, respiciat litteram sibi notam et sicut per istud C monstravimus, vacua loca emendet.</p>
+    </body>
+  </text>
+</TEI>

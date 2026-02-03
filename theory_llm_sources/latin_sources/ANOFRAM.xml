@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Fragmentum de mensuris</title>
+        <title type="abbrev">ANOFRAM</title>
+        <author>Anonymous</author>
+        <date notBefore="1300" notAfter="1399">14th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>David Schneider</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Jessica Sisk</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>2003</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+F. Alberto Gallo, 
+<emph>Mensurabilis musicae tractatuli</emph>, Antiquae musicae italicae scriptores, vol. 1 (Bologna: Università degli Studi di Bologna, Istituto di Studi Musicali e Teatrali - Sez. Musicologia, 1966), 51–52. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: Tractatus de proportionibus musicae mensuralis</title>
+          
+<idno type="LML">PROP. MENS. senar.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">F-SDI 42, 130</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANOFRAM0001">
+      <pb n="[51]" />1 [quaternaria, se]naria perfecta, senaria inperfecta, novenaria, octonaria et duodenaria.</p>
+      <p id="ANOFRAM0002">2 Mensura quaternaria est quando quodlibet tempus valet vel dividitur in quatuor minimas vel in duas semibreves et quelibet semibrevis valet duas minimas.</p>
+      <p id="ANOFRAM0003">3 Senaria perfecta est quando tempus dividitur in sex minimas vel in tres semibreves et quelibet semibrevis valet duas minimas; excepto quod se divideretur in duas, ultima duarum [valet] quatuor minimas, [sed] si prima illarum esset caudata a parte inferiori, tunc illa eciam valet quatuor minimas.</p>
+      <p id="ANOFRAM0004">4 Senaria inperfecta est quando tempus dividitur in sex minimas vel in duas semibreves et quelibet semibrevis valet tre minimas; excepto quod si penes semibrevem esset minima, tunc semibrevis precedens valeret duas minimas.</p>
+      <p id="ANOFRAM0005">5 Octonaria mensura est quando tempus dividitur in octo minimas et in quatuor semibreves minores, et tunc quelibet semibrevis valet duas minimas, vel in duas semibreves maiores, et tunc quelibet valet quatuor minimas. Et si aliqua semibrevis esset caudata a parte inferiori, valet eciam quatuor minimas, scilicet quando post vel ante sequntur due semibreves minores, sed si una sola antecederet vel sequeretur, tunc illa caudata valet sex minimas.</p>
+      <p id="ANOFRAM0006">
+      <pb n="[52]" />6 Nonaria mensura est quando tempus valet novem minimas et dividitur in tres semibreves et quelibet semibrevis valet tres minimas; excepto [quod] si prope semibrevem esset minima, tunc semibrevis precedens valet duas minimas, sed si essent due semibreves, tunc ultima valet sex minimas. Et omnis ultima semibrevis ligata valet sex minimas.</p>
+      <p id="ANOFRAM0007">7 Duodenaria mensura est quando tempus dividitur in duodecim minimas vel in tres semibreves et quelibet semibrevis valet quatuor minimas vel in sex smibreves et tunc quelibet valet duas minimas. Et si essent due sole, tunc ultima valet octo minimas. Eciam si aliqua esset caudata a parte inferiori, valet octo minimas.</p>
+    </body>
+  </text>
+</TEI>

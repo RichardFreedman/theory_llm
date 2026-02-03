@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Tractatulus prolationum cum tabulis</title>
+        <title type="abbrev">ANOTPT</title>
+        <author>Anonymous</author>
+        <date notBefore="1400" notAfter="1499">15th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Katherine Clark</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Andreas Giger</persName>
+      </respStmt>
+      <date>1999</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Antonius de Luca, 
+<emph>Ars cantus figurati</emph>; 
+<emph>Capitulum de quattuor mensuris</emph>; 
+<emph>Tractatulus mensurationum</emph>; 
+<emph>Compendium breve de proportionibus</emph>; 
+<emph>Tractatulus prolationum cum tabulis</emph>, ed. Heinz Ristory, Corpus scriptorum de musica, vol. 38 (n.p.: American Institute of Musicology / Hänssler-Verlag, 1997), 84–92. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: Tractatus de proportionibus musicae mensuralis</title>
+          
+<idno type="LML">PROP. MENS. Nota quod II</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">B-Br II 785, 11v</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANOTPT0001">
+      <pb n="[84]" />Anonymus</p>
+      <p id="ANOTPT0002">TRACTATULUS PROLATIONUM CUM TABULIS</p>
+      <p id="ANOTPT0003">Br1 11v - 13r et 14r</p>
+      <p id="ANOTPT0004">De partibus prolationis</p>
+      <p id="ANOTPT0005">Capitulum 1</p>
+      <p id="ANOTPT0006">Br1 11v</p>
+      <p id="ANOTPT0007">Nota quod quattuor sunt partes prolationis, scilicet major perfecta et maior imperfecta, minor perfecta et minor imperfecta. Major vero perfecta est, quando brevis valet tres semibreves ut hic:</p>
+      <p id="ANOTPT0008">[Bv,Sv,Sv,Sv]</p>
+      <p id="ANOTPT0009">et semibrevis valet tres minimas ut hic:</p>
+      <p id="ANOTPT0010">[Sv,Mv,Mv,Mv]</p>
+      <p id="ANOTPT0011">Et cognoscitur hoc signo [Od] cum puncto in medio, quia circulus cum puncto intus ponitur in prolatione maiori perfecta. Et semicirculus cum puncto ut hic [Cd] ponitur in prolatione maiori imperfecta. Circulus sine puncto ponitur pro prolatione minori perfecta ut hic [O]. Semicirculus sine puncto ponitur pro prolatione minori imperfecta ut hic [C].</p>
+      <p id="ANOTPT0012">Prolatio maior imperfecta est quando brevis valet duas semibreves et semibrevis valet tres minimas ut hic:</p>
+      <p id="ANOTPT0013">[Bv,Sv,Sv,BP,Sv,Mv,Mv,Mv]</p>
+      <p id="ANOTPT0014">et cognoscitur hoc signo [Cd]. Brevis enim partitur per duas semibreves, et semibrevis partitur per tres minimas ut supra.</p>
+      <p id="ANOTPT0015">
+      <pb n="[85]" />Prolatio minor perfecta est quando brevis valet tres semibreves, et semibrevis valet duas minimas ut hic:</p>
+      <p id="ANOTPT0016">[Bv,Sv,Sv,Sv,BP,[Sv],Sv,Mv,Mv]</p>
+      <p id="ANOTPT0017">et sic partitur per tres semibreves vel per sex minimas ut supra, et cognoscitur hoc signo: [O].</p>
+      <p id="ANOTPT0018">Prolatio minor imperfecta est quando brevis valet duas semibreves, et semibrevis valet duas minimas ut hic patet:</p>
+      <p id="ANOTPT0019">[Bv,Sv,Sv,BP,Sv,Mv,Mv]</p>
+      <p id="ANOTPT0020">et partitur per duas semibreves vel per quattuor minimas ut supra, et cognoscitur hoc signo ut hic [C].</p>
+      <p id="ANOTPT0021">Perfectum medii minoris signatur sic [Odim] vel sic [O2]. Si sic [Odim], tunc est perfectum. Et si sic [O2], tunc etiam est perfectum.</p>
+      <p id="ANOTPT0022">Imperfectum medii minoris sic signatur [Cdim], et tunc dicitur medium; vel sic [C2], et tunc dicitur sic iacere.</p>
+      <p id="ANOTPT0023">Ista sunt signa, videlicet: [Od,Cd] [O,C] [Odim,O2] [Cdim,C2]. Et haec inferiora omnia descendunt a primis.</p>
+      <p id="ANOTPT0024">Ad cognoscendum quando prolatio est minoris perfecti sine signo</p>
+      <p id="ANOTPT0025">Capitulum 2</p>
+      <p id="ANOTPT0026">Nota quod quando inveniuntur duae semibreves inter duas breves, et in medio earum semibrevium punctus, tunc possumus iudicare cantum illum de perfecto minori quia computatur per tres semibreves, et punctus ille positus post primam semibrevem intrat in primam brevem et secunda in secundam brevem.</p>
+      <p id="ANOTPT0027">
+      <pb n="[86]" />Et etiam in alio modo potest cognosci, videlicet quando inveniuntur duae pausae semibrevis simul iunctae, tunc possumus iudicare de prolatione minoris perfecti, ut hic patet:</p>
+      <p id="ANOTPT0028">[ClefC4,Bv,Sv,pt,Sv,Bv,SP,SP,Sv,Lig2vcdsnd,SP,SP,Sv,Bv,Sv,pt,Sv,Bv,Lv on staff4]</p>
+      <p id="ANOTPT0029">
+      <pb n="[87]" />Haec figura ostendit quae partes prolationis pro se alterentur, aut in modo seu tempore vel prolatione:</p>
+      <p id="ANOTPT0030">[CSM38:87; text: Modus perfectus maximarum, Modus perfectus longarum, Tempus perfectum, Prolatio perfecta, Longae in modo maximarum, Breves in modo longarum, Semibreves in tempore, Minimae in prolatione, A] 
+      <figure>
+        <graphic url="/images/ANOTPT_01GF.gif" />
+      </figure></p>
+      <p id="ANOTPT0031">
+      <pb n="[88]" />Tota prolatio:</p>
+      <p id="ANOTPT0032">Haec figura demonstrat quae sunt partes prolationis remotae, remotiores et remotissimae, et quae sunt partes propinquae maximae et ceterarum figurarum partis prolationis existentium.</p>
+      <p id="ANOTPT0033">
+      <pb n="[88-89]" />[CSM38:88-89; text: Maxima, Longa, Brevis, Semibrevis, Minima, Totum, Pars propinqua, Pars remota, Pars remotior, Pars remotissima] 
+      <figure>
+        <graphic url="/images/ANOTPT_02GF.gif" />
+      </figure></p>
+      <p id="ANOTPT0034">
+      <pb n="[90]" />Haec figura demonstrat qualiter prolatio imperficitur plene:</p>
+      <p id="ANOTPT0035">
+      <pb n="[90-91]" />[CSM38:90-91; text: Maxima perfecta, Longa perfecta, Brevis perfecta, Semibrevis perfecta, Minima, Imperfectio, Imperfectio quoad totum, Quoad unam partem propinquam, Quoad duas partes remotas, Quoad quatuor partes remotiores] 
+      <figure>
+        <graphic url="/images/ANOTPT_03GF.gif" />
+      </figure></p>
+      <p id="ANOTPT0036">
+      <pb n="[92]" />Circulus prolationum</p>
+      <p id="ANOTPT0037">[CSM38:92; text: Modus perfectus perfecti temporis maioris prolationis, Modus imperfectus perfecti temporis minoris prolationis, Modus imperfectus imperfecti temporis maioris prolationis, Modus imperfectus imperfecti temporis minoris prolationis, Perfectus maior, Imperfectus maior, 16, 24, 81, I:, II:, III:, IV:, 3, 33, 333] 
+      <figure>
+        <graphic url="/images/ANOTPT_04GF.gif" />
+      </figure></p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Lucidarium, tractatus duodecimus</title>
+        <title type="abbrev">MARLUC12</title>
+        <author>Marchetus de Padua</author>
+        <date notBefore="1300" notAfter="1399">14th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Stephen E. Hayes</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Peter M. Lefferts</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1990</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>The Lucidarium of Marchetto of Padua: A Critical Edition, Translation, and Commentary</emph>, ed. and trans. by Jan W. Herlinger (Chicago and London: The University of Chicago Press, 1985), 518–32. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Marchettus de Padua: Lucidarium in arte musicae planae</title>
+          
+<idno type="LML">MARCH. luc.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">A-SP Cod. 135/6 (29.4.4), 21v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Br II 785, 15-38v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Br II 4144, 1-41</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">CH-E 689, 1-44</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">E-Sc 5-2-25, 5-20v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">E-Sc 5-2-25, 76v-77v, 124-128 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-SDI 42, 1-33v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ob Canon. Misc. 42, 184-185 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-BREs D 21, 185v-186v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-CATc D 39, 157-189</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fl Conv. Soppr. 388, 34v-52v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fr 734, 74-101</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Ma D. 5 inf., 52-77v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Ma I. 20 inf., 36v-39 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-PEc 1013, 5-45v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-PIu 606 (IV.9), I/1-50</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat lat. 5322, 1-48</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat Reg. lat. 1146, 7-8 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Sc L.V.30, 91v-119</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-TRE without shelfmark, 15-32v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Vnm Lat. Cl. VIII.85 (3579), 1-10 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">US-Cn Case Ms. 54.1, 10v-33</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">US-Wc ML 171 J 6 Case, hv-47</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="MARLUC120001">
+      <pb n="[518]" />1. INCIPIT TRACTATUS DUODECIMUS CAPITULUM PRIMUM QUID SIT QUANTITAS IN PLANA MUSICA</p>
+      <p id="MARLUC120002">2. Ostenso superius de tonis quomodo per species formentur ac quomodo ipsi secundum quantitatem ascensus et descensus propriis nominibus nominentur,</p>
+      <p id="MARLUC120003">3. videre oportet quid sit quantitas in musica,</p>
+      <p id="MARLUC120004">4. ubi sciendum est quod quantitas in musica alia continua et alia discreta dicitur.</p>
+      <p id="MARLUC120005">5. Continua enim quantitas in musica est que magnitudo dicitur, que quidem est in eius subiecto, hoc est in sono,</p>
+      <p id="MARLUC120006">6. nam cum aliquis sonus est musica statim est,</p>
+      <p id="MARLUC120007">7. et quantum durat sonus tantum quantitas continua esse in ipso dicitur.</p>
+      <p id="MARLUC120008">
+      <pb n="[520]" />8. Hoc enim subiectum est non permanens, et mobile,</p>
+      <p id="MARLUC120009">9. et in hoc quod mobile est comparatur cum astrologia, que quidem est de subiecto mobili et permanenti;</p>
+      <p id="MARLUC120010">10. in hoc quod musica est in subiecto non permanenti comparatur cum geometria, que est de subiecto non permanenti sed immobili, scilicet de terra.</p>
+      <p id="MARLUC120011">11. Discreta autem quantitas, que multitudo dicitur, in musica est que de numerorum proportione tractat,</p>
+      <p id="MARLUC120012">12. et in hoc comparatur cum arismetrica, que de numeris loquitur.</p>
+      <p id="MARLUC120013">13. Et hec de quantitate sufficiant tibi dicta.</p>
+      <p id="MARLUC120014">
+      <pb n="[522]" />14. DE CANTIBUS QUI PROPTER EORUM ASCENSUM NON SUNT AUCTENTICI ET PROPTER EORUM DESCENSUM PLAGALES</p>
+      <p id="MARLUC120015">15. Sunt nonnulli cantus qui a fine eorum ad dyapente et non ultra ascendunt,</p>
+      <p id="MARLUC120016">16. et per talem interruptionem que in auctentico et in plagali cadere potest,</p>
+      <p id="MARLUC120017">17. nec infra a fine aliquid descendunt,</p>
+      <p id="MARLUC120018">18. nec habent dyapente continuam,</p>
+      <p id="MARLUC120019">19. nec utuntur dyapente communi, que pluries in uno cantu repercussa facit ipsum subiugalem, ut superius dictum est;</p>
+      <p id="MARLUC120020">20. nunc talis cantus cui attribui debet, auctentico an plagali?</p>
+      <p id="MARLUC120021">21. Dicendum est quod tales cantus iudicandi sunt per cordam eorum,</p>
+      <p id="MARLUC120022">
+      <pb n="[524]" />22. ita videlicet quod si note que sunt supra eorum cordam sunt plures quam ille que sunt infra, auctenticus erit, et e converso;</p>
+      <p id="MARLUC120023">23. et nota quod note que sunt in corda posite non debent cum superioribus neque inferioribus numerari; ut hic patet:</p>
+      <p id="MARLUC120024">[ClefC5,Lig4cdsnodaart,S,S,Lig3aod,Lig2art,S,S,S,Lig2cdsnd; Lig4aaart,S,S,Lig3aart,S,S,L,S,S,L,Lig2cdsnd on staff5]</p>
+      <p id="MARLUC120025">24. Corda namque primi et eius plagalis est F grave;</p>
+      <p id="MARLUC120026">25. tercii et eius plagalis, G grave;</p>
+      <p id="MARLUC120027">
+      <pb n="[526]" />26. quinti et eius plagalis, a acutum;</p>
+      <p id="MARLUC120028">27. septimi et eius plagalis, [sqb] secundum acutum.</p>
+      <p id="MARLUC120029">28. Sed dicet aliquis: Unus cantus formatur ex speciebus communibus dyatessaron et dyapente, puta sic quod per has non poterit iudicari,</p>
+      <p id="MARLUC120030">29. itemque in notis supra et infra cordam positis equalitas invenitur; quid erit talis cantus?</p>
+      <p id="MARLUC120031">30. Dicimus quod plagalis, cuius ratio est quia quilibet auctenticus gliscit ad suam perfectionem, vel ad partem eius, ascendere,</p>
+      <p id="MARLUC120032">31. et si hoc facere nequit ob sui brevitatem, semper in eo sunt alique species, vel partes specierum, per quas ipsum possumus auctenticum iudicare, ut est hec Antiphona:</p>
+      <p id="MARLUC120033">[Marchetus, 526; text: Fundamenta eius in montibus sanctis] 
+      <figure>
+        <graphic url="/images/MARLUC12_01GF.gif" />
+      </figure></p>
+      <p id="MARLUC120034">
+      <pb n="[528]" />32. Principium enim eius est pars prime speciei dyapente, que nunquam in plagali cadit, ut supra de interruptionibus est ostensum.</p>
+      <p id="MARLUC120035">33. Item dicet aliquis: Equalitas in speciebus et in notis est in uno cantu, qui quidem ascendit ultra dyapente a fine semiditonum, similiterque ab eodem fine semiditonum descendit;</p>
+      <p id="MARLUC120036">34. hic cantus erit auctenticus an plagalis?</p>
+      <p id="MARLUC120037">35. Dicimus quod in tali cantu considerandus est ascensus et descensus,</p>
+      <p id="MARLUC120038">36. et si ascensus est maior quam descensus ultra id quod potest plagalis, auctenticus iudicatur, et e converso; ut in presentibus patet exemplis:</p>
+      <p id="MARLUC120039">[ClefC5,Lig3aart,Lig6aaaodart,L,S,S,S,S,L,S,S,Lig4aad on staff5]</p>
+      <p id="MARLUC120040">
+      <pb n="[530]" />[ClefC5,Lig3aart,Lig6aaaodart,L,S,S,S,S,L,S,S,Lig3cdsnodart,Lig3ad on staff5]</p>
+      <p id="MARLUC120041">[ClefC5,Lig3aart,Lig6aaaodart,L,S,S,S,S,L,S,S,Lig3cdsnodart,Lig3aart,Lig4aad on staff5]</p>
+      <p id="MARLUC120042">37. Primi exempli cantus est auctenticus, quia ascendit unum tonum ultra illud quod potest ascendere plagalis et non descendit nisi semitonium ultra illud quod potest auctenticus.</p>
+      <p id="MARLUC120043">38. Item secundi exempli cantus est auctenticus, quia licet bis descendat semitonium ad quod non potest auctenticus, tamen illa duo semitonia non attingunt ad magnitudinem toni ad quem non potest plagalis, nam ipsa sunt minora, quia enarmonica.</p>
+      <p id="MARLUC120044">
+      <pb n="[532]" />39. Sed, dices, cantabitur per [sqb] quadrum.</p>
+      <p id="MARLUC120045">40. Tunc dicimus quod quicquid ascendit supra b primum acutum est de substantia primi toni et non secundi,</p>
+      <p id="MARLUC120046">41. nam, ut supra dictum est, secundus semper per b rotundum debet necessario modulari.</p>
+      <p id="MARLUC120047">42. Tercii exempli cantus est plagalis, quia tria semitonia ad que descendit tonum excedunt in una dyesi,</p>
+      <p id="MARLUC120048">43. nam tria semitonia enarmonica sex dyeses continent inclusive; unus autem tonus continet solum quinque.</p>
+      <p id="MARLUC120049">44. Et sic in omnibus cantibus sunt advertende regule supradicte.</p>
+      <p id="MARLUC120050">45. FINIT TRACTATUS DUODECIMUS</p>
+    </body>
+  </text>
+</TEI>

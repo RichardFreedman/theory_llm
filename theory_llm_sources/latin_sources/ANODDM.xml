@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>De dimensione monocordi</title>
+        <title type="abbrev">ANODDM</title>
+        <author>Anonymous</author>
+        <date notBefore="800" notAfter="1099">9th-11th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Andreas Giger</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Anna Shparberg</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1999</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Hans Schmid, ed., 
+<emph>Musica et scolica enchiriadis una cum aliquibus tractatulis adiunctis</emph>, Bayerische Akademie der Wissenschaften, Veröffentlichungen der Musikhistorischen Kommission, Band 3 (Munich: Bayerische Akademie der Wissenschaften / C. H. Beck, 1981), 179–81. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: Mensura monochordi</title>
+          
+<idno type="LML">MON. Super unum</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">D-HEu Salem IX, 20, 133-134v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 14272, 174v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 14649, 33v-34</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-W 72 Gud. Lat. 2°, 51r-v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">E-Bac Ripoll 42, 58r-v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">E-Mn 9088, 124r-v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-CHRm 130, 28-29</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 7200, 219-220</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 7210, 65-67</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 7211, 51-52v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 7212, 38r-v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ob Canon. Misc. 212, 30-31</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fl Ashburnham 1051, 168va-169ra</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Ma D. 5 inf., 49rv</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">PL-Kj 1965, 30v-31v</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANODDM0001">
+      <pb n="[179]" />DE DIMENSIONE MONOCORDI</p>
+      <p id="ANODDM0002">Super unum concavum lignum in una linea sub una corda fit tribus poene diversis duplis armonica regula, ita ut in viginti quattuor partibus acsi totidem alphabeti litteris eadem corda dividatur ad faciendum octo constitutiones, quibus singulis constituatur bisdiapason, propter octo modos, quos Greci nominant tropos. Sunt ergo taliter ibidem octo proslambanomeni cum suis quindecim sequentibus nervis. Nam sinemmenae tantum in hypodorio et hyperlidio signatae sunt atque idcirco sexti decimi duo existunt, quod in aliis modis est intelligendum. Sumpto itaque circino dividatur illius unius lineae una longitudo in quadraginta octo aequis partibus et earum quaedam punctis vel transversis incisionibus notentur, sexta videlicet, octava, nona, duodecima, sexta decima, octava decima, vicesima quarta, tricesima secunda, tricesima sexta et ad extremum quadragesima octava. Cum haec ita disposita fuerint, videbis VI ad XXIIII esse quadruplum, VIII ad XXXII, VIIII ad XXXVI, XII ad XLVIII. Qui extremus quadruplus, XII scilicet ad XLVIII, cum suis symphoniis primitus intexatur tonis ac semitoniis, et sit hic totus ordo hypodoricae constitutionis, deinde ad neten hyperboleon eiusdem modi tota diapason acutior reddatur in punctum vel transversam incisionem, quam praediximus in sexta parte propositae lineae 
+      <pb n="[180]" />annotari. Quare VI ad XXIIII bisdiapason efficit atque hyperlidii modum exprimit, quandoquidem XXIIII numerus, qui est meses hypodorii, in proslambanomenon mutatur hyperlidii et relinquitur ab eadem mese deorsum una et integra diapason hypodorii.</p>
+      <p id="ANODDM0003">His praemissis armonicam regulam enchiriadis describere placuit. Est autem haec incipiens a VIIII in XLVIII, quod est quadruplus adiuncto sesquitertio. Siquidem XXXVI ad VIIII est quadruplus, ad XLVIII vero sesquitertius. Rursus XLVIII ad XII est quadruplus, XII vero ad VIIII sesquitertius. Inter quadruplum autem et sesquitertium sub una serie duodeviginti nervos constituunt, quorum primus acutior a secundo distat semitonio, et utrique signantur caracteribus, penultimus proto, ultimus deutero, nec usquamalibi inter hos semitonium incurrit. Semitoniorum enim locus proprius est tantum inter deuterum et tritum, quia omnes alii soni a se singulis distant tonis. Cumque in quattuor tetrachordis, gravium, finalium, superiorum, excellentium, idem eodem ordine repetantur soni, protus videlicet, deuterus, tritus, tetrardus, singuli per quintas regiones poene similes habent caracteres, protus scilicet suos et ceteri ceteros, sicque ex ipso poene simili caractere provenit ubique symphonia diapente, nec hanc consequentiam impedit, ut diatesseron non inveniatur similiter locis quartis, nisi forte necesse sit, diatesseron fiat de tribus continuis tonis, sane in singulis tetrachordis semitonium singulis circumvallatur tonis. Unde fit, ut tertio se sequantur post tritum tres toni, quorum continuatio diatesseron excedit. Quia vero omnis duplus aequisonantiam facit in octavis regionibus 
+      <pb n="[181]" />constatque sesqualtero ac sesquitertio, certum est, quod in duodeviginti nervis huiusmodi firma ratio existit, nisi quando incipit a trito gravium atque a trito finalium. Tunc enim uterque duplus vacillat, quoniam ad octavam cordam, hoc est ad deuterum superiorum vel excellentium, semitonio non pervenit nec sesquitertium sesqualtero iungit, quandoquidem sesquitertius non tribus tonis, sed potius duobus cum semitonio existit. Scindatur itaque tertius tonus a proto in deuterum, ut et a proto in tritum signetur semitonium post tonum et superius post semitonium tonus, quatinus a gravissimo nervo usque ad excellentissimum diatesseron quartis locis, diapente quintis, diapason ubique proveniat octavis. Quomodo autem tonus in duo semitonia non aequa dividi possit, hoc modo investigabis: Fac duos tonos continuos, quorum alter altero semper prolixior sit spacio, et minoris sumpta medietas signetur in maiore et ideo graviore tono, cuius in gemina non aequa talis facta est partitio. Haec est sumendi ac constituendi semitonii ratio, ne incidat error, unde oriatur illud primum semitonium superius propositum, quod ex proportione sesquioctava, quae est inter VIII et VIIII, procul dubio est sumptum et novenario appositum. Tandem quattuor tetrachorda semis totidem dextrae manus adscribantur digitis, quorum primus sit auricularis gravi tetrachordo notabilis.</p>
+    </body>
+  </text>
+</TEI>

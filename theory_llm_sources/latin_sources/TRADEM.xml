@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Tractatus de musica figurata et de contrapuncto ab anonymo auctore</title>
+        <title type="abbrev">TRADEM</title>
+        <author>Anonymous</author>
+        <date notBefore="1400" notAfter="1499">15th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Stephen E. Hayes</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Peter M. Lefferts</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Bradley Jon Tucker</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1991</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>Scriptorum de musica medii aevi nova series a Gerbertina altera</emph>, 4 vols., ed. Edmond de Coussemaker (Paris: Durand, 1864-76; reprint ed., Hildesheim: Olms, 1963), 4:434–69.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: Tractatus de musica figurata et de contrapuncto</title>
+          
+<idno type="LML">ANON. Couss. I</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 16664, 62-85v</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="TRADEM0001">
+      <pb n="[434]" />Tractatus de musica figurata et de contrapuncto ab anonymo auctore.</p>
+      <p id="TRADEM0002">[CSIV:434; text: Manus. Reformationes. Proprietates, Gamma id est G latinum. [Gamma], a, [sqb], c, d, e, f, G, b, [sqb] Quadrum grave. Ut, Re, Mi, Fa, Sol, La, Natura gravis. [rob] mol grave, [sqb] Quadrum acutum. Natura acuta. [rob] mol acutum. [sqb] Quadrum superacutum. [sqb] Mi] 
+      <figure>
+        <graphic url="/images/TRADEM_01GF.gif" />
+      </figure></p>
+      <p id="TRADEM0003">
+      <pb n="[435]" />Item notandum quod septem sunt reformationes in manu videlicet: [sqb] quadrum grave, natura gravis et b mol gravis etca. videlicet: in figura prima.</p>
+      <p id="TRADEM0004">Item notandum quod tres sunt proprietates in manu, videlicet [sqb] quadrum, natura et b mol.</p>
+      <p id="TRADEM0005">Item notandum quod omne ut incipiens a G cantatur per [sqb] quadrum; et omne ut in C per naturam; et omne ut F cantatur per b mol.</p>
+      <p id="TRADEM0006">Item mutatio est vitanda. ubi potest.</p>
+      <p id="TRADEM0007">Item ubi fa, ubi clavis.</p>
+      <p id="TRADEM0008">Item notandum quod quinque sunt figurae ut patet: maxima, longa, brevis, semibrevis et minima.</p>
+      <p id="TRADEM0009">Item semiminima non est figura, sed proportio duplex:</p>
+      <p id="TRADEM0010">[CSIV:435,1; text: Item figurarum alia, maxima, longa, brevis, semibrevis, minima, ut hic] 
+      <figure>
+        <graphic url="/images/TRADEM_02GF.gif" />
+      </figure></p>
+      <p id="TRADEM0011">Item notandum quod duplex est prolatio, videlicet: prolatio major et prolatio minor.</p>
+      <p id="TRADEM0012">Item notandum quod duplex est tempus, videlicet tempus perfectum et tempus imperfectum.</p>
+      <p id="TRADEM0013">[CSIV:435,2; text: Item prolationum alia, major, minor, ut hic, Item tempus aliud, perfectum, imperfectum, ut hic]</p>
+      <p id="TRADEM0014">Item notandum quod prolatio consistit in semibrevibus; nam quando una semibrevis valet tres minimas, dicitur prolatio major; et quando una semibrevis valet duas minimas dicitur prolatio minor.</p>
+      <p id="TRADEM0015">Item tempus consistit in brevibus; nam quando una brevium valet tres semibreves, dicitur tempus perfectum; et quando una brevium valet duas semibreves, dicitur tempus imperfectum.</p>
+      <p id="TRADEM0016">[CSIV:435,3; text: Item pausarium alia, trium, duorum, temporum, unum tempus, duarum semibrevium, unius semibrevis, duarum minimarum, unius minime, unius semiminime, ut hic, Item punctorum alius, perfectionis, divisionis, additionis, ut hic]</p>
+      <p id="TRADEM0017">Item est in quibusdam punctus secundum antiquos qui dicitur punctus reductionis et est quando aliqua figura habet punctum ab utraque parte, et illa canitur, sed non computatur in mora, ut hic: [Sv,pt,Mv].</p>
+      <p id="TRADEM0018">
+      <pb n="[436]" />[Od; B,B,B,Sv,Mv,pt,Mv,Mv; Bv,Sv,pt,Sv,Bv,S,S,S; SP,SP,MP,MP on staff4]</p>
+      <p id="TRADEM0019">Figura prolationis majoris de tempore perfecto.</p>
+      <p id="TRADEM0020">[Cd; S,S,S; Sv,Mv,pt,Mv,Sv; MP,MP on staff4]</p>
+      <p id="TRADEM0021">Figura prolationis majoris de tempore imperfecto.</p>
+      <p id="TRADEM0022">[O; B,B,B; Bv,Sv,pt,Sv,Bv; SP,SP on staff4]</p>
+      <p id="TRADEM0023">Figura prolationis minoris de tempore perfecto.</p>
+      <p id="TRADEM0024">[C; Lig2vcssnod,Lig2vcssna,Lig2vcssnadd,Sv,Mv,Mv,Lig2vcssnod,Lig2vcdsnd on staff4]</p>
+      <p id="TRADEM0025">Item notandum quod minor de tempore imperfecto multum signum habet praeter quam circulum, ut hic: [C]</p>
+      <p id="TRADEM0026">[CSIV:436; text: Prolationes, Major, Minor, Prolatio consistit in semibrevibus. Tempus consistit in brevibus. Major de tempore perfecto. Major de tempore imperfecto. Minor de tempore perfecto. Minor de tempore imperfecto.] 
+      <figure>
+        <graphic url="/images/TRADEM_03GF.gif" />
+      </figure></p>
+      <p id="TRADEM0027">
+      <pb n="[437]" />Item notandum quod ligaturae sunt plures figurae aut notulae ligatae invicem, ut hic:</p>
+      <p id="TRADEM0028">[Lig2vcssna,Lig4vcssnbaavd,Lig5vcssnbavacsdxod]</p>
+      <p id="TRADEM0029">Item notandum quod si in ligaturis tractus ascendente a parte sinistra, tunc prima et secunda semibreves sunt ut hic: [Lig2vcssna]</p>
+      <p id="TRADEM0030">Item notandum quod si tractus in ligatura descendente a parte sinistra, tunc prima brevis est, ut hic: [Lig2vcdsnd]. Et secunda, si fuerit ultima, longa ut: [Lig2vcdsnd].</p>
+      <p id="TRADEM0031">Item si non fuerit tractus in ligatura a parte sinistra, tunc secunda sequens ascendit, prima est brevis, ut hic: [Lig2va]; aut secunda sequens descendit et sic prima est longa, ut hic: [Lig2vd].</p>
+      <p id="TRADEM0032">Item notandum quod quarum dependens ultima est longa, ut hic:</p>
+      <p id="TRADEM0033">[Lig3vcssnad,Lig3vcssndd,Lig2vcdsnd,Lig2vd,Lig3vcdsndd on staff3]</p>
+      <p id="TRADEM0034">Item notandum quod si tractus ascendit in ligatura obliqua a parte sinistra tunc prima et secunda sunt semibreves, ut hic: [Lig2vcssnod].</p>
+      <p id="TRADEM0035">Item si tractus descenderet in ligatura obliqua a parte sinistra, tunc prima et secunda sunt breves ut hic: [Lig2vcdsnod].</p>
+      <p id="TRADEM0036">Item si non sunt tractus in ligatura obliqua a parte sinistra tunc prima est longa et secunda brevis, ut hic: [Lig2vod].</p>
+      <p id="TRADEM0037">Item notandum quod omnes mediae figurae seu notulae in ligaturis infra primam vel secundam et ultima, sunt breves; exemplum primi:</p>
+      <p id="TRADEM0038">[Lig5vcssndddd on staff3]</p>
+      <p id="TRADEM0039">exemplum secundi:</p>
+      <p id="TRADEM0040">[Lig5vdddd on staff3]</p>
+      <p id="TRADEM0041">Item notandum quod tertia in ligatura, non est minor quam brevis, sed bene major exemplum primi: [Lig3vcssndod,Lig3vcssndd], exemplum secundi: [Lig3vcssndd].</p>
+      <p id="TRADEM0042">[CSIV:437; text: Item ligaturarum alia, obliqua vel balculus, cum tractu, ascendens, prima, secunda, semibreves, ut hic, descendens, prima, secunda, breves, sine tractu, prima longa, secunda brevis, quadra, prima brevis, secunda, si fuerit ultima, tunc est longa, si sequatur una tertia, tunc est brevis, secunda ascendens, et sic prima est brevis, secunda descendit, et sic prima est brevis] 
+      <figure>
+        <graphic url="/images/TRADEM_04GF.gif" />
+      </figure></p>
+      <p id="TRADEM0043">
+      <pb n="[438]" />Item notandum quod similis ante similem non potest imperfici, ut hic: [Bv,Bv,Sv,pt; Sv,Sv,Mv]</p>
+      <p id="TRADEM0044">Item notandum quod alteratio inventa est propter similem ante similem.</p>
+      <p id="TRADEM0045">Item notandum quod omnis figura habet alteram in modo ternario et non in binario.</p>
+      <p id="TRADEM0046">Item notandum quod omnis figura habet alteram ante suam figuram primam majorem se: ut longa ante maximam; brevis ante longam; et hoc de cantu moduli; vel semibrevis ante brevem et hoc de tempore perfecto; vel minima ante semibrevem, et hoc de prolatione majori.</p>
+      <p id="TRADEM0047">Item pausa non potest alterari, nec perfici, nec imperfici.</p>
+      <p id="TRADEM0048">Item maxima non potest alterari quia non habet figuram majorem se.</p>
+      <p id="TRADEM0049">Item sincopa non potest reduci ultra pausam temporis.</p>
+      <p id="TRADEM0050">Item sincopa est reductio unius figurae ad aliam propter complementum ultra majorem suam.</p>
+      <p id="TRADEM0051">Proportio est duorum numerorum vel duarum minimarum ad seminiminam comparatio. Vel proportio est equipollentia numeris majoris ad numerum minorem.</p>
+      <p id="TRADEM0052">Item dupla est quando major numerus continet in se numerum minorem bis ut 2 ad 1, 4 ad 2.</p>
+      <p id="TRADEM0053">Item tripla est quando numerus major continet in se ter minorem ut 3 ad 1.</p>
+      <p id="TRADEM0054">Item quadrupla est quando continet in se quatuor minorem ut 4 ad 1.</p>
+      <p id="TRADEM0055">Item quintupla est quando major numerus continet in se quinquis minorem ut 5 ad 1.</p>
+      <p id="TRADEM0056">Item proportio sesquialtera vel Emiolia est quando major numerus continet in se minorem et ejus alteram partem, ut tria ad duo.</p>
+      <p id="TRADEM0057">Item sesquitertia vel eptrita est quando major numerus continet in se minorem et ejus quartam perfectam partem ut sunt quatuor ad tria.</p>
+      <p id="TRADEM0058">[CSIV:438; text: Item proportionum alia dupla ut 2 ad unum, tripla ut 3 ad unum, quadrupla ut 4 ad unum, quintupla ut 5 ad unum, sextupla ut 6 ad unum] 
+      <figure>
+        <graphic url="/images/TRADEM_05GF.gif" />
+      </figure></p>
+      <p id="TRADEM0059">Item notandum quod duplex est modus, videlicet modus perfectus et modus imperfectus.</p>
+      <p id="TRADEM0060">Item notandum quod consistit in maximis aut in longis; nam quando una maxima valet tres longas seu longa tres breves, dicitur modus perfectus; et quando una longa valet duas breves, vel maxima duas longas, dicitur modus imperfectus.</p>
+      <p id="TRADEM0061">Item modus dicitur modus prolationis, sicut prolatio consistit in semibrevibus, aut tempus in brevibus, ita modus consistit in maximis aut in longis.</p>
+      <p id="TRADEM0062">Item notandum quod tempus consistit semper in brevibus ut primum patuit.</p>
+      <p id="TRADEM0063">Item notandum quod in isto cantu videlicet modali longa potest alterare ante maximam, et brevis ante longam et hoc in modo perfecto quia numerus ternarius.</p>
+      <p id="TRADEM0064">Item notandum quod coloratae figurae sunt imperfectae semper si sint longae, tunc sunt de modo imperfecto; si sint breves, et semibreves, tunc sunt de tempore imperfecto.</p>
+      <p id="TRADEM0065">
+      <pb n="[439]" />[CSIV:439; text: Item modorum alius, perfectus, de tempore perfecto, de tempore imperfecto, prolationis, majoris, minoris, imperfectus, Item signorum aliud, modi perfecti temporis perfecti, modi perfecti temporis imperfecti, modi imperfecti temporis perfecti, modi imperfecti temporis imperfecti, Modus, Perfectus, major, minor, Imperfectus, Prolatio major. Prolatio minor. Prolatio consistit in semibrevibus. Tempus consistit in brevibus. Modus consistit in maximis et in longis. Modus perfectus de tempore perfecto majoris aut minoris prolationis. Modus perfectus de tempore imperfecto majoris aut minoris prolationis. Modus imperfectus de tempore perfecto majoris aut minoris prolationis. Modus imperfectus de tempore imperfecto majoris vel minoris prolationis.] 
+      <figure>
+        <graphic url="/images/TRADEM_06GF.gif" />
+      </figure></p>
+      <p id="TRADEM0066">
+      <pb n="[440]" />[CSIV:440,1; text: Modus perfectus de tempore perfecto. Modus perfectus de tempore imperfecto. Modus imperfectus de tempore perfecto. Modus imperfectus de tempore imperfecto. Major de tempore imperfecto per multiplicationem. Item ipsi duo cantus sunt idem cantandi in valorem ac in numero.] 
+      <figure>
+        <graphic url="/images/TRADEM_07GF.gif" />
+      </figure></p>
+      <p id="TRADEM0067">[CSIV:440,2; text: a, [rob], c, d, e, f, g, ut, re, mi, fa, sol, la. Natura acuta et [sqb] quadrum superacutum. Natura acuta, etc. Natura acuta et b mol acutum. G, la]</p>
+      <p id="TRADEM0068">Tu non mutabis nisi sit mutare necesse.</p>
+      <p id="TRADEM0069">In c natura f b mol G que [sqb] dura.</p>
+      <p id="TRADEM0070">Dicitur enim [sqb] quadra, quia est [sqb] in forma quadrata.</p>
+      <p id="TRADEM0071">[CSIV:440,3; text: mi, la]</p>
+      <p id="TRADEM0072">[sqb] quadrum acutum et natura acuta.</p>
+      <p id="TRADEM0073">[CSIV:440,4]</p>
+      <p id="TRADEM0074">
+      <pb n="[441]" />[CSIV:441,1; text: ut, re, mi, fa, sol, la. Natura gravis et b mol grave. Natura gravis et [sqb] quadrum acutum. [sqb] quadrum grave et natura gravis. Item ista musica ficta et habeatur respectu ad b mol ibi cantibus semper fa et ulterius per sequentes notulas, ut, re, mi, fa, sol, la] 
+      <figure>
+        <graphic url="/images/TRADEM_08GF.gif" />
+      </figure></p>
+      <p id="TRADEM0075">Item ubi fa ubi clavis et idcirco b est clavis.</p>
+      <p id="TRADEM0076">[CSIV:441,2; text: a, [rob], G, e, c, f, [sqb], d, [Gamma], la, sol, fa, mi, re, ut]</p>
+      <p id="TRADEM0077">
+      <pb n="[442]" />[CSIV:442; text: Item proportionum sesquialterarum alia. vera vel generalia non per medium, prolationaliter et triplicialiter po non per medium, hemiolia per medium, prolacionaliter et triplicialiter po per medium, prolacionaliter, per multiplicationem, modalis, Item proportionum alia. sesquitertia, ut hic: 4 ad 3, sesquiquarta, ut hic: 5 ad 4] 
+      <figure>
+        <graphic url="/images/TRADEM_09GF.gif" />
+      </figure></p>
+      <p id="TRADEM0078">
+      <pb n="[443]" />[CSIV:443,1] 
+      <figure>
+        <graphic url="/images/TRADEM_10GF.gif" />
+      </figure></p>
+      <p id="TRADEM0079">Item nota quod prolatio minor de tempore perfecto debet numerari per tres semibreves vel valorem ejus pro uno tempore ab initio usque ad finem, et in isto cantu habetur punctus divisionis et habetur alteratio quia numerus est ternarius, ac habetur imperfectio videlicet per colorantes figuras que sunt de tempore imperfecto vel quae imperficiuntur per punctorum divisiones.</p>
+      <p id="TRADEM0080">[CSIV:443,2]</p>
+      <p id="TRADEM0081">Item notandum quod omnia ista signa preponenda sunt in cantu minoris prolationis de tempore imperfecto et omnia ista signa significant per medium excepto signo vacuo quod significat sicut jacet videlicet non per medium, et iste cantus debet numerari per duas semibreves vel valorem ejus pro tempore uno ab initio usque (ad)? finem. Sive sit cantus per medium, sive non, semper debet numerari sicut jacet, ac non habetur in isto alteratio, quia numerus binarius aut punctus divisionis quae (est de tempore imperfecto aut coloratae), sed habetur punctus perfectionis aliquando.</p>
+      <p id="TRADEM0082">[ClefC4,O3,MXv,Lv,pt,Lig3vcdsndd,Bv,pt,Lig3Laacddx,Lig2vd,Bv,pt,Lig2vMXcddxaMXcddx,Lv,pt,Bv,pt,Lig3vad on staff5]</p>
+      <p id="TRADEM0083">Item notandum quod modus perfectus debet semper numerari per maximas sive per longas; etiam modus imperfectus, quia modus consistit in maximis vel longis; sed modus perfectus eodem modo se regit sicut prolatio minor de tempore perfecto se regit per tempora, et ita fit ubi alteratio et imperfectio per coloratas sive per punctum divisionis.</p>
+      <p id="TRADEM0084">[CSIV:443,3; text: Item consonantiarum alia. unisonus, tertia, quinta, sexta, octava, decima, duodecima, tertiadecima, quintadecima, sextadecima, nonadecima, vigesima, ut hic: G]</p>
+      <p id="TRADEM0085">
+      <pb n="[444]" />Item notandum quod duplex est semitonium videlicet, majus et minus.</p>
+      <p id="TRADEM0086">[CSIV:444,1; text: Item semitonium aliud. majus, minus, ut hic] 
+      <figure>
+        <graphic url="/images/TRADEM_11GF.gif" />
+      </figure></p>
+      <p id="TRADEM0087">Item notandum quod ad semitonium minus debet poni tale signum ut nuncupatur diesis et formatum sic:</p>
+      <p id="TRADEM0088">Item secundum antiquos quando isti toni videlicet autenticus et plagalis ascendunt vel descendunt, ultra perfectiones suas dicuntur toni irregulares.</p>
+      <p id="TRADEM0089">Item tonus, alius autenticus et habet ascendens usque ad perfectionem suam ad octavam supra suum finalem et sunt toni: .....</p>
+      <p id="TRADEM0090">Item notandum quod omnis cantus finiens in: .....</p>
+      <p id="TRADEM0091">[CSIV:444,2; text: Item si cantus finitur in: La, Ut mutatur in]</p>
+      <p id="TRADEM0092">Alius plagalis, et habet descendens usque ad perfectionem suam ad quintam sub finali suo et sunt toni: .....</p>
+      <p id="TRADEM0093">[CSIV:444,3; text: Item secundum antiquos sunt quatuor claves tonorum videlicet. D sol re, primi, secundi, E la mi, tertii, quarti, F fa ut, quinti, sexti, G sol re, septimi, octavi]</p>
+      <p id="TRADEM0094">Item notandum quod quatuor dictae sunt species in musica videlicet in figura precedenti.</p>
+      <p id="TRADEM0095">[CSIV:444,4; text: Item specierum alia. vox, tonus, semitonium, dytonus, semidytonus, dyatessaron, ut hic: dyapente, major, minor, exaco, exta, dyapason]</p>
+      <p id="TRADEM0096">
+      <pb n="[445]" />[CSIV:445; text: Item specierum et consonantiarum perfectarum alia. vox, dyapente major, dyapason minor, ut hic: unisonus, quinta, octava, Item specierum et consonantiarum imperfectarum alia. semidytonus, dytonus, tertia imperfecta, tertia perfecta, exad major, exad minor, sexta perfecta, sexta imperfecta, Item specierum et consonantiarum alia. dyapente, exaden, major, minor, dyapason major, quinta perfecta, sexta perfecta, sexta imperfecta, octava perfecta, Item consonantiarum alia, tertia, sexta, decima, duodecima, tertiadecima, quintadecima, sextadeeima, nonadecima, vigesima, Item consonantiarum perfectarum alia. Item consonantiarum imperfectarum alia. sextadecima, Consonantiae et species.] 
+      <figure>
+        <graphic url="/images/TRADEM_12GF.gif" />
+      </figure></p>
+      <p id="TRADEM0097">
+      <pb n="[446]" />[CSIV:446; text: Item specierum et consonantiarum imperfectarum et perfectarum. semidytonus, exaden minor, ut hic: tertia imperfecta, sexta imperfecta, Item specierum non consonantiarum alia. tonns, semitonium, dyatessaron, dyapente minor, exaden, major, minor, dyapason minor, secunda, secunda imperfecta, quarta, quinta fa contra mi, sexta perfecta, sexta imperfecta, ocava fa contra mi] 
+      <figure>
+        <graphic url="/images/TRADEM_13GF.gif" />
+      </figure></p>
+      <p id="TRADEM0098">Item notandum quod fa contra mi in consonantiis perfectis non potest fieri.</p>
+      <p id="TRADEM0099">Item notandum quod plures imperfectae possunt sequi invicem una post aliam, sicut plures tertiae aut plures sexte sive decime ascendendo sive descendendo et hoc gradatim, non saltando per quartam vel per sextam.</p>
+      <p id="TRADEM0100">Item plures perfectae non possunt sequi invicem una post aliam et hoc de eisdem consonantiis, sicut duo, aut tria unisoni, aut plures quintae seu octavae; sed de diversis possunt, sicut una quinta post unisonum vel post octavam.</p>
+      <p id="TRADEM0101">Item quando discantus ascendit, tunc aliqualiter tenor debet descendere et e converso nisi cum multiplicibus tertiis aut sextis aut aliis imperfectis, tunc possunt ascendere vel descendere per duos vel tres aut quatuor gradus in simul.</p>
+      <p id="TRADEM0102">Item omnis cantus debet incipi a consonantia perfecta et finiri, nisi pausa precedit; et tunc potest incipi ad placitum sed finiri semper imperfectam etiam si sit in sequentiis aut in hymnis excepto primo et ultimo versibus.</p>
+      <p id="TRADEM0103">Item discantus non debet multum saltare per magnas species sicut per quintas, sextas aut septimas aut octavas, sed aliquando potest, non autem sepius.</p>
+      <p id="TRADEM0104">Item species inconvenienter cantanda non debet sepius poni, sed vitari in quantum potest sicut septima aut nona ac etiam aliquando sexta.</p>
+      <p id="TRADEM0105">Item sexta sola debet vitari in quantum potest; in contratenore aliquando oportet quia necesse est propter suavitatem musice. Oportet enim respicere suavem musicam et suavitatem ejus tam in discantu quam in tenore et contratenore et omnibus aliis cantibus.</p>
+      <p id="TRADEM0106">Item quando componere velitis cantum aliquem figurativum, necesse est ipsum esse de tempore perfecto, vel de tempore imperfecto. Si enim sit de tempore perfecto, debitis illum aliquando per tempora perfecta usque ad expirationem cantus; si vero de tempore imperfecto sic debetis ipsum per imperfecta tempora usque ad expirationem ipsius.</p>
+      <p id="TRADEM0107">Item debet complere numerum temporum, communiter ante brevem, vel longam, ante maximam magis quam ante brevem.</p>
+      <p id="TRADEM0108">Item cantus qui cantatur per medium non numerabitur per medium, sed sicut jacet sicut dictum est prius videlicet per tempora imperfecta.</p>
+      <p id="TRADEM0109">Item notandum quod communiter quando cantus superior aut discantus b mollaris fuerint, tunc alii cantus debent esse bemollares quia sepius reperitur fa contra mi, in consonantiis perfectis que falsae sunt consonantiae.</p>
+      <p id="TRADEM0110">
+      <pb n="[447]" />Item communiter ordinare debetis in discantu clavem de C sol fa ut, in linea prima, vel secunda secundum quod acute vel alte ascendere vel descendere velitis.</p>
+      <p id="TRADEM0111">Item in tenore ordinanda est clavis communiter in C sol fa ut, in quinta vel in quarta linea vel in tertia secundum quod petitur tenorem altam vel gravem vel bassum, vel etiam potest poni clavis F fa ut in tertia linea si velitis tenorem valde bassum vel gravem.</p>
+      <p id="TRADEM0112">Item in contratenore basso aut gravi ordinanda est clavis F fa ut, in quarta linea aut in quinta, se velitis ipsum valde bassum ordinare.</p>
+      <p id="TRADEM0113">Item triplum vel tenor acutus videlicet cantus debet clavis ordinari C sol, fa ut, in quarta aut tertia linea secundum quod velitis ascendere vel descendere.</p>
+      <p id="TRADEM0114">Item tritonus est species vitanda in musica et est species continens in se tres tonos ut in F fa ut et in b fa [sqb] mi.</p>
+      <p id="TRADEM0115">[CSIV:447,1; text: Item b mol inventum est propter. tritonum, suavitatem, mutationem, mobilitatem] 
+      <figure>
+        <graphic url="/images/TRADEM_14GF.gif" />
+      </figure></p>
+      <p id="TRADEM0116">[CSIV:447,2; text: Item si discantus fuerit. C sol, fa, ut, D la, sol, re, E la, mi, Fa, ut, G sol, re, ut, a la, mi, re, b fa, [sqb] mi, C sol, fa, ut, D la, sol, e la, tenor erit in 3a, 5ta, 6ta, supra discantum. in 3, 5, 6, 8, 12, 13, 15a, sub discantu. in 3, 5, supra discantum. in 3, 5, 6, 8, 10, 12, 13, 15a, sub d. in 3, supra discantum. in 3, 5, 6, 8, 10, 12, 13, 15, sub d. in 3, supra d. in 3, 5, 6, 8, 10, 13, 14, sub discantu. in 3, 5, 6, 8, 10, 12, 13, 15, sub discantu. in 5, 6, 8, 10, 12, 13, 15, sub discantu. in 6, 8, 10, 12, 13, 15, sub discantu.]</p>
+      <p id="TRADEM0117">
+      <pb n="[448]" />[CSIV:448; text: Item si discantus fuerit in unisono supra tenorem tunc. contratenor erit in: 1a, 3a, 5a, 6a, 8a, 10a, 12a, sub tenore, triplum, 5a, 3a, supra tenorem. 3a, 5a, 6a, 8a, 10a, sub tenore. 5, 3, supra contratenore. 3, 6, 8, sub contratenore. 8, 5, 3, supra contratenore. 6, 8, sub contratenore. 10, 8, 3, supra contratenore. 3, 5, sub contratenore. 12, 10, 8, 6, 5, supra contratenore. 3, sub contratenore. 10, 8, ,6, ,5, ,3, supra contratenore. 15, 12, 10, 8, 6, 5, 3, supra contratenorem. Item si discantus fuerit in 3a supra tenorem tunc. 10, 8, supra contratenorem. 6, 8, sub contratratenore. 10, 3, supra contratenorem. 3, 5, sub contratenore. 10, 6, 5, 3, supra contratenorem. 3, sub contratenore. 15, 8, 5, 3, supra contratenorem. Item si discantus fuerit in quinta supra tenorem, tunc. 8a, 10a, sub contratenore. 8a, 3a, supra contratenorem. 3a, sub contratenore. 10a, 5a, 3a, supra contratenorem.] 
+      <figure>
+        <graphic url="/images/TRADEM_15GF.gif" />
+      </figure></p>
+      <p id="TRADEM0118">
+      <pb n="[449]" />[CSIV:449; text: Item si discantus fuerit in octava supra tenorem, tunc. contratenor erit in: 6a, 5a, 3a, supra tenorem, triplum, 3a, 8a, 13a, 15a, supra contratenorem. 3, 10, 12, supra contratenorem. 3, supra contratenorem. 5, 8, 10, sub contratenore. 8a, 10a, 12a, sub tenore, 8, 6, 5, supra contratenorem. 3, 6, 8, sub contratenore. 10, 8, 3, supra contratenorem. 10, 8, 3, supra contratenorem. 3 sub contratenore. 12, 10, 6, 5, 3, supra contratenorem. 15, 13, 12, 8, 6, 3, supra contratenorem. 17, 15, 10, 8, 6, 3, supra contratenorem. Item si discantus fuerit in decima supra tenorem, tunc. 6a, 5a, 3a, supra tenorem. 10a, sub contratenore. 8, 3, supra tenorem. 8, sub tenore. 6, 3, supra contratenorem. 5, sub contratenore. 10, 8, 5, supra contratenorem. 10, 8, 3, supra contratenorem. 15, 13, 12, 10, 5, 3, supra contratenorem. 15, 12, 8, 5, 3, supra contratenorem. Item si discantus fuerit in duodecima supra tenorem. 3, 5, 6, 8, sub contratenore. 3, 4, 6, sub contratenore. 6, 4, supra contratenorem. 8, 6, supra contratenorem. 15, 12, 10, 5, supra contratenorem.] 
+      <figure>
+        <graphic url="/images/TRADEM_16GF.gif" />
+      </figure></p>
+      <p id="TRADEM0119">
+      <pb n="[450]" />[CSIV:450; text: In unisono: Discantus. Tenores. Contratenores. Tenores acuti. In octava] 
+      <figure>
+        <graphic url="/images/TRADEM_17GF.gif" />
+      </figure></p>
+      <p id="TRADEM0120">
+      <pb n="[451]" />[CSIV:451; text: In octava: Discantus. Tenores. Contratenores. Tenores acuti. In unisono.] 
+      <figure>
+        <graphic url="/images/TRADEM_18GF.gif" />
+      </figure></p>
+      <p id="TRADEM0121">
+      <pb n="[452]" />[CSIV:452; text: In octava: Discantus. Tenores. Contratenores. Tenores acuti.] 
+      <figure>
+        <graphic url="/images/TRADEM_19GF.gif" />
+      </figure></p>
+      <p id="TRADEM0122">
+      <pb n="[453]" />[CSIV:453; text: In octava. Discantus. Tenores. Contratenores. Tenores acuti.] 
+      <figure>
+        <graphic url="/images/TRADEM_20GF.gif" />
+      </figure></p>
+      <p id="TRADEM0123">
+      <pb n="[454]" />[CSIV:454; text: Tenores acuti. In octava. Tenores. Contratenores. Discantus. (L') Autre jors par un matin esbate m'en aloie, S'encontray en mon chemin pastourele coie,</p>
+      <p id="TRADEM0124">Qui chantoit et menant joie, pour che qu'elle [entend chanter]. Robinet et my la voye] 
+      <figure>
+        <graphic url="/images/TRADEM_21GF.gif" />
+      </figure></p>
+      <p id="TRADEM0125">
+      <pb n="[455]" />[CSIV:455; text: lary hori la mirene falari dundenne. Lari lari hori la mirene falari dundenne. Lauda Syon salvatorem lauda ducem et pastorem in hymnus et canticis. Tantum potes, etc. Sit laus plena, etc. Autre jors par un matin esbate m'en aloie S'encontray en mon chemin pastourele coie. Qui chantoit. Robinet en Lari lari hori la mirene falari dundenne. Autre jour par un matin esbate m'en aloie] 
+      <figure>
+        <graphic url="/images/TRADEM_22GF.gif" />
+      </figure></p>
+      <p id="TRADEM0126">
+      <pb n="[456]" />[CSIV:456; text: Pucelote que Dieu vous gart Beaux sire et genty Gascart. Tout estes vous gente jolie Dieu soit en vostre compagnie. Allons nous en je vous en prie la parlerons de nos amours. Brave sire et genty Gascart. Allons nous en je vou en prie [En un vergier paré de fleurs, allons nous en ma très chiere amie.] Biaux sire et genty Gascart. Trois filles estoient toutes en ungtenant disoit l'une a l'autre je n'ai point] 
+      <figure>
+        <graphic url="/images/TRADEM_23GF.gif" />
+      </figure></p>
+      <p id="TRADEM0127">
+      <pb n="[457]" />[CSIV:457; text: d'amant. Voghe la galere Dieu gart che galant dist la plus jonette j'en ay ung fringant Il n'est point à France, ne à Bruges, ne à Gant, hé, hoé hé, hoé. Voghe la galere Dieu gart le galant. Trois filles etoient tout en ungtenant disoit l'ugne a l'autre je n'ai point d'amant. Il n'est point à France, à Bruges, ne à Gant hé hoé dist la plus jonete j'en ay ung fringant; I nest point a Franche] 
+      <figure>
+        <graphic url="/images/TRADEM_24GF.gif" />
+      </figure></p>
+      <p id="TRADEM0128">
+      <pb n="[458]" />[CSIV:458; text: ne à Bruges ne à Gant Voghe la galère dieu gart che galant. Au matin quant je suis levé volontiers desjeuneroie d'ung joli pied de mouton et d'un morcelet de fié, au tout ung peult de sel sus. Je ne vous demande plus jusqu'au diner donné m'aurez tous jours boire, boire, boire, boire vouldroie. Au matin quant je suis levé volontiers desjeuneroie d'ung joli piet de mouton et d'ung au tout ung. Je ne vous demande autant tousjours boire, boire vouldroie. Au matin quant je suis levé voldroie desjeuner. Je ne vot demande] 
+      <figure>
+        <graphic url="/images/TRADEM_25GF.gif" />
+      </figure></p>
+      <p id="TRADEM0129">
+      <pb n="[459]" />[CSIV:459,1; text: plus jusque autant toujours boire vouldroie.] 
+      <figure>
+        <graphic url="/images/TRADEM_26GF.gif" />
+      </figure></p>
+      <p id="TRADEM0130">Au disner ne vouldroie point faire longhe dinerie,</p>
+      <p id="TRADEM0131">D'un pasté de capon et d'une pedris rostie</p>
+      <p id="TRADEM0132">A toute le sause dessus je ne vous demande plus,</p>
+      <p id="TRADEM0133">Jusque autant que souper m'aurez doné.</p>
+      <p id="TRADEM0134">Au souper ne vouldroie point scargier mon [couer] de viande</p>
+      <p id="TRADEM0135">D'ung faysant rosti a point et d'une tarte friande</p>
+      <p id="TRADEM0136">A tout le schucre dessus je ne vous demande plus,</p>
+      <p id="TRADEM0137">Jusqu'autant que couchié m'aurez.</p>
+      <p id="TRADEM0138">Au couchier vouldroie avoir ung bon grant plat de dragié,</p>
+      <p id="TRADEM0139">Et de ipocras bien fin; c'est pour ralongier ma vie</p>
+      <p id="TRADEM0140">Et m'amie mis a nuds; je ne vous demande plus,</p>
+      <p id="TRADEM0141">Jusque autant que lever doné m'aurez.</p>
+      <p id="TRADEM0142">Au lever vouldroie bien trouver ma bourse garnie,</p>
+      <p id="TRADEM0143">De cent nobles et de monnoie pour mener pieux vie</p>
+      <p id="TRADEM0144">Bien causiet et bien vesté je ne vous demande plus,</p>
+      <p id="TRADEM0145">Jusque autant que morir doné m'aurez. Toujours, etc.</p>
+      <p id="TRADEM0146">Au morir voldroie confession avoir et repantanche,</p>
+      <p id="TRADEM0147">Et donner mon ame à Dieu, as angles et arcangles</p>
+      <p id="TRADEM0148">Qui le perteroit lassus, je ne vous demande plus,</p>
+      <p id="TRADEM0149">Ne plus boire ne vouldroie quant en paradis seroie.</p>
+      <p id="TRADEM0150">[CSIV:459,2; text: Et vous ires au vin au vin vous ires au vin vous ires au vin vous ires au vin au vin au vin portray ma chemise ma cocle de Bruxele dorbatue et vos ires au vin au vin et vous ires au vin baghete vous ires au vin vous ires au vin. Tout en un pot en un sac en un rel en un van trouvay au son mamie. O]</p>
+      <p id="TRADEM0151">
+      <pb n="[460]" />[CSIV:460; text: jardin mon père entray sancte Marie Tout en un pot en un sac en un rel en un van trouvay au son mamie. Tenor. Et vous ires au vin au vin et vous ires au vin et vous ires au vin au vin. Au bon vin portray ma chemise bien deli e de Bruxele dorbatue et vous ires au vin au vin et vous ires au vin et vous ires au vin au vin. Tout en un pot en un sac en un rel en un van trouvay au son mamie O jardin mon père entray sancte Marie tout en un pot en un sac en un rel trouvay au son mamie. Contratenor.] 
+      <figure>
+        <graphic url="/images/TRADEM_27GF.gif" />
+      </figure></p>
+      <p id="TRADEM0152">
+      <pb n="[461]" />[CSIV:461; text: ires au vin. Au bon vin portray ma chemise ma cocle de Bruxele Vous ires au vin au vin Baghete et vous ires au vin Tout en un pot en un sac en un rel en un van trouvay au son mamie O jardin de mon père entray sancte Marie tout en un pot, en un sac, en un rel, en un van trouvay au son mamie. Et vous ires au vin au vin baghete et vous ires au vin vous ires au vin baghete au bon vin portray ma chemise bien delie ma chotcle ma chainture vous ires au vin Vous ires au vin Baghete vous ires au vin au vin. Tout en pot, en un sac] 
+      <figure>
+        <graphic url="/images/TRADEM_28GF.gif" />
+      </figure></p>
+      <p id="TRADEM0153">
+      <pb n="[462]" />[CSIV:462; text: en un rel, en un van trouvay au son mamie. O jardin de mon père entray sancte Marie tout en un pot, en un sac, en un van trouvay au son mamie. Era may son in eta che vo servir al mio Jesu al mundo non starpiu per che voglio serviral mio signore che me fece salvor a se voglio amare il salvatore age le pien de vanita. Questo mundo e pien de vitii e pien de fer ... de mori in croce preme. Era may, etc. Ay my ay my wat zal ic do en my dunct ic ben in een prisoen al sic dat herte derven moet lyf en goet zin ende spoet leit my daer an want ic se dach niet ont beeren ont beeren ont beeren] 
+      <figure>
+        <graphic url="/images/TRADEM_29GF.gif" />
+      </figure></p>
+      <p id="TRADEM0154">
+      <pb n="[463]" />[CSIV:463; text: en can. Ay my ay my wat zal ic doen mi dunct ic ben in een prisoen als ic daer herte derven moet lyf en goet zin en spoet ende want ic se doch nie on eeren ont beeren en can. Ay my ay my wat zal ic doen my dunct ic ben in een prisoen als ic dat [herte] derven moet lyf en goet zin ende spoet leit my doeran want ic se doch niet ont beeren ont beeren en can. Den most is comen den most is hier hy soo goet en also] 
+      <figure>
+        <graphic url="/images/TRADEM_30GF.gif" />
+      </figure></p>
+      <p id="TRADEM0155">
+      <pb n="[464]" />[CSIV:464; text: fyn daer om moet hy ge drinken syn laet sparen knoyte knol hop ende bier laet drinken win laet vrolyc syn alle willekom soe moellen syn, etc. Si eloy de haer buixken dede haer weezy, re, fa, sol, la, la, sol fa, mi, re, soe wee soe wee meynstu waren, sol, fa, mi, re, sol, si daerme, la, sol, la, ach ach hay si drulderme. Weyde fy noch wre ost ij haer sotte kie zou helas haer buxkin doet] 
+      <figure>
+        <graphic url="/images/TRADEM_31GF.gif" />
+      </figure></p>
+      <p id="TRADEM0156">
+      <pb n="[465]" />[CSIV:465; text: haer wee, sol, fa, re, mi, re, si baets my eens sy draelder dat ic haer dede. Ic zeiden claren dach al door die woolken dringhen. Ic zie de groene gras al nul ter wede sprinjgten ten die stralen lichten claer staet op my wilt ont facn die mey die is soo scoene. Sancte Johannes baptista. Sancte Petre. Sancte Paule. Sancte Andree. Sancte Jacobe. Sancte Philippe. Ora pro nobis. Ic zy den claren dach.] 
+      <figure>
+        <graphic url="/images/TRADEM_32GF.gif" />
+      </figure></p>
+      <p id="TRADEM0157">
+      <pb n="[466]" />[CSIV:466; text: Deo dicamus, In laude Jhesu, Que sue mat i marie benedixit. Duo. Benedicamus.] 
+      <figure>
+        <graphic url="/images/TRADEM_33GF.gif" />
+      </figure></p>
+      <p id="TRADEM0158">
+      <pb n="[467]" />[CSIV:467; text: Benedicamus. Deo dicamus. In laude Jhesu.] 
+      <figure>
+        <graphic url="/images/TRADEM_34GF.gif" />
+      </figure></p>
+      <p id="TRADEM0159">
+      <pb n="[468]" />[CSIV:468; text: Benedicamus patrem et filium cum sancto spiritu. Benedicamus pa. Benedicamus domino. Deo dicamus] 
+      <figure>
+        <graphic url="/images/TRADEM_35GF.gif" />
+      </figure></p>
+      <p id="TRADEM0160">
+      <pb n="[469]" />[CSIV:469; text: gra, Sonitu gratias.] 
+      <figure>
+        <graphic url="/images/TRADEM_36GF.gif" />
+      </figure></p>
+    </body>
+  </text>
+</TEI>

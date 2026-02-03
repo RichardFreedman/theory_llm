@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Regule contrapuncti secundum usum Regni Siciliae</title>
+        <title type="abbrev">ANOREG</title>
+        <author>Anonymous</author>
+        <date notBefore="1400" notAfter="1499">15th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Mark Butler</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Anastasia Arapova</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>2001</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Paolo Nalli, "Regulae contrapuncti secundum usum Regni Siciliae, tratte da un codice siciliano del Sec. XV," 
+<emph>Archivio Storico per la Sicilia Orientale</emph> II/9 (1933), 287–88 and 291–92.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: Tractatus de contrapuncto</title>
+          
+<idno type="LML">CONTR. Primo sciendum</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">I-CATc D 39, 41v-42</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-CATc D 39, 40v-41v</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANOREG0001">
+      <pb n="[287]" />cc. 39b-41: Sequuntur Regule contrapuncti secundum usum Regni Siciliae.</p>
+      <p id="ANOREG0002">Nota quod contrapunctus est fundamentum biscantus Et sicut edificium non potest regi sine fundamento ita non possumus bene et congrue biscantare nisi prius sciamus bene contrapunctum.</p>
+      <p id="ANOREG0003">Nota quod contrapunctus debet Jn tribus accidentibus concordare scilicet Jn numero in specie et Jn voce.</p>
+      <p id="ANOREG0004">Nota quod novem sunt species contrapuncti videlicet unisonus tercia. quinta, sexta, octava, decima. duodecima. terciadecima et Quintadecima. Quarum quinque sunt consonancie perfecte. et quatuor Jnperfecte. Consonancie perfecte sunt iste scilicet unisonus. quinta. octava. duodecima. et quintadecima.</p>
+      <p id="ANOREG0005">Alie vero quatuor sunt tercia, Sexta, decima, et terciadecima sunt consonancie Jnperfecte.</p>
+      <p id="ANOREG0006">Nota quod semper debemus Jncipere et finire per consonanciam perfectam penultima vero debet esse consonancia inperfecta.</p>
+      <p id="ANOREG0007">Nota quod non possumus facere duas consonancias perfectas simul et semel nec eciam possumus ascendere nec descendere cum consonancijs perfectis nisi per tonum.</p>
+      <p id="ANOREG0008">Nota quod possumus facere duas vel tres et ad plus usque ad quatuor consonancias inperfectas tam ascendendo quam descendendo.</p>
+      <p id="ANOREG0009">Nota quod non possumus facere fa. contra mi. in consonancijs perfectis nec e converso tamen Jn consonancijs Jnperfectis Jta.</p>
+      <p id="ANOREG0010">Nota quod unisonus vult ante se et postea terciam et terciam requirit quintam quando cantus descendit et quando ascendit requirit unisonus quintam requirit 
+      <pb n="[288]" />sextam quando cantus descendit et quando ascendit requirit terciam, sexta requirit octavam post se. Octava requirit decimam quando cantus descendit et quando ascendit requirit sextam vel quintam. et si sextam vel sextas requirit octavam Decima requirit duodecimam quando cantus descendit, et quando ascendit requirit octavam. Duodecima requirit Terciodecimam quando cantus descendit, et quando ascendit requirit decimam terciam. Decima requirit quintamdecimam quando cantus descendit et quando ascendit requirit duodecimam et sic Jn infinitum.</p>
+      <p id="ANOREG0011">Nota quod quicquid habemus per terciam habemus per decimam, et quicquid habemus per quintam habemus per duodecimam et quicquid per sextam. per terciamdecimam et quicquid per octavam per quintamdecimam et sic ad Jnfinitum Et nota quod quicquid habemus per unisonum habemus per octavam aliquando fallit sicut per regulam jnferius demostrabo.</p>
+      <p id="ANOREG0012">Nota quod unisonus de omne. ut. sunt. ut vel sol. tercia est mi. quinta est sol. vel ut. sexta est. la. vel. re., octava est fa. vel. ut. decima est la. vel mj. duodecima est sol. vel ut. terciadecima est la. vel. re. et quintadecima est fa. vel. ut.</p>
+      <p id="ANOREG0013">Nota quod unisonus de omne. re. similis est re. ac etiam la. tercia est fa. quinta est. la. vel. re. Sexta est mi. Octava est sol. vel re. Decima est fa Duodecima est la. vel re. terciadecima est mi. et quintadecima est sol. vel re.</p>
+      <p id="ANOREG0014">Nota quod unisonus de mi. est mi. tercia est sol. vel. ut. quinta est mj. sexta est fa. vel ut. octava est la. vel mi. Decima est sol vel ut. Duodecima est mj. terciadecima est fa. vel. ut. quintadecima est la. vel mj.</p>
+      <p id="ANOREG0015">Nota quod unisonus de omne fa. similis est fa. tercia est la. vel re. quinta est fa. vel ut. sexta est sol. vel re. Octava est fa. Decima est la. vel. re. Duodecima est fa. vel. ut. terciadecima est sol. vel. re. et quintadecima est fa.</p>
+      <p id="ANOREG0016">Nota quod unisonus de. sol. est sol. vel. ut. tercia est mi. quinta est sol vel re. sexta est la. vel mi. octava est sol. vel ut. decima est mj. duodecima est sol. vel re. terciadecima est la. vel mj. et quintadecima est sol. vel. ut.</p>
+      <p id="ANOREG0017">Nota quod unisonus de omne la. est la. vel re. tercia est fa. vel. ut. quinta est la. vel mi. sexta est fa. Octava est la. vel re. decima est fa. duodecima est la. vel. mj. terciadecima est fa et quintadecima est la. vel. re. et sic ad infinitum.</p>
+      <p id="ANOREG0018">SEQUUNTUR REGULE CONTRAPUNCTI</p>
+      <p id="ANOREG0019">Quoniam Latens sciencia nichil prodest et cito labitur distributa autem per oppositum multum prodest et magnum recipit incrementum. Ea propter scire artem biscantus vel contrapuncti ipsum quoque biscantum proferre quem diu latuerunt apud quosdam imperitos musicos maximum meum posse sub brevj forma propono revelare Et primo quid sit biscantus. secundo unde dicitur. tertio. que requiruntur ad eius bonitatem Et est sciendum quod biscantus est diversorum cantuum in unum re dacta concordia vel contra punctus est ornamentum sui rey et tenoris. biscantus dicitur quasi versus cantus quod unus ascendit et alius dicitur descendere Et contrapunctus dicitur a contra quod est simul et punctus quod est mensura quasi cantus mensuratus. Tercio que requiruntur ad eius bonitatem sunt quatuor scilicet 
+      <pb n="[291]" />biscantus vel contrapunctus dicitur esse pulcrior per se. secundo absque reditas notas. tertio. ex specie non geminata. quarto consonancias sic graduatas.</p>
+      <p id="ANOREG0020">Sequitur quomodo contrapunctus debet ordinarj</p>
+      <p id="ANOREG0021">Primo sciendum est quod duodecim sunt species biscantus scilicet unus sonus, tercia. quinta. Sexta. octava. decima. duodecima. terciadecima. quintadecima. septimadecima. vicesima. et vicesima. Et dividuntur in duas partes videlicet Jn sex perfectas. et sex Jnperfectas. Perfecte sunt. unus sonus quinta. octava. duodecima. quintadecima. undevicesima. Jnperfecte sunt tercia. sexta. decima. terciadecima. septimadecima. et vicesima. Et est sciendum quod semper biscantus vel contrapunctus debet incipere a speciebus perfectis et similiter finirj dum cum penultima sit consonancia inperfecta. Secundo. notandum quod quando cantus planus ascendit, biscantus vel contrapunctus debet descendere et e contrario. Jsta regula intelligitur in speciebus perfectis et non in inperfectis. Tertio. quod non debemus facere duas species perfectas similes set dissi miles bene. Quarto. quod de speciebus inperfectis possumus facere. tres. quatuor quinque vel plures similes vel dissimiles, ascendendo vel discendendo cum cantu plano in si mul. Et possumus cum speciebus perfectis ascendere vel descendere cum cantu plano insimul per tonum tantum et non aliter gradatim vel non gradatim. Quinto quod sexta non debet fierj nisi cantus planus descendat gradatim et octava subsequatur et hec est generalis regula. Sexto si cantus planus descendit per speciem dyathesaronicam potest unam vel plures sextas oportet habere decimam maiorem. Septimo quod si cantus planus ascendit gradatim vel non oportet post unam sextam vel plures facere terciam minorem. Octavo quod non debemus ponere mj contra. fa. nec fa. contra. mj Jn speciebus perfectis Nono quo tendis jre propinquiorem debes accipere. Hec ille.</p>
+      <p id="ANOREG0022">[Anonymous, Regulae contrapuncti, 291-92; text: octava, decima, duodecima, terciadecima, sexta, quinta, tercia, unus sonus, ut, re, mi, fa, sol, la, Gamaut, Are, Bmj, Efaut, Dsolre., Elami, Ffaut, Gsolreut, Alamire, B. fabmj, Csolfaut, Dlasolre, Elamj] 
+      <figure>
+        <graphic url="/images/ANOREG_01GF.gif" />
+      </figure></p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Musica disciplina</title>
+        <title type="abbrev">AUREPI</title>
+        <author>Aurelianus Reomensis</author>
+        <date notBefore="800" notAfter="1099">9th-11th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>John Csonka</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Bradley Jon Tucker</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1993</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Adrien de la Fage, 
+<emph>Essais de dipthérographie musicale</emph> (Paris: Legouix, 1864), 343.
+</bibl>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="AUREPI0001">
+      <pb n="[343]" />Quisquis hoc legerit magno cum jure patratum,</p>
+      <p id="AUREPI0002">Noverit auctores hic fore persalubres.</p>
+      <p id="AUREPI0003">Fons hic Graecorum, Pythagoras musicus adest,</p>
+      <p id="AUREPI0004">Necne latinorum continet ora patrum.</p>
+      <p id="AUREPI0005">AURE tuus, legi, compsi scripsique LIANUS,</p>
+      <p id="AUREPI0006">Pastor Bernarde, munus hoc exiguum.</p>
+      <p id="AUREPI0007">Vale decus patriae.</p>
+    </body>
+  </text>
+</TEI>

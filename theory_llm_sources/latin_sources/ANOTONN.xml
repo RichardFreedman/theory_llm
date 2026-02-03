@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Tonale</title>
+        <title type="abbrev">ANOTONN</title>
+        <author>Anonymous</author>
+        <date notBefore="1100" notAfter="1199">12th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Peter Slemon</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Anastasia Arapova</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>2001</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Armand Machabey, "'Tonale' inédit du Graduel Manuscrit de Nevers," 
+<emph>Revue de musicologie</emph> 10 (1926): 120-25, 120–25.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: Tonale Nivernense</title>
+          
+<idno type="LML">TON. Nivern.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">F-Pn Nouv. acq. lat. 1235, 141v-146</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANOTONN0001">
+      <pb n="[120]" />[f. 141v in marg.] Tonus quid est?</p>
+      <p id="ANOTONN0002">Regula que de omni cantu in fine dijudicat.</p>
+      <p id="ANOTONN0003">Primus tonus quid est?</p>
+      <p id="ANOTONN0004">Determinacio quarte vocis D, habens elevationem potentialiter usque adeandem littram, id est undecimam d.</p>
+      <p id="ANOTONN0005">Quot principia habet?</p>
+      <p id="ANOTONN0006">Quatuor.</p>
+      <p id="ANOTONN0007">Que?</p>
+      <p id="ANOTONN0008">Octavam a, sextam f, quartam d, terciam c; sunt autem quidam cantus quorum vox prima exordium videtur habere in G, vel in e, sed differt; quam omne principium certam habet sedem ac inmutabilem -- sed prima vox talium incertam ac mutabilem habet sedem -- qua propritim non judicatur esse principium, nisi elevatio quam habet de d ad a. Nam, propritim illam recipiunt formulans: Ut canite tuba. Ave Maria et consimiles.</p>
+      <p id="ANOTONN0009">Quot differencias?</p>
+      <p id="ANOTONN0010">Novem.</p>
+      <p id="ANOTONN0011">Quas?</p>
+      <p id="ANOTONN0012">Videlicet ipsa principia que inter se et a seipsis differunt [f. 142 in marg.] et tamen in quarta voce conveniunt. Da exemplum illius differencie que sola oritur ab octava voce ......</p>
+      <p id="ANOTONN0013">Da exemplum illarum trium differenciarum exordium in f habencium quarum una sursum, alia inferius alia mediocris dicitur; hec est que tendit sursum ......</p>
+      <p id="ANOTONN0014">Da exemplum illius differencie que sola oritur a tercia voce ...</p>
+      <p id="ANOTONN0015">Pone exemplum quatuor differenciarum quarte vocis quarum una est principalis: ......</p>
+      <p id="ANOTONN0016">
+      <pb n="[122]" />[f. 142v in marg.] Omnis alie antiphone primi toni quarum principium non est simile istis superdictis sunt hujus differencie que sequuntur que formula principalis est ......</p>
+      <p id="ANOTONN0017">De officiis et communionibus et antiphonis processionalibus hec communis racio habetur; si primi toni sunt et in a principium sorciantur, hanc differenciam recipiunt ......</p>
+      <p id="ANOTONN0018">Si in f ascendendo, istinserunt ......</p>
+      <p id="ANOTONN0019">Si habent elevationem de d in a, istius judicabuntur esse differencie ......</p>
+      <p id="ANOTONN0020">Alie omnis sunt istius differencie sequentis que est principalis;</p>
+      <p id="ANOTONN0021">Secundus tonus quid est?</p>
+      <p id="ANOTONN0022">Determinacio quarte vocis, non habens elevationem potestate usque adeandem littram.</p>
+      <p id="ANOTONN0023">Quot principia habet? -- V -- Que?</p>
+      <p id="ANOTONN0024">[f. 143 in marg.] Sextam F, quartam D, terciam C, primam a, et [Gamma] que raro est in usu.</p>
+      <p id="ANOTONN0025">Quot differencias?</p>
+      <p id="ANOTONN0026">Nullam, quae quia licet ipsa principia inter se differunt in uno seculorum tamen conveniunt. Verbi gracia ......</p>
+      <p id="ANOTONN0027">De officiis et communionibus et antiphonis processionalibus: ......</p>
+      <p id="ANOTONN0028">Qualiter differt primus tonus a secundo?</p>
+      <p id="ANOTONN0029">Elevatione et depositione.</p>
+      <p id="ANOTONN0030">Qua?</p>
+      <p id="ANOTONN0031">Hac scilicet. Nam secundus habet [Gamma] et primam a et secundam B, quas non habet primus -- et primus habet decimam c et undecimam D quas non habet secundus.</p>
+      <p id="ANOTONN0032">Quid autem fiet de illis cantibus qui hanc elevationem vel depositionem non habent?</p>
+      <p id="ANOTONN0033">Hec discrecio. Si non ascendunt ad octavam a, certissime secundi toni erunt -- ut "juste et pie viva" -- "Michael archangele". "Consurge, consurge" -- quem vidistis et consimiles. Si ascendunt, et alicui differencie primi toni conveniunt, primi toni erunt. Ut deus a libano ductus ihs et consimiles.</p>
+      <p id="ANOTONN0034">Tercius tonus quid est?</p>
+      <p id="ANOTONN0035">Determinacio quinte vocis habens elevationem potestate usque adeandem littram.</p>
+      <p id="ANOTONN0036">Quot principia habet? -- Quatuor -- que?</p>
+      <p id="ANOTONN0037">Decimam c, octavam a, septimam G, quintam E.</p>
+      <p id="ANOTONN0038">Quot differencias? -- VI -- Quas?</p>
+      <p id="ANOTONN0039">Videlicet ipsa principia que inter se et a seipsis differunt et tamen in quinta voce conveniunt. Da exemplum illarum duarum differenciarum que oriuntur a quinta voce quarum una quandoque in decima C capit exordium hec scilicet ......</p>
+      <p id="ANOTONN0040">[f. 143v in marg.] Verbi gracia illarum differenciarum quatuor que sunt in septima 
+      <pb n="[123]" />G quarum due differunt per saltum secunde et tercie sillabe, hec autem est que salit in secunda ......</p>
+      <p id="ANOTONN0041">Quartus tonus quid est?</p>
+      <p id="ANOTONN0042">Determinacio quinte vocis non habens elevationem potestate usque adeandem vocem.</p>
+      <p id="ANOTONN0043">Quot principia habet? Sex -- que?</p>
+      <p id="ANOTONN0044">Octavam a, septimam G, sextam F, quintam E, quartam D, terciam C.</p>
+      <p id="ANOTONN0045">Quot differencias? Sex. Quas?</p>
+      <p id="ANOTONN0046">Videlicet ipsa principia que inter se differunt, et tamen in fine voce conveniunt. Verbi gracia illius differencie que oritur a quarta voce: ......</p>
+      <p id="ANOTONN0047">[f. 144 in marg.] Da exemplum illius differencie que nascitur a quinta voce ut a sexta voce que est principalis ......</p>
+      <p id="ANOTONN0048">Da exemplum illius differencie que oritur a tercia voce ......</p>
+      <p id="ANOTONN0049">Da exemplum illius differencie que oritur a septima G vel ab octava voce que tamen quandoque capit exordium in e faciendo semitonum in ascensum. Verbi gracia ......</p>
+      <p id="ANOTONN0050">Da exemplum duarum differenciarum que per necessitatem ponuntur in affinibus vocibus ut post partum jurgo que originem capit in quadrato [sqb] et tamen determinatur in a assumendo b rotundum, quare non portat determinari in quinta E, quam nolumus uti super E, tali tono quamvis boecius uteretur: ......</p>
+      <p id="ANOTONN0051">Sociatur quam benedictatu capit exordium in G eodem modo determinando in a tenendo utramque [rob] [sqb], et non solum hujusmodi cantus hoc faciunt multi alii secundi et tercii et aliorum tonorum penurie causa in affines determinantur ......</p>
+      <p id="ANOTONN0052">De officiis, et cetera ......</p>
+      <p id="ANOTONN0053">Qualiter differt tercius tonus a quarto?</p>
+      <p id="ANOTONN0054">Elevatione et depositione. Quas?</p>
+      <p id="ANOTONN0055">Hac scilicet: Nam quartus habet a secundam B, terciam c, quas non habet tercius; et tercius habet undecimam d et duodecimam e quas non habet quartus; quamvis quartus quandoque assumat undecimam d que</p>
+      <p id="ANOTONN0056">[f. 144v in marg.] est septima a suo fine -- quid nullus alius discipulus facit -- et hoc fine causa quia ita habet c que distat a suo fine diapente et semitonio quemadmodum alii habent solam diapente quia vox que reddit diapente a finali voce non est firma, ideoque assumit c loco illius et tercius similiter.</p>
+      <p id="ANOTONN0057">Quid de illis fiet cantibus qui non habent illam depositionem quam plani cantus indignantur habere? Quia non tangunt primam nec secundam vocem, quamvis eas regulariter habeam nec illam elevationem?</p>
+      <p id="ANOTONN0058">
+      <pb n="[124]" />Hec discrecio. Si ascendunt ad decimam c in principio saliendo, tercii toni erunt. Alioquin, quarti.</p>
+      <p id="ANOTONN0059">Quintus tonus quid est?</p>
+      <p id="ANOTONN0060">Determinacio quinte vocis habens elevationem potestate usque adeandem vocem.</p>
+      <p id="ANOTONN0061">Quot principia habet? Quatuor. Que?</p>
+      <p id="ANOTONN0062">Decimam c, octavam a, septimam G, sextam F.</p>
+      <p id="ANOTONN0063">Quot differencias? Nullam. Quare?</p>
+      <p id="ANOTONN0064">Quia licet ipsa principia inter se differant, tamen in uno seculorum conveniunt. Verbi gracia ......</p>
+      <p id="ANOTONN0065">De officiis ..., et cetera.</p>
+      <p id="ANOTONN0066">Sextus tonus quid est?</p>
+      <p id="ANOTONN0067">Determinacio sexte vocis non habens elevationem potestate usque adeandem littram.</p>
+      <p id="ANOTONN0068">Quot principia habet? -- Quatuor. Que?</p>
+      <p id="ANOTONN0069">Octavam a. Sextam f. Quartam D, terciam c.</p>
+      <p id="ANOTONN0070">Quot differencias? nullam. Quia licet ipsa principia inter se differant, tamen in uno seculorum conveniunt. Verbi gracia.</p>
+      <p id="ANOTONN0071">De officiis, et cetera.</p>
+      <p id="ANOTONN0072">[f. 145 in marg.] Qualiter differt sextus tonus à quinto?</p>
+      <p id="ANOTONN0073">Elevatione et depositione. Qua? -- Hac scilicet. Quia sextus tonus habet terciam C, quartam D, quas non habet quintos; et quintus habet duodecimam e et terciam decimam f quas non habet sextus.</p>
+      <p id="ANOTONN0074">Quid autem fiet de illis cantibus qui non habent hanc elevationem et depositionem?</p>
+      <p id="ANOTONN0075">Hec discrecio: si ascendunt tenendo magistratum, quinti erunt.</p>
+      <p id="ANOTONN0076">Septimus tonus quid est?</p>
+      <p id="ANOTONN0077">Determinacio septime vocis habens elevationem potestate usque adeandem caracterem.</p>
+      <p id="ANOTONN0078">Quot principia hebet? V. Que?</p>
+      <p id="ANOTONN0079">Undecimam d, decimam c, nonam [sqb], octavam a, septimam G.</p>
+      <p id="ANOTONN0080">Quot differencias? VI. Quas?</p>
+      <p id="ANOTONN0081">Videlicet ipsa principia que inter se et a seipsis differunt, et tamen in septima voce conveniunt. Da exemplum illius differencie que oritur ab undecimam d: ......</p>
+      <p id="ANOTONN0082">Da exemplum illius que capit originem a secunda nona [sqb] ......</p>
+      <p id="ANOTONN0083">Da exemplum illius que oritur ab octava a ...</p>
+      <p id="ANOTONN0084">Verbi gracia septime vocis duarum differenciarum quarum una est principalis ......</p>
+      <p id="ANOTONN0085">De officiis ......</p>
+      <p id="ANOTONN0086">[f. 145v in marg.] Octavus tonus quid est?</p>
+      <p id="ANOTONN0087">Determinacio septime vocis non habens elevationem potestate usque adeandem vocem.</p>
+      <p id="ANOTONN0088">
+      <pb n="[125]" />Quot principia habet? VI. Que?</p>
+      <p id="ANOTONN0089">decimam c, octavam, a, septimam G, sextam f, quartam D, terciam C.</p>
+      <p id="ANOTONN0090">Quot differencias? V. Quas? videlicet ipsa principia que inter se et a seipsis differunt, et tamen in septima G conveniunt. Da exemplum illarum duarum differenciarum qui oriuntur a decima C quarum una primas duas voces laterales habet, alia disgregatas.</p>
+      <p id="ANOTONN0091">Illa que habet disgregatas ......</p>
+      <p id="ANOTONN0092">Da exemplum illius que procreatur ab octava voce ut a septima que est principalis ......</p>
+      <p id="ANOTONN0093">Exemplum illi que egreditur a sexta voce.</p>
+      <p id="ANOTONN0094">Verbi gracia illius que oritur a quarta ut a sexta voce ......</p>
+      <p id="ANOTONN0095">De officiis, et cetera ....</p>
+      <p id="ANOTONN0096">Qualiter differt octavus a septimo?</p>
+      <p id="ANOTONN0097">Elevatione et depositione. Qua?</p>
+      <p id="ANOTONN0098">Hac scilicet. Nam septimus habet terciam decimam f et quartam decimam G et si necesse fuerit quintam</p>
+      <p id="ANOTONN0099">[f. 146 in marg.] decimam aa qui videtur habere tres super acutarum alias sed non habet. Quandoquidem ergo iste de quo magis videretur non habet eas, nec ullus tonus a majorum secundum visum quas non habet octavus, et octavus habet quintam e, quartam D, terciam C quas non habet septimus.</p>
+      <p id="ANOTONN0100">Quid de illis fiet cantibus qui illam elevationem ut depositionem non habent?</p>
+      <p id="ANOTONN0101">Hec discrecio: si non ascendunt ad undecimam d, octavi erunt. Si ascendunt tenendo magistratum, septimus erunt.</p>
+    </body>
+  </text>
+</TEI>

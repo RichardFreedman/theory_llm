@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Cologne Organum Treatise</title>
+        <title type="abbrev">COLORGR</title>
+        <author>Anonymous</author>
+        <date notBefore="800" notAfter="1099">9th-11th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Bradley Jon Tucker</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Angela Mariani</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1993</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Hugo Riemann, 
+<emph>Geschichte der Musiktheorie im IX.-XIX. Jahrhundert</emph> (Berlin: Hesse, 1898), 20.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: Tractatus de organo cod. Coloniensis</title>
+          
+<idno type="LML">ORG. Colon.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">D-KNa W 331, 215</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-KNd LII, 177v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-VAL 337 (olim 359, 325), 54v (Fragment)</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="COLORGR0001">
+      <pb n="[20]" />Diaphoniam seu organum constat (!) ex diatessaron symphonia naturaliter derivari. Diatessaron autem est per quartanas regiones suavis vocum commixtio. Ergo ex hac conlatione una quidem principali lege producitur, ut in quartanis locis vox voci resultet, altera autem ut in plerisque particulis ad finem sese voces diversae conjungant, videlicet ubi colon (Ms. cola) in finali rectore consistit vel in lateralibus ejus id est in subsecundo ipsius aut in supersecundo. Verum ut in finalitatibus vox ad vocem apte convenire possit, tertia quoque lex accedit quatinus ubi colon vel commatis positio ad finalem usque rectorem descendit seu in alium ex praedictis lateralibus suis, organum inferius descendere non possit quam in illum usque sonum, qui a finali rectore fuerit subsecundus. Unde fit ut plerumque hec lex tertia primae legi obviet et hoc obstante limite organum non semper quartanas regiones obtineat. Praeterea organum tres sibi sedes constituit, ut sit organum medium, organum superius, organum inferius. Medium vocatur organum, quod moratur circa finalem rectorem; organum superius quod circa socialem ejus superiorem, organum inferius, quod circa socialem ejus inferiorem. Constant singula autem organa eodem legum jure. Est interdum ubi deficientibus naturalibus spaciis tertiana et secundana etiam conlatione per quaedam membra abusivum organum ponimus. Poscit autem semper organum diligenti et modesta morositate fieri et honestissime sacris canticis adhibetur.</p>
+    </body>
+  </text>
+</TEI>

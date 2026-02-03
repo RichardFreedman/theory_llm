@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Divisio monocordi secundum enchiriadem</title>
+        <title type="abbrev">ANOME5</title>
+        <author>Anonymous</author>
+        <date notBefore="800" notAfter="1099">9th-11th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Andreas Giger</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Dawn Reindl</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Andreas Giger</persName>
+      </respStmt>
+      <date>1998</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+Hans Schmid, ed., 
+<emph>Musica et scolica enchiriadis una cum aliquibus tractatulis adiunctis</emph>, Bayerische Akademie der Wissenschaften, Veröffentlichungen der Musikhistorischen Kommission, Band 3 (Munich: Bayerische Akademie der Wissenschaften / C. H. Beck, 1981), 240. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Anonymous: Mensura monochordi</title>
+          
+<idno type="LML">MON. In quatuor</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">D-LEu 1492, 50v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">PL-Kj 1861, 68</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">PL-Kj 1965, 39</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ANOME50001">
+      <pb n="[240]" />DIVISIO MONOCORDI SECUNDUM ENCHIRIADEM</p>
+      <p id="ANOME50002">In quatuor partes longitudinem monocordi divide equas, ita ut inter protum et tetrardum gravium sit quarta, et inter hunc [signum] et [signum] sit alia, inter hunc [signum] et [signum] sit tercia, remanet vacua quarta. Oportebit autem, ut tribus tonis supervadat istud ultra monochordum Boecii, scilicet ut unusquisque sonus habeat suum bisdiapason. Hoc autem in remittendo nequit fieri. Fiat vero sic:</p>
+      <p id="ANOME50003">Addo diatesseron [signum] et mihi est [signum]. Huius aufero nonam, est mihi [signum] et huius similiter et est mihi [signum], qui inter se duobus tonis differunt. Relinquitur igitur mihi semitonium inter [signum] et [signum]. Huic [signum] aufero terciam et est [signum] ab [signum] tribus distans tonis. Aufero igitur [signum] nonam et habeo [signum]. Huic similiter et est mihi [signum]. Relinquitur autem inter [signum] et [signum] tonus. Hoc prius cognito facile erit ea, que secuntur, posse metiri aut per diatesseron aut per diapente, ut ita sit tonus et semitonium: regularis monocordi regula partita per tres tonos et semitonium quater tono addito in fine.</p>
+    </body>
+  </text>
+</TEI>

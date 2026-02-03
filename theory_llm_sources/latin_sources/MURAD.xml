@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Ars discantus data a Magistro Iohanne de Muris abbreviando</title>
+        <title type="abbrev">MURAD</title>
+        <author>Johannes de Muris</author>
+        <date notBefore="1300" notAfter="1399">14th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Bradley Jon Tucker</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Angela Mariani</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1993</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>Scriptores ecclesiastici de musica sacra potissimum</emph>, 3 vols., ed. Martin Gerbert (St. Blaise: Typis San-Blasianis, 1784; reprint ed., Hildesheim: Olms, 1963), 3:312–15.
+</bibl>
+        <bibl type="work">
+          
+<title>Iohannes de Muris: Notitia artis musicae</title>
+          
+<idno type="LML">IOH. MUR. not.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">A-SP Cod. 264/4 (27.2.25), 49v-56, 63v-66</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Gu 70 (71), 48ra-49vb (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 7378 A, 59va-61ra</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 14741, VIr-v, VIII (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-TOm Ms. lat. 820, ?-25</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ctc R.14.26, 107-118v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ob Bodley 77, 100-103v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ob Bodley 300, 115ra-118va</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Ma H. 165 inf., 1r-v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat Reg. lat. 1571, 1 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Sc L.V.30, 129v-135v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">US-Cn Case Ms. 54.1, 1-6v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">US-Wc ML 171 J 6 Case, 102v-109 (Extraits)</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="MURAD0001">
+      <pb n="[312]" />Incipit ars discantus data a magistro Iohanne de Muris abbreviando.</p>
+      <p id="MURAD0002">Princeps philosophorum Aristoteles ait in prooemio metaphysicae suae: omnino scientis signum est posse docere. In qualibet autem arte theorici docere possunt, practici non experti, cum ipsum, quia sciunt; sed propter quid, nesciunt: non autem scientia faciunt quae dicunt, ut: ignis exurit. Sed intelligere et scire circa unamquamque artem, magis arte quam experimento esse arbitramur. Ideo artifices expertis esse sapientiores opinamur. Et ex hoc magis artem experimento scientiam esse existimamus. Possunt autem hi, hi docere non possunt.</p>
+      <p id="MURAD0003">Quoniam tamen ars est universalium, experimentum vero singularium, universalia vero praesupponunt singularia, igitur ars experimentum praesupponit. Experientia quidem fecit artem, et expertos magis proficere videmus sine ratione experientiam habentibus. Igitur necessarium est, in unaquaque arte habere primo theoricam, practicae coniunctam, ut id, quod scitum est in universali, ad singulare valeat applicari. Sed cum omnis ars ab experimentis dependeat, oportet unumquemque artificem primo circa artis experientiam laborare. Nos autem propter bonum commune et ratione veritatis, quae diu latuit, ostendendae, circa artem musicae proponimus vigilare, intendentes circa eam duo breviter enodare, primo theoricam, secundo practicam, cui non est inconveniens quodammodo theoricam implicari.</p>
+      <p id="MURAD0004">Quoniam musica est de sono relato ad numeros et caetera.</p>
+      <p id="MURAD0005">
+      <pb n="[313]" />Pythagoras volens aurium iudicio de consonantiis adhaerere (quoniam secundum quemlibet circa id, quod suum non est, decipi non est mirum, iudicat enim auris sonum, proportionem minime comprehendit): in anxietate diu manens, qualiter scientiam de consonantiis rationabiliter inveniret, quadam vice praeteriens officinas fabrorum, malleos audivit quamdam consonantiam mirabilem emittentes, et statim quasi attonitus ad eos conversus est. Dubitansque, ne ex viribus hominum melodia proveniret, iussit malleos permutari, et idem ut prius sentiens animadvertit, consonantiam in malleorum natura sic disposita contineri. Numerus malleorum erat quinque, sed quintus reiectus est, quoniam dissonabat. Quatuor igitur remanserunt, quorum pondera in proportione dupla, sesquialtera, sequitertia, sesquioctava experimento sensibili sunt reperta; quam proportionem in instrumentis nervorum, foraminum, ventorum, aliorum antiquam instantiam reperiens, expertus est. Ex quibus experimentis ad memoriam concurrentibus accepit unum universale, quod sibi fuit principium artis et scientiae.</p>
+      <p id="MURAD0006">Et ut clarius appareat, quod dictum est, proportio malleorum in numeris, quibus primo proportio competit, ostendatur. Sint igitur pondera malleorum 12. 9. 8. 6. igitur 6. ad 12. comparata dupla proportione diapason reputantur: 12. vero ad 9. et 8. ad 6. sesquitertia proportione diatessaron manifestant: 12. ad 8. et 9. ad 6. sesquialtera proportione resonant diapente: 8. ad 9. sesquioctava proportione tonum formant: hae enim solae species multiplicis in consonantiis habent locum. Simplices consonantiae in simplicibus proportionibus, compositae in compositis habent fieri: unde diapason et diapente in tripla fuit, quae provenit ex dupla et sesquialter, ut 2. 4. 6. Bis diapason quadrupla, quae nascitur ex dupla, ut 2. 4. 8. Diatessaron et diapente diapason reddunt, provenit enim dupla ex sesquialtera et sesquitertia, ut 2. 3. 4. Diapente ex sesquioctava et sesquitertia fit, ut 6. 8. 9. Diatessaron constat ex duobus tonis et semitonio: diapente ex tribus tonis et semitonio. Sed haec duo faciunt diapason aggregata; ergo diapason constat es quinque tonis cum duobus semitoniis. Sed illa duo semitonia ad perfectionem toni non veniunt, ut probatur in sequenti.</p>
+      <p id="MURAD0007">Quia dictum est, diapason constare ex quinque tonis et duobus semitoniis, quae non perveniunt usque ad perfectionem sex tonorum; restat ostendere, quod semitonium secundum vocem non sit vere medietas toni, quod quidam antiquitus aestimabant. Quodlibet dimidium duplicatum debet integre reddere suum totum: sed semitonium duplicatum non integre totum reddit, quod patet in numeris ordinatis 243. et 256. qui proportionem semitonalem reddunt. Nam 256. ad 192. comparatus sesquitertia proportione diatessaron complet, a quo demitis duobus tonis remanet semitonium. Differentia igitur inter 243. et 256. est 13. cuius duplum est 26. quod additum 
+      <pb n="[314]" />super 243. si vere semitonium est, debet reddere tonum sesquioctava proportione, quod est 269. sed non facit, quia si super 243. octava sui pars addatur, exibit numerus faciens tonum sesquioctava proportione, quod est 273. et 3. octavae, qui maior est praecedenti; igitur non est vere semitonium.</p>
+      <p id="MURAD0008">Amplius regula arithmeticae: si duo numeri sint in aliqua proportione, procreati ex eisdem in eadem proportione manebunt: ut 2. 3. in sesquialtera se habent, procreati ex his sunt 4. 6. 9. inter quos eadem proportio sesquialtera: ergo sicut 243. in se ductum 59049. sed 256. in se extensum 65536. generat; quod ex ductu unius radicis in aliam fit, medium proportionale est, scilicet 62208. Sicut igitur inter radices est proportio semitonalis, sic inter procreatos; sed isti sint duo: ergo si sit vere semitonium, de maximis ad minimum tonus erit; quod tamen non est; si enim supra primum octava sui pars adiungatur, tertium superabit; ergo inter primum et secundum non fuit vere semitonium, nec inter secundum et tertium, ideo tonum complere non potuerunt. Igitur similiter inter radices, quae sunt 243. et 256. non fuit vera semitonii medietas, imo minus: quod est propositum declaratum. Et haec de theorica musicae sufficiant audienti causa brevitatis.</p>
+      <p id="MURAD0009">Verumtamen sequentes inventores musicae eam ordinaverunt variis modis, alii in instrumentis chordarum, alii in instrumentis calamorum, alii in instrumentis ventorum: quidam vero posteriores in vocibus ordinatis per manuum iuncturas, per litteras alphabeti gradibus distinctis, factis mutationibus unius gradus in alterum, prout subiecta descriptio manifestat.</p>
+      <p id="MURAD0010">
+      <pb n="[315]" />[GSIII:315; text: G. A. B. C. D. E. F. G. a. b. [sqb]. c. d. e. f. g. aa. bb, [sqb][sqb], cc, dd, ee, ut, re, mi, fa, sol, la, primus, secundus, tertius, quartus, quintus, sextus, septimus, [sqb] quadratum. naturale. b mollis.] 
+      <figure>
+        <graphic url="/images/MURAD_01GF.gif" />
+      </figure></p>
+      <p id="MURAD0011">Explicit Ioannes de Muris.</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Dialogus de musica</title>
+        <title type="abbrev">ODODIA</title>
+        <author>Odo</author>
+        <date notBefore="800" notAfter="1099">9th-11th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Stephen E. Hayes</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Peter M. Lefferts</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Angela Mariani</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1993</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>Scriptores ecclesiastici de musica sacra potissimum</emph>, 3 vols., ed. Martin Gerbert (St. Blaise: Typis San-Blasianis, 1784; reprint ed., Hildesheim: Olms, 1963), 1:251–64.
+</bibl>
+        <bibl type="work">
+          
+<title>Ps.-Odo: Dialogus de musica</title>
+          
+<idno type="LML">PS.-ODO dial.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">A-Iu Cod. 962, 135v-137v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">A-R Cod. 21, 47-60</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">A-Ssp Cod. a. V. 2, 145 (Fragments)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">A-Wn Cod. 51, 46-48v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">A-Wn Cod. 2503, 37-42 (Fragments)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">A-Wn Cod. 4774, 27-30 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Br 1485/1501, 273r-v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Br 10162/6, 28v-34 (40v-46)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Br II 784, 43v-56v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Gu 70 (71), 50v-55</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Gu 70 (71), 140v, 141v-143 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">CH-BEb 702, 46-51v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">CH-CObodmer 18845 (Ms. 77), 82-102</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-B Ms. lat. oct. 265, 9v-22</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-B Ms. theol. lat. qu. 261, 41-47v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-DS 1988, 101v-110</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-EF 8° 93, 68-74</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-EF 8° 94, 30-35v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Kl 8° Ms. Math. 10, 1-10v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-LEu 1492, 107v-113</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 14663, 21v-24v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 14965a, 33-37v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mbs Clm 19421, 1v-12v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-Mu 8° 375, 65-71v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-TRs Ms. 4° 1923/1434, 191v-194 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">D-W 334 Gud. Lat. 8°, 112-127</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-AUT 46 (olim 40 B), 66v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-MOf H 384, 116-121 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pc Rés. 359, 1-6</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 3713, 30v-37v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 7211, 105v-115</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 7369, 47-59v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-Pn Lat. 7461, 19-25</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-T 2142, 158v-166v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ctc O.9.29, 85v-95</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Lbl Add. 10335, 14v-22v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Lbl Harley 281, 25r-v, 25v-32 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Obac 173A, 100-106</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ojc 150, 17-22</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-PM Ms. 90, 1-7</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fl Plut. XXIX. 48, 33v-38v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fn Conv. Soppr. F. III. 565, 33v-43v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fn Magliab. XIX. 36, 98v-100v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fr 652, 36v-47v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Ma D. 455 inf., 21-29</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Ma M. 17 sup., 48-49v (Fragments)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-MC 318, 218-236</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Nn VIII.D.14, 1v-18v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-PS 100, 40-49v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rli 2067, 15v-20 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rv B 81, 71-75, 76-82v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat lat. 10645, 1-2v (Fragments)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat Reg. lat. 72, 60v-64v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat Reg. lat. 1146, 25-34v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat Reg. lat. 1196, 1-11</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Vnm Lat. Cl. VIII.24 (3434), 1-7v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">NL-Lu B.P.L. 194, 22v-39v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">US-R Ms. 92 1200, 1-11</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="ODODIA0001">
+      <pb n="[251]" />Incipit liber, qui et Dialogus dicitur, a Domno Oddone compositus, succinctim, decenter atque honeste ad utilitatem legentium collectus.</p>
+      <p id="ODODIA0002">Incipit prologus.</p>
+      <p id="ODODIA0003">Petistis obnixe, Carissimi Fratres! quatenus paucas vobis de Musica regulas traderem, atque eas tantummodo, quas pueri et simplices sufficiant capere, quibusque ad cantandi peritiam perfectam velociter, Deo adiuvante, valeant pervenire. Quod idcirco petistis, quae posse fieri ipsi audistis et vidistis, certisque indiciis comprobastis. Vobiscum quippe positus tantum cooperante Deo per hanc artem quosdam veros pueros ac iuvenes docui, alii triduo, ut alii quatriduo, quidam vero unius hebdomadae spatio hac arte exercitati, quam plures antiphonas, non audientes ab aliquo, sed regulari tantummodo descriptione contenti per se discerent, et post modicum indubitanter proferrent. Non multis postea evolutis diebus primo intuitu et ex improviso, quidquid per Musicam descriptum erat, sine vitio decantabant; quod hactenus communes cantores nunquam facere potuerant, dum plures eorum quinquaginta iam annis in canendi usu et studio inutiliter permanserunt.</p>
+      <p id="ODODIA0004">Sollicite quoque ac curiose investigantibus, an per omnes cantus nostra valeret doctrina, assumpto quodam fratre, qui ad comparationem aliorum cantorum videbatur perfectus, antiphonarum sancti Gregorii diligentissime investigavi, in quo pene omnia regulariter stare inveni. Pauca vero, quae ab imperitis cantoribus erant vitiata, non minus aliquorum cantorum testimonio, quam regulae sunt auctoritate correpta. Carissimi! tamen in prolixioribus cantibus vocem ad altum tonum pertinentem, et superfluas elevationes et depositiones contra regulam invenimus. Sed quae illos cantus omnium usus unanimiter defendebat, emendare nos non praesumpsimus. Sane per singulos notavimus, ne veritatem regulae quaerentes dubios redderemus.</p>
+      <p id="ODODIA0005">Quo facto maiori desiderio accensi vehementissimis precibus ac nisibus institistis, quatenus ad honorem Dei, ac Sanctissimae genitricis eius Mariae, in cuius venerabili coenobio ista fiebant, et ut regulae fierent, tamquam utilibus notis totum antiphonarium cum tonorum formulis describeretur.</p>
+      <p id="ODODIA0006">De vestris igitur precibus confidens, et communis patris praecepta suscipiens, hoc opus intermittere nec volo, nec valeo. Est autem apud sapientes huius seculi valde difficilis et ampla huius artis doctrina. Cuicumque itaque placuerit, 
+      <pb n="[252]" />invito labore excolat atque circumeat campum. Qui autem hoc parvum Dei donum ab ipso percepit, simplici satiabitur fructu. Ut autem melius intelligatis hoc, et necessaria pro vera voluntate accipiatis, unus vestrum ad interrogandum vel colloquendum accedat, quae prout Dominus donaverit, respondere non negligam.</p>
+      <p id="ODODIA0007">Incipit musica Domni Oddonis.</p>
+      <p id="ODODIA0008">Synopsis.</p>
+      <p id="ODODIA0009">1. De monochordo eiusque usu, 2. et mensura. 3. De tono et semitonio. 4. De consonantiis. 5. De coniunctionibus vocum. 6. Toni et semitonii discretio secundum modos. 7. De limitibus modorum. 8. Quid sit modus, unde dignoscatur quisque, distinguaturve? 9. De elevatione et depositione modorum. 10. Octo modi. 11. Primi modi formula. 12. Secundi modi formula. 13. Tertii modi formula. 14. Quarti modi formula. 15. Quinti modi formula. 16. Sexti modi formula. 17. Septimi modi formula. 18. Octavi modi formula.</p>
+      <p id="ODODIA0010">1. D. Quid est Musica?</p>
+      <p id="ODODIA0011">M. Veraciter canendi scientia, et facilis ad canendi perfectionem via.</p>
+      <p id="ODODIA0012">D. Quomodo?</p>
+      <p id="ODODIA0013">M. Sicut magister omnes tibi litteras primum ostendit in tabula: ita et musicus omnes cantilenae voces in monochordo insinuat.</p>
+      <p id="ODODIA0014">D. Quale est illud monochordum?</p>
+      <p id="ODODIA0015">M. Lignum longum quadratum in modum capsae, et intus concavum in modum citharae, super quod posita chorda sonat, cuius sonitu varietates vocum facile comprehendis.</p>
+      <p id="ODODIA0016">D. Quomodo ponitur ipsa chorda?</p>
+      <p id="ODODIA0017">M. Per mediam capsam in longum linea recta ducitur, et relicto ab utroque capite unius unciae spatio, in eadem linea ab utraque parte punctus ponitur. In relictis vero spatiis duo capitella locantur, quae ita chordam super lineam suspensam teneant, ut tanta sit chorda inter utraque capitella, quanta et linea, quae et sub chorda.</p>
+      <p id="ODODIA0018">D. Qualiter una chorda multas et varias voces reddit?</p>
+      <p id="ODODIA0019">M. Litterae vel notae, quibus musici utuntur, in linea, quae est sub chorda, per ordinem positae sunt: dumque modulus inter lineam chordamque decurrit, per easdem litteras curtando vel elongando chorda omnem cantum mirabiliter facit: et dum pueris per ipsas litteras aliqua notatur antiphona, facilius et melius a chorda discunt, quam si ab homine illam audirent: et post paucorum 
+      <pb n="[253]" />mensium tempus exercitati, ablata chorda, solo visu indubitanter proferunt, quod nunquam audierunt.</p>
+      <p id="ODODIA0020">D. Mirabile est valde, quod dicis. Nostri quidem cantores ad tantam perfectionem nunquam aspirare potuerunt.</p>
+      <p id="ODODIA0021">M. Erraverunt potius, frater! et dum viam non quaesierunt, toto vitae tempore in vanum laboraverunt.</p>
+      <p id="ODODIA0022">D. Qua ratione fieri potest, ut melius, quam homo, doceat chorda?</p>
+      <p id="ODODIA0023">M. Homo, prout voluerit vel potuerit, cantat; chorda autem per supradictas litteras a sapientissimis hominibus tali est arte distincta, ut mentiri non possit, cum diligenter fuerit observata, vel considerata.</p>
+      <p id="ODODIA0024">2. D. Quaenam rogo illa est ars?</p>
+      <p id="ODODIA0025">M. Mensura monochordi; quod enim bene mensuratum est, nunquam fallit.</p>
+      <p id="ODODIA0026">D. Potero simpliciter paucis forsitan verbis ipsas mensuras addiscere?</p>
+      <p id="ODODIA0027">M. Hodie, adiuvante Deo: tantum diligenter ausculta. In primo capite monochordi ad punctum, quem superius diximus, [Gamma]. litteram, id est G. graecum pone, (quae, quoniam raro est in usu, a multis non habetur). Ab ipsa [Gamma]. usque ad punctum, quem in fine posuimus, per novem diligenter divide, et ubi prima nona pars fecerit finem, (prope [Gamma].) A litteram scribe, et haec dicetur vox prima. Ab eadem prima littera A. similiter per novem partire usque ad finem, et in nona parte B. litteram pro voce secunda appone. Dein ad caput revertere, et divide per quatuor a [Gamma]. et pro voce tertia C. litteram scribe. A prima A. similiter per quatuor divide, et pro voce quarta D. litteram scribe. Eodem modo B. dividens per quatuor, invenies quintam E. Tertia quoque C. insinuat sextam litteram F. Post haec ad [Gamma]. revertere, et ab ipsa, et ab aliis, quae sequuntur per ordinem, praedictam lineam in duas partes, id est, per medium divide, usque dum habeas voces quatuordecim vel quindecim absque [Gamma]. et dum voces per medium diviseris, dissimiles easdem facere debebis. Verbi gratia, dum a [Gamma]. per medium dividis, pro [Gamma]. scribe G. pro A. mediata pone a. et pro B. aliam [sqb]. et pro C. aliam c. et pro D. aliam d. et pro E. aliam e. et pro F. aliam f. et pro G. aliam g. pro a aliam aa ut a medietate monochordi in antea eaedem sint litterae, quae sunt et in prima parte. Praeterea a voce sexta F. per quatuor divide, et retro [sqb]. aliam b. rotundam pone: quae ambae pro una voce accipiuntur, et una dicitur nona secunda, et utraque in eodem cantu regulariter non invenietur. Figurae autem et voces et litterae per ordinem ita ponuntur. [Gamma]. I. A. II. B. III. C. IIII. D. V. E. VI. F. VII. G. VIII. a. IX. I. b. IX. II. [sqb]. X. c. XI. d. XII. e. XIII. f. XIIII. g. XV aa.</p>
+      <p id="ODODIA0028">D. Deo gratias. Bene intelligo, et quod monochordum amodo sciam facere confido.</p>
+      <p id="ODODIA0029">3. Sed quid illud est, obsecro, quod in regulariter mensurato monochordo minora alibi, alibi maiora spatia ac intervalla inter voces aspicio?</p>
+      <p id="ODODIA0030">
+      <pb n="[254]" />M. Maius spatium dicitur tonus, et est a [Gamma]. in primam A. a prima A. in secundam B. Minus vero spatium, sicut est a secunda voce B. in tertiam C. semitonium vocatur, faciens contractiorem elevationem vel depositionem. Nulla autem mensura vel numero semitonii spatium ad tonum usque perveniat, sed cum per supradictam rationem divisiones fiunt suis locis, toni et semitonia formantur. [Tonos autem omnes si ad extremum punctum duxeris, novenariam in omnibus divisionem inventam miraberis, sicut a [Gamma]. in primam A. et a prima A. in secundam B. sicut primitus fecisti.] Prima vero nona b. et secunda nona [sqb]. ad se invicem neque tonum neque semitonium faciunt, sed a prima nona b. ad octavam a. est semitonium; ad decimam c. tonus. Secunda vero nona [sqb]. ad octavam a. e contrario est tonus, ad decimam vero c. semitonium praestat. [Ideoque una earum semper superflua est, et in quocumque cantu unam recipis, aliam contemnis, ne in eodem loco, quod absurdum est, tonum et semitonium facere videaris.]</p>
+      <p id="ODODIA0031">D. Maxime mirandum est, quod non nisi a [Gamma]. in primam A. et a primo A. in secundam B. per novem divisi, et omnes aeque tonos novenaria constare divisione probavi. Sed rogo, si aliae sunt monochordi divisiones, et si in omnibus vel pluribus inveniantur locis, ostende.</p>
+      <p id="ODODIA0032">4. M. Tres sunt praeter tonum divisiones, quae naturalem vocum, quam supra dixi, positionem custodiunt. Prima quaternaria est, propter quod in quatuor divisa est, ut a prima A. in quartam D. et haec habet voces quatuor, intervalla tria, id est, duos tonos et unum semitonium. Ubicumque ergo in monochordo inter duas voces duos tonos, et unum semitonium invenies, ipsarum duarum vocum intervallum quaternaria divisione currere ad finem usque probabis: et ideo diatessaron, id est, de quatuor nomen accepit. Secunda vero ternaria est, ut a prima voce A. in quintam E. in cuius spatio continentur voces quinque, intervalla quatuor, id est, tres toni et unum semitonium. Ubicumque ergo videris inter duas voces tres tonos et unum semitonium, ipsarum vocum spatium ternis ad finem passibus currit. Vocatur autem diapente, id est, de quinque, eoquod voces sunt in eius spatio quinque. Tertia vero divisio est, quae per duo vel per medium dividitur, et dicitur diapason, id est, de omnibus. Hanc, ut supra dictum est, ex litterarum similitudine patenter agnoscis, ut a prima A. in octavam a. Constat autem vocibus octo, intervallis septem, id est, tonis quinque, semitoniis duobus. Continet etiam unum diatessaron et unum diapente. A prima A. in quartam D. fit diatessaron, et a quarta D. in octavam a. diapente: a prima A. in octavam a. diapason invenitur hoc modo: A. B. C. D. E. F. G. a.</p>
+      <p id="ODODIA0033">D. In paucis verbis de divisionibus non pauca cognosco. Sed cur eaedem litterae in prima et secunda parte fiant, audire desidero.</p>
+      <p id="ODODIA0034">
+      <pb n="[255]" />M. Hoc ideo fit, quia cum secundae partis voces a septima G. in antea a vocibus primae partis per diapason absque nona b. prima fiant, adeo inter se utraque pars concordat, ut quaecumque litterae in prima parte tonum vel semitonium, vel diatessaron vel diapente vel diapason faciunt, similiter et in secunda parte facere comprobentur. Verbi gratia, in prima parte a [Gamma]. ad A. est unus tonus, ad B. vero est tonus et tonus, id est, ditonus, ad C. diatessaron, ad D. diapente, ad G. diapason. Similiter et in secunda parte de G. ad a. est unus tonus, ad [sbq]. quadratam tonus et tonus, ad c. diatessaron, ad d. diapente, ad g. diapason: unde fit, ut omnis cantus similiter ut in prima, et in secunda parte cantetur. Sed primae partis voces ad voces secundae partis quasi viriles cum puerilibus vocibus concorditer cantant.</p>
+      <p id="ODODIA0035">D. Sapienter id factum esse perpendo. Nunc autem qualiter cantum notare possim, ut ego illum absque magistro comprehendam, primum audire expecto: ut cum exempla regularum dederis, eum melius recognoscam, et si penitus quidquam mente excesserit, ad tales notas indubitanter recurram.</p>
+      <p id="ODODIA0036">M. Litteras monochordi, sicut per eas cantilena discurrit, ante oculos pone: ut si nondum vim ipsarum litterarum plene cognoscis, secundum easdem litteras chordam percutiens ab ignorante magistro mirifice audias, et addiscas.</p>
+      <p id="ODODIA0037">D. Vere inquam magistrum mirabilem mihi dedisti, qui a me factus me doceat, meque docens ipse nihil sapiat. Imo propter patientiam et obedientiam sui eum maxime amplector; cantabit enim mihi quando voluero, et nunquam de mei sensus tarditate commotus verberibus vel iniuriis cruciabit.</p>
+      <p id="ODODIA0038">M. Bonus magister est, sed diligentem auditorem requirit.</p>
+      <p id="ODODIA0039">5. D. In quibus maxime diligentia adhibenda est?</p>
+      <p id="ODODIA0040">M. In coniunctionibus vocum, quae consonantias faciunt diversas, ut sicut diversae sunt ac differentes, ita dissimiliter et differenter unamquamque earum opportune pronuntiare praevaleas.</p>
+      <p id="ODODIA0041">D. Quot sunt differentiae, precor edissere, et communibus exemplis ostende.</p>
+      <p id="ODODIA0042">M. Sex sunt tam in depositione quam in elevatione. Prima vocum coniunctio est, cum illae duae voces iunguntur, inter quas unum est semitonium, ut a quinta [E supra lin.] in sextam [F supra lin.], quae consonantia omnibus contractior et strictior est, ut prima elevatio huius antiphonae: Haec [E supra lin.] est [F supra lin.], quae [E supra lin.] nescivit [G a c c supra lin.]. in dispositione vero per reciprocationem ita: Vidimus [F E D supra lin.] stellam [E F supra lin.]. Secunda vero est, cum inter duas voces est tonus, ut a tertia [C supra lin.] in quartam [D supra lin.] in elevatione ita: Non [C supra lin.] vos [D supra lin.] relinquam [D F D supra lin.] et cetera in depositione vero sic: Angelus [DC E F supra lin.] Domini [G E DD. supra lin.] Tertia est, cum inter duas voces tonus et semitonium differentiam faciunt, ut inter 
+      <pb n="[256]" />quartam [D supra lin.] et sextam [F supra lin.] hoc modo in elevatione: Iohannes [D D F supra lin.] autem. in depositione ita: In [E supra lin.] lege [E D supra lin.]. Quarta vero est, cum inter vocem et vocem duo sunt toni, ut a sexta [F supra lin.] in octavam [a supra lin.], in elevatione ita: Adhuc [E F supra lin.] multa [a a supra lin.] habeo [[sqb] supra lin.]. in depositione hoc modo: Ecce [a F supra lin.] Maria [a c cc supra lin.]. Quinta per diatessaron fit, ut a prima A. in quartam D. in elevatione hoc modo: Valde [A D supra lin.] honorandus. depositio vero huiusmodi est: Secundum [a C D supra lin.] autem. Sexta autem per diapente, ut a quarta D. in octavam a. ut est: Primum [Da ba supra lin.] quaerite [a G G supra lin.]. in depositione, ut a tertia C. inseptimam G. hoc modo: Canite [G C D supra lin.] tuba. Aliae regulares vocum coniunctiones nusquam reperiuntur.</p>
+      <p id="ODODIA0043">6. In maximum saepe errorem vulgares cantores labuntur, quia vim toni et semitonii, aliarumque consonantiarum minime perpendunt. Id enim unusquisque eorum eligit, quod primum auribus placuerit, vel quod facilius ad discendum pronuntiandumve provenerit: fitque magnus error in multis cantibus, cuius modi sint. Modos autem dico de omnibus octo tonis et modis omnium cantuum, qui in formulis per ordinem fiunt, ne si tonos dixeris, dubitatio fiat, an de tonis formularum, an de tonis, qui novenaria facti sunt dispositione et divisione, dicatur. Illos itaque cantores si de aliquo cantu interrogaveris, cuius modi sit, illico respondent, quod nesciunt, ac si perfecte cognoscerent. Quodsi ab eis argumentum, unde hoc sciant, quaesieris, titubantes dicunt: quia sit similis in principio et in fine aliis cantibus eiusdem modi; cum de nullo omnino cantu, cuius modi sit, sapiant, nescientes, quod unius vocis dissimilitudo modum mutare compellat, ut haec antiphona: O beatum pontificem! quae cum in principio et fine secundi modi esset, propter illius tantum vocis elevationem, ubi dicitur: o Martine dulcedo. in primo tono a Domno Oddone curiosissime est emendata. Itemque in antiphona: Domine qui operati sunt haec diligentius probare poteris: nam si eam incipias in sexto modo, ut multi probant, in F. littera, non discrepabit ab eo modo, usque ad semitonium, quod est in tabernaculo tuo, in una syllaba. Sed quia in usu ita est, et bene sonat, emendari non debet. Sed inquiramus, an forsitan in alio tono incipiatur, totaque in eo modo consona inveniatur, eamque emendari opus non sit. Incipe itaque eam in G. littera, hoc est, in octavo modo, et regulariter in eo stare probabis. Unde quidam incipiunt Domine. sicut amodo dico vobis. Ex quo comprehenditur, quia imperitus musicus est, qui facile ac praesumptuose plures cantus emendat, nisi prius per omnes modos investigaverit, si forsitan in aliquo stare possit; nec magnopere de similitudine aliorum cantuum, sed de regulari veritate curet. Quodsi nulli tono placet, secundum eum tonum emendetur, in quo minus dissonat. Atque hoc observari debet, ut emendatus 
+      <pb n="[257]" />cantus aut decentius sonet, aut a priori similitudine parum discrepet.</p>
+      <p id="ODODIA0044">D. Bene de inertium cantorum errore me cautum fecisti, nec non etiam de regularis monochordi curiosa investigatione, ac regularium cantuum approbatione, falsorumve emendatione, utiliter sensum, prout oportet, exercentibus, licet paucis verbis, non modicam dedisti peritiam.</p>
+      <p id="ODODIA0045">7. Verumtamen, quot vocibus cantus fieri debet, adiunge.</p>
+      <p id="ODODIA0046">M. Alii asserunt octo, alii novem, alii decem.</p>
+      <p id="ODODIA0047">D. Quare octo?</p>
+      <p id="ODODIA0048">M. Propter maiorem divisionem, id est, diapason; sive quia apud antiquos octo sonis citharae fiebant.</p>
+      <p id="ODODIA0049">D. Quare novem?</p>
+      <p id="ODODIA0050">M. Propter bis diapente, quae novem vocibus terminatur. Nam cum a [Gamma]. in quartam sit diapente unum, atque ab eadem quarta D. in octavam a aliud, a [Gamma]. in a. octavam novem sunt voces.</p>
+      <p id="ODODIA0051">D. Quare decem?</p>
+      <p id="ODODIA0052">M. Propter Davidici auctoritatem psalterii, vel quia in decem vocibus ter diatessaron invenitur: a [Gamma]. enim in tertiam C. unum diatessaron est: a tertia C. in sextam F. aliud invenitur; a sexta F. in nonam primam b. tertium restat: et ideo a [Gamma]. in nonam primam b. decem numerantur voces.</p>
+      <p id="ODODIA0053">D. Possunt esse et pauciores voces in cantu?</p>
+      <p id="ODODIA0054">M. Possunt utique quinque vel quatuor: sed ita quidem, ut et quinque diapente, et quatuor diatessaron reddant.</p>
+      <p id="ODODIA0055">D. Prolata ratio, et pene omnium cantuum attestationes probant, verum esse, quod dicis. Quid autem sit tonus, quem saepius Modum vocas, expone.</p>
+      <p id="ODODIA0056">8. M. Tonus vel modus est regula, quae de omni cantu in fine diiudicat. Nam nisi scieris finem, non poteris cognoscere, ubi incipi, vel quantum elevari vel deponi debeat cantus.</p>
+      <p id="ODODIA0057">D. Quam regulam sumit principium a fine?</p>
+      <p id="ODODIA0058">M. Omne principium secundum praedictas sex consonantias suo fini concordare debet. Nulla vox potest incipere cantum, nisi ipsa vel finalis sit, vel consonet finali per aliquam de sex consonantiis. Et quaecumque voces per easdem consonantias possunt convenire fini, in eisdem quoque vocibus poterit incipi cantus illius finis, excepto, quod cantus, qui finitur in voce quinta E. quae est prima semitonii in tertio modo, saepe invenitur incipere in voce decima c. quae ab eadem quinta E. uno diapente, unoque semitonio elongatur.</p>
+      <p id="ODODIA0059">Distinctiones quoque, id est loca, in quibus repausamus in cantu, et in quibus cantum dividimus, in eisdem vocibus debere finiri in unoquoque modo, in quibus possunt incipi cantus eius modi, manifestum est. Et ubi melius et saepius incipit unusquisque modus, ibi melius et decentius suas distinctiones incipere vel finire consuevit. Plures autem distinctiones in eam vocem, quae modum terminat, debere finiri, magistri tradunt; ne si in alia aliqua voce plures distinctiones, quam in ipsa, fiant, in eandem quoque 
+      <pb n="[258]" />et cantum finiri expetant, et a modo, in quo fuerant, mutari compellant. Ad eum denique modum magis cantus pertinet, ad quem suae distinctiones amplius currunt. Nam et principia saepius et decentius in eadem voce, quae cantum terminat, inveniuntur. Dictae rei exemplum in hac antiphona comprobabis: Tribus miraculis; ecce una distinctio: ornatum diem sanctum colimus; ecce alia: Hodie stella magos duxit ad praesepium; ecce tertia: Hodie vinum ex aqua factum est ad nuptias; ecce quarta: Hodie a Iohanne Christus baptizari voluit: ecce ultima. Vides itaque, ut in regulari cantu plures distinctiones in suo tono incipiant et finiantur, ut et in eadem voce cantus incipiant et finiantur.</p>
+      <p id="ODODIA0060">9. D. Ita esse, ut asseris, magistrorum cantorum ubique auctoritate defenditur. Verum de elevatione et depositione, quam a fine regulam sumat cantus, prosequere.</p>
+      <p id="ODODIA0061">M. In acutis vel elevatis cantibus, ut in primo, tertio, quinto et septimo tono, nullus cantus plus a suo fine, quam ad octavam vocem debet ascendere, in qua voce eadem est littera, quae et in fine; propter divisionis, quae diapason dicitur, praecipuam quantitatem, habet idem cantus ante finem vocem unam. At vero in humilioribus cantibus, ut in secundo, quarto et sexto, et octavo, nulla depositio alicuius vocis ante finem invenietur, quae ad finem ipsum secundum sex praedictas consonantias non iungatur. Elevatio vero eorum a fine secundum easdem consonantias ad quinque voces progreditur. Aliquando autem ad sextam usque procedit. In quibus autem vocibus omnium modorum cantus secundum praesentem usum saepius incipiant, in eorum formulis pervidebis.</p>
+      <p id="ODODIA0062">10. D. Quoniam probasti, omnium modorum cantus a fine regulam sumere, quot sint ipsi modi vel toni, tempus est dicere.</p>
+      <p id="ODODIA0063">M. Quatuor esse modos quidam putant.</p>
+      <p id="ODODIA0064">D. Quare?</p>
+      <p id="ODODIA0065">M. Quia omnis regularis cantus in quatuor monochordi vocibus finiri potest.</p>
+      <p id="ODODIA0066">D. Quae sunt illae voces?</p>
+      <p id="ODODIA0067">M. Quarta D. in quam terminatur modus, qui dicitur authentus protus, id est, auctor vel princeps primus. Quinta E. in quam terminatur modus, qui dicitur authentus deuterus, id est, auctor vel princeps secundus. Sexta F. in quam terminatur authentus tritus, id est, auctor et princeps tertius. Et septima G. in quam terminatur authentus tetrardus, id est, auctor vel princeps quartus. Hi quatuor autem dividuntur in octo.</p>
+      <p id="ODODIA0068">D. Quare?</p>
+      <p id="ODODIA0069">M. Propter elevatos et humiles cantus. Nam cum acutus vel elevatus fuerit cantus in authento proto, dicitur modus authentus protus. Si vero fuerit gravis et humilis in eodem authento proto, dicitur plaga proti.</p>
+      <p id="ODODIA0070">D. Quare dicitur plaga proti?</p>
+      <p id="ODODIA0071">M. Plaga proti, id est, pars primi dicitur, eoquod finiatur in eandem partem, id est, locum vel vocem quartam D. monochordi, in qua finitur et authentus protus. 
+      <pb n="[259]" />Similiter cum acutus fuerit cantus in authento deutero, dicitur authentus deuterus; sin autem planus fuerit cantus, plaga deuteri nominabitur. Eodem modo dicetur de authento trito plaga triti, et de authento tetrardo plaga tetrardi. Consuetudo autem tradidit, dicere pro authento proto et plaga proti modum primum et secundum: et pro authento deutero et plaga deuteri modum tertium et quartum: et pro authento trito et plaga eius modum quintum et sextum: et pro authento tetrardo et plaga eius modum septimum et octavum. Igitur octo sunt modi, per quos omnis cantilena discurrens octo dissimilibus qualitatibus variatur.</p>
+      <p id="ODODIA0072">D. Quemadmodum potero eorum differentias et communitates advertere?</p>
+      <p id="ODODIA0073">M. Per tonos et semitonia. Ubi enim toni et semitonia simul fiunt, ibi et reliquae consonantiae similes fiunt: ubicumque enim duo toni et unum semitonium fuerint, ibi et diatessaron erit; et ubicumque tres toni semitonio adhaerebunt, ibi et diapente non deerit. Similiter et de reliquis consonantiis oportet intelligi.</p>
+      <p id="ODODIA0074">D. Age ergo obsecro, et de modis, quae sequuntur, edicito.</p>
+      <p id="ODODIA0075">11. M. Primus tonus finitur in voce quarta, proceditque in undecimam, in qua est eadem littera d. per tonos et semitonia ita: post finem primo tonus occurrit, deinde semitonium, et duo toni ac iterum semitonium, et duo toni: deponitur vero a fine ad vocem tertiam tono uno, hoc modo:</p>
+      <p id="ODODIA0076">[GSI:259,1; text: Forma toni primi, C. tonus. D. E. Semitonium. F. G. a. b. [sqb]. d] 
+      <figure>
+        <graphic url="/images/ODODIA_01GF.gif" />
+      </figure></p>
+      <p id="ODODIA0077">Quidam autem decachordum volunt facere, adiiciuntque vocem unam, secundam B. Sed non est in usu, ut ad eam primus deponatur modus. Incipit autem cantus eiusdem modi in C. ut: O beatum pontificem: saepius in D. quando principium cum fine concordat, ut: ecce nomen Domini. In E. quoque, sed raro, ut: Gaudete in Domino; in F. ut: ipsi soli. in G. quoque, ut: Canite tuba, in a. etiam, ut: veniet Dominus, aut Exi cito.</p>
+      <p id="ODODIA0078">12. Secundus autem tonus similiter finitur in eandem vocem D. et ascendit cum eo usque ad nonam primam b. ad decimam vero vel undecimam non pervenit. Deponitur vero a fine tono et semitonio et tono usque ad primam A aliquando autem, sed raro, et alio tono usque ad gamma, et fiunt chordae decem hoc modo:</p>
+      <p id="ODODIA0079">[GSI:259,2; text: Forma secundi toni, [Gamma], tonus, A, B, semitonium, C, D, E, F, G, a, b.]</p>
+      <p id="ODODIA0080">
+      <pb n="[260]" />Habet itaque secundus tonus [Gamma]. et primam A. et secundam B. quas non habet primus: et primus habet decimam c. et undecimam d. quas non habet secundus. Sunt autem horum plurimi cantus, qui ad [Gamma]. et primam A. et secundam B. non deponuntur, ad decimam vel undecimam non elevantur, de quibus dubium est, an primi, an secundi sint toni: quorum ista discretio est. Ad octavam et nonam si non ascendunt, certissime de tono secundo sunt. Erunt itaque octava et nona utriusque communes, ad quas dum cantus ascendit, si diu in eis permaneat, sive tertio vel quarto eas repercutiat, aut si in octava incipiat, modi erit primi. Sin autem in inferioribus incipiat, et secundum quantitatem antiphonae rarissime ad illas ascendat, secundi erit modi. Alioquin iuxta formularum varietates et differentias discernuntur. Principia autem secundi toni sunt in [Gamma]. ut: Educ de carcere. in A. ut: omnes patriarchae. in C. ut: nonne cor nostrum. in D. ut: Ecce in nubibus. in E. ut Animalia. Ecce Maria. in F. ut: quem vidistis. In [Gamma]. vero, B. vel E. vel G. rarissima exempla reperies.</p>
+      <p id="ODODIA0081">D. De primi et secundi discretione sufficit: ad reliqua properandum est.</p>
+      <p id="ODODIA0082">13. M. Tertius modus in quintam finitur vocem in E. litteram, proceditque uno diapason usque ad eandem litteram e. acutam per tonos ac semitonia ita: primo assumens semitonium, deinde tres tonos ac semitonium et duos tonos: deponitur vero a fine ad quartam tono uno, hoc modo;</p>
+      <p id="ODODIA0083">[GSI:260,1; text: Forma tertii toni, D, tonus, E, semitonium, F, G, a, [sqb], c, d, e]</p>
+      <p id="ODODIA0084">Sane secundam nonam [sqb] ideo adamavit, quia ad eius finem diapente est: maxime autem ideo, quia ad acutissimam eius, id est e. diatessaron reddit. Quia autem prope finem tres habet tonos, in descensione vel ascensione potius saliendo, quam gradiendo, vadit. Usitata autem eius principia sunt haec: in E. ut: Quando natus es. in F. ut: Nunc scio. vel in G. ut: multa quidem. in a. ut: quis Deus magnus. in c. ut: tertia dies est.</p>
+      <p id="ODODIA0085">14. Quartus autem modus, quia planus est, non fecit prope finem tres tonos, ideoque nonam primam b. assumsit, ascenditque ad decimam c. habens post finem semitonium et duos tonos, deinde semitonium et tonum. Deponitur vero a fine duobus tonis ad tertiam C. plerumque autem ad secundam B. et primam A. acuto semitonio et tono: quia ad suum finem secunda B. reddit diatessaron, et prima A. diapente consonantiam reddit, fiuntque voces decem per tonos ac semitonia incedentes hoc modo:</p>
+      <p id="ODODIA0086">[GSI:260,2; text: A, tonus, B, semitonium, C, D, E, F, G, a, b. [sqb], c, Forma quarti toni.]</p>
+      <p id="ODODIA0087">
+      <pb n="[261]" />Principia eius inveniuntur in C. ut: hodie nata est. in D. ut: benedicta tu. in E. ut: Gaude Maria. in F. ut: anxiatus est. in G. ut: o mors. in a. ut: rectos decet.</p>
+      <p id="ODODIA0088">Discernitur quartus a tertio, quia quartus habet primam A. et secundam B. et tertiam C. quas non habet tertius: et tertius habet undecimam d. et duodecim e. quas non habet quartus. Quod si aliqua antiphona neque has tertii, neque illas habet quarti, sed in decima c. incipiat, ut: vivo ego. vel secundam nonam [sqb]. ut: ecce quomodo computati sunt. amplius diligat, tertii erit modi; alias in quarto ponetur, si eius formulae differentias imitatur. Volunt autem quidam quarto modo ad similitudinem tertii secundam nonam [sqb]. tribuere, eoquod sit diapente ad finem eius: prima vero nona b. ad finem eius nulla consonantia sit. Sed nos magis communem usum secuti sumus. Invenimus praeterea in difficilioribus cantibus iungi tertio modo et tertiam vocem C. ut sit decachordum; quod tamen cum rarissime fiat, abusivum esse non dubito. Neque enim a tertia C. in duodecimam e. ter diatessaron secundum praedictam decachordi regulam invenitur.</p>
+      <p id="ODODIA0089">D. Cum multi sint grammatici, aut vix, aut nunquam veraces inveniuntur libri, maxime dum saepe in eorum emendatione laboretur; musici autem perpauci inveniuntur, et per multa iam tempota antiphonaria emendata non sunt: non est ergo mirum, si in multis locis falsitas inveniatur. Tantum precor, regulam et communem usum prosequere: quae enim rarissime fiunt, nullius artis solet regula reprobare.</p>
+      <p id="ODODIA0090">15. M. Quintus autem modus in sextam F. terminatur, et acutissima eius decima tertia f. eadem littera figuratur, cumque sexta F. ad primam nonam b. ad decimam tertiam f. diapente reddat, in quinto vel sexto prima nona b. valebit. Habebit ergo per ordinem tonos duos et semitonium, ac deinde tonos tres et ultimum semitonium octo vocibus, ita:</p>
+      <p id="ODODIA0091">[GSI:261,1; text: E, semitonium, F, tonus, G, a, b, [sqb], c, d, e, f, Forma quinti toni]</p>
+      <p id="ODODIA0092">Usitata eius principia sunt haec: in F. ut: haurietis. in G. raro: non vos relinquam. in a. quinque prudentes. in c. Ecce Dominus veniet. Nam quia tonum ante finem non habuit, nec in principio nec incessu post se respexit.</p>
+      <p id="ODODIA0093">16. Sextus autem modus cum eo graditur ad undecimam d. sed deponitur a communi fine semitonio et duobus tonis ad tertium C. hoc modo:</p>
+      <p id="ODODIA0094">[GSI:261,2; text: C, tonus, D, E, semitonium, F, G, a, b, [sqb], c, d, Forma sexti toni]</p>
+      <p id="ODODIA0095">
+      <pb n="[262]" />Et sicut quintus habet duodecimam e. et tertiam decimam f. quas non habet sextus: ita sextus habet tertiam C. quartam D. et quintam E. quas non habet quintus, nisi quod aliquando quintus miscetur sexto, declinans in quartam D. fitque decachordum. Sed hoc inveniri, maxime in antiphonis, raro contingit. Horum autem erit ista discretio. Cum nec depositio sexti, nec tota elevatio fuerit quinti, si in decima c. incipiat, et eam vel undecimam d. iuxta quantitatem suam saepe repercutiat, quintus erit modus; si autem non ascendat, nisi ad nonam primam b. dicetur sextus, sive per principia discernetur. Vix autem sextus nisi in suo fine incipit, ut: verbum caro factum est, aut in a. ut: vidi Dominum. aut in voce quinta E. ut: Domine in auxilium. aut in voce quarta D. ut: si ego verus Christi. aut in voce tertia C. ut: decantabat populus.</p>
+      <p id="ODODIA0096">D. Utilia, immo et necessaria probantur ad praesentis erroris exprobrationem, de modis quae dicta sunt. Unum sicut ceperas de septimo et octavo tono cupientem audire non differas.</p>
+      <p id="ODODIA0097">17. M. Septimus modus in vocem septimam terminatur, cuius acutissima est decima quarta g. quae cum fine eodem charactere denotatur. Hic assumit nonam secundam [sqb], ut habeat duos tonos post finem, post quos et semitonium et duos tonos iterum semitonium. Deponitur vero a fine tono uno, hoc modo:</p>
+      <p id="ODODIA0098">[GSI:262; text: F, tonus, G, a, b, [sqb], semitonium, c, d, e, f, g, a, Forma septimi toni.]</p>
+      <p id="ODODIA0099">Quodsi decachordum placeat facere, uno eum semitonio adhuc de fine depone ad quintam E. non tamen hoc frequenter invenies. Notandum est autem, quodsi ei prima nona b. concedatur, nihil restat, nisi ut a sexta ad eam diatessaron fiat, eritque per omnia primus, quia habebit tonum et semitonium, ac deinde duos et semitonium et duos tonos, et deponitur a fine tono uno, sicut in primo dictum est, et iam non erit septimus, sed primus. Non enim, ut stultissimi cantores putant, gravitate vel acumine unum modum ab alio discrepare scimus; nihil enim impedit, quemcunque volueris modum, si acute vel graviter decantaveris; sed tonorum ac semitoniorum, quibus et aliae consonantiae fiant, diversa positio diversos ab invicem ac differentes modos constituunt. Iterumque si una tantum voce depravata finiatur in octava a. rursus fit per omnia primus: habebit enim a fine tonum et semitonium, et duos tonos, et reliqua, quae sunt primi. Principia eius sunt haec: in F. vix reperies exemplum, ut: qui regni claves. et memento mei. in G. ut: Assumta est Maria. in a. raro invenies, ut comm. Domus 
+      <pb n="[263]" />mea. in [sqb]. Dixit Dominus. in c. Benedicta filia; in d. sit nomen Domini.</p>
+      <p id="ODODIA0100">18. Octavus autem modus procedit cum septimo usque ad duodecimam e. deponitur autem ad tertiam C. tono et semitonio et duobus tonis, fitque decachordum hoc modo:</p>
+      <p id="ODODIA0101">[GSI:263; text: C, tonus, D, E, semitnium, F, G, a, b. [sqb], c, d, e, Forma octavi toni.]</p>
+      <p id="ODODIA0102">Supra diximus autem, huiusmodi decachordum ter diatessaron non habere, ideoque non recipitur utraque, id est, acutissima e. eius, et gravissima C. eius simul in uno eodemque cantu, ut quibusdam placet. Perspicuum est autem, quod octavus tonus in depositione a fine per omnia sit secundus. Quod si ei in elevatione prima nona b. daretur, ut haberet tonum et semitonium, et duos tonos a fine, etiam in elevatione permaneret secundus. Sed deridenda inertium cantorum scurrilitas, quae de tonorum discretione nil sentit: id solum sequitur, quod aliquo modo aures delinire videtur: sicut qui gastrimargiae inserviunt, per falsam dulcedinem veram sobrietatis regulam fallunt. Invenitur praeterea, cum octavus ad quartam D. descendens, decimam tertiam f. quae iure est septima, appetat, ac si decachordum regulare tanta praesumptione, licet raro, restituat. Principia eius sunt haec: in C. ut: Stabunt iusti. in D. ut: Angeli Domini. in F. ut: Zachae. in G. ut: Iudaea et Ierusalem. in a. ut: apertum est. in c. ut: Ecce ancilla. In hoc autem distat octavus a septimo, quod octavus habet tertiam C. quartam D. et quintam E. quas non habet septimus; et septimus habet decimam tertiam f. et decimam quartam g. quas iure non habet octavus.</p>
+      <p id="ODODIA0103">Sane in his cantibus, qui inter octavi depositionem et septimi elevationem medii sunt, ut in reliquis quoque modis dictum est, secundum formularum varietates, in quo tono maneant, discernentur. Per ipsas enim varietates uniuscuiusque modi principia liquido pervidebis.</p>
+      <p id="ODODIA0104">D. Dum vix paucos cantus his regulis contraire invenio; eorum paucitatem, et ut ita dicam, furtivam singularitatem a praesumptoribus vitiatisque cantoribus factam esse non dubito.</p>
+      <p id="ODODIA0105">M. Regula enim est commune mandatum uniuscuiusque artis; quae ita singularia sunt, secundum artificialem regulam non consistunt.</p>
+      <p id="ODODIA0106">D. Sed precor, ut secundum uniuscuiusque vocis positionem pauca adhuc de modorum lege subiungas.</p>
+      <p id="ODODIA0107">M. Petitioni tuae iustum est respondere. Unaquaeque enim vox alicuius supradictorum modorum similitudinem tenet; ut gamma ([Gamma]) quidem, quia habet ante se duos tonos, post quos semitonium, 
+      <pb n="[264]" />et duos tonos adiungit, ac deinde semitonium tonumque apponit, non immerito septimi modi similitudinem tenet, cum et finis septimi ad gamma diapason concinat. Prima quoque vox, quia habet post se tonum, ante se vero tonum et semitonium et duos tonos, primi modi legem custodit: unde prima non sine causa dicta est. Secunda vero cum deponatur post se duobus tonis, et ante elevetur semitonio et duobus tonis, iterumque semitonio et tono, usitatam quarti modi regulam servat. Tertia praeterea C. cum post se habeat semitonium et duos tonos, ante se vero duos tonos et semitonium, ac deinde tres tonos, quinti vel sexti proprietate fulcitur. Iam vero octavam a. primum locum tenere dicimus ad similitudinem primae, cuius est diapason. Alioquin si eam cum prima nona b. perpendas, habebit in depositione tonum, in elevatione vero semitonium, et tres tonos ad similitudinem tertii. Prima nona b. in depositione continet semitonium et duos tonos, ad similitudinem sexti; in elevatione vero sive quia tres toni sequuntur, sive magis quia nulla sequentium diatessaron ei caritate coniungitur, quae principalis est consonantia, nullius toni regularem similitudinem tenet. Neque etiam per diapason a posterioribus fieri potest: ideoque neque cantum neque distinctionem in ea principium vel finem habere probabis, nisi vitio id fiat.</p>
+      <p id="ODODIA0108">Secunda nona [sqb] ad similitudinem secundae vocis B, a qua per diapason facta est, quarti imaginem tenet. Decima vero c. ad similitudinem tertiae C. concordat septimo. Alias autem si secunda nona [sqb] privetur, habebit post se tonum, semitonium et duos tonos, ante se vero duos tonos et semitonium, ad comparationem octavi, a cuius fine diatessaron signat. Reliquae vero, quae sequuntur, pro similitudine litterarum facile perpenduntur: quod monstrat haec figura.</p>
+      <p class="textFig" id="ODODIA0109">&#160;&#160;V.C.VI.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;VII.G.VIII.&#160;&#160;I.d.II.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;I.aaII.
+      <lb />&#160;&#160;&#160;&#160;B.IIII.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;V.F.VI.&#160;&#160;&#160;&#160;V&#160;c.V.VIII.&#160;&#160;&#160;&#160;VII.g.VIII.
+      <br />&#160;&#160;I.A.II.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;III.E.IIII.&#160;&#160;[sqb]IIII.&#160;&#160;&#160;&#160;&#160;&#160;&#160;V.f.VI.
+      <lb />VII.[Gamma].VIII.&#160;&#160;&#160;&#160;I.D.II.&#160;&#160;&#160;&#160;I.a.II.III.&#160;&#160;&#160;&#160;III.e.IIII.
+      <br /></p>
+      <p id="ODODIA0110">Ex his, quae dicta sunt, assiduus perscrutator tam de tonis, quam de reliquis huius artis regulis divina gratia iuvante alia quamplura intelliget. Quodsi aut negligenter agit, aut hoc non per divinam illustrationem, sed sui sensus acumine se capere posse praesumpserit, aut nequaquam intelliget, aut, dum non refert gratias Donatori, efficietur, quod absit, elationi inserviens minus iam subditus creatori: qui est benedictus in secula seculorum. Amen.</p>
+      <p id="ODODIA0111">D. Age ergo, obsecro, et de modis, quae sequuntur edicito.</p>
+      <p id="ODODIA0112">Explicit musica enchiridionis.</p>
+    </body>
+  </text>
+</TEI>

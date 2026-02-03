@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xml:lang="en">
+    <fileDesc>
+      <titleStmt>
+        <title>Lucidarium, tractatus quartus</title>
+        <title type="abbrev">MARLUC4</title>
+        <author>Marchetus de Padua</author>
+        <date notBefore="1300" notAfter="1399">14th</date>
+      </titleStmt>
+      <editionStmt>Thesaurus Musicarum Latinarum 
+      <respStmt>
+        <resp>E</resp>
+        <persName>Stephen E. Hayes</persName>
+      </respStmt>
+      <respStmt>
+        <resp>C</resp>
+        <persName>Peter M. Lefferts</persName>
+      </respStmt>
+      <respStmt>
+        <resp>A</resp>
+        <persName>Thomas J. Mathiesen</persName>
+      </respStmt>
+      <date>1990</date></editionStmt>
+      <sourceDesc>
+        <bibl type="edition">
+<emph>The Lucidarium of Marchetto of Padua: A Critical Edition, Translation, and Commentary</emph>, ed. and trans. by Jan W. Herlinger (Chicago and London: The University of Chicago Press, 1985), 182–94. As a work, this treatise is in the public domain. As a raw transcription, this file is free of copyright and may be reproduced and distributed freely.
+</bibl>
+        <bibl type="work">
+          
+<title>Marchettus de Padua: Lucidarium in arte musicae planae</title>
+          
+<idno type="LML">MARCH. luc.</idno>
+        
+</bibl>
+        <listWit>
+          <witness>
+            <idno type="RISM">A-SP Cod. 135/6 (29.4.4), 21v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Br II 785, 15-38v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">B-Br II 4144, 1-41</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">CH-E 689, 1-44</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">E-Sc 5-2-25, 5-20v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">E-Sc 5-2-25, 76v-77v, 124-128 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">F-SDI 42, 1-33v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">GB-Ob Canon. Misc. 42, 184-185 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-BREs D 21, 185v-186v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-CATc D 39, 157-189</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fl Conv. Soppr. 388, 34v-52v (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Fr 734, 74-101</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Ma D. 5 inf., 52-77v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Ma I. 20 inf., 36v-39 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-PEc 1013, 5-45v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-PIu 606 (IV.9), I/1-50</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat lat. 5322, 1-48</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Rvat Reg. lat. 1146, 7-8 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Sc L.V.30, 91v-119</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-TRE without shelfmark, 15-32v</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">I-Vnm Lat. Cl. VIII.85 (3579), 1-10 (Extraits)</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">US-Cn Case Ms. 54.1, 10v-33</idno>
+          </witness>
+          <witness>
+            <idno type="RISM">US-Wc ML 171 J 6 Case, hv-47</idno>
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <body>
+      <p id="MARLUC40001">
+      <pb n="[182]" />1. INCIPIT TRACTATUS QUARTUS</p>
+      <p id="MARLUC40002">CAPITULUM PRIMUM</p>
+      <p id="MARLUC40003">DE PROPORTIONIBUS</p>
+      <p id="MARLUC40004">2. Proportio est quedam habitudo duorum terminorum ad invicem vel distantia duorum terminorum inter se.</p>
+      <p id="MARLUC40005">3. Sed notandum est quod aliud est proportio et aliud est proportionalitas,</p>
+      <p id="MARLUC40006">4. nam proportio, ut predicitur, est de duobus terminis; proportionalitas autem non minus quam de tribus sumi potest.</p>
+      <p id="MARLUC40007">5. Dicitur enim proportio pars numeralis in musica.</p>
+      <p id="MARLUC40008">1. CAPITULUM SECUNDUM</p>
+      <p id="MARLUC40009">DE PROPORTIONIBUS QUOT SINT</p>
+      <p id="MARLUC40010">2. Proportiones in musica in quibus consonantie consistunt sunt sex, scilicet sesquitercia, sesqualtera, dupla, dupla superbipartiens, tripla, et quadrupla.</p>
+      <p id="MARLUC40011">
+      <pb n="[184]" />3. Proportiones vero in quibus membra consonantiarum consistunt sunt tres, scilicet sesquioctava, sesquisexta decima, et sesquidecima septima; de quibus omnibus est videndum.</p>
+      <p id="MARLUC40012">1. CAPITULUM TERCIUM</p>
+      <p id="MARLUC40013">DE SESQUITERCIA PROPORTIONE</p>
+      <p id="MARLUC40014">2. Sesquitercia proportio est quando maior numerus comparatur minori continens ipsum totum et eius terciam partem, ut quatuor comparati ad tres.</p>
+      <p id="MARLUC40015">3. Et, ut superius diximus, talis numerus epitritus nominatur.</p>
+      <p id="MARLUC40016">4. Et per hoc sequitur quod consonantia dyatessaron epitrita et sesquitercia nuncupatur.</p>
+      <p id="MARLUC40017">5. Et dicitur sesquitercia a sesqui, quod est totum et tercia pars, eo quod quaternarius numerus comparatus ternario comprehendit ipsum totum et eius terciam partem.</p>
+      <p id="MARLUC40018">
+      <pb n="[186]" />1. CAPITULUM QUARTUM</p>
+      <p id="MARLUC40019">DE SESQUALTERA PROPORTIONE</p>
+      <p id="MARLUC40020">2. Sesqualtera proportio est quando maior numerus comparatus minori continet ipsum totum et eius alteram partem, scilicet medietatem, ut tres comparati ad duo.</p>
+      <p id="MARLUC40021">3. Et, ut superius dictum est, talis numerus emiolius nominatur.</p>
+      <p id="MARLUC40022">4. Et per hoc patet quod dyapente consonantia emiolia et sesqualtera nuncupatur.</p>
+      <p id="MARLUC40023">5. Et dicitur sesqualtera a sesqui, quod est totum et altera pars, eo quod ternarius continet totum binarium in se et eius alteram partem, scilicet medietatem.</p>
+      <p id="MARLUC40024">1. CAPITULUM QUINTUM</p>
+      <p id="MARLUC40025">DE DUPLA PROPORTIONE</p>
+      <p id="MARLUC40026">2. Dupla proportio est quando maior numerus comparatus minori continet ipsum 
+      <pb n="[188]" />dupliciter totum, ut duo comparati ad unum.</p>
+      <p id="MARLUC40027">3. Continent namque duo dupliciter unum.</p>
+      <p id="MARLUC40028">1. CAPITULUM SEXTUM</p>
+      <p id="MARLUC40029">DE DUPLA SUPERBIPARTIENTE PROPORTIONE</p>
+      <p id="MARLUC40030">2. Dupla superbipartiens proportio est quando maior numerus comparatur minori continens ipsum totum dupliciter et insuper eius duas partes, ut octo comparati ad tres,</p>
+      <p id="MARLUC40031">3. nam octonarius numerus comprehendit totum ternarium in se bis et eius duas partes.</p>
+      <p id="MARLUC40032">1. CAPITULUM SEPTIMUM</p>
+      <p id="MARLUC40033">DE TRIPLA PROPORTIONE</p>
+      <p id="MARLUC40034">2. Tripla proportio est quando maior numerus comparatur minori continens ipsum totum tripliciter, ut tres comparati ad unum.</p>
+      <p id="MARLUC40035">3. Comprehendit namque ternarius tripliciter unitatem.</p>
+      <p id="MARLUC40036">
+      <pb n="[190]" />1. CAPITULUM OCTAVUM</p>
+      <p id="MARLUC40037">DE QUADRUPLA PROPORTIONE</p>
+      <p id="MARLUC40038">2. Quadrupla proportio est quando maior numerus comparatur minori continens quadrupliciter ipsum totum, ut quatuor comparati ad unum.</p>
+      <p id="MARLUC40039">3. Comprehendit namque quaternarius totum unarium quadrupliciter.</p>
+      <p id="MARLUC40040">1. CAPITULUM NONUM</p>
+      <p id="MARLUC40041">DE SESQUIOCTAVA PROPORTIONE</p>
+      <p id="MARLUC40042">2. Sesquioctava proportio est quando maior numerus comparatur minori continens ipsum totum et eius octavam partem, ut novem comparati ad octo,</p>
+      <p id="MARLUC40043">3. namque novenarius comprehendit totum octonarium et eius octavam partem.</p>
+      <p id="MARLUC40044">4. Et dicitur sesquioctavus a sesqui, quod est totum et octava pars.</p>
+      <p id="MARLUC40045">
+      <pb n="[192]" />1. CAPITULUM DECIMUM</p>
+      <p id="MARLUC40046">DE SESQUISEXTA DECIMA PROPORTIONE</p>
+      <p id="MARLUC40047">2. Sesquisexta decima proportio est quando maior numerus comparatur minori continens ipsum totum et eius sextam decimam partem, ut decemseptem comparati ad sexdecim.</p>
+      <p id="MARLUC40048">3. Habet enim decimus septimus numerus totum sextum decimum in se et eius sextam decimam partem.</p>
+      <p id="MARLUC40049">1. CAPITULUM UNDECIMUM</p>
+      <p id="MARLUC40050">DE SESQUIDECIMA SEPTIMA PROPORTIONE</p>
+      <p id="MARLUC40051">2. Sesquidecima septima proportio est quando maior numerus comparatur minori continens ipsum totum et eius septimam decimam partem, ut decemocto comparati ad decemseptem.</p>
+      <p id="MARLUC40052">3. Continet namque decimus octavus numerus totum decimum septimum et eius decimam septimam partem.</p>
+      <p id="MARLUC40053">4. Sed nota quod licet tonus sit in sesquioctava proportione, semitonium maius in sesquisexta decima proportione, et semitonium minus in sesquidecima septima,</p>
+      <p id="MARLUC40054">
+      <pb n="[194]" />5. non tamen consonantie sunt, ut Boetius refert et infra de coniunctionibus ostendetur.</p>
+      <p id="MARLUC40055">6. Habemus ergo quod sex consonantie sumpte in numeris in sex proportionibus includantur, nam dyatessaron, prima, ponitur in sesquitercia proportione;</p>
+      <p id="MARLUC40056">7. secunda, dyapente, in sesqualtera;</p>
+      <p id="MARLUC40057">8. tercia, dyapason, in dupla;</p>
+      <p id="MARLUC40058">9. quarta, dyapason dyatessaron, in dupla superbipartiente;</p>
+      <p id="MARLUC40059">10. quinta, dyapason dyapente, in tripla;</p>
+      <p id="MARLUC40060">11. sexta, bisdyapason, in quadrupla.</p>
+      <p id="MARLUC40061">12. Et hec de proportionibus ad presens dicta sufficiant.</p>
+      <p id="MARLUC40062">13. EXPLICIT TRACTATUS QUARTUS</p>
+    </body>
+  </text>
+</TEI>

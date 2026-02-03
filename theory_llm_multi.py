@@ -454,9 +454,10 @@ if 'selected_centuries' not in st.session_state:
 else:
     # Sync selected_centuries from checkbox widget states BEFORE cascade logic runs
     # This ensures century changes made via checkboxes are immediately reflected
+    # Default to True (selected) if checkbox state doesn't exist yet
     st.session_state.selected_centuries = [
         c for c in centuries_in_db
-        if st.session_state.get(f"century_{c}", False)
+        if st.session_state.get(f"century_{c}", True)
     ]
 
 # Initialize filter visibility toggles

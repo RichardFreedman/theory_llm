@@ -304,6 +304,38 @@ st.sidebar.success(f"✅ Loaded {len(vector_stores)} database(s)")
 
 # st.success(f"✅ Loaded {len(vector_stores)} database(s)")
 
+# Helper function to check if a document's date overlaps with selected centuries
+def doc_in_selected_centuries(doc_start, doc_end, selected_centuries):
+    """Check if a document's date range overlaps with any selected century."""
+    if not selected_centuries:
+        return False
+    for century_start in selected_centuries:
+        century_end = century_start + 99
+        # Check if document overlaps with this century
+        if not (doc_end < century_start or doc_start > century_end):
+            return True
+    return False
+
+# Cache all metadata at startup to avoid repeated database queries
+@st.cache_data(show_spinner="Loading metadata...")
+def load_all_metadata(_vector_stores_dict, db_names_tuple):
+    """Load and cache all metadata from vector stores. Only runs once per database selection."""
+    all_metadata = []
+    for db_name in db_names_tuple:
+        vector_store = _vector_stores_dict[db_name]
+        docs = vector_store.get()
+        if 'metadatas' in docs:
+            for metadata in docs['metadatas']:
+                if metadata:
+                    all_metadata.append({
+                        'db_name': db_name,
+                        'author': metadata.get('author'),
+                        'title': metadata.get('title'),
+                        'date_start': metadata.get('date_start'),
+                        'date_end': metadata.get('date_end')
+                    })
+    return all_metadata
+
 # Function to get date range from ALL selected databases
 def get_date_range(vector_stores_dict):
     """Retrieve min and max dates from selected Chroma databases"""
@@ -336,173 +368,209 @@ def get_date_range(vector_stores_dict):
     max_date = ((int(max_date) // 100) + 1) * 100
     return min_date, max_date
 
-# Function to get unique authors from ALL selected databases, filtered by date range
-def get_unique_authors(vector_stores_dict, date_range=None):
-    """Retrieve all unique authors from selected Chroma databases, optionally filtered by date range"""
+# Function to get unique authors from cached metadata, filtered by selected centuries
+def get_unique_authors_from_cache(cached_metadata, selected_centuries=None):
+    """Retrieve unique authors from cached metadata, optionally filtered by selected centuries"""
     authors = set()
-    for db_name, vector_store in vector_stores_dict.items():
-        all_docs = vector_store.get()
-        if 'metadatas' in all_docs:
-            for metadata in all_docs['metadatas']:
-                if metadata and 'author' in metadata:
-                    # If date_range is specified, check if document falls within range
-                    if date_range is not None:
-                        date_start = metadata.get('date_start')
-                        date_end = metadata.get('date_end')
-                        try:
-                            doc_start = int(date_start) if date_start else 0
-                            doc_end = int(date_end) if date_end else 9999
-                        except (ValueError, TypeError):
-                            doc_start, doc_end = 0, 9999
-                        # Check if document's date range overlaps with selected range
-                        if doc_end < date_range[0] or doc_start > date_range[1]:
-                            continue  # Skip this document
-                    authors.add(metadata['author'])
+    for metadata in cached_metadata:
+        if metadata.get('author'):
+            # If selected_centuries is specified, check if document falls within any selected century
+            if selected_centuries is not None and len(selected_centuries) > 0:
+                date_start = metadata.get('date_start')
+                date_end = metadata.get('date_end')
+                try:
+                    doc_start = int(date_start) if date_start else 0
+                    doc_end = int(date_end) if date_end else 9999
+                except (ValueError, TypeError):
+                    doc_start, doc_end = 0, 9999
+                if not doc_in_selected_centuries(doc_start, doc_end, selected_centuries):
+                    continue
+            authors.add(metadata['author'])
     return sorted(list(authors))
 
-# Function to get unique titles from ALL selected databases, filtered by authors and date range
-def get_unique_titles(vector_stores_dict, selected_authors=None, date_range=None):
-    """
-    Retrieve all unique titles from selected Chroma databases.
-    Optionally filter by authors and date range.
-    """
+# Function to get unique titles from cached metadata, filtered by authors and selected centuries
+def get_unique_titles_from_cache(cached_metadata, selected_authors=None, selected_centuries=None):
+    """Retrieve unique titles from cached metadata, filtered by authors and selected centuries."""
+    # If selected_authors is an empty list (not None), return no titles
+    if selected_authors is not None and len(selected_authors) == 0:
+        return []
+
     titles = set()
-    for db_name, vector_store in vector_stores_dict.items():
-        all_docs = vector_store.get()
-        if 'metadatas' in all_docs:
-            for metadata in all_docs['metadatas']:
-                if metadata and 'title' in metadata:
-                    # Filter by author if specified
-                    if selected_authors and metadata.get('author') not in selected_authors:
-                        continue
+    for metadata in cached_metadata:
+        if metadata.get('title'):
+            # Filter by author if specified (None means no filter, empty list handled above)
+            if selected_authors is not None and metadata.get('author') not in selected_authors:
+                continue
 
-                    # Filter by date range if specified
-                    if date_range is not None:
-                        date_start = metadata.get('date_start')
-                        date_end = metadata.get('date_end')
-                        try:
-                            doc_start = int(date_start) if date_start else 0
-                            doc_end = int(date_end) if date_end else 9999
-                        except (ValueError, TypeError):
-                            doc_start, doc_end = 0, 9999
-                        if doc_end < date_range[0] or doc_start > date_range[1]:
-                            continue
+            # Filter by selected centuries if specified
+            if selected_centuries is not None and len(selected_centuries) > 0:
+                date_start = metadata.get('date_start')
+                date_end = metadata.get('date_end')
+                try:
+                    doc_start = int(date_start) if date_start else 0
+                    doc_end = int(date_end) if date_end else 9999
+                except (ValueError, TypeError):
+                    doc_start, doc_end = 0, 9999
+                if not doc_in_selected_centuries(doc_start, doc_end, selected_centuries):
+                    continue
 
-                    titles.add(metadata['title'])
+            titles.add(metadata['title'])
 
     return sorted(list(titles))
 
 # Get date range from databases
 db_min_date, db_max_date = get_date_range(vector_stores)
 
-# Initialize date range in session state
-if 'selected_date_range' not in st.session_state:
-    st.session_state.selected_date_range = (db_min_date, db_max_date)
+# Cache all metadata once (tuple of db names used as cache key)
+db_names_tuple = tuple(sorted(vector_stores.keys()))
+cached_metadata = load_all_metadata(vector_stores, db_names_tuple)
 
-# Continue Sidebar - Date Filter
+# Generate century options based on database date range
+def get_century_label(start_year):
+    """Convert start year to century label, e.g., 1300 -> '14th century (1300-1399)'"""
+    century_num = (start_year // 100) + 1
+    suffix = 'th'
+    if century_num % 10 == 1 and century_num != 11:
+        suffix = 'st'
+    elif century_num % 10 == 2 and century_num != 12:
+        suffix = 'nd'
+    elif century_num % 10 == 3 and century_num != 13:
+        suffix = 'rd'
+    return f"{century_num}{suffix} century ({start_year}-{start_year + 99})"
+
+# Build list of centuries covered by the databases
+centuries_in_db = []
+century_start = (db_min_date // 100) * 100
+while century_start <= db_max_date:
+    centuries_in_db.append(century_start)
+    century_start += 100
+
+# Initialize selected centuries in session state (all selected by default)
+if 'selected_centuries' not in st.session_state:
+    st.session_state.selected_centuries = centuries_in_db.copy()
+    # Also initialize checkbox widget states
+    for c in centuries_in_db:
+        st.session_state[f"century_{c}"] = True
+else:
+    # Sync selected_centuries from checkbox widget states BEFORE cascade logic runs
+    # This ensures century changes made via checkboxes are immediately reflected
+    st.session_state.selected_centuries = [
+        c for c in centuries_in_db
+        if st.session_state.get(f"century_{c}", False)
+    ]
+
+# Initialize filter visibility toggles
+if 'show_date_filter' not in st.session_state:
+    st.session_state.show_date_filter = False
+if 'show_author_filter' not in st.session_state:
+    st.session_state.show_author_filter = False
+if 'show_title_filter' not in st.session_state:
+    st.session_state.show_title_filter = False
+
+# Sidebar - Filter toggles (compact view)
 with st.sidebar:
-    st.header("📅 Filter by Date")
-    st.write(f"Sources in the selected databases span {db_min_date} - {db_max_date}")
+    st.header("🔍 Filters")
 
-    selected_date_range = st.slider(
-        "Select date range:",
-        min_value=db_min_date,
-        max_value=db_max_date,
-        value=st.session_state.selected_date_range,
-        step=100,
-        help="Filter sources by publication date range. The authors available in the 'author selection' box below will update accordingly."
+    # Date filter toggle with summary
+    num_centuries_selected = len(st.session_state.selected_centuries)
+    date_summary = f"{num_centuries_selected}/{len(centuries_in_db)} centuries"
+    st.session_state.show_date_filter = st.checkbox(
+        f"📅 Date Filter ({date_summary})",
+        value=st.session_state.show_date_filter,
+        key="toggle_date_filter"
     )
 
-    # Update session state
-    if selected_date_range != st.session_state.selected_date_range:
-        st.session_state.selected_date_range = selected_date_range
-        # Reset authors when date changes
-        if 'selected_authors' in st.session_state:
-            del st.session_state.selected_authors
+    # Author filter toggle (built after we compute available_authors below)
+    # Title filter toggle (built after we compute available_titles below)
 
     st.markdown("---")
 
-# Build the author list (filtered by date range)
-available_authors = get_unique_authors(vector_stores, date_range=selected_date_range)
+# Build the author list (filtered by selected centuries)
+# Use all centuries if none selected to avoid empty results
+filter_centuries = st.session_state.selected_centuries if st.session_state.selected_centuries else centuries_in_db
+available_authors = get_unique_authors_from_cache(cached_metadata, selected_centuries=filter_centuries)
+
+# Track previous available authors to detect when options change (due to century filter)
+if 'previous_available_authors' not in st.session_state:
+    st.session_state.previous_available_authors = available_authors.copy()
+
+authors_options_changed = set(available_authors) != set(st.session_state.previous_available_authors)
+st.session_state.previous_available_authors = available_authors.copy()
 
 # Reset selected authors if database selection changed
 if current_db_selection != st.session_state.previous_db_selection:
     st.session_state.selected_authors = available_authors.copy()
+    st.session_state["author_multiselect"] = available_authors.copy()
     st.session_state.previous_db_selection = current_db_selection
 
 if 'selected_authors' not in st.session_state:
     st.session_state.selected_authors = available_authors.copy()
 
-# Ensure selected authors are still valid after date filter change
-st.session_state.selected_authors = [
-    a for a in st.session_state.selected_authors if a in available_authors
-]
-if not st.session_state.selected_authors:
+# When century filter changes available authors, reset to ALL available authors
+if authors_options_changed:
     st.session_state.selected_authors = available_authors.copy()
+    st.session_state["author_multiselect"] = available_authors.copy()
+else:
+    # Sync selected_authors from widget state BEFORE title cascade logic runs
+    # This ensures author changes made via multiselect are immediately reflected
+    if "author_multiselect" in st.session_state:
+        # Only include authors that are still in available_authors (in case options changed)
+        st.session_state.selected_authors = [
+            a for a in st.session_state["author_multiselect"]
+            if a in available_authors
+        ]
 
-# Continue Sidebar - Author Selection and Settings
-with st.sidebar:
-    st.header("✏️ Filter by Author")
-    st.write(f"({len(available_authors)} authors available in the selected databases and date range.):")
+# Build the title list (filtered by selected authors and selected centuries)
+available_titles = get_unique_titles_from_cache(cached_metadata, st.session_state.selected_authors, filter_centuries)
 
-    if st.button("Select All Authors"):
-        st.session_state.selected_authors = available_authors.copy()
-        st.rerun()
+# Track previous available titles to detect when options change (due to author filter)
+if 'previous_available_titles' not in st.session_state:
+    st.session_state.previous_available_titles = available_titles.copy()
 
-    selected_authors = st.multiselect(
-        "Choose authors:",
-        options=available_authors,
-        default=st.session_state.selected_authors,
-        help="Select which authors to include in search results.  Note that mentioning an author in your question will prioritize their works, provided they are among the options here."
-    )
-
-    # Update session state when selection changes
-    if selected_authors != st.session_state.selected_authors:
-        st.session_state.selected_authors = selected_authors
-        # Reset titles when authors change
-        if 'selected_titles' in st.session_state:
-            del st.session_state.selected_titles
-
-    st.markdown("---")
-
-# Build the title list (filtered by selected authors and date range)
-# Use session state to ensure variable is available
-available_titles = get_unique_titles(vector_stores, st.session_state.selected_authors, selected_date_range)
+titles_options_changed = set(available_titles) != set(st.session_state.previous_available_titles)
+st.session_state.previous_available_titles = available_titles.copy()
 
 # Initialize selected titles in session state
 if 'selected_titles' not in st.session_state:
     st.session_state.selected_titles = available_titles.copy()
 
-# Ensure selected titles are still valid after author/date filter change
-st.session_state.selected_titles = [
-    t for t in st.session_state.selected_titles if t in available_titles
-]
-if not st.session_state.selected_titles:
+# When author filter changes available titles, reset to ALL available titles
+if titles_options_changed:
     st.session_state.selected_titles = available_titles.copy()
+    st.session_state["title_multiselect"] = available_titles.copy()
+else:
+    # Sync selected_titles from widget state BEFORE any downstream logic
+    # This ensures title changes made via multiselect are immediately reflected
+    if "title_multiselect" in st.session_state:
+        # Only include titles that are still in available_titles (in case options changed)
+        st.session_state.selected_titles = [
+            t for t in st.session_state["title_multiselect"]
+            if t in available_titles
+        ]
 
-# Continue Sidebar - Title Selection
+# Continue sidebar with author and title toggles
 with st.sidebar:
-    st.header("📖 Filter by Title")
-    st.write(f"({len(available_titles)} titles from selected authors):")
-
-    if st.button("Select All Titles"):
-        st.session_state.selected_titles = available_titles.copy()
-        st.rerun()
-
-    selected_titles = st.multiselect(
-        "Choose titles:",
-        options=available_titles,
-        default=st.session_state.selected_titles,
-        help="Select which works to include in search results. Useful when an author has multiple treatises or for filtering anonymous works."
+    # Author filter toggle with summary
+    num_authors_selected = len(st.session_state.selected_authors)
+    author_summary = f"{num_authors_selected}/{len(available_authors)} authors"
+    st.session_state.show_author_filter = st.checkbox(
+        f"✏️ Author Filter ({author_summary})",
+        value=st.session_state.show_author_filter,
+        key="toggle_author_filter"
     )
 
-    # Update session state when selection changes
-    if selected_titles != st.session_state.selected_titles:
-        st.session_state.selected_titles = selected_titles
+    # Title filter toggle with summary
+    num_titles_selected = len(st.session_state.selected_titles)
+    title_summary = f"{num_titles_selected}/{len(available_titles)} titles"
+    st.session_state.show_title_filter = st.checkbox(
+        f"📖 Title Filter ({title_summary})",
+        value=st.session_state.show_title_filter,
+        key="toggle_title_filter"
+    )
 
     st.markdown("---")
 
-    # Retrieval settings
+    # Retrieval settings (always in sidebar)
     st.header("⚙️ Retrieval Settings")
     k = st.slider(
         "Number of segments per database:",
@@ -513,14 +581,128 @@ with st.sidebar:
     )
     st.write(f"**Max total segments:** {k} × {len(vector_stores)} databases = **{k * len(vector_stores)}**")
 
+# ============ MAIN PANEL FILTER SECTIONS ============
+
+# Date Filter (main panel)
+if st.session_state.show_date_filter:
     st.markdown("---")
-    st.subheader("📊 Database Info")
-    st.write(f"**Active Databases:** {len(vector_stores)}")
-    st.write(f"**Date Range:** {selected_date_range[0]} - {selected_date_range[1]}")
-    st.write(f"**Authors in Range:** {len(available_authors)}")
-    st.write(f"**Selected Authors:** {len(selected_authors)}")
-    st.write(f"**Titles from Selected Authors:** {len(available_titles)}")
-    st.write(f"**Selected Titles:** {len(selected_titles)}")
+    st.subheader("📅 Filter by Date")
+    st.write(f"Sources span {db_min_date} - {db_max_date} — **{len(st.session_state.selected_centuries)}/{len(centuries_in_db)} centuries selected**")
+
+    col1, col2, col3 = st.columns([1, 1, 2])
+    with col1:
+        if st.button("Select All Centuries", key="select_all_centuries"):
+            st.session_state.selected_centuries = centuries_in_db.copy()
+            # Update widget states to match
+            for c in centuries_in_db:
+                st.session_state[f"century_{c}"] = True
+            st.rerun()
+    with col2:
+        if st.button("Deselect All Centuries", key="deselect_all_centuries"):
+            st.session_state.selected_centuries = []
+            # Update widget states to match
+            for c in centuries_in_db:
+                st.session_state[f"century_{c}"] = False
+            st.rerun()
+
+    # Display checkboxes in columns for better layout
+    num_cols = 4
+    cols = st.columns(num_cols)
+    for i, century_start in enumerate(centuries_in_db):
+        with cols[i % num_cols]:
+            label = get_century_label(century_start)
+            # Initialize widget state if not set
+            if f"century_{century_start}" not in st.session_state:
+                st.session_state[f"century_{century_start}"] = century_start in st.session_state.selected_centuries
+
+            is_checked = st.checkbox(
+                label,
+                key=f"century_{century_start}"
+            )
+            # Sync session state with widget
+            if is_checked and century_start not in st.session_state.selected_centuries:
+                st.session_state.selected_centuries.append(century_start)
+            elif not is_checked and century_start in st.session_state.selected_centuries:
+                st.session_state.selected_centuries.remove(century_start)
+
+# Author Filter (main panel)
+if st.session_state.show_author_filter:
+    st.markdown("---")
+    st.subheader("✏️ Filter by Author")
+    st.write(f"**{len(st.session_state.selected_authors)}/{len(available_authors)} authors selected** from date range")
+
+    col1, col2, col3 = st.columns([1, 1, 2])
+    with col1:
+        if st.button("Select All Authors", key="select_all_authors"):
+            st.session_state.selected_authors = available_authors.copy()
+            st.session_state["author_multiselect"] = available_authors.copy()
+            st.rerun()
+    with col2:
+        if st.button("Deselect All Authors", key="deselect_all_authors"):
+            st.session_state.selected_authors = []
+            st.session_state["author_multiselect"] = []
+            st.rerun()
+
+    # Initialize widget state if needed
+    if "author_multiselect" not in st.session_state:
+        st.session_state["author_multiselect"] = st.session_state.selected_authors.copy()
+
+    selected_authors = st.multiselect(
+        "Choose authors:",
+        options=available_authors,
+        key="author_multiselect",
+        help="Select which authors to include in search results. Mentioning an author in your question will prioritize their works."
+    )
+
+    # Sync with our session state
+    st.session_state.selected_authors = selected_authors
+else:
+    # Keep selected_authors in sync even when panel is hidden
+    selected_authors = st.session_state.selected_authors
+
+# Title Filter (main panel)
+if st.session_state.show_title_filter:
+    st.markdown("---")
+    st.subheader("📖 Filter by Title")
+    st.write(f"**{len(st.session_state.selected_titles)}/{len(available_titles)} titles selected** from chosen authors")
+
+    col1, col2, col3 = st.columns([1, 1, 2])
+    with col1:
+        if st.button("Select All Titles", key="select_all_titles"):
+            st.session_state.selected_titles = available_titles.copy()
+            st.session_state["title_multiselect"] = available_titles.copy()
+            st.rerun()
+    with col2:
+        if st.button("Deselect All Titles", key="deselect_all_titles"):
+            st.session_state.selected_titles = []
+            st.session_state["title_multiselect"] = []
+            st.rerun()
+
+    # Initialize widget state if needed
+    if "title_multiselect" not in st.session_state:
+        st.session_state["title_multiselect"] = st.session_state.selected_titles.copy()
+
+    selected_titles = st.multiselect(
+        "Choose titles:",
+        options=available_titles,
+        key="title_multiselect",
+        help="Select which works to include in search results."
+    )
+
+    # Sync with our session state
+    st.session_state.selected_titles = selected_titles
+else:
+    # Keep selected_titles in sync even when panel is hidden
+    selected_titles = st.session_state.selected_titles
+
+# Compute selected_date_range for compatibility
+if st.session_state.selected_centuries:
+    selected_date_range = (
+        min(st.session_state.selected_centuries),
+        max(st.session_state.selected_centuries) + 99
+    )
+else:
+    selected_date_range = (db_min_date, db_max_date)
 
 # Initialize LLM
 llm = ChatOpenAI(model="gpt-4o-mini", temperature=0)
@@ -643,19 +825,26 @@ def retrieve(state: State):
     question = state["question"]
     selected_authors_list = st.session_state.get('selected_authors', available_authors)
     selected_titles_list = st.session_state.get('selected_titles', [])
-    date_range = st.session_state.get('selected_date_range', (db_min_date, db_max_date))
+    selected_centuries = st.session_state.get('selected_centuries', centuries_in_db)
 
     # Get available titles (within current filters)
-    available_titles_for_detection = get_unique_titles(vector_stores, selected_authors_list, date_range)
+    available_titles_for_detection = get_unique_titles_from_cache(cached_metadata, selected_authors_list, selected_centuries)
 
     # Detect if specific authors or titles are mentioned in the query
     mentioned_authors = detect_mentioned_authors(question, available_authors)
     mentioned_titles = detect_mentioned_titles(question, available_titles_for_detection)
 
+    # DEBUG: Show actual filter values
+    st.write(f"🔍 **DEBUG - Filter values:**")
+    st.write(f"  - selected_centuries: {len(selected_centuries)} items, centuries_in_db: {len(centuries_in_db)} items")
+    st.write(f"  - selected_authors: {len(selected_authors_list)} items, available_authors: {len(available_authors)} items")
+    st.write(f"  - selected_titles: {len(selected_titles_list)} items, available_titles_for_detection: {len(available_titles_for_detection)} items")
+
     # Display filter info
     filter_info = []
-    if date_range != (db_min_date, db_max_date):
-        filter_info.append(f"dates {date_range[0]}-{date_range[1]}")
+    if selected_centuries and len(selected_centuries) < len(centuries_in_db):
+        century_labels = [f"{(c//100)+1}c" for c in selected_centuries]
+        filter_info.append(f"centuries: {', '.join(century_labels)}")
     if selected_authors_list and len(selected_authors_list) < len(available_authors):
         filter_info.append(f"{len(selected_authors_list)} author(s)")
     if selected_titles_list and len(selected_titles_list) < len(available_titles_for_detection):
@@ -673,6 +862,15 @@ def retrieve(state: State):
     
     all_docs = []
     
+    # Compute broad date range for Chroma queries (precise filtering done later)
+    if selected_centuries:
+        query_date_min = min(selected_centuries)
+        query_date_max = max(selected_centuries) + 99
+        has_date_filter = len(selected_centuries) < len(centuries_in_db)
+    else:
+        query_date_min, query_date_max = db_min_date, db_max_date
+        has_date_filter = False
+
     # Strategy 1: If authors are mentioned, retrieve from those authors
     if mentioned_authors:
         for db_name, vector_store in vector_stores.items():
@@ -684,9 +882,9 @@ def retrieve(state: State):
 
                 # Build filter with author + date range
                 filter_conditions = [{"author": author}]
-                if date_range != (db_min_date, db_max_date):
-                    filter_conditions.append({"date_start": {"$lte": date_range[1]}})
-                    filter_conditions.append({"date_end": {"$gte": date_range[0]}})
+                if has_date_filter:
+                    filter_conditions.append({"date_start": {"$lte": query_date_max}})
+                    filter_conditions.append({"date_end": {"$gte": query_date_min}})
 
                 where_filter = {"$and": filter_conditions} if len(filter_conditions) > 1 else filter_conditions[0]
                 try:
@@ -698,7 +896,7 @@ def retrieve(state: State):
                     )
                     docs = retriever.invoke(question)
                     all_docs.extend(docs)
-                    date_info = f" ({date_range[0]}-{date_range[1]})" if date_range != (db_min_date, db_max_date) else ""
+                    date_info = f" ({query_date_min}-{query_date_max})" if has_date_filter else ""
                     st.write(f"  → Retrieved {len(docs)} segments from {author} in {db_name}{date_info}")
                 except Exception as e:
                     # Fallback: retrieve more docs and filter afterward
@@ -714,9 +912,9 @@ def retrieve(state: State):
             for title, match_type in mentioned_titles:
                 # Build filter with title + date range
                 filter_conditions = [{"title": title}]
-                if date_range != (db_min_date, db_max_date):
-                    filter_conditions.append({"date_start": {"$lte": date_range[1]}})
-                    filter_conditions.append({"date_end": {"$gte": date_range[0]}})
+                if has_date_filter:
+                    filter_conditions.append({"date_start": {"$lte": query_date_max}})
+                    filter_conditions.append({"date_end": {"$gte": query_date_min}})
 
                 where_filter = {"$and": filter_conditions} if len(filter_conditions) > 1 else filter_conditions[0]
                 try:
@@ -728,7 +926,7 @@ def retrieve(state: State):
                     )
                     docs = retriever.invoke(question)
                     all_docs.extend(docs)
-                    date_info = f" ({date_range[0]}-{date_range[1]})" if date_range != (db_min_date, db_max_date) else ""
+                    date_info = f" ({query_date_min}-{query_date_max})" if has_date_filter else ""
                     st.write(f"  → Retrieved {len(docs)} segments from '{title}' ({match_type} match){date_info}")
                 except Exception as e:
                     # Fallback: retrieve more docs and filter afterward
@@ -749,10 +947,10 @@ def retrieve(state: State):
             filter_description = []
 
             # Apply date filter if not using full range
-            if date_range != (db_min_date, db_max_date):
-                filter_conditions.append({"date_start": {"$lte": date_range[1]}})
-                filter_conditions.append({"date_end": {"$gte": date_range[0]}})
-                filter_description.append(f"{date_range[0]}-{date_range[1]}")
+            if has_date_filter:
+                filter_conditions.append({"date_start": {"$lte": query_date_max}})
+                filter_conditions.append({"date_end": {"$gte": query_date_min}})
+                filter_description.append(f"{query_date_min}-{query_date_max}")
 
             # Apply author filter if not all authors are selected
             if selected_authors_list and len(selected_authors_list) < len(available_authors):
@@ -769,6 +967,11 @@ def retrieve(state: State):
                 search_kwargs["filter"] = {"$and": filter_conditions}
             elif len(filter_conditions) == 1:
                 search_kwargs["filter"] = filter_conditions[0]
+
+            # DEBUG: Show Chroma filter being applied
+            st.write(f"  🔍 DEBUG {db_name}: filter_conditions count = {len(filter_conditions)}")
+            if "filter" in search_kwargs:
+                st.write(f"     Chroma filter: {search_kwargs['filter']}")
 
             try:
                 retriever = vector_store.as_retriever(search_kwargs=search_kwargs)
@@ -807,20 +1010,24 @@ def retrieve(state: State):
             unique_docs.append(doc)
     
     st.write(f"Retrieved {len(unique_docs)} unique segments from {len(vector_stores)} database(s)")
-    
-    # Filter by date range
-    def doc_in_date_range(doc, date_range):
+
+    # Filter by selected centuries (precise filtering for non-contiguous selections)
+    def doc_matches_centuries(doc, centuries):
+        if not centuries:
+            return False
         try:
             doc_start = int(doc.metadata.get('date_start', 0))
             doc_end = int(doc.metadata.get('date_end', 9999))
         except (ValueError, TypeError):
             return True
-        return not (doc_end < date_range[0] or doc_start > date_range[1])
-    
-    RAG_retrieved_docs = [doc for doc in unique_docs if doc_in_date_range(doc, date_range)]
-    
-    if len(RAG_retrieved_docs) < len(unique_docs):
-        st.write(f"After date filtering: {len(RAG_retrieved_docs)} segments")
+        return doc_in_selected_centuries(doc_start, doc_end, centuries)
+
+    if has_date_filter:
+        RAG_retrieved_docs = [doc for doc in unique_docs if doc_matches_centuries(doc, selected_centuries)]
+        if len(RAG_retrieved_docs) < len(unique_docs):
+            st.write(f"After century filtering: {len(RAG_retrieved_docs)} segments")
+    else:
+        RAG_retrieved_docs = unique_docs
     
     # Filter by selected authors
     if selected_authors_list and len(selected_authors_list) < len(available_authors):
@@ -897,7 +1104,7 @@ graph_builder.add_edge("generate_with_author_grouping", END)
 graph = graph_builder.compile()
 
 # PDF Generation
-def create_pdf(chat_history, context_docs, selected_dbs, selected_authors_list, date_range=None):
+def create_pdf(chat_history, context_docs, selected_dbs, selected_authors_list, selected_centuries_list=None):
     """
     Create a PDF report including the full conversation history and source documents.
 
@@ -906,7 +1113,7 @@ def create_pdf(chat_history, context_docs, selected_dbs, selected_authors_list, 
         context_docs: The source documents from the most recent retrieval
         selected_dbs: List of database names used
         selected_authors_list: List of selected authors
-        date_range: Tuple of (start_year, end_year) or None
+        selected_centuries_list: List of century start years (e.g., [1300, 1400]) or None
     """
     buffer = BytesIO()
     pdf_doc = SimpleDocTemplate(buffer, pagesize=letter, rightMargin=72, leftMargin=72,
@@ -932,11 +1139,15 @@ def create_pdf(chat_history, context_docs, selected_dbs, selected_authors_list, 
     elements.append(Spacer(1, 0.2*inch))
 
     # Metadata
-    date_range_str = f"{date_range[0]} - {date_range[1]}" if date_range else "All Dates"
+    if selected_centuries_list:
+        century_labels = [f"{(c//100)+1}th c." for c in sorted(selected_centuries_list)]
+        centuries_str = ', '.join(century_labels)
+    else:
+        centuries_str = "All Centuries"
     metadata_text = f"""
     <b>Date:</b> {datetime.now().strftime("%Y-%m-%d %H:%M:%S")}<br/>
     <b>Databases:</b> {', '.join(selected_dbs)}<br/>
-    <b>Date Range:</b> {date_range_str}<br/>
+    <b>Centuries:</b> {centuries_str}<br/>
     <b>Authors:</b> {', '.join(selected_authors_list) if len(selected_authors_list) < len(available_authors) else 'All Authors'}<br/>
     <b>Total Exchanges:</b> {len(chat_history)}<br/>
     <b>Source Segments:</b> {len(context_docs)}
@@ -1170,7 +1381,7 @@ with st.sidebar:
             st.session_state.last_result["context"],
             st.session_state.last_db_names or [db['name'] for db in db_configs],
             st.session_state.selected_authors,
-            date_range=selected_date_range
+            selected_centuries_list=st.session_state.selected_centuries
         )
         num_exchanges = len(st.session_state.chat_history)
         button_label = f"📥 Download PDF Report ({num_exchanges} exchange{'s' if num_exchanges != 1 else ''})"

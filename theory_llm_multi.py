@@ -448,17 +448,19 @@ while century_start <= db_max_date:
 # Initialize selected centuries in session state (all selected by default)
 if 'selected_centuries' not in st.session_state:
     st.session_state.selected_centuries = centuries_in_db.copy()
-    # Also initialize checkbox widget states
-    for c in centuries_in_db:
+
+# ALWAYS ensure checkbox widget states exist and default to True if missing
+# This must happen before checkboxes render to ensure proper initial state
+for c in centuries_in_db:
+    if f"century_{c}" not in st.session_state:
         st.session_state[f"century_{c}"] = True
-else:
-    # Sync selected_centuries from checkbox widget states BEFORE cascade logic runs
-    # This ensures century changes made via checkboxes are immediately reflected
-    # Default to True (selected) if checkbox state doesn't exist yet
-    st.session_state.selected_centuries = [
-        c for c in centuries_in_db
-        if st.session_state.get(f"century_{c}", True)
-    ]
+
+# Sync selected_centuries from checkbox widget states BEFORE cascade logic runs
+# This ensures century changes made via checkboxes are immediately reflected
+st.session_state.selected_centuries = [
+    c for c in centuries_in_db
+    if st.session_state.get(f"century_{c}", True)
+]
 
 # Initialize filter visibility toggles
 if 'show_date_filter' not in st.session_state:

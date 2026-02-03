@@ -937,65 +937,63 @@ def retrieve(state: State):
                     all_docs.extend(filtered_docs)
                     st.write(f"  → Retrieved {len(filtered_docs)} segments from '{title}' (post-filtered)")
     
-    # Strategy 3: General semantic retrieval - ONLY if no specific authors/titles were mentioned
-    # This avoids duplicating results when targeted retrieval (Strategies 1/2) already ran
-    if not mentioned_authors and not mentioned_titles:
-        for db_name, vector_store in vector_stores.items():
-            search_kwargs = {"k": k}
+    # Strategy 3: General semantic retrieval - ALWAYS runs to include broader results
+    # When authors/titles are mentioned, this adds additional context beyond the targeted retrieval
+    # Deduplication later will remove any overlapping results
+    for db_name, vector_store in vector_stores.items():
+        search_kwargs = {"k": k}
 
-            # Build filter conditions for date, author, and title
-            filter_conditions = []
-            filter_description = []
+        # Build filter conditions for date, author, and title
+        filter_conditions = []
+        filter_description = []
 
-            # Apply date filter if not using full range
-            if has_date_filter:
-                filter_conditions.append({"date_start": {"$lte": query_date_max}})
-                filter_conditions.append({"date_end": {"$gte": query_date_min}})
-                filter_description.append(f"{query_date_min}-{query_date_max}")
+        # Apply date filter if not using full range
+        if has_date_filter:
+            filter_conditions.append({"date_start": {"$lte": query_date_max}})
+            filter_conditions.append({"date_end": {"$gte": query_date_min}})
+            filter_description.append(f"{query_date_min}-{query_date_max}")
 
-            # Apply author filter if not all authors are selected
-            if selected_authors_list and len(selected_authors_list) < len(available_authors):
-                filter_conditions.append({"author": {"$in": selected_authors_list}})
-                filter_description.append(f"{len(selected_authors_list)} authors")
+        # Apply author filter if not all authors are selected
+        if selected_authors_list and len(selected_authors_list) < len(available_authors):
+            filter_conditions.append({"author": {"$in": selected_authors_list}})
+            filter_description.append(f"{len(selected_authors_list)} authors")
 
-            # Apply title filter if not all titles are selected
-            if selected_titles_list and len(selected_titles_list) < len(available_titles_for_detection):
-                filter_conditions.append({"title": {"$in": selected_titles_list}})
-                filter_description.append(f"{len(selected_titles_list)} titles")
+        # Apply title filter if not all titles are selected
+        if selected_titles_list and len(selected_titles_list) < len(available_titles_for_detection):
+            filter_conditions.append({"title": {"$in": selected_titles_list}})
+            filter_description.append(f"{len(selected_titles_list)} titles")
 
-            # Combine filters with $and if multiple conditions
-            if len(filter_conditions) > 1:
-                search_kwargs["filter"] = {"$and": filter_conditions}
-            elif len(filter_conditions) == 1:
-                search_kwargs["filter"] = filter_conditions[0]
+        # Combine filters with $and if multiple conditions
+        if len(filter_conditions) > 1:
+            search_kwargs["filter"] = {"$and": filter_conditions}
+        elif len(filter_conditions) == 1:
+            search_kwargs["filter"] = filter_conditions[0]
 
-            # DEBUG: Show Chroma filter being applied (only in local mode)
-            if is_local():
-                st.write(f"  🔍 DEBUG {db_name}: filter_conditions count = {len(filter_conditions)}")
-                if "filter" in search_kwargs:
-                    st.write(f"     Chroma filter: {search_kwargs['filter']}")
+        # DEBUG: Show Chroma filter being applied (only in local mode)
+        if is_local():
+            st.write(f"  🔍 DEBUG {db_name}: filter_conditions count = {len(filter_conditions)}")
+            if "filter" in search_kwargs:
+                st.write(f"     Chroma filter: {search_kwargs['filter']}")
 
-            try:
-                retriever = vector_store.as_retriever(search_kwargs=search_kwargs)
-                docs = retriever.invoke(question)
-                all_docs.extend(docs)
-                filter_desc = " + ".join(filter_description) if filter_description else "all sources"
-                st.write(f"  → Retrieved {len(docs)} segments from {db_name} (filtered by {filter_desc})")
-            except Exception as e:
-                # Fallback: retrieve without filter and post-filter
-                st.write(f"  ⚠️ Filter failed for {db_name}, using post-filtering: {str(e)}")
-                retriever = vector_store.as_retriever(search_kwargs={"k": k * 2})
-                docs = retriever.invoke(question)
-                # Post-filter by date, author, and title
-                filtered_docs = [
-                    d for d in docs
-                    if (not selected_authors_list or d.metadata.get('author') in selected_authors_list)
-                    and (not selected_titles_list or d.metadata.get('title') in selected_titles_list)
-                ]
-                all_docs.extend(filtered_docs)
-    else:
-        st.write("  ℹ️ Skipping general retrieval (using targeted author/title retrieval instead)")
-    
+        try:
+            retriever = vector_store.as_retriever(search_kwargs=search_kwargs)
+            docs = retriever.invoke(question)
+            all_docs.extend(docs)
+            filter_desc = " + ".join(filter_description) if filter_description else "all sources"
+            st.write(f"  → Retrieved {len(docs)} segments from {db_name} (filtered by {filter_desc})")
+        except Exception as e:
+            # Fallback: retrieve without filter and post-filter
+            st.write(f"  ⚠️ Filter failed for {db_name}, using post-filtering: {str(e)}")
+            retriever = vector_store.as_retriever(search_kwargs={"k": k * 2})
+            docs = retriever.invoke(question)
+            # Post-filter by date, author, and title
+            filtered_docs = [
+                d for d in docs
+                if (not selected_authors_list or d.metadata.get('author') in selected_authors_list)
+                and (not selected_titles_list or d.metadata.get('title') in selected_titles_list)
+            ]
+            all_docs.extend(filtered_docs)
+
     st.write(f"Total segments before deduplication: {len(all_docs)}")
     
     # Deduplicate based on page_content hash

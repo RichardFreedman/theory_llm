@@ -449,18 +449,21 @@ while century_start <= db_max_date:
 if 'selected_centuries' not in st.session_state:
     st.session_state.selected_centuries = centuries_in_db.copy()
 
-# ALWAYS ensure checkbox widget states exist and default to True if missing
-# This must happen before checkboxes render to ensure proper initial state
-for c in centuries_in_db:
-    if f"century_{c}" not in st.session_state:
-        st.session_state[f"century_{c}"] = True
-
 # Sync selected_centuries from checkbox widget states BEFORE cascade logic runs
-# This ensures century changes made via checkboxes are immediately reflected
-st.session_state.selected_centuries = [
-    c for c in centuries_in_db
-    if st.session_state.get(f"century_{c}", True)
-]
+# Only sync if checkbox keys exist (i.e., date filter panel has been shown at least once)
+# Use selected_centuries as source of truth until checkboxes have rendered
+checkbox_keys_exist = any(f"century_{c}" in st.session_state for c in centuries_in_db)
+if checkbox_keys_exist:
+    old_selected = st.session_state.selected_centuries.copy() if 'selected_centuries' in st.session_state else []
+    st.session_state.selected_centuries = [
+        c for c in centuries_in_db
+        if st.session_state.get(f"century_{c}", True)
+    ]
+    # Debug: show if sync changed anything (only affects local mode display later)
+    if set(old_selected) != set(st.session_state.selected_centuries):
+        st.session_state._centuries_changed = True
+    else:
+        st.session_state._centuries_changed = False
 
 # Initialize filter visibility toggles
 if 'show_date_filter' not in st.session_state:
@@ -499,6 +502,14 @@ if 'previous_available_authors' not in st.session_state:
 
 authors_options_changed = set(available_authors) != set(st.session_state.previous_available_authors)
 st.session_state.previous_available_authors = available_authors.copy()
+
+# DEBUG: Show cascade state (only in local mode, shown in sidebar)
+if is_local():
+    with st.sidebar:
+        st.write(f"🔍 DEBUG Cascade:")
+        st.write(f"  centuries_changed: {st.session_state.get('_centuries_changed', 'N/A')}")
+        st.write(f"  filter_centuries: {len(filter_centuries)}")
+        st.write(f"  authors_options_changed: {authors_options_changed}")
 
 # Reset selected authors if database selection changed
 if current_db_selection != st.session_state.previous_db_selection:
@@ -608,25 +619,27 @@ if st.session_state.show_date_filter:
                 st.session_state[f"century_{c}"] = False
             st.rerun()
 
+    # DEBUG: Show checkbox state initialization (only in local mode)
+    if is_local():
+        checkbox_states = {c: st.session_state.get(f"century_{c}", "MISSING") for c in centuries_in_db}
+        st.write(f"🔍 DEBUG checkbox states before render: {checkbox_states}")
+
     # Display checkboxes in columns for better layout
     num_cols = 4
     cols = st.columns(num_cols)
     for i, century_start in enumerate(centuries_in_db):
         with cols[i % num_cols]:
             label = get_century_label(century_start)
-            # Initialize widget state if not set
+            # Initialize checkbox key to True (checked) if it doesn't exist yet
             if f"century_{century_start}" not in st.session_state:
-                st.session_state[f"century_{century_start}"] = century_start in st.session_state.selected_centuries
+                st.session_state[f"century_{century_start}"] = True
 
-            is_checked = st.checkbox(
+            st.checkbox(
                 label,
                 key=f"century_{century_start}"
             )
-            # Sync session state with widget
-            if is_checked and century_start not in st.session_state.selected_centuries:
-                st.session_state.selected_centuries.append(century_start)
-            elif not is_checked and century_start in st.session_state.selected_centuries:
-                st.session_state.selected_centuries.remove(century_start)
+            # Note: Don't sync here - the early sync at top of script handles it
+            # Checkbox changes trigger automatic rerun, early sync reads new values
 
 # Author Filter (main panel)
 if st.session_state.show_author_filter:

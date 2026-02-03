@@ -834,11 +834,12 @@ def retrieve(state: State):
     mentioned_authors = detect_mentioned_authors(question, available_authors)
     mentioned_titles = detect_mentioned_titles(question, available_titles_for_detection)
 
-    # DEBUG: Show actual filter values
-    st.write(f"🔍 **DEBUG - Filter values:**")
-    st.write(f"  - selected_centuries: {len(selected_centuries)} items, centuries_in_db: {len(centuries_in_db)} items")
-    st.write(f"  - selected_authors: {len(selected_authors_list)} items, available_authors: {len(available_authors)} items")
-    st.write(f"  - selected_titles: {len(selected_titles_list)} items, available_titles_for_detection: {len(available_titles_for_detection)} items")
+    # DEBUG: Show actual filter values (only in local mode)
+    if is_local():
+        st.write(f"🔍 **DEBUG - Filter values:**")
+        st.write(f"  - selected_centuries: {len(selected_centuries)} items, centuries_in_db: {len(centuries_in_db)} items")
+        st.write(f"  - selected_authors: {len(selected_authors_list)} items, available_authors: {len(available_authors)} items")
+        st.write(f"  - selected_titles: {len(selected_titles_list)} items, available_titles_for_detection: {len(available_titles_for_detection)} items")
 
     # Display filter info
     filter_info = []
@@ -968,10 +969,11 @@ def retrieve(state: State):
             elif len(filter_conditions) == 1:
                 search_kwargs["filter"] = filter_conditions[0]
 
-            # DEBUG: Show Chroma filter being applied
-            st.write(f"  🔍 DEBUG {db_name}: filter_conditions count = {len(filter_conditions)}")
-            if "filter" in search_kwargs:
-                st.write(f"     Chroma filter: {search_kwargs['filter']}")
+            # DEBUG: Show Chroma filter being applied (only in local mode)
+            if is_local():
+                st.write(f"  🔍 DEBUG {db_name}: filter_conditions count = {len(filter_conditions)}")
+                if "filter" in search_kwargs:
+                    st.write(f"     Chroma filter: {search_kwargs['filter']}")
 
             try:
                 retriever = vector_store.as_retriever(search_kwargs=search_kwargs)

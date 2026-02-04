@@ -937,19 +937,18 @@ def detect_mentioned_authors(question, available_authors):
     """
     Detect if any author names are mentioned in the question.
     Returns list of detected author names.
+    Searches for full author names (not just surnames) to handle names like "Anonymous 4".
     """
     mentioned = []
     question_lower = question.lower()
-    
+
     for author in available_authors:
-        # Check for author's last name (assuming format "Firstname Lastname")
-        author_parts = author.split()
-        if author_parts:
-            last_name = author_parts[-1].lower()
-            # Use word boundary to avoid partial matches
-            if re.search(r'\b' + re.escape(last_name) + r'\b', question_lower):
-                mentioned.append(author)
-    
+        # Check for full author name (case-insensitive)
+        author_lower = author.lower()
+        # Use word boundary to avoid partial matches
+        if re.search(r'\b' + re.escape(author_lower) + r'\b', question_lower):
+            mentioned.append(author)
+
     return mentioned
 
 

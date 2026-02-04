@@ -316,7 +316,60 @@ def doc_in_selected_centuries(doc_start, doc_end, selected_centuries):
             return True
     return False
 
-# Cache all metadata at startup to avoid repeated database queries
+# Mapping from database names to CSV metadata files
+CSV_METADATA_FILES = {
+    "English": "english_html_metadata.csv",
+    "Italian": "italian_tmi_metadata.csv",
+    "Latin": "latin_tei_metadata.csv"
+}
+
+# Helper to safely get string value from pandas row (handles NaN)
+def _safe_str(value, default=''):
+    """Convert pandas value to string, handling NaN values."""
+    if pd.isna(value):
+        return default
+    return str(value) if value is not None else default
+
+# Load metadata from CSV files instead of querying ChromaDB (much faster)
+@st.cache_data(show_spinner="Loading metadata from CSV...")
+def load_metadata_from_csv(db_names_tuple):
+    """Load and cache metadata from CSV files. Much faster than querying ChromaDB."""
+    all_metadata = []
+    script_dir = Path(__file__).parent
+
+    for db_name in db_names_tuple:
+        csv_file = CSV_METADATA_FILES.get(db_name)
+        if not csv_file:
+            continue
+
+        csv_path = script_dir / csv_file
+        if not csv_path.exists():
+            # Fallback: try current working directory
+            csv_path = Path(csv_file)
+
+        if csv_path.exists():
+            try:
+                df = pd.read_csv(csv_path)
+                for _, row in df.iterrows():
+                    # Handle NaN values from pandas by converting to empty strings
+                    all_metadata.append({
+                        'db_name': db_name,
+                        'filename': _safe_str(row.get('filename')),
+                        'author': _safe_str(row.get('author')),
+                        'title': _safe_str(row.get('title')),
+                        'date': _safe_str(row.get('date')),
+                        'date_start': row.get('date_start') if not pd.isna(row.get('date_start')) else None,
+                        'date_end': row.get('date_end') if not pd.isna(row.get('date_end')) else None,
+                        'citation': _safe_str(row.get('citation'))
+                    })
+            except Exception as e:
+                st.warning(f"Could not load CSV for {db_name}: {e}")
+        else:
+            st.warning(f"CSV metadata file not found for {db_name}: {csv_file}")
+
+    return all_metadata
+
+# Legacy function - kept for reference but no longer used
 @st.cache_data(show_spinner="Loading metadata...")
 def load_all_metadata(_vector_stores_dict, db_names_tuple):
     """Load and cache all metadata from vector stores. Only runs once per database selection."""
@@ -336,7 +389,35 @@ def load_all_metadata(_vector_stores_dict, db_names_tuple):
                     })
     return all_metadata
 
-# Function to get date range from ALL selected databases
+# Function to get date range from CSV metadata (faster than querying ChromaDB)
+def get_date_range_from_csv(cached_metadata):
+    """Retrieve min and max dates from cached CSV metadata"""
+    min_date = float('inf')
+    max_date = float('-inf')
+    for metadata in cached_metadata:
+        date_start = metadata.get('date_start')
+        date_end = metadata.get('date_end')
+        if date_start is not None:
+            try:
+                min_date = min(min_date, int(date_start))
+            except (ValueError, TypeError):
+                pass
+        if date_end is not None:
+            try:
+                max_date = max(max_date, int(date_end))
+            except (ValueError, TypeError):
+                pass
+    # Fallback if no dates found
+    if min_date == float('inf'):
+        min_date = 500
+    if max_date == float('-inf'):
+        max_date = 1700
+    # Round min down and max up to nearest century
+    min_date = (int(min_date) // 100) * 100
+    max_date = ((int(max_date) // 100) + 1) * 100
+    return min_date, max_date
+
+# Legacy function - kept for reference but no longer used
 def get_date_range(vector_stores_dict):
     """Retrieve min and max dates from selected Chroma databases"""
     min_date = float('inf')
@@ -373,19 +454,23 @@ def get_unique_authors_from_cache(cached_metadata, selected_centuries=None):
     """Retrieve unique authors from cached metadata, optionally filtered by selected centuries"""
     authors = set()
     for metadata in cached_metadata:
-        if metadata.get('author'):
-            # If selected_centuries is specified, check if document falls within any selected century
-            if selected_centuries is not None and len(selected_centuries) > 0:
-                date_start = metadata.get('date_start')
-                date_end = metadata.get('date_end')
-                try:
-                    doc_start = int(date_start) if date_start else 0
-                    doc_end = int(date_end) if date_end else 9999
-                except (ValueError, TypeError):
-                    doc_start, doc_end = 0, 9999
-                if not doc_in_selected_centuries(doc_start, doc_end, selected_centuries):
-                    continue
-            authors.add(metadata['author'])
+        author = metadata.get('author')
+        # Skip if author is empty, None, or NaN (pandas NaN is a float)
+        if not author or not isinstance(author, str):
+            continue
+
+        # If selected_centuries is specified, check if document falls within any selected century
+        if selected_centuries is not None and len(selected_centuries) > 0:
+            date_start = metadata.get('date_start')
+            date_end = metadata.get('date_end')
+            try:
+                doc_start = int(date_start) if date_start else 0
+                doc_end = int(date_end) if date_end else 9999
+            except (ValueError, TypeError):
+                doc_start, doc_end = 0, 9999
+            if not doc_in_selected_centuries(doc_start, doc_end, selected_centuries):
+                continue
+        authors.add(author)
     return sorted(list(authors))
 
 # Function to get unique titles from cached metadata, filtered by authors and selected centuries
@@ -397,33 +482,95 @@ def get_unique_titles_from_cache(cached_metadata, selected_authors=None, selecte
 
     titles = set()
     for metadata in cached_metadata:
-        if metadata.get('title'):
-            # Filter by author if specified (None means no filter, empty list handled above)
-            if selected_authors is not None and metadata.get('author') not in selected_authors:
+        title = metadata.get('title')
+        # Skip if title is empty, None, or NaN (pandas NaN is a float)
+        if not title or not isinstance(title, str):
+            continue
+
+        # Filter by author if specified (None means no filter, empty list handled above)
+        if selected_authors is not None and metadata.get('author') not in selected_authors:
+            continue
+
+        # Filter by selected centuries if specified
+        if selected_centuries is not None and len(selected_centuries) > 0:
+            date_start = metadata.get('date_start')
+            date_end = metadata.get('date_end')
+            try:
+                doc_start = int(date_start) if date_start else 0
+                doc_end = int(date_end) if date_end else 9999
+            except (ValueError, TypeError):
+                doc_start, doc_end = 0, 9999
+            if not doc_in_selected_centuries(doc_start, doc_end, selected_centuries):
                 continue
 
-            # Filter by selected centuries if specified
-            if selected_centuries is not None and len(selected_centuries) > 0:
-                date_start = metadata.get('date_start')
-                date_end = metadata.get('date_end')
-                try:
-                    doc_start = int(date_start) if date_start else 0
-                    doc_end = int(date_end) if date_end else 9999
-                except (ValueError, TypeError):
-                    doc_start, doc_end = 0, 9999
-                if not doc_in_selected_centuries(doc_start, doc_end, selected_centuries):
-                    continue
-
-            titles.add(metadata['title'])
+        titles.add(title)
 
     return sorted(list(titles))
 
-# Get date range from databases
-db_min_date, db_max_date = get_date_range(vector_stores)
+# Function to get filenames from cached metadata, filtered by all current filters
+def get_filenames_from_cache(cached_metadata, db_name=None, selected_authors=None,
+                              selected_titles=None, selected_centuries=None):
+    """
+    Get filenames that match the current filter criteria.
+    This is used to filter ChromaDB retrieval by filename.
 
-# Cache all metadata once (tuple of db names used as cache key)
+    Args:
+        cached_metadata: List of metadata dicts from CSV
+        db_name: Optional database name to filter by
+        selected_authors: List of selected authors (None = all)
+        selected_titles: List of selected titles (None = all)
+        selected_centuries: List of selected centuries (None = all)
+
+    Returns:
+        List of filenames that match all filter criteria
+    """
+    filenames = []
+
+    for metadata in cached_metadata:
+        filename = metadata.get('filename', '')
+        if not filename:
+            continue
+
+        # Filter by database if specified
+        if db_name is not None and metadata.get('db_name') != db_name:
+            continue
+
+        # Filter by author if specified (empty list = no matches)
+        if selected_authors is not None:
+            if len(selected_authors) == 0:
+                continue
+            if metadata.get('author') not in selected_authors:
+                continue
+
+        # Filter by title if specified (empty list = no matches)
+        if selected_titles is not None:
+            if len(selected_titles) == 0:
+                continue
+            if metadata.get('title') not in selected_titles:
+                continue
+
+        # Filter by centuries if specified
+        if selected_centuries is not None and len(selected_centuries) > 0:
+            date_start = metadata.get('date_start')
+            date_end = metadata.get('date_end')
+            try:
+                doc_start = int(date_start) if date_start else 0
+                doc_end = int(date_end) if date_end else 9999
+            except (ValueError, TypeError):
+                doc_start, doc_end = 0, 9999
+            if not doc_in_selected_centuries(doc_start, doc_end, selected_centuries):
+                continue
+
+        filenames.append(filename)
+
+    return filenames
+
+# Cache all metadata from CSV files (tuple of db names used as cache key)
 db_names_tuple = tuple(sorted(vector_stores.keys()))
-cached_metadata = load_all_metadata(vector_stores, db_names_tuple)
+cached_metadata = load_metadata_from_csv(db_names_tuple)
+
+# Get date range from cached CSV metadata (faster than querying ChromaDB)
+db_min_date, db_max_date = get_date_range_from_csv(cached_metadata)
 
 # Generate century options based on database date range
 def get_century_label(start_year):
@@ -438,12 +585,27 @@ def get_century_label(start_year):
         suffix = 'rd'
     return f"{century_num}{suffix} century ({start_year}-{start_year + 99})"
 
-# Build list of centuries covered by the databases
-centuries_in_db = []
-century_start = (db_min_date // 100) * 100
-while century_start <= db_max_date:
-    centuries_in_db.append(century_start)
-    century_start += 100
+# Build list of centuries that actually have documents in the databases
+# (not just the range, but actual centuries with data)
+centuries_with_docs = set()
+for metadata in cached_metadata:
+    date_start = metadata.get('date_start')
+    date_end = metadata.get('date_end')
+    if date_start is not None and date_end is not None:
+        try:
+            doc_start = int(date_start)
+            doc_end = int(date_end)
+            # Add all centuries this document spans
+            century = (doc_start // 100) * 100
+            while century <= doc_end:
+                centuries_with_docs.add(century)
+                century += 100
+        except (ValueError, TypeError):
+            pass
+
+centuries_in_db = sorted(list(centuries_with_docs)) if centuries_with_docs else [
+    c for c in range((db_min_date // 100) * 100, db_max_date + 100, 100)
+]
 
 # Initialize selected centuries in session state (all selected by default)
 if 'selected_centuries' not in st.session_state:
@@ -953,43 +1115,97 @@ def retrieve(state: State):
                     all_docs.extend(filtered_docs)
                     st.write(f"  → Retrieved {len(filtered_docs)} segments from '{title}' (post-filtered)")
     
+    # Strategy 2.5: Balanced author retrieval when a small number of authors are explicitly selected
+    # This ensures we get documents from EACH selected author, not just the most semantically relevant
+    # Only applies when authors are filtered via sidebar (not query detection) and count is small
+    filter_authors = selected_authors_list if len(selected_authors_list) < len(available_authors) else None
+    filter_titles = selected_titles_list if selected_titles_list and len(selected_titles_list) < len(available_titles_for_detection) else None
+    filter_centuries = selected_centuries if has_date_filter else None
+
+    # Use balanced retrieval if 2-10 authors are explicitly selected via sidebar
+    use_balanced_author_retrieval = (
+        filter_authors is not None and
+        2 <= len(filter_authors) <= 10 and
+        not mentioned_authors  # Don't double-retrieve if query already mentioned authors
+    )
+
+    if use_balanced_author_retrieval:
+        # Calculate documents per author (at least 2 per author, up to k total per db)
+        docs_per_author = max(2, k // len(filter_authors))
+        st.write(f"  📊 Balanced retrieval: ~{docs_per_author} segments per author for {len(filter_authors)} selected authors")
+
+        for db_name, vector_store in vector_stores.items():
+            for author in filter_authors:
+                # Get filenames for this specific author
+                author_filenames = get_filenames_from_cache(
+                    cached_metadata,
+                    db_name=db_name,
+                    selected_authors=[author],
+                    selected_titles=filter_titles,
+                    selected_centuries=filter_centuries
+                )
+
+                if not author_filenames:
+                    continue
+
+                try:
+                    retriever = vector_store.as_retriever(
+                        search_kwargs={
+                            "k": docs_per_author,
+                            "filter": {"filename": {"$in": author_filenames}}
+                        }
+                    )
+                    docs = retriever.invoke(question)
+                    all_docs.extend(docs)
+                    if is_local():
+                        st.write(f"    → {author}: {len(docs)} segments from {db_name}")
+                except Exception as e:
+                    # Fallback: retrieve and filter
+                    retriever = vector_store.as_retriever(search_kwargs={"k": docs_per_author * 2})
+                    docs = retriever.invoke(question)
+                    author_filenames_set = set(author_filenames)
+                    filtered_docs = [d for d in docs if d.metadata.get('filename') in author_filenames_set]
+                    all_docs.extend(filtered_docs[:docs_per_author])
+
     # Strategy 3: General semantic retrieval - ALWAYS runs to include broader results
     # When authors/titles are mentioned, this adds additional context beyond the targeted retrieval
     # Deduplication later will remove any overlapping results
+    #
+    # NEW APPROACH: Use filename filter from CSV metadata instead of individual field filters
+    # This is faster and more reliable since filtering is done via CSV before hitting ChromaDB
     for db_name, vector_store in vector_stores.items():
-        search_kwargs = {"k": k}
-
-        # Build filter conditions for date, author, and title
-        filter_conditions = []
+        # Reduce k if we already did balanced retrieval
+        effective_k = k // 2 if use_balanced_author_retrieval else k
+        search_kwargs = {"k": effective_k}
         filter_description = []
 
-        # Apply date filter if not using full range
-        if has_date_filter:
-            filter_conditions.append({"date_start": {"$lte": query_date_max}})
-            filter_conditions.append({"date_end": {"$gte": query_date_min}})
-            filter_description.append(f"{query_date_min}-{query_date_max}")
+        valid_filenames = get_filenames_from_cache(
+            cached_metadata,
+            db_name=db_name,
+            selected_authors=filter_authors,
+            selected_titles=filter_titles,
+            selected_centuries=filter_centuries
+        )
 
-        # Apply author filter if not all authors are selected
-        if selected_authors_list and len(selected_authors_list) < len(available_authors):
-            filter_conditions.append({"author": {"$in": selected_authors_list}})
-            filter_description.append(f"{len(selected_authors_list)} authors")
+        # Build description of applied filters
+        if filter_centuries:
+            filter_description.append(f"{len(filter_centuries)} centuries")
+        if filter_authors:
+            filter_description.append(f"{len(filter_authors)} authors")
+        if filter_titles:
+            filter_description.append(f"{len(filter_titles)} titles")
 
-        # Apply title filter if not all titles are selected
-        if selected_titles_list and len(selected_titles_list) < len(available_titles_for_detection):
-            filter_conditions.append({"title": {"$in": selected_titles_list}})
-            filter_description.append(f"{len(selected_titles_list)} titles")
-
-        # Combine filters with $and if multiple conditions
-        if len(filter_conditions) > 1:
-            search_kwargs["filter"] = {"$and": filter_conditions}
-        elif len(filter_conditions) == 1:
-            search_kwargs["filter"] = filter_conditions[0]
+        # Apply filename filter if we have constraints
+        if valid_filenames and (filter_authors or filter_titles or filter_centuries):
+            # Only apply filter if we actually have constraints
+            search_kwargs["filter"] = {"filename": {"$in": valid_filenames}}
+            filter_description.append(f"{len(valid_filenames)} sources")
 
         # DEBUG: Show Chroma filter being applied (only in local mode)
         if is_local():
-            st.write(f"  🔍 DEBUG {db_name}: filter_conditions count = {len(filter_conditions)}")
+            st.write(f"  🔍 DEBUG {db_name}: valid_filenames count = {len(valid_filenames) if valid_filenames else 'all'}")
             if "filter" in search_kwargs:
-                st.write(f"     Chroma filter: {search_kwargs['filter']}")
+                st.write(f"     Chroma filter: filename $in [{len(valid_filenames)} files]")
 
         try:
             retriever = vector_store.as_retriever(search_kwargs=search_kwargs)
@@ -998,16 +1214,16 @@ def retrieve(state: State):
             filter_desc = " + ".join(filter_description) if filter_description else "all sources"
             st.write(f"  → Retrieved {len(docs)} segments from {db_name} (filtered by {filter_desc})")
         except Exception as e:
-            # Fallback: retrieve without filter and post-filter
+            # Fallback: retrieve without filter and post-filter by filename
             st.write(f"  ⚠️ Filter failed for {db_name}, using post-filtering: {str(e)}")
-            retriever = vector_store.as_retriever(search_kwargs={"k": k * 2})
+            retriever = vector_store.as_retriever(search_kwargs={"k": effective_k * 2})
             docs = retriever.invoke(question)
-            # Post-filter by date, author, and title
-            filtered_docs = [
-                d for d in docs
-                if (not selected_authors_list or d.metadata.get('author') in selected_authors_list)
-                and (not selected_titles_list or d.metadata.get('title') in selected_titles_list)
-            ]
+            # Post-filter by filename from CSV
+            if valid_filenames and (filter_authors or filter_titles or filter_centuries):
+                valid_filenames_set = set(valid_filenames)
+                filtered_docs = [d for d in docs if d.metadata.get('filename') in valid_filenames_set]
+            else:
+                filtered_docs = docs
             all_docs.extend(filtered_docs)
 
     st.write(f"Total segments before deduplication: {len(all_docs)}")
@@ -1027,39 +1243,39 @@ def retrieve(state: State):
     
     st.write(f"Retrieved {len(unique_docs)} unique segments from {len(vector_stores)} database(s)")
 
-    # Filter by selected centuries (precise filtering for non-contiguous selections)
-    def doc_matches_centuries(doc, centuries):
-        if not centuries:
-            return False
-        try:
-            doc_start = int(doc.metadata.get('date_start', 0))
-            doc_end = int(doc.metadata.get('date_end', 9999))
-        except (ValueError, TypeError):
-            return True
-        return doc_in_selected_centuries(doc_start, doc_end, centuries)
+    # Post-filter using filename validation from CSV metadata
+    # This ensures all results match the current filter criteria
+    filter_authors = selected_authors_list if len(selected_authors_list) < len(available_authors) else None
+    filter_titles = selected_titles_list if selected_titles_list and len(selected_titles_list) < len(available_titles_for_detection) else None
+    filter_centuries = selected_centuries if has_date_filter else None
 
-    if has_date_filter:
-        RAG_retrieved_docs = [doc for doc in unique_docs if doc_matches_centuries(doc, selected_centuries)]
+    # Only apply post-filtering if there are actual constraints
+    if filter_authors or filter_titles or filter_centuries:
+        # Get all valid filenames across all databases
+        all_valid_filenames = set(get_filenames_from_cache(
+            cached_metadata,
+            db_name=None,  # All databases
+            selected_authors=filter_authors,
+            selected_titles=filter_titles,
+            selected_centuries=filter_centuries
+        ))
+
+        RAG_retrieved_docs = [
+            doc for doc in unique_docs
+            if doc.metadata.get('filename') in all_valid_filenames
+        ]
+
         if len(RAG_retrieved_docs) < len(unique_docs):
-            st.write(f"After century filtering: {len(RAG_retrieved_docs)} segments")
+            filter_desc = []
+            if filter_centuries:
+                filter_desc.append(f"{len(filter_centuries)} centuries")
+            if filter_authors:
+                filter_desc.append(f"{len(filter_authors)} authors")
+            if filter_titles:
+                filter_desc.append(f"{len(filter_titles)} titles")
+            st.write(f"After post-filtering ({', '.join(filter_desc)}): {len(RAG_retrieved_docs)} segments")
     else:
         RAG_retrieved_docs = unique_docs
-    
-    # Filter by selected authors
-    if selected_authors_list and len(selected_authors_list) < len(available_authors):
-        RAG_retrieved_docs = [
-            doc for doc in RAG_retrieved_docs
-            if doc.metadata.get('author') in selected_authors_list
-        ]
-        st.write(f"After author filtering: {len(RAG_retrieved_docs)} segments from selected authors")
-
-    # Filter by selected titles
-    if selected_titles_list and len(selected_titles_list) < len(available_titles_for_detection):
-        RAG_retrieved_docs = [
-            doc for doc in RAG_retrieved_docs
-            if doc.metadata.get('title') in selected_titles_list
-        ]
-        st.write(f"After title filtering: {len(RAG_retrieved_docs)} segments from selected titles")
 
     # Apply hard cap: limit to k segments per database (user's expected total)
     max_segments = k * len(vector_stores)

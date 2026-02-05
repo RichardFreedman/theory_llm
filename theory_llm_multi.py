@@ -66,11 +66,24 @@ st.write("This Streamlit application allows you to query a database of music the
 
 st.sidebar.header("📚 About the Project")
 
-# Debug mode indicator
+# Debug mode indicator (local only)
 if is_local():
     st.sidebar.warning("🔧 Running in LOCAL DEBUG mode with test databases")
     base_path = "theory_llm_chroma_files" if is_local() else "../chroma_files"
     st.sidebar.info(f"Chroma databases: {base_path}/")
+
+# Model selector (all environments)
+model_options = {
+    "GPT-4o-mini (faster, cheaper)": "gpt-4o-mini",
+    "GPT-4o (higher quality)": "gpt-4o"
+}
+selected_model_label = st.sidebar.selectbox(
+    "🤖 LLM Model",
+    options=list(model_options.keys()),
+    index=0,
+    key="model_selector"
+)
+st.session_state.selected_model = model_options[selected_model_label]
 
 intro  = st.sidebar.checkbox("How to Use this Application", value=False, key="intro")
 
@@ -882,8 +895,8 @@ if st.session_state.selected_centuries:
 else:
     selected_date_range = (db_min_date, db_max_date)
 
-# Initialize LLM
-llm = ChatOpenAI(model="gpt-4o-mini", temperature=0)
+# Initialize LLM (model selected via sidebar in local mode)
+llm = ChatOpenAI(model=st.session_state.selected_model, temperature=0)
 
 # Prompt templates
 system_prompt_base = """You are an expert in historical music theory and musicology.
@@ -896,11 +909,16 @@ IMPORTANT: Each text passage is labeled with a Source number (e.g., "Source 1", 
 When citing passages, always reference them by their Source number (e.g., "Source 1", "Source 5") so readers can
 find the exact passage. Also mention the author's name when making claims about their ideas.
 
+CRITICAL REQUIREMENT: You MUST discuss EVERY source listed below. Do not skip or ignore any sources.
+Structure your response to address what each author and title contributes to the topic, even if only briefly.
+
+{source_manifest}
+
 Include short quotations from the passages to support your statements, with key words from the original text
 and translation when appropriate.
 
-If you don't know the answer based on the provided context, say that you don't know. Do not make up answers.
-Do not mention sources, authors, or titles that are not included in the context.
+If a source does not directly address the question, briefly note what topic it does cover and why it may be
+less relevant. Do not make up answers or mention sources not included in the context.
 
 {chat_history_section}
 Context:
@@ -908,7 +926,7 @@ Context:
 
 Question: {question}
 
-Provide a detailed answer with references to specific Source numbers and authors."""
+Provide a detailed, comprehensive answer that addresses ALL sources listed above, with references to specific Source numbers and authors."""
 
 prompt = ChatPromptTemplate.from_template(system_prompt_base)
 
@@ -1293,6 +1311,15 @@ def generate_with_author_grouping(state: State):
     # First, assign global source numbers to each document (matching UI order)
     docs_with_numbers = list(enumerate(state["context"], 1))
 
+    # Build source manifest - a list of all sources that MUST be addressed
+    manifest_lines = ["The following sources MUST ALL be addressed in your response:"]
+    for source_num, doc in docs_with_numbers:
+        author = doc.metadata.get('author', 'Unknown Author')
+        title = doc.metadata.get('title', 'Unknown Title')
+        date = doc.metadata.get('date', 'Unknown')
+        manifest_lines.append(f"  - Source {source_num}: {author}, \"{title}\" ({date})")
+    source_manifest = "\n".join(manifest_lines)
+
     # Group documents by author while preserving global source numbers
     author_groups = {}
     for source_num, doc in docs_with_numbers:
@@ -1322,7 +1349,8 @@ def generate_with_author_grouping(state: State):
     messages = prompt.invoke({
         "context": formatted_context,
         "question": state["question"],
-        "chat_history_section": chat_history_section
+        "chat_history_section": chat_history_section,
+        "source_manifest": source_manifest
     })
     response = llm.invoke(messages)
 

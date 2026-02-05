@@ -92,9 +92,14 @@ if intro:
 ### Getting Started
 1. **Enter the site password** to access the application
 2. **Select databases** (English, Italian, Latin) in the sidebar
-3. **Set your filters** for date range, authors, and titles
-4. **Enter your question** in the text area below
-5. **Click "🔍 Search"** to retrieve relevant passages and generate a response
+3. **Choose your LLM model** (GPT-4o-mini or GPT-4o) from the dropdown
+4. **Set your filters** for date range, authors, and titles
+5. **Enter your question** in the text area below
+6. **Click "🔍 Search"** to retrieve relevant passages and generate a response
+
+### Choosing an LLM Model
+- **GPT-4o-mini**: Faster and more economical; good for straightforward queries
+- **GPT-4o**: Higher quality reasoning and synthesis; better for complex comparisons across multiple authors
 
 ### Understanding the Results
 - The AI response appears with citations to numbered "Source" passages
@@ -165,8 +170,18 @@ if rags:
     * These **segments are in turn passed to a LLM "embedding" system** (we use 'text-embedding-3-large' from OpenAI), which creates numerical representations of every segment. These representations capture the semantic meaning of the text, allowing for efficient similarity searches.  But they are very large:  each embedding has 3072 dimensions, representing a vast amount of information about the meaning of the text.
     * These representations (along with the original text of the segment and additional metadata about author, title, and date) are  stored in **'vector database'** (in our case: Chroma).
     * When you ask a question, **the system "retrieves" the most relevant text segments from this database**.  It does this with something called 'cosine similarity', a mathematical measure of similarity between vectors. Depending on the number of matching source texts you have requested (in our system this is from 1 to 10), we now have a set of 'contexts' that align with the ideas mentioned in your original query.
-    * Now prepared with the question and relevant segments, **the system now "generates" an answer** based on those segments alone.  The prompt we use instructs the LLM to use only the information in the segments to answer the question, and not to 'hallucinate' information that is not present in the source texts.  The answer is generated with OpenAI's 'gpt-5-mini' model.  We could use a larger model, but this one is faster and less expensive, and seems to do a good job when provided with relevant context.
-    * By combining retrieval with generation, RAG systems can provide more accurate, contextually relevant, and trustworthy answers to user queries.          
+    * Now prepared with the question and relevant segments, **the system now "generates" an answer** based on those segments alone.  The prompt we use instructs the LLM to use only the information in the segments to answer the question, and not to 'hallucinate' information that is not present in the source texts.
+    * By combining retrieval with generation, RAG systems can provide more accurate, contextually relevant, and trustworthy answers to user queries.
+
+    ### About Our LLM Models
+
+    You can select between two OpenAI models for generating responses:
+
+    * **GPT-4o-mini**: A smaller, faster model that is more economical to run. It handles straightforward queries well and provides quick responses. Best for simple factual questions or when speed is important.
+
+    * **GPT-4o**: A larger, more capable model with better reasoning abilities. It excels at synthesizing information across multiple sources, drawing nuanced comparisons between authors, and handling complex analytical questions. Responses may take slightly longer but offer higher quality analysis.
+
+    Both models are instructed to cite all retrieved sources and ground their answers in the provided text passages.
 """)
     
 

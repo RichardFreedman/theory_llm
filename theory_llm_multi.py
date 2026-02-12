@@ -74,6 +74,7 @@ if is_local():
 
 # Model selector (all environments)
 model_options = {
+    "GPT-5-mini (newest, faster)": "gpt-5-mini",
     "GPT-4o-mini (faster, cheaper)": "gpt-4o-mini",
     "GPT-4o (higher quality)": "gpt-4o"
 }

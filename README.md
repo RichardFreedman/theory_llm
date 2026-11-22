@@ -115,7 +115,11 @@ Refer to the in-app **Help & Prompting Guide** (sidebar) for tips on writing eff
 
 ## License
 
+<<<<<<< HEAD
 Copyright 2026 Richard Freedman, Daniel Russo-Batterham, Charlie Cross, Leo Ni
+=======
+Copyright 2024 Richard Freedman, Daniel Russo-Batterham, Charlie Cross, Leo Ni
+>>>>>>> dev
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.

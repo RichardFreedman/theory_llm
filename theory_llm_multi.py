@@ -13,7 +13,15 @@ from reportlab.lib.enums import TA_JUSTIFY, TA_LEFT
 from io import BytesIO
 import pandas as pd
 import os
+import re
+from pathlib import Path
 from datetime import datetime
+
+
+# Detect environment
+def is_local():
+    """Check if running locally vs on Digital Ocean"""
+    return os.getenv("STREAMLIT_ENV") != "production"
 
 # Page config
 st.set_page_config(page_title="Music Theory LLM RAG System", page_icon="🎵", layout="wide")
@@ -52,21 +60,67 @@ class State(TypedDict):
     question: str
     context: List
     answer: str
+    chat_history_section: str  # Formatted chat history for the prompt
 
 st.write("This Streamlit application allows you to query a database of music theory texts using a large language model (LLM) with retrieval-augmented generation (RAG). Learn more about the system and how to write effective prompts with the tools at the left.") 
 
 st.sidebar.header("📚 About the Project")
 
+# Debug mode indicator (local only)
+if is_local():
+    st.sidebar.warning("🔧 Running in LOCAL DEBUG mode with test databases")
+    base_path = "theory_llm_chroma_files" if is_local() else "../chroma_files"
+    st.sidebar.info(f"Chroma databases: {base_path}/")
+
+# Model selector (all environments)
+model_options = {
+    "GPT 6 Luna (newest, faster)": "gpt-6-luna",
+    "GPT 6.1 Terra (faster, cheaper)": "gpt-6.1-terra",
+    "GPT 6.1 Sol (higher quality)": "gpt-6.1-sol"
+}
+selected_model_label = st.sidebar.selectbox(
+    "🤖 LLM Model",
+    options=list(model_options.keys()),
+    index=0,
+    key="model_selector"
+)
+st.session_state.selected_model = model_options[selected_model_label]
+
 intro  = st.sidebar.checkbox("How to Use this Application", value=False, key="intro")
 
 if intro:
     st.markdown("""
-            * Enter the site password
-            * Enter your question
-            * select the number of text segments to retrieve
-            * filter results by author
-            * after a few minutes (depending on the number of segments and complexity of your question) you will see a response, followed by a list of the original source segments ('chunks'), and their authors and page references
-            * use the button in the sidebar to download the results as a formatted PDF.
+### Getting Started
+1. **Enter the site password** to access the application
+2. **Select databases** (English, Italian, Latin) in the sidebar
+3. **Choose your LLM model** (GPT-4o-mini or GPT-4o) from the dropdown
+4. **Set your filters** for date range, authors, and titles
+5. **Enter your question** in the text area below
+6. **Click "🔍 Search"** to retrieve relevant passages and generate a response
+
+### Choosing an LLM Model
+- **GPT-4o-mini**: Faster and more economical; good for straightforward queries
+- **GPT-4o**: Higher quality reasoning and synthesis; better for complex comparisons across multiple authors
+
+### Understanding the Results
+- The AI response appears with citations to numbered "Source" passages
+- Below the response, you'll find the full text of each source segment with metadata
+- Use the sidebar's "📥 Download PDF Report" button to save your results
+
+### Follow-up Questions (Chat Memory)
+After your first query, new options appear:
+
+- **Chat history count**: Shows how many previous exchanges are saved
+- **Follow-up mode**:
+  - 🔍 **New retrieval**: Runs a fresh search with your current filters (useful for new topics)
+  - 📄 **Reuse previous documents**: Asks a new question about the same sources (useful for deeper analysis)
+- **Include chat history in prompt**: When checked, the AI remembers your previous Q&A exchanges and can reference them
+- **🗑️ Clear Chat**: Resets the conversation to start fresh
+
+### Tips for Follow-up Questions
+- Use "Reuse previous documents" when you want to ask clarifying questions or explore the same sources further
+- Use "New retrieval" when changing topics or wanting fresh sources
+- The AI can reference previous answers when chat history is included (e.g., "Tell me more about what Source 3 said")
             """)
     
 prompts = st.sidebar.checkbox("More about Writing AI Prompts", value=False, key="prompts")
@@ -83,20 +137,27 @@ if prompts:
 
     st.markdown("""
     * **Basic Question**: "What are the key elements of good music according to all the theorists in the database? Organize the results by author."
-    * **Comparative Question**: "How do Thomas Morley and Elway Bevin differ in their views on counterpoint?" [Note for this you might want to filter results to just these two authors.  Use the dialogue in the sidebar at the left to do so.]
-    * **Contextual Question**: "What does Thomas Morley say about the relationship between music and emotion?" [Again you might want to filter results to just this author.]
+    * **Comparative Question**: "How do Thomas Morley and Elway Bevin differ in their views on counterpoint?" [Tip: Filter to just these authors in the sidebar, or simply mention their names—the system will detect and prioritize them.]
+    * **Contextual Question**: "What does Thomas Morley say about the relationship between music and emotion?" [Tip: The system detects "Morley" and prioritizes his works automatically.]
     * **Specific Format**: "Provide a bulleted list of the main points made by John Playford regarding dance music."
+    * **Title-Specific**: "Summarize the main points from 'A Plaine and Easie Introduction to Practicall Musicke'." [Tip: Use the title filter in the sidebar to focus on specific treatises.]
     """)
 
     st.subheader("How Many Text Segments ('Chunks') to Retrieve?")
     st.markdown("""
-    The number of text segments (or 'chunks') you choose to retrieve can significantly impact the quality and relevance of the AI's response. There are some 1300 'segments' in the database.
-    Here are some guidelines:
-    - **Fewer Segments (1-10)**: This is useful for very specific questions where you expect a concise answer. The model will have less information to work with, which can lead to more focused responses but may miss broader context.
-    - **Moderate Number of Segments (10-50)**: This range is often a good balance for general questions. It provides the model with enough context to generate a well-rounded answer without overwhelming it with too much information.
-    - **Many Segments (50-100)**: This is suitable for complex questions that require comprehensive answers. However, be cautious as too much information can sometimes lead to confusion or less coherent responses.
-    - **Consider the Question Type**: Tailor the number of segments based on whether your question is specific or broad.
-    - **Experiment**: Don't hesitate to try different numbers of segments to see how it affects the quality of the responses.
+    The **"Number of segments per database"** slider controls how many text segments are retrieved from each active database. The total maximum is this number multiplied by the number of databases you've selected.
+
+    For example: If you set 5 segments and have all 3 databases active, you'll get up to 15 segments total (5 × 3).
+
+    **Guidelines:**
+    - **Fewer Segments (1-5 per database)**: Best for specific questions about particular authors or topics. Produces more focused responses.
+    - **Moderate (5-15 per database)**: Good balance for comparative questions across multiple authors.
+    - **Many Segments (15-50 per database)**: Useful for broad surveys of a topic, but may produce longer, more complex responses.
+
+    **Smart Filtering:**
+    - The system automatically detects author and title names mentioned in your question
+    - When detected, it prioritizes those sources in retrieval
+    - Use the sidebar filters to further narrow results by date, author, or title
     """)
 
 
@@ -110,8 +171,23 @@ if rags:
     * These **segments are in turn passed to a LLM "embedding" system** (we use 'text-embedding-3-large' from OpenAI), which creates numerical representations of every segment. These representations capture the semantic meaning of the text, allowing for efficient similarity searches.  But they are very large:  each embedding has 3072 dimensions, representing a vast amount of information about the meaning of the text.
     * These representations (along with the original text of the segment and additional metadata about author, title, and date) are  stored in **'vector database'** (in our case: Chroma).
     * When you ask a question, **the system "retrieves" the most relevant text segments from this database**.  It does this with something called 'cosine similarity', a mathematical measure of similarity between vectors. Depending on the number of matching source texts you have requested (in our system this is from 1 to 10), we now have a set of 'contexts' that align with the ideas mentioned in your original query.
+<<<<<<< HEAD
     * Now prepared with the question and relevant segments, **the system now "generates" an answer** based on those segments alone.  The prompt we use instructs the LLM to use only the information in the segments to answer the question, and not to 'hallucinate' information that is not present in the source texts.  The answer is generated with OpenAI's 'gpt-6-luna' model.  We could use a larger model, but this one is faster and less expensive, and seems to do a good job when provided with relevant context.
     * By combining retrieval with generation, RAG systems can provide more accurate, contextually relevant, and trustworthy answers to user queries.          
+=======
+    * Now prepared with the question and relevant segments, **the system now "generates" an answer** based on those segments alone.  The prompt we use instructs the LLM to use only the information in the segments to answer the question, and not to 'hallucinate' information that is not present in the source texts.
+    * By combining retrieval with generation, RAG systems can provide more accurate, contextually relevant, and trustworthy answers to user queries.
+
+    ### About Our LLM Models
+
+    You can select between two OpenAI models for generating responses:
+
+    * **GPT-4o-mini**: A smaller, faster model that is more economical to run. It handles straightforward queries well and provides quick responses. Best for simple factual questions or when speed is important.
+
+    * **GPT-4o**: A larger, more capable model with better reasoning abilities. It excels at synthesizing information across multiple sources, drawing nuanced comparisons between authors, and handling complex analytical questions. Responses may take slightly longer but offer higher quality analysis.
+
+    Both models are instructed to cite all retrieved sources and ground their answers in the provided text passages.
+>>>>>>> dev
 """)
     
 
@@ -159,25 +235,26 @@ if show_sources:
 
 st.sidebar.markdown("---")
 # Database configurations
+base_path = "theory_llm_chroma_files" if is_local() else "../chroma_files"
 db_configs = []
 if use_english:
     db_configs.append({
         "name": "English",
-        "path": "../chroma_files/chroma-db_tme_english",
+        "path": f"{base_path}/chroma-db_tme_english",
         "collection_name": "tme_english",
         "description": "TME "
     })
 if use_italian:
     db_configs.append({
         "name": "Italian",
-        "path": "../chroma_files/chroma-db_italian",
+        "path": f"{base_path}/chroma-db_italian",
         "collection_name": "tmi_italian",
         "description": "Thesaurus Musicarum Italicarum"
     })
 if use_latin:
     db_configs.append({
         "name": "Latin",
-        "path": "../chroma_files/chroma-db_latin",
+        "path": f"{base_path}/chroma-db_latin",
         "collection_name": "tml_latin",
         "description": "Thesaurus Musicarum Latinarum"
     })
@@ -261,7 +338,120 @@ st.sidebar.success(f"✅ Loaded {len(vector_stores)} database(s)")
 
 # st.success(f"✅ Loaded {len(vector_stores)} database(s)")
 
-# Function to get date range from ALL selected databases
+# Helper function to check if a document's date overlaps with selected centuries
+def doc_in_selected_centuries(doc_start, doc_end, selected_centuries):
+    """Check if a document's date range overlaps with any selected century."""
+    if not selected_centuries:
+        return False
+    for century_start in selected_centuries:
+        century_end = century_start + 99
+        # Check if document overlaps with this century
+        if not (doc_end < century_start or doc_start > century_end):
+            return True
+    return False
+
+# Mapping from database names to CSV metadata files
+CSV_METADATA_FILES = {
+    "English": "english_html_metadata.csv",
+    "Italian": "italian_tmi_metadata.csv",
+    "Latin": "latin_tei_metadata.csv"
+}
+
+# Helper to safely get string value from pandas row (handles NaN)
+def _safe_str(value, default=''):
+    """Convert pandas value to string, handling NaN values."""
+    if pd.isna(value):
+        return default
+    return str(value) if value is not None else default
+
+# Load metadata from CSV files instead of querying ChromaDB (much faster)
+@st.cache_data(show_spinner="Loading metadata from CSV...")
+def load_metadata_from_csv(db_names_tuple):
+    """Load and cache metadata from CSV files. Much faster than querying ChromaDB."""
+    all_metadata = []
+    script_dir = Path(__file__).parent
+
+    for db_name in db_names_tuple:
+        csv_file = CSV_METADATA_FILES.get(db_name)
+        if not csv_file:
+            continue
+
+        csv_path = script_dir / csv_file
+        if not csv_path.exists():
+            # Fallback: try current working directory
+            csv_path = Path(csv_file)
+
+        if csv_path.exists():
+            try:
+                df = pd.read_csv(csv_path)
+                for _, row in df.iterrows():
+                    # Handle NaN values from pandas by converting to empty strings
+                    all_metadata.append({
+                        'db_name': db_name,
+                        'filename': _safe_str(row.get('filename')),
+                        'author': _safe_str(row.get('author')),
+                        'title': _safe_str(row.get('title')),
+                        'date': _safe_str(row.get('date')),
+                        'date_start': row.get('date_start') if not pd.isna(row.get('date_start')) else None,
+                        'date_end': row.get('date_end') if not pd.isna(row.get('date_end')) else None,
+                        'citation': _safe_str(row.get('citation'))
+                    })
+            except Exception as e:
+                st.warning(f"Could not load CSV for {db_name}: {e}")
+        else:
+            st.warning(f"CSV metadata file not found for {db_name}: {csv_file}")
+
+    return all_metadata
+
+# Legacy function - kept for reference but no longer used
+@st.cache_data(show_spinner="Loading metadata...")
+def load_all_metadata(_vector_stores_dict, db_names_tuple):
+    """Load and cache all metadata from vector stores. Only runs once per database selection."""
+    all_metadata = []
+    for db_name in db_names_tuple:
+        vector_store = _vector_stores_dict[db_name]
+        docs = vector_store.get()
+        if 'metadatas' in docs:
+            for metadata in docs['metadatas']:
+                if metadata:
+                    all_metadata.append({
+                        'db_name': db_name,
+                        'author': metadata.get('author'),
+                        'title': metadata.get('title'),
+                        'date_start': metadata.get('date_start'),
+                        'date_end': metadata.get('date_end')
+                    })
+    return all_metadata
+
+# Function to get date range from CSV metadata (faster than querying ChromaDB)
+def get_date_range_from_csv(cached_metadata):
+    """Retrieve min and max dates from cached CSV metadata"""
+    min_date = float('inf')
+    max_date = float('-inf')
+    for metadata in cached_metadata:
+        date_start = metadata.get('date_start')
+        date_end = metadata.get('date_end')
+        if date_start is not None:
+            try:
+                min_date = min(min_date, int(date_start))
+            except (ValueError, TypeError):
+                pass
+        if date_end is not None:
+            try:
+                max_date = max(max_date, int(date_end))
+            except (ValueError, TypeError):
+                pass
+    # Fallback if no dates found
+    if min_date == float('inf'):
+        min_date = 500
+    if max_date == float('-inf'):
+        max_date = 1700
+    # Round min down and max up to nearest century
+    min_date = (int(min_date) // 100) * 100
+    max_date = ((int(max_date) // 100) + 1) * 100
+    return min_date, max_date
+
+# Legacy function - kept for reference but no longer used
 def get_date_range(vector_stores_dict):
     """Retrieve min and max dates from selected Chroma databases"""
     min_date = float('inf')
@@ -293,122 +483,449 @@ def get_date_range(vector_stores_dict):
     max_date = ((int(max_date) // 100) + 1) * 100
     return min_date, max_date
 
-# Function to get unique authors from ALL selected databases, filtered by date range
-def get_unique_authors(vector_stores_dict, date_range=None):
-    """Retrieve all unique authors from selected Chroma databases, optionally filtered by date range"""
+# Function to get unique authors from cached metadata, filtered by selected centuries
+def get_unique_authors_from_cache(cached_metadata, selected_centuries=None):
+    """Retrieve unique authors from cached metadata, optionally filtered by selected centuries"""
     authors = set()
-    for db_name, vector_store in vector_stores_dict.items():
-        all_docs = vector_store.get()
-        if 'metadatas' in all_docs:
-            for metadata in all_docs['metadatas']:
-                if metadata and 'author' in metadata:
-                    # If date_range is specified, check if document falls within range
-                    if date_range is not None:
-                        date_start = metadata.get('date_start')
-                        date_end = metadata.get('date_end')
-                        try:
-                            doc_start = int(date_start) if date_start else 0
-                            doc_end = int(date_end) if date_end else 9999
-                        except (ValueError, TypeError):
-                            doc_start, doc_end = 0, 9999
-                        # Check if document's date range overlaps with selected range
-                        if doc_end < date_range[0] or doc_start > date_range[1]:
-                            continue  # Skip this document
-                    authors.add(metadata['author'])
+    for metadata in cached_metadata:
+        author = metadata.get('author')
+        # Skip if author is empty, None, or NaN (pandas NaN is a float)
+        if not author or not isinstance(author, str):
+            continue
+
+        # If selected_centuries is specified, check if document falls within any selected century
+        if selected_centuries is not None and len(selected_centuries) > 0:
+            date_start = metadata.get('date_start')
+            date_end = metadata.get('date_end')
+            try:
+                doc_start = int(date_start) if date_start else 0
+                doc_end = int(date_end) if date_end else 9999
+            except (ValueError, TypeError):
+                doc_start, doc_end = 0, 9999
+            if not doc_in_selected_centuries(doc_start, doc_end, selected_centuries):
+                continue
+        authors.add(author)
     return sorted(list(authors))
 
-# Get date range from databases
-db_min_date, db_max_date = get_date_range(vector_stores)
+# Function to get unique titles from cached metadata, filtered by authors and selected centuries
+def get_unique_titles_from_cache(cached_metadata, selected_authors=None, selected_centuries=None):
+    """Retrieve unique titles from cached metadata, filtered by authors and selected centuries."""
+    # If selected_authors is an empty list (not None), return no titles
+    if selected_authors is not None and len(selected_authors) == 0:
+        return []
 
-# Initialize date range in session state
-if 'selected_date_range' not in st.session_state:
-    st.session_state.selected_date_range = (db_min_date, db_max_date)
+    titles = set()
+    for metadata in cached_metadata:
+        title = metadata.get('title')
+        # Skip if title is empty, None, or NaN (pandas NaN is a float)
+        if not title or not isinstance(title, str):
+            continue
 
-# Continue Sidebar - Date Filter
+        # Filter by author if specified (None means no filter, empty list handled above)
+        if selected_authors is not None and metadata.get('author') not in selected_authors:
+            continue
+
+        # Filter by selected centuries if specified
+        if selected_centuries is not None and len(selected_centuries) > 0:
+            date_start = metadata.get('date_start')
+            date_end = metadata.get('date_end')
+            try:
+                doc_start = int(date_start) if date_start else 0
+                doc_end = int(date_end) if date_end else 9999
+            except (ValueError, TypeError):
+                doc_start, doc_end = 0, 9999
+            if not doc_in_selected_centuries(doc_start, doc_end, selected_centuries):
+                continue
+
+        titles.add(title)
+
+    return sorted(list(titles))
+
+# Function to get filenames from cached metadata, filtered by all current filters
+def get_filenames_from_cache(cached_metadata, db_name=None, selected_authors=None,
+                              selected_titles=None, selected_centuries=None):
+    """
+    Get filenames that match the current filter criteria.
+    This is used to filter ChromaDB retrieval by filename.
+
+    Args:
+        cached_metadata: List of metadata dicts from CSV
+        db_name: Optional database name to filter by
+        selected_authors: List of selected authors (None = all)
+        selected_titles: List of selected titles (None = all)
+        selected_centuries: List of selected centuries (None = all)
+
+    Returns:
+        List of filenames that match all filter criteria
+    """
+    filenames = []
+
+    for metadata in cached_metadata:
+        filename = metadata.get('filename', '')
+        if not filename:
+            continue
+
+        # Filter by database if specified
+        if db_name is not None and metadata.get('db_name') != db_name:
+            continue
+
+        # Filter by author if specified (empty list = no matches)
+        if selected_authors is not None:
+            if len(selected_authors) == 0:
+                continue
+            if metadata.get('author') not in selected_authors:
+                continue
+
+        # Filter by title if specified (empty list = no matches)
+        if selected_titles is not None:
+            if len(selected_titles) == 0:
+                continue
+            if metadata.get('title') not in selected_titles:
+                continue
+
+        # Filter by centuries if specified
+        if selected_centuries is not None and len(selected_centuries) > 0:
+            date_start = metadata.get('date_start')
+            date_end = metadata.get('date_end')
+            try:
+                doc_start = int(date_start) if date_start else 0
+                doc_end = int(date_end) if date_end else 9999
+            except (ValueError, TypeError):
+                doc_start, doc_end = 0, 9999
+            if not doc_in_selected_centuries(doc_start, doc_end, selected_centuries):
+                continue
+
+        filenames.append(filename)
+
+    return filenames
+
+# Cache all metadata from CSV files (tuple of db names used as cache key)
+db_names_tuple = tuple(sorted(vector_stores.keys()))
+cached_metadata = load_metadata_from_csv(db_names_tuple)
+
+# Get date range from cached CSV metadata (faster than querying ChromaDB)
+db_min_date, db_max_date = get_date_range_from_csv(cached_metadata)
+
+# Generate century options based on database date range
+def get_century_label(start_year):
+    """Convert start year to century label, e.g., 1300 -> '14th century (1300-1399)'"""
+    century_num = (start_year // 100) + 1
+    suffix = 'th'
+    if century_num % 10 == 1 and century_num != 11:
+        suffix = 'st'
+    elif century_num % 10 == 2 and century_num != 12:
+        suffix = 'nd'
+    elif century_num % 10 == 3 and century_num != 13:
+        suffix = 'rd'
+    return f"{century_num}{suffix} century ({start_year}-{start_year + 99})"
+
+# Build list of centuries that actually have documents in the databases
+# (not just the range, but actual centuries with data)
+centuries_with_docs = set()
+for metadata in cached_metadata:
+    date_start = metadata.get('date_start')
+    date_end = metadata.get('date_end')
+    if date_start is not None and date_end is not None:
+        try:
+            doc_start = int(date_start)
+            doc_end = int(date_end)
+            # Add all centuries this document spans
+            century = (doc_start // 100) * 100
+            while century <= doc_end:
+                centuries_with_docs.add(century)
+                century += 100
+        except (ValueError, TypeError):
+            pass
+
+centuries_in_db = sorted(list(centuries_with_docs)) if centuries_with_docs else [
+    c for c in range((db_min_date // 100) * 100, db_max_date + 100, 100)
+]
+
+# Initialize selected centuries in session state (all selected by default)
+if 'selected_centuries' not in st.session_state:
+    st.session_state.selected_centuries = centuries_in_db.copy()
+
+# Sync selected_centuries from checkbox widget states BEFORE cascade logic runs
+# Only sync if checkbox keys exist (i.e., date filter panel has been shown at least once)
+# Use selected_centuries as source of truth until checkboxes have rendered
+checkbox_keys_exist = any(f"century_{c}" in st.session_state for c in centuries_in_db)
+if checkbox_keys_exist:
+    old_selected = st.session_state.selected_centuries.copy() if 'selected_centuries' in st.session_state else []
+    st.session_state.selected_centuries = [
+        c for c in centuries_in_db
+        if st.session_state.get(f"century_{c}", True)
+    ]
+    # Debug: show if sync changed anything (only affects local mode display later)
+    if set(old_selected) != set(st.session_state.selected_centuries):
+        st.session_state._centuries_changed = True
+    else:
+        st.session_state._centuries_changed = False
+
+# Initialize filter visibility toggles
+if 'show_date_filter' not in st.session_state:
+    st.session_state.show_date_filter = False
+if 'show_author_filter' not in st.session_state:
+    st.session_state.show_author_filter = False
+if 'show_title_filter' not in st.session_state:
+    st.session_state.show_title_filter = False
+
+# Sidebar - Filter toggles (compact view)
 with st.sidebar:
-    st.header("📅 Filter by Date")
-    st.write(f"Sources span {db_min_date} - {db_max_date}")
+    st.header("🔍 Filters")
 
-    selected_date_range = st.slider(
-        "Select date range:",
-        min_value=db_min_date,
-        max_value=db_max_date,
-        value=st.session_state.selected_date_range,
-        step=100,
-        help="Filter sources by publication date range"
+    # Date filter toggle with summary
+    num_centuries_selected = len(st.session_state.selected_centuries)
+    date_summary = f"{num_centuries_selected}/{len(centuries_in_db)} centuries"
+    st.session_state.show_date_filter = st.checkbox(
+        f"📅 Date Filter ({date_summary})",
+        value=st.session_state.show_date_filter,
+        key="toggle_date_filter"
     )
 
-    # Update session state
-    if selected_date_range != st.session_state.selected_date_range:
-        st.session_state.selected_date_range = selected_date_range
-        # Reset authors when date changes
-        if 'selected_authors' in st.session_state:
-            del st.session_state.selected_authors
+    # Author filter toggle (built after we compute available_authors below)
+    # Title filter toggle (built after we compute available_titles below)
 
     st.markdown("---")
 
-# Build the author list (filtered by date range)
-available_authors = get_unique_authors(vector_stores, date_range=selected_date_range)
+# Build the author list (filtered by selected centuries)
+# Use all centuries if none selected to avoid empty results
+filter_centuries = st.session_state.selected_centuries if st.session_state.selected_centuries else centuries_in_db
+available_authors = get_unique_authors_from_cache(cached_metadata, selected_centuries=filter_centuries)
+
+# Track previous available authors to detect when options change (due to century filter)
+if 'previous_available_authors' not in st.session_state:
+    st.session_state.previous_available_authors = available_authors.copy()
+
+authors_options_changed = set(available_authors) != set(st.session_state.previous_available_authors)
+st.session_state.previous_available_authors = available_authors.copy()
+
+# DEBUG: Show cascade state (only in local mode, shown in sidebar)
+if is_local():
+    with st.sidebar:
+        st.write(f"🔍 DEBUG Cascade:")
+        st.write(f"  centuries_changed: {st.session_state.get('_centuries_changed', 'N/A')}")
+        st.write(f"  filter_centuries: {len(filter_centuries)}")
+        st.write(f"  authors_options_changed: {authors_options_changed}")
 
 # Reset selected authors if database selection changed
 if current_db_selection != st.session_state.previous_db_selection:
     st.session_state.selected_authors = available_authors.copy()
+    st.session_state["author_multiselect"] = available_authors.copy()
     st.session_state.previous_db_selection = current_db_selection
 
 if 'selected_authors' not in st.session_state:
     st.session_state.selected_authors = available_authors.copy()
 
-# Ensure selected authors are still valid after date filter change
-st.session_state.selected_authors = [
-    a for a in st.session_state.selected_authors if a in available_authors
-]
-if not st.session_state.selected_authors:
+# When century filter changes available authors, reset to ALL available authors
+if authors_options_changed:
     st.session_state.selected_authors = available_authors.copy()
+    st.session_state["author_multiselect"] = available_authors.copy()
+else:
+    # Sync selected_authors from widget state BEFORE title cascade logic runs
+    # This ensures author changes made via multiselect are immediately reflected
+    if "author_multiselect" in st.session_state:
+        # Only include authors that are still in available_authors (in case options changed)
+        st.session_state.selected_authors = [
+            a for a in st.session_state["author_multiselect"]
+            if a in available_authors
+        ]
 
-# Continue Sidebar - Author Selection and Settings
+# Build the title list (filtered by selected authors and selected centuries)
+available_titles = get_unique_titles_from_cache(cached_metadata, st.session_state.selected_authors, filter_centuries)
+
+# Track previous available titles to detect when options change (due to author filter)
+if 'previous_available_titles' not in st.session_state:
+    st.session_state.previous_available_titles = available_titles.copy()
+
+titles_options_changed = set(available_titles) != set(st.session_state.previous_available_titles)
+st.session_state.previous_available_titles = available_titles.copy()
+
+# Initialize selected titles in session state
+if 'selected_titles' not in st.session_state:
+    st.session_state.selected_titles = available_titles.copy()
+
+# When author filter changes available titles, reset to ALL available titles
+if titles_options_changed:
+    st.session_state.selected_titles = available_titles.copy()
+    st.session_state["title_multiselect"] = available_titles.copy()
+else:
+    # Sync selected_titles from widget state BEFORE any downstream logic
+    # This ensures title changes made via multiselect are immediately reflected
+    if "title_multiselect" in st.session_state:
+        # Only include titles that are still in available_titles (in case options changed)
+        st.session_state.selected_titles = [
+            t for t in st.session_state["title_multiselect"]
+            if t in available_titles
+        ]
+
+# Continue sidebar with author and title toggles
 with st.sidebar:
-    st.header("✏️ Filter by Author")
-    st.write(f"Authors in selected date range ({len(available_authors)} available):")
-
-    if st.button("Select All Authors"):
-        st.session_state.selected_authors = available_authors.copy()
-        st.rerun()
-
-    selected_authors = st.multiselect(
-        "Choose authors:",
-        options=available_authors,
-        default=st.session_state.selected_authors,
-        help="Select which authors to include in search results"
+    # Author filter toggle with summary
+    num_authors_selected = len(st.session_state.selected_authors)
+    author_summary = f"{num_authors_selected}/{len(available_authors)} authors"
+    st.session_state.show_author_filter = st.checkbox(
+        f"✏️ Author Filter ({author_summary})",
+        value=st.session_state.show_author_filter,
+        key="toggle_author_filter"
     )
 
-    # Update session state when selection changes
-    if selected_authors != st.session_state.selected_authors:
-        st.session_state.selected_authors = selected_authors
+    # Title filter toggle with summary
+    num_titles_selected = len(st.session_state.selected_titles)
+    title_summary = f"{num_titles_selected}/{len(available_titles)} titles"
+    st.session_state.show_title_filter = st.checkbox(
+        f"📖 Title Filter ({title_summary})",
+        value=st.session_state.show_title_filter,
+        key="toggle_title_filter"
+    )
 
     st.markdown("---")
 
-    # Retrieval settings
+    # Retrieval settings (always in sidebar)
     st.header("⚙️ Retrieval Settings")
     k = st.slider(
         "Number of segments per database:",
         min_value=1,
-        max_value=20,
+        max_value=50,
         value=5,
-        help="More segments = more context but slower response"
+        help="Sets segments per database. Total results capped at this × number of active databases."
+    )
+    st.write(f"**Max total segments:** {k} × {len(vector_stores)} databases = **{k * len(vector_stores)}**")
+
+# ============ MAIN PANEL FILTER SECTIONS ============
+
+# Date Filter (main panel)
+if st.session_state.show_date_filter:
+    st.markdown("---")
+    st.subheader("📅 Filter by Date")
+    st.write(f"Sources span {db_min_date} - {db_max_date} — **{len(st.session_state.selected_centuries)}/{len(centuries_in_db)} centuries selected**")
+
+    col1, col2, col3 = st.columns([1, 1, 2])
+    with col1:
+        if st.button("Select All Centuries", key="select_all_centuries"):
+            st.session_state.selected_centuries = centuries_in_db.copy()
+            # Update widget states to match
+            for c in centuries_in_db:
+                st.session_state[f"century_{c}"] = True
+            st.rerun()
+    with col2:
+        if st.button("Deselect All Centuries", key="deselect_all_centuries"):
+            st.session_state.selected_centuries = []
+            # Update widget states to match
+            for c in centuries_in_db:
+                st.session_state[f"century_{c}"] = False
+            st.rerun()
+
+    # DEBUG: Show checkbox state initialization (only in local mode)
+    if is_local():
+        checkbox_states = {c: st.session_state.get(f"century_{c}", "MISSING") for c in centuries_in_db}
+        st.write(f"🔍 DEBUG checkbox states before render: {checkbox_states}")
+
+    # Display checkboxes in columns for better layout
+    num_cols = 4
+    cols = st.columns(num_cols)
+    for i, century_start in enumerate(centuries_in_db):
+        with cols[i % num_cols]:
+            label = get_century_label(century_start)
+            # Initialize checkbox key to True (checked) if it doesn't exist yet
+            if f"century_{century_start}" not in st.session_state:
+                st.session_state[f"century_{century_start}"] = True
+
+            st.checkbox(
+                label,
+                key=f"century_{century_start}"
+            )
+            # Note: Don't sync here - the early sync at top of script handles it
+            # Checkbox changes trigger automatic rerun, early sync reads new values
+
+# Author Filter (main panel)
+if st.session_state.show_author_filter:
+    st.markdown("---")
+    st.subheader("✏️ Filter by Author")
+    st.write(f"**{len(st.session_state.selected_authors)}/{len(available_authors)} authors selected** from date range")
+
+    col1, col2, col3 = st.columns([1, 1, 2])
+    with col1:
+        if st.button("Select All Authors", key="select_all_authors"):
+            st.session_state.selected_authors = available_authors.copy()
+            st.session_state["author_multiselect"] = available_authors.copy()
+            st.rerun()
+    with col2:
+        if st.button("Deselect All Authors", key="deselect_all_authors"):
+            st.session_state.selected_authors = []
+            st.session_state["author_multiselect"] = []
+            st.rerun()
+
+    # Initialize widget state if needed
+    if "author_multiselect" not in st.session_state:
+        st.session_state["author_multiselect"] = st.session_state.selected_authors.copy()
+
+    selected_authors = st.multiselect(
+        "Choose authors:",
+        options=available_authors,
+        key="author_multiselect",
+        help="Select which authors to include in search results. Mentioning an author in your question will prioritize their works."
     )
 
-    st.markdown("---")
-    st.subheader("📊 Database Info")
-    st.write(f"**Active Databases:** {len(vector_stores)}")
-    st.write(f"**Date Range:** {selected_date_range[0]} - {selected_date_range[1]}")
-    st.write(f"**Authors in Range:** {len(available_authors)}")
-    st.write(f"**Selected Authors:** {len(selected_authors)}")
+    # Sync with our session state
+    st.session_state.selected_authors = selected_authors
+else:
+    # Keep selected_authors in sync even when panel is hidden
+    selected_authors = st.session_state.selected_authors
 
+# Title Filter (main panel)
+if st.session_state.show_title_filter:
+    st.markdown("---")
+    st.subheader("📖 Filter by Title")
+    st.write(f"**{len(st.session_state.selected_titles)}/{len(available_titles)} titles selected** from chosen authors")
+
+<<<<<<< HEAD
 # Initialize LLM
 llm = ChatOpenAI(model="gpt-6-luna", temperature=0)
+=======
+    col1, col2, col3 = st.columns([1, 1, 2])
+    with col1:
+        if st.button("Select All Titles", key="select_all_titles"):
+            st.session_state.selected_titles = available_titles.copy()
+            st.session_state["title_multiselect"] = available_titles.copy()
+            st.rerun()
+    with col2:
+        if st.button("Deselect All Titles", key="deselect_all_titles"):
+            st.session_state.selected_titles = []
+            st.session_state["title_multiselect"] = []
+            st.rerun()
+>>>>>>> dev
 
-# Prompt template
-system_prompt = """You are an expert in historical music theory and musicology.
+    # Initialize widget state if needed
+    if "title_multiselect" not in st.session_state:
+        st.session_state["title_multiselect"] = st.session_state.selected_titles.copy()
+
+    selected_titles = st.multiselect(
+        "Choose titles:",
+        options=available_titles,
+        key="title_multiselect",
+        help="Select which works to include in search results."
+    )
+
+    # Sync with our session state
+    st.session_state.selected_titles = selected_titles
+else:
+    # Keep selected_titles in sync even when panel is hidden
+    selected_titles = st.session_state.selected_titles
+
+# Compute selected_date_range for compatibility
+if st.session_state.selected_centuries:
+    selected_date_range = (
+        min(st.session_state.selected_centuries),
+        max(st.session_state.selected_centuries) + 99
+    )
+else:
+    selected_date_range = (db_min_date, db_max_date)
+
+# Initialize LLM (model selected via sidebar in local mode)
+llm = ChatOpenAI(model=st.session_state.selected_model, temperature=0)
+
+# Prompt templates
+system_prompt_base = """You are an expert in historical music theory and musicology.
 
 You are also familiar with medieval Latin, and various early modern forms of English, Italian and French.
 
@@ -418,73 +935,396 @@ IMPORTANT: Each text passage is labeled with a Source number (e.g., "Source 1", 
 When citing passages, always reference them by their Source number (e.g., "Source 1", "Source 5") so readers can
 find the exact passage. Also mention the author's name when making claims about their ideas.
 
+CRITICAL REQUIREMENT: You MUST discuss EVERY source listed below. Do not skip or ignore any sources.
+Structure your response to address what each author and title contributes to the topic, even if only briefly.
+
+{source_manifest}
+
 Include short quotations from the passages to support your statements, with key words from the original text
 and translation when appropriate.
 
-If you don't know the answer based on the provided context, say that you don't know.
-Use three sentences maximum and keep the answer concise but informative.
+If a source does not directly address the question, briefly note what topic it does cover and why it may be
+less relevant. Do not make up answers or mention sources not included in the context.
 
+{chat_history_section}
 Context:
 {context}
 
 Question: {question}
 
-Provide a detailed answer with references to specific Source numbers and authors."""
+Provide a detailed, comprehensive answer that addresses ALL sources listed above, with references to specific Source numbers and authors."""
 
-prompt = ChatPromptTemplate.from_template(system_prompt)
+prompt = ChatPromptTemplate.from_template(system_prompt_base)
 
-# Retrieval function
+def format_chat_history(chat_history):
+    """Format chat history for inclusion in the prompt."""
+    if not chat_history:
+        return ""
+
+    history_text = "PREVIOUS CONVERSATION:\n"
+    for i, exchange in enumerate(chat_history, 1):
+        history_text += f"\nQ{i}: {exchange['question']}\n"
+        # Truncate long answers to keep context manageable
+        answer = exchange['answer']
+        if len(answer) > 1000:
+            answer = answer[:1000] + "... [truncated]"
+        history_text += f"A{i}: {answer}\n"
+
+    history_text += "\nPlease consider the above conversation when answering the new question. You may reference previous answers if relevant.\n\n"
+    return history_text
+
+
+# add detect author and title
+
+
+def detect_mentioned_authors(question, available_authors):
+    """
+    Detect if any author names are mentioned in the question.
+    Returns list of detected author names.
+    Searches for full author names (not just surnames) to handle names like "Anonymous 4".
+    """
+    mentioned = []
+    question_lower = question.lower()
+
+    for author in available_authors:
+        # Check for full author name (case-insensitive)
+        author_lower = author.lower()
+        # Use word boundary to avoid partial matches
+        if re.search(r'\b' + re.escape(author_lower) + r'\b', question_lower):
+            mentioned.append(author)
+
+    return mentioned
+
+
+def detect_mentioned_titles(question, available_titles):
+    """
+    Detect if any titles are mentioned in the question.
+    Checks for both full titles and significant partial matches.
+    Returns list of (title, match_type) tuples.
+    """
+    mentioned = []
+    question_lower = question.lower()
+    
+    # Remove common quote marks and italics markers that might be in the query
+    question_clean = re.sub(r'[""\'*_]', '', question_lower)
+    
+    for title in available_titles:
+        title_lower = title.lower()
+        
+        # Method 1: Exact title match (case-insensitive)
+        if title_lower in question_clean:
+            mentioned.append((title, 'exact'))
+            continue
+        
+        # Method 2: Check for significant words from title (3+ chars)
+        # This catches partial or abbreviated references
+        title_words = [w for w in re.findall(r'\b\w+\b', title_lower) if len(w) >= 3]
+        
+        # Remove common stop words that aren't distinctive
+        stop_words = {'the', 'and', 'della', 'delle', 'del', 'des', 'les', 'una', 'une', 
+                      'von', 'van', 'der', 'die', 'das', 'pour', 'per', 'con', 'sur'}
+        significant_words = [w for w in title_words if w not in stop_words]
+        
+        if len(significant_words) >= 2:
+            # If 2+ significant words from title appear in query, it's likely a match
+            matches = sum(1 for word in significant_words 
+                         if re.search(r'\b' + re.escape(word) + r'\b', question_clean))
+            
+            # Require at least 2 matching words, or 1 if title has only 1-2 significant words
+            required_matches = min(2, len(significant_words))
+            if matches >= required_matches:
+                mentioned.append((title, 'partial'))
+    
+    return mentioned
+
+# retrieval function
 def retrieve(state: State):
     """
-    Unless otherwise instructed to restrict things to just the English, Italian, or Latin vector stores, retrieve documents from ALL selected vector stores and filter by selected authors and date range.
+    Retrieve documents from ALL selected vector stores.
+    If author names or titles are detected in the query, prioritize those sources.
     """
     question = state["question"]
     selected_authors_list = st.session_state.get('selected_authors', available_authors)
-    date_range = st.session_state.get('selected_date_range', (db_min_date, db_max_date))
+    selected_titles_list = st.session_state.get('selected_titles', [])
+    selected_centuries = st.session_state.get('selected_centuries', centuries_in_db)
+
+    # Get available titles (within current filters)
+    available_titles_for_detection = get_unique_titles_from_cache(cached_metadata, selected_authors_list, selected_centuries)
+
+    # Detect if specific authors or titles are mentioned in the query
+    mentioned_authors = detect_mentioned_authors(question, available_authors)
+    mentioned_titles = detect_mentioned_titles(question, available_titles_for_detection)
+
+    # DEBUG: Show actual filter values (only in local mode)
+    if is_local():
+        st.write(f"🔍 **DEBUG - Filter values:**")
+        st.write(f"  - selected_centuries: {len(selected_centuries)} items, centuries_in_db: {len(centuries_in_db)} items")
+        st.write(f"  - selected_authors: {len(selected_authors_list)} items, available_authors: {len(available_authors)} items")
+        st.write(f"  - selected_titles: {len(selected_titles_list)} items, available_titles_for_detection: {len(available_titles_for_detection)} items")
 
     # Display filter info
     filter_info = []
-    if date_range != (db_min_date, db_max_date):
-        filter_info.append(f"dates {date_range[0]}-{date_range[1]}")
+    if selected_centuries and len(selected_centuries) < len(centuries_in_db):
+        century_labels = [f"{(c//100)+1}c" for c in selected_centuries]
+        filter_info.append(f"centuries: {', '.join(century_labels)}")
     if selected_authors_list and len(selected_authors_list) < len(available_authors):
         filter_info.append(f"{len(selected_authors_list)} author(s)")
-
+    if selected_titles_list and len(selected_titles_list) < len(available_titles_for_detection):
+        filter_info.append(f"{len(selected_titles_list)} title(s)")
+    if mentioned_authors:
+        filter_info.append(f"📝 detected authors: {', '.join(mentioned_authors)}")
+    if mentioned_titles:
+        title_list = [f"'{t}' ({match})" for t, match in mentioned_titles]
+        filter_info.append(f"📚 detected titles: {', '.join(title_list)}")
+    
     if filter_info:
         st.write(f"**Filtering by:** {', '.join(filter_info)}")
     else:
         st.write("*Searching all sources*")
-
-    # Retrieve from ALL selected databases
+    
     all_docs = []
+    
+    # Compute broad date range for Chroma queries (precise filtering done later)
+    if selected_centuries:
+        query_date_min = min(selected_centuries)
+        query_date_max = max(selected_centuries) + 99
+        has_date_filter = len(selected_centuries) < len(centuries_in_db)
+    else:
+        query_date_min, query_date_max = db_min_date, db_max_date
+        has_date_filter = False
+
+    # Strategy 1: If authors are mentioned, retrieve from those authors
+    if mentioned_authors:
+        for db_name, vector_store in vector_stores.items():
+            for author in mentioned_authors:
+                # Check if mentioned author is in the sidebar selection
+                if author not in selected_authors_list:
+                    st.write(f"  ⚠️ '{author}' mentioned in query but not in sidebar selection - skipping")
+                    continue
+
+                # Build filter with author + date range
+                filter_conditions = [{"author": author}]
+                if has_date_filter:
+                    filter_conditions.append({"date_start": {"$lte": query_date_max}})
+                    filter_conditions.append({"date_end": {"$gte": query_date_min}})
+
+                where_filter = {"$and": filter_conditions} if len(filter_conditions) > 1 else filter_conditions[0]
+                try:
+                    retriever = vector_store.as_retriever(
+                        search_kwargs={
+                            "k": k,
+                            "filter": where_filter
+                        }
+                    )
+                    docs = retriever.invoke(question)
+                    all_docs.extend(docs)
+                    date_info = f" ({query_date_min}-{query_date_max})" if has_date_filter else ""
+                    st.write(f"  → Retrieved {len(docs)} segments from {author} in {db_name}{date_info}")
+                except Exception as e:
+                    # Fallback: retrieve more docs and filter afterward
+                    retriever = vector_store.as_retriever(search_kwargs={"k": k * 2})
+                    docs = retriever.invoke(question)
+                    filtered_docs = [d for d in docs if d.metadata.get('author') == author]
+                    all_docs.extend(filtered_docs)
+                    st.write(f"  → Retrieved {len(filtered_docs)} segments from {author} (post-filtered)")
+    
+    # Strategy 2: If titles are mentioned, retrieve from those titles
+    if mentioned_titles:
+        for db_name, vector_store in vector_stores.items():
+            for title, match_type in mentioned_titles:
+                # Build filter with title + date range
+                filter_conditions = [{"title": title}]
+                if has_date_filter:
+                    filter_conditions.append({"date_start": {"$lte": query_date_max}})
+                    filter_conditions.append({"date_end": {"$gte": query_date_min}})
+
+                where_filter = {"$and": filter_conditions} if len(filter_conditions) > 1 else filter_conditions[0]
+                try:
+                    retriever = vector_store.as_retriever(
+                        search_kwargs={
+                            "k": k,
+                            "filter": where_filter
+                        }
+                    )
+                    docs = retriever.invoke(question)
+                    all_docs.extend(docs)
+                    date_info = f" ({query_date_min}-{query_date_max})" if has_date_filter else ""
+                    st.write(f"  → Retrieved {len(docs)} segments from '{title}' ({match_type} match){date_info}")
+                except Exception as e:
+                    # Fallback: retrieve more docs and filter afterward
+                    retriever = vector_store.as_retriever(search_kwargs={"k": k * 3})
+                    docs = retriever.invoke(question)
+                    filtered_docs = [d for d in docs if d.metadata.get('title') == title]
+                    all_docs.extend(filtered_docs)
+                    st.write(f"  → Retrieved {len(filtered_docs)} segments from '{title}' (post-filtered)")
+    
+    # Strategy 2.5: Balanced author retrieval when a small number of authors are explicitly selected
+    # This ensures we get documents from EACH selected author, not just the most semantically relevant
+    # Only applies when authors are filtered via sidebar (not query detection) and count is small
+    filter_authors = selected_authors_list if len(selected_authors_list) < len(available_authors) else None
+    filter_titles = selected_titles_list if selected_titles_list and len(selected_titles_list) < len(available_titles_for_detection) else None
+    filter_centuries = selected_centuries if has_date_filter else None
+
+    # Use balanced retrieval if 2-10 authors are explicitly selected via sidebar
+    use_balanced_author_retrieval = (
+        filter_authors is not None and
+        2 <= len(filter_authors) <= 10 and
+        not mentioned_authors  # Don't double-retrieve if query already mentioned authors
+    )
+
+    if use_balanced_author_retrieval:
+        # Calculate documents per author (at least 2 per author, up to k total per db)
+        docs_per_author = max(2, k // len(filter_authors))
+        st.write(f"  📊 Balanced retrieval: ~{docs_per_author} segments per author for {len(filter_authors)} selected authors")
+
+        for db_name, vector_store in vector_stores.items():
+            for author in filter_authors:
+                # Get filenames for this specific author
+                author_filenames = get_filenames_from_cache(
+                    cached_metadata,
+                    db_name=db_name,
+                    selected_authors=[author],
+                    selected_titles=filter_titles,
+                    selected_centuries=filter_centuries
+                )
+
+                if not author_filenames:
+                    continue
+
+                try:
+                    retriever = vector_store.as_retriever(
+                        search_kwargs={
+                            "k": docs_per_author,
+                            "filter": {"filename": {"$in": author_filenames}}
+                        }
+                    )
+                    docs = retriever.invoke(question)
+                    all_docs.extend(docs)
+                    if is_local():
+                        st.write(f"    → {author}: {len(docs)} segments from {db_name}")
+                except Exception as e:
+                    # Fallback: retrieve and filter
+                    retriever = vector_store.as_retriever(search_kwargs={"k": docs_per_author * 2})
+                    docs = retriever.invoke(question)
+                    author_filenames_set = set(author_filenames)
+                    filtered_docs = [d for d in docs if d.metadata.get('filename') in author_filenames_set]
+                    all_docs.extend(filtered_docs[:docs_per_author])
+
+    # Strategy 3: General semantic retrieval - ALWAYS runs to include broader results
+    # When authors/titles are mentioned, this adds additional context beyond the targeted retrieval
+    # Deduplication later will remove any overlapping results
+    #
+    # NEW APPROACH: Use filename filter from CSV metadata instead of individual field filters
+    # This is faster and more reliable since filtering is done via CSV before hitting ChromaDB
     for db_name, vector_store in vector_stores.items():
-        retriever = vector_store.as_retriever(search_kwargs={"k": k})
-        docs = retriever.invoke(question)
-        all_docs.extend(docs)
+        # Reduce k if we already did balanced retrieval
+        effective_k = k // 2 if use_balanced_author_retrieval else k
+        search_kwargs = {"k": effective_k}
+        filter_description = []
 
-    st.write(f"Retrieved {len(all_docs)} total segments from {len(vector_stores)} database(s)")
+        valid_filenames = get_filenames_from_cache(
+            cached_metadata,
+            db_name=db_name,
+            selected_authors=filter_authors,
+            selected_titles=filter_titles,
+            selected_centuries=filter_centuries
+        )
 
-    # Filter by date range
-    def doc_in_date_range(doc, date_range):
+        # Build description of applied filters
+        if filter_centuries:
+            filter_description.append(f"{len(filter_centuries)} centuries")
+        if filter_authors:
+            filter_description.append(f"{len(filter_authors)} authors")
+        if filter_titles:
+            filter_description.append(f"{len(filter_titles)} titles")
+
+        # Apply filename filter if we have constraints
+        if valid_filenames and (filter_authors or filter_titles or filter_centuries):
+            # Only apply filter if we actually have constraints
+            search_kwargs["filter"] = {"filename": {"$in": valid_filenames}}
+            filter_description.append(f"{len(valid_filenames)} sources")
+
+        # DEBUG: Show Chroma filter being applied (only in local mode)
+        if is_local():
+            st.write(f"  🔍 DEBUG {db_name}: valid_filenames count = {len(valid_filenames) if valid_filenames else 'all'}")
+            if "filter" in search_kwargs:
+                st.write(f"     Chroma filter: filename $in [{len(valid_filenames)} files]")
+
         try:
-            doc_start = int(doc.metadata.get('date_start', 0))
-            doc_end = int(doc.metadata.get('date_end', 9999))
-        except (ValueError, TypeError):
-            return True  # Include if date parsing fails
-        # Check if document's date range overlaps with selected range
-        return not (doc_end < date_range[0] or doc_start > date_range[1])
+            retriever = vector_store.as_retriever(search_kwargs=search_kwargs)
+            docs = retriever.invoke(question)
+            all_docs.extend(docs)
+            filter_desc = " + ".join(filter_description) if filter_description else "all sources"
+            st.write(f"  → Retrieved {len(docs)} segments from {db_name} (filtered by {filter_desc})")
+        except Exception as e:
+            # Fallback: retrieve without filter and post-filter by filename
+            st.write(f"  ⚠️ Filter failed for {db_name}, using post-filtering: {str(e)}")
+            retriever = vector_store.as_retriever(search_kwargs={"k": effective_k * 2})
+            docs = retriever.invoke(question)
+            # Post-filter by filename from CSV
+            if valid_filenames and (filter_authors or filter_titles or filter_centuries):
+                valid_filenames_set = set(valid_filenames)
+                filtered_docs = [d for d in docs if d.metadata.get('filename') in valid_filenames_set]
+            else:
+                filtered_docs = docs
+            all_docs.extend(filtered_docs)
 
-    RAG_retrieved_docs = [doc for doc in all_docs if doc_in_date_range(doc, date_range)]
+    st.write(f"Total segments before deduplication: {len(all_docs)}")
+    
+    # Deduplicate based on page_content hash
+    seen_content = set()
+    unique_docs = []
+    for doc in all_docs:
+        # Create a hash from content + metadata to avoid exact duplicates
+        content_hash = hash((doc.page_content, 
+                           doc.metadata.get('author', ''), 
+                           doc.metadata.get('title', ''),
+                           doc.metadata.get('page_range', '')))
+        if content_hash not in seen_content:
+            seen_content.add(content_hash)
+            unique_docs.append(doc)
+    
+    st.write(f"Retrieved {len(unique_docs)} unique segments from {len(vector_stores)} database(s)")
 
-    if len(RAG_retrieved_docs) < len(all_docs):
-        st.write(f"After date filtering: {len(RAG_retrieved_docs)} segments")
+    # Post-filter using filename validation from CSV metadata
+    # This ensures all results match the current filter criteria
+    filter_authors = selected_authors_list if len(selected_authors_list) < len(available_authors) else None
+    filter_titles = selected_titles_list if selected_titles_list and len(selected_titles_list) < len(available_titles_for_detection) else None
+    filter_centuries = selected_centuries if has_date_filter else None
 
-    # Filter by selected authors if specified
-    if selected_authors_list and len(selected_authors_list) < len(available_authors):
+    # Only apply post-filtering if there are actual constraints
+    if filter_authors or filter_titles or filter_centuries:
+        # Get all valid filenames across all databases
+        all_valid_filenames = set(get_filenames_from_cache(
+            cached_metadata,
+            db_name=None,  # All databases
+            selected_authors=filter_authors,
+            selected_titles=filter_titles,
+            selected_centuries=filter_centuries
+        ))
+
         RAG_retrieved_docs = [
-            doc for doc in RAG_retrieved_docs
-            if doc.metadata.get('author') in selected_authors_list
+            doc for doc in unique_docs
+            if doc.metadata.get('filename') in all_valid_filenames
         ]
-        st.write(f"After author filtering: {len(RAG_retrieved_docs)} segments from selected authors")
+
+        if len(RAG_retrieved_docs) < len(unique_docs):
+            filter_desc = []
+            if filter_centuries:
+                filter_desc.append(f"{len(filter_centuries)} centuries")
+            if filter_authors:
+                filter_desc.append(f"{len(filter_authors)} authors")
+            if filter_titles:
+                filter_desc.append(f"{len(filter_titles)} titles")
+            st.write(f"After post-filtering ({', '.join(filter_desc)}): {len(RAG_retrieved_docs)} segments")
+    else:
+        RAG_retrieved_docs = unique_docs
+
+    # Apply hard cap: limit to k segments per database (user's expected total)
+    max_segments = k * len(vector_stores)
+    if len(RAG_retrieved_docs) > max_segments:
+        st.write(f"Applying cap: limiting from {len(RAG_retrieved_docs)} to {max_segments} segments")
+        RAG_retrieved_docs = RAG_retrieved_docs[:max_segments]
 
     return {"context": RAG_retrieved_docs}
 
@@ -496,6 +1336,15 @@ def generate_with_author_grouping(state: State):
     """
     # First, assign global source numbers to each document (matching UI order)
     docs_with_numbers = list(enumerate(state["context"], 1))
+
+    # Build source manifest - a list of all sources that MUST be addressed
+    manifest_lines = ["The following sources MUST ALL be addressed in your response:"]
+    for source_num, doc in docs_with_numbers:
+        author = doc.metadata.get('author', 'Unknown Author')
+        title = doc.metadata.get('title', 'Unknown Title')
+        date = doc.metadata.get('date', 'Unknown')
+        manifest_lines.append(f"  - Source {source_num}: {author}, \"{title}\" ({date})")
+    source_manifest = "\n".join(manifest_lines)
 
     # Group documents by author while preserving global source numbers
     author_groups = {}
@@ -519,8 +1368,16 @@ def generate_with_author_grouping(state: State):
     # Join all author sections
     formatted_context = "\n".join(context_parts)
 
+    # Get chat history section (empty string if not provided)
+    chat_history_section = state.get("chat_history_section", "")
+
     # Generate response
-    messages = prompt.invoke({"context": formatted_context, "question": state["question"]})
+    messages = prompt.invoke({
+        "context": formatted_context,
+        "question": state["question"],
+        "chat_history_section": chat_history_section,
+        "source_manifest": source_manifest
+    })
     response = llm.invoke(messages)
 
     return {"answer": response.content}
@@ -532,7 +1389,17 @@ graph_builder.add_edge("generate_with_author_grouping", END)
 graph = graph_builder.compile()
 
 # PDF Generation
-def create_pdf(question, answer, context_docs, selected_dbs, selected_authors_list, date_range=None):
+def create_pdf(chat_history, context_docs, selected_dbs, selected_authors_list, selected_centuries_list=None):
+    """
+    Create a PDF report including the full conversation history and source documents.
+
+    Args:
+        chat_history: List of {"question": str, "answer": str, "context": list} dicts
+        context_docs: The source documents from the most recent retrieval
+        selected_dbs: List of database names used
+        selected_authors_list: List of selected authors
+        selected_centuries_list: List of century start years (e.g., [1300, 1400]) or None
+    """
     buffer = BytesIO()
     pdf_doc = SimpleDocTemplate(buffer, pagesize=letter, rightMargin=72, leftMargin=72,
                                 topMargin=72, bottomMargin=18)
@@ -546,6 +1413,9 @@ def create_pdf(question, answer, context_docs, selected_dbs, selected_authors_li
     heading_style = ParagraphStyle('CustomHeading', parent=styles['Heading2'],
                                    fontSize=14, textColor='darkblue', spaceAfter=12, spaceBefore=12)
 
+    exchange_heading_style = ParagraphStyle('ExchangeHeading', parent=styles['Heading2'],
+                                            fontSize=12, textColor='darkgreen', spaceAfter=8, spaceBefore=16)
+
     body_style = ParagraphStyle('CustomBody', parent=styles['BodyText'],
                                fontSize=11, alignment=TA_JUSTIFY, spaceAfter=12)
 
@@ -554,32 +1424,55 @@ def create_pdf(question, answer, context_docs, selected_dbs, selected_authors_li
     elements.append(Spacer(1, 0.2*inch))
 
     # Metadata
-    date_range_str = f"{date_range[0]} - {date_range[1]}" if date_range else "All Dates"
+    if selected_centuries_list:
+        century_labels = [f"{(c//100)+1}th c." for c in sorted(selected_centuries_list)]
+        centuries_str = ', '.join(century_labels)
+    else:
+        centuries_str = "All Centuries"
     metadata_text = f"""
     <b>Date:</b> {datetime.now().strftime("%Y-%m-%d %H:%M:%S")}<br/>
     <b>Databases:</b> {', '.join(selected_dbs)}<br/>
-    <b>Date Range:</b> {date_range_str}<br/>
+    <b>Centuries:</b> {centuries_str}<br/>
     <b>Authors:</b> {', '.join(selected_authors_list) if len(selected_authors_list) < len(available_authors) else 'All Authors'}<br/>
-    <b>Segments:</b> {len(context_docs)}
+    <b>Total Exchanges:</b> {len(chat_history)}<br/>
+    <b>Source Segments:</b> {len(context_docs)}
     """
     elements.append(Paragraph(metadata_text, body_style))
     elements.append(Spacer(1, 0.3*inch))
 
-    # Query
-    elements.append(Paragraph("Query", heading_style))
-    elements.append(Paragraph(question, body_style))
-    elements.append(Spacer(1, 0.2*inch))
+    # Conversation History
+    elements.append(Paragraph("Conversation", heading_style))
+    elements.append(Spacer(1, 0.1*inch))
 
-    # Answer
-    elements.append(Paragraph("Answer", heading_style))
-    for para in answer.split('\n\n'):
-        if para.strip():
-            elements.append(Paragraph(para, body_style))
+    for i, exchange in enumerate(chat_history, 1):
+        # Exchange header
+        elements.append(Paragraph(f"Exchange {i}", exchange_heading_style))
+
+        # Question
+        elements.append(Paragraph(f"<b>Question:</b>", body_style))
+        elements.append(Paragraph(exchange['question'], body_style))
+        elements.append(Spacer(1, 0.1*inch))
+
+        # Answer
+        elements.append(Paragraph(f"<b>Answer:</b>", body_style))
+        for para in exchange['answer'].split('\n\n'):
+            if para.strip():
+                # Escape special characters for ReportLab
+                safe_para = para.replace('&', '&amp;').replace('<', '&lt;').replace('>', '&gt;')
+                try:
+                    elements.append(Paragraph(safe_para, body_style))
+                except:
+                    # Fallback for problematic text
+                    elements.append(Paragraph(safe_para[:500] + "...", body_style))
+
+        elements.append(Spacer(1, 0.2*inch))
 
     elements.append(PageBreak())
 
-    # Source Documents
+    # Source Documents (from most recent retrieval)
     elements.append(Paragraph("Source Documents", heading_style))
+    elements.append(Paragraph("<i>Sources from the most recent document retrieval:</i>", body_style))
+    elements.append(Spacer(1, 0.1*inch))
 
     for i, source_doc in enumerate(context_docs, 1):
         elements.append(Paragraph(f"<b>Source {i}</b>", heading_style))
@@ -595,28 +1488,65 @@ def create_pdf(question, answer, context_docs, selected_dbs, selected_authors_li
         elements.append(Spacer(1, 0.1*inch))
 
         content = source_doc.page_content.replace('\n', '<br/>')
-        elements.append(Paragraph(content, body_style))
+        # Escape special characters
+        content = content.replace('&', '&amp;').replace('<', '&lt;').replace('>', '&gt;').replace('&amp;lt;br/&amp;gt;', '<br/>')
+        try:
+            elements.append(Paragraph(content, body_style))
+        except:
+            elements.append(Paragraph("[Content could not be rendered]", body_style))
         elements.append(Spacer(1, 0.2*inch))
 
     pdf_doc.build(elements)
     buffer.seek(0)
     return buffer
 
-# Initialize session state for results
+# Initialize session state for results and chat history
 if 'last_result' not in st.session_state:
     st.session_state.last_result = None
 if 'last_query' not in st.session_state:
     st.session_state.last_query = None
 if 'last_db_names' not in st.session_state:
     st.session_state.last_db_names = None
+if 'chat_history' not in st.session_state:
+    st.session_state.chat_history = []  # List of {"question": str, "answer": str, "context": list}
 
 # Query Interface
 st.markdown("---")
 st.subheader("💬 Ask Your Question")
+st.write("Enter your question below. After your first query, you can ask follow-up questions using the same sources or retrieve new ones. See **'How to Use this Application'** in the sidebar for detailed instructions.")
+
+# Chat continuation options (only show if there's previous chat)
+if st.session_state.chat_history:
+    st.write(f"**Chat history:** {len(st.session_state.chat_history)} previous exchange(s)")
+
+    col1, col2, col3 = st.columns([2, 2, 1])
+    with col1:
+        follow_up_mode = st.radio(
+            "Follow-up mode:",
+            options=["new_retrieval", "reuse_documents"],
+            format_func=lambda x: "🔍 New retrieval" if x == "new_retrieval" else "📄 Reuse previous documents",
+            horizontal=True,
+            help="Choose whether to retrieve new documents or continue discussing the same sources"
+        )
+    with col2:
+        include_chat_context = st.checkbox(
+            "Include chat history in prompt",
+            value=True,
+            help="When enabled, the AI will remember previous questions and answers in this session"
+        )
+    with col3:
+        if st.button("🗑️ Clear Chat"):
+            st.session_state.chat_history = []
+            st.session_state.last_result = None
+            st.session_state.last_query = None
+            st.rerun()
+else:
+    follow_up_mode = "new_retrieval"
+    include_chat_context = False
 
 user_query = st.text_area(
     "Enter your question:",
-    height=100,
+    height=300,
     placeholder="e.g., What do different theorists say about the origins of music?"
 )
 
@@ -624,20 +1554,76 @@ submit = st.button("🔍 Search", type="primary")
 
 if submit:
     if user_query:
-        with st.spinner("🔄 Processing query..."):
-            result = graph.invoke({"question": user_query})
-            # Store results in session state
-            st.session_state.last_result = result
-            st.session_state.last_query = user_query
-            st.session_state.last_db_names = [db['name'] for db in db_configs]
+        # Prepare chat history for the prompt
+        chat_history_section = ""
+        if include_chat_context and st.session_state.chat_history:
+            chat_history_section = format_chat_history(st.session_state.chat_history)
+
+        if follow_up_mode == "reuse_documents" and st.session_state.last_result:
+            # Reuse previous documents - only run generation
+            with st.spinner("🔄 Generating response with previous documents..."):
+                st.write("**Using previous documents** (no new retrieval)")
+
+                # Create state with previous context
+                state = {
+                    "question": user_query,
+                    "context": st.session_state.last_result["context"],
+                    "chat_history_section": chat_history_section
+                }
+
+                # Run only the generation step
+                result = generate_with_author_grouping(state)
+                result["context"] = st.session_state.last_result["context"]  # Preserve context
+
+                # Store results
+                st.session_state.last_result = result
+                st.session_state.last_query = user_query
+
+                # Add to chat history
+                st.session_state.chat_history.append({
+                    "question": user_query,
+                    "answer": result["answer"],
+                    "context": result["context"]
+                })
+        else:
+            # New retrieval mode - run full pipeline
+            with st.spinner("🔄 Retrieving documents and generating response..."):
+                # Invoke graph with chat history
+                result = graph.invoke({
+                    "question": user_query,
+                    "chat_history_section": chat_history_section
+                })
+
+                # Store results in session state
+                st.session_state.last_result = result
+                st.session_state.last_query = user_query
+                st.session_state.last_db_names = [db['name'] for db in db_configs]
+
+                # Add to chat history
+                st.session_state.chat_history.append({
+                    "question": user_query,
+                    "answer": result["answer"],
+                    "context": result["context"]
+                })
     else:
         st.warning("⚠️ Please enter a question")
+
+# Display chat history (previous exchanges)
+if len(st.session_state.chat_history) > 1:
+    st.markdown("### 💬 Conversation History")
+    # Show all but the last exchange (which is the current one)
+    for i, exchange in enumerate(st.session_state.chat_history[:-1], 1):
+        with st.expander(f"Exchange {i}: {exchange['question'][:50]}...", expanded=False):
+            st.markdown(f"**Question:** {exchange['question']}")
+            st.markdown("---")
+            st.markdown(f"**Answer:** {exchange['answer']}")
+    st.markdown("---")
 
 # Display results if available
 if st.session_state.last_result:
     result = st.session_state.last_result
 
-    st.markdown("### 📝 Answer")
+    st.markdown("### 📝 Current Answer")
     st.write(result["answer"])
 
     st.markdown("---")
@@ -676,17 +1662,18 @@ with st.sidebar:
     st.header("📄 Export Results")
     if st.session_state.last_result:
         pdf = create_pdf(
-            st.session_state.last_query,
-            st.session_state.last_result["answer"],
+            st.session_state.chat_history,
             st.session_state.last_result["context"],
             st.session_state.last_db_names or [db['name'] for db in db_configs],
-            selected_authors,
-            date_range=selected_date_range
+            st.session_state.selected_authors,
+            selected_centuries_list=st.session_state.selected_centuries
         )
+        num_exchanges = len(st.session_state.chat_history)
+        button_label = f"📥 Download PDF Report ({num_exchanges} exchange{'s' if num_exchanges != 1 else ''})"
         st.download_button(
-            "📥 Download PDF Report",
+            button_label,
             pdf,
-            file_name=f"query_{datetime.now().strftime('%Y%m%d_%H%M%S')}.pdf",
+            file_name=f"conversation_{datetime.now().strftime('%Y%m%d_%H%M%S')}.pdf",
             mime="application/pdf",
             type="primary"
         )

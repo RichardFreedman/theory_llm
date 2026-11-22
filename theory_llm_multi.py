@@ -74,9 +74,9 @@ if is_local():
 
 # Model selector (all environments)
 model_options = {
-    "GPT-5-mini (newest, faster)": "gpt-5-mini",
-    "GPT-4o-mini (faster, cheaper)": "gpt-4o-mini",
-    "GPT-4o (higher quality)": "gpt-4o"
+    "GPT 6 Luna (newest, faster)": "gpt-6-luna",
+    "GPT 6.1 Terra (faster, cheaper)": "gpt-6.1-terra",
+    "GPT 6.1 Sol (higher quality)": "gpt-6.1-sol"
 }
 selected_model_label = st.sidebar.selectbox(
     "🤖 LLM Model",

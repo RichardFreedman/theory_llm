@@ -59,3 +59,8 @@ venv.bak/
 
 # PDF outputs (optional - uncomment if you don't want to track generated PDFs)
 # *.pdf
+
+# Local Chroma databases (too large for git; restore locally for demos)
+theory_llm_chroma_files/
+
+.venv/

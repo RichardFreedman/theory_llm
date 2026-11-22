@@ -914,7 +914,8 @@ else:
     selected_date_range = (db_min_date, db_max_date)
 
 # Initialize LLM (model selected via sidebar in local mode)
-llm = ChatOpenAI(model=st.session_state.selected_model, temperature=0)
+# Newer models only accept the default temperature (1), so don't set one.
+llm = ChatOpenAI(model=st.session_state.selected_model)
 
 # Prompt templates
 system_prompt_base = """You are an expert in historical music theory and musicology.

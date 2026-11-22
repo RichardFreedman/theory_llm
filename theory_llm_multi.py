@@ -171,23 +171,20 @@ if rags:
     * These **segments are in turn passed to a LLM "embedding" system** (we use 'text-embedding-3-large' from OpenAI), which creates numerical representations of every segment. These representations capture the semantic meaning of the text, allowing for efficient similarity searches.  But they are very large:  each embedding has 3072 dimensions, representing a vast amount of information about the meaning of the text.
     * These representations (along with the original text of the segment and additional metadata about author, title, and date) are  stored in **'vector database'** (in our case: Chroma).
     * When you ask a question, **the system "retrieves" the most relevant text segments from this database**.  It does this with something called 'cosine similarity', a mathematical measure of similarity between vectors. Depending on the number of matching source texts you have requested (in our system this is from 1 to 10), we now have a set of 'contexts' that align with the ideas mentioned in your original query.
-<<<<<<< HEAD
-    * Now prepared with the question and relevant segments, **the system now "generates" an answer** based on those segments alone.  The prompt we use instructs the LLM to use only the information in the segments to answer the question, and not to 'hallucinate' information that is not present in the source texts.  The answer is generated with OpenAI's 'gpt-6-luna' model.  We could use a larger model, but this one is faster and less expensive, and seems to do a good job when provided with relevant context.
-    * By combining retrieval with generation, RAG systems can provide more accurate, contextually relevant, and trustworthy answers to user queries.          
-=======
     * Now prepared with the question and relevant segments, **the system now "generates" an answer** based on those segments alone.  The prompt we use instructs the LLM to use only the information in the segments to answer the question, and not to 'hallucinate' information that is not present in the source texts.
     * By combining retrieval with generation, RAG systems can provide more accurate, contextually relevant, and trustworthy answers to user queries.
 
     ### About Our LLM Models
 
-    You can select between two OpenAI models for generating responses:
+    You can select among three OpenAI models (in the sidebar) for generating responses:
 
-    * **GPT-4o-mini**: A smaller, faster model that is more economical to run. It handles straightforward queries well and provides quick responses. Best for simple factual questions or when speed is important.
+    * **GPT 6 Luna** (default): the newest model, and fast.
 
-    * **GPT-4o**: A larger, more capable model with better reasoning abilities. It excels at synthesizing information across multiple sources, drawing nuanced comparisons between authors, and handling complex analytical questions. Responses may take slightly longer but offer higher quality analysis.
+    * **GPT 6.1 Terra**: faster and cheaper to run; good for simple factual questions or when speed matters.
 
-    Both models are instructed to cite all retrieved sources and ground their answers in the provided text passages.
->>>>>>> dev
+    * **GPT 6.1 Sol**: higher quality; best for synthesizing across multiple sources, comparing authors, and complex analytical questions. Responses may take a little longer.
+
+    All models are instructed to cite all retrieved sources and ground their answers in the provided text passages.
 """)
     
 
@@ -878,10 +875,6 @@ if st.session_state.show_title_filter:
     st.subheader("📖 Filter by Title")
     st.write(f"**{len(st.session_state.selected_titles)}/{len(available_titles)} titles selected** from chosen authors")
 
-<<<<<<< HEAD
-# Initialize LLM
-llm = ChatOpenAI(model="gpt-6-luna", temperature=0)
-=======
     col1, col2, col3 = st.columns([1, 1, 2])
     with col1:
         if st.button("Select All Titles", key="select_all_titles"):
@@ -893,7 +886,6 @@ llm = ChatOpenAI(model="gpt-6-luna", temperature=0)
             st.session_state.selected_titles = []
             st.session_state["title_multiselect"] = []
             st.rerun()
->>>>>>> dev
 
     # Initialize widget state if needed
     if "title_multiselect" not in st.session_state:
